@@ -1,5 +1,5 @@
 ---
-title: Large Language Models in Trading: A Comprehensive Guide
+title: "Large Language Models in Trading: A Comprehensive Guide"
 abstract: Finance has historically been a data-intensive field, making it ripe for the application of various data analysis and machine learning technologies. Large Language Models (LLMs), with their immense capacity to understand and generate text, have been logically extended into the financial sector, moving from general-purpose models to those with a specific focus on finance and trading.
 ---
 
