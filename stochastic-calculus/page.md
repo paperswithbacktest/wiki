@@ -11,7 +11,9 @@ It serves as the backbone for numerous financial theories, such as the famous Bl
 
 The introduction of stochastic calculus to finance dates back to the early 20th century, with notable contributions from mathematicians such as Albert Einstein and Norbert Wiener. However, it was the groundbreaking work of Kiyoshi Itô in the mid-20th century that established the rigorous mathematical framework that financial engineers and quantitative analysts rely upon today. Itô's development of stochastic integrals and the Itô calculus formalized how to work with stochastic processes, laying the groundwork for modern financial modeling.
 
-$dX_t = \mu_t dt + \sigma_t dW_t$
+$$
+dX_t = \mu_t dt + \sigma_t dW_t
+$$
 
 This basic stochastic differential equation illustrates how a variable $X_t$ changes over time, with $\mu_t$ representing the drift (expected return) and $\sigma_t$ the diffusion term (volatility), modulated by the increments of a Wiener process $dW_t$, which introduces the randomness or 'noise' into the system.
 
