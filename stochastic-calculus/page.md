@@ -19,9 +19,9 @@ This basic stochastic differential equation illustrates how a variable $X_t$ cha
 
 The profound impact of stochastic calculus on financial markets is evident in the way it has revolutionized the field, providing a robust quantitative language to describe market phenomena and enabling the pricing and hedging of complex financial instruments with precision.
 
-## Table of Contents
+# Table of Contents
 
-## Fundamentals of Stochastic Processes
+# Fundamentals of Stochastic Processes
 
 Stochastic processes are the cornerstone of financial modeling, particularly when it comes to the assessment and management of financial risks. These mathematical objects are used to represent the seemingly random evolution of values over time. For example, the price of a stock, the interest rates over time, or the risk factors affecting financial markets are often modeled as stochastic processes.
 
@@ -38,7 +38,7 @@ The concept of nowhere differentiability is significant in finance as it mirrors
 
 For an authoritative guide to these concepts, the book "Brownian Motion and Stochastic Calculus" by Ioannis Karatzas and Steven E. Shreve delves deeply into the theory and application of Brownian motion and stochastic processes in financial mathematics. This work is considered one of the most comprehensive resources for understanding the mathematical underpinnings of financial models based on stochastic processes[1].
 
-## Stochastic Differential Equations (SDEs)
+# Stochastic Differential Equations (SDEs)
 
 Stochastic Differential Equations (SDEs) are a type of mathematical equation used to model systems that exhibit random behavior. They are particularly well-suited for financial markets, where asset prices are influenced by a variety of unpredictable factors, making them fundamental to financial modeling.
 
@@ -67,7 +67,7 @@ Understanding the distinction between SDEs and ordinary differential equations i
 
 For those seeking a rigorous introduction to the subject, the book "Stochastic Differential Equations: An Introduction with Applications" by Bernt Øksendal provides a comprehensive coverage of SDEs, including their theory, solutions, and applications in various fields, particularly finance. Øksendal's work is widely regarded as an essential resource for anyone looking to deep dive into the mathematical theory behind financial models[2].
 
-## Application in Financial Models
+# Application in Financial Models
 
 The application of stochastic calculus in financial models is most prominently exemplified by the **Black-Scholes model**, which revolutionized the field of financial economics by providing a systematic method for pricing European options. The Black-Scholes model employs the concept of geometric Brownian motion to represent the stochastic behavior of asset prices over time.
 
@@ -107,7 +107,7 @@ The Black-Scholes model's application to financial markets illustrates the predi
 
 For further reading, the original paper by Fischer Black and Myron Scholes titled "The Pricing of Options and Corporate Liabilities," published in the Journal of Political Economy in 1973, details the theoretical underpinnings and derivations of their model. This seminal work lays the foundation for understanding the complex interactions between stochastic calculus and financial theory[3].
 
-## Ito's Lemma and Its Importance
+# Ito's Lemma and Its Importance
 
 Ito's Lemma is the cornerstone of stochastic calculus in finance, serving as the stochastic equivalent of the chain rule from classical calculus. It plays a critical role in financial modeling by allowing the differentiation of functions of stochastic processes. This lemma is essential in the derivation of the Black-Scholes equation, which is used for option pricing.
 
@@ -133,7 +133,7 @@ Ito's Lemma has thus enabled the development of a variety of financial models th
 
 For an authoritative text on the subject, see "Stochastic Calculus for Finance II: Continuous-Time Models" by Steven E. Shreve, which provides an extensive exploration of Ito's Lemma and its applications in financial mathematics[4].
 
-## The Binomial Model and Black-Scholes
+# The Binomial Model and Black-Scholes
 
 The Binomial Model and the Black-Scholes Model are two fundamental approaches in financial modeling used for option pricing. The Binomial Model is a discrete-time model for stock prices, where at each step, the stock price can move up or down by a certain factor. Conversely, the Black-Scholes Model is a continuous-time model that describes stock price movements using stochastic calculus, specifically geometric Brownian motion.
 
@@ -177,7 +177,7 @@ The main advantage of using stochastic calculus and the Black-Scholes Model over
 
 For a deeper comparison of these models, the book "Options, Futures, and Other Derivatives" by John C. Hull offers an extensive discussion on the application, advantages, and limitations of both the Binomial Model and the Black-Scholes Model in various financial contexts. Hull's text is widely regarded as an essential resource for understanding the complexities and practical applications of financial models, bridging the gap between theory and practice[5].
 
-## Solving Stochastic Differential Equations
+# Solving Stochastic Differential Equations
 
 Solving Stochastic Differential Equations (SDEs) is a central task in financial modeling, particularly when predicting the future prices of securities. An SDE is a differential equation in which one or more of the terms is a stochastic process, resulting in a solution that is itself a stochastic process.
 
@@ -213,7 +213,7 @@ Numerical methods are essential tools in the stochastic calculus toolkit for fin
 
 For an in-depth discussion on numerical methods for solving SDEs, the book "Numerical Solution of Stochastic Differential Equations" by Peter E. Kloeden and Eckhard Platen provides comprehensive coverage of the subject. This text is highly regarded in the field of quantitative finance for its rigorous approach to the numerical aspects of stochastic calculus[6].
 
-## Numerical Methods in Stochastic Calculus
+# Numerical Methods in Stochastic Calculus
 
 Numerical methods play an indispensable role in stochastic calculus, particularly when dealing with stochastic partial differential equations (SPDEs) that arise in financial engineering. These equations often do not have explicit solutions, and numerical methods become essential for finding approximate solutions.
 
@@ -238,7 +238,7 @@ These methods are essential for valuing complex financial instruments such as Am
 
 Case studies in the use of numerical methods often focus on the valuation of complex derivatives and risk management. For example, in the valuation of mortgage-backed securities, where prepayment risk and interest rate changes need to be modeled, SPDEs are used, and numerical solutions are obtained through simulation and optimization techniques.
 
-## Advanced Concepts in Stochastic Calculus
+# Advanced Concepts in Stochastic Calculus
 
 Advanced concepts in stochastic calculus are at the forefront of financial modeling, providing sophisticated tools for understanding the complex dynamics of financial markets. Among these, rough volatility models have gained attention for their ability to capture the erratic behavior of market volatility more accurately than classical models. These models consider the paths of financial instruments as being not only stochastic but also rough or jagged at any scale, challenging traditional geometrical Brownian assumptions. The mathematical expression for such a rough path, $P$, over time $t$ can be described as:
 
@@ -258,7 +258,7 @@ Fractional operators extend the idea of integration and differentiation to non-i
 
 These advanced concepts are not just theoretical constructs but have practical implications in market pricing and risk assessment. For example, in energy market pricing, stochastic models incorporating rough volatility can be used to simulate prices for commodities like oil and natural gas, which exhibit very erratic movements.
 
-## Stochastic Calculus in Asset Pricing
+# Stochastic Calculus in Asset Pricing
 
 Stochastic calculus plays a pivotal role in asset and energy market pricing by providing a mathematical framework to model the randomness inherent in these markets. It allows for the valuation of complex financial products such as derivatives, where the payoff depends on the future price path of the underlying asset. The cornerstone of this application is the use of stochastic differential equations (SDEs) to model the evolution of asset prices.
 
@@ -284,7 +284,7 @@ The book "Stochastic Calculus for Finance II: Continuous-Time Models" by Steven 
 
 In summary, the use of stochastic calculus in asset pricing enables practitioners to model the random behavior of market prices, facilitating the creation of sophisticated tools for valuation, hedging, and risk management.
 
-## Risk Management with Stochastic Calculus
+# Risk Management with Stochastic Calculus
 
 Risk management stands as a cornerstone of modern finance, and stochastic calculus provides an essential toolkit for understanding and mitigating market risks. Its application allows for the sophisticated modeling of market uncertainties and the precise valuation of complex financial instruments, particularly derivatives.
 
@@ -304,7 +304,7 @@ where $r_t$ is the instantaneous interest rate, $\kappa$ is the rate of mean rev
 
 Stochastic calculus has become an indispensable part of risk management, allowing practitioners to create models that understand and plan for the randomness of markets. The advanced mathematical framework it provides has become a standard in the industry for managing financial risks in a robust and systematic way.
 
-## Practical Implementation and Coding
+# Practical Implementation and Coding
 
 The practical implementation of stochastic calculus in financial modeling is a skill that merges mathematical theory with computational power. Python, a programming language favored for its simplicity and robust library ecosystem, stands as a key tool for coding stochastic calculus models.
 
@@ -334,7 +334,7 @@ For those looking to deep dive deeper into coding stochastic calculus models, re
 
 The development of stochastic calculus models in Python is a process of constant learning and refinement. It requires not only a strong foundation in the theoretical aspects of stochastic calculus but also a practical understanding of Python’s numerical libraries and coding best practices. As the field of quantitative finance evolves, the synergy between stochastic calculus and programming will undoubtedly continue to foster innovative solutions for complex financial challenges.
 
-## Future of Stochastic Calculus in Finance
+# Future of Stochastic Calculus in Finance
 
 Stochastic calculus, a critical area within financial mathematics, is continuously evolving. Its future is being shaped significantly by the advent of machine learning and artificial intelligence (AI), which are expected to extend its capabilities in predictive modeling and risk assessment.
 
@@ -350,7 +350,7 @@ For those looking to deep dive into the academic foundations of these advancemen
 
 As quantitative finance enters a new era marked by these advancements, the mastery of stochastic calculus, combined with computational skills and an understanding of machine learning, will be indispensable for financial professionals striving to remain at the forefront of the industry.
 
-## Conclusion
+# Conclusion
 
 Stochastic calculus remains an indispensable tool in financial theory and practice, offering the mathematical framework necessary for modeling the randomness inherent in financial markets. Its application spans a wide spectrum, from the valuation of complex derivatives to risk management and quantitative trading strategies. The field, rooted in the pioneering work of Wiener, Itō, and Black-Scholes, has grown to be a fundamental part of the financial analyst's toolkit.
 
@@ -371,7 +371,7 @@ In the spirit of continuous learning and development, this article invites reade
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-## References & Further Reading
+# References & Further Reading
 
 [1]: ["Brownian Motion and Stochastic Calculus"](https://link.springer.com/book/10.1007/978-1-4612-0949-2) by Ioannis Karatzas and Steven E. Shreve
 
