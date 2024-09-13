@@ -19,7 +19,7 @@ This basic stochastic differential equation illustrates how a variable $X_t$ cha
 
 The profound impact of stochastic calculus on financial markets is evident in the way it has revolutionized the field, providing a robust quantitative language to describe market phenomena and enabling the pricing and hedging of complex financial instruments with precision.
 
-## Contents
+## Table of Contents
 
 ## Fundamentals of Stochastic Processes
 
