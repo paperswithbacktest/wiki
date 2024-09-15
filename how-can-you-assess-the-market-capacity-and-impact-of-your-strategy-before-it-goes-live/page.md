@@ -1,16 +1,6 @@
 ---
 title: "How can you assess the market capacity and impact of your strategy before it goes live?"
-description: Assess the market readiness of your trading strategy by evaluating its market capacity and potential impact on asset prices. This crucial step helps avoid issues such as reduced returns due to excessive capacity or negative market influence. Here's how:
-
-1. Simulate strategy using historical data: Understand performance under various market conditions and analyze trading volumes in relation to total market volumes.
-2. Analyze order book depth: A shallow order book may lead to significant price impact if large volumes are traded.
-3. Use market impact models: Estimate potential impact on prices through models like Kyle's or permanent volume models.
-4. Slippage tests: Determine the possible price difference between expected and actual execution prices for large orders.
-5. Study liquidity trends: Assess historical liquidity patterns of targeted assets, as these may influence market impact during specific periods.
-6. Consult experts: Seek guidance from specialized consultants or entities with expertise in market impact assessment.
-7. Limit order size: Start small to evaluate actual market impact before potentially increasing order sizes.
-
-By combining rigorous quantitative analysis and operational prudence, ensure your strategy's sustainability and effectiveness when trading live. For more resources, visit our website to help you become a quant trader and achieve financial independence. (Read more: [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options))
+description: "Ensure your trading strategy is market-ready by assessing its capacity and potential market impact. Learn how to simulate your strategy, estimate order book depth, apply market impact models, and perform slippage tests to predict real-world performance. Explore liquidity trends, limit order size, and consider expert consultations to fine-tune your strategy before going live. These essential steps help mitigate risks and ensure sustainability in live trading."
 ---
 
 
