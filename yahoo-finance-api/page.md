@@ -9,11 +9,11 @@ Yahoo Finance, recognized as one of the world's leading business news platforms,
 
 The Yahoo Finance API serves as a bridge between your applications and Yahoo Finance data. However, like any tool or resource, its optimal utilization requires a proper understanding and skill. This guide aims to shed light on the diverse functionalities of the Yahoo Finance API, from basic access methods to intricate data retrieval techniques. We'll also explore its unique advantages, potential shortcomings. Additionally, for those seeking alternatives, we'll deep dive into other financial API platforms that can serve as worthy substitutes.
 
-# Deep Dive: Yahoo Finance API
+## Deep Dive: Yahoo Finance API
 
 The Yahoo Finance API, once officially supported by Yahoo and now available through various third-party wrappers and tools, has long been the go-to solution for developers seeking financial data. It provides users with a wide range of financial data, from stock quotes to historical data, and has played a crucial role in finance-related software development over the years.
 
-## Understanding Yahoo Finance API
+### Understanding Yahoo Finance API
 
 At its core, the Yahoo Finance API provides an interface for retrieving financial data. This data encompasses various domains:
 
@@ -25,7 +25,7 @@ At its core, the Yahoo Finance API provides an interface for retrieving financia
 
 This vast spectrum of data makes the Yahoo Finance API an invaluable tool for traders, investors, researchers, and developers.
 
-## Reasons to Adopt Yahoo Finance API
+### Reasons to Adopt Yahoo Finance API
 
 Given the abundance of financial data APIs available, what makes the Yahoo Finance API stand out?
 
@@ -34,7 +34,7 @@ Given the abundance of financial data APIs available, what makes the Yahoo Finan
 3. **Historical Data Availability**: Users can access extensive historical data, vital for backtesting trading strategies and conducting financial research.
 4. **Integration with Third-party Tools**: Various Python libraries, such as `yfinance` and `yahoo_fin`, provide seamless access to the Yahoo Finance API, simplifying data retrieval for developers.
 
-## Potential Drawbacks of Yahoo Finance API
+### Potential Drawbacks of Yahoo Finance API
 
 While the Yahoo Finance API is undeniably powerful, it's essential to understand its limitations:
 
@@ -43,29 +43,29 @@ While the Yahoo Finance API is undeniably powerful, it's essential to understand
 3. **Data Accuracy Concerns**: Some users have reported discrepancies in data, especially when comparing the API's data with other sources.
 4. **Limited Advanced Financial Metrics**: Some specialized metrics available in premium financial databases might not be present in Yahoo's data.
 
-# Financial Accessibility and Costs
+## Financial Accessibility and Costs
 
 One of the first questions that come to mind when considering any API is its affordability and cost structure. It's crucial to understand these aspects to ensure that the solution is sustainable for your requirements.
 
-## Pricing Structure
+### Pricing Structure
 
 Originally, Yahoo Finance offered its API as a free service, which contributed to its immense popularity among developers and researchers. However, **Yahoo discontinued this free public API** in 2017. Since then, many third-party wrappers and alternatives have sprung up, enabling access to Yahoo's financial data.
 
 If you are looking for official, direct, and reliable access to Yahoo Finance data, Yahoo offers the **Yahoo Finance Premium** service[2]. While this service primarily targets individual investors, it comes with a cost. This premium subscription provides advanced analytics, exclusive insights, and other features that go beyond the basic free offerings on their website.
 
-## Usability with Programming Languages
+### Usability with Programming Languages
 
 Given the popularity of **Python** in the fields of data analysis, finance, and machine learning, it's no surprise that there are several dedicated Python libraries for accessing Yahoo Finance data. Libraries like `yfinance` and `yahoo_fin` are tailored for Python and offer seamless integration, allowing for easy retrieval and manipulation of financial data.
 
 Other languages like **JavaScript**, **Java**, **R**, and **C#** also have libraries or methods to access Yahoo Finance data, albeit with varying degrees of ease and functionality. For instance, in the R community, the `quantmod` package allows users to fetch data from Yahoo Finance among other sources. Similarly, there are npm packages for JavaScript and libraries for Java that facilitate this data access.
 
-# Practical Tutorials: Engaging with Yahoo Finance API
+## Practical Tutorials: Engaging with Yahoo Finance API
 
-## Access Platforms and Methods
+### Access Platforms and Methods
 
 Engaging with the Yahoo Finance API is simplified thanks to a variety of platforms and methods available to developers. Here, we'll explore three of the most popular approaches: RapidAPI, yfinance, and Yahoo_fin.
 
-### RapidAPI
+#### RapidAPI
 
 [RapidAPI](https://rapidapi.com/) is a robust API marketplace that connects developers with thousands of APIs. Yahoo Finance is among the APIs available on this platform.
 
@@ -83,7 +83,7 @@ Engaging with the Yahoo Finance API is simplified thanks to a variety of platfor
 4. Utilize the built-in test endpoints to initiate sample calls.
 5. Incorporate the provided code snippets into your application to fetch data as needed.
 
-### yfinance
+#### yfinance
 
 `yfinance` is a Python library that emerged as a response to the discontinuation of Yahoo's public API[3].
 
@@ -101,7 +101,7 @@ Engaging with the Yahoo Finance API is simplified thanks to a variety of platfor
 4. Retrieve historical data using: `data.history(period="5d")`.
 5. For real-time data, utilize: `data.info`.
 
-### Yahoo_fin
+#### Yahoo_fin
 
 `Yahoo_fin` is another Python-centric module that provides methods to scrape Yahoo Finance data[4].
 
@@ -120,9 +120,9 @@ Engaging with the Yahoo Finance API is simplified thanks to a variety of platfor
 
 By leveraging these platforms and methods, developers can efficiently and effectively harness the vast financial data offered by Yahoo Finance. As always, it's prudent to consult the official documentation or forums for these tools for more detailed information and troubleshooting advice.
 
-## Hands-On with yfinance
+### Hands-On with yfinance
 
-### Installation Process
+#### Installation Process
 
 **yfinance**, originally known as **fix-yahoo-finance**, was developed as a response to Yahoo Finance's decision to decommission their historical data API in 2017. It provides a simple and reliable way to access Yahoo Finance's data using Python.
 
@@ -143,7 +143,7 @@ yf.pdr_override()
 
 With this, you are ready to start fetching data using the `yfinance` library.
 
-### Understanding the Library Layout
+#### Understanding the Library Layout
 
 Once **yfinance** is installed, understanding its layout and basic commands is crucial for efficient data extraction.
 
@@ -197,9 +197,9 @@ These are just a few commands and structures within the **yfinance** library. As
 
 While **yfinance** is a powerful tool, always ensure you're adhering to Yahoo's terms of service when fetching data. And remember, while the data is comprehensive, always verify critical financial data from multiple sources when making informed decisions.
 
-## Fetching Financial Data
+### Fetching Financial Data
 
-### Historical Data Retrieval
+#### Historical Data Retrieval
 
 Fetching historical data is one of the primary uses of the **yfinance** library. This capability allows users to analyze trends, backtest strategies, and understand a stock's performance over time.
 
@@ -235,7 +235,7 @@ In this example, we retrieve data for Apple, Microsoft, and Alphabet (Google) fo
 
 One key advantage of using **yfinance** is its efficient handling of multiple tickers, ensuring rapid and consolidated data retrieval. However, be mindful of the number of requests and the time period specified to avoid hitting any rate limits imposed by Yahoo Finance.
 
-### Fundamental Metrics Download
+#### Fundamental Metrics Download
 
 Fundamental metrics provide a lens through which investors can gauge a company's financial health and performance. While numerous metrics exist, some, like the Price to Earnings (P/E) ratio and dividends, stand out due to their wide acceptance as indicators of value and growth potential. **yfinance** offers a straightforward way to fetch these metrics.
 
@@ -290,7 +290,7 @@ The above code fetches forward P/E ratios for Apple, Microsoft, and Alphabet, pr
 
 Using **yfinance**, investors can quickly access and compare key fundamental metrics, streamlining the process of stock evaluation and analysis. As always, while these metrics are vital, they should be part of a broader analytical toolkit, and investors are advised to incorporate diverse data sources and methodologies in their assessments.
 
-### Trading Data Acquisition
+#### Trading Data Acquisition
 
 In the bustling world of stock markets, certain trading data points, like market capitalization, trading volume, and daily price fluctuations, are invaluable. They allow investors to gauge the size, liquidity, and volatility of a particular security. Let's explore how to fetch these metrics using the **yfinance** library.
 
@@ -342,7 +342,7 @@ print(f"Apple's daily low: ${daily_low:,.2f}")
 
 Harnessing the **yfinance** library, you can quickly gather pivotal trading data, aiding in robust investment decisions. As these metrics are pivotal, they're commonly integrated into stock screening tools, algorithmic trading strategies, and research reports to ensure a comprehensive understanding of market dynamics.
 
-### Statement Data Extraction
+#### Statement Data Extraction
 
 Financial statements are fundamental in gauging a company's financial health. Thanks to the **yfinance** library, you can seamlessly extract data from Income Statements, Balance Sheets, and Cashflow Statements.
 
@@ -394,7 +394,7 @@ Here, you'll glean insights into operating cash flow, capital expenditures, free
 
 With **yfinance**, extracting these financial statements becomes a breeze. Coupled with an in-depth analysis, they empower investors to make informed decisions, allowing for a profound understanding of a company's financial standing.
 
-### Options Data Analysis
+#### Options Data Analysis
 
 Options trading can offer diversified investment strategies, from hedging to leveraging. Properly analyzing options data is pivotal for a successful venture, and the **yfinance** library eases this process for traders.
 
@@ -431,9 +431,9 @@ The `opt.calls` DataFrame provides details like strike prices, last trade date, 
 
 Through **yfinance**, traders can efficiently explore options data, providing them with actionable insights and allowing them to respond swiftly to market dynamics.
 
-# Beyond Yahoo: Exploring Other Financial API Platforms
+## Beyond Yahoo: Exploring Other Financial API Platforms
 
-## Alpha Vantage
+### Alpha Vantage
 
 [Alpha Vantage](https://www.alphavantage.co/) stands out as one of the premier alternatives to Yahoo's Finance API, especially for developers and financial market enthusiasts who demand a wide array of data types, from stock time series to forex data and even cryptocurrency analytics.
 
@@ -460,7 +460,7 @@ Through **yfinance**, traders can efficiently explore options data, providing th
 
 In conclusion, while both Yahoo Finance and Alpha Vantage offer robust platforms for financial data, the choice between them boils down to specific needs. For those wanting a wider range of data types, especially cryptocurrency and forex, alongside stock market data, Alpha Vantage presents an enticing proposition.
 
-## Polygon
+### Polygon
 
 [Polygon](https://polygon.io/) is a multifaceted platform offering real-time and historic market data from various exchanges. Built primarily for developers and traders, it stands as a robust alternative to traditional market data feeds and is often compared with Yahoo Finance API for its data quality and breadth of coverage.
 
@@ -480,7 +480,7 @@ Polygon operates on the mantra of providing "only the data you need." With acces
 
 For those moving beyond Yahoo Finance and looking for a data-rich platform that offers extensive market coverage, granular data insights, and a cost-effective solution, Polygon certainly stakes its claim as one of the top contenders.
 
-## IEX
+### IEX
 
 [IEX](https://iexcloud.io/), or the Investors Exchange, is more than just a stock exchange. It also provides an array of developer-friendly tools and data services through its IEX Cloud platform. When considering alternatives to Yahoo Finance API, IEX's offerings are noteworthy for several key reasons.
 
@@ -500,7 +500,7 @@ For those moving beyond Yahoo Finance and looking for a data-rich platform that 
 
 For those in search of a reliable, transparent, and developer-friendly financial data platform, IEX offers a compelling package that makes it a standout contender in the crowded market data space.
 
-# Yahoo's Decision: Understanding the 2017 Decommissioning
+## Yahoo's Decision: Understanding the 2017 Decommissioning
 
 In 2017, Yahoo made the significant decision to decommission its free Finance API, a service that had been widely used by financial analysts, developers, and hobbyists alike for nearly a decade. The move was met with considerable consternation, given the API's widespread adoption and the suddenness of the decision.
 
@@ -524,7 +524,7 @@ The decommissioning left a significant void in the market:
 
 In conclusion, while Yahoo's decision to decommission its Finance API was likely driven by a mix of economic, strategic, and logistical factors, it underscored the importance of adaptability and contingency planning in the rapidly-evolving digital landscape.
 
-# Best Practices & Recommendations
+## Best Practices & Recommendations
 
 Engaging with financial data APIs, like Yahoo Finance's, requires a blend of technical proficiency and financial acumen. But even experts can find themselves stumbling if they don't adhere to some fundamental best practices. Here's a distilled list of recommendations to ensure you get the most out of the Yahoo Finance API and sidestep common pitfalls:
 
@@ -545,7 +545,7 @@ Engaging with financial data APIs, like Yahoo Finance's, requires a blend of tec
 
 In the realm of financial data, precision and reliability are paramount. By following these best practices and being wary of potential pitfalls, you can make the most of the Yahoo Finance API and ensure your endeavors, whether investment or analytical, are built on a robust foundation.
 
-# Conclusion
+## Conclusion
 
 Navigating the intricate world of financial data can be daunting, but tools like the Yahoo Finance API have made it considerably more accessible. From our exploration, we discerned the significant advantages of using the Yahoo Finance API, from its unique features and benefits to its integration capabilities, particularly with Python. While it offers an array of data retrieval options—historical data, fundamental metrics, trading data, statement data, and options analysis—users should be aware of its limitations and the occasional hidden costs.
 
@@ -562,7 +562,7 @@ As with all decisions in the realm of finance and technology, be informed. Take 
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **What is the Yahoo Finance API?**
 
@@ -604,7 +604,7 @@ While Yahoo Finance is a reputable source, it's always recommended to cross-refe
 
 The Yahoo Finance API offers a broad range of financial metrics. However, availability might vary based on the stock or financial instrument in question. It's always good practice to refer to the official documentation or use the API's querying capabilities to ascertain specific metric availability.
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: [Yahoo's Official Announcement on API Decommissioning](https://yahoo.uservoice.com/forums/382977-finance/suggestions/19382118-restore-the-access-to-the-api)
 

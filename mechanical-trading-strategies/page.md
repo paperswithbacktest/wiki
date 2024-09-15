@@ -9,7 +9,7 @@ The surge in the adoption of mechanical trading strategies is primarily fueled b
 
 The significance of these strategies lies in their ability to facilitate unbiased, emotion-free trading decisions. Traditional trading can be influenced by psychological factors such as fear, greed, and bias, which can lead to irrational decisions and consequently, financial losses. Mechanical trading strategies, on the other hand, adhere strictly to predefined criteria, thereby eliminating emotional interference and ensuring consistency in decision-making. This objectivity is essential in maintaining a disciplined approach to trading, especially in volatile markets.
 
-# A Deep Dive into Mechanical vs. Discretionary Trading
+## A Deep Dive into Mechanical vs. Discretionary Trading
 
 Trading, in its essence, is the act of buying and selling securities with the aim of profiting from price fluctuations. Over the decades, as markets have evolved and technology has advanced, two primary styles of trading have emerged: mechanical and discretionary. Understanding the nuances of both can empower traders to make informed choices about their investment approaches.
 
@@ -50,7 +50,7 @@ Its disadvantages are:
 
 In summary, while mechanical trading offers the promise of emotion-free, consistent decision-making at scale, it may suffer from rigidity. Discretionary trading provides flexibility and the advantage of human intuition but is fraught with potential emotional pitfalls and inconsistency. Choosing between the two methods—or even a blend of both—depends on a trader's goals, temperament, and the resources at their disposal.
 
-# Foundations of Mechanical Trading Strategies
+## Foundations of Mechanical Trading Strategies
 
 Mechanical trading strategies provide a structured approach to the chaotic world of financial markets. By adhering to predefined rules and parameters, these strategies aim to remove human emotions from the trading equation. The foundational elements of these systems are crucial for their success and are comprised of several core components.
 
@@ -66,7 +66,7 @@ Mechanical trading strategies provide a structured approach to the chaotic world
 
 In essence, the success of mechanical trading lies in its foundational components. By focusing on a well-defined market, adhering to risk management through proper position sizing, and having clear entry, exit, stops, and targets, traders can navigate the markets with precision. Coupled with the rigorous discipline of systematized decision-making, mechanical trading offers a way to harness the markets' movements methodically and consistently.
 
-# Mechanics Behind the Strategy: Indicators & Triggers
+## Mechanics Behind the Strategy: Indicators & Triggers
 
 Mechanical trading strategies heavily rely on technical indicators to inform and validate trading decisions. These indicators can be classified into two broad categories: [trend-following](https://paperswithbacktest.com/paper/does-trend-following-work-on-stocks) and [mean reversion](https://paperswithbacktest.com/paper/pairs-trading-performance-of-a-relative-value-arbitrage-rule#top).
 
@@ -90,7 +90,7 @@ Beyond these indicators, various market metrics play pivotal roles in the mechan
 
 [Understanding these indicators and metrics is crucial for the development and refinement of mechanical trading strategies.](https://paperswithbacktest.com/paper/the-volatility-effect-lower-risk-without-lower-return) Their proper application can offer traders a data-driven edge, facilitating informed and strategic decision-making in various market conditions.
 
-# System Development: From Conception to Execution
+## System Development: From Conception to Execution
 
 Developing a mechanical trading system is a rigorous and iterative process that ensures strategies not only perform well with [historical data](https://blog.paperswithbacktest.com/p/mastering-data-preparation-the-key) but also hold promise for future trading. Here's a detailed overview:
 
@@ -112,7 +112,7 @@ Lastly, system developers must be vigilant about several pitfalls:
 
 Developing a robust mechanical trading system is as much an art as it is science. While the process can be data-driven and analytical, intuition, experience, and a deep understanding of market dynamics play a pivotal role in crafting successful strategies.
 
-# Expanding the Horizon: Multi-market & Multi-strategy Systems
+## Expanding the Horizon: Multi-market & Multi-strategy Systems
 
 Diversification has long been heralded as a cornerstone of investment strategy, as championed by Nobel laureate Harry Markowitz's Modern Portfolio Theory[6]. In the realm of mechanical trading, diversification's power isn't just about asset classes; it extends to trading across multiple markets and leveraging varied strategies.
 
@@ -129,7 +129,7 @@ However, with this broadened horizon comes the need for judicious resource alloc
 
 Diversifying across markets and strategies can be likened to not putting all eggs in one basket. While it offers the promise of steadier returns and risk mitigation, it demands meticulous planning, resource management, and continual vigilance.
 
-# Risk Management in Mechanical Trading
+## Risk Management in Mechanical Trading
 
 Risk is an inherent part of trading, and its management is the bedrock on which successful mechanical trading strategies are built. Risk in the trading world can be broadly classified into two categories: volatility and drawdown.
 
@@ -146,7 +146,7 @@ Given this dual nature of risk, traders employ a suite of techniques to manage a
 
 Risk management isn't about avoiding losses but about making informed decisions with a clear understanding of the potential downsides. It's a delicate balance between protecting capital and capturing opportunities, making it a central component of successful mechanical trading.
 
-# The Psychological Landscape: Embracing the Mechanical Mindset
+## The Psychological Landscape: Embracing the Mechanical Mindset
 
 Trading, even when grounded in algorithms and data, is not immune to the whims of human emotion. At its core, the journey from ideation to execution in mechanical trading is fraught with psychological challenges. Here's a look at some of these challenges and the mindset required to navigate them effectively.
 
@@ -158,7 +158,7 @@ Trading, even when grounded in algorithms and data, is not immune to the whims o
 
 The psychological challenges of trading are manifold, but with the right mindset, they can be navigated. By understanding and respecting the intertwining of emotion and strategy, traders can harness the full potential of mechanical trading systems.
 
-# Integration of Discretion within Mechanical Systems
+## Integration of Discretion within Mechanical Systems
 
 While mechanical trading systems thrive on quantifiable data and algorithms, one cannot dismiss the value human intuition and experience bring to the trading arena. Here lies the intersection of mechanical and discretionary trading.
 
@@ -170,7 +170,7 @@ Introducing discretionary elements, however, is a delicate process. To maintain 
 
 Blending mechanical precision with human intuition can yield a more adaptive and resilient trading system, harnessing the strengths of both worlds.
 
-# The Evolution of Mechanical Trading: Current Trends & Future Outlook
+## The Evolution of Mechanical Trading: Current Trends & Future Outlook
 
 Mechanical trading, once a straightforward algorithmic interpretation of market data, has evolved leaps and bounds with the integration of Artificial Intelligence (AI) and Machine Learning (ML). AI & ML have transformed the landscape, enabling systems to learn from data, recognize patterns, and even adapt to changing market conditions without human intervention.
 
@@ -184,7 +184,7 @@ Looking ahead, the convergence of quantum computing and trading is on the horizo
 
 In sum, while the fusion of AI & ML with mechanical trading offers unprecedented opportunities, it's imperative for traders and institutions to be aware of the associated challenges. By addressing these challenges head-on and continuously adapting, the future of mechanical trading appears both promising and exciting.
 
-# Tools, Platforms & Software for Mechanical Trading
+## Tools, Platforms & Software for Mechanical Trading
 
 Mechanical trading requires sophisticated platforms and software tools to design, backtest, and execute strategies. The choice of the right tool can significantly influence the success of a trading strategy. Here's an overview of popular platforms that cater to different needs within the realm of mechanical trading.
 
@@ -204,7 +204,7 @@ In choosing the right platform, traders should consider:
 
 Ultimately, the best platform aligns with a trader's needs, budget, and proficiency level. Exploring and experimenting with different tools can pave the way for more informed choices.
 
-# Real-world Case Studies: Triumphs & Tribulations
+## Real-world Case Studies: Triumphs & Tribulations
 
 In the world of mechanical trading, there are notable figures and instances that exemplify both the potential rewards and risks involved. Exploring these cases can provide invaluable insights for those looking to venture into this domain.
 
@@ -234,7 +234,7 @@ In 2012, Knight Capital, a leading market-making firm, faced a significant debac
 
 For budding traders, these real-world cases highlight the importance of discipline, continuous learning, risk management, and the need for thorough validation of trading systems. Emulating the successes and learning from the pitfalls can pave the path for a successful journey in mechanical trading.
 
-# Conclusion
+## Conclusion
 
 The transformation from traditional to mechanical trading mirrors the broader evolution of many sectors towards a more data-driven approach. As markets have grown in complexity, the allure of mechanical trading, with its promise of objective, emotion-free decision-making, has become increasingly prominent. This shift doesn't negate the value of human intuition or the richness of traditional trading techniques. Instead, it supplements them, offering tools that can navigate the multifaceted terrains of modern financial markets with precision.
 
@@ -251,7 +251,7 @@ For those embarking on or continuing this journey, the ever-evolving landscape o
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: Murphy, J.J. (1999). "[Technical Analysis of the Financial Markets](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661)". New York Institute of Finance.
 

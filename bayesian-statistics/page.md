@@ -9,7 +9,7 @@ Bayesian Statistics is a branch of statistics based on the Bayesian probability 
 
 ![Untitled](images/Untitled.png)
 
-# Brief Overview of Bayesian Statistics
+## Brief Overview of Bayesian Statistics
 
 Bayesian statistics is founded on the principle that probability represents a degree of belief or certainty in an event or hypothesis. This belief can be updated with new data. The core idea is simple: start with an initial belief (called the "prior"), gather new data (observed evidence), and then update the belief to form a new and improved belief (called the "posterior").
 
@@ -26,7 +26,7 @@ Where:
 - $P(A)$ is the prior probability (initial belief before observing evidence).
 - $P(B)$ is the evidence (probability of observing the evidence).
 
-# Historical Context and Importance in Modern Statistics
+## Historical Context and Importance in Modern Statistics
 
 The origins of Bayesian statistics trace back to Reverend Thomas Bayes, who postulated Bayes' theorem in the 18th century. However, the Bayesian approach didn't gain significant traction until the 20th century, primarily due to computational limitations. With the advent of powerful computers and algorithms in the latter part of the 20th century, the practical applications of Bayesian methods exploded.
 
@@ -45,9 +45,9 @@ In summary, while the frequentist approach has been historically dominant, the B
 
 ![A visual representation comparing the Bayesian and Frequentist statistical approaches. On the left, an image depicting the Bayesian approach with equa.png](images/A_visual_representation_comparing_the_Bayesian_and_Frequentist_statistical_approaches._On_the_left_an_image_depicting_the_Bayesian_approach_with_equa.png)
 
-# Understanding Bayes' Theorem
+## Understanding Bayes' Theorem
 
-## Explanation of Bayes' Rule
+### Explanation of Bayes' Rule
 
 **Conditional Probabilities**
 
@@ -86,7 +86,7 @@ In essence, Bayes' rule can be thought of as a way to refine or adjust probabili
 
 For those who want to dive deeper into the mathematical underpinnings and applications, there are numerous resources available. Among the recommended readings is "Bayesian Data Analysis" by Andrew Gelman et al. [1], which offers a comprehensive overview of the topic.
 
-## Real-World Examples
+### Real-World Examples
 
 **Diagnostic Testing**
 
@@ -124,7 +124,7 @@ Bayesian reasoning can be applied to numerous daily decisions. From interpreting
 
 In essence, these examples showcase the pervasive nature of Bayesian reasoning, from specialized fields like medicine to mundane daily decisions. It offers a powerful framework for decision-making, especially in situations fraught with uncertainty[3].
 
-## Bayesian vs. Frequentist Interpretations
+### Bayesian vs. Frequentist Interpretations
 
 The Bayesian and Frequentist schools are two of the primary paradigms in statistics, each with its unique philosophy, interpretation of probability, and methods of inference.
 
@@ -158,9 +158,9 @@ Bayesians provide a full posterior distribution for the parameter in question. I
 
 Both Bayesian and Frequentist approaches have strengths and limitations. The choice between them often depends on the problem at hand, the availability of prior information, and the goals of the analysis. While the Bayesian approach offers flexibility and the ability to incorporate external information, the Frequentist methodology provides objective methods that rely solely on the data at hand[5].
 
-# Bayesian Methods and Inference
+## Bayesian Methods and Inference
 
-## Introduction to Bayesian Inference
+### Introduction to Bayesian Inference
 
 Bayesian inference revolves around the process of updating probabilities as new data becomes available. This is fundamentally anchored in Bayes' theorem, which enables the fusion of prior knowledge with current evidence to produce a refined, or posterior, understanding.
 
@@ -191,7 +191,7 @@ It's noteworthy to mention the alternative Frequentist approach to inference, wh
 
 In conclusion, Bayesian inference offers a systematic method for updating beliefs in light of new data. Its versatility allows for the incorporation of prior knowledge, but it can also operate effectively when such prior knowledge is sparse or non-existent.
 
-## Bayesian Modeling
+### Bayesian Modeling
 
 Bayesian modeling is a powerful tool that embraces uncertainty, allowing researchers to integrate prior knowledge with observed data to make statistically sound inferences about underlying processes or phenomena.
 
@@ -222,7 +222,7 @@ Python libraries such as `PyMC3` and `ArviZ` offer functionalities that assist i
 
 In summary, Bayesian modeling is not just about setting up a model and obtaining parameter estimates. The model's compatibility with the data, its sensitivity to prior assumptions, and the convergence of computational methods are all vital components of a holistic Bayesian analysis.
 
-## Inference Over Possibilities
+### Inference Over Possibilities
 
 Bayesian statistics is fundamentally about updating beliefs in light of new data. When making these updates, statisticians must decide how to model the underlying phenomena. The choice often lies between parametric and non-parametric approaches.
 
@@ -254,7 +254,7 @@ In both cases, as more data is observed, the Bayesian approach allows for consis
 
 In essence, Bayesian inference over possibilities is about selecting the right model complexity given the data at hand and the questions of interest, ensuring that the conclusions drawn are both robust and flexible.
 
-## Formal Description and Definitions
+### Formal Description and Definitions
 
 In Bayesian statistics, prediction is a key application, allowing practitioners to forecast future outcomes based on historical data and established models. This prediction is rooted in the posterior predictive distribution, which captures our updated beliefs about future observations given both prior knowledge and observed data.
 
@@ -276,7 +276,7 @@ Here, $p(x_{new} | \theta)$ is the likelihood of the new observation given the p
 
 Overall, Bayesian statistics provides a powerful framework for modeling, prediction, and inference. Its formal definitions and mathematical properties ensure robustness, while its philosophical underpinnings prioritize flexibility and adaptability in the face of uncertainty.
 
-## Estimation of Parameters
+### Estimation of Parameters
 
 One of the fundamental goals in Bayesian statistics is estimating model parameters, which boils down to updating prior beliefs based on observed data. This process is characterized by three main components: the prior, likelihood, and posterior.
 
@@ -304,9 +304,9 @@ Conjugate priors provide an elegant computational avenue, especially in cases wi
 
 In conclusion, parameter estimation is a cornerstone in Bayesian statistics. It provides a systematic framework to combine prior knowledge with observed data to refine our beliefs about model parameters.
 
-# Computational Techniques in Bayesian Statistics
+## Computational Techniques in Bayesian Statistics
 
-## Monte Carlo Methods
+### Monte Carlo Methods
 
 Monte Carlo methods are a class of computational algorithms that rely on random sampling to approximate numerical solutions. Named after the Monte Carlo Casino in Monaco due to the inherent randomness and chance associated with these methods, they have become indispensable tools in a wide range of scientific and engineering disciplines[12].
 
@@ -347,7 +347,7 @@ In Bayesian statistics, the most notable application is in posterior estimation.
 
 Monte Carlo methods' power lies in their generality. They can be applied to almost any problem, provided we can draw random samples and compute a function's value at those samples. The trade-off is computational, as obtaining precise estimates often requires a large number of samples.
 
-## Markov Chain Monte Carlo (MCMC)
+### Markov Chain Monte Carlo (MCMC)
 
 Markov Chain Monte Carlo (MCMC) methods are a subset of Monte Carlo techniques specifically designed to sample from complex, often high-dimensional probability distributions, making them invaluable in Bayesian inference. Where direct sampling is challenging due to the intricacy of the distribution, MCMC provides a mechanism to generate a sequence (or chain) of samples where each sample depends only on the previous one, ensuring the Markov property.
 
@@ -382,7 +382,7 @@ def metropolis_hastings(p, iter=1000):
             x[i+1] = x[i]
     return x
 
-# Example usage:
+## Example usage:
 p = lambda x: np.exp(-x**2/2)  # Gaussian distribution
 samples = metropolis_hastings(p, iter=10000)
 ```
@@ -399,9 +399,9 @@ For those not inclined to implement MCMC algorithms from scratch, several softwa
 
 Harnessing these libraries can significantly reduce the barrier to applying advanced Bayesian methods in practice.
 
-# Applications of Bayesian Statistics
+## Applications of Bayesian Statistics
 
-## Statistical Data Analysis
+### Statistical Data Analysis
 
 Bayesian methods have seen a significant upsurge in the realm of data science and machine learning, offering a robust framework for modeling uncertainty, incorporating prior knowledge, and making predictions. Unlike traditional statistical methods that might offer a singular point estimate, Bayesian methods produce entire distributions, granting a more comprehensive perspective on the potential values a parameter might take and their associated probabilities.
 
@@ -441,7 +441,7 @@ Several software tools facilitate Bayesian data analysis in modern machine learn
 
 Incorporating Bayesian methods into data science and machine learning pipelines can offer richer insights, more robust predictions, and a comprehensive understanding of uncertainties, making them indispensable tools for modern data analysts.
 
-## Computer Applications
+### Computer Applications
 
 Bayesian statistics, with its foundation in probabilistic reasoning and inherent ability to model uncertainty, has left an indelible mark on Artificial Intelligence (AI) and Predictive Modeling. It seamlessly bridges the worlds of knowledge representation, learning, and inference, paving the way for more nuanced AI systems.
 
@@ -471,9 +471,9 @@ Several computational tools have been developed to cater to the increasing deman
 
 As AI systems continue to become an integral part of our daily lives, the role of Bayesian methods in modeling, inference, and prediction will undoubtedly remain pivotal, ensuring these systems are not just smart but also nuanced and calibrated.
 
-# Challenges and Open Areas
+## Challenges and Open Areas
 
-## Hypothesis Testing and Model Choice
+### Hypothesis Testing and Model Choice
 
 Hypothesis testing and model choice lie at the heart of statistical inference. Within the Bayesian framework, these tasks involve comparing the posterior probabilities of different models or hypotheses. Despite its elegance and coherent probabilistic foundation, the Bayesian approach to these tasks faces several challenges and criticisms.
 
@@ -495,7 +495,7 @@ where $P(D|M_i)$ is the marginal likelihood or evidence for model $M_i$. A BF va
 
 While the Bayesian approach to hypothesis testing and model choice provides a coherent framework for decision-making under uncertainty, it is essential to be aware of its challenges. A clear understanding of these nuances ensures that Bayesian methods are applied judiciously, maximizing their potential while avoiding pitfalls.
 
-## Robustness, Reporting, and Model Criticism
+### Robustness, Reporting, and Model Criticism
 
 Bayesian statistics, like any statistical methodology, must be scrutinized for its robustness, the clarity of its reporting, and be open to model criticism. These aspects are crucial for ensuring the reliable application of Bayesian methods in research and practice.
 
@@ -531,7 +531,7 @@ Despite the advances in Bayesian statistics, there's ongoing research aimed at a
 
 In conclusion, while Bayesian statistics offers a powerful and flexible framework for statistical inference, its strength lies in the careful consideration of robustness, transparent reporting, and rigorous model criticism.
 
-## Probabilistic Programming
+### Probabilistic Programming
 
 Probabilistic programming has revolutionized the way we approach Bayesian statistics, allowing us to specify and fit complex probabilistic models with ease. At its core, probabilistic programming is a paradigm where probabilistic models are specified using programming constructs, enabling automatic inference using advanced computational methods.
 
@@ -569,7 +569,7 @@ Several PPLs have gained popularity in recent years, including Stan, PyMC3, Edwa
 
 Probabilistic programming's relevance in Bayesian statistics cannot be understated. It bridges the gap between complex model specification and inference, democratizing access to Bayesian methods. By handling the intricate computational aspects internally, PPLs allow practitioners to focus on the modeling itself, thereby expanding the reach and application of Bayesian statistics in various fields.
 
-# Bayesian Epistemology and Philosophy
+## Bayesian Epistemology and Philosophy
 
 Bayesian epistemology is rooted in the idea that our beliefs, when exposed to new evidence, can be updated in a systematic and coherent manner, reflecting the core Bayesian principle of updating prior beliefs with new data to produce posterior beliefs. Philosophically, this paradigm draws heavily from subjectivist interpretations of probability, where probabilities are seen not as objective features of the world but as degrees of belief.
 
@@ -583,7 +583,7 @@ The impact of Bayesian epistemology extends beyond pure science and decision the
 
 Yet, it's essential to recognize that Bayesian epistemology isn't without its critics. Some argue that it's overly subjective, or that it doesn’t truly represent the way humans learn and revise their beliefs. Nonetheless, its influence in shaping modern philosophy of science and decision theory is undeniable.
 
-# Conclusion
+## Conclusion
 
 Mastering Bayesian statistics provides a robust foundation for understanding uncertainty, making informed decisions, and updating beliefs in light of new data. At its core, Bayesian statistics centers on Bayes' theorem, a rule derived from conditional probabilities, offering a formal mechanism to adjust our beliefs based on new evidence. This framework contrasts with the Frequentist approach, emphasizing the continuous evolution of knowledge as we accumulate more data.
 
@@ -598,7 +598,7 @@ Yet, beyond the mathematical and computational prowess, Bayesian statistics carr
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). [Bayesian data analysis](http://www.stat.columbia.edu/~gelman/book/). CRC press.
 

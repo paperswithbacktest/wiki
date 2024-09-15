@@ -7,11 +7,11 @@ description: Discover how multimodal models are revolutionizing algo trading by 
 
 With the rise of artificial intelligence (AI) in the financial sector, one capability is increasingly coming to the fore: multimodal models. These models, capable of processing several types of data simultaneously, are revolutionizing the world of algo trading. In this article, we'll define what a multimodal model is and explore its impact on algorithmic trading.
 
-# What is a multimodal model?
+## What is a multimodal model?
 
 A multimodal model is, by definition, capable of managing and understanding several types of data simultaneously, such as images and text. Imagine a system capable of analyzing both financial information in the form of figures and relevant news in the form of text. That's the power of multimodal.
 
-# Multimodal and algo trading
+## Multimodal and algo trading
 
 Multimodal and algo trading form a natural alliance:
 
@@ -27,13 +27,13 @@ Here are a few concrete applications of multimodal models in algo trading:
 - **Global monitoring**: Using satellite images and economic data, some models forecast agricultural production, influencing commodity markets.
 - **Portfolio management**: By combining historical asset data with macroeconomic information, it is possible to optimize asset allocation.
 
-# Challenges of multimodal implementation
+## Challenges of multimodal implementation
 
 - **Complexity**: Managing different types of data requires a solid architecture and careful optimization.
 - **Data quality**: Integrating diverse data sources requires rigorous verification of their quality and relevance.
 - **Costs**: Setting up infrastructures to process and store multiple types of data can be costly.
 
-# Conclusion
+## Conclusion
 
 The advent of multimodal models in algo trading opens the way to more sophisticated strategies and a better understanding of markets. Although their implementation presents challenges, their potential is undeniable. In a world where data diversity is the norm, multimodality could well be the key to future success in algorithmic trading.
 

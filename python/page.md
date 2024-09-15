@@ -17,7 +17,7 @@ At the heart of this revolution is Python, an open-source programming language k
 
 The combination of Python's innate strengths, along with the specialized tools developed by its vast community, makes it the prime choice for those venturing into the dynamic world of algorithmic trading.
 
-# Setting the Stage: Why Python for Trading?
+## Setting the Stage: Why Python for Trading?
 
 From the days of traders shouting buy and sell orders on the stock exchange floor to the modern age of algorithmic trading, the tools of the trade have undergone monumental transformations. In the earlier days, trading was more intuition-based, often relying on manually plotted charts and fundamental analysis. With the advent of computers in the 1980s, quantitative and algorithmic trading began to take root, leading to a demand for programming languages that could handle complex mathematical models and large datasets efficiently.
 
@@ -34,7 +34,7 @@ Real-world adoption of Python in trading is rampant. Renaissance Technologies, o
 
 In conclusion, while each language has its merits and specific use cases, Python's versatility, coupled with its active community and vast library ecosystem, makes it a front-runner in the world of algorithmic trading.
 
-# Getting Started with Python in Trading
+## Getting Started with Python in Trading
 
 Entering the world of algorithmic trading with Python might seem daunting at first, but fear not. Whether you're a seasoned coder or someone with limited programming experience, Python's versatility makes it an excellent choice for trading.
 
@@ -73,9 +73,9 @@ Establishing a tailored Python environment for trading ensures that your project
 
 Incorporating Python into your trading activities can revolutionize your approach, allowing for more complex strategies and analysis to be conducted with ease. With the right setup and environment, you'll be poised to take full advantage of what Python offers in the trading realm. Now, with your environment set up, you're ready to dive into the wide array of libraries and tools available to Python traders.
 
-# Comprehensive Guide to Python Libraries for Trading
+## Comprehensive Guide to Python Libraries for Trading
 
-## Data Retrieval and Manipulation (with Emphasis on Real-time Data Handling)
+### Data Retrieval and Manipulation (with Emphasis on Real-time Data Handling)
 
 The financial world generates vast amounts of data every second. Properly fetching and managing this data is the cornerstone of any quantitative trading strategy. Python, with its extensive range of libraries, offers traders versatile tools to retrieve and manipulate data efficiently.
 
@@ -171,7 +171,7 @@ The financial world generates vast amounts of data every second. Properly fetchi
 
 By utilizing these libraries, traders can equip themselves to tackle the vast sea of financial data and harness it for profitable strategies.
 
-## Technical and Fundamental Analysis
+### Technical and Fundamental Analysis
 
 In the world of trading, technical and fundamental analyses serve as the backbone of most trading strategies. Python, with its vast ecosystem of libraries, provides essential tools to carry out these analyses seamlessly.
 
@@ -252,7 +252,7 @@ In the world of trading, technical and fundamental analyses serve as the backbon
 
 Incorporating these libraries into your trading strategy not only expedites the analysis process but also ensures accuracy and consistency. The choice of library often depends on the specific requirements of the trading strategy, data availability, and personal preference. Whether you're delving into simple moving average crossovers or complex financial metrics, Python's ecosystem has you covered.
 
-## Machine Learning and Advanced Predictive Models
+### Machine Learning and Advanced Predictive Models
 
 In the ever-evolving landscape of quantitative finance, machine learning stands at the forefront, offering tools and techniques to extract patterns and make predictions. Python, given its rich ecosystem, has become the go-to language for implementing machine learning in trading strategies.
 
@@ -335,7 +335,7 @@ forecast = model.predict(future)
 
 Machine learning's application in trading is vast, and the libraries listed above only scratch the surface. Whether you're predicting stock prices, analyzing market sentiment, or looking for patterns in vast datasets, Python provides the tools you need. As always, while these tools offer immense potential, it's crucial to understand the underlying algorithms, biases, and potential pitfalls. Proper validation and out-of-sample testing are imperative to avoid overfitting and to build robust trading strategies.
 
-## Backtesting and Strategy Evaluation
+### Backtesting and Strategy Evaluation
 
 Backtesting is a critical process in the life cycle of algorithmic trading. It simulates a trading strategy on historical data to evaluate its effectiveness before deploying it with real capital. Alongside backtesting, strategy evaluation determines the strategy's risk and potential returns, offering quantitative traders insights on its viability. In the world of Python trading, several libraries empower traders to perform these tasks with efficiency and precision.
 
@@ -432,7 +432,7 @@ Backtesting is a critical process in the life cycle of algorithmic trading. It s
 
 To summarize, choosing the right backtesting and strategy evaluation library depends on your requirements. For a holistic approach, `Backtrader` serves most needs. If performance analysis is paramount, `pyfolio` is unparalleled. Platforms like `QuantConnect` provide a seamless transition from backtesting to live trading, while `Fastquant` is perfect for beginners. Evaluate your needs, and you'll find Python provides a tool tailored for it.
 
-## Visualization and Reporting
+### Visualization and Reporting
 
 Visualization is an essential component of trading. It provides a way to interpret vast amounts of data, discover patterns, and make informed decisions. Reporting, on the other hand, helps in maintaining a structured record of trading activities, performance, and insights. Python offers several libraries for both visualization and reporting that cater to trading needs.
 
@@ -517,9 +517,9 @@ Visualization is an essential component of trading. It provides a way to interpr
 
 By leveraging these libraries, traders can create insightful visualizations to better interpret data and make informed trading decisions. Furthermore, with the reporting functionalities, traders can maintain a clear record and evaluate the performance of their strategies over time.
 
-# Building Your First Python Trading Algorithm
+## Building Your First Python Trading Algorithm
 
-## Basic Momentum Strategy
+### Basic Momentum Strategy
 
 **Data Fetching**
 
@@ -528,7 +528,7 @@ In a basic momentum strategy, we bet that assets that have performed well in the
 ```python
 import yfinance as yf
 
-# Fetch historical data for a specific stock
+## Fetch historical data for a specific stock
 symbol = "AAPL"
 start_date = "2020-01-01"
 end_date = "2021-01-01"
@@ -542,7 +542,7 @@ The preprocessing step involves computing the momentum indicator, which is usual
 ```python
 import pandas as pd
 
-# Calculate the rate of return over a 10-day period
+## Calculate the rate of return over a 10-day period
 data['Momentum'] = data['Close'].pct_change(10)
 data = data.dropna()
 ```
@@ -552,7 +552,7 @@ data = data.dropna()
 To implement the momentum strategy, we create a signal indicating whether to buy or sell.
 
 ```python
-# Buy if momentum is positive, sell if it is negative
+## Buy if momentum is positive, sell if it is negative
 data['Signal'] = 0  # Default to no action
 data['Signal'][data['Momentum'] > 0] = 1  # Buy
 data['Signal'][data['Momentum'] < 0] = -1  # Sell
@@ -600,7 +600,7 @@ def optimize_momentum(data, period_range):
 optimize_momentum(data, (5, 30, 1))
 ```
 
-## Mean-reversion strategy
+### Mean-reversion strategy
 
 **Data fetching**
 
@@ -613,7 +613,7 @@ def fetch_data(ticker, start_date, end_date):
     data = yf.download(ticker, start=start_date, end=end_date)
     return data['Close']
 
-# Example:
+## Example:
 apple_data = fetch_data('AAPL', '2020-01-01', '2021-01-01')
 print(apple_data.head())
 ```
@@ -631,7 +631,7 @@ def compute_moving_average(data, window_size=20):
 def compute_standard_deviation(data, window_size=20):
     return data.rolling(window=window_size).std()
 
-# Compute a 20-day moving average and standard deviation for Apple data
+## Compute a 20-day moving average and standard deviation for Apple data
 apple_moving_avg = compute_moving_average(apple_data)
 apple_std = compute_standard_deviation(apple_data)
 ```
@@ -644,10 +644,10 @@ With a mean-reversion strategy, we typically buy assets when they're below their
 def z_score(data, moving_avg, std_dev):
     return (data - moving_avg) / std_dev
 
-# Compute z-score
+## Compute z-score
 apple_z_score = z_score(apple_data, apple_moving_avg, apple_std)
 
-# Buy when z-score is below -1, sell when above 1
+## Buy when z-score is below -1, sell when above 1
 buy_signals = apple_z_score < -1
 sell_signals = apple_z_score > 1
 ```
@@ -672,7 +672,7 @@ class MeanReversionStrategy(bt.Strategy):
         if self.z_score > 1:
             self.sell()
 
-# Backtest setup and run
+## Backtest setup and run
 cerebro = bt.Cerebro()
 data_feed = bt.feeds.PandasData(dataname=apple_data)
 cerebro.adddata(data_feed)
@@ -685,7 +685,7 @@ results = cerebro.run()
 Optimization helps in tweaking parameters to potentially improve performance. Using `backtrader`, we can optimize our moving average window size:
 
 ```python
-# Strategy with parameter
+## Strategy with parameter
 class OptimizedMeanReversionStrategy(bt.Strategy):
     params = (('window_size', 20),)
 
@@ -697,19 +697,19 @@ optimized_results = cerebro.run()
 
 Select the window size that gives the best risk-adjusted return.
 
-## Machine Learning-Based Predictions
+### Machine Learning-Based Predictions
 
 **Data Fetching**
 
 Machine learning in trading heavily relies on large volumes of historical data to train models. Python's ecosystem provides various libraries for fetching financial data. One such library is `yfinance`:
 
 ```python
-# Installing the yfinance library
+## Installing the yfinance library
 !pip install yfinance
 
 import yfinance as yf
 
-# Fetching historical data for Apple Inc. from Yahoo Finance
+## Fetching historical data for Apple Inc. from Yahoo Finance
 data = yf.download("AAPL", start="2010-01-01", end="2023-01-01")
 print(data.head())
 ```
@@ -721,13 +721,13 @@ This code will retrieve historical stock prices for Apple Inc. from 2010 to 2023
 Once data is fetched, it's essential to preprocess it for machine learning models. Common preprocessing steps include normalization, handling missing values, and feature engineering.
 
 ```python
-# Handling missing values by forward filling
+## Handling missing values by forward filling
 data.fillna(method='ffill', inplace=True)
 
-# Feature Engineering: Adding moving average as a feature
+## Feature Engineering: Adding moving average as a feature
 data['50_MA'] = data['Close'].rolling(window=50).mean()
 
-# Normalizing the data
+## Normalizing the data
 from sklearn.preprocessing import MinMaxScaler
 scaler = MinMaxScaler()
 data['Close', '50_MA']] = scaler.fit_transform(data['Close', '50_MA']])
@@ -742,14 +742,14 @@ Using a simple predictive model like Linear Regression, we can try to predict fu
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
-# Using past 50 days' data to predict the next day's closing price
+## Using past 50 days' data to predict the next day's closing price
 X = [data['Close'].values[i-50:i] for i in range(50, len(data))]
 y = [data['Close'].values[i] for i in range(50, len(data))]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, shuffle=False)
 model = LinearRegression().fit(X_train, y_train)
 
-# Predicting on test data
+## Predicting on test data
 predictions = model.predict(X_test)
 ```
 
@@ -758,7 +758,7 @@ predictions = model.predict(X_test)
 For evaluating the performance of our trading strategy, we need to backtest it against historical data. Backtesting involves simulating trades based on our model's predictions and assessing the performance.
 
 ```python
-# Simple backtesting by buying when the predicted next day's price is higher than today's closing price
+## Simple backtesting by buying when the predicted next day's price is higher than today's closing price
 initial_balance = 10000
 balance = initial_balance
 stock_quantity = 0
@@ -784,7 +784,7 @@ A simple optimization technique involves hyperparameter tuning for the machine l
 from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import RandomForestRegressor
 
-# Defining hyperparameters to tune
+## Defining hyperparameters to tune
 param_grid = {
     'n_estimators': [50, 100, 200],
     'max_depth': [None, 10, 20, 30],
@@ -803,7 +803,7 @@ This code will tune a Random Forest model by searching over the specified hyperp
 
 Note: All these code snippets serve as basic examples to illustrate concepts. In practice, more sophisticated and thorough methodologies would be necessary for robust trading strategies.
 
-## Natural Language Processing for Sentiment Analysis Trading
+### Natural Language Processing for Sentiment Analysis Trading
 
 **Data Fetching**
 
@@ -819,7 +819,7 @@ url = '<https://www.financenewswebsite.com/latest-news>'
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
 
-# Extract headlines
+## Extract headlines
 headlines = [h.text for h in soup.find_all('h2', class_='headline')]
 
 print(headlines)
@@ -838,13 +838,13 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 
-# Sample headline for demonstration
+## Sample headline for demonstration
 headline = "Apple stocks soar as quarterly earnings surpass expectations."
 
-# Tokenization
+## Tokenization
 tokens = word_tokenize(headline)
 
-# Removing stopwords
+## Removing stopwords
 nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))
 filtered_tokens = [word for word in tokens if word.lower() not in stop_words]
@@ -863,11 +863,11 @@ Example using `TextBlob`:
 ```python
 from textblob import TextBlob
 
-# Calculate sentiment polarity
+## Calculate sentiment polarity
 blob = TextBlob(headline)
 sentiment_score = blob.sentiment.polarity
 
-# Strategy decision
+## Strategy decision
 if sentiment_score > 0.5:
     action = "BUY"
 elif sentiment_score < -0.5:
@@ -885,10 +885,10 @@ In this basic strategy, if sentiment polarity is above 0.5, it suggests buying, 
 Backtesting involves applying the sentiment-based strategy on historical data to evaluate its efficacy:
 
 ```python
-# Hypothetical historical data
+## Hypothetical historical data
 historical_headlines = ["Company X reports massive profits.", "Economic downturn affects tech industry.", "Market remains steady amidst uncertainty."]
 
-# Backtest using the strategy
+## Backtest using the strategy
 for past_headline in historical_headlines:
     blob = TextBlob(past_headline)
     sentiment_score = blob.sentiment.polarity
@@ -906,7 +906,7 @@ for past_headline in historical_headlines:
 Optimizing involves fine-tuning thresholds or utilizing more advanced models:
 
 ```python
-# Fine-tuning the threshold for strategy
+## Fine-tuning the threshold for strategy
 THRESHOLD_BUY = 0.7
 THRESHOLD_SELL = -0.7
 
@@ -924,9 +924,9 @@ for past_headline in historical_headlines:
 
 To further optimize, traders can explore advanced models like BERT or transformers for sentiment analysis[15]. Additionally, integrating other indicators with sentiment scores can enhance strategy performance.
 
-# Advanced Trading Strategies Using Python
+## Advanced Trading Strategies Using Python
 
-## Time Series Analysis with ARIMA, GARCH
+### Time Series Analysis with ARIMA, GARCH
 
 Time series analysis is a fundamental component in the world of quantitative trading. Given the sequential nature of financial data, tools tailored for time series forecasting can be indispensable. Among these, ARIMA (AutoRegressive Integrated Moving Average) and GARCH (Generalized AutoRegressive Conditional Heteroskedasticity) are two prominent models known for their efficiency in modeling and forecasting financial time series data.
 
@@ -963,7 +963,7 @@ ARIMA is a popular statistical method for modeling and forecasting time series d
 For predicting financial time series, ARIMA can be set using combinations of these components. The `(p,d,q)` order in the model signifies the number of AR terms, differencing, and MA terms, respectively.
 
 ```python
-# ARIMA model
+## ARIMA model
 model = ARIMA(series, order=(p,d,q))
 model_fit = model.fit(disp=0)
 forecast = model_fit.forecast(steps=5)
@@ -992,7 +992,7 @@ Often, ARIMA and GARCH models can be combined to create a more robust forecastin
 ```python
 from arch import arch_model
 
-# Using ARIMA residuals as input for GARCH
+## Using ARIMA residuals as input for GARCH
 arima_resid = model_fit.resid
 model_garch = arch_model(arima_resid, vol='Garch', p=p, q=q)
 results = model_garch.fit()
@@ -1002,7 +1002,7 @@ When employing time series models like ARIMA and GARCH, it's essential to valida
 
 Both ARIMA and GARCH have been time-tested in the financial industry. They can serve as starting points for traders diving into time series forecasting. However, always keep in mind that no single model provides a silver bullet. Regularly re-evaluate, backtest, and adjust based on changing market conditions.
 
-## Deep Learning for Price Prediction
+### Deep Learning for Price Prediction
 
 In the realm of quantitative trading, deep learning has opened new avenues for predicting financial market movements with enhanced accuracy. At its core, deep learning is a subset of machine learning where algorithms are inspired by the structure and function of the brain called artificial neural networks.
 
@@ -1022,7 +1022,7 @@ For those keen on diving into the practical side, popular Python libraries like 
 
 Remember, while deep learning brings advanced capabilities to the table, it also demands a rigorous approach to model training, validation, and evaluation. As with all trading strategies, it's essential to be aware of the risks and ensure that the strategy aligns with individual trading goals and risk appetite.
 
-## Reinforcement Learning in Trading
+### Reinforcement Learning in Trading
 
 Reinforcement learning (RL) has made significant inroads into the world of quantitative trading, offering a framework wherein trading agents learn optimal strategies by interacting with financial markets. RL differs from traditional machine learning approaches in that it focuses on making a sequence of decisions by discovering which actions yield the most reward over time.
 
@@ -1051,7 +1051,7 @@ However, there are challenges. RL methods require a lot of data and computationa
 
 In conclusion, while reinforcement learning holds promise for developing adaptive and dynamic trading strategies, a careful and holistic approach that considers market nuances, transaction costs, and the potential pitfalls of overfitting is essential. With continuous advancements in RL algorithms and computational power, the application of RL in trading is poised to grow.
 
-## Portfolio Optimization Techniques
+### Portfolio Optimization Techniques
 
 Portfolio optimization is the process of selecting the best portfolio out of a set of portfolios according to some objective. The objective typically maximizes factors like expected return and minimizes costs like risk. Python, given its rich ecosystem, provides powerful tools to quantitatively and qualitatively analyze and optimize portfolios.
 
@@ -1063,10 +1063,10 @@ Historically, the most common method for portfolio optimization has been Markowi
 from scipy.optimize import minimize
 import numpy as np
 
-# Sample returns for assets
+## Sample returns for assets
 returns = np.array([0.1, 0.2, 0.15]])
 
-# Covariance matrix of returns
+## Covariance matrix of returns
 cov_matrix = np.array([0.005, -0.010, 0.004],
                        [-0.010, 0.040, -0.002],
                        [0.004, -0.002, 0.023]])
@@ -1076,11 +1076,11 @@ def objective(weights):
     portfolio_volatility = np.sqrt(np.dot(weights.T, np.dot(cov_matrix, weights)))
     return -portfolio_return / portfolio_volatility
 
-# Initial guess
+## Initial guess
 initial_weights = [0.33, 0.33, 0.33]
-# Bounds for weights
+## Bounds for weights
 bounds = ((0, 1), (0, 1), (0, 1))
-# Constraints
+## Constraints
 constraints = ({'type': 'eq', 'fun': lambda weights: np.sum(weights) - 1})
 
 solution = minimize(objective, initial_weights, method='SLSQP', bounds=bounds, constraints=constraints)
@@ -1124,11 +1124,11 @@ All these methods provide different perspectives and often yield different resul
 
 Lastly, it's essential to remember that optimization techniques can be sensitive to the input data. Therefore, ensuring data quality, considering transaction costs, and accounting for model assumptions are paramount for the success of any portfolio optimization technique[17].
 
-# Integrating Python with Trading Platforms
+## Integrating Python with Trading Platforms
 
 Python's flexibility and extensiveness make it a popular choice for integrating with various trading platforms, enabling traders to automate their strategies and capitalize on market opportunities efficiently. Here, we'll explore how to seamlessly connect Python scripts with real-world trading platforms and deep dive into the nuances of API connections, web sockets, and handling real-time data.
 
-## Python Integration with Brokers
+### Python Integration with Brokers
 
 Most established trading platforms and brokers offer Application Programming Interfaces (APIs) that allow developers to interface with their platforms programmatically. For instance, Interactive Brokers, one of the leading brokers globally, provides its TWS API[18], through which Python scripts can fetch market data, place trades, and access account information.
 
@@ -1138,7 +1138,7 @@ To work with such APIs, you typically need to:
 2. **Install necessary libraries**: Python has an abundance of third-party libraries tailored for specific broker APIs. For example, `ib_insync`[19] facilitates interaction with the Interactive Brokers API.
 3. **Establish a connection**: Use your script to connect to the broker's servers, authenticate, and begin data retrieval or order execution.
 
-## Web Sockets for Real-Time Data
+### Web Sockets for Real-Time Data
 
 For traders looking to capitalize on minute-by-minute market fluctuations, it's paramount to have access to real-time data. While traditional HTTP-based APIs are suitable for occasional data fetches, they're not ideal for real-time streaming. Enter web sockets.
 
@@ -1150,7 +1150,7 @@ Here's a simple flow:
 2. **Subscribe to data streams**: Once connected, you can subscribe to specific market data streams or updates.
 3. **Handle incoming data**: Designate functions or callbacks to process the real-time data, be it for visualization, logging, or triggering trading strategies.
 
-## Managing Real-Time Data Handling
+### Managing Real-Time Data Handling
 
 Efficiently handling the incoming data is crucial to ensure timely trade execution and strategy assessment. Here are some best practices:
 
@@ -1160,7 +1160,7 @@ Efficiently handling the incoming data is crucial to ensure timely trade executi
 
 To sum up, integrating Python with trading platforms is a multifaceted process that, when executed correctly, can automate and optimize trading operations significantly. While this overview provides a foundation, it's essential to consult the specific documentation of your chosen trading platform and related Python libraries for detailed integration steps.
 
-# Risk Management and Performance Evaluation
+## Risk Management and Performance Evaluation
 
 Effective risk management is crucial for preserving capital and ensuring longevity in trading. Python, due to its versatility, can be instrumental in automating and optimizing these processes. Here’s how:
 
@@ -1217,7 +1217,7 @@ print(f"Max Drawdown: {max_drawdown(prices)*100}%")
 
 In conclusion, Python is an exceptional tool for setting automated risk parameters and evaluating the performance of a trading strategy. By integrating these metrics and techniques into your trading routine, you can make more informed decisions, manage risks effectively, and have a clear understanding of your strategy's strengths and weaknesses.
 
-# Continuous Learning and Adapting Strategies
+## Continuous Learning and Adapting Strategies
 
 Markets are dynamic entities, constantly evolving and responding to a myriad of factors, from macroeconomic changes to geopolitical events to technological innovations. For quantitative traders, a strategy that worked last year, or even last month, might not necessarily work today. This fluidity underscores the critical importance of continuous learning and adaptability.
 
@@ -1235,7 +1235,7 @@ Finally, staying abreast of new library releases and updates is critical. An upd
 
 In conclusion, the landscape of algorithmic trading is one of continuous change and evolution. For those willing to invest the time in continuous learning, adaptability, and community involvement, the rewards can be significant, both in terms of trading performance and personal growth.
 
-# The Future of Python in Trading
+## The Future of Python in Trading
 
 Python's dominance in quantitative finance and algorithmic trading isn't accidental. Its versatility, combined with a plethora of specialized libraries, makes it an attractive choice for both hobbyist traders and institutional quant desks. But as with every domain, the landscape of trading is evolving, influenced by technological advancements, new research findings, and changing market dynamics. Here's a glimpse into what the future might hold for Python in the realm of trading.
 
@@ -1251,7 +1251,7 @@ For traders, the future is undeniably exciting, but it also demands preparedness
 
 Lastly, always remember that while technology and algorithms play a pivotal role, the human element—intuition, skepticism, and ethics—remains invaluable in trading. As we harness Python's potential for future trading innovations, let's do so responsibly and judiciously.
 
-# Conclusion
+## Conclusion
 
 Python has firmly anchored itself in the trading landscape, offering a blend of versatility and robustness that few languages can match. The marriage of Python's powerful libraries with its ease of use has democratized the quantitative trading sphere, enabling individuals and institutions alike to implement sophisticated trading algorithms with relative ease.
 
@@ -1268,7 +1268,7 @@ In conclusion, as the adage goes: the best way to predict the future is to creat
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: [High-frequency trading in the foreign exchange market - Bank for International Settlements](https://www.bis.org/publ/mktc05.pdf)
 

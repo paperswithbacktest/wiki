@@ -9,30 +9,30 @@ Dividends, which represent a share of a company's profits distributed to its sha
 
 
 
-# Dividend policy prediction
+## Dividend policy prediction
 
 Thanks to machine learning, a branch of AI, it is now possible to analyze years of financial data and detect trends in companies' dividend policies :
 
 - **Increase anticipation**: AI can identify companies likely to increase their dividends in the future by analyzing specific financial models and indicators.
 - **Risk detection**: AI-based systems can anticipate companies at risk of reducing or eliminating their dividends, based on their financial health and other relevant factors.
 
-# Automated portfolio management
+## Automated portfolio management
 
 AI enables dynamic, automated management of dividend-focused portfolios. Based on predictions and analysis, AI can suggest or perform real-time rebalancing to maximize dividend yields.
 
-# Sentiment market analysis
+## Sentiment market analysis
 
 AI's ability to assess market sentiment from large sets of unstructured data is a considerable advantage. By analyzing news, financial reports and social media, AI can assess how the market perceives a company's dividend policies, which can influence investment decisions.
 
-# Tax optimization
+## Tax optimization
 
 AI can also help investors navigate the complex tax landscape associated with dividends. By analyzing current tax laws and individual financial situations, IA can propose tax-optimized dividend investment strategies.
 
-# Competitive intelligence
+## Competitive intelligence
 
 AI is ideal for continuously monitoring the dividend strategy of competitors on the market. AI can provide a comparative analysis of dividend yields against competitor companies or the market as a whole, offering investors a broader perspective.
 
-# Conclusion
+## Conclusion
 
 The integration of artificial intelligence into dividend strategies paves the way for more accurate, responsive and informative investment methods. Whether anticipating dividend policies, automatically managing a portfolio or navigating the complex tax environment, AI is asserting itself as an invaluable tool for all those seeking to maximize their returns through dividends. By embracing this technology, investors are better equipped to make informed decisions and reinforce the robustness of their dividend investment strategies.
 

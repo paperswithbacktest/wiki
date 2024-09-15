@@ -9,29 +9,29 @@ Bond timing is the art of anticipating the best time to buy or sell bonds, not b
 
 ![Untitled](images/Untitled.png)
 
-# Factors Affecting Bond Prices
+## Factors Affecting Bond Prices
 
 - **Interest rates**: Changes in bond prices are inversely related to changes in interest rates.
 - **Credit risk**: The risk associated with the creditworthiness of a company or bond issuer. Changes in credit spreads, influenced by factors such as GDP growth, political stability and inflation, can have a significant impact on bond prices.
 
-# Bond Timing strategies
+## Bond Timing strategies
 
 - **Roll Down**: This strategy takes advantage of the long duration of bonds and the decline in yields as maturity approaches. It is particularly effective when the yield curve is steep.
 - **Momentum**: Based on the persistence effect of economic cycles, this strategy seeks to anticipate future movements in interest rates.
 
-# Bond Timing Research
+## Bond Timing Research
 
 Studies show that active bond management is often justified by its excess returns. Unlike active equity strategies, Bond Timing strategies tend to outperform thanks to lower volatility and more stable risk premiums.
 
-# Bond Timing and Algo Trading
+## Bond Timing and Algo Trading
 
 In algo trading, the Bond Timing strategy can be automated to capitalize on predictions of interest rates and credit spreads. The use of algorithms enables rapid analysis of market data and informed decision-making.
 
-# Risks associated with Bond Timing
+## Risks associated with Bond Timing
 
 Like any trading strategy, Bond Timing involves risks. Unforeseen changes in monetary policy and interest rate cycles can influence profitability.
 
-# Conclusion
+## Conclusion
 
 Bond timing is a complex strategy that requires a thorough understanding of bond market movements. Although it offers interesting opportunities, it should be approached with caution, particularly in the context of algo trading. It is essential for traders to be constantly up to date with market trends and adjust their algorithms accordingly.
 

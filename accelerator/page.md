@@ -9,7 +9,7 @@ As we enter the age of digitization, the field of trading has undergone a radica
 
 ![Untitled](images/Untitled.png)
 
-# What is an accelerator?
+## What is an accelerator?
 
 An accelerator is a class of microprocessors designed specifically to accelerate artificial intelligence applications. But why is it relevant in the context of algo trading?
 
@@ -17,13 +17,13 @@ Algorithmic trading, also known as algo trading, uses complex algorithms to exec
 
 This is where the Accelerator comes in. It optimizes and improves algorithm execution speed, enabling algorithmic traders to outperform their competitors by exploiting information in milliseconds.
 
-# Why is it essential?
+## Why is it essential?
 
 In the ultra-competitive world of trading, every millisecond counts. An accelerator gives you the edge you need to stay ahead of the competition. It not only improves speed but also the accuracy of predictions, which is essential for maximizing profits while minimizing risk.
 
 With the evolution of technology, algo trading no longer relies solely on simple mathematical calculations. The introduction of artificial intelligence enables algorithms to "learn" from data and adjust their strategies accordingly. AI requires parallel calculations - which is where an accelerator comes into its own.
 
-# How to choose a gas pedal for algo trading?
+## How to choose a gas pedal for algo trading?
 
 Adding an accelerator to your trading system isn't enough to get results. Choosing the right one is crucial. Consider the following:
 
@@ -31,7 +31,7 @@ Adding an accelerator to your trading system isn't enough to get results. Choosi
 2. **Compatibility**: Make sure it's compatible with your existing infrastructure.
 3. **Scalability**: As your needs change, your accelerator must be able to adapt.
 
-# The future of the accelerator in algo trading
+## The future of the accelerator in algo trading
 
 The importance of the accelerator in Algo Trading
 
@@ -39,7 +39,7 @@ The importance of the accelerator in algo trading is no passing fad. As markets 
 
 With advances in artificial intelligence and the need for deeper data analysis, the accelerator has become an indispensable tool for any trading platform wishing to remain competitive.
 
-# Conclusion
+## Conclusion
 
 The modern era of trading is not just about traders' intelligence, but also about their technology's ability to process information quickly and efficiently. In this context, the accelerator is more than just a tool - it's the cornerstone of any effective algorithmic trading system.
 

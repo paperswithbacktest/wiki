@@ -9,7 +9,7 @@ In the world of artificial intelligence, the term Data Augmentation is essential
 
 ![Untitled](images/Untitled.png)
 
-# Data Augmentation: definition and key concepts
+## Data Augmentation: definition and key concepts
 
 Data Augmentation refers to the process of increasing the quantity and diversity of data used to drive a model. How does it work? By adding slightly modified copies of existing data. These modifications can include rotations, zooms, offsets, or other slight transformations, depending on the type of data.
 
@@ -19,7 +19,7 @@ Why is this so important?
 2. **Improve model performance**: More data usually means better model generalization, which translates into better performance.
 3. **Prevention of overfitting**: When a model is overfitted to a specific training set, its performance on new data can decrease. A greater diversity of training data can help mitigate this problem.
 
-# Data Augmentation in algorithmic trading
+## Data Augmentation in algorithmic trading
 
 Finance, as a field, has always been at the forefront of adopting new technologies. Artificial intelligence and, by extension, Data Augmentation, are no exception. Here's how it fits into the algorithmic trading landscape:
 
@@ -39,7 +39,7 @@ Before using them, here are a few important points to bear in mind:
 - **Do not over-augment**: Too much modification can render data irrelevant or even detrimental to training.
 - **Adaptability**: The market is constantly evolving. Augmentation techniques must be reviewed and adapted accordingly.
 
-# Conclusion
+## Conclusion
 
 Data Augmentation is a powerful tool for any AI practitioner, and is all the more relevant in the complex and dynamic field of algorithmic trading. By understanding and effectively using this technique, traders can improve the robustness, accuracy and performance of their models, setting them up for success in the ever-changing world of algorithmic finance.
 

@@ -7,7 +7,7 @@ The world of quantitative trading is constantly evolving. With the emergence of 
 
 ![Untitled](images/Untitled.png)
 
-# What is CLIP?
+## What is CLIP?
 
 Developed by OpenAI, **CLIP** is an AI model that bridges the gap between images and text. Instead of being trained in the traditional way, CLIP is pre-trained contrastively between texts and images, enabling it not only to understand and generate descriptions for images, but also to recognize image content from a textual description.
 
@@ -17,7 +17,7 @@ How CLIP works
 2. **Image Recognition**: As a result of its training, CLIP is able to identify the content of an image from a description or a set of keywords.
 3. **Text generation**: Conversely, the model can also describe an image, generating text that faithfully reflects its content.
 
-# CLIP and algo trading: Why is it important?
+## CLIP and algo trading: Why is it important?
 
 Financial reports are complex documents containing crucial information about a company's health and performance. These reports don't just consist of text: they also incorporate visual elements such as infographics, graphs, tables and more. These visual elements are often essential for presenting trends, comparisons and analyses concisely and clearly.
 
@@ -40,7 +40,7 @@ Adapting CLIP would require a systematic and specialized approach. Here are some
 
 Following these steps could potentially improve CLIP's ability to efficiently process and analyze financial reports.
 
-# Conclusion
+## Conclusion
 
 The integration of CLIP into the world of algo trading opens up a multitude of possibilities for automating and improving trading strategies. By understanding its advantages and limitations, traders can effectively use it as an additional tool to maximize profits while minimizing risk. In a world where technology and finance are constantly evolving, keeping up to date with innovations like CLIP is not only advantageous but essential. .
 

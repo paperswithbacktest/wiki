@@ -8,18 +8,18 @@ description: "Explore how sentiment analysis can be applied to algorithmic tradi
 Sentiment analysis, often associated with opinion mining, aims to evaluate and interpret the feelings, emotions or opinions contained in textual data. In the world of finance, this approach can offer unprecedented insights into investors' and traders' attitudes towards specific assets. Algorithmic trading, also known as algo trading, uses computer programs to execute transactions at high speeds and volumes. Marrying sentiment analysis and algo trading has opened the way to new trading strategies. In this article, we'll explore how sentiment analysis can be applied to algo trading.
 
 
-# Data sources for sentiment analysis in algo trading
+## Data sources for sentiment analysis in algo trading
 
 The first step in applying sentiment analysis in algo trading is data collection. Here are some key sources:
 
 - **Financial news**: Articles from major financial media can positively or negatively influence market sentiment.
 - **Social networks**: Platforms such as Twitter, Reddit and other finance-oriented forums are goldmines for capturing the general mood of investors.
 
-# Integration into trading algorithms
+## Integration into trading algorithms
 
 After collecting and analyzing data, it's essential to integrate this information into an algorithmic trading system. The algorithm can be programmed to buy or sell assets based on the results of the sentiment analysis.
 
-# Advantages of sentiment analysis in algo trading
+## Advantages of sentiment analysis in algo trading
 
 The integration of sentiment analysis into an algorithmic trading system is essential.
 

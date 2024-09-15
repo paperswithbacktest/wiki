@@ -17,7 +17,7 @@ Books, often seen as the bastions of knowledge, play a pivotal role in this lear
 
 While the digital age has ushered in myriad online resources – from blogs to webinars – the depth, rigor, and comprehensive nature of books remain unmatched. For anyone serious about mastering the art and science of algorithmic trading, investing time in reading the best books on the subject is not just recommended, it's imperative.
 
-# Diverse Perspectives on Algorithmic Trading
+## Diverse Perspectives on Algorithmic Trading
 
 Algorithmic trading, an intricate blend of finance and technology, has fostered an expansive literature spanning a wide array of topics. For the curious reader or seasoned practitioner, the diversity in this field's literature offers insights ranging from rudimentary introductions to nuanced, advanced strategies. Whether one seeks to understand the heartbeat of the market through its microstructure or wishes to harness the predictive power of statistical models, there's a wealth of knowledge awaiting in the form of well-researched books.
 
@@ -31,9 +31,9 @@ Furthermore, while theoretical knowledge is invaluable, practical implementation
 
 This curated list ahead is a testament to the vastness and richness of the field. It seeks to provide readers with a holistic view, covering each facet of algo trading. From market intricacies to cutting-edge machine learning models, from statistical analysis to hands-on strategy development, every perspective is explored, offering readers a comprehensive guide to navigate the exciting world of algorithmic trading.
 
-# Curated List of Algo Trading Books
+## Curated List of Algo Trading Books
 
-## Market Microstructure and Basics
+### Market Microstructure and Basics
 
 Grasping the essentials of market microstructure is foundational to succeeding in algorithmic trading. This realm delves deep into the intricacies of how orders are placed, executed, and cleared in financial markets. It uncovers the very heartbeat of trading and, thus, equips traders to design better, more informed strategies. To navigate this intricate domain, a couple of books stand out as premier resources.
 
@@ -53,7 +53,7 @@ Grasping the essentials of market microstructure is foundational to succeeding i
 
 Understanding these basics is akin to mastering the alphabet before penning a poem. It’s not just about placing orders; it's about knowing when, why, and how those orders interact with the market's vast ecosystem. As algorithmic strategies become more complex, a profound understanding of these fundamentals will always serve as a robust scaffold, upon which more advanced techniques can be reliably built.
 
-## Statistics, Econometrics, and Technical Analysis
+### Statistics, Econometrics, and Technical Analysis
 
 Statistics and econometrics arm traders with tools to model financial data, while technical analysis provides the lens to interpret past market movements to predict future price trends. These disciplines underpin many algorithmic trading strategies, offering a framework to test hypotheses and optimize trading signals.
 
@@ -73,7 +73,7 @@ Statistics and econometrics arm traders with tools to model financial data, whil
 
 Statistical tools empower traders to discern patterns, test strategies, and make informed decisions. Meanwhile, technical analysis offers visual cues and heuristic methods, helping traders to navigate the vast ocean of financial data. Both fields, when combined, equip traders with a robust arsenal, enabling them to approach markets scientifically and strategically.
 
-## Machine Learning and Advanced Techniques
+### Machine Learning and Advanced Techniques
 
 Machine learning (ML) has been at the forefront of many industries, and algorithmic trading is no exception. By applying ML techniques, traders can automatically identify patterns from large datasets, make predictions, and adapt to new data, giving them a significant edge in the markets.
 
@@ -100,7 +100,7 @@ Machine learning (ML) has been at the forefront of many industries, and algorith
 
 Machine learning's ability to analyze vast amounts of data and predict market movements makes it an invaluable tool in the trader's toolkit. By integrating these advanced techniques, traders can create more flexible, adaptive, and potentially profitable strategies in the ever-evolving financial markets.
 
-## Practical Guides and Strategy Building
+### Practical Guides and Strategy Building
 
 Mastering the theoretical aspects of algorithmic trading is just one part of the journey. Equally critical is the practical application — the ability to translate those theories into profitable trading strategies. The following books are meticulously chosen to guide traders in this endeavor:
 
@@ -127,7 +127,7 @@ Mastering the theoretical aspects of algorithmic trading is just one part of the
 
 By delving into these resources, traders can harness the combined wisdom of industry experts, ensuring they are well-equipped to navigate the complex and ever-evolving world of algorithmic trading.
 
-## Cutting-Edge Developments and Future Insights
+### Cutting-Edge Developments and Future Insights
 
 In the swiftly evolving world of algorithmic trading, staying updated on the latest technological advancements is indispensable. The frontier of algo trading is consistently pushed by new innovations and methodologies. To aid traders in staying ahead of the curve, we present a collection of pioneering books that dive into the future of trading:
 
@@ -154,7 +154,7 @@ In the swiftly evolving world of algorithmic trading, staying updated on the lat
 
 For those immersed in algo trading, these readings are invaluable. They not only offer a vision of what lies ahead but also equip traders with the knowledge to leverage emerging technologies to their advantage.
 
-# Additional Resources and Free Material
+## Additional Resources and Free Material
 
 The journey of mastering algo trading doesn't stop at traditional publications. The digital realm offers a plethora of resources, many of which are freely accessible. Delving into these can supplement your learning and keep you at the forefront of algorithmic trading innovations:
 
@@ -188,7 +188,7 @@ The journey of mastering algo trading doesn't stop at traditional publications. 
 
 Expanding your horizons by exploring these additional resources ensures a holistic approach to your learning journey in algo trading, making sure you're well-equipped to tackle the dynamic challenges of the trading world.
 
-# Conclusion
+## Conclusion
 
 In the rapidly evolving world of algorithmic trading, the importance of continuous learning cannot be overstated. Keeping pace with the latest methodologies, strategies, and technologies is not just beneficial—it's crucial for those who wish to remain competitive and ahead of the curve. Books, with their in-depth exploration of topics, remain one of the most valuable tools for traders aiming for mastery in this field.
 
@@ -203,7 +203,7 @@ As the trading landscape becomes increasingly digital and automated, arming ones
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: [O'Hara, M. (1995). Market microstructure theory. Blackwell.](https://www.wiley.com/en-us/Market+Microstructure+Theory-p-9780631207610)
 

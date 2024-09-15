@@ -7,7 +7,7 @@ description: Market making is a vital process in financial markets, where market
 
 Market making is a cornerstone activity in financial markets, ensuring liquidity and facilitating the smooth execution of trades. At its core, market making involves **continuously quoting** buy (bid) and sell (ask) prices for financial instruments, such as stocks, bonds, or derivatives, thereby providing a platform for other participants to trade. For institutional traders, market makers are indispensable partners, guaranteeing the ability to enter or exit positions without causing significant price disruptions. Meanwhile, for retail traders, they often operate behind the scenes, indirectly influencing the prices seen on trading platforms and ensuring that when the trade button is clicked, there's a counterparty ready to take the opposite position.
 
-# What is a Market Maker?
+## What is a Market Maker?
 
 Market making, at its most rudimentary level, has been a critical function within financial ecosystems for centuries. Its origins trace back to the bazaars of ancient times, where merchants would be willing to buy and sell goods, acting as intermediaries and stabilizing prices by ensuring there were always buyers and sellers available. Fast forward to the late 18th century, and the London Stock Exchange formalized the role, creating a system where “jobbers” specialized exclusively in making markets for specific securities.
 
@@ -17,7 +17,7 @@ The distinction between traditional market makers and their modern electronic co
 
 Despite these differences, both traditional and electronic market makers share a common objective: to profit from the bid-ask spread while ensuring that markets remain liquid and efficient.
 
-# Role and Functionality of Market Makers
+## Role and Functionality of Market Makers
 
 Market makers serve as linchpins in the financial ecosystem, tasked with the responsibility to continuously buy and sell securities on their own behalf. Their primary role is to maintain fair and orderly markets by facilitating trade, ensuring that buying and selling orders can be executed promptly, even if there isn't a direct counterpart for every trade[1].
 
@@ -27,7 +27,7 @@ A direct consequence of this liquidity provision is the narrowing of bid-ask spr
 
 Furthermore, market makers shoulder the risks associated with holding a particular stock or security in their inventory, even during market uncertainties. Their commitment to buying at the bid and selling at the ask, irrespective of market conditions, stabilizes prices and guards against excessive volatility.
 
-# Mechanics of Market Making
+## Mechanics of Market Making
 
 Market makers operate with a blend of sophisticated strategies, technological tools, and a deep understanding of market dynamics. Their primary aim: to profit from the difference between the buying and selling prices, all while ensuring liquidity and smooth trading for everyone else.
 
@@ -41,7 +41,7 @@ Technology has revolutionized market making. Modern market makers leverage high-
 
 Further, tools like direct market access allow market makers to place orders directly on exchange order books, bypassing traditional brokerage routes. This streamlining enhances speed and efficiency, a crucial advantage in the fast-paced world of market making.
 
-# Market Makers in Different Exchanges
+## Market Makers in Different Exchanges
 
 Market making, as a function, remains consistent across various exchanges, but the specifics of how market makers operate can vary depending on the exchange's rules, trading volumes, and the nature of listed securities.
 
@@ -57,7 +57,7 @@ Market making, as a function, remains consistent across various exchanges, but t
 
 Understanding the role of market makers in these different exchanges provides insight into the diverse mechanisms used globally to ensure efficient, liquid, and orderly markets.
 
-# Comparison: Market Makers vs. Designated Market Makers (DMMs)
+## Comparison: Market Makers vs. Designated Market Makers (DMMs)
 
 Market Makers and Designated Market Makers (DMMs) are both vital cogs in the machinery of financial exchanges, ensuring liquidity and aiding in efficient price discovery. However, while they share certain overarching responsibilities, there are distinct differences between the two, rooted in their operational models and specific mandates.
 
@@ -71,7 +71,7 @@ Market makers, on the other hand, can be found on both dealer markets like NASDA
 
 In summary, while both Market Makers and DMMs play pivotal roles in maintaining liquidity in financial markets, their obligations, operational nuances, and historical evolution set them apart.
 
-# Decentralized Market Making
+## Decentralized Market Making
 
 Decentralized finance, commonly referred to as DeFi, represents a paradigm shift in the way we think about finance. Instead of relying on traditional intermediaries like banks, brokers, and exchanges, DeFi leverages blockchain technology to create a system where financial transactions, including lending, borrowing, and trading, can be conducted peer-to-peer.
 
@@ -81,7 +81,7 @@ AMMs have grown significantly in popularity and have become foundational in many
 
 However, AMMs are not without challenges. Since they rely on predefined algorithms to set prices, they can be more susceptible to significant price deviations from the broader market in certain conditions. This discrepancy can lead to arbitrage opportunities, where traders capitalize on these price differences between AMMs and traditional exchanges.
 
-# Income and Profit Model
+## Income and Profit Model
 
 Market makers earn profits primarily through the bid-ask spread, which is the difference between the buying (bid) price and selling (ask) price of a financial instrument. When traders buy or sell assets, market makers provide the necessary liquidity, buying at the bid price and selling at the ask price. The spread represents their compensation for this service.
 
@@ -93,7 +93,7 @@ However, the market making business isn't without risks. **Adverse selection**, 
 
 Furthermore, with the rise of algorithmic trading and high-frequency trading (HFT) strategies, market makers face increased competition, potentially thinning the bid-ask spreads and compressing their profit margins.
 
-# Academic Insights
+## Academic Insights
 
 Here's a succinct look into some pivotal academic works on market making:
 
@@ -124,7 +124,7 @@ Here's a succinct look into some pivotal academic works on market making:
 
 While this list is by no means exhaustive, these works encapsulate the core concepts and challenges of market making in various settings.
 
-# Real-World Examples
+## Real-World Examples
 
 Market makers play a pivotal role in day-to-day financial operations, and some real-world events have thrown their importance into sharp relief:
 
@@ -141,7 +141,7 @@ On August 24, 2015, many U.S. ETFs (Exchange Traded Funds) were traded at prices
 
 These real-world examples provide a tangible understanding of market makers' roles, showcasing their influence in maintaining orderly markets and the potential repercussions when their operations face disruptions.
 
-# Future of Market Making
+## Future of Market Making
 
 Market making, while rooted in ancient financial practices, is far from static. As technology evolves, so too does the landscape of market making, promising enhanced efficiencies but also bringing along new challenges.
 
@@ -149,7 +149,7 @@ The acceleration of technology in finance, particularly the use of **Artificial 
 
 Decentralized finance (DeFi) also represents a seismic shift in the world of market making. With the growth of **Automated Market Makers (AMMs)** on decentralized exchanges, traditional market makers find themselves competing with algorithms on platforms like Uniswap or Balancer. These platforms operate 24/7 and can provide liquidity across a myriad of assets, sometimes outcompeting traditional venues in terms of volume.
 
-# Conclusion
+## Conclusion
 
 Market makers serve as the backbone of financial markets, ensuring fluidity, accessibility, and stability. Their ability to provide liquidity, especially during times of market stress, enables smoother price discovery and aids in preventing abrupt price fluctuations. As traders, whether institutional or retail, navigate the vast ecosystem of the financial world, the presence of market makers is often felt, even if not directly visible.
 
@@ -162,7 +162,7 @@ Understanding the intricate dance of bid-ask spreads and recognizing the value o
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **Do market makers manipulate prices?**
 
@@ -196,7 +196,7 @@ No. The bid-ask spread can vary based on several factors, including the asset's 
 
 Liquidity reflects the ease with which an asset can be bought or sold without affecting its price. High liquidity means that large volumes of an asset can be traded with minimal price disruption. This is crucial for traders and investors as it ensures smoother transactions and better price discovery.
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: [Market Makers](https://www.investopedia.com/terms/m/marketmaker.asp)
 

@@ -9,7 +9,7 @@ The Fibonacci sequence, a series of numbers where each number is the sum of the 
 
 In the realm of trading, Fibonacci numbers are transmuted into ratios, and these ratios—primarily 23.6%, 38.2%, 50%, 61.8%, and 100%—are esteemed for their predictive value in technical analysis. Traders apply these ratios to identify potential reversal levels on stock charts. The philosophy behind this application is that after a significant price movement, either up or down, new support and resistance levels are often at or near these Fibonacci levels. The practical manifestation of these principles is evident in tools like Fibonacci retracements, where horizontal lines are drawn on a chart to indicate where support and resistance are likely to occur, based on the Fibonacci levels.
 
-# Theoretical Foundation
+## Theoretical Foundation
 
 At the core of Fibonacci trading lies the Golden Ratio, approximately 1.618, often denoted by the Greek letter phi (Φ). This ratio emerges from the Fibonacci sequence when a number in the series is divided by its immediate predecessor, and as the numbers get higher, the result converges on the Golden Ratio. This irrational number is not only aesthetically pleasing but also appears in various facets of the universe, from the spirals of galaxies to the growth patterns of many living things.
 
@@ -25,7 +25,7 @@ def calculate_golden_ratio(sequence_length):
     fibonacci_number = round(phi ** sequence_length / 5 ** 0.5)
     return fibonacci_number
 
-# Generating a Fibonacci sequence and finding the ratio
+## Generating a Fibonacci sequence and finding the ratio
 fib_sequence = [calculate_golden_ratio(i) for i in range(2, 10)]
 golden_ratios = [fib_sequence[i] / fib_sequence[i - 1] for i in range(1, len(fib_sequence))]
 ```
@@ -36,7 +36,7 @@ The elegance of Fibonacci trading lies in its universality; these levels hold ac
 
 For a comprehensive understanding of the Golden Ratio and its significance in market analysis, "The Misbehavior of Markets" by Benoit Mandelbrot provides an insightful exploration into the fractal nature of financial markets, and how the seemingly chaotic movements still conform to underlying patterns, much like the Fibonacci sequence itself[1].
 
-# Fibonacci Trading Tools
+## Fibonacci Trading Tools
 
 Fibonacci trading tools are pivotal in identifying support and resistance levels, entry and exit points, and potential reversal zones. The primary tools include Fibonacci retracements, extensions, arcs, fans, and time zones. These tools take root in the principle that markets move in predictable patterns, which the Fibonacci numbers can help decipher.
 
@@ -50,18 +50,18 @@ Here's how to calculate and plot Fibonacci retracement levels with Python, using
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Define the high and low price points
+## Define the high and low price points
 high_price = 215.0
 low_price = 157.0
 
-# Calculate the difference
+## Calculate the difference
 price_range = high_price - low_price
 
-# Calculate retracement levels
+## Calculate retracement levels
 levels = [0, 0.236, 0.382, 0.5, 0.618, 1]
 price_levels = [high_price - (level * price_range) for level in levels]
 
-# Plotting
+## Plotting
 plt.figure(figsize=(10, 6))
 for price_level in price_levels:
     plt.hlines(price_level, xmin=0, xmax=1, colors='blue', linestyles='--')
@@ -75,7 +75,7 @@ To set up these tools on a trading platform, traders typically select the Fibona
 
 For further reference and a deep understanding of these tools, "Technical Analysis of the Financial Markets" by John J. Murphy provides a detailed explanation of Fibonacci as well as other technical analysis tools. Murphy's text is particularly useful for understanding how these tools integrate into broader market analysis strategies[2].
 
-# Advanced Fibonacci Applications
+## Advanced Fibonacci Applications
 
 Fibonacci tools are not standalone predictors but are most powerful when combined with other technical indicators to validate trading signals. For instance, a Fibonacci retracement level coinciding with a moving average or a RSI (Relative Strength Index) turning point can provide a stronger case for a potential reversal. These confluences enhance the predictive power of a trader's strategy, allowing for more nuanced market entries and exits.
 
@@ -87,22 +87,22 @@ Let's consider a scenario where a trader is combining Fibonacci retracement leve
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Simulated price data
+## Simulated price data
 np.random.seed(0)
 price = np.cumprod(1 + np.random.randn(100) * 0.01) * 100
 
-# Calculate 100-period moving average
+## Calculate 100-period moving average
 moving_average = np.convolve(price, np.ones((100,))/100, mode='valid')
 
-# Identify potential high and low points for Fibonacci retracement
+## Identify potential high and low points for Fibonacci retracement
 high_price = np.max(price[:len(moving_average)])
 low_price = np.min(price[:len(moving_average)])
 fib_levels = [0, 0.236, 0.382, 0.5, 0.618, 1]
 
-# Calculate the Fibonacci retracement levels
+## Calculate the Fibonacci retracement levels
 retracement_levels = [high_price - (high_price - low_price) * level for level in fib_levels]
 
-# Plotting the price, moving average, and Fibonacci levels
+## Plotting the price, moving average, and Fibonacci levels
 plt.figure(figsize=(14, 7))
 plt.plot(price, label='Price')
 plt.plot(range(99, 99 + len(moving_average)), moving_average, label='100-Period Moving Average', color='red')
@@ -115,7 +115,7 @@ plt.show()
 
 In the above code, the moving average is used to determine the trend, while the Fibonacci levels provide potential retracement targets within that trend.
 
-# Time Frame Analysis
+## Time Frame Analysis
 
 The efficacy of Fibonacci trading is not confined to a single time frame but spans across various scales of market observation. Short-term traders might employ Fibonacci analysis on minute-to-minute charts, while long-term investors might look at daily, weekly, or even monthly patterns. The adaptability of Fibonacci tools across time frames is one of their most potent features.
 
@@ -127,7 +127,7 @@ Adjusting Fibonacci strategies across different time frames involves considering
 
 When applying Fibonacci levels, it is critical to align your strategy with the prevailing trend. A common mistake is to look for retracements without considering the direction of the market. A retracement in an uptrend is not the same as a retracement in a downtrend; the former is often a buying opportunity, while the latter could be a trap if the overall trend is downwards.
 
-# Fibonacci in Various Markets
+## Fibonacci in Various Markets
 
 Fibonacci strategies exhibit remarkable versatility, applicable across various asset classes, including stocks, forex, commodities, and cryptocurrencies. Each market has its unique characteristics, but the fundamental principles of Fibonacci remain constant, serving as a tool for identifying potential support and resistance levels.
 
@@ -143,7 +143,7 @@ Comparing the effectiveness of Fibonacci across these markets reveals that no ma
 
 Each market's unique attributes necessitate a tailored approach to employing Fibonacci strategies. The key to success lies not just in the application of these strategies but also in the trader's ability to discern market nuances, align with the prevailing trend, and exercise discipline in risk management.
 
-# Performance and Limitations
+## Performance and Limitations
 
 The performance of Fibonacci trading strategies is often debated in the financial community. Proponents argue that Fibonacci retracement levels are invaluable tools for identifying reversal points in the price trajectory of an asset, while skeptics point to the subjective nature of selecting the high and low points from which these levels are drawn.
 
@@ -155,7 +155,7 @@ Despite their popularity, Fibonacci trading tools have limitations and are subje
 
 In addition, no trading strategy, including those based on Fibonacci levels, can predict market movements with complete accuracy. External factors, such as economic events or changes in market sentiment, can override technical patterns. Therefore, while Fibonacci tools can enhance a trading strategy, they should be used in conjunction with other analysis methods and sound risk management practices.
 
-# Conclusion
+## Conclusion
 
 In summary, the Fibonacci sequence transcends simple mathematics, influencing diverse fields, including financial market analysis. The Golden Ratio derived from this sequence provides a foundation for Fibonacci trading tools which, when applied correctly, can offer significant insights into potential market reversals and support/resistance levels.
 
@@ -170,7 +170,7 @@ While the effectiveness of Fibonacci strategies can be quantified by statistical
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: ["The Misbehavior of Markets"](https://www.amazon.com/Misbehavior-Markets-Fractal-Financial-Turbulence/dp/0465043577) by Benoit Mandelbrot
 

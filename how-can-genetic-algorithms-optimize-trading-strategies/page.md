@@ -9,28 +9,28 @@ Financial markets are notoriously complex and dynamic. Traders are constantly se
 
 
 
-# Understanding genetic algorithms
+## Understanding genetic algorithms
 
 Genetic algorithms draw on evolutionary theory and genetics to find solutions to complex problems. They use techniques such as selection, crossover and mutation to evolve and continuously improve a set of potential solutions.
 
-# Application to trading strategies
+## Application to trading strategies
 
 - **Creating an Initial Population**: Trading strategies are randomly generated to form an initial population. Each strategy is represented by a series of parameters.
 - **Evaluation and Selection**: Each strategy (or individual) in the population is evaluated according to its performance on historical data. The best strategies are then selected for reproduction.
 - **Crossover and Mutation**: New strategies are created by combining the characteristics of the selected strategies (crossover). In addition, random mutations are introduced to guarantee diversity and avoid convergence towards local solutions.
 - **New Generation**: The new strategies created replace the old ones, and the process is repeated until an optimal strategy is found or a predefined number of generations is reached.
 
-# Advantages of using Genetic Algorithms
+## Advantages of using Genetic Algorithms
 
 - **Exploring a vast space of solutions**: Genetic algorithms can explore a much wider range of potential strategies than traditional approaches.
 - **Adaptability**: As markets constantly evolve, genetic algorithms can adapt by adjusting strategies to meet new market conditions.
 
-# Important considerations
+## Important considerations
 
 - **Risk of overfitting**: It is essential to ensure that the optimized strategy is not overfitted to historical data, which could render it ineffective in the face of new conditions.
 - **Computational complexity**: The evolutionary process can be costly in terms of computational resources, particularly for large populations or a large number of generations.
 
-# Conclusion
+## Conclusion
 
 Genetic algorithms offer a fascinating and robust method for optimizing trading strategies. By simulating the evolutionary process, they make it possible to dynamically explore and adapt solutions in the ever-changing environment of financial markets. However, as with any technique, it's crucial to approach genetic algorithms with a thorough understanding and careful attention to potential challenges.
 

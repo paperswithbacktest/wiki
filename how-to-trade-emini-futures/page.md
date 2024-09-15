@@ -12,7 +12,7 @@ In the vast ecosystem of the financial market, E-minis have carved out a unique 
 This guide aims to provide readers with a comprehensive overview of Emini futures—from their historical roots to advanced trading strategies. Whether you're a seasoned trader looking to diversify your portfolio or a beginner seeking to understand the basics, our objective is to equip you with the knowledge needed to navigate the world of E-mini futures trading with confidence.
 
 
-# History & Origins of Emini Futures
+## History & Origins of Emini Futures
 
 The story of Emini futures, a transformative financial instrument in today's markets, begins in the mid-1990s. With the rapid growth of electronic trading and the pressing need for more accessible futures contracts for individual traders, the Chicago Mercantile Exchange (CME) pioneered the concept of the Emini futures. Introduced in September 1997, the first E-mini contract was for the S&P 500 index and quickly gained traction as a preferred instrument for traders worldwide[1].
 
@@ -22,7 +22,7 @@ While both traditional futures and Emini futures serve as binding agreements to 
 
 Moreover, the evolution of Emini futures has not only simplified futures trading but also democratized it. The reduced size and cost, combined with the flexibility of electronic trading, have allowed a broader range of participants to access the futures markets, breaking the barriers that once restricted entry to only the largest financial players.
 
-# Basics of Emini Futures
+## Basics of Emini Futures
 
 Emini futures, often simply referred to as "E-minis," are electronically traded futures contracts that represent a fraction of the value of standard futures contracts. Initially designed to accommodate individual investors who found the standard futures contracts too large or capital-intensive, E-minis offer a more manageable and cost-effective entry into futures trading.
 
@@ -32,7 +32,7 @@ The most apparent difference between E-mini and traditional futures is their siz
 
 Furthermore, while both contract types serve the same fundamental purpose—allowing traders to speculate or hedge on the price movement of the underlying asset—their accessibility and required capital differ significantly. The lower margin requirements of E-minis enable traders to control a substantial amount of the asset for a fraction of its total value, enhancing leverage but also increasing potential risk. As such, while E-minis have democratized access to futures markets, they demand a clear understanding and prudent risk management from traders.
 
-# Advantages of Trading Emini Futures
+## Advantages of Trading Emini Futures
 
 Emini futures, particularly those tracking major indices like the E-mini S&P 500, have rapidly gained popularity among traders, both novices and seasoned professionals. A significant reason behind this burgeoning interest lies in the numerous advantages that these contracts offer.
 
@@ -44,7 +44,7 @@ Another noteworthy aspect is their flexibility and **accessibility**. Emini futu
 
 Risk management, a cornerstone of any successful trading strategy, is also enhanced when trading Emini futures. The smaller contract size gives traders the ability to more **precisely control exposure** and better manage potential losses. Moreover, since Emini futures are derivatives, they allow for hedging against other investment positions. For instance, an investor holding a diverse portfolio of stocks can use Emini futures to hedge against broad market downturns.
 
-# Preparing to Trade
+## Preparing to Trade
 
 Entering the world of Emini futures trading requires more than just a keen interest. Proper preparation, both in terms of finances and mindset, is pivotal to navigate the ebbs and flows of this dynamic market.
 
@@ -56,7 +56,7 @@ Lastly, crafting a solid trading plan can be the difference between success and 
 
 Trading Emini futures can be rewarding, but like any investment, it comes with risks. By ensuring you have the necessary capital, understanding your risk profile, and sticking to a well-defined trading plan, you position yourself for a more informed and strategic approach to this market.
 
-# Emini Trading Strategies
+## Emini Trading Strategies
 
 Emini futures, with their high liquidity and tight bid-ask spreads, offer traders multiple strategies to capitalize on market movements. Let's delve into some of the most prevalent strategies traders employ.
 
@@ -74,7 +74,7 @@ Example setups and signals for entry largely depend on the trader's chosen strat
 
 Understanding and mastering these strategies requires time, practice, and continual learning. As always, practicing on a demo account and incorporating solid risk management techniques is advised before committing real capital.
 
-# Technical Aspects
+## Technical Aspects
 
 Technical analysis, when used effectively, can be a potent tool for traders. While there are countless indicators available, certain ones have proven particularly effective for Emini futures trading. Among these are:
 
@@ -86,7 +86,7 @@ Technical analysis, when used effectively, can be a potent tool for traders. Whi
 
 Setting up Emini charts correctly is crucial. Begin with selecting a timeframe appropriate for your trading strategy, whether it's intraday, daily, or weekly charts. Incorporate volume data, as it's invaluable for understanding market dynamics. Add key levels of support and resistance, and overlay your chosen indicators for a comprehensive view.
 
-# Practical Trading Tips
+## Practical Trading Tips
 
 In the fast-paced world of Emini futures trading, the right strategy can make all the difference between profit and loss. To give yourself the best chance at success, consider these practical tips.
 
@@ -100,7 +100,7 @@ In the fast-paced world of Emini futures trading, the right strategy can make al
 
 **Handling the psychological stress of trading**: Trading is as much a mental game as it is a financial one. Develop a routine that includes regular breaks, maintain a trading journal to reflect on both successful and unsuccessful trades, and consider meditation or mindfulness exercises to stay centered. Surrounding yourself with a supportive trading community can also be beneficial, providing both camaraderie and different market perspectives[8].
 
-# Trading Resources and Tools
+## Trading Resources and Tools
 
 Selecting the right tools and resources is paramount in Emini futures trading. While individual preferences and needs may vary, here are some generally recommended essentials to enhance your trading journey.
 
@@ -112,7 +112,7 @@ Selecting the right tools and resources is paramount in Emini futures trading. W
 
 ![Screenshot 2023-11-20 at 13.03.19.png](images/Screenshot_2023-11-20_at_13.03.19.png)
 
-# Global Implications
+## Global Implications
 
 The E-mini S&P 500 futures, often considered a barometer for the U.S. stock market, are not only influenced by domestic factors but also by a myriad of global forces. Central bank decisions, geopolitical events, and international economic indicators can cause ripples in the E-mini S&P 500 market. For instance, an announcement by the European Central Bank about its monetary policy can sway investor sentiment, leading to potential price fluctuations in E-mini contracts.
 
@@ -124,7 +124,7 @@ Regarding the relation of E-mini futures in the global marketplace, these contra
 
 Foreign institutional investors, particularly those from countries with restrictions on direct foreign investments, often use E-mini futures as a way to gain exposure or hedge their positions against U.S. equities. Their accessibility, liquidity, and the leverage they provide make them an attractive instrument for global portfolio diversification.
 
-# Micro E-mini Futures
+## Micro E-mini Futures
 
 Micro E-mini futures represent a smaller-sized version of their standard E-mini counterparts. Launched by CME Group in 2019, these contracts provide traders with a lower-cost way to gain exposure to popular indices such as the S&P 500, NASDAQ-100, Russell 2000, and Dow Jones Industrial Average.
 
@@ -136,7 +136,7 @@ One of the notable similarities is their utility in hedging and speculation. Mic
 
 However, it's essential to understand that while Micro E-mini contracts offer a reduced financial commitment, they also provide proportionally smaller profit and loss potential per contract. So, for traders seeking larger contract sizes for more significant exposure, the standard E-minis might be more appropriate.
 
-# Conclusion
+## Conclusion
 
 E-mini futures, with their origin rooted in providing traders an electronically traded option, have become a cornerstone in the financial markets. Their rise in popularity can be attributed not just to the technological shift, but also to the accessibility and flexibility they offer over traditional futures. Whether you're intrigued by their historical context, the basic mechanics, or the advanced trading strategies and technical aspects, one thing remains crystal clear: understanding these instruments is paramount.
 
@@ -153,7 +153,7 @@ As you embark or continue on this trading journey, always prioritize understandi
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **What are E-mini futures?**
 
@@ -195,7 +195,7 @@ While both have their advantages, E-mini futures often offer more leverage and p
 
 E-mini futures are primarily traded on the CME Globex platform. To access this platform, you'll need to open an account with a futures broker that offers access to CME products.
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: [CME Group - E-mini S&P 500 Future](https://www.cmegroup.com/trading/equity-index/us-index/e-mini-sandp500.html)
 

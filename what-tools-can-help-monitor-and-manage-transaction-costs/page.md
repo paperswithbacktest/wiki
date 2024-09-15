@@ -8,7 +8,7 @@ description: "Discover tools and methods for monitoring and managing transaction
 Monitoring and managing **transaction costs** are essential to optimizing the performance of a trading strategy. Fortunately, there are a number of tools and techniques that can help quantify, analyze, and reduce these costs. Here are some recommended tools and methods for effectively managing transaction costs.
 
 
-# Tools for monitoring and managing transaction costs
+## Tools for monitoring and managing transaction costs
 
 1. **Order Management Systems (OMS)**: These systems provide a complete view of past, current, and future orders. They also monitor the costs associated with each transaction.
 2. **Execution Management Systems (EMS)**: These tools are designed to manage order execution. They provide real-time data on execution quality and can help identify where transaction costs can be reduced.
@@ -16,7 +16,7 @@ Monitoring and managing **transaction costs** are essential to optimizing the pe
 4. **Intelligent trading algorithms**: Many brokers offer trading algorithms designed to minimize market impact and therefore reduce transaction costs.
 5. **TCA (Transaction Cost Analysis)**: TCA tools provide a detailed analysis of transaction costs, comparing execution performance with benchmarks and identifying sources of cost.
 
-# Tips for reducing transaction costs
+## Tips for reducing transaction costs
 
 1. **Diversify execution sources**: Don't rely on just one broker or platform. By diversifying, you can reduce costs by using the most economical source for each transaction.
 2. **Optimize trading frequency**: Reducing trading frequency can minimize associated costs.

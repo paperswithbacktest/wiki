@@ -8,31 +8,31 @@ description: "Discover how statistical arbitrage, a popular strategy used by hed
 Statistical arbitrage is a quantitative strategy widely used by many hedge funds and algorithmic traders. Based on mathematical and statistical models, this approach seeks to profit from temporary price differences between related assets. But how exactly does statistical arbitrage work? Let's take a look.
 
 
-# The basic principle
+## The basic principle
 
 At the heart of statistical arbitrage lies the idea that the prices of linked assets tend to move together over the long term. If, for whatever reason, prices temporarily diverge (move away from their historical relationship), they will probably return to their normal relationship. The arbitrageur seeks to profit from these temporary divergences.
 
-# Trading pairs
+## Trading pairs
 
 One of the most common forms of statistical arbitrage is pair arbitrage. Traders identify two stocks (or other assets) whose prices have historically moved together. When these prices diverge, the trader buys the undervalued asset and sells short the overvalued one, expecting the prices to converge again.
 
-# Mathematical models
+## Mathematical models
 
 Statistical arbitrage relies heavily on mathematical models to identify opportunities. Common methods include cointegration, regression, and other statistical techniques to measure and predict relationships between assets.
 
-# Risks and benefits
+## Risks and benefits
 
 Like all trading strategies, statistical arbitrage involves risks. For example, assets may not converge as expected. However, properly executed, the strategy can offer attractive risk-adjusted returns, as it is often considered market-neutral (it can make profits irrespective of the direction of the overall market).
 
-# Fast execution
+## Fast execution
 
 Since statistical arbitrage is based on temporary market inefficiencies, fast order execution is essential. Traders often use high-frequency algorithmic trading platforms to quickly identify and exploit these opportunities.
 
-# Use of technology
+## Use of technology
 
 The effectiveness of statistical arbitrage depends largely on the quality of the data and the tools used to analyze that data. Traders often invest in high-end databases, software and hardware to improve the accuracy of their predictions.
 
-# Conclusion
+## Conclusion
 
 Statistical arbitrage is a sophisticated strategy that takes advantage of historical relationships between assets to generate profits. Although it requires solid expertise in mathematics, statistics and finance, it offers a promising avenue for traders looking to capitalize on temporary market inefficiencies.
 

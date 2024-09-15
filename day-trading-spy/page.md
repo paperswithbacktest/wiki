@@ -13,7 +13,7 @@ The allure of day trading SPY lies in its potential for quick profits due to the
 
 For those considering this approach, it’s essential to understand that day trading is not a guaranteed profit scheme; it requires a strategic mindset, a deep understanding of market indicators, and a strong grip on technical analysis to identify the right moments to enter and exit trades. The SPY's importance in the market, coupled with the high-stakes nature of day trading, creates a dynamic environment that, while potentially profitable, demands respect for the risks involved and an adherence to disciplined trading practices.
 
-# Understanding SPY Options
+## Understanding SPY Options
 
 SPY options are derivative contracts that give traders the right, but not the obligation, to buy or sell the SPDR S&P 500 ETF Trust shares at a specified price, known as the strike price, before the option expires. These options are a pivotal tool for traders because they offer a way to gain exposure to the performance of the S&P 500 index while requiring less capital than would be needed to buy the ETF shares outright. The significance of SPY options for traders cannot be overstated—they provide a highly liquid market that allows for quick entry and exit, with tight bid-ask spreads and substantial volume.
 
@@ -23,7 +23,7 @@ When it comes to the basics of options trading with SPY, understanding the key t
 
 For those seeking to deep dive deeper into the intricacies of SPY options and their strategic application in day trading, "Options as a Strategic Investment" by Lawrence G. McMillan is a comprehensive resource that covers a range of strategies and concepts applicable to trading SPY options[1].
 
-# Technical Analysis for SPY Options
+## Technical Analysis for SPY Options
 
 Technical analysis is an essential tool for SPY options traders. It involves scrutinizing past market data, primarily through charts, to forecast future price movements and identify trading signals. Traders rely on various chart patterns, indicators, and oscillators to make informed decisions.
 
@@ -39,7 +39,7 @@ The timing of trades around these expiration days is strategic. For instance, tr
 
 For a comprehensive understanding of technical analysis specific to options, "Technical Analysis of the Financial Markets" by John J. Murphy provides a detailed exploration of the subject. Murphy’s work is considered a seminal text in the field, offering insights into how technical analysis can be tailored for the unique characteristics of options trading, including those of SPY options[2].
 
-# Strategic Trading Hours
+## Strategic Trading Hours
 
 Identifying the best trading hours for SPY options is crucial for day traders looking to maximize their profits. Historical data and market volatility analysis reveal that the first and last hour of the trading day, known as the opening and closing bells, respectively, are often the most volatile. During these windows, trading volume surges as institutional investors adjust positions and traders react to overnight news and economic reports.
 
@@ -55,7 +55,7 @@ A comparative study of trading hours indicates that mid-day trading tends to be 
 
 For day traders, understanding these patterns is essential for strategizing entry and exit points. By aligning trades with the times of increased volatility, traders can potentially improve the profitability of their trades, provided they also adhere to robust risk management practices to safeguard against the unpredictable nature of the market.
 
-# Trading Strategies for SPY Options
+## Trading Strategies for SPY Options
 
 Trading strategies for SPY options are as varied as the traders who implement them, each with its own risk profile and market view. A popular method is **trend trading**, where traders look to capitalize on the momentum of the market, entering trades in the direction of a prevailing trend. Indicators like moving averages and MACD can help identify these trends.
 
@@ -67,7 +67,7 @@ Some traders prefer to use **options spreads**, such as vertical spreads, iron c
 
 Professional traders often use a combination of strategies, adapting their approach to changing market conditions. A case study often referenced by experts is the trade executed on February 5, 2018, when the SPY experienced a significant drop. Traders who had employed a strategy combining protective puts and short calls (a form of a straddle) were able to mitigate losses and, in some cases, profit from the volatility spike.
 
-# Risk Management in Day Trading SPY
+## Risk Management in Day Trading SPY
 
 Risk management is the cornerstone of successful day trading with SPY options. It involves identifying, assessing, and deciding how to handle various factors that could lead to financial loss. The key to managing these risks lies in the implementation of robust strategies that aim to preserve capital and maintain portfolio longevity.
 
@@ -83,7 +83,7 @@ Lastly, maintaining a trading journal to track performance and decision-making p
 
 For a deeper exploration of these concepts, the book "Trading Risk: Enhanced Profitability through Risk Control" by Kenneth L. Grant offers a comprehensive guide to risk management tailored to the needs of professional traders. Grant provides actionable strategies and frameworks for managing risk in the trading of financial instruments like SPY options[3].
 
-# Trading Psychology and Discipline
+## Trading Psychology and Discipline
 
 Trading psychology and discipline are paramount in day trading SPY options, where emotional decision-making can be costly. The psychological aspect involves maintaining a level head and clear focus in the face of market volatility. Traders must manage their emotions, particularly fear and greed, which can lead to hasty decisions like chasing losses or deviating from a trading plan.
 
@@ -97,7 +97,7 @@ Mindfulness and meditation can also be incorporated into a trader's routine to i
 
 ![Untitled](images/Untitled%202.png)
 
-# Day Trading SPY with a Small Account
+## Day Trading SPY with a Small Account
 
 Day trading SPY with a small account is a challenge that requires strategic planning and meticulous risk management. Traders with limited capital must leverage the power of compounding gains while protecting their downside. One effective strategy is to focus on percentage returns, not dollar amounts, which can lead to more consistent account growth.
 
@@ -109,7 +109,7 @@ Another approach is to take advantage of the leverage provided by options. Buyin
 
 For small account traders, it's also important to keep costs low. This means selecting a brokerage with competitive fees and commission structures that won't erode profits. Some brokerages offer free options trades or very low-cost contract fees, which can be a boon to traders mindful of their budget.
 
-# Legal and Tax Implications
+## Legal and Tax Implications
 
 Day trading SPY options carries specific legal and tax implications that traders must be aware of to ensure compliance and optimal financial planning. Legally, day traders are subject to regulations set forth by the Securities and Exchange Commission (SEC) and other financial authorities, which include rules on pattern day trading and maintaining minimum account balances.
 
@@ -123,7 +123,7 @@ Day traders may also be eligible to claim certain expenses related to their trad
 
 For detailed guidance, traders should refer to IRS Publication 550, which outlines the tax treatment of investment income and expenses, and IRS Publication 544, which focuses on sales and other dispositions of assets. These publications provide authoritative information on the tax rules applicable to day trading activities. It's advisable for traders to consult with a tax professional who can provide advice tailored to their specific situation.
 
-# Conclusion
+## Conclusion
 
 In the journey to mastering day trading with SPY options, we’ve covered the broad landscape, from the foundational understanding of SPY's market significance to the intricate strategies that can be employed for trading success. We explored the importance of SPY options for their liquidity and price discovery benefits and discussed the necessity of grasping basic terminologies and concepts. We emphasized the critical role of technical analysis in identifying trading signals and considered how the unique expiration schedule of SPY options affects strategy.
 
@@ -138,7 +138,7 @@ For a comprehensive list of resources, references, and further reading, please r
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: ["Options as a Strategic Investment"](https://www.optionstrategist.com/products/options-strategic-investment-5th-edition) by Lawrence G. McMillan
 

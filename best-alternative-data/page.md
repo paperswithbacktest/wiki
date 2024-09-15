@@ -18,55 +18,55 @@ Alternative data refers to non-traditional data sources that traders use to gain
 
 The rise of alternative data is indicative of a broader shift in the financial sector, where innovative approaches and tools are consistently being sought after to enhance decision-making and generate alpha. As the landscape of algorithmic trading evolves, the fusion of traditional trading strategies with insights derived from alternative data is setting the stage for the next generation of trading.
 
-# Types of Alternative Data in Algo Trading
+## Types of Alternative Data in Algo Trading
 
 Alternative data, an untraditional data source employed within algorithmic trading, is widely recognized for providing nuanced, timely, and sometimes unexplored insights, ultimately enhancing trading strategies and investment decisions. Below we deep dive into specific types of alternative data, illustrating their utility and importance within algo trading.
 
-## Satellite Imagery
+### Satellite Imagery
 
 Satellite imagery permits traders to glean a birds-eye view of various global activities. For instance, by analyzing images of agricultural fields, traders can predict crop yields before official reports are released, influencing commodity trading decisions. Similarly, observing oil reserves can provide insights into potential shifts in oil prices. Infrastructure developments, often captured by satellites, can serve as an indicator of economic activity and corporate health.
 
-## Geolocation
+### Geolocation
 
 This alternative data type primarily pertains to capturing consumer and retail insights by tracking foot traffic and consumer behavior. Through analyzing geolocation data, traders can, for example, observe the popularity of retail locations, predict sales revenue, and subsequently, make informed investment decisions related to the retail sector. Additionally, understanding migration patterns can aid in forecasting economic shifts in particular regions.
 
-## Corporate Data
+### Corporate Data
 
 Corporate data encapsulates a myriad of insights directly from company operations, which often go beyond what is disclosed in public reports. Hiring trends, for instance, could be deciphered through scrutinizing job posting data, providing clues about a company's growth, expansion, or technological advancement. Product launches and their subsequent performance, gathered from various platforms, allow traders to analyze consumer response and predict company revenues. Furthermore, accessing internal company data, where permissible, enables traders to understand the firm's health and strategic direction.
 
-## Traffic Data
+### Traffic Data
 
 In an era where digital presence can indicate a company’s pulse and customer engagement, web traffic and app usage data serve as proxies for gauging consumer interest and potential revenue. Astute traders leverage this data, analyzing metrics like website visits, page views, and bounce rates to infer the popularity of e-commerce platforms or digital services. Similarly, app usage data, reflecting download counts and user engagement metrics, can intimate the acceptance and viability of mobile applications, assisting traders in anticipating stock movements of tech-centric firms.
 
-## Credit Card Transactions
+### Credit Card Transactions
 
 This data strata sifts through the spending habits of consumers, offering a real-time lens into retail performance, sectoral spends, and potentially, the economic health of regions. By tracking anonymized credit card transactions, traders can apprehend consumer spending patterns, seasonality in purchases, and thereby predict the financial performance of retail entities and sectors. The volume, frequency, and type of transactions can guide investors toward establishing correlational patterns with stock performances and industry trends.
 
-## Derivatives Data
+### Derivatives Data
 
 Derivatives transactions, particularly those that occur off-exchange, or “over-the-counter” (OTC), unmask a subset of financial market operations often obfuscated from traditional data sources. Off-exchange derivatives data uncovers trades and strategies implemented outside public exchanges, shedding light on institutional investment tactics, hedging strategies, and risk management practices. This data, while sometimes less transparent, can allow traders to delineate patterns, identify potential market movements, and understand the undercurrents of large-scale trading entities.
 
-## Internet of Things (IoT) Data
+### Internet of Things (IoT) Data
 
 Traders implement IoT data, comprised of information procured through interconnected devices and systems, to decipher tangible usage trends and device connectivity that can indirectly indicate consumer behaviour and product performance. This might encompass smart home data (like energy usage and appliance performance), wearable tech data (tracking health and fitness metrics), and more. By analyzing this data, traders can unveil insights into consumer preferences, product adoption, and potential market growth, thereby predicting stock performance of companies involved in IoT product manufacturing and services.
 
-## Location Data
+### Location Data
 
 In a globalized economy, the movement of goods and the insights derived from logistics bear a substantial impact on various sectors, especially e-commerce, manufacturing, and retail. Analyzing location data, which encompasses monitoring shipping routes, warehouse stocking, and delivery times, provides a real-time pulse on supply chains and logistical efficiency. For traders, this data becomes pivotal in predicting possible interruptions in supply chains or understanding the scalability and reliability of e-commerce platforms and logistic companies, offering lucrative trading opportunities.
 
-## POS Systems Data
+### POS Systems Data
 
 Point of Sale (POS) systems churn out a plethora of information related to retail performance and inventory management. This encompasses sales data, inventory turnover rates, and customer purchase histories, which are instrumental for algorithmic traders to forecast retail stock performance and understand consumer trends. Utilizing this data helps traders to pinpoint which products are performing well in the market, subsequently allowing for informed decisions regarding retail companies’ stock trades.
 
-## Reference Data
+### Reference Data
 
 Reference data serves as an anchor, offering external data sets for validation and benchmarks. This can include market indexes, interest rates, or exchange rates, providing a macroeconomic backdrop against which other alternative data can be analyzed. For algo traders, utilizing reference data enables the standardization and normalization of trading strategies, ensuring that algorithms act within relevant and realistic market contexts, thereby minimizing erroneous trades or misinterpretations of market conditions.
 
 ![Alternative data.png](images/Alternative_data.png)
 
-# Deep Dive into Popular Alternative Data Sources
+## Deep Dive into Popular Alternative Data Sources
 
-## Web Scraping for Algo Trading
+### Web Scraping for Algo Trading
 
 Web scraping, an intricate process of extracting vast amounts of data from websites, has emerged as a staple in the algo trading world. The value proposition of web scraping lies in its capability to harness information from multiple websites at scale, offering a reservoir of data that may otherwise be inaccessible or labor-intensive to compile.
 
@@ -76,7 +76,7 @@ However, while web scraping holds immense potential, it's not without challenges
 
 The realm of web scraping, when maneuvered ethically and judiciously, can unlock a treasure trove of data, bolstering the efficacy of algo trading strategies and enhancing the trader's edge in competitive markets.
 
-## Popular Free Data Sources
+### Popular Free Data Sources
 
 Navigating through the myriad of free data sources is pivotal in identifying valuable, actionable insights for algorithmic trading.
 
@@ -92,7 +92,7 @@ The [**Kenneth French Data Library**](https://mba.tuck.dartmouth.edu/pages/facul
 
 In sum, the realm of free data sources for algorithmic trading is rich and varied, offering traders a buffet of options to enhance their models and strategies. The strategic incorporation and astute analysis of these data sources can markedly augment the acumen and execution of trading strategies in live markets.
 
-## Alternative Data Providers
+### Alternative Data Providers
 
 In the realm of algo trading, where optimal decisions are driven by high-quality data, a variety of alternative data providers have burgeoned, each bringing unique offerings to the table.
 
@@ -118,7 +118,7 @@ In the realm of algo trading, where optimal decisions are driven by high-quality
 
 Pertinently, the choice among these alternative data providers would typically rest on the specific needs, trading strategy, and targeted sector of the algo trader, warranting a meticulous understanding and application of the data provided.
 
-# Innovative Trading Strategies Utilizing Alternative Data
+## Innovative Trading Strategies Utilizing Alternative Data
 
 In the era of data-driven trading, deploying alternative data has become a pivotal strategy among algorithmic traders to garner unique market insights and establish profitable trades. The Brand Value Factor revolves around utilizing social media metrics and website analytics to gauge a company’s digital popularity, consumer engagement, and overall brand perception. Metrics like website traffic, social media followers, and online engagement can be direct indicators of a brand's value and, in turn, its stock performance.
 
@@ -132,7 +132,7 @@ The **Lexical Density of Filings strategy** employs analyzing the complexity and
 
 In essence, these innovative trading strategies encapsulate the myriad ways in which alternative data, when astutely analyzed and applied, can be transformed into a potent tool, enabling traders to navigate through the intricate tapestry of the financial markets.
 
-# The Growing Significance of ESG in Alternative Data
+## The Growing Significance of ESG in Alternative Data
 
 ESG, encompassing Environmental, Social, and Governance factors, has carved out a significant niche in the investment decision-making landscape, catalyzing a shift towards sustainability and ethical business practices within the financial industry. ESG reflects a company's approach towards managing its ecological impact, ensuring social responsibility, and maintaining governance practices involving leadership and shareholder rights. As sustainability becomes intertwined with financial viability, ESG components have metamorphosed into critical indicators, influencing investment considerations and shaping modern portfolio theories.
 
@@ -140,7 +140,7 @@ Alternative data, in the context of ESG, often encompasses information pertainin
 
 Social media sentiment, customer reviews, and employee feedback, obtained from platforms like Glassdoor or Twitter, offer real-time insights into a company's social and governance practices. Similarly, satellite imagery and IoT-derived data can highlight environmental factors by tracking pollution levels, energy usage, and resource management practices of businesses.
 
-# Challenges and Ethical Considerations
+## Challenges and Ethical Considerations
 
 Alternative data’s ascent in the realm of algo trading is irrefutable, but its adoption isn't without hurdles. Foremost, the accuracy and reliability of alternative data come into question. While these datasets may provide a wealth of insights, their credibility can be suspect, especially when originating from non-conventional sources. It's crucial for traders to exercise due diligence, ensuring **data quality, consistency, and validity**.
 
@@ -150,7 +150,7 @@ Regulatory considerations further complicate the landscape. Different countries 
 
 Incorporating alternative data into algo trading is a promising frontier, but the path is laden with challenges that necessitate a judicious approach, blending technological prowess with ethical responsibility.
 
-# Case Studies
+## Case Studies
 
 **Alpha Vertex and the Utilization of AI with Alternative Data**
 
@@ -172,7 +172,7 @@ Certain investment firms analyzed anonymized credit card transaction data to inf
 
 Orbital Insight, a geospatial analytics company, leveraged geolocation data to evaluate foot traffic patterns in retail stores. By assessing the gathered data, investors and traders could glean insights into store popularity and predict quarterly sales, thereby impacting investment decisions in the retail sector.
 
-# Future of Alternative Data in Algo Trading
+## Future of Alternative Data in Algo Trading
 
 Predictive analytics and machine learning are carving out the future of algo trading by augmenting alternative data. Enhanced computing capabilities are enabling traders to process complex and voluminous data, like satellite imagery and IoT device outputs, at unprecedented speeds, and with higher accuracy. For example, machine learning algorithms, through regression and classification models, can pinpoint hidden patterns and correlations in big datasets that escape human analysts, facilitating the generation of more potent trading signals[1].
 
@@ -182,7 +182,7 @@ Potential new sources of alternative data are also mushrooming with advancements
 
 Moreover, socio-economic shifts and global events continually mold the landscape of alternative data. For instance, during the COVID-19 pandemic, data pertaining to mobility trends, employment claims, and e-commerce spikes became invaluable in navigating the markets. Future scenarios will undoubtedly unearth fresh data types, necessitating traders to perpetually expand and refine their data acquisition and analysis methodologies to sustain a competitive edge in algo trading[3].
 
-# Conclusion
+## Conclusion
 
 The pivotal role of alternative data in the realm of algorithmic trading has been well articulated, serving as a bedrock for traders and investors aiming to sharpen their decision-making and enhance returns. As traditional financial metrics become common staples in investment algorithms, alternative data supplies unique, less tapped sources of information, conferring competitive advantages upon its adopters. For instance, geolocation data and satellite imagery grant real-time insights into consumer behavior and global economic activities, facilitating immediate, data-driven trading responses.
 
@@ -197,7 +197,7 @@ Navigating through the expansive universe of alternative data demands not only a
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **What is alternative data in the context of algo trading?**
 
@@ -231,7 +231,7 @@ The frontier of alternative data is continually expanding with advancements in I
 
 As more traders access and integrate alternative data, there's a possibility that the unique edge it offers might diminish. However, the constant evolution of data sources and the ability to combine datasets in innovative ways ensures continued opportunities for differentiation.
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: Jordan, M. I., & Mitchell, T. M. (2015). [Machine learning: Trends, perspectives, and prospects](https://www.science.org/doi/10.1126/science.aaa8415). Science, 349(6245), 255-260. DOI: 10.1126/science.aaa8415
 

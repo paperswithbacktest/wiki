@@ -11,7 +11,7 @@ The significance of the WTI-Brent Spread lies in its ability to indicate the hea
 
 Understanding the nuances of this spread is essential for trading strategies as it influences futures contracts and options pricing in the oil markets. Furthermore, the spread's volatility offers a fertile ground for arbitrage opportunities, enabling traders to profit from price discrepancies between these two major crude benchmarks.
 
-# Understanding WTI and Brent Crude
+## Understanding WTI and Brent Crude
 
 West Texas Intermediate (WTI) crude is a light and sweet oil stream produced in North America, primarily extracted from oil fields in Texas, Louisiana, and North Dakota. Its low density and sulfur content make it ideal for refining into gasoline and diesel. As a benchmark, WTI is used to price oil predominantly consumed in the Americas.
 
@@ -19,7 +19,7 @@ Brent Crude, on the other hand, is sourced from the North Sea and is a combinati
 
 The quality differences influence production costs and market prices, with Brent typically commanding a higher price due to its greater utility in making transport fuels, though this can vary based on market dynamics. The extraction cost for WTI is generally lower due to the onshore resources, whereas Brent's offshore extraction can be more expensive.
 
-# Historical Analysis of the WTI-Brent Spread
+## Historical Analysis of the WTI-Brent Spread
 
 The WTI-Brent spread, the price difference between West Texas Intermediate (WTI) and Brent crude oils, has been a critical metric for traders and analysts since the crude oils were established as benchmarks. Historically, the spread has been influenced by a variety of factors, including regional production volumes, geopolitical tensions, and changes in transportation infrastructure.
 
@@ -35,7 +35,7 @@ The historical analysis is not just a reflection of past price movements but als
 
 For a comprehensive understanding, traders often refer to seminal works such as "The Pricing of Crude Oil" by Bassam Fattouh, which delves into the complexities of oil benchmarks and their pricing mechanisms, offering insights into the intricacies of the WTI-Brent spread over time[1].
 
-# Factors Influencing the WTI-Brent Spread
+## Factors Influencing the WTI-Brent Spread
 
 Geopolitical risk is a significant factor affecting the WTI-Brent spread. Events such as political instability in oil-producing regions, sanctions, and conflicts can disrupt supply chains, affecting the availability and cost of oil. For instance, tensions in the Middle East can lead to a spike in Brent prices due to fears of supply disruptions, widening the spread if WTI prices remain stable.
 
@@ -49,7 +49,7 @@ Case studies highlighting these factors include the 2011 Arab Spring, which led 
 
 Understanding these factors is crucial for traders who seek to capitalize on fluctuations in the WTI-Brent spread. By closely monitoring geopolitical developments, transport cost variations, supply and demand changes, and shifts in market sentiment, traders can make informed predictions about the movement of the spread and adjust their strategies accordingly.
 
-# Pricing Models and Theoretical Framework
+## Pricing Models and Theoretical Framework
 
 The pricing models applied to decipher the WTI-Brent spread are integral to understanding not just the current state but also the predictive trends that can be harnessed for trading. Central to these models is the **mean-reversion theory**, which posits that prices will tend to move towards the average over time. This theory is particularly applicable to the WTI-Brent spread, which historically has shown periods of significant divergence from the mean, followed by a gradual return. Mean-reversion models capture this cyclical behavior by identifying the historical average and the speed at which prices revert to it.
 
@@ -63,7 +63,7 @@ The affine function model's accuracy is highly dependent on the correct estimati
 
 In essence, while these models are indispensable tools for traders and analysts, they must be employed with an understanding of their constraints and the recognition that no model can fully encapsulate the complex and ever-changing nature of oil markets. Their greatest utility lies in their ability to serve as baselines from which deviations can be analyzed for potential trading opportunities.
 
-# Trading the Spread - Strategies and Risks
+## Trading the Spread - Strategies and Risks
 
 Trading the WTI-Brent spread involves a range of strategies that traders employ to capitalize on the price differential between these two benchmarks. Statistical arbitrage is a popular approach, where traders look for discrepancies between the expected and the current spread, betting on the convergence to the historical mean. This method relies on complex algorithms and quantitative models to identify profitable opportunities.
 
@@ -75,7 +75,7 @@ Risk management is critical in spread trading. Traders often set predefined limi
 
 In sum, while the potential returns of spread trading can be lucrative, they come with significant risks that need to be carefully managed. A disciplined approach to risk management and a deep understanding of market dynamics are essential for traders operating in this space.
 
-# Econometric Analysis and Predictive Models
+## Econometric Analysis and Predictive Models
 
 Econometric analysis provides a quantitative backbone for assessing and forecasting the WTI-Brent spread. By applying statistical methods to economic data, these tools help in identifying patterns, testing theories, and making predictions. Time-series analysis is particularly prevalent, utilizing historical price data to forecast future movements of the spread. Models such as Autoregressive Integrated Moving Average (ARIMA) are commonly used, capable of capturing the nuances of volatility and trends over time.
 
@@ -85,7 +85,7 @@ Predictive modeling often incorporates variables beyond historical prices, such 
 
 However, the effectiveness of these models is subject to the quality of data and the stability of the underlying economic relationships. Structural breaks in the market, such as the 2020 pandemic's impact on oil demand, can render models based on past data less reliable. Therefore, while econometric tools and predictive models are powerful, they must be used with caution and in conjunction with a broader analysis of market conditions.
 
-# The Role of Derivatives and Futures Contracts
+## The Role of Derivatives and Futures Contracts
 
 Derivatives and futures contracts play a pivotal role in the dynamics of the WTI-Brent spread. Futures contracts, agreements to buy or sell oil at a predetermined price at a specified time in the future, allow traders to speculate on the direction of oil prices. The prices of these futures are a reflection of market expectations of future supply and demand, as well as traders' sentiment about global economic factors.
 
@@ -109,7 +109,7 @@ The futures curve can also be influenced by storage costs, interest rates, and e
 
 In essence, derivatives and futures contracts are not just financial instruments for hedging and speculation; they are also information mechanisms that reflect and influence the underlying market conditions that determine the WTI-Brent spread.
 
-# The WTI-Brent Spread and Global Economic Indicators
+## The WTI-Brent Spread and Global Economic Indicators
 
 The WTI-Brent spread is closely watched by market participants as it can be an indicator of global economic health. Correlation analysis between the spread and various economic indicators can reveal insights into global economic trends. For example, a widening spread may indicate a stronger demand for Brent, which could be associated with robust global economic activity, as Brent crude is tied to the international market. Conversely, a narrowing spread could suggest a regionalized discrepancy, such as increased production in the United States affecting WTI more than Brent.
 
@@ -119,7 +119,7 @@ Analysts often look at the spread in conjunction with other indicators such as G
 
 The relationship between the spread and economic indicators is not static and can be influenced by a myriad of factors, including policy changes, technological advancements in oil extraction and processing, and shifts in the geopolitical landscape. Therefore, continuous monitoring and analysis are essential for understanding the current state of the economy and the oil markets' role within it.
 
-# Future Outlook and Emerging Trends
+## Future Outlook and Emerging Trends
 
 Future movements of the WTI-Brent spread will continue to be shaped by evolving market dynamics, including shifts in global energy supply and demand, technological advancements in extraction and production, geopolitical developments, and changes in transportation infrastructure and costs.
 
@@ -131,7 +131,7 @@ Additionally, the adoption of new maritime regulations, like the International M
 
 Investors and traders must remain vigilant, adapting to these trends and incorporating them into their predictive models to anticipate future movements of the spread. The use of advanced analytics and continuous market monitoring will be key in navigating the complexities of the WTI-Brent spread in the years to come.
 
-# Conclusion
+## Conclusion
 
 The WTI-Brent spread is a complex and dynamic aspect of the global oil market, providing valuable insights into economic health, geopolitical stability, and supply-demand shifts. This guide has underscored the spread's significance as a benchmark for traders, reflecting factors from transportation costs to geopolitical risks. It has highlighted the necessity of understanding the underpinnings of WTI and Brent crude, from their properties and production costs to the intricacies of their price movements over time.
 
@@ -144,11 +144,11 @@ Strategies for trading the spread require a solid grasp of various pricing model
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: ["The Pricing of Crude Oil"](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/03/WPM40-AnAnatomyoftheCrudeOilPricingSystem-BassamFattouh-2011.pdf) by Bassam Fattouh
 
-# Glossary
+## Glossary
 
 **WTI (West Texas Intermediate):** A grade of crude oil used as a benchmark in oil pricing. It is sourced primarily from U.S. oil fields.
 

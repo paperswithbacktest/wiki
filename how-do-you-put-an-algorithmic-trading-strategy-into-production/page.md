@@ -8,36 +8,36 @@ description: "Discover the technical steps to put an algorithmic trading strateg
 Putting an algorithmic trading strategy into production requires a precise technical approach. Moving from a backtesting environment to a real-world operation presents many challenges that need to be addressed systematically. Here's a detailed technical guide to putting your algorithmic trading strategy into production.
 
 
-# Integration with the trading platform's API
+## Integration with the trading platform's API
 
 - **Authentication**: Implement OAuth mechanisms or API keys to secure the connection between your algorithm and the trading platform.
 - **Request management**: Manage API rate limits to avoid blocking. Use caching and queuing techniques to optimize request frequency.
 
-# Technical infrastructure
+## Technical infrastructure
 
 - **Servers**: Opt for low-latency servers, geographically close to the exchange's servers to reduce delays.
 - **Redundancy**: Implement redundancy systems to avoid interruptions. This includes backup servers, spare Internet connections, and uninterrupted power supplies.
 - **Database**: Use high-performance databases optimized for real-time processing, such as PostgreSQL or TimeScaleDB to store trading data.
 
-# Monitoring and alerts
+## Monitoring and alerts
 
 - **Dashboard**: Use tools like Grafana or Kibana to visualize your algorithm's performance in real-time.
 - **Logging**: Implement advanced logging systems like Logstash or ELK Stack to monitor operations and detect anomalies.
 - **Alerts**: Set up alerts via services like PagerDuty or Twilio to keep you informed in the event of malfunctions.
 
-# Technical risk management
+## Technical risk management
 
 - **Circuit Breakers**: These devices automatically interrupt algorithm execution in the event of unexpected behavior or rapid losses.
 - **Unit and integration testing**: Write and run regular tests to validate the logic of your algorithm and its integration with other systems.
 
-# Continuous updates and deployment
+## Continuous updates and deployment
 
 Use continuous updates and deployment.
 
 - **Containerization**: Use technologies like Docker to package your algorithm and its dependencies, facilitating deployment and updates.
 - **Continuous integration (CI)**: With tools like Jenkins or GitLab CI, automate the testing and deployment process with every change to the source code.
 
-# Version management
+## Version management
 
 - Use version control systems, such as Git, to track changes to your code and revert to earlier versions if necessary.
 

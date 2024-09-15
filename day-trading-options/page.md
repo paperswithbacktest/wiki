@@ -9,7 +9,7 @@ Day trading involves executing trades within a single trading day, ensuring posi
 
 However, the fast-paced nature of day trading, coupled with the complexities of options, makes it a double-edged sword. While the potential for significant gains exists, so does the risk of substantial losses. This inherent risk underscores the paramount importance of having a robust trading strategy. A well-crafted strategy serves as a trader's roadmap, guiding decision-making, managing risks, and increasing the probability of consistent profitability.
 
-# Understanding Options and Day Trading
+## Understanding Options and Day Trading
 
 Options are unique financial instruments that give traders the right, but not the obligation, to buy or sell an underlying asset, typically stocks, at a predetermined price, known as the strike price, within a specific timeframe. There are two main types of options: **calls** (which give the right to buy) and **puts** (which give the right to sell). It's essential to note that while the holder of an option has a right, the seller (or writer) of the option has an obligation. If the option holder exercises their right, the option seller must fulfill their end of the contract[1].
 
@@ -21,9 +21,9 @@ However, with this potential for increased return on investment comes amplified 
 
 While day trading options can present lucrative opportunities due to leverage, it also poses substantial risks. Traders can experience rapid losses, especially if they don't have a clear understanding of the intricacies of options and the dynamics of day trading. A careful balance of knowledge, strategy, and risk management is crucial for success in this domain.
 
-# The Cornerstones of Options Day Trading
+## The Cornerstones of Options Day Trading
 
-## Option Greeks
+### Option Greeks
 
 Option Greeks play a pivotal role in understanding the pricing and behavior of options. They are mathematical representations that describe various facets of risk associated with option pricing.
 
@@ -63,7 +63,7 @@ Moreover, traders anticipating significant news announcements might look at vega
 
 Understanding and leveraging these Greeks can significantly aid in decision-making processes in options day trading, enabling traders to align their trades with their market expectations more precisely[2].
 
-## Importance of Volatility
+### Importance of Volatility
 
 Volatility is a measure of the amount by which an underlying asset is expected to fluctuate in a given period. It's a critical component in the pricing and behavior of options, as it provides traders with an insight into potential future price movement.
 
@@ -79,7 +79,7 @@ A real-world example of this could be a pharmaceutical company awaiting FDA appr
 
 It's crucial to remember that volatility can make or break your trade. Buying options in high IV environments can be risky if the IV drops suddenly, leading to a phenomenon known as "volatility crush." This could result in significant losses, even if the underlying asset moves in your anticipated direction. On the flip side, selling options in high IV environments might be beneficial, but it also exposes the trader to potentially large losses if the underlying asset makes a substantial unexpected move.
 
-## Selecting the Right Strike Price and Expiry
+### Selecting the Right Strike Price and Expiry
 
 Choosing the optimal strike price and expiry date for an options contract is a pivotal decision in trading. It can profoundly influence the profitability of your trade and determine your exposure to risk.
 
@@ -102,11 +102,11 @@ Now, let's understand the role of **In-the-Money (ITM)**, **At-the-Money (ATM)**
 
 In the dynamic environment of day trading, balancing your understanding of the underlying asset with the intricacies of options mechanics is paramount. Always align your choice of strike price and expiry with your trading strategy, market outlook, and risk tolerance.
 
-# Core Day Trading Options Strategies
+## Core Day Trading Options Strategies
 
 Day trading in the options market requires a solid understanding of various strategies tailored to capture opportunities in the constantly evolving market environment. Strategies can be classified based on their objectives, such as generating income, betting on price direction, or capitalizing on volatility changes. Here, we'll deep dive into income generation strategies, which aim to provide traders with consistent returns while navigating the options market's intricacies.
 
-## Income Generation Strategies
+### Income Generation Strategies
 
 **Covered Call**:
 
@@ -134,7 +134,7 @@ Similar to the short straddle, a short strangle involves selling a call and a pu
 
 When employing income-generating strategies, it's vital to keep a close watch on the market dynamics and adjust if necessary. Always be prepared for unforeseen price moves and have a clear plan for managing risks. And remember, while the primary goal of these strategies is to produce consistent income, no strategy is without risk.
 
-## Directional Trading Strategies
+### Directional Trading Strategies
 
 Directional trading strategies are built on the belief that the price of an underlying asset will move in a specific direction. Options traders use these strategies to profit from the anticipated upward or downward movement in the asset's price.
 
@@ -152,7 +152,7 @@ Directional trading strategies are built on the belief that the price of an unde
 
 When employing directional strategies, a thorough analysis of market conditions, underlying asset trends, and external factors is essential. It's also crucial to maintain a disciplined approach, setting clear entry and exit points, and managing risks effectively.
 
-## Volatility Trading Strategies
+### Volatility Trading Strategies
 
 Volatility is a measure of the rate and magnitude of price changes in an asset. For options traders, volatility is a crucial component since it affects option prices. When traders anticipate significant price swings, either up or down, they can employ strategies to capitalize on these movements. Conversely, if a trader expects low volatility and limited price movement, there are strategies to profit from this scenario as well.
 
@@ -182,7 +182,7 @@ Another neutral strategy, an iron butterfly, is constructed by selling an at-the
 
 When using volatility trading strategies, monitoring the market and managing risks becomes paramount. Factors like major news events, earnings reports, or geopolitical situations can significantly impact volatility and, consequently, option prices.
 
-## Advanced Strategies
+### Advanced Strategies
 
 While basic options strategies offer traders an array of possibilities to hedge or profit from market moves, advanced strategies can further refine these approaches to better fit specific market conditions or cater to more sophisticated objectives. Two such strategies worth exploring are Dividend Capture using Covered Calls and employing Calendar and Diagonal Spreads.
 
@@ -194,7 +194,7 @@ While basic options strategies offer traders an array of possibilities to hedge 
 
 Both calendar and diagonal spreads are particularly versatile, allowing traders to adjust to various market conditions and risk profiles. They can be tailored to be neutral, bullish, or bearish, offering flexibility in a dynamic market environment.
 
-# Tools and Resources for the Day Trading Options Trader
+## Tools and Resources for the Day Trading Options Trader
 
 Options trading, especially in a fast-paced day trading environment, requires the right tools and resources to make informed decisions swiftly. Here's a rundown of some essential tools and the role they play:
 
@@ -214,7 +214,7 @@ Options trading, especially in a fast-paced day trading environment, requires th
 
 To be successful in day trading options, traders must use these tools in conjunction, ensuring that they're making the most informed decisions possible. As the market evolves and technology advances, staying updated on the latest tools and resources will be pivotal for continued success.
 
-# Managing Risks in Day Trading Options
+## Managing Risks in Day Trading Options
 
 Risk management is the backbone of a successful options day trading operation. Without a proper system in place, traders expose themselves to unnecessary vulnerabilities that can erase gains and drain portfolios. Here's how to manage those risks:
 
@@ -228,7 +228,7 @@ Risk management is the backbone of a successful options day trading operation. W
 
 By integrating these risk management practices into daily trading routines, options traders can shield their portfolios from avoidable losses and enhance the likelihood of consistent returns.
 
-# Pros and Cons of Options Day Trading
+## Pros and Cons of Options Day Trading
 
 Options day trading is a double-edged sword, offering lucrative opportunities for profit while presenting unique challenges. Here's a balanced look at its advantages and pitfalls:
 
@@ -246,7 +246,7 @@ Options day trading is a double-edged sword, offering lucrative opportunities fo
 
 In the dynamic world of options day trading, understanding these pros and cons can guide traders to make informed decisions, striking a balance between risk and reward.
 
-# Getting Started with Day Trading Options
+## Getting Started with Day Trading Options
 
 Entering the realm of options day trading demands a blend of preparation, understanding of market dynamics, and the right resources. Here's a roadmap to set you on the right course:
 
@@ -267,7 +267,7 @@ Unlike trading stocks, options trading doesn't have a universal minimum capital 
 
 Stepping into the options day trading arena equipped with knowledge and the right resources can position you well in a game where every percentage point counts.
 
-# Conclusion
+## Conclusion
 
 Day trading options presents traders with vast potential, from capitalizing on short-term market movements to leveraging assets and diversifying portfolios. The allure of substantial profits can be captivating, but it's equally critical to recognize the inherent risks. Rapid time decay, sudden volatility shifts, and margin calls are just some of the challenges traders may encounter.
 
@@ -282,7 +282,7 @@ Ultimately, the journey into options day trading is as rewarding as it is demand
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **What are the capital requirements for options day trading?**
 
@@ -316,7 +316,7 @@ Volatility can be both. A sudden surge in volatility can provide significant pro
 
 No, brokers differ in their platform capabilities, fee structures, and range of available research tools. It's essential to research and select a broker that aligns with your trading needs and strategies.
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: Hull, J. C. (2017). [Options, futures, and other derivatives](https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315). Upper Saddle River: Prentice Hall.
 

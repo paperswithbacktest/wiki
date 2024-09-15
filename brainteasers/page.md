@@ -11,7 +11,7 @@ Brainteasers often evoke mixed feelings. Many see them as a mere diversion, an u
 
 In this section are brainteasers you may get in interviews with quantitative high frequency trading groups.
 
-# Market Making and Betting
+## Market Making and Betting
 
 - Flip 98 fair coins and 1 HH coin and 1 TT coin. Given that you see an H, what is the probability that it was the HH coin? Explain in layman’s terms.
 - Flip 10000 fair coins. You are offered a 1-1 bet that the sum is less than 5000. You can bet 1, 2, ..., 100 dollars. How much will you bet. How much will you bet if someone tells you that the sum of the coins is less than 5100?
@@ -25,7 +25,7 @@ In this section are brainteasers you may get in interviews with quantitative hig
 - You have 100 dollars. You are playing a game where you wager x dollars on a biased coin flip with a 90 percent probability of heads. You make 2x if it’s heads and lose the x dollars if it’s tails. How much do you think you should bet on each flip if you are going to play for 100 flips?
 - Make a market on a derivative with a price equal to the number of pothole covers in New York.
 
-# Probability
+## Probability
 
 - What is the pobability of getting exactly 500 heads out of 1000 coin flips? Approximate it to within 5% of the true value without a calculator.
 - Play a game like chess or pingpong. You only have two opponents, A and B. A is better than B. You will play three games. There are only two orders you can play: ABA and BAB. Which gives you a better chance of winning?
@@ -40,7 +40,7 @@ In this section are brainteasers you may get in interviews with quantitative hig
 - You are trying to determine the price a casino should charge to play a dice game. The player rolls a die and gets paid the amount on the face, however he can choose to re-roll the dice, giving up the chance to take the first payout amount before seeing the second result. Similarly he has the same option on the second roll, but after the second re-roll, he must keep the amount shown the third time. How much should the casino charge to break even in expectation on this game assuming the player chooses the best strategy?
 - You have 5 quarters on the table in front of you: four fair (regular two-sided coins) and one double-sided (both sides are heads). You pick one of them up at random, flip it five times, and get heads each time. Given this information, what is the probability that you picked up the double-sided quarter?
 
-# Retention of Coursework
+## Retention of Coursework
 
 - Analyze the results of a multiple linear regression given a few plots, datapoints, and p-values.
 - Explain collinearity
@@ -50,7 +50,7 @@ In this section are brainteasers you may get in interviews with quantitative hig
 - If $v$ is a column vector, then how many non-zero eigenvalues does the matrix $aaT$ have? what are the eigenvalues? What are the corresponding eigenvectors? What are the eigenvectors corresponding to the
 zero eigen values?
 
-# Mental Math
+## Mental Math
 
 Answer as quickly as possible.
 
@@ -60,7 +60,7 @@ Answer as quickly as possible.
 - 54% of 123
 - $55^2$
 
-# Pattern Finding
+## Pattern Finding
 
 - Find the next number in the sequence (2.1 pts):
 1, 3, 7, 12, 18, 26, 35, 45, 56, 69, 83, 98, 114, 131...
@@ -89,7 +89,7 @@ Answer as quickly as possible.
     Add spaces back after ever four numbers to get the original sequence.
     So extending it we know the next numbers are 512, 1024 ie 5121024 ie 5121, ...
 
-# Math and Logic
+## Math and Logic
 
 - A girl is swimming in the middle of a perfectly circular lake. A wolf is running at the edge of the lake waiting for the girl. The wolf is within a fence surrounding the lake, but it cannot get out of the fence. The girl can climb over the fence. However if the wolf is at the edge of the lake where the girl touches it, then it will eat her. The wolf runs 2 times faster than the girl can swim. Assume the wolf always runs toward the closest point on the edge of the lake to where the girl is inside. Can the girl escape? If so, what path should she swim in?
 - The hands on a clock cross each other at midnight. What time do they cross each other next?
@@ -114,7 +114,7 @@ Answer as quickly as possible.
 - You have two decks of cards: one has 13 reds and 13 blacks, and the other has 26 reds and 26 blacks. We play a game in which you select one of the two decks, and pick two cards from it; you win the game if you select two black cards. Which deck should you select to maximize your chances of winning? Try to do this problem in your head, without writing any calculations down.
 - You have a deck of 52 cards, and you keep taking pairs of cards out of the deck. If a pair of cards are both red, then you win that pair; if a pair of cards are both black, then I win that pair; if a pair of cards has one red and one black, then it’s discarded. If, after going through the whole deck, you have more pairs than I do, then you win 1 dollar, and if I have more pairs than you do, I win 1 dollar. What is the value of this game in the long run?
 
-# Conclusion
+## Conclusion
 
 The realm of brainteasers, particularly in the context of quantitative high-frequency trading, is a testament to the importance of critical thinking and analytical skills in high-pressure environments. These puzzles aren't merely for entertainment or intellectual showmanship; they are a fundamental part of a trader's toolkit, helping to develop and maintain the sharpness required for making split-second decisions. Whether you are a seasoned trader or a newcomer to the field, embracing these challenges can be a game-changer, enhancing your ability to assess risk, make rapid calculations, and navigate the complex world of market dynamics. In a field where the stakes are high and the competition is fierce, mastering these brainteasers could very well be the edge you need to excel.
 

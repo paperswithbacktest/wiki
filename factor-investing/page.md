@@ -9,7 +9,7 @@ Factor investing is an approach that selects stocks based on attributes associat
 
 Although Factor Investing is most popular among equities, more and more factors (or systematic characteristics) are being discovered in other asset classes. This testifies to the versatility and expansive reach of this strategy.
 
-# Types of factors
+## Types of factors
 
 Factors can be grouped into two main categories: macroeconomic factors and style factors.
 
@@ -26,11 +26,11 @@ Many factors have been identified over the years, including:
 
 A distinctive aspect of factors is their significant variation over time. This characteristic enables traders to predict certain premium factors, opening the door to timing strategies based on factor timing.
 
-# Factor investing and algo trading
+## Factor investing and algo trading
 
 The marriage between Factor Investing and algo trading is a natural one. Quantitative methods based on observable data, such as stock prices and financial statement information, enable algorithmic traders to create accurate models to exploit these factors. This approach eliminates human bias, relying instead on data-driven analysis.
 
-# Conclusion
+## Conclusion
 
 Factor Investing has established itself as a must-have strategy for quantitative traders. With the right mix of factors and judicious implementation through algo trading, investors can successfully navigate today's complex financial markets. While the past cannot guarantee future performance, a thorough understanding of factors and rigorous application of research can offer significant opportunities for returns.
 

@@ -11,7 +11,7 @@ Undoubtedly, mean reversion occupies a pivotal seat in trading and investment, d
 
 In the ensuing content, anticipate a journey through its core principles and historical perspectives to the mathematical backbone that substantiates its strategies. The exploration will further tread through various strategies and techniques, unpacking the science behind them, and culminating in the real-world application across multiple asset classes. Welcome to a world where statistical theory and market pragmatism collide, crafting strategies that have not only stood the test of time but also evolved in tandem with technological advancements and market dynamics!
 
-# Deep Dive into Mean Reversion
+## Deep Dive into Mean Reversion
 
 From a historical lens, the concept of mean reversion has roots tracing back to the early 19th century when French mathematician Louis Bachelier proposed the idea in his Ph.D. thesis, "The Theory of Speculation" (1900). His work laid the groundwork for many modern financial theories, suggesting that stock prices move in a random pattern, with prices typically reverting to their mean over time. Another notable date is 1980 when Robert Shiller's research highlighted excessive volatility in stock prices, emphasizing the propensity of markets to revert to fundamental values[1].
 
@@ -27,7 +27,7 @@ Let's elucidate with real-life scenarios:
 
 In conclusion, mean reversion offers traders and investors a framework to anticipate potential price corrections, leveraging historical and statistical insights. With real-life precedents across multiple financial markets, it remains a cornerstone of many trading strategies today.
 
-# The Science Behind Mean Reversion
+## The Science Behind Mean Reversion
 
 Mean reversion implies that an instrument's price will tend to move toward its average or mean over time. This is described mathematically by the formula:
 
@@ -55,13 +55,13 @@ Visualize a scenario where the price of an asset swings above and below an overa
 
 Volatility, the statistical measure of the dispersion of returns, interplays significantly with mean reversion. A high-volatility environment, often quantified by metrics like the VIX (Volatility Index), might entail more frequent or pronounced deviations from the mean, thereby potentially providing fertile grounds for mean-reverting strategies, especially in short-term horizons. Volatility clustering, a phenomenon where high-volatility events are likely to be followed by high-volatility events, and vice versa, also coexists compatibly with mean reversion, with the latter often being employed as a stabilization method during high volatility phases.
 
-# Mean Reversion vs. Other Strategies
+## Mean Reversion vs. Other Strategies
 
 In the arena of financial markets, trading strategies orchestrate the means by which investments are selected, and among them, Mean Reversion, Trend Following, and Momentum Trading have forged distinctive paths, each latching onto different facets of market behavior.
 
 ![TF vs MR.png](images/TF_vs_MR.png)
 
-## Advantages and Drawbacks
+### Advantages and Drawbacks
 
 - **Mean Reversion**
     - *Advantages*: Effective in stable markets and can offer consistent returns when prices oscillate around stable averages.
@@ -73,13 +73,13 @@ In the arena of financial markets, trading strategies orchestrate the means by w
     - *Advantages*: Capable of exploiting the continuation of existing trends and potentially accruing substantial profits during prolonged movements.
     - *Drawbacks*: Vulnerable to sudden reversals and can be subject to high turnover, thus higher transaction costs.
 
-## Suitable Market Conditions
+### Suitable Market Conditions
 
 - **Mean Reversion** thrives when markets are range-bound and when price fluctuations are generally symmetrically distributed around a stable mean. It capitalizes on the statistical probability that prices tend to revert to their historical average over time, making it a potentially profitable strategy in sideways markets.
 - **Trend Following**, conversely, capitalizes on periods where markets exhibit clear directional movements. It is indifferent to the direction of the trend and seeks to profit from both rising and falling markets by taking long or short positions accordingly.
 - **Momentum Trading** identifies and trades in the direction of the existing trend, exploiting scenarios where asset prices have shown a tendency to continue moving in the same direction. Ideal conditions for momentum trading usually intertwine with a blend of strong fundamentals and robust directional moves in the price.
 
-# Strategies and Techniques
+## Strategies and Techniques
 
 Implementing mean reversion strategies necessitates a keen understanding of technical indicators and a methodical application in trading scenarios.
 
@@ -103,7 +103,7 @@ A pivotal case study in mean reversion strategy involves the 1992 British Pound 
 
 On the contrary, during the 2008 financial crisis, many traders who believed that the market would revert to the mean during the intense downturn faced substantial losses. The market did not revert quickly enough to save leveraged positions, and as a result, those employing mean reversion strategies without adequate risk management were confronted with significant financial drawbacks.
 
-# Mean Reversion Across Different Asset Classes
+## Mean Reversion Across Different Asset Classes
 
 Mean reversion, as a core trading concept, plays a unique role across various asset classes. Its influence on stocks, forex, commodities, and cryptocurrencies highlights the dynamic and versatile nature of this trading approach.
 
@@ -121,7 +121,7 @@ Analyzing historical data, especially in stocks and forex, reveals recognizable 
 
 Each asset class presents its peculiarities. Recognizing these unique drivers is crucial for traders to leverage mean reversion effectively.
 
-# Algorithmic and Quantitative Aspect
+## Algorithmic and Quantitative Aspect
 
 Algorithmic trading leverages mean reversion strategies to capitalize on price fluctuations by utilizing mathematical models and automated trading platforms. The potency of mean reversion in algorithmic trading lies in its inherent principle: prices will revert to their average over time, which can be exploited through precisely-timed trades.
 
@@ -176,7 +176,7 @@ APIs and trading bots often come into play to streamline data acquisition and or
 
 Case studies of algorithmic mean reversion trading underscore the potency and pitfalls of this approach. Renaissance Technologies, one of the world's most successful hedge funds, employs algorithms and quantitative models to identify short-term, mean-reverting opportunities across various asset classes[8]. However, the 2007 Quantitative Meltdown served as a sobering reminder that even sophisticated, algorithmic mean reversion strategies are not devoid of risk and can amplify systemic vulnerabilities when under stress[9].
 
-# Practical Application and Trade Setup
+## Practical Application and Trade Setup
 
 Executing a mean reversion trade requires methodical planning, precise calculations, and astute observance of the market’s pricing dynamics.
 
@@ -194,7 +194,7 @@ Practical tips and precautions encapsulate **continuous monitoring of price dyna
 
 Moreover, traders should employ **risk management strategies**, ensuring that any single trade does not jeopardize a disproportionate segment of the trading capital. Commonly, a risk level of 1-2% of the trading capital is advocated per trade.
 
-# Advanced Concepts
+## Advanced Concepts
 
 **Cointegration** delves into the relationship between two or more time series. In trading, if two assets are cointegrated, it means their price difference is stationary over time, suggesting a long-term equilibrium relationship. While each asset may follow a random walk pattern individually, their relative pricing adheres to a mean-reverting process. This phenomenon has been extensively studied in pairs trading, where traders seek two assets that move together and bank on the assumption that any deviation from their historical price relationship is temporary and will revert to the mean[13].
 
@@ -202,7 +202,7 @@ But as data-driven trading evolves, the application of machine learning and AI i
 
 With this technological advancement, traders need to stay abreast of innovations, ensuring their strategies are resilient and adaptable.
 
-# Conclusion
+## Conclusion
 
 Mean reversion trading leans heavily on the belief that prices, across various asset classes, tend to bounce back to their average. This style of trading hinges on statistical and mathematical methodologies. Traders regularly exploit technical indicators like Bollinger Bands and RSI, as well as apply robust machine learning models to forecast and act on price reverting towards the mean.
 
@@ -215,7 +215,7 @@ It’s imperative to note that while historical data generously informs strategy
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **What precisely is mean reversion in the context of trading?**
 
@@ -248,7 +248,7 @@ Machine learning (ML) and AI are instrumental in enhancing predictive accuracy c
 **Can mean reversion strategies be applied in both bullish and bearish markets?**
 Yes, mean reversion isn’t constrained to market direction. In a bullish market, traders may buy during short-term price dips, anticipating a return to the upward trend. Conversely, in a bearish market, selling or short-selling during short-term price spikes, expecting a return to the downtrend, can be a viable strategy.
 
-# References & Further Reading
+## References & Further Reading
 
 [1] Shiller, R.J. (1981). [Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends?](https://www.nber.org/system/files/working_papers/w0456/w0456.pdf) *American Economic Review*, 71(3), 421-436.
 

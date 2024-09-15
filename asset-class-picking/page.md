@@ -15,15 +15,15 @@ Algorithmic trading, often referred to as "algo trading", is based on a multitud
 
 ![Untitled](images/Untitled.png)
 
-# What is an Asset Class?
+## What is an Asset Class?
 
 An asset class is a group of securities or investments with similar financial characteristics. This can include, among others, equities, bonds, commodities or currencies. The way these asset classes are combined in a portfolio largely determines its performance.
 
-# Asset Class Picking
+## Asset Class Picking
 
 These strategies are based on long-term market projections. For example, a common strategy is to increase the allocation to equities during periods of economic growth and to favor bonds during recessions. Commodities can be used to hedge against inflation, while liquidity is often held in cash to reduce overall portfolio risk.
 
-# Asset Class Picking in Algo Trading
+## Asset Class Picking in Algo Trading
 
 In the context of tactical strategies, exploiting market inefficiencies by combining several asset classes is at the heart of algo trading.
 
@@ -31,7 +31,7 @@ The majority of a portfolio's returns come from the allocation between different
 
 In particular, it has been observed that certain factors, such as momentum or value, perform better when applied jointly to different asset classes.
 
-# Notable research and studies
+## Notable research and studies
 
 Studies such as that by Blitz and Vliet (2008) have documented the importance of momentum in asset allocation. Others, such as that by Asness, Moskowitz and Pedersen (2012), have highlighted the significant abnormal returns obtained by combining different strategies across multiple asset classes.
 
@@ -39,7 +39,7 @@ The research also shows the importance of standardization, such as the use of th
 
 Recent studies conclude that asset classes within a country are integrated, as are asset markets between countries. This integration plays a crucial role in explaining returns on market anomalies across asset classes.
 
-# Conclusion
+## Conclusion
 
 Asset Class Picking is an essential element of algo trading. It requires an in-depth understanding of market dynamics and a mastery of algorithmic tools. By better understanding this technique and judiciously integrating it into their strategies, investors can greatly improve the performance of their portfolios.
 

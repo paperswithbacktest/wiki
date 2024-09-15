@@ -7,7 +7,7 @@ description: Explore the Volatility Effect, a market anomaly that offers high ri
 
 One of the market anomalies that has attracted growing interest is the **volatility effect**. In this article, we'll explore this phenomenon, how it fits into the vast world of **algo trading**, and why it's crucial for traders looking to develop algorithmic trading strategies.
 
-# What is the Volatility Effect?
+## What is the Volatility Effect?
 
 The Volatility Effect is a market anomaly that shows that low-volatility stocks offer high risk-adjusted returns. Specifically, low-risk stocks outperform the market portfolio, while high-risk stocks underperform on a risk-adjusted basis. This observation runs counter to traditional financial theory, according to which higher risk should be associated with potentially higher returns.
 
@@ -15,15 +15,15 @@ The volatility effect has been observed not only in the US market but also in Eu
 
 Although the volatility effect is most often associated with equities, research shows that it can also be present in other assets, such as commodities. This offers additional opportunities for traders looking to diversify their strategies and exploit this anomaly in different markets.
 
-# Why does this effect occur?
+## Why does this effect occur?
 
 Several theories attempt to explain the volatility effect. One proposed explanation is that the returns associated with low-volatility stocks may be attributed to poor market valuation, or to compensation for higher systematic risk. Other research suggests that the behavioral biases of private investors may also be at the root of this effect. These investors may overpay for risky stocks, perceived as lottery tickets, as they seek high returns in the shortest possible time.
 
-# The Volatility Effect and algo trading
+## The Volatility Effect and algo trading
 
 With the rise of **algo trading**, the volatility effect has gained importance. Algorithmic traders can program strategies that exploit this anomaly, identifying low-volatility stocks that are likely to offer superior risk-adjusted returns. These strategies can be particularly useful in periods of market turbulence when volatility can play a crucial role in determining returns.
 
-# Conclusion
+## Conclusion
 
 The volatility effect is an exciting area of quantitative trading that offers unique opportunities for algorithmic traders. Although this anomaly is counter-intuitive to traditional financial theory, it has been observed across different markets and regions. For traders looking to develop algorithmic trading strategies, understanding and exploiting the volatility effect could be the key to superior performance.
 

@@ -11,7 +11,7 @@ The significance of statistical arbitrage in trading cannot be overstated. It ha
 
 In this comprehensive guide, we will deep dive into the world of statistical arbitrage, tracing its historical evolution and dissecting the core mathematical and statistical concepts that underpin its mechanisms. Additionally, we will explore and analyze various StatArb strategies, scrutinize different types of statistical arbitrage, and navigate through the assortment of tools and technologies pivotal in its implementation.
 
-# Historical Perspective
+## Historical Perspective
 
 The roots of statistical arbitrage can be traced back to the 1980s, as a natural progression from the rising field of quantitative finance. Initially conceived as pairs trading, the idea was to exploit price discrepancies between two similar or related securities. For instance, when two companies in the same sector might have their stock prices drift apart, the strategy was to short the outperformer and buy the underperformer, expecting the prices to eventually revert.
 
@@ -21,7 +21,7 @@ A major milestone in the evolution of statistical arbitrage was the pioneering w
 
 The late 1990s witnessed a surge in the popularity of statistical arbitrage, thanks to advancements in computing power and the proliferation of data. Firms like Renaissance Technologies, founded by James Simons in 1982, started leveraging sophisticated algorithms and models, diving deep into the nuances of statistical arbitrage and achieving remarkable successes.
 
-# Core Concepts and Mechanisms
+## Core Concepts and Mechanisms
 
 Statistical arbitrage, often abbreviated as StatArb, is a class of short-term financial trading strategies that employ statistical methods and computational algorithms to exploit market inefficiencies, typically rooted in the mispricing of one or more related assets.
 
@@ -43,7 +43,7 @@ In practice, these methodologies are combined and manipulated to adapt to market
 
 The embodiment of these concepts and mechanisms into a successful statistical arbitrage strategy requires not just a sound understanding of the underlying financial theories but also an adept skillset in statistical methods, data analysis, and algorithmic trading.
 
-# In-depth Strategies Analysis
+## In-depth Strategies Analysis
 
 In the intricate world of Statistical Arbitrage, diverse strategies coalesce mathematics, finance, and technology, each tailoring to unique market scenarios and risk appetites. Among them, the prominent are Pair Trading and Mean-Reverting Strategies, each enveloping distinct statistical and mathematical principles to identify and exploit market mispricings.
 
@@ -53,7 +53,7 @@ Differing from Pairs Trading, Mean-Reverting strategies, employ a hypothesis tha
 
 In scrutinizing these strategies through the lens of risk and returns, Pairs Trading is often deemed to have a defensive posture, aiming to be market-neutral and less exposed to systemic market swings. However, issues like model degradation, where the co-integration between pairs diminishes over time, pose significant risks. In contrast, Mean-Reverting stratgy tend to possess a directional bias and hence, is more susceptible to market downturns.
 
-# Tools and Technologies
+## Tools and Technologies
 
 To thrive in the realm of statistical arbitrage, a trader requires a robust arsenal of tools and platforms. Python, a versatile and open-source programming language, has taken a central role due to its extensive libraries and frameworks tailored for quantitative finance and algorithmic trading.
 
@@ -65,7 +65,7 @@ As markets evolve, so too does the complexity of arbitrage strategies. Machine L
 
 However, even the most sophisticated algorithm is only as good as its data. Accurate, high-frequency, and granular data is the bedrock of statistical arbitrage. Popular sources include **Quandl**, **Alpha Vantage**, and institutional platforms like **Bloomberg Terminal**. But sourcing is only step one. Data often arrives riddled with gaps, errors, or anomalies. Tools like **NumPy** and **pandas** again play a critical role, aiding in cleaning, preprocessing, and structuring data to be seamlessly ingested by trading algorithms.
 
-# Risks and Challenges
+## Risks and Challenges
 
 Engaging in statistical arbitrage, despite its algorithmic precision, is not devoid of perils and encompasses multifaceted risks. The mathematical premise of statistical arbitrage, often revolving around mean-reversion strategies, banks on the assumption that asset prices will revert to their historical mean or trend. However, external factors such as political events, economic releases, or unforeseen market shocks can steer prices far from expected trajectories.
 
@@ -107,7 +107,7 @@ In the snippet above, if `asset_A_price` and `asset_B_price` diverge beyond the 
 
 In essence, understanding and navigating through the myriad of risks in statistical arbitrage necessitate a blend of robust algorithm design, vigilant risk management, and an incessant pursuit of adapting to the ever-dynamic market paradigms.
 
-# Practical Guide to Starting with Statistical Arbitrage
+## Practical Guide to Starting with Statistical Arbitrage
 
 Embarking on a journey into the realm of statistical arbitrage requires a blend of quantitative skills, technological resources, and strategic foresight.
 
@@ -125,7 +125,7 @@ While you advance, be wary of common pitfalls, such as overfitting, where a mode
 
 Treading cautiously, continually enhancing your knowledge, and being adaptable to the evolving market conditions are imperatives in the multifaceted world of statistical arbitrage. It’s not solely the strategic implementation but also the learning from missteps and adjusting your sail amidst the volatile winds of the financial markets that steer towards success.
 
-# Conclusion
+## Conclusion
 
 Statistical arbitrage, while embedded in sophisticated mathematical and statistical methodologies, unlocks a world where market inefficiencies can be exploited for profit, offering traders a unique niche in the multifaceted domain of financial markets.
 
@@ -142,7 +142,7 @@ Hence, whether you're a seasoned trader, quant, or a novice stepping into the in
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **What is Statistical Arbitrage in a nutshell?**
 
@@ -184,7 +184,7 @@ Backtesting is crucial as it helps traders to validate the efficacy and robustne
 
 Yes, several online forums, communities, and educational platforms, such as QuantConnect, Quantopian, and EliteTrader, serve as rich resources where traders and quants share knowledge, code, and insights related to statistical arbitrage and algorithmic trading.
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: Engle, R. F., & Granger, C. W. (1987). [Co-integration and error correction: representation, estimation, and testing](https://www.jstor.org/stable/1913236?typeAccessWorkflow=login). *Econometrica: Journal of the Econometric Society*, 251-276.
 

@@ -7,7 +7,7 @@ description: Explore key research papers on algorithmic trading, focusing on opt
 
 The intricate world of finance, characterized by its dynamic markets and complex mathematical models, presents unique challenges and opportunities for researchers and practitioners. This compilation of scholarly papers offers a deep dive into various aspects of financial market analysis, ranging from the empirical examination of asset returns to the nuanced strategies of market making. Authored by experts in the field, each paper contributes to a comprehensive understanding of market dynamics, highlighting the theoretical foundations and practical implications of statistical analysis, market microstructure, optimal execution, market impact models, and market making strategies. These works collectively serve as a foundational resource for anyone looking to deepen their understanding of the sophisticated mechanisms driving financial markets.
 
-# Stylized facts
+## Stylized facts
 
 **Empirical properties of asset returns: stylized facts and statistical issues**
 
@@ -17,7 +17,7 @@ Rama Cont, 2001
 
 He shares findings from a statistical analysis of price changes in different financial markets. He talks about general issues in studying financial data and describes various properties of asset returns, such as distribution, tail properties, extreme changes, and dependencies. He highlights common features across different markets and instruments. Finally, he explains how these properties challenge traditional statistical methods used in financial data analysis and discusses the issues faced in each situation.
 
-# Market microstructure
+## Market microstructure
 
 **A Stochastic Model for Order Book**
 
@@ -35,7 +35,7 @@ Rama Cont, Adrien de Larrard, 2012
 
 They suggest a model to study how buy and sell orders change quickly in a busy market. They find a way to simplify the model using a process called Markovian jump-diffusion. This makes it easier to predict things like price changes and how long it takes for the next price move. Their method works for many different assumptions and models, including ones based on Poisson point processes, self-exciting point processes, and ACD-GARCH models.
 
-# Optimal execution
+## Optimal execution
 
 **Optimal Execution of Portfolio Transactions**
 
@@ -61,7 +61,7 @@ Olivier Guéant, 2016
 
 This paper present the mathematical models most commonly used to solve optimal execution problems in finance. It presents a general modeling framework for optimal execution problems–inspired from the Almgren-Chriss approach–and then demonstrates the use of that framework across a wide range of areas.
 
-# Market impact models
+## Market impact models
 
 **How markets slowly digest changes in supply and demand**
 
@@ -79,7 +79,7 @@ Jim Gatheral, 2008
 
 In this study, they establish a connection between the market impact function, which shows how market price responds to traded quantity, and the decay of market impact. They demonstrate that exponential decay of market impact is only compatible with linear market impact. They also derive various inequalities linking the typical shape of the market impact function to the decay of market impact and observe that these inequalities are usually close to being equalities in practice.
 
-# Market making
+## Market making
 
 **High-frequency trading in a limit order book**
 
@@ -97,7 +97,7 @@ Olivier Guéant, Charles-Albert Lehalle, Joaquin Fernandez Tapia, 2011
 
 Market makers need to set bid and ask quotes for stocks while balancing their potential returns and the price risk from their inventory. In this study, they look at a similar problem to the one studied by Ho and Stoll, and Avellaneda and Stoikov. They use a model where the market has a reference price that changes randomly, and the arrival rates of buy and sell orders depend on this reference price. The market maker aims to maximize their profit within a specific time frame. They show that the equations for this problem can be simplified and solved when considering inventory limits. They also examine the behavior of the optimal quotes and suggest approximations based on a special analysis of these quotes.
 
-# Conclusion
+## Conclusion
 
 The collection of papers presented here encapsulates a wealth of knowledge and expertise in the field of financial market analysis. Each paper, with its unique focus and approach, contributes to a broader understanding of how financial markets operate and how various strategies and models can be employed to navigate these markets effectively. From exploring the statistical properties of asset returns to developing optimal trading strategies, these papers offer invaluable insights into the complexities of market dynamics. Whether for academic research, professional development, or personal interest, delving into these works provides a deeper appreciation of the mathematical and empirical frameworks that underpin modern financial markets, equipping readers with the knowledge to approach these challenging and ever-evolving environments with confidence and expertise.
 

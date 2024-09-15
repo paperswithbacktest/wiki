@@ -9,7 +9,7 @@ Trend following is a cornerstone of trading, serving as one of the most time-tes
 
 This guide is tailored to provide an in-depth exploration into the realm of trend following indicators. Throughout the article, we will dissect the essence of trend following, deep dive into the different types of trends, and unveil the top indicators that traders globally rely on. Additionally, we'll offer insights into the practical implementation of these indicators, shed light on the pros and cons of trend-following strategies, and provide real-life case studies that underscore the potency of trend-following methods. 
 
-# The Essence of Trend Following
+## The Essence of Trend Following
 
 Trend following is a trading strategy wherein investors seek to capture and profit from the momentum of a financial asset moving in a particular direction, be it upwards (bullish) or downwards (bearish). The foundational premise of trend following is rooted in the belief that markets move in trends, and these trends, once set in motion, tend to persist over varying periods.
 
@@ -19,7 +19,7 @@ Consider the crude oil market in mid-2008. Prices skyrocketed to an all-time hig
 
 In essence, trend following is not about predicting the future or pinpointing the exact tops and bottoms but about identifying the onset of a trend early enough and staying with it until there's a clear sign of reversal. This approach, backed by historical price data and real-world success stories, remains a staple in many traders' arsenals, offering both opportunities for profit and a framework for risk management.
 
-# Decoding the Types of Trends
+## Decoding the Types of Trends
 
 In the world of trading, understanding the direction of a trend is crucial to position oneself in sync with the market’s dominant force. By discerning the type of trend an asset is experiencing, traders can make more informed decisions about when to enter and exit trades. Here, we deep dive into the three primary types of market trends: the uptrend, downtrend, and the sideways trend.
 
@@ -29,7 +29,7 @@ In the world of trading, understanding the direction of a trend is crucial to po
 
 **Sideways Trend**: Also referred to as a horizontal or range-bound trend, a sideways trend signifies a period of consolidation where neither the bulls nor the bears have a decisive edge. The price oscillates between a well-defined support (lower boundary) and resistance (upper boundary) level without establishing a clear trend in either direction. These periods can arise due to market indecision in the face of conflicting news or while waiting for a significant event or data release. Trading within this trend requires a keen eye for these support and resistance zones as traders often buy at the support level and sell at the resistance[3].
 
-# Why Do Traders Rely on Trend Indicators?
+## Why Do Traders Rely on Trend Indicators?
 
 In the vast universe of trading, capturing market movements efficiently and optimizing returns is paramount. Trend indicators serve as invaluable tools to achieve this objective, providing traders with insights into potential future price movements. The adoption and reliance on these indicators arise primarily from the myriad of benefits they offer.
 
@@ -39,9 +39,9 @@ In the vast universe of trading, capturing market movements efficiently and opti
 
 **Enhanced Risk Management with Stop-Loss and Take-Profit Points**: Managing risk is at the core of successful trading. Trend indicators provide objective data that traders can use to set strategic stop-loss and take-profit levels, minimizing potential losses and locking in profits. For example, a trader might set a stop-loss just below a key support level identified by a trendline or the Parabolic SAR, ensuring a controlled exit if the market moves against the position[6].
 
-# Unveiling the Top Trend Following Indicators
+## Unveiling the Top Trend Following Indicators
 
-## Moving Averages
+### Moving Averages
 
 Moving averages are one of the most versatile and widely utilized trend-following indicators in the world of trading, offering a clear representation of price movements over a specified period. Their simplicity and effectiveness in identifying potential trend directions make them a cornerstone of technical analysis.
 
@@ -57,7 +57,7 @@ Moving averages are one of the most versatile and widely utilized trend-followin
 
 Moving averages, by smoothing out price fluctuations, offer traders clarity in the often chaotic world of market price movements. They form the foundation of many trading strategies and are integral to the toolkit of both novice and seasoned traders.
 
-## Oscillators
+### Oscillators
 
 Oscillators are a category of technical indicators that measure the momentum of price movements, oscillating between two extreme values. They provide insights into potential overbought or oversold conditions, offering traders signals on potential reversals or the strength of a current trend.
 
@@ -69,7 +69,7 @@ Oscillators are a category of technical indicators that measure the momentum of 
 
 **TRIX Indicator and Smoothed Rate of Change**: The TRIX is a momentum oscillator that displays the percentage rate of change of a triple exponentially smoothed moving average. A rising TRIX line suggests momentum is increasing, while a declining line indicates waning momentum. The Smoothed Rate of Change, meanwhile, is a refined version of the Rate of Change oscillator, offering a smoother representation of momentum and often used to identify divergences or overbought/oversold conditions.
 
-## Volatility Indicators
+### Volatility Indicators
 
 Volatility indicators give traders insights into the magnitude and dynamics of price fluctuations, allowing them to anticipate potential breakouts or price consolidations. These tools can serve as a barometer for traders to gauge the intensity of market sentiment.
 
@@ -79,7 +79,7 @@ Volatility indicators give traders insights into the magnitude and dynamics of p
 
 **Keltner and Donchian Channels**: Keltner Channels comprise a middle line that's an EMA and two outer lines formed using the Average True Range (ATR). This channel can help traders spot potential breakouts when the price moves outside the channel. Donchian Channels, on the other hand, are formed by taking the highest high and the lowest low over a specific period. These channels are valuable for identifying potential breakouts or breakdowns when prices push beyond the channel boundaries[9].
 
-## Volume and Momentum
+### Volume and Momentum
 
 Volume and momentum are interrelated concepts in trading, often serving as a reflection of the strength behind price movements. An increase in volume typically signals strong interest in a security, and when combined with price direction, can indicate the force or momentum of a trend.
 
@@ -87,7 +87,7 @@ Volume and momentum are interrelated concepts in trading, often serving as a ref
 
 **Advance-Decline Line (ADL)**: ADL is a breadth indicator that reflects the net difference between advancing and declining stocks in a particular index. By taking the difference between the number of advancing stocks and declining stocks, and then adding this to a running total, traders gain insights into the overall health of the market. An upward trending ADL suggests that the majority of stocks in the index are participating in the upward move, making it a robust bullish signal. Conversely, if the ADL is declining, it signifies bearish market breadth, even if the index is moving upwards.
 
-## Directional Indicators
+### Directional Indicators
 
 Directional indicators assist traders in identifying the strength and direction of market trends. Their core function is to help ascertain whether a market is trending or moving sideways. Let's deep dive into some popular directional indicators:
 
@@ -99,7 +99,7 @@ Directional indicators assist traders in identifying the strength and direction 
 
 **KST (Know Sure Thing)**: KST is a momentum oscillator designed by Martin Pring. It combines multiple smoothed rates of price changes to produce a signal that oscillates around zero. Positive values typically indicate bullish momentum, while negative ones signal bearish momentum. The crossover of the KST line with its moving average often serves as a buy or sell signal.
 
-## Unique and Specialized Indicators
+### Unique and Specialized Indicators
 
 **Parabolic SAR (Stop and Reverse)**: Developed by J. Welles Wilder, this indicator provides entry and exit points. SAR dots appear below the price chart during an uptrend and above it during a downtrend. When the price crosses these dots, it may indicate a potential trend reversal, prompting a trader to "stop and reverse" their position.
 
@@ -111,7 +111,7 @@ Directional indicators assist traders in identifying the strength and direction 
 
 **Detrended Price Oscillator (DPO)**: This indicator removes the trend from a price, allowing traders to focus on the cyclical aspects of an asset's movement. It compares the past price to a moving average from the present and is typically used to identify peaks and troughs in the cycle.
 
-# Pros and Cons of Trend Following Strategies
+## Pros and Cons of Trend Following Strategies
 
 **Pros**:
 
@@ -131,7 +131,7 @@ Directional indicators assist traders in identifying the strength and direction 
 
 In essence, trend following is not a holy grail. Like all strategies, it has its strengths and weaknesses. By understanding these intricacies, traders can better harness its power and potentially augment their trading performance.
 
-# Comparative Analysis
+## Comparative Analysis
 
 Trend following stands as one of the most time-tested trading strategies, but how does it stack up against other popular approaches in the market? Let's deep dive into a comparative examination.
 
@@ -145,7 +145,7 @@ Trend following stands as one of the most time-tested trading strategies, but ho
 
 While each trading strategy comes with its unique set of principles and advantages, trend following remains a versatile and robust method. It's not just about recognizing and acting on trends but also offers tools that can enhance and refine other trading techniques.
 
-# Conclusion
+## Conclusion
 
 Trend following, at its core, capitalizes on the inherent momentum present in markets. Through this guide, we've explored the essence of trend-following strategies, delved into the different types of trends, and unpacked a plethora of trend indicators ranging from the classic moving averages to unique and specialized ones. Remember, while these indicators provide powerful insights, their efficacy often increases when combined, allowing traders to filter out noise and home in on genuine signals.
 
@@ -160,7 +160,7 @@ For those eager to amplify their trading potential, integrating trend following 
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: Schwager, J.D. (1996). [Technical Analysis](https://www.amazon.com/Getting-Started-Technical-Analysis-Schwager/dp/0471295426). Wiley Finance.
 

@@ -9,15 +9,15 @@ Financial markets have always been the cradle of technological innovation. One o
 
 ![Untitled](images/Untitled.png)
 
-# What is a cryptocurrency?
+## What is a cryptocurrency?
 
 A cryptocurrency is essentially a digital currency that operates on the basis of a technology called blockchain. This technology guarantees the decentralization, transparency and persistence of transactions, protected by advanced cryptographic methods. Decentralization is probably the most attractive feature of cryptocurrencies, as it ensures that data is not controlled by any central entity or authority, offering resistance to censorship.
 
-## Bitcoin: the pioneer
+### Bitcoin: the pioneer
 
 The history of cryptocurrencies begins with Bitcoin, introduced in 2009 by an individual or group under the pseudonym Satoshi Nakamoto. Conceived as a peer-to-peer electronic payment system, Bitcoin was the first currency to solve the problem of double spending without the need for a central entity. Since then, the number of cryptocurrencies has exploded, with thousands available on the market today.
 
-# Quantitative trading strategies for cryptocurrencies
+## Quantitative trading strategies for cryptocurrencies
 
 As the cryptocurrency market has evolved, so have trading strategies. Traditional strategies such as momentum, value, and carry have been adapted to exploit the specificities of cryptocurrency markets.
 
@@ -25,19 +25,19 @@ One prominent example is the Intraday momentum strategy identified by Caporale a
 
 The Carry factor is another interesting strategy adapted to the cryptocurrency market. It exploits the fact that all cryptocurrencies have rules built into their protocols that govern the issuance of new coins. Carrying for cryptocurrencies raises the question of a currency's yield if the underlying demand, whether driven by economic activity on the blockchain or speculative activity, doesn't change.
 
-# The advantages of cryptocurrencies in algo trading
+## The advantages of cryptocurrencies in algo trading
 
 One of the main reasons why cryptocurrencies are attractive for algorithmic trading is their decentralized nature. Unlike traditional markets, cryptocurrency markets operate 24/7, offering constant trading opportunities. In addition, their volatile nature offers higher return opportunities, although this comes with increased risk.
 
-# Risks and challenges of cryptocurrencies in algo trading
+## Risks and challenges of cryptocurrencies in algo trading
 
 As with any innovation, cryptocurrencies present their share of challenges. Their volatility can be a double-edged sword, offering high returns but also significant risks. What's more, the cryptocurrency market is still young and can be prone to manipulation. Traders should therefore be cautious and well-informed before taking the plunge.
 
-# The future of cryptocurrencies in quantitative trading
+## The future of cryptocurrencies in quantitative trading
 
 With the growing adoption of cryptocurrencies and the maturing of the market, it is likely that new trading strategies will emerge, exploiting the specificities of these assets. Technologies such as artificial intelligence and machine learning could play a key role in detecting trends and making trading decisions.
 
-# Conclusion
+## Conclusion
 
 Cryptocurrencies have revolutionized the financial world and continue to influence the way transactions are carried out. For algorithmic traders, they offer a new frontier of opportunities and challenges. As with any innovation, the key to success lies in a thorough understanding of the technology and constant adaptation to market developments. In the dynamic world of quantitative trading, cryptocurrencies are here to stay, and those who master them will be the leaders of the next financial revolution.
 

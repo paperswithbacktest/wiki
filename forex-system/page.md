@@ -11,17 +11,17 @@ This market hosts a variety of participants, from financial institutions to indi
 
 Numerous strategies have been developed for Forex. Some, like the FX Carry Trade, focus on interest rate differences between currencies. Others exploit common factors such as momentum, the volatility effect or mean reversion.
 
-## What is a Forex Trading System?
+### What is a Forex Trading System?
 
 A Forex trading system is a method based on a series of analyses determining when to buy or sell a currency pair. This approach is strictly rules-based, incorporating both signals derived from technical analysis tools and events based on fundamental news.
 
 Forex trading systems can be either manual or automated. In a manual system, the trader must constantly monitor the signals and interpret the results to decide what action to take. In an automated system, on the other hand, the trader programs the software to search for and interpret signals for him/her, thus eliminating the emotional and psychological biases that can lead to poor decisions.
 
-## Factor Investing and Forex System
+### Factor Investing and Forex System
 
 Factor Investing, using quantifiable characteristics, aligns naturally with the Forex System. Traders who adopt this approach can optimize their returns by identifying the key factors influencing currency pair movements. By combining the two, they can build robust strategies capable of navigating through the volatility inherent in the Forex market.
 
-## Conclusion
+### Conclusion
 
 Factor Investing in the Forex System offers an exciting opportunity for traders. By understanding the intricacies of the Forex market and using a factor-based approach, traders can maximize their chances of success. In the ever-changing world of **algo trading**, such a strategy can prove to be a trader's trump card.
 

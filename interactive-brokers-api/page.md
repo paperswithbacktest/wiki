@@ -13,15 +13,15 @@ Interactive Brokers, a titan in the brokerage industry, has made significant str
 
 As trading continues to evolve, the synergy between brokerage platforms like Interactive Brokers and the world of APIs becomes even more profound. This guide delves into the heart of this relationship, exploring the intricacies of Interactive Brokers' API offerings, and showcasing how they can be the linchpin in your trading journey.
 
-# Understanding the Different Interactive Brokers APIs
+## Understanding the Different Interactive Brokers APIs
 
-## Client Portal API
+### Client Portal API
 
 The Client Portal API, offered by Interactive Brokers, is built upon the RESTful API standards[1]. REST (Representational State Transfer) is an architectural style that uses standard HTTP methods and status codes, making it easier for developers to interact with services using standard web technologies and protocols. With RESTful APIs, developers can perform CRUD (Create, Read, Update, Delete) operations using the standard HTTP verbs like GET, POST, PUT, and DELETE, which are intuitive and straightforward.
 
 Key functionalities of the Client Portal API stand out, demonstrating its comprehensive nature. Users can efficiently place orders, making the trading process seamless. The API also provides WebSocket streaming, an advanced technology that facilitates real-time data transmission. This feature is vital for traders who rely on live [market data](https://paperswithbacktest.com/datasets), allowing them to receive updates instantaneously without the need for repeated requests. Furthermore, the Client Portal API offers functionalities like viewing trades, accessing account data, and more, making it a well-rounded tool for trading and portfolio management.
 
-## Trader Workstation (TWS) API
+### Trader Workstation (TWS) API
 
 The Trader Workstation (TWS) API is Interactive Brokers' proprietary, open-source API that facilitates automation of numerous trading and account management tasks[2]. As the backbone of IBKR's digital infrastructure, it is designed to integrate seamlessly with the Trader Workstation, one of the most powerful trading platforms available.
 
@@ -33,7 +33,7 @@ But what truly sets the TWS API apart from other APIs in the market is its depth
 
 To put it succinctly, the TWS API offers a potent combination of flexibility, transparency, and robustness, making it an indispensable tool for traders and developers aiming to leverage the full potential of the Interactive Brokers ecosystem.
 
-## FIX
+### FIX
 
 The Financial Information eXchange (FIX) protocol stands as a beacon in the world of electronic trading, originally established to cater to real-time communication of trade-related messages. Recognized as a dynamic industry standard, FIX is a session-layer messaging standard designed to meet the real-time, multi-partner communication needs for complex trading strategies across a variety of asset classes[3].
 
@@ -45,7 +45,7 @@ For institutions or professional traders that already have a FIX infrastructure 
 
 All in all, while the FIX protocol has its limitations, its undoubted strength lies in its robustness, making it an essential tool in the repertoire of many a trader.
 
-# Getting Started with Interactive Brokers API
+## Getting Started with Interactive Brokers API
 
 With a step-by-step approach, the process of getting started with the Interactive Brokers (IB) API becomes straightforward. Here's a distilled guide to get you started:
 
@@ -69,9 +69,9 @@ With a step-by-step approach, the process of getting started with the Interactiv
     - Familiarize yourself with IB's official API documentation. It's an invaluable resource, detailing functionalities and offering code samples.
     - Start with basic tasks: fetching account details, retrieving market data, or placing a simple order. As you grow more comfortable, you can explore advanced features and optimizations.
 
-# Dive into Different API Implementations
+## Dive into Different API Implementations
 
-## Python Integration with Interactive Brokers API
+### Python Integration with Interactive Brokers API
 
 Python stands as one of the most popular languages in the financial sector due to its simplicity, versatility, and the extensive libraries it offers. When combined with trading, Python's powerful data manipulation and analysis capabilities enable traders to craft intricate trading strategies with ease. Its open-source nature means that a plethora of libraries, tools, and resources are continually being developed and refined by the community, making Python an ideal choice for algorithmic trading.
 
@@ -92,7 +92,7 @@ For those looking to implement advanced trading algorithms, Python's expansive e
 
 The combination of Python's strengths with Interactive Brokers' comprehensive trading functionalities makes it a formidable tool in the hands of both novice and seasoned traders. Whether you're looking to deploy a simple moving average crossover strategy or a complex neural network-based prediction model, Python, in tandem with Interactive Brokers, provides the necessary arsenal.
 
-## Excel API Integration
+### Excel API Integration
 
 For many finance professionals, Excel is a trusted tool that they use daily. Bridging Excel with the Interactive Brokers API offers a seamless experience, merging the power of algorithmic trading with the familiarity and flexibility of spreadsheets. Here's how to do it:
 
@@ -119,7 +119,7 @@ For many finance professionals, Excel is a trusted tool that they use daily. Bri
 
 Integrating Excel with the Interactive Brokers API offers the best of both worlds – the algorithmic strength of an API and the flexibility of a spreadsheet. This combination opens a world of possibilities, from crafting intricate trading algorithms to detailed portfolio analysis and everything in between.
 
-## Other Noteworthy Implementations
+### Other Noteworthy Implementations
 
 Interactive Brokers, with its extensive API, has paved the way for third-party platforms to integrate and offer additional features, catering to a wide variety of traders and developers. Exploring these third-party platforms can open doors to functionalities and ease that might not be immediately available with the native implementation.
 
@@ -137,9 +137,9 @@ Interactive Brokers, with its extensive API, has paved the way for third-party p
 
 It's essential to recognize that the best platform is subjective and depends on individual trading needs. Whether it's advanced charting, high-frequency trading, [backtesting](https://blog.paperswithbacktest.com/p/backtesting-a-trading-strategy-on), or automation, there's likely a third-party platform integrated with Interactive Brokers that caters to those specific needs. Always trial a platform first, ensuring it aligns with your strategies and requirements, before fully diving in.
 
-# Diving Deep with Python
+## Diving Deep with Python
 
-## Interactive Brokers Python Native API: An Overview
+### Interactive Brokers Python Native API: An Overview
 
 Python's rise as a dominant programming language in the financial and trading sector isn't just by chance. Its simplicity combined with a vast ecosystem of libraries makes it a top choice for algorithmic trading. Interactive Brokers (IB), being forward-thinking, naturally provides native support for Python, allowing traders to harness the full potential of this popular language.
 
@@ -187,7 +187,7 @@ While both options have their strengths, the best choice often depends on the sp
 
 By integrating Python into their trading strategies with the Interactive Brokers API, traders can effectively harness the language's simplicity, versatility, and vast ecosystem. Whether through the native API or third-party libraries, the combination of Python and IB offers a potent toolkit for modern algorithmic trading.
 
-## Mastering Data Retrieval
+### Mastering Data Retrieval
 
 The Interactive Brokers API provides robust tools for fetching this data, both in real-time and historically, enabling traders to make informed decisions.
 
@@ -210,7 +210,7 @@ class DataFetcher(EWrapper, EClient):
 app = DataFetcher()
 app.connect("127.0.0.1", 7497, 0)
 
-# Defining the asset - e.g., Apple stock
+## Defining the asset - e.g., Apple stock
 stock = Contract()
 stock.symbol = "AAPL"
 stock.secType = "STK"
@@ -229,7 +229,7 @@ For those looking to validate their trading strategies, historical market data i
 def historicalData(self, reqId, bar):
     print("Historical Data:", bar.date, bar.open, bar.close)
 
-# Requesting the past 1 year of daily data
+## Requesting the past 1 year of daily data
 app.reqHistoricalData(2, stock, "", "1 Y", "1 day", "MIDPOINT", 0, 2, False, [])
 ```
 
@@ -242,7 +242,7 @@ app.reqHistoricalData(2, stock, "", "1 Y", "1 day", "MIDPOINT", 0, 2, False, [])
 
 With mastery over data retrieval through the Interactive Brokers API and best practices in storing and managing this data, traders can create a solid foundation for their algorithmic strategies, ensuring they're operating with accurate and timely market information.
 
-## Trade Automation with Python
+### Trade Automation with Python
 
 Trade automation, especially when executed proficiently, can significantly improve the efficiency and consistency of trading strategies. By utilizing the Interactive Brokers Python Native API, you can seamlessly integrate complex trade functions into your workflow. Here's a comprehensive guide on automating your trades with Python.
 
@@ -263,14 +263,14 @@ class TradeBot(EWrapper, EClient):
 app = TradeBot()
 app.connect("127.0.0.1", 7497, 0)
 
-# Defining a stock contract, for instance, Microsoft
+## Defining a stock contract, for instance, Microsoft
 msft_contract = Contract()
 msft_contract.symbol = "MSFT"
 msft_contract.secType = "STK"
 msft_contract.exchange = "SMART"
 msft_contract.currency = "USD"
 
-# Placing an order
+## Placing an order
 order = Order()
 order.action = "BUY"
 order.totalQuantity = 10
@@ -317,7 +317,7 @@ def priceAlert(self, tickerId, tickType, price, attrib):
 Options provide leverage, protection, and yield enhancement. With the API, you can seamlessly trade options and set contingent orders based on various conditions.
 
 ```python
-# Defining an option contract
+## Defining an option contract
 option_contract = Contract()
 option_contract.symbol = "MSFT"
 option_contract.secType = "OPT"
@@ -327,7 +327,7 @@ option_contract.lastTradeDateOrContractMonth = "20240120"
 option_contract.strike = 300
 option_contract.right = "C"
 
-# Contingent order based on price condition
+## Contingent order based on price condition
 contingent_order = Order()
 contingent_order.action = "BUY"
 contingent_order.totalQuantity = 1
@@ -342,7 +342,7 @@ app.placeOrder(4, option_contract, contingent_order)
 
 By automating trades with the Interactive Brokers Python Native API, you are essentially supercharging your trading strategies, allowing for more precise, timely, and efficient trades.
 
-## Error Handling and Troubleshooting
+### Error Handling and Troubleshooting
 
 Working with the Interactive Brokers Python Native API offers a streamlined experience, but like any tool, it’s not immune to errors. Efficient troubleshooting can save time and mitigate potential losses. Here's a rundown of common errors and how to address them.
 
@@ -410,7 +410,7 @@ Ensure all parameters, like `totalQuantity`, are valid. Negative values or undef
 3. **Community and Official Support**: The Interactive Brokers API community is active, and numerous forums and discussion groups can offer insights. Additionally, the [official documentation](https://interactivebrokers.github.io/tws-api/) provides comprehensive guides on potential errors and their solutions.
 
 ```python
-# A simple logging example:
+## A simple logging example:
 import logging
 
 logging.basicConfig(level=logging.INFO)
@@ -418,12 +418,12 @@ logging.basicConfig(level=logging.INFO)
 def error_handler(reqId, errorCode, errorString):
     logging.error(f"Error {errorCode}: {errorString}")
 
-# This will log all errors, aiding in troubleshooting.
+## This will log all errors, aiding in troubleshooting.
 ```
 
 Remember, while errors are inevitable, efficient troubleshooting and error handling can ensure a smooth and optimized trading experience.
 
-## Integrations and Extensions
+### Integrations and Extensions
 
 Interactive Brokers offers a plethora of features that go beyond mere trading. Integrating these with your trading strategies can amplify results, help in informed decision-making, and streamline operations. Let’s deep dive into some powerful integrations and extensions available to IB users.
 
@@ -432,7 +432,7 @@ Interactive Brokers offers a plethora of features that go beyond mere trading. I
 Real-time news and bulletins can significantly impact market dynamics. IB provides a News API that can fetch the latest financial news from various sources[9]. By integrating this feature, traders can ensure their strategies are informed by the most recent market developments.
 
 ```python
-# Sample code to retrieve news headlines
+## Sample code to retrieve news headlines
 newsArticle = ib.reqHistoricalNews(conId, providers, startDateTime='', endDateTime='', totalResults=10)
 ```
 
@@ -441,7 +441,7 @@ newsArticle = ib.reqHistoricalNews(conId, providers, startDateTime='', endDateTi
 Market scanners are vital tools for traders looking to identify opportunities based on specific criteria. IB’s API allows for the creation and customization of scanners to detect these trade signals[10].
 
 ```python
-# Creating a simple market scanner
+## Creating a simple market scanner
 scannerSubscription = ScannerSubscription()
 scannerSubscription.instrument = "STOCK.EU"
 scannerSubscription.locationCode = "STK.EU.IBIS"
@@ -455,7 +455,7 @@ scanData = ib.reqScannerData(scannerSubscription, [])
 Options trading offers a wide range of strategies, from basic calls and puts to more advanced techniques like iron condors or butterflies. The Interactive Brokers API supports comprehensive options data retrieval and order placement, enabling both beginners and seasoned traders to deep dive into the versatility of options trading[11].
 
 ```python
-# Sample code for an options contract and placing a simple call order
+## Sample code for an options contract and placing a simple call order
 optionContract = Contract()
 optionContract.symbol = "AAPL"
 optionContract.secType = "OPT"
@@ -488,17 +488,17 @@ bot = telebot.TeleBot(TOKEN)
 def send_welcome(message):
     bot.reply_to(message, "Your IB API bot is up and running!")
 
-# Sending a notification on a filled order
+## Sending a notification on a filled order
 def order_filled_notification(orderId, status, filled):
     if status == "Filled":
         bot.send_message(chat_id="YOUR_CHAT_ID", text=f"Order {orderId} has been filled with {filled} units!")
 
-# Implement the function in your main event loop or appropriate callback
+## Implement the function in your main event loop or appropriate callback
 ```
 
 Harnessing these integrations and extensions optimizes the trading experience, equipping traders with a diverse toolkit for various market scenarios.
 
-## Advanced Concepts and Technicalities
+### Advanced Concepts and Technicalities
 
 Interactive Brokers API, like any sophisticated trading software, has a multi-faceted architecture that allows traders to interact with markets efficiently. To leverage its full potential, one must grasp its foundational concepts and components.
 
@@ -539,7 +539,7 @@ Accurate and timely account and portfolio data are crucial when developing and d
 For instance, if you're implementing a risk-management module, real-time account data can be used to calculate and maintain an optimal level of leverage or to ensure specific position sizing rules:
 
 ```python
-# Sample code to request account and portfolio data
+## Sample code to request account and portfolio data
 client.reqAccountUpdates(True, "YOUR_ACCOUNT_CODE")
 
 def updateAccountValue(self, key, value, currency, accountName):
@@ -549,9 +549,9 @@ def updateAccountValue(self, key, value, currency, accountName):
 
 Understanding the depths of the Interactive Brokers API architecture and its core components can significantly enhance the efficiency, reliability, and performance of your trading applications. With a firm grasp of these concepts, traders and developers alike can build more resilient and powerful systems.
 
-# Trading with Interactive Brokers API
+## Trading with Interactive Brokers API
 
-## Understanding the Financial Instruments (Contracts)
+### Understanding the Financial Instruments (Contracts)
 
 Financial instruments, in the context of trading platforms like Interactive Brokers, are essentially contracts between parties. These contracts can take various forms, ranging from stocks to derivatives, and each comes with its own set of specifications and characteristics.
 
@@ -573,7 +573,7 @@ Financial instruments, in the context of trading platforms like Interactive Brok
 
 When engaging with Interactive Brokers, understanding the nuances and specifications of each instrument is crucial. For instance, options come with expiration dates, and futures might have delivery obligations. Cryptocurrencies, still a nascent field, can be subject to high volatility and regulatory scrutiny in various jurisdictions.
 
-## Market Data
+### Market Data
 
 Market data is the lifeblood of trading. It encompasses a vast array of information about financial instruments, including prices, volumes, and other pertinent details. By tapping into this data, traders can make informed decisions, analyze market dynamics, and execute successful trades.
 
@@ -622,7 +622,7 @@ When accessing historical data, consider:
 
 In sum, market data, both streaming and historical, is pivotal for successful trading. With Interactive Brokers API, this data is readily accessible, allowing traders to harness it effectively.
 
-## Making Orders
+### Making Orders
 
 Executing trades efficiently is a critical aspect of any trading strategy. The Interactive Brokers API offers a seamless experience for placing orders, ranging from basic to advanced techniques, allowing for precise control over trading activities.
 
@@ -640,20 +640,20 @@ Here's a quick example of a market order for purchasing 100 shares of AAPL:
 from ibapi.contract import Contract
 from ibapi.order import Order
 
-# Define contract
+## Define contract
 contract = Contract()
 contract.symbol = 'AAPL'
 contract.secType = 'STK'
 contract.exchange = 'SMART'
 contract.currency = 'USD'
 
-# Define order
+## Define order
 order = Order()
 order.action = 'BUY'
 order.totalQuantity = 100
 order.orderType = 'MKT'
 
-# Place order
+## Place order
 orderId = getNextOrderId()
 ib.placeOrder(orderId, contract, order)
 ```
@@ -663,27 +663,27 @@ ib.placeOrder(orderId, contract, order)
 - **Conditional Orders**: You can place orders that only execute when certain conditions are met. For example, an order to buy stock X only if stock Y is trading above a certain price.
 
 ```python
-# Create a price condition
+## Create a price condition
 condition = PriceCondition()
 condition.conId = getConIdForSymbol('Y')
 condition.isMore = True
 condition.price = targetPrice
 
-# Attach condition to the order
+## Attach condition to the order
 order.conditions.append(condition)
 ```
 
 - **Stop Loss and Take Profit**: A stop loss order is placed to sell an asset once it reaches a particular price point to limit losses. Conversely, a take profit order specifies a price at which to sell to lock in profits.
 
 ```python
-# Stop loss order
+## Stop loss order
 stopLoss = Order()
 stopLoss.action = 'SELL'
 stopLoss.totalQuantity = 100
 stopLoss.orderType = 'STP'
 stopLoss.auxPrice = stopLossPrice
 
-# Take profit order
+## Take profit order
 takeProfit = Order()
 takeProfit.action = 'SELL'
 takeProfit.totalQuantity = 100
@@ -695,9 +695,9 @@ takeProfit.lmtPrice = takeProfitPrice
 
 By understanding and utilizing these order types, traders can tailor their approach to best fit their risk tolerance and strategy, leveraging the robust capabilities offered by the Interactive Brokers API.
 
-# Advanced Topics
+## Advanced Topics
 
-## Account & Portfolio Data Analysis
+### Account & Portfolio Data Analysis
 
 Analyzing your account and portfolio data is pivotal for refining your trading strategies and ensuring optimal asset allocation. Interactive Brokers API provides efficient tools for extracting this data, allowing traders to conduct in-depth analysis.
 
@@ -744,7 +744,7 @@ def position(self, account, contract, pos, avgCost):
 
 With the extracted data, traders can utilize various analytical tools and statistical models to refine strategies. Whether optimizing for tax purposes, rebalancing portfolios, or evaluating past trades, consistent account and portfolio analysis is crucial for informed trading.
 
-## Options Trading with API
+### Options Trading with API
 
 Options are derivative contracts that provide investors with the right, but not the obligation, to buy (call) or sell (put) an asset at a specified price within a set timeframe. Trading options can be complex, but Interactive Brokers API streamlines the process, making it simpler for traders to execute option trades programmatically.
 
@@ -806,7 +806,7 @@ After defining both the contract and order, use the `placeOrder` method of the `
 
 By integrating the Interactive Brokers API, traders can seamlessly execute, modify, or cancel option orders, harnessing the power of algorithmic strategies to potentially maximize returns and minimize risks.
 
-## Cryptocurrency Trading with API
+### Cryptocurrency Trading with API
 
 The digital currency revolution has marked a significant turning point in the world of finance, with cryptocurrencies like Bitcoin, Ethereum, and many others becoming increasingly popular assets among traders. The Interactive Brokers API provides an efficient framework for trading these digital assets. Here are some practical tips and strategies to keep in mind when using the API for cryptocurrency trading.
 
@@ -852,7 +852,7 @@ The cryptocurrency realm is continually evolving. Regularly update your knowledg
 
 Utilizing the Interactive Brokers API for cryptocurrency trading offers traders an edge by combining the power of algorithmic trading with the dynamic nature of the digital currency market.
 
-## Working with Market Scanners, News, and IB Bulletins
+### Working with Market Scanners, News, and IB Bulletins
 
 In the rapidly changing world of finance, staying updated with market movements is indispensable. With Interactive Brokers' API, you have tools like market scanners, news feeds, and IB bulletins at your fingertips, designed to ensure you never miss a beat. Here's how to harness these tools for better trading decisions:
 
@@ -890,7 +890,7 @@ Interactive Brokers periodically releases bulletins containing important informa
 
 Staying informed is half the battle in trading. By efficiently using market scanners, keeping abreast of the latest news, and heeding IB bulletins, you'll always be in a position to make informed trading decisions, maximizing potential profits while mitigating risks.
 
-# Best Practices and Tips
+## Best Practices and Tips
 
 When you're leveraging the power of APIs like Interactive Brokers, adhering to best practices is paramount for optimal performance and security.
 
@@ -923,7 +923,7 @@ No trader or developer is an island, and the vast landscape of API trading is co
 
 In the realm of algorithmic trading, where milliseconds can mean the difference between profit and loss, adhering to these best practices can set you on a path to success and safeguard your investments.
 
-# Troubleshooting and Common Issues
+## Troubleshooting and Common Issues
 
 Using the Interactive Brokers API provides vast opportunities to customize and automate your trading operations. However, as with any sophisticated piece of technology, users might occasionally run into problems. Addressing these effectively is the key to a seamless trading experience.
 
@@ -967,9 +967,9 @@ Using the Interactive Brokers API provides vast opportunities to customize and a
 
 By understanding the most common issues and implementing robust error handling practices, you can mitigate risks and ensure a smoother trading experience.
 
-# Automation and Notifications
+## Automation and Notifications
 
-## Automating Trades
+### Automating Trades
 
 Automating trades has become increasingly popular among traders, as it allows for swift, consistent responses to market conditions without human emotions interfering. With Interactive Brokers API, you have the tools to implement such strategies effectively. Here's a guide to setting up automated trades based on specific criteria using the API.
 
@@ -990,7 +990,7 @@ Automating trades has become increasingly popular among traders, as it allows fo
 
 Remember, while automated trading can be profitable and remove some of the emotions from trading, it's not foolproof. Regular oversight is crucial, and having a manual kill switch is advisable to stop trading under unexpected market conditions or behavior.
 
-## Setting Up Notifications
+### Setting Up Notifications
 
 Setting up notifications ensures that you are immediately informed of key trading events, order executions, or any predefined criteria. With the versatility of the Interactive Brokers API, you can integrate it with messaging platforms like Telegram for real-time alerts. Here's a straightforward guide on setting up such notifications.
 
@@ -1024,7 +1024,7 @@ def send_telegram_message(chat_id, token, message):
     url = f"<https://api.telegram.org/bot{token}/sendMessage?chat_id={chat_id}&text={message}>"
     requests.get(url)
 
-# Use this function whenever you need to send a notification
+## Use this function whenever you need to send a notification
 send_telegram_message(your_chat_id, your_token, "Order executed!")
 ```
 
@@ -1038,7 +1038,7 @@ Before relying on your notification system, simulate events and ensure that mess
 
 With this setup, you can have real-time insights into your trades, delivered directly to your preferred messaging platform. This not only keeps you informed but also can save crucial time in reacting to the fast-paced trading environment.
 
-# API Architecture and Deep Dive
+## API Architecture and Deep Dive
 
 Interactive Brokers (IB) API, renowned for its robustness and flexibility, is the powerhouse behind many algorithmic trading strategies. To unlock its full potential, it's vital to have a deep understanding of its architecture and components.
 
@@ -1082,7 +1082,7 @@ The socket connection is essential to maintain a stable connection between the c
 
 For traders and developers aiming to harness the API's true capabilities, understanding the underlying architecture is paramount. Not only does it facilitate efficient utilization of the features, but it also empowers them to craft advanced trading strategies that are both stable and responsive.
 
-# Storing and Analyzing Historical Data
+## Storing and Analyzing Historical Data
 
 Historical data, essentially a record of past market prices and trading volumes, is the backbone of many trading strategies. From the development of algorithmic models to backtesting and risk management, the significance of accurate and comprehensive historical data is hard to overstate.
 
@@ -1108,7 +1108,7 @@ Interactive Brokers API provides access to an extensive database of historical d
 
 In the era of algorithmic and quantitative trading, historical data's role has never been more critical. Interactive Brokers, with its expansive API offering, brings this data to your fingertips. But the onus is on traders and developers to store, manage, and analyze this data effectively, ensuring their strategies remain both competitive and profitable.
 
-# Conclusion
+## Conclusion
 
 The meteoric rise of algorithmic trading and the sheer volume of trades executed by algorithms today underscore the transformative impact of APIs in the trading arena. These digital gateways not only usher in efficiency and precision but also democratize access, allowing even individual traders to harness computational prowess in their trading strategies.
 
@@ -1121,7 +1121,7 @@ Interactive Brokers, as one of the vanguard institutions in the trading world, o
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: [RESTful API: A Simple Overview](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 

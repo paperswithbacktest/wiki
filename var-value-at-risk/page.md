@@ -15,7 +15,7 @@ While there are various methods and tools to compute VaR, Python has emerged as 
 
 In this guide, we will deep dive deep into the world of VaR, exploring its nuances, calculation methods, and real-world applications, all through the lens of Python.
 
-# Understanding Value at Risk (VaR)
+## Understanding Value at Risk (VaR)
 
 Value at Risk (VaR) is a risk management tool widely used in the finance industry to measure the potential loss in value of a risky financial portfolio over a specific time period for a given confidence interval. Formally, if we say the VaR of a portfolio over one day is $1 million at the 95% confidence level, it means there is a 5% chance that the portfolio will fall in value by more than $1 million over a one-day period if there is no trading.
 
@@ -27,7 +27,7 @@ It's also worth noting that VaR is fundamentally a 'point estimate'. It gives on
 
 For further exploration on this topic, Jorion's "Value at Risk: The New Benchmark for Managing Financial Risk" is an excellent resource that delves deeper into the concepts and methodologies of VaR[1].
 
-## Pros of using VaR
+### Pros of using VaR
 
 Value at Risk (VaR) has secured its place as a cornerstone of risk measurement in finance, and there are several compelling reasons for its widespread adoption.
 
@@ -37,7 +37,7 @@ Value at Risk (VaR) has secured its place as a cornerstone of risk measurement i
 
 **Universal Recognition and Usage**: Since its introduction, VaR has not only been a favorite among financial practitioners but also has been recognized by regulatory bodies globally. Many regulators require financial institutions to report VaR figures for certain types of exposures[2]. Its universal recognition stems from a combination of its simplicity, effectiveness in capturing potential losses, and the industry's confidence in the measure, making it an indispensable tool in modern risk management.
 
-## Cons and Limitations of VaR
+### Cons and Limitations of VaR
 
 While Value at Risk (VaR) boasts widespread acceptance in financial risk management, it's crucial for practitioners to recognize its potential pitfalls and limitations.
 
@@ -51,9 +51,9 @@ These limitations do not diminish VaR's value but rather emphasize the importanc
 
 For a deeper dive into the challenges and nuances of VaR, "Risk Metrics: Technical Document" by J.P. Morgan provides invaluable insights[4].
 
-# Delving Deep into VaR Calculation Methods
+## Delving Deep into VaR Calculation Methods
 
-## Variance-Covariance Method
+### Variance-Covariance Method
 
 The Variance-Covariance approach is one of the most commonly used methods to estimate Value at Risk (VaR). Rooted in the assumptions of modern portfolio theory, it's built on the premise that asset returns are normally distributed and that the relationships between assets, as captured by covariances, remain stable over time[5].
 
@@ -71,17 +71,17 @@ Let's demonstrate the Variance-Covariance method with a simple Python implementa
 import numpy as np
 from scipy.stats import norm
 
-# Sample data: past returns of an asset
+## Sample data: past returns of an asset
 returns = np.array([...])
 
-# Confidence level: e.g., 95%
+## Confidence level: e.g., 95%
 alpha = 0.05
 
-# Calculate mean and standard deviation of returns
+## Calculate mean and standard deviation of returns
 mean_return = np.mean(returns)
 std_return = np.std(returns)
 
-# Calculate VaR
+## Calculate VaR
 var_95 = mean_return - norm.ppf(1-alpha) * std_return
 print(f"95% VaR: {var_95:.2f}")
 ```
@@ -91,23 +91,23 @@ print(f"95% VaR: {var_95:.2f}")
 For a two-asset portfolio, the VaR is influenced by the weights of assets, their individual volatilities, and the correlation between them. Here's a basic example:
 
 ```python
-# Sample data: past returns of two assets
+## Sample data: past returns of two assets
 returns_asset1 = np.array([...])
 returns_asset2 = np.array([...])
 
-# Weights of assets in the portfolio
+## Weights of assets in the portfolio
 w1, w2 = 0.6, 0.4
 
-# Calculate means and standard deviations
+## Calculate means and standard deviations
 mean1, mean2 = np.mean(returns_asset1), np.mean(returns_asset2)
 std1, std2 = np.std(returns_asset1), np.std(returns_asset2)
 
-# Calculate portfolio mean and standard deviation
+## Calculate portfolio mean and standard deviation
 portfolio_mean = w1 * mean1 + w2 * mean2
 portfolio_var = w1**2 * std1**2 + w2**2 * std2**2 + 2 * w1 * w2 * np.cov(returns_asset1, returns_asset2)[0][1]
 portfolio_std = np.sqrt(portfolio_var)
 
-# Calculate portfolio VaR
+## Calculate portfolio VaR
 portfolio_var_95 = portfolio_mean - norm.ppf(1-alpha) * portfolio_std
 print(f"95% Portfolio VaR: {portfolio_var_95:.2f}")
 ```
@@ -116,7 +116,7 @@ This approach can be extended to portfolios with more assets, but it's vital to 
 
 In practice, financial institutions often employ the Variance-Covariance method due to its mathematical elegance and relative simplicity, [especially when historical data might not be extensive or reliable](https://blog.paperswithbacktest.com/p/how-to-collect-data-for-backtesting).
 
-## Historical Simulation Method
+### Historical Simulation Method
 
 Historical Simulation is a non-parametric approach to estimate Value at Risk (VaR), relying on actual historical return data without making assumptions about return distributions. By using actual market data, it accounts for extreme market events and non-linear relationships among assets.
 
@@ -133,19 +133,19 @@ Given a series of historical returns and a desired confidence level, the Histori
 ```python
 import numpy as np
 
-# Sample data: past returns of an asset
+## Sample data: past returns of an asset
 returns = np.array([...])
 
-# Desired confidence level, e.g., 95%
+## Desired confidence level, e.g., 95%
 alpha = 0.05
 
-# Sort the returns
+## Sort the returns
 sorted_returns = np.sort(returns)
 
-# Determine the index corresponding to the (1-alpha) quantile
+## Determine the index corresponding to the (1-alpha) quantile
 index = int((len(sorted_returns) - 1) * alpha)
 
-# Extract the VaR from the sorted returns
+## Extract the VaR from the sorted returns
 var_95 = -sorted_returns[index]
 print(f"95% VaR: {var_95:.2f}")
 ```
@@ -155,7 +155,7 @@ print(f"95% VaR: {var_95:.2f}")
 To illustrate this, let's consider the historical daily returns of Apple Inc. over the past year. Assuming you have collected this data and stored it in a Python list:
 
 ```python
-# Sample data: past returns of Apple Inc.
+## Sample data: past returns of Apple Inc.
 apple_returns = np.array([...])
 
 sorted_apple_returns = np.sort(apple_returns)
@@ -166,7 +166,7 @@ print(f"95% VaR for Apple Inc.: {var_95_apple:.2f}")
 
 By observing the 95% VaR for Apple Inc., we can determine the maximum expected loss for a given day, at a 95% confidence level, based on historical data. It's worth noting that while Historical Simulation provides a direct way to assess VaR, it's also sensitive to the length and relevance of the historical data used[6].
 
-## Parametric and Semi-Parametric VaR
+### Parametric and Semi-Parametric VaR
 
 Parametric and Semi-Parametric VaR methods are advanced methodologies that enhance VaR estimation by accounting for the intricacies of financial data distribution. While Parametric VaR assumes a specific distribution for returns, such as the normal distribution, Semi-Parametric VaR leverages both parametric and non-parametric techniques to capture tail risks[1].
 
@@ -223,9 +223,9 @@ Parametric and Semi-Parametric VaR methods are advanced methodologies that enhan
 
 While this is a basic illustration, more sophisticated methods can be used to determine the merging point between the parametric and non-parametric portions.
 
-# Advanced VaR Techniques and Considerations
+## Advanced VaR Techniques and Considerations
 
-## Monte Carlo Simulation in VaR
+### Monte Carlo Simulation in VaR
 
 Monte Carlo Simulation (MCS) is a computational method that allows risk analysts to model the probability of different outcomes in a process that cannot be easily predicted due to the intervention of random variables[8]. MCS is highly versatile and is used in various fields, from physics to finance, and of course, in the estimation of Value at Risk.
 
@@ -250,17 +250,17 @@ Let's demonstrate a basic Monte Carlo Simulation to estimate VaR for a hypotheti
 ```python
 import numpy as np
 
-# Set seed for reproducibility
+## Set seed for reproducibility
 np.random.seed(42)
 
-# Define parameters
+## Define parameters
 num_simulations = 10000  # Number of simulations
 days = 1  # One day VaR
 mean_daily_return = 0.01
 daily_volatility = 0.02
 initial_price = 100  # Hypothetical stock price
 
-# Monte Carlo simulation
+## Monte Carlo simulation
 simulated_paths = np.zeros(num_simulations)
 
 for i in range(num_simulations):
@@ -268,7 +268,7 @@ for i in range(num_simulations):
     simulated_price = initial_price * (1 + daily_return)
     simulated_paths[i] = (initial_price - simulated_price) / initial_price
 
-# Calculate VaR at 95% confidence level
+## Calculate VaR at 95% confidence level
 var_95 = np.percentile(simulated_paths, 5)
 print(f"95% VaR (Monte Carlo): {-var_95*initial_price:.2f}")
 ```
@@ -277,7 +277,7 @@ In this example, we simulate the price paths of our hypothetical stock 10,000 ti
 
 Keep in mind, this is a simple illustration. In practice, MCS for VaR would likely involve more factors, especially for multifactor models or complex financial instruments.
 
-## VaR for Multi-Asset Portfolios
+### VaR for Multi-Asset Portfolios
 
 Computing Value at Risk (VaR) for multi-asset portfolios poses unique challenges, mainly because assets in a portfolio don't operate in isolation. Their returns are correlated, and these correlations play a pivotal role in determining the portfolio's overall risk.
 
@@ -293,7 +293,7 @@ Computing Value at Risk (VaR) for multi-asset portfolios poses unique challenges
 2. **Use of Copulas**: Copulas allow for the modeling of joint distribution of returns, which can be employed to capture the dependency structure in a portfolio.
 3. **Factor Models**: By reducing a large set of assets to a few common factors, factor models can simplify the VaR calculation process.
 
-## Backtesting VaR Models
+### Backtesting VaR Models
 
 [Backtesting is](https://blog.paperswithbacktest.com/p/backtesting-a-trading-strategy-on) the process of testing a model's predictions on historical data, [a crucial step in validating any financial model](https://blog.paperswithbacktest.com/p/backtesting-a-trading-strategy-on), especially VaR. If a VaR model is accurate, the number of times losses exceed the VaR estimate should align with the confidence level. For instance, for a 95% VaR, we would expect only 5% of the returns to breach this threshold.
 
@@ -316,18 +316,18 @@ Assuming we have a pandas dataframe `df` with columns 'Returns' and 'VaR_95', a 
 ```python
 import pandas as pd
 
-# Sample data: Replace with actual returns and VaR estimates
+## Sample data: Replace with actual returns and VaR estimates
 data = {
     'Returns': [-0.02, -0.015, 0.03, -0.04, 0.01],
     'VaR_95': [-0.03, -0.025, -0.025, -0.03, -0.03]
 }
 df = pd.DataFrame(data)
 
-# Count the number of VaR breaches
+## Count the number of VaR breaches
 breaches = df[df['Returns'] < df['VaR_95']]
 num_breaches = len(breaches)
 
-# Calculate expected breaches for a 95% VaR
+## Calculate expected breaches for a 95% VaR
 expected_breaches = len(df) * 0.05
 
 print(f"Number of VaR breaches: {num_breaches}")
@@ -336,7 +336,7 @@ print(f"Expected number of breaches: {expected_breaches}")
 
 This simple code gives a first-hand understanding of the model's performance. However, more sophisticated statistical tests would be required for a rigorous evaluation. One such test, the unconditional coverage test, is implemented in the `arch` package in Python.
 
-# Comparing VaR Across Platforms
+## Comparing VaR Across Platforms
 
 Value at Risk calculations can be performed on various platforms, and the choice of platform often depends on the user's requirements, familiarity, and the complexity of the underlying assets. One of the most popular platforms, apart from Python, for conducting VaR calculations is Excel.
 
@@ -357,7 +357,7 @@ Excel is widely adopted in the finance world due to its ease of use and familiar
 5. **Integration with Databases and APIs**: Python effortlessly integrates with databases and can fetch real-time data from APIs, ensuring the most updated data is always used for VaR calculations.
 6. **Collaboration and Version Control**: Python scripts can be managed with tools like Git, making collaborative work and version control straightforward.
 
-# Integrating VaR in Modern Portfolio Theory
+## Integrating VaR in Modern Portfolio Theory
 
 Modern Portfolio Theory (MPT) propounds the idea of optimizing a portfolio not just based on expected returns but also considering the risks associated with those returns. In this framework, Value at Risk (VaR) becomes instrumental, serving as a quantitative risk measure that can help optimize portfolios for maximum returns at a given level of risk, or conversely, minimize risk for a desired level of return.
 
@@ -377,21 +377,21 @@ Here's a simplified approach to incorporate VaR in portfolio optimization using 
 import numpy as np
 from scipy.optimize import minimize
 
-# Define portfolio returns and covariance matrix
+## Define portfolio returns and covariance matrix
 returns = np.array([...])
 cov_matrix = np.array([...])
 
-# VaR parameters
+## VaR parameters
 alpha = 0.05  # 95% confidence level
 initial_weights = np.array([...])
 
-# Objective function: Minimize negative Sharpe Ratio (for maximization)
+## Objective function: Minimize negative Sharpe Ratio (for maximization)
 def objective(weights):
     portfolio_return = np.dot(weights, returns)
     portfolio_std = np.sqrt(np.dot(weights.T, np.dot(cov_matrix, weights)))
     return -portfolio_return / portfolio_std
 
-# Constraint for VaR
+## Constraint for VaR
 def VaR_constraint(weights):
     portfolio_return = np.dot(weights, returns)
     portfolio_std = np.sqrt(np.dot(weights.T, np.dot(cov_matrix, weights)))
@@ -407,7 +407,7 @@ optimal_weights = optimized.x
 
 By integrating VaR in portfolio optimization algorithms, investors can make more nuanced and risk-informed decisions, which aligns with the core tenets of Modern Portfolio Theory.
 
-# VaR in the Real World: Use Cases and Stories
+## VaR in the Real World: Use Cases and Stories
 
 Value at Risk (VaR) isn't just a theoretical construct; it has real-world implications, and its utility (or sometimes, miscalculations) have been underscored in several significant financial events.
 
@@ -423,7 +423,7 @@ Conversely, the LTCM crisis in 1998 served as a cautionary tale about the limita
 
 The global financial crisis of 2008 brought VaR back into the limelight. Many institutions reported that their losses during the crisis far exceeded their VaR estimates. Critics argued that an over-reliance on VaR, without considering its underlying assumptions and the potential for "black swan" events, played a role in the crisis[11]. However, others defended VaR, asserting that its misuse or misinterpretation was the problem, not the metric itself.
 
-# The Evolution of VaR Post Financial Crises
+## The Evolution of VaR Post Financial Crises
 
 Following these significant financial events, there was a collective realization that while VaR was useful, it wasn't infallible. The aftermath of these crises witnessed an evolution in the application and interpretation of VaR:
 
@@ -433,7 +433,7 @@ Following these significant financial events, there was a collective realization
 
 In conclusion, VaR's journey, punctuated by both successes and failures, reflects the evolving nature of financial risk management. The real-world implications of VaR underscore its significance and the continual need for its refinement and adaptation.
 
-# Conclusion
+## Conclusion
 
 Value at Risk (VaR) stands as a cornerstone in financial risk management, offering a quantifiable measure that captures potential losses across portfolios. Its prominence has only grown with the evolution of financial markets, reflecting the industry's demand for robust, reliable risk metrics.
 
@@ -448,7 +448,7 @@ Beyond mere calculations, Python's role extends to integrating VaR insights into
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: Jorion, P. (2007). [Value at Risk: The New Benchmark for Managing Financial Risk](https://www.amazon.com/Value-Risk-Benchmark-Managing-Financial/dp/0071355022). McGraw-Hill Education.
 

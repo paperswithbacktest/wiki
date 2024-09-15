@@ -7,7 +7,7 @@ description: Discover the intersection of Reinforcement Learning and Algo Tradin
 
 At the intersection of artificial intelligence and quantitative trading lies Reinforcement Learning. This decision-oriented machine learning paradigm lends itself naturally to the complexities and challenges of the financial market. Let's dive into the vast world of Reinforcement Learning and its application to algo trading.
 
-# Understanding Reinforcement Learning
+## Understanding Reinforcement Learning
 
 Reinforcement learning works on a simple principle: an agent (e.g., an algorithm) makes decisions, and for each action it receives either a reward or a penalty. Based on this feedback, the agent refines its future choices with the aim of increasing its cumulative reward.
 
@@ -18,21 +18,21 @@ At the heart of this process are four essential components:
 3. The **Actions**, which represent the spectrum of possible decisions for the agent.
 4. The **Rewards**, which are the feedbacks, positive or negative, resulting from the agent's actions.
 
-# Adapting to algorithmic trading
+## Adapting to algorithmic trading
 
 In algo trading, imagine the agent as a trading algorithm. It operates within an environment, which is the financial market. Its actions take the form of basic decisions such as "buy", "sell" or even "abstain". And of course, the financial results (gains or losses) become the rewards or penalties.
 
 Relevant applications include using reinforcement learning to identify optimal entry or exit timing based on market dynamics, or to dynamically adjust an investment portfolio to optimize returns according to current market conditions.
 
-# Advantages of reinforcement learning in trading
+## Advantages of reinforcement learning in trading
 
 Reinforcement learning agents are distinguished by their adaptability. They can adjust their behavior in response to market fluctuations. What's more, they are constantly on the lookout for ways to improve, constantly seeking to perfect their strategy to maximize rewards.
 
-# Inherent challenges
+## Inherent challenges
 
 Nevertheless, the use of Reinforcement Learning in trading is not without its challenges. For example, a balance needs to be struck between exploring new strategies and exploiting tried-and-tested ones. Similarly, the choice of indicators and data to take into account when making decisions is crucial.
 
-# C**onclusion**
+## C**onclusion**
 
 Reinforcement learning, despite its challenges, opens up fascinating horizons for algorithmic trading. Its dynamics of continuous learning and adaptability make it an invaluable tool for the traders of the future. As technology continues to evolve, Reinforcement Learning is likely to become a key component of advanced trading strategies.
 

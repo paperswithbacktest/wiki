@@ -11,7 +11,7 @@ HFT's prowess is reflected in its ability to identify minute inefficiencies in t
 
 The significance of HFT in today's trading world cannot be understated. As of the early 2020s, HFT accounted for approximately half of the equity market volume in the U.S. Its impact is pervasive, influencing everything from market liquidity to the pricing of securities. Proponents praise HFT for reducing trading costs, improving market efficiency, and enhancing liquidity. Meanwhile, skeptics raise concerns about potential market instability or the fairness of allowing certain traders an advanced technological edge.
 
-# The Evolution of High-Frequency Trading
+## The Evolution of High-Frequency Trading
 
 The financial markets have always been arenas of innovation. In their early days, exchanges were characterized by open-outcry systems, where traders would shout and use hand signals to communicate orders. Floor traders had to be sharp, reacting to market movements in real-time. It was a physical, chaotic, yet organized dance of supply, demand, and human intuition.
 
@@ -25,7 +25,7 @@ This relentless drive for speed led to innovations like co-location, where tradi
 
 From shouting orders across a bustling trading floor to executing millions of trades in the blink of an eye, the journey of high-frequency trading underscores the financial market's ability to evolve. With each technological leap, trading strategies and the market's very structure adapted, leading to the hyper-efficient, electronically driven landscape we see today.
 
-# Deep Dive: How High-Frequency Trading Works
+## Deep Dive: How High-Frequency Trading Works
 
 High-Frequency Trading (HFT) is more than just algorithms making rapid-fire trades. It's a complex ecosystem that leverages cutting-edge technology at every juncture to ensure maximum efficiency and speed. Let's dissect this intricate machinery.
 
@@ -49,9 +49,9 @@ This granular data analysis demands immense computational power. Sophisticated a
 
 High-Frequency Trading is an intricate ballet of technology, data, and strategy. It's a world where millisecond improvements can mean the difference between profit and loss, and where the relentless pursuit of efficiency constantly reshapes the trading landscape.
 
-# Core High-Frequency Trading Strategies
+## Core High-Frequency Trading Strategies
 
-## Market Making
+### Market Making
 
 Market making is a fundamental trading strategy not only in High-Frequency Trading (HFT) but across various financial markets. At its core, market making involves simultaneously quoting both buy (bid) and sell (ask) prices for a financial instrument, with the aim of profiting from the bid-ask spread.
 
@@ -67,7 +67,7 @@ In the realm of HFT, market making has taken a sophisticated turn. Advanced algo
 
 In essence, market making in the high-frequency domain is about providing liquidity at unparalleled speed, ensuring markets remain efficient even in turbulent times.
 
-## Statistical Arbitrage
+### Statistical Arbitrage
 
 Statistical arbitrage, often shortened to StatArb, is a quantitative strategy that seeks to exploit temporary price anomalies between related securities. The strategy uses mathematical models and computations to identify trading opportunities with a theoretically predefined risk-return profile. Unlike traditional arbitrage strategies, which seek to exploit price discrepancies for the same asset across different markets, StatArb is based on the premise that there exists a stable, long-term relationship between the prices of certain assets, and when a deviation occurs, it provides a tradeable opportunity.
 
@@ -84,7 +84,7 @@ Statistical arbitrage, often shortened to StatArb, is a quantitative strategy th
 
 Statistical arbitrage, while based on rigorous mathematical foundations, is not risk-free. Traders need to account for transaction costs, potential model inaccuracies, and evolving market dynamics. Yet, with a disciplined approach and meticulous backtesting, StatArb can offer a compelling avenue for systematic, data-driven profits in the market.
 
-## Event Arbitrage
+### Event Arbitrage
 
 Event arbitrage is a strategy centered around capitalizing on price movements that are anticipated to occur from specific events, like mergers, earnings announcements, or economic data releases. In the world of high-frequency trading, the quick dissemination and interpretation of these events can lead to significant trading advantages.
 
@@ -107,7 +107,7 @@ HFT firms leverage state-of-the-art technologies to instantaneously process and 
 
 The allure of event arbitrage in high-frequency trading lies in its potential for high returns. However, it's a double-edged sword. Given the speed and automation involved, if an algorithm misinterprets news or reacts inappropriately, it can lead to significant losses in a very short time frame.
 
-## Latency Arbitrage
+### Latency Arbitrage
 
 Latency arbitrage is one of the most controversial and prevalent strategies in the high-frequency trading (HFT) world. This strategy thrives on exploiting minuscule, often microsecond, differences in the speed at which market participants receive and act on market information.
 
@@ -125,7 +125,7 @@ To achieve and maintain these minuscule advantages, HFT firms employ a combinati
 
 It's worth noting that while latency arbitrage can be lucrative, it's also fraught with challenges. The arms race for speed is relentless, requiring constant investment. Moreover, it has been a subject of regulatory scrutiny due to concerns about market fairness and stability.
 
-## Momentum Strategies
+### Momentum Strategies
 
 Momentum strategies, at their core, are based on a simple premise: assets that have performed well in the recent past are likely to continue performing well in the near future, and conversely, assets that have performed poorly will continue their downward trajectory. High-frequency trading (HFT) leverages this principle but on a much shorter time scale, sometimes holding positions for mere seconds or even milliseconds.
 
@@ -144,7 +144,7 @@ HFT momentum strategies can be particularly effective during times of market vol
 
 While some critics argue that HFT momentum strategies can exacerbate market volatility, proponents believe that these strategies provide additional liquidity and can help "correct" mispriced assets more rapidly.
 
-## Order Flow Prediction
+### Order Flow Prediction
 
 Order flow prediction revolves around anticipating large trades before they execute and gauging the subsequent market impact. Successfully predicting order flow allows traders to position themselves advantageously, potentially benefiting from the anticipated price movements.
 
@@ -160,7 +160,7 @@ In the realm of high-frequency trading (HFT), the stakes are high, and the margi
 
 Critics argue that trading based on order flow prediction can be parasitic, with HFTs profiting at the expense of institutional and retail traders. They contend that it could lead to predatory trading practices where HFTs exploit their speed advantage to front-run large orders. On the flip side, proponents claim that HFT adds liquidity to the market and ensures tighter bid-ask spreads.
 
-## Liquidity Detection
+### Liquidity Detection
 
 In the fast-paced environment of high-frequency trading, detecting liquidity is like finding hidden treasure. Liquidity, in trading terms, refers to the ease with which assets can be bought or sold without causing significant price movements. In markets where liquidity is high, substantial trades can be executed without drastically affecting prices. Conversely, in less liquid markets, even small trades can lead to considerable price shifts.
 
@@ -175,7 +175,7 @@ For HFT traders, spotting liquidity (especially hidden liquidity) provides strat
 
 Detecting liquidity is a double-edged sword. On one hand, it can provide HFT traders with opportunities to achieve better execution prices and reduce trading costs. On the other hand, if misused, it can be seen as predatory, with HFTs potentially taking advantage of other market participants. This balance, and the methods employed to strike it, is a subject of ongoing debate within the trading community.
 
-## Algorithmic Execution Strategies
+### Algorithmic Execution Strategies
 
 Algorithmic execution strategies are the backbone of modern trading, ensuring large orders are managed effectively to reduce adverse market impact. When a substantial trade is executed in one go, it can significantly move the market, leading to slippage and, consequently, a less favorable execution price. To circumvent this, traders use algorithmic execution strategies to break down large orders into smaller, manageable chunks, executed over time or across different venues.
 
@@ -190,7 +190,7 @@ Algorithmic execution strategies are the backbone of modern trading, ensuring la
 
 Algorithmic execution strategies are not a one-size-fits-all solution. Their efficiency depends on factors like order size, market volatility, and the specific objectives of the trader. However, their primary aim remains consistent: optimizing trade execution by balancing urgency, cost, and market impact to achieve the best possible result.
 
-# The Role of AI and Quantum Computing in HFT
+## The Role of AI and Quantum Computing in HFT
 
 High-frequency trading has always thrived on the cutting edge of technology, and today, Artificial Intelligence (AI) and Quantum Computing are among the pioneering technologies leading the charge.
 
@@ -206,7 +206,7 @@ However, it's essential to understand that quantum computing in HFT is still in 
 
 In essence, both AI and quantum computing are pushing the envelope of what's possible in HFT. While AI algorithms are already driving significant change, delivering more accurate predictions and dynamic strategies, quantum computing holds the promise of unmatched computational power, paving the way for an entirely new era of trading.
 
-# Market Impact and Critiques
+## Market Impact and Critiques
 
 High-Frequency Trading (HFT) has undeniably left a significant footprint on global financial markets. As with any powerful force, it brings with it a blend of benefits and drawbacks, often sparking intense debates among market participants, regulators, and the public.
 
@@ -228,7 +228,7 @@ Defenders argue that HFT is merely the natural evolution of trading in a technol
 
 Regardless of one's stance, it's clear that HFT remains one of the most polarizing topics in modern finance. Its profound influence on market dynamics ensures that discussions around its role, impact, and ethics will remain at the forefront for years to come.
 
-# Regulatory Landscape
+## Regulatory Landscape
 
 High-Frequency Trading (HFT) operates within a complex regulatory landscape that varies across different jurisdictions. This landscape reflects a balance between fostering innovation and ensuring market integrity, protecting investors, and preventing abuse.
 
@@ -254,7 +254,7 @@ Given the global nature of financial markets, **differences in regulations acros
 
 To conclude, the regulatory landscape for HFT is continually evolving, shaped by market events, technological advancements, and shifts in regulatory philosophy. While it's challenging to predict the exact future trajectory, the overarching goal will remain: ensuring that financial markets are fair, transparent, and resilient.
 
-# Who's Who in HFT
+## Who's Who in HFT
 
 High-Frequency Trading (HFT) is dominated by firms that can invest significantly in technology, infrastructure, and talent. Let's shed light on the major players in this space and how retail traders fit into the HFT ecosystem.
 
@@ -266,7 +266,7 @@ The **role of retail traders in HFT** is nuanced. Direct participation in pure H
 
 To understand HFT's ecosystem, recognizing its major players and the interplay between institutional and retail participants is essential. As technology continues to evolve and markets grow, the dynamics between these entities might shift, but their collective contribution to modern trading cannot be understated.
 
-# Infrastructure and Setup
+## Infrastructure and Setup
 
 High-Frequency Trading (HFT) is a tech-driven domain, where the smallest of time advantages can result in significant profits or losses. As such, the choice of hardware, software, and infrastructure is paramount to an HFT firm's success.
 
@@ -282,7 +282,7 @@ However, the **potential returns** are also substantial. While the profit per tr
 
 In summary, HFT infrastructure is about speed, efficiency, and reliability. The right setup, though costly, can be a linchpin for success in the competitive world of high-frequency trading.
 
-# Future of High-Frequency Trading
+## Future of High-Frequency Trading
 
 The landscape of High-Frequency Trading (HFT) is rapidly evolving, influenced by technological innovations, regulatory changes, and market dynamics. As the industry ventures into the future, it is poised to face both challenges and opportunities that could shape its trajectory.
 
@@ -300,7 +300,7 @@ In essence, HFT and traditional investment operate on different paradigms. Howev
 
 In conclusion, the future of HFT is a blend of challenges and potential, shaped by technological advancements, regulatory landscapes, and market evolutions. Its interplay with traditional investment methods underscores the vast diversity and complexity of the financial world.
 
-# Key Takeaways
+## Key Takeaways
 
 1. **High-Frequency Trading (HFT)** is a sophisticated trading strategy that utilizes powerful computers to execute a large number of trades at incredibly fast speeds. Its primary aim is to capitalize on minute price discrepancies in the financial markets.
 2. The **evolution of HFT** is deeply rooted in the advancements of technology. What began as manual trading evolved into algorithmic trading, and with the introduction of cutting-edge tech, high-frequency trading took center stage.
@@ -315,7 +315,7 @@ In conclusion, the future of HFT is a blend of challenges and potential, shaped 
 
 In essence, High-Frequency Trading stands as a testament to the fusion of finance and technology. Its intricate strategies, while controversial to some, undeniably play a pivotal role in today's dynamic trading world.
 
-# Conclusion
+## Conclusion
 
 High-Frequency Trading (HFT) has evolved from the nascent stages of manual trading to become a dominating force in the global financial markets. Rooted in technological advancements, HFT exemplifies the synergy between finance and technology, ensuring ultra-fast trade executions and exploiting minute price discrepancies. As strategies like Market Making and Latency Arbitrage have matured, newer paradigms such as the incorporation of AI and Quantum Computing are on the horizon, promising unprecedented efficiencies.
 
@@ -330,7 +330,7 @@ The essence of HFT lies not just in its speed but in its ability to redefine mar
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: [Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). Does algorithmic trading improve liquidity?. The Journal of Finance, 66(1), 1-33.](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2010.01624.x)
 

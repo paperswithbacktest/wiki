@@ -11,7 +11,7 @@ Traders often turn to gamma scalping when they expect large price swings but are
 
 The essence of this technique lies in its dynamic nature; it's about being agile and responsive to market movements. As the underlying stock fluctuates, options with a high gamma will see a more significant change in delta, enabling savvy traders to scalp small profits that, over time, can add up significantly. It's a strategy that requires a deep understanding of market mechanics, constant attention, and the ability to make swift decisions. For those who master it, gamma scalping can be a powerful tool in the trader's arsenal.
 
-# Understanding Option Greeks
+## Understanding Option Greeks
 
 In options trading, '**Delta**' represents the sensitivity of an option's price to a $1 change in the underlying asset. It is often interpreted as the probability that an option will end up in-the-money at expiration. Delta values range from 0 to 1 for calls and 0 to -1 for puts. For example, a Delta of 0.5 suggests that the option's price will move by 50 cents for every $1 move in the underlying asset.
 
@@ -28,7 +28,7 @@ The mathematical formulas for these Greeks are as follows:
 
 For a comprehensive explanation and derivation of these formulas, "Options, Futures, and Other Derivatives" by John C. Hull serves as an invaluable resource, thoroughly detailing the theoretical underpinnings and practical applications of these critical measures in the world of options trading[1].
 
-# The Mechanics of Gamma Scalping
+## The Mechanics of Gamma Scalping
 
 Gamma scalping is an advanced options trading strategy that involves adjusting the position of an options portfolio to neutralize the effects of gamma, or the rate of change of delta, as the underlying asset's price moves. This strategy is commonly used by options traders to manage the risk of their position's delta changing too rapidly and to profit from the volatility of the underlying asset.
 
@@ -38,7 +38,7 @@ The mathematical formula for gamma scalping involves calculating the delta of th
 
 The relationship between Gamma and Delta is pivotal in gamma scalping. Gamma indicates the stability of an option's delta; a high gamma means that the delta can change rapidly, which could result in significant profits or losses. A trader engages in gamma scalping to manage these potential risks and take advantage of the volatility[2].
 
-# Gamma Scalping in Practice
+## Gamma Scalping in Practice
 
 Gamma scalping is a dynamic strategy in the field of options trading, requiring traders to constantly adjust their positions in response to movements in the market. To execute a gamma scalping trade, one must first establish a position with positive gamma, which typically involves purchasing at-the-money or slightly out-of-the-money options. As the underlying asset price fluctuates, the delta of the options position will change, prompting the trader to buy or sell shares of the underlying asset to maintain a delta-neutral stance.
 
@@ -59,7 +59,7 @@ For illustration, consider an example where a trader sets up a gamma scalp on St
 - The trader then sells 100 shares of XYZ to rebalance to delta neutrality.
 - This process repeats as the price of XYZ fluctuates.
 
-# Advanced Gamma Scalping Strategies
+## Advanced Gamma Scalping Strategies
 
 Advanced gamma scalping strategies involve a range of tactics designed to profit from the convexity of options and the non-linear nature of Gamma. Traders employ these strategies to take advantage of price movements in the underlying asset while managing exposure to Delta and other Greeks.
 
@@ -69,7 +69,7 @@ Another approach is the **calendar spread**, where options of the same strike bu
 
 When selecting options for gamma scalping, traders consider the strike price, opting for at-the-money or slightly out-of-the-money options due to their higher Gamma. The expiration date is also crucial; options with a shorter expiry tend to have a higher Gamma, but also a higher Theta, which requires careful balance.
 
-# Gamma Scalping with Python
+## Gamma Scalping with Python
 
 Python, with its extensive libraries and ease of use, is an increasingly popular tool for implementing gamma scalping strategies. Traders utilize Python to automate the trading process, analyze market data rapidly, and execute trades in real-time.
 
@@ -82,7 +82,7 @@ import numpy as np
 import pandas as pd
 from scipy.stats import norm
 
-# Define the Black-Scholes function to calculate Greeks
+## Define the Black-Scholes function to calculate Greeks
 def black_scholes(S, K, T, r, sigma, option_type="call"):
     # S: spot price
     # K: strike price
@@ -105,25 +105,25 @@ def black_scholes(S, K, T, r, sigma, option_type="call"):
 
     return delta, gamma
 
-# Example variables
+## Example variables
 spot_price = 100  # Current price of the underlying asset
 strike_price = 100  # Strike price of the option
 time_to_maturity = 30 / 365  # Time to maturity in years
 risk_free_rate = 0.01  # Risk-free interest rate
 volatility = 0.2  # Volatility of the underlying asset
 
-# Calculate Greeks for a call option
+## Calculate Greeks for a call option
 delta, gamma = black_scholes(spot_price, strike_price, time_to_maturity, risk_free_rate, volatility, "call")
 
 print(f"Delta: {delta}, Gamma: {gamma}")
 
-# Implement your trading strategy logic here
-# ...
+## Implement your trading strategy logic here
+## ...
 ```
 
 In this example, the Black-Scholes model is used to calculate Delta and Gamma, which are crucial for gamma scalping. This script could be expanded with additional functionality to connect to live market feeds, execute trades based on the calculated Greeks, and incorporate risk management rules.
 
-# Comparing Gamma and Delta Scalping
+## Comparing Gamma and Delta Scalping
 
 Gamma and delta scalping are two strategies used by options traders to manage risk and capitalize on the volatility in the markets. While both strategies involve adjusting a position to hedge against price movements, they operate on different principles of the options Greeks.
 
@@ -133,7 +133,7 @@ Gamma scalping, on the other hand, utilizes 'Gamma', which measures the rate of 
 
 The choice between gamma and delta scalping often depends on the trader's objectives and the nature of the options they hold. For instance, delta scalping can be preferred when dealing with deep in-the-money or far out-of-the-money options where Gamma is low and changes in Delta are less significant. Conversely, gamma scalping is more appropriate for at-the-money options where the Gamma effect is more pronounced, and there is a need for constant rebalancing to maintain a delta-neutral stance.
 
-# Risk Management in Gamma Scalping
+## Risk Management in Gamma Scalping
 
 Gamma scalping is a sophisticated strategy that requires a deep understanding of the options market and the ability to respond quickly to changes. It is inherently risky because it involves frequent adjustments to an options portfolio and relies on the precise execution of trades to manage the gamma exposure. The primary risk is the potential for loss due to rapid and significant price movements in the underlying asset, which can lead to a misalignment between the delta of the portfolio and the trader's desired exposure.
 
@@ -144,7 +144,7 @@ Effective risk management in gamma scalping involves several key practices. Trad
 
 In addition to these practices, traders can use stop-loss orders to limit potential losses from trades that move against them. They may also employ scenario analysis to understand potential outcomes under different market conditions and adjust their strategies accordingly.
 
-# Conclusion
+## Conclusion
 
 Gamma scalping stands as a nuanced options trading strategy that allows traders to capitalize on price movements and volatility. Key to this strategy is a deep understanding of the Greeks—Delta measures the rate of change of the option's price relative to the underlying asset's price, while Gamma measures the rate of change of Delta itself, offering insights into the curvature of an option's value relative to the underlying asset's price. Theta and Vega also play crucial roles by accounting for time decay and volatility, respectively.
 
@@ -159,7 +159,7 @@ In practice, gamma scalping requires meticulous setup and diligent monitoring, w
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **What is positive gamma?**
 
@@ -185,7 +185,7 @@ Gamma scalping is vital for managing the risk of options portfolios, especially 
 
 One can learn more about gamma scalping through specialized trading courses, books like "Option Volatility and Pricing" by Sheldon Natenberg, and by analyzing case studies of successful trades. Natenberg's book is particularly insightful, offering deep dives into the strategies and mathematics behind options trading and gamma scalping.
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: ["Options, Futures, and Other Derivatives"](https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315) by John C. Hull
 

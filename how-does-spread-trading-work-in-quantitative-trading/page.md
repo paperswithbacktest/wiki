@@ -8,19 +8,19 @@ description: "Discover how spread trading, a popular technique in quantitative t
 Spread trading is a common approach in quantitative trading. It involves taking opposite positions in two related assets, with the aim of profiting from the convergence or divergence of their values. Spread trading is often used in commodity, equity, interest rate and currency markets. Let's take a closer look at how spread trading works in the context of quantitative trading.
 
 
-# How spread trading works in quantitative trading
+## How spread trading works in quantitative trading
 
 1. **Identifying the relationship**: Before engaging in spread trading, a quantitative trader must identify a historical relationship between two assets. For example, two companies in the same sector might have stocks that generally move together.
 2. **Spread measurement**: Once the relationship has been established, the trader measures the spread, i.e. the difference in price or value between the two assets. This spread can be calculated in absolute or ratio terms.
 3. **Take position**: If the spread deviates from its historical average, a trader can expect it to return to this average. If the spread widens, the trader can buy the undervalued asset and sell the overvalued one. If the spread narrows, the strategy would be reversed.
 4. **Close position**: Once the spread returns to its norm (or reaches a certain pre-determined threshold), the trader closes positions for profit.
 
-# Advantages of spread trading in quantitative trading
+## Advantages of spread trading in quantitative trading
 
 1. **Risk reduction**: By taking opposing positions in two related assets, overall risk is often reduced, as adverse movements in one asset can be offset by favorable movements in the other.
 2. **Opportunities in various markets**: Spread trading can be applied to numerous markets and instruments, offering a multitude of trading opportunities.
 
-# Disadvantages of spread trading in quantitative trading
+## Disadvantages of spread trading in quantitative trading
 
 1. **Need for accurate data**: To identify and exploit spreads effectively, quantitative traders need accurate, up-to-date data.
 2. **Transaction costs**: Since spread trading requires opening and closing positions on two assets, transaction costs can add up.

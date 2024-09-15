@@ -11,7 +11,7 @@ Tracing back to 18th century France, the term "martingale" originally referred t
 
 While no definitive origin has been pinpointed, the strategy's development is often linked to John Henry Martindale, a casino owner in London who encouraged players to double their bets after a loss in the 1700s, albeit the spelling of his name differs slightly. The strategy’s mathematical foundation, often associated with the concept of mean reversion, posits that asset prices and historical returns will revert to the long-term average or mean.
 
-# Understanding the Martingale Strategy
+## Understanding the Martingale Strategy
 
 The Martingale Strategy is a progressive betting system that involves doubling the stake after each loss, with the expectation that an eventual win will recover all previous losses and achieve a profit equal to the original bet. It operates on the premise that results, such as a coin flip, will eventually balance out.
 
@@ -23,7 +23,7 @@ In trading, a similar approach is taken where a trader might double down on an i
 
 The real-world application is risky because markets and gambling scenarios have limits and can trend in one direction for longer than a player or trader's capital can withstand. For a detailed exploration of the risks and mathematical intricacies behind the strategy, the research paper "The Martingale Betting System: Why It Doesn’t Work" by Edward Thorp provides a statistical analysis and a clear repudiation of the strategy as a safe betting or trading system.
 
-# Mathematical Foundation of the Martingale Strategy
+## Mathematical Foundation of the Martingale Strategy
 
 The mathematical foundation of the Martingale Strategy is rooted in probability theory. The strategy relies on the premise that for an event with an expected outcome of 50/50, such as a coin toss, the probability of the same outcome (heads or tails) occurring consecutively decreases exponentially with each event.
 
@@ -47,7 +47,7 @@ The mathematical dissection of multiple rounds of the Martingale Strategy reveal
 
 For a mathematical exploration of the Martingale Strategy's underpinnings, including formulas and proofs, "Beat the Odds in Forex Trading: How to Identify and Profit from High Percentage Market Patterns" by I. R. Toshchakov provides detailed analysis and discussion on the application and limitations of the strategy in financial markets[1].
 
-# Practical Implementation
+## Practical Implementation
 
 Implementing the Martingale Strategy requires a systematic approach and adherence to its core rules. Here is a step-by-step guide to applying the Martingale Strategy, complete with examples and mathematical formulations:
 
@@ -70,7 +70,7 @@ A trader buys a stock at $100, expecting it to rise. Instead, the stock falls to
 
 If $b$ is the base bet, and $n$ is the number of losses in a row, then the bet after the nth loss is $b \times 2^n$. The total amount spent after n losses is $b \times (2^{(n+1)} - 1)$, and the profit after the first win is always $b$.
 
-# Variations of the Martingale Strategy
+## Variations of the Martingale Strategy
 
 The Martingale Strategy, traditionally known for its straightforward doubling-down mechanism, has inspired several variations that aim to optimize its potential or mitigate its risks. One such variation is the **Anti-Martingale Strategy**, also known as the Reverse Martingale. This approach inverts the traditional model by doubling bets after wins instead of losses, capitalizing on winning streaks and cutting losses quickly. The theory suggests that profits can snowball during a lucky run, while losses remain minimal during a losing streak.
 
@@ -80,7 +80,7 @@ Comparatively, the **Fibonacci** betting system employs an entirely different pr
 
 Each of these strategies—while offering unique twists on the original Martingale concept—requires careful consideration of the odds, capital requirements, and risk tolerance. In "The Mathematics of Gambling" by Dr. Edward O. Thorp, a detailed comparative analysis of various betting systems, including Martingale and its variations, underscores the mathematical implications and the practical viability of each strategy within the context of gambling and trading environments[2].
 
-# Pros and Cons
+## Pros and Cons
 
 The Martingale Strategy, despite its straightforward application, has its share of both advocates and critics due to its advantages and potential drawbacks.
 
@@ -97,7 +97,7 @@ The Martingale Strategy, despite its straightforward application, has its share 
 3. **Table Limits and Market Liquidity:** Casinos often have table limits, and financial markets have liquidity constraints that can prevent the continuation of a Martingale sequence.
 4. **Diminishing Returns:** The risk/reward ratio is disproportionate; the risk taken increases exponentially, while the potential reward remains linear and small in comparison.
 
-# The Martingale Strategy in Different Domains
+## The Martingale Strategy in Different Domains
 
 The Martingale Strategy finds its application across various domains, each presenting unique challenges and opportunities for this betting system.
 
@@ -113,7 +113,7 @@ The strategy is used in sports betting where the bettor doubles their stake afte
 
 In financial markets, the Martingale Strategy is used by traders who double down on a losing trade, expecting the market to turn in their favor. This can be particularly risky due to market volatility and the possibility of a trend continuing against the trader's position for an extended period. In Forex trading, the leverage available can amplify both wins and losses, making the Martingale Strategy even more dangerous if not managed properly.
 
-# Risk Management and Safety Measures
+## Risk Management and Safety Measures
 
 Effective risk management is crucial when using the Martingale Strategy to mitigate the potential for significant financial loss. Here are strategies and safety measures that can help minimize risks:
 
@@ -137,7 +137,7 @@ Effective risk management is crucial when using the Martingale Strategy to mitig
 
 **Use Martingale Calculators**: Software and online calculators can simulate Martingale sequences under various conditions, helping to better understand the potential outcomes and risks.
 
-# Advanced Topics
+## Advanced Topics
 
 The Martingale Strategy, traditionally used in betting, has found its way into more complex trading systems. Its integration into algorithmic trading has led to the development of high-frequency strategies that attempt to capitalize on very short-term market inefficiencies. However, these sophisticated systems come with their own set of considerations.
 
@@ -155,7 +155,7 @@ The efficiency of financial markets poses a challenge to the Martingale Strategy
 
 It is important to note that the Martingale Strategy does not improve the probability of winning trades over time; it merely increases the size of positions following losses. This strategy requires careful consideration of market conditions, trading objectives, and risk tolerance.
 
-# Conclusion
+## Conclusion
 
 The Martingale Strategy is a betting system that has intrigued gamblers and traders for centuries. Its core principle is straightforward: after a loss, one doubles the bet size, aiming to recover the lost amount and gain a profit equivalent to the original bet with a single win. This strategy, deeply rooted in probability theory, offers a seductive simplicity and the allure of inevitable victory, provided losses can be consistently covered.
 
@@ -176,7 +176,7 @@ For further reading on the subject, the seminal work "Beat the Dealer" by Edward
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **What is the Martingale Strategy?**
 
@@ -210,7 +210,7 @@ Common mistakes include not having a cap on bet sizes, not setting a stop-loss l
 
 Some modifications include setting a cap on the number of times you double down, starting with a smaller base bet relative to your bankroll, or only using the strategy in situations with a higher probability of winning.
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: ["Beat the Odds in Forex Trading: How to Identify and Profit from High Percentage Market Patterns"](https://books.google.fr/books/about/Beat_the_Odds_in_Forex_Trading.html?id=svN55eok63kC&redir_esc=y) by I. R. Toshchakov
 

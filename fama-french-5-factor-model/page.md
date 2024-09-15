@@ -15,7 +15,7 @@ In contemporary financial analysis, the 5-factor model offers a more comprehensi
 
 The model's robustness across different time periods and markets emphasizes its significance and demonstrates its superior predictive power compared to the 3-factor model. It's widely regarded as a cornerstone of modern financial theory and remains a focal point for asset pricing research and practice[1][2].
 
-# Historical Context
+## Historical Context
 
 The Fama French 5 Factor Model is anchored in the pursuit to explain and predict stock returns more accurately. This pursuit began with the CAPM, which posited that the expected return of a security is proportional to its systematic risk or market risk. However, empirical tests led by Fama and French suggested that CAPM's market risk factor alone was not sufficient to explain the cross-section of expected returns.
 
@@ -31,7 +31,7 @@ The Fama French 5 Factor Model doesn't merely expand the dimensionality of the r
 
 The historical path from CAPM to the 5-factor model marks a continuous effort in financial economics to refine the tools for asset pricing. By doing so, Fama and French have not only contributed a framework for academic inquiry but have also armed practitioners with refined lenses through which to view market movements and inform investment decisions.
 
-# The Five Factors Explained
+## The Five Factors Explained
 
 The Fama French 5 Factor Model expands upon the traditional three-factor model by adding two additional factors aimed at providing a more comprehensive explanation of stock returns. Below is an elucidation of each factor:
 
@@ -49,7 +49,7 @@ Each of these factors is quantified and utilized in the model's mathematical fra
 
 This multifaceted approach allows for a more nuanced analysis of the determinants of equity returns, enabling investors and financial analysts to better gauge expected returns by considering diverse risk dimensions beyond the market risk.
 
-# Why Five Factors?
+## Why Five Factors?
 
 The progression from the Fama French 3-factor to the 5-factor model is rooted in the pursuit of a more comprehensive framework for understanding stock returns. The 3-factor model, which included market risk, size, and value, was groundbreaking in its time for moving beyond the single-factor CAPM model. However, as the breadth of empirical financial research expanded, certain limitations of the 3-factor model came to light, particularly its inability to fully explain the variations in stock returns.
 
@@ -61,7 +61,7 @@ Incorporating profitability allowed the 5-factor model to adjust for the higher 
 
 By addressing these nuances, the 5-factor model offered a more holistic understanding of stock returns by taking into account a wider array of systematic risk factors that affect a stock's performance. This expansion of factors improved the model's explanatory power and made it more relevant for the analysis of portfolios that could be affected by variables beyond the scope of the original 3-factor model.
 
-# Methodology & Mathematical Framework
+## Methodology & Mathematical Framework
 
 The Fama French 5 Factor Model extends the traditional 3-factor model by adding two additional factors to better explain stock returns. The mathematical framework of the model is a linear regression that is used to explain the returns of a portfolio or a stock with the returns of the five factors.
 
@@ -114,7 +114,7 @@ For example, to calculate the expected return of a small-cap value portfolio, on
 
 In practice, this model allows investors to decompose returns and attribute performance to the different risk factors. It is widely used for portfolio construction, performance attribution, and risk management. This model is also frequently applied in academic research to test market efficiency and other asset pricing phenomena.
 
-# Real-world Application & Case Studies
+## Real-world Application & Case Studies
 
 The Fama French 5 Factor Model is applied across various domains of finance, demonstrating its versatility and robustness in explaining stock returns and aiding in the construction of diversified portfolios.
 
@@ -138,7 +138,7 @@ Another practical application can be seen in smart beta strategies which involve
 
 Moreover, financial consultants use the model to tailor investment strategies to an investor’s risk preferences. For instance, an investor who is risk-averse may prefer investments that have low market risk (low beta) and are skewed towards high profitability and conservative investment patterns.
 
-# Comparative Analysis with Other Models
+## Comparative Analysis with Other Models
 
 The Fama French 5 Factor Model stands as a landmark in asset pricing theory, and to appreciate its significance, it's critical to consider it alongside other prevalent models in finance.
 
@@ -188,7 +188,7 @@ This model extends the 3-factor model by adding two more factors – profitabili
 
 In summary, the choice of model often hinges on the balance between simplicity and explanatory power. CAPM, with its single-factor approach, offers ease but lacks breadth. APT and multi-factor CAPM extensions introduce more complexity but also more realism. The Fama French 5 Factor Model achieves a strong balance, offering deep insights into return patterns at the cost of increased complexity. Practitioners often make their choice based on the specific context of their analysis, the size and complexity of the investment universe, and the depth of information required.
 
-# Model Performance and Validation
+## Model Performance and Validation
 
 The Fama French 5 Factor Model has been subjected to rigorous empirical testing since its inception, with numerous studies validating its explanatory power over asset returns. For instance, Fama and French's own 2015 paper, "A five-factor asset pricing model," published in the Journal of Financial Economics, extended their previous work by incorporating profitability and investment factors into their original 3-factor model, finding that these additional factors capture a significant proportion of the variation in average returns, especially for stocks that do not pay dividends.
 
@@ -204,7 +204,7 @@ In practice, the Fama French 5 Factor Model's performance has also been validate
 
 While critiques of the model persist, the preponderance of empirical evidence suggests that the five-factor model offers a robust framework for understanding asset prices. Its refinement over the 3-factor model has improved the empirical fit and deepened the financial community's comprehension of the multifaceted nature of stock returns.
 
-# Recent Advancements and Criticisms
+## Recent Advancements and Criticisms
 
 Recent advancements in the Fama French 5 Factor Model largely revolve around the ongoing debate regarding its efficacy and adaptability to changing market conditions. One significant update to the model was the inclusion of two additional factors—profitability (RMW: robust minus weak) and investment (CMA: conservative minus aggressive)—which were integrated to address anomalies that the original 3-factor model could not fully explain.
 
@@ -220,7 +220,7 @@ Additionally, with the advent of environmental, social, and governance (ESG) inv
 
 The Fama French model, thus, continues to evolve, with adaptations that reflect changes in the market and the introduction of new data analysis techniques. The balance between maintaining the model’s original academic rigor while incorporating new insights from data-driven methods is an ongoing process that will likely keep the model relevant in academic and applied contexts.
 
-# Conclusion
+## Conclusion
 
 The Fama French 5 Factor Model remains a cornerstone in understanding and predicting stock returns. Its relevance endures in the academic sphere and among practitioners due to its robustness in explaining the cross-section of returns. In essence, the model enhances the capital asset pricing model (CAPM) by factoring in size and value effects, which CAPM fails to address, and further adding profitability and investment patterns to capture a broader spectrum of return dynamics.
 
@@ -239,7 +239,7 @@ In summary, the Fama French 5 Factor Model's deep roots in empirical research, c
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: Fama and French’s 2014 paper "[A Five-Factor Asset Pricing Model](https://www.sciencedirect.com/science/article/abs/pii/S0304405X14002323)" published in the Journal of Financial Economics
 

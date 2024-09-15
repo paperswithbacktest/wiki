@@ -7,7 +7,7 @@ description: Explore a curated collection of essential books and videos designed
 
 The landscape of financial markets and trading is ever-evolving, shaped by complex algorithms, sophisticated quantitative models, and the relentless pursuit of market edges. For anyone aspiring to navigate this intricate world, a deep understanding of the underlying principles and strategies is essential. This curated collection of books and videos serves as an invaluable resource, offering insights from seasoned professionals and thought leaders in the field. From the fundamental concepts of active portfolio management to the nuanced intricacies of market microstructure and algorithmic trading, these resources provide a comprehensive guide for both novices and seasoned traders looking to deepen their knowledge and refine their skills in the competitive arena of financial markets.
 
-# Books
+## Books
 
 1. [Active Portfolio Management](https://www.amazon.com/Advances-Active-Portfolio-Management-Econometrics/dp/1260453715/ref=sr_1_1?crid=2PW7S4ZMJVLJG&keywords=Active+Portfolio+Management&qid=1679172002&s=books&sprefix=active+portfolio+management%2Cstripbooks-intl-ship%2C195&sr=1-1), Grinold and Kahn
 2. [Trading and Exchanges](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708/ref=sr_1_1?crid=1O1BVP7NZQSKS&keywords=Trading+and+Exchanges&qid=1679172027&s=books&sprefix=trading+and+exchanges%2Cstripbooks-intl-ship%2C389&sr=1-1), Larry Harris
@@ -21,14 +21,14 @@ work so well](https://www.scribd.com/document/502424958/Active-TRader-Marco-Dion
 5. [Reminiscences of a Stock Operator](https://www.amazon.com/Jesse-Livermores-Books-Market-Wisdom-ebook/dp/B07VNHYMBQ/ref=sr_1_1?crid=29AXED4XJ00YF&keywords=Reminiscences+of+a+Stock+Operator%2C+Jesse+Livermore&qid=1679171962&s=books&sprefix=reminiscences+of+a+stock+operator%2C+jesse+livermore%2Cstripbooks-intl-ship%2C237&sr=1-1), Jesse Livermore
 6. [Elements of Statistical Learning Theory](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576), Hastie, Tibshirani
 
-# Videos
+## Videos
 
 1. [If You Had Everything Computationally Where Would You Put it, Financially?](https://www.youtube.com/watch?v=ocgAPa1fkpk&ab_channel=Edouardd%27Archimbaud),
 GoogleTechTalks, David Leinweber
 2. Matlab Webinars: Algorithmic Trading, Aly Kassam
 3. [Wall St Warriors Seasons 1 and 2](https://www.youtube.com/watch?v=hJCpGntaJ8A&list=PLzUfXg51K-f-u3wb4geCTav6VVN-Dy2w2&ab_channel=Edouardd%27Archimbaud)
 
-# Conclusion
+## Conclusion
 
 This selection of books and videos represents a treasure trove of knowledge for anyone interested in the complex world of trading and quantitative finance. Each resource, with its unique perspective and expertise, contributes to a holistic understanding of how markets operate, the strategies that drive successful trading, and the analytical techniques essential for making informed decisions. Whether you're a beginner seeking foundational knowledge or a veteran trader looking to stay ahead of the curve, these resources offer valuable insights and guidance. By delving into these materials, you equip yourself with the tools and understanding necessary to navigate the dynamic and challenging landscape of financial markets with confidence and acumen.
 

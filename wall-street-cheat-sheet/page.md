@@ -11,7 +11,7 @@ The Wall Street Cheat Sheet is an iconic representation that encapsulates the ro
 
 At its core, the Wall Street Cheat Sheet isn't just a reflection of price movements; it offers a profound insight into the collective psyche of the market participants. By tracing the emotional journey of traders, the cheat sheet aids in recognizing recurring patterns of human behavior in response to financial ebbs and flows. Grasping the essence of these patterns is pivotal. It allows traders to not only predict potential market moves with greater acuity but also to manage their emotional responses, thereby making more informed and less impulsive decisions.
 
-# Historical Perspective
+## Historical Perspective
 
 The Wall Street Cheat Sheet emerged as a response to the recurring emotional cycles observed in financial markets. Its origins can be traced back to the early days of stock trading, though its conceptualization and popularization came much later. Observers of the market noticed that, irrespective of time periods and distinct market events, human reactions to profit and loss appeared to follow a predictable pattern. These observations eventually coalesced into the cheat sheet we recognize today, presenting a visual journey through the peaks and troughs of trader emotions.
 
@@ -19,9 +19,9 @@ The essence of the cheat sheet lies in its ability to capture universal human re
 
 One of the most vivid demonstrations of the Wall Street Cheat Sheet's stages in action was during the Dot-com Bubble of the late 1990s and early 2000s. As technology stocks soared, traders transitioned from disbelief to euphoria, convinced that traditional valuation metrics no longer applied to these "new economy" companies[1]. However, as the bubble burst, the market plunged into the stages of anxiety, denial, and ultimately, capitulation. Investors who had once believed in endless growth were left grappling with anger and depression as they witnessed the evaporation of their investments.
 
-# Detailed Exploration of Each Phase
+## Detailed Exploration of Each Phase
 
-## Disbelief
+### Disbelief
 
 Disbelief is the initial phase of a market's upward journey, characterized by skepticism and a general reluctance to believe that the market is starting a positive trend. During this stage, traders, having been recently scarred by adverse market events, find it challenging to trust the budding uptrend. It's not mere pessimism but a defensive reflex built from recent experiences of losses and market downturns.
 
@@ -31,7 +31,7 @@ In real-world scenarios, the phase of disbelief can be illustrated by the phenom
 
 For traders navigating the disbelief phase, the key is to differentiate between being cautious and being paralyzed by past failures. While it's crucial to be wary and diligent, it's equally important not to let past events blind one to genuine opportunities. Employing a systematic approach, diversifying investments, and setting clear entry and exit criteria can help traders strike a balance between caution and opportunity.
 
-## Hope
+### Hope
 
 As the disbelief phase wanes, hope starts to permeate the market environment. This phase is marked by a subtle shift from skepticism to a more constructive outlook, as traders begin to entertain the possibility that the market might indeed be on an upward trajectory. Hope emerges from the ashes of recent downturns, representing a collective aspiration that better times might be around the corner.
 
@@ -43,7 +43,7 @@ For investors, the hope phase presents both opportunities and challenges. The po
 
 Traders navigating this phase would benefit from maintaining a disciplined approach to investing. It's essential to set clear investment criteria, diversify portfolios, and continuously monitor market indicators for sustained upward momentum. Patience is a virtue here; while the urge to jump headfirst might be strong, a more measured approach could yield more favorable long-term results.
 
-## Optimism & Belief
+### Optimism & Belief
 
 Following the subtle stirrings of hope, the market atmosphere matures into a phase characterized by optimism and belief. Traders start to shed their initial reservations, replaced by a growing confidence in the market's upward trajectory. The widespread sentiment is that the worst is behind, and prosperity lies ahead.
 
@@ -55,7 +55,7 @@ For investors, this phase offers promising opportunities. Riding the wave of opt
 
 To navigate this phase effectively, traders should adhere to fundamental analysis and maintain a disciplined investment strategy. While the temptation to chase every promising stock or asset can be overwhelming, diversifying investments and setting clear profit-taking and loss-cutting strategies can ensure sustainable gains. As the old Wall Street adage goes, "Bulls make money, bears make money, pigs get slaughtered." It's a reminder that while optimism is a powerful market driver, overconfidence can be an investor's downfall.
 
-## Thrill & Euphoria
+### Thrill & Euphoria
 
 As markets continue to climb, investors enter a state of thrill, where anticipation of further gains becomes the predominant emotion. This period is characterized by a strong belief in the invincibility of the market. Talk of a "new normal" or a "revolutionary shift" in economics often surfaces, reinforcing the notion that traditional metrics no longer apply. The thrill is intoxicating, but it is merely a precursor to euphoria.
 
@@ -72,7 +72,7 @@ Navigating the thrill and euphoria phase requires a balanced approach. Here are 
 3. **Take Profits**: If you've experienced significant gains, consider taking some profits off the table. It's essential to secure returns rather than be overly greedy.
 4. **Maintain a Long-term Perspective**: Bubbles burst, but solid investments with sound fundamentals tend to recover over time. Ensure your portfolio is diversified and aligned with long-term objectives.
 
-## Complacency
+### Complacency
 
 Following the peaks of thrill and euphoria, markets inevitably face pullbacks. However, instead of recognizing these as early warning signs, many investors view these dips as minor hiccups, believing that the upward trajectory will soon resume. This is the complacency phase, characterized by a deceptive calmness and a false sense of security.
 
@@ -89,7 +89,7 @@ To stay grounded during this deceptive phase:
 
 Being complacent in investing is akin to ignoring the smoke detector in your home. While everything might seem fine, the costs of neglect can be severe.
 
-## Anxiety, Denial, & Panic
+### Anxiety, Denial, & Panic
 
 When the market transitions from a state of complacency, the initial tremors of uncertainty introduce the phase of anxiety. Investors start questioning their strategies, yet many aren't ready to accept potential losses. This hesitance morphs into denial, where investors are unwilling to believe or acknowledge a looming downturn.
 
@@ -110,7 +110,7 @@ To navigate these treacherous waters:
 
 Understanding and recognizing these stages early can mean the difference between making calculated decisions and being swept away by the tumultuous tide of market emotions.
 
-## Capitulation, Anger, & Depression
+### Capitulation, Anger, & Depression
 
 The market's descent from anxiety and panic eventually culminates in capitulation, a phase characterized by investors giving up any previous gains or hopes of recovery. This abrupt surrender is not just a financial move but a stark emotional response, an admission of defeat.
 
@@ -132,7 +132,7 @@ For traders and investors:
 
 The tumultuous journey from capitulation to depression underlines the intertwined relationship between finances and emotions. While market movements are inevitable, how one responds can influence both financial outcomes and mental well-being.
 
-# Beyond the Cheat Sheet: Additional Phases to Consider
+## Beyond the Cheat Sheet: Additional Phases to Consider
 
 **Greed** often takes center stage during market rallies. While optimism and hope are rooted in genuine positive sentiment, greed is driven by an insatiable desire for more, often causing traders to make impulsive decisions without evaluating underlying risks. This emotion played a pivotal role in the lead-up to the 2008 financial crisis. Many investors, lured by the seemingly endless upward trajectory of housing prices, purchased properties on leverage, often without due diligence.
 
@@ -140,7 +140,7 @@ On the flip side, the **Adaptive** phase represents the market's resilience and 
 
 Lastly, **Regret** is an emotion every trader faces at some point. Whether it's the sorrow of selling a stock too early only to see its price skyrocket or the anguish of holding onto a plummeting asset for too long, the weight of "what could have been" is a heavy burden. The aftermath of the Dot-com bubble saw widespread regret as investors ruminated on missed signs and overexposure to tech stocks without solid fundamentals. While hindsight is 20/20, the feeling of regret can serve as a powerful lesson, teaching traders the value of thorough research and measured decision-making.
 
-# Applying the Cheat Sheet in Real-time Trading
+## Applying the Cheat Sheet in Real-time Trading
 
 The Wall Street Cheat Sheet isn't just a theoretical framework; it's an actionable tool that, when wielded correctly, can significantly augment a trader's decision-making process. Here's how traders can harness its power in real-time trading scenarios:
 
@@ -154,7 +154,7 @@ The Wall Street Cheat Sheet isn't just a theoretical framework; it's an actionab
 
 In the volatile world of trading, it's easy to get swayed by emotions. The Wall Street Cheat Sheet provides a structured lens to view these emotions, but cultivating emotional intelligence ensures that traders navigate these phases with both clarity and strategy.
 
-# The Modern-Day Relevance of the Cheat Sheet
+## The Modern-Day Relevance of the Cheat Sheet
 
 The Wall Street Cheat Sheet, despite being conceptualized years ago, remains remarkably pertinent in today's ever-evolving financial world. Its portrayal of human emotional cycles in response to market fluctuations proves time and time again that while technology and markets change, human psychology remains consistent.
 
@@ -166,7 +166,7 @@ The introduction of AI in trading presents another layer of complexity. Advanced
 
 Furthermore, as retail trading platforms become more accessible and popular, a new wave of individual traders is entering the market. These traders, many of whom might lack the experience or resources of institutional traders, can be particularly susceptible to the emotional pitfalls highlighted in the cheat sheet. Their collective actions can lead to market movements that resonate with the cheat sheet's phases, reinforcing its relevance.
 
-# Conclusion
+## Conclusion
 
 Understanding market psychology isn't just an academic endeavor; it's an essential facet of successful trading and investment strategies. By recognizing the collective emotions and behavioral patterns that drive market movements, traders can gain insights that mere quantitative data might not reveal.
 
@@ -183,7 +183,7 @@ In an era where information is abundant, and the pace of market changes can be d
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: Shiller, R. J. (2005). [Irrational exuberance](https://www.amazon.fr/Irrational-Exuberance-Robert-J-Shiller/dp/0767923634). Princeton university press.
 

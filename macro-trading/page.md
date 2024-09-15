@@ -13,7 +13,7 @@ Historically, many significant market moves can be traced back to macroeconomic 
 
 In essence, macro trading is about understanding the bigger picture, discerning the interplay of various global factors, and making informed investment decisions based on this holistic view. It is a testament to the strategy's significance that many of the world's most renowned hedge funds and institutional investors allocate substantial resources to macro research and trading.
 
-# The Genesis of Macro Trading
+## The Genesis of Macro Trading
 
 Macro trading has its roots in the broader understanding of macroeconomics, which studies the behavior and performance of an economy at the aggregate level. As global financial markets began to evolve and become more interconnected post-World War II, traders started to recognize the significant investment opportunities that arose from global macroeconomic events, policy shifts, and geopolitical developments. This marked the birth of macro trading as an investment strategy.
 
@@ -25,7 +25,7 @@ Another key contributor to the realm of macro trading is Paul Tudor Jones. His p
 
 The rise of these early macro traders coincided with the growth of global hedge funds, which provided the perfect platform for macro strategies to be tested and optimized. Funds like Soros’s Quantum Fund and Tudor Jones’s Tudor Investment Corporation were instrumental in shaping the macro trading landscape.
 
-# Key Concepts & Definitions
+## Key Concepts & Definitions
 
 Macro trading focuses on the vast economic landscape, taking into consideration global economic indicators, policies, and geopolitical events to make investment decisions. It's about assessing economies, markets, and instruments at a holistic level. In stark contrast, micro trading zeroes in on individual entities. This could involve focusing on specific company data, like earnings reports or product launches, as opposed to large-scale economic trends. While macro traders might look at a country's interest rate policies or global commodity prices, micro traders might base decisions on a company's quarterly performance or industry-specific news.
 
@@ -35,7 +35,7 @@ Global macro hedge funds play a crucial role in this landscape. They typically e
 
 It's worth noting that macro trading's broad perspective means traders need a thorough grasp of global economic and political landscapes. This approach's vastness contrasts with micro trading, where deep dives into singular entities are the norm.
 
-# Macro Trading Typologies & Systems
+## Macro Trading Typologies & Systems
 
 Macro trading, as vast as the global economies it covers, is diverse in its strategies. There are several core typologies that traders employ to make the most out of the macroeconomic landscape:
 
@@ -50,7 +50,7 @@ Parallel to these typologies are the systems through which traders decide on the
 
 In the battle of discretion versus system, neither emerges as the ultimate victor. While discretionary trading thrives on human adaptability, systematic trading boasts of emotionless consistency. The ideal choice often depends on the trader's individual style, the assets in question, and market conditions.
 
-# Strategies in Macro Trading
+## Strategies in Macro Trading
 
 Macro trading thrives on the ability to understand and forecast the economic environment, and to leverage that understanding into successful trades. Here are some core strategies employed by macro traders to achieve this:
 
@@ -64,7 +64,7 @@ Macro trading thrives on the ability to understand and forecast the economic env
 
 By intertwining these strategies and being nimble in their application, macro traders navigate the vast and complex landscape of global economies, seizing opportunities that arise from the interplay of countless factors.
 
-# Developing a Macro Trading Strategy
+## Developing a Macro Trading Strategy
 
 Crafting a macro trading strategy requires a structured approach that is tailored to address global market complexities. Successful traders not only understand the macroeconomic landscape but also have robust systems in place to make calculated decisions.
 
@@ -80,7 +80,7 @@ Crafting a macro trading strategy requires a structured approach that is tailore
 
 **Emphasizing the Importance of Risk Management**: The global economy is rife with uncertainties. To protect capital, traders should always have risk management measures in place. This includes setting stop losses, diversifying portfolios, and constantly reassessing market exposure in light of global events[5].
 
-# Insights from Famous Global Macro Hedge Funds & Traders
+## Insights from Famous Global Macro Hedge Funds & Traders
 
 When delving into the world of macro trading, it's invaluable to glean insights from the giants who've shaped the landscape. Their experiences, successes, and failures offer profound lessons for traders at any level.
 
@@ -96,7 +96,7 @@ Lastly, in an era of information overload, staying informed is more crucial than
 
 While every trader's journey is unique, understanding and integrating the wisdom of those who've paved the way can provide a formidable foundation for success in the vast world of macro trading.
 
-# Benefits & Risks of Macro Trading
+## Benefits & Risks of Macro Trading
 
 Macro trading, with its broad perspective on global economies, offers a myriad of advantages. One of the most significant benefits is its diversification potential. Since macro trading focuses on economic events and trends across countries and asset classes, it inherently provides a hedge against localized economic downturns[7].
 
@@ -116,7 +116,7 @@ So, how do macro funds generate revenue in light of these challenges? They emplo
 
 Macro trading's allure lies in its potential to tap into global trends, offering diversification and significant profit opportunities. But with its complexities and challenges, it demands a deep understanding, robust strategies, and vigilant risk management.
 
-# Conclusion
+## Conclusion
 
 Macro trading stands as a pivotal approach in the financial realm, seeking to leverage vast economic data to predict and capitalize on broad market trends. Its foundation rests on the tenets of understanding overarching economic, political, and social events that shape the global financial landscape. From its historical origins and the pioneering individuals who championed its methodologies to the intricate typologies and strategies, macro trading is both an art and a science.
 
@@ -131,7 +131,7 @@ For those eager to dive deeper, an array of tools and resources exists—from en
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **What is the difference between macro and micro trading?**
 
@@ -163,7 +163,7 @@ Macro hedge funds typically earn money through a combination of management fees 
 
 Ensuring a deep understanding of these aspects can significantly enhance one's macro trading endeavors.
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: ["Fundamental Analysis."](https://www.investopedia.com/terms/f/fundamentalanalysis.asp) Investopedia.
 

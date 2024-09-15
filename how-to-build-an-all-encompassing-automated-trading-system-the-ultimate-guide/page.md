@@ -12,7 +12,7 @@ Automated trading systems, often hailed as the bedrock of today's financial mark
 In an environment defined by its volatility and dynamism, the agility and reliability of automated systems have made them an essential tool for institutional and retail traders alike. As we delve deeper into this guide, we'll unravel the intricacies of automated trading systems, their components, and their profound influence on the modern trading ecosystem.
 
 
-# Unraveling Automated Trading: A Deep Dive
+## Unraveling Automated Trading: A Deep Dive
 
 Automated trading, in its most basic form, refers to the utilization of computer systems and software to execute trades based on predefined criteria without the need for human intervention. The significance of such a system lies in its ability to process vast amounts of data at high speeds and execute trades in fractions of a second, giving it a distinct edge over manual trading. In the modern trading world, where milliseconds can mean the difference between profit and loss, the importance of automated systems cannot be overstated.
 
@@ -26,9 +26,9 @@ Tracing the history of trading, we see a transformational journey. In the past, 
 
 Fast forward to today, and we have the world of high-frequency trading (HFT). HFT firms leverage sophisticated algorithms, high-speed data feeds, and ultra-fast execution systems to trade securities at lightning speeds, often holding positions for mere seconds or even milliseconds. The transition from manual to high-frequency automated systems underscores the relentless pursuit of efficiency and edge in the ever-evolving world of trading.
 
-# The Underlying Architecture of Automated Trading
+## The Underlying Architecture of Automated Trading
 
-## Market Adapter
+### Market Adapter
 
 A Market Adapter, sometimes known as a Market Data Interface, acts as a bridge between an automated trading system and the external market data sources. Essentially, it facilitates the flow of real-time market data into the trading system and allows executed trade orders to reach the market. Let's delve into its fundamental components and the pivotal role they play:
 
@@ -44,7 +44,7 @@ The emphasis on low latency in automated trading cannot be understated. Low late
 
 In essence, a Market Adapter serves as the vital link ensuring seamless interaction between an automated trading system and the broader market. Optimizing this link with keen attention to protocols and low latency architectures is crucial for achieving optimal trading outcomes.
 
-## Complex Event Processing Engine
+### Complex Event Processing Engine
 
 ![Untitled](images/Untitled.png)
 
@@ -70,7 +70,7 @@ Low latency is the differentiator when it comes to CEP in trading. As markets mo
 
 By facilitating real-time analysis of multiple event streams, a well-architected CEP Engine with low latency can empower traders to detect and exploit market anomalies rapidly. Given the relentless speed and complexity of today's financial markets, this capability is less of a luxury and more of a necessity.
 
-## Order Routing System
+### Order Routing System
 
 ![Untitled](images/Untitled%201.png)
 
@@ -97,7 +97,7 @@ Low latency isn't just about speed but precision. In the breakneck pace of finan
 
 A well-structured Order Routing System is not merely about conveying trade orders to exchanges but doing so with the requisite speed, accuracy, and reliability. Given the financial implications of trade executions, ORS excellence isn't optional but a fundamental requirement for any successful automated trading setup.
 
-## Risk Management Mechanisms
+### Risk Management Mechanisms
 
 Risk Management Mechanisms are foundational pillars in automated trading systems, ensuring that traders' capital is protected from unexpected market adversities. The need for an effective risk management mechanism in an automated trading setup can't be overemphasized due to the high-speed decision-making process.
 
@@ -122,9 +122,9 @@ Low latency architectures are indispensable for effective risk management in aut
 
 While automated trading systems offer vast opportunities for profit, they also come with inherent risks. Effective risk management mechanisms, fortified by standardized protocols and low latency architectures, ensure that these risks are kept in check, paving the way for sustainable trading success.
 
-# Crafting Your Automated Trading System: A Step-by-Step Guide
+## Crafting Your Automated Trading System: A Step-by-Step Guide
 
-## Pre-building considerations
+### Pre-building considerations
 
 Establishing a comprehensive trading plan stands as the cornerstone of any successful automated trading system. In the ever-evolving and fast-paced world of financial markets, embarking on the journey of automated trading without a well-structured plan is akin to navigating uncharted waters without a compass.
 
@@ -139,7 +139,7 @@ A solid trading plan provides clarity, direction, and a reference point. Here's 
 
 In essence, diving into automated trading without a solid trading plan is a recipe for inconsistency and potential failure. A structured plan, on the other hand, serves as the backbone of a successful trading system, guiding decisions, streamlining operations, and fostering a disciplined and methodical approach to the markets[3].
 
-## Designing your system
+### Designing your system
 
 At the heart of every efficient automated trading system lies a robust design, seamlessly blending technical prowess with strategic acumen. Let's delve into the intertwining of these two core aspects:
 
@@ -161,7 +161,7 @@ At the heart of every efficient automated trading system lies a robust design, s
 
 To ensure your automated trading system operates with surgical precision and can withstand the unpredictable waves of the financial markets, intertwining technical foundations with strategic imperatives is not just an option; it's a necessity.
 
-## Risk Management
+### Risk Management
 
 In the realm of automated trading, risk management isn't a mere afterthought; it's an integral component that determines the longevity and success of your trading system. Implementing prudent risk management tools and practices not only safeguards your capital but also ensures the sustainability of your trading endeavors.
 
@@ -185,7 +185,7 @@ In the realm of automated trading, risk management isn't a mere afterthought; it
 
 Incorporating these tools and practices into your automated trading system can significantly shield your investments from unnecessary exposures and potential pitfalls. Remember, in trading, capital preservation is as crucial as capital appreciation.
 
-## Building the System
+### Building the System
 
 Building an automated trading system necessitates more than just an idea; it requires the right tools and software to turn that idea into a functioning entity. Picking the appropriate tools not only streamlines the development process but also ensures robustness and reliability.
 
@@ -229,7 +229,7 @@ Building an automated trading system necessitates more than just an idea; it req
 
 Choosing the right software and tools is a critical step. While the aforementioned tools are among the most popular, it's essential to pick those that align best with your strategy, skills, and the specific requirements of your trading system.
 
-## Testing and Refining
+### Testing and Refining
 
 In the realm of automated trading, a strategy's theoretical underpinning is only as good as its real-world performance. To ascertain the robustness of your trading system, rigorous testing and constant refining are paramount.
 
@@ -252,7 +252,7 @@ In the realm of automated trading, a strategy's theoretical underpinning is only
 
 **External Peer Review:** Consider having your strategy reviewed by trusted peers or mentors in the trading community. Fresh eyes can offer valuable feedback and catch potential issues you might have missed.
 
-## Taking the System Live
+### Taking the System Live
 
 Taking your automated trading system live is the culmination of extensive planning, designing, and testing. However, this step also comes with its own set of challenges that require vigilance and adherence to best practices.
 
@@ -278,9 +278,9 @@ Taking your automated trading system live is the culmination of extensive planni
 
 Remember, transitioning to live trading is not the end, but a new beginning. The continuous evolution of your system, coupled with adherence to these precautions and best practices, will be crucial in navigating the unpredictable waters of the financial markets.
 
-# The Real-world Mechanics of Automated Trading
+## The Real-world Mechanics of Automated Trading
 
-## Choosing the Right Market and Its Significance
+### Choosing the Right Market and Its Significance
 
 The decision to select an appropriate market for your automated trading system isn't merely technical; it's intrinsically tied to strategy and the overarching goal. Choosing the right market plays a pivotal role in determining the effectiveness, sustainability, and profitability of your system.
 
@@ -302,7 +302,7 @@ The decision to select an appropriate market for your automated trading system i
 
 In essence, the choice of market isn't merely about potential profit. It's about aligning the market's characteristics with the strengths of your automated trading strategy, ensuring consistency and robustness in a dynamic trading landscape.
 
-## Importance of Features, Trading Signals, and Trade Execution Strategies
+### Importance of Features, Trading Signals, and Trade Execution Strategies
 
 In the realm of automated trading, features, trading signals, and execution strategies form the triumvirate driving system success. Their intricate interplay can make or break a strategy's effectiveness and profitability.
 
@@ -323,7 +323,7 @@ Several technical and strategic aspects underscore the importance of these compo
 
 In essence, the synergy of features, signals, and execution strategies is the heartbeat of an automated trading system. Their meticulous design, based on both technical analysis and strategic alignment with the system's goals, paves the path to consistent trading success.
 
-## Understanding Trading Costs and Their Impact
+### Understanding Trading Costs and Their Impact
 
 Trading costs, often lurking in the background, can silently erode profits and significantly impact the overall performance of an automated trading system. Grasping their nature and effects is crucial for both novice and seasoned traders.
 
@@ -349,7 +349,7 @@ From a strategic standpoint:
 
 In the vast arena of automated trading, understanding and mitigating trading costs is pivotal. Even the most brilliant strategy can underperform if costs are not managed adeptly. As the adage goes, "It's not about what you make, but what you keep."
 
-## The Science of Backtesting and Key Performance Metrics
+### The Science of Backtesting and Key Performance Metrics
 
 Backtesting is the process of evaluating an automated trading strategy or model using historical data to determine its viability. While it may seem straightforward, backtesting requires meticulous care to obtain meaningful and reliable results. Ensuring the strategy's performance on past data is indicative of future performance is both an art and a science.
 
@@ -377,7 +377,7 @@ Key performance metrics to evaluate during backtesting include:
 
 Understanding the nuances of backtesting and meticulously monitoring key performance metrics can save traders from potential pitfalls. A strategy's historical performance, while not a guarantee, can provide insights and confidence in its potential. Yet, traders must remember that past performance is not indicative of future results.
 
-## Tackling Overfitting and Biases: Ensuring Long-Term Reliability
+### Tackling Overfitting and Biases: Ensuring Long-Term Reliability
 
 Overfitting is one of the most significant challenges in the realm of automated trading. It occurs when a strategy performs exceptionally well on historical data but fails in real-time trading. This is because the strategy becomes too tailored to the specifics of the backtested data and loses its general applicability. To ensure the longevity and reliability of an automated trading system, it's imperative to address overfitting and various biases.
 
@@ -397,7 +397,7 @@ Overfitting is one of the most significant challenges in the realm of automated 
 
 The allure of developing a 'perfect' model can sometimes lead traders down the path of overfitting. However, recognizing the pitfalls of biases and actively adopting techniques to combat them is paramount in building a trading system that stands the test of time.
 
-# Advantages and Pitfalls of Automated Systems
+## Advantages and Pitfalls of Automated Systems
 
 Automated trading systems have taken the financial world by storm, offering an array of advantages that have reshaped the landscape of trading. However, like any tool, they come with their own set of challenges. Here's a closer look at the two sides of the coin.
 
@@ -421,7 +421,7 @@ Automated trading systems have taken the financial world by storm, offering an a
 
 While the allure of automated trading systems is undeniable, it's vital to approach them with a balanced perspective. Understanding both the advantages and pitfalls ensures that traders can make the most of automation while staying alert to its challenges.
 
-# Algorithmic Trading Strategies: What's Trending?
+## Algorithmic Trading Strategies: What's Trending?
 
 Algorithmic trading has flourished with the increasing computational power available, and traders are adopting numerous strategies to capitalize on market movements. These strategies are crafted to work within specific market conditions, and their success can vary based on the prevailing financial climate. Here are some of the most popular algorithmic trading strategies trending in today's markets:
 
@@ -448,7 +448,7 @@ Algorithmic trading has flourished with the increasing computational power avail
 
 While these strategies offer a glimpse into the complex world of algorithmic trading, it's essential to remember that the success of any algorithm is as much about its design as it is about the ever-evolving market conditions. Proper backtesting, risk management, and continuous adaptation are crucial to remain profitable.
 
-# Selecting the Right Tools: Automated Trading Software Guide
+## Selecting the Right Tools: Automated Trading Software Guide
 
 Navigating the plethora of automated trading software options can be a daunting task, especially with the myriad of features, compatibility requirements, and price points to consider. Whether you're a novice just dipping your toes into algorithmic trading or a seasoned professional, the right software can make all the difference in executing strategies efficiently and profitably. Here's a primer on some of the most acclaimed platforms and how to determine which is the best fit for your trading needs:
 
@@ -468,7 +468,7 @@ Navigating the plethora of automated trading software options can be a daunting 
 
 In conclusion, selecting the right automated trading software hinges on individual trading needs, desired asset classes, coding proficiency, and budget. Always consider trialing a demo version before committing, as hands-on experience can be the most revealing.
 
-# Beyond Automation: The Role of AI and Machine Learning
+## Beyond Automation: The Role of AI and Machine Learning
 
 Artificial Intelligence (AI) and Machine Learning (ML) have transcended the realm of science fiction to become pivotal elements in various industries, and trading is no exception. With the primary aim of automated trading being the systematic execution of trades, AI and ML infuse these systems with predictive intelligence, allowing them to evolve and adapt to market changes.
 
@@ -487,7 +487,7 @@ However, the integration of AI and ML isn't without challenges. While these syst
 
 In the foreseeable future, as technology advances and data accessibility grows, AI and ML's impact on trading will only intensify. Traders, brokers, and financial institutions will need to harness these technologies not only to stay competitive but also to unlock new trading frontiers previously deemed inconceivable.
 
-# Conclusion
+## Conclusion
 
 The rapid ascent of automated trading in modern markets is a testament to its undeniable efficacy and the relentless march of technological innovation. As we've traversed the landscape, from the foundational architecture to the integration of AI and machine learning, it's evident that the world of trading is undergoing a seismic transformation.
 
@@ -504,7 +504,7 @@ In this journey, the essence isn't just about staying ahead of the curve, but ab
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: [FIX Protocol Ltd.](https://www.fixtrading.org/) - Official website detailing the Financial Information eXchange (FIX) protocol standards and its applications.
 

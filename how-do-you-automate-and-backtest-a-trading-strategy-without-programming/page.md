@@ -5,11 +5,11 @@ description: "Automate and backtest a trading strategy without programming - Dis
 
 
 
-# Use visual trading platforms
+## Use visual trading platforms
 
 **Specialized platforms**: Platforms such as MetaTrader (notably with its “MetaEditor” tool) or NinjaTrader offer graphical interfaces where users can create strategies using drag & drop or by selecting predefined conditions.
 
-# Adopt intuitive backtesting tools
+## Adopt intuitive backtesting tools
 
 **TradingView**: This online tool offers an easy-to-use backtesting environment. You can define criteria for your strategy using common indicators and test their historical performance.
 
@@ -19,15 +19,15 @@ description: "Automate and backtest a trading strategy without programming - Dis
 
 **Tutorials and Webinars**: Many platforms offer tutorials and webinars to help users familiarize themselves with their tools. This can be a great way to learn how to automate and test strategies without having to code.
 
-# Choose brokers with integrated tools
+## Choose brokers with integrated tools
 
 Some online brokers offer trading platforms with built-in automation and backtesting tools. These tools are often designed to be accessible to traders with no programming experience.
 
-# Ask the community for help
+## Ask the community for help
 
 Many online forums and communities focus on automated trading. If you have an idea for a strategy, you may find someone willing to help you formalize it or recommend a suitable platform.
 
-# Conclusion
+## Conclusion
 
 Even without programming skills, it's perfectly possible to automate and test a trading strategy. That said, even with the most intuitive tools, it's crucial to understand the underlying mechanisms of your strategy and to test it thoroughly before applying it in real-life conditions.
 

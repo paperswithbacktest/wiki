@@ -9,7 +9,7 @@ The world of trading is constantly evolving. The emergence of blockchain technol
 
 ![Untitled](images/Untitled.png)
 
-# What is an agent?
+## What is an agent?
 
 In the IT world, an agent is software capable of performing certain tasks autonomously and proactively, without the need for human intervention. Often, an agent is equipped with a range of tools such as calculators or web browsers. In the context of algo trading, the agent is much more than just software; it becomes a real market player.
 
@@ -17,7 +17,7 @@ Thanks to artificial intelligence, agents are capable of machine learning. They 
 
 It's important to distinguish between agents and trading robots. While both are automated, the trading robot follows specific, fixed instructions, while the agent is capable of adaptation and evolution, making its action more dynamic and less predictable.
 
-# Agents and algo trading: a natural fit
+## Agents and algo trading: a natural fit
 
 Algorithmic trading, by definition, is based on automation. The agent, with its ability to act independently, fits perfectly into this picture.
 
@@ -25,13 +25,13 @@ Algorithmic trading, by definition, is based on automation. The agent, with its 
 2. **Order execution**: Agents optimize the timing and quantity of orders, ensuring optimal execution while minimizing the impact on the market.
 3. **Monitoring**: Agents constantly monitor the market, identifying opportunities and alerting the trader to sudden changes.
 
-# The impact of agents on the market
+## The impact of agents on the market
 
 The omnipresence of agents in algo trading could lead to a homogenization of the market. If all agents react in the same way to a given stimulus, this could potentially amplify market movements, creating excessive volatility.
 
 Fully automated trading raises ethical questions. Is it acceptable to let machines make decisions that could have an impact on the real economy? What responsibility does the agent's designer bear in the event of error? Regulating the use of agents in algo trading therefore becomes a major concern.
 
-# Conclusion
+## Conclusion
 
 The future of algo trading looks set for increased automation, and agents will undoubtedly be at the heart of this revolution. Their ability to act autonomously, combined with the power of AI, gives them an undeniable advantage.
 

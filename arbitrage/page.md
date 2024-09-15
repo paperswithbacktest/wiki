@@ -14,32 +14,32 @@ Arbitrage is a fundamental concept in the world of finance and trading. In the c
 
 ![Untitled](images/Untitled.png)
 
-# Definition of Arbitrage
+## Definition of Arbitrage
 
 Arbitrage is traditionally defined as the simultaneous buying and selling of an asset at two different prices in two different markets, resulting in a risk-free profit. In an efficient market, there should be no significant arbitrage opportunities. In reality, true arbitrage opportunities are rare, but many arbitrage-like strategies are widely used.
 
-# Arbitrage Mechanisms
+## Arbitrage Mechanisms
 
 Arbitrage strategies seek to identify a situation where the investor benefits from a mispricing without making directional bets. Most arbitrage strategies attempt to compose self-financing portfolios whose cash flows offset each other. This is usually achieved by buying and selling similar assets, or by composing replication portfolios.
 
-# Examples of Arbitrage Strategies
+## Examples of Arbitrage Strategies
 
 1. **Market Arbitrage**: Involves buying and selling the same financial asset, but on two different markets.
 2. **Yield Curve Arbitrage**: Compares bond rates, lending rates, swap rates, etc.
 3. **Volatility Arbitrage**: Based on the volatility of an asset, comparing historical volatility with implied volatility.
 4. **Prudential Arbitrage**: When an institution subject to prudential supervision arbitrates between its actual risk and its regulatory position.
 
-# Arbitrage in Algorithmic Trading
+## Arbitrage in Algorithmic Trading
 
 In the context of algo trading, arbitrage can be automated. Algorithms are designed to quickly detect price differentials between different markets or assets, enabling near-instantaneous trades to capitalize on these differentials.
 
 A popular example is "peer trading", which gained popularity on Wall Street in the 1990s. This strategy attempts to identify two assets that generally move together. When the spread between these assets diverges from the norm, an investor can intervene to capitalize on this divergence.
 
-# Risks and limitations
+## Risks and limitations
 
 While arbitrage may seem to offer risk-free profits, it's essential to understand that it can amplify losses in rare events. The most famous case of arbitrage gone wrong concerns Long Term Capital Management (LTCM) in the 1990s. Despite the use of advanced quantitative strategies, LTCM ran into major difficulties, resulting in a $4 billion financial rescue.
 
-# Conclusion
+## Conclusion
 
 Arbitrage, when properly applied in algorithmic trading, can offer lucrative opportunities. However, like all investment strategies, it carries risks. It is therefore crucial for traders to have a thorough understanding of arbitrage mechanisms and the algo trading ecosystem.
 

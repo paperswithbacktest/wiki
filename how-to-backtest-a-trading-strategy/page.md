@@ -10,7 +10,7 @@ In the financial markets, the landscape of trading has undergone a transformativ
 With this evolution comes an amplified demand for robust, data-driven trading strategies. In such a high-speed, high-stakes environment, relying on intuition or outdated models can be catastrophic. This is where the role of backtesting becomes paramount. Backtesting is the practice of testing a trading strategy against historical data to validate its efficacy before deploying it in live markets. By analyzing how a strategy would have performed in the past, traders gain insights into its potential risks and rewards. Such rigorous testing ensures that a trading algorithm is not just a mathematical marvel but is practically poised for success in the real-world markets. It's akin to a flight simulator for pilots, allowing them to experience and prepare for various scenarios without any real-world risks.
 
 
-# What is Backtesting?
+## What is Backtesting?
 
 Backtesting is a rigorous method employed by traders and financial analysts to evaluate the viability of a trading strategy or investment model by applying it to historical data. Essentially, it answers the hypothetical question: "If I had applied this strategy in the past, how would it have performed?" By simulating trades based on past data, backtesting offers a quantitative framework for assessing a strategy's potential profitability, associated risks, and weaknesses before deploying capital in real-time markets.
 
@@ -22,7 +22,7 @@ The roots of backtesting trace back to the early days of stock markets, albeit i
 
 However, it was the explosion of computing power and data availability in the 21st century that truly revolutionized backtesting. Today, strategies can be tested over decades of data, across multiple markets, factoring in various external conditions, all within mere minutes.
 
-# The Significance of Backtesting
+## The Significance of Backtesting
 
 The significance of backtests can be dissected into various facets, each underscoring the value it brings to the table for both novice and veteran traders.
 
@@ -44,7 +44,7 @@ Trading is as much a mental game as it is a financial one. Backtesting reinforce
 
 In essence, backtesting serves as a compass in the vast and tumultuous ocean of trading. It provides direction, assurance, and a framework within which traders can operate, making it an indispensable tool in the quest for consistent market success.
 
-# Key Components Required for Backtesting
+## Key Components Required for Backtesting
 
 Backtesting is more than just running numbers; it demands a meticulous blend of quality data, robust hardware and software, and seasoned human judgment. A slight compromise on any of these components can significantly skew the results, potentially leading to misinformed trading decisions.
 
@@ -63,21 +63,21 @@ A backtest's output isn't a straightforward "success" or "failure" verdict; it's
 <aside>
 💡 Here are the most common simulation tools:
 
-### Backtest
+#### Backtest
 
 Backtesting is simulating a strategy on historic data and looking at the PnL curve at the end. Basically you run the strategy like normal, but the data comes from a historical file and time goes as fast as the computer can process.
 
-### Event Study
+#### Event Study
 
 In an event study, you find all the points in time that you have a signal and then average the proceeding and preceding return paths. This shows you on average what happens before and after. You can see how alpha accumulates over time and if there is information leakage before the event.
 
-### Correlation
+#### Correlation
 
 The correlation of a signal with future returns is a quick measure of how accuately it predicts. It is better than a backtest when you need just a single number to compare strategies, such as for plotting an information horizon. You can configure a lagged correlation test in Excel in under a minute. However it doesn’t take into account transaction costs, and it doesn’t output trading-relevant metrics like Sharpe ratio or drawdown.
 
 The information horizon diagram was published in Grinold and Kahn’s Active Portfolio Management. It is a principled way of determining how long to hold positions.
 
-### Paper Trading
+#### Paper Trading
 
 Paper trading refers to trading a strategy through your broker’s API, but using a demo account with fake money. It’s good because you can see that the API works, and see if it crashes or if there are data errors. And it also gives you a better feel for the number of trades it will make and how it will feel emotionally. However it takes a long time since you have to wait for the markets. It is more practical for high frequency systems which can generate a statistically significant number of data points in a short amount of time.
 
@@ -90,11 +90,11 @@ Paper trading refers to trading a strategy through your broker’s API, but usin
 | Correlation | Fast | Fast | Bad | Prototyping |
 | Paper Trading | Live | None | Good | Production Testing |
 
-# Step-by-Step Guide to Backtesting
+## Step-by-Step Guide to Backtesting
 
 The backbone of effective backtesting begins with a well-defined trading strategy. You might have the most sophisticated backtesting tools at your disposal, but without a comprehensive and clear strategy, the results might not only be meaningless but could also lead to potential losses.
 
-## Strategy Definition
+### Strategy Definition
 
 1. **Objective Setting**: Determine the primary goal of your trading strategy. Are you looking for consistent small gains, or are you more risk-tolerant aiming for larger returns, albeit with potentially larger drawdowns? Knowing what you aim to achieve will guide the subsequent steps.
 2. **Selection of Asset and Time Frame**: Depending on your risk appetite and market familiarity, decide on the asset or group of assets you intend to trade. Moreover, choose the timeframe for your strategy, whether it's intraday, daily, or long-term. This will inform the type of data you'll need for backtesting.
@@ -106,7 +106,7 @@ The backbone of effective backtesting begins with a well-defined trading strateg
 
 It's imperative to understand that strategy definition isn't a one-time task. As you immerse deeper into backtesting, insights gathered might lead you back to this stage to refine your approach. The key is to maintain clarity and consistency in rules, ensuring that every decision, change, or adjustment is rooted in logic and sound reasoning[^13^].
 
-## Data Collection
+### Data Collection
 
 Acquiring accurate and comprehensive data is the foundation of backtesting. After all, the effectiveness of a strategy is gauged by how it performs against historical data. Thus, ensuring the data's quality is paramount. Here's a structured approach to data collection:
 
@@ -125,7 +125,7 @@ Remember, data quality can make or break the validity of your backtest. Taking t
 <aside>
 💡 Here are the most common types of bar data:
 
-### Time bars
+#### Time bars
 
 Periodic “bar” data is the easiest to get. Is sampled at regular intervals (minutely, hourly, daily, weekly) and looks like this:
 
@@ -159,7 +159,7 @@ QQQQ,20080509,9:36:26,47.94,47.95,837,956
 
 ```
 
-### Tick bars
+#### Tick bars
 
 “Tick” or “trade” data shows the most recent trades:
 
@@ -179,35 +179,35 @@ QQQQ,20080509,8:02:53,47.98,100
 
 “Order book” data shows every order submitted and canceled. If you do not know what it looks like, then odds are you do not have the resources to be fast enough to trade on it, so do not worry about it.
 
-### Volume bars
+#### Volume bars
 
 Volume bars circumvent that problem by sampling every time a pre-defined amount of the security’s units (shares, futures contracts, etc.) have been exchanged. For example, we could sample prices every time a futures contract exchanges 1,000 units, regardless of the number of ticks involved.
 
 Tick bars can introduce arbitrariness in the number of ticks and order fragmentation, while volume bars sample every time a pre-defined amount of the security's units have been exchanged, resulting in better statistical properties and providing a convenient artifact for analyzing the interaction between prices and volume in market microstructure theories.
 
-### Dollar bars
+#### Dollar bars
 
 Dollar bars are formed by sampling an observation every time a pre-defined market value is exchanged, which is more reasonable than sampling by tick or volume when the analysis involves significant price fluctuations. The number of outstanding shares often changes multiple times over the course of a security’s life, as a result of corporate actions, and dollar bars tend to be robust in the face of those actions. Thus, dollar bars are more interesting than time, tick, or volume bars.
 
-### Tick Imbalance Bars
+#### Tick Imbalance Bars
 
 The tick rule defines a sequence of tick imbalances in a given sequence of ticks, where the imbalance is defined as the accumulation of signed ticks exceeding a given threshold. Tick imbalance bars (TIBs) are then defined as T-contiguous subsets of ticks that meet a certain condition. TIBs are more likely to occur when there is informed trading and can be thought of as containing equal amounts of information.
 
-### Volume/Dollar Imbalance Bars
+#### Volume/Dollar Imbalance Bars
 
 The concept of tick imbalance bars (TIBs) is extended to volume imbalance bars (VIBs) and dollar imbalance bars (DIBs) to sample bars when volume or dollar imbalances diverge from expectations. The procedure to determine the index of the next sample involves computing the expected value of the imbalance at the beginning of the bar and defining VIB or DIB as a T-contiguous subset of ticks such that the expected imbalance exceeds a given threshold. The bar size is adjusted dynamically, making it more robust to corporate actions.
 
-### Tick Runs Bars
+#### Tick Runs Bars
 
 TIBs, VIBs, and DIBs are methods to monitor order flow imbalance in terms of ticks, volumes, and dollar values exchanged. Tick runs bars (TRBs) measure the sequence of buys in the overall volume and take samples when that sequence diverges from our expectations. TRBs count the number of ticks of each side without offsetting them and are useful in forming bars. The expected value of the current run can be estimated using exponentially weighted moving averages.
 
-### Volume/Dollar Runs Bars
+#### Volume/Dollar Runs Bars
 
 Volume runs bars (VRBs) and dollar runs bars (DRBs) are based on the same concept as tick runs bars (TRBs), but they monitor volume or dollar imbalances instead of tick imbalances. The procedure to determine the index T of the last observation in the bar is similar to TRBs, and it involves defining the volumes or dollars associated with a run, and defining a VRB or DRB as a T-contiguous subset of ticks such that the expected volume or dollar from runs exceeds our expectation for a bar.
 
 </aside>
 
-## Strategy Execution
+### Strategy Execution
 
 Executing your strategy on historical data is the crux of backtesting. It's where your well-defined trading rules meet the intricate patterns of the past, revealing how the strategy would have performed. Here's a systematic approach to this process:
 
@@ -222,7 +222,7 @@ Executing your strategy on historical data is the crux of backtesting. It's wher
 
 Remember, strategy execution is more than just seeing if you make a profit. It's about understanding how the strategy performs, where it excels, and where it might falter. It sets the stage for the next steps, where results are analyzed, and strategy refinements are made.
 
-## Result Compilation
+### Result Compilation
 
 Once a strategy is executed over historical data, the next crucial step is compiling and organizing the results. These outcomes provide a tangible snapshot of your strategy's historical performance, facilitating informed decisions on its feasibility and potential adjustments. Here's how to methodically collate and visualize these findings:
 
@@ -239,7 +239,7 @@ Once a strategy is executed over historical data, the next crucial step is compi
 
 By meticulously compiling and visualizing backtest results, traders garner a clear and comprehensive understanding of a strategy's historical strengths and weaknesses. This clarity is foundational for future refinements and real-world implementation[4].
 
-## Performance Analysis
+### Performance Analysis
 
 Analyzing the performance of your backtested strategy goes beyond simply calculating the net profit or loss. An in-depth performance analysis offers insights into the strategy's potential strengths and weaknesses, guiding adjustments and future decision-making. Here's how to approach it:
 
@@ -258,7 +258,7 @@ Analyzing the performance of your backtested strategy goes beyond simply calcula
 
 A robust performance analysis, underpinned by these metrics, fosters a profound understanding of the intricacies of a trading strategy.
 
-## Iterative Refinement
+### Iterative Refinement
 
 The journey to a robust trading strategy is not linear. Often, initial backtesting results reveal areas for improvement. Iterative refinement, which involves revising and retesting the strategy multiple times, is pivotal to enhancing its efficacy. Here's a pragmatic approach to this refining process:
 
@@ -276,7 +276,7 @@ The journey to a robust trading strategy is not linear. Often, initial backtesti
 
 Iterative refinement, grounded in meticulous analysis and a commitment to improvement, is the linchpin to transforming an average trading strategy into a superior one. By embracing this iterative process, traders position themselves for consistent, long-term success.
 
-## Real-world Testing
+### Real-world Testing
 
 Transitioning from a controlled backtesting environment to real-world testing is a crucial step. While historical data can offer valuable insights, contemporary markets with their real-time intricacies often present unforeseen challenges. Here's a structured approach to ensure that your strategy is truly prepared for live trading:
 
@@ -291,7 +291,7 @@ Transitioning from a controlled backtesting environment to real-world testing is
 9. **Re-calibrate if Necessary**: If real-world results are consistently underwhelming, consider reverting to iterative refinement. It's essential to pinpoint the areas of divergence and address them before resuming live testing.
 10. **Duration of the Test**: Real-world testing should span several weeks to months, covering various market conditions. A longer testing period increases confidence in the strategy's robustness.
 
-# Common Tools and Platforms for Backtesting
+## Common Tools and Platforms for Backtesting
 
 In the realm of backtesting, various tools and platforms have emerged, each offering unique features tailored to different levels of expertise and needs. Here's an overview of the popular ones, elucidating their advantages and limitations.
 
@@ -318,7 +318,7 @@ In the realm of backtesting, various tools and platforms have emerged, each offe
 
 In conclusion, the best platform often hinges on the trader's specific needs, expertise, and budget. While proprietary platforms might offer out-of-the-box solutions, open-source tools provide flexibility and customization at the cost of a steeper learning curve.
 
-# The Art and Science of Backtesting
+## The Art and Science of Backtesting
 
 Backtesting is not merely a mechanical process of applying algorithms to data; it harmoniously blends quantitative rigor with qualitative insights.
 
@@ -334,7 +334,7 @@ Moreover, intuition plays a role in the initial formulation of a strategy. Somet
 
 In essence, while the science of backtesting provides the tools and techniques, the art ensures that these are applied wisely and judiciously in the ever-evolving landscape of financial markets.
 
-# Pitfalls and Biases in Backtesting
+## Pitfalls and Biases in Backtesting
 
 Backtesting, while invaluable, isn't immune to pitfalls that can skew results, leading traders to erroneous conclusions. Recognizing these potential missteps is essential for an accurate assessment of trading strategies.
 
@@ -358,7 +358,7 @@ Backtesting, while invaluable, isn't immune to pitfalls that can skew results, l
 
 To navigate these pitfalls, always approach backtesting with a healthy skepticism. Cross-check results, be wary of strategies that appear 'too good to be true', and continuously refine and validate your methods. By being aware of these biases and actively working to mitigate them, traders can achieve a more accurate and reliable backtest, better preparing them for real-world conditions.
 
-# Backtesting with cross validation
+## Backtesting with cross validation
 
 In machine learning, cross-validation is used to assess how well models generalize over unseen data by splitting the training dataset into parts: a train part to train the model, and a validation part to assess the model on unseen data. Time-series models are prone to overfitting, making cross-validation crucial in estimating the degree of overfitting.
 
@@ -366,7 +366,7 @@ However, standard k-fold cross-validation assumes that data is drawn from an ind
 
 To address this, Prado (2018) developed a more robust cross-validation scheme called Combinatorial Purged Cross Validation, which is similar to k-fold but accounts for information leakage. This method purges and embargoes (removes) samples from the train set that are close to the validation set to prevent information leakage, resulting in better estimates of the model's performance on unseen data.
 
-# Backtesting in Different Markets
+## Backtesting in Different Markets
 
 Understanding the nuances of each market is crucial for effective backtesting. Using a generalized approach across markets can lead to misleading results, underlining the importance of a tailored strategy that accounts for market-specific dynamics.
 
@@ -378,7 +378,7 @@ Understanding the nuances of each market is crucial for effective backtesting. U
 
 **Crypto**: Cryptocurrencies are a relatively new market, with unique volatility patterns and influences. The lack of historical data compared to traditional assets, regulatory announcements, technology updates (like hard forks), and market sentiment play significant roles in crypto price movements. The 24/7 trading environment and the influence of global events make backtesting crypto strategies a unique challenge. Liquidity can vary dramatically between different coins and exchanges.
 
-# Case Studies
+## Case Studies
 
 In the realm of trading, theory and real-world applications often diverge. Analyzing real-world case studies of trading strategies, their backtests, and real-world results can provide invaluable insights. Here, we delve into three such instances.
 
@@ -390,7 +390,7 @@ In the realm of trading, theory and real-world applications often diverge. Analy
 
 These case studies emphasize the gap that can sometimes exist between backtested results and actual trading outcomes. While backtesting provides a structured approach to validate trading hypotheses, it's imperative to recognize its limitations and the ever-evolving nature of financial markets.
 
-# Conclusion
+## Conclusion
 
 Trading strategies, whether based on traditional technical analysis or intricate algorithmic models, need rigorous testing to ensure they hold water in the real-world trading environment. Backtesting offers traders and financial institutions the lens to view a strategy's past performance, giving them a semblance of its potential successes and failures.
 
@@ -407,7 +407,7 @@ In closing, for anyone aspiring to thrive in the trading world, understanding an
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 **What is backtesting in trading?**
 
@@ -449,7 +449,7 @@ Yes, besides the conventional approach, traders explore multi-factor backtesting
 
 Regular backtesting is essential, especially if market conditions change or if the strategy undergoes modifications. Periodic reviews ensure the strategy remains relevant and effective.
 
-# References & Further Reading
+## References & Further Reading
 
 [1]: Bailey, David H., and Marcos Lopez de Prado. "[The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting, and Non-Normality.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2460551)" Journal of Portfolio Management, 40 (2014): 94-107.
 

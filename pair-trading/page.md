@@ -9,7 +9,7 @@ Pair trading, originating from the quant-driven corners of Wall Street in the 19
 
 Amidst the cascade of trading innovations, pair trading has steadfastly demonstrated resilience and relevance in various market scenarios. Navigating through this comprehensive guide, you'll explore its theoretical underpinnings, historical trajectories, advanced strategies, and the algorithmic models propelling it into the modern trading realm.
 
-# Theoretical Framework of Pair Trading
+## Theoretical Framework of Pair Trading
 
 A cornerstone concept within pair trading is **cointegration**, which addresses the situation where, even if individual asset prices are non-stationary (i.e., tend to wander over time), a linear combination of them is stationary. Mathematically speaking, if we have two time series, $X_t$ and $Y_t$, they are said to be cointegrated if there exists a coefficient $\beta$ such that the combination:
 
@@ -33,7 +33,7 @@ Once a trading pair is identified and a potential divergence is spotted, the sub
 
 It's pivotal to highlight that while the mathematical backbone of pair trading appears straightforward, the real-world application navigates through myriad factors like transaction costs, slippage, and market impact that can potentially erode the strategy’s profitability. Thus, embellishing the theoretical underpinning with robust risk management and meticulous back-testing becomes indispensable[1][2][3].
 
-# Historical Journey of Pair Trading
+## Historical Journey of Pair Trading
 
 Pair trading emerged as a paradigm of quantitative trading, skillfully weaving statistical and computational insights into financial markets. Initiated within the confines of Morgan Stanley during the 1980s, the strategy was meticulously crafted by Gerry Bamberger and later polished by Nunzio Tartaglia’s statistical arbitrage group. Their endeavors were rooted not in traditional economic theory but in statistical models that identified potential profit opportunities from the mispricing between related securities.
 
@@ -46,7 +46,7 @@ Pair trading emerged as a paradigm of quantitative trading, skillfully weaving s
 
 Citadel, D.E. Shaw & Co., and Renaissance Technologies are among the notable hedge funds that have utilized quantitative and pairs trading strategies in various forms, adjusting and adapting them according to the perpetual fluctuations inherent in global financial markets[2][4][5][6].
 
-# In-depth Analysis of Pair Trading Concepts
+## In-depth Analysis of Pair Trading Concepts
 
 The fabric of pair trading is intricately woven with fundamental concepts like Cointegration, Correlation, and Z-score, whose understanding is pivotal for successfully navigating through the statistical arbitrage universe.
 
@@ -58,11 +58,11 @@ When two financial series move together through time, albeit with short-term dev
 import statsmodels.tsa.stattools as ts
 import pandas as pd
 
-# Example financial time series
+## Example financial time series
 price_x = pd.Series([...])
 price_y = pd.Series([...])
 
-# Cointegration test
+## Cointegration test
 score, pvalue, _ = ts.coint(price_x, price_y)
 ```
 
@@ -73,7 +73,7 @@ In this Python code snippet, `coint()` is used to test for cointegration between
 Correlation quantifies the degree to which two assets move in relation to each other. A correlation of 1 indicates perfect positive correlation, while -1 indicates perfect negative correlation.
 
 ```python
-# Calculating correlation
+## Calculating correlation
 correlation = price_x.corr(price_y)
 ```
 
@@ -84,7 +84,7 @@ Here, `.corr()` computes the correlation coefficient between `price_x` and `pric
 Z-score signals the deviation of an observation from the mean, measured in terms of standard deviations, and is used to identify instances when the price spread between cointegrated pairs is statistically significant.
 
 ```python
-# Calculating Z-score
+## Calculating Z-score
 mean_spread = spread.mean()
 std_spread = spread.std()
 z_score = (spread - mean_spread) / std_spread
@@ -92,9 +92,9 @@ z_score = (spread - mean_spread) / std_spread
 
 In this code snippet, `spread` is the difference between the prices of two cointegrated assets. The Z-score indicates how far and in what direction (above/below) the current spread deviates from its mean[1].
 
-# Comprehensive Guide to Developing a Pairs Trading Strategy
+## Comprehensive Guide to Developing a Pairs Trading Strategy
 
-## Identifying Tradable Pairs
+### Identifying Tradable Pairs
 
 Efficiently identifying tradable pairs is pivotal to pairs trading, and this involves discerning assets that demonstrate statistical convergence, traditionally assessed through correlation and cointegration. Employ tools such as the Augmented Dickey-Fuller (ADF) test or Johansen test to affirm statistical significance in the cointegration between pairs. For preliminary sieving, you can use Python:
 
@@ -104,23 +104,23 @@ import pandas as pd
 from statsmodels.tsa.stattools import adfuller
 from statsmodels.tsa.vector_ar.vecm import coint_johansen
 
-# Fetch historical prices
+## Fetch historical prices
 assets = yf.download(['AAPL', 'MSFT', 'GOOGL', 'AMZN'], start='2022-01-01', end='2023-01-01')['Close']
 
-# Calculate the spread (see next)
+## Calculate the spread (see next)
 spread = 
 
-# Calculating correlations
+## Calculating correlations
 correlations = assets.corr(assets)
 
-# Conduct the ADF test on the spread
+## Conduct the ADF test on the spread
 adf_result = adfuller(spread)
 print("ADF Test on Spread:")
 print("ADF Statistic:", adf_result[0])
 print("p-value:", adf_result[1])
 print("Critical Values:", adf_result[4])
 
-# Conduct the Johansen test on AAPL and GOOG
+## Conduct the Johansen test on AAPL and GOOG
 johansen_test = coint_johansen(assets, det_order=0, k_ar_diff=1)
 print("\nJohansen Test:")
 print("Eigenvalues:", johansen_test.lr1)
@@ -129,52 +129,52 @@ print("Critical Values (90%, 95%, 99%):", johansen_test.cvt)
 
 This Python code downloads the historical prices of selected assets and calculates the correlation matrix, which assists in identifying potentially cointegrated pairs.
 
-## Constructing the Spread
+### Constructing the Spread
 
 After identifying a pair, we construct the spread, often formulated as the difference between the price of asset A and a scaled version of asset B. The scaling factor, commonly known as the hedge ratio, is derived through regression analysis.
 
 ```python
 import statsmodels.api as sm
 
-# Regression to find hedge ratio
+## Regression to find hedge ratio
 X = sm.add_constant(price_y)
 result = sm.OLS(price_x, X).fit()
 hedge_ratio = result.params[1]
 
-# Constructing spread
+## Constructing spread
 spread = price_x - hedge_ratio * price_y
 ```
 
 This code helps find the hedge ratio, thereby facilitating the creation of a spread that we expect to mean revert.
 
-## Determining Entry and Exit Points
+### Determining Entry and Exit Points
 
 Strategically, Z-score, derived from the spread, illuminates our entry and exit points. Entry (long/short) is typically considered when Z-score exceeds a predefined threshold, say +2/-2, while exiting is contemplated when it reverts to zero.
 
 ```python
-# Calculating Z-score
+## Calculating Z-score
 z_score = (spread - spread.mean()) / spread.std()
 ```
 
-## Risk Management
+### Risk Management
 
 Adhering to a robust risk management strategy, which encompasses setting stop-loss levels and defining the position size, safeguards against disproportionate losses. Consider, for example, risking no more than 1-2% of trading capital on a single trade.
 
-## Performance Metrics
+### Performance Metrics
 
 Post-trade, evaluating performance metrics like the Sharpe Ratio, Maximum Drawdown, and Profit Factor equips traders with insights into the efficacy and potential areas of refinement in their strategy.
 
-## Expert Strategy: Pair Selection Through Clustering
+### Expert Strategy: Pair Selection Through Clustering
 
 Delving into an exclusive strategy, consider utilizing clustering for pair selection. Clustering algorithms, such as k-means clustering, can group stocks into clusters based on similar price movements. Thereafter, pairs within these clusters can be exhaustively tested for cointegration, ensuring that the selected pairs are not only statistically convergent but also intrinsically related through their common cluster, potentially enhancing the strategy’s robustness.
 
 ```python
 from sklearn.cluster import KMeans
 
-# Example feature matrix of stocks (e.g., returns)
+## Example feature matrix of stocks (e.g., returns)
 features = [...]
 
-# Applying k-means clustering
+## Applying k-means clustering
 kmeans = KMeans(n_clusters=5)
 clusters = kmeans.fit_predict(features)
 ```
@@ -183,7 +183,7 @@ In this Python snippet, stocks are grouped into 5 clusters based on specified fe
 
 Crafting a pair trading strategy intertwines rigorous statistical testing, strategic construction of spreads, meticulous determination of entry/exit points, and stringent risk management, amalgamating into a fortified approach towards exploiting market inefficiencies[2][3][7].
 
-# Risks, Limitations, and Criticisms of Pair Trading
+## Risks, Limitations, and Criticisms of Pair Trading
 
 One of the most pressing risks in pair trading is the **assumption of mean reversion**. This strategy operates under the belief that the price spread between two correlated assets will revert to its historical mean. However, external factors such as macroeconomic changes, company-specific news, or industry shifts can disrupt this relationship, causing a permanent divergence.
 
@@ -195,7 +195,7 @@ Next, while statistical tests like the Engle-Granger may confirm cointegration b
 
 Experts consistently advise on diversifying across multiple pairs to reduce the impact of a failing pair. Combining this with dynamic rebalancing, where the weights of pairs in a portfolio are adjusted in response to market dynamics, can further enhance risk mitigation[8].
 
-# Advanced Pair Trading Strategies
+## Advanced Pair Trading Strategies
 
 As the finance sector progresses, so does the sophistication of pair trading strategies. Traditional pair trading techniques, while still foundational, are now complemented by intricate and advanced methods that leverage the benefits of cutting-edge technologies and analytical models.
 
@@ -211,7 +211,7 @@ Furthermore, the fusion of pair trading with momentum, mean-reversion, or even s
 
 The inclusion of large language models in the toolkit of pair traders can be game-changing. Not only can they assist in identifying companies in the same industry that make for a perfect pair, but they can also analyze sentiment, predict industry trends, and even forecast macroeconomic shifts that could impact pair trading dynamics[9].
 
-# Tools, Technologies, and Platforms for Pair Trading
+## Tools, Technologies, and Platforms for Pair Trading
 
 Navigating the complex world of pair trading demands a confluence of precise technology, reliable platforms, and smart tools that can manage the nuanced strategies this approach entails. Across this landscape, a diverse array of offerings attempt to cater to the specific needs of traders, each bringing its unique blend of functionalities to the table.
 
@@ -223,7 +223,7 @@ However, choosing the right tool is contingent upon understanding its strengths 
 
 Open-source tools and algorithms for pair trading have been widely shared within the quantitative trading community. Platforms like GitHub host repositories that contain Python and R scripts which traders can use to identify pairs, calculate spreads, and generate trading signals based on co-integration and other statistical metrics.
 
-# Global Perspective on Pair Trading
+## Global Perspective on Pair Trading
 
 Diverse markets present different opportunities and challenges for pair trading. For example, the developed markets, such as the New York Stock Exchange (NYSE) or the London Stock Exchange (LSE), provide a vast array of financial instruments and a rich history of data, which can be instrumental for algorithmic trading strategies ([NYSE](https://www.nyse.com/index), [LSE](https://www.lseg.com/markets-products-and-services/our-markets/london-stock-exchange)). Conversely, emerging markets, while offering lucrative opportunities, often present challenges in the form of limited data and lesser liquidity, which can potentially skew pair trading algorithms.
 
@@ -231,7 +231,7 @@ An interesting case is the expansion of pair trading in the Asian markets. In a 
 
 Interestingly, the adoption of pair trading has also transcended beyond equities into other asset classes, such as commodities and forex, each market introducing its own set of variables and volatilities that traders must meticulously factor into their algorithms. The global currency market, with its 24-hour trading window and significant volatility, presents a unique set of opportunities and challenges for implementing pair trading strategies, often demanding more rigorous risk management and strategy optimization techniques.
 
-# Conclusion
+## Conclusion
 
 Navigating through the comprehensive landscape of pair trading, we’ve journeyed through its theoretical underpinnings, historical pathways, and dived deep into the algorithmic nuances that drive successful strategies. Pair trading, while deeply embedded in quantitative and statistical methodologies, transcends into a versatile strategy, intertwining algorithms, AI, and machine learning to forge adaptive trading approaches amidst dynamic market conditions.
 
@@ -244,7 +244,7 @@ Keep following us to stay informed and continue your journey in pair trading. Ha
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 [1] Engle, R. F., & Granger, C. W. J. (1987). [Cointegration and error correction: representation, estimation, and testing](https://www.jstor.org/stable/1913236). Econometrica: journal of the Econometric Society, 251-276.
 

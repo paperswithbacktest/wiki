@@ -7,7 +7,7 @@ Beta is a measure of the risk associated with exposure to general market movemen
 
 ![Untitled](images/Untitled.png)
 
-# Signification and Interpretation
+## Signification and Interpretation
 
 Technically, the Beta of an asset relative to a market index is defined by a linear regression of the asset's returns on the returns of the index. A Beta greater than 1 means that the asset is more volatile than the market, while a Beta less than 1 means that it is less volatile.
 
@@ -15,15 +15,15 @@ While Beta is a valuable tool for assessing risk, it is essential to understand 
 
 Derivatives, such as options, can have non-linear Betas. Consequently, traditional Beta may not be appropriate for assessing the risk of these instruments.
 
-# Beta and Algo Trading
+## Beta and Algo Trading
 
 In algo trading, Beta is crucial for assessing the risk of an asset relative to the market. It is an essential tool for diversification strategies and for assessing portfolio performance relative to a benchmark index.
 
-## Efficient Market Hypothesis and CAPM
+### Efficient Market Hypothesis and CAPM
 
 According to the Efficient Market Hypothesis, assets with a higher return will have a higher associated risk. The Capital Asset Pricing Model (CAPM) states that excess return is attributable only to non-diversifiable market risk.
 
-## Betting against Beta
+### Betting against Beta
 
 A popular strategy known as "Betting against beta" has come to light. In this strategy, an investor creates a leveraged portfolio of low Beta assets against high Beta assets to profit from this market anomaly.
 
@@ -31,7 +31,7 @@ Notable studies, such as Frazzini and Pedersen (2014), have highlighted the phen
 
 Several explanations have been put forward to explain the Low Beta phenomenon, including arbitrage constraints, lottery demand, regulatory constraints, and leverage and short-selling limitations.
 
-# Conclusion
+## Conclusion
 
 The Beta factor is an essential element of algo trading, enabling traders to measure the risk of an asset relative to the overall market. Although it is a powerful tool, it is crucial to understand its limitations and to use Beta in conjunction with other metrics and strategies to maximize returns in algo trading.
 

@@ -7,11 +7,11 @@ description: Discover the flexibility and depth of the rotational system, a trad
 
 The **rotational system** is a trading strategy that, while it may seem simple on the surface, offers considerable depth and flexibility for algorithmic traders. As part of our glossary of quantitative trading terms, this article explores the subtleties of the rotational system and how it can be integrated into the world of **algo trading**. 
 
-# Definition of the Rotational System
+## Definition of the Rotational System
 
 The heart of the rotational system lies in the regular selection of a portion of a chosen investment universe. Unlike the "buy-and-hold" approach, where an investor holds on to assets over a long period of time, the rotational system regularly rebalances the portfolio according to a given factor or strategy.
 
-# How does the Rotational System work?
+## How does the Rotational System work?
 
 Let's take an example to illustrate:
 
@@ -23,17 +23,17 @@ The real advantage of the rotational system is its flexibility, its ability to b
 
 In addition to sector momentum, the rotational system can be used with a value strategy among country ETFs, various country reversal effects, and many others.
 
-# Sector Momentum: A Popular Example
+## Sector Momentum: A Popular Example
 
 One of the most popular rotational systems is **Sector Momentum**. Historically, traders and investors have observed that if we group stocks according to their sectors, distinct sector groups would have different sensitivities to economic cycles. By accurately grouping stocks by sector, the idiosyncratic behavior of individual stocks is attenuated, reinforcing the sensitivity of stocks to economic forces at the sector level.
 
 For example, the Sectoral Momentum Rotational System might invest in three sectors with the highest momentum at the beginning of the month.
 
-# Rotational System and Algo Trading
+## Rotational System and Algo Trading
 
 With the advent of **algo trading**, the rotational system has taken on a new dimension. Algorithms can process large amounts of data in real-time, enabling precise and timely portfolio rebalancing. In addition, traders can program specific criteria to trigger rebalancing, offering greater precision and efficiency.
 
-# Conclusion
+## Conclusion
 
 The rotational system is a valuable tool for traders and investors seeking to maximize returns while minimizing risk. Its flexibility and ability to adapt to a variety of strategies make it particularly attractive to those in the world of algo trading. As with any strategy, it's crucial to continue training, testing, and adjusting to ensure that the rotational system remains a viable part of your trading arsenal.
 

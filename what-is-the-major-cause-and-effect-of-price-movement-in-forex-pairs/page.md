@@ -8,7 +8,7 @@ description: "Discover the major causes and effects of price movements in Forex 
 The **Forex**, or foreign exchange market, is the world's largest financial market. The price movements of currency pairs in this market are influenced by a variety of factors. Understanding the **cause and effect** of these movements is essential for any Forex trader or investor.
 
 
-# Major causes
+## Major causes
 
 1. **Economic news**: Announcements such as interest rates, employment data, GDP growth and inflation can have a significant impact on currency pairs. A strong economy generally tends to strengthen a national currency.
 2. **Central bank decisions**: Monetary policies, such as interest rate changes or quantitative easing programs, directly influence the value of currencies.
@@ -16,7 +16,7 @@ The **Forex**, or foreign exchange market, is the world's largest financial mark
 4. **Geopolitical events**: Wars, elections, political crises and other major events can lead to increased volatility in the Forex market.
 5. **Trade imbalances**: If a country exports more than it imports, its currency could appreciate due to increased demand.
 
-# Effects of price movements
+## Effects of price movements
 
 1. **Trading opportunities**: ****Traders can take advantage of price fluctuations by buying low and selling high, or vice versa, using short-selling strategies.
 2. **Import and export costs**: For international companies, currency pair fluctuations can affect the cost of imported goods and the value of exports.

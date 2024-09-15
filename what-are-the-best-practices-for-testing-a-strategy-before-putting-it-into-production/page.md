@@ -8,37 +8,37 @@ description: "Before deploying an algorithmic trading strategy, it is essential 
 Before putting an algorithmic trading strategy into production, it is crucial to subject it to a series of rigorous tests. These tests guarantee its reliability, robustness, and performance. Here's an overview of best practices for testing a strategy before it goes into production.
 
 
-# Backtesting
+## Backtesting
 
 - **Quality data**: To test a strategy effectively, use accurate, complete, and high-quality historical data. Make sure it covers a sufficiently long and diversified period to be representative.
 - **Avoid overfitting**: It's common to over-optimize a strategy to get good results on specific data. To avoid this, don't overfit your strategy based solely on backtesting data.
 
-# Out-of-sample validation (Out-of-sample testing)
+## Out-of-sample validation (Out-of-sample testing)
 
 After optimizing your strategy on one data set, test it on a different data set, one that the strategy has never "seen". This ensures that performance is not simply due to luck or overfitting.
 
-# Forward testing
+## Forward testing
 
 Also known as "paper trading", this method involves testing the strategy in real-time on the markets, without using real capital. This gives an idea of how the strategy would perform under current market conditions.
 
-# Robustness tests
+## Robustness tests
 
 - **Monte Carlo testing**: This technique uses random simulations to assess a strategy's performance under different market conditions.
 - **Disruption testing**: Slightly modify your strategy's parameters (e.g. indicator periods) to ensure that it remains successful despite these small variations.
 
-# Stress testing
+## Stress testing
 
 Imagine and simulate the most unfavorable market scenarios (stock market crash, volatility spikes) to see how your strategy would react in these extreme situations.
 
-# Performance evaluation
+## Performance evaluation
 
 Analyze key metrics such as Sharpe ratio, maximum drawdown, annual return, and success rate to objectively assess strategy performance.
 
-# Peer review
+## Peer review
 
 If possible, have your strategy and code reviewed by colleagues or experts in the field to ensure that no errors or omissions have been made.
 
-# Conclusion
+## Conclusion
 
 Testing a strategy before it goes live is a crucial step in guaranteeing its reliability and performance. By following these best practices, traders can ensure that their strategy is ready to be deployed in production while minimizing the associated risks. Always bear in mind that past performance is no guarantee of future results, but rigorous testing can greatly increase the chances of success.
 

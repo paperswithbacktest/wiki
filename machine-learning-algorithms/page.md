@@ -11,7 +11,7 @@ For beginners stepping into the field of machine learning, grasping the fundamen
 
 In today’s technology-driven world, machine learning stands at the forefront of innovation and problem-solving. From simple recommendations on e-commerce websites to complex predictive models in weather forecasting or financial market analysis, machine learning algorithms are increasingly becoming indispensable tools. For those beginning their journey in this field, a strong foundational knowledge of these algorithms is essential. It not only empowers them to contribute to cutting-edge technologies but also helps in developing a mindset geared towards data-driven problem solving and automation, which are key in modern technological advancements.
 
-# Understanding the Types of Machine Learning Algorithms
+## Understanding the Types of Machine Learning Algorithms
 
 Machine Learning algorithms are broadly categorized into four main types: Supervised Learning, Unsupervised Learning, Semi-Supervised Learning, and Reinforcement Learning. Each category has distinct characteristics and applications, making them suitable for different kinds of tasks and challenges in the field of artificial intelligence.
 
@@ -25,9 +25,9 @@ Machine Learning algorithms are broadly categorized into four main types: Superv
 
 Each of these types of machine learning algorithms is suited to specific types of problems and data environments. Understanding when and where to apply these algorithms is fundamental to solving complex computational problems effectively and is an essential skill for practitioners in the field of machine learning.
 
-# Top Machine Learning Algorithms for Beginners
+## Top Machine Learning Algorithms for Beginners
 
-## Linear Regression
+### Linear Regression
 
 Linear Regression is one of the most fundamental machine learning algorithms, especially for those just starting in the field. At its core, Linear Regression is a predictive modeling technique used for understanding the relationship between a dependent (target) variable and one or more independent (predictor) variables. The goal is to find a linear relationship - a straight line, essentially - that can predict the output value based on input values.
 
@@ -50,7 +50,7 @@ The concept hinges on the equation of a straight line, $y = mx + c$, where $y$ i
 
 In summary, Linear Regression is a critical starting point for anyone new to machine learning. Its simplicity, wide applicability, and the intuitive understanding it provides of machine learning fundamentals make it an essential algorithm for beginners to master.
 
-## Logistic Regression
+### Logistic Regression
 
 Logistic Regression is a pivotal algorithm in the realm of machine learning, especially known for its efficacy in handling classification problems. Unlike Linear Regression, which predicts continuous outputs, Logistic Regression is used when the output is categorical or binary—such as 'Yes' or 'No', 'True' or 'False', 'Spam' or 'Not Spam'.
 
@@ -72,7 +72,7 @@ At its core, Logistic Regression estimates the probability that a given input po
 
 Logistic Regression stands out for its simplicity, interpretability, and effectiveness in classification tasks, making it a crucial tool for beginners in machine learning to learn and master.
 
-## Decision Trees and Random Forest
+### Decision Trees and Random Forest
 
 Decision Trees and Random Forests are two influential machine learning algorithms widely used for both classification and regression tasks. Understanding their fundamentals, differences, and applications is crucial for beginners in machine learning.
 
@@ -103,7 +103,7 @@ Random Forest is an ensemble learning technique that creates a 'forest' of decis
 
 For beginners, starting with Decision Trees is a great way to understand the basics of hierarchical decision-making and then moving to Random Forests for grasping the concept of ensemble learning. Both algorithms provide robust techniques for a wide range of practical applications in various domains.
 
-## K-Nearest Neighbors (KNN)
+### K-Nearest Neighbors (KNN)
 
 K-Nearest Neighbors (KNN) is a simple, yet powerful machine learning algorithm used for both classification and regression, but more commonly for classification problems. As a non-parametric and lazy learning algorithm, KNN works by finding the distances between a query and all the examples in the data, selecting the specified number of examples (K) closest to the query, then votes for the most frequent label (in the case of classification).
 
@@ -125,7 +125,7 @@ K-Nearest Neighbors (KNN) is a simple, yet powerful machine learning algorithm u
 
 KNN is widely praised for its simplicity and effectiveness, especially in scenarios where the decision boundary is irregular. Beginners can easily understand and implement KNN, making it an ideal algorithm to start with in the machine learning journey. However, it's important to note that KNN can be computationally intensive on large datasets and is sensitive to the scale of the data and irrelevant features. Therefore, data preprocessing steps like normalization and feature selection can play a crucial role in the performance of a KNN model.
 
-## Support Vector Machines (SVM)
+### Support Vector Machines (SVM)
 
 Support Vector Machines (SVM) are a set of supervised learning methods used primarily for classification, and to a lesser extent, for regression. The power of SVM lies in its ability to create a hyperplane or a set of hyperplanes in a high-dimensional space, which can be used for classification, regression, or other tasks. The effectiveness of SVM in complex classification problems makes it a highly valuable algorithm for beginners in machine learning to understand and apply.
 
@@ -151,7 +151,7 @@ Support Vector Machines (SVM) are a set of supervised learning methods used prim
 
 For beginners, learning about SVMs offers insights into dealing with complex classification problems, especially when the data is not linearly separable. The algorithm's ability to use kernels to handle different types of data and its effectiveness in high-dimensional spaces makes it an essential part of any machine learning toolkit.
 
-## Naive Bayes
+### Naive Bayes
 
 Naive Bayes classifiers are a family of probabilistic algorithms that apply Bayes’ Theorem with a strong (naïve) assumption of independence between the features. They are particularly known for their simplicity, efficiency, and effectiveness in a wide range of classification tasks.
 
@@ -177,7 +177,7 @@ Naive Bayes classifiers are a family of probabilistic algorithms that apply Baye
 
 Despite its simplicity, Naive Bayes can be incredibly effective in certain conditions. It is particularly well-suited for instances where the dimensionality of the input is high (like text data), even though the features are not strictly independent. For beginners, understanding and implementing Naive Bayes is an excellent starting point for delving into the world of probabilistic machine learning models.
 
-## Neural Networks
+### Neural Networks
 
 Neural Networks represent a fundamental shift in machine learning, drawing inspiration from the structure and function of the human brain. They consist of layers of interconnected nodes, akin to neurons, and are capable of learning complex patterns through training. The significance of neural networks in today's technology landscape cannot be overstated, especially with the rise of deep learning, a subset of neural networks with many layers, which has revolutionized fields like image and speech recognition.
 
@@ -208,7 +208,7 @@ Neural Networks represent a fundamental shift in machine learning, drawing inspi
 
 For beginners, grasping the basics of neural networks is both a challenging and rewarding journey. It opens the door to a world where computers can learn and make decisions, pushing the boundaries of what's possible in machine learning and artificial intelligence.
 
-## Ensemble Learning Techniques
+### Ensemble Learning Techniques
 
 Ensemble learning techniques are a cornerstone in machine learning, known for improving prediction accuracy by combining multiple models. Unlike single model approaches, these techniques leverage the collective power of multiple algorithms to achieve better performance. Three primary ensemble methods are Boosting, Bagging, and Stacking, each with unique characteristics.
 
@@ -227,9 +227,9 @@ Ensemble learning techniques are a cornerstone in machine learning, known for im
 
 For beginners, understanding ensemble techniques is critical because they demonstrate how combining multiple learning algorithms can lead to more robust, accurate, and reliable predictions. These methods are a testament to the idea that in machine learning, sometimes the whole can indeed be greater than the sum of its parts. Exploring these techniques offers a window into advanced machine learning practices and provides beginners with powerful tools to improve model performance.
 
-# Advanced Machine Learning Algorithms
+## Advanced Machine Learning Algorithms
 
-## Gradient Boosting and Variants (XGBoost, LightGBM)
+### Gradient Boosting and Variants (XGBoost, LightGBM)
 
 Gradient Boosting is a highly effective and widely used machine learning algorithm, primarily known for its robustness in dealing with various types of data and its efficiency in predictive accuracy. It operates by sequentially adding predictors (weak learners), adjusting them to correct the mistakes made by the previous ones, which is a process known as boosting.
 
@@ -244,7 +244,7 @@ Gradient Boosting is a highly effective and widely used machine learning algorit
 
 Both XGBoost and LightGBM have become popular in the machine learning community for their performance and speed. They are particularly favored in situations where dataset sizes are large, and computational efficiency is a priority. Understanding these algorithms can provide beginners with powerful tools in their machine learning arsenal, allowing them to tackle a wide range of predictive modeling problems with confidence.
 
-## Deep Learning Concepts
+### Deep Learning Concepts
 
 Deep learning, a subset of machine learning, has revolutionized the field of artificial intelligence. It involves the use of neural networks with many layers (hence 'deep') to model complex patterns in data. Here are the basics of two fundamental deep learning structures:
 
@@ -269,9 +269,9 @@ Deep learning, a subset of machine learning, has revolutionized the field of art
 
 Deep learning's ability to process and learn from enormous amounts of data has made it a critical tool in pushing the boundaries of AI. Its applications range from improving computer vision systems to advancing natural language processing. For beginners in machine learning, understanding these concepts opens a path to more complex and exciting challenges in the field.
 
-# Choosing the Right Algorithm
+## Choosing the Right Algorithm
 
-## Factors to Consider
+### Factors to Consider
 
 When diving into the vast domain of machine learning, choosing the right algorithm is pivotal for success. Several critical factors influence this decision, each playing a unique role in shaping the outcome of your machine learning project:
 
@@ -296,7 +296,7 @@ When diving into the vast domain of machine learning, choosing the right algorit
 
 Selecting the right algorithm is not just about achieving the highest accuracy. It's also about finding the right balance between these factors, based on the specific needs and constraints of your project. This thoughtful approach ensures a more efficient, effective, and appropriate use of machine learning.
 
-## Algorithm Selection Guide
+### Algorithm Selection Guide
 
 ![Untitled](images/Untitled%207.png)
 
@@ -329,9 +329,9 @@ Selecting the appropriate machine learning algorithm for a specific problem can 
 
 By following these steps, you can systematically approach the task of selecting a machine learning algorithm, reducing the complexity and increasing the likelihood of success in your machine learning endeavors. Remember, there is no one-size-fits-all algorithm; the best choice always depends on the specific nuances of your data and problem.
 
-# Practical Implementation of Algorithms
+## Practical Implementation of Algorithms
 
-## Tools and Platforms
+### Tools and Platforms
 
 In the realm of machine learning, the choice of tools and platforms plays a pivotal role in effective algorithm implementation. Here's an introduction to some of the most popular tools and platforms:
 
@@ -363,7 +363,7 @@ In the realm of machine learning, the choice of tools and platforms plays a pivo
 
 These tools and platforms provide a wide array of functionalities, from data preprocessing and model building to deployment and monitoring. The choice of tool often depends on the specific needs of the project, the familiarity of the user with the tool, and the complexity of the tasks at hand. For beginners, starting with user-friendly environments like Python with Scikit-Learn or R can be a great first step into the world of machine learning.
 
-## Hands-On Examples
+### Hands-On Examples
 
 To provide a practical perspective on how machine learning algorithms are implemented, let's explore a few basic examples and case studies.
 
@@ -402,9 +402,9 @@ To provide a practical perspective on how machine learning algorithms are implem
 
 These examples are just the tip of the iceberg but provide a starting point for beginners to understand the practical application of machine learning algorithms. Each of these scenarios can be further explored with varying complexities and datasets to deepen one’s understanding and skills in machine learning.
 
-# Challenges and Best Practices
+## Challenges and Best Practices
 
-### Common Challenges:
+#### Common Challenges:
 
 1. **Overwhelming Complexity:** Beginners often find the vast array of algorithms and their mathematical intricacies daunting.
 2. **Choosing the Right Model:** With so many algorithms available, it can be challenging to select the most suitable one for a specific problem.
@@ -413,7 +413,7 @@ These examples are just the tip of the iceberg but provide a starting point for 
 5. **Computational Resources:** Some machine learning algorithms require significant computational power, which might not be readily accessible to all beginners.
 6. **Staying Updated:** The field of machine learning evolves rapidly, and staying updated with the latest developments can be challenging.
 
-### Best Practices:
+#### Best Practices:
 
 1. **Start with Simple Models:** Begin with simpler models like Linear Regression or Decision Trees before moving to more complex ones. This approach helps in grasping the basic concepts without getting overwhelmed.
 2. **Understand the Problem:** Clearly define the problem you're trying to solve. This understanding is crucial in selecting the most appropriate algorithm.
@@ -428,7 +428,7 @@ These examples are just the tip of the iceberg but provide a starting point for 
 
 By addressing these challenges and adhering to these best practices, beginners can navigate the complexities of learning machine learning algorithms more effectively and efficiently.
 
-# Conclusion
+## Conclusion
 
 In summary, this guide has journeyed through the essential landscape of machine learning algorithms, highlighting their pivotal role in today’s digital age. Beginning with a clear definition and understanding of what machine learning entails, the article has underscored its growing importance, especially for those just starting in the field.
 
@@ -449,7 +449,7 @@ As you embark on this exciting journey into the realm of machine learning, remem
 - [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
 - [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
-# References & Further Reading
+## References & Further Reading
 
 Books and Online Courses:
 
