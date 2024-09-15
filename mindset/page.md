@@ -9,6 +9,8 @@ In the fast-paced world of trading, where split-second decisions can mean the di
 
 Yet, many novice traders, in their quest to decode complex algorithms or chase the latest market trends, often overlook the critical importance of developing the right mindset. They may possess sound strategies, but without the mental fortitude to execute them consistently, success remains elusive. This guide seeks to change that. Drawing from research, expert insights, and practical experience, this article offers an in-depth exploration into mastering a trader's mindset. For those ready to embark on this transformative journey, welcome to your comprehensive guide to the mental game of trading.
 
+## Table of Contents
+
 ## Understanding the Mindset of a Successful Trader
 
 ### What is Trading Psychology?

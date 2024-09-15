@@ -5,6 +5,8 @@ description: "Automate and backtest a trading strategy without programming - Dis
 
 
 
+## Table of Contents
+
 ## Use visual trading platforms
 
 **Specialized platforms**: Platforms such as MetaTrader (notably with its “MetaEditor” tool) or NinjaTrader offer graphical interfaces where users can create strategies using drag & drop or by selecting predefined conditions.

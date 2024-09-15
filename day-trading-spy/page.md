@@ -13,6 +13,8 @@ The allure of day trading SPY lies in its potential for quick profits due to the
 
 For those considering this approach, it’s essential to understand that day trading is not a guaranteed profit scheme; it requires a strategic mindset, a deep understanding of market indicators, and a strong grip on technical analysis to identify the right moments to enter and exit trades. The SPY's importance in the market, coupled with the high-stakes nature of day trading, creates a dynamic environment that, while potentially profitable, demands respect for the risks involved and an adherence to disciplined trading practices.
 
+## Table of Contents
+
 ## Understanding SPY Options
 
 SPY options are derivative contracts that give traders the right, but not the obligation, to buy or sell the SPDR S&P 500 ETF Trust shares at a specified price, known as the strike price, before the option expires. These options are a pivotal tool for traders because they offer a way to gain exposure to the performance of the S&P 500 index while requiring less capital than would be needed to buy the ETF shares outright. The significance of SPY options for traders cannot be overstated—they provide a highly liquid market that allows for quick entry and exit, with tight bid-ask spreads and substantial volume.

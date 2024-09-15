@@ -21,6 +21,8 @@ But why has Python become so popular in this domain? Its flexibility is a signif
 
 In this guide, we'll explore the depths of backtesting with Python, starting from the basics and moving to more advanced topics. Let's embark on this journey to master backtesting with Python.
 
+## Table of Contents
+
 ## Why Python for Backtesting?
 
 Python's ascendancy in the realm of financial backtesting is not accidental; it's rooted in the intrinsic characteristics of the language and the ecosystem built around it. Let's deep dive into the core reasons behind Python's popularity in this domain.

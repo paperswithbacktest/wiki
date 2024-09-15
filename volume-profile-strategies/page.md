@@ -13,6 +13,8 @@ Volume Profile's unique approach to analyzing market structure offers traders a 
 
 The application of Volume Profile extends beyond just identifying high and low volume areas. It also includes the analysis of the Value Area - the price range where a significant portion of trading volume has taken place, and the Point of Control - the price level with the highest trading volume in the specified range. [This comprehensive data](https://paperswithbacktest.com/datasets) helps traders make more informed decisions, predicting potential price movements based on past trading activity.
 
+## Table of Contents
+
 ## Understanding Volume Profile
 
 Volume Profile is a vital tool in the arsenal of modern traders, offering a nuanced view of the market that goes beyond traditional volume analysis. It represents a charting technique that displays the amount of traded volume at specific price levels over a given period. This method differs from traditional volume analysis, which simply shows the total volume traded during a particular time frame, without considering the price levels at which trades occurred.

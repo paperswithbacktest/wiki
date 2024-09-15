@@ -8,6 +8,8 @@ description: "Discover how reinforcement learning is applied in trading to optim
 Reinforcement learning is a machine learning method in which an agent learns how to behave in an environment by performing actions and receiving rewards or punishments. Applied to trading, reinforcement learning can help optimize trading decisions based on financial rewards. Here's how reinforcement learning is used in trading.
 
 
+## Table of Contents
+
 ## Modeling the trading environment
 
 The trading environment consists of the market, financial instruments, and historical data. In the context of reinforcement learning, each time step could correspond to a trading opportunity, and the agent must decide whether to buy, sell, or do nothing.

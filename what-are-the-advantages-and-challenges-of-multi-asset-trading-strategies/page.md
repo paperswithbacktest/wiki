@@ -8,6 +8,8 @@ description: "Discover the advantages and challenges of multi-asset trading stra
 Multi-asset trading strategies involve simultaneously investing in and trading several types of assets, such as equities, bonds, commodities, currencies, etc. As with any investment approach, they present both advantages and challenges. Like any investment approach, they present advantages and challenges. Here's an analysis of those elements.
 
 
+## Table of Contents
+
 ## Advantages of multi-asset trading strategies
 
 1. **Diversification**: Investing in multiple asset classes diversifies risk. If one asset class underperforms, another may outperform, reducing overall portfolio volatility.

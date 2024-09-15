@@ -8,6 +8,8 @@ description: "Discover best practices and technologies for optimizing data proce
 Real-time trading requires an infrastructure capable of processing large volumes of data quickly. Any latency or delay can be costly for traders. To guarantee speed and accuracy in this ultra-competitive environment, it's imperative to optimize data processing. In this article, we'll look at best practices for optimizing data processing for real-time trading.
 
 
+## Table of Contents
+
 ## Use of suitable databases
 
 - **In-memory databases**: For real-time trading, databases such as Redis or MemSQL, which store data in memory rather than on disk, offer much faster access times.

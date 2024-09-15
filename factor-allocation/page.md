@@ -7,6 +7,8 @@ description: Discover the world of Factor Allocation in Algo Trading, an innovat
 
 In the vast world of quantitative trading, the notion of **factor allocation** stands out as an essential method for investors seeking to optimize their portfolios. This approach, though complex, can deliver attractive returns when properly implemented. In this article, we'll explore this concept in depth, its importance in algo trading, and how traders can use it effectively.
 
+## Table of Contents
+
 ## Introduction to Factor Allocation
 
 **Factor Allocation** is a strategy that involves building a portfolio based on quantifiable characteristics or "factors". Like asset allocation, where the investor must determine the appropriate weight of each asset, the main challenge of factor allocation is to choose the exact weight of each factor.

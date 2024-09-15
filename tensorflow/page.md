@@ -7,6 +7,8 @@ description: Discover how TensorFlow, Google's open-source machine learning libr
 
 The world of algorithmic trading is constantly evolving thanks to technological advances. Among the many tools supporting this growth, "TensorFlow" stands out. Developed by Google, TensorFlow is an open-source software library that has become a must-have for training machine learning models. Let's take a look at how TensorFlow is influencing the algo trading landscape.
 
+## Table of Contents
+
 ## Understanding TensorFlow
 
 TensorFlow is much more than just a software library. It has been designed to offer developers and researchers a powerful set of tools for training and implementing machine learning models. The name "TensorFlow" is inspired by "tensors" or multidimensional arrays, which play a key role in representing data within models.

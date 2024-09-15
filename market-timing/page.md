@@ -7,6 +7,8 @@ description: Discover the art of Market Timing in Algo Trading, a strategy that 
 
 **Market Timing** is a trading strategy that has attracted growing interest in the world of quantitative trading. It is an approach that attempts to predict future market movements in order to achieve optimal profits.
 
+## Table of Contents
+
 ## What is market timing?
 
 Market timing is a trading strategy that involves entering and exiting a financial market or changing asset classes based on predictive methods. The main aim is to capture only positive market movements. In practice, this often means alternating between a risky asset, such as an ETF based on a market index, and a reserve asset, usually cash.

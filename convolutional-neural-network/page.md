@@ -7,6 +7,8 @@ The world of artificial intelligence is vast and spans many fields and applicati
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## What is a CNN?
 
 A Convolutional Neural Network (CNN) is a type of deep learning model designed to process data with a grid topology (for example, an image) by applying a series of filters. The main distinction between CNNs and other neural networks is their ability to automatically detect and learn spatial hierarchies of patterns from images.

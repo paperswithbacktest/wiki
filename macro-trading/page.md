@@ -13,6 +13,8 @@ Historically, many significant market moves can be traced back to macroeconomic 
 
 In essence, macro trading is about understanding the bigger picture, discerning the interplay of various global factors, and making informed investment decisions based on this holistic view. It is a testament to the strategy's significance that many of the world's most renowned hedge funds and institutional investors allocate substantial resources to macro research and trading.
 
+## Table of Contents
+
 ## The Genesis of Macro Trading
 
 Macro trading has its roots in the broader understanding of macroeconomics, which studies the behavior and performance of an economy at the aggregate level. As global financial markets began to evolve and become more interconnected post-World War II, traders started to recognize the significant investment opportunities that arose from global macroeconomic events, policy shifts, and geopolitical developments. This marked the birth of macro trading as an investment strategy.

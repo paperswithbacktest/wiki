@@ -8,6 +8,8 @@ description: "Discover how to effectively manage black swan situations in algori
 The trading world is not exempt from unforeseen events and major shocks. These rare and unpredictable events, often referred to as "black swans", can have devastating consequences for traders, particularly in algorithmic trading. But how can we effectively manage these "black swan" situations in algorithmic trading? That's the question we'll try to answer in this article.
 
 
+## Table of Contents
+
 ## What is a black swan event?
 
 A "black swan" event is an unforeseen and rare event with major consequences. The concept, popularized by Nassim Nicholas Taleb, suggests that despite their rarity, these events have far-reaching repercussions and are often rationalized in hindsight.

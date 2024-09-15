@@ -7,6 +7,8 @@ description: Discover the intricacies of Term Spread Trade, a profitable strateg
 
 The world of quantitative trading is littered with complex terms and strategies that require a thorough understanding to be effectively exploited. One such term, which plays an essential role in a trader's toolkit, is the **Term Spread Trade**. In this article, we'll take a closer look at this concept, how it works, its benefits, and how it fits into the vast world of **algo trading**.
 
+## Table of Contents
+
 ## What is the **Term Spread Trade**?
 
 Term Spread Trade, also known as relative value trade, is a market position where an investor holds a long position in one contract while holding a short position in another contract of the same or similar underlying asset. The spread is the difference between the long and short positions.

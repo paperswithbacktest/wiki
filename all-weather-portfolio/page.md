@@ -17,6 +17,8 @@ Developed by Ray Dalio, the founder of Bridgewater Associates, one of the world'
 
 In today's economic landscape, with uncertainties ranging from fluctuating interest rates and geopolitical tensions to unprecedented global events like pandemics, the all-weather portfolio's philosophy has only grown more pertinent. Investors are increasingly seeking strategies that can survive and thrive in an economic climate that seems to change more rapidly and unpredictably than ever before. With traditional investment approaches being challenged by market dynamics, the all-weather portfolio presents itself as a resilient framework that could minimize the need for constant, active management, and potentially reduce the anxiety that comes with the market’s ups and downs.
 
+## Table of Contents
+
 ## Unveiling the All Weather Portfolio
 
 At its core, the All Weather Portfolio is a strategic investment approach with the overarching philosophy of enduring through any economic season—be it rain or shine. This portfolio framework is structured to mitigate risk and perform under various market conditions, aiming for consistent returns while managing losses during economic downturns. The All Weather Portfolio stands on the principles of diversification not just across asset classes, but also among different financial instruments that respond distinctly to market movements—stocks, long-term bonds, intermediate-term bonds, commodities, and precious metals like gold. Each asset class has a designated role, providing balance, as some assets may perform well when others falter due to changes in the economy like inflation or growth fluctuations.

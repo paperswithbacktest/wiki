@@ -11,6 +11,8 @@ Trend following, a classic trading strategy, revolves around capitalizing on per
 
 In this article, we'll explore the nuances of trend following from its historical roots to its application in modern algorithmic trading systems. The subsequent sections aim to unravel the complexities of [trend following strategies](https://paperswithbacktest.com/paper/does-trend-following-work-on-stocks), illuminate the mathematical and computational underpinnings, and provide a coherent guide on developing, implementing, and managing trend following algorithms in varied financial markets.
 
+## Table of Contents
+
 ## Historical Perspective
 
 [Trend following as a trading strategy](https://paperswithbacktest.com/paper/does-trend-following-work-on-stocks) can trace its roots back to centuries ago, where ancient merchants based their trade decisions on observable price and demand trends. However, its more formal inception in the financial markets dates back to the early 20th century. Renowned commodity trader, Richard Donchian, often credited as the father of trend following, pioneered the method with his systematic rules, most notably the Channel Breakout system, where positions were taken based on specific price channels[1].

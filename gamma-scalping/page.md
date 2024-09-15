@@ -11,6 +11,8 @@ Traders often turn to gamma scalping when they expect large price swings but are
 
 The essence of this technique lies in its dynamic nature; it's about being agile and responsive to market movements. As the underlying stock fluctuates, options with a high gamma will see a more significant change in delta, enabling savvy traders to scalp small profits that, over time, can add up significantly. It's a strategy that requires a deep understanding of market mechanics, constant attention, and the ability to make swift decisions. For those who master it, gamma scalping can be a powerful tool in the trader's arsenal.
 
+## Table of Contents
+
 ## Understanding Option Greeks
 
 In options trading, '**Delta**' represents the sensitivity of an option's price to a $1 change in the underlying asset. It is often interpreted as the probability that an option will end up in-the-money at expiration. Delta values range from 0 to 1 for calls and 0 to -1 for puts. For example, a Delta of 0.5 suggests that the option's price will move by 50 cents for every $1 move in the underlying asset.

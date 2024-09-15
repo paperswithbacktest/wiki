@@ -8,6 +8,8 @@ description: "Learn about the key challenges of liquidity management for hedge f
 Liquidity management is a crucial aspect of a hedge fund, as it has a direct impact on its ability to meet funding needs, redemption requests, and day-to-day fund operations. Here are the main challenges of liquidity management for a hedge fund.
 
 
+## Table of Contents
+
 ## Liquidity management challenges for a hedge fund
 
 1. **Illiquid assets**: Some hedge funds invest in less liquid assets (such as real estate, private loans, or unlisted holdings). These assets may be difficult to sell quickly without incurring a significant discount.

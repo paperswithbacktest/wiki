@@ -8,6 +8,8 @@ description: "Discover how to ensure trading strategies adhere to international 
 In the global financial context, regulations are essential instruments for ensuring a fair and transparent market. When developing trading strategies, ensuring compliance with international standards is crucial. Here's a detailed guide to how.
 
 
+## Table of Contents
+
 ## Identification of relevant jurisdictions
 
 - **Market analysis**: Identify precisely where your strategies will be deployed. Each market (e.g. USA, EU, Asia) has its own regulations.

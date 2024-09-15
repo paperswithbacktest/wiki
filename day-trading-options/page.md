@@ -9,6 +9,8 @@ Day trading involves executing trades within a single trading day, ensuring posi
 
 However, the fast-paced nature of day trading, coupled with the complexities of options, makes it a double-edged sword. While the potential for significant gains exists, so does the risk of substantial losses. This inherent risk underscores the paramount importance of having a robust trading strategy. A well-crafted strategy serves as a trader's roadmap, guiding decision-making, managing risks, and increasing the probability of consistent profitability.
 
+## Table of Contents
+
 ## Understanding Options and Day Trading
 
 Options are unique financial instruments that give traders the right, but not the obligation, to buy or sell an underlying asset, typically stocks, at a predetermined price, known as the strike price, within a specific timeframe. There are two main types of options: **calls** (which give the right to buy) and **puts** (which give the right to sell). It's essential to note that while the holder of an option has a right, the seller (or writer) of the option has an obligation. If the option holder exercises their right, the option seller must fulfill their end of the contract[1].

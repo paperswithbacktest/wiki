@@ -8,6 +8,8 @@ description: "Discover the crucial role of market microstructure in High-Frequen
 High-Frequency Trading (HFT) has become an indispensable component of modern financial markets. Operating at lightning speeds, these strategies require an in-depth understanding of every market detail. This is where market microstructure comes in. But why exactly is it so essential to HFT? Let's take a closer look at the symbiotic relationship between market microstructure and HFT.
 
 
+## Table of Contents
+
 ## What is market microstructure?
 
 Market microstructure studies the mechanisms by which buy and sell orders are transformed into transactions. It is concerned with the processes, rules, participants and intermediaries that facilitate trading, as well as the way in which information is incorporated into prices.

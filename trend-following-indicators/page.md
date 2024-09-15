@@ -9,6 +9,8 @@ Trend following is a cornerstone of trading, serving as one of the most time-tes
 
 This guide is tailored to provide an in-depth exploration into the realm of trend following indicators. Throughout the article, we will dissect the essence of trend following, deep dive into the different types of trends, and unveil the top indicators that traders globally rely on. Additionally, we'll offer insights into the practical implementation of these indicators, shed light on the pros and cons of trend-following strategies, and provide real-life case studies that underscore the potency of trend-following methods. 
 
+## Table of Contents
+
 ## The Essence of Trend Following
 
 Trend following is a trading strategy wherein investors seek to capture and profit from the momentum of a financial asset moving in a particular direction, be it upwards (bullish) or downwards (bearish). The foundational premise of trend following is rooted in the belief that markets move in trends, and these trends, once set in motion, tend to persist over varying periods.

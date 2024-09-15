@@ -13,6 +13,8 @@ But it's not just technology that birthed HFT; it was a confluence of regulatory
 
 Nevertheless, the prominence of HFT companies in today's trading landscape is undeniable. Representing a significant portion of daily trading volume in many major markets, these firms are at the forefront of blending finance with cutting-edge technology, reshaping the trading landscape as we know it.
 
+## Table of Contents
+
 ## Understanding High-Frequency Trading (HFT)
 
 High-Frequency Trading, often abbreviated as HFT, represents a form of algorithmic trading characterized by high speeds, high turnover rates, and high order-to-trade ratios. These operations utilize sophisticated technological tools and computer algorithms to rapidly trade financial instruments. HFT platforms make numerous trades in milliseconds, aiming to exploit minute discrepancies in asset prices across different exchanges.

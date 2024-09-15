@@ -9,6 +9,8 @@ A Commodity Trading Advisor (CTA) is a professional who provides personalized ad
 
 This guide aims to furnish readers with a holistic [understanding of CTA strategies](https://paperswithbacktest.com/paper/two-centuries-of-trend-following), touching on the foundational concepts and progressively diving into advanced topics. By journey's end, you will have gained insights into the various CTA strategies employed in today's market, their risks, rewards, and the forward-looking trends that might redefine their application in the future.
 
+## Table of Contents
+
 ## A Deep Dive into CTA: The Basics
 
 A Commodity Trading Advisor (CTA) is an individual or organization that provides advice regarding the buying and selling of futures contracts, options on futures, or specific foreign exchange contracts. While some CTAs manage assets directly and make trading decisions on behalf of their clients, others strictly offer advisory services, allowing the client to retain the decision-making power[1].

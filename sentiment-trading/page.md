@@ -7,6 +7,8 @@ description: Discover the importance of Sentiment Trading in Algo Trading. Learn
 
 Sentiment Trading refers to strategies based on trader behavior. It involves using sentiment indicators to get a clear picture of the mood of the stock market. These strategies are based on investors' perceptions and reactions to market events.
 
+## Table of Contents
+
 ## Why Sentiment Trading is crucial to algo trading?
 
 The essence of sentiment trading lies in its ability to predict market movements based on investor psychology. By understanding market sentiment, traders can anticipate trends and adjust their strategies accordingly.

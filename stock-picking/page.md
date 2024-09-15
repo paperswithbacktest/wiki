@@ -7,6 +7,8 @@ description: Delve into the world of Stock Picking, an essential technique in qu
 
 The world of quantitative trading is full of complex strategies for maximizing returns. Among these strategies, Stock Picking stands out for its meticulous stock-picking approach. In this article, we deep dive into the intricacies of Stock Picking, an essential technique for those seeking to develop algorithmic trading strategies.
 
+## Table of Contents
+
 ## What is **Stock Picking**?
 
 Stock Picking is an active portfolio management technique. It involves an in-depth analysis of stock fundamentals and prices to determine which stocks offer the best return potential. This analysis can lead to two conclusions: either the stock is undervalued and offers growth potential, or it is overvalued, and the investor can consider a short position.

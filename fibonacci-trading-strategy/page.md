@@ -9,6 +9,8 @@ The Fibonacci sequence, a series of numbers where each number is the sum of the 
 
 In the realm of trading, Fibonacci numbers are transmuted into ratios, and these ratios—primarily 23.6%, 38.2%, 50%, 61.8%, and 100%—are esteemed for their predictive value in technical analysis. Traders apply these ratios to identify potential reversal levels on stock charts. The philosophy behind this application is that after a significant price movement, either up or down, new support and resistance levels are often at or near these Fibonacci levels. The practical manifestation of these principles is evident in tools like Fibonacci retracements, where horizontal lines are drawn on a chart to indicate where support and resistance are likely to occur, based on the Fibonacci levels.
 
+## Table of Contents
+
 ## Theoretical Foundation
 
 At the core of Fibonacci trading lies the Golden Ratio, approximately 1.618, often denoted by the Greek letter phi (Φ). This ratio emerges from the Fibonacci sequence when a number in the series is divided by its immediate predecessor, and as the numbers get higher, the result converges on the Golden Ratio. This irrational number is not only aesthetically pleasing but also appears in various facets of the universe, from the spirals of galaxies to the growth patterns of many living things.

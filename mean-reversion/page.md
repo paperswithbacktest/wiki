@@ -11,6 +11,8 @@ Undoubtedly, mean reversion occupies a pivotal seat in trading and investment, d
 
 In the ensuing content, anticipate a journey through its core principles and historical perspectives to the mathematical backbone that substantiates its strategies. The exploration will further tread through various strategies and techniques, unpacking the science behind them, and culminating in the real-world application across multiple asset classes. Welcome to a world where statistical theory and market pragmatism collide, crafting strategies that have not only stood the test of time but also evolved in tandem with technological advancements and market dynamics!
 
+## Table of Contents
+
 ## Deep Dive into Mean Reversion
 
 From a historical lens, the concept of mean reversion has roots tracing back to the early 19th century when French mathematician Louis Bachelier proposed the idea in his Ph.D. thesis, "The Theory of Speculation" (1900). His work laid the groundwork for many modern financial theories, suggesting that stock prices move in a random pattern, with prices typically reverting to their mean over time. Another notable date is 1980 when Robert Shiller's research highlighted excessive volatility in stock prices, emphasizing the propensity of markets to revert to fundamental values[1].

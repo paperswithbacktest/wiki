@@ -9,6 +9,8 @@ Pair trading, originating from the quant-driven corners of Wall Street in the 19
 
 Amidst the cascade of trading innovations, pair trading has steadfastly demonstrated resilience and relevance in various market scenarios. Navigating through this comprehensive guide, you'll explore its theoretical underpinnings, historical trajectories, advanced strategies, and the algorithmic models propelling it into the modern trading realm.
 
+## Table of Contents
+
 ## Theoretical Framework of Pair Trading
 
 A cornerstone concept within pair trading is **cointegration**, which addresses the situation where, even if individual asset prices are non-stationary (i.e., tend to wander over time), a linear combination of them is stationary. Mathematically speaking, if we have two time series, $X_t$ and $Y_t$, they are said to be cointegrated if there exists a coefficient $\beta$ such that the combination:

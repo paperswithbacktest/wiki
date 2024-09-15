@@ -11,6 +11,8 @@ The significance of futures trading lies in its ability to allow traders and inv
 
 The purpose of this article is not just to deep dive into the mechanics of futures trading, but to provide a comprehensive exploration of various trading strategies. Whether you're a novice trader embarking on your first foray into the futures market or an experienced trader looking to refine your approach, this guide aims to equip you with a deeper understanding and practical knowledge of effective strategies in futures trading. From understanding the basic construction of a futures contract to mastering advanced trading techniques, this article will be your roadmap to navigating the complex yet rewarding world of futures trading.
 
+## Table of Contents
+
 ## Futures Trading Basics
 
 Understanding futures contracts is foundational to mastering futures trading. At its core, a futures contract is a standardized legal agreement to buy or sell an asset at a predetermined price at a specified time in the future. The assets in question can vary widely, encompassing commodities like oil and agricultural products, financial instruments such as government bonds, or even market indices. Unlike the immediate exchange of assets in spot trading, futures contracts are about the agreement to transact in the future, providing a unique blend of flexibility and obligation.

@@ -10,6 +10,8 @@ In the financial markets, the landscape of trading has undergone a transformativ
 With this evolution comes an amplified demand for robust, data-driven trading strategies. In such a high-speed, high-stakes environment, relying on intuition or outdated models can be catastrophic. This is where the role of backtesting becomes paramount. Backtesting is the practice of testing a trading strategy against historical data to validate its efficacy before deploying it in live markets. By analyzing how a strategy would have performed in the past, traders gain insights into its potential risks and rewards. Such rigorous testing ensures that a trading algorithm is not just a mathematical marvel but is practically poised for success in the real-world markets. It's akin to a flight simulator for pilots, allowing them to experience and prepare for various scenarios without any real-world risks.
 
 
+## Table of Contents
+
 ## What is Backtesting?
 
 Backtesting is a rigorous method employed by traders and financial analysts to evaluate the viability of a trading strategy or investment model by applying it to historical data. Essentially, it answers the hypothetical question: "If I had applied this strategy in the past, how would it have performed?" By simulating trades based on past data, backtesting offers a quantitative framework for assessing a strategy's potential profitability, associated risks, and weaknesses before deploying capital in real-time markets.

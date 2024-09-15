@@ -7,6 +7,8 @@ description: Reinforcement Learning from Human Feedback (RLHF) is transforming a
 
 In the vast field of artificial intelligence, RLHF, or Reinforcement Learning from Human Feedback, is an emerging term that is capturing the attention of algo trading experts. This method, based on the training of reinforcement learning models using feedback from human experts, has the potential to revolutionize the world of algorithmic finance. Let's dive into this fascinating subject.
 
+## Table of Contents
+
 ## What is RLHF (Reinforcement Learning from Human Feedback)?
 
 RLHF is a reinforcement learning approach that uses human feedback to train learning agents. Instead of relying solely on algorithmic rewards or historical data, RLHF incorporates human insights to guide the agent through its training phase.

@@ -11,6 +11,8 @@ Understanding volatility is crucial because it's a key factor in risk assessment
 
 In trading and investment, volatility is the lifeblood of market opportunity. Without volatility, prices would remain static, and the potential for profit would be minimal. It underpins several trading strategies, especially in options trading where it can significantly affect the premium. Volatility is also a critical factor in asset allocation and diversification decisions. By understanding the volatility profiles of various assets, investors can construct portfolios that align with their risk tolerance and investment objectives.
 
+## Table of Contents
+
 ## Understanding the Mechanics of Volatility Trading
 
 Volatility trading revolves around the premise of exploiting the changes in the price of an asset rather than the price itself. The primary objective is to profit from the volatility — the measure of how much the price of an asset varies over time — regardless of the direction in which the market is moving. Traders engaging in volatility trading are not necessarily concerned with whether the asset's price will go up or down; they are interested in how much the price will move.

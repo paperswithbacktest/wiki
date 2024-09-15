@@ -7,6 +7,8 @@ description: Discover the future of algorithmic trading as we deep dive into the
 
 In the modern era of trading, technology is positioning itself as a central pillar. Neural networks, inspired by the biological mechanisms of the human brain, are emerging as a driving force redefining the future of algo trading. Let's explore this innovative technology and discover its growing importance in algorithmic trading.
 
+## Table of Contents
+
 ## What is a neural network?
 
 A neural network is, in essence, a computational model developed to process and learn from large data sets. This model is based on the anatomy of the human brain, and consists of several layers of interconnected neurons. These neurons process data based on the signals they receive, simulating the way our own biological neurons function.

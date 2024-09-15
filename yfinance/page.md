@@ -5,6 +5,8 @@ description: Learn how to integrate Yahoo Finance data into your algorithmic tra
 
 
 
+## Table of Contents
+
 ## Introduction
 
 Yahoo Finance, established in 1997, has always been a central hub for retail investors and professionals alike. This platform provides a wealth of financial data, including stock quotes, financial reports, and breaking news. It's a go-to destination for real-time data and market insights that empowers millions to make informed investment decisions.

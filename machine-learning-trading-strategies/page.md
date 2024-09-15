@@ -11,6 +11,8 @@ In the realm of finance, machine learning's impact is particularly pronounced. T
 
 The importance of machine learning in trading today cannot be overstated. In a world where financial markets are characterized by high volatility and rapid changes, the ability to quickly analyze and respond to market data is crucial. Machine learning strategies are not only enhancing the accuracy of predictions but also enabling traders to identify new trading opportunities and strategies that would be impossible to discern through traditional means. This evolving landscape signifies a new era in finance, where data-driven and algorithmic trading strategies are becoming the norm, shaping the future of trading and investment.
 
+## Table of Contents
+
 ## Basic Concepts
 
 Machine learning is a subset of artificial intelligence where algorithms are designed to analyze data, learn from it, and make decisions or predictions based on that learning. Unlike traditional programming, where tasks are performed based on explicit instructions, machine learning algorithms adjust their actions based on patterns and correlations they uncover in the data, effectively 'learning' from it. This ability to self-learn and adapt makes machine learning particularly suitable for environments characterized by vast amounts of data and change, which is precisely the case in financial markets.

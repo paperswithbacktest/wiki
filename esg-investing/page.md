@@ -7,6 +7,8 @@ description: Discover the intersection of Environmental, Social, and Governance 
 
 The world of trading is constantly evolving, and with the emergence of new global concerns such as climate change, human rights, and corporate governance, investing based on Environmental, Social, and Governance (ESG) criteria has become a must. In this article, we take a deep dive into ESG investing, exploring its impact on algorithmic trading and how it can be integrated into an effective quantitative trading strategy.
 
+## Table of Contents
+
 ## What is ESG investing?
 
 ESG investing refers to an approach to investment selection based on environmental, social, and governance criteria. Instead of focusing solely on financial returns, ESG investors also take into account a company's impact on the world around it.

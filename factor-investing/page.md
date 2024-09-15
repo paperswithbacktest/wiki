@@ -9,6 +9,8 @@ Factor investing is an approach that selects stocks based on attributes associat
 
 Although Factor Investing is most popular among equities, more and more factors (or systematic characteristics) are being discovered in other asset classes. This testifies to the versatility and expansive reach of this strategy.
 
+## Table of Contents
+
 ## Types of factors
 
 Factors can be grouped into two main categories: macroeconomic factors and style factors.

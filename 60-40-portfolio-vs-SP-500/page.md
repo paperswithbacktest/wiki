@@ -13,6 +13,8 @@ The S&P 500, on the other hand, is a stock market index comprising 500 of the la
 
 Comparing the 60/40 portfolio with the S&P 500 is relevant for investors because it offers insights into the trade-offs between a diversified, balanced investment approach and a purely equity-focused strategy. While the S&P 500 can give a snapshot of the high-growth potential of equity investments, the 60/40 portfolio provides a lens through which to view the benefits of risk mitigation through diversification, particularly in volatile or bear markets. This comparison is especially crucial for investors seeking to understand the potential impact of different asset allocation strategies on their investment returns and risk exposure.
 
+## Table of Contents
+
 ## Overview of the 60/40 Portfolio
 
 The 60/40 portfolio, a longstanding staple in the investment world, is rooted in a balance between growth and stability. Historically, this portfolio model emerged from the traditional investment philosophy that advocates for diversification as a hedge against market volatility. The 60/40 split between stocks and bonds is designed to provide investors with a blend of growth potential through equities and income generation, along with capital preservation through bonds.

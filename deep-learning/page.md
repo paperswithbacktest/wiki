@@ -9,6 +9,8 @@ Deep Learning is a concept that has revolutionized the world of artificial intel
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## What is Deep Learning?
 
 Deep Learning is a sub-field of machine learning, focusing on the training of neural networks with many layers. These layers enable the learning of complex models and patterns in data. It is this ability to model complex patterns that sets it apart and makes it a powerful tool for many applications, including algorithmic trading.

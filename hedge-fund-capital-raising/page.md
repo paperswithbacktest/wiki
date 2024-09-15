@@ -11,6 +11,8 @@ The significance of capital raising in hedge funds cannot be overstated. It's no
 
 Moreover, the process of capital raising is tightly intertwined with the reputation and perceived performance of the hedge fund. Investors, whether institutional or individual, are drawn to funds that demonstrate a robust track record, sound risk management practices, and clear, compelling investment strategies.
 
+## Table of Contents
+
 ## Fundamentals of Hedge Fund Capital
 
 ### How Hedge Funds Raise Money

@@ -7,6 +7,8 @@ description: Discover how Zero-shot Learning, a form of artificial intelligence,
 
 Artificial intelligence (AI) has revolutionized the field of algo trading, offering more precise, rapid, and sophisticated strategies. But what would it be like if a model could make decisions on tasks it had never seen during its training phase? This is where *Zero-shot Learning* comes in. This form of learning, where a model makes predictions or decisions on tasks it hasn't seen during its training phase, could be the next big thing in algorithmic trading.
 
+## Table of Contents
+
 ## What is Zero-shot Learning?
 
 Zero-shot Learning refers to the ability of an AI model to generalize from what it has learned to handle situations or tasks it has never encountered before. It's as if a trader, having studied the European markets, were suddenly able to trade effectively in the Asian markets without any prior information about them.

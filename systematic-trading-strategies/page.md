@@ -15,6 +15,8 @@ From quantitative hedge funds to individual retail traders, the adoption of syst
 
 The continuous growth and integration of [systematic strategies](https://paperswithbacktest.com/) signal a profound and enduring shift in the landscape of trading and investment management. As the financial world becomes more data-driven and automated, the role of systematic trading is likely to expand, solidifying its importance in the pursuit of market opportunities.
 
+## Table of Contents
+
 ## Foundations of Systematic Trading
 
 ### Systematic Trading Demystified

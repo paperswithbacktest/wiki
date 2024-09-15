@@ -8,6 +8,8 @@ description: "Discover why Renaissance Technologies, founded by mathematician Ja
 The world of quantitative hedge funds is vast and competitive, with several major players making their mark on the financial industry. However, when it comes to the "most elite" or the "most recognized", it's difficult to point to a single undisputed winner. However, one name often stands out in discussions around the most prestigious funds: **Renaissance Technologies**.
 
 
+## Table of Contents
+
 ## Renaissance Technologies
 
 - Founded by James Simons, a renowned mathematician, **Renaissance Technologies** is often cited as the world's most successful and secretive quantitative hedge fund. The fund is best known for its Medallion Fund, which has delivered exceptional returns for decades, far outperforming market indices and most other funds.

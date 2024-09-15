@@ -11,6 +11,8 @@ For beginners stepping into the field of machine learning, grasping the fundamen
 
 In today’s technology-driven world, machine learning stands at the forefront of innovation and problem-solving. From simple recommendations on e-commerce websites to complex predictive models in weather forecasting or financial market analysis, machine learning algorithms are increasingly becoming indispensable tools. For those beginning their journey in this field, a strong foundational knowledge of these algorithms is essential. It not only empowers them to contribute to cutting-edge technologies but also helps in developing a mindset geared towards data-driven problem solving and automation, which are key in modern technological advancements.
 
+## Table of Contents
+
 ## Understanding the Types of Machine Learning Algorithms
 
 Machine Learning algorithms are broadly categorized into four main types: Supervised Learning, Unsupervised Learning, Semi-Supervised Learning, and Reinforcement Learning. Each category has distinct characteristics and applications, making them suitable for different kinds of tasks and challenges in the field of artificial intelligence.

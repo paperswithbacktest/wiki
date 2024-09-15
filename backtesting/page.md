@@ -11,6 +11,8 @@ The significance of backtesting cannot be overstated. It offers traders a glimps
 
 However, it's worth noting that while backtesting is a powerful tool, it is not without its limitations. A strategy's past performance, as reflected in backtest results, does not guarantee future results. Market conditions change, and unexpected events can influence outcomes. Nonetheless, when used correctly and with an understanding of its intricacies, backtesting remains an indispensable component in a trader's toolkit.
 
+## Table of Contents
+
 ## Foundations of Backtesting
 
 Backtesting is the process of testing a trading strategy using historical market data to evaluate its viability. In essence, it involves simulating trades that would have been executed in the past using the rules defined by the strategy. By observing the hypothetical results of these trades, traders can gain insight into the potential profitability and risk of their strategy without committing actual capital.

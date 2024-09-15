@@ -8,6 +8,8 @@ description: "Learn how to optimize order routing for best results in high-speed
 Order routing is a crucial step in the trading process, especially in an environment where every millisecond counts. Proper optimization of order routing can improve execution speed, reduce costs and deliver competitive advantage. In this article, we'll explore how to optimize order routing for best results.
 
 
+## Table of Contents
+
 ## Analyze market structure
 
 Before choosing where to route an order, it's vital to understand the market structure. This includes knowledge of the different types of exchanges, dark pools and other trading venues. Each offers unique advantages that can be exploited depending on the order to be executed.

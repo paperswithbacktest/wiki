@@ -7,6 +7,8 @@ description: Discover how unsupervised learning, a form of machine learning with
 
 The world of quantitative trading is a sea of opportunity, where every wave of data can conceal untapped potential. In this context, *unsupervised learning* plays a crucial role. This is a form of machine learning in which a model learns from unlabeled data, a feature that can prove invaluable in the world of algo trading.
 
+## Table of Contents
+
 ## What is unsupervised learning?
 
 Unsupervised learning is distinguished from other forms of machine learning by the absence of labels or preset outcomes in the training data. Instead, the model attempts to recognize patterns, groupings, or structures inherent in the data itself. Areas of application for this form of learning range from classification to anomaly detection and dimension reduction.

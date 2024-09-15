@@ -11,6 +11,8 @@ HFT's prowess is reflected in its ability to identify minute inefficiencies in t
 
 The significance of HFT in today's trading world cannot be understated. As of the early 2020s, HFT accounted for approximately half of the equity market volume in the U.S. Its impact is pervasive, influencing everything from market liquidity to the pricing of securities. Proponents praise HFT for reducing trading costs, improving market efficiency, and enhancing liquidity. Meanwhile, skeptics raise concerns about potential market instability or the fairness of allowing certain traders an advanced technological edge.
 
+## Table of Contents
+
 ## The Evolution of High-Frequency Trading
 
 The financial markets have always been arenas of innovation. In their early days, exchanges were characterized by open-outcry systems, where traders would shout and use hand signals to communicate orders. Floor traders had to be sharp, reacting to market movements in real-time. It was a physical, chaotic, yet organized dance of supply, demand, and human intuition.

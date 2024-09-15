@@ -7,6 +7,8 @@ description: Discover the fundamentals of Value-Based Investing, a popular strat
 
 In the vast world of quantitative trading, the value-based strategy occupies a prominent place. It is based on a fundamental concept: identify and capitalize on assets that are currently undervalued in relation to their intrinsic value. In this article, we'll deep dive into the heart of this strategy to understand its mechanisms, its relevance to algo trading, and its potential for those looking to develop algorithmic trading strategies.
 
+## Table of Contents
+
 ## Definition of Value-Based Investing
 
 Value investing, often referred to simply as "Value", is a strategy that aims to invest in assets whose current price is lower than their fundamental or book value. The aim is to benefit from the convergence of the asset price towards its fundamental value over the long term.

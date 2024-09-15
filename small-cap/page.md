@@ -7,6 +7,8 @@ description: Discover the world of Small Cap investing and algorithmic trading i
 
 One of the most talked-about strategies in quantitative trading is investing in "Small Caps". This article aims to enlighten those seeking to develop algorithmic trading strategies focused on Small Caps.
 
+## Table of Contents
+
 ## What are Small Caps?
 
 The term "Small Cap" refers to a company's capitalization, determined by the total value of its publicly traded shares. Small Cap stocks are generally defined as the shares of publicly traded companies with a market capitalization ranging from $300 million to around $2 billion. These stocks are considered to offer better returns, due to investors' lack of knowledge of their growth potential and lack of institutional interest.

@@ -8,6 +8,8 @@ description: "Hedge funds offer exclusive investment opportunities with the pote
 Hedge funds, with their promise of substantial returns and an aura of financial mastery, have long held a magnetic appeal for those keen to operate at the pinnacle of the investment world. Notoriously exclusive, these private investment vehicles combine a blend of traditional and non-traditional strategies to achieve significant profits, often regardless of market conditions. As the global financial landscape evolves, so too does the hedge fund industry. Today, careers within hedge funds aren't just about financial wizardry but also about adaptability, innovation, and navigating an industry in flux. Amidst challenges like increased regulatory scrutiny and demands for greater transparency, hedge funds are also leveraging cutting-edge technology, leading to a broader array of roles and an interdisciplinary approach to investment. For those considering a dive into this riveting pool, understanding both the allure and the shifting sands of hedge fund careers is the starting point.
 
 
+## Table of Contents
+
 ## Understanding Hedge Funds
 
 ![Untitled](images/Untitled.png)

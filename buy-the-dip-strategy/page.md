@@ -13,6 +13,8 @@ In today’s volatile market conditions, characterized by rapid shifts due to gl
 
 However, while the strategy is popular, it is not without risk. It requires a nuanced understanding of market dynamics and the ability to distinguish between a temporary dip and a long-term decline. The strategy also demands discipline and a clear analysis of the asset’s fundamentals to avoid catching a "falling knife," a term used to describe the risk of buying into a declining trend that continues to worsen.
 
+## Table of Contents
+
 ## Understanding 'Buy the Dip'
 
 The strategy of 'Buy the Dip' is not a new concept in the financial world. Its roots can be traced back to the earliest days of stock trading, where savvy investors sought to purchase stocks at a low price during temporary market declines, anticipating a rebound to profitability. Over the years, as financial markets evolved and became more sophisticated, so did the strategy. It gained significant popularity with the advent of more public market participation and the development of global financial markets.

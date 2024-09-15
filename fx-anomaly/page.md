@@ -7,6 +7,8 @@ description: Delve into the world of Forex algorithmic trading and explore the F
 
 Among the various strategies used by algorithmic traders, exploiting market anomalies, particularly in the Forex sector, has proven to be a goldmine for many. In this article, we'll explore the **FX anomaly** in-depth, its importance in algo trading, and how traders can use it to maximize their returns.
 
+## Table of Contents
+
 ## What is the FX Anomaly?
 
 Every asset class on the market has anomalies which, if correctly identified and exploited, can be turned into substantial profits. The foreign exchange (Forex) market is no exception. These anomalies can be phenomena such as momentum, carry, value, volatility, and many others.

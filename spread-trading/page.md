@@ -7,6 +7,8 @@ description: Discover the power of Spread Trading in the world of Algo Trading. 
 
 The world of quantitative trading is littered with terms and strategies that may seem complex at first glance. Among them, **Spread Trading** is a strategy that deserves particular attention due to its profit potential and intrinsically diversified nature. In this article, we'll demystify Spread Trading, explore its nuances and detail its advantages and disadvantages, while focusing on its integration into the **algo trading** universe.
 
+## Table of Contents
+
 ## What is spread trading?
 
 Spread trading is a form of trading in which you buy one financial instrument while selling another, usually linked or correlated. The difference between the buying and selling prices of these instruments is known as the spread. This strategy is commonly used in the futures and options markets, although it can also be applied to other financial instruments.

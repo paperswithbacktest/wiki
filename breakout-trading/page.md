@@ -13,6 +13,8 @@ In today's fast-paced trading environment, where information is instantaneous an
 
 This guide is your compass through the tumultuous seas of breakout trading, providing an in-depth exploration of its strategies and nuanced analysis.
 
+## Table of Contents
+
 ## Breakout Trading Decoded
 
 Breakout trading is a tactical approach where traders seek to identify and capitalize on price moves as they break through a predefined resistance level or fall below a support level. These levels, often established through prior price history, are considered significant barriers that, when breached, signal a potential surge in trading activity and directional momentum. This strategy relies on the premise that once a stock or asset breaks through this barrier, significant volatility and price movement are likely to follow.

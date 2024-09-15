@@ -11,6 +11,8 @@ On the other hand, futures are standardized contracts to buy or sell a specific 
 
 The interest in understanding the nuances between ETFs and futures has surged as investors seek to optimize their portfolios, manage risks, and capitalize on market opportunities. Both instruments come with their own set of features, risks, and benefits, which are important to grasp in the context of an ever-evolving financial landscape. The ability to discern their differences is not just a matter of preference but a strategic necessity for informed decision-making in investment.
 
+## Table of Contents
+
 ## Understanding ETFs
 
 Exchange-Traded Funds (ETFs) are investment funds traded on stock exchanges, much like stocks. An ETF holds assets such as stocks, commodities, or bonds and generally operates with an arbitrage mechanism designed to keep it trading close to its net asset value, although deviations can occasionally occur. A key characteristic of ETFs is their ability to offer diversified exposure to a particular index, market, or sector, combining the flexibility of stock trading with the diversification benefits of mutual funds.

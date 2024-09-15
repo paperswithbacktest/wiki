@@ -8,6 +8,8 @@ description: "Discover the intricacies of the quant role in finance, from its co
 The world of finance, often pictured as a realm of suits, stocks, and spreadsheets, has undergone a transformative evolution over the past few decades. Central to this transformation is the rise of the "quant" - a role that merges mathematical prowess with financial acumen to harness the potential of vast amounts of data and computational power. A quant, short for quantitative analyst, delves into complex mathematical models, algorithms, and computer programs to make sense of financial data, forecast market movements, and optimize trading strategies. This analytical dynamo, equipped with a distinctive skill set, has become indispensable in the modern financial ecosystem. As markets have become more sophisticated, the reliance on data-driven insights and algorithmic trading has surged, elevating the quant's role to new heights. Today's financial landscape, characterized by rapid technological advancements and ever-evolving markets, is ripe with opportunities and challenges for quants. Their role, far from being just another financial job, stands at the forefront of redefining the future of global finance.
 
 
+## Table of Contents
+
 ## Quant Demystified
 
 ### Quant Defined

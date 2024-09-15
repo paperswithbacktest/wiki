@@ -8,6 +8,8 @@ description: "Discover how alternative data, such as social media sentiment and 
 Alternative data refers to information that is not derived from the traditional sources used for financial analysis, such as balance sheets or corporate earnings reports. Such data can include information from social media, satellite data, and geolocation data, among others. In the context of quantitative trading, the integration of alternative data can bring added value. Here's how it can be done.
 
 
+## Table of Contents
+
 ## Understanding the data
 
 Before integrating alternative data, it is essential to understand its nature, provenance, and characteristics. This understanding is crucial in determining how the data can be used effectively in trading models.

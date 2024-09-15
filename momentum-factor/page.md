@@ -15,6 +15,8 @@ Since then, the momentum factor has become an integral part of financial analysi
 
 For those looking to deep dive deeper into the academic perspective on momentum, Carhart's 1997 paper, "On Persistence in Mutual Fund Performance," and the works of Fama and French, particularly their research on common risk factors in the returns on stocks and bonds, are essential reading. These studies are available through academic databases and provide a quantitative backing to the concept of momentum, making it a mainstay in both theoretical finance and practical investment strategy.
 
+## Table of Contents
+
 ## What is Momentum?
 
 Momentum, within the realm of investing, refers to the phenomenon where securities that have performed well in one period continue to perform well in the subsequent period, and conversely, securities that have performed poorly continue to perform poorly. This persistence in performance can be observed in various time frames, ranging from months to years, and is a widely recognized factor influencing stock prices.

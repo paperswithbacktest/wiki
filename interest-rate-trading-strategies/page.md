@@ -9,6 +9,8 @@ Interest rate trading refers to the buying and selling of financial instruments 
 
 The importance of interest rates in financial markets cannot be overstated. They serve as a fundamental barometer of a nation's economic health and monetary policy. Central banks use interest rate adjustments as a tool to control economic growth, inflation, and currency value. For traders, understanding interest rate movements is crucial for making informed decisions. Changes in interest rates can lead to substantial shifts in market sentiment, influencing the direction of forex, stock, and bond markets. Hence, interest rate trading is not just about predicting rate changes but also about understanding their broader impact on the global financial landscape. This form of trading requires a deep comprehension of economic indicators, central bank policies, and global economic trends.
 
+## Table of Contents
+
 ## Fundamentals of Interest Rates
 
 ### Understanding Interest Rates, Yields, and Bonds

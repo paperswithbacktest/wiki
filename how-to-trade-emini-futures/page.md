@@ -12,6 +12,8 @@ In the vast ecosystem of the financial market, E-minis have carved out a unique 
 This guide aims to provide readers with a comprehensive overview of Emini futures—from their historical roots to advanced trading strategies. Whether you're a seasoned trader looking to diversify your portfolio or a beginner seeking to understand the basics, our objective is to equip you with the knowledge needed to navigate the world of E-mini futures trading with confidence.
 
 
+## Table of Contents
+
 ## History & Origins of Emini Futures
 
 The story of Emini futures, a transformative financial instrument in today's markets, begins in the mid-1990s. With the rapid growth of electronic trading and the pressing need for more accessible futures contracts for individual traders, the Chicago Mercantile Exchange (CME) pioneered the concept of the Emini futures. Introduced in September 1997, the first E-mini contract was for the S&P 500 index and quickly gained traction as a preferred instrument for traders worldwide[1].

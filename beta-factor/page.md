@@ -7,6 +7,8 @@ Beta is a measure of the risk associated with exposure to general market movemen
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## Signification and Interpretation
 
 Technically, the Beta of an asset relative to a market index is defined by a linear regression of the asset's returns on the returns of the index. A Beta greater than 1 means that the asset is more volatile than the market, while a Beta less than 1 means that it is less volatile.

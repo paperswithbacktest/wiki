@@ -15,6 +15,8 @@ Technical analysis plays a fundamental role in gap trading. Traders utilize vari
 
 By mastering gap trading, traders can potentially leverage these market inefficiencies for profit. However, it requires a keen sense of market movement, an understanding of the underlying factors contributing to the gaps, and the ability to quickly assimilate and react to new market information.
 
+## Table of Contents
+
 ## Defining Market Gaps
 
 Market gaps, often simply known as gaps, occur when there is a noticeable empty space on a price chart between two trading periods, indicative of a sharp move in price with no trading occurring in between. These gaps are typically represented on candlestick or bar charts where the low price of one period is higher than the high of the preceding one (gap up), or the high is lower than the low of the previous period (gap down)[1][2].

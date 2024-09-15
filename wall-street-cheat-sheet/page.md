@@ -11,6 +11,8 @@ The Wall Street Cheat Sheet is an iconic representation that encapsulates the ro
 
 At its core, the Wall Street Cheat Sheet isn't just a reflection of price movements; it offers a profound insight into the collective psyche of the market participants. By tracing the emotional journey of traders, the cheat sheet aids in recognizing recurring patterns of human behavior in response to financial ebbs and flows. Grasping the essence of these patterns is pivotal. It allows traders to not only predict potential market moves with greater acuity but also to manage their emotional responses, thereby making more informed and less impulsive decisions.
 
+## Table of Contents
+
 ## Historical Perspective
 
 The Wall Street Cheat Sheet emerged as a response to the recurring emotional cycles observed in financial markets. Its origins can be traced back to the early days of stock trading, though its conceptualization and popularization came much later. Observers of the market noticed that, irrespective of time periods and distinct market events, human reactions to profit and loss appeared to follow a predictable pattern. These observations eventually coalesced into the cheat sheet we recognize today, presenting a visual journey through the peaks and troughs of trader emotions.

@@ -17,6 +17,8 @@ The significance of Turtle Trading lies in its enduring legacy. Despite the subs
 
 Thus, Turtle Trading is more than just a historical anecdote; it is a testament to the power of disciplined, systematic trading, and its principles are just as relevant—and perhaps even more crucial—in today's algorithm-driven market landscape.
 
+## Table of Contents
+
 ## The Genesis of Turtle Trading
 
 Richard Dennis, a commodities speculator with a track record for incredible profits, was a man on a mission to prove a point. His proposition was deceptively simple: Trading could be taught to anyone with the right instruction and rule set, regardless of previous financial knowledge. This bold assertion was the cornerstone of what would come to be known as Turtle Trading.

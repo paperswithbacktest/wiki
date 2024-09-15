@@ -7,6 +7,8 @@ description: Discover how Google's Tensor Processing Unit (TPU) is revolutionizi
 
 The current era is dominated by rapid technological innovation. One such innovation, specifically designed to accelerate machine learning workloads, is the TPU or Tensor Processing Unit. This specialized hardware, developed by Google, is transforming the field of algorithmic trading. In this article, we'll take a deep dive into the world of TPUs and explore their impact on algo trading.
 
+## Table of Contents
+
 ## What is a TPU?
 
 A TPU, short for Tensor Processing Unit, is a kind of application-specific integrated circuit (ASIC). It is specifically designed to run and accelerate workloads based on TensorFlow, a popular machine learning library also developed by Google. The name "Tensor" comes from the way TensorFlow represents data.

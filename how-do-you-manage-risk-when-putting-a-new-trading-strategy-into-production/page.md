@@ -8,6 +8,8 @@ description: "Managing risk is crucial when implementing a new trading strategy.
 Putting a new trading strategy into production is always accompanied by challenges and risks. These risks, if not properly managed, can lead to significant losses. Here's a guide to effective risk management when putting a new trading strategy into production.
 
 
+## Table of Contents
+
 ## Testing in a simulated environment (backtesting)
 
 Before putting a trading strategy into production, it is essential to test it on historical data. This provides an overview of its performance under various past market conditions.

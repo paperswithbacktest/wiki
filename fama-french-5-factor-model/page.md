@@ -15,6 +15,8 @@ In contemporary financial analysis, the 5-factor model offers a more comprehensi
 
 The model's robustness across different time periods and markets emphasizes its significance and demonstrates its superior predictive power compared to the 3-factor model. It's widely regarded as a cornerstone of modern financial theory and remains a focal point for asset pricing research and practice[1][2].
 
+## Table of Contents
+
 ## Historical Context
 
 The Fama French 5 Factor Model is anchored in the pursuit to explain and predict stock returns more accurately. This pursuit began with the CAPM, which posited that the expected return of a security is proportional to its systematic risk or market risk. However, empirical tests led by Fama and French suggested that CAPM's market risk factor alone was not sufficient to explain the cross-section of expected returns.

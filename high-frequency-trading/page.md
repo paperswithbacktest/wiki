@@ -13,6 +13,8 @@ The evolution from human-driven floor trading to algorithm-dominated digital pla
 
 Today, HFT accounts for a substantial proportion of equity trades in major markets worldwide. It stands as a testament to how technology, when merged with financial innovation, can redefine age-old practices, presenting both opportunities and challenges for global financial markets.
 
+## Table of Contents
+
 ## What Is High-Frequency Trading (HFT)?
 
 High-Frequency Trading (HFT) is a form of algorithmic trading where financial instruments, like stocks or commodities, are bought and sold at extremely high speeds, often in fractions of a second. Imagine a hummingbird that flits quickly from flower to flower, sipping nectar faster than the blink of an eye; HFT operates in a similar lightning-fast manner in the financial markets, zipping through vast amounts of trade orders to capitalize on minuscule price discrepancies.

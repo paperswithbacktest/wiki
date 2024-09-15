@@ -7,6 +7,8 @@ The world of artificial intelligence is vast, complex and fascinating. Among the
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## What is AGI?
 
 Although there is no general consensus on its definition, some Microsoft researchers define AGI as artificial intelligence "as capable as a human in any intellectual task". This means that AGI would not be limited to a specific domain or function, but could adapt and learn autonomously in a variety of situations, just like a human being.

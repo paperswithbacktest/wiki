@@ -8,6 +8,8 @@ description: "Discover how regime-switching models aid in navigating volatile fi
 Regime-switching models are econometric tools used to capture structural changes or transitions between different states or "regimes" of a financial market. In the context of volatile markets, these models can be very useful. Here's how regime-switching models can help navigate volatile markets.
 
 
+## Table of Contents
+
 ## Identifying market regimes
 
 Financial markets don't always behave in the same way. Sometimes they can be calm and stable, and at other times they can be volatile and unpredictable. Regime-switching models help identify these different regimes, which is essential for adjusting trading strategies.

@@ -11,6 +11,8 @@ When news impacts the financial markets, it's typically through the immediate in
 
 The objective of this article is multifaceted, aiming to impart a comprehensive understanding of news trading within algo trading, deep dive into its practical and technical aspects, and explore its pros, cons, and future potential.
 
+## Table of Contents
+
 ## In-depth into News Trading
 
 Pivotal historical impacts of news on trading can be traced through various market-turning events. A quintessential example is “Black Monday” on October 19, 1987, when news of political tensions in the Middle East and concerns over U.S. trade deficit led to a global stock market crash, with the Dow Jones Industrial Average plummeting 22.6% in a single day. The abruptness and scale of these market movements triggered by news showcased how information dissemination could significantly influence global markets.

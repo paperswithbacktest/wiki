@@ -13,6 +13,8 @@ The evolution and integration of NLP into trading platforms and strategies have 
 
 As we deep dive deeper into this write-up, we will explore how NLP techniques, starting from fundamental data preprocessing to [advanced sentiment analysis](https://paperswithbacktest.com/paper/market-sentiment-and-an-overnight-anomaly), have sculpted a new frontier in trading, innovating strategies, and bolstering decision-making processes in the perpetual, dynamic world of financial markets.
 
+## Table of Contents
+
 ## The Fundamentals of NLP in Trading
 
 Natural Language Processing (NLP) stands at the intersection of computer science, [artificial intelligence (AI),](https://blog.paperswithbacktest.com/p/basics-of-ai-for-algorithmic-trading) and linguistics. Its primary goal is to enable machines to understand, interpret, and generate human language. This involves everything from simple tasks like identifying the language of the text to complex ones [like extracting sentiments](https://paperswithbacktest.com/paper/market-sentiment-and-an-overnight-anomaly), entities, or even generating new textual content.

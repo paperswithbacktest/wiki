@@ -9,6 +9,8 @@ A short-term reversal in stock trading refers to a phenomenon where a stock's pr
 
 This concept is essential in the trading world as it represents opportunities for traders to capitalize on these sudden shifts. Short-term reversals are often linked to market psychology and investor behavior, where the sentiment around a stock can swiftly change due to various factors such as news events, market trends, or even speculation. Understanding and identifying these reversals can be a crucial tool for traders looking to optimize their trading strategies, especially for those focusing on short-term market movements. As we explore the phenomenon of short-term reversals, it's important to consider the underlying mechanics, strategies for capitalizing on these movements, the risks involved, and the potential rewards that can be reaped when these reversals are successfully navigated.
 
+## Table of Contents
+
 ## The Phenomenon of Short-Term Reversal
 
 The short-term reversal effect in stock trading is a fascinating and complex phenomenon that captures the transient nature of stock price movements. This effect occurs when stocks that have recently performed well suddenly experience a decline, and conversely, stocks that have performed poorly demonstrate an unexpected rise.

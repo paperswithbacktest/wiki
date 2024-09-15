@@ -7,6 +7,8 @@ description: Explore key research papers on algorithmic trading, focusing on opt
 
 The intricate world of finance, characterized by its dynamic markets and complex mathematical models, presents unique challenges and opportunities for researchers and practitioners. This compilation of scholarly papers offers a deep dive into various aspects of financial market analysis, ranging from the empirical examination of asset returns to the nuanced strategies of market making. Authored by experts in the field, each paper contributes to a comprehensive understanding of market dynamics, highlighting the theoretical foundations and practical implications of statistical analysis, market microstructure, optimal execution, market impact models, and market making strategies. These works collectively serve as a foundational resource for anyone looking to deepen their understanding of the sophisticated mechanisms driving financial markets.
 
+## Table of Contents
+
 ## Stylized facts
 
 **Empirical properties of asset returns: stylized facts and statistical issues**

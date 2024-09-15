@@ -15,6 +15,8 @@ Algorithmic trading, often referred to as "algo trading", is based on a multitud
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## What is an Asset Class?
 
 An asset class is a group of securities or investments with similar financial characteristics. This can include, among others, equities, bonds, commodities or currencies. The way these asset classes are combined in a portfolio largely determines its performance.

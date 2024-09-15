@@ -13,6 +13,8 @@ In his book, Faith offers a rare glimpse into the methodologies and strategies e
 
 Through "The Way of the Turtle," Curtis Faith has contributed significantly to the trading world by emphasizing the importance of discipline, simplicity, and a systematic approach to trading. His teachings continue to influence modern trading practices, making this book an essential read for anyone looking to navigate the complexities of the financial markets. Whether you're a novice trader or a seasoned professional, Faith's insights provide valuable guidance in developing a robust trading strategy, rooted in the lessons from one of the most famous experiments in trading history.
 
+## Table of Contents
+
 ## The Turtle Experiment
 
 ### Background and Impact

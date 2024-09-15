@@ -17,6 +17,8 @@ Quant developers are the linchpins of the finance and technology nexus, spearhea
 
 In our contemporary financial landscape, the reliance on technology-driven solutions is paramount. Herein lies the pronounced relevance of quant developers. As markets evolve at breakneck speeds, financial strategies require continuous refinement, and quant developers ensure that these strategies are underpinned by accurate, reliable algorithms. The rapid ascendancy of algorithmic trading, high-frequency trading (HFT), and the growing FinTech and decentralized finance (DeFi) domains further amplify their significance. Their expertise not only fortifies the technological underbelly of traditional financial institutions but also empowers disruptive start-ups aiming to redefine the contours of the financial sector. As we navigate the multifaceted ecosystem of modern finance, the indelible impact and escalating prominence of quant developers remain clear and undeniable.
 
+## Table of Contents
+
 ## Comprehensive Understanding of a Quant Developer
 
 ### Definition & Role

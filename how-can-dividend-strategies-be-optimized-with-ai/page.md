@@ -9,6 +9,8 @@ Dividends, which represent a share of a company's profits distributed to its sha
 
 
 
+## Table of Contents
+
 ## Dividend policy prediction
 
 Thanks to machine learning, a branch of AI, it is now possible to analyze years of financial data and detect trends in companies' dividend policies :

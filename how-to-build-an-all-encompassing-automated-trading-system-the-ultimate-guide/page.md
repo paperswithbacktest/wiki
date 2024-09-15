@@ -12,6 +12,8 @@ Automated trading systems, often hailed as the bedrock of today's financial mark
 In an environment defined by its volatility and dynamism, the agility and reliability of automated systems have made them an essential tool for institutional and retail traders alike. As we delve deeper into this guide, we'll unravel the intricacies of automated trading systems, their components, and their profound influence on the modern trading ecosystem.
 
 
+## Table of Contents
+
 ## Unraveling Automated Trading: A Deep Dive
 
 Automated trading, in its most basic form, refers to the utilization of computer systems and software to execute trades based on predefined criteria without the need for human intervention. The significance of such a system lies in its ability to process vast amounts of data at high speeds and execute trades in fractions of a second, giving it a distinct edge over manual trading. In the modern trading world, where milliseconds can mean the difference between profit and loss, the importance of automated systems cannot be overstated.

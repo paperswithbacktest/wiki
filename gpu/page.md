@@ -7,6 +7,8 @@ description: Discover the crucial role of GPUs in algorithmic trading, from thei
 
 The GPU (Graphics Processing Unit), once primarily associated with display and graphic design, has become a major pillar of artificial intelligence (AI) and quantitative trading. Why is this graphics processing unit so essential to algo trading? What is the link between a component originally designed for image rendering and the complex world of financial markets? In this article, we reveal the crucial role of the GPU in advanced algorithmic trading strategies.
 
+## Table of Contents
+
 ## What is a GPU?
 
 A GPU (Graphics Processing Unit) is a specialized type of microprocessor designed primarily for the rapid rendering of images for display. In simple terms, it's the beating heart that brings our video games, movies and animations to life. But beyond its graphic functions, it plays a major role in AI and algo trading.

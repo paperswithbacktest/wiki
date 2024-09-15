@@ -7,6 +7,8 @@ description: Discover the intersection of Reinforcement Learning and Algo Tradin
 
 At the intersection of artificial intelligence and quantitative trading lies Reinforcement Learning. This decision-oriented machine learning paradigm lends itself naturally to the complexities and challenges of the financial market. Let's dive into the vast world of Reinforcement Learning and its application to algo trading.
 
+## Table of Contents
+
 ## Understanding Reinforcement Learning
 
 Reinforcement learning works on a simple principle: an agent (e.g., an algorithm) makes decisions, and for each action it receives either a reward or a penalty. Based on this feedback, the agent refines its future choices with the aim of increasing its cumulative reward.

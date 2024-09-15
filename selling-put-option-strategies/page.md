@@ -9,6 +9,8 @@ Put options grant investors the right, but not the obligation, to sell a specifi
 
 Investors sell put options for various strategic reasons. Some may sell puts on securities they consider undervalued, using the strategy as a means to potentially buy the underlying asset at a lower price while earning premium income. Others may sell puts to capitalize on securities they believe will remain flat or rise over time, thus allowing them to profit from the premium when the option expires worthless. This approach can be particularly appealing in low-volatility environments where the likelihood of significant downturns in the option’s underlying asset is deemed low.
 
+## Table of Contents
+
 ## Put Options Basics
 
 Put options are contracts that give the holder the right to sell a specified quantity of an underlying asset at a predetermined price (strike price) before the option expires. For instance, if an investor anticipates a stock's price to decline, they may buy a put option to sell the stock at today's higher price, protecting against losses. Conversely, selling a put option implies that the seller is obligated to buy the stock at the strike price if the buyer decides to sell it.

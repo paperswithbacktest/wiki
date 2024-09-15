@@ -8,6 +8,8 @@ description: "Discover how to implement and maintain a market-neutral strategy i
 In the investment world, a market-neutral strategy is designed to generate returns independently of general market trends. It aims to neutralize market exposure by balancing long and short positions. In this article, we'll explore how a market-neutral strategy can optimize returns while minimizing the risks associated with market movements.
 
 
+## Table of Contents
+
 ## Understanding the concept of a market-neutral strategy
 
 Before implementing a market-neutral strategy, it's essential to understand what it means. Such a strategy seeks to eliminate the systematic risk associated with general market movements. This is often achieved by having a net exposure equal to zero.

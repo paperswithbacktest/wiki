@@ -7,6 +7,8 @@ description: Discover the concept of Trading Earnings, its impact on markets, an
 
 One of the most scrutinized opportunities for traders is that linked to earnings announcements. In this article, we'll explore the concept of "Trading Earnings", its importance, and the associated strategies for maximizing profits in the context of algorithmic trading. 
 
+## Table of Contents
+
 ## What is Trading Earnings?
 
 Trading Earnings" refers to trading based on corporate earnings announcements. These announcements, which generally occur every quarter in the USA, can lead to significant volatility in share prices. Traders, armed with quantitative strategies, seek to capitalize on these price movements before, during, and after the announcement.

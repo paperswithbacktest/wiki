@@ -13,6 +13,8 @@ Tracing its roots back to the late 20th century, the evolution of quantitative t
 
 With the traditional numerical data sources becoming more efficient and hence less profitable due to the intense competition, quants are turning towards unconventional data. From satellite imagery to track agricultural production, to natural language processing for news articles and financial reports, these new datasets are creating unprecedented opportunities for innovative trading strategies. This is not just a fringe movement but a pivotal shift as traders seek an advantage in a hyper-competitive arena where traditional methods are reaching their limits.
 
+## Table of Contents
+
 ## Foundations of Quantitative Trading
 
 The philosophy behind quantitative trading is rooted in the belief that accurate mathematical models can predict market behavior more reliably than human intuition. This philosophy leans heavily on the law of large numbers and the belief that price patterns and market behaviors are not random but can be deconstructed and forecasted using historical data. The key is the transformation of subjective judgments into objective measures, grounded in statistical evidence and historical precedent.

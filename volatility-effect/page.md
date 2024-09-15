@@ -7,6 +7,8 @@ description: Explore the Volatility Effect, a market anomaly that offers high ri
 
 One of the market anomalies that has attracted growing interest is the **volatility effect**. In this article, we'll explore this phenomenon, how it fits into the vast world of **algo trading**, and why it's crucial for traders looking to develop algorithmic trading strategies.
 
+## Table of Contents
+
 ## What is the Volatility Effect?
 
 The Volatility Effect is a market anomaly that shows that low-volatility stocks offer high risk-adjusted returns. Specifically, low-risk stocks outperform the market portfolio, while high-risk stocks underperform on a risk-adjusted basis. This observation runs counter to traditional financial theory, according to which higher risk should be associated with potentially higher returns.

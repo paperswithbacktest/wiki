@@ -8,6 +8,8 @@ description: "Discover tools and methods for monitoring and managing transaction
 Monitoring and managing **transaction costs** are essential to optimizing the performance of a trading strategy. Fortunately, there are a number of tools and techniques that can help quantify, analyze, and reduce these costs. Here are some recommended tools and methods for effectively managing transaction costs.
 
 
+## Table of Contents
+
 ## Tools for monitoring and managing transaction costs
 
 1. **Order Management Systems (OMS)**: These systems provide a complete view of past, current, and future orders. They also monitor the costs associated with each transaction.

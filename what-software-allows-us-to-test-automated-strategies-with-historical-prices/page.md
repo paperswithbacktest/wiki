@@ -6,6 +6,8 @@ description: "Discover the top platforms for backtesting and automated trading, 
 
 
 
+## Table of Contents
+
 ## MetaTrader 4 & 5 (MT4/MT5)
 
 - **Description**: These are among the world's most popular trading platforms, mainly focused on Forex. They feature a development environment called MetaEditor for coding automated strategies called Expert Advisors (EAs).

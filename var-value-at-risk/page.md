@@ -15,6 +15,8 @@ While there are various methods and tools to compute VaR, Python has emerged as 
 
 In this guide, we will deep dive deep into the world of VaR, exploring its nuances, calculation methods, and real-world applications, all through the lens of Python.
 
+## Table of Contents
+
 ## Understanding Value at Risk (VaR)
 
 Value at Risk (VaR) is a risk management tool widely used in the finance industry to measure the potential loss in value of a risky financial portfolio over a specific time period for a given confidence interval. Formally, if we say the VaR of a portfolio over one day is $1 million at the 95% confidence level, it means there is a 5% chance that the portfolio will fall in value by more than $1 million over a one-day period if there is no trading.

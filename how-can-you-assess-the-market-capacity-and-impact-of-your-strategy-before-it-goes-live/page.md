@@ -8,6 +8,8 @@ description: "Ensure your trading strategy is market-ready by assessing its capa
 Before going live with a trading strategy, it's crucial to assess its market capacity (how much capital it can handle without compromising returns) and its potential impact on traded asset prices. This assessment is fundamental to avoiding problems such as the degradation of returns due to excessive capacity or a negative influence on market prices. Here's how to do it.
 
 
+## Table of Contents
+
 ## Trading simulation (backtesting)
 
 Start by simulating your strategy on historical data to understand how it would have performed under various market conditions. During this simulation, pay attention to your strategy's trading volumes in relation to total market volumes.

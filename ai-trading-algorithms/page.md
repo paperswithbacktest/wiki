@@ -17,6 +17,8 @@ The financial landscape is increasingly embracing AI trading algorithms, acknowl
 
 This article aims to unfold the intricate layers of AI trading algorithms, providing a clear, nuanced understanding of their mechanics and potential. It will demystify the science behind the systems and explore the strategies that are revolutionizing trading.
 
+## Table of Contents
+
 ## Understanding AI Trading Algorithms
 
 AI trading algorithms represent the zenith of computational finance, where machines imbued with artificial intelligence (AI) are programmed to carry out trading on financial markets. Unlike traditional algorithms that follow a set of static pre-defined rules, AI algorithms boast the ability to learn from data, identify patterns, adapt to new conditions, and make decisions with minimal human intervention.

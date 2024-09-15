@@ -7,6 +7,8 @@ description: Earnings announcements significantly impact financial markets and p
 
 Earnings announcements play a key role in financial market dynamics. These announcements, often eagerly awaited by investors, can significantly influence share prices. In quantitative trading, the impact of these announcements is of crucial importance.
 
+## Table of Contents
+
 ## What is an Earnings Announcement?
 
 An earnings announcement is an official statement of a company's profitability for a given period, usually a quarter or a year. These announcements are regulated by the Securities and Exchange Commission (SEC) to ensure their accuracy. They are preceded by estimates made by market analysts. These estimates can fluctuate in the run-up to the announcement, influencing the share price.

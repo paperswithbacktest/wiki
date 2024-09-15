@@ -13,6 +13,8 @@ The convergence of ML with trading strategies has catapulted the latter into a r
 
 ML in trading isn’t just a tool; it’s gradually becoming an essential companion, facilitating smarter, data-driven decisions that have the potential to amplify profits and minimize losses in this digital trading era.
 
+## Table of Contents
+
 ## The Symbiosis of Machine Learning and Trading
 
 Traditional trading methodologies often rely on static models based on historical data. In contrast, ML models dynamically adjust themselves by deciphering patterns and anomalies in real-time[4]. This continuous learning enables trading strategies to remain relevant even as market conditions evolve, ensuring traders can adapt to new data streams and changing market behaviors swiftly.

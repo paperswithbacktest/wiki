@@ -7,6 +7,8 @@ description: Discover how multimodal models are revolutionizing algo trading by 
 
 With the rise of artificial intelligence (AI) in the financial sector, one capability is increasingly coming to the fore: multimodal models. These models, capable of processing several types of data simultaneously, are revolutionizing the world of algo trading. In this article, we'll define what a multimodal model is and explore its impact on algorithmic trading.
 
+## Table of Contents
+
 ## What is a multimodal model?
 
 A multimodal model is, by definition, capable of managing and understanding several types of data simultaneously, such as images and text. Imagine a system capable of analyzing both financial information in the form of figures and relevant news in the form of text. That's the power of multimodal.

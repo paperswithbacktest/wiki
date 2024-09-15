@@ -14,6 +14,8 @@ Arbitrage is a fundamental concept in the world of finance and trading. In the c
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## Definition of Arbitrage
 
 Arbitrage is traditionally defined as the simultaneous buying and selling of an asset at two different prices in two different markets, resulting in a risk-free profit. In an efficient market, there should be no significant arbitrage opportunities. In reality, true arbitrage opportunities are rare, but many arbitrage-like strategies are widely used.

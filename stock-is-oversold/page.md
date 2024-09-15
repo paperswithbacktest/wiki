@@ -11,6 +11,8 @@ The identification of oversold stocks is crucial for traders and investors alike
 
 Understanding what makes a stock oversold is not just about recognizing a dip in price. It involves a comprehensive analysis of market trends, trading volumes, historical performance, and broader economic indicators. It's a key component of a balanced trading strategy, helping investors mitigate risks and capitalize on market inefficiencies. Recognizing and acting upon oversold conditions can be a game-changer in the dynamic environment of stock trading and investing. 
 
+## Table of Contents
+
 ## Understanding Oversold Stocks
 
 ### Fundamentally Oversold

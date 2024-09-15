@@ -7,6 +7,8 @@ description: Discover the potential impact of the Singularity on algorithmic tra
 
 The Singularity, widely discussed in the world of artificial intelligence, evokes a potentially near future where technological growth could become uncontrollable and irreversible, leading to radical transformations for our society. This unprecedented acceleration could have revolutionary consequences for algorithmic trading and shake up the financial sector as a whole.
 
+## Table of Contents
+
 ## Potential and risks of trading in the age of the singularity
 
 If this vision of the future comes true, algorithmic trading could undergo a major transformation. Algorithms could become so sophisticated that they operate entirely autonomously, without human intervention. Armed with unrivalled computing power, these algorithms could predict market trends with unprecedented accuracy, making bubbles and crashes almost obsolete.

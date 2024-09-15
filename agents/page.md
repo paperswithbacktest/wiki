@@ -9,6 +9,8 @@ The world of trading is constantly evolving. The emergence of blockchain technol
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## What is an agent?
 
 In the IT world, an agent is software capable of performing certain tasks autonomously and proactively, without the need for human intervention. Often, an agent is equipped with a range of tools such as calculators or web browsers. In the context of algo trading, the agent is much more than just software; it becomes a real market player.

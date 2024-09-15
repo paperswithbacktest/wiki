@@ -11,6 +11,8 @@ The synergy between swing trading and options is potent. Options provide swing t
 
 To hook you into the potential of swing trading with options, consider this: a study by the Chicago Board Options Exchange found that the BuyWrite index, a proxy for option trading strategies, outperformed the Standard & Poor's 500 index by an average of 2.6% per year from 1986 to 2006. This superior performance underscores the strategic edge that options can provide in swing trading scenarios. Add to this the success story of a seasoned swing trader who turned a modest $5,000 into $15,000 in just 90 days by astutely leveraging options during a particularly volatile earnings season, and the possibilities within options swing trading become vividly clear. While such results are not guaranteed and involve significant risk, they illustrate the potential when combining the precision of swing trading with the power of options[1].
 
+## Table of Contents
+
 ## The Essence of Swing Trading in Options
 
 At its heart, swing trading with options is about capturing profit from market momentum within a finite window, leveraging the power of options to amplify gains while managing risk. This trading discipline requires a blend of technical analysis, market sentiment reading, and the strategic use of options to exploit short-term price movements.

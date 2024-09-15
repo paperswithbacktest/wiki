@@ -7,6 +7,8 @@ description: Discover the intricacies of short selling, a strategy used in algor
 
 Short selling is one of the most intriguing and often misunderstood strategies in the trading world. Although it may seem counter-intuitive to some, it offers unique opportunities for those who know how to use it correctly, especially in the context of **algo trading**. Let's deep dive into this concept and discover how it can be used to maximize profits in algorithmic trading.
 
+## Table of Contents
+
 ## What is short selling?
 
 Short selling is the sale of an asset, usually securities, that the seller does not own. This sale is made possible by borrowing the asset and selling it on the market. The aim is to buy the asset later at a lower price to make a profit. If the price of the asset rises after the sale, the seller suffers a loss.

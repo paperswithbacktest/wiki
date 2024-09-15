@@ -7,6 +7,8 @@ description: Discover how Sector Picking, an investment strategy used in algorit
 
 Algorithmic and quantitative trading is based on the use of mathematical models and historical data to make investment decisions. At the heart of this discipline is the "Sector Picking" strategy. In this article, we will deep dive into the intricacies of Sector Picking and explore how it is used in the context of **algo trading**.
 
+## Table of Contents
+
 ## What is Sector Picking?
 
 Sector Picking is an investment strategy that aims to identify specific economic sectors and sub-sectors (industries) that are expected to outperform, and to invest in strong companies within these sectors. It's a way of capitalizing on market shifts caused by changing business conditions and investor attention.

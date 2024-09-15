@@ -8,6 +8,8 @@ description: "Discover how spread trading, a popular technique in quantitative t
 Spread trading is a common approach in quantitative trading. It involves taking opposite positions in two related assets, with the aim of profiting from the convergence or divergence of their values. Spread trading is often used in commodity, equity, interest rate and currency markets. Let's take a closer look at how spread trading works in the context of quantitative trading.
 
 
+## Table of Contents
+
 ## How spread trading works in quantitative trading
 
 1. **Identifying the relationship**: Before engaging in spread trading, a quantitative trader must identify a historical relationship between two assets. For example, two companies in the same sector might have stocks that generally move together.

@@ -9,6 +9,8 @@ Bayesian Statistics is a branch of statistics based on the Bayesian probability 
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## Brief Overview of Bayesian Statistics
 
 Bayesian statistics is founded on the principle that probability represents a degree of belief or certainty in an event or hypothesis. This belief can be updated with new data. The core idea is simple: start with an initial belief (called the "prior"), gather new data (observed evidence), and then update the belief to form a new and improved belief (called the "posterior").

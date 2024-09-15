@@ -8,6 +8,8 @@ description: "Explore how traders leverage reinforcement learning, a machine lea
 Artificial intelligence (AI) has revolutionized the financial sector, providing traders with powerful tools to optimize their strategies. One of the most exciting areas of AI applied to trading is reinforcement learning. In this article, we'll explore how traders are using reinforcement learning in AI for algorithmic trading.
 
 
+## Table of Contents
+
 ## What is Reinforcement Learning?
 
 Reinforcement learning is a machine learning method where an agent learns to act in an environment to maximize a cumulative reward. The agent makes decisions, receives rewards or penalties based on these decisions, and then adjusts its actions to increase future rewards.

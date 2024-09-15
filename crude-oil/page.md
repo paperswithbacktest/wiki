@@ -13,6 +13,8 @@ The purpose of this article is to provide an in-depth exploration of crude oil t
 
 The article will also cover a range of trading strategies tailored specifically to the crude oil market. These strategies will be dissected step-by-step, from fundamental analysis approaches that consider global geopolitical and economic factors, to technical analysis strategies that focus on market data and trends. Additionally, we'll discuss the crucial aspects of market sentiment and its impact on crude oil prices, and emphasize the importance of risk management in trading this volatile commodity.
 
+## Table of Contents
+
 ## Understanding Crude Oil
 
 Crude oil, often referred to as "black gold," is a naturally occurring, unrefined petroleum product composed of hydrocarbon deposits and other organic materials. As a commodity, it is extracted from the earth and refined into various products like gasoline, diesel, petrochemicals, and other essential materials. Crude oil is classified based on its geographical origin (like Brent or West Texas Intermediate) and its physical characteristics (such as density and sulfur content).

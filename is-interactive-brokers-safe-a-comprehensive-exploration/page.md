@@ -12,6 +12,8 @@ The brokerage industry, especially the online sector, has witnessed a surge in a
 For many, the trustworthiness of a broker hinges on its longevity, regulatory adherence, and financial stability. In the era of digital trading, it also significantly rests upon the technological fortitude of the platform against cyber threats. Interactive Brokers, with its long-standing history and commitment to client safety, often finds itself at the center of such discussions. But to genuinely understand the security measures at IBKR and their effectiveness, a deeper exploration into the fabric of the firm is essential.
 
 
+## Table of Contents
+
 ## Understanding the Interactive Brokers Business Model
 
 Interactive Brokers operates primarily as an electronic broker, focusing on catering to professional traders, institutions, and active investors. One of its unique selling propositions is its direct market access to stocks, options, futures, forex, bonds, and funds from a single integrated account, spanning over 135 markets in 33 countries[1].

@@ -18,6 +18,8 @@ Alternative data refers to non-traditional data sources that traders use to gain
 
 The rise of alternative data is indicative of a broader shift in the financial sector, where innovative approaches and tools are consistently being sought after to enhance decision-making and generate alpha. As the landscape of algorithmic trading evolves, the fusion of traditional trading strategies with insights derived from alternative data is setting the stage for the next generation of trading.
 
+## Table of Contents
+
 ## Types of Alternative Data in Algo Trading
 
 Alternative data, an untraditional data source employed within algorithmic trading, is widely recognized for providing nuanced, timely, and sometimes unexplored insights, ultimately enhancing trading strategies and investment decisions. Below we deep dive into specific types of alternative data, illustrating their utility and importance within algo trading.

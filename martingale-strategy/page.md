@@ -11,6 +11,8 @@ Tracing back to 18th century France, the term "martingale" originally referred t
 
 While no definitive origin has been pinpointed, the strategy's development is often linked to John Henry Martindale, a casino owner in London who encouraged players to double their bets after a loss in the 1700s, albeit the spelling of his name differs slightly. The strategy’s mathematical foundation, often associated with the concept of mean reversion, posits that asset prices and historical returns will revert to the long-term average or mean.
 
+## Table of Contents
+
 ## Understanding the Martingale Strategy
 
 The Martingale Strategy is a progressive betting system that involves doubling the stake after each loss, with the expectation that an eventual win will recover all previous losses and achieve a profit equal to the original bet. It operates on the premise that results, such as a coin flip, will eventually balance out.

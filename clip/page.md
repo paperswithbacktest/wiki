@@ -7,6 +7,8 @@ The world of quantitative trading is constantly evolving. With the emergence of 
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## What is CLIP?
 
 Developed by OpenAI, **CLIP** is an AI model that bridges the gap between images and text. Instead of being trained in the traditional way, CLIP is pre-trained contrastively between texts and images, enabling it not only to understand and generate descriptions for images, but also to recognize image content from a textual description.

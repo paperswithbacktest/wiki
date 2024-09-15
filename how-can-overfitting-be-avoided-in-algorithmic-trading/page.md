@@ -7,6 +7,8 @@ description: "Learn how to avoid overfitting in algorithmic trading and ensure t
 
 Overfitting is one of the most common pitfalls in algorithmic trading. It occurs when the algorithm is so well adapted to historical data that it loses its ability to operate effectively on new data or in unexpected market conditions. Here's how to avoid overfitting in algorithmic trading and ensure optimum robustness and reliability for your strategies.
 
+## Table of Contents
+
 ## Data splitting
 
 Divide your data set into three subsets:

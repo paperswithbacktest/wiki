@@ -9,6 +9,8 @@ Tactical Asset Allocation (TAA) is a dynamic investment strategy designed to cap
 
 Whereas SAA might be likened to a steady, long-term course set for a ship, TAA is akin to making calculated navigational changes to take advantage of favorable winds and currents. The core objective of TAA is to overperform passive benchmarks by systematically identifying and acting on economic and market indicators. This may involve shifting from equities to fixed income, changing sectoral exposures, or adjusting geographic weightings. The agility of TAA can be particularly advantageous during periods of market volatility, as it offers a mechanism to potentially reduce losses and even improve gains by exploiting price movements.
 
+## Table of Contents
+
 ## The Principles of TAA
 
 The essence of TAA is its ability to adjust a portfolio’s asset allocation to not only improve returns but also optimize them for risk — a concept known as improving the risk-adjusted returns. This dynamic adjustment is what sets TAA apart from passive management investing, which typically adheres to a static allocation strategy. By actively monitoring and responding to market conditions, TAA allows for the flexibility to shift investment weightings towards asset classes that are expected to outperform and away from those that are expected to underperform. For example, during a market downturn, TAA might increase the weight of fixed-income assets in a portfolio, and conversely, during an equity bull market, it might lean more heavily towards stocks.

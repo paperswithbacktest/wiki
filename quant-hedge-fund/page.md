@@ -9,6 +9,8 @@ A quantitative (quant) hedge fund is a type of investment fund that relies prima
 
 The evolution of quant hedge funds has been marked by rapid growth and innovation, particularly with advancements in computing power and data analytics. Originating in the late 20th century, these funds have significantly evolved from basic statistical models to sophisticated algorithms that incorporate machine learning and artificial intelligence. This evolution has been driven by a combination of technological progress and an increasing amount of available financial data. Today, quant hedge funds represent a significant and influential segment of the hedge fund industry, continuously pushing the boundaries of finance and technology.
 
+## Table of Contents
+
 ## Understanding Quant Hedge Funds
 
 ### How Quant Hedge Funds Work

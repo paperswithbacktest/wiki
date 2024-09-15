@@ -11,6 +11,8 @@ While they might seem different, algorithmic trading and global macro strategies
 
 This article will explore the world of algorithmic trading within global macro strategies. We'll look at its history, how it works, and real-world examples. We'll also discuss tools, platforms, and what the future might hold. With real code examples, detailed math, and many practical examples, this article aims to provide a deep understanding of these trading methods for both new and experienced traders. Get ready for an in-depth look at the intersection of technology and global economic trading strategies.
 
+## Table of Contents
+
 ## Evolution of Algorithmic Trading in Global Macro Strategy
 
 Algorithmic trading and global macro strategy have a long history in financial markets. They show how trading practices have improved over the years. Algorithmic trading started in the 1970s with computers being used to show stock prices and manage orders. By the late 1980s, pioneers like Thomas Peterffy began to automate trading, making it more efficient.

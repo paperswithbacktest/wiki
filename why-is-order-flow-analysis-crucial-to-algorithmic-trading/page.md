@@ -8,6 +8,8 @@ description: "Discover the importance of order flow analysis in algorithmic trad
 In the complex ecosystem of financial markets, every piece of information can serve as a compass to guide investment decisions. Order flow analysis is one such element, often deemed essential, especially in the context of algorithmic trading. But why exactly is order flow analysis so crucial to algorithmic trading? Let's take a closer look.
 
 
+## Table of Contents
+
 ## What is order flow analysis?
 
 Order flow analysis refers to the study of buy and sell orders in the market to deduce the potential intentions of market players. It focuses not only on the volume of orders, but also on their type (buy, sell, limit, market, etc.) and their location in relation to the current order book.

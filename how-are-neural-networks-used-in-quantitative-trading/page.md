@@ -8,6 +8,8 @@ description: "Discover how neural networks, a type of artificial intelligence mo
 Financial markets, with their vast amounts of data and complex dynamics, have always been fertile ground for the adoption of advanced technologies. Among these, neural networks, part of artificial intelligence, have gained in popularity. But how exactly are neural networks used in quantitative trading? Let's dive into this fascinating world.
 
 
+## Table of Contents
+
 ## What is a neural network?
 
 A neural network is a model inspired by the workings of the human brain. Composed of interconnected units, or neurons, it is capable of learning and making decisions from large quantities of data.

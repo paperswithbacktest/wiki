@@ -11,6 +11,8 @@ In recent years, market neutral strategies have gained increasing popularity amo
 
 The growing interest in market neutral strategies can be attributed to several factors. Firstly, they offer an alternative to traditional investment approaches, which are often heavily reliant on market trends. Secondly, the advancement of financial technologies and analytics has made it easier for investors and fund managers to implement complex strategies that require balancing long and short positions effectively. Finally, in an era marked by rapid shifts in economic landscapes and investor sentiment, market neutral strategies provide a semblance of stability, aiming to deliver steady returns regardless of market conditions.
 
+## Table of Contents
+
 ## Understanding Market Neutral Strategies
 
 Market neutral strategies are designed to minimize exposure to general market movements, focusing instead on generating returns from the relative performance of different assets. The conceptual framework of these strategies is grounded in the idea of balancing investment positions to negate the influence of market fluctuations on the overall portfolio.

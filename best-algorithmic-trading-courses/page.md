@@ -13,6 +13,8 @@ With markets becoming more competitive and technology constantly evolving, being
 
 Quality education in algorithmic trading equips learners with the ability to comprehend, develop, and enhance automated trading strategies, optimizing them for the volatile and dynamic global markets. Thus, in the complex and rapidly evolving world of financial trading, enrolling in a comprehensive algorithmic trading course becomes imperative for anyone looking to gain a foothold in this niche yet impactful domain.
 
+## Table of Contents
+
 ## Key Components of an Ideal Algorithmic Trading Course
 
 In the intricate realm of algorithmic trading, the ideal course is not merely a compilation of theories but a cohesive blend of various essential components, ensuring learners gain both knowledge and practical skills. Here are the key elements to look for when selecting a course:

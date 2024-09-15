@@ -9,6 +9,8 @@ Bond timing is the art of anticipating the best time to buy or sell bonds, not b
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## Factors Affecting Bond Prices
 
 - **Interest rates**: Changes in bond prices are inversely related to changes in interest rates.

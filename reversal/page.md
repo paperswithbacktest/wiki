@@ -7,6 +7,8 @@ description: Discover the Reversal effect in Algo Trading, a phenomenon where as
 
 The Reversal Effect refers to the phenomenon where asset prices temporarily exceed their intrinsic values before returning to equilibrium. In other words, it's a tendency for financial markets to overreact to new information, leading to price anomalies which are then corrected.
 
+## Table of Contents
+
 ## Reversal strategy: how does it work?
 
 A typical Reversal strategy involves building a portfolio of different stocks, taking long positions on recent losers and short positions on recent winners. The idea is that prices will revert to their historical average, allowing profits to be made. This reversion to the mean can be exploited over different periods, from one day to several months.

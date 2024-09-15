@@ -18,6 +18,8 @@ Arbitrage, in the realm of trading, refers to the simultaneous purchase and sale
 
 The roots of arbitrage trading trace back to ancient times when traders exploited price differences in goods across different markets. However, its evolution into a sophisticated financial strategy began in the early 20th century. The introduction of computer technology and advanced financial models in the latter half of the 20th century further revolutionized arbitrage trading. These advancements enabled traders to quickly identify and exploit price differences in complex financial instruments across global markets. Today, arbitrage is a common strategy employed by hedge funds and institutional traders, leveraging high-speed computing and data analysis tools to capture fleeting price discrepancies.
 
+## Table of Contents
+
 ## Understanding Arbitrage Trading
 
 Arbitrage trading is a strategy where a trader simultaneously buys and sells the same asset in different markets to exploit price differences for profit. This practice, based on the principle of buying low and selling high, takes advantage of inefficiencies in markets where the same asset may have varying prices. The fundamental concept behind arbitrage is the law of one price, which posits that in an efficient market, identical assets should uniformly be priced. However, due to factors like varying market liquidity, transaction costs, and information asymmetry, price discrepancies arise, enabling arbitrage opportunities.

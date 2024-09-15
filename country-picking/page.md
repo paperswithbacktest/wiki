@@ -17,6 +17,8 @@ Asset classes within the same country show high correlation due to underlying fu
 
 A good way of doing country picking is through ETFs. Indeed, investing directly in the debt or equities of individual companies is often more expensive than a country- or economy-specific index product, such as a country ETF. Country ETFs offer a high correlation with individual assets and lower transaction costs, making them attractive to investors. 
 
+## Table of Contents
+
 ## Anomalies and Country Selection Strategies
 
 Several studies have highlighted country selection strategies for international investors. These strategies are often parallels of effects and anomalies previously discovered in equities. 

@@ -7,6 +7,8 @@ description: Discover how the Transformer architecture, with its self-attention 
 
 In the constantly evolving panorama of artificial intelligence (AI), the *Transformer* architecture is emerging as a crucial innovation, particularly in the field of automatic natural language processing (NLP). Its self-attention mechanism distinguishes Transformer-based models from previous architectures. For those seeking to master and develop algorithmic trading strategies, understanding the Transformer is essential.
 
+## Table of Contents
+
 ## What is the Transformer architecture?
 
 The Transformer architecture, first introduced in 2017, has rapidly become the standard for NLP tasks. Characterized by its self-attention mechanism, it enables models to weigh up the relative importance of different inputs, making it easier to capture long-term dependencies in data.

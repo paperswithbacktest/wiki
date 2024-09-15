@@ -25,6 +25,8 @@ Historically, the name "hedge fund" derived from the funds' strategy to hedge ag
 Their significance in the financial sector is multifold. Not only do they offer a means for sophisticated investors to achieve uncorrelated returns, but they also contribute to market efficiency, liquidity, and price discovery. Furthermore, hedge funds have been central in various historical financial events, both as stabilizing and destabilizing agents, underlining their influential position in the global financial ecosystem[2].
 
 
+## Table of Contents
+
 ## Demystifying Hedge Funds
 
 Hedge funds, mutual funds, and other investment vehicles serve as conduits for pooling investor money, but each possesses distinct characteristics and purposes in the financial landscape.

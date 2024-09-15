@@ -7,6 +7,8 @@ description: Explore the complex world of fund picking in algo trading and its i
 
 The world of quantitative trading is vast and rich in opportunities for sophisticated investors. One strategy that is attracting a lot of attention is fund picking. In this article, we'll explore this strategy, its importance in algo trading, and how it can be used to enhance returns.
 
+## Table of Contents
+
 ## Introduction to fund picking
 
 Fund selection is the process of choosing the right mix of asset classes based on expected risk and return characteristics over the holding period. Historically, past fund performance has been used to predict future returns. However, this approach has been shown to be fraught with pitfalls.

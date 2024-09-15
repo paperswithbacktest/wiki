@@ -11,6 +11,8 @@ The significance of the WTI-Brent Spread lies in its ability to indicate the hea
 
 Understanding the nuances of this spread is essential for trading strategies as it influences futures contracts and options pricing in the oil markets. Furthermore, the spread's volatility offers a fertile ground for arbitrage opportunities, enabling traders to profit from price discrepancies between these two major crude benchmarks.
 
+## Table of Contents
+
 ## Understanding WTI and Brent Crude
 
 West Texas Intermediate (WTI) crude is a light and sweet oil stream produced in North America, primarily extracted from oil fields in Texas, Louisiana, and North Dakota. Its low density and sulfur content make it ideal for refining into gasoline and diesel. As a benchmark, WTI is used to price oil predominantly consumed in the Americas.

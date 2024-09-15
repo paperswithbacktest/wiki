@@ -13,6 +13,8 @@ Understanding Simons' trading strategies is not merely an exercise in academic c
 
 For anyone aspiring to grasp the intricacies of the financial market or seeking to comprehend the transformative power of quantitative analysis in trading, Simons' journey and strategies present a masterclass in innovation and forward-thinking.
 
+## Table of Contents
+
 ## Early Life and Background
 
 ![Jim-Simons.jpeg](images/Jim-Simons.jpeg)

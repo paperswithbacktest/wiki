@@ -11,6 +11,8 @@ Fast forward to today, quantitative trading occupies a dominant position in the 
 
 In a world characterized by rapid information flow and the paramount importance of data, the approach of quantitative trading — data-driven, logical, and systematic — aligns seamlessly with the zeitgeist of our times.
 
+## Table of Contents
+
 ## Defining Quantitative Trading
 
 Quantitative trading is a methodical approach to financial market trading that leverages mathematical and statistical models. At its core, it seeks to harness the power of data, enabling traders to make decisions based on empirical evidence rather than relying on intuition or subjective judgment. It's a discipline that prioritizes objectivity, systematizing the trading process to enhance consistency and scalability.

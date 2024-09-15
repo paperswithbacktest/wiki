@@ -13,6 +13,8 @@ Undertaking a profound comprehension and implementation of momentum in algo trad
 
 This article is crafted to explore the multifold aspects of momentum in algo trading, aspiring to enlighten both novice and seasoned traders on its intricate dynamics, historical evolution, practical implementations, and future trajectories.
 
+## Table of Contents
+
 ## An In-depth Exploration of Momentum Trading
 
 Momentum, a term borrowed from physics, refers to the quantity of motion an object has. In physics, momentum is often described as the product of an object's mass and velocity. Just as an object in motion tends to stay in motion unless acted upon by an external force, in the world of finance, momentum signifies a trend's strength and its likelihood to continue on its current course.

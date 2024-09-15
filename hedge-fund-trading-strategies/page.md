@@ -11,6 +11,8 @@ Hedge fund trading strategies are diverse and sophisticated, designed to generat
 
 Each strategy has its unique approach, risk profile, and market dependency, allowing hedge funds to operate in both rising and falling markets. This flexibility is a key characteristic of hedge funds, distinguishing them from other investment vehicles. Understanding these strategies is crucial for investors considering hedge fund investments, as it not only provides insight into how these funds operate but also helps in evaluating their potential role in a diversified investment portfolio.
 
+## Table of Contents
+
 ## Core Hedge Fund Strategies
 
 ### Long/Short Equity Strategy

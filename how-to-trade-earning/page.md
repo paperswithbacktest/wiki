@@ -12,6 +12,8 @@ Earnings season, occurring quarterly, is a period when a majority of publicly tr
 Trading earnings effectively requires a nuanced understanding of not just the numbers reported but also the expectations set by market analysts and the strategic positioning of trades before and after the earnings are released. The ability to interpret the implications of earnings figures and forecast their impact on stock prices is what separates seasoned traders from the rest.
 
 
+## Table of Contents
+
 ## Understanding Earnings and Their Market Impact
 
 Earnings reports are the financial scorecards for companies, providing a summary of how much revenue and profit were generated over a specific period, typically a quarter. These reports are crucial for stakeholders as they reflect the company's performance and future potential. For investors and analysts, earnings are a measure of a company's success against market expectations and its own forecasts.

@@ -9,6 +9,8 @@ The accruals effect is a central concept in quantitative trading. This investmen
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## What is the accruals effect?
 
 The accrual effect refers to a stock selection strategy based on accrual information. An accrual is an accounting entry relating to the recording of a revenue or expense paid without any exchange of cash. To illustrate, let's take the example of a utility company that supplies electricity in December, but only invoices its customers in January after the meters have been read. For the financial statements to reflect the appropriate amounts, an adjusting entry is required to increase the revenue earned in December.

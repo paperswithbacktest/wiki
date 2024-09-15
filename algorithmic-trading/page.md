@@ -15,6 +15,8 @@ In contemporary financial markets, algorithmic trading has carved a niche for it
 
 The significance of algorithmic trading extends beyond mere transactional efficiencies. It reshapes market dynamics, influences liquidity, impacts price discovery, and can even be a factor in the propagation of rapid market movements. As we deep dive deeper into the realm of algo trading in the subsequent sections, it's crucial to appreciate its transformative impact on modern finance: creating a bridge between intricate mathematical models and real-world market events, all unfolding at speeds that were once deemed unimaginable.
 
+## Table of Contents
+
 ## Evolution of Algorithmic Trading
 
 The journey of algorithmic trading is deeply intertwined with technological evolution and the relentless pursuit of financial efficiency. In the early stages, the late 1960s and 1970s, rudimentary computerized systems initiated the automation of order flow. One of the pioneering efforts was the New York Stock Exchange's "Designated Order Turnaround" system, which electronically routed orders to the appropriate trading post[1].

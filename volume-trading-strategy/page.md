@@ -11,6 +11,8 @@ While momentum strategies prioritize price changes, volume trading strategies co
 
 Innovations in volume trading are continuously emerging, with advances in technology allowing for more sophisticated analysis. For instance, algorithmic trading now incorporates volume as a core variable, enhancing the accuracy of trade execution and strategy backtesting. Moreover, the development of volume-based indicators such as the Volume-weighted Average Price (VWAP) and the Money Flow Index (MFI) has equipped traders with more nuanced tools to interpret market dynamics. 
 
+## Table of Contents
+
 ## The Essence of Trading Volume
 
 Trading volume, the total number of shares or contracts traded within a given timeframe, is a powerful indicator that provides insights beyond mere price movements. It serves as a thermometer for the vibrancy of the market, offering clues about the strength of a price trend and the conviction behind market moves. High trading volumes can signal strong agreement among traders about the price at which they are willing to buy or sell, often reinforcing the current price trend. Conversely, low volume may indicate uncertainty or a lack of interest in the current price level, which could precede a reversal or consolidation in the market.

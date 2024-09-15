@@ -17,6 +17,8 @@ At the heart of this revolution is Python, an open-source programming language k
 
 The combination of Python's innate strengths, along with the specialized tools developed by its vast community, makes it the prime choice for those venturing into the dynamic world of algorithmic trading.
 
+## Table of Contents
+
 ## Setting the Stage: Why Python for Trading?
 
 From the days of traders shouting buy and sell orders on the stock exchange floor to the modern age of algorithmic trading, the tools of the trade have undergone monumental transformations. In the earlier days, trading was more intuition-based, often relying on manually plotted charts and fundamental analysis. With the advent of computers in the 1980s, quantitative and algorithmic trading began to take root, leading to a demand for programming languages that could handle complex mathematical models and large datasets efficiently.

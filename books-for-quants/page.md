@@ -11,6 +11,8 @@ Quantitative finance merges mathematical finance theory with practical financial
 
 The goal of this article is to curate a definitive collection of literature that will serve as the bedrock for both aspiring and seasoned quants. This selection will cover fundamental concepts, deep dive into advanced quantitative theories, and offer insights into the practical application of financial engineering. For those looking to establish or deepen their expertise in quantitative finance, this reading list aims to be an essential companion, guiding readers through the complex yet fascinating world of quantitative analysis.
 
+## Table of Contents
+
 ## Foundational Knowledge
 
 In the realm of quantitative finance, foundational knowledge is the bedrock upon which all complex strategies and models are built. Mastery of mathematical concepts, statistical theories, and financial principles is essential.

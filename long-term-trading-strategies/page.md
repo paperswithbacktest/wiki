@@ -13,6 +13,8 @@ Key strategies integral to long-term trading will be thoroughly examined, includ
 
 Risk management, an indispensable aspect of long-term trading, will be discussed with a focus on diversification, setting stop losses, and the importance of regular portfolio review. The psychological elements – patience, discipline, and the avoidance of common pitfalls – are also crucial components for success in this field.
 
+## Table of Contents
+
 ## Understanding Long-Term Trading
 
 Long-term trading revolves around a strategy where investments are held over an extended period, typically spanning several years. This approach is deeply rooted in the belief that, despite short-term market fluctuations, the value of solid investments will increase over time. The fundamental characteristics of long-term trading strategies include a focus on enduring market trends, company fundamentals, and macroeconomic factors, rather than short-term price movements.

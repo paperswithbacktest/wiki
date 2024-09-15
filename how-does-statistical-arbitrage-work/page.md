@@ -8,6 +8,8 @@ description: "Discover how statistical arbitrage, a popular strategy used by hed
 Statistical arbitrage is a quantitative strategy widely used by many hedge funds and algorithmic traders. Based on mathematical and statistical models, this approach seeks to profit from temporary price differences between related assets. But how exactly does statistical arbitrage work? Let's take a look.
 
 
+## Table of Contents
+
 ## The basic principle
 
 At the heart of statistical arbitrage lies the idea that the prices of linked assets tend to move together over the long term. If, for whatever reason, prices temporarily diverge (move away from their historical relationship), they will probably return to their normal relationship. The arbitrageur seeks to profit from these temporary divergences.

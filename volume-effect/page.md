@@ -7,6 +7,8 @@ description: Discover the importance and role of volume in algo trading, a funda
 
 One of the most fundamental yet often overlooked indicators is **volume of trading**. This seemingly simple term plays a crucial role in the development of effective trading strategies. In this article, we'll take a deep dive into the concept of volume, its importance in **algo trading** and how traders can use volume to enhance their trading strategies.
 
+## Table of Contents
+
 ## What is Volume in trading?
 
 Volume refers to the number of transactions made on a financial instrument over a given period of time. In other words, it measures the amount of trading activity. Each transaction requires a buyer and a seller, and volume reflects the level of activity and interest at a given price.

@@ -13,6 +13,8 @@ The significance of this topic is two-fold. For traders, algorithmic strategies 
 
 This article serves as a comprehensive guide to understand the synergy of carry trading and algo trading, as well the deployment of carry trading strategies in an automated, algorithm-driven environment, optimizing for both profits and risk. 
 
+## Table of Contents
+
 ## Understanding Carry Trading
 
 Carry trade, at its core, is an investment strategy that capitalizes on the differential between the interest rates of two different currencies. When you engage in a carry trade, you borrow or sell a financial instrument, such as a currency, with a low-interest rate, and then use it to purchase another with a higher rate. Your profit emerges from the difference, or "carry," between these rates.

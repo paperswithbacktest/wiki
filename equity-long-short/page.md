@@ -7,6 +7,8 @@ description: Discover the intricacies of Equity Long Short strategy, a popular i
 
 In the complex world of quantitative trading, the "Equity Long Short" strategy stands out as one of the most popular, particularly among hedge funds. This article looks at this strategy, how it works, and its application in algorithmic trading. If you're looking to develop your algorithmic trading skills, this is a key element to understand.
 
+## Table of Contents
+
 ## What is the Equity Long-Short strategy?
 
 Equity Long Short is an investment strategy that involves taking long positions in stocks considered undervalued (i.e. likely to rise) and short positions in stocks considered overvalued (i.e. likely to fall). The aim is to profit from both rising long stocks and falling short stocks.

@@ -9,6 +9,8 @@ In the world of artificial intelligence, the term Data Augmentation is essential
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## Data Augmentation: definition and key concepts
 
 Data Augmentation refers to the process of increasing the quantity and diversity of data used to drive a model. How does it work? By adding slightly modified copies of existing data. These modifications can include rotations, zooms, offsets, or other slight transformations, depending on the type of data.

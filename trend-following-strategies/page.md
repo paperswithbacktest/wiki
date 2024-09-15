@@ -9,6 +9,8 @@ Trend following, a critical concept in trading, is based on the idea that financ
 
 The significance of trend following in trading cannot be overstated. It's a cornerstone strategy for many traders, from novices to seasoned professionals, due to its adaptability across various markets and asset classes. Whether in stocks, commodities, currencies, or bonds, trend-following strategies have demonstrated resilience and profitability over decades. Their success stems from their ability to capture large market moves, making them a compelling strategy in the dynamic world of trading. This strategy thrives on the principle that 'the trend is your friend,' encouraging traders to align with market momentum rather than attempting to predict reversals.
 
+## Table of Contents
+
 ## Understanding Trend Following
 
 ### The Concept of a Trend

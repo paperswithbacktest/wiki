@@ -13,6 +13,8 @@ Traditional sentiment indicators include the Volatility Index (VIX), which is of
 
 The effective use of sentiment indicators requires an understanding of both their construction and their context within the broader market picture. It is not just about numbers; it's about interpreting what those numbers signify in the market narrative.
 
+## Table of Contents
+
 ## The Essence of Market Sentiment
 
 Market sentiment embodies the overall attitude or mood of investors and traders in the financial markets. It is a qualitative measure that captures the prevailing collective predispositions towards market movements, whether they lean towards optimism or pessimism. This sentiment can significantly sway market trends and is often reflected in the pricing of securities, volume of trades, and the intensity of market participation.

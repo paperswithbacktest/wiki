@@ -11,6 +11,8 @@ In the complex tapestry of today's financial markets, event-driven strategies ho
 
 This approach demands a keen sense of market sentiment, an understanding of the intricacies of corporate actions, and a strategic vision to foresee potential market shifts. The appeal of event-driven strategies lies in their potential to exploit short-term mispricings in the market, often created in the wake of significant corporate events. These strategies also contribute to market efficiency by correcting mispricings.
 
+## Table of Contents
+
 ## Understanding Event-Driven Strategies
 
 Event-driven strategies are a sophisticated form of investment and trading approach that focus on capitalizing on the price movements and volatility resulting from significant corporate events. These events can range from mergers and acquisitions to bankruptcy filings, earnings reports, and regulatory changes. The fundamental logic behind these strategies is that such events can lead to mispricing of securities, providing opportunities for profit.

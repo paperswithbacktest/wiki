@@ -9,6 +9,8 @@ Financial markets have always been the cradle of technological innovation. One o
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## What is a cryptocurrency?
 
 A cryptocurrency is essentially a digital currency that operates on the basis of a technology called blockchain. This technology guarantees the decentralization, transparency and persistence of transactions, protected by advanced cryptographic methods. Decentralization is probably the most attractive feature of cryptocurrencies, as it ensures that data is not controlled by any central entity or authority, offering resistance to censorship.

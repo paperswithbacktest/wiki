@@ -9,6 +9,8 @@ The fractals indicator is a tool used in technical analysis that helps traders i
 
 The development of the fractals indicator is credited to the renowned trader and analyst Bill Williams. He introduced the concept in the context of financial markets to capture the essence of chaos theory and apply it to trading psychology and market behavior. Williams' fractal indicator is built on the premise that market prices follow a natural rhythm or pattern, which, once recognized, can provide valuable insights into future market movements.
 
+## Table of Contents
+
 ## Understanding the Fractals Indicator
 
 ### Theoretical Foundation

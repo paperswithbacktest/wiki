@@ -7,6 +7,8 @@ description: Discover the flexibility and depth of the rotational system, a trad
 
 The **rotational system** is a trading strategy that, while it may seem simple on the surface, offers considerable depth and flexibility for algorithmic traders. As part of our glossary of quantitative trading terms, this article explores the subtleties of the rotational system and how it can be integrated into the world of **algo trading**. 
 
+## Table of Contents
+
 ## Definition of the Rotational System
 
 The heart of the rotational system lies in the regular selection of a portion of a chosen investment universe. Unlike the "buy-and-hold" approach, where an investor holds on to assets over a long period of time, the rotational system regularly rebalances the portfolio according to a given factor or strategy.

@@ -9,6 +9,8 @@ As we enter the age of digitization, the field of trading has undergone a radica
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## What is an accelerator?
 
 An accelerator is a class of microprocessors designed specifically to accelerate artificial intelligence applications. But why is it relevant in the context of algo trading?

@@ -9,6 +9,8 @@ Financial markets are notoriously complex and dynamic. Traders are constantly se
 
 
 
+## Table of Contents
+
 ## Understanding genetic algorithms
 
 Genetic algorithms draw on evolutionary theory and genetics to find solutions to complex problems. They use techniques such as selection, crossover and mutation to evolve and continuously improve a set of potential solutions.

@@ -7,6 +7,8 @@ description: Delve into the world of fundamental analysis, a key component of qu
 
 **Fundamental analysis** is a cornerstone of quantitative trading. It involves assessing the intrinsic value of a stock by analyzing various economic and financial factors associated with that stock. In this article, we'll explore fundamental analysis in depth, focusing on its importance in the world of **algo trading**.
 
+## Table of Contents
+
 ## What is Fundamental Analysis?
 
 Fundamental analysis is the process of determining the true value of an asset by examining the economic and financial factors associated with it. It is based on the assumption that markets may misprice an asset in the short term, but that its fair value will be achieved over the long term. This approach is based on examining everything that can influence the future value of a stock, from microeconomic indicators to macroeconomic factors such as industry conditions, the political system or GDP growth rates.

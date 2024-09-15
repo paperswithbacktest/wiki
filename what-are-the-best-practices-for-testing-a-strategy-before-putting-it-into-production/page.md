@@ -8,6 +8,8 @@ description: "Before deploying an algorithmic trading strategy, it is essential 
 Before putting an algorithmic trading strategy into production, it is crucial to subject it to a series of rigorous tests. These tests guarantee its reliability, robustness, and performance. Here's an overview of best practices for testing a strategy before it goes into production.
 
 
+## Table of Contents
+
 ## Backtesting
 
 - **Quality data**: To test a strategy effectively, use accurate, complete, and high-quality historical data. Make sure it covers a sufficiently long and diversified period to be representative.

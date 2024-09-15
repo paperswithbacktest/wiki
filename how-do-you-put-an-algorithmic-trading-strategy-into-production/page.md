@@ -8,6 +8,8 @@ description: "Discover the technical steps to put an algorithmic trading strateg
 Putting an algorithmic trading strategy into production requires a precise technical approach. Moving from a backtesting environment to a real-world operation presents many challenges that need to be addressed systematically. Here's a detailed technical guide to putting your algorithmic trading strategy into production.
 
 
+## Table of Contents
+
 ## Integration with the trading platform's API
 
 - **Authentication**: Implement OAuth mechanisms or API keys to secure the connection between your algorithm and the trading platform.

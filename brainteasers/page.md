@@ -11,6 +11,8 @@ Brainteasers often evoke mixed feelings. Many see them as a mere diversion, an u
 
 In this section are brainteasers you may get in interviews with quantitative high frequency trading groups.
 
+## Table of Contents
+
 ## Market Making and Betting
 
 - Flip 98 fair coins and 1 HH coin and 1 TT coin. Given that you see an H, what is the probability that it was the HH coin? Explain in layman’s terms.

@@ -16,6 +16,8 @@ Having a structured approach to trading is paramount. The financial markets are 
 
 In essence, while the allure of the financial markets draws many, succeeding within them requires more than just intuition. It demands a disciplined, methodical approach, underscoring the undeniable importance of professional trading strategies.
 
+## Table of Contents
+
 ## The Mindset of a Professional Trader
 
 Trading, at its core, is as much a mental game as it is about numbers and charts. The mindset with which a trader approaches the market can often be the deciding factor between success and failure. The realm of trading psychology is vast, touching upon various aspects of a trader's personality, decision-making process, and reactions to market outcomes.

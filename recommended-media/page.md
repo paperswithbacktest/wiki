@@ -7,6 +7,8 @@ description: Explore a curated collection of essential books and videos designed
 
 The landscape of financial markets and trading is ever-evolving, shaped by complex algorithms, sophisticated quantitative models, and the relentless pursuit of market edges. For anyone aspiring to navigate this intricate world, a deep understanding of the underlying principles and strategies is essential. This curated collection of books and videos serves as an invaluable resource, offering insights from seasoned professionals and thought leaders in the field. From the fundamental concepts of active portfolio management to the nuanced intricacies of market microstructure and algorithmic trading, these resources provide a comprehensive guide for both novices and seasoned traders looking to deepen their knowledge and refine their skills in the competitive arena of financial markets.
 
+## Table of Contents
+
 ## Books
 
 1. [Active Portfolio Management](https://www.amazon.com/Advances-Active-Portfolio-Management-Econometrics/dp/1260453715/ref=sr_1_1?crid=2PW7S4ZMJVLJG&keywords=Active+Portfolio+Management&qid=1679172002&s=books&sprefix=active+portfolio+management%2Cstripbooks-intl-ship%2C195&sr=1-1), Grinold and Kahn

@@ -8,6 +8,8 @@ description: "Assessing the robustness of a trading model is crucial for designi
 The robustness of a trading model is one of the most important qualities to look for when designing and implementing an algorithmic strategy. A robust model is capable of performing effectively in a variety of market conditions, not just in specific or optimized scenarios. But how do you assess the robustness of a trading model? Here's a guide to help you.
 
 
+## Table of Contents
+
 ## Out-of-sample testing
 
 After training your model on a training data set, test it on a separate data set (test set) that was not used during the training phase. If the model performs well on this out-of-sample set, this is a good indicator of its robustness.

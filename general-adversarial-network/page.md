@@ -7,6 +7,8 @@ description: Discover how the General Adversarial Network (GAN), a revolutionary
 
 With the explosion of Big Data and the ongoing development of artificial intelligence, the quantitative trading industry has seen the emergence of ever more powerful tools. Among these, the General Adversarial Network (GAN) stands out for its ability to create new and realistic data, offering innovative opportunities for algorithmic trading strategies. Let's dive into the world of GANs and discover how they can transform algo trading.
 
+## Table of Contents
+
 ## Definition of the General Adversarial Network (GAN)
 
 The GAN is a machine learning model designed to generate new data similar to existing data. It consists of two neural networks: the "generator", which creates new data, and the "discriminator", which attempts to distinguish this data from real data.

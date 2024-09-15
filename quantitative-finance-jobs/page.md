@@ -11,6 +11,8 @@ The role of quantitative finance in the financial industry has grown exponential
 
 This reliance on quantitative finance has been further propelled by the digital transformation of the financial sector. The rise of high-frequency trading, the integration of artificial intelligence and machine learning in financial decision-making, and the need for sophisticated risk management strategies in an increasingly interconnected global economy have all underscored the importance of quantitative skills. As markets evolve and new financial instruments and technologies emerge, the demand for professionals with quantitative finance expertise continues to surge. This trend underscores the field's vital role in shaping the future of the financial industry, making it an exciting and rewarding career path for those with a penchant for numbers and a passion for finance.
 
+## Table of Contents
+
 ## Career Path in Quantitative Finance
 
 A career in quantitative finance offers a journey through a landscape where finance, mathematics, and technology intersect. The career progression in this field typically starts with entry-level positions such as a Quantitative Analyst, advancing through to senior roles like Quantitative Portfolio Manager or Head of Quantitative Research. Early stages of the career often involve rigorous data analysis, model development, and implementation of strategies, while senior positions focus more on strategy oversight, risk management, and key decision-making.

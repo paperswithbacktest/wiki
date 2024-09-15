@@ -7,6 +7,8 @@ description: Discover how GPT (Generative Pretrained Transformer) by OpenAI is t
 
 At the heart of the convergence between artificial intelligence and the financial markets lies the GPT (Generative Pretrained Transformer). This technological breakthrough, the result of OpenAI's work, is revolutionizing not only the way we think about human-machine interactions but also the way algorithmic traders perceive and exploit market data. In this article, we'll explore how GPT, a large-scale linguistic model that generates near-human text, is emerging as an indispensable tool for algo trading.
 
+## Table of Contents
+
 ## What is GPT?
 
 GPT, or Generative Pretrained Transformer, is a language model developed by OpenAI. Its distinctive feature is its ability to generate text that looks exactly like that written by a human being. But how can it be used in the world of algo trading?

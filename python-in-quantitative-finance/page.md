@@ -9,6 +9,8 @@ Python's ascendancy in the finance sector is a testament to its versatility and 
 
 Python's dominance in the field is also due to its ability to act as a powerful tool for both novice programmers and seasoned quants alike. For beginners, Python is an excellent entry point into the world of coding due to its straightforward syntax. For experts, it offers robust functionalities for deep financial analysis and algorithm development. Its compatibility with other languages and tools adds to its allure, providing a comprehensive platform for all forms of quantitative finance work.
 
+## Table of Contents
+
 ## Getting Started with Python for Quantitative Analysis
 
 Embarking on the journey of quantitative analysis in Python begins with setting up a robust environment tailored for financial computations. To do this, one typically starts with the installation of Python, ensuring access to the latest version for up-to-date features and security enhancements. Following installation, the next step is to familiarize oneself with the Python Package Index (PyPI) and pip, Python's package installer, which serve as gateways to a myriad of libraries purpose-built for quantitative tasks.

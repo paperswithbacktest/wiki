@@ -7,6 +7,8 @@ description: Discover the concept, benefits, and rise of Smart Beta in algorithm
 
 The field of quantitative trading is full of strategies and concepts aimed at maximizing returns while minimizing risk. One such strategy, which has grown in popularity in recent years, is "Smart Beta". This article explores the nature, benefits, and implications of Smart Beta for those looking to develop algorithmic trading strategies.
 
+## Table of Contents
+
 ## What is Smart Beta?
 
 The term "Smart Beta" refers to investment strategies that combine the advantages of passive investing with those of active trading. These strategies attempt to track indices passively while weighting assets according to certain performance factors. The aim is to outperform the benchmark.

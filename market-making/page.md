@@ -7,6 +7,8 @@ description: Market making is a vital process in financial markets, where market
 
 Market making is a cornerstone activity in financial markets, ensuring liquidity and facilitating the smooth execution of trades. At its core, market making involves **continuously quoting** buy (bid) and sell (ask) prices for financial instruments, such as stocks, bonds, or derivatives, thereby providing a platform for other participants to trade. For institutional traders, market makers are indispensable partners, guaranteeing the ability to enter or exit positions without causing significant price disruptions. Meanwhile, for retail traders, they often operate behind the scenes, indirectly influencing the prices seen on trading platforms and ensuring that when the trade button is clicked, there's a counterparty ready to take the opposite position.
 
+## Table of Contents
+
 ## What is a Market Maker?
 
 Market making, at its most rudimentary level, has been a critical function within financial ecosystems for centuries. Its origins trace back to the bazaars of ancient times, where merchants would be willing to buy and sell goods, acting as intermediaries and stabilizing prices by ensuring there were always buyers and sellers available. Fast forward to the late 18th century, and the London Stock Exchange formalized the role, creating a system where “jobbers” specialized exclusively in making markets for specific securities.

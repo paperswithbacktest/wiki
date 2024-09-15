@@ -13,6 +13,8 @@ Understanding the nuances between overnight and after-hours trading is crucial, 
 
 The evolution of overnight trading is tied closely to the development of electronic communication networks (ECNs), which facilitated a move towards a nearly 24-hour trading environment. These networks match buy and sell orders electronically without the need for a traditional stock exchange. The growth of ECNs has been instrumental in the expansion of overnight trading, allowing for continuous trading and giving investors the ability to respond rapidly to events that occur outside regular market hours.
 
+## Table of Contents
+
 ## Understanding Overnight Trading
 
 Overnight trading is the activity of buying and selling securities when the primary markets are closed, which occurs between the close of one session and the opening of the next. This type of trading is prevalent in markets that offer around-the-clock operations, such as the forex market, or through electronic communication networks (ECNs) and after-hours trading sessions for stocks.

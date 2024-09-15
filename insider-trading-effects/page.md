@@ -7,6 +7,8 @@ description: Discover the insider trading effects in algorithmic trading, includ
 
 **Insider trading** refers to the practice of trading stocks or other securities by individuals with access to non-public information relevant to the price of those securities. In this article, we will explore in depth the effects of insider trading, particularly in the context of **algorithmic trading** or "algo trading".
 
+## Table of Contents
+
 ## What is insider trading?
 
 Insider trading refers to transactions carried out by individuals who possess non-public information about a company. While these transactions are legal if properly reported to the Securities and Exchange Commission (SEC), they are illegal when based on information that has not yet been made public.

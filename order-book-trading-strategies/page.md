@@ -11,6 +11,8 @@ Understanding and analyzing order book data is crucial for traders aiming to gai
 
 In essence, the order book is more than a simple list of orders; it is a window into the market's soul, offering clarity amidst the often chaotic world of trading. For traders looking to elevate their market strategies, mastering the art of order book analysis is not just beneficial – it's essential. This article aims to unveil advanced strategies and insights for leveraging order book data, helping traders navigate the market with greater confidence and precision.
 
+## Table of Contents
+
 ## Understanding the Order Book
 
 The mechanics of order books are integral to understanding market operations across various trading platforms. At its core, an order book is a list of buy and sell orders organized by price level. It acts as a ledger, showing real-time demand and supply for a particular asset. Each order listed in the book has a specific price and quantity, representing a trader's willingness to buy or sell at that price.

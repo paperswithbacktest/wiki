@@ -9,6 +9,8 @@ The foreign exchange market, also known as Forex, is one of the world's largest 
 
 
 
+## Table of Contents
+
 ## Understanding the peculiarities of Forex
 
 Before diving into algorithmic trading, it's essential to understand the nuances of the foreign exchange market:

@@ -9,6 +9,8 @@ Yahoo Finance, recognized as one of the world's leading business news platforms,
 
 The Yahoo Finance API serves as a bridge between your applications and Yahoo Finance data. However, like any tool or resource, its optimal utilization requires a proper understanding and skill. This guide aims to shed light on the diverse functionalities of the Yahoo Finance API, from basic access methods to intricate data retrieval techniques. We'll also explore its unique advantages, potential shortcomings. Additionally, for those seeking alternatives, we'll deep dive into other financial API platforms that can serve as worthy substitutes.
 
+## Table of Contents
+
 ## Deep Dive: Yahoo Finance API
 
 The Yahoo Finance API, once officially supported by Yahoo and now available through various third-party wrappers and tools, has long been the go-to solution for developers seeking financial data. It provides users with a wide range of financial data, from stock quotes to historical data, and has played a crucial role in finance-related software development over the years.

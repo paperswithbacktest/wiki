@@ -11,6 +11,8 @@ Understanding momentum is crucial in today's trading environment. In an era char
 
 In the modern trading landscape, where trends can be propelled by a mix of fundamental news, sentiment shifts, and institutional trading activities, understanding momentum's nuances can make the difference between a successful trade and a missed opportunity.
 
+## Table of Contents
+
 ## Deep Dive into Momentum Trading
 
 ### Historical Background

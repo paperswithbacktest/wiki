@@ -11,6 +11,8 @@ Enter Backtrader. Backtrader has rapidly ascended as one of the go-to platforms 
 
 So, whether you're dipping your toes into the algorithmic trading waters or are a seasoned trader seeking a comprehensive tool, Backtrader promises a blend of functionality and flexibility, ready to be the backbone of your trading journey.
 
+## Table of Contents
+
 ## What is Backtrader?
 
 Backtrader originated as an open-source Python framework crafted to meet the demands of those in the algorithmic trading sphere. Its inception was driven by a need for a flexible, comprehensive, and efficient tool that could accommodate the various facets of backtesting and trading[1]. Over the years, it has evolved, fortified by consistent updates and an ever-growing community of enthusiasts, developers, and traders. Today, it stands as one of the most preferred platforms for those delving into the intricacies of algorithmic trading, be it backtesting or live trading.

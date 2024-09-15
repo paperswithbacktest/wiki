@@ -7,6 +7,8 @@ description: Unravel the significance of Training Data in Algo Trading - the fue
 
 The world of trading has undergone a drastic transformation with the emergence of artificial intelligence (AI). At the heart of this revolution is the concept of "training data". In the context of algorithmic trading, understanding the role and relevance of training data is essential to developing effective strategies. In this article, we unveil the mystery behind "Training Data" and its undeniable influence on algo trading.
 
+## Table of Contents
+
 ## What is Training Data?
 
 Training Data" refers to the set of examples used to adjust the parameters of a machine learning model. This data serves as the basis for "educating" the model, enabling it to learn and make predictions or decisions in future situations.

@@ -7,6 +7,8 @@ description: Discover the role of growth stocks in algo trading, their definitio
 
 The world of quantitative trading is vast and diverse, and among its many concepts, **growth stocks** occupy a prominent place. These stocks, often associated with innovative, high-growth companies, are at the heart of many **algo trading** strategies. Let's find out together what growth stocks are and how they can be integrated into the world of algorithmic trading.
 
+## Table of Contents
+
 ## Definition of Growth Stocks
 
 A growth stock is a company that is expected to grow much faster than the market average. These companies typically reinvest all their earnings to drive short-term growth, making these stocks riskier. Investors seek capital gains by selling their shares later at higher prices. To be classified as a growth stock, a company should post a return on equity of at least 15%.

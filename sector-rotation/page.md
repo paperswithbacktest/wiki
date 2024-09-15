@@ -9,6 +9,8 @@ Sector rotation is predicated on the idea that different sectors of the economy 
 
 But how do traders determine which sectors are on the cusp of taking the lead? This is where algorithms come into play. With the explosion of data availability and computational power, algorithms have been increasingly employed to identify, predict, and capitalize on sector rotations. They parse vast datasets, from economic indicators to earnings reports, to forecast which sectors are poised for growth and which might be heading for a downturn.
 
+## Table of Contents
+
 ## Deep Dive into Sector Rotation
 
 Investors and fund managers who employ this strategy diligently observe the cyclical trends of sectors, seeking to anticipate which one will perform better in subsequent economic phases. The essence lies in understanding and predicting the movements and shuffles of the economic sector’s performances based on prevailing economic, market, and seasonal conditions.

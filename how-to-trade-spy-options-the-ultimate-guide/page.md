@@ -14,6 +14,8 @@ Novice traders might find SPY options attractive due to their accessibility and 
 On the other hand, experienced traders gravitate towards SPY options because of their unparalleled liquidity, which ensures tighter bid-ask spreads and more efficient entry and exit points. The transparency and predictability of SPY options, stemming from their connection to the well-studied S&P 500, also offer seasoned traders a reliable vehicle to execute [advanced trading strategies](https://paperswithbacktest.com/).
 
 
+## Table of Contents
+
 ## What are SPY Options?
 
 SPY options are financial derivatives tied to the performance of the S&P 500 Index. Specifically, they represent an agreement that gives the holder the right, but not the obligation, to buy or sell shares of the SPDR S&P 500 ETF (SPY) at a predetermined price, known as the strike price, before a specified expiration date. The SPY ETF is designed to track the S&P 500 Index, making these options a popular tool for investors looking to gain exposure to the broader U.S. equity market without buying individual stocks or the index itself.

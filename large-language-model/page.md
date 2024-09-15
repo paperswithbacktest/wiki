@@ -7,6 +7,8 @@ Finance has historically been a data-intensive field, making it ripe for the app
 
 It's crucial to underline that while the applications of LLMs in trading present novel opportunities, they also bring to light imperative questions about data validity, ethical considerations, and risk management, which will be explored in forthcoming sections. As we further deep dive into how LLMs are revolutionizing the trading world, the emphasis on navigating through these challenges becomes paramount, ensuring that the evolution of financial technologies remains ethical, transparent, and robust.
 
+## Table of Contents
+
 ## A Deep Dive into LLMs and Their Evolution
 
 The application of Large Language Models (LLMs) like GPT-3.5 or beyond, in the trading domain has fashioned a nuanced approach towards financial forecasting and analysis. Integrating machine learning with traditional [trading strategies](https://paperswithbacktest.com/) not only expedites the data analysis process but also infuses a level of predictive precision that was once only theoretical.

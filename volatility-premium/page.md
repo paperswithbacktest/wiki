@@ -7,6 +7,8 @@ description: Discover the importance of Volatility Premium in algo trading and h
 
 For traders looking to exploit the opportunities offered by the financial markets, understanding the volatility premium is essential. In this article, we will define the **Volatility Premium**, examine its implications in **algo trading,** and explore how it can be used to optimize trading strategies.
 
+## Table of Contents
+
 ## What is Volatility Premium?
 
 Volatility premium refers to the difference between implied volatility (option price) and realized volatility (option value). In simple terms, it is the remuneration option sellers receive for assuming the risk of sudden variations in market volatility.

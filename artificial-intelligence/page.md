@@ -15,6 +15,8 @@ While AI has amplified trading strategies with capabilities such as recognizing 
 
 Within this guide, we shall navigate through the multifaceted world of AI in trading, exploring its mechanics, applications, and intricacies. From dissecting algorithms that power trading strategies to exploring the ethical implications of AI-driven trading decisions, the article aims to provide a comprehensive view of AI’s role and future in the trading arena.
 
+## Table of Contents
+
 ## Demystifying AI in Trading
 
 ### Defining AI Trading

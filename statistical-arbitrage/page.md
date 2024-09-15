@@ -11,6 +11,8 @@ The significance of statistical arbitrage in trading cannot be overstated. It ha
 
 In this comprehensive guide, we will deep dive into the world of statistical arbitrage, tracing its historical evolution and dissecting the core mathematical and statistical concepts that underpin its mechanisms. Additionally, we will explore and analyze various StatArb strategies, scrutinize different types of statistical arbitrage, and navigate through the assortment of tools and technologies pivotal in its implementation.
 
+## Table of Contents
+
 ## Historical Perspective
 
 The roots of statistical arbitrage can be traced back to the 1980s, as a natural progression from the rising field of quantitative finance. Initially conceived as pairs trading, the idea was to exploit price discrepancies between two similar or related securities. For instance, when two companies in the same sector might have their stock prices drift apart, the strategy was to short the outperformer and buy the underperformer, expecting the prices to eventually revert.

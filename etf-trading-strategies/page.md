@@ -11,6 +11,8 @@ The core of ETF trading revolves around strategies that effectively harness thei
 
 For investors, the key lies in understanding the nuances of ETFs – from their operational mechanisms to the spectrum of options available in the market. Such knowledge is foundational in developing a trading strategy that aligns with individual investment objectives and risk tolerance levels. In this light, the burgeoning field of ETF trading is not just about choosing the right funds, but also about crafting strategies that resonate with evolving market dynamics and personal investment philosophies.
 
+## Table of Contents
+
 ## Understanding ETFs
 
 ### Definition and Functioning

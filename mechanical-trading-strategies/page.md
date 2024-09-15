@@ -9,6 +9,8 @@ The surge in the adoption of mechanical trading strategies is primarily fueled b
 
 The significance of these strategies lies in their ability to facilitate unbiased, emotion-free trading decisions. Traditional trading can be influenced by psychological factors such as fear, greed, and bias, which can lead to irrational decisions and consequently, financial losses. Mechanical trading strategies, on the other hand, adhere strictly to predefined criteria, thereby eliminating emotional interference and ensuring consistency in decision-making. This objectivity is essential in maintaining a disciplined approach to trading, especially in volatile markets.
 
+## Table of Contents
+
 ## A Deep Dive into Mechanical vs. Discretionary Trading
 
 Trading, in its essence, is the act of buying and selling securities with the aim of profiting from price fluctuations. Over the decades, as markets have evolved and technology has advanced, two primary styles of trading have emerged: mechanical and discretionary. Understanding the nuances of both can empower traders to make informed choices about their investment approaches.

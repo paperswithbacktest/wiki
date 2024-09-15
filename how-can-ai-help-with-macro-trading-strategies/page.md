@@ -8,6 +8,8 @@ description: "Discover how AI enhances macro trading strategies by predicting ec
 Macro trading is an investment approach based on the interpretation and prediction of major global economic movements. With the evolution of artificial intelligence (AI), new opportunities are emerging to improve and refine macro trading strategies. But how precisely can AI help in this area? This article explores the many ways in which AI is proving to be a valuable asset for macro trading.
 
 
+## Table of Contents
+
 ## Predictive analysis
 
 One of AI's key strengths is its ability to process large datasets at unprecedented speed. Using machine learning algorithms, AI can:

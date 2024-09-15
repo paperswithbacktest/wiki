@@ -17,6 +17,8 @@ Books, often seen as the bastions of knowledge, play a pivotal role in this lear
 
 While the digital age has ushered in myriad online resources – from blogs to webinars – the depth, rigor, and comprehensive nature of books remain unmatched. For anyone serious about mastering the art and science of algorithmic trading, investing time in reading the best books on the subject is not just recommended, it's imperative.
 
+## Table of Contents
+
 ## Diverse Perspectives on Algorithmic Trading
 
 Algorithmic trading, an intricate blend of finance and technology, has fostered an expansive literature spanning a wide array of topics. For the curious reader or seasoned practitioner, the diversity in this field's literature offers insights ranging from rudimentary introductions to nuanced, advanced strategies. Whether one seeks to understand the heartbeat of the market through its microstructure or wishes to harness the predictive power of statistical models, there's a wealth of knowledge awaiting in the form of well-researched books.

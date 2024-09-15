@@ -7,6 +7,8 @@ description: Learn about overfitting, a common challenge in algorithmic trading 
 
 In the world of algorithmic trading, where artificial intelligence plays a predominant role, overfitting is an obstacle that every trader needs to be aware of and understand. This article takes an in-depth look at this phenomenon and highlights ways of avoiding it.
 
+## Table of Contents
+
 ## What is overfitting?
 
 Overfitting occurs when a machine learning model over-accurately assimilates training data, including its anomalies and noise. As a result, while the model may excel on training data, it loses effectiveness when confronted with new data, as it struggles to generalize.

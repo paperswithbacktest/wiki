@@ -15,6 +15,8 @@ Short-term trading has seen significant evolution with technological advancement
 
 The advent of these technologies has led to a more efficient and liquid market environment, but also one that is more complex and competitive. Short-term traders must navigate not only market and economic indicators but also the activities of these automated systems which can greatly influence price movements and market dynamics.
 
+## Table of Contents
+
 ## Understanding Short-Term Trading
 
 Short-term trading refers to the practice of buying and selling financial instruments within a short timeframe. This can range from several minutes to a few days, but rarely exceeds a few weeks. Short-term traders capitalize on small price movements, seeking to turn a quick profit rather than investing for the long haul.

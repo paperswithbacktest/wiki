@@ -8,6 +8,8 @@ description: "This comprehensive guide delves into the world of quants - the fin
 In recent years, the financial sector has witnessed a significant shift towards quantitative analysis, leading to the meteoric rise of "quants". These professionals, armed with a blend of mathematical prowess and computational skills, have taken center stage in driving data-driven decisions within the financial industry. As the complexities of global markets continue to grow, so does the reliance on quants to decipher intricate patterns, optimize trading strategies, and manage risk. Their ability to distill vast amounts of data into actionable insights has made them invaluable assets in today's trading and analytics ecosystem. Whether in hedge funds, investment banks, or asset management firms, quants are playing an increasingly pivotal role in shaping the financial landscape, underlining their unparalleled significance in modern finance.
 
 
+## Table of Contents
+
 ## Defining the Role of a Quant
 
 ![A futuristic office scene with advanced technology, featuring diverse individuals working as quantitative analysts (quants). The setting is a high-tec.png](images/A_futuristic_office_scene_with_advanced_technology_featuring_diverse_individuals_working_as_quantitative_analysts_(quants)._The_setting_is_a_high-tec.png)

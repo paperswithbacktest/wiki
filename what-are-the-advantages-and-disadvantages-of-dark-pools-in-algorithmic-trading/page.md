@@ -8,6 +8,8 @@ description: "Discover the advantages and disadvantages of dark pools in algorit
 Dark pools are private trading platforms where transactions are carried out away from the public markets. They were developed to enable institutional investors to carry out large transactions without immediately influencing the market price. Like any financial instrument, dark pools have their advantages and disadvantages, especially in the context of **algorithmic trading**.
 
 
+## Table of Contents
+
 ## Advantages of dark pools in algorithmic trading
 
 1. **Anonymity**: Dark pools guarantee the complete anonymity of the parties involved in a transaction. This is crucial for institutional investors who do not want to reveal their trading intentions to the market.

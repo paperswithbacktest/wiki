@@ -15,6 +15,8 @@ The relevance of AI in today’s market cannot be overstated. In an era characte
 
 ![Untitled](images/Untitled.png)
 
+## Table of Contents
+
 ## What is Artificial Intelligence (AI)?
 
 Artificial Intelligence (AI) is a branch of computer science focused on creating systems capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding. AI operates on the principles of simulating human cognitive processes using algorithms, data, and computational power.

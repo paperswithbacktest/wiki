@@ -21,6 +21,8 @@ The significance of dispersion trading in contemporary financial markets cannot 
 
 While it might seem esoteric to some, dispersion trading's prominence is bolstered by several factors. The strategy can act as a powerful tool for diversification, given that it doesn't necessarily rely on bullish or bearish market sentiments. Moreover, with the advent of advanced quantitative models and computational tools, executing dispersion trades has become more accessible to those beyond just the walls of large institutions.
 
+## Table of Contents
+
 ## Understanding Dispersion Trading
 
 Dispersion trading, at its essence, is a sophisticated volatility arbitrage strategy that capitalizes on the discrepancy between implied correlations of index options and the realized correlations of its individual components. To deconstruct this, think of it as betting on the variance of the index being different from the aggregated variances of its constituents. The strategy hinges on the belief that the market sometimes misprices the index options when compared to the sum of the options of its individual stocks.

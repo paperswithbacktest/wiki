@@ -7,6 +7,8 @@ description: Discover the concept of Liquidity Risk Premium in finance and its s
 
 The liquidity risk premium is a fundamental concept in finance and quantitative trading. It represents the additional compensation demanded by investors for holding less liquid assets. In this article, we'll take a deep dive into the nature, importance and application of the liquidity risk premium, with particular emphasis on its role in algorithmic or "algo trading".
 
+## Table of Contents
+
 ## What is **the Liquidity Risk Premium?**
 
 The liquidity risk premium is a form of additional compensation built into the return of an asset that cannot be easily and quickly converted into cash at its fair market value. It is essentially the "price" that investors are willing to pay for the ability to quickly convert an asset into cash.

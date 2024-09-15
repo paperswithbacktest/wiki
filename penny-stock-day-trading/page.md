@@ -9,6 +9,8 @@ Penny stock day trading has long captured the imagination of ambitious traders, 
 
 Moreover, penny stocks are unique in more ways than just their low price. Their lack of liquidity, limited historical data, and the potential for manipulation, especially in the over-the-counter (OTC) markets, set them apart from blue-chip stocks. Traders must navigate through limited financial reporting, aggressive promotions, and at times, even outright scams. Despite these challenges, with the right strategy, tools, and mindset, penny stock day trading can be mastered, and traders can tap into the opportunities they offer while mitigating potential pitfalls.
 
+## Table of Contents
+
 ## Understanding Penny Stocks
 
 Penny stocks, colloquially known as "pennies", are shares of public companies that trade at relatively low prices. The U.S. Securities and Exchange Commission (SEC) classifies them as stocks priced below $5 per share[1]. While this threshold offers a technical definition, the essence of penny stocks lies in their characteristics. They typically have low market capitalizations, limited liquidity, and might be listed on smaller exchanges or over-the-counter (OTC) markets.

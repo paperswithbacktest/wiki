@@ -8,6 +8,8 @@ description: "Explore the benefits and limitations of technical analysis for tra
 Technical analysis is an approach used to forecast future price movements by studying past market data, mainly prices and volumes. The question of the effectiveness of technical analysis is often debated among traders and researchers. Let's take a look at whether technical analysis is still effective for trading.
 
 
+## Table of Contents
+
 ## Benefits of technical analysis
 
 1. **Simplicity**: For many, technical analysis offers a straightforward, visual approach to the market, enabling them to spot trends and patterns without having to analyze complex financial information.

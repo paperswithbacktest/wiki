@@ -7,6 +7,8 @@ description: Discover the importance of seasonality in quantitative trading and 
 
 The financial world, like our natural environment, is punctuated by cycles. These cycles, or seasonalities, are phenomena that recur at regular intervals, influencing the dynamics of financial markets. In this article, we'll explore the importance of seasonality in quantitative trading, and how it can be used to reinforce **algo trading** strategies.
 
+## Table of Contents
+
 ## Definition of Seasonality
 
 Seasonality refers to the predictable fluctuations that occur over a one-year period in a company or an economy as a result of the seasons, whether calendar or commercial. It is these variations that, properly identified and analyzed, can be exploited to optimize trading strategies.

@@ -13,6 +13,8 @@ Enter ChatGPT. Originally designed as a conversational AI by OpenAI, ChatGPT's p
 
 This article delves deep into ChatGPT's world, exploring its capabilities, advantages, and how it's revolutionizing the very fabric of algorithmic trading. We aim to provide a comprehensive guide for those curious about or actively looking to integrate ChatGPT into their trading arsenal.
 
+## Table of Contents
+
 ## Understanding ChatGPT: A Brief Overview
 
 ChatGPT, developed by OpenAI, is built upon the GPT (Generative Pre-trained Transformer) architecture, a form of deep learning model that leverages large amounts of data to generate human-like text based on the input it receives. The GPT models are designed using transformers, which have the ability to handle long-range dependencies in data, making them ideal for complex tasks such as natural language processing. In essence, the model is pre-trained on vast datasets and then fine-tuned for specific tasks. This training methodology enables ChatGPT to understand context, make inferences, and provide detailed, relevant outputs.

@@ -8,6 +8,8 @@ description: "Learn how to assess the capacity of a trading strategy in quantita
 Assessing the **capacity of a trading strategy** is crucial for traders and fund managers alike. Capacity refers to the amount of money a strategy can handle before its performance begins to deteriorate due to liquidity constraints or other factors. Here's how to assess the capacity of a trading strategy in the context of **quantitative trading**.
 
 
+## Table of Contents
+
 ## Methods for assessing the capacity of a trading strategy
 
 1. **Market liquidity analysis**: Assess the liquidity of the assets you are trading with. If a strategy requires you to buy or sell large volumes of an illiquid asset, its capacity will be limited.
