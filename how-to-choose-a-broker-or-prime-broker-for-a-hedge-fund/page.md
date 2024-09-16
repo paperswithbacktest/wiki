@@ -41,10 +41,3 @@ Choosing a broker or prime broker is a crucial step in the creation and manageme
 It is highly recommended to meet with several brokers and prime brokers to evaluate their offers. It may also be useful to consult other hedge fund managers for recommendations and feedback. Once the choice has been made, a regular review of the partnership is advisable to ensure that the broker continues to meet the fund's needs.
 
 > 
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

@@ -75,13 +75,6 @@ The application of TAA requires a disciplined, well-informed strategy, often ben
 
 Given the ever-evolving nature of financial markets, continuous education in TAA methodologies is essential. Markets will not remain static, and neither should the strategies employed to navigate them. Investors should persistently seek out new knowledge, stay informed about the latest research, and keep abreast of technological advancements that may impact asset allocation techniques.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: [Financial Analysts Journal](https://www.tandfonline.com/toc/ufaj20/current)

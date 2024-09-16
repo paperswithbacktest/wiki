@@ -8,12 +8,6 @@ Algorithmic trading, commonly referred to as algo trading, automates the trading
 
 Alternative data refers to non-traditional data sources that traders use to gain insights that aren't available through conventional market data. The allure of alternative data is in its ability to offer a more granular and real-time view of economic and company performance. For instance, while a quarterly report might give insight into a company's past performance, real-time data like geolocation or website traffic can offer instantaneous snapshots of current consumer behavior. As financial markets become more competitive and saturated, having access to unique and timely data sources can be the distinguishing factor for traders, providing an edge over competitors.
 
-**👉 There are many algorithmic trading strategies that use alternative data. Here are three examples:**
-
-- **Location: [Geographic Momentum](https://wiki.paperswithbacktest.com/trading-strategies/equities/geographic-momentum)**
-- **News: [Speculation Sentiment](https://wiki.paperswithbacktest.com/trading-strategies/equities/speculation-sentiment)**
-- **CEO successions: [Lame-Duck CEOs](https://wiki.paperswithbacktest.com/trading-strategies/equities/lame-duck-ceos)**
-
 ![Untitled](images/Untitled.png)
 
 The rise of alternative data is indicative of a broader shift in the financial sector, where innovative approaches and tools are consistently being sought after to enhance decision-making and generate alpha. As the landscape of algorithmic trading evolves, the fusion of traditional trading strategies with insights derived from alternative data is setting the stage for the next generation of trading.
@@ -191,13 +185,6 @@ The pivotal role of alternative data in the realm of algorithmic trading has bee
 Moreover, the palpable impact of alternative data is not bound by the present but extends into shaping future trading landscapes, where incorporation of emerging technologies, like IoT and machine learning, will offer nuanced data types and analytical possibilities. It’s crucial for traders to be perpetually inquisitive, seeking to uncover new data types and formulate innovative strategies, given the fast-evolving financial market dynamics and technological advancements.
 
 Navigating through the expansive universe of alternative data demands not only a deep understanding of available data types and their applicative nuances but also an ethical and regulatory compass to guide through the data acquisition and utilization processes.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
 ## Frequently Asked Questions
 

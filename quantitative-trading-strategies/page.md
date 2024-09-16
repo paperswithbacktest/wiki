@@ -231,13 +231,6 @@ For those ready to embark on or advance within the quant trading journey, the pa
 
 To further your expertise, consider pursuing certifications such as the CFA, deep dive into specialized courses on platforms like Coursera, edX, or Udemy, and engage with the vibrant community on forums like QuantNet or the Wilmott forums. Stay abreast of industry trends by subscribing to journals like The Journal of Financial Data Science, and never underestimate the value of practical experience gained through simulations, competitions like the Rotman International Trading Competition, or contributions to open-source projects.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan

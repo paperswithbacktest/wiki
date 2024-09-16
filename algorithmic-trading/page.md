@@ -9,8 +9,6 @@ Algorithmic trading, often known as "algo trading," leverages computer programs 
 
 In contemporary financial markets, algorithmic trading has carved a niche for itself, accounting for a substantial portion of the trades executed globally. According to a report from J.P. Morgan, algorithmic trading had surged to represent nearly 70% of equity trades in the U.S. as of 2019. This surge is not merely a testament to technological advancements but also to the strategic advantages algo trading offers. Traders can now process vast datasets, respond to market changes within microseconds, and operate 24/7, eliminating the emotional biases often accompanying human decision-making.
 
-**👉 At Papers With Backtest we have accumulated a large database of algorithmic trading strategies covering the different asset classes: [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options).**
-
 ![Untitled](images/Untitled.png)
 
 The significance of algorithmic trading extends beyond mere transactional efficiencies. It reshapes market dynamics, influences liquidity, impacts price discovery, and can even be a factor in the propagation of rapid market movements. As we deep dive deeper into the realm of algo trading in the subsequent sections, it's crucial to appreciate its transformative impact on modern finance: creating a bridge between intricate mathematical models and real-world market events, all unfolding at speeds that were once deemed unimaginable.
@@ -268,13 +266,6 @@ With the right resources and an unquenchable thirst for knowledge, anyone can em
 Algorithmic trading, an intricate blend of finance and technology, has significantly reshaped the contours of modern financial markets. Its ability to execute trades at lightning speed, analyze vast datasets, and remove human emotion from the decision-making process positions it at the forefront of today's trading world. However, while the advantages are manifold, the challenges – from system glitches to ethical dilemmas – are not to be understated. As we venture further into this digital age, the potential of algorithmic trading continues to burgeon. With advancements like quantum computing on the horizon, its evolution seems boundless, promising ever-greater precision, speed, and possibilities for market participants. Yet, as with all powerful tools, its application demands responsibility, understanding, and continuous learning. In grasping both its potential and pitfalls, traders and investors alike can better navigate the complex, ever-evolving tapestry of global finance[53].
 
 ![Untitled](images/Untitled%202.png)
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
 ## References & Further Reading
 

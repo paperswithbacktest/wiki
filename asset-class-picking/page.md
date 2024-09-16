@@ -7,12 +7,6 @@ description: Learn about Asset Class Picking, an essential algo trading strategy
 
 Algorithmic trading, often referred to as "algo trading", is based on a multitude of strategies designed to maximize returns while minimizing risk. One such strategy is "Assets Class Picking". In this article, we take a closer look at this technique, which is essential for all investors seeking to optimize their portfolios.
 
-**👉 Asset class picking strategies can be implemented as algo trading strategies. Here are some examples:**
-
-- [**Risk Premia Harvesting Through Dual Momentum**](https://wiki.paperswithbacktest.com/trading-strategies/bonds-commodities-equities-reits/risk-premia-harvesting-through-dual-momentum)
-- [**Protective Asset Allocation (PAA): A Simple Momentum-Based Alternative for Term Deposits**](https://wiki.paperswithbacktest.com/trading-strategies/bonds-commodities-equities-reits/protective-asset-allocation-paa-a-simple-momentum-based-alternative-for-term-deposits)
-- [**The Trend is Our Friend: Risk Parity, Momentum and Trend Following in Global Asset Allocation**](https://wiki.paperswithbacktest.com/trading-strategies/bonds-commodities-equities-reits/the-trend-is-our-friend-risk-parity-momentum-and-trend-following-in-global-asset-allocation)
-
 ![Untitled](images/Untitled.png)
 
 ## Table of Contents
@@ -46,10 +40,3 @@ Recent studies conclude that asset classes within a country are integrated, as a
 Asset Class Picking is an essential element of algo trading. It requires an in-depth understanding of market dynamics and a mastery of algorithmic tools. By better understanding this technique and judiciously integrating it into their strategies, investors can greatly improve the performance of their portfolios.
 
 The world of algorithmic trading is evolving rapidly. To stay at the cutting edge, it's crucial to keep abreast of new techniques and research.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

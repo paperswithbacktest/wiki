@@ -169,13 +169,6 @@ Short-term trading encapsulates a dynamic approach to the markets, seeking to ca
 
 As we gaze into the future of short-term trading, it is evident that technological advancements and the introduction of artificial intelligence and machine learning will further transform trading strategies. Traders must stay abreast of these developments and be willing to incorporate new tools and techniques into their trading arsenals.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **How much capital do I need to start short-term trading?**

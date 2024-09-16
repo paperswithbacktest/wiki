@@ -246,13 +246,6 @@ However, the journey is not without its challenges. As we've seen from real-worl
 
 For those embarking on or continuing this journey, the ever-evolving landscape of mechanical trading demands a commitment to learning. Embracing a mindset of adaptability, continuous education, and vigilance can be the difference between fleeting success and sustained excellence. Always remember that in the realm of trading, as with many endeavors, knowledge is power, and persistence is key.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: Murphy, J.J. (1999). "[Technical Analysis of the Financial Markets](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661)". New York Institute of Finance.

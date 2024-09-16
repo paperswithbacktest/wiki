@@ -175,13 +175,6 @@ However, as with any financial institution, due diligence is crucial. It's alway
 
 We invite you, the reader, to engage further. Have you had experiences with Interactive Brokers, or do you have lingering questions that weren't addressed? Sharing your insights and queries not only aids fellow investors but also fosters a more informed and empowered investment community. Your voice matters.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **How is Interactive Brokers regulated?**

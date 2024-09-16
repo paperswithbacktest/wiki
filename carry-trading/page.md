@@ -142,10 +142,3 @@ Well-built trading algorithms, which use specific parameters and technical indic
 Risk management is crucial in algorithm-based carry trading. It protects traders from major financial losses and ensures that the trading strategy lasts long by using smart risk-reducing methods and programming.
 
 The future of carry trading looks promising. It's expanding beyond just currency and cryptocurrency markets and is merging with new technologies like machine learning and artificial intelligence. Happy trading!
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

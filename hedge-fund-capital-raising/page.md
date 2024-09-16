@@ -290,13 +290,6 @@ Looking forward, the hedge fund industry is expected to continue evolving, influ
 
 In conclusion, the path to successful capital raising in hedge funds is complex but navigable. By adhering to these strategies and best practices, funds can position themselves favorably in the market, attract the right investors, and secure the capital necessary to thrive in the competitive and ever-changing world of hedge fund investing.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 **Hedge Fund Association (HFA)** - [www.thehfa.org](http://www.thehfa.org/): A global non-profit organization that provides resources and networking opportunities for those in the hedge fund industry.

@@ -275,13 +275,6 @@ In the realm of SPY options trading, staying informed and committed to continuou
 
 It's tempting to rush into trading with high hopes of immediate rewards, but it's crucial to remember that mastering SPY options, like mastering any skill, is a process. Begin with modest investments, allowing yourself room to learn without risking substantial sums. Through consistent practice, you can refine your strategies, learn from any missteps, and gradually grow your confidence and capabilities. Happy trading!
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **What are SPY options?**

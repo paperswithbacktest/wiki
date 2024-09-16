@@ -139,13 +139,6 @@ The WTI-Brent spread is a complex and dynamic aspect of the global oil market, p
 
 Strategies for trading the spread require a solid grasp of various pricing models and an acute awareness of the associated risks, underpinned by rigorous risk management practices. The role of derivatives, the impact of global economic indicators, and the influence of market sentiment have been dissected to offer traders a multifaceted view of the spread.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: ["The Pricing of Crude Oil"](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/03/WPM40-AnAnatomyoftheCrudeOilPricingSystem-BassamFattouh-2011.pdf) by Bassam Fattouh

@@ -36,10 +36,3 @@ As with any trading strategy, exploiting anomalies around earnings announcements
 ## Conclusion
 
 Earnings announcements continue to play a central role in the financial landscape. For algorithmic traders, understanding the impact of these announcements is essential to developing effective strategies. With the advent of artificial intelligence and machine learning techniques, it is likely that strategies based on earnings announcements will become increasingly sophisticated, offering traders new opportunities to exploit market inefficiencies. Ultimately, success lies in the ability to anticipate, understand and react appropriately to earnings announcements as part of a well-designed trading strategy.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

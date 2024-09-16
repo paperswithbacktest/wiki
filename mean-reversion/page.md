@@ -210,13 +210,6 @@ Mean reversion trading leans heavily on the belief that prices, across various a
 
 It’s imperative to note that while historical data generously informs strategy, the financial markets are ever-evolving entities influenced by a myriad of variables. Therefore, an adaptive mindset, continuous learning, and pragmatic adaptation to new technologies are imperative for traders aspiring to utilize mean reversion strategies effectively. Happy trading!
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **What precisely is mean reversion in the context of trading?**

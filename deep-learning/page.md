@@ -42,10 +42,3 @@ Not everything is rosy. The use of Deep Learning in algorithmic trading presents
 Deep Learning, with its benefits and challenges, has profoundly influenced the world of algorithmic trading. As a trader, developer or even just an enthusiast, understanding this technique and its impact on the financial world can offer many opportunities.
 
 If you're thinking of getting into algorithmic trading, or if you're looking to optimize your current strategies, a solid understanding of Deep Learning and its integration into your models could be the key to your future success.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

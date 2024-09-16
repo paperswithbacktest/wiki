@@ -154,13 +154,6 @@ The mechanics of gamma scalping involve balancing the Delta of a portfolio throu
 
 In practice, gamma scalping requires meticulous setup and diligent monitoring, with precise entry and exit criteria to manage the balance between potential profits and risks. Advanced strategies within gamma scalping necessitate careful selection of options based on strike price, expiration, and the trader's market view, with Python emerging as a powerful tool to automate and backtest strategies.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **What is positive gamma?**

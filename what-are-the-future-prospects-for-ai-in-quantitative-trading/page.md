@@ -18,10 +18,3 @@ Artificial intelligence (AI) has already transformed many aspects of quantitativ
 9. **Competition**: As more and more players adopt AI in quantitative trading, competition to exploit unique signals will become more intense.
 
 In conclusion, the future of AI in quantitative trading is promising, but it is also full of challenges. Players who can successfully combine human expertise with AI capabilities are likely to have a competitive advantage. However, it will be crucial to approach these technologies with caution and remain aware of the associated risks.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

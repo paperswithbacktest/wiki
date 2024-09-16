@@ -137,13 +137,6 @@ However, the panorama of technological innovations, [notably AI and machine lear
 
 For aspiring and seasoned traders alike, the path forward is carved not merely by algorithms and technologies but by an unwavering commitment to learning, adapting, and navigating through the serene and stormy seas of financial markets with sagacity and an unyielding respect for risk. Happy trading!
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: Donchian, Richard D. [*High finance in the Copper Industry*](https://www.jstor.org/stable/4469126). *Financial Analysts Journal* 14.3 (1958): 65-71.

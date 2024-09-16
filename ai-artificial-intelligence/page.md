@@ -9,8 +9,6 @@ The integration of Artificial Intelligence (AI) in stock trading marks a revolut
 
 Artificial Intelligence in stock trading encompasses the use of machine learning algorithms, data analytics, and predictive modeling to make more informed and timely trading decisions. By processing vast amounts of market data, AI systems can identify patterns and insights that are beyond human capacity. This includes analyzing market trends, financial news, and economic indicators, all at a speed and accuracy that significantly outpaces traditional methods.
 
-👉 [**Stock](https://wiki.paperswithbacktest.com/trading-strategies/equities) is by far the asset class with the most algo trading strategies. See [here](https://wiki.paperswithbacktest.com/trading-strategies/equities) for an overview of the different strategies.**
-
 The relevance of AI in today’s market cannot be overstated. In an era characterized by rapid information flow and high market volatility, AI provides a competitive edge. It enables traders and investors to process and react to market changes swiftly and effectively. Moreover, AI-driven analysis often leads to more nuanced and comprehensive market insights, enhancing the decision-making process.
 
 ![Untitled](images/Untitled.png)
@@ -215,13 +213,6 @@ As we look to the future, AI in stock trading is poised to continue its trajecto
 However, this journey is not without its challenges. Technical complexities, ethical considerations, and the need for comprehensive regulation are aspects that must be navigated with care. As we embrace the potential of AI, it's imperative to foster an environment where innovation is balanced with responsibility and transparency.
 
 In conclusion, the impact and potential of AI in stock trading are profound. It represents a new era in the financial markets, one where data-driven insights, efficiency, and advanced risk management redefine what's possible in trading. As investors, traders, and financial institutions continue to leverage AI, the landscape of stock trading will evolve, reflecting the innovative spirit and transformative power of artificial intelligence.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
 ## Frequently Asked Questions
 

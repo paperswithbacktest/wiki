@@ -259,13 +259,6 @@ Incorporating momentum into a diversified portfolio requires a keen eye for when
 
 In conclusion, momentum is a powerful phenomenon that, when understood and applied judiciously within a broader investment framework, can significantly contribute to portfolio performance. The definitive guide to momentum is not a static document but an evolving narrative, reflecting the dynamic nature of the markets it seeks to navigate.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: ["Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency"](https://www.jstor.org/stable/2328882) by Jegadeesh and Titman

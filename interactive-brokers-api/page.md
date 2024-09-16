@@ -1116,13 +1116,6 @@ The meteoric rise of algorithmic trading and the sheer volume of trades executed
 
 Interactive Brokers, as one of the vanguard institutions in the trading world, offers a comprehensive suite of APIs that cater to both novice and seasoned traders. Their tools provide a broad spectrum of functionalities, from the straightforward order placements to the more intricate real-time data analysis and trade automation. The versatility and robustness of the Interactive Brokers API suite make it an invaluable asset for those aiming to gain an edge in today's dynamic markets.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: [RESTful API: A Simple Overview](https://www.redhat.com/en/topics/api/what-is-a-rest-api)

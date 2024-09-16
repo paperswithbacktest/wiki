@@ -25,10 +25,3 @@ Dark pools are private trading platforms where transactions are carried out away
 4. **Evolving regulations**: Due to transparency and fairness concerns, dark pools are under increased regulatory scrutiny, which could affect their operation and appeal.
 
 In conclusion, **dark pools** offer significant advantages for **algorithmic trading**, notably in terms of anonymity and reduced market impact. However, their disadvantages, such as lack of transparency and the risk of front-running, need to be carefully considered by participants.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

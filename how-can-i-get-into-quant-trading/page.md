@@ -14,10 +14,3 @@ Entering the field of quantitative trading or "quant trading" requires a combina
 - Always **keep up to date**. Finance is an ever-changing world, so keep up to date with the latest research and innovations. Interviews for quant positions can be technical, so prepare well. Finally, risk management is fundamental to trading, so make sure you understand it.
 
 Keep in mind that perseverance, a passion for quantitative analysis and a continuous learning attitude will be your best assets in this competitive field.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

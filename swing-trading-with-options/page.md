@@ -308,13 +308,6 @@ In summary, success in swing trading with options is not serendipitous—it's th
 
 As markets evolve and new strategies emerge, we invite you to stay engaged with the content provided here. Your feedback and questions are vital to fostering a community of informed and successful swing traders. Whether you're just beginning or seeking to refine your approach, we encourage you to share your experiences and insights or reach out with inquiries. Let's continue the conversation and pursue trading excellence together.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **What is swing trading with options?**

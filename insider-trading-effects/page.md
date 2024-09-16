@@ -42,10 +42,3 @@ It is essential to comply with the rules established by the SEC when conducting 
 ## Conclusion
 
 Insider trading is a complex field that offers both opportunities and challenges for traders. Although controversial, there is evidence to suggest that insiders can have an advantage in the market. However, with technological advances and the evolution of algorithmic trading, it is possible to use this information to create more effective and balanced trading strategies. It is essential to always act legally and ethically to ensure the confidence and integrity of the financial market.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

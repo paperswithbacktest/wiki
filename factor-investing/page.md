@@ -35,10 +35,3 @@ The marriage between Factor Investing and algo trading is a natural one. Quantit
 ## Conclusion
 
 Factor Investing has established itself as a must-have strategy for quantitative traders. With the right mix of factors and judicious implementation through algo trading, investors can successfully navigate today's complex financial markets. While the past cannot guarantee future performance, a thorough understanding of factors and rigorous application of research can offer significant opportunities for returns.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

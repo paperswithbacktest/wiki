@@ -1292,13 +1292,6 @@ Python has undeniably revolutionized the realm of backtesting. Its versatility c
 
 Looking ahead, the fusion of Python with emerging technologies signals an exciting trajectory for backtesting. Integrations with machine learning offer the potential to unearth complex patterns and adapt strategies in real-time. Cloud computing, with its vast computational resources, promises scalability and efficiency, allowing for more robust and comprehensive tests. Furthermore, the convergence of blockchain technology, decentralized finance (DeFi), and Python opens up a new frontier where strategies can be tested on entirely new financial constructs and assets.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: [Quant Stack Exchange](https://quant.stackexchange.com/)

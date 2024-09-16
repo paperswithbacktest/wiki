@@ -261,13 +261,6 @@ For those aspiring to carve a niche in penny stock day trading, the journey migh
 
 To thrive in this environment, you must stay informed, practice relentlessly with tools like paper trading, and maintain an insatiable thirst for knowledge. The road to mastering penny stock day trading is long, but with dedication, it can indeed be fruitful.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: [U.S. Securities and Exchange Commission – Microcap Stock: A Guide for Investors](https://www.sec.gov/reportspubs/investor-publications/investorpubsmicrocapstockhtm.html)

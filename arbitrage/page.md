@@ -5,13 +5,6 @@ description: Uncover the intricacies of arbitrage in algorithmic trading, a prof
 
 Arbitrage is a fundamental concept in the world of finance and trading. In the context of algorithmic trading, arbitrage takes on particular importance, combining technology, mathematics, and finance to create lucrative opportunities. In this article, we'll explore the nuances of arbitrage in the context of algorithmic trading.
 
-👉 **Dive into our extensive database for advanced strategies that can help you capitalize on market inefficiencies across various asset classes:**
-
-- [**The Returns and Limits to Relative-Value ETF Arbitrage**](https://wiki.paperswithbacktest.com/trading-strategies/equities/the-returns-and-limits-to-relative-value-etf-arbitrage)
-- [**ETF Arbitrage: Intraday Evidence**](https://wiki.paperswithbacktest.com/trading-strategies/equities/etf-arbitrage-intraday-evidence)
-- [**International Volatility Arbitrage**](https://wiki.paperswithbacktest.com/trading-strategies/equities/international-volatility-arbitrage)
-- [**Generalized Statistical Arbitrage Concepts and Related Gain Strategies**](https://wiki.paperswithbacktest.com/trading-strategies/equities/generalized-statistical-arbitrage-concepts-and-related-gain-strategies)
-
 ![Untitled](images/Untitled.png)
 
 ## Table of Contents
@@ -44,10 +37,3 @@ While arbitrage may seem to offer risk-free profits, it's essential to understan
 ## Conclusion
 
 Arbitrage, when properly applied in algorithmic trading, can offer lucrative opportunities. However, like all investment strategies, it carries risks. It is therefore crucial for traders to have a thorough understanding of arbitrage mechanisms and the algo trading ecosystem.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

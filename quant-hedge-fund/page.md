@@ -318,13 +318,6 @@ From an investor's perspective, quant funds offer opportunities for diversificat
 
 Looking to the future, quant hedge funds are poised for further evolution, driven by advancements in AI, machine learning, and blockchain technology. While these developments promise to enhance fund strategies and performance, they also bring new challenges and risks.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 To deepen understanding and stay informed about the evolving world of quant hedge funds, a range of resources is available. These include authoritative books, insightful articles, and specialized websites, each offering different perspectives and levels of detail.

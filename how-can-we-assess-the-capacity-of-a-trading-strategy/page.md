@@ -26,10 +26,3 @@ Assessing the **capacity of a trading strategy** is crucial for traders and fund
 4. **Transaction costs**: As order size increases, transaction costs may also increase, which may affect capacity.
 
 In conclusion, assessing the **capacity of a trading strategy** is an essential element in ensuring its long-term viability. A clear understanding of capacity enables traders and fund managers to optimize their capital allocation, while minimizing the risks associated with market impact and other factors related to order size.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

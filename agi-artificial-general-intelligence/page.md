@@ -35,9 +35,3 @@ Despite its potential, the adoption of AGI in algorithmic trading is not without
 
 AGI, although still a developing concept, has the potential to revolutionize the algorithmic trading industry. By combining adaptability, holistic analysis and advanced risk management, AGI could well represent the future of trading. However, its adoption will raise both technical and ethical questions. A balance will have to be struck between innovation and regulation to guarantee a stable and fair market for all.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

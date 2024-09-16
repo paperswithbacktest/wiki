@@ -306,13 +306,6 @@ We’ve seen that trading in different market conditions requires adaptive strat
 
 For traders at all levels, from beginners taking their first steps to seasoned professionals, we've provided guidance and strategies to navigate the volatility landscape. Backtesting remains a critical process in validating these strategies, with the caveat that historical performance is not a foolproof predictor of future outcomes.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: ["Option Volatility & Pricing"](https://www.goodreads.com/book/show/119373.Option_Volatility_Pricing) by Sheldon Natenberg

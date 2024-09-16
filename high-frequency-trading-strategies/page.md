@@ -325,13 +325,6 @@ Yet, the world of HFT is not without its complexities and challenges. Controvers
 
 The essence of HFT lies not just in its speed but in its ability to redefine market dynamics continually. As we look to the future, while HFT may face challenges, its integral role in shaping the financial markets remains undeniable. For traders, investors, and market enthusiasts, understanding HFT is paramount in navigating the evolving world of finance and staying ahead in the game.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: [Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). Does algorithmic trading improve liquidity?. The Journal of Finance, 66(1), 1-33.](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2010.01624.x)

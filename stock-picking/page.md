@@ -35,10 +35,3 @@ However, this approach entails higher risks due to less diversification. A portf
 ## Conclusion
 
 Stock picking is an essential technique in the quantitative trader's arsenal. Although it offers the potential for superior returns, it requires rigorous analysis and a thorough understanding of the market. By combining this approach with other algorithmic trading strategies and keeping abreast of market trends, investors can maximize their chances of success. In the complex world of finance, stock picking, when well executed, can be the key to a successful investment strategy.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

@@ -23,10 +23,3 @@ However, this does not necessarily mean that retail traders cannot succeed or ar
 4. **Fewer Constraints**: Retail traders can have fewer constraints in terms of investment mandates, allowing them to explore diversified strategies.
 
 In conclusion, although the advent of quantitative trading has changed the competitive landscape and posed new challenges for retail traders, opportunities remain. The key for retail traders is to continue educating themselves, adapting their strategies, and using the tools and technologies available to maximize their competitive advantages.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

@@ -218,13 +218,6 @@ The distinctions between oversold and overbought stocks are crucial for developi
 
 Strategies for practical trading and risk management are also essential for traders dealing with the complexities of oversold stocks. Real-life examples and case studies are useful in demonstrating how these strategies can be applied and what potential outcomes they might yield. A discussion on the limitations and risks involved serves as a crucial reminder of the potential pitfalls and the importance of caution in trading.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **What does it mean for a stock to be oversold?**

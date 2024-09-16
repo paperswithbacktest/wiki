@@ -28,10 +28,3 @@ Smart Beta combines the advantages of passive investing with the benefits of act
 ## Conclusion
 
 Smart Beta represents an evolution in the world of quantitative trading, offering an alternative to traditional investment approaches. By combining the best features of passive and active strategies, Smart Beta offers a promising solution for those seeking to diversify their portfolios, minimize risk, and maximize returns. As with any investment strategy, thorough research and a clear understanding of the associated risks are essential for success in the complex world of Smart Beta.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

@@ -7,8 +7,6 @@ description: Discover the world of Algorithmic Trading with our comprehensive gu
 
 Algorithmic trading, often referred to as algo trading, is the process of utilizing advanced mathematical models and computer algorithms to make trading decisions on financial markets. Enabled by high-speed computers and data feeds, it represents a significant portion of trading volume in today's markets, transforming how assets are bought and sold globally[1]. This surge in its adoption can be attributed to its ability to execute trades at lightning speeds, often capitalizing on small price inefficiencies that are hard or even impossible for human traders to exploit.
 
-**👉 At Papers With Backtest we have accumulated a large database of algorithmic trading strategies covering the different asset classes: [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options).**
-
 ![Untitled](images/Untitled.png)
 
 While the realm of algo trading can appear intricate and elusive, especially to those unfamiliar with its nuances, it holds the promise of optimized trading strategies, reduced costs, and potentially increased profits. Whether you're an experienced trader seeking to refine your strategies or a novice curious about the possibilities this domain offers, this article endeavors to illuminate the various algorithmic trading strategies, their real-world applications, the advantages they confer, and the considerations crucial to their successful implementation.
@@ -615,13 +613,6 @@ The realm of algorithmic trading has expanded tremendously over the years, revol
 While the allure of algo trading is undeniable, its complexity is equally palpable. From understanding intricate strategies to keeping abreast of technological innovations, this journey is challenging, yet deeply rewarding for those who are persistent. If you're considering diving into the world of algo trading, remember that with the right resources, dedication, and continual learning, you too can leverage these powerful tools and strategies to navigate the tumultuous waters of financial markets.
 
 Let this comprehensive guide serve as a stepping stone into the vast ocean of algorithmic trading. Equipped with the insights and knowledge shared, you are now better prepared to embark on an exciting and potentially lucrative adventure in the world of algo trading. Safe trading!
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
 ## References & Further Reading
 

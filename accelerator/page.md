@@ -5,8 +5,6 @@ description: Explore the crucial role of accelerators in algorithmic trading, en
 
 As we enter the age of digitization, the field of trading has undergone a radical transformation, moving from noisy trading rooms to ultra-fast algorithms. In this ever-changing panorama, the importance of the "**Accelerator**" is crucial.
 
-**👉 Accelerators are great to backtest algorithmic trading strategies. To deep dive, here is a database of algo trading strategies developed by researchers: [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options).**
-
 ![Untitled](images/Untitled.png)
 
 ## Table of Contents
@@ -46,10 +44,3 @@ With advances in artificial intelligence and the need for deeper data analysis, 
 The modern era of trading is not just about traders' intelligence, but also about their technology's ability to process information quickly and efficiently. In this context, the accelerator is more than just a tool - it's the cornerstone of any effective algorithmic trading system.
 
 Ultimately, whether you're a curious novice to the world of algorithmic trading or a professional looking to optimize your platform, understanding and integrating an accelerator can mean the difference between success and failure.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

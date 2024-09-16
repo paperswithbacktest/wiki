@@ -24,10 +24,3 @@ Assembling a team for a **systematic trading hedge fund** requires a meticulous 
 7. **Talent retention**: A systematic trading hedge fund relies on its team. Be sure to recognize and reward hard work and innovation to retain your talent.
 
 In summary, to identify and assemble a team for a systematic trading hedge fund, it's crucial to clearly define roles, seek out the right talent, encourage diversity, and cultivate a positive company culture. Focusing on training and retaining talent will guarantee your company's long-term success.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

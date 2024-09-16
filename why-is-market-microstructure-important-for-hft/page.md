@@ -33,10 +33,3 @@ Market microstructure studies the mechanisms by which buy and sell orders are tr
 ## Conclusion
 
 Market microstructure, by revealing the subtleties of trading mechanisms, offers a competitive advantage to High-Frequency Trading players. Understanding how orders are processed, how information is disseminated, and how prices are determined is fundamental to success in the ultra-competitive field of HFT. Without this knowledge, high-frequency traders would be navigating blindly in the complex and fast-paced environment of modern financial markets.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

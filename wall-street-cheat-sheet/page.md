@@ -178,13 +178,6 @@ Every phase, from the early whispers of disbelief to the crushing weight of capi
 
 In an era where information is abundant, and the pace of market changes can be dizzying, tools like the Wall Street Cheat Sheet are invaluable. They ground us, provide perspective, and remind us that while markets evolve, the human psyche, with all its triumphs and frailties, remains a constant.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: Shiller, R. J. (2005). [Irrational exuberance](https://www.amazon.fr/Irrational-Exuberance-Robert-J-Shiller/dp/0767923634). Princeton university press.

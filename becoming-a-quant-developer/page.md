@@ -423,13 +423,6 @@ The road to becoming a quant developer is undoubtedly demanding, necessitating r
 
 Looking ahead, as the financial world grows in complexity, so does the role of the quant developer, evolving, adapting, and innovating. It is a future rife with challenges, but for the quant developer, it is also a future filled with immense potential and boundless opportunities.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: Derman, E. (2004). [My Life as a Quant: Reflections on Physics and Finance](https://www.amazon.com/My-Life-Quant-Reflections-Physics/dp/0470192739).

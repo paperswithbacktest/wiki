@@ -7,12 +7,6 @@ The concept of an all-weather portfolio isn't just an investment strategy, it's 
 
 Developed by Ray Dalio, the founder of Bridgewater Associates, one of the world's largest hedge funds, this strategy gained prominence as a blueprint for creating a balanced investment portfolio that could endure over time, regardless of economic downturns or booms. Its core principle is that it isn't designed to excel in any one particular environment, but rather to perform consistently across all environments.
 
-👉 **The All Weather Portfolio can be further enhanced with algorithmic trading. Here are some sample strategies:**
-
-- [**Risk Premia Harvesting Through Dual Momentum**](https://wiki.paperswithbacktest.com/trading-strategies/bonds-commodities-equities-reits/risk-premia-harvesting-through-dual-momentum)
-- [**Protective Asset Allocation (PAA): A Simple Momentum-Based Alternative for Term Deposits**](https://wiki.paperswithbacktest.com/trading-strategies/bonds-commodities-equities-reits/protective-asset-allocation-paa-a-simple-momentum-based-alternative-for-term-deposits)
-- [**The Trend is Our Friend: Risk Parity, Momentum and Trend Following in Global Asset Allocation**](https://wiki.paperswithbacktest.com/trading-strategies/bonds-commodities-equities-reits/the-trend-is-our-friend-risk-parity-momentum-and-trend-following-in-global-asset-allocation)
-
 ![Untitled](images/Untitled.png)
 
 In today's economic landscape, with uncertainties ranging from fluctuating interest rates and geopolitical tensions to unprecedented global events like pandemics, the all-weather portfolio's philosophy has only grown more pertinent. Investors are increasingly seeking strategies that can survive and thrive in an economic climate that seems to change more rapidly and unpredictably than ever before. With traditional investment approaches being challenged by market dynamics, the all-weather portfolio presents itself as a resilient framework that could minimize the need for constant, active management, and potentially reduce the anxiety that comes with the market’s ups and downs.
@@ -278,13 +272,6 @@ The All Weather Portfolio can be suitable for retirement savings as it aims to r
 The All Weather Portfolio stands as a testament to strategic diversification and risk parity, aiming to provide investors with a smoother investment journey across all economic climates.
 
 Investors should remember that while the All Weather Portfolio is designed for stability, it requires regular maintenance and a long-term perspective. Common pitfalls can be avoided with disciplined rebalancing, vigilant monitoring, and a commitment to the portfolio's underlying principles. With these strategies in mind, investors are encouraged to consider the All Weather Portfolio as a foundational component of their investment journey, adaptable to both their individual goals and the ever-changing economic landscape.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
 ## References & Further Reading
 

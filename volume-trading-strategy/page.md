@@ -249,13 +249,6 @@ Understanding and applying volume trading strategies is essential for any trader
 
 The future of volume trading looks promising, with technological advancements providing traders with more sophisticated tools and analytics. As markets evolve, the granularity of volume data will enhance, allowing for more precise and nuanced analysis. Real-time volume analytics, combined with artificial intelligence and machine learning, could lead to the development of predictive models that can adapt to changing market dynamics more efficiently.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: ["A Complete Guide to Volume Price Analysis"](https://www.amazon.com/Complete-Guide-Price-Analysis/dp/1491249390) by Anna Coulling

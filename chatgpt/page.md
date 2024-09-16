@@ -135,13 +135,6 @@ The blending of ChatGPT with trading isn't just about automation; it's about har
 
 But, as with any tool, its real value is unlocked when wielded with knowledge, understanding, and a penchant for continuous learning. To all traders—whether you're a seasoned pro or just starting your journey—we urge you to dive into the world of AI-driven trading with ChatGPT. Experiment, learn from both successes and setbacks, and continually adapt to reap the rewards that this AI revolution in trading promises.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **Can ChatGPT predict stock prices?**

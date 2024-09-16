@@ -5,8 +5,6 @@ description: Explore the benefits of the classic 60/40 portfolio, which balances
 
 The 60/40 portfolio is a classic [investment strategy](https://paperswithbacktest.com) characterized by its allocation of 60% of assets in stocks and 40% in bonds. This approach aims to strike a balance between the growth potential of stocks and the relative safety of bonds. The 60% allocation in stocks is designed to provide appreciation and dividends, while the 40% in bonds can offer regular interest income and potentially reduce the portfolio's overall volatility.
 
-**👉 A extension of 60/40 strategies are [Bonds / Equities algo trading strategies](https://wiki.paperswithbacktest.com/trading-strategies/bonds-equities). An example of such a strategy (with Python code) is [Opposing Seasonalities in Treasury Versus Equity Returns](https://wiki.paperswithbacktest.com/trading-strategies/bonds-equities/opposing-seasonalities-in-treasury-versus-equity-returns) by Mark J. Kamstra.**
-
 ![Untitled](images/Untitled.png)
 
 The S&P 500, on the other hand, is a stock market index comprising 500 of the largest companies listed on stock exchanges in the United States. It's widely regarded as a benchmark for U.S. equity performance, reflecting the health of the stock market and, by extension, the U.S. economy.
@@ -175,13 +173,6 @@ Our analysis revealed that while the 60/40 portfolio generally offers lower vola
 The evolving economic landscape, characterized by low-interest rates and changing market dynamics, has raised questions about the continued efficacy of the 60/40 strategy. This necessitates a dynamic approach to portfolio management, considering alternative allocations, and diversification into other asset classes like international equities, real estate, and even emerging sectors like cryptocurrencies.
 
 In conclusion, the choice between the 60/40 portfolio and investing solely in the S&P 500 depends on individual investment goals, risk tolerance, and market outlook. While the 60/40 strategy remains a viable approach for those seeking a balanced and diversified portfolio, the S&P 500 is more aligned with investors seeking higher growth potential. The key takeaway is the importance of understanding one's investment objectives and risk appetite, coupled with the need for adaptability in an ever-changing investment landscape.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
 ## References & Further Reading
 

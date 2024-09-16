@@ -121,13 +121,6 @@ Building an overnight trading portfolio should align with a trader's broader inv
 
 The guide concludes with a reminder of the potential that overnight trading holds within the broader context of financial markets. It underscores the importance of applying the concepts discussed with due diligence and a measured approach. Traders are encouraged to harness the insights provided, to remain disciplined, and to pursue continuous learning and adaptation as they navigate the intriguing world of overnight trading.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: ["The Psychology of Trading"](https://www.goodreads.com/book/show/1322562.The_Psychology_of_Trading) by Dr. Brett Steenbarger

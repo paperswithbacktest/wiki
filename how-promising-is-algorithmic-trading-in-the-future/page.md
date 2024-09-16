@@ -16,10 +16,3 @@ The prospect of algorithmic trading in the future is a subject of debate among f
 7. **Increased competition**: The algorithmic trading sector has become highly competitive, and the barrier to entry is high in terms of the technological skills and financial resources required. This could make the field less accessible to smaller players.
 
 In conclusion, algorithmic trading will probably continue to play an essential role in the financial landscape, but the players involved will need to adapt quickly to technological, regulatory and market evolutions. The promise of algorithmic trading lies in its ability to evolve and adapt to these changes.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

@@ -119,10 +119,3 @@ Answer as quickly as possible.
 ## Conclusion
 
 The realm of brainteasers, particularly in the context of quantitative high-frequency trading, is a testament to the importance of critical thinking and analytical skills in high-pressure environments. These puzzles aren't merely for entertainment or intellectual showmanship; they are a fundamental part of a trader's toolkit, helping to develop and maintain the sharpness required for making split-second decisions. Whether you are a seasoned trader or a newcomer to the field, embracing these challenges can be a game-changer, enhancing your ability to assess risk, make rapid calculations, and navigate the complex world of market dynamics. In a field where the stakes are high and the competition is fierce, mastering these brainteasers could very well be the edge you need to excel.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

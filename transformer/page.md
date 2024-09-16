@@ -39,10 +39,3 @@ While the potential of the Transformer is undeniable, traders need to be aware o
 ## Conclusion
 
 The Transformer architecture has revolutionized the world of NLP and offers immense potential for algo trading. By capturing complex relationships in data and offering in-depth text analysis, Transformer-based models can help algorithmic traders develop more successful strategies. As always, a thorough understanding of the model and appropriate training are essential to exploit this potential to the full.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

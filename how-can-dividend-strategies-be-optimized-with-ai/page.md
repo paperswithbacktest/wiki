@@ -37,10 +37,3 @@ AI is ideal for continuously monitoring the dividend strategy of competitors on 
 ## Conclusion
 
 The integration of artificial intelligence into dividend strategies paves the way for more accurate, responsive and informative investment methods. Whether anticipating dividend policies, automatically managing a portfolio or navigating the complex tax environment, AI is asserting itself as an invaluable tool for all those seeking to maximize their returns through dividends. By embracing this technology, investors are better equipped to make informed decisions and reinforce the robustness of their dividend investment strategies.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

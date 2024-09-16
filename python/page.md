@@ -1263,13 +1263,6 @@ For those eager to dive even deeper into the world of Python trading, numerous r
 
 In conclusion, as the adage goes: the best way to predict the future is to create it. With Python in your trading toolkit, you're well-equipped to do just that. Embrace the challenges, cherish the learnings, and above all, stay curious. The world of Python-based trading is expansive, and it awaits your unique mark.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: [High-frequency trading in the foreign exchange market - Bank for International Settlements](https://www.bis.org/publ/mktc05.pdf)

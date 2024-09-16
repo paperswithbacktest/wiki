@@ -20,10 +20,3 @@ The popularity of quantitative trading has grown over the years for several reas
 That said, quantitative trading is not without risk. Strategies can be based on models that fail to account for unforeseen events or "black swans". What's more, as more and more players adopt similar strategies, there is a risk of "congestion" where the potential benefits of certain strategies diminish.
 
 In short, although quantitative trading offers many advantages and has gained in popularity thanks to technological advances, the availability of data and disappointments with traditional methods, it is essential for traders and investors to understand the associated risks.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

@@ -30,10 +30,3 @@ With the advent of **algo trading**, the Reversal effect can be exploited with g
 ## Conclusion
 
 The Reversal effect offers an interesting opportunity for quantitative traders. Although the strategy presents challenges and requires a thorough understanding of market dynamics, it can deliver superior returns when implemented well. As always in trading, thorough research, due diligence, and prudent risk management are essential for success with the Reversal strategy. In the rapidly evolving world of **algo trading**, the Reversal effect is likely to continue to be an area of interest for traders and researchers in the future.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

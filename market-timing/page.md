@@ -38,10 +38,3 @@ Although Market Timing is most popular in the stock market, it can be applied to
 With the advent of **algo trading**, Market Timing has taken on a new dimension. Algorithms can process vast amounts of data in real-time and execute trades at a speed that humans can't match. This makes market timing strategies more efficient and accurate.
 
 However, it is essential to understand that Market Timing, like any strategy, requires in-depth analysis and constant evaluation. Financial markets are dynamic and evolve according to a multitude of factors. So even the best Market Timing strategy requires constant updating and adaptation to remain relevant and effective.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

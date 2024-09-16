@@ -256,13 +256,6 @@ Staying abreast of factors influencing crude oil prices, such as geopolitical ev
 
 In trading crude oil, success comes from a blend of thorough market knowledge, strategic planning, and risk management. Stay informed, remain adaptable, and always be prepared for the volatility and opportunities that the world of 'Black Gold' presents. For further learning, consider exploring books, webinars, and online courses that deep dive deeper into specific aspects of crude oil trading.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **How do I start trading crude oil?**

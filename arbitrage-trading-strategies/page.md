@@ -7,13 +7,6 @@ description: Learn about arbitrage trading, a profitable strategy that involves 
 
 Arbitrage, in the realm of trading, refers to the simultaneous purchase and sale of an asset to profit from a difference in its price in different markets or forms. This strategy capitalizes on temporary market inefficiencies, allowing traders to make risk-free profits as long as the price discrepancy exists. The concept hinges on the law of one price, which states that identical assets should have a single price in an efficient market. However, in reality, markets often exhibit inefficiencies due to various factors like differing information, transaction costs, or geographical barriers, presenting opportunities for arbitrage.
 
-👉 **Dive into our extensive database for advanced strategies that can help you capitalize on market inefficiencies across various asset classes:**
-
-- [**The Returns and Limits to Relative-Value ETF Arbitrage**](https://wiki.paperswithbacktest.com/trading-strategies/equities/the-returns-and-limits-to-relative-value-etf-arbitrage)
-- [**ETF Arbitrage: Intraday Evidence**](https://wiki.paperswithbacktest.com/trading-strategies/equities/etf-arbitrage-intraday-evidence)
-- [**International Volatility Arbitrage**](https://wiki.paperswithbacktest.com/trading-strategies/equities/international-volatility-arbitrage)
-- [**Generalized Statistical Arbitrage Concepts and Related Gain Strategies**](https://wiki.paperswithbacktest.com/trading-strategies/equities/generalized-statistical-arbitrage-concepts-and-related-gain-strategies)
-
 ![Untitled](images/Untitled.png)
 
 The roots of arbitrage trading trace back to ancient times when traders exploited price differences in goods across different markets. However, its evolution into a sophisticated financial strategy began in the early 20th century. The introduction of computer technology and advanced financial models in the latter half of the 20th century further revolutionized arbitrage trading. These advancements enabled traders to quickly identify and exploit price differences in complex financial instruments across global markets. Today, arbitrage is a common strategy employed by hedge funds and institutional traders, leveraging high-speed computing and data analysis tools to capture fleeting price discrepancies.
@@ -173,13 +166,6 @@ Risk arbitrage, often centered around mergers and acquisitions, seeks profits fr
 Market makers play a vital role in arbitrage, providing liquidity and enabling quicker execution of arbitrage strategies. However, arbitrage trading is not without its risks and limitations, including market, execution, systemic risks, and the challenges of a rapidly changing regulatory landscape.
 
 The role of technology in arbitrage trading cannot be understated. Advanced tools like arbitrage calculators and automated trading systems have become indispensable, enhancing the ability to identify and act on arbitrage opportunities swiftly.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
 ## References & Further Reading
 

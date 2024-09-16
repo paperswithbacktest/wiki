@@ -35,10 +35,3 @@ Quantitative traders use algorithms to identify and exploit seasonal trends. For
 ## Conclusion
 
 Seasonality, though often overlooked, is an essential element in a quantitative trader's arsenal. By understanding and exploiting seasonal trends, traders can improve the robustness and profitability of their **algo trading** strategies. However, as with any trading strategy, it's crucial to combine seasonality with other indicators to get a complete picture of the market.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

@@ -43,10 +43,3 @@ If possible, have your strategy and code reviewed by colleagues or experts in th
 ## Conclusion
 
 Testing a strategy before it goes live is a crucial step in guaranteeing its reliability and performance. By following these best practices, traders can ensure that their strategy is ready to be deployed in production while minimizing the associated risks. Always bear in mind that past performance is no guarantee of future results, but rigorous testing can greatly increase the chances of success.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

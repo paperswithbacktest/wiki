@@ -102,10 +102,3 @@ Market makers need to set bid and ask quotes for stocks while balancing their po
 ## Conclusion
 
 The collection of papers presented here encapsulates a wealth of knowledge and expertise in the field of financial market analysis. Each paper, with its unique focus and approach, contributes to a broader understanding of how financial markets operate and how various strategies and models can be employed to navigate these markets effectively. From exploring the statistical properties of asset returns to developing optimal trading strategies, these papers offer invaluable insights into the complexities of market dynamics. Whether for academic research, professional development, or personal interest, delving into these works provides a deeper appreciation of the mathematical and empirical frameworks that underpin modern financial markets, equipping readers with the knowledge to approach these challenging and ever-evolving environments with confidence and expertise.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

@@ -29,10 +29,3 @@ The GAN is a machine learning model designed to generate new data similar to exi
 ## Conclusion
 
 The General Adversarial Network (GAN) is without doubt one of the most exciting advances in artificial intelligence. Its ability to generate new, realistic data opens up unprecedented possibilities for algo trading. By understanding their mechanism and exploiting their potential, traders can enrich their strategies, prepare for various market scenarios and, ultimately, improve their returns.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

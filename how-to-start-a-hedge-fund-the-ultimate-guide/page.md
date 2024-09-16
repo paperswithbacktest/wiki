@@ -269,13 +269,6 @@ Yet, for those who navigate these intricacies, the rewards can be profound. Beyo
 
 As the global economic scenario continues to evolve, so does the hedge fund industry. Potential managers should remember that staying updated, continuous learning, and the ability to adapt are not just desirable traits but necessities in this fast-paced environment. The road to starting a hedge fund may be challenging, but for those who embark on this journey with preparation and dedication, the horizon holds boundless potential.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **What exactly is a hedge fund?**

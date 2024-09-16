@@ -40,10 +40,3 @@ With the development of algo trading, value-based strategy has been integrated i
 ## Conclusion
 
 The value-based investment strategy is a mainstay of quantitative trading. It offers a rational approach in a sometimes irrational market, providing opportunities for traders who know where to look. With the advent of algo trading, this traditional strategy has found a new lease of life, proving once again its timelessness and relevance. For those looking to get started in algorithmic trading, understanding and applying the value-based strategy can prove invaluable.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

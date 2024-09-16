@@ -383,13 +383,6 @@ In essence, the future of the quant profession lies in its adaptability. With th
 
 The journey into the realm of quantitative finance is undoubtedly challenging, replete with intricate mathematical models, swift technological changes, and the relentless pulse of global markets. Yet, for those with a fervent passion for numbers and a disciplined approach to their craft, the rewards can be profound. A career as a quant offers not just the allure of impressive compensation but the deeper satisfaction of solving some of the most intricate puzzles in the financial world. Remember, every groundbreaking algorithm, every predictive model, begins with a curious mind and the tenacity to seek answers. Your unique blend of analytical prowess and unwavering dedication positions you to not just navigate this dynamic field but to truly shape its future. As you embark on this quant journey, may your passion be your compass, and discipline your steadfast guide.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **What exactly does a quant do?**

@@ -213,13 +213,6 @@ But the narrative of Simons and Renaissance Technologies extends beyond mere pro
 
 As the world of trading evolves, with algorithms becoming ever more sophisticated and data analytics increasingly crucial, the tale of Jim Simons stands as a beacon. It reminds us that at the confluence of intellect, innovation, and intuition, there lies the potential for unparalleled success. But, just as Simons and his team at Renaissance have done, one must always be ready to adapt, evolve, and re-invent in the face of new challenges.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: [Chern-Simons Theory, Matrix Models, and Topological Strings - Marcos Mariño](https://arxiv.org/abs/hep-th/0406005)

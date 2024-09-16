@@ -173,13 +173,6 @@ However, while the compensation is undeniably attractive, it's essential to unde
 
 For those already in the field or those aspiring to be, the key to maintaining relevance and maximizing earning potential lies in continuous learning. This doesn't just mean keeping up with the latest algorithm or modeling technique but also developing a holistic understanding of global markets, refining soft skills, and staying adaptable in the face of unprecedented challenges and opportunities.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: [Glassdoor, Quant Intern Salaries](https://www.glassdoor.com/Salaries/quant-intern-salary-SRCH_KO0,11.htm)

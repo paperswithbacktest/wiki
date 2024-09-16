@@ -155,13 +155,6 @@ An essential takeaway is that while tools and indicators are pivotal, a trader's
 
 For those eager to amplify their trading potential, integrating trend following into your toolkit can be transformative. While no strategy guarantees success, with patience, persistence, and a dedication to continuous learning, trend following can be a lucrative and rewarding approach in the dynamic world of trading.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: Schwager, J.D. (1996). [Technical Analysis](https://www.amazon.com/Getting-Started-Technical-Analysis-Schwager/dp/0471295426). Wiley Finance.

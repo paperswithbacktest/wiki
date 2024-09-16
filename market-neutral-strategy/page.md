@@ -178,13 +178,6 @@ Market neutral strategies represent a sophisticated approach to investing, offer
 
 The core advantage of market neutral strategies lies in their capacity to reduce market risk. By balancing long and short positions, these strategies strive to generate returns independent of market direction, making them particularly attractive in volatile or uncertain market environments. However, they also come with limitations, including complexity in execution, reliance on model accuracy, and potential regulatory challenges.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 - ["Market Neutral Investing: Long/Short Hedge Fund Strategies"](https://www.amazon.com/Market-Neutral-Investing-Short-Hedge-Strategies/dp/1576600378) by Joseph G. Nicholas.

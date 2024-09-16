@@ -287,13 +287,6 @@ Turtle Trading's story serves not just as a historical anecdote but as an inspir
 
 To those inspired by the Turtles' journey, the path is clear. Embrace the core tenets of their philosophy: learn the rules, apply disciplined risk management, and follow the trends.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: Covel, Michael W. ["The Complete TurtleTrader: How 23 Novice Investors Became Overnight Millionaires."](https://en.wikipedia.org/wiki/The_Complete_TurtleTrader) HarperCollins, 2009

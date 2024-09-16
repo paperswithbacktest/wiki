@@ -28,10 +28,3 @@ Liquidity management is a crucial aspect of a hedge fund, as it has a direct imp
 4. **Constant monitoring**: Closely monitor liquidity ratios and market trends to anticipate and manage liquidity problems.
 
 In conclusion, **liquidity management** is fundamental to the operation and survival of a hedge fund. A good liquidity management strategy can help navigate difficult markets and ensure that the fund can continue to operate effectively, even in times of financial stress.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

@@ -191,13 +191,6 @@ But it's not just about keeping pace. To truly thrive, one must be a step ahead.
 
 To any aspirant in this dynamic realm: don’t merely aim to participate, aim to lead. The investment you make in your education today will be the fulcrum of your success tomorrow. And always remember, in a world dictated by codes and numbers, your most valuable asset is the knowledge you possess and the continuous efforts you make to enhance it.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **Are these courses suitable for complete beginners?**

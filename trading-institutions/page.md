@@ -259,13 +259,6 @@ Moreover, the influence of these institutions extends to regulatory frameworks a
 
 The importance of trading institutions is further underscored by their role in asset allocation and investment strategies. Asset managers and hedge funds, for instance, play a critical part in shaping investment trends and portfolio management practices. Their decisions have far-reaching implications for both retail investors and the broader economy. As the financial landscape continues to evolve, the role and influence of these institutions are likely to grow even further, making them indispensable actors in the world of finance.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **What exactly is an institutional trader?**

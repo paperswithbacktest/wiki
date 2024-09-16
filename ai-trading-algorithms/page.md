@@ -9,8 +9,6 @@ AI trading algorithms are not just a futuristic concept; they are here, reshapin
 
 An AI Trading Algorithm, at its core, is a set of programmed instructions designed to execute trades automatically based on input data. Unlike static algorithmic trading strategies, AI algorithms leverage the power of artificial intelligence, machine learning, and sometimes deep learning to digest vast amounts of market data, recognize complex patterns, predict market movements, and make decisions about when, how, and what to trade.
 
-**👉 Trading is one of the fields where AI has been omnipresent for the longest time. See the many algorithmic trading strategies to be found in different fields: [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options).**
-
 ![Untitled](images/Untitled.png)
 
 The financial landscape is increasingly embracing AI trading algorithms, acknowledging their role in enhancing market efficiency, liquidity, and the democratization of trading. From high-frequency trading firms to individual investors, AI algorithms are becoming indispensable tools for navigating the complexities of today's financial markets.
@@ -204,13 +202,6 @@ The transformative potential of AI trading algorithms is not just a projection�
 Embracing the evolution of AI in trading means recognizing the power of machine learning models and their ability to predict market movements with a level of accuracy previously unseen. It's about understanding the significance of real-time data processing and the edge that sophisticated pattern recognition can provide.
 
 However, the landscape is complex and ever-changing. It requires a commitment to continuous learning and adaptation. For traders, both novice and experienced, the call to action is clear: educate yourselves on the nuances of AI trading, engage with the technology, and consider how its integration into your trading strategies could be advantageous.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
 ## References & Further Reading
 

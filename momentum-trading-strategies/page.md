@@ -413,13 +413,6 @@ Understanding these drawbacks is crucial for traders to apply momentum strategie
 
 Momentum trading, rooted in the principles of capitalizing on market trends, is a dynamic approach to the financial markets. As with any trading strategy, understanding its nuances, tools, and techniques is paramount to harness its full potential. A well-informed momentum trader can effectively navigate the ebbs and flows of the market, extracting profits from price movements. However, it's crucial to remember that the financial world is ever-evolving. What works today might need adjustments tomorrow. Continuous learning, keeping abreast with the latest tools, and regularly revisiting one's strategies are essential practices for sustained success. Embrace the dynamism of momentum trading, but always couple it with a commitment to education and adaptability. The financial markets wait for no one, but for those willing to evolve with them, the rewards can be substantial.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## Frequently Asked Questions
 
 **What exactly is momentum trading?**

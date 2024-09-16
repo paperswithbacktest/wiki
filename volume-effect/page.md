@@ -32,10 +32,3 @@ Studies, such as those by Kang, Kim and Lee, have shown that option volume can p
 ## Conclusion
 
 Volume is a mainstay of trading, offering valuable insights into market activity and interest. For those new to **algo trading**, incorporating volume into their strategies can offer a significant advantage. As always, it is essential to combine volume with other indicators and methods to develop a complete and effective trading strategy. For traders seeking to master the art of algorithmic trading, the understanding and effective use of volume is a must.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

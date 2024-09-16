@@ -30,10 +30,3 @@ With the advent of **algo trading**, Small Caps have gained in popularity among 
 ## Conclusion
 
 Small Caps offer a unique opportunity for investors seeking to maximize their returns. Although these stocks present higher risks, they also offer higher potential returns. Thanks to **algo trading**, investors can harness the power of algorithms to successfully navigate the world of Small Caps. Ultimately, as with any trading strategy, thorough research and rigorous analysis are essential for success in small-caps trading.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

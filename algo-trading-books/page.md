@@ -198,13 +198,6 @@ This curated collection, encompassing a spectrum from foundational concepts to t
 
 As the trading landscape becomes increasingly digital and automated, arming oneself with knowledge from both classic texts and contemporary literature ensures a well-rounded perspective. Dive into these resources, constantly refresh your knowledge, and position yourself at the forefront of algorithmic trading's exciting future.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: [O'Hara, M. (1995). Market microstructure theory. Blackwell.](https://www.wiley.com/en-us/Market+Microstructure+Theory-p-9780631207610)

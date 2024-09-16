@@ -32,10 +32,3 @@ It's essential to understand that while the liquidity risk premium can offer hig
 ## Conclusion
 
 The liquidity risk premium is an essential element of the financial landscape. It provides compensation for the risk associated with holding less liquid assets but must be carefully managed to avoid potential losses. In the world of **algo trading**, understanding and exploiting the liquidity risk premium can offer significant benefits, but it requires careful analysis and prudent risk management.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence

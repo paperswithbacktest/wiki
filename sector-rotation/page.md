@@ -116,13 +116,6 @@ The strategic approach of sector rotation, enhanced by algorithmic accuracy, pro
 
 The dynamic nature of financial markets necessitates an ongoing educational trajectory for trading professionals. With ever-changing technologies, market trends, and regulatory frameworks, there is a compelling need to integrate new data streams, unconventional strategies, and cutting-edge algorithmic models into trading methodologies. The incorporation of machine learning, comprehensive data analysis, and, subsequently, predictive analytics further emphasizes the potential precision and depth with which sector rotation tactics can be executed, presenting an expansive spectrum of opportunities that remain to be fully harnessed.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1] [Investopedia: Sector Rotation](https://www.investopedia.com/terms/s/sectorrotation.asp)

@@ -7,8 +7,6 @@ description: Explore the evolution of AI in trading, from high-frequency trading
 
 Trading, once the domain of humans shouting orders across bustling exchange floors, has evolved considerably in the face of technological advancements. Since the onset of electronic trading in the 1970s, we have witnessed a gradual shift from human-driven to increasingly automated trading systems. In recent decades, Artificial Intelligence (AI) has embedded itself within the trading landscape, offering advancements that seemed unimaginable just a few years ago. From enabling high-frequency trading (HFT) to deciphering market sentiments through advanced analytics, AI has reshaped trading practices by introducing mechanisms that can learn from data and make informed decisions autonomously.
 
-**👉 Trading is one of the fields where AI has been omnipresent for the longest time. See the many algorithmic trading strategies to be found in different fields: [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options).**
-
 ![Untitled](images/Untitled.png)
 
 While AI has amplified trading strategies with capabilities such as recognizing patterns and making split-second trading decisions, it also brings along a spectrum of risks and ethical considerations. Algorithm-driven trades have sparked debates around fairness and systemic risks, and instances like the Flash Crash of 2010 serve as a stark reminder of the perils associated with relying heavily on automated systems. Moreover, the AI models, shrouded in their complexity, often operate as "black boxes," making it crucial for stakeholders to comprehend the limitations and capabilities of AI in a trading context.
@@ -298,13 +296,6 @@ Cybersecurity remains at the forefront of challenges, as AI-driven trading platf
 Artificial Intelligence in trading is a powerful tool that brings efficiency and new capabilities to the table. It offers benefits like enhanced algorithmic trading, sentiment analysis, and fraud detection. However, it's not without challenges and ethical concerns. As AI becomes a dominant force in trading, it's vital to ensure its use is balanced, regulated, and ethically driven. While the future of AI in trading promises more advancements, it's crucial to have frameworks for its ethical use. As you deep dive deeper into AI trading, remember the importance of education and understanding its nuances. Share your thoughts below and let's shape a future where AI and ethical trading coexist seamlessly. Your journey in AI trading is just starting; share this guide and let's navigate this evolving landscape together.
 
 Happy trading and investing!
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
 
 ## References & Further Reading
 

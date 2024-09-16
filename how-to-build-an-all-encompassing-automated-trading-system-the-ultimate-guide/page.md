@@ -499,13 +499,6 @@ In the horizon, as markets become even more interconnected and global, the role 
 
 In this journey, the essence isn't just about staying ahead of the curve, but about understanding the curve, adapting, and ensuring that technology, strategy, and ethics walk hand in hand. As we stand on the cusp of this new era in trading, it's not just about embracing change but about shaping it, ensuring a robust, transparent, and equitable trading ecosystem for all.
 
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
-
 ## References & Further Reading
 
 [1]: [FIX Protocol Ltd.](https://www.fixtrading.org/) - Official website detailing the Financial Information eXchange (FIX) protocol standards and its applications.

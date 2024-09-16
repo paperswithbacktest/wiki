@@ -34,10 +34,3 @@ Zero-shot Learning refers to the ability of an AI model to generalize from what 
 ## Conclusion
 
 Zero-shot Learning is a promising advance in AI, with enormous potential to revolutionize algo trading. It promises rapid adaptability, increased efficiency and expanded market opportunities. However, like all innovations, it comes with its own set of challenges. Trading companies looking to harness the power of Zero-shot Learning must do so with caution, fully understanding its benefits and limitations.
-
-💡 **Read more:**
-
-- Trading strategies papers with code on [Equities](https://wiki.paperswithbacktest.com/trading-strategies/equities), [Cryptocurrencies](https://wiki.paperswithbacktest.com/trading-strategies/cryptocurrencies), [Commodities](https://wiki.paperswithbacktest.com/trading-strategies/commodities), [Currencies](https://wiki.paperswithbacktest.com/trading-strategies/currencies), [Bonds](https://wiki.paperswithbacktest.com/trading-strategies/bonds), [Options](https://wiki.paperswithbacktest.com/trading-strategies/options)
-- [A curated list](https://github.com/paperswithbacktest/awesome-systematic-trading) of awesome libraries, packages, strategies, books, blogs, and tutorials for systematic trading
-- [A bunch of datasets](https://huggingface.co/paperswithbacktest) for quantitative trading
-- [A website to help you](https://paperswithbacktest.com/) become a quant trader and achieve financial independence
