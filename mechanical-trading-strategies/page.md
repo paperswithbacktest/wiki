@@ -70,7 +70,7 @@ In essence, the success of mechanical trading lies in its foundational component
 
 ## Mechanics Behind the Strategy: Indicators & Triggers
 
-Mechanical trading strategies heavily rely on technical indicators to inform and validate trading decisions. These indicators can be classified into two broad categories: [trend-following](https://paperswithbacktest.com/paper/does-trend-following-work-on-stocks) and [mean reversion](https://paperswithbacktest.com/paper/pairs-trading-performance-of-a-relative-value-arbitrage-rule#top).
+Mechanical trading strategies heavily rely on technical indicators to inform and validate trading decisions. These indicators can be classified into two broad categories: [trend-following](https://paperswithbacktest.com/paper/does-trend-following-work-on-stocks) and [mean reversion](https://paperswithbacktest.com/paper/pairs-trading-performance-of-a-relative-value-arbitrage-rule).
 
 **Trend-following Indicators**: As the name implies, these indicators aim to identify and capitalize on existing market trends. Some of the most common trend-following indicators include:
 
