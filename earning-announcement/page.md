@@ -61,11 +61,11 @@ Analyst estimates are essential for setting market expectations before an earnin
 
 The DCF model determines the value of an investment based on its expected future cash flows. This involves projecting a company's free cash flows over time and discounting them back to the present value using a discount rate, often represented by the company's weighted average cost of capital (WACC). The formula for DCF is:
 
-\[ 
+$$
 DCF = \sum \left( \frac{FCF_t}{(1 + r)^t} \right) 
-\]
+$$
 
-where \( FCF_t \) is the free cash flow for a given period \( t \), and \( r \) is the discount rate. This method allows analysts to estimate the intrinsic value of a company, which is critical in forming earnings expectations.
+where $FCF_t$ is the free cash flow for a given period $t$, and $r$ is the discount rate. This method allows analysts to estimate the intrinsic value of a company, which is critical in forming earnings expectations.
 
 However, traders leveraging algorithmic models must recognize the potential biases and inaccuracies in these estimates. Factors like overly optimistic growth assumptions, incorrect cost projections, and failure to account for macroeconomic changes can skew estimates. Additionally, analyst estimates can be influenced by systematic biases, such as herd behavior, where analysts' forecasts converge due to social influences or cognitive biases.
 

@@ -53,7 +53,9 @@ Algorithmic trading, often referred to as algo trading, involves using computer 
 
 At the heart of algorithmic trading are mathematical models and statistical analysis. By examining historical data, traders develop statistical models to predict future price movements of cryptocurrencies. This involves analyzing price patterns, market trends, and various indicators. For instance, a simple moving average (SMA) crossover strategy might be used, where a buy signal is generated when a short-term SMA crosses above a long-term SMA. This can be expressed mathematically as:
 
-\[ \text{Buy Signal: } \text{SMA}_{\text{short-term}} > \text{SMA}_{\text{long-term}} \]
+$$
+\text{Buy Signal: } \text{SMA}_{\text{short-term}} > \text{SMA}_{\text{long-term}}
+$$
 
 Utilizing these models, algorithms make decisions based on predefined rules without human intervention. Traders often leverage Python libraries like pandas, NumPy, and scikit-learn to develop and test these models. For instance, using historical price data, one can backtest a strategy by writing Python code that simulates trades based on the given model:
 

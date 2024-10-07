@@ -260,12 +260,15 @@ plt.show()
 
 ```
 
-The mathematical representation of the profit (\( \Pi \)) from a long straddle at expiration is given by:
-$\Pi = \begin{cases}
+The mathematical representation of the profit ($\Pi$) from a long straddle at expiration is given by:
+
+$$
+\Pi = \begin{cases}
 P - S + C_{0} - P_{0}, & \text{if } S < K \\
 C - S + C_{0} - P_{0}, & \text{if } S > K \\
 -C_{0} - P_{0}, & \text{if } S = K
-\end{cases}$
+\end{cases}
+$$
 
 where:
 

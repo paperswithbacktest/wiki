@@ -26,13 +26,13 @@ The beta of a stock is crucial for constructing a well-balanced portfolio that a
 
 ## Mathematical Definition of Beta
 
-Beta is a fundamental concept in finance used to assess the degree of a stock's volatility in relation to the market. This volatility measure is pivotal in understanding systemic risk, primarily because it utilizes statistical methods to quantify the relationship between the movements of a specific stock and the market as a whole. Mathematically, beta (\(\beta\)) is derived from the linear regression of a stock's returns against the market's returns, a process that enables traders to gauge how sensitive a stock is to market movements.
+Beta is a fundamental concept in finance used to assess the degree of a stock's volatility in relation to the market. This volatility measure is pivotal in understanding systemic risk, primarily because it utilizes statistical methods to quantify the relationship between the movements of a specific stock and the market as a whole. Mathematically, beta ($\beta$) is derived from the linear regression of a stock's returns against the market's returns, a process that enables traders to gauge how sensitive a stock is to market movements.
 
 The calculation of beta involves two critical statistical concepts: covariance and variance. Covariance measures how two variables move in relation to each other, while variance is a measure of how much a set of numbers differ from their mean. In the context of beta:
 
-1. **Covariance (\(Cov(r_i, r_m)\))**: This is calculated between the returns of the stock (\(r_i\)) and the returns of the market (\(r_m\)). It indicates the degree to which the stock's returns move in tandem with the market's returns. A positive covariance suggests that the stock typically moves in the same direction as the market, while a negative covariance indicates that it moves inversely.
+1. **Covariance ($Cov(r_i, r_m)$)**: This is calculated between the returns of the stock ($r_i$) and the returns of the market ($r_m$). It indicates the degree to which the stock's returns move in tandem with the market's returns. A positive covariance suggests that the stock typically moves in the same direction as the market, while a negative covariance indicates that it moves inversely.
 
-2. **Variance (\(Var(r_m)\))**: This represents the dispersion of the market's returns. It tells us how much the market’s returns fluctuate over time.
+2. **Variance ($Var(r_m)$)**: This represents the dispersion of the market's returns. It tells us how much the market’s returns fluctuate over time.
 
 The beta formula is given by:
 
@@ -40,7 +40,7 @@ $$
 \beta_i = \frac{Cov(r_i, r_m)}{Var(r_m)}
 $$
 
-This equation essentially normalizes the covariance by the market's overall volatility, providing a standardized measure of the stock's volatility relative to the market. If \(\beta = 1\), it indicates that the stock's price moves with the market. A beta greater than one means the stock is more volatile than the market, leading to potentially higher returns (or losses), while a beta less than one suggests that the stock is less volatile, making it a potentially safer investment. This mathematical framework enables algorithmic models to carefully assess and predict stock behavior in varying market conditions.
+This equation essentially normalizes the covariance by the market's overall volatility, providing a standardized measure of the stock's volatility relative to the market. If $\beta = 1$, it indicates that the stock's price moves with the market. A beta greater than one means the stock is more volatile than the market, leading to potentially higher returns (or losses), while a beta less than one suggests that the stock is less volatile, making it a potentially safer investment. This mathematical framework enables algorithmic models to carefully assess and predict stock behavior in varying market conditions.
 
 
 ## Beta in the Context of Algorithmic Trading

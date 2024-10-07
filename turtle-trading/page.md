@@ -106,7 +106,7 @@ The Turtles employed a pyramiding strategy, adding to their positions as the mar
 
 **Stop-Loss Techniques**
 
-Stop-loss orders were integral to the Turtle strategy, placed at 2 ATRs away from the entry price. This allowed the Turtles to limit their losses on any given trade while providing enough market "breathing room." The calculation for a stop-loss level $S$ on a long position entered at price \( E \) is:
+Stop-loss orders were integral to the Turtle strategy, placed at 2 ATRs away from the entry price. This allowed the Turtles to limit their losses on any given trade while providing enough market "breathing room." The calculation for a stop-loss level $S$ on a long position entered at price $E$ is:
 
 $S = E - (2 \times ATR)$
 

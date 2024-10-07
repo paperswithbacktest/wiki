@@ -42,7 +42,7 @@ $$
 P = \sum_{t=1}^{n} \frac{C}{(1 + r)^t}
 $$
 
-A higher \( r \) (interest rate) diminishes the present value of these future cash flows, lowering the bond's price. Conversely, when rates decline, the present value of the bond's future cash flows becomes more valuable, thus increasing its price.
+A higher $r$ (interest rate) diminishes the present value of these future cash flows, lowering the bond's price. Conversely, when rates decline, the present value of the bond's future cash flows becomes more valuable, thus increasing its price.
 
 ### Credit Risk and Its Influence on Bond Pricing
 

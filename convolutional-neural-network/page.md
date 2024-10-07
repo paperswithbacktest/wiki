@@ -57,7 +57,7 @@ $$
 y(i, j) = \max(x(m, n))
 $$
 
-for \(m, n\) within the pooling region. Pooling layers provide translational invariance, making the network robust to small transformations in the input data.
+for $m, n$ within the pooling region. Pooling layers provide translational invariance, making the network robust to small transformations in the input data.
 
 Fully connected layers, placed towards the end of the network, have neurons fully connected to the previous layer’s activations. These layers are responsible for combining learned features to perform final tasks, such as classification or regression. The output of a fully connected layer can be expressed as:
 
