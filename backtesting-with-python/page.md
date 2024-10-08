@@ -7,12 +7,6 @@ description: Discover why Python is the preferred choice for backtesting trading
 
 Backtesting is the backbone of validating any trading strategy. Before deploying a strategy in the real world, where financial capital is at risk, it's imperative to understand its theoretical performance in past scenarios. By re-running a strategy on historical data, traders can gain insights into the potential profitability, risks, and vulnerabilities of a strategy. Hence, backtesting is not just an optional step but a necessary bridge between theoretical strategy and practical execution.
 
-**👉 Backtesting is great, especially, to develop algorithmic trading strategies:**
-
-- **Example of strategy (with Python** 👨‍💻 **code): [Cross-Country Composite Momentum](https://bit.ly/48zACIC)**
-
-**If you are interested, here is a database of algo trading strategies developed by researchers** 🔬**: [Equities](https://bit.ly/3tTY2cq), [Cryptocurrencies](https://bit.ly/3Hj5EIE), [Commodities](https://bit.ly/48M0alC), [Currencies](https://bit.ly/3HmdSjq), [Bonds](https://bit.ly/3vzDSVI), [Options](https://bit.ly/3tT7ywu)**
-
 ![Untitled](images/Untitled.png)
 
 With its intuitive syntax and an abundant ecosystem of libraries and tools, Python has become the go-to language for many traders and financial analysts. It caters to both beginners, who may be writing their first lines of code, and to seasoned developers who require advanced tools for quantitative analysis. This democratization of tools means that one doesn't need a Wall Street budget to validate their trading ideas – a laptop, some data, and Python can go a long way.

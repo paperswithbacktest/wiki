@@ -7,12 +7,6 @@ description: Delve into the world of Dispersion Trading - a sophisticated volati
 
 Dispersion trading, rooted in the intricate dance of correlations among individual stocks and their indices, has steadily garnered attention from institutional investors and sophisticated traders alike. As financial markets evolve, so do the strategies employed to reap profits, and dispersion trading serves as a testament to this dynamism.
 
-**👉 Dispersion Trading is great, especially, when implemented (like pro quant traders and hedge funds) as algorithmic trading strategies:**
-
-- **Example of strategy (with Python** 👨‍💻 **code): [Cross-Country Composite Momentum](https://bit.ly/48zACIC)**
-
-**If you are interested, here is a database of algo trading strategies developed by researchers** 🔬**: [Equities](https://bit.ly/3tTY2cq), [Cryptocurrencies](https://bit.ly/3Hj5EIE), [Commodities](https://bit.ly/48M0alC), [Currencies](https://bit.ly/3HmdSjq), [Bonds](https://bit.ly/3vzDSVI), [Options](https://bit.ly/3tT7ywu)**
-
 ![Untitled](images/Untitled.png)
 
 At its core, dispersion trading is a hedged strategy that capitalizes on the mispricing between implied correlations of index options and the realized correlations of its constituents. In simpler terms, it's a bet on the divergence between the volatility of the index and the volatilities of its individual components. Given its reliance on correlations, it's no surprise that dispersion trading is often termed a "correlation play."
