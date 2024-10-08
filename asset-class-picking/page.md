@@ -16,6 +16,8 @@ Overall, asset class picking in algorithmic trading is not just about choosing i
 ![Untitled](images/Untitled.png)
 
 
+## Table of Contents
+
 ## Understanding Asset Classes
 
 Asset classes form the foundation of investment portfolios and are integral to algorithmic trading strategies. They are groupings of financial instruments that exhibit similar characteristics and are influenced by similar market factors. Understanding these classes is paramount for investors and traders aiming to optimize portfolio performance and manage risk effectively.
