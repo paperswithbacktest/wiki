@@ -9,6 +9,8 @@ Quantitative trading represents a significant evolution in the landscape of mode
 
 Within this framework lies spread trading, a sophisticated strategy integral to quantitative trading ventures. Spread trading involves simultaneously buying and selling related securities. These securities could be the same underlying asset with different contract months in the case of calendar spreads, or different assets with a historical correlation in the case of inter-market spreads. The primary aim is not to speculate on the direction of individual prices but to profit from the price difference, or "spread," between them. This approach is inherently designed to minimize exposure to market volatility—all while exploiting discrepancies and inefficiencies in market pricing.
 
+![1](images/1.png)
+
 This article will explain the workings of spread trading as a key component of quantitative trading. We'll explore the mechanics of executing spread trades, the quantitative models employed to reveal potential opportunities, and how risk is managed. By understanding how these elements intersect, traders can better harness the power inherent in quantitative trading strategies, achieving a balance between risk and reward that is pivotal to modern finance. Our exploration will also cover the challenges and advantages spread trading brings to the quantitative trading arsenal, setting the stage for future developments and innovations in the field.
 
 

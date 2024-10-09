@@ -8,6 +8,8 @@ Artificial Intelligence (AI) is revolutionizing the financial markets, making tr
 
 AI enables traders to use algorithms that can process complex datasets to detect trends and predict potential market movements, something that can greatly mitigate risks and improve returns. For instance, machine learning models can be trained on historical price data to forecast future prices or volatility. By leveraging predictive analytics, traders can capitalize on profitable opportunities more consistently.
 
+![1](images/1.png)
+
 In recent years, the accessibility of AI tools has expanded, making it an exciting area for beginners looking to enhance their trading strategies. This article aims to provide a roadmap for those new to AI in trading, guiding them through the initial steps of implementation. We will explore the basics of AI, discuss its benefits, address potential challenges, and offer practical advice on how to effectively integrate AI into trading practices. By the end, even beginners will be equipped with the knowledge to start utilizing AI in their trading endeavors, paving the way for more informed and strategic financial decisions.
 
 

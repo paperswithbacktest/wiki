@@ -9,6 +9,8 @@ In the fast-paced world of trading, latency can have a significant impact on the
 
 Understanding how latency affects trading performance is crucial for both traders and developers. Traders must comprehend the potential performance erosions due to latency to better calibrate their expectations and optimize their strategies. Developers, on the other hand, need to identify and mitigate these latency sources within their trading systems to enhance performance and maintain competitiveness in a highly dynamic market environment.
 
+![1](images/1.png)
+
 In this context, latency is not just about the speed of execution but also involves the timeliness of receiving and processing market data. A trading system that efficiently processes the latest market information and executes trades with minimal delay is more likely to remain competitive and profitable. Therefore, assessing the impact of latency involves examining both the propagation of market data and the execution of trades, considering numerous metrics and methodologies.
 
 This article will explore the methods and metrics used to assess the impact of latency on trading strategies. We'll investigate how latency can affect critical performance metrics and the tools available to measure and mitigate its effects. By exploring various facets of latency and its impact, this examination provides traders and developers with valuable insights to enhance their trading systems' efficiency and effectiveness.

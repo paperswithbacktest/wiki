@@ -9,6 +9,8 @@ Algorithmic trading, commonly referred to as algo trading, is revolutionizing th
 
 For individuals aspiring to enter this transformative field, understanding the path to becoming an algo trader is essential. It involves navigating various aspects such as obtaining the right education, acquiring essential skills, and developing effective trading strategies. A solid educational foundation in finance, mathematics, or computer science can provide a significant advantage. Mastering programming languages like Python or C++ is crucial, as they are commonly used in developing trading algorithms.
 
+![1](images/1.png)
+
 As technology continues to advance, the lure of algorithmic trading grows stronger, especially for those with a background in finance, math, or programming. The fusion of these disciplines allows for the creation of sophisticated models that can predict and respond to market movements with remarkable speed and accuracy. The allure is not just in the potential financial gains but also in the intellectual challenge of crafting algorithms that successfully navigate complex trading environments.
 
 In essence, algorithmic trading offers an exciting career path for individuals at the intersection of finance and technology. Those who cultivate the necessary knowledge and skills will find themselves well-positioned in this rapidly evolving industry. As you embark on this journey, prepare to engage in continuous learning and adaptation, crucial for thriving in the dynamic world of algo trading.

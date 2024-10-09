@@ -7,6 +7,8 @@ description: "Learn how to assess the capacity of a trading strategy in quantita
 
 In the fast-paced world of trading, developing a robust strategy is crucial for success. The capacity of a trading strategy is a critical aspect that enables traders to gauge how much capital it can effectively manage before its performance starts to deteriorate. This understanding not only informs the scalability of a strategy but also illuminates its potential for profitability. A well-calibrated strategy can maximize returns while mitigating risks, ensuring that traders can efficiently tap into market opportunities.
 
+![1](images/1.png)
+
 Assessing the capacity of a trading strategy involves a comprehensive evaluation of several factors, such as market liquidity and technological infrastructure, which can heavily influence its performance. Traders must be equipped with the knowledge and tools to measure these elements accurately to gain a competitive edge. This article explores various methods and considerations essential for effectively determining the capacity of a trading strategy. Through this understanding, traders can optimize their strategies to achieve sustainable success in various market conditions.
 
 

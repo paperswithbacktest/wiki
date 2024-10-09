@@ -8,6 +8,8 @@ Algorithmic trading has transformed financial markets over recent decades, resha
 
 Integrating currency strategies into algorithmic trading represents a major advancement due to its ability to enhance precision and efficiency. Currency markets are highly liquid and operate 24/7, making them ideal for algorithmic approaches designed to exploit brief arbitrage opportunities and to quickly react to economic events and market changes. Traditional currency trading often struggles with delays in execution and human error, two issues that algorithmic systems effectively mitigate.
 
+![1](images/1.png)
+
 The benefits of algorithmic trading for currency strategies are numerous. Foremost among these is the capacity for speed. Algorithms can execute trades in milliseconds, capturing fleeting opportunities that would be impossible for a human trader to exploit. Furthermore, the extensive use of historical data and predictive analytics in algorithm development allows for crafting strategies that are not only operationally efficient but also precisely targeted to capture desired market movements. 
 
 Algorithmic trading minimizes emotional biases that often plague human traders. This objectivity ensures that trades follow strictly defined parameters without deviation caused by fear or greed. Additionally, algorithmic systems can continuously monitor multiple currency pairs and execute trades at times optimized for global market conditions, something a human trader cannot feasibly achieve round the clock.

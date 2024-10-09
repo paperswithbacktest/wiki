@@ -7,6 +7,8 @@ description: "Choose the right Order Management System (OMS) for your hedge fund
 
 Evaluating and choosing an OMS (Order Management System) requires a meticulous approach, especially for a hedge fund where operations are complex and speed and efficiency are paramount. Here's a more specific and technical guide to making that choice:
 
+![1](images/1.png)
+
 **1. Basic OMS features**:
 
 - **Order routing**: OMS must enable frictionless routing of orders to different brokers or trading platforms.
@@ -63,4 +65,4 @@ Here are a few OMS (Order Management Systems) names that are popular and widely 
 
 It is important to note that the choice of OMS should be based on the specific needs of the hedge fund or institution. It is advisable to carry out a thorough evaluation, consult demos and, if possible, obtain feedback before making a decision.
 
-> 
+

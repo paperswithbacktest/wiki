@@ -7,6 +7,8 @@ description: "Learn how to build a successful quantitative trading system from s
 
 Building a quantitative trading system requires a combination of knowledge in finance, mathematics, statistics, and programming. Here's a detailed guide to help you create your own system.
 
+![1](images/1.png)
+
 
 ## Table of Contents
 

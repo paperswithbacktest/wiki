@@ -7,6 +7,8 @@ description: "Discover how to backtest and validate AI-driven trading algorithms
 
 The rise of information technology has given rise to a new form of trading: algorithmic trading driven by artificial intelligence (AI). As with any trading strategy, it is essential to test and validate algorithms before deploying them on the markets in real-time. Here's a guide to the process.
 
+![1](images/1.png)
+
 
 ## Table of Contents
 

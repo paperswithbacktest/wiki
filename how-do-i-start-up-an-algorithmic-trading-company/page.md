@@ -4,6 +4,7 @@ description: "Learn how to start an algorithmic trading business from scratch wi
 ---
 
 
+![1](images/1.png)
 
 Launching an algorithmic trading business is an ambitious project that requires careful planning and rigorous execution. Here's a detailed plan for starting such a business:
 

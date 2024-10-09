@@ -9,6 +9,8 @@ In today's competitive financial environment, presenting hedge fund performance 
 
 Key metrics play a critical role in evaluating hedge fund performance. Among these, Net Asset Value (NAV), Assets Under Management (AUM), and track record are vital indicators. NAV represents the fund's per-share value, calculated as the total value of all assets minus liabilities. It is a primary measure used to assess the fund's performance over time. AUM, on the other hand, measures the total market value of the assets the fund manages. It serves as an indicator of the fund's growth and its capability to attract investors. The track record provides a historical performance history, allowing investors to analyze past performances as a predictor of future success.
 
+![1](images/1.png)
+
 Clarity and transparency in communication are paramount when interacting with current and potential investors. Investors need to comprehend complex financial data quickly and easily. This makes straightforward communication of performance metrics crucial. By presenting clear, concise, and relevant financial information, hedge fund managers can effectively illustrate their fund's value proposition and strategic advantages.
 
 In essence, the ability to present hedge fund performance with explanatory precision not only aids in attracting investors but also helps in retaining them. A well-articulated performance presentation ensures that investors can make informed decisions, confident in the knowledge that they are partnering with a fund that prioritizes clarity and transparency.
