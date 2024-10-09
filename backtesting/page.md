@@ -19,11 +19,11 @@ Backtesting is the process of testing a trading strategy using historical market
 
 The core concepts underlying backtesting revolve around data integrity, realism, and objectivity. Accurate historical data is paramount; without it, the backtest results could be misleading. Realism pertains to the importance of incorporating realistic trading conditions, such as slippage, transaction costs, and liquidity constraints, to obtain results that are as close as possible to real-world outcomes. Objectivity ensures that the testing process remains unbiased, avoiding common pitfalls such as data snooping and overfitting.
 
-Historically, backtesting as a concept has deep roots, but its modern form evolved with the rise of computers and digitized data. In the early days of trading, chartists would manually plot market prices on paper to identify patterns and trends. These rudimentary methods had their limitations due to the tedious nature of manual calculations and the potential for human error. However, as technology advanced, especially in the late 20th century, traders gained access to sophisticated software that could process vast amounts of data rapidly. This technological leap marked the transformation of backtesting from a largely manual, time-consuming process to an automated, efficient one[1].
+Historically, [backtesting](/wiki/backtesting) as a concept has deep roots, but its modern form evolved with the rise of computers and digitized data. In the early days of trading, chartists would manually plot market prices on paper to identify patterns and trends. These rudimentary methods had their limitations due to the tedious nature of manual calculations and the potential for human error. However, as technology advanced, especially in the late 20th century, traders gained access to sophisticated software that could process vast amounts of data rapidly. This technological leap marked the transformation of backtesting from a largely manual, time-consuming process to an automated, efficient one[1].
 
-The evolution of backtesting is intrinsically linked to the broader shifts in the trading world. The proliferation of algorithmic trading, where computers are programmed to execute trades based on a set of predefined criteria, further underscored the importance of backtesting. As markets became more competitive and margins thinner, the need for robust, evidence-based strategies became paramount. Backtesting, with its ability to provide empirical evidence on a strategy's merits, naturally found its place at the heart of this new trading paradigm.
+The evolution of backtesting is intrinsically linked to the broader shifts in the trading world. The proliferation of [algorithmic trading](/wiki/algorithmic-trading), where computers are programmed to execute trades based on a set of predefined criteria, further underscored the importance of backtesting. As markets became more competitive and margins thinner, the need for robust, evidence-based strategies became paramount. Backtesting, with its ability to provide empirical evidence on a strategy's merits, naturally found its place at the heart of this new trading paradigm.
 
-In essence, backtesting has grown from manual chart plotting to an indispensable tool in the modern trader's arsenal, helping navigate the complexities of today's financial markets with greater confidence and precision.
+In essence, backtesting has grown from manual chart plotting to an indispensable tool in the modern trader's arsenal, helping navigate the compl[exit](/wiki/exit-strategy)ies of today's financial markets with greater confidence and precision.
 
 ## The Mechanics of Backtesting
 
@@ -51,11 +51,11 @@ Implementing backtesting involves a series of meticulous steps, each contributin
 6. **Run the Backtest**: With everything set up, execute the backtest. Your code will simulate trades based on your strategy, generating a series of hypothetical trades.
 7. **Analyze Results**: Once the backtest concludes, scrutinize the results. Examine key metrics such as return on investment (ROI), maximum drawdown, win/loss ratio, and others to gauge the strategy's performance.
 
-The tools you use play a pivotal role in backtesting. Not only do they affect the accuracy of your results, but they can also impact the efficiency of the process. Superior software will provide a wide range of data analytics tools, visualization options, and will integrate well with your data sources. Furthermore, they should allow for rigorous stress testing and provide insights into various risk factors associated with the strategy.
+The tools you use play a pivotal role in backtesting. Not only do they affect the accuracy of your results, but they can also impact the efficiency of the process. Superior software will provide a wide range of data analytics tools, visualization options, and will integrate well with your data sources. Furthermore, they should allow for rigorous stress testing and provide insights into various risk [factor](/wiki/factor-investing)s associated with the strategy.
 
 ## Data for Backtesting
 
-Financial data comes in different types, including fundamental data, market data, analytics, and alternative data.
+Financial data comes in different types, including fundamental data, market data, analytics, and [alternative data](/wiki/best-alternative-data).
 
 - Fundamental data is accounting data reported quarterly and contains information that can be found in regulatory filings and business analytics. It is important to confirm the exact time each data point was released to use the information correctly.
 - Market data includes all trading activities on an exchange or trading venue, providing an abundant dataset for strategy research.
@@ -122,11 +122,11 @@ QQQQ,20080509,8:02:53,47.98,100
 
 Volume bars circumvent that problem by sampling every time a pre-defined amount of the security’s units (shares, futures contracts, etc.) have been exchanged. For example, we could sample prices every time a futures contract exchanges 1,000 units, regardless of the number of ticks involved.
 
-Tick bars can introduce arbitrariness in the number of ticks and order fragmentation, while volume bars sample every time a pre-defined amount of the security's units have been exchanged, resulting in better statistical properties and providing a convenient artifact for analyzing the interaction between prices and volume in market microstructure theories.
+Tick bars can introduce arbitrariness in the number of ticks and order fragmentation, while [volume](/wiki/volume-trading-strategy) bars sample every time a pre-defined amount of the security's units have been exchanged, resulting in better statistical properties and providing a convenient artifact for analyzing the interaction between prices and volume in market microstructure theories.
 
 **Dollar bars**
 
-Dollar bars are formed by sampling an observation every time a pre-defined market value is exchanged, which is more reasonable than sampling by tick or volume when the analysis involves significant price fluctuations. The number of outstanding shares often changes multiple times over the course of a security’s life, as a result of corporate actions, and dollar bars tend to be robust in the face of those actions. Thus, dollar bars are more interesting than time, tick, or volume bars.
+Dollar bars are formed by sampling an observation every time a pre-defined market value is exchanged, which is more reasonable than sampling by tick or volume when the analysis involves significant price fluctuations. The number of outstanding shares often changes multiple times over the [course](/wiki/best-algorithmic-trading-courses) of a security’s life, as a result of corporate actions, and dollar bars tend to be robust in the face of those actions. Thus, dollar bars are more interesting than time, tick, or volume bars.
 
 **Tick Imbalance Bars**
 
@@ -154,7 +154,7 @@ Downsampling is a way to reduce the amount of data used to fit the ML algorithm 
 
 **Event-Based Sampling**
 
-Portfolio managers make investment decisions after significant events occur, such as changes in market conditions or economic indicators. These events are used to train machine learning algorithms to predict future outcomes. If the algorithm is not accurate, the definition of a significant event may need to be adjusted or alternative features considered.
+Portfolio managers make investment decisions after significant events occur, such as changes in market conditions or economic indicators. These events are used to train machine l[earning](/wiki/earning-announcement) algorithms to predict future outcomes. If the algorithm is not accurate, the definition of a significant event may need to be adjusted or alternative features considered.
 
 In financial time series, the signal-to-noise ratio is usually low. Using the entire dataset can cause the model to focus too much on noisy samples and not enough on informative ones. Downsampling can improve the signal-to-noise ratio, but randomly doing so is not effective as it doesn't change the ratio of noisy to informative samples. A better solution is to apply a CUSUM filter, which only creates a sample when the next values deviate sufficiently from the previous value.
 
@@ -205,7 +205,7 @@ To achieve meaningful backtest results, one must meticulously set up the right f
 The period for backtesting should align with the strategy's intended holding duration. Day trading strategies might be best tested over shorter periods with high granularity data, while long-term investment strategies might require years of data for accurate evaluation. Also, ensure to include various market conditions, such as bullish, bearish, and sideways markets, to ensure the strategy's robustness across different scenarios.
 
 **Strategy Types**:
-A one-size-fits-all approach rarely works in trading. Diversifying strategies is key. Consider trend-following, mean-reversion, breakout, or momentum strategies based on asset behavior and market conditions. For instance, trend-following might excel in commodities, while mean-reversion could be suitable for stable, dividend-paying equities. Research and backtest across diverse strategies to find the most reliable ones for the selected assets and market conditions.
+A one-size-fits-all approach rarely works in trading. Diversifying strategies is key. Consider trend-following, mean-reversion, [breakout](/wiki/breakout-trading), or [momentum](/wiki/momentum) strategies based on asset behavior and market conditions. For instance, trend-following might excel in commodities, while mean-reversion could be suitable for stable, dividend-paying equities. Research and backtest across diverse strategies to find the most reliable ones for the selected assets and market conditions.
 
 Achieving reliable backtesting results isn't just about running numbers; it's about curating the right environment for those numbers to provide meaningful insights. By carefully choosing markets, assets, and data, determining the right timeframe, and diversifying strategies, traders can lay a robust foundation for backtesting that truly informs and improves their trading endeavors.
 
@@ -229,13 +229,13 @@ When choosing a backtesting tool, it's essential to consider not only its core f
 
 ## Evaluating and Interpreting Backtest Results
 
-Assessing the performance of your trading strategy is important, and backtesting the model on a past period is a common way to do this. Metrics such as the Sharpe ratio and maximum drawdown are often used to evaluate financial machine learning models.
+Assessing the performance of your trading strategy is important, and backtesting the model on a past period is a common way to do this. Metrics such as the Sharpe ratio and maximum drawdown are often used to evaluate financial [machine learning](/wiki/machine-learning) models.
 
 However, a common mistake in backtesting is repeating the backtest multiple times on the same period until a desired result is achieved. Prado (2018) even shows that it is possible to achieve any Sharpe ratio as long as the backtest is repeated enough times.
 
 To avoid artificially inflating the Sharpe ratio, it's important to consider the number of backtests performed and correct for this factor. Additionally, to prevent overfitting to a specific past period, the user could generate multiple paths using combinatorial purged cross-validation. More information on generating these paths can be found in Prado (2018).
 
-Additionally, the statistics below provide information on the key features of the backtest:
+Additionally, the [statistics](/wiki/bayesian-statistics) below provide information on the key features of the backtest:
 
 **Sharpe Ratio**: A widely-recognized metric, the Sharpe Ratio measures the risk-adjusted return of a strategy. It's the average return earned in excess of the risk-free rate per unit of volatility. A higher Sharpe Ratio indicates that the returns were more consistent and less volatile[2]. It's a favorite because it gives traders an idea of the strategy's return per unit of risk undertaken.
 
@@ -289,7 +289,7 @@ The information horizon diagram was published in Grinold and Kahn’s Active Por
 
 **Paper Trading**
 
-Paper trading refers to trading a strategy through your broker’s API, but using a demo account with fake money. It’s good because you can see that the API works, and see if it crashes or if there are data errors. And it also gives you a better feel for the number of trades it will make and how it will feel emotionally. However it takes a long time since you have to wait for the markets. It is more practical for high frequency systems which can generate a statistically significant number of data points in a short amount of time.
+Paper trading refers to trading a strategy through your broker’s API, but using a demo account with fake money. It’s good because you can see that the API works, and see if it crashes or if there are data errors. And it also gives you a better feel for the number of trades it will make and how it will feel emotionally. However it takes a long time since you have to wait for the markets. It is more practical for [high frequency](/wiki/high-frequency-trading) systems which can generate a statistically significant number of data points in a short amount of time.
 
 ## Potential Pitfalls and How to Avoid Them
 
@@ -313,7 +313,7 @@ It is impossible to trade on a price right when you see it, although this is a c
 
 **Transaction Costs**
 
-It is also easy to inaccurately estimate transaction costs. Transaction costs change over time, for example increasing when volatility rises and market makers get scared. Market impact also depends on the liquidity of the stock, with microcaps being the least liquid.
+It is also easy to inaccurately estimate transaction costs. Transaction costs change over time, for example increasing when [volatility](/wiki/volatility-trading-strategies) rises and market makers get scared. Market impact also depends on the [liquidity](/wiki/liquidity-risk-premium) of the stock, with microcaps being the least liquid.
 
 **Unrealistic Backtesting**
 

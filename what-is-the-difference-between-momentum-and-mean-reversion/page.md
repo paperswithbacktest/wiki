@@ -20,7 +20,7 @@ By contrasting these two strategies, investors can better understand how they di
 
 Momentum trading is a popular investment strategy that involves buying securities that have exhibited high returns over a specific period. The core idea behind this approach is straightforward: assets that perform well will likely continue to do so, driven by sustained investor interest and prevailing market trends. 
 
-At its heart, momentum trading capitalizes on the continuation of existing market trends. If a stock is on an upward trend, a momentum trader will purchase it in the hope that it will continue to rise. Conversely, they may sell or short a stock experiencing a downward trend, expecting further depreciation. 
+At its heart, [momentum](/wiki/momentum) trading capitalizes on the continuation of existing market trends. If a stock is on an upward trend, a momentum trader will purchase it in the hope that it will continue to rise. Conversely, they may sell or short a stock experiencing a downward trend, expecting further depreciation. 
 
 Investor emotions play a crucial role in the success of this strategy. Markets are often swayed by sentiment, leading to scenarios where prices may rise or fall more steeply than fundamental valuation models would suggest. For instance, excessive optimism can drive prices higher as investors fear missing out, while mass pessimism can push prices lower.
 
@@ -75,14 +75,14 @@ where:
 
 A z-score far from zero indicates a significant deviation, suggesting the potential for mean reversion.
 
-Another critical aspect is leveraging historical price data. Traders analyze past price movements to identify patterns and determine reasonable estimates of an asset's mean value. This historical analysis helps traders set entry and exit points for their positions. Technical indicators, such as Bollinger Bands and moving averages, are commonly used to gauge how far an asset's price has strayed from the mean and to signal potential reversion points.
+Another critical aspect is leveraging historical price data. Traders analyze past price movements to identify patterns and determine reasonable estimates of an asset's mean value. This historical analysis helps traders set entry and [exit](/wiki/exit-strategy) points for their positions. Technical indicators, such as Bollinger Bands and moving averages, are commonly used to gauge how far an asset's price has strayed from the mean and to signal potential reversion points.
 
 Overall, mean reversion strategies require diligent analysis and a robust understanding of statistical principles and historical data to identify opportunities where asset prices are likely to revert to their mean. This strategic approach allows investors to make informed decisions and potentially profit from market inefficiencies.
 
 
 ## Key Differences Between Momentum and Mean Reversion
 
-Momentum and mean reversion strategies represent two distinct approaches to trading, each with its unique focus and methodology. Momentum trading centers on capturing ongoing market trends. It operates on the premise that securities displaying strong price movements will likely continue in the same direction. Traders utilizing this strategy aim to capitalize on accelerating price trends, often driven by factors like investor psychology, news events, or economic data.
+Momentum and mean reversion strategies represent two distinct approaches to trading, each with its unique focus and methodology. Momentum trading centers on capturing ongoing market trends. It operates on the premise that securities displaying strong price movements will likely continue in the same direction. Traders utilizing this strategy aim to capitalize on accelerating price trends, often driven by [factor](/wiki/factor-investing)s like investor psychology, news events, or economic data.
 
 In contrast, mean reversion is built on the notion that asset prices will eventually return to their long-term mean or average level. This strategy banks on the correction of prices that have deviated significantly from their historical averages. Traders here focus on identifying overbought or oversold conditions with the expectation of price retracements.
 
@@ -126,7 +126,7 @@ Momentum strategies are particularly advantageous in trending markets, allowing 
 
 On the other hand, mean reversion strategies are designed to exploit the tendency of asset prices to revert to their historical averages. These strategies are well-suited for range-bound markets where prices fluctuate within a certain range without establishing a prolonged trend. When prices deviate significantly from their mean, mean reversion traders take positions expecting a price reversal towards the average. Although mean reversion can be effective in stable markets, it may suffer during strong trending conditions. In such cases, prices can continue departing from their historical averages for extended periods, resulting in prolonged losses for those relying on mean reversion.
 
-Both momentum and mean reversion strategies carry inherent risks. Momentum traders must be cautious of overpaying for assets in the heat of a trend, which can result in significant drawdowns if the trend reverses. Meanwhile, mean reversion traders need to be wary of markets that are undergoing structural changes, as relying solely on historical price levels might lead to incorrect assumptions about future price movements.
+Both momentum and mean reversion strategies [carry](/wiki/carry-trading) inherent risks. Momentum traders must be cautious of overpaying for assets in the heat of a trend, which can result in significant drawdowns if the trend reverses. Meanwhile, mean reversion traders need to be wary of markets that are undergoing structural changes, as relying solely on historical price levels might lead to incorrect assumptions about future price movements.
 
 Ultimately, understanding the market environment and utilizing solid risk management techniques are critical when implementing either strategy. Careful analysis of market conditions can help traders determine when to apply momentum or mean reversion strategies to maximize returns and mitigate potential losses.
 
@@ -146,7 +146,7 @@ Ultimately, a comprehensive understanding of these strategies allows traders to 
 
 ### What type of investor is best suited for momentum strategies?
 
-Momentum strategies appeal to investors who are comfortable with taking on higher risk for the potential of substantial gains. These investors often have a speculative outlook and are keen on trading securities that show a consistent upward or downward trend. Momentum investors typically engage in short-term to medium-term trading and prefer liquid markets where transactions can be executed easily and quickly. They are usually disciplined and well-versed in technical analysis, utilizing tools such as moving averages and momentum indicators to make timely decisions. This strategy requires an ability to tolerate volatility and remain calm amid market fluctuations, as the profitability of momentum trading heavily depends on precise entry and exit timing.
+Momentum strategies appeal to investors who are comfortable with taking on higher risk for the potential of substantial gains. These investors often have a speculative outlook and are keen on trading securities that show a consistent upward or downward trend. Momentum investors typically engage in short-term to medium-term trading and prefer liquid markets where transactions can be executed easily and quickly. They are usually disciplined and well-versed in technical analysis, utilizing tools such as moving averages and momentum indicators to make timely decisions. This strategy requires an ability to tolerate [volatility](/wiki/volatility-trading-strategies) and remain calm amid market fluctuations, as the profitability of momentum trading heavily depends on precise entry and exit timing.
 
 ### How can mean reversion strategies be applied to different asset classes? 
 
@@ -158,7 +158,7 @@ Mean reversion strategies can be effectively applied across a variety of asset c
 
 - **Currencies**: Foreign exchange markets often exhibit mean reversion patterns due to the influence of economic fundamentals and interest rate differentials. Currency pairs that have moved significantly away from their mean exchange rates may be targeted for trades.
 
-Statistical tools and backtesting are essential components for applying mean reversion successfully, ensuring that asset price movements align with historical data patterns.
+Statistical tools and [backtesting](/wiki/backtesting) are essential components for applying mean reversion successfully, ensuring that asset price movements align with historical data patterns.
 
 ### What are the common pitfalls of using momentum or mean reversion strategies?
 

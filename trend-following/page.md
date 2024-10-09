@@ -23,7 +23,7 @@ As decades progressed, the 1970s and 1980s witnessed the rise of prominent trend
 
 [Commodity Trading Advisors (CTAs) like John W. Henry & Company, Dunn Capital Management, and Chesapeake Capital, further championed the trend following cause](https://paperswithbacktest.com/paper/two-centuries-of-trend-following). By applying statistical models and rigorous backtesting, these funds managed billions of dollars and showcased the scalability of trend following strategies. The success of these entities was largely based on their ability to capture massive trends in commodity and futures markets, reaping substantial profits during various market cycles.
 
-However, trend following hasn't always been a smooth sail. Historical downturns, particularly during periods of market consolidation or sideways trends, posed significant challenges. The late 1990s and early 2000s were tough times for many trend followers due to abrupt market reversals and changing macroeconomic conditions.
+However, [trend following](/wiki/trend-following) hasn't always been a smooth sail. Historical downturns, particularly during periods of market consolidation or sideways trends, posed significant challenges. The late 1990s and early 2000s were tough times for many trend followers due to abrupt market reversals and changing macroeconomic conditions.
 
 ## Fundamental Concepts
 
@@ -35,7 +35,7 @@ A few pivotal terminologies associated with trend following encompass:
 - **Breakouts**: Manifest when an asset's price surpasses a resistance or plunges below a support level, often accompanied by a surge in trading volume. Recognizing these breakouts is imperative for trend followers as they could signify the inception of a fresh trend.
 - **Drawdown**: Denoting the contraction from an investment's peak value to its trough. It's instrumental in gauging the inherent risk or volatility of a specific trading technique.
 
-The amalgamation of trend following with algorithmic trading is primarily due to the strategy's rule-centric nature. Each decision within a trend following system is explicitly definable and thereby programmable into software.
+The amalgamation of trend following with [algorithmic trading](/wiki/algorithmic-trading) is primarily due to the strategy's rule-centric nature. Each decision within a trend following system is explicitly definable and thereby programmable into software.
 
 Notable facets of trend following within the domain of algorithmic trading encompass:
 
@@ -49,9 +49,9 @@ These concepts underline the essence of trend following and its synergy with alg
 
 Crafting a robust trend following strategy commences with selecting pertinent indicators and tools, each being a linchpin guiding traders through myriad market motions. A staple in many trader toolkits, the Moving Average Crossover strategy simply posits: trade long when a shorter period moving average crosses above a longer one, and conversely, trade short when below[3]. However, the crux of strategy development hinges not only on the selection of such tools but on a thorough [back-testing utilizing historical data](https://paperswithbacktest.com/datasets) to ascertain efficacy and identify potential pitfalls before real capital is deployed.
 
-Pivotal in the realm of trend following is also the Average True Range (ATR), adept at quantifying volatility. A common application involves establishing a “volatility filter” wherein trading is refrained unless price moves by a certain percentage of the ATR, thereby ensuring trades are only entered during sufficiently trending markets[4].
+Pivotal in the realm of trend following is also the Average True Range (ATR), adept at quantifying [volatility](/wiki/volatility-trading-strategies). A common application involves establishing a “volatility filter” wherein trading is refrained unless price moves by a certain percentage of the ATR, thereby ensuring trades are only entered during sufficiently trending markets[4].
 
-A palpable example surfaces with the Donchian Channel, which trades on breakouts of an n-period high or low. If a price surpasses the high of the last n-periods, a long position is adopted, and conversely, dipping below the n-period low warrants a short position. Incorporating this into an algorithmic context entails coding logic to enter and exit trades based on these price breakpoints. A Python example utilizing the Pandas library could resemble:
+A palpable example surfaces with the Donchian Channel, which trades on [breakout](/wiki/breakout-trading)s of an n-period high or low. If a price surpasses the high of the last n-periods, a long position is adopted, and conversely, dipping below the n-period low warrants a short position. Incorporating this into an algorithmic context entails coding logic to enter and [exit](/wiki/exit-strategy) trades based on these price breakpoints. A Python example utilizing the Pandas library could resemble:
 
 ```python
 import pandas as pd
@@ -77,7 +77,7 @@ Finally, perpetual refinement is key. Market conditions perpetually ebb and flow
 
 ## Implementing Trend Following Algorithms
 
-Commencing with the integration of trend-following logic into a trading bot, it’s crucial to ensure the algorithm cleanly translates theoretical strategy into precise, actionable trades. The Python-bolstered `backtrader` library stands out as an accessible platform for testing and implementing these algorithms, enabling traders to [backtest strategies with historical data](https://paperswithbacktest.com/datasets), and also facilitating live trading[5].
+Commencing with the integration of trend-following logic into a trading bot, it’s crucial to ensure the algorithm cleanly translates theoretical strategy into precise, actionable trades. The Python-bolstered `[backtrader](/wiki/backtrader)` library stands out as an accessible platform for testing and implementing these algorithms, enabling traders to [backtest strategies with historical data](https://paperswithbacktest.com/datasets), and also facilitating live trading[5].
 
 Consider a simple Moving Average Crossover strategy; with Python and backtrader, implementation could look as follows:
 
@@ -104,19 +104,19 @@ The active management and real-time monitoring of algorithmic strategies is para
 
 ## Risks and Challenges
 
-Trend following, despite its revered status in the trading world, does not escape the inherent risks and challenges that saturate the financial markets. One fundamental predicament arises from its very philosophy: the strategy presumes that historical price trends will propagate into the future, which, by no guarantee, always materializes. Markets, swayed by a myriad of factors, from economic indicators to geopolitical events, do not always behave linearly or predictably. During periods of sideways or non-trending markets, trend following algorithms can generate false signals and initiate trades that are not substantiated by a robust directional movement, thereby potentially leading to losses.
+Trend following, despite its revered status in the trading world, does not escape the inherent risks and challenges that saturate the financial markets. One fundamental predicament arises from its very philosophy: the strategy presumes that historical price trends will propagate into the future, which, by no guarantee, always materializes. Markets, swayed by a myriad of [factor](/wiki/factor-investing)s, from economic indicators to geopolitical events, do not always behave linearly or predictably. During periods of sideways or non-trending markets, trend following algorithms can generate false signals and initiate trades that are not substantiated by a robust directional movement, thereby potentially leading to losses.
 
 ![Risk management.png](images/Risk_management.png)
 
 **Risk management** becomes an indispensable facet to traverse the unstable terrain of trend following. Traders need to enforce stringent risk per trade and total portfolio risk parameters to safeguard against substantial drawdowns. A common strategy entails risking only a predefined percentage of the total trading capital on a single trade. However, one must not only manage financial risks but also circumvent technological ones, such as algorithm malfunction, platform failures, or connectivity issues, which are potent threats in algorithmic trading.
 
-Emotionally, the **psychological fortitude** required to adhere to a trend following strategy can be taxing. Trend following can necessitate enduring periods of drawdown and staying the course in the face of adversities, which is oftentimes psychologically grueling. The success of this strategy hinges on the relentless adherence to the trading algorithm, even when it is momentarily unprofitable, for the trends that do eventually materialize can compensate for the losses incurred during the non-profitable periods. This necessitates a psychological resilience and a staunch belief in the underlying strategy, even amidst apparent setbacks.
+Emotionally, the **psychological fortitude** required to adhere to a trend following strategy can be taxing. Trend following can necessitate enduring periods of drawdown and staying the [course](/wiki/best-algorithmic-trading-courses) in the face of adversities, which is oftentimes psychologically grueling. The success of this strategy hinges on the relentless adherence to the trading algorithm, even when it is momentarily unprofitable, for the trends that do eventually materialize can compensate for the losses incurred during the non-profitable periods. This necessitates a psychological resilience and a staunch belief in the underlying strategy, even amidst apparent setbacks.
 
 Moreover, **transaction costs**, often overlooked, are a substantive hurdle that can significantly erode profits in trend following, especially in strategies with higher trading frequencies. The cumulative costs of opening and closing positions, especially in less liquid markets, can inadvertently become a substantial barrier to profitability.
 
 ## Trend Following in Various Financial Markets
 
-Trend following has rendered its noteworthy influence across various asset classes, namely equities, commodities, forex, and cryptocurrencies, each with their unique intricacies and volatility profiles.
+Trend following has rendered its noteworthy influence across various asset classes, namely equities, commodities, [forex](/wiki/forex-system), and cryptocurrencies, each with their unique intricacies and volatility profiles.
 
 - In **equities**, trend followers might capitalize on both upward and downward market phases, exploiting prolonged movements in stock prices which might be propelled by factors such as corporate performance or macroeconomic indicators. The methodology here often hinges on the meticulous selection of technical indicators, such as Moving Averages or the MACD, to delineate potential entry and exit points.
 - **Commodities** present a different landscape, where traders harness trends driven by supply and demand dynamics, influenced by geopolitical events, weather patterns, and economic data. Notably, legendary traders like Richard Dennis and William Eckhardt of the Turtles fame made substantial profits by applying trend following in commodities markets.
@@ -133,7 +133,7 @@ The dynamism of market conditions presents its ensemble of challenges and opport
 
 Trend following, while appearing deceptively simple, hides complex underpinnings of robust mathematical models, intensive data analysis, and meticulous strategy development and execution. Historically revered traders like Richard Donchian and Ed Seykota have validated the potency of trend following through various market conditions, imparting wisdom that transcends market epochs[8].
 
-However, the panorama of technological innovations, [notably AI and machine learning](https://blog.paperswithbacktest.com/p/fundamentals-of-machine-learning), is subtly reshaping the contours of trend following in algorithmic trading, infusing it with enhanced predictive and adaptive capacities. This evolution also welcomes new challenges, predominantly centered around overfitting models to historical data, coping with unforeseen market anomalies, and navigating through the multifaceted emotional landscape that intertwines with trading decisions.
+However, the panorama of technological innovations, [notably AI and machine l[earning](/wiki/earning-announcement)](https://blog.paperswithbacktest.com/p/fundamentals-of-machine-learning), is subtly reshaping the contours of trend following in algorithmic trading, infusing it with enhanced predictive and adaptive capacities. This evolution also welcomes new challenges, predominantly centered around overfitting models to historical data, coping with unforeseen market anomalies, and navigating through the multifaceted emotional landscape that intertwines with trading decisions.
 
 For aspiring and seasoned traders alike, the path forward is carved not merely by algorithms and technologies but by an unwavering commitment to learning, adapting, and navigating through the serene and stormy seas of financial markets with sagacity and an unyielding respect for risk. Happy trading!
 
@@ -187,7 +187,7 @@ Yes, trend following is a universal strategy and can be applied across various a
 
 **How Can I Develop My Own Trend Following Algorithm?**
 
-Developing a trend following algorithm involves understanding the market, defining a strategy, backtesting it with historical data, and implementing it through a coding language like Python or a platform like MetaTrader 4/5. Continuous monitoring and tweaking are also essential to adapt to changing market conditions.
+Developing a trend following algorithm involves understanding the market, defining a strategy, [backtesting](/wiki/backtesting) it with historical data, and implementing it through a coding language like Python or a platform like MetaTrader 4/5. Continuous monitoring and tweaking are also essential to adapt to changing market conditions.
 
 **How Do Economic Events and Market News Impact Trend Following Strategies?**
 

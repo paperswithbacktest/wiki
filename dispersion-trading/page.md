@@ -19,11 +19,11 @@ While it might seem esoteric to some, dispersion trading's prominence is bolster
 
 ## Understanding Dispersion Trading
 
-Dispersion trading, at its essence, is a sophisticated volatility arbitrage strategy that capitalizes on the discrepancy between implied correlations of index options and the realized correlations of its individual components. To deconstruct this, think of it as betting on the variance of the index being different from the aggregated variances of its constituents. The strategy hinges on the belief that the market sometimes misprices the index options when compared to the sum of the options of its individual stocks.
+Dispersion trading, at its essence, is a sophisticated [volatility](/wiki/volatility-trading-strategies) [arbitrage](/wiki/arbitrage) strategy that capitalizes on the discrepancy between implied correlations of index options and the realized correlations of its individual components. To deconstruct this, think of it as betting on the variance of the index being different from the aggregated variances of its constituents. The strategy hinges on the belief that the market sometimes misprices the index options when compared to the sum of the options of its individual stocks.
 
 ![Untitled](images/Untitled%201.png)
 
-Core principles underpinning dispersion trading include:
+Core principles underpinning [dispersion](/wiki/dispersion-trading) trading include:
 
 1. **Correlation Mispricing**: The primary premise of dispersion trading is that markets, at times, misprice the correlation among stocks in an index. When the implied correlation is higher than the realized correlation, it offers a potential profit opportunity for dispersion traders.
 2. **Volatility Dynamics**: Dispersion trading is fundamentally a play on volatilities. Traders aim to exploit the differences between the implied volatility of the index and the sum of the implied volatilities of its parts.
@@ -35,7 +35,7 @@ However, it wasn't until the explosion of computational power in the late 1990s 
 
 Furthermore, the introduction and growth of index options markets, especially those like the S&P 500, provided the necessary infrastructure for these strategies to be executed on a significant scale. The 2008 financial crisis, marked by extreme market volatilities, further spotlighted the nuances of correlation dynamics and bolstered the relevance of dispersion trading as a hedged, non-directional strategy.
 
-In recent years, with the ongoing evolution of quantitative finance and algorithmic trading, dispersion trading continues to evolve, adapting to the ever-changing market dynamics and offering traders an intriguing avenue to potentially harness inefficiencies in the market's perception of correlation and volatility.
+In recent years, with the ongoing evolution of quantitative finance and [algorithmic trading](/wiki/algorithmic-trading), dispersion trading continues to evolve, adapting to the ever-changing market dynamics and offering traders an intriguing avenue to potentially harness inefficiencies in the market's perception of correlation and volatility.
 
 ## The Mechanics of Dispersion Trading
 
@@ -64,7 +64,7 @@ Dispersion trading thrives on the foundation of market inefficiencies specifical
 5. **Complex yet Transparent**: While dispersion trading requires a keen understanding of volatility and correlation dynamics, it's fundamentally based on transparent and observable metrics. The transparency of the trade mechanics attracts traders who prefer strategies where the risks and rewards can be quantified upfront.
 6. **Opportunities in Various Market Conditions**: Whether the market is bullish, bearish, or range-bound, dispersion trading offers potential profit opportunities. Its profitability isn't solely dependent on directional market movements, but rather on the relative volatilities and correlations.
 
-In essence, dispersion trading offers a unique blend of complexity, transparency, and efficiency. Its reliance on volatility and correlation mispricings, combined with its potential for profitability in diverse market conditions, makes it an enticing choice for traders keen on exploiting niche inefficiencies in the financial markets.
+In essence, dispersion trading offers a unique blend of compl[exit](/wiki/exit-strategy)y, transparency, and efficiency. Its reliance on volatility and correlation mispricings, combined with its potential for profitability in diverse market conditions, makes it an enticing choice for traders keen on exploiting niche inefficiencies in the financial markets.
 
 ### Diving into the U.S. Market Landscape
 
@@ -176,7 +176,7 @@ Where $V$ represents the portfolio's value and $\rho$ is the correlation coeffic
 
 Monitoring rega is crucial for traders. A high positive rega implies that the trade stands to gain from an increase in correlation, whereas a negative rega suggests the opposite. Regularly assessing and adjusting one's position to manage rega ensures the trade doesn't become excessively exposed to sudden correlation shifts.
 
-In the realm of dispersion trading, risks are inherent. However, by understanding and actively managing factors like market volatility, correlation sensitivity, and rega, traders can better navigate the complex landscapes of modern financial markets.
+In the realm of dispersion trading, risks are inherent. However, by understanding and actively managing [factor](/wiki/factor-investing)s like market volatility, correlation sensitivity, and rega, traders can better navigate the complex landscapes of modern financial markets.
 
 ### Dispersion Statistics
 
@@ -200,9 +200,9 @@ Given that dispersion trading involves multiple assets, multivariate regression 
 
 **Backtesting**
 
-Any trading strategy, including dispersion trading, benefits from robust backtesting. Using historical data, traders can simulate their dispersion trading strategies to understand their effectiveness in past market conditions. Statistical measures like the Sharpe Ratio, Maximum Drawdown, and Compound Annual Growth Rate can be derived from backtesting to gauge the potential risk and return of the strategy[10].
+Any trading strategy, including dispersion trading, benefits from robust [backtesting](/wiki/backtesting). Using historical data, traders can simulate their dispersion trading strategies to understand their effectiveness in past market conditions. Statistical measures like the Sharpe Ratio, Maximum Drawdown, and Compound Annual Growth Rate can be derived from backtesting to gauge the potential risk and return of the strategy[10].
 
-While statistics play a pivotal role in understanding and optimizing dispersion trades, they also serve as a reminder of the inherent risks. Past performance is not always indicative of future results, and statistical measures are mere tools, not guarantees. However, armed with these tools, a diligent trader can navigate the complex world of dispersion trading with greater confidence and clarity.
+While [statistics](/wiki/bayesian-statistics) play a pivotal role in understanding and optimizing dispersion trades, they also serve as a reminder of the inherent risks. Past performance is not always indicative of future results, and statistical measures are mere tools, not guarantees. However, armed with these tools, a diligent trader can navigate the complex world of dispersion trading with greater confidence and clarity.
 
 ### Modeling and Signals
 
@@ -234,7 +234,7 @@ Modeling skew with such models provides a more nuanced understanding of market d
 
 **Using Machine Learning for Signal Enhancement**
 
-Modern traders also incorporate machine learning techniques to enhance signal quality. Neural networks or support vector machines can be trained on historical data, capturing complex non-linear relationships in volatility surfaces that traditional models might miss[13].
+Modern traders also incorporate machine l[earning](/wiki/earning-announcement) techniques to enhance signal quality. Neural networks or support vector machines can be trained on historical data, capturing complex non-linear relationships in volatility surfaces that traditional models might miss[13].
 
 In summary, the volatility skew offers dispersion traders an additional dimension of analysis and opportunity. Proper modeling and signal generation from the skew can lead to better-informed trades and potentially higher returns.
 
@@ -269,7 +269,7 @@ In essence, the Morgan Stanley High-Technology 35 Index, while presenting challe
 
 ## Dispersion Trading in Today's World
 
-Dispersion trading, initially prevalent among institutional traders, has expanded its horizon over the years. With technological advancements and an increase in quantitative trading approaches, the strategy is now more accessible to retail traders as well. Here's a snapshot of its current state in global markets and the evolving challenges and opportunities:
+Dispersion trading, initially prevalent among institutional traders, has expanded its horizon over the years. With technological advancements and an increase in [quantitative trading](/wiki/quantitative-trading) approaches, the strategy is now more accessible to retail traders as well. Here's a snapshot of its current state in global markets and the evolving challenges and opportunities:
 
 **Current State in Global Markets:**
 
@@ -305,7 +305,7 @@ The capital requirement increases with the number of stocks in the index. For in
 
 **Margin Requirements**
 
-Each position within a dispersion trade will carry its own margin requirement. Traders must ensure they have enough capital to cover the sum of margins for all positions.
+Each position within a dispersion trade will [carry](/wiki/carry-trading) its own margin requirement. Traders must ensure they have enough capital to cover the sum of margins for all positions.
 
 **Desired Portfolio Exposure**
 
@@ -348,7 +348,7 @@ The very essence of dispersion trading is based on the belief that there's a mis
 
 **Arbitrage Opportunities**
 
-Dispersion trading is, at its core, a form of volatility arbitrage. Similar principles can be applied to identify and exploit arbitrage opportunities in other areas, such as interest rate arbitrage, triangular arbitrage in forex, or even statistical arbitrage in equities.
+Dispersion trading is, at its core, a form of volatility arbitrage. Similar principles can be applied to identify and exploit arbitrage opportunities in other areas, such as [interest rate](/wiki/interest-rate-trading-strategies) arbitrage, triangular arbitrage in [forex](/wiki/forex-system), or even [statistical arbitrage](/wiki/statistical-arbitrage) in equities.
 
 **Understanding of Correlation Dynamics**
 

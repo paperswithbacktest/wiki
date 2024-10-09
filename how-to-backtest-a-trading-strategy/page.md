@@ -20,9 +20,9 @@ Backtesting is a rigorous method employed by traders and financial analysts to e
 
 Its relevance and necessity cannot be overstated. In the high-stakes realm of financial markets, decisions are often made based on projections and forecasts. However, forecasting is inherently fraught with uncertainty. Backtesting acts as a mitigating measure, offering a data-driven approach to validate or invalidate assumptions. It's the bridge between theoretical strategy and practical application, ensuring traders don't enter the market flying blind.
 
-The roots of backtesting trace back to the early days of stock markets, albeit in a more rudimentary form. Initially, traders would manually sift through historical price charts to identify patterns and test their observations. With the dawn of computers in the 1960s and 1970s, the process began to be automated, leading to more complex and granular tests. The 1980s and 1990s saw the rise of statistical software and electronic trading platforms, allowing for sophisticated algorithmic strategies and quantitative models to be tested over vast datasets.
+The roots of [backtesting](/wiki/backtesting) trace back to the early days of stock markets, albeit in a more rudimentary form. Initially, traders would manually sift through historical price charts to identify patterns and test their observations. With the dawn of computers in the 1960s and 1970s, the process began to be automated, leading to more complex and granular tests. The 1980s and 1990s saw the rise of statistical software and electronic trading platforms, allowing for sophisticated algorithmic strategies and quantitative models to be tested over vast datasets.
 
-However, it was the explosion of computing power and data availability in the 21st century that truly revolutionized backtesting. Today, strategies can be tested over decades of data, across multiple markets, factoring in various external conditions, all within mere minutes.
+However, it was the explosion of computing power and data availability in the 21st century that truly revolutionized backtesting. Today, strategies can be tested over decades of data, across multiple markets, [factor](/wiki/factor-investing)ing in various external conditions, all within mere minutes.
 
 ## The Significance of Backtesting
 
@@ -30,7 +30,7 @@ The significance of backtests can be dissected into various facets, each undersc
 
 **Risk Mitigation**
 
-While no tool can eliminate risk entirely, backtesting helps in quantifying and understanding it. By applying a strategy to historical data, traders can observe potential drawdowns, volatility, and other risk metrics. This knowledge allows them to adjust their strategy, set appropriate stop-loss orders, and determine position sizes that align with their risk tolerance.
+While no tool can eliminate risk entirely, backtesting helps in quantifying and understanding it. By applying a strategy to historical data, traders can observe potential drawdowns, [volatility](/wiki/volatility-trading-strategies), and other risk metrics. This knowledge allows them to adjust their strategy, set appropriate stop-loss orders, and determine position sizes that align with their risk tolerance.
 
 **Strategy Validation**
 
@@ -52,11 +52,11 @@ Backtesting is more than just running numbers; it demands a meticulous blend of 
 
 **Data Integrity**
 
-The phrase "garbage in, garbage out" stands true, especially in the realm of backtesting. High-quality, granular data is the bedrock of any reliable backtest. Without accurate historical data, the entire premise of backtesting crumbles. This means prioritizing datasets that offer detailed timestamps, accurate price and volume information, and adjustments for stock splits or dividends. Moreover, granularity matters – daily data might suffice for long-term strategies, but high-frequency trading demands tick-by-tick data. However, it's not just about the quality; quantity also plays a role. The more data one has, the more comprehensive the backtest becomes, covering various market cycles and events.
+The phrase "garbage in, garbage out" stands true, especially in the realm of backtesting. High-quality, granular data is the bedrock of any reliable backtest. Without accurate historical data, the entire premise of backtesting crumbles. This means prioritizing datasets that offer detailed timestamps, accurate price and [volume](/wiki/volume-trading-strategy) information, and adjustments for stock splits or dividends. Moreover, granularity matters – daily data might suffice for long-term strategies, but high-frequency trading demands tick-by-tick data. However, it's not just about the quality; quantity also plays a role. The more data one has, the more comprehensive the backtest becomes, covering various market cycles and events.
 
 **Hardware and Software Considerations**
 
-The computational power required for backtesting can vary significantly based on the complexity of the strategy and the granularity of the data. Simple strategies tested over daily data might be adequately backtested using Excel[2]. However, sophisticated strategies, especially those involving high-frequency trading, demand high-end computational resources, sometimes even cloud-based simulations, to ensure timely processing of vast data volumes. On the software front, tools range from platform-specific software like MetaTrader for forex trading to programming languages like Python, which offers flexibility and can be integrated with powerful backtesting libraries[3].
+The computational power required for backtesting can vary significantly based on the compl[exit](/wiki/exit-strategy)y of the strategy and the granularity of the data. Simple strategies tested over daily data might be adequately backtested using Excel[2]. However, sophisticated strategies, especially those involving high-frequency trading, demand high-end computational resources, sometimes even cloud-based simulations, to ensure timely processing of vast data volumes. On the software front, tools range from platform-specific software like MetaTrader for [forex](/wiki/forex-system) trading to programming languages like Python, which offers flexibility and can be integrated with powerful backtesting libraries[3].
 
 **Human Oversight**
 
@@ -81,7 +81,7 @@ The information horizon diagram was published in Grinold and Kahn’s Active Por
 
 #### Paper Trading
 
-Paper trading refers to trading a strategy through your broker’s API, but using a demo account with fake money. It’s good because you can see that the API works, and see if it crashes or if there are data errors. And it also gives you a better feel for the number of trades it will make and how it will feel emotionally. However it takes a long time since you have to wait for the markets. It is more practical for high frequency systems which can generate a statistically significant number of data points in a short amount of time.
+Paper trading refers to trading a strategy through your broker’s API, but using a demo account with fake money. It’s good because you can see that the API works, and see if it crashes or if there are data errors. And it also gives you a better feel for the number of trades it will make and how it will feel emotionally. However it takes a long time since you have to wait for the markets. It is more practical for [high frequency](/wiki/high-frequency-trading) systems which can generate a statistically significant number of data points in a short amount of time.
 
 </aside>
 
@@ -189,7 +189,7 @@ Tick bars can introduce arbitrariness in the number of ticks and order fragmenta
 
 #### Dollar bars
 
-Dollar bars are formed by sampling an observation every time a pre-defined market value is exchanged, which is more reasonable than sampling by tick or volume when the analysis involves significant price fluctuations. The number of outstanding shares often changes multiple times over the course of a security’s life, as a result of corporate actions, and dollar bars tend to be robust in the face of those actions. Thus, dollar bars are more interesting than time, tick, or volume bars.
+Dollar bars are formed by sampling an observation every time a pre-defined market value is exchanged, which is more reasonable than sampling by tick or volume when the analysis involves significant price fluctuations. The number of outstanding shares often changes multiple times over the [course](/wiki/best-algorithmic-trading-courses) of a security’s life, as a result of corporate actions, and dollar bars tend to be robust in the face of those actions. Thus, dollar bars are more interesting than time, tick, or volume bars.
 
 #### Tick Imbalance Bars
 
@@ -318,7 +318,7 @@ In the realm of backtesting, various tools and platforms have emerged, each offe
 - **Advantages**: Robust features, excellent data integration, and dedicated support. They often allow both backtesting and automated trading, offering a one-stop solution.
 - **Limitations**: Costs can add up, especially with monthly or annual subscriptions. Some platforms use proprietary scripting languages, which means traders have to invest time in learning a new system.
 
-In conclusion, the best platform often hinges on the trader's specific needs, expertise, and budget. While proprietary platforms might offer out-of-the-box solutions, open-source tools provide flexibility and customization at the cost of a steeper learning curve.
+In conclusion, the best platform often hinges on the trader's specific needs, expertise, and budget. While proprietary platforms might offer out-of-the-box solutions, open-source tools provide flexibility and customization at the cost of a steeper l[earning](/wiki/earning-announcement) curve.
 
 ## The Art and Science of Backtesting
 
@@ -326,7 +326,7 @@ Backtesting is not merely a mechanical process of applying algorithms to data; i
 
 Quantitative rigor ensures that the backtesting process is systematic, repeatable, and free from glaring errors. This scientific approach demands a clear hypothesis (the trading strategy) and rigorous testing against historical data. Quantitative metrics like the Sharpe ratio, drawdowns, and annualized returns provide a standardized measure of a strategy's performance[7].
 
-Yet, the numbers only tell part of the story. Even a strategy with stellar metrics might fail in real trading if it doesn't account for practical considerations like transaction costs, liquidity constraints, or sudden market shocks. Here's where the art comes into play.
+Yet, the numbers only tell part of the story. Even a strategy with stellar metrics might fail in real trading if it doesn't account for practical considerations like transaction costs, [liquidity](/wiki/liquidity-risk-premium) constraints, or sudden market shocks. Here's where the art comes into play.
 
 Qualitative insights come from experience and intuition. An experienced trader can spot anomalies in backtest results that might stem from overfitting or a data quirk. They bring in the understanding of market microstructure, the psychology of market participants, and a sense of when something seems too good to be true.
 
@@ -362,7 +362,7 @@ To navigate these pitfalls, always approach backtesting with a healthy skepticis
 
 ## Backtesting with cross validation
 
-In machine learning, cross-validation is used to assess how well models generalize over unseen data by splitting the training dataset into parts: a train part to train the model, and a validation part to assess the model on unseen data. Time-series models are prone to overfitting, making cross-validation crucial in estimating the degree of overfitting.
+In [machine learning](/wiki/machine-learning), cross-validation is used to assess how well models generalize over unseen data by splitting the training dataset into parts: a train part to train the model, and a validation part to assess the model on unseen data. Time-series models are prone to overfitting, making cross-validation crucial in estimating the degree of overfitting.
 
 However, standard k-fold cross-validation assumes that data is drawn from an independent and identically distributed stochastic process, which is violated in time-series modeling due to serial correlation. This leads to information leakage between the folds, where information from the training set leaks into the validation set, resulting in an overestimation of the model's performance on unseen data.
 
@@ -434,7 +434,7 @@ Yes, many sophisticated backtesting platforms allow users to incorporate slippag
 
 **How does backtesting differ across market types?**
 
-The core principles of backtesting remain consistent, but nuances exist. For instance, backtesting a forex strategy might involve consideration of interest rate differentials, while equities might focus on corporate actions like dividends. Commodity strategies might emphasize roll yields, and crypto can revolve around technological shifts and regulatory changes.
+The core principles of backtesting remain consistent, but nuances exist. For instance, backtesting a forex strategy might involve consideration of [interest rate](/wiki/interest-rate-trading-strategies) differentials, while equities might focus on corporate actions like dividends. Commodity strategies might emphasize roll yields, and crypto can revolve around technological shifts and regulatory changes.
 
 **Are there alternatives to traditional backtesting?**
 

@@ -19,7 +19,7 @@ The roots of statistical arbitrage can be traced back to the 1980s, as a natural
 
 ![Statistical arbitrage.png](images/Statistical_arbitrage.png)
 
-A major milestone in the evolution of statistical arbitrage was the pioneering work by Nunzio Tartaglia's quantitative group at Morgan Stanley in the mid-1980s. Their pioneering techniques utilized complex mathematical models to uncover inefficiencies in the market. The team, comprised of physicists, mathematicians, and computer scientists, laid the groundwork for modern statistical arbitrage techniques and strategies.
+A major milestone in the evolution of statistical [arbitrage](/wiki/arbitrage) was the pioneering work by Nunzio Tartaglia's quantitative group at Morgan Stanley in the mid-1980s. Their pioneering techniques utilized complex mathematical models to uncover inefficiencies in the market. The team, comprised of physicists, mathematicians, and computer scientists, laid the groundwork for modern [statistical arbitrage](/wiki/statistical-arbitrage) techniques and strategies.
 
 The late 1990s witnessed a surge in the popularity of statistical arbitrage, thanks to advancements in computing power and the proliferation of data. Firms like Renaissance Technologies, founded by James Simons in 1982, started leveraging sophisticated algorithms and models, diving deep into the nuances of statistical arbitrage and achieving remarkable successes.
 
@@ -41,15 +41,15 @@ $\text{Lower Band} = \text{SMA}(N) - k \times \text{SD}(N)$
 
 where $\text{SMA}(N)$ is the simple moving average over $N$ periods, $\text{SD}(N)$ is the standard deviation over $N$ periods, and $k$ is a constant that sets the width of the bands. These bands help traders identify assets that have deviated significantly from their historical trend and are likely to revert to their mean [2].
 
-In practice, these methodologies are combined and manipulated to adapt to market conditions, mitigate risks, and optimize returns. They undergo rigorous backtesting using historical data, ensuring robustness and validity across varied market scenarios.
+In practice, these methodologies are combined and manipulated to adapt to market conditions, mitigate risks, and optimize returns. They undergo rigorous [backtesting](/wiki/backtesting) using historical data, ensuring robustness and validity across varied market scenarios.
 
-The embodiment of these concepts and mechanisms into a successful statistical arbitrage strategy requires not just a sound understanding of the underlying financial theories but also an adept skillset in statistical methods, data analysis, and algorithmic trading.
+The embodiment of these concepts and mechanisms into a successful statistical arbitrage strategy requires not just a sound understanding of the underlying financial theories but also an adept skillset in statistical methods, data analysis, and [algorithmic trading](/wiki/algorithmic-trading).
 
 ## In-depth Strategies Analysis
 
 In the intricate world of Statistical Arbitrage, diverse strategies coalesce mathematics, finance, and technology, each tailoring to unique market scenarios and risk appetites. Among them, the prominent are Pair Trading and Mean-Reverting Strategies, each enveloping distinct statistical and mathematical principles to identify and exploit market mispricings.
 
-Pair Trading, a subtype of statistical arbitrage, revolves around identifying two co-integrated financial instruments, often stocks, whose prices have moved together historically. When a deviation in this synchronized movement occurs, short and long positions are taken in the divergent pair, anticipating a convergence in their price movements. Engaging in the Ornstein-Uhlenbeck process, a mean-reverting stochastic process, it formulates a model where the spread between the pair $dX_t = \theta (\mu - X_t)dt + \sigma dW_t$, wherein $\theta$ is the rate of reversion to the mean, $\mu$ is the equilibrium value, $\sigma$ is the volatility, and $W_t$ is a Wiener Process or Brownian motion [3].
+Pair Trading, a subtype of statistical arbitrage, revolves around identifying two co-integrated financial instruments, often stocks, whose prices have moved together historically. When a deviation in this synchronized movement occurs, short and long positions are taken in the divergent pair, anticipating a convergence in their price movements. Engaging in the Ornstein-Uhlenbeck process, a mean-reverting stochastic process, it formulates a model where the spread between the pair $dX_t = \theta (\mu - X_t)dt + \sigma dW_t$, wherein $\theta$ is the rate of reversion to the mean, $\mu$ is the equilibrium value, $\sigma$ is the [volatility](/wiki/volatility-trading-strategies), and $W_t$ is a Wiener Process or Brownian motion [3].
 
 Differing from Pairs Trading, Mean-Reverting strategies, employ a hypothesis that asset prices and historical returns eventually revert to their mean or some other stable, predictable path over time. A classic embodiment of this is the Bollinger Bands strategy, leveraging a specified moving average alongside upper and lower bands that adapt to market volatility.
 
@@ -63,19 +63,19 @@ A cornerstone in the toolkit of a quant, **pandas** offers powerful data manipul
 
 Implementing a successful algorithm goes beyond mere price analysis. The architecture should consider order execution, slippage, and transaction costs. Libraries like **zipline** facilitate this, allowing traders to simulate and manage every aspect of the trading pipeline.
 
-As markets evolve, so too does the complexity of arbitrage strategies. Machine Learning (ML) and Artificial Intelligence (AI) have begun playing a pivotal role. Neural networks, decision trees, and support vector machines are employed to decipher non-linear patterns, anomalies, and subtle market inefficiencies that might be undetectable to the human eye. Frameworks such as **TensorFlow** and **scikit-learn** cater to these advanced modeling needs, offering both supervised and unsupervised learning algorithms.
+As markets evolve, so too does the compl[exit](/wiki/exit-strategy)y of arbitrage strategies. Machine L[earning](/wiki/earning-announcement) (ML) and Artificial Intelligence (AI) have begun playing a pivotal role. Neural networks, decision trees, and support vector machines are employed to decipher non-linear patterns, anomalies, and subtle market inefficiencies that might be undetectable to the human eye. Frameworks such as **TensorFlow** and **scikit-learn** cater to these advanced modeling needs, offering both supervised and unsupervised learning algorithms.
 
 However, even the most sophisticated algorithm is only as good as its data. Accurate, high-frequency, and granular data is the bedrock of statistical arbitrage. Popular sources include **Quandl**, **Alpha Vantage**, and institutional platforms like **Bloomberg Terminal**. But sourcing is only step one. Data often arrives riddled with gaps, errors, or anomalies. Tools like **NumPy** and **pandas** again play a critical role, aiding in cleaning, preprocessing, and structuring data to be seamlessly ingested by trading algorithms.
 
 ## Risks and Challenges
 
-Engaging in statistical arbitrage, despite its algorithmic precision, is not devoid of perils and encompasses multifaceted risks. The mathematical premise of statistical arbitrage, often revolving around mean-reversion strategies, banks on the assumption that asset prices will revert to their historical mean or trend. However, external factors such as political events, economic releases, or unforeseen market shocks can steer prices far from expected trajectories.
+Engaging in statistical arbitrage, despite its algorithmic precision, is not devoid of perils and encompasses multifaceted risks. The mathematical premise of statistical arbitrage, often revolving around mean-reversion strategies, banks on the assumption that asset prices will revert to their historical mean or trend. However, external [factor](/wiki/factor-investing)s such as political events, economic releases, or unforeseen market shocks can steer prices far from expected trajectories.
 
 A vivid example surfaces from the Quantitative Meltdown of August 2007, where quant funds, including renowned ones like Goldman Sachs’ Global Alpha Fund, experienced substantial losses due to an abrupt and massive divergence from expected price patterns. It was a manifestation of model risk, where strategies built on historical data failed to navigate unprecedented market conditions.
 
-Statistical arbitrage, especially in high-frequency setups, also encounters risks of execution shortfall. A slight delay or a faulty execution algorithm might cascade into substantial impact costs, especially in illiquid markets. The infamous “Flash Crash” in 2010 is a testament to how algorithmic trading, in certain scenarios, can trigger cascading effects on market prices and liquidity.
+Statistical arbitrage, especially in high-frequency setups, also encounters risks of execution shortfall. A slight delay or a faulty execution algorithm might cascade into substantial impact costs, especially in illiquid markets. The infamous “Flash Crash” in 2010 is a testament to how algorithmic trading, in certain scenarios, can trigger cascading effects on market prices and [liquidity](/wiki/liquidity-risk-premium).
 
-Risk management, thus, evolves into a critical component in statistical arbitrage. This might involve algorithmic hedging, where opposing positions are algorithmically initiated to neutralize risk factors, especially in mean-reverting strategies. For instance, if a pair trading strategy involves going long on asset A and short on asset B, anticipating convergence, a hedge would entail creating a fail-safe mechanism where positions are rapidly unwound or neutralized if prices diverge beyond a certain threshold.
+Risk management, thus, evolves into a critical component in statistical arbitrage. This might involve algorithmic hedging, where opposing positions are algorithmically initiated to neutralize risk factors, especially in mean-reverting strategies. For instance, if a [pair trading](/wiki/pair-trading) strategy involves going long on asset A and short on asset B, anticipating convergence, a hedge would entail creating a fail-safe mechanism where positions are rapidly unwound or neutralized if prices diverge beyond a certain threshold.
 
 In Python, a simple hedging mechanism might involve utilizing conditional statements to trigger counteracting trades when predefined risk limits are breached.
 
@@ -133,7 +133,7 @@ Statistical arbitrage, while embedded in sophisticated mathematical and statisti
 
 The historical trajectory of statistical arbitrage, marked by notable figures and transformative strategies, has evolved, intertwining technology and advanced statistical methods to identify and capitalize on market imbalances. The essential core concepts, from mathematical underpinnings to the mechanisms identifying arbitrage opportunities, form the foundation upon which strategies are built, optimized, and implemented across varied markets, including Forex, Cryptocurrency, and Commodities.
 
-In an era where machine learning and AI continue to reshape the landscape, the future trajectories of statistical arbitrage hold potential innovations, challenges, and evolved strategies, warranting continuous exploration and adaptation.
+In an era where [machine learning](/wiki/machine-learning) and AI continue to reshape the landscape, the future trajectories of statistical arbitrage hold potential innovations, challenges, and evolved strategies, warranting continuous exploration and adaptation.
 
 Hence, whether you're a seasoned trader, quant, or a novice stepping into the intricate world of statistical arbitrage, your journey is uniquely twined with a rich history, evolving strategies, and a future poised at the intersection of technological advancements and financial ingenuity. May the strategies be ever in your favor, risk be meticulously managed, and may the markets unveil opportunities ripe for exploitation. Happy trading!
 
@@ -153,11 +153,11 @@ No. While the word "arbitrage" might suggest risk-free profit, statistical arbit
 
 **Can anyone start trading using Statistical Arbitrage?**
 
-While anyone can dive into statistical arbitrage, proficiency in mathematics, statistics, and programming (often in Python) is paramount to understanding and implementing strategies effectively. Moreover, access to quality data, computational resources, and trading capital are crucial.
+While anyone can dive into statistical arbitrage, proficiency in mathematics, [statistics](/wiki/bayesian-statistics), and programming (often in Python) is paramount to understanding and implementing strategies effectively. Moreover, access to quality data, computational resources, and trading capital are crucial.
 
 **How do I recognize a Statistical Arbitrage opportunity?**
 
-Identifying an opportunity involves using algorithms to spot statistical mispricings or anomalies across related financial instruments, based on historical data and statistical relationships. Traders often use techniques like cointegration, mean reversion, and momentum indicators to detect potential arbitrage opportunities.
+Identifying an opportunity involves using algorithms to spot statistical mispricings or anomalies across related financial instruments, based on historical data and statistical relationships. Traders often use techniques like cointegration, mean reversion, and [momentum](/wiki/momentum) indicators to detect potential arbitrage opportunities.
 
 **How relevant is Statistical Arbitrage in today's high-tech trading world?**
 

@@ -19,9 +19,9 @@ Day trading, in contrast, refers to the practice of buying and selling securitie
 
 Now, when options are combined with day trading, leverage becomes a significant player. Leverage allows traders to control a larger position with a relatively small amount of capital. In the options world, this is evident as the price of an option (premium) is typically much less than the price of the underlying asset. For instance, instead of buying 100 shares of a stock that's priced at $50 per share (costing $5,000), a trader could buy a call option controlling those same 100 shares for a premium of, say, $5 per option (costing $500). This ability to control the same number of shares for a fraction of the direct investment is the power of leverage in options.
 
-However, with this potential for increased return on investment comes amplified risks. The premium paid for an option can be entirely lost if the price of the underlying asset doesn't move in the anticipated direction within the given timeframe. Furthermore, options are subject to time decay, meaning the value of the option decreases as it gets closer to its expiration date, all else being equal. This decay is even more pronounced in day trading due to the short duration of trades.
+However, with this potential for increased return on investment comes amplified risks. The premium paid for an option can be entirely lost if the price of the underlying asset doesn't move in the anticipated direction within the given timeframe. Furthermore, options are subject to time decay, meaning the value of the option decreases as it gets closer to its expiration date, all else being equal. This decay is even more pronounced in [day trading](/wiki/day-trading-spy) due to the short duration of trades.
 
-While day trading options can present lucrative opportunities due to leverage, it also poses substantial risks. Traders can experience rapid losses, especially if they don't have a clear understanding of the intricacies of options and the dynamics of day trading. A careful balance of knowledge, strategy, and risk management is crucial for success in this domain.
+While [day trading options](/wiki/day-trading-options) can present lucrative opportunities due to leverage, it also poses substantial risks. Traders can experience rapid losses, especially if they don't have a clear understanding of the intricacies of options and the dynamics of day trading. A careful balance of knowledge, strategy, and risk management is crucial for success in this domain.
 
 ## The Cornerstones of Options Day Trading
 
@@ -51,7 +51,7 @@ $N(d_1)$ and $N(d_2)$ are values derived from the normal distribution.
 
 **Vega**
 
-Vega measures sensitivity to volatility. It indicates the change in an option's price for a 1% change in the implied volatility of the underlying asset. If the vega of an option is 0.10, and the implied volatility increases by 1%, the option's price might increase by $0.10.
+Vega measures sensitivity to [volatility](/wiki/volatility-trading-strategies). It indicates the change in an option's price for a 1% change in the implied volatility of the underlying asset. If the vega of an option is 0.10, and the implied volatility increases by 1%, the option's price might increase by $0.10.
 
 **Gamma**
 
@@ -87,7 +87,7 @@ Choosing the optimal strike price and expiry date for an options contract is a p
 
 The **strike price** of an option is the predetermined price at which the underlying asset can be bought or sold. Your choice of strike price is directly tied to your outlook on the asset. For example, if you believe the price of a stock will rise significantly in the near term, you might buy a call option with a strike price slightly above the current market price. On the other hand, if you're expecting the stock's price to decline, you might buy a put option with a strike price slightly below the market price.
 
-Several factors play into selecting a strike price:
+Several [factor](/wiki/factor-investing)s play into selecting a strike price:
 
 1. **Market Expectation:** This is rooted in your analysis, whether technical, fundamental, or a mix of both. If you anticipate a significant move, you might select a strike further out-of-the-money to maximize potential returns.
 2. **Risk Appetite:** A risk-averse trader might choose options closer to the money, reducing potential losses but also potential gains.
@@ -152,7 +152,7 @@ Directional trading strategies are built on the belief that the price of an unde
 2. **Bear Call Spread**: In anticipation of a price decline, a trader sells a call option at a lower strike price and buys another call option at a higher strike price on the same asset. The net credit received from this spread is the trader's maximum potential profit if the asset's price stays below the lower strike price.
 3. **Bear Put Spread**: Here, a trader buys a put option at a higher strike price and sells another put option at a lower strike price on the same asset, expecting a decline in the asset's price. The difference between the strike prices, minus the net cost of the options, represents the potential profit.
 
-When employing directional strategies, a thorough analysis of market conditions, underlying asset trends, and external factors is essential. It's also crucial to maintain a disciplined approach, setting clear entry and exit points, and managing risks effectively.
+When employing directional strategies, a thorough analysis of market conditions, underlying asset trends, and external factors is essential. It's also crucial to maintain a disciplined approach, setting clear entry and [exit](/wiki/exit-strategy) points, and managing risks effectively.
 
 ### Volatility Trading Strategies
 
@@ -182,7 +182,7 @@ This is a neutral strategy ideal for markets expected to have limited volatility
 
 Another neutral strategy, an iron butterfly, is constructed by selling an at-the-money call and put option (creating a short straddle) while buying an out-of-the-money call and put option. The aim is to capture premium as the options expire worthless if the underlying asset's price stays close to the middle strike prices. The potential profit is the net credit received, and the risk is limited to the difference between the strike prices minus the credit.
 
-When using volatility trading strategies, monitoring the market and managing risks becomes paramount. Factors like major news events, earnings reports, or geopolitical situations can significantly impact volatility and, consequently, option prices.
+When using volatility trading strategies, monitoring the market and managing risks becomes paramount. Factors like major news events, [earning](/wiki/earning-announcement)s reports, or geopolitical situations can significantly impact volatility and, consequently, option prices.
 
 ### Advanced Strategies
 
@@ -250,7 +250,7 @@ In the dynamic world of options day trading, understanding these pros and cons c
 
 ## Getting Started with Day Trading Options
 
-Entering the realm of options day trading demands a blend of preparation, understanding of market dynamics, and the right resources. Here's a roadmap to set you on the right course:
+Entering the realm of options day trading demands a blend of preparation, understanding of market dynamics, and the right resources. Here's a roadmap to set you on the right [course](/wiki/best-algorithmic-trading-courses):
 
 **Minimum Capital Requirements**:
 

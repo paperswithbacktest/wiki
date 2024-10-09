@@ -25,7 +25,7 @@ Discretionary trading, on the other hand, grants the trader flexibility. While a
 
 The roots of mechanical trading can be traced back to the early days of computing. With the advent of digital technology in the 1970s and 1980s, traders began to see the potential of automating trading decisions based on mathematical models. Richard Dennis and his "Turtle Traders" in the 1980s are a well-known example, [utilizing trend-following strategies based on fixed rules](https://paperswithbacktest.com/paper/does-trend-following-work-on-stocks). These early adopters paved the way for the algorithm-driven trading systems that dominate modern financial markets.
 
-Discretionary trading, conversely, has a much older lineage, rooted in the earliest stock markets of the 17th and 18th centuries. Before the digital age, traders relied on fundamental analysis, news, and their personal judgment to make trading decisions. Even as mechanical systems began to gain traction, discretionary traders have held their ground, adapting by integrating modern tools and analytics into their decision-making process.
+Discretionary trading, conversely, has a much older lineage, rooted in the earliest stock markets of the 17th and 18th centuries. Before the digital age, traders relied on [fundamental analysis](/wiki/fundamental-analysis), news, and their personal judgment to make trading decisions. Even as mechanical systems began to gain traction, discretionary traders have held their ground, adapting by integrating modern tools and analytics into their decision-making process.
 
 **Advantages and Disadvantages of Both Methods**
 
@@ -66,11 +66,11 @@ Mechanical trading strategies provide a structured approach to the chaotic world
 
 **Systematized Decision-Making**: Central to mechanical trading is the shift from ad-hoc decisions to a structured approach. Each component must interplay seamlessly, and every possible market scenario should be anticipated, with a clear action plan in place. This level of regimentation aims to ensure that even during periods of market stress or euphoria, the strategy remains robust and unaffected by the biases that often plague human judgment.
 
-In essence, the success of mechanical trading lies in its foundational components. By focusing on a well-defined market, adhering to risk management through proper position sizing, and having clear entry, exit, stops, and targets, traders can navigate the markets with precision. Coupled with the rigorous discipline of systematized decision-making, mechanical trading offers a way to harness the markets' movements methodically and consistently.
+In essence, the success of mechanical trading lies in its foundational components. By focusing on a well-defined market, adhering to risk management through proper position sizing, and having clear entry, [exit](/wiki/exit-strategy), stops, and targets, traders can navigate the markets with precision. Coupled with the rigorous discipline of systematized decision-making, mechanical trading offers a way to harness the markets' movements methodically and consistently.
 
 ## Mechanics Behind the Strategy: Indicators & Triggers
 
-Mechanical trading strategies heavily rely on technical indicators to inform and validate trading decisions. These indicators can be classified into two broad categories: [trend-following](https://paperswithbacktest.com/paper/does-trend-following-work-on-stocks) and [mean reversion](https://paperswithbacktest.com/paper/pairs-trading-performance-of-a-relative-value-arbitrage-rule).
+Mechanical trading strategies heavily rely on technical indicators to inform and validate trading decisions. These indicators can be classified into two broad categories: [trend-following](https://paperswithbacktest.com/paper/does-trend-following-work-on-stocks) and [mean reversion](https://paperswithbacktest.com/paper/pairs-trading-performance-of-a-relative-value-[arbitrage](/wiki/arbitrage)-rule).
 
 **Trend-following Indicators**: As the name implies, these indicators aim to identify and capitalize on existing market trends. Some of the most common trend-following indicators include:
 
@@ -118,7 +118,7 @@ Developing a robust mechanical trading system is as much an art as it is science
 
 Diversification has long been heralded as a cornerstone of investment strategy, as championed by Nobel laureate Harry Markowitz's Modern Portfolio Theory[6]. In the realm of mechanical trading, diversification's power isn't just about asset classes; it extends to trading across multiple markets and leveraging varied strategies.
 
-Trading across different markets, whether they are geographically diverse stock exchanges, different asset classes like commodities, equities, or forex, or even distinct sectors within an economy, can provide insulation against localized economic shocks or market anomalies. For instance, while tech stocks might face a downturn, agricultural commodities could be on an upswing, creating opportunities for traders. Furthermore, markets have varied levels of liquidity, trading hours, and volatility, offering an assortment of risk and reward profiles.
+Trading across different markets, whether they are geographically diverse stock exchanges, different asset classes like commodities, equities, or [forex](/wiki/forex-system), or even distinct sectors within an economy, can provide insulation against localized economic shocks or market anomalies. For instance, while tech stocks might face a downturn, agricultural commodities could be on an upswing, creating opportunities for traders. Furthermore, markets have varied levels of [liquidity](/wiki/liquidity-risk-premium), trading hours, and [volatility](/wiki/volatility-trading-strategies), offering an assortment of risk and reward profiles.
 
 Similarly, employing multiple strategies offers another layer of diversification. Consider the difference between trend-following strategies and mean reversion strategies. While trend-followers bank on the continuation of existing market movements, mean reversion strategies bet on price corrections back to an average or equilibrium. Using both strategies in tandem means that a trader can profit from markets that are both trending and range-bound.
 
@@ -174,15 +174,15 @@ Blending mechanical precision with human intuition can yield a more adaptive and
 
 ## The Evolution of Mechanical Trading: Current Trends & Future Outlook
 
-Mechanical trading, once a straightforward algorithmic interpretation of market data, has evolved leaps and bounds with the integration of Artificial Intelligence (AI) and Machine Learning (ML). AI & ML have transformed the landscape, enabling systems to learn from data, recognize patterns, and even adapt to changing market conditions without human intervention.
+Mechanical trading, once a straightforward algorithmic interpretation of market data, has evolved leaps and bounds with the integration of Artificial Intelligence (AI) and Machine L[earning](/wiki/earning-announcement) (ML). AI & ML have transformed the landscape, enabling systems to learn from data, recognize patterns, and even adapt to changing market conditions without human intervention.
 
-Traditional mechanical strategies were mainly rule-based, working within defined parameters. In contrast, [AI-driven strategies can analyze vast datasets](https://paperswithbacktest.com/datasets), consider multiple variables, and improve themselves by constantly learning from new data. This self-improvement is the cornerstone of ML, where algorithms learn from historical data to predict future market movements. For instance, deep learning, a subset of ML, uses neural networks to analyze not just price and volume but also news feeds, social media sentiment, and other unstructured data sources.
+Traditional mechanical strategies were mainly rule-based, working within defined parameters. In contrast, [AI-driven strategies can analyze vast datasets](https://paperswithbacktest.com/datasets), consider multiple variables, and improve themselves by constantly learning from new data. This self-improvement is the cornerstone of ML, where algorithms learn from historical data to predict future market movements. For instance, [deep learning](/wiki/deep-learning), a subset of ML, uses [neural network](/wiki/neural-network)s to analyze not just price and [volume](/wiki/volume-trading-strategy) but also news feeds, social media sentiment, and other unstructured data sources.
 
 However, as we move towards this era of AI-driven mechanical trading, challenges emerge. One pressing concern is over-optimization. Given the complexity and adaptability of AI models, there's a risk of creating systems that fit too closely to historical data, making them less robust in real-world trading scenarios. Transparency, or the lack thereof, is another issue. AI models, especially deep learning ones, are often termed as "black boxes" because their decision-making processes can be hard to interpret. This opacity can be a hurdle, especially in a regulatory environment that demands transparency.
 
 Moreover, the rapid integration of AI in trading raises concerns about market stability. As more AI-driven models operate simultaneously, they could, under certain conditions, amplify market volatility or even lead to flash crashes.
 
-Looking ahead, the convergence of quantum computing and trading is on the horizon. Quantum computers, with their superior processing capabilities, can further revolutionize algorithmic trading by solving complex problems in seconds and optimizing trading strategies in real-time.
+Looking ahead, the convergence of quantum computing and trading is on the horizon. Quantum computers, with their superior processing capabilities, can further revolutionize [algorithmic trading](/wiki/algorithmic-trading) by solving complex problems in seconds and optimizing trading strategies in real-time.
 
 In sum, while the fusion of AI & ML with mechanical trading offers unprecedented opportunities, it's imperative for traders and institutions to be aware of the associated challenges. By addressing these challenges head-on and continuously adapting, the future of mechanical trading appears both promising and exciting.
 
@@ -218,7 +218,7 @@ In the early 1980s, Richard Dennis and William Eckhardt debated whether traders 
 
 **Long-Term Capital Management (LTCM): A Downfall of Overconfidence**
 
-Founded by John Meriwether and involving two Nobel Prize-winning economists, LTCM was a hedge fund that relied heavily on quantitative models. Initially, the fund achieved impressive returns, but its over-reliance on models and excessive leverage led to a significant downfall during the 1998 Russian financial crisis. The fund's collapse necessitated a massive bailout orchestrated by the Federal Reserve to prevent broader financial market disruption.
+Founded by John Meriwether and involving two Nobel Prize-winning economists, LTCM was a [hedge fund](/wiki/hedge-fund-trading-strategies) that relied heavily on quantitative models. Initially, the fund achieved impressive returns, but its over-reliance on models and excessive leverage led to a significant downfall during the 1998 Russian financial crisis. The fund's collapse necessitated a massive bailout orchestrated by the Federal Reserve to prevent broader financial market disruption.
 
 👉 Key Takeaway: Even the most sophisticated models have limitations. Over-leveraging and overconfidence in models without accounting for unforeseen market events can be catastrophic.
 
@@ -240,7 +240,7 @@ For budding traders, these real-world cases highlight the importance of discipli
 
 The transformation from traditional to mechanical trading mirrors the broader evolution of many sectors towards a more data-driven approach. As markets have grown in complexity, the allure of mechanical trading, with its promise of objective, emotion-free decision-making, has become increasingly prominent. This shift doesn't negate the value of human intuition or the richness of traditional trading techniques. Instead, it supplements them, offering tools that can navigate the multifaceted terrains of modern financial markets with precision.
 
-Mechanical trading strategies, underpinned by rigorous research, systematized decision-making, and continuous refinement, hold the potential to deliver consistent results. These systems, aided by an array of technical indicators and triggers, have redefined how traders approach the markets. Moreover, with the advent of AI and machine learning, the horizon for mechanical trading continues to expand, promising even more sophisticated and adaptive strategies in the future.
+Mechanical trading strategies, underpinned by rigorous research, systematized decision-making, and continuous refinement, hold the potential to deliver consistent results. These systems, aided by an array of technical indicators and triggers, have redefined how traders approach the markets. Moreover, with the advent of AI and [machine learning](/wiki/machine-learning), the horizon for mechanical trading continues to expand, promising even more sophisticated and adaptive strategies in the future.
 
 However, the journey is not without its challenges. As we've seen from real-world case studies, over-reliance or overconfidence in models can lead to significant setbacks. It's a reminder that while technology and algorithms can be powerful allies, they are not infallible.
 

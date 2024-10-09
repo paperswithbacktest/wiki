@@ -21,7 +21,7 @@ The rise of information technology has given rise to a new form of trading: algo
 
 ## Backtesting
 
-Follow these steps for effective backtesting:
+Follow these steps for effective [backtesting](/wiki/backtesting):
 
 1. **Define your strategy**: This includes parameters such as entry and exit criteria, stop-loss, take-profit, etc.
 2. **Program your algorithm**: Use an appropriate language such as Python, R or Java. Integrate AI functions if necessary (e.g. neural networks or support vector machines).

@@ -22,7 +22,7 @@ In this article, we will explore how CNNs can be applied in the context of algor
 
 ## Understanding Convolutional Neural Networks
 
-A convolutional neural network (CNN) is a specialized type of neural network designed for processing visual input. The architecture of a CNN is particularly adept at capturing spatial hierarchies in visual data through its layered design. Central to this capability are the convolutional layers and filters, which automatically learn and extract features from the input data, such as images or video frames.
+A [convolutional [neural network](/wiki/neural-network)](/wiki/convolutional-neural-network) (CNN) is a specialized type of neural network designed for processing visual input. The architecture of a CNN is particularly adept at capturing spatial hierarchies in visual data through its layered design. Central to this capability are the convolutional layers and filters, which automatically learn and extract features from the input data, such as images or video frames.
 
 Convolutional layers are equipped with filters, also known as kernels, which slide over the input data to perform the convolution operation. Mathematically, this can be described by the equation:
 
@@ -34,7 +34,7 @@ where $X$ is the input image, $F$ is the filter, and $(i, j)$ denote the spatial
 
 Once a filter has swept across the input, it produces an output known as a feature map. These feature maps highlight various detected patterns and features at different spatial scales. For example, early layers may detect basic edges or textures, while deeper layers recognize more complex structures like shapes or even objects. This hierarchical feature extraction generates progressively abstract representations of input data, making CNNs particularly effective for tasks like image recognition.
 
-CNNs utilize multiple convolutional layers, with each layer learning increasingly abstract features. The earlier layers capture low-level details, while deeper layers integrate these details into high-level concepts. Such a structure allows CNNs to effectively perform complex tasks, such as identifying objects in images, detecting faces, and even analyzing patterns in non-image data that can be represented visually.
+CNNs utilize multiple convolutional layers, with each layer l[earning](/wiki/earning-announcement) increasingly abstract features. The earlier layers capture low-level details, while deeper layers integrate these details into high-level concepts. Such a structure allows CNNs to effectively perform complex tasks, such as identifying objects in images, detecting faces, and even analyzing patterns in non-image data that can be represented visually.
 
 In summary, CNNs harness convolutional layers and filters to intelligently extract and hierarchically organize features from input data, enabling powerful processing and understanding of visual information.
 
@@ -83,7 +83,7 @@ As data flows through the network, it finally reaches the output layer. This lay
 
 ## Types of CNN Architectures
 
-Convolutional Neural Networks (CNNs) come in various architectures, each bringing unique strengths and serving distinct purposes in the field of deep learning. Over time, these architectures have adapted to tackle challenges such as computational efficiency, feature reuse, and problems like gradient vanishing. Below are some of the most notable CNN architectures, each making a significant impact in processing and interpreting visual data.
+Convolutional Neural Networks (CNNs) come in various architectures, each bringing unique strengths and serving distinct purposes in the field of [deep learning](/wiki/deep-learning). Over time, these architectures have adapted to tackle challenges such as computational efficiency, feature reuse, and problems like gradient vanishing. Below are some of the most notable CNN architectures, each making a significant impact in processing and interpreting visual data.
 
 ### LeNet
 
@@ -114,9 +114,9 @@ These architectures exemplify the evolution and innovation in CNN designs, each 
 
 ## Using CNNs in Algo Trading
 
-Convolutional Neural Networks (CNNs) are increasingly being used in algorithmic trading to process and analyze market data. These networks provide a way to identify patterns and trends in financial data by transforming traditional numerical data into images. Here's how CNNs are applied in trading:
+Convolutional Neural Networks (CNNs) are increasingly being used in [algorithmic trading](/wiki/algorithmic-trading) to process and analyze market data. These networks provide a way to identify patterns and trends in financial data by transforming traditional numerical data into images. Here's how CNNs are applied in trading:
 
-Firstly, the process begins with data fetching. Historical market data is collected from various sources, such as stock exchanges or financial data providers. This data typically includes price, volume, and other trading indicators that reflect market conditions over time. The goal here is to obtain a clean and comprehensive dataset that represents the financial instrument of interest.
+Firstly, the process begins with data fetching. Historical market data is collected from various sources, such as stock exchanges or financial data providers. This data typically includes price, [volume](/wiki/volume-trading-strategy), and other trading indicators that reflect market conditions over time. The goal here is to obtain a clean and comprehensive dataset that represents the financial instrument of interest.
 
 Once the data is collected, the next step is image creation. This involves converting the numerical data into images that can be analyzed by a CNN. One common approach is to generate candlestick charts or similar visual representations of market data, which are then used as input to the CNN model. These images capture essential features and patterns present in the data, providing a visual context that is particularly suited for CNN processing.
 
@@ -149,7 +149,7 @@ Implementing Convolutional Neural Networks (CNNs) in algorithmic trading involve
 
 3. **Training and Evaluation**: Training a CNN involves feeding the network with the preprocessed data and adjusting the weights through backpropagation to minimize prediction errors. This step is critical to ensure the CNN model generalizes well on unseen data. The model is evaluated using metrics such as accuracy or RMSE (Root Mean Square Error) to ascertain its performance. Cross-validation techniques can be employed to test the model's robustness. Through iterative training and testing, hyperparameters are tuned to optimize the model for the trading task, such as predicting asset price movements or classifying market trends.
 
-   Training and evaluation play a pivotal role in transitioning the CNN from a theoretical design to a practical tool capable of making reliable predictions in real-time trading. Once the model is validated and deemed satisfactory, it can be deployed into live trading environments, providing traders with actionable insights. Proper evaluation ensures that the model is robust against overfitting and can adapt to varying market conditions effectively.
+   Training and evaluation play a pivotal role in transitioning the CNN from a theoretical design to a practical tool capable of making reliable predictions in real-time trading. Once the model is validated and deemed satis[factor](/wiki/factor-investing)y, it can be deployed into live trading environments, providing traders with actionable insights. Proper evaluation ensures that the model is robust against overfitting and can adapt to varying market conditions effectively.
 
 
 ## Step-by-Step Guide to Using CNNs in Python

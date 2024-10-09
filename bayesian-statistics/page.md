@@ -30,9 +30,9 @@ Where:
 
 ## Historical Context and Importance in Modern Statistics
 
-The origins of Bayesian statistics trace back to Reverend Thomas Bayes, who postulated Bayes' theorem in the 18th century. However, the Bayesian approach didn't gain significant traction until the 20th century, primarily due to computational limitations. With the advent of powerful computers and algorithms in the latter part of the 20th century, the practical applications of Bayesian methods exploded.
+The origins of Bayesian [statistics](/wiki/bayesian-statistics) trace back to Reverend Thomas Bayes, who postulated Bayes' theorem in the 18th century. However, the Bayesian approach didn't gain significant traction until the 20th century, primarily due to computational limitations. With the advent of powerful computers and algorithms in the latter part of the 20th century, the practical applications of Bayesian methods exploded.
 
-Today, Bayesian statistics plays a pivotal role in various fields. From machine learning to medical research, Bayesian methods provide a flexible framework for understanding complex phenomena and making predictions. Its ability to incorporate prior knowledge and continuously update beliefs with new data makes it particularly valuable in the era of big data.
+Today, Bayesian statistics plays a pivotal role in various fields. From machine l[earning](/wiki/earning-announcement) to medical research, Bayesian methods provide a flexible framework for understanding complex phenomena and making predictions. Its ability to incorporate prior knowledge and continuously update beliefs with new data makes it particularly valuable in the era of big data.
 
 **Comparison Between Bayesian and Frequentist Approaches**
 
@@ -72,7 +72,7 @@ In the context of Bayesian statistics:
 - $P(A)$ is the **prior** probability (our belief before observing the evidence).
 - $P(B)$ is the evidence, also called the marginal likelihood. This can be seen as a normalizing constant ensuring our probabilities sum to one.
 
-The importance of Bayes' rule is paramount, as it provides a mechanism to refine our beliefs (or hypotheses) using evidence. It has been applied across diverse fields including medicine, finance, and machine learning.
+The importance of Bayes' rule is paramount, as it provides a mechanism to refine our beliefs (or hypotheses) using evidence. It has been applied across diverse fields including medicine, finance, and [machine learning](/wiki/machine-learning).
 
 **Visual Representations and Intuitive Explanations**
 
@@ -84,7 +84,7 @@ Visually, this can be represented by filtering out all black cards and recalcula
 
 Similarly, in a Venn diagram, Bayes' theorem can be visually depicted by intersecting sets. The likelihood can be visualized as the overlap between the evidence set $B$ and the hypothesis set $A$. The more they overlap, the higher the posterior probability $P(A|B)$.
 
-In essence, Bayes' rule can be thought of as a way to refine or adjust probabilities in light of new information. The prior probability serves as a starting point, and the likelihood represents how well the evidence aligns with our hypothesis. The evidence ensures our probabilities are well-calibrated, and the resulting posterior gives us an updated belief considering all these factors.
+In essence, Bayes' rule can be thought of as a way to refine or adjust probabilities in light of new information. The prior probability serves as a starting point, and the likelihood represents how well the evidence aligns with our hypothesis. The evidence ensures our probabilities are well-calibrated, and the resulting posterior gives us an updated belief considering all these [factor](/wiki/factor-investing)s.
 
 For those who want to dive deeper into the mathematical underpinnings and applications, there are numerous resources available. Among the recommended readings is "Bayesian Data Analysis" by Andrew Gelman et al. [1], which offers a comprehensive overview of the topic.
 
@@ -120,7 +120,7 @@ While this example can be mathematically complex, it demonstrates how Bayesian m
 
 **Everyday Decisions Modeled Using Bayes' Rule**
 
-Consider the decision to carry an umbrella. If it's a sunny day without a cloud in sight, your prior belief in the necessity of an umbrella is low. However, if you then receive a weather notification on your phone predicting rain, you update this belief. The likelihood of the notification being accurate, combined with your prior, gives you a new, adjusted belief about the probability of rain. This is a Bayesian update in action, even if we don't explicitly calculate probabilities.
+Consider the decision to [carry](/wiki/carry-trading) an umbrella. If it's a sunny day without a cloud in sight, your prior belief in the necessity of an umbrella is low. However, if you then receive a weather notification on your phone predicting rain, you update this belief. The likelihood of the notification being accurate, combined with your prior, gives you a new, adjusted belief about the probability of rain. This is a Bayesian update in action, even if we don't explicitly calculate probabilities.
 
 Bayesian reasoning can be applied to numerous daily decisions. From interpreting reviews before buying a product online to deciding if a news article is credible based on the source and content, Bayesian thinking provides a structured way to incorporate new evidence into our beliefs.
 
@@ -254,7 +254,7 @@ Another scenario could involve monitoring a machine's performance over time. If 
 
 In both cases, as more data is observed, the Bayesian approach allows for consistent updating of beliefs, refining the model's understanding of the underlying distribution or process.
 
-In essence, Bayesian inference over possibilities is about selecting the right model complexity given the data at hand and the questions of interest, ensuring that the conclusions drawn are both robust and flexible.
+In essence, Bayesian inference over possibilities is about selecting the right model compl[exit](/wiki/exit-strategy)y given the data at hand and the questions of interest, ensuring that the conclusions drawn are both robust and flexible.
 
 ### Formal Description and Definitions
 
@@ -419,7 +419,7 @@ Where $\epsilon_i \sim N(0, \sigma^2)$. Priors are set on $\beta_0, \beta_1$, an
 
 **Bayesian Neural Networks**
 
-Neural networks, the workhorses behind the deep learning revolution, can also be cast into a Bayesian framework. Bayesian Neural Networks (BNNs) aim to capture uncertainty in deep learning by placing priors on the weights and biases, resulting in a distribution over neural networks. BNNs can offer better calibration and expressiveness, especially when data is sparse or when modeling uncertainty is crucial.
+Neural networks, the workhorses behind the [deep learning](/wiki/deep-learning) revolution, can also be cast into a Bayesian framework. Bayesian Neural Networks (BNNs) aim to capture uncertainty in deep learning by placing priors on the weights and biases, resulting in a distribution over [neural network](/wiki/neural-network)s. BNNs can offer better calibration and expressiveness, especially when data is sparse or when modeling uncertainty is crucial.
 
 **Bayesian Time Series Analysis**
 
@@ -451,7 +451,7 @@ Bayesian statistics, with its foundation in probabilistic reasoning and inherent
 
 Bayesian networks, directed acyclic graphs representing a set of random variables and their conditional dependencies, play a pivotal role in AI for knowledge representation and reasoning. For instance, diagnostic AI systems in healthcare often leverage Bayesian networks to model the intricate relationships between symptoms, diseases, and other latent factors. The advantage lies in the network's ability to handle uncertainty, learn from data, and make probabilistic inferences efficiently.
 
-Reinforcement learning, a subset of AI focusing on agents that learn by interacting with their environment, has also been influenced by Bayesian methods. Bayesian Reinforcement Learning provides a framework where the agent maintains a distribution over possible models of the environment and updates this belief as it gains more experience[19].
+Reinforcement learning, a subset of AI focusing on [agents](/wiki/agents) that learn by interacting with their environment, has also been influenced by Bayesian methods. Bayesian Reinforcement Learning provides a framework where the agent maintains a distribution over possible models of the environment and updates this belief as it gains more experience[19].
 
 **Predictive Modeling**
 
@@ -589,7 +589,7 @@ Yet, it's essential to recognize that Bayesian epistemology isn't without its cr
 
 Mastering Bayesian statistics provides a robust foundation for understanding uncertainty, making informed decisions, and updating beliefs in light of new data. At its core, Bayesian statistics centers on Bayes' theorem, a rule derived from conditional probabilities, offering a formal mechanism to adjust our beliefs based on new evidence. This framework contrasts with the Frequentist approach, emphasizing the continuous evolution of knowledge as we accumulate more data.
 
-Over time, Bayesian methods have permeated various domains. From modeling complex systems and making inferences about unknown parameters to computational techniques like Monte Carlo methods and MCMC, Bayesian statistics offers versatile tools for a myriad of applications. Today, its principles underpin advanced machine learning algorithms, predictive modeling in artificial intelligence, bioinformatics research, and even judicial decision-making processes.
+Over time, Bayesian methods have permeated various domains. From modeling complex systems and making inferences about unknown parameters to computational techniques like Monte Carlo methods and MCMC, Bayesian statistics offers versatile tools for a myriad of applications. Today, its principles underpin advanced machine learning algorithms, predictive modeling in [artificial intelligence](/wiki/ai-artificial-intelligence), bioinformatics research, and even judicial decision-making processes.
 
 Yet, beyond the mathematical and computational prowess, Bayesian statistics carries profound philosophical implications. It challenges our understanding of knowledge, belief, and rationality, presenting a blend of rationalism and empiricism, where beliefs are neither static nor absolute but are continually refined with experience.
 

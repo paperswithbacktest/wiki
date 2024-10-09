@@ -20,7 +20,7 @@ In summary, stock exchanges serve as cornerstones of modern financial systems, d
 
 The New York Stock Exchange (NYSE) stands as one of the most iconic symbols of global finance. Established in 1792, its historical significance is deeply rooted in the evolution of the U.S. financial system and, by extension, the global market. Its humble beginnings under the Buttonwood Tree in Manhattan have grown into the world's largest stock exchange by market capitalization, a testament to its enduring influence and adaptability.
 
-The NYSE facilitates the trading of a wide range of securities, including stocks, bonds, and exchange-traded funds (ETFs). It is home to some of the largest and most influential companies in the world. Listing requirements on the NYSE are stringent, designed to ensure only the most stable and promising companies gain access to the vast pool of liquidity and investor attention available at the exchange. For instance, companies must meet minimum thresholds for earnings, market capitalization, and share distribution. This ensures that both the financial health and governance of listed companies meet high standards.
+The NYSE facilitates the trading of a wide range of securities, including stocks, bonds, and exchange-traded funds ([ETF](/wiki/etf-trading-strategies)s). It is home to some of the largest and most influential companies in the world. Listing requirements on the NYSE are stringent, designed to ensure only the most stable and promising companies gain access to the vast pool of [liquidity](/wiki/liquidity-risk-premium) and investor attention available at the exchange. For instance, companies must meet minimum thresholds for [earning](/wiki/earning-announcement)s, market capitalization, and share distribution. This ensures that both the financial health and governance of listed companies meet high standards.
 
 In the current global market, the NYSE remains at the forefront, crucial to the dynamics of international finance. It lists over 2,400 companies from more than 45 countries, generating a market capitalization of around $30 trillion. Notable companies listed on the NYSE include multinational giants like Apple Inc., Microsoft, and Berkshire Hathaway, each representing significant sectors of the economy such as technology and consumer goods. This diversity underscores the NYSE's role not just as an American exchange, but as a centerpiece of the global economic landscape.
 
@@ -72,7 +72,7 @@ The Shanghai Stock Exchange (SSE) is a pivotal platform in China's financial lan
 
 The market size of the SSE is impressive, with the exchange consistently ranking among the largest globally in terms of market capitalization. As of 2023, the SSE's total market capitalization exceeds $7 trillion, demonstrating its substantial influence. This large scale is a reflection of the SSE's ability to attract a diverse range of companies and investors, both individual and institutional. Consequently, it plays a critical role in channeling savings into productive investments, thereby contributing significantly to China's economic growth.
 
-The economic impact of the SSE is substantial, as it serves as a barometer for the Chinese economy. The exchange facilitates capital raising for companies, allowing them to expand, innovate, and even go global. This, in turn, fuels job creation and technological advancements within China, reinforcing the SSE's role in the nation's economic development.
+The economic impact of the SSE is substantial, as it serves as a barometer for the Chinese economy. The exchange facilitates [capital raising](/wiki/hedge-fund-capital-raising) for companies, allowing them to expand, innovate, and even go global. This, in turn, fuels job creation and technological advancements within China, reinforcing the SSE's role in the nation's economic development.
 
 Important indices on the SSE include the SSE Composite Index and the SSE 50 Index. The SSE Composite Index, one of the most-watched indices, is a reflection of the overall Shanghai stock market, comprising all listed stocks, including A-shares and B-shares. In contrast, the SSE 50 Index includes the top 50 companies by market capitalization and liquidity, offering insights into the performance of the largest corporations in China.
 
@@ -122,7 +122,7 @@ In summary, the BSE's historical legacy, robust market structure, and influentia
 
 ## Major Stock Exchanges
 
-As of 2016, 21 stock exchanges across the globe boasted a market capitalization of over US$1 trillion each, accounting for 87% of global market capitalization. This list provides insight into the leading stock exchanges by market capitalization, trading volumes, and operating hours.
+As of 2016, 21 stock exchanges across the globe boasted a market capitalization of over US$1 trillion each, accounting for 87% of global market capitalization. This list provides insight into the leading stock exchanges by market capitalization, trading [volume](/wiki/volume-trading-strategy)s, and operating hours.
 
 The table below details the top 20 stock exchanges in the world by market capitalization as of 2024, focusing on those with a market cap of over USD 1 trillion.
 
@@ -164,6 +164,6 @@ Euronext, as a pan-European exchange, is quintessential for its multi-country in
 
 For investors navigating international stock exchanges, considerations include understanding each market's regulatory environment, currency exchange risks, and economic policies. Engaging with diverse exchanges can offer portfolio diversification, but it necessitates thorough research and awareness of global economic indicators.
 
-Looking forward, the landscape of stock exchanges is poised for transformative shifts. Technological advancements such as AI and blockchain are expected to streamline trading processes and enhance transparency. Additionally, increased environmental, social, and governance (ESG) considerations are influencing market dynamics, with exchanges encouraging sustainable practices. As globalization progresses, stock exchanges may further amplify collaboration and integration, fostering a more interconnected global financial ecosystem.
+Looking forward, the landscape of stock exchanges is poised for transformative shifts. Technological advancements such as AI and blockchain are expected to streamline trading processes and enhance transparency. Additionally, increased environmental, social, and governance ([ESG](/wiki/esg-investing)) considerations are influencing market dynamics, with exchanges encouraging sustainable practices. As globalization progresses, stock exchanges may further amplify collaboration and integration, fostering a more interconnected global financial ecosystem.
 
 

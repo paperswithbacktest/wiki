@@ -22,7 +22,7 @@ This article explores a suite of data augmentation techniques tailored specifica
 
 ## The Importance of Data Augmentation in Algo Trading
 
-Data augmentation is a crucial strategy in algorithmic trading for tackling the limitations posed by scarce and expensive financial market data. In algorithmic trading, the performance of models heavily relies on the availability of extensive and diverse training datasets. However, real-world financial data is not only limited but also costly to obtain, which can constrain the development of robust trading algorithms. This is where data augmentation becomes invaluable.
+Data augmentation is a crucial strategy in [algorithmic trading](/wiki/algorithmic-trading) for tackling the limitations posed by scarce and expensive financial market data. In algorithmic trading, the performance of models heavily relies on the availability of extensive and diverse training datasets. However, real-world financial data is not only limited but also costly to obtain, which can constrain the development of robust trading algorithms. This is where [data augmentation](/wiki/data-augmentation) becomes invaluable.
 
 By generating synthetic variations of existing data, data augmentation significantly enhances the robustness of trading models. Augmented datasets play a pivotal role in preventing overfitting—a common pitfall where models perform well on training data but poorly on unseen data. Overfitting occurs when a model learns noise and detail from the training data to the extent that it negatively impacts the model's performance on new data. By introducing diverse synthetic variants of the existing dataset, data augmentation exposes the model to a wider array of scenarios. This helps in improving the model's generalization capability, enabling it to make more accurate predictions on real-world data.
 
@@ -47,7 +47,7 @@ where $\delta$ can be positive or negative depending on the direction of the shi
 
 ### 2. Stretching
 
-Stretching alters the timescale of the data, effectively compressing or expanding the series. This is akin to changing the speed at which the data is observed, allowing the model to generalize over different time resolutions. In practice, stretching can be achieved by linearly interpolating or resampling the data points. For example, if we have a time series $X(t)$ and a stretching factor $\alpha$, the transformed series can be expressed as:
+Stretching alters the timescale of the data, effectively compressing or expanding the series. This is akin to changing the speed at which the data is observed, allowing the model to generalize over different time resolutions. In practice, stretching can be achieved by linearly interpolating or resampling the data points. For example, if we have a time series $X(t)$ and a stretching [factor](/wiki/factor-investing) $\alpha$, the transformed series can be expressed as:
 
 $$
 X'(t) = X(\alpha t)
@@ -193,15 +193,15 @@ The results of this augmentation process were evident. Models trained on augment
 
 ## Challenges and Considerations in Data Augmentation
 
-Data augmentation is a powerful tool in algorithmic trading, yet it comes with its own set of challenges that need careful navigation. One primary challenge is ensuring that the augmented data retains the original dataset's integrity and realism. In financial markets, datasets are highly dynamic and context-specific, meaning that any synthetic datasets must reflect these inherent complexities convincingly.
+Data augmentation is a powerful tool in algorithmic trading, yet it comes with its own set of challenges that need careful navigation. One primary challenge is ensuring that the augmented data retains the original dataset's integrity and realism. In financial markets, datasets are highly dynamic and context-specific, meaning that any synthetic datasets must reflect these inherent compl[exit](/wiki/exit-strategy)ies convincingly.
 
 A crucial consideration is the risk of introducing bias through augmentation techniques. If synthetic data is not generated carefully, it can lead to models that perform well on the augmented datasets but poorly in real market conditions. For instance, adding too much noise might obscure essential patterns, while inappropriate shifting or stretching can distort critical temporal dependencies within the time series data. Ensuring the fidelity of temporal relationships is paramount, as they drive many trading signals.
 
 Another challenge is the potential for overfitting. While augmented datasets can help in reducing overfitting by increasing data diversity, poorly executed augmentation techniques might have the opposite effect. For example, if the augmentation overemphasizes certain market conditions, models may become overly adapted to these scenarios, reducing their generalization ability. Therefore, it's essential to balance the complexity of synthetic data with the necessity to remain grounded in realistic market conditions.
 
-Moreover, the computational cost of generating and handling augmented datasets can be substantial. Applying augmentation techniques such as noise addition or low-pass filtering requires additional processing and storage resources, which can be a constraint, especially for high-frequency trading models dealing with massive data volumes. Efficient algorithms and optimized software implementations can mitigate these costs.
+Moreover, the computational cost of generating and handling augmented datasets can be substantial. Applying augmentation techniques such as noise addition or low-pass filtering requires additional processing and storage resources, which can be a constraint, especially for high-frequency trading models dealing with massive data [volume](/wiki/volume-trading-strategy)s. Efficient algorithms and optimized software implementations can mitigate these costs.
 
-When augmenting data, consider validating the augmented dataset's utility through backtesting. This involves testing the trading strategy on the augmented dataset and evaluating its performance against real historical data. Effective backtesting can reveal discrepancies in model performance and highlight whether augmented data contributes meaningfully to strategy robustness.
+When augmenting data, consider validating the augmented dataset's utility through [backtesting](/wiki/backtesting). This involves testing the trading strategy on the augmented dataset and evaluating its performance against real historical data. Effective backtesting can reveal discrepancies in model performance and highlight whether augmented data contributes meaningfully to strategy robustness.
 
 Finally, it's critical to adapt data augmentation techniques to specific trading environments and strategies. Traders must customize augmentation strategies like `shiftTimeSeries`, `stretching`, or `noiseAddition` to ensure alignment with their unique objectives and market behavior. This may involve iterative processes of experimentation and validation to find the optimal augmentation balance.
 

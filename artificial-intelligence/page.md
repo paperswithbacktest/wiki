@@ -19,7 +19,7 @@ Within this guide, we shall navigate through the multifaceted world of AI in tra
 
 ### Defining AI Trading
 
-AI trading, often referred to as algorithmic or automated trading, is the process where computer programs are leveraged to make trading decisions based on a set of criteria derived from historical data. These criteria can range from simple moving average crossovers to intricate neural networks and deep learning models. It's not about replacing the human trader but enhancing their capabilities, offering real-time data analysis at a scale and speed beyond human potential.
+AI trading, often referred to as algorithmic or automated trading, is the process where computer programs are leveraged to make trading decisions based on a set of criteria derived from historical data. These criteria can range from simple moving average crossovers to intricate [neural network](/wiki/neural-network)s and [deep l[earning](/wiki/earning-announcement)](/wiki/deep-learning) models. It's not about replacing the human trader but enhancing their capabilities, offering real-time data analysis at a scale and speed beyond human potential.
 
 ![AI in trading.png](images/AI_in_trading.png)
 
@@ -49,11 +49,11 @@ The operational mechanism of AI in trading is a fusion of technological prowess 
 
 ### Evolution and Impact of AI on Trading
 
-The transformative journey of AI in the trading sphere begins in the late 20th century, subtly altering the industry's mechanisms with technological advancements and strategic nuances. The late 1970s and early 1980s witnessed the inception of algorithmic trading, setting a fundamental baseline for future developments in AI trading[8].
+The transformative journey of AI in the trading sphere begins in the late 20th century, subtly altering the industry's mechanisms with technological advancements and strategic nuances. The late 1970s and early 1980s witnessed the inception of [algorithmic trading](/wiki/algorithmic-trading), setting a fundamental baseline for future developments in AI trading[8].
 
-Subsequently, the late 1980s brought the application of more advanced mathematical models to predict price changes and trade automatically in response to market changes. Machine learning, particularly reinforcement learning, began to be applied to trading decisions during the 1990s, allowing algorithms to learn from data without being explicitly programmed[9].
+Subsequently, the late 1980s brought the application of more advanced mathematical models to predict price changes and trade automatically in response to market changes. Machine learning, particularly [reinforcement learning](/wiki/reinforcement-learning), began to be applied to trading decisions during the 1990s, allowing algorithms to learn from data without being explicitly programmed[9].
 
-The 2000s heralded a new era, marking the robust entry of Artificial Neural Networks (ANNs) and Deep Learning into financial trading systems. These technologies facilitated the process of analyzing vast amounts of data and predicting market trends with heightened accuracy. During this era, high-frequency trading (HFT), utilizing complex algorithms to execute thousands of trades at lightning speeds, became a prominent strategy among hedge funds and institutional traders.
+The 2000s heralded a new era, marking the robust entry of Artificial Neural Networks (ANNs) and Deep Learning into financial trading systems. These technologies facilitated the process of analyzing vast amounts of data and predicting market trends with heightened accuracy. During this era, high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), utilizing complex algorithms to execute thousands of trades at lightning speeds, became a prominent strategy among [hedge fund](/wiki/hedge-fund-trading-strategies)s and institutional traders.
 
 In 2010, the infamous Flash Crash, where the Dow Jones dropped over 1000 points within minutes and recovered shortly after, brought HFT and algorithmic trading under scrutiny, spotlighting the potential risks and regulatory gaps in unchecked automated trading systems[10].
 
@@ -65,13 +65,13 @@ The adoption of AI in trading continues to surge, with aspects like decentralize
 
 ### Case Study: AI Trading Success and Failure Stories
 
-The deployment of AI has scripted both illustrious gains and notorious failures, serving as emblematic beacons of its potential and pitfalls. One glittering instance of AI success emerged from **Renaissance Technologies**, a hedge fund renowned for its medley of statistical and machine learning models to predict price movements. The Medallion Fund, famously guarded and operated primarily by AI and algorithms, has delivered an approximate 66% annualized return before fees from 1988 to 2018, dwarfing benchmarks and establishing itself as a paragon of algorithmic trading prowess[12].
+The deployment of AI has scripted both illustrious gains and notorious failures, serving as emblematic beacons of its potential and pitfalls. One glittering instance of AI success emerged from **Renaissance Technologies**, a hedge fund renowned for its medley of statistical and [machine learning](/wiki/machine-learning) models to predict price movements. The Medallion Fund, famously guarded and operated primarily by AI and algorithms, has delivered an approximate 66% annualized return before fees from 1988 to 2018, dwarfing benchmarks and establishing itself as a paragon of algorithmic trading prowess[12].
 
 Conversely, the 2012 debacle of Knight Capital stands as a testament to the potential perils inherent in AI trading. A rogue algorithm, deployed inadvertently, purchased stocks worth $7 billion within 45 minutes, resulting in a devastating loss of $440 million and nearly bankrupting the firm[13]. The incident underscored not only the financial but also the reputational risks tethered to automated trading, eliciting dialogues about the imperativeness of robust risk management mechanisms in algorithmic operations.
 
 Differently, IBM’s Watson, post its triumphant victory in Jeopardy!, ventured into the financial domain with its predictive analytics, exploring unstructured data to yield insights ostensibly unattainable by human analysts[14]. Utilizing NLP and machine learning, Watson offered predictions and recommendations in financial markets, with varied successes, illustrating the capacities of AI in amalgamating diverse data forms to inform trading strategies.
 
-Contrastingly, during the 2020 pandemic-induced market volatility, numerous AI-driven funds, including the likes of Bridgewater Associates, experienced substantial losses[15]. These setbacks underscored AI's occasional struggles to navigate unprecedented market dynamics, highlighting the conundrum of aligning historical data and unexpected real-world events in algorithmic forecasting.
+Contrastingly, during the 2020 pandemic-induced market [volatility](/wiki/volatility-trading-strategies), numerous AI-driven funds, including the likes of Bridgewater Associates, experienced substantial losses[15]. These setbacks underscored AI's occasional struggles to navigate unprecedented market dynamics, highlighting the conundrum of aligning historical data and unexpected real-world events in algorithmic forecasting.
 
 Such stories herald the duality of AI trading - an arena capable of astonishing success yet equally susceptible to calamitous failures.
 
@@ -79,9 +79,9 @@ Such stories herald the duality of AI trading - an arena capable of astonishing 
 
 ### Application of AI in Algorithmic Trading
 
-Algorithmic trading, characterized by executing high-volume trades at speeds unattainable by humans, intrinsically melds with AI to augment decision-making processes, discern patterns, and actualize strategic trades with precision and scale.
+Algorithmic trading, characterized by executing high-[volume](/wiki/volume-trading-strategy) trades at speeds unattainable by humans, intrinsically melds with AI to augment decision-making processes, discern patterns, and actualize strategic trades with precision and scale.
 
-One of the seminal instances where AI amalgamates with algorithmic trading is through the deployment of **Machine Learning (ML)** models. These models, such as Neural Networks, Random Forests, and Gradient Boosting algorithms, have the propensity to analyze historical and real-time data, decode latent patterns, and predict future price movements. For instance, Neural Networks, particularly convolutional neural networks (CNNs), have demonstrated a remarkable acumen in identifying patterns and trends within time-series financial data, thereby formulating predictive insights to fuel trade decisions[16].
+One of the seminal instances where AI amalgamates with algorithmic trading is through the deployment of **Machine Learning (ML)** models. These models, such as Neural Networks, Random Forests, and Gradient Boosting algorithms, have the propensity to analyze historical and real-time data, decode latent patterns, and predict future price movements. For instance, Neural Networks, particularly [convolutional neural network](/wiki/convolutional-neural-network)s (CNNs), have demonstrated a remarkable acumen in identifying patterns and trends within time-series financial data, thereby formulating predictive insights to fuel trade decisions[16].
 
 Moreover, AI also imbues algorithmic trading with **Natural Language Processing (NLP)**. Essentially, NLP fortifies trading algorithms with the capability to analyze textual data, such as financial reports, news, or social media, thereby deciphering market sentiments and potentially preempting market movements based on news events. An exemplar of this is demonstrated by the utilization of news-sensitive algorithms that decipher information releases and automatically execute trades in a matter of milliseconds, often capitalizing on news-induced volatility before the broader market can respond[17].
 
@@ -107,7 +107,7 @@ One of the salient features of AI-driven portfolio management is the ability to 
 
 Robo-advisors, an offspring of this AI evolution, have democratized access to sophisticated portfolio management strategies. Platforms like Betterment and Wealthfront harness algorithms to assess risk tolerance, set investment objectives, and automatically rebalance portfolios in line with changing market dynamics and client objectives[22]. Their automated processes are not only efficient but also aim to mitigate human emotional biases that sometimes cloud investment decisions.
 
-Beyond automation, AI fosters innovation in portfolio diversification. Traditional diversification methods based on asset classes or geographies can be supplemented with AI-driven factor diversification, where algorithms discern multiple risk factors and dynamically adjust portfolio weights.
+Beyond automation, AI fosters innovation in portfolio diversification. Traditional diversification methods based on asset classes or geographies can be supplemented with AI-driven [factor](/wiki/factor-investing) diversification, where algorithms discern multiple risk factors and dynamically adjust portfolio weights.
 
 While AI ushers a transformative era in portfolio management, it is crucial for investors to be discerning. AI models, as sophisticated as they are, operate on past data and patterns. Unprecedented market events or black swan phenomena can still challenge these algorithms. Continuous oversight, refinement of models, and a judicious mix of AI insights with human intuition remain the keystones of effective portfolio management in the AI age.
 
@@ -117,7 +117,7 @@ The agility of AI in deciphering data patterns allows it to identify anomalous a
 
 A salient utility of AI in risk management is its capability to leverage machine learning algorithms to predict potential market downturns and adjust trading strategies accordingly. AI analyses historical data, recognizes patterns, and employs predictive analytics to gauge market directions, assisting traders and algorithms in making informed decisions under volatile conditions. Techniques like regression analysis and time series forecasting enable AI to anticipate price movements and modify trading strategies to mitigate losses[23].
 
-AI is also paramount in the detection and prevention of fraud in trading platforms. Traditional fraud detection systems can be overwhelmed by the vastness and complexity of financial data, providing a fertile ground for malicious activities to proliferate. AI models, utilizing anomaly detection, swiftly identify irregularities in trading patterns, such as pump-and-dump schemes or layering, by continuously learning from incoming data and detecting deviations from established patterns[24]. This proactiveness ensures that suspicious activities are promptly identified, scrutinized, and curtailed.
+AI is also paramount in the detection and prevention of fraud in trading platforms. Traditional fraud detection systems can be overwhelmed by the vastness and compl[exit](/wiki/exit-strategy)y of financial data, providing a fertile ground for malicious activities to proliferate. AI models, utilizing anomaly detection, swiftly identify irregularities in trading patterns, such as pump-and-dump schemes or layering, by continuously learning from incoming data and detecting deviations from established patterns[24]. This proactiveness ensures that suspicious activities are promptly identified, scrutinized, and curtailed.
 
 Through the deployment of Natural Language Processing (NLP) in risk management, AI scrutinizes financial news, social media chatter, and economic reports to forecast market sentiments. The analysis of textual data, such as news regarding political instability or a sudden change in economic policies, provides actionable insights that could influence trading strategies, ensuring a proactive approach to managing unforeseen risks[25].
 
@@ -125,7 +125,7 @@ Through the deployment of Natural Language Processing (NLP) in risk management, 
 
 ### Deep Learning and Prediction Models
 
-The utilization of deep neural networks, especially recurrent neural networks (RNNs) and long short-term memory networks (LSTMs), facilitates the forecasting of financial markets by recognizing patterns in time-series data, which is crucial given the temporal dependencies in stock prices[26].
+The utilization of deep neural networks, especially recurrent neural networks (RNNs) and [long short](/wiki/equity-long-short)-term memory networks (LSTMs), facilitates the forecasting of financial markets by recognizing patterns in time-series data, which is crucial given the temporal dependencies in stock prices[26].
 
 Notably, LSTMs, with their capacity to remember patterns over time, are widely adopted to predict stock prices. They enable the model to retain essential information from the past and ignore non-contributing data, thereby improving predictive accuracy. The model is trained using historical stock prices to predict future ones, providing traders and algorithms with data that facilitates informed decision-making in investments and trading[27].
 
@@ -169,7 +169,7 @@ Artificial Intelligence has steadfastly permeated the realm of stock trading, wi
 
 ### Will AI Overpower Human Decision-making in Trading?
 
-The convergence of artificial intelligence and human traders in the financial sector is one of the most debated topics, often characterized by the question: "Will AI overpower human decision-making in trading?"
+The convergence of [artificial intelligence](/wiki/ai-artificial-intelligence) and human traders in the financial sector is one of the most debated topics, often characterized by the question: "Will AI overpower human decision-making in trading?"
 
 ![Will AI Overpower Human Decision-making in Trading?.png](images/Will_AI_Overpower_Human_Decision-making_in_Trading.png)
 
@@ -234,11 +234,11 @@ Before diving deep into AI investments:
 5. **Partnerships and Collaborations**: Companies that have robust collaborations with academia, research institutions, or bigger tech giants often have a competitive edge in terms of knowledge and resource sharing.
 6. **Financial Health Check**: Beyond the AI aspect, an investor should not neglect the traditional financial health check of the company. This includes evaluating its earnings, debt structure, growth trajectory, and competitive positioning.
 
-Investing directly in AI stocks like Alphabet (Google's parent company), IBM, or NVIDIA provides a focused investment approach, enabling you to reap the rewards if the selected company performs well. However, individual stock investments carry higher risks if the chosen companies do not perform as anticipated, yielding potential financial losses. AI's transformative nature means that many traditional industries will undergo disruption, potentially leading to short-term market volatility. Moreover, as AI technologies evolve, there's always a risk of obsolescence (see GenAI disruption on the ML market). What's state-of-the-art today might be outdated tomorrow, as newer algorithms and methodologies emerge[42].
+Investing directly in AI stocks like Alphabet (Google's parent company), IBM, or NVIDIA provides a focused investment approach, enabling you to reap the rewards if the selected company performs well. However, individual stock investments [carry](/wiki/carry-trading) higher risks if the chosen companies do not perform as anticipated, yielding potential financial losses. AI's transformative nature means that many traditional industries will undergo disruption, potentially leading to short-term market volatility. Moreover, as AI technologies evolve, there's always a risk of obsolescence (see GenAI disruption on the ML market). What's state-of-the-art today might be outdated tomorrow, as newer algorithms and methodologies emerge[42].
 
 ### Exploring AI Exchange-Traded Funds
 
-Dipping your investment toe into the artificial intelligence sector doesn't necessarily demand direct stock purchase. Exchange-Traded Funds (ETFs), especially those focusing on AI and technology, offer an attractive alternative by pooling together stocks from various companies, thereby providing diversification and minimizing the risk associated with the failure of a single entity.
+Dipping your investment toe into the artificial intelligence sector doesn't necessarily demand direct stock purchase. Exchange-Traded Funds ([ETF](/wiki/etf-trading-strategies)s), especially those focusing on AI and technology, offer an attractive alternative by pooling together stocks from various companies, thereby providing diversification and minimizing the risk associated with the failure of a single entity.
 
 AI ETFs, like the Global X Robotics & Artificial Intelligence ETF (BOTZ) or the ROBO Global Robotics & Automation Index ETF (ROBO), pool stocks from various companies involved in the development, integration, or utilization of AI technologies, providing investors with exposure to the burgeoning AI sector without tying their fortunes to the success or failure of a single company[43]. These AI ETFs often have holdings in various sub-sectors of the industry, from manufacturing and healthcare to finance and energy, each leveraging AI in unique and innovative ways.
 
@@ -248,7 +248,7 @@ Investing wisely in AI ETFs involves recognizing both the thematic focus and the
 
 ### AI and Trading Courses Overview
 
-Diverse online platforms deliver a spectrum of courses, facilitating an informed exploration into the intricate worlds of AI and financial trading.
+Diverse online platforms deliver a spectrum of [course](/wiki/best-algorithmic-trading-courses)s, facilitating an informed exploration into the intricate worlds of AI and financial trading.
 
 - **Udacity** provides a well-recognized "Artificial Intelligence for Trading" nanodegree program, emphasizing quantitative trading and equipping learners with the ability to construct a robust trading model using AI. The course unpacks the essentials of trading theory, designing and testing models, and deploying AI in making informed trading decisions, making it one of the most holistic offerings in the digital learning space.
 - **Coursera**, in collaboration with various universities and organizations, presents a plethora of courses, from "Machine Learning for Trading" offered by the University of Washington to "AI in Finance" crafted by the New York University. The wide-ranging courses cater to diverse learning objectives - whether it is understanding the foundational principles of AI, delving into machine learning algorithms, or unraveling the applications of AI in financial trading.

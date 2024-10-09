@@ -34,7 +34,7 @@ $$
 
 where $ R_p $ is the return of the portfolio, $ R_f $ is the risk-free rate, and $ \sigma_p $ is the standard deviation of the portfolio's excess return. Despite its widespread use, the Sharpe Ratio has notable limitations, primarily in how it assesses risk using volatility alone.
 
-Firstly, the ratio's reliance on standard deviation implies that it treats all types of volatility equally, whether it be upwards or downwards. This approach overlooks investors' typical aversion to downside risk more than the overall unpredictability of returns. As it solely measures total volatility, the Sharpe Ratio fails to differentiate between "good" and "bad" volatility, meaning both gains and losses contribute to risk, which isn't always reflective of the true investment experience.
+Firstly, the ratio's reliance on standard deviation implies that it treats all types of [volatility](/wiki/volatility-trading-strategies) equally, whether it be upwards or downwards. This approach overlooks investors' typical aversion to downside risk more than the overall unpredictability of returns. As it solely measures total volatility, the Sharpe Ratio fails to differentiate between "good" and "bad" volatility, meaning both gains and losses contribute to risk, which isn't always reflective of the true investment experience.
 
 Furthermore, the Sharpe Ratio assumes that investment returns are normally distributed. This assumption can lead to inaccuracies since many financial instruments exhibit non-normal return distributions characterized by skewness (asymmetry of returns) and kurtosis (tailedness of returns). Positive or negative skewness can imply investment opportunities or risks that are not captured by standard deviation. High kurtosis indicates fat tails or the presence of outliers that standard deviation alone might underestimate or overlook, potentially leading investors to misjudge the risk of extreme loss events.
 
@@ -57,9 +57,9 @@ where $ R $ is the expected return of the portfolio, $ R_f $ is the risk-free ra
 
 By focusing on downside risk, the Sortino Ratio provides a more accurate representation of an investment's risk relative to its potential underperformance. This is particularly relevant for investors who are more concerned with the risk of losing money than with overall variability, which includes both ups and downs.
 
-The Sortino Ratio is often more appropriate than the Sharpe Ratio in scenarios where the investment return distribution is skewed or exhibits non-normal characteristics. For example, in cases where a portfolio has a high frequency of small gains and a few large losses, the Sharpe Ratio might not accurately reflect the risk because it penalizes all volatility equally, regardless of direction. Conversely, the Sortino Ratio responds to only negative deviations from the expected return, thus providing a clearer picture of the likelihood and severity of loss.
+The Sortino Ratio is often more appropriate than the Sharpe Ratio in scenarios where the investment return distribution is skewed or exhibits non-normal characteristics. For example, in cases where a portfolio has a [high frequency](/wiki/high-frequency-trading) of small gains and a few large losses, the Sharpe Ratio might not accurately reflect the risk because it penalizes all volatility equally, regardless of direction. Conversely, the Sortino Ratio responds to only negative deviations from the expected return, thus providing a clearer picture of the likelihood and severity of loss.
 
-Investors evaluating hedge funds, real estate investments, or any strategy with non-symmetrical return profiles may find that the Sortino Ratio offers valuable insights. Additionally, it can be particularly beneficial for conservative investors or those whose primary focus is to minimize downside risk while achieving reasonable returns. These contexts illustrate the specific sensitivity of the Sortino Ratio to downside fluctuations, providing a useful tool for making more informed investment decisions.
+Investors evaluating [hedge fund](/wiki/hedge-fund-trading-strategies)s, real estate investments, or any strategy with non-symmetrical return profiles may find that the Sortino Ratio offers valuable insights. Additionally, it can be particularly beneficial for conservative investors or those whose primary focus is to minimize downside risk while achieving reasonable returns. These contexts illustrate the specific sensitivity of the Sortino Ratio to downside fluctuations, providing a useful tool for making more informed investment decisions.
 
 
 ## Treynor Ratio
@@ -172,7 +172,7 @@ print("Sharpe Ratio:", sharpe_ratio)
 print("Sortino Ratio:", sortino_ratio)
 ```
 
-In conclusion, choosing the right metric to assess investment performance should account for the specific investment context, strategy, and the investor's risk tolerance levels. A thoughtful combination of multiple metrics offers a more complete view, enhancing the ability to navigate the complexities of financial markets effectively.
+In conclusion, choosing the right metric to assess investment performance should account for the specific investment context, strategy, and the investor's risk tolerance levels. A thoughtful combination of multiple metrics offers a more complete view, enhancing the ability to navigate the compl[exit](/wiki/exit-strategy)ies of financial markets effectively.
 
 
 ## Conclusion

@@ -24,7 +24,7 @@ Satellite imagery permits traders to glean a birds-eye view of various global ac
 
 ### Geolocation
 
-This alternative data type primarily pertains to capturing consumer and retail insights by tracking foot traffic and consumer behavior. Through analyzing geolocation data, traders can, for example, observe the popularity of retail locations, predict sales revenue, and subsequently, make informed investment decisions related to the retail sector. Additionally, understanding migration patterns can aid in forecasting economic shifts in particular regions.
+This [alternative data](/wiki/best-alternative-data) type primarily pertains to capturing consumer and retail insights by tracking foot traffic and consumer behavior. Through analyzing geolocation data, traders can, for example, observe the popularity of retail locations, predict sales revenue, and subsequently, make informed investment decisions related to the retail sector. Additionally, understanding migration patterns can aid in forecasting economic shifts in particular regions.
 
 ### Corporate Data
 
@@ -36,7 +36,7 @@ In an era where digital presence can indicate a company’s pulse and customer e
 
 ### Credit Card Transactions
 
-This data strata sifts through the spending habits of consumers, offering a real-time lens into retail performance, sectoral spends, and potentially, the economic health of regions. By tracking anonymized credit card transactions, traders can apprehend consumer spending patterns, seasonality in purchases, and thereby predict the financial performance of retail entities and sectors. The volume, frequency, and type of transactions can guide investors toward establishing correlational patterns with stock performances and industry trends.
+This data strata sifts through the spending habits of consumers, offering a real-time lens into retail performance, sectoral spends, and potentially, the economic health of regions. By tracking anonymized credit card transactions, traders can apprehend consumer spending patterns, seasonality in purchases, and thereby predict the financial performance of retail entities and sectors. The [volume](/wiki/volume-trading-strategy), frequency, and type of transactions can guide investors toward establishing correlational patterns with stock performances and industry trends.
 
 ### Derivatives Data
 
@@ -56,7 +56,7 @@ Point of Sale (POS) systems churn out a plethora of information related to retai
 
 ### Reference Data
 
-Reference data serves as an anchor, offering external data sets for validation and benchmarks. This can include market indexes, interest rates, or exchange rates, providing a macroeconomic backdrop against which other alternative data can be analyzed. For algo traders, utilizing reference data enables the standardization and normalization of trading strategies, ensuring that algorithms act within relevant and realistic market contexts, thereby minimizing erroneous trades or misinterpretations of market conditions.
+Reference data serves as an anchor, offering external data sets for validation and benchmarks. This can include market indexes, [interest rate](/wiki/interest-rate-trading-strategies)s, or exchange rates, providing a macroeconomic backdrop against which other alternative data can be analyzed. For algo traders, utilizing reference data enables the standardization and normalization of trading strategies, ensuring that algorithms act within relevant and realistic market contexts, thereby minimizing erroneous trades or misinterpretations of market conditions.
 
 ![Alternative data.png](images/Alternative_data.png)
 
@@ -66,7 +66,7 @@ Reference data serves as an anchor, offering external data sets for validation a
 
 Web scraping, an intricate process of extracting vast amounts of data from websites, has emerged as a staple in the algo trading world. The value proposition of web scraping lies in its capability to harness information from multiple websites at scale, offering a reservoir of data that may otherwise be inaccessible or labor-intensive to compile.
 
-Various tools and platforms have been developed to facilitate web scraping, with each tailored for specific complexities and requirements. Among the frontrunners are [**Beautiful Soup**](https://pypi.org/project/beautifulsoup4/) and [**Scrapy**](https://scrapy.org/) for Python developers, offering extensive libraries to extract data with ease. For non-programmers, platforms like [**Octoparse**](https://www.octoparse.fr/) and [**Import.io**](http://import.io/) provide user-friendly interfaces to retrieve web data without diving deep into coding.
+Various tools and platforms have been developed to facilitate web scraping, with each tailored for specific compl[exit](/wiki/exit-strategy)ies and requirements. Among the frontrunners are [**Beautiful Soup**](https://pypi.org/project/beautifulsoup4/) and [**Scrapy**](https://scrapy.org/) for Python developers, offering extensive libraries to extract data with ease. For non-programmers, platforms like [**Octoparse**](https://www.octoparse.fr/) and [**Import.io**](http://import.io/) provide user-friendly interfaces to retrieve web data without diving deep into coding.
 
 However, while web scraping holds immense potential, it's not without challenges. Ethical considerations are paramount. Many websites have terms of service that explicitly prohibit data scraping, and breaching these terms can lead to legal repercussions. Furthermore, excessive requests to a website in a short span can cause unintentional Denial-of-Service (DoS) attacks. It's imperative for traders and developers alike to be mindful of these pitfalls and to employ measures like respecting `robots.txt` files or using proxies to avoid IP bans.
 
@@ -74,11 +74,11 @@ The realm of web scraping, when maneuvered ethically and judiciously, can unlock
 
 ### Popular Free Data Sources
 
-Navigating through the myriad of free data sources is pivotal in identifying valuable, actionable insights for algorithmic trading.
+Navigating through the myriad of free data sources is pivotal in identifying valuable, actionable insights for [algorithmic trading](/wiki/algorithmic-trading).
 
 [**Yahoo Finance**](https://finance.yahoo.com/) is notably one of the most popular free data sources for a wide array of financial data, offering historical stock prices, earnings data, and various economic indicators. Traders leverage this for its robust API and CSV data exports, allowing easy integration with various trading platforms and analytics tools.
 
-The [**Kenneth French Data Library**](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html) is an academically revered resource that provides research factors, historical returns, and other related datasets significant for quantitative traders aiming to execute factor-based trading strategies.
+The [**Kenneth French Data Library**](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html) is an academically revered resource that provides research [factor](/wiki/factor-investing)s, historical returns, and other related datasets significant for quantitative traders aiming to execute factor-based trading strategies.
 
 [**Damodaran Data**](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/data.html), curated by Professor Aswath Damodaran of NYU Stern, provides access to comprehensive datasets, such as corporate finance, valuation, capital markets, and investment philosophies. Notably, this data is renowned for its applicability in building valuation models.
 
@@ -130,7 +130,7 @@ In essence, these innovative trading strategies encapsulate the myriad ways in w
 
 ## The Growing Significance of ESG in Alternative Data
 
-ESG, encompassing Environmental, Social, and Governance factors, has carved out a significant niche in the investment decision-making landscape, catalyzing a shift towards sustainability and ethical business practices within the financial industry. ESG reflects a company's approach towards managing its ecological impact, ensuring social responsibility, and maintaining governance practices involving leadership and shareholder rights. As sustainability becomes intertwined with financial viability, ESG components have metamorphosed into critical indicators, influencing investment considerations and shaping modern portfolio theories.
+[ESG](/wiki/esg-investing), encompassing Environmental, Social, and Governance factors, has carved out a significant niche in the investment decision-making landscape, catalyzing a shift towards sustainability and ethical business practices within the financial industry. ESG reflects a company's approach towards managing its ecological impact, ensuring social responsibility, and maintaining governance practices involving leadership and shareholder rights. As sustainability becomes intertwined with financial viability, ESG components have metamorphosed into critical indicators, influencing investment considerations and shaping modern portfolio theories.
 
 Alternative data, in the context of ESG, often encompasses information pertaining to a company’s carbon footprint, employee satisfaction, executive compensations, board structures, and even customer satisfaction, which are pivotal in comprehensively evaluating its ESG standings.
 
@@ -150,7 +150,7 @@ Incorporating alternative data into algo trading is a promising frontier, but th
 
 **Alpha Vertex and the Utilization of AI with Alternative Data**
 
-Alpha Vertex utilized alternative data and artificial intelligence (AI) to create predictive financial models that catered to investors and financial institutions. They leveraged a myriad of data, ranging from satellite images to social media sentiments, for predicting stock movements and crafting well-informed trading strategies.
+Alpha Vertex utilized alternative data and [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) to create predictive financial models that catered to investors and financial institutions. They leveraged a myriad of data, ranging from satellite images to social media sentiments, for predicting stock movements and crafting well-informed trading strategies.
 
 **JPMorgan and the "Volfefe" Index**
 
@@ -158,7 +158,7 @@ Traders at JPMorgan Chase created the "Volfefe" Index, which demonstrated how al
 
 **Hedge Fund and Satellite Imagery to Gauge Oil Supplies**
 
-Certain hedge funds tapped into satellite imagery as an alternative data source to gauge oil supply levels. By monitoring and analyzing imagery of storage facilities and evaluating the shadows cast by the floating lids of oil storage tanks, they could estimate the quantity of stored oil. This unconventional approach provided a distinct edge, enabling traders to anticipate market moves more effectively.
+Certain [hedge fund](/wiki/hedge-fund-trading-strategies)s tapped into satellite imagery as an alternative data source to gauge oil supply levels. By monitoring and analyzing imagery of storage facilities and evaluating the shadows cast by the floating lids of oil storage tanks, they could estimate the quantity of stored oil. This unconventional approach provided a distinct edge, enabling traders to anticipate market moves more effectively.
 
 **Credit Card Transactions Informing Investment in the Retail Sector**
 
@@ -170,11 +170,11 @@ Orbital Insight, a geospatial analytics company, leveraged geolocation data to e
 
 ## Future of Alternative Data in Algo Trading
 
-Predictive analytics and machine learning are carving out the future of algo trading by augmenting alternative data. Enhanced computing capabilities are enabling traders to process complex and voluminous data, like satellite imagery and IoT device outputs, at unprecedented speeds, and with higher accuracy. For example, machine learning algorithms, through regression and classification models, can pinpoint hidden patterns and correlations in big datasets that escape human analysts, facilitating the generation of more potent trading signals[1].
+Predictive analytics and machine l[earning](/wiki/earning-announcement) are carving out the future of algo trading by augmenting alternative data. Enhanced computing capabilities are enabling traders to process complex and voluminous data, like satellite imagery and IoT device outputs, at unprecedented speeds, and with higher accuracy. For example, [machine learning](/wiki/machine-learning) algorithms, through regression and classification models, can pinpoint hidden patterns and correlations in big datasets that escape human analysts, facilitating the generation of more potent trading signals[1].
 
 The surging evolution of the Internet of Things (IoT) is another catalyst in reshaping algo trading. IoT devices, from smart meters to connected cars, perpetually generate data streams that can be harnessed to gauge factors like energy usage and consumer behavior, offering potential indicators for investment decision-making. As per a report by Statista, the IoT market's revenue is projected to surpass $1.6 trillion by 2025, indicating a rich, burgeoning source of alternative data that can fortify trading strategies[2].
 
-Potential new sources of alternative data are also mushrooming with advancements in technology and digitization. Think of the burgeoning realm of decentralized finance (DeFi), where blockchain data concerning transactions, liquidity pools, and yield farming can offer insightful metrics that are primed to be tapped into for algo trading. Such datasets allow traders to evaluate market demand for particular tokens, predict price movements, and understand the flow of assets in a manner that was previously unattainable.
+Potential new sources of alternative data are also mushrooming with advancements in technology and digitization. Think of the burgeoning realm of decentralized finance (DeFi), where blockchain data concerning transactions, [liquidity](/wiki/liquidity-risk-premium) pools, and yield farming can offer insightful metrics that are primed to be tapped into for algo trading. Such datasets allow traders to evaluate market demand for particular tokens, predict price movements, and understand the flow of assets in a manner that was previously unattainable.
 
 Moreover, socio-economic shifts and global events continually mold the landscape of alternative data. For instance, during the COVID-19 pandemic, data pertaining to mobility trends, employment claims, and e-commerce spikes became invaluable in navigating the markets. Future scenarios will undoubtedly unearth fresh data types, necessitating traders to perpetually expand and refine their data acquisition and analysis methodologies to sustain a competitive edge in algo trading[3].
 

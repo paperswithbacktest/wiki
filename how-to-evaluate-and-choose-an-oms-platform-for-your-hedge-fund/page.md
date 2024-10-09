@@ -63,6 +63,6 @@ Here are a few OMS (Order Management Systems) names that are popular and widely 
 - **Thinkfolio**: Often used by asset managers for its flexibility and ability to adapt to different workflows.
 - **Advent's Geneva & APX**: These are mainly back-office oriented, but also offer order management functionalities.
 
-It is important to note that the choice of OMS should be based on the specific needs of the hedge fund or institution. It is advisable to carry out a thorough evaluation, consult demos and, if possible, obtain feedback before making a decision.
+It is important to note that the choice of OMS should be based on the specific needs of the [hedge fund](/wiki/hedge-fund-trading-strategies) or institution. It is advisable to [carry](/wiki/carry-trading) out a thorough evaluation, consult demos and, if possible, obtain feedback before making a decision.
 
 

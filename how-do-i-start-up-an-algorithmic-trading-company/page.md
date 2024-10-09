@@ -55,5 +55,5 @@ Launching an algorithmic trading business is an ambitious project that requires 
 - **Adaptation**: Markets are constantly changing. Be ready to adapt or modify your algorithms accordingly.
 - **Expand**: Explore new opportunities or markets to expand your business.
 
-Starting an algorithmic trading business requires a combination of trading, programming and business management skills. It's a competitive field, but with proper planning and solid execution, it's possible to succeed.
+Starting an [algorithmic trading](/wiki/algorithmic-trading) business requires a combination of trading, programming and business management skills. It's a competitive field, but with proper planning and solid execution, it's possible to succeed.
 

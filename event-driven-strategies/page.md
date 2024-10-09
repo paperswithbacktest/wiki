@@ -19,7 +19,7 @@ Event-driven strategies are a sophisticated form of investment and trading appro
 
 **Concept and Mechanics**
 
-The core concept of event-driven strategies lies in identifying and predicting the outcome of corporate events and understanding how these events will influence the value of a company's stock or debt. Investors employing these strategies analyze the details of the event, assess the market's reaction, and then position their trades accordingly. For instance, in merger arbitrage, investors will buy and sell the stocks of two merging companies to profit from the deal's successful completion.
+The core concept of event-driven strategies lies in identifying and predicting the outcome of corporate events and understanding how these events will influence the value of a company's stock or debt. Investors employing these strategies analyze the details of the event, assess the market's reaction, and then position their trades accordingly. For instance, in merger [arbitrage](/wiki/arbitrage), investors will buy and sell the stocks of two merging companies to profit from the deal's successful completion.
 
 The mechanics involve thorough research and analysis to determine the potential impacts of the event on the company's financial health and market perception. Traders and investors use a mix of fundamental and quantitative analysis to assess the situation, and once they have a position, they closely monitor the situation as it unfolds, ready to adjust their strategy as new information emerges.
 
@@ -27,9 +27,9 @@ The mechanics involve thorough research and analysis to determine the potential 
 
 Event-driven strategies have been around for several decades, evolving with the financial markets. In the early days, these strategies were primarily focused on mergers and acquisitions. Investors would analyze potential merger deals and invest accordingly, trying to predict which mergers would be successful and which would fail.
 
-Over time, as financial markets became more complex and information more accessible, the scope of event-driven strategies expanded. The 1980s saw a significant rise in leveraged buyouts and corporate restructuring, which provided a fertile ground for these strategies. The 1990s and 2000s introduced more complexity with the advent of new financial instruments and a greater focus on distressed securities.
+Over time, as financial markets became more complex and information more accessible, the scope of event-driven strategies expanded. The 1980s saw a significant rise in leveraged buyouts and corporate restructuring, which provided a fertile ground for these strategies. The 1990s and 2000s introduced more compl[exit](/wiki/exit-strategy)y with the advent of new financial instruments and a greater focus on distressed securities.
 
-Today, event-driven strategies encompass a wide array of corporate events and are employed by a diverse group of market participants, from hedge funds specializing in specific types of events to individual investors looking for opportunities in market inefficiencies. The evolution of technology and data analytics has further refined these strategies, allowing for more sophisticated analysis and quicker reaction to events as they unfold.
+Today, event-driven strategies encompass a wide array of corporate events and are employed by a diverse group of market participants, from [hedge fund](/wiki/hedge-fund-trading-strategies)s specializing in specific types of events to individual investors looking for opportunities in market inefficiencies. The evolution of technology and data analytics has further refined these strategies, allowing for more sophisticated analysis and quicker reaction to events as they unfold.
 
 ## Types of Event-Driven Strategies
 
@@ -57,11 +57,11 @@ To mitigate risks, merger arbitrageurs often employ various hedging strategies. 
 
 Unlike traditional investment strategies, merger arbitrage is highly dependent on the specific event of the merger. The profits are not necessarily correlated with the broader market movements but are tied to the success of the merger.
 
-This strategy requires a thorough understanding of the regulatory landscape, as governmental approvals are often a significant factor in the success of a merger.
+This strategy requires a thorough understanding of the regulatory landscape, as governmental approvals are often a significant [factor](/wiki/factor-investing) in the success of a merger.
 
 Arbitrageurs must analyze vast amounts of information, including legal documents and financial statements, to assess the viability of the merger.
 
-In essence, merger arbitrage is a sophisticated strategy that combines elements of fundamental analysis, risk management, and timing. It offers investors a way to gain from specific corporate events with a risk-return profile that is different from traditional market investing. As with any investment strategy, it requires expertise and a deep understanding of the dynamics at play in mergers and acquisitions.
+In essence, merger arbitrage is a sophisticated strategy that combines elements of [fundamental analysis](/wiki/fundamental-analysis), risk management, and timing. It offers investors a way to gain from specific corporate events with a risk-return profile that is different from traditional market investing. As with any investment strategy, it requires expertise and a deep understanding of the dynamics at play in mergers and acquisitions.
 
 ### Distressed Securities
 
@@ -133,13 +133,13 @@ Mergers are significant corporate events where two companies combine to form a s
 
 **Outline**
 
-The initial announcement of a merger is often accompanied by a surge in the trading volume and volatility of the stocks of the companies involved. This phase sees the market reacting to the news, with investors assessing the potential benefits and drawbacks of the merger.
+The initial announcement of a merger is often accompanied by a surge in the trading [volume](/wiki/volume-trading-strategy) and [volatility](/wiki/volatility-trading-strategies) of the stocks of the companies involved. This phase sees the market reacting to the news, with investors assessing the potential benefits and drawbacks of the merger.
 
 Following the announcement, there is a period where due diligence is conducted, and the terms of the merger are negotiated. This phase can be marked by uncertainty, as investors speculate on the likelihood of the merger’s completion and its final terms.
 
 Most mergers require approval from regulatory bodies. The length and outcome of this review can significantly affect investor sentiment and the market’s perception of the merger’s success.
 
-Once a merger is completed, the combined entity often undergoes restructuring. This phase can lead to fluctuations in stock prices as the market adjusts to the new corporate structure and potential changes in the company's future earnings and growth prospects.
+Once a merger is completed, the combined entity often undergoes restructuring. This phase can lead to fluctuations in stock prices as the market adjusts to the new corporate structure and potential changes in the company's future [earning](/wiki/earning-announcement)s and growth prospects.
 
 **Impact on Market**
 
@@ -295,7 +295,7 @@ It's also important to note that the success of event-driven strategies can be h
 
 ## Risk Management in Event-Driven Strategies
 
-Event-driven strategies, while offering substantial opportunities for profit, also carry inherent risks that must be carefully managed. Understanding and mitigating these risks is crucial for the success of any event-driven investment approach.
+Event-driven strategies, while offering substantial opportunities for profit, also [carry](/wiki/carry-trading) inherent risks that must be carefully managed. Understanding and mitigating these risks is crucial for the success of any event-driven investment approach.
 
 ### Risks Involved
 
@@ -325,7 +325,7 @@ Continuously monitoring market conditions, corporate developments, and regulator
 
 Leveraging the knowledge and experience of seasoned professionals can be invaluable, especially in complex situations like distressed debt investing or regulatory changes.
 
-While event-driven strategies offer unique opportunities, they also come with specific risks that need to be skillfully managed. A combination of diversification, thorough research, hedging, liquidity management, and continuous monitoring forms the cornerstone of effective risk management in these strategies.
+While event-driven strategies offer unique opportunities, they also come with specific risks that need to be skillfully managed. A combination of diversification, thorough research, hedging, [liquidity](/wiki/liquidity-risk-premium) management, and continuous monitoring forms the cornerstone of effective risk management in these strategies.
 
 ## Event-Driven Strategies in Different Market Sectors
 
@@ -345,7 +345,7 @@ In the energy sector, event-driven strategies often revolve around regulatory ch
 
 **Financial Sector**
 
-The financial sector presents opportunities for event-driven strategies, especially around regulatory changes, economic policy announcements, and macroeconomic events. The performance of financial institutions is closely tied to interest rate changes, monetary policy, and economic cycles, making them susceptible to event-driven trades based on economic indicators and central bank announcements.
+The financial sector presents opportunities for event-driven strategies, especially around regulatory changes, economic policy announcements, and macroeconomic events. The performance of financial institutions is closely tied to [interest rate](/wiki/interest-rate-trading-strategies) changes, monetary policy, and economic cycles, making them susceptible to event-driven trades based on economic indicators and central bank announcements.
 
 **Consumer Goods Sector**
 
@@ -405,7 +405,7 @@ Event-driven strategies can add diversification to a portfolio since their perfo
 
 **Where Can I Learn More About Event-Driven Investing?**
 
-To learn more about event-driven investing, consider financial education courses, industry books, reputable financial news websites, and research papers. Engaging with financial advisors or investment professionals who specialize in these strategies can also provide valuable insights.
+To learn more about event-driven investing, consider financial education [course](/wiki/best-algorithmic-trading-courses)s, industry [books](/wiki/algo-trading-books), reputable financial news websites, and research papers. Engaging with financial advisors or investment professionals who specialize in these strategies can also provide valuable insights.
 
 ## References & Further Reading
 

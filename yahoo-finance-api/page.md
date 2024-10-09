@@ -57,7 +57,7 @@ If you are looking for official, direct, and reliable access to Yahoo Finance da
 
 ### Usability with Programming Languages
 
-Given the popularity of **Python** in the fields of data analysis, finance, and machine learning, it's no surprise that there are several dedicated Python libraries for accessing Yahoo Finance data. Libraries like `yfinance` and `yahoo_fin` are tailored for Python and offer seamless integration, allowing for easy retrieval and manipulation of financial data.
+Given the popularity of **Python** in the fields of data analysis, finance, and machine l[earning](/wiki/earning-announcement), it's no surprise that there are several dedicated Python libraries for accessing Yahoo Finance data. Libraries like `yfinance` and `yahoo_fin` are tailored for Python and offer seamless integration, allowing for easy retrieval and manipulation of financial data.
 
 Other languages like **JavaScript**, **Java**, **R**, and **C#** also have libraries or methods to access Yahoo Finance data, albeit with varying degrees of ease and functionality. For instance, in the R community, the `quantmod` package allows users to fetch data from Yahoo Finance among other sources. Similarly, there are npm packages for JavaScript and libraries for Java that facilitate this data access.
 
@@ -219,7 +219,7 @@ print(msft_data)
 
 ![Screenshot 2023-10-21 at 12.27.12.png](images/Screenshot_2023-10-21_at_12.27.12.png)
 
-By default, this will give you daily data, including the open, high, low, close prices, and volume, among other details.
+By default, this will give you daily data, including the open, high, low, close prices, and [volume](/wiki/volume-trading-strategy), among other details.
 
 **Multiple Ticker Example:**
 
@@ -294,7 +294,7 @@ Using **yfinance**, investors can quickly access and compare key fundamental met
 
 #### Trading Data Acquisition
 
-In the bustling world of stock markets, certain trading data points, like market capitalization, trading volume, and daily price fluctuations, are invaluable. They allow investors to gauge the size, liquidity, and volatility of a particular security. Let's explore how to fetch these metrics using the **yfinance** library.
+In the bustling world of stock markets, certain trading data points, like market capitalization, trading volume, and daily price fluctuations, are invaluable. They allow investors to gauge the size, [liquidity](/wiki/liquidity-risk-premium), and [volatility](/wiki/volatility-trading-strategies) of a particular security. Let's explore how to fetch these metrics using the **yfinance** library.
 
 **Market Capitalization Insights:**
 
@@ -342,7 +342,7 @@ print(f"Apple's daily low: ${daily_low:,.2f}")
 
 ![Screenshot 2023-11-12 at 18.55.15.png](images/Screenshot_2023-11-12_at_18.55.15.png)
 
-Harnessing the **yfinance** library, you can quickly gather pivotal trading data, aiding in robust investment decisions. As these metrics are pivotal, they're commonly integrated into stock screening tools, algorithmic trading strategies, and research reports to ensure a comprehensive understanding of market dynamics.
+Harnessing the **yfinance** library, you can quickly gather pivotal trading data, aiding in robust investment decisions. As these metrics are pivotal, they're commonly integrated into stock screening tools, [algorithmic trading](/wiki/algorithmic-trading) strategies, and research reports to ensure a comprehensive understanding of market dynamics.
 
 #### Statement Data Extraction
 
@@ -460,7 +460,7 @@ Through **yfinance**, traders can efficiently explore options data, providing th
 3. **Data Limitations**: Yahoo Finance has faced issues with data accuracy and reliability in the past, while Alpha Vantage maintains a strong reputation for data quality.
 4. **Pricing**: Yahoo Finance API's premium versions can be expensive for individual users. In contrast, Alpha Vantage offers a more accessible pricing structure, even including a free tier with reasonable limits.
 
-In conclusion, while both Yahoo Finance and Alpha Vantage offer robust platforms for financial data, the choice between them boils down to specific needs. For those wanting a wider range of data types, especially cryptocurrency and forex, alongside stock market data, Alpha Vantage presents an enticing proposition.
+In conclusion, while both Yahoo Finance and Alpha Vantage offer robust platforms for financial data, the choice between them boils down to specific needs. For those wanting a wider range of data types, especially [cryptocurrency](/wiki/cryptocurrency) and [forex](/wiki/forex-system), alongside stock market data, Alpha Vantage presents an enticing proposition.
 
 ### Polygon
 
@@ -508,7 +508,7 @@ In 2017, Yahoo made the significant decision to decommission its free Finance AP
 
 **Reasoning Behind the Decision**
 
-Yahoo didn't provide an exhaustive official statement on the rationale behind the discontinuation. However, several factors can be inferred:
+Yahoo didn't provide an exhaustive official statement on the rationale behind the discontinuation. However, several [factor](/wiki/factor-investing)s can be inferred:
 
 1. **Monetization Challenges**: As with many free services, monetizing the Finance API might have proved challenging for Yahoo. Over time, the cost of maintenance, infrastructure, and data licensing likely outweighed the direct financial benefits.
 2. **Data Licensing Issues**: Companies often have to pay to source quality financial data, and by providing it freely or at a very low cost, Yahoo may have faced challenges justifying the cost.

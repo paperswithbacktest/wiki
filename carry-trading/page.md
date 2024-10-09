@@ -21,7 +21,7 @@ Carry trade, at its core, is an investment strategy that capitalizes on the diff
 
 ![Carry trading.png](images/Carry_trading.png)
 
-The mathematical concept underlying carry trade can be encapsulated in a straightforward formula:
+The mathematical concept underlying [carry](/wiki/carry-trading) trade can be encapsulated in a straightforward formula:
 
 $\text{Profit from Carry Trade} = (I_{domestic} - I_{foreign}) \times Position$
 
@@ -31,7 +31,7 @@ where
 - $I_{foreign}$ is the interest rate of the currency being financed (the currency you sell),
 - Position represents the amount of currency being traded.
 
-A classical example of a carry trade can be illustrated through the Japanese Yen (JPY) and the Australian Dollar (AUD). Historically, Japan has maintained low-interest rates, while Australia has sustained considerably higher rates. A trader might borrow JPY, which is cheap to do due to its low-interest rate, convert it to AUD, and invest in Australian assets, thereby benefiting from the higher Australian interest rate.
+A classical example of a carry trade can be illustrated through the Japanese Yen (JPY) and the Australian Dollar (AUD). Historically, Japan has maintained low-[interest rate](/wiki/interest-rate-trading-strategies)s, while Australia has sustained considerably higher rates. A trader might borrow JPY, which is cheap to do due to its low-interest rate, convert it to AUD, and invest in Australian assets, thereby benefiting from the higher Australian interest rate.
 
 The Forex market, being the largest financial market globally, has notably been a fertile ground for carry trades due to the extensive leverage it provides, which can amplify profits. For instance, if you're trading on 50:1 leverage, even a small differential between interest rates can result in significant profits when magnified by leverage.
 
@@ -41,9 +41,9 @@ Yet, the path of carry trading is not solely paved with gains. The risk and rewa
 
 Algorithmic carry trading emerges as a double-edged sword, providing the potential for profit through well-calibrated strategies while simultaneously veiling risks that lurk beneath the numeric calmness. Designing algorithms for carry trading requires a scrupulous eye to balance risk and reward while recognizing the incessant flux of global economics.
 
-To robustly manage risks and ensure profitability, the algorithm should encompass factors like setting an optimal stop-loss level, determining an apt leverage ratio, and continuously monitoring for abrupt shifts in the currency prices. The algorithm should also possess the dexterity to adjust its parameters and adapt to the perpetually evolving market dynamics, for which machine learning models could be integrated to predict future price actions.
+To robustly manage risks and ensure profitability, the algorithm should encompass [factor](/wiki/factor-investing)s like setting an optimal stop-loss level, determining an apt leverage ratio, and continuously monitoring for abrupt shifts in the currency prices. The algorithm should also possess the dexterity to adjust its parameters and adapt to the perpetually evolving market dynamics, for which machine l[earning](/wiki/earning-announcement) models could be integrated to predict future price actions.
 
-Furthermore, geopolitical events and macroeconomic data releases, such as changes in GDP, unemployment rates, and announcements of fiscal policies, have an indelible impact on currency values and, subsequently, on carry trades. Algorithms must, therefore, encapsulate an element of sensitivity towards such economic indicators and geopolitical instances, potentially utilizing news parsing APIs or alternative data streams to attain an edge.
+Furthermore, geopolitical events and macroeconomic data releases, such as changes in GDP, unemployment rates, and announcements of fiscal policies, have an indelible impact on currency values and, subsequently, on carry trades. Algorithms must, therefore, encapsulate an element of sensitivity towards such economic indicators and geopolitical instances, potentially utilizing news parsing APIs or [alternative data](/wiki/best-alternative-data) streams to attain an edge.
 
 Diving into a pragmatic scenario, let’s consider the implementation of a basic carry trade strategy in Python with Backtrader. Herein, the algorithm identifies a currency pair with a substantial interest rate differential, executing a long position on the high-yielding currency and a short position on the low-yielding one.
 
@@ -79,11 +79,11 @@ if __name__ == '__main__':
 
 However, a brief note on the Purchasing Power Parity (PPP) and its correlation to carry trading is crucial. PPP theory stipulates that over the long term, exchange rates should move towards the rate that would equalize the prices of an identical basket of goods and services in any two countries. In the realm of carry trading, if the invested currency depreciates relative to the borrowed currency beyond the profit garnered from the interest rate differential, the strategy may fail, particularly relevant in instances where the PPP deviation is substantial.
 
-Whilst the above serves as a simplified overview of an algorithm's structure, the true depth of algorithmic carry trading is vastly intricate, involving multilayered strategies and numerous risk parameters that require meticulous tuning and continuous adaptation to the vibrant rhythm of the global markets. The intertwining of carry trade principles with algorithmic trading unveils a spectrum of opportunities and challenges that are perpetually evolving in the dynamic tableau of the financial marketplace.
+Whilst the above serves as a simplified overview of an algorithm's structure, the true depth of algorithmic carry trading is vastly intricate, involving multilayered strategies and numerous risk parameters that require meticulous tuning and continuous adaptation to the vibrant rhythm of the global markets. The intertwining of carry trade principles with [algorithmic trading](/wiki/algorithmic-trading) unveils a spectrum of opportunities and challenges that are perpetually evolving in the dynamic tableau of the financial marketplace.
 
 ## Risk Management in Algo-Carry Trading
 
-Several risks embedded in algo-carry trading span from market risks, stemming from unfavorable price movements, to operational risks associated with algorithm malfunction or misinterpretation of data. The interest rate differential that forms the bedrock of carry trading could collapse due to sudden changes in monetary policy or unforeseen shifts in global economic paradigms. Furthermore, liquidity risks can destabilize strategies during high-volatility periods, where the lack of market participants or an illiquid market can obstruct the algorithm’s ability to execute trades at desired price points.
+Several risks embedded in algo-carry trading span from market risks, stemming from unfavorable price movements, to operational risks associated with algorithm malfunction or misinterpretation of data. The interest rate differential that forms the bedrock of carry trading could collapse due to sudden changes in monetary policy or unforeseen shifts in global economic paradigms. Furthermore, [liquidity](/wiki/liquidity-risk-premium) risks can destabilize strategies during high-[volatility](/wiki/volatility-trading-strategies) periods, where the lack of market participants or an illiquid market can obstruct the algorithm’s ability to execute trades at desired price points.
 
 Mitigation of these risks orbits around strategically designing algorithms with impenetrable risk management protocols. Embedding dynamic stop-loss and take-profit levels, allowing the algorithms to autonomously sever losing positions and lock-in gains respectively, functions as a primary bulwark against market risks. Furthermore, monitoring and incorporating economic indicators, such as monetary policy announcements and macroeconomic data releases, into the algorithms ensure that the strategies adapt and respond astutely to alterations in economic landscapes.
 
@@ -121,7 +121,7 @@ In the above pseudo-code, the Average True Range (ATR) is employed to adjust the
 
 ## Crypto Carry Trading and Algo Trading
 
-Carry trading in the cryptocurrency market marries the classical finance strategy with the avant-garde world of digital assets. Unlike traditional forex markets, where the interest rate differential between two currencies forms the crux of profitability in carry trading, cryptocurrency markets demand an innovative approach. This strategy essentially involves borrowing a cryptocurrency with a lower interest rate, converting it to a cryptocurrency with a higher yield, and pocketing the difference. Platforms like Binance and Kraken offer “crypto savings accounts” that pay out annual yields on certain cryptocurrencies, creating a terrain viable for crypto carry trade.
+Carry trading in the [cryptocurrency](/wiki/cryptocurrency) market marries the classical finance strategy with the avant-garde world of digital assets. Unlike traditional [forex](/wiki/forex-system) markets, where the interest rate differential between two currencies forms the crux of profitability in carry trading, cryptocurrency markets demand an innovative approach. This strategy essentially involves borrowing a cryptocurrency with a lower interest rate, converting it to a cryptocurrency with a higher yield, and pocketing the difference. Platforms like Binance and Kraken offer “crypto savings accounts” that pay out annual yields on certain cryptocurrencies, creating a terrain viable for crypto carry trade.
 
 Algorithmic trading accentuates the efficacy of carry trading within the notoriously volatile crypto markets. Cryptocurrencies are notorious for their price swings, and while volatility is often viewed through a risk-tinted lens, it concurrently sows seeds for opportunities.
 
@@ -141,4 +141,4 @@ Well-built trading algorithms, which use specific parameters and technical indic
 
 Risk management is crucial in algorithm-based carry trading. It protects traders from major financial losses and ensures that the trading strategy lasts long by using smart risk-reducing methods and programming.
 
-The future of carry trading looks promising. It's expanding beyond just currency and cryptocurrency markets and is merging with new technologies like machine learning and artificial intelligence. Happy trading!
+The future of carry trading looks promising. It's expanding beyond just currency and cryptocurrency markets and is merging with new technologies like [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence). Happy trading!

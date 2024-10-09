@@ -23,25 +23,25 @@ Despite these differences, both traditional and electronic market makers share a
 
 Market makers serve as linchpins in the financial ecosystem, tasked with the responsibility to continuously buy and sell securities on their own behalf. Their primary role is to maintain fair and orderly markets by facilitating trade, ensuring that buying and selling orders can be executed promptly, even if there isn't a direct counterpart for every trade[1].
 
-One of the paramount functions of market makers is to provide liquidity. In essence, liquidity refers to the ability to buy or sell an asset without causing a significant impact on its price. By constantly offering to buy (bid) and sell (ask) securities, market makers ensure that traders can execute their orders without waiting for another party to take the opposite side of their trade. This constant availability reduces transaction costs and speeds up trading, attributes highly valued in the financial markets.
+One of the paramount functions of market makers is to provide [liquidity](/wiki/liquidity-risk-premium). In essence, liquidity refers to the ability to buy or sell an asset without causing a significant impact on its price. By constantly offering to buy (bid) and sell (ask) securities, market makers ensure that traders can execute their orders without waiting for another party to take the opposite side of their trade. This constant availability reduces transaction costs and speeds up trading, attributes highly valued in the financial markets.
 
 A direct consequence of this liquidity provision is the narrowing of bid-ask spreads. The bid-ask spread is the difference between the price a buyer is willing to pay for an asset (bid) and the price a seller is willing to accept (ask). Narrow spreads indicate a highly liquid market, while wider spreads signal the opposite. By maintaining narrow bid-ask spreads, market makers not only ensure smoother and more efficient trading, but they also provide a more transparent pricing mechanism, as prices reflect a broader consensus among market participants.
 
-Furthermore, market makers shoulder the risks associated with holding a particular stock or security in their inventory, even during market uncertainties. Their commitment to buying at the bid and selling at the ask, irrespective of market conditions, stabilizes prices and guards against excessive volatility.
+Furthermore, market makers shoulder the risks associated with holding a particular stock or security in their inventory, even during market uncertainties. Their commitment to buying at the bid and selling at the ask, irrespective of market conditions, stabilizes prices and guards against excessive [volatility](/wiki/volatility-trading-strategies).
 
 ## Mechanics of Market Making
 
 Market makers operate with a blend of sophisticated strategies, technological tools, and a deep understanding of market dynamics. Their primary aim: to profit from the difference between the buying and selling prices, all while ensuring liquidity and smooth trading for everyone else.
 
-Setting bid and ask prices is far from random guesswork. These prices are determined by a combination of current market conditions, proprietary algorithms, and historical data. External factors, such as news, macroeconomic indicators, or large trading volumes, can influence a market maker's decision on where to set these prices[2]. Moreover, inventory considerations also play a part; if a market maker has an excess of a particular security, they might adjust prices to encourage its sale.
+Setting bid and ask prices is far from random guesswork. These prices are determined by a combination of current market conditions, proprietary algorithms, and historical data. External [factor](/wiki/factor-investing)s, such as news, macroeconomic indicators, or large trading [volume](/wiki/volume-trading-strategy)s, can influence a market maker's decision on where to set these prices[2]. Moreover, inventory considerations also play a part; if a market maker has an excess of a particular security, they might adjust prices to encourage its sale.
 
-At the heart of market making lies the principle of "buy low, sell high". While it sounds straightforward, it's a delicate dance of risk management and timing. Market makers must anticipate market movements, buying securities they speculate will rise in value and selling those they expect will drop. This arbitrage opportunity is often fleeting and can be razor-thin in terms of profit margins[3].
+At the heart of [market making](/wiki/market-making) lies the principle of "buy low, sell high". While it sounds straightforward, it's a delicate dance of risk management and timing. Market makers must anticipate market movements, buying securities they speculate will rise in value and selling those they expect will drop. This [arbitrage](/wiki/arbitrage) opportunity is often fleeting and can be razor-thin in terms of profit margins[3].
 
 The challenges are manifold. Price volatility can quickly turn anticipated profits into losses. Market makers must also manage the risk of holding large positions in a single security, which can expose them to substantial losses if the market moves against them. Additionally, there's the challenge of competition; with multiple market makers often operating in the same space, the race to provide the best prices is incessant.
 
-Technology has revolutionized market making. Modern market makers leverage high-frequency trading (HFT) systems, which can execute orders in milliseconds, scouring the markets for arbitrage opportunities. These systems are powered by intricate algorithms that analyze vast datasets, considering multiple variables to make real-time trading decisions.
+Technology has revolutionized market making. Modern market makers leverage high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) systems, which can execute orders in milliseconds, scouring the markets for arbitrage opportunities. These systems are powered by intricate algorithms that analyze vast datasets, considering multiple variables to make real-time trading decisions.
 
-Further, tools like direct market access allow market makers to place orders directly on exchange order books, bypassing traditional brokerage routes. This streamlining enhances speed and efficiency, a crucial advantage in the fast-paced world of market making.
+Further, tools like direct market access allow market makers to place orders directly on exchange order [books](/wiki/algo-trading-books), bypassing traditional brokerage routes. This streamlining enhances speed and efficiency, a crucial advantage in the fast-paced world of market making.
 
 ## Market Makers in Different Exchanges
 
@@ -77,9 +77,9 @@ In summary, while both Market Makers and DMMs play pivotal roles in maintaining 
 
 Decentralized finance, commonly referred to as DeFi, represents a paradigm shift in the way we think about finance. Instead of relying on traditional intermediaries like banks, brokers, and exchanges, DeFi leverages blockchain technology to create a system where financial transactions, including lending, borrowing, and trading, can be conducted peer-to-peer.
 
-One of the most innovative components within the DeFi realm is the emergence of automated market makers (AMMs). Unlike traditional exchanges, which rely on order books to match buyers with sellers, AMMs use algorithmic formulas to set the price of assets and provide liquidity.
+One of the most innovative components within the DeFi realm is the emergence of automated market makers (AMMs). Unlike traditional exchanges, which rely on [order book](/wiki/order-book-trading-strategies)s to match buyers with sellers, AMMs use algorithmic formulas to set the price of assets and provide liquidity.
 
-AMMs have grown significantly in popularity and have become foundational in many cryptocurrency exchanges. Platforms such as Uniswap, SushiSwap, and Curve are built upon this model, offering traders the ability to swap various tokens without the need for a centralized authority or traditional market maker. The simplicity and accessibility of AMMs have contributed to their rise, as they often require less capital to start and can be more resistant to issues like front-running.
+AMMs have grown significantly in popularity and have become foundational in many [cryptocurrency](/wiki/cryptocurrency) exchanges. Platforms such as Uniswap, SushiSwap, and Curve are built upon this model, offering traders the ability to swap various tokens without the need for a centralized authority or traditional market maker. The simplicity and accessibility of AMMs have contributed to their rise, as they often require less capital to start and can be more resistant to issues like front-running.
 
 However, AMMs are not without challenges. Since they rely on predefined algorithms to set prices, they can be more susceptible to significant price deviations from the broader market in certain conditions. This discrepancy can lead to arbitrage opportunities, where traders capitalize on these price differences between AMMs and traditional exchanges.
 
@@ -93,7 +93,7 @@ Market makers earn profits primarily through the bid-ask spread, which is the di
 
 However, the market making business isn't without risks. **Adverse selection**, where traders with better information trade against market makers, can lead to significant losses. Additionally, **inventory risks** arise when market makers cannot offload assets at anticipated prices, particularly during rapid market downturns.
 
-Furthermore, with the rise of algorithmic trading and high-frequency trading (HFT) strategies, market makers face increased competition, potentially thinning the bid-ask spreads and compressing their profit margins.
+Furthermore, with the rise of [algorithmic trading](/wiki/algorithmic-trading) and high-frequency trading (HFT) strategies, market makers face increased competition, potentially thinning the bid-ask spreads and compressing their profit margins.
 
 ## Academic Insights
 
@@ -135,7 +135,7 @@ Market makers play a pivotal role in day-to-day financial operations, and some r
 **Knight Capital Group Incident (2012)**: Knight Capital, a prominent market-making firm, faced a technological glitch in its trading software in August 2012. This malfunction resulted in a loss of over $440 million within 45 minutes. The incident highlighted the profound impact a single market maker's operations can have on market dynamics and the importance of robust technological infrastructure.
 
 **ETF Mispricing - August 2015**:
-On August 24, 2015, many U.S. ETFs (Exchange Traded Funds) were traded at prices significantly deviating from their net asset values. Market makers, wary of the extreme volatility, widened bid-ask spreads or paused trading. This situation emphasized how market maker participation (or the lack thereof) can influence asset pricing, especially during tumultuous periods[^19^].
+On August 24, 2015, many U.S. [ETF](/wiki/etf-trading-strategies)s (Exchange Traded Funds) were traded at prices significantly deviating from their net asset values. Market makers, wary of the extreme volatility, widened bid-ask spreads or paused trading. This situation emphasized how market maker participation (or the lack thereof) can influence asset pricing, especially during tumultuous periods[^19^].
 
 **NASDAQ Outage of 2013**: In August 2013, NASDAQ faced a technical issue, leading to a three-hour halt in trading for numerous stocks. This episode drew attention to how dependent modern exchanges are on electronic market makers and the cascading effects when they're unable to operate.
 
@@ -147,7 +147,7 @@ These real-world examples provide a tangible understanding of market makers' rol
 
 Market making, while rooted in ancient financial practices, is far from static. As technology evolves, so too does the landscape of market making, promising enhanced efficiencies but also bringing along new challenges.
 
-The acceleration of technology in finance, particularly the use of **Artificial Intelligence (AI) and Machine Learning (ML)**, is at the forefront of the market making evolution. AI and ML have the potential to analyze vast amounts of data far quicker and more accurately than humans. As a result, predictive models for price movements can be more precise, allowing market makers to set tighter bid-ask spreads and manage risks more effectively.
+The acceleration of technology in finance, particularly the use of **Artificial Intelligence (AI) and Machine L[earning](/wiki/earning-announcement) (ML)**, is at the forefront of the market making evolution. AI and ML have the potential to analyze vast amounts of data far quicker and more accurately than humans. As a result, predictive models for price movements can be more precise, allowing market makers to set tighter bid-ask spreads and manage risks more effectively.
 
 Decentralized finance (DeFi) also represents a seismic shift in the world of market making. With the growth of **Automated Market Makers (AMMs)** on decentralized exchanges, traditional market makers find themselves competing with algorithms on platforms like Uniswap or Balancer. These platforms operate 24/7 and can provide liquidity across a myriad of assets, sometimes outcompeting traditional venues in terms of volume.
 

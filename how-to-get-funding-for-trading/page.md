@@ -60,7 +60,7 @@ When applying for funding from prop firms or other sources, it's crucial to appr
 
 ### Preparing for Interviews
 
-Interviews with potential investors or prop firms are a critical step in securing funding. Preparation is key. Anticipate questions related to your trading strategy, decision-making process, and how you handle losses. Be ready to discuss specific trades, what you learned from them, and how you have evolved as a trader. It's also important to show your understanding of market dynamics and how external factors can impact trading decisions. Practicing your responses, ideally with a mentor or peer, can help you articulate your thoughts clearly and confidently. Finally, remember that interviews are not just about assessing your trading skills but also about gauging your fit with the firm's culture and values.
+Interviews with potential investors or prop firms are a critical step in securing funding. Preparation is key. Anticipate questions related to your trading strategy, decision-making process, and how you handle losses. Be ready to discuss specific trades, what you learned from them, and how you have evolved as a trader. It's also important to show your understanding of market dynamics and how external [factor](/wiki/factor-investing)s can impact trading decisions. Practicing your responses, ideally with a mentor or peer, can help you articulate your thoughts clearly and confidently. Finally, remember that interviews are not just about assessing your trading skills but also about gauging your fit with the firm's culture and values.
 
 ## Risks and Considerations
 

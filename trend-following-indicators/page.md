@@ -19,11 +19,11 @@ The underpinnings of how trends emerge can be traced to a combination of factors
 
 Consider the crude oil market in mid-2008. Prices skyrocketed to an all-time high of $147 a barrel due to a combination of supply concerns, geopolitical tensions, and speculative buying. This represented a pronounced uptrend. However, the latter part of the year saw prices plummet to under $40, illustrating a severe downtrend catalyzed by the global financial crisis and diminished demand. Traders employing trend-following strategies during this period would have sought to ride the uptrend by buying early and selling as the trend began to reverse, and then potentially profiting again by short-selling during the downtrend.
 
-In essence, trend following is not about predicting the future or pinpointing the exact tops and bottoms but about identifying the onset of a trend early enough and staying with it until there's a clear sign of reversal. This approach, backed by historical price data and real-world success stories, remains a staple in many traders' arsenals, offering both opportunities for profit and a framework for risk management.
+In essence, [trend following](/wiki/trend-following) is not about predicting the future or pinpointing the exact tops and bottoms but about identifying the onset of a trend early enough and staying with it until there's a clear sign of reversal. This approach, backed by historical price data and real-world success stories, remains a staple in many traders' arsenals, offering both opportunities for profit and a framework for risk management.
 
 ## Decoding the Types of Trends
 
-In the world of trading, understanding the direction of a trend is crucial to position oneself in sync with the market’s dominant force. By discerning the type of trend an asset is experiencing, traders can make more informed decisions about when to enter and exit trades. Here, we deep dive into the three primary types of market trends: the uptrend, downtrend, and the sideways trend.
+In the world of trading, understanding the direction of a trend is crucial to position oneself in sync with the market’s dominant force. By discerning the type of trend an asset is experiencing, traders can make more informed decisions about when to enter and [exit](/wiki/exit-strategy) trades. Here, we deep dive into the three primary types of market trends: the uptrend, downtrend, and the sideways trend.
 
 **Uptrend**: This is the market's way of telling traders that optimism prevails. An uptrend, often termed a bullish trend, is characterized by a series of higher highs and higher lows. It indicates that buyers, for a myriad of reasons - perhaps strong company fundamentals, positive geopolitical news, or buoyant industry sentiments - are willing to pay increasingly higher prices over time. When visualized on a chart, an uptrend can be identified by a line (trendline) that connects the rising troughs (lows) of the price, showcasing the asset's upward trajectory[1].
 
@@ -61,7 +61,7 @@ Moving averages, by smoothing out price fluctuations, offer traders clarity in t
 
 ### Oscillators
 
-Oscillators are a category of technical indicators that measure the momentum of price movements, oscillating between two extreme values. They provide insights into potential overbought or oversold conditions, offering traders signals on potential reversals or the strength of a current trend.
+Oscillators are a category of technical indicators that measure the [momentum](/wiki/momentum) of price movements, oscillating between two extreme values. They provide insights into potential overbought or oversold conditions, offering traders signals on potential reversals or the strength of a current trend.
 
 **MACD and MACD Histogram**: Standing for Moving Average Convergence Divergence, MACD is a momentum oscillator derived from the difference between a short-term and a long-term moving average, typically the 12-day and 26-day EMAs. The MACD Histogram, on the other hand, visualizes the distance between the MACD line and its signal line. When the MACD crosses above its signal line, it's a bullish sign, while a cross below indicates bearish momentum.
 
@@ -73,7 +73,7 @@ Oscillators are a category of technical indicators that measure the momentum of 
 
 ### Volatility Indicators
 
-Volatility indicators give traders insights into the magnitude and dynamics of price fluctuations, allowing them to anticipate potential breakouts or price consolidations. These tools can serve as a barometer for traders to gauge the intensity of market sentiment.
+Volatility indicators give traders insights into the magnitude and dynamics of price fluctuations, allowing them to anticipate potential [breakout](/wiki/breakout-trading)s or price consolidations. These tools can serve as a barometer for traders to gauge the intensity of market sentiment.
 
 **Bollinger Bands**: Developed by John Bollinger, this indicator consists of three lines: a simple moving average (middle band) and two standard deviation lines that run above and below this SMA. The distance between the bands indicates volatility. When the bands expand, volatility is increasing, and when they contract, volatility is decreasing. Prices touching the upper band can indicate an overbought condition, while prices at the lower band can signal an oversold state.
 
@@ -83,7 +83,7 @@ Volatility indicators give traders insights into the magnitude and dynamics of p
 
 ### Volume and Momentum
 
-Volume and momentum are interrelated concepts in trading, often serving as a reflection of the strength behind price movements. An increase in volume typically signals strong interest in a security, and when combined with price direction, can indicate the force or momentum of a trend.
+Volume and momentum are interrelated concepts in trading, often serving as a reflection of the strength behind price movements. An increase in [volume](/wiki/volume-trading-strategy) typically signals strong interest in a security, and when combined with price direction, can indicate the force or momentum of a trend.
 
 **OBV (On-Balance Volume)**: Created by Joe Granville, OBV is a momentum indicator that utilizes volume to predict price changes. The principle behind OBV is straightforward: when volume increases significantly without a corresponding price drop, the price is likely to rise in the future. Conversely, if volume increases without a notable price rise, a future price drop is anticipated. OBV is calculated by adding the day's volume to a running cumulative total when the security's price closes up, and subtracting the day's volume when it closes down.
 
@@ -151,7 +151,7 @@ While each trading strategy comes with its unique set of principles and advantag
 
 Trend following, at its core, capitalizes on the inherent momentum present in markets. Through this guide, we've explored the essence of trend-following strategies, delved into the different types of trends, and unpacked a plethora of trend indicators ranging from the classic moving averages to unique and specialized ones. Remember, while these indicators provide powerful insights, their efficacy often increases when combined, allowing traders to filter out noise and home in on genuine signals.
 
-An essential takeaway is that while tools and indicators are pivotal, a trader's discernment, continual learning, and adaptability remain paramount. Markets evolve, but the principle of trend following remains consistent: align with the market's direction, and it can serve as a potent ally in your trading journey.
+An essential takeaway is that while tools and indicators are pivotal, a trader's discernment, continual l[earning](/wiki/earning-announcement), and adaptability remain paramount. Markets evolve, but the principle of trend following remains consistent: align with the market's direction, and it can serve as a potent ally in your trading journey.
 
 For those eager to amplify their trading potential, integrating trend following into your toolkit can be transformative. While no strategy guarantees success, with patience, persistence, and a dedication to continuous learning, trend following can be a lucrative and rewarding approach in the dynamic world of trading.
 

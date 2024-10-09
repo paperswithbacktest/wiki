@@ -19,7 +19,7 @@ Backtrader originated as an open-source Python framework crafted to meet the dem
 
 ![Untitled](images/Untitled.png)
 
-At its core, Backtrader boasts an extensive suite of features tailored to ensure that traders, irrespective of their expertise level, can navigate the world of algorithmic trading with relative ease. Some of its standout functionalities include:
+At its core, Backtrader boasts an extensive suite of features tailored to ensure that traders, irrespective of their expertise level, can navigate the world of [algorithmic trading](/wiki/algorithmic-trading) with relative ease. Some of its standout functionalities include:
 
 1. **Versatile Data Feed Compatibility:** Backtrader can seamlessly integrate with various data feeds, be it [historical data for backtesting](https://paperswithbacktest.com/datasets) or real-time data for live trading, ensuring a user isn’t limited by data source constraints.
 2. **Rich Library of Indicators:** From common indicators like moving averages to the more complex ones, Backtrader has an extensive set pre-built, yet it also provides the flexibility to craft custom indicators tailored to a trader’s specific needs.
@@ -76,7 +76,7 @@ Getting your Backtrader environment up and running is the foundation for your al
     - **Broker Setup:** If you intend to do live trading later, consider setting up broker integration from the outset. Brokers like Interactive Brokers or Oanda can be integrated, though you might need additional libraries like `ibpy2` for Interactive Brokers.
     - **Logging and Visual Output:** Configure Backtrader’s logging settings based on your preference. If you're keen on visual output, ensure you have the required libraries (like `matplotlib`) installed for plotting.
 
-Remember, setting up the environment correctly is paramount. It can save time, reduce errors, and ensure a smoother workflow as you deep dive deeper into algorithmic trading with Backtrader. Always refer to the [official Backtrader documentation](https://www.backtrader.com/docu/) for any detailed queries or nuances related to setup and configuration.
+Remember, setting up the environment correctly is paramount. It can save time, reduce errors, and ensure a smoother workflow as you deep dive deeper into algorithmic trading with Backtrader. Always refer to the [official Backtrader documentation](https://www.[backtrader](/wiki/backtrader).com/docu/) for any detailed queries or nuances related to setup and configuration.
 
 ## Starting with Backtrader
 
@@ -146,7 +146,7 @@ data = CustomData(dataname='path_to_custom_file.csv')
 </aside>
 
 **3. Logging and Printing Data Using Strategy Class:**
-To track and monitor data points or actions during backtesting, utilize the built-in logging methods:
+To track and monitor data points or actions during [backtesting](/wiki/backtesting), utilize the built-in logging methods:
 
 ```python
 def log(self, txt, dt=None):
@@ -241,7 +241,7 @@ Before you commence live trading, it's paramount to double-check your strategy a
 
 **Setting Up and Configuring a Live Trading Environment:**
 
-Backtrader is compatible with various brokers through its built-in broker API integrations. Some popular choices include Interactive Brokers and Oanda. Once you've chosen your broker:
+Backtrader is compatible with various brokers through its built-in broker API integrations. Some popular choices include [Interactive Brokers](/wiki/interactive-brokers-api) and Oanda. Once you've chosen your broker:
 
 1. Obtain the necessary API keys or access tokens from the broker platform.
 2. Initialize the broker within your Backtrader code. For instance, with Oanda:
@@ -279,7 +279,7 @@ To fully harness the power of Backtrader, it's essential to understand how to ex
 
 **Adding Visual Statistics to Backtests for Better Analysis:**
 
-Backtrader's plotting capabilities are flexible. To visualize statistics beyond the default, you can make use of `Analyzers`. For instance, drawdown statistics or custom performance metrics can be calculated and added to your plots. By extending the `Analyzer` class and overriding the necessary methods, you can add these statistics. Once defined, they can be added to `Cerebro`, the core Backtrader engine, using the `addanalyzer` method and later plotted for better visual analysis[3].
+Backtrader's plotting capabilities are flexible. To visualize [statistics](/wiki/bayesian-statistics) beyond the default, you can make use of `Analyzers`. For instance, drawdown statistics or custom performance metrics can be calculated and added to your plots. By extending the `Analyzer` class and overriding the necessary methods, you can add these statistics. Once defined, they can be added to `Cerebro`, the core Backtrader engine, using the `addanalyzer` method and later plotted for better visual analysis[3].
 
 **Saving Backtest Data for Further Study:**
 
@@ -287,7 +287,7 @@ The results of a backtest, including trades, performance metrics, and other rele
 
 **Using Alternative Data Sources for Unique Insights:**
 
-While many traders rely on traditional price and volume data, alternative data sources can offer a unique edge. These can include sentiment data, economic indicators, or even satellite imagery. Backtrader is versatile in this regard. By extending the `Feed` class, you can incorporate any data source, as long as it's structured in a time-series format. This allows you to test strategies that incorporate a broader range of information, possibly leading to novel and robust trading signals[5].
+While many traders rely on traditional price and [volume](/wiki/volume-trading-strategy) data, [alternative data](/wiki/best-alternative-data) sources can offer a unique edge. These can include sentiment data, economic indicators, or even satellite imagery. Backtrader is versatile in this regard. By extending the `Feed` class, you can incorporate any data source, as long as it's structured in a time-series format. This allows you to test strategies that incorporate a broader range of information, possibly leading to novel and robust trading signals[5].
 
 Tapping into these extended capabilities can give traders a distinct advantage by enabling a more comprehensive analysis, preserving insights for future use, and capitalizing on unconventional data sources.
 

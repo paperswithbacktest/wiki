@@ -21,17 +21,17 @@ While the digital age has ushered in myriad online resources – from blogs to w
 
 ## Diverse Perspectives on Algorithmic Trading
 
-Algorithmic trading, an intricate blend of finance and technology, has fostered an expansive literature spanning a wide array of topics. For the curious reader or seasoned practitioner, the diversity in this field's literature offers insights ranging from rudimentary introductions to nuanced, advanced strategies. Whether one seeks to understand the heartbeat of the market through its microstructure or wishes to harness the predictive power of statistical models, there's a wealth of knowledge awaiting in the form of well-researched books.
+Algorithmic trading, an intricate blend of finance and technology, has fostered an expansive literature spanning a wide array of topics. For the curious reader or seasoned practitioner, the diversity in this field's literature offers insights ranging from rudimentary introductions to nuanced, advanced strategies. Whether one seeks to understand the heartbeat of the market through its microstructure or wishes to harness the predictive power of statistical models, there's a wealth of knowledge awaiting in the form of well-researched [books](/wiki/algo-trading-books).
 
 One of the captivating aspects of algo trading is its interdisciplinary nature. At its core, understanding market microstructure — the detailed processes and mechanisms by which securities are traded — is paramount. Delving into this helps traders recognize patterns, inefficiencies, or opportunities that can be exploited algorithmically[1].
 
 Yet, as markets have evolved, so too have the tools used to analyze and navigate them. Statistics and econometrics provide the foundational backbone for many algorithmic strategies, offering structured ways to decipher market data, find correlations, and predict future price movements. Technical analysis further complements this by visually interpreting price movements and identifying historically recurring patterns.
 
-But the frontier of algo trading is undoubtedly being reshaped by machine learning. With the ability to process vast datasets and adapt to changing market conditions, machine learning techniques are pushing the boundaries of what's possible in trade prediction and strategy optimization[2].
+But the frontier of algo trading is undoubtedly being reshaped by machine l[earning](/wiki/earning-announcement). With the ability to process vast datasets and adapt to changing market conditions, [machine learning](/wiki/machine-learning) techniques are pushing the boundaries of what's possible in trade prediction and strategy optimization[2].
 
-Furthermore, while theoretical knowledge is invaluable, practical implementation remains a challenge of its own. This is where practical guides step in, offering real-world insights into strategy building, backtesting, and deployment.
+Furthermore, while theoretical knowledge is invaluable, practical implementation remains a challenge of its own. This is where practical guides step in, offering real-world insights into strategy building, [backtesting](/wiki/backtesting), and deployment.
 
-This curated list ahead is a testament to the vastness and richness of the field. It seeks to provide readers with a holistic view, covering each facet of algo trading. From market intricacies to cutting-edge machine learning models, from statistical analysis to hands-on strategy development, every perspective is explored, offering readers a comprehensive guide to navigate the exciting world of algorithmic trading.
+This curated list ahead is a testament to the vastness and richness of the field. It seeks to provide readers with a holistic view, covering each facet of algo trading. From market intricacies to cutting-edge machine learning models, from statistical analysis to hands-on strategy development, every perspective is explored, offering readers a comprehensive guide to navigate the exciting world of [algorithmic trading](/wiki/algorithmic-trading).
 
 ## Curated List of Algo Trading Books
 

@@ -19,7 +19,7 @@ In this guide, we'll explore the depths of backtesting with Python, starting fro
 
 ## Why Python for Backtesting?
 
-Python's ascendancy in the realm of financial backtesting is not accidental; it's rooted in the intrinsic characteristics of the language and the ecosystem built around it. Let's deep dive into the core reasons behind Python's popularity in this domain.
+Python's ascendancy in the realm of financial [backtesting](/wiki/backtesting) is not accidental; it's rooted in the intrinsic characteristics of the language and the ecosystem built around it. Let's deep dive into the core reasons behind Python's popularity in this domain.
 
 **The Flexibility of Python**
 
@@ -79,7 +79,7 @@ Backtesting.py stands as a notable player in the realm of backtesting libraries 
 4. **Dependency on External Libraries for Advanced Analysis**: For sophisticated technical indicators or advanced analytics, one might need to lean on external libraries like TA-Lib, introducing an added layer of complexity.
 5. **Limited Broker and Data Source Integrations**: Unlike some other backtesting platforms, Backtesting.py doesn't have built-in integrations with live brokers or data providers, meaning real-time testing or deployment requires additional work.
 
-While Backtesting.py offers a robust foundation for backtesting endeavors, it's essential for users to weigh its capabilities against their unique needs, ensuring it aligns with the complexities and nuances of their trading strategies.
+While Backtesting.py offers a robust foundation for backtesting endeavors, it's essential for users to weigh its capabilities against their unique needs, ensuring it aligns with the compl[exit](/wiki/exit-strategy)ies and nuances of their trading strategies.
 
 ### Getting started: Installation and basic setup
 
@@ -278,7 +278,7 @@ Technical indicators play an instrumental role in quantifying and visualizing va
     - Ensure the period of your indicator doesn’t exceed the data's length.
     - While it’s tempting to employ numerous indicators, more isn't always better. Collating too many can lead to overfitting.
 
-The key takeaway: Technical indicators, when correctly applied, can provide insightful dimensions to your trading strategy. Whether you’re harnessing momentum oscillators, trend-following metrics, or volatility indicators, it’s their synergy with your data and strategy that ultimately crafts a well-oiled backtesting machine.
+The key takeaway: Technical indicators, when correctly applied, can provide insightful dimensions to your trading strategy. Whether you’re harnessing [momentum](/wiki/momentum) oscillators, trend-following metrics, or [volatility](/wiki/volatility-trading-strategies) indicators, it’s their synergy with your data and strategy that ultimately crafts a well-oiled backtesting machine.
 
 ### Defining entry and exit strategies
 
@@ -340,7 +340,7 @@ Defining precise entry and exit strategies is the linchpin of any successful tra
     
 7. **Event-driven Strategies**:
     
-    For traders focusing on macroeconomic events or company earnings, Backtesting.py can accommodate. By incorporating date-checking logic, trades can be executed in response to specific calendar events.
+    For traders focusing on macroeconomic events or company [earning](/wiki/earning-announcement)s, Backtesting.py can accommodate. By incorporating date-checking logic, trades can be executed in response to specific calendar events.
     
 8. **Feedback Loop**:
     
@@ -429,7 +429,7 @@ Mean-reversion strategies are predicated on the belief that asset prices and ret
     
 8. **Tuning**: This is a basic mean-reversion strategy. It can be further refined by incorporating additional indicators, adjusting parameters, or implementing risk management techniques.
 
-This guide outlines a foundational mean-reversion strategy. To enhance its robustness, consider incorporating volatility filters, optimizing parameters, or even introducing machine learning models to predict price reversals.
+This guide outlines a foundational mean-reversion strategy. To enhance its robustness, consider incorporating volatility filters, optimizing parameters, or even introducing [machine learning](/wiki/machine-learning) models to predict price reversals.
 
 Remember, while backtesting provides valuable insights, past performance is not always indicative of future results. Always ensure rigorous testing before deploying any strategy in live markets.
 
@@ -466,7 +466,7 @@ Executing a backtest effectively ensures that your strategy is tested under hist
     results = bt.run()
     ```
     
-    This will return a series of statistics, such as the net profit, number of trades, win rate, and drawdown, among others.
+    This will return a series of [statistics](/wiki/bayesian-statistics), such as the net profit, number of trades, win rate, and drawdown, among others.
     
 4. **Analyze Results**: Once you have the `results`, it's important to scrutinize the numbers. A strategy with high returns but large drawdowns might be riskier than one with moderate returns but consistent profitability.
 5. **Visualize the Performance**: Beyond the numbers, visual representation can provide a clearer picture of how the strategy performed over time.
@@ -480,7 +480,7 @@ Executing a backtest effectively ensures that your strategy is tested under hist
 6. **Iterate and Refine**: Rarely does a strategy work perfectly on its first run. Based on your results, go back to your strategy, adjust its parameters or logic, and run the backtest again.
 7. **Consider External Factors**: Real-world trading can introduce elements like slippage, latency, and human psychology. While backtesting gives you a solid foundation, always consider these factors before implementing a strategy live[9].
 
-Efficient backtesting is not just about seeing high returns in historical data but understanding the strategy's behavior, risks, and potential pitfalls. It forms the bedrock on which successful quantitative trading is built.
+Efficient backtesting is not just about seeing high returns in historical data but understanding the strategy's behavior, risks, and potential pitfalls. It forms the bedrock on which successful [quantitative trading](/wiki/quantitative-trading) is built.
 
 ### Optimization techniques
 
@@ -551,7 +551,7 @@ Incorporating multi-timeframe analysis can offer a more holistic view of the mar
 
 ### PyAlgoTrade
 
-PyAlgoTrade is an easy-to-use, event-driven algorithmic trading library written in Python. With its user-friendly API and vast functionality, it allows both novice and advanced traders to develop and backtest trading strategies without diving deep into complex event-handling mechanics[14].
+PyAlgoTrade is an easy-to-use, event-driven [algorithmic trading](/wiki/algorithmic-trading) library written in Python. With its user-friendly API and vast functionality, it allows both novice and advanced traders to develop and backtest trading strategies without diving deep into complex event-handling mechanics[14].
 
 **Example in Python**:
 
@@ -1057,7 +1057,7 @@ In the given code, a basic moving average crossover strategy is illustrated for 
 
 ### Lean(Quantconnect)
 
-Lean, the open-source algorithmic trading engine developed by QuantConnect, provides traders with a versatile platform to design, test, and execute strategies across forex, equities, futures, options, and cryptocurrencies. Powered by C# at its core, Lean also facilitates Python developers through its inclusive Python API, ensuring a seamless experience[24].
+Lean, the open-source algorithmic trading engine developed by QuantConnect, provides traders with a versatile platform to design, test, and execute strategies across [forex](/wiki/forex-system), equities, futures, options, and cryptocurrencies. Powered by C# at its core, Lean also facilitates Python developers through its inclusive Python API, ensuring a seamless experience[24].
 
 **Example in Python**:
 
@@ -1211,7 +1211,7 @@ When diving into the world of backtesting, selecting the optimal library can mak
 4. **Extensibility**: The ability to extend the library to meet specific requirements is crucial for advanced users. While pre-built strategies and functions are beneficial, there might be occasions when custom features or metrics are needed.
 5. **Real-world Applicability**: The primary purpose of backtesting is to simulate real-world trading. Therefore, the library should support features like realistic slippage, transaction costs, and order delays. It should also handle various data types and sources seamlessly.
 
-In conclusion, the choice of a backtesting library boils down to individual needs, the complexity of the strategy, and personal preference. Taking the time to evaluate different options based on the factors mentioned above will pave the way for a smoother and more productive backtesting experience.
+In conclusion, the choice of a backtesting library boils down to individual needs, the complexity of the strategy, and personal preference. Taking the time to evaluate different options based on the [factor](/wiki/factor-investing)s mentioned above will pave the way for a smoother and more productive backtesting experience.
 
 ## Backtesting Best Practices
 
@@ -1246,9 +1246,9 @@ In essence, while backtesting provides the empirical performance of a strategy, 
 
 Machine Learning (ML) has emerged as a game-changer in the realm of algorithmic trading. By leveraging ML, traders can unearth patterns in vast datasets that would be inscrutable to the human eye or traditional quantitative methods.
 
-One way ML enhances strategy development is through feature engineering and selection. Large financial datasets often possess a myriad of potential predictors, but not all are useful. ML algorithms can efficiently sift through these and pinpoint the most predictive features for a given trading strategy[31]. Additionally, ML models, especially those based on deep learning, have the capacity to model complex non-linear relationships within data, allowing for the creation of more adaptive and powerful trading strategies.
+One way ML enhances strategy development is through feature engineering and selection. Large financial datasets often possess a myriad of potential predictors, but not all are useful. ML algorithms can efficiently sift through these and pinpoint the most predictive features for a given trading strategy[31]. Additionally, ML models, especially those based on [deep learning](/wiki/deep-learning), have the capacity to model complex non-linear relationships within data, allowing for the creation of more adaptive and powerful trading strategies.
 
-Reinforcement learning, a subset of ML, offers a unique approach to strategy development. Instead of predicting market movements, reinforcement learning algorithms learn the optimal trading action to take at any given time through trial and error[32]. This can be particularly useful in crafting strategies for environments where the relationship between input features and market movement is intricate and dynamic.
+Reinforcement learning, a subset of ML, offers a unique approach to strategy development. Instead of predicting market movements, [reinforcement learning](/wiki/reinforcement-learning) algorithms learn the optimal trading action to take at any given time through trial and error[32]. This can be particularly useful in crafting strategies for environments where the relationship between input features and market movement is intricate and dynamic.
 
 Python, being at the forefront of ML development, provides robust libraries like **TensorFlow** and **scikit-learn** that can be seamlessly integrated into the backtesting workflow.
 
@@ -1266,9 +1266,9 @@ With the rapid growth of technology and increased sophistication in financial ma
 
 The integration with databases like SQL, NoSQL, or time-series databases such as InfluxDB[35] allows for efficient data storage and retrieval. This not only enables quick backtests over vast periods but also facilitates storing results for comparative analysis.
 
-Brokers often provide APIs, such as Interactive Brokers' TWS API[36] or Alpaca[37], allowing direct integration. This means a strategy can be backtested, optimized, and then seamlessly transitioned into a live trading environment, ensuring consistency in logic and reducing human error.
+Brokers often provide APIs, such as [Interactive Brokers](/wiki/interactive-brokers-api)' TWS API[36] or Alpaca[37], allowing direct integration. This means a strategy can be backtested, optimized, and then seamlessly transitioned into a live trading environment, ensuring consistency in logic and reducing human error.
 
-For those looking to incorporate external indicators or data, integrating platforms like Quandl[38] can provide a wealth of financial, economic, and alternative data. Access to such diverse datasets allows traders to test unique strategies, gauging their potential profitability and robustness.
+For those looking to incorporate external indicators or data, integrating platforms like Quandl[38] can provide a wealth of financial, economic, and [alternative data](/wiki/best-alternative-data). Access to such diverse datasets allows traders to test unique strategies, gauging their potential profitability and robustness.
 
 Cloud-based backtesting introduces another dimension. Platforms like QuantConnect[39] and Blueshift[40] harness the power of cloud computing to provide a scalable environment for backtesting. They allow simultaneous tests over multiple parameter combinations, drastically reducing the time required for optimization. The cloud ensures high availability and data integrity. Moreover, with the ever-growing data sizes, cloud platforms offer scalable storage solutions, eliminating the need for local infrastructure investments.
 

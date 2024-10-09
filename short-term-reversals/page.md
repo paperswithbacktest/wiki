@@ -23,11 +23,11 @@ Research findings in this area are substantial and shed light on the predictabil
 
 One of the seminal pieces of research in this area, conducted by Jegadeesh and Titman in 1993, demonstrated that buying stocks that had performed poorly and selling those that had performed well could generate significant abnormal returns. This counterintuitive strategy capitalizes on the short-term reversal effect and has been a subject of interest for both academics and practitioners in finance[1].
 
-In essence, the phenomenon of short-term reversals offers a unique perspective on market behavior, highlighting the role of investor psychology, market dynamics, and the perpetual tug-of-war between overreaction and correction in stock prices. Understanding these factors is crucial for traders who aim to leverage short-term reversal strategies in their trading arsenal.
+In essence, the phenomenon of short-term reversals offers a unique perspective on market behavior, highlighting the role of investor psychology, market dynamics, and the perpetual tug-of-war between overreaction and correction in stock prices. Understanding these [factor](/wiki/factor-investing)s is crucial for traders who aim to leverage short-term reversal strategies in their trading arsenal.
 
 ## The Mechanics Behind the Effect
 
-Understanding the mechanics behind short-term reversals in stock trading is crucial to mastering this trading strategy. The phenomenon, at its core, is driven by two primary factors: investor overreaction and market corrections, as well as liquidity and market dynamics.
+Understanding the mechanics behind short-term reversals in stock trading is crucial to mastering this trading strategy. The phenomenon, at its core, is driven by two primary factors: investor overreaction and market corrections, as well as [liquidity](/wiki/liquidity-risk-premium) and market dynamics.
 
 ### Fundamental Reasons: Investor Overreaction and Market Corrections
 
@@ -41,7 +41,7 @@ Liquidity, or the ease with which stocks can be bought or sold without impacting
 
 ![Market liquidity.png](images/Market_liquidity.png)
 
-Market dynamics, including trading volume and market sentiment, further compound these effects. For instance, high trading volumes can magnify the impact of investor overreaction, leading to more pronounced reversals. Similarly, prevailing market sentiment, whether bullish or bearish, can influence the degree and frequency of these reversals.
+Market dynamics, including trading [volume](/wiki/volume-trading-strategy) and market sentiment, further compound these effects. For instance, high trading volumes can magnify the impact of investor overreaction, leading to more pronounced reversals. Similarly, prevailing market sentiment, whether bullish or bearish, can influence the degree and frequency of these reversals.
 
 Understanding these underlying mechanics is not just academically interesting; it's a practical necessity for traders looking to exploit short-term reversals. By recognizing the signs of overreaction and understanding the role of liquidity and market dynamics, traders can better anticipate when a reversal might occur and strategize accordingly. This knowledge allows for more informed decisions, helping traders navigate the complex and often unpredictable world of stock trading.
 
@@ -89,11 +89,11 @@ One way to minimize transaction costs is by choosing a trading platform or broke
 
 **Advantages of Trading Larger Stocks**
 
-Trading in larger, more liquid stocks can be a practical solution to the high transaction costs associated with short-term reversal strategies. These stocks typically have narrower bid-ask spreads and better market depth, reducing the cost of entering and exiting positions.
+Trading in larger, more liquid stocks can be a practical solution to the high transaction costs associated with short-term reversal strategies. These stocks typically have narrower bid-ask spreads and better market depth, reducing the cost of entering and [exit](/wiki/exit-strategy)ing positions.
 
 **Volatility and Liquidity Trade-off**
 
-While larger stocks may offer lower transaction costs, they often exhibit less volatility compared to smaller, less liquid stocks. This means the potential for price reversals might be less pronounced, requiring traders to be more discerning in their trade selections.
+While larger stocks may offer lower transaction costs, they often exhibit less [volatility](/wiki/volatility-trading-strategies) compared to smaller, less liquid stocks. This means the potential for price reversals might be less pronounced, requiring traders to be more discerning in their trade selections.
 
 **Diversification Across Market Caps**
 
@@ -127,7 +127,7 @@ Adapting the strategy to align with ongoing market trends and regional events is
 
 **Technology and Data Analysis**
 
-Leveraging advanced technology and thorough data analysis can aid traders in adapting their strategies to different market conditions. Using algorithms and machine learning can help identify potential reversal points more accurately.
+Leveraging advanced technology and thorough data analysis can aid traders in adapting their strategies to different market conditions. Using algorithms and machine l[earning](/wiki/earning-announcement) can help identify potential reversal points more accurately.
 
 ## Understanding Risks and Rewards
 
@@ -161,7 +161,7 @@ The application of short-term reversal strategies demands a robust understanding
 
 However, these strategies are not without challenges. They require meticulous risk management, as the risks include market volatility, timing inaccuracies, and liquidity challenges. The potential rewards, while enticing, vary greatly based on market conditions and the trader’s skill in strategy execution.
 
- As with any trading strategy, a balanced approach, combining empirical research and practical application, is essential for success in leveraging short-term reversals in stock trading. For further exploration, you should refer to a range of resources, including research papers, books, and specialized websites, to deepen their understanding and proficiency in these strategies.
+ As with any trading strategy, a balanced approach, combining empirical research and practical application, is essential for success in leveraging short-term reversals in stock trading. For further exploration, you should refer to a range of resources, including research papers, [books](/wiki/algo-trading-books), and specialized websites, to deepen their understanding and proficiency in these strategies.
 
 ## References & Further Reading
 

@@ -19,7 +19,7 @@ The effective use of sentiment indicators requires an understanding of both thei
 
 Market sentiment embodies the overall attitude or mood of investors and traders in the financial markets. It is a qualitative measure that captures the prevailing collective predispositions towards market movements, whether they lean towards optimism or pessimism. This sentiment can significantly sway market trends and is often reflected in the pricing of securities, volume of trades, and the intensity of market participation.
 
-Psychological factors play a crucial role in shaping market sentiment. Human emotions such as fear, greed, hope, and herd mentality can dramatically affect investor behavior, often leading to irrational market movements that diverge from fundamental values. The psychological impact of news events, economic reports, and market rumors can lead to sudden and sometimes disproportionate shifts in market sentiment.
+Psychological [factor](/wiki/factor-investing)s play a crucial role in shaping market sentiment. Human emotions such as fear, greed, hope, and herd mentality can dramatically affect investor behavior, often leading to irrational market movements that diverge from fundamental values. The psychological impact of news events, economic reports, and market rumors can lead to sudden and sometimes disproportionate shifts in market sentiment.
 
 Historically, sentiment analysis has been an integral part of financial markets, dating back to the tulip mania of the 17th century and the stock market crash of 1929, among others. Over time, the approach to gauging market sentiment has evolved from relying on anecdotal evidence to employing sophisticated quantitative tools.
 
@@ -27,11 +27,11 @@ Historically, sentiment analysis has been an integral part of financial markets,
 
 ### CBOE Volatility Index (VIX)
 
-The CBOE Volatility Index, better known as VIX, is a real-time market index representing the market's expectations for volatility over the coming 30 days. Investors, researchers, and economists observe the VIX to gauge anxiety and stress in the market. A higher VIX suggests increased fear, while a lower VIX indicates confidence among market participants. The VIX is calculated using the bid and ask quotes of S&P 500 index options. It provides a measure of market risk and investors' sentiments regarding future stock market volatility.
+The CBOE Volatility Index, better known as VIX, is a real-time market index representing the market's expectations for [volatility](/wiki/volatility-trading-strategies) over the coming 30 days. Investors, researchers, and economists observe the VIX to gauge anxiety and stress in the market. A higher VIX suggests increased fear, while a lower VIX indicates confidence among market participants. The VIX is calculated using the bid and ask quotes of S&P 500 index options. It provides a measure of market risk and investors' sentiments regarding future stock market volatility.
 
 ### Put/Call Ratio
 
-The Put/Call Ratio is another sentiment indicator that compares the volume of traded put options to call options. A higher ratio above 1 indicates that more puts are being bought relative to calls, suggesting a bearish market sentiment, while a ratio below 1 indicates a bullish sentiment. This indicator is often used to gauge the general mood of the market and to spot extremes in investor behavior.
+The Put/Call Ratio is another sentiment indicator that compares the [volume](/wiki/volume-trading-strategy) of traded put options to call options. A higher ratio above 1 indicates that more puts are being bought relative to calls, suggesting a bearish market sentiment, while a ratio below 1 indicates a bullish sentiment. This indicator is often used to gauge the general mood of the market and to spot extremes in investor behavior.
 
 ![Screenshot 2024-01-09 at 21.44.01.png](images/Screenshot_2024-01-09_at_21.44.01.png)
 
@@ -101,7 +101,7 @@ On the other hand, technical analysis focuses on price movements and trading vol
 
 A synergistic approach that combines sentiment indicators with technical analysis can offer a more comprehensive market outlook. For instance, a high VIX alongside a bearish chart pattern may confirm a potential downturn, whereas discrepancies between market sentiment and technical signals could highlight trading opportunities for contrarians.
 
-Case studies, such as the analysis of market reactions to major news events or earnings announcements, can further illustrate how sentiment indicators might presage changes in price trends before these are reflected in the charts. This underscores how sentiment data can act as a leading indicator, providing a heads-up on shifts in market dynamics.
+Case studies, such as the analysis of market reactions to major news events or [earning](/wiki/earning-announcement)s announcements, can further illustrate how sentiment indicators might presage changes in price trends before these are reflected in the charts. This underscores how sentiment data can act as a leading indicator, providing a heads-up on shifts in market dynamics.
 
 In essence, sentiment indicators can enrich technical analysis by adding a layer of investor psychology to the objective data provided by the charts. The interplay between these two domains can offer traders a more nuanced and dynamic framework for making informed decisions in the markets.
 
@@ -127,9 +127,9 @@ Algorithmic Sentiment Scoring combines various data inputs including market data
 
 ### Machine Learning Models
 
-Machine Learning Models in sentiment analysis are increasingly sophisticated and can ingest historical market data, news sentiment, and economic indicators to identify market sentiment patterns. They employ predictive analytics to forecast sentiment trends, which can be particularly useful in algorithmic trading. These models are trained on large datasets and can adapt to new information, potentially offering more accurate market sentiment predictions.
+Machine Learning Models in sentiment analysis are increasingly sophisticated and can ingest historical market data, news sentiment, and economic indicators to identify market sentiment patterns. They employ predictive analytics to forecast sentiment trends, which can be particularly useful in [algorithmic trading](/wiki/algorithmic-trading). These models are trained on large datasets and can adapt to new information, potentially offering more accurate market sentiment predictions.
 
-For more detailed insights and methodologies on sentiment analysis in trading, "Trading on Sentiment: The Power of Minds Over Markets" by Richard L. Peterson is a comprehensive resource that delves into the use of NLP and machine learning in the interpretation of market sentiment data[2].
+For more detailed insights and methodologies on sentiment analysis in trading, "Trading on Sentiment: The Power of Minds Over Markets" by Richard L. Peterson is a comprehensive resource that delves into the use of NLP and [machine learning](/wiki/machine-learning) in the interpretation of market sentiment data[2].
 
 ### Sentiment Indicators from Brokerages and Trading Platforms
 
@@ -145,7 +145,7 @@ Consumer Sentiment Indicators from Online Reviews and Ratings are becoming incre
 
 ### Hedge Fund Sentiment Tracking
 
-Hedge Fund Sentiment Tracking involves the analysis of publicly available data such as 13F filings to understand the positions hedge funds are taking. By analyzing these filings, investors can gauge the sentiment of institutional investors. This is often used in conjunction with other sentiment indicators to get a complete picture of market sentiment across different investor classes.
+Hedge Fund Sentiment Tracking involves the analysis of publicly available data such as 13F filings to understand the positions [hedge fund](/wiki/hedge-fund-trading-strategies)s are taking. By analyzing these filings, investors can gauge the sentiment of institutional investors. This is often used in conjunction with other sentiment indicators to get a complete picture of market sentiment across different investor classes.
 
 ### Credit Card Transaction Data
 
@@ -161,7 +161,7 @@ Predictive Analytics Platforms take sentiment analysis a step further by incorpo
 
 ### Blockchain Sentiment Analysis
 
-Blockchain Sentiment Analysis is especially relevant for cryptocurrency markets, where traditional financial metrics may not apply. This analysis evaluates blockchain activity data, such as transaction volumes, wallet addresses activity, and token distribution to gauge the market sentiment towards a particular cryptocurrency. Methodology includes monitoring the blockchain for spikes in transactions, wallet activities indicative of accumulation or distribution, and analyzing the sentiment of comments in transaction metadata.
+Blockchain Sentiment Analysis is especially relevant for [cryptocurrency](/wiki/cryptocurrency) markets, where traditional financial metrics may not apply. This analysis evaluates blockchain activity data, such as transaction volumes, wallet addresses activity, and token distribution to gauge the market sentiment towards a particular cryptocurrency. Methodology includes monitoring the blockchain for spikes in transactions, wallet activities indicative of accumulation or distribution, and analyzing the sentiment of comments in transaction metadata.
 
 ### Crowdsourcing Platforms
 
@@ -171,7 +171,7 @@ Crowdsourcing Platforms embody the collective intelligence concept, where a comm
 
 Sentiment indicators have become integral to trading strategies across various market conditions. Their real-world applications range from gauging the general mood of the market to implementing specific trades based on sentiment extremes. For instance, a trader might use the VIX to assess fear levels in the market, employing strategies that capitalize on increased volatility. During bullish trends, sentiment indicators like the Bullish Percent Index (BPI) can help traders identify overbought conditions and the potential for a market top. Conversely, in bearish markets, a high put/call ratio may suggest that sentiment is overly pessimistic, potentially signaling a bottom.
 
-Strategies also differ for volatile market conditions. Here, traders might look to the Advance/Decline Line (A/D Line) to discern whether movements in major indices are supported by a broad base of stocks or just a few large caps. This can inform decisions on market entry and exit points, as well as risk management.
+Strategies also differ for volatile market conditions. Here, traders might look to the Advance/Decline Line (A/D Line) to discern whether movements in major indices are supported by a broad base of stocks or just a few large caps. This can inform decisions on market entry and [exit](/wiki/exit-strategy) points, as well as risk management.
 
 For practical application, traders can use sentiment indicators in a step-by-step approach:
 
@@ -184,7 +184,7 @@ The dynamic nature of markets necessitates an adaptable approach to using sentim
 
 ## Sentiment Indicators for Various Asset Classes
 
-Sentiment indicators have become integral tools for understanding the nuances of various asset classes, each with its unique characteristics and market behaviors. In the stock market, sentiment is often gauged through indicators like the VIX for volatility, but there's more to the story. For instance, in forex markets, traders might look at the currency strength index and geopolitical risk assessments, which can reflect the sentiment towards different currencies. Commodities traders rely on supply-demand imbalances and the Commodity Channel Index, which can reflect how sentiment is swaying the value of commodities like oil or gold.
+Sentiment indicators have become integral tools for understanding the nuances of various asset classes, each with its unique characteristics and market behaviors. In the stock market, sentiment is often gauged through indicators like the VIX for volatility, but there's more to the story. For instance, in [forex](/wiki/forex-system) markets, traders might look at the currency strength index and geopolitical risk assessments, which can reflect the sentiment towards different currencies. Commodities traders rely on supply-demand imbalances and the Commodity Channel Index, which can reflect how sentiment is swaying the value of commodities like oil or gold.
 
 The fast-paced world of cryptocurrencies has given rise to on-chain metrics, where sentiment can be gleaned from wallet activities, transaction volumes, and even social media trends to forecast market movements. These digital assets require a blend of sentiment indicators, including monitoring exchange inflows and outflows, to assess the collective mood of market participants.
 

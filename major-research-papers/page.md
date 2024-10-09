@@ -27,7 +27,7 @@ Rama Cont, Sasha Stoikov, Rishi Talreja, 2010
 
 📕 [Paper](https://drive.google.com/file/d/1SupWLqB_mhrfP3ZyLk1t_1lbZbwhBXxj/view?usp=share_link)
 
-They suggest a continuous-time model for limit order book dynamics that is easy to estimate from data, captures key empirical properties, and allows for quick calculations without simulation. They explain a parameter estimation method using high-frequency order book data and demonstrate it with Tokyo Stock Exchange data. By using matrix calculations and Laplace transform methods, they efficiently compute event probabilities based on the order book's state. They show that their model effectively captures short-term limit order book dynamics using high-frequency data and assess a simple trading strategy based on their findings.
+They suggest a continuous-time model for limit [order book](/wiki/order-book-trading-strategies) dynamics that is easy to estimate from data, captures key empirical properties, and allows for quick calculations without simulation. They explain a parameter estimation method using high-frequency order book data and demonstrate it with Tokyo Stock Exchange data. By using matrix calculations and Laplace transform methods, they efficiently compute event probabilities based on the order book's state. They show that their model effectively captures short-term limit order book dynamics using high-frequency data and assess a simple trading strategy based on their findings.
 
 **Order Book Dynamics in Liquid Markets: Limit Theorems and Diffusion Approximations**
 
@@ -45,7 +45,7 @@ Robert Almgren, Neil Chriss, 2000
 
 📕 [Paper](https://drive.google.com/file/d/1xWUAFBGUjCU7IqtDebbEunubOYSEY9_0/view?usp=share_link)
 
-They study how to carry out portfolio transactions while reducing both price changes and transaction costs. Using a basic cost model, they create a range of strategies that balance these factors over time. They can choose the best approach by minimizing a certain value or by considering the tradeoff between price change risk and transaction costs, which they call Liquidity-adjusted Value at Risk (L-VaR).
+They study how to [carry](/wiki/carry-trading) out portfolio transactions while reducing both price changes and transaction costs. Using a basic cost model, they create a range of strategies that balance these [factor](/wiki/factor-investing)s over time. They can choose the best approach by minimizing a certain value or by considering the tradeoff between price change risk and transaction costs, which they call Liquidity-adjusted Value at Risk (L-VaR).
 
 **Bayesian Adaptive Trading with a Daily Cycle**
 
@@ -53,7 +53,7 @@ Robert Almgren, Julian Lorenz, 2006
 
 📕 [Paper](https://drive.google.com/file/d/1hYwyoFB1nkHV-z4zw9qX6d-a6UFSRGNq/view?usp=share_link)
 
-In this study, they create a model that accounts for the daily cycle in algorithmic trading. The trader uses price information throughout the day to update their estimates of other traders' targets and directions. This helps determine an optimal trade schedule to minimize trading costs while following sign constraints. Although the strategies are based on simple dynamic reasoning, they are actually the globally optimal strategies that dynamic programming would determine.
+In this study, they create a model that accounts for the daily cycle in [algorithmic trading](/wiki/algorithmic-trading). The trader uses price information throughout the day to update their estimates of other traders' targets and directions. This helps determine an optimal trade schedule to minimize trading costs while following sign constraints. Although the strategies are based on simple dynamic reasoning, they are actually the globally optimal strategies that dynamic programming would determine.
 
 **The Mathematics of Optimal Execution**
 
@@ -71,7 +71,7 @@ Jean-Philippe Bouchaud, J. Doyne Farmer, Fabrizio Lillo, 2008
 
 📕 [Paper](https://drive.google.com/file/d/16UDAdNc5U9MzC09Xx-MkUnA3CG09XUHR/view?usp=share_link)
 
-In this article, they reexamine price formation in market microstructure, focusing on how supply and demand fluctuations are incorporated into prices. Large orders take a long time to trade due to low market liquidity, resulting in highly persistent order flow. This affects price formation, liquidity dynamics, and market impact. They review theories that make quantitative predictions about market impact, bid-ask spread, order book dynamics, and volatility, finding encouraging successes when compared to data. This framework suggests that most information comes from supply and demand rather than external news, which is relevant for market regulation, agent-based models, execution strategies, and market ecologies.
+In this article, they reexamine price formation in market microstructure, focusing on how supply and demand fluctuations are incorporated into prices. Large orders take a long time to trade due to low market [liquidity](/wiki/liquidity-risk-premium), resulting in highly persistent order flow. This affects price formation, liquidity dynamics, and market impact. They review theories that make quantitative predictions about market impact, bid-ask spread, order book dynamics, and [volatility](/wiki/volatility-trading-strategies), finding encouraging successes when compared to data. This framework suggests that most information comes from supply and demand rather than external news, which is relevant for market regulation, agent-based models, execution strategies, and market ecologies.
 
 **No-Dynamic-Arbitrage and Market Impact**
 
@@ -101,4 +101,4 @@ Market makers need to set bid and ask quotes for stocks while balancing their po
 
 ## Conclusion
 
-The collection of papers presented here encapsulates a wealth of knowledge and expertise in the field of financial market analysis. Each paper, with its unique focus and approach, contributes to a broader understanding of how financial markets operate and how various strategies and models can be employed to navigate these markets effectively. From exploring the statistical properties of asset returns to developing optimal trading strategies, these papers offer invaluable insights into the complexities of market dynamics. Whether for academic research, professional development, or personal interest, delving into these works provides a deeper appreciation of the mathematical and empirical frameworks that underpin modern financial markets, equipping readers with the knowledge to approach these challenging and ever-evolving environments with confidence and expertise.
+The collection of papers presented here encapsulates a wealth of knowledge and expertise in the field of financial market analysis. Each paper, with its unique focus and approach, contributes to a broader understanding of how financial markets operate and how various strategies and models can be employed to navigate these markets effectively. From exploring the statistical properties of asset returns to developing optimal trading strategies, these papers offer invaluable insights into the compl[exit](/wiki/exit-strategy)ies of market dynamics. Whether for academic research, professional development, or personal interest, delving into these works provides a deeper appreciation of the mathematical and empirical frameworks that underpin modern financial markets, equipping readers with the knowledge to approach these challenging and ever-evolving environments with confidence and expertise.

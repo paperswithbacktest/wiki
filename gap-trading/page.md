@@ -31,7 +31,7 @@ There are several types of gaps, each with its own set of characteristics and im
 4. **Continuation Gaps**: Also known as runaway gaps, they happen during a strong trend and signal that the trend is set to continue at an accelerated pace. These gaps often occur at about the midpoint of a market move and are reinforced by a significant increase in volume.
 5. **Runaway Gaps**: Sometimes considered similar to continuation gaps, these gaps further the direction of the prevailing trend and may be driven by increased interest in the asset due to news, earnings, or other impactful events. They are a sign that the trend is powerful and is likely to continue.
 
-The creation of gaps is closely tied to market volatility. Volatility refers to the rate at which the price of a security increases or decreases for a given set of returns. High volatility often leads to larger gaps, as the price can make significant moves within short periods, especially outside of regular trading hours or after major announcements or economic events.
+The creation of gaps is closely tied to market [volatility](/wiki/volatility-trading-strategies). Volatility refers to the rate at which the price of a security increases or decreases for a given set of returns. High volatility often leads to larger gaps, as the price can make significant moves within short periods, especially outside of regular trading hours or after major announcements or economic events.
 
 In the trading community, clear illustrations and examples of these gaps are vital for understanding and can be found in historical charts across various markets. Traders use these illustrations to study gap behavior and develop strategies for identifying and responding to gaps in real-time.
 
@@ -41,11 +41,11 @@ The market mechanics that create gaps are fundamentally rooted in the supply and
 
 ![Untitled](images/Untitled%201.png)
 
-Pre-market and post-market activities play a pivotal role in the formation of gaps. These trading sessions occur outside the official market hours, where trading can continue on electronic market networks. Since the volume during these sessions is typically lower, the trades can cause more significant price movements due to less liquidity. For instance, if significant sell orders are placed in the pre-market on negative news, the stock price may open much lower than it closed the previous day, resulting in a gap down. Conversely, if positive news is released and buying pressure increases, a gap up may occur at the market open.
+Pre-market and post-market activities play a pivotal role in the formation of gaps. These trading sessions occur outside the official market hours, where trading can continue on electronic market networks. Since the [volume](/wiki/volume-trading-strategy) during these sessions is typically lower, the trades can cause more significant price movements due to less [liquidity](/wiki/liquidity-risk-premium). For instance, if significant sell orders are placed in the pre-market on negative news, the stock price may open much lower than it closed the previous day, resulting in a gap down. Conversely, if positive news is released and buying pressure increases, a gap up may occur at the market open.
 
-Fundamental events are often the catalysts for gap formations, as they can drastically alter the perceived value of a security. These events include but are not limited to earnings reports, economic data releases, mergers and acquisitions announcements, regulatory updates, and geopolitical events. Traders and investors react to these events, causing immediate reassessments of a security's value. For example, if a company reports earnings that are significantly above market expectations, it could result in a price gap up as investors rapidly buy into the stock on the anticipation of growth. The opposite is true if the company fails to meet expectations.
+Fundamental events are often the catalysts for gap formations, as they can drastically alter the perceived value of a security. These events include but are not limited to [earning](/wiki/earning-announcement)s reports, economic data releases, mergers and acquisitions announcements, regulatory updates, and geopolitical events. Traders and investors react to these events, causing immediate reassessments of a security's value. For example, if a company reports earnings that are significantly above market expectations, it could result in a price gap up as investors rapidly buy into the stock on the anticipation of growth. The opposite is true if the company fails to meet expectations.
 
-The underlying science of gaps also includes the study of order books and how large orders can affect price. Large buy orders that cannot be filled within the current or previous closing price range can lead to upward gaps. Similarly, large sell orders can create a vacuum in demand and lead to downward gaps. This behavior is further amplified by automated trading systems and stop orders that become active when certain price levels are hit, contributing to the swift creation of gaps.
+The underlying science of gaps also includes the study of order [books](/wiki/algo-trading-books) and how large orders can affect price. Large buy orders that cannot be filled within the current or previous closing price range can lead to upward gaps. Similarly, large sell orders can create a vacuum in demand and lead to downward gaps. This behavior is further amplified by automated trading systems and stop orders that become active when certain price levels are hit, contributing to the swift creation of gaps.
 
 Furthermore, gaps can also be studied through market microstructure theory, which examines how market participants’ behaviors and the structure of trading itself contribute to price formation and movement. This theoretical framework explains how variables such as transaction costs, asymmetric information, and the strategic behavior of market makers can lead to gaps.
 
@@ -101,9 +101,9 @@ By carefully analyzing these scenarios, traders can gain insights into whether t
 
 The psychology of gaps in trading hinges on the collective reaction of traders to an unexpected change in price levels, where the gap itself acts as a catalyst for emotional and psychological responses. Traders typically view gaps as an imbalance between supply and demand, precipitated by an urgency to buy or sell, which can be triggered by news, events, or a shift in market sentiment.
 
-When a gap occurs, traders’ reactions are often a mix of surprise, greed, and fear, which intensifies the urgency to take action. The suddenness of gaps forces traders to reassess their positions and the value of the security. This reassessment can lead to sharp movements as traders rush to enter or exit positions.
+When a gap occurs, traders’ reactions are often a mix of surprise, greed, and fear, which intensifies the urgency to take action. The suddenness of gaps forces traders to reassess their positions and the value of the security. This reassessment can lead to sharp movements as traders rush to enter or [exit](/wiki/exit-strategy) positions.
 
-A key psychological aspect of gap trading is the expectation that a gap will be filled. The phenomenon of gaps being filled is rooted in the tendency for prices to return to their pre-gap levels, a process that can be driven by traders taking profits or cutting losses, resulting in a reversal of the initial gap move. This reversal often occurs because the factors that caused the initial gap may be perceived as temporary or exaggerated[3].
+A key psychological aspect of gap trading is the expectation that a gap will be filled. The phenomenon of gaps being filled is rooted in the tendency for prices to return to their pre-gap levels, a process that can be driven by traders taking profits or cutting losses, resulting in a reversal of the initial gap move. This reversal often occurs because the [factor](/wiki/factor-investing)s that caused the initial gap may be perceived as temporary or exaggerated[3].
 
 The expectation that a gap will fill can become a self-fulfilling prophecy as traders act on this belief, pushing the price back to its original level. Traders who anticipate the fill may place trades in the direction of the close of the gap, contributing to the price movement that ultimately closes the gap.
 
@@ -117,7 +117,7 @@ The interplay of fear and greed is most evident in the reaction to runaway or co
 
 *Full gap strategies revolve around significant price movements that occur when the market price opens higher or lower than the previous day's close with no trading activity in between.*
 
-These gaps typically reflect a strong shift in market sentiment and can be used to forecast continuing momentum or a potential reversal.
+These gaps typically reflect a strong shift in market sentiment and can be used to forecast continuing [momentum](/wiki/momentum) or a potential reversal.
 
 Full Gap Up: Long Strategy
 
@@ -163,7 +163,7 @@ For both partial gap up and down strategies, confirming the move with technical 
 
 Literature on the effectiveness of trading partial gaps can be found in resources like "Technical Analysis: The Complete Resource for Financial Market Technicians" by Charles D. Kirkpatrick and Julie R. Dahlquist. These gaps are also frequently discussed in trading forums and market analysis blogs where real-time examples are often shared and analyzed. Quantitative studies in academic journals occasionally dissect the probability of gap fills and can provide a statistical foundation for such strategies.
 
-To successfully implement partial gap strategies, traders should use them in conjunction with a broader trading plan that includes fundamental analysis, market trends, and other technical signals. Furthermore, setting clear entry and exit criteria is crucial to manage risks effectively.
+To successfully implement partial gap strategies, traders should use them in conjunction with a broader trading plan that includes [fundamental analysis](/wiki/fundamental-analysis), market trends, and other technical signals. Furthermore, setting clear entry and exit criteria is crucial to manage risks effectively.
 
 ### End-of-Day Gap Strategies
 
@@ -258,9 +258,9 @@ Algorithmic trading strategies can capitalize on gaps in various ways. For insta
 
 **Backtesting Strategies for Effectiveness and Risk Assessment**
 
-Before implementing any algorithmic trading strategy, it’s crucial to backtest it using historical data. Backtesting involves simulating how the strategy would have performed in the past based on existing data, which can give traders an idea of its effectiveness and potential risks.
+Before implementing any [algorithmic trading](/wiki/algorithmic-trading) strategy, it’s crucial to backtest it using historical data. Backtesting involves simulating how the strategy would have performed in the past based on existing data, which can give traders an idea of its effectiveness and potential risks.
 
-For backtesting, the algorithm would run through historical price data looking for gaps and then simulate trades according to the rules of the strategy. The outcome of these simulated trades is then analyzed to assess the strategy's performance, taking into account metrics such as the win/loss ratio, drawdowns, return on investment, and Sharpe ratio.
+For [backtesting](/wiki/backtesting), the algorithm would run through historical price data looking for gaps and then simulate trades according to the rules of the strategy. The outcome of these simulated trades is then analyzed to assess the strategy's performance, taking into account metrics such as the win/loss ratio, drawdowns, return on investment, and Sharpe ratio.
 
 **Example in Python**
 
@@ -371,7 +371,7 @@ The 24-hour Forex market experiences fewer gaps than the stock market, primarily
 
 **Commodities**
 
-Gaps in commodity markets are often driven by geopolitical events, natural disasters, and changes in supply-demand dynamics. For example, crude oil might gap after an OPEC meeting or a geopolitical conflict in oil-producing regions. Weather conditions can significantly affect agricultural commodities, leading to gapping. Traders can monitor services like the U.S. Energy Information Administration or the National Weather Service for information that could lead to gaps.
+Gaps in commodity markets are often driven by geopolitical events, natural disasters, and changes in supply-demand dynamics. For example, [crude oil](/wiki/crude-oil) might gap after an OPEC meeting or a geopolitical conflict in oil-producing regions. Weather conditions can significantly affect agricultural commodities, leading to gapping. Traders can monitor services like the U.S. Energy Information Administration or the National Weather Service for information that could lead to gaps.
 
 **Indices**
 
@@ -391,7 +391,7 @@ Leverage is a powerful tool in gap trading, amplifying both potential returns an
 
 Incorporating news and earnings reports into gap trading is about predicting how these events will impact a stock's price and subsequently lead to a gap. Earnings reports can cause some of the largest gaps, as they provide a quarterly update on a company's performance relative to market expectations. Advanced traders analyze pre-release indicators such as analyst predictions, whisper numbers, and company guidance to predict both the direction and magnitude of potential gaps. These predictions are then used to place trades before the information becomes public, aiming to capitalize on the resulting gap[9].
 
-When it comes to news, real-time news aggregation services and social media sentiment analysis are valuable. Platforms such as Bloomberg Terminal and Reuters Eikon provide comprehensive news coverage that can be used to anticipate market-moving events. Additionally, alternative data sources like Twitter sentiment analysis or Google Trends have become increasingly popular for gauging public perception, which can be precursors to market gaps.
+When it comes to news, real-time news aggregation services and social media sentiment analysis are valuable. Platforms such as Bloomberg Terminal and Reuters Eikon provide comprehensive news coverage that can be used to anticipate market-moving events. Additionally, [alternative data](/wiki/best-alternative-data) sources like Twitter sentiment analysis or Google Trends have become increasingly popular for gauging public perception, which can be precursors to market gaps.
 
 Both leverage and the incorporation of news require advanced risk management techniques. One should never risk more than they are willing to lose on a single trade. Furthermore, having a deep understanding of the market's reaction to similar events in the past can provide insight into how a current event might unfold[8].
 

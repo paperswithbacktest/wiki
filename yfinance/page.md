@@ -19,7 +19,7 @@ Its introduction revolutionized the way data enthusiasts, from casual hobbyists 
 
 yfinance, colloquially known as the "Yahoo Finance market data downloader", is a Python library that serves as a powerful interface to fetch financial data from Yahoo Finance. Its functionality isn't limited to fetching historical or real-time stock data. It extends to obtaining data on options, tickers, sustainability, dividends, and much more. Designed for ease of use, yfinance ensures that even those with minimal programming knowledge can download extensive datasets with just a few lines of Python code[1].
 
-Its rise in popularity is attributable to several factors:
+Its rise in popularity is attributable to several [factor](/wiki/factor-investing)s:
 
 1. **Simplicity**: yfinance abstracts the complexities, allowing users to fetch vast amounts of data with concise commands.
 2. **Versatility**: It offers a range of data points from historical price data to dividends, from sustainability metrics to options data.
@@ -257,7 +257,7 @@ Harnessing `yfinance` for fundamental data provides an efficient way to analyze 
 
 ### Trading Data Extraction
 
-Trading data is the lifeblood for traders, giving them essential insights into market dynamics, liquidity, and the broader sentiment surrounding a security. With `yfinance`, accessing these vital metrics is straightforward.
+Trading data is the lifeblood for traders, giving them essential insights into market dynamics, [liquidity](/wiki/liquidity-risk-premium), and the broader sentiment surrounding a security. With `yfinance`, accessing these vital metrics is straightforward.
 
 **Metrics: Market Cap, Volume, and Volatility:**
 
@@ -348,7 +348,7 @@ print(puts_data.head())  # Displaying top 5 rows for brevity
 
 ![Screenshot 2023-11-15 at 20.31.56.png](images/Screenshot_2023-11-15_at_20.31.56.png)
 
-This script will print the call and put options data for the first available expiration date of the Apple stock. The data includes important metrics like strike price, last traded price, bid, ask, volume, and implied volatility.
+This script will print the call and put options data for the first available expiration date of the Apple stock. The data includes important metrics like strike price, last traded price, bid, ask, [volume](/wiki/volume-trading-strategy), and implied [volatility](/wiki/volatility-trading-strategies).
 
 Using `yfinance`, traders and analysts can dive deep into the options market, evaluating contract specifications and assessing potential opportunities[5].
 
@@ -378,13 +378,13 @@ print(institutional_holders)
 
 This script will display a table containing institutional holders of Apple stock, their holdings as a percentage of the total shares, and the total number of shares they own.
 
-For a more detailed analysis, consider combining this data with historical stock price data, news sentiment, or earnings reports. By doing so, you can ascertain the potential correlation between institutional holder movements and stock price fluctuations, enhancing your trading or investment strategy[6].
+For a more detailed analysis, consider combining this data with historical stock price data, news sentiment, or [earning](/wiki/earning-announcement)s reports. By doing so, you can ascertain the potential correlation between institutional holder movements and stock price fluctuations, enhancing your trading or investment strategy[6].
 
 ## Visualizing and Analyzing Data
 
 ### Visualization Tools
 
-Visual representation of financial data is a cornerstone for traders, investors, and analysts. While numbers and statistics can provide the details, charts offer a snapshot of market sentiment, price movements, and potential trends. Among various chart types, candlestick charts are one of the most favored in finance due to their ability to depict more information in a single graphic.
+Visual representation of financial data is a cornerstone for traders, investors, and analysts. While numbers and [statistics](/wiki/bayesian-statistics) can provide the details, charts offer a snapshot of market sentiment, price movements, and potential trends. Among various chart types, candlestick charts are one of the most favored in finance due to their ability to depict more information in a single graphic.
 
 `yfinance` seamlessly retrieves data suitable for crafting these charts. For more sophisticated visualizations, integrating it with libraries like `finplot` and `matplotlib` augments the capability manifold.
 
@@ -589,7 +589,7 @@ No, yfinance is a free-to-use library. However, remember that while the library 
 
 **Can yfinance data be integrated with other Python libraries for analysis?**
 
-Absolutely. yfinance data, typically fetched as Pandas DataFrames, can be used seamlessly with numerous Python libraries like Matplotlib, Seaborn, or even machine learning libraries for further analysis and visualization.
+Absolutely. yfinance data, typically fetched as Pandas DataFrames, can be used seamlessly with numerous Python libraries like Matplotlib, Seaborn, or even [machine learning](/wiki/machine-learning) libraries for further analysis and visualization.
 
 **How do I ensure I'm using the latest version of yfinance?**
 

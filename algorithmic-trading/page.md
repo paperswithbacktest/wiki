@@ -21,11 +21,11 @@ The journey of algorithmic trading is deeply intertwined with technological evol
 
 ![Untitled](images/Untitled%201.png)
 
-However, it was in the 1980s that algorithmic trading saw a significant leap, fueled by the integration of computers in trading floors and the adoption of electronic communication networks (ECNs), platforms allowing buyers and sellers to transact directly without intermediaries. By the 1990s, the rapid advancement of computational power and the emergence of the internet accelerated the proliferation of sophisticated algorithms. This era introduced quantitative strategies, including statistical arbitrage, which sought to leverage mathematical models to exploit market inefficiencies.
+However, it was in the 1980s that [algorithmic trading](/wiki/algorithmic-trading) saw a significant leap, fueled by the integration of computers in trading floors and the adoption of electronic communication networks (ECNs), platforms allowing buyers and sellers to transact directly without intermediaries. By the 1990s, the rapid advancement of computational power and the emergence of the internet accelerated the proliferation of sophisticated algorithms. This era introduced quantitative strategies, including statistical [arbitrage](/wiki/arbitrage), which sought to leverage mathematical models to exploit market inefficiencies.
 
-The dawn of the 21st century heralded the rise of 'Cyborg finance', a term capturing the fusion of high-speed technology with finance. Financial markets evolved into highly interconnected digital ecosystems. Algorithmic trading started harnessing machine learning and artificial intelligence, magnifying its capabilities to analyze vast data sets and execute trades at near-instantaneous speeds.
+The dawn of the 21st century heralded the rise of 'Cyborg finance', a term capturing the fusion of high-speed technology with finance. Financial markets evolved into highly interconnected digital ecosystems. Algorithmic trading started harnessing machine l[earning](/wiki/earning-announcement) and [artificial intelligence](/wiki/ai-artificial-intelligence), magnifying its capabilities to analyze vast data sets and execute trades at near-instantaneous speeds.
 
-High-frequency trading (HFT), a subset of algorithmic trading focusing on executing large numbers of orders at extremely fast speeds, burgeoned in the mid-2000s, representing a significant chunk of the market activity[2]. This phenomenon intensified the race for speed, leading firms to invest heavily in infrastructure, from fiber-optic cables laid across continents to microwave towers transmitting orders faster than traditional means.
+High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset of algorithmic trading focusing on executing large numbers of orders at extremely fast speeds, burgeoned in the mid-2000s, representing a significant chunk of the market activity[2]. This phenomenon intensified the race for speed, leading firms to invest heavily in infrastructure, from fiber-optic cables laid across continents to microwave towers transmitting orders faster than traditional means.
 
 But the trajectory of algorithmic trading hasn't been without challenges. The 2010 Flash Crash, where the Dow Jones plunged nearly 1000 points within minutes before recovering, raised concerns over the stability and unpredictability introduced by automated trading systems[3].
 
@@ -49,7 +49,7 @@ To effectively run algorithmic trading systems, specific technical prerequisites
 
 #### Software Requirements
 
-Algorithmic trading generally necessitates a software platform that supports both strategy development and trade execution. Popular platforms include MetaTrader, NinjaTrader, and QuantConnect[2]. Additionally, specialized software tools like backtesting engines and data analytics suites enable traders to test their strategies using historical data before live deployment.
+Algorithmic trading generally necessitates a software platform that supports both strategy development and trade execution. Popular platforms include MetaTrader, NinjaTrader, and QuantConnect[2]. Additionally, specialized software tools like [backtesting](/wiki/backtesting) engines and data analytics suites enable traders to test their strategies using historical data before live deployment.
 
 #### Hardware Requirements
 
@@ -59,7 +59,7 @@ High-performance computing is often essential for algorithmic trading, especiall
 
 A stable and fast internet connection is paramount. Algorithmic trading systems demand real-time data feeds, and any lag can result in missed trading opportunities or execution at non-optimal prices. For retail algorithmic traders, a broadband connection with a speed of at least 50 Mbps is generally suggested. However, institutional traders or those engaged in high-frequency trading often have direct connections to exchanges to minimize latency[8].
 
-It's worth noting that as the complexity and frequency of trades increase, so do the technical requirements. Hence, traders must continuously evaluate and upgrade their systems to stay competitive and ensure the efficacy of their trading algorithms.
+It's worth noting that as the compl[exit](/wiki/exit-strategy)y and frequency of trades increase, so do the technical requirements. Hence, traders must continuously evaluate and upgrade their systems to stay competitive and ensure the efficacy of their trading algorithms.
 
 #### System Architecture & Automated Controls
 
@@ -67,7 +67,7 @@ The system architecture and automated controls form the backbone of algorithmic 
 
 The data infrastructure is equally significant, encompassing historical and real-time market data servers. High-quality, accurate data is fundamental for strategy development, back-testing, and live trading. An algorithmic trading system’s data architecture needs to ensure seamless data ingestion, processing, and retrieval, often requiring robust databases and data cleansing tools.
 
-On the security front, measures are put in place to safeguard against unauthorized access and other cybersecurity threats. Encryption, two-factor authentication, and secure network architectures are common practices. These measures help in protecting sensitive information and ensuring that only authorized individuals can access the trading systems.
+On the security front, measures are put in place to safeguard against unauthorized access and other cybersecurity threats. Encryption, two-[factor](/wiki/factor-investing) authentication, and secure network architectures are common practices. These measures help in protecting sensitive information and ensuring that only authorized individuals can access the trading systems.
 
 Automated risk controls are embedded within the trading systems to manage and mitigate risks associated with algorithmic trading. These controls might include pre-trade risk checks, which ensure that trade orders are within predefined parameters before they are sent to the market. For instance, they could automatically block orders that exceed certain size or price thresholds, thus preventing potential errors that could result in substantial losses.
 
@@ -93,7 +93,7 @@ To sum up, the confluence of quality data, a well-crafted algorithm, and seamles
 
 #### Trend-Based
 
-Trend-based strategies are foundational in the world of algorithmic trading, operating on the basic principle that securities will often move in a particular direction (upward or downward) for an extended period. These strategies capitalize on this directional momentum.
+Trend-based strategies are foundational in the world of algorithmic trading, operating on the basic principle that securities will often move in a particular direction (upward or downward) for an extended period. These strategies capitalize on this directional [momentum](/wiki/momentum).
 
 ![Screenshot 2023-09-30 at 22.02.58.png](images/Screenshot_2023-09-30_at_22.02.58.png)
 
@@ -149,13 +149,13 @@ The integration of ML and AI into trading isn't just a passing trend; it's a tra
 
 **High-Frequency Trading (HFT)** amplifies trading speed to new levels. HFT firms use powerful computing systems to execute trades in microseconds. These strategies revolve around executing a large number of orders at extremely high speeds. Algorithms in HFT analyze multiple markets simultaneously and execute orders based on market conditions, making decisions in fractions of a second[27]. HFT can encompass various strategies, including the aforementioned market-making and scalping, but what defines it is the sheer speed and scale.
 
-While these methods offer significant advantages, such as increased market efficiency and liquidity, they also come with challenges. The immense speed of HFT, for instance, can lead to "flash crashes" where markets plummet and recover in minutes. Thus, understanding these strategies and their implications is crucial for traders, regulators, and market participants.
+While these methods offer significant advantages, such as increased market efficiency and [liquidity](/wiki/liquidity-risk-premium), they also come with challenges. The immense speed of HFT, for instance, can lead to "flash crashes" where markets plummet and recover in minutes. Thus, understanding these strategies and their implications is crucial for traders, regulators, and market participants.
 
 #### Options Trading
 
 Options are derivative financial instruments that derive their value from an underlying asset, typically stocks, indexes, or commodities. An option grants the buyer the right, but not the obligation, to buy (call option) or sell (put option) the underlying asset at a predetermined price (strike price) before or on a specified date (expiration date)[28]. Options can be used for various purposes, including hedging, speculating on future price movements, or to gain exposure to the underlying asset without actually owning it.
 
-Algorithmic strategies have been applied to options trading to automate and optimize decision-making. One such strategy is the delta-neutral strategy, wherein the trader seeks to remain indifferent to small movements in the underlying asset's price by maintaining a portfolio's delta (rate of change of option price with respect to the asset's price) close to zero[29]. Gamma scalping, on the other hand, involves adjusting the delta of an option position by buying or selling the underlying asset, intending to profit from price movements, given that the option's gamma (rate of change of delta with respect to the asset's price) is positive[30].
+Algorithmic strategies have been applied to options trading to automate and optimize decision-making. One such strategy is the delta-neutral strategy, wherein the trader seeks to remain indifferent to small movements in the underlying asset's price by maintaining a portfolio's delta (rate of change of option price with respect to the asset's price) close to zero[29]. Gamma [scalping](/wiki/gamma-scalping), on the other hand, involves adjusting the delta of an option position by buying or selling the underlying asset, intending to profit from price movements, given that the option's gamma (rate of change of delta with respect to the asset's price) is positive[30].
 
 However, algorithmic options trading isn't without risks. The complexity of options pricing models, like the Black-Scholes model, means there's potential for mispricing or model errors. Additionally, markets can behave unpredictably, causing sudden and significant losses. Slippage, or the difference between expected transaction costs and the costs actually paid, can also eat into profits. Moreover, since algorithms react to predefined conditions, a malfunction could result in large unwanted positions or unintended trades, leading to significant financial losses[31].
 
@@ -167,7 +167,7 @@ Black Swan events refer to unexpected and rare occurrences that have a massive i
 
 Dark Pools are private financial exchanges that allow institutional investors to trade without revealing their orders to the public market until after the trade is executed. This opacity is designed to help institutional investors avoid moving the market with large orders. Algorithmic strategies in dark pools might involve seeking liquidity, minimizing market impact, or even sentiment analysis. However, it's worth noting that trading in dark pools lacks the transparency seen in public exchanges[33].
 
-The Risk-On/Risk-Off (RORO) strategy is centered on market sentiment. In a "risk-on" environment, traders and investors are more willing to take on risk, typically moving towards equities and high-yield currencies. In a "risk-off" scenario, there's a tendency to move towards safe-haven assets like gold, the U.S. dollar, or government bonds. Algorithmic strategies here may involve monitoring news feeds, analyzing market volatility, or assessing economic indicators to gauge the current sentiment and adjust portfolios accordingly[34].
+The Risk-On/Risk-Off (RORO) strategy is centered on market sentiment. In a "risk-on" environment, traders and investors are more willing to take on risk, typically moving towards equities and high-yield currencies. In a "risk-off" scenario, there's a tendency to move towards safe-haven assets like gold, the U.S. dollar, or government bonds. Algorithmic strategies here may involve monitoring news feeds, analyzing market [volatility](/wiki/volatility-trading-strategies), or assessing economic indicators to gauge the current sentiment and adjust portfolios accordingly[34].
 
 Adopting unconventional strategies can provide unique advantages in the trading world, but it's crucial to be aware of their intricacies and potential pitfalls.
 
@@ -175,7 +175,7 @@ Adopting unconventional strategies can provide unique advantages in the trading 
 
 High-Frequency Trading (HFT) represents a subset of algorithmic trading where orders are executed in milliseconds or even microseconds. It’s characterized by a vast number of orders executed in extremely short time frames. These trades are facilitated by high-speed communication lines and advanced algorithms, optimizing for the minutest of price discrepancies[2].
 
-One of the primary strategies in HFT is market making. Market makers facilitate trading by providing liquidity, buying, and selling securities throughout the trading day. HFT market makers aim to capitalize on the bid-ask spread repeatedly at high speeds[36].
+One of the primary strategies in HFT is [market making](/wiki/market-making). Market makers facilitate trading by providing liquidity, buying, and selling securities throughout the trading day. HFT market makers aim to capitalize on the bid-ask spread repeatedly at high speeds[36].
 
 Statistical arbitrage involves making trading decisions based on statistical analysis, often involving hundreds or even thousands of securities. The strategy typically revolves around price discrepancies between correlated securities[37].
 
@@ -251,7 +251,7 @@ In conclusion, while the road ahead for algorithmic trading promises unmatched o
 
 Stepping into the realm of algorithmic trading requires dedication, curiosity, and the right resources. Thankfully, for those looking to deep dive deep, there's no shortage of learning avenues.
 
-For beginners and professionals alike, a range of online platforms offer courses on algorithmic trading. Renowned institutions like MIT, Harvard, and Stanford have partnered with platforms such as Coursera and edX, providing comprehensive courses on the subject[62]. Additionally, specialized platforms like QuantInsti and Udemy offer dedicated programs on algorithmic and quantitative trading, ranging from basics to advanced strategy formulation.
+For beginners and professionals alike, a range of online platforms offer [course](/wiki/best-algorithmic-trading-courses)s on algorithmic trading. Renowned institutions like MIT, Harvard, and Stanford have partnered with platforms such as Coursera and edX, providing comprehensive courses on the subject[62]. Additionally, specialized platforms like QuantInsti and Udemy offer dedicated programs on algorithmic and [quantitative trading](/wiki/quantitative-trading), ranging from basics to advanced strategy formulation.
 
 Certifications, too, have grown in prominence. The Chartered Market Technician (CMT) and Certificate in Quantitative Finance (CQF) are noteworthy credentials for individuals aiming to solidify their standing in the world of algorithmic trading[63]. While the former focuses on technical analysis, the latter delves into the quantitative aspect, underpinning many algorithmic strategies.
 

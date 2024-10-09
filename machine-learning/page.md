@@ -19,9 +19,9 @@ ML in trading isn’t just a tool; it’s gradually becoming an essential compan
 
 Traditional trading methodologies often rely on static models based on historical data. In contrast, ML models dynamically adjust themselves by deciphering patterns and anomalies in real-time[4]. This continuous learning enables trading strategies to remain relevant even as market conditions evolve, ensuring traders can adapt to new data streams and changing market behaviors swiftly.
 
-One monumental illustration of ML's transformative influence in trading is in the realm of high-frequency trading (HFT). HFT firms, which execute thousands of trades in mere seconds, have leveraged ML to predict minuscule price changes in the equity markets. By analyzing vast datasets and predicting minor market movements, these firms gain a significant edge. For instance, the renowned HFT firm, KCG Holdings, employed sophisticated ML algorithms to optimize their high-frequency trading strategies, enabling them to anticipate order flows and price changes more accurately[5].
+One monumental illustration of ML's transformative influence in trading is in the realm of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)). HFT firms, which execute thousands of trades in mere seconds, have leveraged ML to predict minuscule price changes in the equity markets. By analyzing vast datasets and predicting minor market movements, these firms gain a significant edge. For instance, the renowned HFT firm, KCG Holdings, employed sophisticated ML algorithms to optimize their high-frequency trading strategies, enabling them to anticipate order flows and price changes more accurately[5].
 
-Another groundbreaking application of ML in trading can be witnessed in the prediction of bond prices. Traditionally, predicting bond prices was a Herculean task due to the myriad of factors influencing them, such as interest rates, economic policies, and global events. But firms like BlackRock have employed ML models that sift through vast datasets—including unconventional ones like satellite images of shopping center footfalls—to predict bond price movements with unprecedented accuracy[6].
+Another groundbreaking application of ML in trading can be witnessed in the prediction of bond prices. Traditionally, predicting bond prices was a Herculean task due to the myriad of [factor](/wiki/factor-investing)s influencing them, such as [interest rate](/wiki/interest-rate-trading-strategies)s, economic policies, and global events. But firms like BlackRock have employed ML models that sift through vast datasets—including unconventional ones like satellite images of shopping center footfalls—to predict bond price movements with unprecedented accuracy[6].
 
 Furthermore, the world of commodities trading, often influenced by external factors like weather patterns and geopolitical events, has also been revolutionized by ML. Companies have started utilizing ML to predict fluctuations in commodities prices. For instance, energy firms are now using ML to forecast weather patterns, which in turn can significantly affect energy prices, especially in the renewables sector[7].
 
@@ -29,11 +29,11 @@ The aforementioned scenarios are merely a fraction of the revolutionary converge
 
 ## The Foundation of Machine Learning in Trading
 
-Machine Learning's prowess in trading is deeply rooted in its ability to harness, process, and learn from vast arrays of data. The fulcrum upon which ML operates is data, and the quality and diversity of this data play a pivotal role in determining the effectiveness of any trading strategy.
+Machine L[earning](/wiki/earning-announcement)'s prowess in trading is deeply rooted in its ability to harness, process, and learn from vast arrays of data. The fulcrum upon which ML operates is data, and the quality and diversity of this data play a pivotal role in determining the effectiveness of any trading strategy.
 
 **Data Acquisition and Processing in Trading:**
 
-Data forms the bedrock of machine learning. In the trading milieu, the acquisition process ranges from tapping into conventional sources like stock exchanges to harnessing alternative data such as satellite imagery. Once procured, the data undergoes a rigorous cleansing process to handle missing values, outliers, and possible inconsistencies. Such refined data is then subjected to normalization or standardization to ensure that the ML models treat all features equitably.
+Data forms the bedrock of [machine learning](/wiki/machine-learning). In the trading milieu, the acquisition process ranges from tapping into conventional sources like stock exchanges to harnessing [alternative data](/wiki/best-alternative-data) such as satellite imagery. Once procured, the data undergoes a rigorous cleansing process to handle missing values, outliers, and possible inconsistencies. Such refined data is then subjected to normalization or standardization to ensure that the ML models treat all features equitably.
 
 **Types of Data:**
 
@@ -44,7 +44,7 @@ Data forms the bedrock of machine learning. In the trading milieu, the acquisiti
 
 **Feature Engineering in Trading:**
 
-Transforming raw data into a format that is conducive for ML models is termed as feature engineering. In trading, this could mean creating new variables like moving averages, momentum scores, or even sentiment indices from news articles. By crafting these predictive variables, traders can harness more intricate relationships within the data, thereby enhancing the model's predictive power.
+Transforming raw data into a format that is conducive for ML models is termed as feature engineering. In trading, this could mean creating new variables like moving averages, [momentum](/wiki/momentum) scores, or even sentiment indices from news articles. By crafting these predictive variables, traders can harness more intricate relationships within the data, thereby enhancing the model's predictive power.
 
 **Ensuring Robustness in Financial Models:**
 
@@ -66,7 +66,7 @@ Various algorithms, each with their strengths and applications, play crucial rol
 
 The selection of a suitable algorithm hinges on the **trading strategy** and the type and nature of the data at hand. Linear models might be preferred for their simplicity and interpretability in scenarios where data exhibits a linear trend.
 
-In contrast, complex models like neural networks might be favored when dealing with vast and unstructured data, despite their black-box nature.
+In contrast, complex models like [neural network](/wiki/neural-network)s might be favored when dealing with vast and unstructured data, despite their black-box nature.
 
 ![Comparing the machine learning models.png](images/Comparing_the_machine_learning_models.png)
 
@@ -112,7 +112,7 @@ The integration of machine learning into trading introduces numerous ethical cha
 
 ![Ethics & regulations.png](images/Ethics__regulations.png)
 
-As ML-driven trading becomes more prevalent, regulatory bodies worldwide are stepping in to ensure a level playing field. The U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA), for instance, have both implemented measures to oversee algorithmic trading[18]. The European Securities and Markets Authority (ESMA) has set guidelines under MiFID II, which mandates firms to have effective systems and risk controls in place for algorithm-driven trading activities[19].
+As ML-driven trading becomes more prevalent, regulatory bodies worldwide are stepping in to ensure a level playing field. The U.S. Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA), for instance, have both implemented measures to oversee [algorithmic trading](/wiki/algorithmic-trading)[18]. The European Securities and Markets Authority (ESMA) has set guidelines under MiFID II, which mandates firms to have effective systems and risk controls in place for algorithm-driven trading activities[19].
 
 To ensure fairness and transparency in ML-driven trading, there's an increasing call for **"explainable AI"** or **XAI**. This entails developing ML models that, while sophisticated, can still be understood and interpreted by human experts. With such models, the reasoning behind trading decisions can be unpacked and examined, adding an extra layer of accountability.
 
@@ -130,11 +130,11 @@ In essence, as the financial landscape becomes more intertwined with technology,
 
 **JPMorgan Chase**, a name synonymous with financial expertise, elevated their trading strategy by leveraging machine learning through LOXM, an execution algorithm that utilizes deep reinforcement learning[21]. LOXM was designed to execute client orders with maximum speed at the best price, processing massive datasets and real-time market data to make optimal trading decisions. While traditional trading algorithms might follow preset rules, LOXM learns from the market, adjusting its strategies dynamically, showcasing ML’s prowess in enhancing decision-making in a volatile trading environment.
 
-Meanwhile, **Bridgewater Associates**, the world’s largest hedge fund, employs machine learning to decipher patterns in economic data, gaining insights that inform its trading strategies[22]. Its algorithms sift through vast economic datasets, identifying patterns and trends that would be impossible for a human to discern. ML helps Bridgewater in determining macroeconomic strategies, which could involve trading different types of assets, such as currencies, equities, and bonds, based on macroeconomic trends and shifts.
+Meanwhile, **Bridgewater Associates**, the world’s largest [hedge fund](/wiki/hedge-fund-trading-strategies), employs machine learning to decipher patterns in economic data, gaining insights that inform its trading strategies[22]. Its algorithms sift through vast economic datasets, identifying patterns and trends that would be impossible for a human to discern. ML helps Bridgewater in determining macroeconomic strategies, which could involve trading different types of assets, such as currencies, equities, and bonds, based on macroeconomic trends and shifts.
 
 The realm of ML-driven trading is not devoid of pitfalls. The catastrophic failure of **Knight Capital** in 2012 offers a stark warning to those who entrust machines with unchecked power[23]. A glitch in its trading algorithm caused Knight Capital to lose $440 million in just 45 minutes, almost leading to the firm’s bankruptcy. Here, the failure wasn’t in the algorithm’s strategic decision-making but a technical error that, when combined with high-frequency trades, amplified the damage exponentially. This instance underscores the critical importance of thorough testing and robust fail-safes in ML applications within trading environments.
 
-In another example, the quantitative hedge fund **Quantitative Investment Management (QIM)** suffered significant losses during the stock market upheaval of February 2018[24]. Their algorithm, which was trained on historical data, was ill-prepared for the sudden spike in volatility, leading to substantial financial losses. This draws attention to the challenge of overfitting in machine learning models and the risk posed by black swan events, which are rare and therefore often not adequately represented in training data.
+In another example, the quantitative hedge fund **Quantitative Investment Management (QIM)** suffered significant losses during the stock market upheaval of February 2018[24]. Their algorithm, which was trained on historical data, was ill-prepared for the sudden spike in [volatility](/wiki/volatility-trading-strategies), leading to substantial financial losses. This draws attention to the challenge of overfitting in machine learning models and the risk posed by black swan events, which are rare and therefore often not adequately represented in training data.
 
 These case studies amplify not only the transformative potential of ML in trading but also cautionary tales signaling the critical need for extensive testing, ethical use, and robustness in developing ML-driven trading algorithms.
 
@@ -282,7 +282,7 @@ Frequently used ML algorithms in trading include Linear Regression, Decision Tre
 
 **Q4: How to Start Implementing Machine Learning in Trading?**
 
-Beginners can start implementing ML in trading by acquiring foundational knowledge in finance, trading, machine learning, and programming languages like Python or R. Utilizing online platforms, tutorials, and courses that offer practical implementations and theoretical knowledge will aid in kickstarting your journey in ML trading.
+Beginners can start implementing ML in trading by acquiring foundational knowledge in finance, trading, machine learning, and programming languages like Python or R. Utilizing online platforms, tutorials, and [course](/wiki/best-algorithmic-trading-courses)s that offer practical implementations and theoretical knowledge will aid in kickstarting your journey in ML trading.
 
 **Q5: How does Sentiment Analysis using NLP Benefit Trading Strategies?**
 

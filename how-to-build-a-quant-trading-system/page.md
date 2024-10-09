@@ -64,4 +64,4 @@ Building a quantitative trading system requires a combination of knowledge in fi
 
 ## Conclusion
 
-Building a quantitative trading system requires a rigorous approach and constant questioning. The key lies in the combination of solid research, strict risk management, and a willingness to learn and adapt continuously. By following these steps, you'll maximize your chances of success in the complex world of quantitative trading.
+Building a [quantitative trading](/wiki/quantitative-trading) system requires a rigorous approach and constant questioning. The key lies in the combination of solid research, strict risk management, and a willingness to learn and adapt continuously. By following these steps, you'll maximize your chances of success in the complex world of quantitative trading.

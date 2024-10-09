@@ -37,9 +37,9 @@ Several organizations, like AQR Capital Management and Kensho Technologies, util
 
 ### Algorithmic Trading and LLMs
 
-High-Frequency Trading (HFT), a subset of algorithmic trading, operates within minimal timeframes, often milliseconds, aiming to leverage tiny price discrepancies by executing trades at an extremely rapid pace. LLMs, when integrated with HFT, can analyze, interpret, and predict short-term market movements, deciphering textual data like news flashes, tweets, or financial reports, and instantaneously feeding this insight into trading algorithms.
+High-Frequency Trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset of [algorithmic trading](/wiki/algorithmic-trading), operates within minimal timeframes, often milliseconds, aiming to leverage tiny price discrepancies by executing trades at an extremely rapid pace. LLMs, when integrated with HFT, can analyze, interpret, and predict short-term market movements, deciphering textual data like news flashes, tweets, or financial reports, and instantaneously feeding this insight into trading algorithms.
 
-A study published in arXiv explored how transformer-based models, a category to which LLMs belong, can be utilized in predicting mid-price movements, providing a scientific foundation to the conceptual applicability of LLMs in algorithmic trading ([Zhang et. al, 2022](https://arxiv.org/abs/2211.08025)). Another exploration by [Zohren et. al, 2020](https://arxiv.org/abs/2108.09254) detailed how various machine learning models, indicative of the kind of architectures LLMs are based upon, demonstrated aptitude in predicting stock price movements, underscoring the potential viability of LLMs in a real-world trading context.
+A study published in arXiv explored how transformer-based models, a category to which LLMs belong, can be utilized in predicting mid-price movements, providing a scientific foundation to the conceptual applicability of LLMs in algorithmic trading ([Zhang et. al, 2022](https://arxiv.org/abs/2211.08025)). Another exploration by [Zohren et. al, 2020](https://arxiv.org/abs/2108.09254) detailed how various machine l[earning](/wiki/earning-announcement) models, indicative of the kind of architectures LLMs are based upon, demonstrated aptitude in predicting stock price movements, underscoring the potential viability of LLMs in a real-world trading context.
 
 ## Overcoming Challenges and Mitigating Risks
 
@@ -57,7 +57,7 @@ Yet, the realization of Artificial General Intelligence (AGI) in finance seems l
 
 Ensuring that the development and deployment of financial LLMs, and eventually AGI, ensue ethically and equitably is paramount. The onus lies on technologists, policymakers, and financial experts to forge pathways that ensure the inclusivity of diverse demographics in benefiting from this technological marvel. It entails formulating frameworks that guarantee transparency, accountability, and understanding in how LLMs and AGIs operate and make decisions, especially in a domain as impactful and crucial as finance.
 
-Bridging the gap between the technological advancements in LLMs and AGI and the practical, ethical deployment in the finance sector is the next frontier. The synergistic melding of expertise from artificial intelligence, financial analytics, ethics, and policy-making will be instrumental in crafting a future where financial LLMs and AGI not only revolutionize the financial industry but also serve as exemplars of ethical, equitable, and inclusive technological advancement.
+Bridging the gap between the technological advancements in LLMs and AGI and the practical, ethical deployment in the finance sector is the next frontier. The synergistic melding of expertise from [artificial intelligence](/wiki/ai-artificial-intelligence), financial analytics, ethics, and policy-making will be instrumental in crafting a future where financial LLMs and AGI not only revolutionize the financial industry but also serve as exemplars of ethical, equitable, and inclusive technological advancement.
 
 ## Conclusion
 

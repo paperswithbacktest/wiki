@@ -61,7 +61,7 @@ The Variance-Covariance approach is one of the most commonly used methods to est
 
 **Conceptual Understanding:**
 
-At its core, the Variance-Covariance method calculates VaR by assessing the volatility of a portfolio. It relies on two primary statistical measures: the average return (mean) and the standard deviation (volatility) of that return. For a single asset, the VaR is typically estimated by finding the z-value corresponding to a specified confidence level in a standard normal distribution and then applying it to the asset's mean return and standard deviation.
+At its core, the Variance-Covariance method calculates VaR by assessing the [volatility](/wiki/volatility-trading-strategies) of a portfolio. It relies on two primary statistical measures: the average return (mean) and the standard deviation (volatility) of that return. For a single asset, the VaR is typically estimated by finding the z-value corresponding to a specified confidence level in a standard normal distribution and then applying it to the asset's mean return and standard deviation.
 
 For portfolios with multiple assets, the method becomes slightly more intricate as it also considers the covariance between assets, which measures how two assets’ returns move in relation to each other.
 
@@ -114,9 +114,9 @@ portfolio_var_95 = portfolio_mean - norm.ppf(1-alpha) * portfolio_std
 print(f"95% Portfolio VaR: {portfolio_var_95:.2f}")
 ```
 
-This approach can be extended to portfolios with more assets, but it's vital to consider the covariance matrix's size and complexity as the number of assets grows.
+This approach can be extended to portfolios with more assets, but it's vital to consider the covariance matrix's size and compl[exit](/wiki/exit-strategy)y as the number of assets grows.
 
-In practice, financial institutions often employ the Variance-Covariance method due to its mathematical elegance and relative simplicity, [especially when historical data might not be extensive or reliable](https://blog.paperswithbacktest.com/p/how-to-collect-data-for-backtesting).
+In practice, financial institutions often employ the Variance-Covariance method due to its mathematical elegance and relative simplicity, [especially when historical data might not be extensive or reliable](https://blog.paperswithbacktest.com/p/how-to-collect-data-for-[backtesting](/wiki/backtesting)).
 
 ### Historical Simulation Method
 
@@ -229,7 +229,7 @@ While this is a basic illustration, more sophisticated methods can be used to de
 
 ### Monte Carlo Simulation in VaR
 
-Monte Carlo Simulation (MCS) is a computational method that allows risk analysts to model the probability of different outcomes in a process that cannot be easily predicted due to the intervention of random variables[8]. MCS is highly versatile and is used in various fields, from physics to finance, and of course, in the estimation of Value at Risk.
+Monte Carlo Simulation (MCS) is a computational method that allows risk analysts to model the probability of different outcomes in a process that cannot be easily predicted due to the intervention of random variables[8]. MCS is highly versatile and is used in various fields, from physics to finance, and of [course](/wiki/best-algorithmic-trading-courses), in the estimation of Value at Risk.
 
 When applied to VaR estimation, Monte Carlo methods involve generating a large number of random price paths for financial instruments and then determining an instrument's maximum potential loss over the desired holding period at a given confidence level. It does this by repeatedly drawing random samples from the distribution of returns.
 
@@ -277,7 +277,7 @@ print(f"95% VaR (Monte Carlo): {-var_95*initial_price:.2f}")
 
 In this example, we simulate the price paths of our hypothetical stock 10,000 times using a normal distribution. We then determine the 5th percentile of the losses, representing the 1-day 95% VaR.
 
-Keep in mind, this is a simple illustration. In practice, MCS for VaR would likely involve more factors, especially for multifactor models or complex financial instruments.
+Keep in mind, this is a simple illustration. In practice, MCS for VaR would likely involve more [factor](/wiki/factor-investing)s, especially for multifactor models or complex financial instruments.
 
 ### VaR for Multi-Asset Portfolios
 
@@ -419,7 +419,7 @@ One of the most cited early successes of VaR is its implementation by J.P. Morga
 
 **The Long-Term Capital Management (LTCM) Crisis**:
 
-Conversely, the LTCM crisis in 1998 served as a cautionary tale about the limitations of VaR. LTCM, a major hedge fund managed by two Nobel laureates, had built complex models, heavily relying on VaR, to manage its portfolio risks. However, during the Russian financial crisis, the actual losses exceeded the predicted VaR by significant magnitudes, leading to a bailout to prevent a broader financial meltdown[10]. This event underscored the importance of understanding VaR's assumptions and its limitations, particularly during extreme market events.
+Conversely, the LTCM crisis in 1998 served as a cautionary tale about the limitations of VaR. LTCM, a major [hedge fund](/wiki/hedge-fund-trading-strategies) managed by two Nobel laureates, had built complex models, heavily relying on VaR, to manage its portfolio risks. However, during the Russian financial crisis, the actual losses exceeded the predicted VaR by significant magnitudes, leading to a bailout to prevent a broader financial meltdown[10]. This event underscored the importance of understanding VaR's assumptions and its limitations, particularly during extreme market events.
 
 **The 2008 Financial Crisis**:
 
