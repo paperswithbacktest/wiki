@@ -7,6 +7,8 @@ description: Learn about the intricacies of hedge fund capital raising, from cre
 
 Raising capital is a fundamental aspect for hedge funds, representing a critical step in their establishment and growth within the financial market. In essence, capital raising for hedge funds involves accumulating assets under management (AUM) from various investors. This capital is then employed in diverse investment strategies, aimed at achieving returns that are not typically correlated with broader market indices.
 
+![1](images/1.png)
+
 The significance of capital raising in hedge funds cannot be overstated. It's not just about having the funds to invest; it's about creating a stable base from which the fund can operate, innovate, and grow. The amount of capital a hedge fund manages often serves as a barometer of its success and viability in a highly competitive market. This success, in turn, attracts more investors, creating a cycle of growth and expansion.
 
 Moreover, the process of capital raising is tightly intertwined with the reputation and perceived performance of the hedge fund. Investors, whether institutional or individual, are drawn to funds that demonstrate a robust track record, sound risk management practices, and clear, compelling investment strategies.

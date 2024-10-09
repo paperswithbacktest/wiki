@@ -9,6 +9,8 @@ Gamma scalping is a sophisticated options trading strategy that harnesses the po
 
 Traders often turn to gamma scalping when they expect large price swings but are uncertain of the direction. By adjusting their positions to remain delta-neutral, traders can profit from the intrinsic value changes in their options as the underlying security's price moves. This is the crux of gamma scalping—balancing and re-balancing to exploit volatility.
 
+![1](images/1.png)
+
 The essence of this technique lies in its dynamic nature; it's about being agile and responsive to market movements. As the underlying stock fluctuates, options with a high gamma will see a more significant change in delta, enabling savvy traders to scalp small profits that, over time, can add up significantly. It's a strategy that requires a deep understanding of market mechanics, constant attention, and the ability to make swift decisions. For those who master it, gamma scalping can be a powerful tool in the trader's arsenal.
 
 ## Table of Contents

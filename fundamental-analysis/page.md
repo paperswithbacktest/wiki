@@ -9,6 +9,8 @@ Fundamental analysis is a crucial method in trading that involves assessing a co
 
 Traditional fundamental trading, as historically practiced, entailed a manual review of financial data and economic indicators to make investment decisions. Traders and analysts spent considerable time analyzing earnings reports, balance sheets, and broader economic trends to forecast future market conditions. This approach, while comprehensive, often lacked speed and efficiency due to the sheer volume of available data and the time required for thorough analysis.
 
+![1](images/1.png)
+
 With the rise of algorithmic trading, integrating fundamental analysis into algo trading has become increasingly feasible and advantageous. Algorithmic trading uses computational algorithms to execute trades at speeds and frequencies that are imperceptible to human traders. By embedding fundamental analysis into these algorithms, traders can automate the process of analyzing key financial metrics and macroeconomic indicators, thereby bridging the gap between comprehensive data analysis and high-frequency trading. This integration allows traders to capitalize on both the depth of fundamental data and the efficiency of automated trading systems.
 
 Incorporating fundamental analysis into algo trading involves transforming qualitative data into machine-readable formats, allowing algorithms to process vast datasets swiftly and recognize trading opportunities that align with fundamental criteria. This fusion of traditional valuation methods with advanced trading technology has the potential to enhance decision-making accuracy while mitigating human biases and error, positioning traders to better navigate complex financial markets.

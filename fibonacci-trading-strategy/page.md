@@ -7,6 +7,8 @@ description: The Fibonacci sequence, rooted in mathematics, has far-reaching app
 
 The Fibonacci sequence, a series of numbers where each number is the sum of the two preceding ones, often starting with 0 and 1, is not just a mathematical curiosity but a phenomenon with widespread implications in nature, art, architecture, and, quite intriguingly, in financial markets. Originating from the works of the medieval Italian mathematician Leonardo of Pisa, known as Fibonacci, this sequence has been identified in the arrangement of leaves on a stem, the branching of trees, the flowering of an artichoke, and the shells of snails, epitomizing a harmonious pattern that resonates with the human psyche.
 
+![1](images/1.png)
+
 In the realm of trading, Fibonacci numbers are transmuted into ratios, and these ratios—primarily 23.6%, 38.2%, 50%, 61.8%, and 100%—are esteemed for their predictive value in technical analysis. Traders apply these ratios to identify potential reversal levels on stock charts. The philosophy behind this application is that after a significant price movement, either up or down, new support and resistance levels are often at or near these Fibonacci levels. The practical manifestation of these principles is evident in tools like Fibonacci retracements, where horizontal lines are drawn on a chart to indicate where support and resistance are likely to occur, based on the Fibonacci levels.
 
 ## Table of Contents

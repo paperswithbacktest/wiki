@@ -9,6 +9,8 @@ Trading, as an ancient practice, has continually evolved in response to technolo
 
 HFT is a type of algorithmic trading characterized by high-speed trade execution, where positions are typically held for extremely short durations - from milliseconds to mere seconds. This approach hinges on executing large numbers of orders at fractions of a second, leveraging small price inefficiencies that can only be exploited via the use of high-speed computers and ultra-low-latency networks[1].
 
+![1](images/1.png)
+
 The evolution from human-driven floor trading to algorithm-dominated digital platforms wasn't overnight. Key technological milestones, such as the transition to electronic trading in the late 20th century and the proliferation of broadband internet, laid the groundwork for sophisticated algorithmic strategies. As electronic exchanges became mainstream, the physical limitations of floor trading were replaced by the virtual boundaries of computing power and internet speeds. This shift paved the way for the race towards faster executions, giving birth to HFT.
 
 Today, HFT accounts for a substantial proportion of equity trades in major markets worldwide. It stands as a testament to how technology, when merged with financial innovation, can redefine age-old practices, presenting both opportunities and challenges for global financial markets.

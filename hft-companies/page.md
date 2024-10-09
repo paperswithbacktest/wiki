@@ -9,6 +9,8 @@ The world of trading has undergone transformative evolutions over the past few d
 
 High-Frequency Trading, as the name suggests, involves executing a large number of orders at extremely high speeds, often leveraging state-of-the-art technology and sophisticated algorithms. The ascent of HFT can be traced back to the deregulation of trading commissions in the 1970s, which ignited fierce competition among brokerages. By the 1980s, electronic trading platforms began to surface, creating an environment ripe for tech-driven strategies. The final piece in the HFT puzzle was the introduction of decimal pricing in stocks at the turn of the 21st century, which drastically reduced bid-ask spreads and made ultra-short-term trading strategies more viable.
 
+![1](images/1.png)
+
 But it's not just technology that birthed HFT; it was a confluence of regulatory changes, market dynamics, and the insatiable quest for alpha. As traditional market-making responsibilities of floor traders diminished, HFT firms quickly filled the void, providing liquidity, reducing spreads, and contributing to the efficiency of the market. Their rapid rise, however, hasn't been without contention. For some, HFT firms represent the epitome of innovation in trading, while for others, they've been a source of market disruptions and unfair advantages.
 
 Nevertheless, the prominence of HFT companies in today's trading landscape is undeniable. Representing a significant portion of daily trading volume in many major markets, these firms are at the forefront of blending finance with cutting-edge technology, reshaping the trading landscape as we know it.

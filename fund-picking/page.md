@@ -9,6 +9,8 @@ In recent years, many investors have turned to algorithmic trading and fund sele
 
 Combining the analytical power of algorithmic trading with effective Fund Picking strategies provides investors with a foundational approach to navigate complex financial markets. Algorithmic tools help in the analysis of past performance data, risk metrics, and market trends, allowing investors to make informed choices about their fund selections. Such systematic techniques can aid in assessing fund performance potential, forecasting risk-adjusted returns, and creating a more resilient investment strategy.
 
+![1](images/1.png)
+
 Furthermore, the just-in-time analysis offered by algorithmic tools allows for ongoing optimization and adaptation of investment strategies. This dynamic method translates into potential opportunities for better returns and reduced exposure to risk. By gaining insights into the nuances of fund selection and employing algorithmic technologies, investors not only aim to enhance their portfolio performance but also aspire to achieve a balanced and diversified investment approach in an ever-evolving market landscape.
 
 
