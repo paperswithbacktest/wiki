@@ -155,3 +155,9 @@ Strategic solutions, including the implementation of multi-carrier shipping stra
 In conclusion, a well-optimized order routing system not only reduces costs and enhances customer satisfaction but also provides a competitive edge in a rapidly evolving market. Businesses that invest in technology, account for key factors, and apply strategic methodologies position themselves for sustained success and operational excellence.
 
 
+
+
+## References & Further Reading
+
+[1]: Kearns, M., & Nevmyvaka, Y. (2013). ["Machine Learning for Market Microstructure and High-Frequency Trading."](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf) Handbook of Financial Data and Risk Information.
+

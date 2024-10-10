@@ -143,3 +143,20 @@ Looking forward, the convergence of reinforcement learning with other AI advance
 In summary, reinforcement learning stands as a cornerstone in the future landscape of algorithmic trading, driving towards smarter, more adaptive, and efficient market strategies. As technological and analytical capabilities evolve, the symbiosis of reinforcement learning with traditional trading practices heralds a new era of innovation, marked by greater precision and performance in financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Mnih, V., Kavukcuoglu, K., Silver, D., et al. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature.
+
+[2]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://mitpress.mit.edu/9780262039246/reinforcement-learning-second-edition/) MIT Press.
+
+[3]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado.
+
+[4]: Lillicrap, T. P., et al. (2016). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.
+
+[5]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen.
+
+[6]: Silver, D., et al. (2014). ["Deterministic policy gradient algorithms."](https://proceedings.mlr.press/v32/silver14.html) In Proceedings of the 31st International Conference on Machine Learning (ICML-14).
+
+[7]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan.

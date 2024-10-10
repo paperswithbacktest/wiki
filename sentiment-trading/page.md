@@ -152,3 +152,14 @@ Despite these limitations, sentiment trading is a valuable tool for traders seek
 For investors looking to refine their trading approaches, incorporating sentiment analysis into their broader investment strategy can be highly beneficial. It offers a unique perspective that, when combined with other data-driven techniques, can lead to more informed and balanced investment decisions. Embracing sentiment trading is not only about capitalizing on current trends but also about preparing for the future of trading, where data is becoming increasingly multifaceted and complex.
 
 
+
+
+## References & Further Reading
+
+[1]: [Tetlock, P. C. (2007). "Giving Content to Investor Sentiment: The Role of Media in the Stock Market."](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2007.01232.x) The Quarterly Journal of Economics, 122(3), 1138-1168.
+
+[2]: Loughran, T., & McDonald, B. (2011). ["When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10‐Ks."](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2010.01625.x) The Journal of Finance, 66(1), 35-65.
+
+[3]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[4]: ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-systematic/dp/1789346410) by Stefan Jansen

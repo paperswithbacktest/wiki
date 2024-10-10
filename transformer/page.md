@@ -96,3 +96,16 @@ Staying informed about technological advancements is essential for traders and f
 Exploring and adopting transformer models can lead to significant improvements in trading strategies. The financial markets, characterized by rapid changes and high complexity, require innovative approaches for effective decision-making. By harnessing the power of transformers, traders can achieve a more nuanced understanding of market dynamics, ultimately leading to better performance and profitability. This proactive approach to adopting new technologies can position market participants to thrive in an increasingly competitive environment.
 
 
+
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) In Advances in Neural Information Processing Systems.
+
+[2]: ["Transformers for Natural Language Processing: Build innovative deep neural network architectures for NLP with Python, PyTorch, TensorFlow, BERT, RoBERTa, and more"](https://www.amazon.fr/Transformers-Natural-Language-Processing-architectures/dp/1800565798) by Denis Rothman
+
+[4]: Dunis, C., Middleton, P. W., Karathanasopolous, A., & Theofilatos, K. (2016). ["Artificial Intelligence in Financial Markets: Cutting Edge Applications for Risk Management, Portfolio Optimization and Economics."](https://link.springer.com/book/10.1057/978-1-137-48880-0) Wiley.
+
+[5]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[6]: ["Machine Learning for Algorithmic Trading – Second Edition"](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715) by Stefan Jansen

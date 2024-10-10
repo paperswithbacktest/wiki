@@ -102,3 +102,20 @@ Market makers need to set bid and ask quotes for stocks while balancing their po
 ## Conclusion
 
 The collection of papers presented here encapsulates a wealth of knowledge and expertise in the field of financial market analysis. Each paper, with its unique focus and approach, contributes to a broader understanding of how financial markets operate and how various strategies and models can be employed to navigate these markets effectively. From exploring the statistical properties of asset returns to developing optimal trading strategies, these papers offer invaluable insights into the compl[exit](/wiki/exit-strategy)ies of market dynamics. Whether for academic research, professional development, or personal interest, delving into these works provides a deeper appreciation of the mathematical and empirical frameworks that underpin modern financial markets, equipping readers with the knowledge to approach these challenging and ever-evolving environments with confidence and expertise.
+
+
+## References & Further Reading
+
+[1]: Cont, R. (2001). ["Empirical properties of asset returns: stylized facts and statistical issues."](http://rama.cont.perso.math.cnrs.fr/pdf/empirical.pdf) The Journal of Finance, 55(2), 679-720.
+
+[2]: Cont, R., Stoikov, S., & Talreja, R. (2010). ["A Stochastic Model for Order Book Dynamics."](http://rama.cont.perso.math.cnrs.fr/pdf/CST2010.pdf) Operations Research, 58(3), 549-563.
+
+[3]: Almgren, R., & Chriss, N. (2000). ["Optimal Execution of Portfolio Transactions."](https://www.smallake.kr/wp-content/uploads/2016/03/optliq.pdf) The Journal of Risk, 3(2), 5-39.
+
+[4]: Bouchaud, J.-P., Farmer, J. D., & Lillo, F. (2008). ["How markets slowly digest changes in supply and demand."](https://arxiv.org/pdf/0809.0822) 
+
+[5]: Gatheral, J. (2008). ["No-Dynamic-Arbitrage and Market Impact."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1292353) Quantitative Finance, 10(7), 749-759.
+
+[6]: Avellaneda, M., & Stoikov, S. (2008). ["High-frequency trading in a limit order book."](https://math.nyu.edu/~avellane/HighFrequencyTrading.pdf) Quantitative Finance, 8(3), 217-224.
+
+[7]: Guéant, O., Lehalle, C.-A., & Fernandez-Tapia, J. (2011). ["Dealing with the Inventory Risk. A solution to the market making problem."](https://arxiv.org/abs/1105.3115) Mathematics and Financial Economics, 5(1), 47-71.

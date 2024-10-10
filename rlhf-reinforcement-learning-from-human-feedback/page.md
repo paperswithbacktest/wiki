@@ -113,3 +113,14 @@ The continuous exploration and refinement of RLHF techniques are crucial to full
 Looking forward, the collaboration between [artificial intelligence](/wiki/ai-artificial-intelligence) and human expertise is expected to yield transformative impacts on the financial markets. By leveraging the strengths of both, trading systems can become more robust, adaptable, and capable of making more accurate predictions, thereby minimizing risks and maximizing returns. As RLHF continues to evolve, it is poised to become an indispensable component of the financial industry's technological arsenal, fostering innovative strategies and solutions that align with the ever-changing demands of global markets.
 
 
+## References & Further Reading
+
+[1]: Christiano, P., Leike, J., Brown, T., Martic, M., Legg, S., & Amodei, D. (2017). ["Deep reinforcement learning from human preferences."](https://arxiv.org/abs/1706.03741) arXiv preprint.
+
+[2]: Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., & Guez, A. (2017). ["Mastering the game of Go without human knowledge."](https://www.nature.com/articles/nature24270) Nature, 550(7676), 354-359.
+
+[3]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado.
+
+[4]: Dulac-Arnold, G., Evans, R., Van Hasselt, H., Sunehag, P., Lillicrap, T., & Hunt, J. (2019). ["Challenges of real-world reinforcement learning."](https://arxiv.org/abs/1904.12901) arXiv preprint.
+
+[5]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen.

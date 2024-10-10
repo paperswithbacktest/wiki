@@ -204,3 +204,20 @@ Looking ahead, the integration of machine learning to better anticipate and reac
 As the markets evolve, the ability to navigate volatility effectively will remain a hallmark of successful algorithmic trading, ensuring that traders can capitalize on fluctuations while minimizing adverse effects. Embracing technological advancements and anticipating future shifts will be key in maintaining an edge in volatile trading environments.
 
 
+
+
+## References & Further Reading
+
+[1]: Ang, A., Hodrick, R. J., Xing, Y., & Zhang, X. (2006). ["The Cross-Section of Volatility and Expected Returns."](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2006.00836.x) The Review of Financial Studies, 19(1), 257-300.
+
+[2]: Frazzini, A., & Pedersen, L. H. (2014). ["Betting Against Beta."](https://www.sciencedirect.com/science/article/pii/S0304405X13002675) Financial Analysts Journal, 70(1), 1-25.
+
+[3]: Blitz, D., & Van Vliet, P. (2007). ["The Volatility Effect: Lower Risk Without Lower Return."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=980865) Journal of Portfolio Management, 34(1), 102-113.
+
+[4]: Lo, A. W., & MacKinlay, A. C. (1999). ["A Non-Random Walk Down Wall Street"](https://www.amazon.com/Non-Random-Walk-Down-Wall-Street/dp/0691092567). Princeton University Press.
+
+[5]: Bertsimas, D., & Lo, A. W. (1998). ["Optimal Control of Execution Costs."](https://www.mit.edu/~dbertsim/papers/Finance/Optimal%20control%20of%20execution%20costs.pdf) Journal of Financial Markets, 11(3), 62-70.
+
+[6]: Johnson, B. (2010). ["Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies."](https://www.amazon.com/Algorithmic-Trading-DMA-Introduction-Strategies/dp/0956399207) 4Myeloma Press.
+
+[7]: Cartea, A., Jaimungal, S., & Penalva, J. (2015). ["Algorithmic and High-Frequency Trading."](https://www.amazon.com/Algorithmic-High-Frequency-Trading-Mathematics-Finance/dp/1107091144) Cambridge University Press.

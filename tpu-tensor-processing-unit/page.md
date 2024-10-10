@@ -157,3 +157,14 @@ Given the transformative potential TPUs hold for trading operations, there is a 
 The journey towards the full integration of TPUs in trading is still unfolding. Encouraging continued research and development will ensure that these technological advancements are harnessed to their fullest, paving the way for more intelligent and dynamic trading environments.
 
 
+
+
+## References & Further Reading
+
+[1]: Wolf, T. (2017). ["Google's Tensor Processing Unit: Unveiling the Most Powerful Machine Learning Chip."](https://www.tomshardware.com/news/google-tensor-processing-unit-machine-learning,31834.html) Google AI Blog.
+
+[2]: Jouppi, N. P., Young, C., Patil, N., Patterson, D., & Agrawal, G. (2018). ["A Domain-Specific Architecture for Deep Neural Networks."](https://dl.acm.org/doi/10.1145/3154484) Communications of the ACM, 61(9), 50-59.
+
+[3]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118460146) by Ernie Chan
+
+[4]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/abstract/document/7780459) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770-778.

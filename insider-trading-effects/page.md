@@ -180,3 +180,22 @@ In conclusion, the integration of ethical considerations, advanced technology, a
 10. O’Hara, M. (2015). *High Frequency Market Microstructure*. Journal of Financial Economics, 116(2), 257-270. This paper examines how high-frequency trading affects market microstructure and highlights areas where insider trading may intersect with these trading practices.
 
 
+
+
+## References & Further Reading
+
+[1]: Fischel, D. R. (1982). [Insider Trading and Investment Analysis: An Economic Perspective.](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2415&context=journal_articles) University of Chicago Law Review.
+
+[2]: Jaffe, J. F. (1974). [Special Information and Insider Trading.](https://www.jstor.org/stable/2352458) Journal of Business, 47(3), 410-428.
+
+[3]: Kissell, R. (2014). [The Science of Algorithmic Trading and Portfolio Management.](https://www.elsevier.com/books/the-science-of-algorithmic-trading-and-portfolio-management/kissell/978-0-12-401689-7) Academic Press.
+
+[4]: Aldridge, I. (2013). [High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems.](https://www.wiley.com/en-us/High+Frequency+Trading:+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems,+2nd+Edition-p-9781118343500) Wiley.
+
+[5]: O’Hara, M. (2015). [High Frequency Market Microstructure.](https://www.sciencedirect.com/science/article/abs/pii/S0304405X15000045) Journal of Financial Economics, 116(2), 257-270.
+
+[6]: Jansen, S. (2020). [Machine Learning for Algorithmic Trading.](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715) Packt Publishing.
+
+[7]: Chan, E. P. (2008). [Quantitative Trading: How to Build Your Own Algorithmic Trading Business.](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) Wiley.
+
+[8]: SEC, U.S. Securities and Exchange Commission. [Insider Trading – A U.S. Regulatory Perspective.](https://www.sec.gov/news/speech/speecharchive/1998/spch221.htm) 

@@ -149,3 +149,18 @@ To explore professional implementation, consulting with experts who specialize i
 We encourage you to take advantage of these resources to enhance your trading strategies and stay competitive in modern financial markets. Should you wish for a more tailored consultation, reaching out to professional trading consultants who specialize in multi-agent systems would be beneficial. These experts can guide you through customized implementation, ensuring alignment with your specific trading goals and assets.
 
 
+
+
+## References & Further Reading
+
+[1]: De Prado, M. L. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[2]: Chen, Paul. (2017). ["Artificial Intelligence in Finance: A Review."](https://www.sciencedirect.com/science/article/abs/pii/S1567422317300790) Annals of Operations Research, 30, 1–32.
+
+[3]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) Wiley.
+
+[4]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) Packt Publishing.
+
+[5]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) Wiley.
+
+[6]: Tesfatsion, L. & Judd, K. L. (2006). ["Handbook of Computational Economics, Volume 2: Agent-Based Computational Economics."](https://www.sciencedirect.com/handbook/handbook-of-computational-economics/vol/2/suppl/C) Elsevier.

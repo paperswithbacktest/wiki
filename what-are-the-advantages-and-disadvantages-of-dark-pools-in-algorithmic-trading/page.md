@@ -108,3 +108,14 @@ However, there are significant drawbacks related to transparency and liquidity. 
 Regulations surrounding dark pools are continually evolving as authorities attempt to address these transparency and fairness issues. As these regulatory landscapes reshape, traders and firms involved in algorithmic trading must stay informed and adapt their strategies accordingly. Balancing the benefits against the risks is crucial for traders looking to leverage dark pools effectively in their strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Madhavan, A. (2012). ["Exchange-Traded Funds, Market Structure, and the Flash Crash."](https://www.tandfonline.com/doi/abs/10.2469/faj.v68.n4.6) The Review of Financial Studies, 25(11), 3305-3330.
+
+[2]: Buti, S., Rindi, B., & Werner, I. M. (2011). ["Diving into Dark Pools."](https://onlinelibrary.wiley.com/doi/full/10.1111/fima.12395) Working Paper. 
+
+[3]: Mittal, H. (2008). ["Are You Playing in a Toxic Dark Pool? A Guide and a Warning."](https://www.pm-research.com/content/iijtrade/3/3/20) Working Paper.
+
+[4]: O’Hara, M., & Ye, M. (2011). ["Is Market Fragmentation Harming Market Quality?"](https://www.sciencedirect.com/science/article/abs/pii/S0304405X11000390#:~:text=Regression%20analysis%20provides%20confirming%20evidence,not%20harmed%20by%20market%20fragmentation.) Journal of Financial Economics, 100(3), 459-474.

@@ -284,3 +284,10 @@ The integration of Smart Beta into algorithmic trading platforms offers numerous
 For traders and investors, the call to action is clear: explore the confluence of technological advancements and strategic investing that Smart Beta and algorithmic trading present. By embracing these systems, market participants can position themselves to capitalize on the evolving landscape of financial markets. Innovating and adapting to these changes not only enhances one’s trading strategy but also contributes to a more competitive and dynamic investing environment.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Quantitative Investing: Strategies to Exploit Stock Market Anomalies for All Investors"](https://www.amazon.com/Quantitative-Investing-Strategies-anomalies-investors/dp/0857193007) by Fred Piard

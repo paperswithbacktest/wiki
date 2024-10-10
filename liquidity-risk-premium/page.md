@@ -194,3 +194,18 @@ Real-world examples and case studies illustrate how financial institutions and h
 Looking ahead, emerging trends in digital trading and fintech innovations present both opportunities and challenges. As financial markets evolve, new tools and technologies could further refine liquidity risk management, offering fertile ground for research and strategic advancements. Understanding and leveraging liquidity risk premiums might become increasingly vital for staying competitive and resilient in dynamic trading environments.
 
 
+
+
+## References & Further Reading
+
+[1]: Amihud, Y. (2002). ["Illiquidity and Stock Returns: Cross-Section and Time-Series Effects."](https://www.sciencedirect.com/science/article/abs/pii/S1386418101000246) The Review of Financial Studies, 15(2), 351-386.
+
+[2]: Hasbrouck, J. (2009). ["Trading Costs and Returns for U.S. Equities: Estimating Effective Costs from Daily Data."](https://pages.stern.nyu.edu/~jhasbrou/Research/GibbsCurrent/HasbrouckJF.pdf) The Journal of Finance, 64(3), 1445-1477.
+
+[3]: Pástor, Ľ., & Stambaugh, R. F. (2003). ["Liquidity Risk and Expected Stock Returns."](https://www.jstor.org/stable/10.1086/374184) The Journal of Political Economy, 111(3), 642-685.
+
+[4]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[6]: Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). ["Does Algorithmic Trading Improve Liquidity?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01624.x) The Journal of Finance, 66(1), 1-33.
+
+[7]: Engle, R., & Lange, J. (2001). ["Predicting VNet: A Model of the Dynamics of Market Depth."](https://www.sciencedirect.com/science/article/abs/pii/S1386418100000197) Journal of Financial Markets, 4(2), 113-142.

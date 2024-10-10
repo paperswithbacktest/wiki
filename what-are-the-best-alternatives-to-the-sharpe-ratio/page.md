@@ -212,3 +212,15 @@ Continued education and awareness about these financial metrics enhance decision
 These resources offer additional insights into the evaluation of financial performance using various metrics and can guide investors toward more informed decision-making in portfolio management.
 
 
+
+
+## References & Further Reading
+
+[1]: Sharpe, W. F. (1966). ["Mutual Fund Performance."](https://www.jstor.org/stable/2351741) Journal of Business, 39(1), 119-138.
+
+[2]: Sortino, F. A., & Van der Meer, R. (1991). ["Downside Risk."](https://jpm.pm-research.com/content/17/4/27) Journal of Portfolio Management, 17(4), 27-31.
+
+[3]: Treynor, J. L. (1965). ["How to Rate Management of Investment Funds."](https://onlinelibrary.wiley.com/doi/10.1002/9781119196679.ch10) Harvard Business Review, 43(1), 63-75.
+
+[4]: Kazemi, H., Schneeweis, T., & Gupta, B. (2003). ["Omega as a Performance Measure."](https://people.duke.edu/~charvey/Teaching/BA453_2005/Schneeweis_Omega_as_a.pdf) Journal of Performance Measurement, 8(1), 16-25.
+

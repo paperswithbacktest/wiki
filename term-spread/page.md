@@ -216,3 +216,20 @@ The use of term spread as a signal in trading algorithms can lead to improved tr
 Therefore, it is imperative for traders and analysts to embrace term spread data as part of their analytical arsenal. By integrating this data, one can better understand the macroeconomic forces at play, thereby crafting strategies that are not only informed by historical patterns but also geared towards future market developments. As financial markets continue to evolve, leveraging term spread signals may offer a competitive edge in algorithmic trading, paving the way for more informed and profitable trading outcomes.
 
 
+
+
+## References & Further Reading
+
+[1]: Estrella, A., & Mishkin, F. S. (1996). ["The Yield Curve as a Predictor of U.S. Recessions."](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci2-7.pdf) Federal Reserve Bank of New York.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[3]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889). Wiley.
+
+[4]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744). Wiley.
+
+[5]: Balduzzi, P., Das, S. R., & Foresi, S. (1998). ["The Central Tendency: A Second Factor in Bond Yields."](https://www.jstor.org/stable/2646729) The Review of Economics and Statistics, 80(1), 62-72.
+
+[6]: Jansen, S. (2018). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) Packt Publishing.
+
+[7]: Fama, E. F. (1984). ["The Information in the Term Structure."](https://www.sciencedirect.com/science/article/abs/pii/0304405X84900138) Journal of Financial Economics, 13(4), 509-528.

@@ -168,3 +168,24 @@ However, the challenges associated with multi-asset trading strategies cannot be
 Understanding the nuances and mechanisms of multi-asset trading is critical for both individual and institutional investors in today's fast-evolving financial landscape. Staying informed about technological advancements and evolving market trends is essential for leveraging these strategies effectively. Investors should consider incorporating multi-asset strategies into their portfolios to optimize performance and achieve their financial objectives. As the markets continue to change, being proactive and adaptable with multi-asset trading strategies could prove beneficial for sustained investment success.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Asset Allocation: Balancing Financial Risk"](https://www.investopedia.com/terms/a/assetallocation.asp) by Investopedia
+
+[2]: Marcos Lopez de Prado, ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
+
+[3]: David Swensen, ["Pioneering Portfolio Management: An Unconventional Approach to Institutional Investment"](https://www.amazon.com/Pioneering-Portfolio-Management-Unconventional-Institutional/dp/0684864436)
+
+[4]: Ray Dalio, ["Principles for Navigating Big Debt Crises"](https://www.amazon.fr/Principles-Navigating-Big-Debt-Crises/dp/1668009293)
+
+[5]: Stefan Jansen, ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013)
+
+[6]: Ernest P. Chan, ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889)
+
+[7]: "Bridges to Dependable Multicore Systems: Highly-Reliable and Adaptive Embedded Intensive Systems – HIRES" by Arne Hamann (Consideration of computational tools in trading strategies)
+
+[8]: "Financial Risk Tolerance: A Psychometric Review" by Roszkowski, M. J., & Grable, J. E., as published in the Financial Services Review
+
+[9]: "Value at Risk: Theory and Practice" by Glyn Holton (Risk management tools in trading strategies)

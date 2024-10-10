@@ -151,3 +151,16 @@ For those aspiring to join Jane Street as a quant, the path is equally challengi
 In conclusion, becoming a quant at Jane Street is more than just a career choice; it's an invitation to be part of an elite group of thinkers and innovators who shape the future of finance. Those interested in pursuing this path will find a unique environment that not only rewards intellectual curiosity and teamwork but also offers an unmatched platform for professional growth and innovation. Prospective candidates are encouraged to explore the opportunities and immerse themselves in the vibrant culture that Jane Street provides, as they could very well be the catalysts for the next big breakthrough in quantitative trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
