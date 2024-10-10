@@ -222,3 +222,16 @@ Despite these challenges, DRL's transformative potential is undeniable. It offer
 
 
 
+
+
+## References & Further Reading
+
+[1]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[2]: Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., ... & Hassabis, D. (2016). ["Mastering the game of Go with deep neural networks and tree search."](https://www.nature.com/articles/nature16961) Nature, 529(7587), 484-489.
+
+[3]: Francois-Lavet, V., Henderson, P., Islam, R., Bellemare, M. G., & Pineau, J. (2018). ["An introduction to deep reinforcement learning."](https://arxiv.org/abs/1811.12560) Foundations and Trends® in Machine Learning, 11(3-4), 219-354.
+
+[4]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249) MIT Press.
+
+[5]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.

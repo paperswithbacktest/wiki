@@ -51,3 +51,19 @@ In the global financial context, regulations are essential instruments for ensur
 
 Compliance with international regulations is a major responsibility for all trading players. By adopting a methodical approach, relying on specialized tools, and instilling a culture of compliance, it is possible to ensure that trading strategies meet regulators' requirements while maximizing their effectiveness.
 ![alt text](image.png)
+
+## References & Further Reading
+
+[1]: European Securities and Markets Authority. [MiFID II Overview](https://www.esma.europa.eu/policy-rules/mifid-ii-and-mifir).
+
+[2]: Commodity Futures Trading Commission. [Dodd-Frank Act](https://www.cftc.gov/LawRegulation/DoddFrankAct/index.htm).
+
+[3]: Lopez de Prado, M. (2018). [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado.
+
+[4]: Fiedler, J., & McLean, A. (2015). [Building Winning Algorithmic Trading Systems: A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems/dp/1118778987) by Kevin J. Davey.
+
+[5]: Securities Industry and Financial Markets Association. [Financial Regulation in the United States](https://www.sifma.org/).
+
+[6]: Glasserman, P., & Mamaysky, H. (2019). ["How Algorithmic Trading Undermines Efficiency in Capital Markets"](https://scholarship.law.vanderbilt.edu/vlr/vol68/iss6/3/) Columbia Business School Research Paper.
+
+[7]: International Organization of Securities Commissions. [IOSCO Principles for Financial Benchmarks](https://www.iosco.org/library/pubdocs/pdf/IOSCOPD415.pdf).

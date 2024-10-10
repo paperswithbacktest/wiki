@@ -263,3 +263,16 @@ For traders eager to explore these opportunities, no-code platforms are a practi
 As technology continues to evolve, the future of trading strategy automation for non-programmers looks promising. We can anticipate more intuitive and powerful platforms emerging, democratizing access to automated trading even further. This progression empowers traders to harness advanced trading techniques once reserved for those with programming expertise, leveling the playing field in financial markets. Ultimately, embracing these no-code solutions could significantly enhance one's trading capabilities, offering a strategic edge in today's fast-paced financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[5]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html) Advances in Neural Information Processing Systems 24.

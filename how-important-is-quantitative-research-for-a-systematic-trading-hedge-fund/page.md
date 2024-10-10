@@ -190,3 +190,20 @@ In today's swiftly changing financial markets, innovation and adaptability in qu
 Emerging quantitative researchers and hedge funds should fully embrace quantitative research, recognizing it as a dynamic and ever-evolving process. It requires a commitment to ongoing education and exploration of new methodologies to uncover insights that drive trading success. By fostering an environment that encourages creativity and critical thinking, new entrants in the field can push the boundaries of what's possible in systematic trading, ensuring they contribute meaningfully to the future landscape of finance.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado.
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson.
+
+[4]: ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen.
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan.
+
+[6]: Simons, J. (2020). ["A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market."](https://www.amazon.com/Man-All-Markets-Street-Dealer/dp/1400067960) Random House.
+
+[7]: Hull, J. C. (2018). ["Risk Management and Financial Institutions"](https://www.amazon.com/Management-Financial-Institutions-Wiley-Finance/dp/1118955943) by John Wiley & Sons.

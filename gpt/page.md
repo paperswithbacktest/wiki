@@ -132,3 +132,20 @@ However, the potential of GPT in transforming trading practices is not just theo
 
 Looking forward, GPT holds the potential to revolutionize the trading landscape by offering innovative solutions that combine AI's computational power with human strategic insights. As AI models continue to evolve, we can anticipate even greater synergies between human traders and automated systems, leading to more efficient and effective trading operations. It is crucial for researchers and industry professionals to keep pushing the boundaries of what is possible with GPT, continuously refining and expanding its applications in algo trading.
 
+
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[2]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://www.bioinf.jku.at/publications/older/2604.pdf) Neural Computation, 9(8), 1735–1780.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[5]: Chan, E. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) Wiley.
+
+[6]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading - Second Edition."](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715) Packt Publishing.
+
+[7]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.wiley.com/en-gb/Evidence-Based-Technical-Analysis:-Applying-the-Scientific-Method-and-Statistical-Inference-to-Trading-Signals-p-9780470008744) Wiley.

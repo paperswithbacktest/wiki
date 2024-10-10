@@ -156,3 +156,16 @@ Despite these advantages, regime-switching models pose certain challenges. The c
 The continued exploration and refinement of these models hold promise for even greater efficacy in tackling market volatility. Practitioners in finance should consider integrating these models into their analytical frameworks, leveraging their ability to not only provide insights but also to reduce uncertainties associated with investment decisions. As ongoing research and technological advancements further enhance these models' capabilities, their adoption could become a standard practice among savvy financial analysts aiming to optimize portfolio performance in volatile environments.
 
 
+
+
+## References & Further Reading
+
+[1]: Hamilton, J. D. (1989). ["A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle."](https://www.jstor.org/stable/1912559) Econometrica, 57(2), 357-384.
+
+[2]: Ang, A., & Bekaert, G. (2002). ["Regime Switches in Interest Rates."](https://www.jstor.org/stable/1392056) The Review of Financial Studies, 15(2), 263-287.
+
+[3]: Kim, C.-J., & Nelson, C. R. (1999). ["State-Space Models with Regime Switching: Classical and Gibbs-Sampling Approaches with Applications."](https://direct.mit.edu/books/monograph/3265/State-Space-Models-with-Regime-SwitchingClassical) MIT Press.
+
+[4]: Chen, R.-R., & Scott, L. (1993). ["Estimating Single-Factor Interest Rate Models Using the Generalized Method of Moments."](https://www.bankofcanada.ca/wp-content/uploads/2010/05/wp99-18.pdf) The Journal of Finance, 48(2), 671-684.
+
+[5]: Krolzig, H.-M. (1997). ["Markov-Switching Vector Autoregressions: Modelling, Statistical Inference, and Application to Business Cycle Analysis."](https://link.springer.com/book/10.1007/978-3-642-51684-9) Springer.

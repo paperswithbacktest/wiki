@@ -164,3 +164,16 @@ The incorporation of accrual data allows trading algorithms to capture anomalies
 
 Given the potential for accruals to significantly impact algorithmic trading strategies, traders and developers are encouraged to incorporate accrual metrics into their models. Doing so can provide a foundation for more robust and adaptable trading strategies, ultimately transforming the way decisions are made in algorithmic trading.
 
+
+
+## References & Further Reading
+
+[1]: Sloan, R. G. (1996). ["Do Stock Prices Fully Reflect Information in Accruals and Cash Flows About Future Earnings?"](https://www.jstor.org/stable/247554) The Accounting Review, 71(3), 289-315.
+
+[2]: Richardson, S. A., Sloan, R. G., Soliman, M. T., & Tuna, I. (2005). ["Accrual reliability, earnings persistence and stock prices."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-679X.2005.00183.x) Journal of Accounting and Economics, 39(3), 437-485.
+
+[3]: Lev, B. (1983). ["Some Economic Determinants of the Time-Series Properties of Earnings."](https://www.jstor.org/stable/2490803) Journal of Accounting and Economics, 5, 31-48.
+
+[4]: Dechow, P. M., & Dichev, I. D. (2002). ["The Quality of Accruals and Earnings: The Role of Accrual Estimation Errors."](https://www.jstor.org/stable/2491270) The Accounting Review, 77, 35-59.
+
+[5]: Jones, J. J. (1991). ["Earnings Management During Import Relief Investigations."](https://www.jstor.org/stable/2491047) Journal of Accounting Research, 29(2), 193-228.

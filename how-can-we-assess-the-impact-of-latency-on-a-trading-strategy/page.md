@@ -135,3 +135,16 @@ Tools and techniques like timestamping, real-time monitoring, and time synchroni
 Assessing and managing latency is not a one-time effort but a continuous process. As technology evolves, so will the sources and types of latency. Therefore, ongoing assessment and adaptation are crucial to staying competitive in the fast-evolving trading landscape. By staying vigilant and proactive in managing latency, traders can ensure optimal trading performance and maintain an edge in the market.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506). Wiley.
+
+[2]: Lewis, M. (2015). ["Flash Boys: A Wall Street Revolt"](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599). W. W. Norton & Company.
+
+[3]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading"](https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362413). Wiley.
+
+[4]: Kissell, R. L. (2013). ["The Science of Algorithmic Trading and Portfolio Management"](https://www.amazon.com/Science-Algorithmic-Trading-Portfolio-Management/dp/0124016898). Academic Press.
+
+[5]: Johnson, B. R. (2010). ["Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies"](https://www.amazon.com/Algorithmic-Trading-DMA-Introduction-Strategies/dp/0956399207). 4Myeloma Press.

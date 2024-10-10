@@ -144,3 +144,8 @@ Moreover, tapping into country-level anomalies presents another layer of opportu
 However, one must be keenly aware of the various forms of country risk, including economic, political, and sovereign risks. Thorough analysis using tools and ratings from organizations like Moody's and S&P is crucial for assessing these risks. Understanding and measuring country risk is paramount for informed decision-making.
 
 In conclusion, integrating country picking into algorithmic trading offers a host of opportunities to optimize returns through diversified investment strategies. Strategic use of algorithmic tools enhances the ability to analyze, select, and capitalize on these opportunities effectively. As global markets continue to evolve, those who employ thoughtful and informed country picking will be well-positioned to maximize their portfolio performance across international landscapes.
+
+
+## References & Further Reading
+
+[1]: López de Prado, Marcos. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) John Wiley & Sons.

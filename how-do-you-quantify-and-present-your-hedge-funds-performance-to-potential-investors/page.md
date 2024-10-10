@@ -219,3 +219,16 @@ Moreover, a consistent, long-term track record is a strong testament to a hedge 
 Ultimately, clear performance presentation is not just about numbers; it's about fostering confidence and understanding. By committing to open and ongoing communication, hedge funds can strengthen investor relationships, ensuring longevity and mutual success in the dynamic financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: "Investment Performance Measurement" by Bruce J. Feibel. This book provides extensive insights into performance metrics like NAV, AUM, and others used in evaluating investment performance.
+
+[2]: "The New Fund Order: A Digital Death for Fund Selection?" discusses transparency and communication in fund management, relevant to investor engagement and performance presentation.
+
+[3]: "Hedge Funds For Dummies" by Ann C. Logue, which offers a clear overview of how hedge funds operate, including performance evaluation and risk management strategies.
+
+[4]: CFA Institute. (2021). ["Global Investment Performance Standards (GIPS)."](https://www.cfainstitute.org/en/ethics-standards/codes/gips-standards) This provides guidelines on performance presentation and reporting, crucial for ensuring compliance in hedge funds.
+
+[5]: Lo, Andrew W. (2008). "Hedge Funds: An Analytic Perspective." Provides analysis and context concerning the evaluation of hedge fund performance in varying market conditions.

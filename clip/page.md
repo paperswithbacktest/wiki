@@ -132,3 +132,14 @@ CLIP’s versatility in interpreting complex data types allows it to address som
 
 The potential transformative impact of CLIP on algorithmic trading calls for further exploration and research. As AI technologies continue to evolve, the opportunities to enhance CLIP’s applications in trading are boundless. This ongoing innovation promises not only to refine financial strategies but also to redefine the broader scope of financial market operations. Encouraging scholarly research and practical development in this field will undoubtedly lead to more resilient and intelligent trading models, driving the next wave of advancement in financial technology.
 
+
+
+## References & Further Reading
+
+[1]: Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Amodei, D. (2021). ["Learning Transferable Visual Models From Natural Language Supervision."](https://openai.com/research/clip) OpenAI.
+
+[2]: ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python"](https://www.amazon.com/dp/1801816287) by Stefan Jansen
+
+[3]: ["Deep Learning for Finance: Artificial Intelligence in the Financial Markets"](https://www.springer.com/gp/book/9783030410673) by Łukasz Tomczyk and Krzysztof Kozioł
+
+[4]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado

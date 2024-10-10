@@ -116,3 +116,20 @@ Despite these challenges, the solutions emerging from ongoing research—such as
 The future potential of RL in algorithmic trading is vast. Continued exploration into this synergy between AI and finance could lead to groundbreaking advancements, potentially reshaping the structures and efficiencies of financial markets. As researchers and practitioners further refine RL techniques and tackle existing drawbacks, the role of RL in trading is expected to become more integrated and impactful. Encouragement toward such ongoing innovation and exploration is essential as the finance industry seeks ways to leverage AI for improved market strategies and outcomes.
 
 
+
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](http://incompleteideas.net/book/RLbook2018.pdf). MIT Press.
+
+[2]: Li, Y., & Malik, J. (2016). ["Learning to optimize"](https://arxiv.org/abs/1606.01885). arXiv preprint arXiv:1606.01885.
+
+[3]: Moody, J., & Saffell, M. (2001). ["Learning to trade via direct reinforcement"](https://people.idsia.ch/~juergen/rnnaissance2003talks/MoodySaffellTNN01.pdf). IEEE Transactions on Neural Networks, 12(4), 875-889.
+
+[4]: Dhamija, A., & Bhagwat, S. (2020). ["A Comprehensive Review of Deep Reinforcement Learning Applications in Finance"](https://arxiv.org/abs/2004.01509). In Proceedings of the 2nd International Conference on Data Science and Applications.
+
+[5]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning"](https://www.nature.com/articles/nature14236). Nature, 518(7540), 529-533.
+
+[6]: Narang, P. (2021). ["Reinforcement Learning for Trading Systems and Portfolios"](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=10f34407d0f7766cfb887334de4ce105d5aa8aae). Springer Nature.
+
+[7]: Elon, G., & Leshem, A. (2019). ["Deep reinforcement learning for algorithmic trading"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812473). arXiv preprint arXiv:1911.01513.

@@ -133,3 +133,12 @@ Active bond management is often touted for its potential to outperform passive s
 Looking ahead, the integration of technology and data analytics with bond timing strategies heralds a promising evolution in algorithmic trading. With the advent of [machine learning](/wiki/machine-learning) algorithms and real-time data analytics, the precision and predictive power of bond timing are bound to improve. This transformation could lead to even more nuanced and effective trading strategies, offering the potential for higher returns and improved risk mitigation.
 
 However, the success of these strategies will largely depend on their ability to adapt to market changes and regulatory environments. As algorithmic trading becomes increasingly prevalent, the challenge will be to balance technological efficiency with strategic insights, ensuring that active bond management remains a competitive edge in the evolving financial landscape.
+
+
+## References & Further Reading
+
+[1]: Treynor, J. L. (1961). ["Toward a Theory of Market Value of Risky Assets"](https://jstor.org/stable/2329402) The Review of Economics and Statistics
+
+[2]: Fama, E. F., & French, K. R. (1993). ["Common risk factors in the returns on stocks and bonds."](https://www.jstor.org/stable/2328887) Journal of Financial Economics
+
+[3]: Litterman, R., & Scheinkman, J. (1991). ["Common Factors Affecting Bond Returns."](https://www.jstor.org/stable/4479408) The Journal of Fixed Income

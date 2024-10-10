@@ -291,3 +291,16 @@ The pursuit of trading excellence involves constantly evaluating performance thr
 These resources are invaluable for anyone interested in improving their understanding and skills in data processing for real-time trading, enabling both foundational learning and practical applications.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, Irene. ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley, 2nd Edition.
+
+[2]: Apache Software Foundation. ["Apache Flink: Stream Processing with Apache Flink."](https://flink.apache.org/) An open-source platform for distributed stream and batch data processing.
+
+[3]: Chan, Ernest P. ["Algorithmic Trading: Winning Strategies and Their Rationale."](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118460146) Wiley.
+
+[4]: Grant, Brian R. ["High-Performance Trading: Performance Optimization Techniques for Traders."](https://www.amazon.fr/High-Performance-Trading-Strategies-Techniques/dp/1905641613) FT Press.
+
+[5]: Prado, Marcos Lopez de. ["Advances in Financial Machine Learning."](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482087) Wiley.

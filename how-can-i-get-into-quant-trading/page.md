@@ -167,3 +167,16 @@ As for aspiring quant traders, remember that persistence and continual learning 
 Looking ahead, the quant trading landscape continues to evolve with advancements in technology and data analytics. As markets become more complex, the demand for skilled quant traders is expected to grow. Embrace this dynamic field with curiosity and a proactive attitude, and you’ll find numerous opportunities to make a significant impact. The future of quant trading holds promise for those ready to meet its challenges with rigor and creativity.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan

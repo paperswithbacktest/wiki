@@ -283,3 +283,16 @@ Moreover, the development and testing of hypotheses through tools such as predic
 Encouraging businesses to adopt these practices fosters a culture of informed decision-making, increasing the likelihood of strategic success. By understanding and anticipating market trends, companies can adapt more quickly to changes, giving them a competitive advantage. Ultimately, a rigorous assessment of market capacity enables businesses to launch their strategies with confidence, backed by a foundation of reliable data and insights.
 
 
+
+
+## References & Further Reading
+
+[1]: Marcos López de Prado. ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley, 2018.
+
+[2]: Ernest P. Chan. ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889). Wiley, 2009.
+
+[3]: David Aronson. ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744). Wiley, 2006.
+
+[4]: Stefan Jansen. ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013). Packt Publishing, 2018.
+
+[5]: (2012). ["Markets Microstructure Theory"](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0198090544) by Larry Harris.

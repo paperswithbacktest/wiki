@@ -119,3 +119,14 @@ Answer as quickly as possible.
 ## Conclusion
 
 The realm of [brainteasers](/wiki/brainteasers), particularly in the context of quantitative high-frequency trading, is a testament to the importance of critical thinking and analytical skills in high-pressure environments. These puzzles aren't merely for entertainment or intellectual showmanship; they are a fundamental part of a trader's toolkit, helping to develop and maintain the sharpness required for making split-second decisions. Whether you are a seasoned trader or a newcomer to the field, embracing these challenges can be a game-changer, enhancing your ability to assess risk, make rapid calculations, and navigate the complex world of market dynamics. In a field where the stakes are high and the competition is fierce, mastering these brainteasers could very well be the edge you need to excel.
+
+
+## References & Further Reading
+
+[1]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado. Wiley.
+
+[2]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013). Packt Publishing.
+
+[3]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744). Wiley.
+
+[4]: Chan, E. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889). Wiley.

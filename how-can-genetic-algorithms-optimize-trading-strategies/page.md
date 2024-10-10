@@ -160,3 +160,20 @@ While the adaptive nature of GAs offers substantial benefits, such as potential 
 In sum, genetic algorithms provide a dynamic and innovative approach to optimizing RSI-based trading strategies. They enable traders to tap into sophisticated algorithmic solutions, though success hinges on prudent testing and an awareness of the inherent risks in financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Goldberg, D. E. (1989). ["Genetic Algorithms in Search, Optimization, and Machine Learning."](https://www.amazon.com/Genetic-Algorithms-Search-Optimization-Machine/dp/0201157675) Addison-Wesley.
+
+[2]: Mitchell, M. (1998). ["An Introduction to Genetic Algorithms."](https://www.amazon.com/Introduction-Genetic-Algorithms-Complexity/dp/0262631857) MIT Press.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) Wiley.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) Packt Publishing.
+
+[6]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) Wiley.
+
+[7]: Holland, J. H. (1975). ["Adaptation in Natural and Artificial Systems."](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/) University of Michigan Press.

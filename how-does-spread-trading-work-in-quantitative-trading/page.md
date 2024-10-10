@@ -164,3 +164,20 @@ Looking ahead, spread trading will likely continue to evolve, driven by the deve
 In conclusion, spread trading remains a vital strategy within quantitative trading, offering notable advantages such as reduced risk and enhanced market neutrality. As technology and trading methodologies advance, the landscape of spread trading will undoubtedly continue to transform, offering both challenges and opportunities for traders eager to harness its potential.
 
 
+
+
+## References & Further Reading
+
+[1]: Avellaneda, M., & Lee, J. H. (2010). ["Statistical Arbitrage in the U.S. Equities Market."](https://math.nyu.edu/~avellane/AvellanedaLeeStatArb071108.pdf) Quantitative Finance, 10(7).
+
+[2]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley.
+
+[3]: Pardo, R. (2008). ["The Evaluation and Optimization of Trading Strategies,"](https://www.amazon.com/Evaluation-Optimization-Trading-Strategies/dp/0470128011) Wiley.
+
+[4]: Cartea, A., Jaimungal, S., & Penalva, J. (2015). ["Algorithmic and High-Frequency Trading,"]https://www.amazon.com/Algorithmic-High-Frequency-Trading-Mathematics-Finance/dp/1107091144) Cambridge University Press.
+
+[5]: Gatev, E., Goetzmann, W. N., & Rouwenhorst, K. G. (2006). ["Pairs Trading: Performance of a Relative-Value Arbitrage Rule,"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=141615) The Review of Financial Studies, 19(3), 797-827.
+
+[6]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) Wiley.
+
+[7]: Jansen, S. (2018). ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing.

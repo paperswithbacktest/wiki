@@ -81,3 +81,16 @@ The adoption of alternative data is rapidly growing due to its capability to pro
 Despite its benefits, the use of alternative data comes with challenges, particularly concerning ethical considerations and data privacy. Issues such as ensuring data reliability, maintaining transparency about data sources, and securing proper consent are critical. Addressing these challenges responsibly is essential for sustaining trust in the analyses generated from alternative data.
 
 Sustainable and ethical use of alternative data not only ensures compliance with legal standards but also fosters a trustworthy environment for investment. As the financial industry continues to evolve, the strategic incorporation of alternative data is set to play an increasingly vital role in enhancing investment strategies and driving the future of quantitative trading.
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[5]: Lazer, D., et al. (2009). ["Computational Social Science."](https://science.sciencemag.org/content/323/5915/721) Science, 323(5915), 721-723.

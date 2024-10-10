@@ -154,3 +154,20 @@ In conclusion, the sophisticated process of asset class picking is not just an o
 
 
 
+
+
+## References & Further Reading
+
+[1]: Asness, C. S., Moskowitz, T. J., & Pedersen, L. H. (2013). ["Value and Momentum Everywhere."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1363476) Journal of Finance, 68(3), 929-985.
+
+[2]: Ang, A. (2014). ["Asset Management: A Systematic Approach to Factor Investing"](https://www.amazon.com/Asset-Management-Systematic-Factor-Investing/dp/0199959323). Oxford University Press.
+
+[3]: Gibson, R. C. (2008). ["Asset Allocation: Balancing Financial Risk, Fifth Edition."](https://www.amazon.com/Asset-Allocation-Balancing-Financial-Fifth/dp/0071549570) McGraw-Hill Education.
+
+[4]: Reilly, F. K., & Brown, K. C. (2011). ["Investment Analysis and Portfolio Management."](https://www.amazon.com/Investment-Analysis-Portfolio-Management-Frank/dp/0538482389) Cengage Learning.
+
+[5]: Ilmanen, A. (2011). ["Expected Returns: An Investor's Guide to Harvesting Market Rewards."](https://www.amazon.com/Expected-Returns-Investors-Harvesting-Financial/dp/1119990726) Wiley Finance.
+
+[6]: Grinold, R. C., & Kahn, R. N. (2000). ["Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk, Second Edition."](https://www.amazon.com/Active-Portfolio-Management-Producing-Controlling/dp/0070248826) McGraw-Hill.
+
+[7]: Chincarini, L. B., & Kim, D. (2006). ["Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management."](https://www.amazon.com/Quantitative-Equity-Portfolio-Management-Construction/dp/0071459391) McGraw-Hill Education.

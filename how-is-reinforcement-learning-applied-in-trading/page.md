@@ -179,3 +179,16 @@ Looking ahead, the future of RL in trading seems promising, driven by rapid adva
 In conclusion, RL's integration into trading reflects the broader trend of evolving financial strategies through advanced technology. While it presents challenges, the potential rewards and strategic advantages offered by RL signify a paradigm shift in how trading strategies are developed and deployed. The ongoing evolution in this space underscores the adaptability and forward-thinking required to remain competitive in today's fast-paced financial environments.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/1839217715) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan

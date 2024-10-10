@@ -216,3 +216,20 @@ The methods discussed, such as shifting, stretching, noise addition, and low-pas
 
 In an ever-evolving financial landscape, the continuous development and refinement of data augmentation techniques are critical for maintaining the competitiveness of trading algorithms. As new market dynamics and trading instruments emerge, adapting these techniques will be essential to leverage the full potential of data-driven trading strategies. Data augmentation represents a vital frontier in crafting resilient and adaptable trading models that can thrive amidst market fluctuations and uncertainties.
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[5]: Zhang, Y., & Zohren, S. (2018). ["Deep Learning for Statistical Arbitrage: A Study on LOB Data."](https://arxiv.org/abs/1810.09965)
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/). MIT Press. 
+
+[7]: Brownlees, C., Engle, R. F., & Kelly, B. T. (2011). ["A Practical Guide to Volatility Forecasting through Calm and Storm."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1502915) 

@@ -170,3 +170,16 @@ Arbitrage in algorithmic trading offers a strategic avenue for traders to capita
 Despite the inherent complexity of algorithms and the necessity for continuous adjustments to align with dynamic market conditions, the potential rewards are substantial when employing a well-structured approach. The continuous evolution of financial markets demands that traders remain vigilant, updating their strategies and investing in cutting-edge technology to ensure competitiveness.
 
 A proactive approach—characterized by the constant refinement of trading algorithms and vigilant monitoring of market trends—is essential for sustaining profitability. Traders can harness the power of data analysis, machine l[earning](/wiki/earning-announcement), and real-time monitoring to maintain their edge, adapt to new challenges, and capitalize on emerging opportunities effectively. This ongoing commitment to innovation and adaptation is crucial for thriving in the competitive landscape of algorithmic arbitrage trading.
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[3]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[4]: Tahernia, J., & Taube, F. (2011). ["Algorithmic trading for beginners - Theory and practice."](https://www.researchgate.net/publication/329169374_Algorithmic_trading_for_beginners_-_Theory_and_practice) 
+
+[5]: Hasbrouck, J., & Saar, G. (2013). ["Low-latency trading."](https://academic.oup.com/rfs/article-abstract/26/7/1621/1589743) The Review of Financial Studies, 26(7), 1621-1653.

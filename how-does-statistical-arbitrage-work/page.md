@@ -176,3 +176,16 @@ As financial markets evolve and new tools emerge, the landscape of statistical a
 A key question for practitioners and aspiring quants to ponder is: How can statistical arbitrage be refined to maintain an edge in increasingly efficient markets? Reflecting on this question could lead to innovative approaches that harness the full power of technology while effectively managing risk.
 
 
+
+
+## References & Further Reading
+
+[1]: Avellaneda, M., & Lee, J. (2010). ["Statistical Arbitrage in the US Equities Market."](https://math.nyu.edu/~avellane/AvellanedaLeeStatArb071108.pdf) Quantitative Finance, 10(7), 761-782.
+
+[2]: Pole, A. (2007). ["Statistical Arbitrage: Algorithmic Trading Insights and Techniques."](https://www.amazon.com/Statistical-Arbitrage-Algorithmic-Trading-Techniques/dp/0470181693) Wiley Finance.
+
+[3]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://www.amazon.com/Statistical-Arbitrage-Algorithmic-Insights-Techniques/dp/0470138440) Wiley.
+
+[4]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[5]: Jansen, S. (2018). ["Machine Learning for Algorithmic Trading."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) Packt Publishing.

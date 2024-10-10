@@ -259,3 +259,20 @@ In conclusion, the combination of proactive planning, robust algorithm design, a
 These resources are tailored for traders and financial professionals seeking comprehensive knowledge and tools to navigate the challenges posed by black swan events effectively.
 
 
+
+
+## References & Further Reading
+
+[1]: Taleb, N. N. (2007). ["The Black Swan: The Impact of the Highly Improbable"](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X), Random House.
+
+[2]: Chan, E. (2009). ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://www.amazon.com/Algorithmic-Trading-Ernie-Chan-ebook/dp/B003XNTQ62), Wiley.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089), Wiley.
+
+[4]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/1839217715), Packt Publishing.
+
+[5]: Hull, J. C. (2012). ["Options, Futures, and Other Derivatives"](https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315), Pearson.
+
+[6]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Investments/dp/1118343506), Wiley.
+
+[7]: Kendall, M. & Hill, B. (2011). ["Risk Management in Trading: Techniques to Drive Profitability of Hedge Funds and Trading Desks"](https://www.amazon.com/Risk-Management-Trading-Techniques-Profitability/dp/1118768582), Bloombury Press.

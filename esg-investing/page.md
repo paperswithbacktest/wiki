@@ -153,3 +153,17 @@ Traders and developers are encouraged to embrace this intersection of finance an
 
 
 
+
+
+## References & Further Reading
+
+[1]: Friede, G., Busch, T., & Bassen, A. (2015). ["ESG and financial performance: aggregated evidence from more than 2000 empirical studies."](https://www.tandfonline.com/doi/full/10.1080/20430795.2015.1118917) Journal of Sustainable Finance & Investment, 5(4), 210-233.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[3]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) Packt Publishing.
+
+[4]: Busch, T., & Hoffmann, V. H. (2011). ["How Hot Is Your Bottom Line? Linking Carbon and Financial Performance."](https://journals.sagepub.com/doi/10.1177/0007650311398780) Business & Society.
+
+[5]: Eccles, R. G., Ioannou, I., & Serafeim, G. (2014). ["The Impact of Corporate Sustainability on Organizational Processes and Performance."](https://www.hbs.edu/ris/Publication%20Files/SSRN-id1964011_6791edac-7daa-4603-a220-4a0c6c7a3f7a.pdf) Management Science, 60(11), 2835-2857.
+

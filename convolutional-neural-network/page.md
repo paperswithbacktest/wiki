@@ -260,3 +260,14 @@ In algorithmic trading, CNNs can be employed to process market data like candles
 Through this knowledge, traders can benefit from incorporating CNNs into their workflows, ultimately leveraging their predictive capabilities to identify profitable opportunities and mitigate risks in trading scenarios.
 
 
+
+
+## References & Further Reading
+
+[1]: Schmidhuber, J. (2015). ["Deep Learning in Neural Networks: An Overview."](https://www.sciencedirect.com/science/article/pii/S0893608014002135) Neural Networks, 61, 85-117.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://arxiv.org/abs/1512.03385) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[3]: Simonyan, K., & Zisserman, A. (2015). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556.
+
+[4]: LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). ["Gradient-Based Learning Applied to Document Recognition."](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) Proceedings of the IEEE, 86(11), 2278-2324.

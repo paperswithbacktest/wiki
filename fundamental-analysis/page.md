@@ -166,3 +166,20 @@ Leveraging technology and data analytics is crucial in making the most of fundam
 Furthermore, the field of algorithmic trading is dynamic and requires a commitment to ongoing learning and adaptation. Markets are constantly evolving with new data sources and technological advancements. Hence, staying abreast of these changes and continuously fine-tuning trading strategies is vital for maintaining a competitive edge. This can involve regular backtesting and strategy optimisation to ensure that algorithms remain relevant and effective in capturing market opportunities.
 
 Overall, integrating fundamental analysis into algorithmic trading is not just an enhancement but a necessity for traders aiming for long-term success and adaptability in ever-changing financial markets.
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[4]: ["Fundamental Analysis For Dummies"](https://www.amazon.com/Fundamental-Analysis-Dummies-Matthew-Krantz/dp/0470506458) by Matt Krantz
+
+[5]: Bloomberg. ["Bloomberg Terminal."](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+
+[6]: Quandl. ["Quandl: Financial and Economic Data."](https://www.quandl.com/)
+
+[7]: Securities and Exchange Commission (SEC). ["EDGAR Database."](https://www.sec.gov/edgar.shtml)

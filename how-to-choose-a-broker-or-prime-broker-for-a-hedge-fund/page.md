@@ -103,3 +103,18 @@ Additionally, the broker's or prime broker's dedication to client support and re
 In conclusion, while the selection of a broker or prime broker remains a complex task riddled with challenges, diligent research and due diligence can lead to partnerships that support a hedge fund's growth and success. By reassessing and weighing these critical factors, hedge fund managers can make informed decisions that anchor their operations in stability and efficiency.
 
 
+
+
+## References & Further Reading
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086). Wiley.
+
+[4]: Jones, C. (2016). ["Algorithmic and High-Frequency Trading."](https://global.oup.com/academic/product/algorithmic-and-high-frequency-trading-9780199336205) Oxford University Press.
+
+[5]: "UBS Primer: Understanding Prime Brokerage" (2017). [UBS Resource.](https://www.ubs.com/)
+
+[6]: Stowell, D. P. (2012). ["An Introduction to Investment Banks, Hedge Funds, and Private Equity."](https://www.sciencedirect.com/book/9780123745033/an-introduction-to-investment-banks-hedge-funds-and-private-equity) Academic Press.
+
+[7]: Chincarini, L. B., & Kim, D. (2006). ["Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management."](https://www.amazon.com/Quantitative-Equity-Portfolio-Management-Construction/dp/0071459391) McGraw-Hill.
+
+[8]: Alexander, C., & Sheedy, E. (2005). ["Professional Investor’s Guide to Hedge Funds."](https://www.amazon.com/Investors-Guide-Hedge-Funds/dp/0471715999) Financial Times.

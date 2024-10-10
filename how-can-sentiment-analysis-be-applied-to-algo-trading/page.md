@@ -191,3 +191,20 @@ However, as these technologies evolve, so do the ethical considerations and chal
 In summary, the combination of sentiment analysis and algorithmic trading presents a frontier of opportunities and challenges. The potential to transform financial markets is immense, yet it must be pursued with mindful attention to ethical considerations and responsible deployment.
 
 
+
+
+## References & Further Reading
+
+[1]: Arel, I., Rose, D. C., & Karnowski, T. P. (2010). ["Deep Machine Learning - A New Frontier in Artificial Intelligence Research"](https://ieeexplore.ieee.org/document/5605630). IEEE Computational Intelligence Magazine, 5(4), 13-18.
+
+[2]: Bollen, J., Mao, H., & Zeng, X. (2011). ["Twitter mood predicts the stock market"](https://www.sciencedirect.com/science/article/abs/pii/S187775031100007X). PloS one, 6(12), e26752.
+
+[3]: Zhang, X., Fuehres, H., & Gloor, P. A. (2011). ["Predicting stock market indicators through Twitter “I hope it is not as bad as I fear""](https://www.sciencedirect.com/science/article/pii/S1877042811023895). Procedia-Social and Behavioral Sciences, 26, 55-62.
+
+[4]: Nielsen, F. Å. (2011). ["A new ANEW: Evaluation of a word list for sentiment analysis in microblogs"](https://arxiv.org/abs/1103.2903). arXiv preprint arXiv:1103.2903.
+
+[5]: ["The Handbook of News Analytics in Finance"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118467411) by Gautam Mitra and Leela Mitra
+
+[6]: ["Sentiment Analysis for Financial Markets"](https://www.eti.uni-siegen.de/ws/publikationen/repository/sentiment_analysis_in_financial_markets_-_a_framework_to_utilize_the_human_ability_of_word_association_for_analyzing_stock_market_news_reports.pdf) by Hao Li
+
+[7]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado

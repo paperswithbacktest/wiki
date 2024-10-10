@@ -169,3 +169,10 @@ The future of FX anomaly study is promising, as advancements in machine l[earnin
 
 The strategic advantage gained by traders who effectively utilize FX anomalies lies in their ability to diversify and stabilize portfolios. By harnessing strategies that are less correlated with traditional asset classes, traders can achieve better risk-adjusted returns. Furthermore, the application of algorithms allows for the automation of trading decisions based on pre-defined rules, minimizing human biases and errors. In this dynamic financial landscape, those who invest in understanding and leveraging FX anomalies are positioned to benefit from both short-term opportunities and sustainable long-term gains.
 
+
+
+## References & Further Reading
+
+[1]: Burnside, C., Eichenbaum, M., & Rebelo, S. (2011). ["Carry Trade and Momentum in Currency Markets."](https://www.nber.org/papers/w16942) NBER Working Paper No. 16942.
+
+[2]: Fama, E. F. (1970). ["Efficient Capital Markets: A Review of Theory and Empirical Work."](https://www.jstor.org/stable/2325486) The Journal of Finance.

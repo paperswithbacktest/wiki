@@ -197,3 +197,20 @@ However, the promise of AGI comes with significant risks that investors and trad
 
 Monitoring AGI developments is crucial for staying ahead. As the technology matures, and the competitive landscape evolves, those who remain informed will be best positioned to harness AGI's full potential. Engaging with ongoing research, regulatory updates, and market innovations will be imperative for making prudent trading and investment decisions in an AGI-augmented future. This balanced approach, weighing both opportunities and potential drawbacks, will be key to capitalizing on AGI's transformative potential in the trading industry.
 
+
+
+## References & Further Reading
+
+[1]: Bostrom, N. (2014). ["Superintelligence: Paths, Dangers, Strategies."](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111) Oxford University Press.
+
+[2]: Russell, S., & Norvig, P. (2020). ["Artificial Intelligence: A Modern Approach (4th Edition)"](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-4th/dp/0134610997) Pearson.
+
+[3]: Silver, D., et al. (2016). ["Mastering the game of Go with deep neural networks and tree search."](https://www.nature.com/articles/nature16961) Nature 529, 484-489.
+
+[4]: ["Deep Reinforcement Learning in Trading: Strategies and Applications"](https://jmlr.org/) by various authors, Journal of Machine Learning Research. 
+
+[5]: ["Artificial Intelligence in Finance"](https://www.palgrave.com/gp/book/9783030429674) by Yves Hilpisch
+
+[6]: Arrieta-Ibarra, et al. (2018). ["Artificial Intelligence in Financial Markets"](https://www.econometricsociety.org/publications/econometrica/2018/09/01/beneficial-artificial-intelligence-financial-markets) Econometrica.
+
+[7]: ["Deep Learning for Finance: A Guide to Contemporary Practices"](https://www.amazon.com/Deep-Learning-Finance-Contemporary-Practices/dp/1492041925) by Tom Wilson

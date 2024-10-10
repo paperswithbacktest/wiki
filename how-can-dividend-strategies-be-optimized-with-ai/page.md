@@ -198,3 +198,18 @@ Balancing technological innovation with traditional investment principles is key
 
 These resources offer learning opportunities for integrating AI into dividend investing, catering to both novice and seasoned investors.
 
+
+
+## References & Further Reading
+
+[1]: López de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[2]: Graham, B. (2003). ["The Intelligent Investor"](https://www.amazon.com/Intelligent-Investor-Definitive-Value-Investing/dp/0060555661). Harper Business.
+
+[3]: Bäck, T., & Fogel, D. B. (2000). ["Evolutionary Computation in Economics and Finance"](https://link.springer.com/book/10.1007/978-3-7908-1784-3). Springer.
+
+[4]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744). Wiley.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013). Packt Publishing.
+
+[6]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889). Wiley.

@@ -227,3 +227,22 @@ To thrive in algorithmic trading, it is important to stay informed about industr
 
 By prioritizing lifelong learning and remaining flexible to adapt to market and technological changes, you can not only succeed in algorithmic trading but also drive innovation in this fast-paced and rewarding career.
 
+
+
+## References & Further Reading
+
+[1]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118460146) by Ernest P. Chan
+
+[2]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-predictive/dp/1839217715)
+
+[3]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading."](https://www.amazon.fr/Inside-Black-Box-Quantitative-Frequency/dp/1118362411)
+
+[4]: López de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
+
+[5]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Inference/dp/0470008741)
+
+[6]: Hull, J. C. (2012). ["Options, Futures, and Other Derivatives."](https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315)
+
+[7]: Tetlock, P. C. (2007). ["Giving Content to Investor Sentiment: The Role of Media in the Stock Market."](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2007.01232.x) Journal of Finance.
+
+[8]: De Goeij, P., & Marquering, W. (2006). ["Macroeconomic news and stock market volatility."](https://www.sciencedirect.com/science/article/abs/pii/S0304405X97000470) European Journal of Operational Research.

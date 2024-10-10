@@ -239,3 +239,16 @@ Accurate factor weighting ensures that portfolios are not overly concentrated in
 Dynamic strategies come into play as they allow investors to adapt to changing market conditions. By forward-looking adjustments based on predictive analytics, investors can shift allocations to capitalize on emergent opportunities or to hedge against potential risks. This agility is essential in maintaining portfolios that can effectively respond to market shifts, enhancing financial outcomes.
 
 As factor allocation continues to gain traction, ongoing discussions and research will further illuminate its complexities. Innovations in data analysis and machine learning are expected to refine these strategies, making them more efficient and effective. Investors who remain proactive and incorporate the latest insights into their decision-making processes will be better positioned to optimize their portfolios and achieve superior risk-adjusted returns. These advancements will empower investors to fine-tune their approaches, leading to better investment outcomes over time.
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan

@@ -175,4 +175,8 @@ Combining advanced algorithmic models with precise data analysis enables traders
 
 
 
+## References & Further Reading
 
+[1]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/1839217715) Packt Publishing.
+
+[2]: de Prado, M. L. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
