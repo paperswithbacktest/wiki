@@ -160,3 +160,16 @@ As the trading landscape continues to evolve with advancements in technology and
 In summary, integrating trading platform APIs into your strategy can be a game-changer for managing and executing trades effectively. With the right API choice, traders can stay ahead, maintaining agility and precision in their trading activities as market dynamics constantly shift.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Interactive Brokers API"](https://www.interactivebrokers.com/en/index.php?f=5041) - Interactive Brokers
+
+[2]: ["Alpaca API Documentation"](https://alpaca.markets/docs/) - Alpaca Markets
+
+[3]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan

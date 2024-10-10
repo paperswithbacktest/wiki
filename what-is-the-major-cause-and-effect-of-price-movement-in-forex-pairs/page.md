@@ -211,3 +211,18 @@ Given this complex interplay of factors, it is vital for participants in the For
 These references serve as a starting point for those interested in gaining a deeper understanding of Forex trading dynamics, economic influences, and strategies to manage market volatility.
 
 
+
+
+## References & Further Reading
+
+[1]: Barbara Rockefeller. ["The Foreign Exchange Matrix: A New Framework for Understanding Currency Movements"](https://www.amazon.fr/Foreign-Exchange-Matrix-framework-understanding/dp/0857191306). Wiley Finance, 2013.
+
+[2]: ["Technical Analysis of the Financial Markets"](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661) by John J. Murphy. Prentice Hall Press, 1999.
+
+[3]: ["Babypips School of Pipsology"](https://www.babypips.com/learn/forex). A comprehensive educational resource on Forex trading.
+
+[4]: ["Investopedia Forex Guide"](https://www.investopedia.com/terms/f/forex.asp). Tutorials and articles on Forex trading basics and strategies.
+
+[5]: ["Trading Economics"](https://tradingeconomics.com). Real-time economic data and statistics essential for fundamental analysis.
+
+[6]: ["OECD Economic Outlook"](https://www.oecd.org/economic-outlook/). Reports providing analysis and forecasts on global economic conditions affecting Forex markets.

@@ -104,8 +104,8 @@ Exploring and adopting transformer models can lead to significant improvements i
 
 [2]: ["Transformers for Natural Language Processing: Build innovative deep neural network architectures for NLP with Python, PyTorch, TensorFlow, BERT, RoBERTa, and more"](https://www.amazon.fr/Transformers-Natural-Language-Processing-architectures/dp/1800565798) by Denis Rothman
 
-[4]: Dunis, C., Middleton, P. W., Karathanasopolous, A., & Theofilatos, K. (2016). ["Artificial Intelligence in Financial Markets: Cutting Edge Applications for Risk Management, Portfolio Optimization and Economics."](https://link.springer.com/book/10.1057/978-1-137-48880-0) Wiley.
+[3]: Dunis, C., Middleton, P. W., Karathanasopolous, A., & Theofilatos, K. (2016). ["Artificial Intelligence in Financial Markets: Cutting Edge Applications for Risk Management, Portfolio Optimization and Economics."](https://link.springer.com/book/10.1057/978-1-137-48880-0) Wiley.
 
-[5]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+[4]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
 
-[6]: ["Machine Learning for Algorithmic Trading – Second Edition"](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715) by Stefan Jansen
+[5]: ["Machine Learning for Algorithmic Trading – Second Edition"](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715) by Stefan Jansen

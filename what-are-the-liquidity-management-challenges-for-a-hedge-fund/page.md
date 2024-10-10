@@ -136,3 +136,14 @@ To effectively cope with these challenges, hedge funds must adopt robust liquidi
 The importance of strong liquidity management cannot be overstated, as it is crucial for not only sustaining hedge funds’ day-to-day operations but also for achieving long-term success. With the constantly evolving financial landscape, hedge funds must continuously adapt and refine their liquidity management practices. Incorporating technological advancements and leveraging data analytics can provide competitive advantages and ensure that hedge funds are well-prepared to meet future challenges. The ability to dynamically adjust liquidity strategies in response to shifting market conditions and investor expectations is essential for maintaining stability and achieving growth.
 
 
+
+
+## References & Further Reading
+
+[1]: Getmansky, M., Lo, A. W., & Makarov, I. (2004). ["An Econometric Model of Serial Correlation and Illiquidity in Hedge Fund Returns."](https://www.sec.gov/spotlight/hedgefunds/hedgeloetal2.pdf) The Review of Financial Studies, 17(2), 531–569.
+
+[2]: Dichev, I. D., & Yu, G. (2011). ["Higher risk, lower returns: What hedge fund investors really earn."](https://www.sciencedirect.com/science/article/abs/pii/S0304405X1100016X) Journal of Financial Economics, 100(2), 248–263.
+
+[3]: Liang, B. (2003). ["The Accuracy of Hedge Fund Returns."](https://www.pm-research.com/content/iijpormgmt/29/3/111) Journal of Portfolio Management, 29(3), 111-122.
+
+[5]: Aragon, G. O., & Strahan, P. E. (2012). ["Hedge Funds as Liquidity Providers: Evidence from the Lehman Bankruptcy."](https://www.sciencedirect.com/science/article/abs/pii/S0304405X11002364) Journal of Financial Economics, 103(3), 570-587.

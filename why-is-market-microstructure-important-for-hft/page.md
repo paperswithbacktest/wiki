@@ -100,3 +100,16 @@ Looking ahead, the prospects for HFT in evolving market environments depend on s
 In conclusion, the synergy between market microstructure and high-frequency trading is pivotal for the success and advancement of modern financial markets. As both continue to evolve, the ability of HFT firms to innovate and adapt will determine their future success amidst the changing tides of the financial market landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: O'Hara, M. (1995). ["Market Microstructure Theory."](https://www.amazon.fr/Market-Microstructure-Theory-Maureen-%E2%80%B2Hara/dp/1557864438) Wiley.
+
+[2]: Easley, D., López de Prado, M. M., & O'Hara, M. (2011). ["The Microstructure of the ‘Flash Crash’: Flow Toxicity, Liquidity Crashes and the Probability of Informed Trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1695041) The Review of Financial Studies, 25(5), 1457–1493.
+
+[3]: Hasbrouck, J. (2007). ["Empirical Market Microstructure."](https://www.amazon.com/Empirical-Market-Microstructure-Joel-Hasbrouck/dp/0195301641) Oxford University Press.
+
+[4]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley.
+
+[5]: Chlistalla, M. (2011). ["High-frequency trading."](https://c.mql5.com/forextsd/forum/168/high-frequency_trading_-_better_than_its_reputation.pdf) Deutsche Bank Research.

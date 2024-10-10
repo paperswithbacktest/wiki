@@ -115,3 +115,14 @@ However, the integration of zero-shot learning in financial technologies is stil
 In summary, zero-shot learning has the potential to revolutionize algorithmic trading by facilitating more agile and efficient data processing and decision-making strategies. As the financial sector continues to innovate, embracing such cutting-edge methodologies will be crucial. Exploring and adopting zero-shot learning could pave the way for future advancements and breakthroughs in financial technology, propelling the industry toward greater efficiency and intelligence.
 
 
+
+
+## References & Further Reading
+
+[1]: Xian, Y., Schiele, B., & Akata, Z. (2017). ["Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly."](https://arxiv.org/abs/1707.00600) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[2]: Silver, N., & Clark, D. (2012). ["The Signal and the Noise: Why So Many Predictions Fail—but Some Don't."](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail/dp/0143125087) Penguin Group.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing.

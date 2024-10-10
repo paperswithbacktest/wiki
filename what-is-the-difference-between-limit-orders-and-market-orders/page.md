@@ -102,8 +102,6 @@ Deciding between these order types ultimately hinges on the trader’s objective
 
 ## FAQs
 
-### FAQs
-
 **What happens if a limit order cannot be executed?**
 
 If a limit order cannot be executed, it simply remains open or pending in the market until it is filled or canceled by the trader. This happens because the market price has not reached the specified limit price set by the trader. In some cases, as market prices fluctuate, the order may eventually be filled. However, if the security's price does not meet or exceed the limit price during the order's active period, the order will not be executed, potentially causing missed trading opportunities.
@@ -123,3 +121,18 @@ Market volatility can significantly impact the execution and outcomes of both ma
 In conclusion, understanding how market volatility influences order types can help traders make informed decisions and tailor their strategies to current market conditions.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Market Microstructure and Price Formation"](https://www.amazon.fr/Market-Microstructure-Confronting-Many-Viewpoints-ebook/dp/B0186MRVKA) by Jean-Philippe Bouchaud, Marc Potters, and Jozef Kokosz
+
+[2]: Harris, Larry (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.acsu.buffalo.edu/~keechung/MGF743/Readings/Trading-Exchanges-Market-Microstructure-Practitioners%20Draft%20Copy.pdf) Oxford University Press.
+
+[3]: Hasbrouck, Joel (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://www.amazon.fr/Empirical-Market-Microstructure-Institutions-Econometrics/dp/0195301641) Oxford University Press.
+
+[4]: O'Hara, Maureen (1995). ["Market Microstructure Theory."](https://www.amazon.fr/Market-Microstructure-Theory-Maureen-%E2%80%B2Hara/dp/1557864438) Wiley-Blackwell.
+
+[5]: ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications."](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661) by John J. Murphy
+
+[6]: ["Option Volatility and Pricing: Advanced Trading Strategies and Techniques"](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774) by Sheldon Natenberg

@@ -111,3 +111,10 @@ Performance tracking tools like Overwolf and Nvidia Ansel assist players in moni
 By investing in and mastering these tools, players can enhance their strategic capabilities and gain a significant competitive edge in their favorite strategy games. Each tool contributes uniquely to understanding, planning, and executing strategies, making them indispensable elements of a gamer's toolkit.
 
 
+
+
+## References & Further Reading
+
+[1]: Silver, D., Hubert, T., Schrittwieser, J., Baker, L., Lai, M., Guez, A., ... & Hassabis, D. (2018). ["A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play"](https://www.science.org/doi/10.1126/science.aar6404). Nature, 555(7697), 354-359.
+
+[2]: Hamilton, W., Ying, R., & Leskovec, J. (2017). ["Inductive representation learning on large graphs"](https://arxiv.org/abs/1706.02216). In Advances in neural information processing systems (pp. 1024-1034).

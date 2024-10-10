@@ -118,3 +118,20 @@ Culturally, the United States encourages risk-taking and entrepreneurial venture
 Looking ahead, quantitative finance is poised for continued growth globally, with emerging markets exploring similar frameworks to harness their potential. Other countries can emulate the US model by investing in technological infrastructure, fostering academic-financial partnerships, and crafting favorable regulatory environments. By doing so, they can cultivate their ecosystems for quantitative finance, potentially leveling the playing field and introducing new competitive dynamics to the industry.
 
 
+
+
+## References & Further Reading
+
+[1]: Markowitz, H. (1952). ["Portfolio Selection."](https://www.jstor.org/stable/2975974) The Journal of Finance, 7(1), 77-91.
+
+[2]: Sharpe, W. F. (1964). ["Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk."](https://www.jstor.org/stable/2977928) The Journal of Finance, 19(3), 425-442.
+
+[3]: Thorp, E. O. (1966). ["Beat the Market: A Scientific Stock Market System."](https://www.amazon.com/Beat-Market-Scientific-Stock-System/dp/0394424395) Random House.
+
+[4]: Zuckerman, G. (2019). ["The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution."](https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/073521798X) Penguin Random House.
+
+[5]: Black, F., & Scholes, M. (1973). ["The Pricing of Options and Corporate Liabilities."](https://www.jstor.org/stable/1831029) Journal of Political Economy, 81(3), 637-654.
+
+[6]: Fama, E. F. (1970). ["Efficient Capital Markets: A Review of Theory and Empirical Work."](https://www.jstor.org/stable/2325486) The Journal of Finance, 25(2), 383-417.
+
+[7]: Patterson, S. (2011). ["The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It."](https://www.crownpublishing.com/archives/blog/the-quants) Crown Publishing Group.

@@ -178,38 +178,24 @@ The integration of machine learning into quantitative trading further amplifies 
 In conclusion, quantitative trading offers a strategic edge in today’s fast-paced financial environment. However, traders must remain vigilant, continually updating their knowledge and tools to keep pace with evolving market conditions and technological advancements. By balancing the potential rewards with careful risk management, traders can leverage quantitative strategies to optimize their trading outcomes effectively.
 
 
-## References
+## References & Further Reading
 
-1. **Scholarly Articles and Academic Papers:**
+[1]: Avellaneda, M., & Stoikov, S. (2008). ["High-frequency trading in a limit order book."](https://math.nyu.edu/~avellane/HighFrequencyTrading.pdf) Quantitative Finance, 8(3), 217-224.
 
-   - Avellaneda, M., & Stoikov, S. (2008). "High-frequency trading in a limit order book". *Quantitative Finance*, 8(3), 217-224. This paper explores the application of market-making and statistical arbitrage strategies in high-frequency trading environments.
-   
-   - Jegadeesh, N., & Titman, S. (1993). "Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency". *The Journal of Finance*, 48(1), 65-91. This study investigates trend-following strategies and their implications for market efficiency.
-   
-   - Lo, A. W., & MacKinlay, A. C. (1990). "When Are Contrarian Profits Due to Stock Market Overreaction?". *Review of Financial Studies*, 3(2), 175-205. This work discusses the mean reversion strategy and its underlying mechanisms in the context of market overreactions.
+[2]: Jegadeesh, N., & Titman, S. (1993). ["Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1993.tb04702.x) The Journal of Finance, 48(1), 65-91.
 
-2. **Books:**
+[3]: Lo, A. W., & MacKinlay, A. C. (1990). ["When Are Contrarian Profits Due to Stock Market Overreaction?"](https://www.jstor.org/stable/2962020) Review of Financial Studies, 3(2), 175-205.
 
-   - Narang, R. K. (2013). *Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading*. Wiley Finance. This book provides a comprehensive overview of quant trading strategies and demystifies the inner workings of quant trading systems.
+[4]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading."](https://www.amazon.fr/Inside-Black-Box-Quantitative-Frequency/dp/1118362411) Wiley Finance.
 
-   - Ernie Chan, E. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Wiley. This book guides readers through the process of developing and implementing quant trading strategies, including market making, trend following, and statistical arbitrage.
+[5]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://www.amazon.fr/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) Wiley.
 
-3. **Online Resources:**
+[6]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado.
 
-   - QuantStart.com. This website offers a range of tutorials, guides, and articles on quant trading strategies, focusing on algorithmic trading and the use of Python for building trading systems.
+[7]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson.
 
-   - TradingView Insights. TradingView provides insights and analytics on various trading strategies, offering tools and data visualization services that support quant traders in developing strategies like trend following and mean reversion.
+[8]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen.
 
-4. **Financial News Sources:**
+[9]: Hull, J. (2017). ["Options, Futures, and Other Derivatives."](https://www.pearson.com/us/higher-education/program/Hull-Options-Futures-and-Other-Derivatives-10th-Edition/PGM1313280.html) Pearson.
 
-   - Bloomberg. Regularly publishes in-depth articles and analysis on quantitative trading and the impact of technology on financial markets, offering insights into the latest trends and strategies employed by leading financial institutions.
-
-   - Financial Times. Covers a broad spectrum of financial topics, including quantitative trading strategies and their effects on market dynamics, providing updates on the evolution of trading technology and regulatory considerations.
-
-5. **Academic Discussions and Mathematical Foundations:**
-
-   - Hull, J. (2017). *Options, Futures, and Other Derivatives*. Pearson. A widely used textbook in the field of quantitative finance, this book covers the mathematical models and analytical techniques essential for understanding and constructing quant trading strategies.
-
-   - Shreve, S. E. (2004). *Stochastic Calculus for Finance*. Volume I: The Binomial Asset Pricing Model. Springer. This academic work delves into the stochastic processes and mathematical foundations critical for the development of sophisticated quant trading models.
-
-
+[10]: Shreve, S. E. (2004). ["Stochastic Calculus for Finance."](https://link.springer.com/book/10.1007/978-1-4614-0320-7) Volume I: The Binomial Asset Pricing Model. Springer.

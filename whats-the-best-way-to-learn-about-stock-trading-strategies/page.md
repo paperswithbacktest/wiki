@@ -161,3 +161,31 @@ Experimentation is crucial in finding the most suitable path. Every trader is un
 Ultimately, learning stock trading is not a one-size-fits-all journey—it is about discovering what resonates with you and continually seeking new knowledge to refine your approach. This proactive mindset sets the stage for long-term success and resilience in the ever-evolving world of stock trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Graham, B. (1949). ["The Intelligent Investor."](https://www.amazon.com/Intelligent-Investor-Definitive-Value-Investing/dp/0060555661) Harper & Brothers.
+
+[2]: Malkiel, B. G. (1973). ["A Random Walk Down Wall Street."](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338) W.W. Norton & Company.
+
+[3]: Elder, A. (1993). ["Trading for a Living: Psychology, Trading Tactics, Money Management."](https://www.amazon.com/Trading-Living-Psychology-Tactics-Management/dp/0471592242) John Wiley & Sons.
+
+[4]: Schwager, J. D. (1989). ["Market Wizards: Interviews with Top Traders."](https://www.amazon.com/Market-Wizards-Interviews-Top-Traders/dp/1118273044) John Wiley & Sons.
+
+[5]: Lefèvre, E. (1923). ["Reminiscences of a Stock Operator."](https://www.amazon.com/Reminiscences-Stock-Operator-Edwin-Lef%C3%A8vre/dp/0471770884) George H. Doran Company.
+
+[6]: ["Financial Markets"](https://www.coursera.org/learn/financial-markets-global) by Yale University on Coursera.
+
+[7]: ["Stock Trading and Investing for Beginners 4-in-1 Course Bundle"](https://www.udemy.com/course/complete-stock-market-starter-toolkit-for-beginners/) on Udemy.
+
+[8]: ["Become a Day Trader"](https://www.investopedia.com/articles/active-trading/051415/10-steps-becoming-day-trader.asp) on Investopedia Academy.
+
+[9]: [Investopedia Simulator](https://www.investopedia.com/simulator/)
+
+[10]: [TD Ameritrade's thinkorswim](https://www.schwab.com/td-ameritrade)
+
+[11]: [Wall Street Survivor](https://www.wallstreetsurvivor.com/)
+
+
+

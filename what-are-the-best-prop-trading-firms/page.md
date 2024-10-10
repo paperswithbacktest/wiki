@@ -228,3 +228,22 @@ Research is critical when selecting a prop trading firm. Look for firms with a s
 These FAQs aim to provide a clear understanding of prop trading and working with these firms. For further information, consider resources such as industry-specific publications, webinars, and [course](/wiki/best-algorithmic-trading-courses)s offered by financial education platforms.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley.
+
+[2]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) Oxford University Press.
+
+[3]: Narang, R. (2013). ["Inside the Black Box: The Simple Truth About Quantitative Trading, 2nd Edition."](https://www.amazon.fr/Inside-Black-Box-Quantitative-Trading/dp/0470432063) Wiley.
+
+[4]: Patterson, S. (2010). ["The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It."](https://www.amazon.com/Quants-Whizzes-Conquered-Street-Destroyed/dp/0307453383) Crown Business.
+
+[5]: MacKenzie, D. (2008). ["An Engine, Not a Camera: How Financial Models Shape Markets."](https://www.jstor.org/stable/10.1086/518053) MIT Press.
+
+[6]: Rishi K. Narang, "Trading and Exchanges: Market Microstructure for Practitioners" (2003). 
+
+[7]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management."](https://www.elsevier.com/books/the-science-of-algorithmic-trading-and-portfolio-management/kissell/978-0-12-401689-7) Academic Press.
+
+[8]: Spooner, J. (2011). ["Diary of a Day Trader."](https://www.asx.com.au/blog/investor-update/2022/diary-of-a-day-trader) Harriman House.

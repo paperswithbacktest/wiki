@@ -52,3 +52,18 @@ description: "Discover the top platforms for backtesting and automated trading, 
 
 - **Description**: A comprehensive platform combining technical analysis, backtesting and automated trading.
 - **Features**: With its own scripting language, EasyLanguage, users can develop complex strategies and test them with integrated historical data.
+
+
+## References & Further Reading
+
+[1]: ["Expert Advisor Programming for MetaTrader 5: Creating automated trading systems in the MQL5 language"](https://www.amazon.com/Expert-Advisor-Programming-MetaTrader-automated/dp/0982645929) by Andrew R. Young
+
+[2]: ["Hands-On Machine Learning for Algorithmic Trading"](https://www.amazon.com/Hands-Machine-Learning-Algorithmic-Trading/dp/178934641X) by Stefan Jansen
+
+[3]: ["BackTrader Documentation"](https://www.backtrader.com/doc/) available at Backtrader's official site
+
+[4]: ["QuantLib: A software library for quantitative finance"](https://www.quantlib.org/) by Luigi Ballabio
+
+[5]: ["Building Automated Trading Systems: With an Introduction to Zipline"](https://github.com/quantopian/zipline) by Kevin Davey
+
+[6]: ["Trading Systems and Methods"](https://www.amazon.com/Trading-Systems-Methods-Wiley/dp/1119605350) by Perry J. Kaufman

@@ -213,3 +213,9 @@ Looking ahead, the integration of advanced technology in transaction cost manage
 In conclusion, businesses must continually adapt to technological advancements and harness these innovations to maintain efficient transaction processes. By doing so, they ensure not only cost savings but also enhanced operational efficiency and competitiveness in today's dynamic market.
 
 
+
+
+## References & Further Reading
+
+[1]: AMF, CFM (2019). ["Some Stylized Facts On Transaction Costs And Their Impact On Investors"](https://www.amf-france.org/sites/institutionnel/files/resource/Some%20stylized%20facts%20on%20transaction%20costs%20-%20Presentation%20CA%20Lehalle.pdf).
+

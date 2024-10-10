@@ -135,3 +135,20 @@ Looking forward, the future of algorithmic trading promises even greater integra
 As we reflect on these changes, it becomes apparent that algorithmic trading is more than just a tool; it acts as a driving force in the global financial system. It demands continuous adaptation and innovation from traders, regulators, and technology developers alike. One must ponder how upcoming technological advancements will further influence financial markets and what new paradigms of trading they might introduce. The ongoing evolution of algorithmic trading invites us to remain vigilant and proactive, ensuring that it serves the markets' best interests in a fair and equitable manner.
 
 
+
+
+## References & Further Reading
+
+[1]: Kirilenko, A. A., Kyle, A. S., Samadi, M., & Tuzun, T. (2017). ["The Flash Crash: High-Frequency Trading in an Electronic Market"](https://www.jstor.org/stable/26652722). Review of Financial Studies, 30(11), 2221-2222.
+
+[2]: European Securities and Markets Authority. (2018). ["MiFID II/MiFIR."](https://www.esma.europa.eu/policy-rules/mifid-ii-and-mifir)
+
+[3]: U.S. Securities and Exchange Commission. (2012). ["Concept Release on Equity Market Structure."](https://www.sec.gov/rules/concept/2010/34-61358.pdf)
+
+[4]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) John Wiley & Sons.
+
+[5]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) John Wiley & Sons.
+
+[6]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) Packt Publishing.
+
+[7]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) John Wiley & Sons.
