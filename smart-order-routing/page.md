@@ -78,13 +78,15 @@ Cross-border routing strategies expand liquidity pools and uncover more trading 
 
 To mathematically express this, we can denote the profit from trading in different venues as:
 
-\[ \text{Profit} = (P_1 \times Q - F_1) \times \text{FXR} - (P_2 \times Q - F_2) \]
+$$
+\text{Profit} = (P_1 \times Q - F_1) \times \text{FXR} - (P_2 \times Q - F_2)
+$$
 
 where:
-- \( P_1 \) and \( P_2 \) are the prices in the local currencies of Venue 1 and Venue 2 respectively,
-- \( Q \) is the quantity of stock,
-- \( F_1 \) and \( F_2 \) are the fees associated with trading at Venue 1 and Venue 2,
-- \(\text{FXR}\) is the foreign exchange rate between these venues.
+- $P_1$ and $P_2$ are the prices in the local currencies of Venue 1 and Venue 2 respectively,
+- $Q$ is the quantity of stock,
+- $F_1$ and $F_2$ are the fees associated with trading at Venue 1 and Venue 2,
+- $\text{FXR}$ is the foreign exchange rate between these venues.
 
 By effectively leveraging FX rates and optimizing routing strategies, traders can enhance the efficiency and profitability of their international trading activities. Additionally, this approach mitigates the risks associated with currency fluctuations and ensures competitive execution amidst diverse global market dynamics.
 

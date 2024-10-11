@@ -26,9 +26,9 @@ The core principle of Monte Carlo simulations is the process of random sampling.
 
 Consider an example where Monte Carlo methods might be used to approximate the value of π. By randomly placing points in a square that contains a quarter circle and counting the number of points inside the quarter circle versus the total number of points, one can estimate π based on the ratio of the areas:
 
-\[
+$$
 \pi \approx 4 \times \frac{\text{Number of points inside the circle}}{\text{Total number of points}}
-\]
+$$
 
 This simple illustration underlines the essence of Monte Carlo methods—leveraging random sampling to approximate results.
 
@@ -45,9 +45,11 @@ In algorithmic trading, Monte Carlo simulations can evaluate crucial financial m
 
 Monte Carlo simulations are particularly valuable in modeling stock price movements, which follow stochastic processes like the Geometric Brownian Motion (GBM). The GBM model is characterized by the stochastic differential equation:
 
-\[ dS_t = \mu S_t dt + \sigma S_t dW_t \]
+$$
+dS_t = \mu S_t dt + \sigma S_t dW_t
+$$
 
-where \( S_t \) is the stock price, \( \mu \) is the drift rate, \( \sigma \) is the volatility, and \( W_t \) is a Wiener process or Brownian motion. By generating a large number of paths that this process might take, Monte Carlo simulations help determine the distribution of possible stock prices at a future date. This is integral for assessing the viability of trading strategies which are contingent on future price movements.
+where $S_t$ is the stock price, $\mu$ is the drift rate, $\sigma$ is the volatility, and $W_t$ is a Wiener process or Brownian motion. By generating a large number of paths that this process might take, Monte Carlo simulations help determine the distribution of possible stock prices at a future date. This is integral for assessing the viability of trading strategies which are contingent on future price movements.
 
 The application of Monte Carlo methods in trade outcome modeling is equally significant. Traders can assess the probable outcomes of executing a specific trading strategy by accounting for the randomness of market conditions. For example, simulating 10,000 potential market paths allows a trader to evaluate the frequency and magnitude of profitable versus unprofitable trades, providing a comprehensive view of a strategy’s potential performance.
 
@@ -87,9 +89,11 @@ Monte Carlo simulations are essential for addressing the compl[exit](/wiki/exit-
 
 In option pricing, Monte Carlo simulations help in estimating the fair value of derivatives. Traditional models, such as the Black-Scholes, are based on specific assumptions about market conditions and volatility. However, these assumptions often do not hold in more complex real-world scenarios. Monte Carlo methods offer a flexible alternative by simulating thousands of random price paths to estimate the expected payoff of an option. This is particularly useful for pricing exotic options and derivatives with path-dependent features, where analytical solutions may not exist. The basic formula for estimating the price of a European call option using Monte Carlo simulation is represented by:
 
-\[ C = e^{-rT} \frac{1}{N} \sum_{i=1}^{N} \max(S_i - K, 0) \]
+$$
+C = e^{-rT} \frac{1}{N} \sum_{i=1}^{N} \max(S_i - K, 0)
+$$
 
-where \( C \) is the option price, \( r \) is the risk-free rate, \( T \) is the time to expiration, \( N \) is the number of simulated paths, \( S_i \) is the simulated terminal stock price, and \( K \) is the strike price.
+where $C$ is the option price, $r$ is the risk-free rate, $T$ is the time to expiration, $N$ is the number of simulated paths, $S_i$ is the simulated terminal stock price, and $K$ is the strike price.
 
 Case studies highlighting the effectiveness of Monte Carlo methods in trading are numerous. For instance, a financial institution might use this method to simulate potential outcomes of their trading strategies during different market conditions, such as the 2008 financial crisis or the COVID-19 pandemic. The insights gained include better understanding of tail risks and more informed strategic decision-making. Additionally, asset managers often employ Monte Carlo simulations to optimize portfolio allocation by assessing how different asset mixes perform under various economic scenarios, thus ensuring more robust portfolio construction.
 

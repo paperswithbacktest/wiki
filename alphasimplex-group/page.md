@@ -27,7 +27,9 @@ In 2007, AlphaSimplex demonstrated its innovative prowess by collaborating with 
 
 Another hallmark of AlphaSimplex's expertise is their Managed Futures Strategy Fund, introduced in 2010. This fund capitalizes on trend-following strategies underpinned by sophisticated quantitative models. By analyzing past market trends, these models identify and exploit future price dynamics, optimizing portfolio allocations. The trend-following strategy is mathematically represented through various methods, one of which is:
 
-\[ \text{Signal} = \frac{\text{Current Price} - \text{Moving Average}}{\text{Volatility}} \]
+$$
+\text{Signal} = \frac{\text{Current Price} - \text{Moving Average}}{\text{Volatility}}
+$$
 
 The model generates trading signals based on the deviation of current market prices from their long-term moving averages, normalized by their [volatility](/wiki/volatility-trading-strategies). Such a strategy enables the fund to adapt swiftly to changing market conditions, showcasing AlphaSimplex's capability to utilize algorithms for resilient investment management.
 

@@ -22,19 +22,19 @@ Unlike the Engle-Granger test, which is only applicable to two time series and r
 
 The Johansen test has two main types: the trace test and the maximum eigenvalue test. Both are based on the eigenvalues of the matrix involved in the Vector Error Correction Model (VECM).
 
-1. **Trace Test:** The trace test examines the null hypothesis that the number of cointegrating vectors is less than or equal to \( r \) against the alternative of more than \( r \) cointegrating vectors. The test statistic is given by:
-
-   \[
+1. **Trace Test:** The trace test examines the null hypothesis that the number of cointegrating vectors is less than or equal to $r$ against the alternative of more than $r$ cointegrating vectors. The test statistic is given by:
+$$
    \text{Trace statistic} = -T \sum_{i=r+1}^{n} \ln(1-\lambda_i)
-   \]
+  
+$$
 
-   where \( \lambda_i \) are the estimated eigenvalues and \( T \) is the sample size.
+   where $\lambda_i$ are the estimated eigenvalues and $T$ is the sample size.
 
-2. **Maximum Eigenvalue Test:** Conversely, the maximum eigenvalue test assesses the null hypothesis that the number of cointegrating vectors is \( r \) against the alternative of \( r+1 \). It focuses on the largest eigenvalue using the following test statistic:
-
-   \[
+2. **Maximum Eigenvalue Test:** Conversely, the maximum eigenvalue test assesses the null hypothesis that the number of cointegrating vectors is $r$ against the alternative of $r+1$. It focuses on the largest eigenvalue using the following test statistic:
+$$
    \text{Maximum eigenvalue statistic} = -T \ln(1-\lambda_{r+1})
-   \]
+  
+$$
 
 These tests allow traders and economists to test the hypothesis concerning the number of cointegrating relationships in a more nuanced fashion than earlier methods.
 
@@ -60,29 +60,35 @@ In summary, the application of the Johansen test in algorithmic trading is a sop
 
 The Johansen test is a robust statistical method used to determine the cointegration relationships among multiple time series variables, specifically those that are integrated of order one, denoted as I(1). This test is particularly valuable in financial markets for identifying long-term equilibrium relationships between assets.
 
-Mathematically, the Johansen test involves the estimation of Vector Autoregressive (VAR) models. A VAR model of order \( p \) for time series data \( \mathbf{y}_t \) can be expressed as:
+Mathematically, the Johansen test involves the estimation of Vector Autoregressive (VAR) models. A VAR model of order $p$ for time series data $\mathbf{y}_t$ can be expressed as:
 
-\[ \mathbf{y}_t = A_1 \mathbf{y}_{t-1} + A_2 \mathbf{y}_{t-2} + \ldots + A_p \mathbf{y}_{t-p} + \mathbf{u}_t \]
+$$
+\mathbf{y}_t = A_1 \mathbf{y}_{t-1} + A_2 \mathbf{y}_{t-2} + \ldots + A_p \mathbf{y}_{t-p} + \mathbf{u}_t
+$$
 
-where \( \mathbf{y}_t \) is a vector of time series variables, \( A_i \) are the coefficient matrices, and \( \mathbf{u}_t \) is a vector of error terms.
+where $\mathbf{y}_t$ is a vector of time series variables, $A_i$ are the coefficient matrices, and $\mathbf{u}_t$ is a vector of error terms.
 
 The Johansen test uses Vector Error Correction Models (VECM), which are a restricted form of VAR for cointegrated series. It can be expressed as:
 
-\[ \Delta \mathbf{y}_t = \Pi \mathbf{y}_{t-1} + \sum_{i=1}^{p-1} \Gamma_i \Delta \mathbf{y}_{t-i} + \mathbf{u}_t \]
+$$
+\Delta \mathbf{y}_t = \Pi \mathbf{y}_{t-1} + \sum_{i=1}^{p-1} \Gamma_i \Delta \mathbf{y}_{t-i} + \mathbf{u}_t
+$$
 
-where \( \Delta \) represents the first difference operator, \(\Pi\) is the matrix that captures the long-run relationships among the variables, and \(\Gamma_i\) captures short-run dynamics.
+where $\Delta$ represents the first difference operator, $\Pi$ is the matrix that captures the long-run relationships among the variables, and $\Gamma_i$ captures short-run dynamics.
 
-A crucial component of the Johansen test is determining the rank of the matrix \(\Pi\). If \(\Pi\) has reduced rank \( r \), then there are \( r \) cointegrating relationships among the variables. The test provides two [statistics](/wiki/bayesian-statistics) to test hypotheses regarding the rank of \(\Pi\): the trace test and the maximum eigenvalue test.
+A crucial component of the Johansen test is determining the rank of the matrix $\Pi$. If $\Pi$ has reduced rank $r$, then there are $r$ cointegrating relationships among the variables. The test provides two [statistics](/wiki/bayesian-statistics) to test hypotheses regarding the rank of $\Pi$: the trace test and the maximum eigenvalue test.
 
-1. **Trace Test**: This test evaluates the null hypothesis that there are at most \( r \) cointegration vectors. The statistic is calculated as:
+1. **Trace Test**: This test evaluates the null hypothesis that there are at most $r$ cointegration vectors. The statistic is calculated as:
 
-   \[ \text{Trace Statistic} = -T \sum_{i=r+1}^{N} \ln(1-\lambda_i) \]
+   \[ \text{Trace Statistic} = -T \sum_{i=r+1}^{N} \ln(1-\lambda_i)
+$$
 
-   where \( T \) is the sample size and \(\lambda_i\) are the eigenvalues.
+   where $T$ is the sample size and $\lambda_i$ are the eigenvalues.
 
-2. **Maximum Eigenvalue Test**: This test assesses the null hypothesis that there are exactly \( r \) cointegrating relationships against the alternative of \( r+1 \) cointegrating vectors:
+2. **Maximum Eigenvalue Test**: This test assesses the null hypothesis that there are exactly $r$ cointegrating relationships against the alternative of $r+1$ cointegrating vectors:
 
-   \[ \text{Max-Eigen Statistic} = -T \ln(1-\lambda_{r+1}) \]
+   \[ \text{Max-Eigen Statistic} = -T \ln(1-\lambda_{r+1})
+$$
 
 Both tests help determine the number of cointegrating vectors, thereby identifying the long-term equilibrium relationships among the time series.
 

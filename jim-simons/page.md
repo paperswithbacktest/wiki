@@ -33,9 +33,11 @@ Jim Simons has made significant academic and scientific contributions, particula
 
 One of Simons' most notable collaborations was with Shiing-Shen Chern, a prominent mathematician. Together, they developed the Chern–Simons theory, which has had a profound impact on both mathematics and theoretical physics. The Chern–Simons form, which is an integral invariant of a three-dimensional manifold, is central to this theory. The mathematical expression for the Chern–Simons form can be articulated as:
 
-\[ CS(\omega) = \int_M \text{Tr}(A \wedge dA + \frac{2}{3} A \wedge A \wedge A) \]
+$$
+CS(\omega) = \int_M \text{Tr}(A \wedge dA + \frac{2}{3} A \wedge A \wedge A)
+$$
 
-where \( A \) represents the gauge field connection, \( dA \) is its exterior derivative, and \( M \) denotes a three-dimensional manifold.
+where $A$ represents the gauge field connection, $dA$ is its exterior derivative, and $M$ denotes a three-dimensional manifold.
 
 Simons' academic contributions extend beyond theoretical developments. His groundbreaking work has influenced the way physicists understand gauge theories and has stimulated further research into quantum field theory. In recognition of his mathematical achievements, Simons has received numerous accolades, including being named a Fellow of the American Academy of Arts and Sciences.
 
@@ -54,11 +56,13 @@ The flagship product of Renaissance Technologies, the Medallion Fund, exemplifie
 
 Central to the success of Renaissance Technologies is the employment of complex mathematical models. These models incorporate a wide range of variables and utilize methods from fields such as statistical [arbitrage](/wiki/arbitrage), [machine learning](/wiki/machine-learning), and natural language processing to discern patterns otherwise invisible to traditional investors. The firm's quantitative approach is informed by the collective expertise of a team comprised largely of scientists and mathematicians, rather than conventional financial professionals.
 
-One mathematical approach used involves regression analysis, which identifies relationships between variables. For example, the firm might model expected returns (\( R \)) based on factors such as [volume](/wiki/volume-trading-strategy) (\( V \)), [volatility](/wiki/volatility-trading-strategies) (\( \sigma \)), and other relevant data points (\( X_1, X_2, \ldots, X_n \)):
+One mathematical approach used involves regression analysis, which identifies relationships between variables. For example, the firm might model expected returns ($R$) based on factors such as [volume](/wiki/volume-trading-strategy) ($V$), [volatility](/wiki/volatility-trading-strategies) ($\sigma$), and other relevant data points ($X_1, X_2, \ldots, X_n$):
 
-\[ R = \beta_0 + \beta_1V + \beta_2\sigma + \sum_{i=3}^{n} \beta_iX_i + \epsilon \]
+$$
+R = \beta_0 + \beta_1V + \beta_2\sigma + \sum_{i=3}^{n} \beta_iX_i + \epsilon
+$$
 
-where \( \beta \) coefficients represent the relationship strength between each variable and \( R \), and \( \epsilon \) represents the error term.
+where $\beta$ coefficients represent the relationship strength between each variable and $R$, and $\epsilon$ represents the error term.
 
 Overall, the establishment of Renaissance Technologies and its mission to redefine investment through quantitative strategies has had a profound impact on financial markets. The pioneering role of mathematical models not only facilitated extraordinary financial gains but also set a new standard for hedge fund operations in the digital age. Through its advanced algorithms and comprehensive data analysis, the firm continues to be a paradigm of innovation and success in quantitative finance.
 

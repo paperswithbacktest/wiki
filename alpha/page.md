@@ -20,17 +20,17 @@ Alpha is a critical metric in evaluating the effectiveness of investment strateg
 
 In [algorithmic trading](/wiki/algorithmic-trading), where decisions are statistically driven and executed at high speeds, generating a positive Alpha indicates that the strategy has effectively capitalized on patterns or anomalies in the market that are not reflected in the broader market movements. This could be due to unique strategies involving timing, asset selection, or statistical [arbitrage](/wiki/arbitrage) that consistently produce additional returns.
 
-Mathematically, Alpha is the intercept in the regression line of the Capital Asset Pricing Model (CAPM). The formula for calculating Alpha (\(\alpha\)) is expressed as:
+Mathematically, Alpha is the intercept in the regression line of the Capital Asset Pricing Model (CAPM). The formula for calculating Alpha ($\alpha$) is expressed as:
 
-\[
+$$
 \alpha = R_p - [R_f + \beta \times (R_m - R_f)]
-\]
+$$
 
 Where:
-- \( R_p \) is the actual return of the portfolio,
-- \( R_f \) is the risk-free rate of return,
-- \( \beta \) is the Beta coefficient, representing the portfolio's sensitivity to market movements,
-- \( R_m \) is the expected return of the market.
+- $R_p$ is the actual return of the portfolio,
+- $R_f$ is the risk-free rate of return,
+- $\beta$ is the Beta coefficient, representing the portfolio's sensitivity to market movements,
+- $R_m$ is the expected return of the market.
 
 A positive Alpha signifies that the algorithmic strategy has successfully outperformed the market index, after accounting for risk, while a negative Alpha indicates underperformance compared to the index. Algorithmic traders continuously refine their models to ensure the Alpha remains positive, thus validating the effectiveness of their trading strategies.
 
@@ -43,11 +43,11 @@ Alpha is an essential metric in modern portfolio theory, serving as a foundation
 
 The expression for calculating Alpha is:
 
-\[
+$$
 \alpha = R_i - [R_f + \beta_i \times (R_m - R_f)]
-\]
+$$
 
-where \(R_i\) is the actual return of the investment, \(R_f\) is the risk-free rate of return, \(\beta_i\) is the Beta of the investment, and \(R_m\) is the expected market return. Alpha, therefore, represents the portion of the investment's return that is attributable to the skill of the fund manager, independent of the risk assumed.
+where $R_i$ is the actual return of the investment, $R_f$ is the risk-free rate of return, $\beta_i$ is the Beta of the investment, and $R_m$ is the expected market return. Alpha, therefore, represents the portion of the investment's return that is attributable to the skill of the fund manager, independent of the risk assumed.
 
 Alpha's importance lies in its ability to reveal the value added by a portfolio's active management in comparison to passive market indices. A positive Alpha indicates that a portfolio has outperformed market expectations, suggesting successful investment strategies and sound decision-making by the portfolio manager. Conversely, a negative Alpha suggests underperformance, highlighting the potential need for strategy revision or managerial adjustments.
 
@@ -58,17 +58,17 @@ In practical terms, Alpha empowers both investors and portfolio managers to asse
 
 Alpha measures the performance of a portfolio relative to an expected return benchmark, accounting for market risk as defined by Beta. To calculate Alpha, a regression analysis is conducted, which quantifies the relationship between the portfolio's returns and those of a relevant market benchmark. The result is the security characteristic line, where the intercept is represented as Alpha in the capital asset pricing model (CAPM).
 
-Mathematically, Alpha (\(\alpha\)) is determined using the formula:
+Mathematically, Alpha ($\alpha$) is determined using the formula:
 
-\[
+$$
 \alpha = R_p - [ R_f + \beta (R_m - R_f) ]
-\]
+$$
 
 where:
-- \(R_p\) is the return of the portfolio.
-- \(R_f\) is the risk-free rate of return.
-- \(\beta\) is the Beta of the portfolio, illustrating its sensitivity to market movements.
-- \(R_m\) is the market return.
+- $R_p$ is the return of the portfolio.
+- $R_f$ is the risk-free rate of return.
+- $\beta$ is the Beta of the portfolio, illustrating its sensitivity to market movements.
+- $R_m$ is the market return.
 
 The calculated Alpha represents the excess return, indicating how the portfolio has performed above what was anticipated based solely on market risk exposure.
 

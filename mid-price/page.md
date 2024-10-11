@@ -16,7 +16,9 @@ The significance of the mid-price goes beyond simply being a measure of fair val
 
 The mid-price is fundamentally defined as the average of the ask price and the bid price in a trading scenario. Mathematically, it can be expressed as:
 
-\[ \text{Mid-price} = \frac{\text{Ask Price} + \text{Bid Price}}{2} \]
+$$
+\text{Mid-price} = \frac{\text{Ask Price} + \text{Bid Price}}{2}
+$$
 
 This metric provides a crucial point of reference in financial markets as it offers a balanced, unbiased view of current market prices. The mid-price acts as a benchmark that traders can use to gauge the fair value of assets, whether they are trading stocks, commodities, or other financial instruments. By assessing the mid-price, traders gain insights into the equilibrium or consensus price around which current market activity congregates.
 

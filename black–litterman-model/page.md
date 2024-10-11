@@ -27,19 +27,21 @@ The Black–Litterman model takes this a step further by allowing investors to i
 Mathematically, the Black–Litterman model combines the equilibrium returns with investor views through a Bayesian-like process. This involves the following steps:
 
 1. **Estimation of Equilibrium Excess Returns:** This is typically expressed as:
-   \[
+$$
    \Pi = \delta \Sigma w_m
-   \]
-   where \(\Pi\) represents the equilibrium excess returns, \(\delta\) is the risk aversion coefficient, \(\Sigma\) is the covariance matrix of returns, and \(w_m\) is the market capitalization weight vector.
+  
+$$
+   where $\Pi$ represents the equilibrium excess returns, $\delta$ is the risk aversion coefficient, $\Sigma$ is the covariance matrix of returns, and $w_m$ is the market capitalization weight vector.
 
 2. **Incorporation of Investor Views:** Investor views can be expressed in the form \[Q = P \cdot \mu + \epsilon\]
-   Here, \(Q\) represents the investor's expected returns for certain assets or portfolios, while \(P\) is a matrix representing the assets that are involved in the views, and \(\epsilon\) is the noise or error term of the views.
+   Here, $Q$ represents the investor's expected returns for certain assets or portfolios, while $P$ is a matrix representing the assets that are involved in the views, and $\epsilon$ is the noise or error term of the views.
 
-3. **Combining Equilibrium and Views:** The combined expected returns (\(\mu_{\text{BL}}\)) are then obtained by blending \(\Pi\) and \(Q\) using a weighting that reflects the confidence in the investor views:
-   \[
+3. **Combining Equilibrium and Views:** The combined expected returns ($\mu_{\text{BL}}$) are then obtained by blending $\Pi$ and $Q$ using a weighting that reflects the confidence in the investor views:
+$$
    \mu_{\text{BL}} = [( \tau \Sigma )^{-1} + P^T \Omega^{-1} P]^{-1}[( \tau \Sigma )^{-1} \Pi + P^T \Omega^{-1} Q]
-   \]
-   Here, \(\tau\) is a scalar parameter that reflects the uncertainty in the equilibrium returns, and \(\Omega\) is the covariance matrix of the view errors, representing the confidence in the views.
+  
+$$
+   Here, $\tau$ is a scalar parameter that reflects the uncertainty in the equilibrium returns, and $\Omega$ is the covariance matrix of the view errors, representing the confidence in the views.
 
 The result of this sophisticated blending approach is a set of expected returns that can be used to perform portfolio optimization with greater stability and realism than traditional methods. The Black–Litterman model provides a solid platform for achieving optimal portfolio allocation by systematically integrating market data and subjective investor beliefs, enhancing the robustness and applicability of modern portfolio practices.
 
@@ -48,15 +50,15 @@ The result of this sophisticated blending approach is a set of expected returns 
 
 The Black–Litterman model plays a significant role in modern portfolio theory, particularly by addressing some of the inherent limitations of traditional mean-variance optimization. In conventional approaches, such as the Markowitz mean-variance framework, portfolio optimization heavily relies on estimates of expected returns for different assets. These estimates are typically based on historical data, which may not accurately predict future performance due to market [volatility](/wiki/volatility-trading-strategies) and the influence of unforeseen [factor](/wiki/factor-investing)s.
 
-One of the key enhancements provided by the Black–Litterman model is its sophisticated method for incorporating investor views along with market equilibrium assumptions. By doing so, this model creates a more balanced and realistic estimation of expected returns. The model begins with a market equilibrium, represented by the Capital Asset Pricing Model (CAPM) implied returns, from which investors can then adjust based on their proprietary views on future performance. This shift is mathematically expressed as a combination of the equilibrium excess returns vector \( \Pi \) and the view-adjusted returns. 
+One of the key enhancements provided by the Black–Litterman model is its sophisticated method for incorporating investor views along with market equilibrium assumptions. By doing so, this model creates a more balanced and realistic estimation of expected returns. The model begins with a market equilibrium, represented by the Capital Asset Pricing Model (CAPM) implied returns, from which investors can then adjust based on their proprietary views on future performance. This shift is mathematically expressed as a combination of the equilibrium excess returns vector $\Pi$ and the view-adjusted returns. 
 
-The Black–Litterman formula for expected returns, \( \mu \), can be represented as:
+The Black–Litterman formula for expected returns, $\mu$, can be represented as:
 
-\[
+$$
 \mu = \Pi + \tau \Sigma P^T (P \tau \Sigma P^T + \Omega)^{-1} (Q - P \Pi)
-\]
+$$
 
-Here, \( \Sigma \) is the covariance matrix of excess returns, \( P \) is the matrix expressing the investor's views, \( Q \) represents the returns expected from these views, \( \tau \) is a scalar indicating the uncertainty in the prior estimate of risk, and \( \Omega \) is the diagonal covariance matrix of error terms of the views.
+Here, $\Sigma$ is the covariance matrix of excess returns, $P$ is the matrix expressing the investor's views, $Q$ represents the returns expected from these views, $\tau$ is a scalar indicating the uncertainty in the prior estimate of risk, and $\Omega$ is the diagonal covariance matrix of error terms of the views.
 
 The challenge of estimating expected returns is thus mitigated as the Black–Litterman model doesn't solely rely on historical data. Instead, it simultaneously considers market consensus and the subjective insights of investors, offering a more nuanced and flexible framework for asset allocation. This results in portfolios that are not only more aligned with actual market conditions but also reflective of investor convictions.
 

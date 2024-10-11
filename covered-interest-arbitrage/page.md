@@ -11,15 +11,16 @@ Covered interest arbitrage is a fundamental strategy leveraged in the financial 
 
 The core principle behind covered interest arbitrage is the interest rate parity condition, which states that the difference between the interest rates of two countries should equal the difference between the forward and spot exchange rates. Mathematically, this can be expressed by the formula:
 
-\[ 
+$$
+
 F = S \times \left( \frac{1 + i_d}{1 + i_f} \right)
-\]
+$$
 
 Where:
-- \( F \) is the forward exchange rate,
-- \( S \) is the spot exchange rate,
-- \( i_d \) is the domestic interest rate,
-- \( i_f \) is the foreign interest rate.
+- $F$ is the forward exchange rate,
+- $S$ is the spot exchange rate,
+- $i_d$ is the domestic interest rate,
+- $i_f$ is the foreign interest rate.
 
 Traders execute this strategy by borrowing in a currency with a relatively low [interest rate](/wiki/interest-rate-trading-strategies), converting these funds into a foreign currency at the prevailing spot rate, and investing in a financial instrument with a higher interest rate in the foreign market. Concurrently, they enter into a forward contract that fixes the exchange rate at which the future foreign currency proceeds will be converted back to the domestic currency. This ensures a risk-free profit if the interest rate differentials and the forward rate align with the interest rate parity condition.
 
@@ -36,39 +37,45 @@ Covered interest arbitrage (CIA) is a strategy used in the foreign exchange mark
 
 The core of covered interest arbitrage is to capitalize on discrepancies in interest rates between two countries while locking in exchange rates using forward contracts. The interest rate parity condition dictates that:
 
-\[ F = S \times \left( \frac{1 + i_d}{1 + i_f} \right) \]
+$$
+F = S \times \left( \frac{1 + i_d}{1 + i_f} \right)
+$$
 
 Where:
-- \( F \) is the forward exchange rate
-- \( S \) is the current spot exchange rate
-- \( i_d \) is the domestic interest rate
-- \( i_f \) is the foreign interest rate
+- $F$ is the forward exchange rate
+- $S$ is the current spot exchange rate
+- $i_d$ is the domestic interest rate
+- $i_f$ is the foreign interest rate
 
 When the quoted forward rate deviates from this theoretical forward rate, covered interest arbitrage opportunities exist.
 
 ### Step-by-Step Example
 
-Consider a scenario involving two countries: the United States (USD) and Japan (JPY). Suppose the current spot exchange rate is \( S = 110 \) JPY/USD, the one-year interest rate in the US is 2% (\( i_{USD} = 0.02 \)), and the one-year interest rate in Japan is 1% (\( i_{JPY} = 0.01 \)).
+Consider a scenario involving two countries: the United States (USD) and Japan (JPY). Suppose the current spot exchange rate is $S = 110$ JPY/USD, the one-year interest rate in the US is 2% ($i_{USD} = 0.02$), and the one-year interest rate in Japan is 1% ($i_{JPY} = 0.01$).
 
 **Step 1:** Determine the theoretical forward rate using the interest rate parity formula:
 
-\[ F = 110 \times \left( \frac{1 + 0.02}{1 + 0.01} \right) = 111.09 \]
+$$
+F = 110 \times \left( \frac{1 + 0.02}{1 + 0.01} \right) = 111.09
+$$
 
-**Step 2:** Suppose the forward market quotes a rate of \( F = 112 \) JPY/USD. This discrepancy indicates a potential arbitrage opportunity.
+**Step 2:** Suppose the forward market quotes a rate of $F = 112$ JPY/USD. This discrepancy indicates a potential arbitrage opportunity.
 
 **Step 3:** Initiate the arbitrage:
 - Borrow 1,000,000 JPY at 1% interest rate.
-- Convert the borrowed amount to USD at the spot rate (\( 1,000,000 / 110 = 9,090.91 \) USD).
-- Invest the USD at the 2% US interest rate for a year to get \( 9,090.91 \times 1.02 = 9,272.73 \) USD by the end of the year.
-- Simultaneously, enter a forward contract to convert future USD back to JPY at the forward rate of 112 JPY/USD, receiving \( 9,272.73 \times 112 = 1,038,545.76 \) JPY.
+- Convert the borrowed amount to USD at the spot rate ($1,000,000 / 110 = 9,090.91$ USD).
+- Invest the USD at the 2% US interest rate for a year to get $9,090.91 \times 1.02 = 9,272.73$ USD by the end of the year.
+- Simultaneously, enter a forward contract to convert future USD back to JPY at the forward rate of 112 JPY/USD, receiving $9,272.73 \times 112 = 1,038,545.76$ JPY.
 
 **Step 4:** Repay the initial JPY loan:
 
-\( 1,000,000 \times 1.01 = 1,010,000 \text{ JPY} \)
+$1,000,000 \times 1.01 = 1,010,000 \text{ JPY}$
 
 **Profit Calculation:** The arbitrage profit is:
 
-\[ 1,038,545.76 - 1,010,000 = 28,545.76 \text{ JPY} \]
+$$
+1,038,545.76 - 1,010,000 = 28,545.76 \text{ JPY}
+$$
 
 ### Opportunities from Interest Rate Discrepancies
 

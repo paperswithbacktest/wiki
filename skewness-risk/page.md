@@ -147,9 +147,11 @@ To effectively address skewness risk within trading algorithms, it is essential 
 
 To measure skewness in trading data, tools such as statistical software and programming libraries in Python (e.g., NumPy, pandas) can be employed. The skewness of a dataset can be computed using the following formula for skewness (γ):
 
-\[ \gamma = \frac{n}{(n-1)(n-2)} \sum_{i=1}^{n} \left(\frac{x_i - \bar{x}}{s}\right)^3 \]
+$$
+\gamma = \frac{n}{(n-1)(n-2)} \sum_{i=1}^{n} \left(\frac{x_i - \bar{x}}{s}\right)^3
+$$
 
-where \( x_i \) denotes each data point, \( \bar{x} \) is the mean, \( s \) is the standard deviation, and \( n \) is the number of observations.
+where $x_i$ denotes each data point, $\bar{x}$ is the mean, $s$ is the standard deviation, and $n$ is the number of observations.
 
 In Python, the skewness can be calculated as follows:
 

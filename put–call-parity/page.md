@@ -9,9 +9,11 @@ description: Put-Call Parity is a foundational concept in financial mathematics 
 
 Put-Call Parity is a fundamental principle in financial mathematics that establishes a relationship between the prices of European call and put options with the same strike price and expiry date. The parity formula is expressed as:
 
-\[ C - P = S - Ke^{-rT} \]
+$$
+C - P = S - Ke^{-rT}
+$$
 
-where \( C \) is the price of the call option, \( P \) is the price of the put option, \( S \) is the current stock price, \( K \) is the strike price, \( r \) is the risk-free interest rate, and \( T \) is the time to expiration. This equation represents the theoretical fairness between call and put options and forms the foundational basis for pricing and hedging strategies in financial markets.
+where $C$ is the price of the call option, $P$ is the price of the put option, $S$ is the current stock price, $K$ is the strike price, $r$ is the risk-free interest rate, and $T$ is the time to expiration. This equation represents the theoretical fairness between call and put options and forms the foundational basis for pricing and hedging strategies in financial markets.
 
 The relationship illustrates that holding a long call option and a short put option with the same strike price and expiry is equivalent to holding a forward contract expiring at the same time, adjusted for the present value of the strike price. In essence, this means that the differing payouts from the options balance each other out when adjusted for the movement of the underlying asset and interest rate, thus ensuring no arbitrage opportunities should ideally exist.
 
@@ -26,15 +28,17 @@ Put-Call Parity is a fundamental concept in options pricing that establishes a r
 
 At its core, Put-Call Parity demonstrates that holding a long call option and selling a put option (short put) with identical strike prices and expiry dates is equivalent to holding a forward contract. This can be expressed through the formula:
 
-\[ C - P = S - \frac{K}{(1 + r)^T} \]
+$$
+C - P = S - \frac{K}{(1 + r)^T}
+$$
 
 Where:
-- \( C \) = Price of the call option
-- \( P \) = Price of the put option
-- \( S \) = Current price of the underlying asset
-- \( K \) = Strike price of the options
-- \( r \) = Risk-free rate
-- \( T \) = Time to expiration (in years)
+- $C$ = Price of the call option
+- $P$ = Price of the put option
+- $S$ = Current price of the underlying asset
+- $K$ = Strike price of the options
+- $r$ = Risk-free rate
+- $T$ = Time to expiration (in years)
 
 The equivalency indicates that the combination of a long call and a short put at the same strike price and expiry mimics the payoff of a forward contract. If Put-Call Parity holds, [arbitrage](/wiki/arbitrage) opportunities—where a riskless profit can be made—should not exist in efficient markets.
 
@@ -80,9 +84,11 @@ Moreover, the application of complex mathematical principles like stochastic cal
 
 Put-Call Parity serves as a crucial tool for algorithmic traders aiming to exploit arbitrage opportunities in financial markets. At its core, Put-Call Parity creates a relationship between European call and put options with the same strike price and expiration date. This relationship can be expressed by the formula: 
 
-\[ C - P = S - K \times e^{-r(T-t)} \]
+$$
+C - P = S - K \times e^{-r(T-t)}
+$$
 
-where \( C \) is the call option price, \( P \) is the put option price, \( S \) is the spot price of the underlying asset, \( K \) is the strike price, \( r \) is the risk-free interest rate, and \( T-t \) is the time to maturity. If any discrepancy occurs in the above equation, traders see it as an arbitrage opportunity.
+where $C$ is the call option price, $P$ is the put option price, $S$ is the spot price of the underlying asset, $K$ is the strike price, $r$ is the risk-free interest rate, and $T-t$ is the time to maturity. If any discrepancy occurs in the above equation, traders see it as an arbitrage opportunity.
 
 ### Arbitrage Opportunities
 
@@ -164,9 +170,11 @@ In more recent times, examples within major stock indices and foreign exchange (
 
 A concrete example could involve a situation in the S&P 500 options market. Suppose a European call option with a strike price of $3,500 is trading at $150, and a put option with the same strike is trading at $140, while the underlying asset is at $3,480 and the risk-free rate is close to zero. According to Put-Call Parity:
 
-\[ C - P = S - K \]
+$$
+C - P = S - K
+$$
 
-Where \( C \) is the call option price, \( P \) the put option price, \( S \) the current price of the underlying asset, and \( K \) the strike price. Plugging in the given numbers does not satisfy this relationship, indicating a potential arbitrage opportunity.
+Where $C$ is the call option price, $P$ the put option price, $S$ the current price of the underlying asset, and $K$ the strike price. Plugging in the given numbers does not satisfy this relationship, indicating a potential arbitrage opportunity.
 
 In FX markets, traders often observe discrepancies due to [interest rate](/wiki/interest-rate-trading-strategies) differentials between currencies. By maintaining portfolios that exploit these differences, informed by Put-Call Parity, traders can craft strategies that hedge against adverse currency movements, capturing returns from mispriced options.
 

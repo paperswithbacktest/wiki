@@ -15,9 +15,11 @@ TWAP differs significantly from other pricing strategies like the Volume-Weighte
 
 We will also focus on the method of calculating TWAP, which involves using the formula: 
 
-\[ \text{P}_{\text{TWAP}} = \frac{\sum (P_j \times T_j)}{\sum T_j} \]
+$$
+\text{P}_{\text{TWAP}} = \frac{\sum (P_j \times T_j)}{\sum T_j}
+$$
 
-where \( P_j \) represents the price of the security at a specific time interval \( j \), and \( T_j \) is the time period at which the price is sampled. Through a clear grasp of TWAP's calculation, traders can effectively manage and implement this strategy to minimize market impact, enhance trading performance, and maintain market equilibrium. Understanding these aspects of TWAP can greatly improve strategic decisions in financial markets.
+where $P_j$ represents the price of the security at a specific time interval $j$, and $T_j$ is the time period at which the price is sampled. Through a clear grasp of TWAP's calculation, traders can effectively manage and implement this strategy to minimize market impact, enhance trading performance, and maintain market equilibrium. Understanding these aspects of TWAP can greatly improve strategic decisions in financial markets.
 
 
 ## Understanding Time-Weighted Average Price (TWAP)
@@ -28,9 +30,11 @@ A central tenet of TWAP is its ability to offer a more nuanced and controlled ap
 
 Applying a TWAP strategy involves calculating an average price according to the formula: 
 
-\[ P_{\text{TWAP}} = \frac{\sum (P_j \times T_j)}{\sum T_j} \]
+$$
+P_{\text{TWAP}} = \frac{\sum (P_j \times T_j)}{\sum T_j}
+$$
 
-where \( P_j \) represents the price of the security at time \( j \), and \( T_j \) denotes the time interval between transactions. This calculation helps ensure that traders can align their transactions closely with typical market conditions rather than reacting to short-term price fluctuations.
+where $P_j$ represents the price of the security at time $j$, and $T_j$ denotes the time interval between transactions. This calculation helps ensure that traders can align their transactions closely with typical market conditions rather than reacting to short-term price fluctuations.
 
 By using TWAP, traders can not only execute their strategies in a way that is less intrusive and more informed by actual trading conditions, but they can also better synchronize their buying and selling actions with genuine market dynamics. This method becomes particularly advantageous for institutional investors or large players in the market, who necessitate a tactical approach to managing capital without sparking unwanted market reactions.
 
@@ -63,11 +67,13 @@ In summary, the choice between TWAP and VWAP depends on the trader’s objective
 
 TWAP is calculated using the formula: 
 
-\[ P_{\text{TWAP}} = \frac{\Sigma(P_j \times T_j)}{\Sigma T_j} \]
+$$
+P_{\text{TWAP}} = \frac{\Sigma(P_j \times T_j)}{\Sigma T_j}
+$$
 
-where \( P_j \) denotes the price of a security at a specific measurement time \( j \), and \( T_j \) signifies the time elapsed since the previous measurement. This formula ensures that the average price accurately reflects the movements of the security's price over the chosen time frame, without being distorted by fleeting price changes.
+where $P_j$ denotes the price of a security at a specific measurement time $j$, and $T_j$ signifies the time elapsed since the previous measurement. This formula ensures that the average price accurately reflects the movements of the security's price over the chosen time frame, without being distorted by fleeting price changes.
 
-For example, consider a trading scenario where you take price measurements every hour. If you have prices \( P_1, P_2, ..., P_n \) recorded at times \( T_1, T_2, ..., T_n \), the TWAP would involve summing the products of each price and its respective time interval, divided by the sum of all time intervals.
+For example, consider a trading scenario where you take price measurements every hour. If you have prices $P_1, P_2, ..., P_n$ recorded at times $T_1, T_2, ..., T_n$, the TWAP would involve summing the products of each price and its respective time interval, divided by the sum of all time intervals.
 
 The formula provides a weighted price that accounts for the duration of each price period, making it more representative of actual price trends rather than being skewed by momentary price fluctuations. This approach is particularly useful in environments where price stability is crucial and sharp, temporary price movements might otherwise lead to erroneous conclusions.
 

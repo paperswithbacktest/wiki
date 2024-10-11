@@ -142,12 +142,12 @@ To effectively handle volatility, algorithmic traders can implement several stra
 - **Dynamic Hedging:** Implementing hedging strategies that adapt to changing volatility conditions. This could involve using options or futures to protect against adverse price movements.
 
 - **Volatility Forecasting Models:** Utilizing models that predict future volatility trends can help in adjusting trading strategies proactively. GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models are commonly used for this purpose.
-
-   \[
+$$
    \sigma_{t+1}^2 = \alpha_0 + \alpha_1 \epsilon_t^2 + \beta_1 \sigma_t^2
-   \]
+  
+$$
 
-   where \(\sigma_t^2\) is the forecasted variance, \(\epsilon_t\) is the asset's return error, \(\alpha_0, \alpha_1, \beta_1\) are model parameters.
+   where $\sigma_t^2$ is the forecasted variance, $\epsilon_t$ is the asset's return error, $\alpha_0, \alpha_1, \beta_1$ are model parameters.
 
 - **Stop-Loss and Take-Profit Orders:** These orders can help to ensure that trades are exited at pre-determined levels, reducing the impact of rapid price changes on a trading strategy.
 

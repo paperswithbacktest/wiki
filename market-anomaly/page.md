@@ -26,21 +26,21 @@ Market anomalies challenge traditional asset pricing theories like the Capital A
 
 1. **CAPM (Capital Asset Pricing Model):** 
    The CAPM asserts that the expected return of a security is linearly related to its beta, measuring the security's risk in relation to the overall market. The formula for CAPM is:
-
-   \[
+$$
    E(R_i) = R_f + \beta_i (E(R_m) - R_f)
-   \]
+  
+$$
 
-   where \(E(R_i)\) is the expected return on the security, \(R_f\) is the risk-free rate, \(\beta_i\) is the beta of the security, and \(E(R_m)\) is the expected return of the market.
+   where $E(R_i)$ is the expected return on the security, $R_f$ is the risk-free rate, $\beta_i$ is the beta of the security, and $E(R_m)$ is the expected return of the market.
 
 2. **Fama-French Models:**
    An extension of the CAPM, the Fama-French three-[factor](/wiki/factor-investing) model includes additional factors such as size and value to explain asset returns. The model is expressed as:
-
-   \[
+$$
    E(R_i) = R_f + \beta_i (E(R_m) - R_f) + b_i(SMB) + c_i(HML)
-   \]
+  
+$$
 
-   where \(SMB\) is the size premium (small minus big) and \(HML\) is the value premium (high minus low).
+   where $SMB$ is the size premium (small minus big) and $HML$ is the value premium (high minus low).
 
 **Types of Anomalies**
 
@@ -63,7 +63,9 @@ Time-series anomalies refer to patterns over time that contradict traditional ma
 
 Mathematically, CAPE is expressed as:
 
-\[ \text{CAPE} = \frac{\text{Current Price}}{\text{Average Inflation-adjusted Earnings of the past 10 years}} \]
+$$
+\text{CAPE} = \frac{\text{Current Price}}{\text{Average Inflation-adjusted Earnings of the past 10 years}}
+$$
 
 The predictability that CAPE provides has made it a favorite tool among investors for forecasting long-term market trends, contributing to its categorization as a time-series anomaly.
 

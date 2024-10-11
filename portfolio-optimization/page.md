@@ -22,13 +22,17 @@ Incorporating such techniques, automated trading systems seek to achieve consist
 
 Modern Portfolio Theory (MPT), introduced by Harry Markowitz in 1952, has profoundly reshaped investment strategies by emphasizing the importance of diversification and efficient portfolio construction. MPT posits that an investor can construct an "efficient frontier" of optimal portfolios offering the maximum possible expected return for a given level of risk. This insight promotes not only the idea of diversifying investments to mitigate risk but also the notion of evaluating both risk and return as part of the investment decision-making process.
 
-The efficient frontier is central to MPT. It represents a set of portfolios that are not dominated by other portfolios in terms of higher expected return for the same risk or less risk for the same expected return. Mathematically, for a portfolio of assets, the expected return \( E(R_p) \) and the variance \( \sigma^2_p \) are calculated as follows:
+The efficient frontier is central to MPT. It represents a set of portfolios that are not dominated by other portfolios in terms of higher expected return for the same risk or less risk for the same expected return. Mathematically, for a portfolio of assets, the expected return $E(R_p)$ and the variance $\sigma^2_p$ are calculated as follows:
 
-\[ E(R_p) = \sum_{i=1}^{n} w_i E(R_i) \]
+$$
+E(R_p) = \sum_{i=1}^{n} w_i E(R_i)
+$$
 
-\[ \sigma^2_p = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i w_j \text{Cov}(R_i, R_j) \]
+$$
+\sigma^2_p = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i w_j \text{Cov}(R_i, R_j)
+$$
 
-where \( w_i \) is the weight of asset \( i \) in the portfolio, \( E(R_i) \) is the expected return of asset \( i \), and \( \text{Cov}(R_i, R_j) \) is the covariance between the returns of assets \( i \) and \( j \).
+where $w_i$ is the weight of asset $i$ in the portfolio, $E(R_i)$ is the expected return of asset $i$, and $\text{Cov}(R_i, R_j)$ is the covariance between the returns of assets $i$ and $j$.
 
 Algorithmic trading systems frequently leverage MPT to optimize portfolios by balancing expected returns and risk levels. Using statistical models and optimization algorithms, these systems can analyze vast datasets rapidly, allowing them to create and adjust portfolios dynamically as market conditions change. By optimizing asset weights, these systems aim to maintain the portfolio on the efficient frontier, thus achieving the most favorable risk-return profile. 
 
@@ -80,23 +84,24 @@ Constructing a covariance matrix acts as a cornerstone for optimizing portfolios
 
 To tackle the compl[exit](/wiki/exit-strategy)y and scale of optimizing large portfolios, tools like linear programming and stochastic programming are critical. Linear programming methods aid in finding the optimal asset weights that minimize risk or maximize returns, given certain constraints. Its strength lies in its ability to handle linear constraints efficiently, making it suitable for certain fixed-income portfolio optimizations or where constraints are straightforwardly linear. An example of a linear programming problem is:
 
-\[ 
+$$
+
 \min \sum_{i=1}^{n} w_i \sigma_{i}^2 
-\]
+$$
 
 subject to:
 
-\[
+$$
 \sum_{i=1}^{n} w_i = 1
-\]
+$$
 
 and
 
-\[
+$$
 w_i \geq 0 \quad \forall i
-\]
+$$
 
-where \( w_i \) represents the weight of asset \( i \), and \(\sigma_i^2\) is the variance associated with asset \( i \).
+where $w_i$ represents the weight of asset $i$, and $\sigma_i^2$ is the variance associated with asset $i$.
 
 Stochastic programming extends these concepts by accounting for uncertainty in the model inputs, such as future asset returns or [interest rate](/wiki/interest-rate-trading-strategies)s, which are not deterministic. This makes it suitable for multi-period portfolio optimization, where future returns are uncertain. It allows for scenario analysis by introducing probabilistic constraints.
 

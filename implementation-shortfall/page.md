@@ -24,7 +24,9 @@ A trader can use implementation shortfall to evaluate trade efficiency by examin
 
 The formula for calculating implementation shortfall is:
 
-\[ \text{Implementation Shortfall} = (\text{Execution Price} - \text{Decision Price}) \times \text{Executed Quantity} + \text{Other Trading Costs} \]
+$$
+\text{Implementation Shortfall} = (\text{Execution Price} - \text{Decision Price}) \times \text{Executed Quantity} + \text{Other Trading Costs}
+$$
 
 Where:
 - Execution Price is the actual price paid.
@@ -53,7 +55,9 @@ In addition to the decision price, trading costs significantly influence the mag
 
 Mathematically, implementation shortfall can be expressed as:
 
-\[ \text{Implementation Shortfall} = (\text{Execution Price} - \text{Decision Price}) \times \text{Number of Shares} + \text{Commissions} + \text{Other Costs} \]
+$$
+\text{Implementation Shortfall} = (\text{Execution Price} - \text{Decision Price}) \times \text{Number of Shares} + \text{Commissions} + \text{Other Costs}
+$$
 
 Understanding these components is crucial for traders aiming to minimize the gap between expected and actual trade outcomes. By optimizing each element, traders can improve execution efficiency and reduce the associated costs, ultimately enhancing trading performance.
 

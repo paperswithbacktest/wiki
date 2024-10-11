@@ -61,11 +61,11 @@ Rebalancing transactions are integral to convertible arbitrage strategy and can 
 
 Here's a simple formula representation:
 
-\[
+$$
 \Delta_{\text{Portfolio}} = \Delta_{\text{Convertible Bond}} \times \text{Number of Bonds} + \Delta_{\text{Stock}} \times \text{Number of Shares}
-\]
+$$
 
-Setting \(\Delta_{\text{Portfolio}} = 0\) enables the strategy to be truly delta-neutral, and this equation must be recalibrated continuously. Dynamic hedging is not just about responding reactively but anticipating changes that could affect the delta to strategically position the portfolio.
+Setting $\Delta_{\text{Portfolio}} = 0$ enables the strategy to be truly delta-neutral, and this equation must be recalibrated continuously. Dynamic hedging is not just about responding reactively but anticipating changes that could affect the delta to strategically position the portfolio.
 
 By focusing on maintaining a precise balance in their holdings through dynamic hedging strategies, convertible arbitrageurs can enhance strategy resilience, thus leading to steadier returns despite the inherent market volatilities.
 

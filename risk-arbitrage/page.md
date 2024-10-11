@@ -28,12 +28,14 @@ Understanding the mechanics of different types of mergers is key to navigating r
 
 The formulas for calculating expected profits in these scenarios depend on the offer structure:
 
-- For a cash merger, expected profit per share \( P \) can be given by:
-  \[ P = O - C \]
-  where \( O \) is the offer price per share, and \( C \) is the current price of the target's stock.
+- For a cash merger, expected profit per share $P$ can be given by:
+  \[ P = O - C
+$$
+  where $O$ is the offer price per share, and $C$ is the current price of the target's stock.
 
-- For a stock merger, assuming \( E_R \) is the exchange ratio, \( S_A \) is the acquiring company's current stock price, and \( C_T \) is the current stock price of the target company, the arbitrage gain is:
-  \[ P = (E_R \times S_A) - C_T \]
+- For a stock merger, assuming $E_R$ is the exchange ratio, $S_A$ is the acquiring company's current stock price, and $C_T$ is the current stock price of the target company, the arbitrage gain is:
+  \[ P = (E_R \times S_A) - C_T
+$$
 
 Arbitrageurs must adjust their strategies according to the type of merger, assessing [factor](/wiki/factor-investing)s like deal certainty, regulatory hurdles, and broader market conditions. This nuanced approach allows them to operate effectively within each framework, optimizing their strategies for different merger structures.
 

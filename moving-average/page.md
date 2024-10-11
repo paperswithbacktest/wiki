@@ -18,7 +18,7 @@ Moving averages are instrumental in algorithmic trading strategies, offering vis
 
 A moving average is utilized in time series data to mitigate short-term fluctuations, thereby revealing longer-term trends. This process involves averaging a set of data points within the series over a given period. By doing so, the moving average smooths out noise, allowing traders and analysts to discern patterns and trends more clearly.
 
-There are several variations of moving averages, each tailored to specific analytical needs. The Simple Moving Average (SMA) embodies the most basic form; it calculates the unweighted mean of the previous \(k\) data points. For instance, to compute a 5-day SMA, one would sum the closing prices of the past five days and divide by five. This technique is effective for general trend analysis, though it may introduce a lag, as each data point carries equal weight regardless of its position in the timeframe.
+There are several variations of moving averages, each tailored to specific analytical needs. The Simple Moving Average (SMA) embodies the most basic form; it calculates the unweighted mean of the previous $k$ data points. For instance, to compute a 5-day SMA, one would sum the closing prices of the past five days and divide by five. This technique is effective for general trend analysis, though it may introduce a lag, as each data point carries equal weight regardless of its position in the timeframe.
 
 Alternatively, the Cumulative Moving Average (CMA) considers all available data points up to the current point, continuously updating the average as new data arrives. This approach ensures that the entire dataset influences the output, which can be advantageous when a comprehensive historical context is necessary for analysis.
 
@@ -36,28 +36,28 @@ In summary, moving averages are versatile tools that not only offer valuable ins
 Moving averages play an integral role in smoothing data and identifying trends in financial markets. Here, we focus on three of the most utilized types: Simple Moving Average (SMA), Cumulative Moving Average (CMA), and Weighted Moving Average (WMA).
 
 - **Simple Moving Average (SMA)**: The SMA is the most straightforward moving average. It is calculated by taking the arithmetic mean of a given set of prices over a specific number of periods. For instance, a 10-day SMA totals the last 10 days' closing prices and divides by 10. Although SMA is not sensitive to short-term fluctuations, it provides a clear signal of the trend direction. The formula for SMA is:
-
-  \[
+$$
   \text{SMA} = \frac{P_1 + P_2 + \cdots + P_k}{k}
-  \]
+ 
+$$
 
-  where \( P_i \) is the price at time \( i \), and \( k \) is the number of data points.
+  where $P_i$ is the price at time $i$, and $k$ is the number of data points.
 
 - **Cumulative Moving Average (CMA)**: CMA calculates the average of all data points up to the current time. It is updated incrementally as new data comes in, providing a historical view of the average. This cumulative nature means CMA offers a long-term perspective, making it less sensitive to recent changes. CMA can be calculated iteratively as:
-
-  \[
+$$
   \text{CMA}_n = \frac{(n-1) \times \text{CMA}_{n-1} + P_n}{n}
-  \]
+ 
+$$
 
-  where \( n \) is the current time period, and \( P_n \) is the price at time \( n \).
+  where $n$ is the current time period, and $P_n$ is the price at time $n$.
 
 - **Weighted Moving Average (WMA)**: Unlike SMA, WMA assigns weights to each data point, with more recent data typically receiving greater weight. This attribute allows WMA to respond more quickly to price changes. The weight can decrease in an arithmetic progression, providing a faster reaction to recent price movements and reducing the lag associated with SMAs. The formula for WMA is:
-
-  \[
+$$
   \text{WMA} = \frac{\sum_{i=1}^{k} w_i \cdot P_i}{\sum_{i=1}^{k} w_i}
-  \]
+ 
+$$
 
-  where \( w_i \) represents the weight applied to each price \( P_i \).
+  where $w_i$ represents the weight applied to each price $P_i$.
 
 These types of moving averages each offer unique advantages and are used to suit varying trading strategies. SMAs are ideal for observing overall trend directions, CMAs offer a comprehensive average of past price data, and WMAs are useful in quickly capturing changes, particularly in volatile markets. Understanding how each type operates and its implications on market analysis is vital in [algorithmic trading](/wiki/algorithmic-trading).
 
@@ -90,15 +90,19 @@ Exponential Moving Average (EMA) and Weighted Moving Average (WMA) are two types
 
 The Exponential Moving Average (EMA) prioritizes recent price data by applying a higher weight to the latest observations. This weighting scheme ensures that the EMA is more responsive to new information than the SMA, making it particularly useful in markets experiencing rapid price changes. The EMA is calculated using the formula:
 
-\[ \text{EMA}_t = \left( \frac{P_t - \text{EMA}_{t-1}}{\alpha + 1} \right) + \text{EMA}_{t-1} \]
+$$
+\text{EMA}_t = \left( \frac{P_t - \text{EMA}_{t-1}}{\alpha + 1} \right) + \text{EMA}_{t-1}
+$$
 
-where \( P_t \) is the current price, \(\alpha\) is the smoothing factor, and \(\text{EMA}_{t-1}\) is the previous period's EMA value. The smoothing factor \(\alpha\) is typically derived from the number of periods \(n\), as \(\alpha = 2/(n+1)\).
+where $P_t$ is the current price, $\alpha$ is the smoothing factor, and $\text{EMA}_{t-1}$ is the previous period's EMA value. The smoothing factor $\alpha$ is typically derived from the number of periods $n$, as $\alpha = 2/(n+1)$.
 
 Weighted Moving Average (WMA) further addresses the lag by assigning linearly decreasing weights to older data points while giving the most recent data points the highest weight. This is particularly effective in markets that require quick adaptation to shifts. The calculation is done using:
 
-\[ \text{WMA} = \frac{\sum_{i=1}^n w_i P_{t-(i-1)}}{\sum_{i=1}^n w_i} \]
+$$
+\text{WMA} = \frac{\sum_{i=1}^n w_i P_{t-(i-1)}}{\sum_{i=1}^n w_i}
+$$
 
-where \(w_i\) represents the weight for each period, with more weight given to recent prices.
+where $w_i$ represents the weight for each period, with more weight given to recent prices.
 
 Traders often prefer EMAs due to their ability to provide more timely signals in volatile markets, where quick decision-making can capitalize on price fluctuations. The primary advantage of using EMAs over WMAs lies in their exponential decrease of weightings, allowing for rapid adjustments. This characteristic makes EMAs an excellent choice for strategies focused on short-term price movements and market reversals, offering a competitive edge in fast-paced trading environments.
 

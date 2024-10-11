@@ -35,11 +35,15 @@ Support and resistance levels play a crucial role in understanding market dynami
 
 Understanding these levels is grounded in basic supply and demand principles. A breakout—the event where price moves through a significant support or resistance level—indicates a major shift in these dynamics. A breakout above a resistance level suggests that buying interest has overwhelmed selling pressure, leading to a new upward trend. Mathematically, this could be seen as:
 
-\[ P_{\text{new}} > P_{\text{resistance}} \]
+$$
+P_{\text{new}} > P_{\text{resistance}}
+$$
 
 Conversely, a breakout below a support level indicates increasing selling pressure overpowering buying interest, possibly leading to a downward trend:
 
-\[ P_{\text{new}} < P_{\text{support}} \]
+$$
+P_{\text{new}} < P_{\text{support}}
+$$
 
 Successful identification of these levels can provide traders with strategic entry and exit points, as they assume a shift in price action when these levels are broken. However, it's important to be aware of false breakouts—situations where the price temporarily exceeds these levels but fails to maintain momentum. Therefore, traders often use confirmatory tools like volume indicators, which need to show increased activity to validate a breakout, ensuring it signifies a true shift rather than temporary price movement.
 
@@ -52,9 +56,11 @@ Breakout strategies in [algorithmic trading](/wiki/algorithmic-trading) are prem
 
 Incorporating breakouts into an algorithm involves the precise coding of support and resistance levels. This requires an in-depth analysis of historical price patterns to define these levels accurately. Traders often use technical indicators such as moving averages, Bollinger Bands, or historical price highs and lows to set these thresholds. For instance, a simple moving average (SMA) can be calculated to help determine potential breakout levels:
 
-\[ \text{SMA} = \frac{\sum \text{Price}_{i}}{n} \]
+$$
+\text{SMA} = \frac{\sum \text{Price}_{i}}{n}
+$$
 
-where \(\text{Price}_{i}\) is the asset's price at time \(i\), and \(n\) is the number of time periods considered.
+where $\text{Price}_{i}$ is the asset's price at time $i$, and $n$ is the number of time periods considered.
 
 Once these levels are identified, traders program their algorithms to execute trades when price breaches these set thresholds. However, not all breakouts result in profitable trends; false breakouts are common. Therefore, rigorous back-testing on historical data is essential to test how the strategies would have performed in different market scenarios. Back-testing helps in optimizing the algorithm for better reliability and reducing the risk of losses from false signals.
 

@@ -79,12 +79,14 @@ In the spring of 2020, crude oil futures faced unprecedented contango levels as 
 
 The strategy math can be outlined as follows:
 
-1. **Buy Spot:** Acquire the physical commodity (crude oil) at today's spot price \( S_t \).
-2. **Sell Futures:** Sell a futures contract for the same commodity expiring at date \( T \) at the futures price \( F_t \).
-3. **Hold and Store:** Hold onto the physical commodity and incur storage costs \( C \) until the futures contract expiration.
+1. **Buy Spot:** Acquire the physical commodity (crude oil) at today's spot price $S_t$.
+2. **Sell Futures:** Sell a futures contract for the same commodity expiring at date $T$ at the futures price $F_t$.
+3. **Hold and Store:** Hold onto the physical commodity and incur storage costs $C$ until the futures contract expiration.
 4. **Settle:** Upon maturity, deliver the physical commodity and receive the futures price, realizing a profit, assuming the cost of funding and storage does not exceed the futures-spot price difference.
 
-\[ \text{Profit} = F_t - (S_t + C) \]
+$$
+\text{Profit} = F_t - (S_t + C)
+$$
 
 Algorithmic systems enable traders to constantly monitor the necessary inputs such as spot prices, futures prices, and storage costs, thereby executing trades rapidly and mitigating risks associated with manual intervention.
 

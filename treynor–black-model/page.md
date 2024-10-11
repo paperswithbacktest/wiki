@@ -47,40 +47,40 @@ The Treynor–Black model is a significant advancement in portfolio management, 
 
 Central to the Treynor–Black model is the expression:
 
-\[
+$$
 P = \omega A + (1 - \omega) M
-\]
+$$
 
 Where:
-- \( P \) represents the overall portfolio.
-- \( \omega \) is the weight of the active portfolio \( A \).
-- \( M \) symbolizes the market index fund.
+- $P$ represents the overall portfolio.
+- $\omega$ is the weight of the active portfolio $A$.
+- $M$ symbolizes the market index fund.
 
-The key objective of the model is to determine the optimal weight \(\omega\), relying heavily on the concepts of alpha, beta, and residual risk to achieve this.
+The key objective of the model is to determine the optimal weight $\omega$, relying heavily on the concepts of alpha, beta, and residual risk to achieve this.
 
 #### Concepts of Alpha, Beta, and Residual Risk
 
-1. **Alpha (\(\alpha\))**: Alpha is a measure of the active portfolio's ability to generate returns above the expected risk-adjusted returns of the market. It represents the active manager's predictive skills.
+1. **Alpha ($\alpha$)**: Alpha is a measure of the active portfolio's ability to generate returns above the expected risk-adjusted returns of the market. It represents the active manager's predictive skills.
 
-2. **Beta (\(\beta\))**: Beta measures the sensitivity of the active portfolio to movements in the overall market. A beta greater than one indicates higher volatility compared to the market, while a beta less than one signifies lower volatility.
+2. **Beta ($\beta$)**: Beta measures the sensitivity of the active portfolio to movements in the overall market. A beta greater than one indicates higher volatility compared to the market, while a beta less than one signifies lower volatility.
 
-3. **Residual Risk (\(\sigma^2_e\))**: This is the unsystematic risk inherent in the active portfolio, representing the risk that is uncorrelated with the market index and can be diversified away.
+3. **Residual Risk ($\sigma^2_e$)**: This is the unsystematic risk inherent in the active portfolio, representing the risk that is uncorrelated with the market index and can be diversified away.
 
 ### Calculation of Portfolio Weights
 
-The determination of the optimal weight for the active portfolio \(\omega^*\) involves balancing the trade-off between the expected excess return from alpha and the additional risk imparted by the active portfolio. The formula for calculating \(\omega^*\) is given by:
+The determination of the optimal weight for the active portfolio $\omega^*$ involves balancing the trade-off between the expected excess return from alpha and the additional risk imparted by the active portfolio. The formula for calculating $\omega^*$ is given by:
 
-\[
+$$
 \omega^* = \frac{\alpha}{\sigma^2_e} \left(\frac{1}{\sigma_m^2 + (\alpha / \sigma_e)^2}\right)
-\]
+$$
 
-where \(\sigma_m^2\) is the variance of the market returns.
+where $\sigma_m^2$ is the variance of the market returns.
 
 This formula indicates that the allocation to the active portfolio is directly proportional to its expected risk-adjusted excess returns (alpha adjusted by residual risk) and inversely proportional to the risks associated with both the active portfolio and the market index.
 
-### Python Code for Calculating \(\omega^*\)
+### Python Code for Calculating $\omega^*$
 
-The following Python code illustrates how to compute the optimal weight \(\omega^*\) for the active portfolio using the Treynor–Black model:
+The following Python code illustrates how to compute the optimal weight $\omega^*$ for the active portfolio using the Treynor–Black model:
 
 ```python
 def calculate_optimal_weight(alpha, sigma_e, sigma_m):
@@ -140,9 +140,11 @@ The Treynor–Black model, while pioneering in its approach to combining passive
 
 Mathematically, the model calculates the portfolio weights by minimizing the portfolio variance while maximizing the expected excess return. The formula can lead to large allocations in the active portfolio when the estimated alphas are high, as expressed by:
 
-\[ w_i = \frac{\alpha_i}{\sigma^2(\epsilon_i)} \]
+$$
+w_i = \frac{\alpha_i}{\sigma^2(\epsilon_i)}
+$$
 
-where \( w_i \) is the weight of the active portfolio component, \( \alpha_i \) is the stock's alpha, and \( \sigma^2(\epsilon_i) \) is the residual variance. In practice, this can suggest putting a disproportionate part of the portfolio in a few high-alpha stocks.
+where $w_i$ is the weight of the active portfolio component, $\alpha_i$ is the stock's alpha, and $\sigma^2(\epsilon_i)$ is the residual variance. In practice, this can suggest putting a disproportionate part of the portfolio in a few high-alpha stocks.
 
 A possible solution to this problem is implementing constraints on the portfolio weights. Practitioners can impose limits on how much of the total portfolio a single security can occupy. This is typically done using quadratic programming, allowing incorporation of constraints:
 

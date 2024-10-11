@@ -26,7 +26,9 @@ Opportunities in FI-RV often arise from inefficiencies and market dynamics that 
 
 Mathematically, FI-RV strategies may involve analyzing yield curves, which plot the interest rates of bonds with equal credit quality but differing maturities. Investors look for anomalies, such as kinks or odd shapes in the curve, to identify mispriced securities. A key concept is the spread, calculated as:
 
-\[ \text{Spread} = \text{Yield Bond A} - \text{Yield Bond B} \]
+$$
+\text{Spread} = \text{Yield Bond A} - \text{Yield Bond B}
+$$
 
 A relative-value trade might seek to profit from spreads anticipated to narrow, capturing the differential as it normalizes. Through quantitative models, investors analyze historical and current data, applying statistical techniques to ascertain the likelihood of price convergence, thereby formulating strategies to exploit these pricing anomalies effectively.
 

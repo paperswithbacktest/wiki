@@ -42,9 +42,11 @@ In conclusion, understanding market impact costs is essential for traders aiming
 
 Statistical measures of market impact are essential for understanding how trading activities affect asset prices. One of the most influential models in this regard is Kyle's Lambda, introduced by Albert Kyle in 1985. Kyle's Lambda is a measure of price impact per unit of traded volume, representing the market's sensitivity to trading activity. Mathematically, it can be described as:
 
-\[ \lambda = \frac{\Delta P}{V} \]
+$$
+\lambda = \frac{\Delta P}{V}
+$$
 
-where \(\Delta P\) is the change in price caused by the trade, and \(V\) is the volume of the trade. A higher Lambda indicates a stronger price impact, suggesting that trades significantly alter the price.
+where $\Delta P$ is the change in price caused by the trade, and $V$ is the volume of the trade. A higher Lambda indicates a stronger price impact, suggesting that trades significantly alter the price.
 
 Trading volume and turnover are closely related to market liquidity. Trading volume refers to the number of shares or contracts traded in a given period, while turnover is the trading volume relative to the total number of shares available in the market. High trading volumes typically indicate high liquidity, meaning that the market can absorb trades without substantial price changes. Consequently, lower market impact costs generally occur in markets with high liquidity.
 

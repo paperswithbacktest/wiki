@@ -13,13 +13,17 @@ Markowitz's revolutionary idea was that it is not sufficient for an investor to 
 
 At the heart of this model lies the principle of diversification. By investing in a variety of assets, the unsystematic risk (or idiosyncratic risk) specific to individual investments can be mitigated, allowing investors to construct a portfolio that lies on the 'Efficient Frontier'. The Efficient Frontier represents the set of optimal portfolios offering the highest possible return for a defined level of risk. Mathematically, this involves solving the optimization problem:
 
-\[ \min \left( \sigma_p^2 \right) = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i w_j \sigma_{ij} \]
+$$
+\min \left( \sigma_p^2 \right) = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i w_j \sigma_{ij}
+$$
 
 subject to the constraint:
 
-\[ \sum_{i=1}^{n} w_i = 1 \]
+$$
+\sum_{i=1}^{n} w_i = 1
+$$
 
-where \( w_i \) and \( w_j \) are the weights of the assets in the portfolio, and \( \sigma_{ij} \) is the covariance between assets \( i \) and \( j \).
+where $w_i$ and $w_j$ are the weights of the assets in the portfolio, and $\sigma_{ij}$ is the covariance between assets $i$ and $j$.
 
 Harry Markowitz’s work essentially laid down the groundwork for modern financial portfolio theory and significantly influenced how investors approached asset allocation. The ability to take into account both return and risk transformed investment strategies and led to the development of sophisticated models and tools that are still used in portfolio management and [algorithmic trading](/wiki/algorithmic-trading) today.
 
@@ -34,20 +38,24 @@ At its core, the Markowitz Model operates on the premise that investors are risk
 
 Moreover, the model simplifies investment analysis to a single-period perspective, which is critical in understanding its application. The single-period analysis means that investments are evaluated for their performance over one identical time segment. Under this paradigm, the primary objective is to either maximize expected returns for a given level of risk or to minimize risk for an expected level of return. Mathematically, the model defines a portfolio's expected return as a weighted sum of the expected returns of individual assets:
 
-\[ E(R_p) = \sum_{i=1}^{n} w_i \cdot E(R_i) \]
+$$
+E(R_p) = \sum_{i=1}^{n} w_i \cdot E(R_i)
+$$
 
 Where:
-- \( E(R_p) \) is the expected return of the portfolio.
-- \( w_i \) represents the weight of asset \( i \) in the portfolio.
-- \( E(R_i) \) is the expected return of asset \( i \).
+- $E(R_p)$ is the expected return of the portfolio.
+- $w_i$ represents the weight of asset $i$ in the portfolio.
+- $E(R_i)$ is the expected return of asset $i$.
 
 Simultaneously, the risk or volatility of the portfolio is determined by the variance or standard deviation of these returns. It is calculated as follows:
 
-\[ \sigma_p^2 = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i \cdot w_j \cdot \text{Cov}(R_i, R_j) \]
+$$
+\sigma_p^2 = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i \cdot w_j \cdot \text{Cov}(R_i, R_j)
+$$
 
 Where:
-- \( \sigma_p^2 \) is the variance of the portfolio's return.
-- \( \text{Cov}(R_i, R_j) \) is the covariance between the returns of assets \( i \) and \( j \).
+- $\sigma_p^2$ is the variance of the portfolio's return.
+- $\text{Cov}(R_i, R_j)$ is the covariance between the returns of assets $i$ and $j$.
 
 These tools allow investors to construct a portfolio that achieves the greatest return per unit of risk, embodying the model's core philosophy of efficient diversification. Through diversification, portfolio risk is mitigated by spreading exposure across a range of uncorrelated or negatively correlated assets.
 
@@ -58,11 +66,13 @@ The Markowitz Model’s systematic approach laid the foundational principles upo
 
 The Markowitz model, a cornerstone of modern portfolio theory, provides a structured approach to constructing an efficient portfolio that optimizes the trade-off between risk and return. The process begins with the assessment of a wide range of potential asset combinations to determine which portfolios offer the most desirable balance of risk and reward.
 
-The first step in this process is to quantify the potential risk and return for various asset classes or individual investments. For each combination of assets, the expected return is usually calculated as a weighted average of the expected returns of the individual assets. The risk is typically represented by the standard deviation of the portfolio's returns, which considers not only the variances of individual assets but also the covariances between them. Mathematically, the expected return \( E(R_p) \) of a portfolio is given by:
+The first step in this process is to quantify the potential risk and return for various asset classes or individual investments. For each combination of assets, the expected return is usually calculated as a weighted average of the expected returns of the individual assets. The risk is typically represented by the standard deviation of the portfolio's returns, which considers not only the variances of individual assets but also the covariances between them. Mathematically, the expected return $E(R_p)$ of a portfolio is given by:
 
-\[ E(R_p) = \sum_{i=1}^{n} w_i E(R_i) \]
+$$
+E(R_p) = \sum_{i=1}^{n} w_i E(R_i)
+$$
 
-where \( w_i \) is the weight of asset \( i \) in the portfolio, and \( E(R_i) \) is the expected return of asset \( i \).
+where $w_i$ is the weight of asset $i$ in the portfolio, and $E(R_i)$ is the expected return of asset $i$.
 
 The next phase involves plotting these potential portfolios in a risk-return space to visualize the different combinations. The curve that forms the upper boundary of this plot is known as the Efficient Frontier. Portfolios located on this frontier provide the highest expected return for a given level of risk or, conversely, the lowest risk for a given level of return. The significance of the Efficient Frontier lies in its role as a decision-making tool for portfolio selection. By focusing on only those portfolios on the frontier, investors can avoid suboptimal choices.
 
@@ -125,7 +135,7 @@ In summary, the Markowitz model's integration into algorithmic trading not only 
 
 The Markowitz model, while revolutionary in its approach to portfolio optimization, is not without its challenges and limitations. One significant issue is the model's sensitivity to input changes, which can lead to instability. Small variations in the expected returns, variances, or covariances of the assets can result in large shifts in the composition of the optimal portfolio. This sensitivity to input errors means that any misestimations or inaccuracies in the provided data can drastically affect the performance of the resulting investment strategy.
 
-A core computational challenge within the Markowitz model is the calculation of the covariance matrix, especially as the number of assets in the portfolio increases. The covariance matrix is crucial because it describes how the returns on various assets co-vary, and thus impacts the diversification benefits. However, calculating the covariance matrix for a large number of assets is computationally intensive, as it requires evaluating the covariances between every pair of assets. For a portfolio with \( n \) assets, this involves computing \( \frac{n(n-1)}{2} \) covariances, which can quickly become unmanageable for large \( n \).
+A core computational challenge within the Markowitz model is the calculation of the covariance matrix, especially as the number of assets in the portfolio increases. The covariance matrix is crucial because it describes how the returns on various assets co-vary, and thus impacts the diversification benefits. However, calculating the covariance matrix for a large number of assets is computationally intensive, as it requires evaluating the covariances between every pair of assets. For a portfolio with $n$ assets, this involves computing $\frac{n(n-1)}{2}$ covariances, which can quickly become unmanageable for large $n$.
 
 Scalability is another limitation when dealing with expansive asset universes. As portfolios grow in size, the computational burden not only increases due to the vast number of covariance calculations but also because of the quadratic programming required to optimize the portfolio under the constraints of the model. This makes real-time portfolio optimization challenging, particularly in dynamic trading environments.
 

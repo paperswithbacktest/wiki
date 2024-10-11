@@ -28,9 +28,11 @@ For example, suppose the synthetic index value calculated from the component sto
 
 The following formula can illustrate the index value calculation:
 
-\[ \text{Index Value} = \sum_{i=1}^{n} (P_i \times W_i) \]
+$$
+\text{Index Value} = \sum_{i=1}^{n} (P_i \times W_i)
+$$
 
-where \(P_i\) represents the price of the \(i^{th}\) stock in the index and \(W_i\) represents the weight of the \(i^{th}\) stock in the index calculation.
+where $P_i$ represents the price of the $i^{th}$ stock in the index and $W_i$ represents the weight of the $i^{th}$ stock in the index calculation.
 
 Modern technology and [algorithmic trading](/wiki/algorithmic-trading) enhance this process, allowing for rapid computation and detection of arbitrage opportunities. With prices updated in real-time, algorithms can automatically execute trades to exploit price differentials efficiently, often in fractions of a second. By ensuring that the synthetic index closely matches the traded index futures or ETF, traders can readily assess arbitrage potentials. 
 
@@ -41,16 +43,17 @@ In essence, understanding index arbitrage hinges on recognizing and acting upon 
 
 Arbitrageurs engaged in index arbitrage focus on determining the 'fair value' for stock market index futures. This fair value calculation is pivotal and involves accounting for parameters such as the current [interest rate](/wiki/interest-rate-trading-strategies)s and expected dividends. Mathematically, the fair value of an index future is often expressed as:
 
-\[ 
+$$
+
 \text{Fair Value} = \text{Index Level} \times e^{(r-d) \times T}
-\]
+$$
 
 where:
-- \(\text{Index Level}\) is the current level of the underlying index.
-- \(r\) is the risk-free interest rate.
-- \(d\) is the dividend yield of the index.
-- \(T\) is the time to expiration of the future.
-- \(e\) represents the base of the natural logarithm.
+- $\text{Index Level}$ is the current level of the underlying index.
+- $r$ is the risk-free interest rate.
+- $d$ is the dividend yield of the index.
+- $T$ is the time to expiration of the future.
+- $e$ represents the base of the natural logarithm.
 
 This formula provides a theoretical price for the future, integrating expected benefits from holding the index components (dividends) and the [carry](/wiki/carry-trading)ing cost (interest rate) over the term of the contract. 
 

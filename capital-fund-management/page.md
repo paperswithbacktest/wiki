@@ -31,11 +31,13 @@ Capital Fund Management (CFM) employs a highly scientific and academic approach 
 
 CFM's systematic approach involves leveraging statistical and machine l[earning](/wiki/earning-announcement) methods to detect patterns and inefficiencies in the market. By utilizing massive datasets, they are able to identify potential alpha opportunities and craft strategies that statistically outperform the market. CFM's quantitative strategies often include model-based predictions and optimization techniques, where historical and real-time data feed into algorithms to execute trades with precision and efficiency.
 
-An illustration of CFM's strategy could involve mean reversion or trend-following techniques. For instance, in mean reversion, algorithms are designed to identify price action deviations from historical averages, betting on a reversal to the norm. These strategies can be mathematically formulated, where mean reversion might involve statistically testing the hypothesis that a time series \( X_t \) reverts to a mean level \( \mu \):
+An illustration of CFM's strategy could involve mean reversion or trend-following techniques. For instance, in mean reversion, algorithms are designed to identify price action deviations from historical averages, betting on a reversal to the norm. These strategies can be mathematically formulated, where mean reversion might involve statistically testing the hypothesis that a time series $X_t$ reverts to a mean level $\mu$:
 
-\[ X_t = \mu + \phi (X_{t-1} - \mu) + \epsilon_t \]
+$$
+X_t = \mu + \phi (X_{t-1} - \mu) + \epsilon_t
+$$
 
-where \( \phi \) is the speed of reversion and \( \epsilon_t \) is a noise term.
+where $\phi$ is the speed of reversion and $\epsilon_t$ is a noise term.
 
 CFM's multi-asset capability allows them to diversify risk, reducing exposure by spreading investments across different market sectors. This is crucial in managing systematic risks and ensuring stable returns. Their tech-savvy approach utilizes high-frequency trading systems and the latest computational tools to execute trades, minimizing transaction costs and market impact.
 

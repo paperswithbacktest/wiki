@@ -56,19 +56,25 @@ When discussing the types of bid-ask spreads, it's essential to understand three
 
 The quoted spread is the simplest form and is the difference between the highest price a buyer is willing to pay (the bid) and the lowest price a seller is willing to accept (the ask). Mathematically, it can be expressed as:
 
-\[ \text{Quoted Spread} = \text{Ask Price} - \text{Bid Price} \]
+$$
+\text{Quoted Spread} = \text{Ask Price} - \text{Bid Price}
+$$
 
 For example, if the bid price of a stock is $50 and the ask price is $52, the quoted spread is $2. This spread serves as an initial indicator of the transaction cost and liquidity for traders, impacting their decision-making process.
 
 The effective spread provides a more nuanced view by considering price improvements that might occur when trades execute. Unlike the quoted spread, the effective spread accounts for the actual executed prices, reflecting the true cost of a transaction and potentially capturing mid-quote price movements. It can be calculated as:
 
-\[ \text{Effective Spread} = 2 \times |\text{Execution Price} - \text{Midpoint Price}| \]
+$$
+\text{Effective Spread} = 2 \times |\text{Execution Price} - \text{Midpoint Price}|
+$$
 
 where the midpoint price is the average of the bid and ask prices at the time of the trade. This measure highlights any improvements from the quoted prices due to the market participants capturing better prices during execution.
 
 Realized spread sheds light on the cost of immediacy, which is the compensation liquidity providers earn for bearing instant market risks. It differs from the effective spread by focusing on the profitability of filling orders immediately without significant delay. It’s calculated after a certain time has elapsed post-execution, allowing for the evaluation of the market impact of an immediate trade:
 
-\[ \text{Realized Spread} = 2 \times |\text{Execution Price} - \text{Midpoint Price After Time Interval}| \]
+$$
+\text{Realized Spread} = 2 \times |\text{Execution Price} - \text{Midpoint Price After Time Interval}|
+$$
 
 This expression compares the execution price to the midpoint price at a later time, providing insight into any temporary market impact caused by the initial trade execution. By understanding these variations, traders and market analysts can better evaluate trade execution quality and costs, as well as the behavior of liquidity providers in the marketplace.
 
@@ -94,9 +100,9 @@ When analyzing bid-ask spreads, practical examples can provide valuable insights
 
 The EUR/USD pair is one of the most traded currency pairs globally, known for its high liquidity. The bid-ask spread in this pair is typically narrow, reflecting the constant and significant trading volume. Suppose the bid price (price a buyer is willing to pay) is 1.1170, and the ask price (price a seller is willing to accept) is 1.1172. The bid-ask spread is calculated as:
 
-\[
+$$
 \text{Bid-Ask Spread} = \text{Ask Price} - \text{Bid Price} = 1.1172 - 1.1170 = 0.0002
-\]
+$$
 
 This spread, equivalent to 2 pips, is relatively small, denoting tight spreads typical in the EUR/USD due to its liquidity. However, during periods of low liquidity or high volatility, the spread might widen, impacting transaction costs for traders.
 

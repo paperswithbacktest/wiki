@@ -24,9 +24,11 @@ The model distinguishes itself by recognizing that asset returns are influenced 
 
 APT calculates the expected return of an asset by modeling it as a linear function of these factor sensitivities. Mathematically, it is represented as:
 
-\[ E(R_i) = R_f + \beta_{i1}F_1 + \beta_{i2}F_2 + ... + \beta_{in}F_n \]
+$$
+E(R_i) = R_f + \beta_{i1}F_1 + \beta_{i2}F_2 + ... + \beta_{in}F_n
+$$
 
-In this equation, \( E(R_i) \) represents the expected return of the asset, \( R_f \) is the risk-free rate, \( \beta_{ij} \) is the sensitivity of the asset to factor \( j \), and \( F_j \) represents the risk premium associated with factor \( j \). The equation highlights how each factor contributes linearly to the expected return, allowing for a nuanced and dynamic approach to asset valuation.
+In this equation, $E(R_i)$ represents the expected return of the asset, $R_f$ is the risk-free rate, $\beta_{ij}$ is the sensitivity of the asset to factor $j$, and $F_j$ represents the risk premium associated with factor $j$. The equation highlights how each factor contributes linearly to the expected return, allowing for a nuanced and dynamic approach to asset valuation.
 
 APT's multi-factor perspective is particularly advantageous as it provides a comprehensive framework for understanding the various economic influences on asset prices. By incorporating a range of macroeconomic factors, APT allows for more precise adjustment of risk and potential return evaluations compared to single-factor models. This enables investors to make more informed decisions about asset valuation and risk management, aligning expected returns more closely with real economic influences.
 
@@ -37,9 +39,11 @@ The Arbitrage Pricing Theory (APT) model provides a framework for determining as
 
 In the APT model, the expected return of an asset is expressed as:
 
-\[ E(R_i) = R_f + \sum_{j=1}^{n} \beta_{ij} F_j \]
+$$
+E(R_i) = R_f + \sum_{j=1}^{n} \beta_{ij} F_j
+$$
 
-where \( E(R_i) \) is the expected return of asset \( i \), \( R_f \) is the risk-free rate, \( \beta_{ij} \) is the sensitivity of asset \( i \) to factor \( j \), and \( F_j \) represents the risk premium associated with factor \( j \). This formula makes the model comprehensive for asset valuation by taking multiple factors into account.
+where $E(R_i)$ is the expected return of asset $i$, $R_f$ is the risk-free rate, $\beta_{ij}$ is the sensitivity of asset $i$ to factor $j$, and $F_j$ represents the risk premium associated with factor $j$. This formula makes the model comprehensive for asset valuation by taking multiple factors into account.
 
 Core assumptions of the APT model include:
 
@@ -60,11 +64,13 @@ Arbitrage within the framework of the Arbitrage Pricing Theory (APT) is a strate
 
 To execute this strategy, the arbitrageur identifies overvalued and undervalued assets relative to their APT-derived expected returns. By selling overvalued assets and buying undervalued ones, the arbitrageur effectively aligns the synthetic portfolio's factor exposures with those of the mispriced asset, thus aiming to capture the arbitrage opportunity.
 
-Mathematically, if an asset's return \( R_i \) deviates from its expected return based on the APT model, the arbitrageur assesses the following:
+Mathematically, if an asset's return $R_i$ deviates from its expected return based on the APT model, the arbitrageur assesses the following:
 
-\[ R_i = \text{E}(R_i) + \beta_{i1}F_1 + \beta_{i2}F_2 + \ldots + \beta_{in}F_n + \epsilon_i \]
+$$
+R_i = \text{E}(R_i) + \beta_{i1}F_1 + \beta_{i2}F_2 + \ldots + \beta_{in}F_n + \epsilon_i
+$$
 
-Here, \(\text{E}(R_i)\) is the expected return, \(\beta_{ij}\) represents the sensitivity to factor \( j \), \( F_j \) are the unexpected movements in each factor, and \(\epsilon_i\) is the idiosyncratic risk of the asset. The arbitrageur aims for the actual return \( R_i \) to align with \( \text{E}(R_i) \) by rebalancing the portfolio's exposure to these factors.
+Here, $\text{E}(R_i)$ is the expected return, $\beta_{ij}$ represents the sensitivity to factor $j$, $F_j$ are the unexpected movements in each factor, and $\epsilon_i$ is the idiosyncratic risk of the asset. The arbitrageur aims for the actual return $R_i$ to align with $\text{E}(R_i)$ by rebalancing the portfolio's exposure to these factors.
 
 This process of constructing a synthetic portfolio is critical for identifying and correcting market inefficiencies, as it enforces equilibrium where no arbitrage opportunity remains. Advanced [algorithmic trading](/wiki/algorithmic-trading) systems often implement these principles, utilizing vast datasets and quick execution to detect and act on such discrepancies efficiently.
 
@@ -107,19 +113,21 @@ The Arbitrage Pricing Theory (APT) and Capital Asset Pricing Model (CAPM) are bo
 
 In mathematical terms, CAPM is expressed as:
 
-\[ 
-E(R_i) = R_f + \beta_i (E(R_m) - R_f) 
-\]
+$$
 
-where \( E(R_i) \) is the expected return on asset \( i \), \( R_f \) is the risk-free rate, \( \beta_i \) measures the asset's sensitivity to changes in the market portfolio \( E(R_m) \), and \( E(R_m) - R_f \) is the market risk premium.
+E(R_i) = R_f + \beta_i (E(R_m) - R_f) 
+$$
+
+where $E(R_i)$ is the expected return on asset $i$, $R_f$ is the risk-free rate, $\beta_i$ measures the asset's sensitivity to changes in the market portfolio $E(R_m)$, and $E(R_m) - R_f$ is the market risk premium.
 
 Conversely, APT is expressed as:
 
-\[ 
-E(R_i) = R_f + \sum_{j=1}^{N} \beta_{ij} F_j 
-\]
+$$
 
-where each \( \beta_{ij} \) represents the sensitivity of the asset \( i \) to factor \( j \), and \( F_j \) are the risk premiums associated with these factors. This formulation allows APT to consider a broader spectrum of risk factors beyond market movements, such as inflation rates, interest rates, and gross domestic product changes.
+E(R_i) = R_f + \sum_{j=1}^{N} \beta_{ij} F_j 
+$$
+
+where each $\beta_{ij}$ represents the sensitivity of the asset $i$ to factor $j$, and $F_j$ are the risk premiums associated with these factors. This formulation allows APT to consider a broader spectrum of risk factors beyond market movements, such as inflation rates, interest rates, and gross domestic product changes.
 
 Between these two models, the choice generally hinges on the complexity and data requirements. APT's flexibility comes at the cost of needing detailed identification and quantification of relevant factors, which can be challenging and requires comprehensive data. CAPM, with its single-factor focus, is simpler and often more tractable, making it appealing for contexts where data is limited or when simplicity is crucial.
 

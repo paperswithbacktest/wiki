@@ -22,11 +22,13 @@ Volume-weighted Average Price (VWAP) is a crucial metric in the financial indust
 
 The calculation of VWAP involves a straightforward mathematical approach. It is determined by dividing the total value of traded shares (price times traded quantity) by the total volume of shares traded. Mathematically, this is represented as:
 
-\[ \text{VWAP} = \frac{\sum (\text{Price}_i \times \text{Volume}_i)}{\sum \text{Volume}_i} \]
+$$
+\text{VWAP} = \frac{\sum (\text{Price}_i \times \text{Volume}_i)}{\sum \text{Volume}_i}
+$$
 
 Where:
-- \(\text{Price}_i\) is the trade price at the i-th transaction
-- \(\text{Volume}_i\) is the number of shares traded in the i-th transaction
+- $\text{Price}_i$ is the trade price at the i-th transaction
+- $\text{Volume}_i$ is the number of shares traded in the i-th transaction
 
 This measure provides a clear picture of the average trading price throughout the day and is recalculated with each transaction, making it highly dynamic and reflective of real-time market conditions.
 
@@ -43,11 +45,11 @@ Volume-weighted Average Price (VWAP) plays a significant role in [algorithmic tr
 
 Volume participation algorithms utilize VWAP by aligning the trading activity with the market volume to minimize market disruption. These algorithms aim to match the execution of trades with the market’s natural volume, thereby achieving an average execution price close to the VWAP. This approach often involves the use of *time-weighted* strategies where trades are partitioned over time, proportionate to the trading volume. The basic formula for VWAP is given by:
 
-\[
+$$
 VWAP = \frac{\sum (P_i \times Q_i)}{\sum Q_i}
-\]
+$$
 
-where \(P_i\) represents the price of each trade, and \(Q_i\) the corresponding quantity. This formula highlights the emphasis on both transaction price and volume, ensuring larger trades exert an appropriate influence on the price measure.
+where $P_i$ represents the price of each trade, and $Q_i$ the corresponding quantity. This formula highlights the emphasis on both transaction price and volume, ensuring larger trades exert an appropriate influence on the price measure.
 
 **Guaranteed VWAP Execution vs. VWAP Target Execution**
 
@@ -79,11 +81,12 @@ Volume-weighted Average Price (VWAP) is a vital tool for traders due to its abil
 
 Calculating VWAP involves the cumulative intraday total of the product of volume and price, divided by the cumulative intraday volume:
 
-\[ 
-VWAP_t = \frac{\sum_{i=1}^t (P_i \times Q_i)}{\sum_{i=1}^t Q_i} 
-\]
+$$
 
-Where \( P_i \) is the price of the trade and \( Q_i \) is the quantity of the trade at time \( i \). This formula underscores the importance of volume in the pricing dynamics, making VWAP a powerful indicator for cost management.
+VWAP_t = \frac{\sum_{i=1}^t (P_i \times Q_i)}{\sum_{i=1}^t Q_i} 
+$$
+
+Where $P_i$ is the price of the trade and $Q_i$ is the quantity of the trade at time $i$. This formula underscores the importance of volume in the pricing dynamics, making VWAP a powerful indicator for cost management.
 
 Despite its advantages, VWAP does face challenges, such as execution risk and slippage. Execution risk arises when a trader attempts to match the VWAP but faces difficulty due to rapid market changes or insufficient liquidity. Slippage, the difference between the expected transaction price and the actual price, can occur when large orders are difficult to fill at the prevailing VWAP, particularly in volatile markets or for illiquid stocks.
 

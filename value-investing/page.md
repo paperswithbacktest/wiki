@@ -23,12 +23,12 @@ The process of identifying undervalued stocks hinges on [fundamental analysis](/
 Key metrics are central to the evaluation process in value investing:
 
 1. **Intrinsic Value**: This represents the true worth of a company based on its fundamentals, such as earnings, dividends, and growth potential. Methods for calculating intrinsic value include various valuation models like the Discounted Cash Flow (DCF) method, which employs the formula:
-
-    \[
+$$
     \text{DCF} = \sum_{t=1}^{n} \frac{C_t}{(1 + r)^t}
-    \]
+   
+$$
 
-    where \( C_t \) is the cash flow at time \( t \), \( r \) is the discount rate, and \( n \) is the number of periods.
+    where $C_t$ is the cash flow at time $t$, $r$ is the discount rate, and $n$ is the number of periods.
 
 2. **Margin of Safety**: This is a critical concept introduced by Benjamin Graham, which suggests buying securities only when their market price is substantially below their calculated intrinsic value. This buffer protects against errors in judgment or unforeseeable market downturns. For example, if the intrinsic value of a stock is determined to be $100, a value investor might only purchase it if it’s available for $70, providing a 30% margin of safety.
 
@@ -51,11 +51,12 @@ One of the most impactful changes has been the advent of faster data processing 
 
 Innovations like the discounted cash flow model (DCF) have also redefined how investors evaluate a company's intrinsic value. The DCF model bases a company’s valuation on projected future cash flows, discounted back to their present value using a discount rate. This allows for a more nuanced view of a company's potential profitability and long-term value, rooted in cash flow forecasts rather than book value or current [earning](/wiki/earning-announcement)s alone. The DCF formula generally looks like this:
 
-\[ 
-DCF = \sum \frac{CF_t}{(1 + r)^t}
-\]
+$$
 
-Where \( CF_t \) represents the cash flow in year \( t \), and \( r \) is the discount rate. The adoption of such models has provided value investors with a robust framework for evaluating businesses more comprehensively.
+DCF = \sum \frac{CF_t}{(1 + r)^t}
+$$
+
+Where $CF_t$ represents the cash flow in year $t$, and $r$ is the discount rate. The adoption of such models has provided value investors with a robust framework for evaluating businesses more comprehensively.
 
 Moreover, the integration of quantitative approaches and the emergence of big data analytics have also contributed to the evolution of value investing. Analytical methods that include [machine learning](/wiki/machine-learning) and predictive algorithms enable investors to extract insights from large [volume](/wiki/volume-trading-strategy)s of historical and real-time data, thereby identifying patterns and potential investment opportunities that might not be obvious through traditional analyses.
 

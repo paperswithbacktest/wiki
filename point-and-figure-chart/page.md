@@ -103,11 +103,15 @@ Point and Figure (P&F) charts provide unique methods for forecasting price targe
 
 The vertical count method is based on the initial move in a column of Xs that represents an upward movement. The process involves determining the number of Xs in the first completed column following a major bottom and multiplying this by a predetermined box size and reversal amount. The formula for calculating a vertical target is:
 
-\[ \text{Vertical Target} = \text{Price at Lowest X} + (\text{Number of Xs} \times \text{Box Size} \times \text{Reversal Amount}) \]
+$$
+\text{Vertical Target} = \text{Price at Lowest X} + (\text{Number of Xs} \times \text{Box Size} \times \text{Reversal Amount})
+$$
 
 For example, consider a P&F chart where the box size is $1, the reversal amount is 3, and a column of Xs comprises 10 boxes. If the initial price at the lowest X is $50, the calculation for the target would be:
 
-\[ \text{Vertical Target} = 50 + (10 \times 1 \times 3) = 80 \]
+$$
+\text{Vertical Target} = 50 + (10 \times 1 \times 3) = 80
+$$
 
 In trading algorithms, this method is particularly useful for identifying breakout opportunities and setting price targets for upward trends based on established patterns.
 
@@ -115,11 +119,15 @@ In trading algorithms, this method is particularly useful for identifying breako
 
 The horizontal count technique calculates the price target by examining the width of a congestion area or base formation in the P&F chart. This method sums the boxes across the base—usually marked by O columns—and multiplies this total by the box size and reversal amount, adding it to the lowest price in the formation to derive the price target. The formula is:
 
-\[ \text{Horizontal Target} = \text{Price at Base} + (\text{Width of Base} \times \text{Box Size} \times \text{Reversal Amount}) \]
+$$
+\text{Horizontal Target} = \text{Price at Base} + (\text{Width of Base} \times \text{Box Size} \times \text{Reversal Amount})
+$$
 
 For instance, if the base width is observed to be 8 boxes, the box size is $2, the reversal amount remains 3, and the price at the base is $30, the calculation would be:
 
-\[ \text{Horizontal Target} = 30 + (8 \times 2 \times 3) = 78 \]
+$$
+\text{Horizontal Target} = 30 + (8 \times 2 \times 3) = 78
+$$
 
 In algorithmic trading, the horizontal count method can be employed to set targets during consolidation breakouts, providing algorithms with calculated price objectives based on historical price patterns.
 

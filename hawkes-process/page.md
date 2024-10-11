@@ -16,27 +16,29 @@ Originally developed in the 1970s for analyzing earthquake aftershocks, the Hawk
 
 The Hawkes process is a stochastic process known for its self-exciting property, meaning that each event increases the probability of future events occurring. This feature is particularly useful for modeling occurrences that have clustered patterns over time, as is often seen in fields like finance and social networks.
 
-Mathematically, a Hawkes process is defined by an intensity function that modulates over time. The intensity function, denoted as \(\lambda(t)\), determines the rate at which events are expected to happen at any given time \(t\). For a linear Hawkes process, this intensity function is typically expressed as:
+Mathematically, a Hawkes process is defined by an intensity function that modulates over time. The intensity function, denoted as $\lambda(t)$, determines the rate at which events are expected to happen at any given time $t$. For a linear Hawkes process, this intensity function is typically expressed as:
 
-\[ 
+$$
+
 \lambda(t) = \mu + \sum_{t_i < t} \phi(t - t_i) 
-\]
+$$
 
-Here, \(\mu\) represents the baseline intensity, which is the rate of events when no other events have occurred recently. The sum \(\sum_{t_i < t} \phi(t - t_i)\) captures the influence of past events on the current rate through a kernel function \(\phi\). This kernel often takes forms like exponential decay, indicating that the influence of an event diminishes over time. A common choice is:
+Here, $\mu$ represents the baseline intensity, which is the rate of events when no other events have occurred recently. The sum $\sum_{t_i < t} \phi(t - t_i)$ captures the influence of past events on the current rate through a kernel function $\phi$. This kernel often takes forms like exponential decay, indicating that the influence of an event diminishes over time. A common choice is:
 
-\[
+$$
 \phi(t - t_i) = \alpha \cdot \exp(-\beta (t - t_i))
-\]
+$$
 
-where \(\alpha\) signifies the magnitude of influence per event, and \(\beta\) reflects the decay rate.
+where $\alpha$ signifies the magnitude of influence per event, and $\beta$ reflects the decay rate.
 
-The propagation of events within a Hawkes process is often described using a branching structure where each initial event (or 'parent' event) may spawn subsequent 'daughter' events, contributing to further clustering of occurrences. This aspect can be quantified using the branching ratio \(n\), defined as:
+The propagation of events within a Hawkes process is often described using a branching structure where each initial event (or 'parent' event) may spawn subsequent 'daughter' events, contributing to further clustering of occurrences. This aspect can be quantified using the branching ratio $n$, defined as:
 
-\[ 
+$$
+
 n = \int_{0}^{\infty} \phi(t) \, dt
-\]
+$$
 
-The branching ratio \(n\) indicates the average number of offspring events triggered by a single past event. A critical threshold exists where \(n < 1\), suggesting that the process is sub-critical and events will eventually die out, while \(n = 1\) corresponds to a critical branching process, and \(n > 1\) signifies a super-critical process where events could proliferate exponentially.
+The branching ratio $n$ indicates the average number of offspring events triggered by a single past event. A critical threshold exists where $n < 1$, suggesting that the process is sub-critical and events will eventually die out, while $n = 1$ corresponds to a critical branching process, and $n > 1$ signifies a super-critical process where events could proliferate exponentially.
 
 The self-exciting nature of the Hawkes process, captured through these mathematical formulations, makes it highly applicable and insightful for analyzing systems with feedback loops and clustering of events over time. Its ability to model how past events influence future occurrences provides a versatile framework across various domains.
 
@@ -45,21 +47,21 @@ The self-exciting nature of the Hawkes process, captured through these mathemati
 
 The mathematical foundation of the Hawkes process is rooted in its representation as a self-exciting point process. At its core, it builds on the framework of a Poisson process but introduces a dynamic adjustment feature that accounts for the occurrence of past events. This is central to the definition of its intensity function, which is expressed as a function of time and past events. 
 
-Mathematically, the intensity function \(\lambda(t)\) of a Hawkes process can be expressed as:
+Mathematically, the intensity function $\lambda(t)$ of a Hawkes process can be expressed as:
 
-\[
+$$
 \lambda(t) = \mu + \sum_{t_i < t} \phi(t - t_i)
-\]
+$$
 
-where \(\mu\) is the baseline intensity, and \(\phi(t - t_i)\) is the response function that determines how past events \((t_i)\) influence the current intensity. This function reflects the increase in intensity due to prior events—a hallmark of the self-exciting nature of the Hawkes process.
+where $\mu$ is the baseline intensity, and $\phi(t - t_i)$ is the response function that determines how past events $(t_i)$ influence the current intensity. This function reflects the increase in intensity due to prior events—a hallmark of the self-exciting nature of the Hawkes process.
 
-A key characteristic of the Hawkes process is its branching structure. This is where the branching ratio, denoted as \(n\), becomes crucial. The branching ratio represents the average number of offspring or "daughter" events generated by a single event. It is generally defined by the integral of the response function over time:
+A key characteristic of the Hawkes process is its branching structure. This is where the branching ratio, denoted as $n$, becomes crucial. The branching ratio represents the average number of offspring or "daughter" events generated by a single event. It is generally defined by the integral of the response function over time:
 
-\[
+$$
 n = \int_0^\infty \phi(s) \, ds
-\]
+$$
 
-The value of \(n\) determines the long-term stability of the process. If \(n < 1\), the process will eventually die out, whereas \(n = 1\) can lead to criticality, and \(n > 1\) can cause the process to explode, creating an infinite sequence of events in finite time.
+The value of $n$ determines the long-term stability of the process. If $n < 1$, the process will eventually die out, whereas $n = 1$ can lead to criticality, and $n > 1$ can cause the process to explode, creating an infinite sequence of events in finite time.
 
 These mathematical formulations highlight the adaptability of the Hawkes process in modeling sequences of events where the influence of each event diminishes over time, and they allow for capturing clusters of high intensity, a feature particularly useful in applications such as [algorithmic trading](/wiki/algorithmic-trading). This ability to model event clusters accurately underpins the effectiveness of using Hawkes in financial contexts.
 

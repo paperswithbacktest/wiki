@@ -20,9 +20,10 @@ The stochastic oscillator is a versatile momentum indicator that operates by ass
 
 To determine these signals, the stochastic oscillator is built upon two primary components: the %K and %D lines. The %K line represents the raw stochastic value, which measures where the closing price lies in relation to the price range over a chosen period. This is calculated using the formula:
 
-\[ 
+$$
+
 \%K = \frac{\text{Current Close} - \text{Lowest Low}}{\text{Highest High} - \text{Lowest Low}} \times 100 
-\]
+$$
 
 where "Current Close" is the most recent closing price, "Lowest Low" is the lowest price over the chosen period, and "Highest High" is the highest price over the same period.
 
@@ -39,23 +40,23 @@ The stochastic oscillator is a key technical indicator used in trading to assess
 
 To calculate the %K line, the formula is as follows:
 
-\[
+$$
 \%K = \frac{{(C - L_N)}}{{(H_N - L_N)}} \times 100
-\]
+$$
 
 Where:
 
-- \( C \) is the most recent closing price.
-- \( L_N \) is the lowest price in the last N periods.
-- \( H_N \) is the highest price in the last N periods.
+- $C$ is the most recent closing price.
+- $L_N$ is the lowest price in the last N periods.
+- $H_N$ is the highest price in the last N periods.
 
-This calculation provides a percentage that shows where the current price stands relative to the specified range over the selected period \( N \). Traders typically choose standard periods such as 5, 9, or 14 days, depending on their trading strategy and time horizon.
+This calculation provides a percentage that shows where the current price stands relative to the specified range over the selected period $N$. Traders typically choose standard periods such as 5, 9, or 14 days, depending on their trading strategy and time horizon.
 
 The %D line functions as a signal line and is derived by calculating the moving average of the %K values. This smoothing process often utilizes a three-period moving average to reduce noise and highlight trends more clearly. The formula for the %D line is:
 
-\[
+$$
 \%D = \text{Simple Moving Average of %K over 3 periods}
-\]
+$$
 
 Using these calculations, traders can interpret the stochastic oscillator's readings to identify overbought or oversold conditions, helping them make informed trading decisions. Here's how you might write Python code to calculate the %K and %D lines:
 

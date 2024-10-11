@@ -68,7 +68,9 @@ Margin buying, a pivotal aspect of trading algorithms, involves borrowing funds 
 
 Leverage, in this context, is the use of various financial instruments or borrowed capital to increase potential returns on investment. It is a double-edged sword; while it can potentially increase profits, it also increases the risk of significant losses. The total exposure of a leveraged position can be expressed as:
 
-\[ \text{Total Exposure} = \text{Equity} + \text{Borrowed Capital} \]
+$$
+\text{Total Exposure} = \text{Equity} + \text{Borrowed Capital}
+$$
 
 This formula underscores the trader's amplified market exposure relative to their actual financial commitment.
 
@@ -89,9 +91,10 @@ When engaging in short selling, a trader borrows shares from a broker to sell th
 
 The profit and loss dynamics in margin-based short selling are determined by several [factor](/wiki/factor-investing)s, including the initial selling price, repurchase price, and the interest or fees incurred on the borrowed funds. The basic formula for calculating profit or loss in a short sale is:
 
-\[ 
+$$
+
 \text{Profit/Loss} = (\text{Initial Sale Price} - \text{Repurchase Price}) \times \text{Number of Shares} - \text{Interest \& Fees}
-\]
+$$
 
 Let's consider a practical example:
 
@@ -101,9 +104,9 @@ Let's consider a practical example:
 4. The repurchase cost is $4,000.
 5. Assuming a $100 fee for borrowing the securities, the net profit would be calculated as follows:
 
-\[
+$$
 \text{Profit} = (5,000 - 4,000) - 100 = 900
-\]
+$$
 
 ### Risks Associated with Margin in Short Selling
 
@@ -161,9 +164,13 @@ This example highlights how varying margin requirements impact the financial buf
 
 A margin call occurs when the value of an investor's collateral falls below the required margin level set by the brokerage. This situation prompts the brokerage to request additional funds or securities to restore the account to the required margin level. The condition that triggers a margin call is primarily a decrease in the value of the securities held in a margin account, reducing the equity balance. The formula for a margin call can be expressed as:
 
-\[ \text{Equity} = \text{Market Value of Securities} - \text{Loaned Amount} \]
+$$
+\text{Equity} = \text{Market Value of Securities} - \text{Loaned Amount}
+$$
 
-\[ \text{Equity} < \text{Maintenance Margin Requirement} \]
+$$
+\text{Equity} < \text{Maintenance Margin Requirement}
+$$
 
 When a margin call is triggered, traders may face several consequences that can significantly impact their trading strategies. Firstly, they need to provide additional capital or sell portions of their positions, potentially at a loss, to meet the margin requirement. This forced liquidation can disrupt planned strategies, particularly in algorithmic trading where specific conditions and setups are critical. Moreover, the need to replenish capital can strain financial resources and reduce the trader's ability to take advantage of other market opportunities.
 
@@ -180,17 +187,19 @@ Risk management tools, such as stop-loss orders and dynamic hedging, play an ess
 
 Portfolio optimization techniques, such as mean-variance optimization, can also enhance margin efficiency. These techniques help identify the optimal asset allocation that maximizes expected return for a given level of risk, leading to more efficient use of margin. The optimization is generally guided by the formula:
 
-\[ 
-\text{Maximize} \:\: E(R_p) - \frac{\lambda}{2} \cdot \text{Var}(R_p) 
-\]
+$$
 
-where \( E(R_p) \) is the expected portfolio return, \(\lambda\) is the risk aversion factor, and \(\text{Var}(R_p)\) is the portfolio return variance.
+\text{Maximize} \:\: E(R_p) - \frac{\lambda}{2} \cdot \text{Var}(R_p) 
+$$
+
+where $E(R_p)$ is the expected portfolio return, $\lambda$ is the risk aversion factor, and $\text{Var}(R_p)$ is the portfolio return variance.
 
 Return on Margin (ROM) serves as a vital performance metric in trading, measuring the efficiency of margin usage by comparing profit to the amount of margin employed. ROM is calculated as:
 
-\[ 
+$$
+
 \text{ROM} = \frac{\text{Net Profit}}{\text{Used Margin}} 
-\]
+$$
 
 A high ROM indicates that the trade strategy effectively generates profits relative to the margin used, which traders aim to maximize by optimizing leverage and position sizes. Algorithmic trading systems often include features for measuring and optimizing ROM to ensure that margin is used efficiently and profitably.
 

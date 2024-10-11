@@ -20,14 +20,16 @@ In essence, the Kelly Criterion addresses the fundamental question of how much t
 
 The Kelly Criterion Formula offers a strategic method for determining the optimal fraction of capital to invest or bet on a particular outcome to maximize the logarithm of wealth. At its core, for binary outcomes, the formula is expressed as:
 
-\[ f^* = \frac{bp - q}{b} \]
+$$
+f^* = \frac{bp - q}{b}
+$$
 
 where:
 
-- \( f^* \) represents the fraction of the capital to wager,
-- \( p \) is the probability of winning,
-- \( q \) is the probability of losing, which is \( 1 - p \),
-- \( b \) denotes the odds received on the wager.
+- $f^*$ represents the fraction of the capital to wager,
+- $p$ is the probability of winning,
+- $q$ is the probability of losing, which is $1 - p$,
+- $b$ denotes the odds received on the wager.
 
 This formula essentially calculates the size of a bet that will maximize expected logarithmic growth, striking a balance between taking advantage of favorable odds and limiting exposure to risk.
 
@@ -71,15 +73,17 @@ Finally, adopting Kelly's methods in automated trading systems offers several be
 
 The Kelly Criterion stands out for its mathematical rigor in maximizing the growth of one's wealth over the long term. It is rooted in the principle of optimizing the geometric mean of wealth, which ensures sustainable growth by reinvesting a calculated portion of available capital. By leveraging a formula that [factor](/wiki/factor-investing)s in probabilities and outcomes, the Kelly Criterion allows investors to balance their risk with potential reward effectively.
 
-The central approach of the Kelly Criterion is to identify the optimal fraction of capital to wager or invest in an activity with uncertain outcomes. This optimal fraction \( f^* \) is determined by the formula:
+The central approach of the Kelly Criterion is to identify the optimal fraction of capital to wager or invest in an activity with uncertain outcomes. This optimal fraction $f^*$ is determined by the formula:
 
-\[ f^* = \frac{bp - q}{b} \]
+$$
+f^* = \frac{bp - q}{b}
+$$
 
 where:
 
-- \( p \) is the probability of a winning outcome,
-- \( q \) is the probability of a losing outcome (i.e., \( 1 - p \)),
-- \( b \) is the odds or the ratio of the profit to the stake.
+- $p$ is the probability of a winning outcome,
+- $q$ is the probability of a losing outcome (i.e., $1 - p$),
+- $b$ is the odds or the ratio of the profit to the stake.
 
 This formula mathematically ensures that gains are maximized in such a way that the compounding effect of returns can work over the long term. Essentially, it advises scaling back investments as the risk increases, maintaining a balance between maximizing expected returns and protecting against significant losses.
 
@@ -92,7 +96,7 @@ In summary, the Kelly Criterion provides a framework that combines mathematical 
 
 ## Challenges and Criticisms
 
-The Kelly Criterion, while a powerful tool for maximizing long-term wealth growth, is not without its challenges and criticisms. One major challenge in applying the Kelly Criterion is the necessity for accurate probability estimates. The formula's efficacy depends heavily on precise inputs regarding the probability of winning (denoted as \( p \)) and the odds offered (denoted as \( b \)). These probabilities are often dynamic and difficult to estimate accurately, leading to a significant risk of incorrect calculation. This uncertainty can result in either overbetting or underbetting relative to the true optimal strategy.
+The Kelly Criterion, while a powerful tool for maximizing long-term wealth growth, is not without its challenges and criticisms. One major challenge in applying the Kelly Criterion is the necessity for accurate probability estimates. The formula's efficacy depends heavily on precise inputs regarding the probability of winning (denoted as $p$) and the odds offered (denoted as $b$). These probabilities are often dynamic and difficult to estimate accurately, leading to a significant risk of incorrect calculation. This uncertainty can result in either overbetting or underbetting relative to the true optimal strategy.
 
 Economists have critiqued the Kelly Criterion for its foundation on theoretical assumptions that may not hold true for all investors. One major point of contention is its compatibility with utility theory. The Kelly Criterion inherently assumes that investors have logarithmic utility, focusing solely on maximizing the geometric growth of wealth. This assumption may not align with individual risk preferences, which vary widely. Many individuals prioritize risk aversion or derive utility from steady income rather than maximal growth potential, rendering the Kelly Criterion unsuitable in such cases.
 
@@ -109,11 +113,15 @@ To understand the Kelly Criterion's practical application in algorithmic trading
 
 The Kelly Criterion formula is given by:
 
-\[ f^* = \frac{bp - q}{b} \]
+$$
+f^* = \frac{bp - q}{b}
+$$
 
 Substituting the values into the formula:
 
-\[ f^* = \frac{(1)(0.6) - 0.4}{1} = 0.2 \]
+$$
+f^* = \frac{(1)(0.6) - 0.4}{1} = 0.2
+$$
 
 This indicates that 20% of the trading capital should be allocated to this particular trade for optimal growth.
 

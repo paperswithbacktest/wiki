@@ -35,13 +35,17 @@ The Arrival Price is a pre-trade benchmark that reflects the market price of a s
 
 In contrast, VWAP and TWAP are post-trade benchmarks that provide stability across different trading environments. VWAP is calculated by dividing the total traded value by the total traded [volume](/wiki/volume-trading-strategy) over a specified period. This benchmark is suited to large trades spread over a timeframe, as it reflects the average price at which a security has traded over the day or during a particular period. The formula for VWAP can be represented as:
 
-\[ \text{VWAP} = \frac{\sum_{i=1}^{n}(P_i \times Q_i)}{\sum_{i=1}^{n} Q_i} \]
+$$
+\text{VWAP} = \frac{\sum_{i=1}^{n}(P_i \times Q_i)}{\sum_{i=1}^{n} Q_i}
+$$
 
-where \( P_i \) is the price and \( Q_i \) is the quantity of the \( i^{th} \) trade.
+where $P_i$ is the price and $Q_i$ is the quantity of the $i^{th}$ trade.
 
 TWAP, on the other hand, calculates the average price of a security over a specified time interval, dividing the sum of the prices by the number of time intervals. It is particularly useful in distributing trades over time to minimize market impact, especially when executing large orders. It's expressed simply as:
 
-\[ \text{TWAP} = \frac{\sum_{i=1}^{n} P_i}{n} \]
+$$
+\text{TWAP} = \frac{\sum_{i=1}^{n} P_i}{n}
+$$
 
 While VWAP and TWAP offer benefits in terms of stability, they can also present challenges as market conditions evolve. For instance, in highly volatile environments or when trading volumes peak unexpectedly, these benchmarks may not accurately reflect the best possible execution. As such, they require careful consideration and adjustment to align with market realities.
 
@@ -78,12 +82,12 @@ Misconceptions persist around the idea that achieving the best market price equa
 To address the compl[exit](/wiki/exit-strategy)ies of best execution, various strategic execution algorithms are employed, broadly categorized into static and dynamic models.
 
 - **Static Algorithms**: These algorithms follow a predefined set of rules regardless of market changes. A common static method is the Volume-Weighted Average Price (VWAP) algorithm, which aims to execute orders at prices that reflect the average price over a specific period. VWAP is calculated as follows:
-
-  \[
+$$
   \text{VWAP} = \frac{\sum (\text{Price}_i \times \text{Volume}_i)}{\sum \text{Volume}_i}
-  \]
+ 
+$$
 
-  where \( \text{Price}_i \) and \( \text{Volume}_i \) represent the price and volume of each trade.
+  where $\text{Price}_i$ and $\text{Volume}_i$ represent the price and volume of each trade.
 
 - **Dynamic Algorithms**: Unlike static algorithms, dynamic counterparts adjust their strategies based on real-time market data and conditions. They are crucial for adapting to market volatility and liquidity shifts. An example is the Implementation Shortfall algorithm, which aims to minimize the cost of trading by balancing the market impact and timing risk.
 

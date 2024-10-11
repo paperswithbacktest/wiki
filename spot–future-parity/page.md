@@ -44,11 +44,15 @@ The convenience yield relates to the non-monetary benefits of holding a physical
 
 Let’s illustrate with a basic example in the gold market: Suppose the spot price of gold is $1,500 per ounce, the risk-free interest rate is 2% per annum, and there are no dividends or storage costs for simplicity. In this case, the futures price (F) for delivery in one year would be calculated using the formula:
 
-\[ F = S \times e^{rT} \]
+$$
+F = S \times e^{rT}
+$$
 
 Substituting the values into the equation, we get:
 
-\[ F = 1500 \times e^{0.02 \times 1} \approx 1530.30 \]
+$$
+F = 1500 \times e^{0.02 \times 1} \approx 1530.30
+$$
 
 Hence, in ideal conditions, the futures price for gold one year from now would be approximately $1,530.30 per ounce, reflecting the time value of money as impacted by interest rates.
 
@@ -82,7 +86,7 @@ Understanding this formula helps traders identify opportunities where the future
 
 Spot-future parity conditions are central to devising effective algorithmic trading strategies by offering precise indicators for arbitrage opportunities. Arbitrage is the practice of profiting from price discrepancies between different markets or forms of the same financial instrument, and spot-future parity helps traders identify when such imbalances exist.
 
-In algorithmic trading, algorithms continuously monitor the spot and futures markets for deviations from the expected parity condition. When the actual futures price \( F \) deviates from the theoretical futures price (calculated as \( F = Se^{(r+y-q-u)T} \)), an arbitrage opportunity is identified. Algorithms are designed to spot these disparities and execute trades that capitalize on the mispricing. For instance, if the futures price is higher than the theoretical price, the algorithm might short sell the futures contract while buying the equivalent spot asset, locking in a risk-free profit as the prices converge toward parity.
+In algorithmic trading, algorithms continuously monitor the spot and futures markets for deviations from the expected parity condition. When the actual futures price $F$ deviates from the theoretical futures price (calculated as $F = Se^{(r+y-q-u)T}$), an arbitrage opportunity is identified. Algorithms are designed to spot these disparities and execute trades that capitalize on the mispricing. For instance, if the futures price is higher than the theoretical price, the algorithm might short sell the futures contract while buying the equivalent spot asset, locking in a risk-free profit as the prices converge toward parity.
 
 Technology plays a critical role in the efficacy of these strategies. Advanced algorithms rely on high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) technology to execute trades within milliseconds. This speed is crucial in highly liquid markets, where prices can rapidly adjust when arbitrage opportunities arise. The technology also encompasses state-of-the-art data analytics to process and analyze vast quantities of market data to make split-second trading decisions.
 
@@ -113,24 +117,28 @@ Spot-future parity is an integral mechanism in financial markets that ensures a 
 ### Currencies
 In the currency markets, spot-future parity is described by covered interest rate parity (CIRP), which links the spot rate, forward rate, and interest rates of two countries. The formula for CIRP is: 
 
-\[ F = S \times \left(\frac{1 + i_d}{1 + i_f}\right) \]
+$$
+F = S \times \left(\frac{1 + i_d}{1 + i_f}\right)
+$$
 
 where:
-- \( F \) is the futures price
-- \( S \) is the spot price
-- \( i_d \) and \( i_f \) are the domestic and foreign interest rates, respectively
+- $F$ is the futures price
+- $S$ is the spot price
+- $i_d$ and $i_f$ are the domestic and foreign interest rates, respectively
 
 CIRP ensures that there is no arbitrage opportunity arising from interest rate differentials between two currencies. In developed markets, CIRP holds firmly due to high liquidity and efficiency, making arbitrage less common. However, in emerging markets, spot-future disparities can occur due to capital controls and market inefficiencies, offering arbitrage opportunities for traders who can navigate these complexities.
 
 ### Commodities
 In commodity markets, spot-future parity is influenced by several factors, including storage costs, interest rates, and convenience yields. The formula often used for parity in commodities is:
 
-\[ F = S \times e^{(r + u - q)T} \]
+$$
+F = S \times e^{(r + u - q)T}
+$$
 
 where:
-- \( r \) is the risk-free rate
-- \( u \) represents storage costs
-- \( q \) denotes the convenience yield
+- $r$ is the risk-free rate
+- $u$ represents storage costs
+- $q$ denotes the convenience yield
 
 In commodities, especially those with significant storage costs or where a convenience yield is present, developed markets tend to display more predictable futures pricing due to better infrastructure and access to information. Conversely, in emerging markets, logistical issues and less efficient information dissemination can lead to disparities from theoretical parity conditions.
 

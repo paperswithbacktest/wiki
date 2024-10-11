@@ -26,10 +26,10 @@ The simplicity of the tactic lies in the trader's ability to cancel the false or
 
 One could represent this behavior mathematically with the [order book](/wiki/order-book-trading-strategies) dynamics:
 
-- Let \( P_{\text{ask}} \) represent the best ask price.
-- Let \( P_{\text{bid}} \) represent the best bid price.
+- Let $P_{\text{ask}}$ represent the best ask price.
+- Let $P_{\text{bid}}$ represent the best bid price.
 
-A layering attack might aim to lower \( P_{\text{ask}} - P_{\text{bid}} \), creating a favorable condition for either buying or selling. Python, often used in [algorithmic trading](/wiki/algorithmic-trading) environments, can assist in monitoring and executing such strategies, albeit legally and ethically within the framework of compliance:
+A layering attack might aim to lower $P_{\text{ask}} - P_{\text{bid}}$, creating a favorable condition for either buying or selling. Python, often used in [algorithmic trading](/wiki/algorithmic-trading) environments, can assist in monitoring and executing such strategies, albeit legally and ethically within the framework of compliance:
 
 ```python
 def detect_layering(orders):
@@ -48,9 +48,9 @@ While layering aims to manipulate pricing for profit, it is not only controversi
 
 The process of layering in algorithmic trading involves a sophisticated tactic designed to create a deceptive picture of market activity. It typically starts with the trader placing a series of large sell orders at prices slightly below the current market ask price. This strategy is aimed at creating the illusion of significant selling pressure, prompting other market participants to react. Observers of the market, noticing the apparent glut of sell orders, may interpret this as a signal to lower their own ask prices to remain competitive, believing the market is about to decline.
 
-Let's break this down mathematically to clarify the operational mechanism. Suppose the current market price is $P$, and a trader places multiple sell orders at prices like \( P - \Delta P \), where \( \Delta P \) represents a small decrement which makes the sell orders appear as though they are priced to sell immediately. These orders are never intended for execution but serve to manipulate market perception.
+Let's break this down mathematically to clarify the operational mechanism. Suppose the current market price is $P$, and a trader places multiple sell orders at prices like $P - \Delta P$, where $\Delta P$ represents a small decrement which makes the sell orders appear as though they are priced to sell immediately. These orders are never intended for execution but serve to manipulate market perception.
 
-The reaction of genuine market participants typically results in a reduction of their ask prices, adjusting parameters as \(\text{Ask}_{\text{new}} = P - \epsilon\), where \(\epsilon\) is a decrement larger than \(\Delta P\), indicating their attempt to undercut the illusionary orders. When the market reaches this manipulated state, the trader can then capitalize on the adjusted price level by executing genuine buy orders at this more favorable price point. Once the desired trades are completed, the initial deceptive sell orders are canceled, leaving the market to stabilize back to its prior equilibrium state. 
+The reaction of genuine market participants typically results in a reduction of their ask prices, adjusting parameters as $\text{Ask}_{\text{new}} = P - \epsilon$, where $\epsilon$ is a decrement larger than $\Delta P$, indicating their attempt to undercut the illusionary orders. When the market reaches this manipulated state, the trader can then capitalize on the adjusted price level by executing genuine buy orders at this more favorable price point. Once the desired trades are completed, the initial deceptive sell orders are canceled, leaving the market to stabilize back to its prior equilibrium state. 
 
 This tactic essentially manipulates the market by playing on the psychological behavior of traders, who move prices based on perceived market pressures rather than actual supply and demand dynamics. Understanding this sequence is crucial for traders not only to identify potential manipulative behavior but also to safeguard against falling victim to such tactics themselves.
 

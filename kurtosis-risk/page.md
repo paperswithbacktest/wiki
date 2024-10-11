@@ -76,15 +76,16 @@ To effectively address kurtosis risk in algorithmic models, it's essential first
 
 To measure kurtosis in a dataset, use the formula:
 
-\[ 
+$$
+
 \text{Kurtosis} = \frac{n(n+1)}{(n-1)(n-2)(n-3)} \sum \left(\frac{x_i - \bar{x}}{s}\right)^4 - \frac{3(n-1)^2}{(n-2)(n-3)}
-\]
+$$
 
 Where:
-- \( n \) is the number of data points
-- \( x_i \) represents each data point
-- \( \bar{x} \) is the mean of the data
-- \( s \) is the standard deviation of the dataset
+- $n$ is the number of data points
+- $x_i$ represents each data point
+- $\bar{x}$ is the mean of the data
+- $s$ is the standard deviation of the dataset
 
 In Python, the kurtosis of a dataset can be easily computed using libraries like SciPy:
 

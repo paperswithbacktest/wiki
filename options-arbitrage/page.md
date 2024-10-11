@@ -56,13 +56,13 @@ This snippet calculates the theoretical price of a call option, providing trader
 
 The conversion strategy in options trading exploits overpriced conditions by orchestrating a three-part transaction: shorting a call option, longing a put option, and buying the underlying asset. This maneuver creates a delta neutral position, meaning that changes in the price of the underlying asset do not influence the overall value of the position. 
 
-The delta neutral attribute of this strategy comes from balancing the positive delta of the long put with the negative delta of the short call and the purchase of the underlying asset. Mathematically, the delta (\(\Delta\)) of the total position is calculated as:
+The delta neutral attribute of this strategy comes from balancing the positive delta of the long put with the negative delta of the short call and the purchase of the underlying asset. Mathematically, the delta ($\Delta$) of the total position is calculated as:
 
-\[
+$$
 \Delta_{\text{total}} = \Delta_{\text{put}} + \Delta_{\text{call}} + \Delta_{\text{underlying}}
-\]
+$$
 
-In a perfect conversion, \(\Delta_{\text{total}} = 0\), implying no net directional exposure to the underlying asset's price changes.
+In a perfect conversion, $\Delta_{\text{total}} = 0$, implying no net directional exposure to the underlying asset's price changes.
 
 A key advantage of the conversion strategy lies in its tax implications. It allows traders to lock in the present market price while retaining the holding period for capital gains tax purposes. By maintaining the underlying asset, traders can defer taxation on realized capital gains, thereby optimizing their tax strategy.
 

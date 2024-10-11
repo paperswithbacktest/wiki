@@ -21,10 +21,10 @@ The MACD, or Moving Average Convergence/Divergence, is a technical trading indic
 The MACD consists of three primary components, each playing a pivotal role in analyzing market behavior:
 
 1. **MACD Series**: This is the essence of the MACD indicator, calculated by subtracting the 26-period Exponential Moving Average (EMA) from the 12-period EMA. By focusing on these distinct timeframes, the MACD series provides insights into short-term momentum versus long-term momentum in a security's price.
-
-   \[
+$$
    \text{MACD} = \text{EMA}_{12} - \text{EMA}_{26}
-   \]
+  
+$$
 
 2. **Signal Series**: This component is a 9-period EMA of the MACD series itself. The signal series acts as a trigger for buy and sell decisions. When the MACD line crosses above the signal line, it may suggest a buying opportunity; conversely, when it crosses below, it could indicate that selling is advisable.
 
@@ -41,13 +41,17 @@ The MACD series is a crucial component in understanding how trends develop and c
 
 Mathematically, the MACD is expressed as:
 
-\[ \text{MACD} = \text{EMA}_{\text{fast}} - \text{EMA}_{\text{slow}} \]
+$$
+\text{MACD} = \text{EMA}_{\text{fast}} - \text{EMA}_{\text{slow}}
+$$
 
 The second component, the signal line, is created by taking an EMA of the MACD series itself, typically over a 9-day period. This smoothes out the MACD to give a more reliable signal for identifying trend changes. When plotted on a chart, traders often look for crossovers between the MACD line and this signal line to determine buy or sell opportunities.
 
 Lastly, the divergence series, often referred to as the MACD histogram, is the difference between the MACD line and the signal line. The histogram graphically represents the strength of [momentum](/wiki/momentum) shifts through bars above or below a zero line:
 
-\[ \text{Divergence Series (Histogram)} = \text{MACD} - \text{Signal Line} \]
+$$
+\text{Divergence Series (Histogram)} = \text{MACD} - \text{Signal Line}
+$$
 
 This visualization aids in quickly recognizing whether the momentum is accelerating in the direction of the trend or exhibiting signs of potential reversal. For traders, analyzing the histogram's height and duration can be instrumental in timing their entries and [exit](/wiki/exit-strategy)s more effectively.
 

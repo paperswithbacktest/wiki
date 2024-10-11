@@ -29,9 +29,11 @@ After joining Morgan Stanley in 1992, Pete Muller quickly made his mark by found
 
 The core of PDT's strategy was the use of [algorithmic trading](/wiki/algorithmic-trading) methodologies, which leverage statistical [arbitrage](/wiki/arbitrage) and quantitative analysis. By applying these techniques, PDT was able to identify and exploit market inefficiencies that often escaped traditional trading methods. For example, one common strategy involves mean reversion, where assets that deviate from a historical norm are expected to return to that norm. Mathematical models can be used to predict this behavior, allowing traders to buy low and sell high with greater precision:
 
-\[ \text{Expected Price} = \text{Historical Mean} + \alpha \times (\text{Current Price} - \text{Historical Mean}) \]
+$$
+\text{Expected Price} = \text{Historical Mean} + \alpha \times (\text{Current Price} - \text{Historical Mean})
+$$
 
-Here, \(\alpha\) represents the speed or magnitude of the mean reversion, a parameter that might be estimated from historical data using statistical techniques.
+Here, $\alpha$ represents the speed or magnitude of the mean reversion, a parameter that might be estimated from historical data using statistical techniques.
 
 Throughout the years, PDT Partners proved its prowess, consistently achieving impressive returns. Under Muller’s leadership, the firm not only thrived within Morgan Stanley but also gained enough [momentum](/wiki/momentum) to establish itself as an independent entity by 2012. This spin-off marked a new chapter for PDT Partners, allowing it to operate with greater agility and pursue innovative strategies under its own banner. Muller's ability to blend mathematical expertise with practical trading solutions created a robust platform that continues to influence algorithmic trading practices today.
 

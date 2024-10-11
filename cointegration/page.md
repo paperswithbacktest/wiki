@@ -16,15 +16,17 @@ This article will explore the significance of cointegration in algorithmic tradi
 
 ## Understanding Cointegration
 
-Cointegration is a concept used in time series analysis to identify and model long-term relationships between non-stationary data series. Typically, if a set of time series variables is individually integrated of order \(d\), which means that they require differencing \(d\) times to become stationary, they are said to be cointegrated if there exists a linear combination of these variables that is integrated of a lower order, typically \(d-1\). Such a linear combination suggests that despite being non-stationary, these series move together over time, maintaining a steady equilibrium, and thus providing valuable insights for analysis.
+Cointegration is a concept used in time series analysis to identify and model long-term relationships between non-stationary data series. Typically, if a set of time series variables is individually integrated of order $d$, which means that they require differencing $d$ times to become stationary, they are said to be cointegrated if there exists a linear combination of these variables that is integrated of a lower order, typically $d-1$. Such a linear combination suggests that despite being non-stationary, these series move together over time, maintaining a steady equilibrium, and thus providing valuable insights for analysis.
 
 The emergence of cointegration as a critical analytical tool primarily owes its development to the ground-breaking work of Clive Granger and Robert Engle. Their 1987 paper formalized the concept of the cointegrating vector, offering a methodological framework to distinguish between genuine long-term relationships and spurious correlations that are common among non-stationary series. A key aspect of their work was the introduction of the Engle-Granger two-step method to test for cointegration, fundamentally changing how economists and data scientists approach integrated time series.
 
-To better understand cointegration, consider two variables, \(X_t\) and \(Y_t\), each integrated of order one, i.e., \(I(1)\). If there exists a coefficient \(\alpha\) such that the linear combination:
+To better understand cointegration, consider two variables, $X_t$ and $Y_t$, each integrated of order one, i.e., $I(1)$. If there exists a coefficient $\alpha$ such that the linear combination:
 
-\[ Z_t = Y_t - \alpha X_t \]
+$$
+Z_t = Y_t - \alpha X_t
+$$
 
-is stationary, or \(I(0)\), then \(X_t\) and \(Y_t\) are cointegrated. This property allows the identification of deviations from equilibrium and facilitates modeling adjustments or predictions based on how far the current state is from this balance.
+is stationary, or $I(0)$, then $X_t$ and $Y_t$ are cointegrated. This property allows the identification of deviations from equilibrium and facilitates modeling adjustments or predictions based on how far the current state is from this balance.
 
 The role of cointegration extends beyond mere statistical theory; it provides practical methods for analyzing time series data in various fields, including finance, economics, and beyond. Its ability to reveal the underlying equilibrium relationships among variables renders it indispensable for understanding and predicting market movements and implementing sound trading strategies.
 
@@ -35,14 +37,16 @@ Algorithmic trading leverages the computational power of algorithms to analyze f
 
 ### Profiting from Temporary Deviations
 
-Cointegration is vital in pairs trading, a strategy that exploits deviations from the long-term equilibrium between two or more cointegrated assets. Consider two stock prices, \(X_t\) and \(Y_t\), which are both non-stationary but exhibit a stable long-term relationship such that their linear combination is stationary:
+Cointegration is vital in pairs trading, a strategy that exploits deviations from the long-term equilibrium between two or more cointegrated assets. Consider two stock prices, $X_t$ and $Y_t$, which are both non-stationary but exhibit a stable long-term relationship such that their linear combination is stationary:
 
-\[ Z_t = X_t - \beta Y_t \]
+$$
+Z_t = X_t - \beta Y_t
+$$
 
-In this case, \(Z_t\) represents the spread between the asset prices and is expected to hover around a mean of zero. When \(Z_t\) deviates significantly from this mean, due to short-term market fluctuations, a trading opportunity arises. The algorithm can enter positions betting on a return to equilibrium, buying one asset and selling the other:
+In this case, $Z_t$ represents the spread between the asset prices and is expected to hover around a mean of zero. When $Z_t$ deviates significantly from this mean, due to short-term market fluctuations, a trading opportunity arises. The algorithm can enter positions betting on a return to equilibrium, buying one asset and selling the other:
 
-- If \(Z_t\) is significantly positive, sell \(X_t\) and buy \(Y_t\).
-- If \(Z_t\) is significantly negative, buy \(X_t\) and sell \(Y_t\).
+- If $Z_t$ is significantly positive, sell $X_t$ and buy $Y_t$.
+- If $Z_t$ is significantly negative, buy $X_t$ and sell $Y_t$.
 
 ### Avoiding Spurious Correlations
 
@@ -62,14 +66,14 @@ Cointegration testing is a vital part of constructing algorithmic trading models
 ### Engle-Granger Two-Step Method
 The Engle-Granger method is one of the earliest and most popular approaches for testing cointegration. It involves two steps:
 1. **Regression Step**: Regress one time series against another to determine their relationship. The linear regression equation can be represented as:
-
-   \[
+$$
    Y_t = \beta_0 + \beta_1X_t + e_t
-   \]
+  
+$$
 
-   where \( e_t \) is the residual.
+   where $e_t$ is the residual.
 
-2. **Unit Root Test on Residuals**: Perform a unit root test (e.g., the Augmented Dickey-Fuller (ADF) test) on the residuals \( e_t \) to check for stationarity. If the residuals are stationary, the series are cointegrated.
+2. **Unit Root Test on Residuals**: Perform a unit root test (e.g., the Augmented Dickey-Fuller (ADF) test) on the residuals $e_t$ to check for stationarity. If the residuals are stationary, the series are cointegrated.
 
 The Engle-Granger method is straightforward but limited to assessing pairs of time series and is sensitive to the choice of dependent and independent variables.
 
@@ -77,12 +81,12 @@ The Engle-Granger method is straightforward but limited to assessing pairs of ti
 The Johansen test is another widely used approach that overcomes some limitations of the Engle-Granger method, particularly for handling multiple time series. It uses Vector Autoregression (VAR) models in a system of equations to identify the number of cointegrating relationships:
 
 - **Trace Test and Maximum Eigenvalue Test**: These are two test statistics used in the Johansen procedure to determine the presence and number of cointegrating vectors. The model is expressed as:
-
-  \[
+$$
   \Delta Y_t = \Pi Y_{t-1} + \sum_{i=1}^{k-1} \Gamma_i \Delta Y_{t-i} + \epsilon_t
-  \]
+ 
+$$
 
-  where \(\Pi\) contains information on the long-term relationships among the series within \(Y_t\).
+  where $\Pi$ contains information on the long-term relationships among the series within $Y_t$.
 
 The Johansen test is appropriate for systems with more than two time series and does not require the pre-selection of dependent and independent variables.
 
@@ -107,16 +111,16 @@ To implement a cointegrated pairs trading strategy, the initial step involves ac
 
 The next step is to establish a trading algorithm that takes advantage of deviations in the price spread between the cointegrated pairs. The underlying premise is that any deviation from the long-term equilibrium provides a trading opportunity. The algorithm is set to enter positions when the price spread deviates beyond a certain threshold from its mean and to [exit](/wiki/exit-strategy) when it reverts to the mean. This can be expressed mathematically as:
 
-\[
+$$
 \text{Trade Signal} = 
 \begin{cases} 
 \text{Buy Asset 1, Sell Asset 2} & \text{if } \text{Spread} > \text{Upper Threshold} \\
 \text{Sell Asset 1, Buy Asset 2} & \text{if } \text{Spread} < \text{Lower Threshold} \\
 \text{Do nothing} & \text{if } \text{Lower Threshold} \leq \text{Spread} \leq \text{Upper Threshold}
 \end{cases}
-\]
+$$
 
-where \(\text{Spread}\) is the difference between the normalized prices of the asset pair, \(\text{Upper Threshold}\) and \(\text{Lower Threshold}\) represent the chosen limits beyond which trades are triggered.
+where $\text{Spread}$ is the difference between the normalized prices of the asset pair, $\text{Upper Threshold}$ and $\text{Lower Threshold}$ represent the chosen limits beyond which trades are triggered.
 
 In parallel to the entry and exit points, implementing robust risk management strategies is essential. The market can exhibit periods of non-stationarity where the previous relationships between assets may break down, resulting in suboptimal or even loss-making trades. Therefore, continual recalibration of the cointegration model is necessary to ensure its validity in dynamic market conditions. This involves regularly updating statistical parameters and thresholds used in the trading algorithm and applying tests for regime shifts to anticipate structural changes in the market.
 

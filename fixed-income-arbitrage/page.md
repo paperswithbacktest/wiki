@@ -44,7 +44,9 @@ Successful fixed-income arbitrage strategies often require deep understanding of
 
 Swap Spread Arbitrage: This strategy exploits the yield discrepancy between interest-rate swaps and Treasury bonds, aiming to capitalize on the difference between the fixed rate of a swap and the yield of a corresponding maturity Treasury bond. Traders buy the swap if its yield is higher than the Treasury bond’s yield and short sell the Treasury bond, anticipating that the spreads will converge. This convergence might occur due to various factors, including changes in interest rates or credit risk perceptions, making it profitable when the spread normalizes. The formula for the swap spread can be expressed as:
 
-\[ \text{Swap Spread} = \text{Swap Rate} - \text{Treasury Yield} \]
+$$
+\text{Swap Spread} = \text{Swap Rate} - \text{Treasury Yield}
+$$
 
 Yield Curve Arbitrage: This strategy takes advantage of pricing discrepancies along the yield curve, which graphs interest rates of bonds having equal credit quality but differing maturity dates. The yield curve's shape can change due to different macroeconomic factors, leading to temporary mispricing. Traders engage in this strategy by taking long and short positions on bonds of varying maturities, betting on a return to normal yield curve shapes. This method requires sophisticated modeling to predict shifts accurately and often involves using derivatives to hedge against potential risks.
 

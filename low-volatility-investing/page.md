@@ -33,17 +33,18 @@ Low-volatility investing is an investment approach designed to minimize risk whi
 1. **Low-Volatility**: This strategy focuses on identifying stocks or other securities with lower price fluctuations. The idea is that by investing in less volatile securities, investors can achieve a more stable return profile. These investments are often seen as a refuge during periods of market turmoil, providing a cushion against severe market drops.
 
 2. **Minimum Variance**: This strategy involves constructing a portfolio that aims to achieve the lowest possible variance, or risk, while still meeting return goals. By optimizing the portfolio's composition, investors attempt to reduce the overall volatility. The mathematical model for selecting the minimum variance portfolio involves solving:
-
-   \[
+$$
    \text{Minimize} \quad \sigma^2_p = w^T \Sigma w
-   \]
+  
+$$
 
    Subject to:
-   \[
+$$
    \sum w_i = 1
-   \]
+  
+$$
 
-   Here, \( w \) represents the weight of each asset in the portfolio, and \( \Sigma \) is the covariance matrix of asset returns.
+   Here, $w$ represents the weight of each asset in the portfolio, and $\Sigma$ is the covariance matrix of asset returns.
 
 3. **Smart Beta**: This strategy attempts to capture specific systematic factors, like low volatility, beyond traditional cap-weighted indices. Unlike traditional indexing, smart beta approaches allow for the selection and weighting of securities based on various factors or rules rather than market capitalization alone.
 
@@ -66,17 +67,17 @@ Low-volatility investing suggests that stocks with lower volatility can yield be
 
 Jensen's alpha is defined as:
 
-\[
+$$
 \alpha = R_i - \left( R_f + \beta \times (R_m - R_f) \right)
-\]
+$$
 
 where:
-- \( R_i \) is the actual return of the portfolio.
-- \( R_f \) is the risk-free rate.
-- \( \beta \) is the portfolio's beta.
-- \( R_m \) is the return of the market.
+- $R_i$ is the actual return of the portfolio.
+- $R_f$ is the risk-free rate.
+- $\beta$ is the portfolio's beta.
+- $R_m$ is the return of the market.
 
-A positive \(\alpha\) indicates that the portfolio has outperformed the expected returns, which makes it a crucial measure in supporting the viability of low-volatility strategies. Historically, funds and portfolios employing low-volatility strategies have consistently shown positive Jensen's alpha, particularly in stable or declining markets.
+A positive $\alpha$ indicates that the portfolio has outperformed the expected returns, which makes it a crucial measure in supporting the viability of low-volatility strategies. Historically, funds and portfolios employing low-volatility strategies have consistently shown positive Jensen's alpha, particularly in stable or declining markets.
 
 ### Challenges During Different Market Phases
 

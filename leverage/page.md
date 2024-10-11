@@ -24,9 +24,9 @@ Leverage in [algorithmic trading](/wiki/algorithmic-trading) is primarily achiev
 
 The use of leverage can be mathematically expressed as:
 
-\[
+$$
 \text{Leverage Ratio} = \frac{\text{Total Value of Positions}}{\text{Equity}}
-\]
+$$
 
 For algorithmic trading, where rapid decisions and adjustments are crucial, leverage enhances the capacity to exploit small market inefficiencies for substantial gains. However, it's important to consider not only the potential for gains but also the amplified risk of losses. The same lever that enhances gains can exacerbate losses if market conditions shift unfavorably.
 
@@ -42,14 +42,16 @@ Leverage can be categorized into three main types: accounting, notional, and eco
 **Accounting Leverage:**
 Accounting leverage, also known as financial leverage, is highlighted on a company’s balance sheet, where it reflects the ratio of a firm's total assets to its equity. This type of leverage illustrates how much of the company's assets are financed by debt. The formula for accounting leverage is:
 
-\[ \text{Accounting Leverage} = \frac{\text{Total Assets}}{\text{Shareholder's Equity}} \]
+$$
+\text{Accounting Leverage} = \frac{\text{Total Assets}}{\text{Shareholder's Equity}}
+$$
 
 A higher ratio suggests that a company is using more debt to finance its assets, which can lead to higher returns on equity under profitable conditions but increases the company’s exposure to bankruptcy risk in adverse circumstances. In trading, accounting leverage shows how much debt a trader uses to amplify investments, impacting decisions on portfolio structuring and risk management.
 
 **Notional Leverage:**
 Notional leverage pertains to the total exposure a trader holds in the financial markets, incorporating off-balance sheet transactions such as derivatives. It measures the total notional size of positions relative to the capital allocated to these positions. For example, using futures or options contracts allows traders to control large positions with a relatively small amount of invested capital. 
 
-Consider a scenario where a trader invests $1,000 to control a futures contract worth $10,000, leading to a notional leverage ratio of \( \text{Notional Leverage} = \frac{10,000}{1,000} = 10:1 \). While notional leverage can significantly amplify returns, especially in markets with favorable trends, it also increases the risk of losses if market conditions turn unfavorable.
+Consider a scenario where a trader invests $1,000 to control a futures contract worth $10,000, leading to a notional leverage ratio of $\text{Notional Leverage} = \frac{10,000}{1,000} = 10:1$. While notional leverage can significantly amplify returns, especially in markets with favorable trends, it also increases the risk of losses if market conditions turn unfavorable.
 
 **Economic Leverage:**
 Economic leverage evaluates the risk by comparing a leveraged portfolio's [volatility](/wiki/volatility-trading-strategies) to that of similar unleveraged investments. It focuses on the real economic impact of leverage on portfolio risk rather than just nominal amounts. The goal is to understand how leverage modifies the risk-return profile of investments, emphasizing the volatility and potential for both gains and losses.
@@ -78,7 +80,9 @@ Financial crises, such as the 2008 global financial meltdown, have exposed the d
 
 A key feature of Basel III is its leverage ratio requirement. This ratio is calculated as the bank's Tier 1 capital divided by its total exposure (the sum of on-balance sheet exposures, derivative exposures, securities financing transaction exposures, and off-balance sheet items). Basel III requires banks to maintain a leverage ratio of at least 3%. This constraint ensures that banks use their core capital efficiently while managing their exposure responsibly. The formula for the leverage ratio under Basel III is:
 
-\[ \text{Leverage Ratio} = \frac{\text{Tier 1 Capital}}{\text{Total Exposure}} \]
+$$
+\text{Leverage Ratio} = \frac{\text{Tier 1 Capital}}{\text{Total Exposure}}
+$$
 
 Algorithmic traders, although not directly bound by Basel III like banks, must remain cognizant of these regulations. Banks are major [liquidity](/wiki/liquidity-risk-premium) providers in financial markets, and their risk-taking capabilities significantly impact the trading environment. As banks adjust their strategies to comply with these regulations, liquidity and volatility in the markets may be affected, influencing the performance and strategies of algorithmic traders.
 

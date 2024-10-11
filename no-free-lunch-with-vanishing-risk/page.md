@@ -33,29 +33,33 @@ In conclusion, understanding NFLVR is essential for algorithmic traders who wish
 
 The mathematical foundation of the No Free Lunch with Vanishing Risk (NFLVR) principle is critical in establishing its applicability to modern financial markets. At its core, the NFLVR relies on the concepts of semimartingales and admissible trading strategies. 
 
-Semimartingales play a crucial role as they generalize the class of processes that model price dynamics in continuous time. A semimartingale is a process that can be decomposed into a local martingale and a finite variation process. This decomposition is essential for modeling the unpredictable yet partially predictable nature of asset prices. Mathematically, a process \(X_t\) is a semimartingale if it can be represented as:
-\[ 
-X_t = M_t + A_t 
-\]
-where \(M_t\) is a local martingale and \(A_t\) is a process of finite variation.
+Semimartingales play a crucial role as they generalize the class of processes that model price dynamics in continuous time. A semimartingale is a process that can be decomposed into a local martingale and a finite variation process. This decomposition is essential for modeling the unpredictable yet partially predictable nature of asset prices. Mathematically, a process $X_t$ is a semimartingale if it can be represented as:
+$$
 
-Admissible trading strategies are those that conform to the constraints of financial markets, ensuring that the resulting wealth process is bounded from below—this signifies that any generated wealth isn't due to extraneous funds injected into the process post-initiation. Formally, a strategy \(\theta_t\) is admissible if the value process \(V_t = \theta_t \cdot S_t\) satisfies:
-\[ 
+X_t = M_t + A_t 
+$$
+where $M_t$ is a local martingale and $A_t$ is a process of finite variation.
+
+Admissible trading strategies are those that conform to the constraints of financial markets, ensuring that the resulting wealth process is bounded from below—this signifies that any generated wealth isn't due to extraneous funds injected into the process post-initiation. Formally, a strategy $\theta_t$ is admissible if the value process $V_t = \theta_t \cdot S_t$ satisfies:
+$$
+
 V_t \geq -C 
-\]
-for some constant \(C > 0\) and \(S_t\) is the price process. This boundedness from below indicates that the strategy does not result in unacceptable levels of debt or risk.
+$$
+for some constant $C > 0$ and $S_t$ is the price process. This boundedness from below indicates that the strategy does not result in unacceptable levels of debt or risk.
 
 Critically, self-financing strategies are central to NFLVR, where any changes in portfolio value arise only from market movements rather than external cash flows. The self-financing condition can be expressed as:
-\[ 
-dV_t = \theta_t \cdot dS_t 
-\]
-indicating changes in the portfolio value are due solely to changes in the underlying asset prices \(S_t\).
+$$
 
-The condition underpinning NFLVR is that it is impossible to identify a sequence of admissible strategies leading to positive wealth without absorbing a commensurate level of risk. Mathematically, this means there is no strategy \(\theta_t\) such that:
-\[ 
+dV_t = \theta_t \cdot dS_t 
+$$
+indicating changes in the portfolio value are due solely to changes in the underlying asset prices $S_t$.
+
+The condition underpinning NFLVR is that it is impossible to identify a sequence of admissible strategies leading to positive wealth without absorbing a commensurate level of risk. Mathematically, this means there is no strategy $\theta_t$ such that:
+$$
+
 \mathbb{P}(V_T \geq 0) = 1 \quad \text{and} \quad \mathbb{P}(V_T > 0) > 0 
-\]
-unless \(V_T\) accounts for appropriate risk in its trajectory.
+$$
+unless $V_T$ accounts for appropriate risk in its trajectory.
 
 These mathematical constructs ensure that in an efficient market operating under NFLVR conditions, the pursuit of returns must inherently involve an acknowledgment of risk. The framework assures that strategies remain legitimate and grounded in financial rationality, promoting stability and fairness across trading practices.
 

@@ -31,23 +31,23 @@ In essence, AQR Capital Management's foundation and growth encapsulate the firm'
 
 AQR Capital Management is renowned for its robust investment philosophy and strategies, which are deeply rooted in systematic and quantitative approaches. At the heart of AQR’s portfolio construction lies a disciplined framework that underscores consistency and transparency. The firm's strategy emphasizes the rigorous application of data-driven insights, effectively reducing emotional and behavioral biases often encountered in traditional investment management.
 
-One of AQR’s core principles is diversification, which involves spreading investments across a wide array of asset classes to minimize idiosyncratic risk. The objective is to achieve a favorable risk-adjusted return by constructing portfolios with low correlation among the components. This approach is particularly effective in managing [volatility](/wiki/volatility-trading-strategies) and enhancing portfolio stability. The mathematical expression for correlation (\(\rho\)) between two asset classes \(X\) and \(Y\) can be represented as:
+One of AQR’s core principles is diversification, which involves spreading investments across a wide array of asset classes to minimize idiosyncratic risk. The objective is to achieve a favorable risk-adjusted return by constructing portfolios with low correlation among the components. This approach is particularly effective in managing [volatility](/wiki/volatility-trading-strategies) and enhancing portfolio stability. The mathematical expression for correlation ($\rho$) between two asset classes $X$ and $Y$ can be represented as:
 
-\[
+$$
 \rho_{X,Y} = \frac{\text{Cov}(X, Y)}{\sigma_X \sigma_Y}
-\]
+$$
 
-where \(\text{Cov}(X, Y)\) is the covariance between the asset classes, and \(\sigma_X\) and \(\sigma_Y\) are the standard deviations of \(X\) and \(Y\), respectively. By targeting low \(\rho\), AQR seeks to construct portfolios that are less likely to experience simultaneous losses across different investments.
+where $\text{Cov}(X, Y)$ is the covariance between the asset classes, and $\sigma_X$ and $\sigma_Y$ are the standard deviations of $X$ and $Y$, respectively. By targeting low $\rho$, AQR seeks to construct portfolios that are less likely to experience simultaneous losses across different investments.
 
 AQR has also been a forerunner in style investing, which involves categorizing stocks based on certain characteristics like value, [momentum](/wiki/momentum), or size, and systematically allocating capital to these styles. This approach builds on decades of empirical financial research that identifies persistent drivers of returns across asset classes. Style investing allows AQR to harness these systematic patterns, offering a diversified return stream that's independent of macroeconomic [factor](/wiki/factor-investing)s.
 
 Furthermore, AQR is a pioneer in risk parity strategies, which focus on balancing the risk contribution of each asset in a portfolio rather than allocating based on capital alone. Risk parity aims to equalize the risk across various asset classes thereby optimizing the portfolio's risk-return profile. Typically, this involves leveraging low-risk assets, such as bonds, to match the risk levels typically associated with equities. Where conventional portfolios might overburden equities for returns, risk parity achieves a more balanced exposure to risk, exemplified by the equation:
 
-\[
+$$
 \text{Risk Parity Allocation: } \frac{\sigma_i}{\text{RC}_i} = \frac{\sigma_j}{\text{RC}_j} \text{ for all } i, j
-\]
+$$
 
-In this context, \(\sigma_i\) and \(\sigma_j\) represent the volatility of assets \(i\) and \(j\), while \(\text{RC}_i\) and \(\text{RC}_j\) are their respective risk contributions. Ensuring equal risk contribution across assets leads to a diversification of risk sources and typically results in more stable performance across various market cycles.
+In this context, $\sigma_i$ and $\sigma_j$ represent the volatility of assets $i$ and $j$, while $\text{RC}_i$ and $\text{RC}_j$ are their respective risk contributions. Ensuring equal risk contribution across assets leads to a diversification of risk sources and typically results in more stable performance across various market cycles.
 
 Through these innovative strategies, AQR Capital Management effectively positions itself as a leader in quantitative asset management, leveraging its systematic approach to deliver consistent and optimized investment outcomes.
 

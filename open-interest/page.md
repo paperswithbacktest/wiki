@@ -20,9 +20,11 @@ Open interest is a key concept in the derivatives market, signifying the total n
 
 To understand open interest more clearly, consider it as a tally of market commitment. Each open contract represents either a buyer with a long position or a seller with a short position. For example, if trader A buys a futures contract from trader B, and neither has [exit](/wiki/exit-strategy)ed their positions by selling or buying back, this transaction adds one to the open interest count. Conversely, should either party close their position, the open interest is reduced by one.
 
-Tracking changes in open interest is significant for understanding market strength. An increase in open interest suggests new capital entering the market, possibly indicating a reinforcement of the current trend, as more participants commit their capital under the prevailing market sentiment. Mathematically, open interest (\(OI\)) at any given time can be expressed as:
+Tracking changes in open interest is significant for understanding market strength. An increase in open interest suggests new capital entering the market, possibly indicating a reinforcement of the current trend, as more participants commit their capital under the prevailing market sentiment. Mathematically, open interest ($OI$) at any given time can be expressed as:
 
-\[ OI = \text{Total contracts opened} - \text{Total contracts closed} \]
+$$
+OI = \text{Total contracts opened} - \text{Total contracts closed}
+$$
 
 Where:
 - Total contracts opened refers to the cumulative addition of newly initiated contracts.

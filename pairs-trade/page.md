@@ -74,22 +74,22 @@ An essential aspect of model-based pairs trading is the focus on stationary proc
 Various models are used in pairs trading to assess and predict the behavior of asset pairs:
 
 1. **ARMA (Autoregressive Moving Average)**: The ARMA model combines two components—autoregression (AR) and moving average (MA)—to capture the momentum and mean-reversion tendencies in the spread series. The AR component models the relationship between an observation and previous observations, while the MA component accounts for the relationship between current and past forecast errors.
-
-   \[
+$$
    X_t = c + \sum_{i=1}^{p} \phi_i X_{t-i} + \sum_{i=1}^{q} \theta_i \epsilon_{t-i} + \epsilon_t
-   \]
+  
+$$
 
-   Here, \(X_t\) represents the spread at time \(t\), \(c\) is a constant, \(\phi_i\) are the autoregressive parameters, \(\theta_i\) are the moving average parameters, and \(\epsilon_t\) is the white noise error term.
+   Here, $X_t$ represents the spread at time $t$, $c$ is a constant, $\phi_i$ are the autoregressive parameters, $\theta_i$ are the moving average parameters, and $\epsilon_t$ is the white noise error term.
 
 2. **Cointegration**: Cointegration techniques are employed when two or more non-stationary time series are linked by a stable, long-term equilibrium relationship. In pairs trading, if the underlying price series of two securities are co-integrated, their spread is stable over time, implying that deviations from this relationship are temporary and will correct themselves.
 
    The Engle-Granger two-step method is a common approach to test for cointegration. First, a regression is run between the two security prices:
-
-   \[
+$$
    Y_t = \alpha + \beta X_t + \epsilon_t
-   \]
+  
+$$
 
-   The residuals (\(\epsilon_t\)) from this regression are tested for stationarity using unit root tests like the Augmented Dickey-Fuller (ADF) test. If the residuals are stationary, the series are co-integrated.
+   The residuals ($\epsilon_t$) from this regression are tested for stationarity using unit root tests like the Augmented Dickey-Fuller (ADF) test. If the residuals are stationary, the series are co-integrated.
 
 Model-based pairs trading requires rigorous statistical validation and constant monitoring to adjust to changing market dynamics. These methods provide a robust framework to identify potential pairs trading opportunities, enhance market neutrality, and optimize risk-adjusted returns. Integrating statistical models into pairs trading helps automate decision-making, enabling traders to efficiently manage large [volume](/wiki/volume-trading-strategy)s of data and react swiftly to market changes.
 
@@ -133,11 +133,12 @@ In pairs trading, a trader would identify the long-term relationship between Pep
 **Price Divergences and Convergences**
 
 The trading opportunity arises when there is a deviation from the expected relative prices of PEP and KO. This can be mathematically modeled using a simple linear model:
-\[ 
-\text{Spread} = \alpha + \beta(\text{Price of KO}) - \text{Price of PEP}
-\]
+$$
 
-Here, \(\beta\) represents the hedge ratio that minimizes volatility in the spread. A significant deviation of the actual spread from its historical mean or equilibrium suggests a trading signal. For instance, if the computed spread becomes wider, it might indicate going long on PEP and short on KO, anticipating the spread to close.
+\text{Spread} = \alpha + \beta(\text{Price of KO}) - \text{Price of PEP}
+$$
+
+Here, $\beta$ represents the hedge ratio that minimizes volatility in the spread. A significant deviation of the actual spread from its historical mean or equilibrium suggests a trading signal. For instance, if the computed spread becomes wider, it might indicate going long on PEP and short on KO, anticipating the spread to close.
 
 **Python Example**
 

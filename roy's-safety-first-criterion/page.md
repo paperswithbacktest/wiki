@@ -20,7 +20,7 @@ Introduced by A. D. Roy in 1952, the safety-first criterion is a fundamental fra
 
 Roy's method focuses on assessing the likelihood of obtaining returns that dip below a pre-defined acceptable level. By concentrating on this aspect, investors can manage risk more effectively, ensuring that the chosen portfolio aligns with their risk tolerance. Essentially, the primary goal is to prioritize the avoidance of poor investment outcomes, even if it means sacrificing potential higher returns for the sake of stability and security.
 
-Symbolically, the safety-first criterion can be expressed as the minimization of the probability \[ P(R_p < R_m) \], where \( R_p \) represents the portfolio return, and \( R_m \) signifies the minimum acceptable return. By minimizing this probability, investors select a portfolio that provides the greatest assurance against returns that fail to meet their required threshold.
+Symbolically, the safety-first criterion can be expressed as the minimization of the probability \[ P(R_p < R_m) \], where $R_p$ represents the portfolio return, and $R_m$ signifies the minimum acceptable return. By minimizing this probability, investors select a portfolio that provides the greatest assurance against returns that fail to meet their required threshold.
 
 This strategy offers a disciplined approach to investment selection as it systematically addresses the probabilities of unfavorable returns. By applying this criterion, investors are better equipped to navigate volatile markets, providing a structured way to mitigate potential losses and preserve wealth over time.
 
@@ -33,9 +33,11 @@ To implement Roy’s safety-first criterion, trading algorithms must consider th
 
 A typical implementation of Roy's safety-first criterion requires programming the algorithm to compute the safety-first ratio for each potential portfolio adjustment. This ratio can be formulated as:
 
-\[ SFR = \frac{E(R_p) - MAR}{\sigma_p} \]
+$$
+SFR = \frac{E(R_p) - MAR}{\sigma_p}
+$$
 
-where \( E(R_p) \) is the expected return of the portfolio, \( MAR \) is the minimum acceptable return, and \( \sigma_p \) represents the standard deviation of the portfolio's returns. By continually updating and comparing these ratios, the algorithm can select the portfolio adjustments that optimize the trade-off between risk and return, safeguarding against adverse market conditions.
+where $E(R_p)$ is the expected return of the portfolio, $MAR$ is the minimum acceptable return, and $\sigma_p$ represents the standard deviation of the portfolio's returns. By continually updating and comparing these ratios, the algorithm can select the portfolio adjustments that optimize the trade-off between risk and return, safeguarding against adverse market conditions.
 
 In practice, implementing this criterion also involves integrating real-time data feeds and robust error-handling mechanisms to ensure that the trading system responds effectively to market changes. Python, a popular language for [algorithmic trading](/wiki/algorithmic-trading), can be employed to code this dynamic selection process. For instance, a simplified code snippet might look like this:
 
@@ -69,14 +71,14 @@ When assessing portfolios with normally distributed returns, Roy's safety-first 
 
 The safety-first ratio is defined using the formula:
 
-\[
+$$
 \text{Safety-First Ratio} = \frac{E(R) - MAR}{\sigma}
-\]
+$$
 
 Where:
-- \( E(R) \) is the expected return of the portfolio.
-- \( MAR \) is the minimum acceptable return, effectively setting a performance floor that the investor is unwilling to breach.
-- \( \sigma \) represents the standard deviation of the portfolio's return, serving as a measure of risk.
+- $E(R)$ is the expected return of the portfolio.
+- $MAR$ is the minimum acceptable return, effectively setting a performance floor that the investor is unwilling to breach.
+- $\sigma$ represents the standard deviation of the portfolio's return, serving as a measure of risk.
 
 Maximizing this ratio means finding the portfolio that offers the highest expected return over its minimum acceptable return per unit of risk. A higher safety-first ratio indicates that a portfolio is likely to yield returns that exceed the MAR, reflecting a lower probability of undesirable outcomes.
 
@@ -88,14 +90,16 @@ To illustrate, consider two portfolios:
 Calculating the safety-first ratio for each:
 
 - **Portfolio A**:  
-  \[
+$$
   \text{Safety-First Ratio}_A = \frac{8\% - 2\%}{4\%} = 1.5
-  \]
+ 
+$$
 
 - **Portfolio B**:  
-  \[
+$$
   \text{Safety-First Ratio}_B = \frac{10\% - 2\%}{6\%} = 1.33
-  \]
+ 
+$$
 
 Even though Portfolio B offers a higher expected return, Portfolio A has a superior safety-first ratio. This indicates that Portfolio A provides a more favorable balance of return over risk concerning the MAR.
 
@@ -106,13 +110,17 @@ Utilizing this criterion enables traders and investors to prioritize portfolios 
 
 The safety-first ratio and the Sharpe ratio are both pivotal tools in evaluating investment risks and returns, yet they are tailored for different investor priorities. The safety-first ratio prioritizes the security of returns, emphasizing the avoidance of outcomes that dip below a minimum acceptable return (MAR). Mathematically, it is expressed as:
 
-\[ \text{Safety-First Ratio} = \frac{\text{Expected Return} - \text{Minimum Acceptable Return (MAR)}}{\text{Standard Deviation of Return}} \]
+$$
+\text{Safety-First Ratio} = \frac{\text{Expected Return} - \text{Minimum Acceptable Return (MAR)}}{\text{Standard Deviation of Return}}
+$$
 
 This criterion is particularly focused on capital preservation and is ideal for investors with low risk tolerance, seeking to mitigate potential losses beyond a specified threshold.
 
 On the other hand, the Sharpe ratio centers on optimizing returns with respect to a risk-free rate rather than a specific return threshold. It is calculated as:
 
-\[ \text{Sharpe Ratio} = \frac{\text{Expected Return} - \text{Risk-Free Rate}}{\text{Standard Deviation of Return}} \]
+$$
+\text{Sharpe Ratio} = \frac{\text{Expected Return} - \text{Risk-Free Rate}}{\text{Standard Deviation of Return}}
+$$
 
 Here, the ratio measures the excess return per unit of risk, guiding investors towards portfolios that deliver higher returns relative to their [volatility](/wiki/volatility-trading-strategies). The risk-free rate serves as a baseline, typically represented by government bond yields.
 

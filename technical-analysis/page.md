@@ -43,11 +43,11 @@ Support and resistance levels are another key concept, representing specific pri
 
 Market trend directionality is further supported by technical indicators that analyze statistical information derived from trading activity. Moving averages, among other indicators, smooth out price data to identify trend directions and potential reversals. For instance, a simple moving average (SMA) can be calculated using the following formula:
 
-\[
+$$
 SMA = \frac{P_1 + P_2 + ... + P_n}{n}
-\]
+$$
 
-where \( P \) represents the price at each time period, and \( n \) is the number of periods considered.
+where $P$ represents the price at each time period, and $n$ is the number of periods considered.
 
 The repetitive nature of market actions, often referred to as market cycles, underlines the belief that history tends to repeat itself. This is based on the psychological behaviors of market participants, which manifest in recurrent patterns and formations, such as the head and shoulders and double tops or bottoms. Technical analysts use these repeatable patterns to forecast future price movements, attributing historical behavior to likely future outcomes.
 

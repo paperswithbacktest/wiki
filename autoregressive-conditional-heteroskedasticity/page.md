@@ -26,11 +26,12 @@ Autoregressive Conditional Heteroskedasticity (ARCH) models, developed by Nobel 
 
 ARCH models operate by modeling time-varying volatility as a function of past squared deviations from the mean, thus allowing for clusters of volatility—periods of swings followed by periods of relative calm—commonly observed in financial data. The basic ARCH model can be expressed as:
 
-\[ 
-\sigma_t^2 = \alpha_0 + \alpha_1 \epsilon_{t-1}^2 + \cdots + \alpha_q \epsilon_{t-q}^2 
-\]
+$$
 
-where \( \sigma_t^2 \) is the conditional variance of the error term at time \( t \), \( \epsilon_{t-1}^2, \ldots, \epsilon_{t-q}^2 \) are the squared errors from previous periods, and \( \alpha_0, \alpha_1, \ldots, \alpha_q \) are parameters to be estimated. This formulation helps capture how past shocks affect current volatility, reflecting real-world scenarios where, say, a market crash might lead to a sustained period of high volatility.
+\sigma_t^2 = \alpha_0 + \alpha_1 \epsilon_{t-1}^2 + \cdots + \alpha_q \epsilon_{t-q}^2 
+$$
+
+where $\sigma_t^2$ is the conditional variance of the error term at time $t$, $\epsilon_{t-1}^2, \ldots, \epsilon_{t-q}^2$ are the squared errors from previous periods, and $\alpha_0, \alpha_1, \ldots, \alpha_q$ are parameters to be estimated. This formulation helps capture how past shocks affect current volatility, reflecting real-world scenarios where, say, a market crash might lead to a sustained period of high volatility.
 
 In econometrics and finance, ARCH models have become fundamental in understanding and forecasting volatility in asset returns. This is critically important for risk management, derivatives pricing, and portfolio allocation because volatility is a key risk [factor](/wiki/factor-investing) in financial markets. Understanding its behavior allows for more informed decisions and strategies.
 

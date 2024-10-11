@@ -70,7 +70,9 @@ The ask price in mutual funds, often referred to as the public offering price (P
 
 The formula for determining the ask price of a mutual fund can be expressed as:
 
-\[ \text{Ask Price} = \text{NAV} + \text{Sales Charge} \]
+$$
+\text{Ask Price} = \text{NAV} + \text{Sales Charge}
+$$
 
 **Net Asset Value (NAV):** The NAV per share is the market value of a fund's total assets minus its liabilities, divided by the number of outstanding shares. It reflects the intrinsic value of the assets held by the fund and fluctuates daily based on market performance.
 

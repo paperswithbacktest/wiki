@@ -20,9 +20,9 @@ The Relative Strength Index (RSI) is a crucial tool in technical analysis, a mom
 
 The RSI is computed using closing prices over a designated timeframe, customarily a 14-day period. This conventional setting is favored for its balance between reactivity and reliability, making it prevalent among traders. The RSI formula is expressed as follows:
 
-\[
+$$
 RSI = 100 - \left(\frac{100}{1 + RS}\right)
-\]
+$$
 
 where RS (Relative Strength) is the average of 'n' days' up closes divided by the average of 'n' days' down closes. For a 14-day RSI, 'n' would be 14. The values of RSI range from 0 to 100, creating a scale that assists in identifying market conditions. 
 
@@ -48,21 +48,29 @@ The Relative Strength Index (RSI) is calculated using a particular methodology t
 
 To calculate RSI, the first step involves determining the average gain and average loss over a specific period, often set at 14 days. The formula for average gain is:
 
-\[ \text{Average Gain} = \frac{\sum{\text{Gains over the past } n \text{ days}}}{n} \]
+$$
+\text{Average Gain} = \frac{\sum{\text{Gains over the past } n \text{ days}}}{n}
+$$
 
 Similarly, average loss is calculated as:
 
-\[ \text{Average Loss} = \frac{\sum{\text{Losses over the past } n \text{ days}}}{n} \]
+$$
+\text{Average Loss} = \frac{\sum{\text{Losses over the past } n \text{ days}}}{n}
+$$
 
 Here, gains refer to periods where the asset's closing price is higher than the previous day, while losses are when the closing price is lower.
 
 The relative strength (RS) is then derived as the ratio of average gain to average loss:
 
-\[ \text{RS} = \frac{\text{Average Gain}}{\text{Average Loss}} \]
+$$
+\text{RS} = \frac{\text{Average Gain}}{\text{Average Loss}}
+$$
 
 The RSI is calculated using the RS value with the following formula:
 
-\[ \text{RSI} = 100 - \left( \frac{100}{1 + \text{RS}} \right) \]
+$$
+\text{RSI} = 100 - \left( \frac{100}{1 + \text{RS}} \right)
+$$
 
 An essential part of this calculation is the smoothing of averages. Unlike simple moving averages which do not distinguish between different periods, Wilder's method uses a moving average that accounts for changes more gradually, akin to an exponential moving average (EMA). This technique provides stability and reduces [volatility](/wiki/volatility-trading-strategies) in RSI readings.
 

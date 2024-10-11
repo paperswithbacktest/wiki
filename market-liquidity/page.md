@@ -24,7 +24,9 @@ Liquid markets are characterized by a high [volume](/wiki/volume-trading-strateg
 
 Conversely, illiquid markets feature lower trading volumes and higher transaction costs, often necessitating substantial price cuts to execute larger trades. For instance, real estate or niche collectibles, such as rare art, are typically much less liquid. Transactions in these markets can face delays and might require sellers to reduce prices significantly to attract buyers, resulting in a potential loss on the liquidity spread.
 
-\[ \text{Liquidity\ Spread} = \frac{\text{Selling\ Price} - \text{Market\ Price}}{\text{Market\ Price}} \times 100 \]
+$$
+\text{Liquidity\ Spread} = \frac{\text{Selling\ Price} - \text{Market\ Price}}{\text{Market\ Price}} \times 100
+$$
 
 Understanding the characteristics of liquidity is vital for making informed trading decisions. Traders and investors continually assess market conditions to determine the liquidity of different assets, enabling them to optimize their strategies and manage risk effectively. Knowing when and where liquidity is available can dramatically affect transaction costs and overall market efficiency, underscoring the importance of liquidity in financial markets.
 
@@ -50,11 +52,13 @@ In summary, algorithmic trading is intricately linked to market liquidity. Algor
 
 Liquidity significantly influences asset values and expected returns in financial markets, forming a key component in the pricing and risk assessment of investments. Assets with low liquidity often offer higher expected returns as compensation for the additional risk investors incur. This phenomenon is underpinned by both theoretical frameworks and empirical studies.
 
-From a theoretical perspective, the liquidity premium is a central concept. The liquidity premium compensates investors for the difficulty of quickly selling an asset without affecting its price. In mathematical terms, the expected return (\( E(R) \)) of an asset can be considered as a sum of the risk-free rate (\( R_f \)), the systematic risk premium (\( \beta(E(R_m) - R_f) \)), and the liquidity premium (\( \lambda \)):
+From a theoretical perspective, the liquidity premium is a central concept. The liquidity premium compensates investors for the difficulty of quickly selling an asset without affecting its price. In mathematical terms, the expected return ($E(R)$) of an asset can be considered as a sum of the risk-free rate ($R_f$), the systematic risk premium ($\beta(E(R_m) - R_f)$), and the liquidity premium ($\lambda$):
 
-\[ E(R) = R_f + \beta(E(R_m) - R_f) + \lambda \]
+$$
+E(R) = R_f + \beta(E(R_m) - R_f) + \lambda
+$$
 
-Here, \( \lambda \) signifies the additional return demanded by investors for holding a less liquid asset, which enhances the overall expected return to mitigate the perceived liquidity risk.
+Here, $\lambda$ signifies the additional return demanded by investors for holding a less liquid asset, which enhances the overall expected return to mitigate the perceived liquidity risk.
 
 Empirical evidence provides substantial support for these theoretical constructs. Numerous studies illustrate that assets with lower liquidity often trade at a discount, as reduced immediacy in transactions necessitates higher returns to attract buyers. For instance, illiquid stocks, characterized by low trading volumes and wide bid-ask spreads, typically exhibit greater return potential than their more liquid counterparts. This aligns with the Amihud and Mendelson (1986) liquidity-adjusted capital asset pricing model (CAPM), which posits that higher transaction costs and lower liquidity correlate with higher expected returns.
 

@@ -27,9 +27,11 @@ A pivotal aspect of PanAgora's approach is the melding of quantitative analysis 
 
 A significant contribution to PanAgora’s innovative strategies comes from Edward Qian, who developed the risk parity concept. Risk parity is a portfolio allocation strategy that focuses on balancing the risk contributions of various assets, rather than their dollar amounts. This method seeks to ensure that each asset contributes equally to the overall risk, thereby optimizing diversification and potentially improving risk-adjusted returns. The formula often used for risk parity strategies can be expressed as:
 
-\[ w_i = \frac{\frac{\sigma(T_i)}{\sigma}}{ \sum_{i=1}^{n} \frac{\sigma(T_i)}{\sigma}} \]
+$$
+w_i = \frac{\frac{\sigma(T_i)}{\sigma}}{ \sum_{i=1}^{n} \frac{\sigma(T_i)}{\sigma}}
+$$
 
-where \( w_i \) represents the weight of asset \( i \) in the portfolio, \( \sigma(T_i) \) is the volatility of asset \( i \), and \( \sigma \) is the overall portfolio volatility.
+where $w_i$ represents the weight of asset $i$ in the portfolio, $\sigma(T_i)$ is the volatility of asset $i$, and $\sigma$ is the overall portfolio volatility.
 
 PanAgora's application of risk parity and other cutting-edge quantitative techniques underscores its leadership in the field of quantitative investing. By continually refining its strategies and investing in research, PanAgora maintains its edge, offering clients robust and flexible investment solutions designed to navigate complex financial landscapes.
 

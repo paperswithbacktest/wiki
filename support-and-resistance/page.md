@@ -35,7 +35,9 @@ Measured Moves involve predicting the probable price movement based on previous 
 
 Calculated Pivots involve using mathematical formulas to determine likely reversal points in the market. Calculated pivots consist of various levels (pivot point, support, and resistance) derived from the previous period's high, low, and closing prices. The pivot point (P) is usually the average of these prices:
 
-\[ P = \frac{{\text{High} + \text{Low} + \text{Close}}}{3} \]
+$$
+P = \frac{{\text{High} + \text{Low} + \text{Close}}}{3}
+$$
 
 From here, traders calculate subsequent support and resistance levels to inform their trading strategies.
 
@@ -62,24 +64,29 @@ Trend lines represent dynamic levels of support and resistance that evolve with 
 **Pivot Point Calculations:**
 Pivot points are static indicators used to determine potential support and resistance levels based on the previous day's high, low, and closing prices. The basic pivot point (P) can be calculated as:
 
-\[ 
+$$
+
 P = \frac{{\text{High} + \text{Low} + \text{Close}}}{3} 
-\]
+$$
 
 Using this pivot point, additional support (S1, S2) and resistance (R1, R2) levels can be computed:
 
-\[ 
+$$
+
 R1 = (2 \times P) - \text{Low}
-\]
-\[ 
+$$
+$$
+
 S1 = (2 \times P) - \text{High}
-\]
-\[ 
+$$
+$$
+
 R2 = P + (\text{High} - \text{Low})
-\]
-\[ 
+$$
+$$
+
 S2 = P - (\text{High} - \text{Low})
-\]
+$$
 
 Traders often look for price actions around these pivot points to forecast market behavior. When the price repeatedly 'tests' a pivot point, either by bouncing off or breaking through, it gains greater credibility as a significant support or resistance level.
 
@@ -117,12 +124,18 @@ def trade_strategy(current_price, support_level, resistance_level):
 
 Moreover, some traders use formulas to calculate dynamic support and resistance levels. Pivot points are one such method and can be calculated as follows:
 
-\[ \text{Pivot Point (PP)} = \frac{\text{High} + \text{Low} + \text{Close}}{3} \]
+$$
+\text{Pivot Point (PP)} = \frac{\text{High} + \text{Low} + \text{Close}}{3}
+$$
 
 These pivot points can anticipate possible support and resistance levels:
 
-\[ \text{Resistance Level 1 (R1)} = 2 \times \text{PP} - \text{Low} \]
-\[ \text{Support Level 1 (S1)} = 2 \times \text{PP} - \text{High} \]
+$$
+\text{Resistance Level 1 (R1)} = 2 \times \text{PP} - \text{Low}
+$$
+$$
+\text{Support Level 1 (S1)} = 2 \times \text{PP} - \text{High}
+$$
 
 Such calculations enable automatic adjustments within the [algorithmic trading](/wiki/algorithmic-trading) system, making it adaptable to varying market conditions.
 

@@ -65,13 +65,14 @@ When purchasing a large quantity of shares, such as 20,000 shares of the SPY [ET
 
 To illustrate this concept, let's assume the ASK price starts at $420 for the initial 3,900 shares. As the remaining shares are acquired, the price increments due to decreased liquidity and increased demand, moving through price levels such as $421, $422, and so on. The average purchase price across all 20,000 shares is thus higher than $420 due to these incremental increases.
 
-This process can be mathematically represented by tracking the weighted average price, \( P_{\text{avg}} \), of the trades executed:
+This process can be mathematically represented by tracking the weighted average price, $P_{\text{avg}}$, of the trades executed:
 
-\[ 
+$$
+
 P_{\text{avg}} = \frac{\sum (P_i \times Q_i)}{\sum Q_i} 
-\]
+$$
 
-where \( P_i \) is the price at which a batch \( Q_i \) of shares is purchased.
+where $P_i$ is the price at which a batch $Q_i$ of shares is purchased.
 
 In Python, one might represent this process through a simple loop that calculates the total cost and average price during execution:
 

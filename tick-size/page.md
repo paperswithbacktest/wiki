@@ -12,7 +12,7 @@ In financial markets, 'tick size' defines the smallest price increment at which 
 
 ## Tick Size in Bonds
 
-In financial markets, the concept of tick size is crucial for understanding how bond prices are quoted and traded. U.S. mortgage bonds and specific corporate bonds utilize a tick size of one thirty-second (1/32) of one percent. This means that the smallest incremental change in these bond prices is \(\frac{1}{32}\%\), providing granularity in how these securities are valued and traded. Such precision is essential for traders to execute transactions with favorable pricing, optimize yield, and manage portfolios effectively.
+In financial markets, the concept of tick size is crucial for understanding how bond prices are quoted and traded. U.S. mortgage bonds and specific corporate bonds utilize a tick size of one thirty-second (1/32) of one percent. This means that the smallest incremental change in these bond prices is $\frac{1}{32}\%$, providing granularity in how these securities are valued and traded. Such precision is essential for traders to execute transactions with favorable pricing, optimize yield, and manage portfolios effectively.
 
 Additionally, bond prices in the U.S. may incorporate a 'plus,' representing one sixty-fourth (1/64) of one percent, or half a tick, further refining price adjustments. This level of detail allows traders to make more nuanced pricing decisions, particularly in volatile market conditions.
 

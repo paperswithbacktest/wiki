@@ -42,10 +42,10 @@ Expected Return = Rf + β1*(Rm - Rf) + β2*SMB + β3*HML
 ```
 
 where:
-- \(Rf\) is the risk-free rate
-- \(Rm - Rf\) is the market risk premium
-- \(SMB\) accounts for the size effect
-- \(HML\) accounts for the value effect
+- $Rf$ is the risk-free rate
+- $Rm - Rf$ is the market risk premium
+- $SMB$ accounts for the size effect
+- $HML$ accounts for the value effect
 
 Through such quantitative modeling, LSV not only enhances its value investing endeavors but also manages equity portfolios more efficiently by systematically selecting undervalued stocks with strong potential for growth. This strategic application of quantitative analysis ensures more robust portfolio returns while mitigating risks associated with human biases or incomplete information.
 

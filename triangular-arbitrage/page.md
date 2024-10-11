@@ -17,7 +17,9 @@ For instance, let's say you start with USD, and you notice discrepancies in the 
 3. GBP back to USD 
 
 If the product of exchange rates allows you to end up with more than your initial US dollars, an arbitrage opportunity exists. Mathematically, if:
-\[ (USD/EUR) \times (EUR/GBP) \times (GBP/USD) > 1 \]
+$$
+(USD/EUR) \times (EUR/GBP) \times (GBP/USD) > 1
+$$
 Then this indicates a profitable [arbitrage](/wiki/arbitrage) situation.
 
 Arbitrageurs, or traders specializing in detecting these inefficiencies, leverage sophisticated algorithms and high-speed trading platforms to execute these trades swiftly. By doing so, they not only profit from discrepancies but also contribute to the efficiency and [liquidity](/wiki/liquidity-risk-premium) of the Forex market by realigning currency prices to their 'correct' levels. However, this is a race against time as these discrepancies are typically ephemeral, vanishing in seconds with the actions of efficient markets and continuous trading.
@@ -59,9 +61,9 @@ Triangular arbitrage opportunities are slim and fleeting, as they often require 
 
 Implicit cross exchange rates are the rates at which two currencies can be exchanged indirectly through a third currency. These are calculated by using the direct exchange rates of the three currencies involved. For example, if you have three currencies: USD, EUR, and GBP, and you know the exchange rates USD/EUR and USD/GBP, you can calculate the implicit cross rate for EUR/GBP. This is done using the formula:
 
-\[
+$$
 \text{EUR/GBP} = \frac{\text{USD/GBP}}{\text{USD/EUR}}
-\]
+$$
 
 This implicit rate should ideally match the market rate for EUR/GBP. However, discrepancies often occur due to market inefficiencies, leading to triangular arbitrage opportunities.
 
@@ -120,10 +122,10 @@ Triangular arbitrage, while offering opportunities for profit in the foreign exc
 1. **Execution Speed**: The profitability of triangular arbitrage heavily relies on swift execution due to the fleeting nature of pricing discrepancies. Currency markets are highly liquid and operate continuously, meaning any arbitrage opportunity usually exists for a very short period. High-frequency trading (HFT) systems, which utilize advanced algorithms and cutting-edge technology, are designed to execute trades within milliseconds. Without this level of speed, human traders often lose potential profit opportunities to these automated systems.
 
 2. **Transaction Costs**: The transaction costs involved in executing multiple trades across different currency pairs can significantly erode profits. These costs include the bid-ask spread, which is the difference between the buying and selling price, as well as brokerage fees and potential taxes. When these costs outweigh the potential gains from arbitrage, traders find the opportunity less attractive. For example:
-
-   \[
+$$
    \text{Net Profit} = \left( \frac{\text{Initial amount} \times \text{profit percentage}}{100} \right) - \text{Transaction Costs}
-   \]
+  
+$$
 
    Consistently narrow profit margins require precise calculations to ensure that potential gains surpass all associated costs.
 

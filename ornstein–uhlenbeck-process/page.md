@@ -18,19 +18,23 @@ One of the most distinguished applications of this process within finance is its
 
 The Ornstein–Uhlenbeck (OU) process is a prominent stochastic process defined by a specific stochastic differential equation (SDE). This equation captures the essence of mean-reverting behavior, which is central to its application in various fields, including financial mathematics and physical sciences. The mathematical expression for the OU process is given by:
 
-\[ dX_t = \theta (\mu - X_t) dt + \sigma dW_t \]
+$$
+dX_t = \theta (\mu - X_t) dt + \sigma dW_t
+$$
 
-Here, \( X_t \) represents the process state at time \( t \), \( \theta \) is the rate of mean reversion, \( \mu \) is the long-term mean, \( \sigma \) is the [volatility](/wiki/volatility-trading-strategies) parameter, and \( W_t \) denotes a Wiener process or standard Brownian motion. The term \( \theta (\mu - X_t) dt \) drives the process towards its mean \( \mu \), encapsulating the mean-reverting feature. The parameter \( \theta \) controls the speed of this reversion; a larger \( \theta \) implies faster reversion to the mean.
+Here, $X_t$ represents the process state at time $t$, $\theta$ is the rate of mean reversion, $\mu$ is the long-term mean, $\sigma$ is the [volatility](/wiki/volatility-trading-strategies) parameter, and $W_t$ denotes a Wiener process or standard Brownian motion. The term $\theta (\mu - X_t) dt$ drives the process towards its mean $\mu$, encapsulating the mean-reverting feature. The parameter $\theta$ controls the speed of this reversion; a larger $\theta$ implies faster reversion to the mean.
 
 The mean-reverting nature of the Ornstein–Uhlenbeck process is particularly advantageous in financial models, such as [interest rate](/wiki/interest-rate-trading-strategies) modeling, where variables are expected to revert to a long-term average over time. This characteristic stands in contrast to the random walk model, exemplified by a Wiener process, where movements do not exhibit such reversion.
 
-Conceptually, the Ornstein–Uhlenbeck process can be regarded as a continuous-time analogue of the discrete-time autoregressive model of order 1 (AR(1)). In the AR(1) model, the next value in a series depends linearly on its current state and a stochastic term. Similarly, in the OU process, the state \( X_t \) is influenced by its present value, an adjustment towards the mean, and a random element introduced through \( \sigma dW_t \).
+Conceptually, the Ornstein–Uhlenbeck process can be regarded as a continuous-time analogue of the discrete-time autoregressive model of order 1 (AR(1)). In the AR(1) model, the next value in a series depends linearly on its current state and a stochastic term. Similarly, in the OU process, the state $X_t$ is influenced by its present value, an adjustment towards the mean, and a random element introduced through $\sigma dW_t$.
 
 The discrete-time AR(1) process is defined as:
 
-\[ X_{t+1} = \phi X_t + \varepsilon_t \]
+$$
+X_{t+1} = \phi X_t + \varepsilon_t
+$$
 
-where \( \phi \) is a parameter analog to the mean-reversion strength \( \theta \) of the OU process, and \( \varepsilon_t \) is the error term or noise. Understanding this analogy helps bridge discrete and continuous-time models, allowing for more flexible modeling in various domains. 
+where $\phi$ is a parameter analog to the mean-reversion strength $\theta$ of the OU process, and $\varepsilon_t$ is the error term or noise. Understanding this analogy helps bridge discrete and continuous-time models, allowing for more flexible modeling in various domains. 
 
 Overall, the mathematical foundation of the Ornstein–Uhlenbeck process not only categorizes it as a mean-reverting stochastic process but also highlights its utility in simulating and predicting data in continuous-time settings, contributing profoundly to fields requiring predictive and analytical precision.
 
@@ -41,20 +45,22 @@ As a Gaussian process, the Ornstein–Uhlenbeck (OU) process exhibits several ke
 
 The process is defined by the stochastic differential equation:
 
-\[ dX_t = \theta (\mu - X_t) dt + \sigma dW_t \]
+$$
+dX_t = \theta (\mu - X_t) dt + \sigma dW_t
+$$
 
 where:
-- \( X_t \) is the state of the process at time \( t \),
-- \( \theta \) represents the rate of mean reversion,
-- \( \mu \) is the long-term mean that the process tends to revert to,
-- \( \sigma \) is the volatility of the process,
-- \( dW_t \) is a Wiener process (or Brownian motion).
+- $X_t$ is the state of the process at time $t$,
+- $\theta$ represents the rate of mean reversion,
+- $\mu$ is the long-term mean that the process tends to revert to,
+- $\sigma$ is the volatility of the process,
+- $dW_t$ is a Wiener process (or Brownian motion).
 
-The mean-reverting property is governed by the drift term \( \theta (\mu - X_t) \), which crucially depends on the current value \( X_t \), unlike the Wiener process where the drift is constant. This drift term adjusts the trajectory of the process towards the mean \( \mu \), with the strength of the adjustment proportionate to the distance from \( \mu \).
+The mean-reverting property is governed by the drift term $\theta (\mu - X_t)$, which crucially depends on the current value $X_t$, unlike the Wiener process where the drift is constant. This drift term adjusts the trajectory of the process towards the mean $\mu$, with the strength of the adjustment proportionate to the distance from $\mu$.
 
-The stationary distribution of the OU process is Gaussian, characterized by a mean equal to \( \mu \) and a variance \( \sigma^2 / (2\theta) \). This bounded variance ensures that the process does not diverge over time, staying within a predictable range around the mean.
+The stationary distribution of the OU process is Gaussian, characterized by a mean equal to $\mu$ and a variance $\sigma^2 / (2\theta)$. This bounded variance ensures that the process does not diverge over time, staying within a predictable range around the mean.
 
-Initial conditions play a significant role since they define the starting point of the process, which influences the mean and covariance over time. However, due to the mean-reverting nature, the influence of initial conditions diminishes, and the process stabilizes around its long-term mean \( \mu \). This stabilization lends itself well to predictive modeling, where understanding the future behavior of the process is essential.
+Initial conditions play a significant role since they define the starting point of the process, which influences the mean and covariance over time. However, due to the mean-reverting nature, the influence of initial conditions diminishes, and the process stabilizes around its long-term mean $\mu$. This stabilization lends itself well to predictive modeling, where understanding the future behavior of the process is essential.
 
 Overall, these mathematical properties allow the OU process to be a robust tool in both theoretical and practical applications, offering insights into processes that inherently revert to a mean.
 
@@ -65,9 +71,11 @@ The Ornstein–Uhlenbeck process is a pivotal component in [algorithmic trading]
 
 This process offers traders a structured framework to define dynamic trading boundaries, enhancing the precision of entry and [exit](/wiki/exit-strategy) points. By modeling the price spread of a pair of assets as an Ornstein–Uhlenbeck process, traders can establish thresholds at which to initiate or liquidate positions. The mean reversion is mathematically modeled by the stochastic differential equation:
 
-\[ dX_t = \theta (\mu - X_t)dt + \sigma dW_t \]
+$$
+dX_t = \theta (\mu - X_t)dt + \sigma dW_t
+$$
 
-where \( X_t \) represents the spread between two co-integrated assets, \(\mu\) is the long-term mean level, \(\theta\) is the speed of reversion to the mean, and \(\sigma\) denotes the volatility of the process. The noise term \( dW_t \) is a Wiener process which introduces randomness.
+where $X_t$ represents the spread between two co-integrated assets, $\mu$ is the long-term mean level, $\theta$ is the speed of reversion to the mean, and $\sigma$ denotes the volatility of the process. The noise term $dW_t$ is a Wiener process which introduces randomness.
 
 By estimating and applying these parameters, traders can simulate likely future scenarios and construct strategies that capitalize on predicted movements. Algorithmically, this could be implemented in Python using libraries like NumPy and SciPy to handle numerical simulations. Here's a basic code snippet demonstrating how to simulate an Ornstein-Uhlenbeck process:
 
@@ -103,15 +111,17 @@ The use of the Ornstein–Uhlenbeck process in algorithmic trading extends beyon
 
 Numerical simulation of the Ornstein-Uhlenbeck process is a fundamental aspect of applying this stochastic model in practical scenarios. It involves employing techniques such as finite-difference formulae and Monte Carlo simulations to generate sample paths of the process.
 
-The finite-difference method is a straightforward approach where the continuous-time stochastic differential equation governing the Ornstein-Uhlenbeck process is discretized. The discrete form of the Ornstein-Uhlenbeck process at a step \( n+1 \) can be expressed as:
+The finite-difference method is a straightforward approach where the continuous-time stochastic differential equation governing the Ornstein-Uhlenbeck process is discretized. The discrete form of the Ornstein-Uhlenbeck process at a step $n+1$ can be expressed as:
 
-\[ X_{n+1} = X_n + \theta (\mu - X_n) \Delta t + \sigma \sqrt{\Delta t} \epsilon_n \]
+$$
+X_{n+1} = X_n + \theta (\mu - X_n) \Delta t + \sigma \sqrt{\Delta t} \epsilon_n
+$$
 
-Here, \( \theta \) is the rate of mean reversion, \( \mu \) is the long-term mean, \( \sigma \) is the volatility, \( \Delta t \) is the time increment, and \( \epsilon_n \) is a standard normal random variable. This equation allows for step-by-step simulation of the process over time.
+Here, $\theta$ is the rate of mean reversion, $\mu$ is the long-term mean, $\sigma$ is the volatility, $\Delta t$ is the time increment, and $\epsilon_n$ is a standard normal random variable. This equation allows for step-by-step simulation of the process over time.
 
 Monte Carlo simulations, another powerful technique, involve generating numerous potential future paths of the process. It relies on random sampling to estimate the properties of the process. By simulating numerous trajectories, practitioners can calculate expected values, variances, and probabilities of different outcomes, which are crucial for risk assessment and decision-making.
 
-To properly estimate the parameters of the Ornstein-Uhlenbeck process, maximum likelihood estimation (MLE) is often utilized. MLE involves solving optimization problems to find the parameter values that maximize the likelihood of observing the given data. For a series of discretely sampled data, the likelihood function can be constructed, and numerical optimization techniques, such as the gradient descent or genetic algorithms, can be employed to find the best-fitting parameters \( \theta \), \( \mu \), and \( \sigma \).
+To properly estimate the parameters of the Ornstein-Uhlenbeck process, maximum likelihood estimation (MLE) is often utilized. MLE involves solving optimization problems to find the parameter values that maximize the likelihood of observing the given data. For a series of discretely sampled data, the likelihood function can be constructed, and numerical optimization techniques, such as the gradient descent or genetic algorithms, can be employed to find the best-fitting parameters $\theta$, $\mu$, and $\sigma$.
 
 In terms of implementation, the Ornstein-Uhlenbeck process can be effectively integrated into various quantitative finance software applications. Python, with libraries such as NumPy and SciPy, offers powerful tools for both simulation and parameter estimation. Here is a basic example of how you might simulate the Ornstein-Uhlenbeck process in Python:
 

@@ -28,7 +28,9 @@ The Parabolic SAR (Stop and Reverse) indicator is constructed by calculating SAR
 ### Basic Calculation
 The SAR for the next period is calculated using the formula:
 
-\[ \text{SAR}_{n+1} = \text{SAR}_{n} + \text{AF} \times (\text{EP} - \text{SAR}_{n}) \]
+$$
+\text{SAR}_{n+1} = \text{SAR}_{n} + \text{AF} \times (\text{EP} - \text{SAR}_{n})
+$$
 
 - **SAR**: Current SAR value.
 - **EP (Extreme Point)**: The highest high of the current uptrend or the lowest low of the current downtrend. It updates to new highs or lows whenever they occur.

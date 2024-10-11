@@ -20,7 +20,9 @@ In trading, the bid price is continually juxtaposed with the ask price, which si
 
 Mathematically, the bid–ask spread is expressed as:
 
-\[ \text{Bid-Ask Spread} = \text{Ask Price} - \text{Bid Price} \]
+$$
+\text{Bid-Ask Spread} = \text{Ask Price} - \text{Bid Price}
+$$
 
 The bid price plays a pivotal role in financial markets and trading for several reasons. It is used to determine the market's interest in an asset at any given moment, influencing the entry and [exit](/wiki/exit-strategy) points for traders. When investors analyze market conditions, they often observe changes in the bid price to predict future price movements. Furthermore, in the presence of multiple bidders, the highest bid price offers insights into the maximum value buyers assign to the security, which can trigger price changes and affect market trends.
 

@@ -22,13 +22,19 @@ The concept of a [volatility](/wiki/volatility-trading-strategies) smile emerges
 
 In traditional Black-Scholes modeling, implied volatility is assumed constant, represented by the following equation for the Black-Scholes formula:
 
-\[ C = S_0 N(d_1) - Xe^{-rt}N(d_2) \]
+$$
+C = S_0 N(d_1) - Xe^{-rt}N(d_2)
+$$
 
 where:
-\[ d_1 = \frac{\ln(S_0/X) + (r + \sigma^2/2)t}{\sigma\sqrt{t}} \]
-\[ d_2 = d_1 - \sigma\sqrt{t} \]
+$$
+d_1 = \frac{\ln(S_0/X) + (r + \sigma^2/2)t}{\sigma\sqrt{t}}
+$$
+$$
+d_2 = d_1 - \sigma\sqrt{t}
+$$
 
-Here, \( \sigma \) is the fixed volatility parameter. However, the presence of a volatility smile suggests that such constancy is a simplification of real-market behaviors, thus underscoring the model’s limitations.
+Here, $\sigma$ is the fixed volatility parameter. However, the presence of a volatility smile suggests that such constancy is a simplification of real-market behaviors, thus underscoring the model’s limitations.
 
 To visually illustrate a volatility smile, consider the following Python code snippet for plotting:
 
@@ -56,24 +62,30 @@ Understanding the formation of volatility smiles is essential for traders and fi
 
 The Black-Scholes model, developed by Fischer Black and Myron Scholes, is a cornerstone in financial theory for options pricing. It provides a mathematical framework for determining the theoretical value of European-style options, assuming markets are efficient and frictionless, and that stock prices follow a geometric Brownian motion. A key assumption of the Black-Scholes model is that the volatility of the underlying asset is constant over the life of the option. This implies that regardless of changes in market conditions or the option's expiration date, the volatility remains unchanged.
 
-The model calculates the price of a call option \( C \) using the formula:
+The model calculates the price of a call option $C$ using the formula:
 
-\[ C = S_0 N(d_1) - Xe^{-rT} N(d_2) \]
+$$
+C = S_0 N(d_1) - Xe^{-rT} N(d_2)
+$$
 
 where:
 
-- \( S_0 \) is the current stock price,
-- \( X \) is the strike price of the option,
-- \( r \) is the risk-free interest rate,
-- \( T \) is the time to maturity,
-- \( N(\cdot) \) is the cumulative distribution function of the standard normal distribution,
-- \( d_1 \) and \( d_2 \) are given by:
+- $S_0$ is the current stock price,
+- $X$ is the strike price of the option,
+- $r$ is the risk-free interest rate,
+- $T$ is the time to maturity,
+- $N(\cdot)$ is the cumulative distribution function of the standard normal distribution,
+- $d_1$ and $d_2$ are given by:
 
-\[ d_1 = \frac{\ln(S_0 / X) + (r + \sigma^2 / 2) T}{\sigma \sqrt{T}} \]
+$$
+d_1 = \frac{\ln(S_0 / X) + (r + \sigma^2 / 2) T}{\sigma \sqrt{T}}
+$$
 
-\[ d_2 = d_1 - \sigma \sqrt{T} \]
+$$
+d_2 = d_1 - \sigma \sqrt{T}
+$$
 
-where \( \sigma \) is the volatility of the underlying asset.
+where $\sigma$ is the volatility of the underlying asset.
 
 Despite its elegance and simplicity, the Black-Scholes model exhibits notable limitations when applied to real-world markets. The assumption of constant volatility is particularly problematic. In practice, market-implied volatilities are not uniform and display term structures and patterns, such as the volatility smile, which the Black-Scholes model cannot accommodate.
 
@@ -96,15 +108,17 @@ The Heston model is a prominent example of a stochastic volatility model. It ass
 
 Another advanced technique is the SABR (Stochastic Alpha, Beta, Rho) volatility model, which is especially useful for [interest rate](/wiki/interest-rate-trading-strategies) derivatives. The SABR model is defined by the stochastic differential equation (SDE):
 
-\[ 
+$$
+
 dF = \sigma F^\beta dW_1, 
-\]
+$$
 
-\[ 
+$$
+
 d\sigma = \nu \sigma dW_2 
-\]
+$$
 
-where \(\sigma\) is the volatility, and \(F\) is the forward rate. The introduction of the \(\beta\) parameter allows the model to capture different shapes of the smile—specifically, the transition from lognormal dynamics (\(\beta = 1\)) to normal dynamics (\(\beta = 0\)).
+where $\sigma$ is the volatility, and $F$ is the forward rate. The introduction of the $\beta$ parameter allows the model to capture different shapes of the smile—specifically, the transition from lognormal dynamics ($\beta = 1$) to normal dynamics ($\beta = 0$).
 
 Local volatility models, such as the Dupire model, also address the smile by assuming volatility is a deterministic function of stock price and time, rather than a stochastic one. This achieves a closer fit to the observed market prices by directly computing the volatility surface from market call and put prices across different strikes and maturities. These models are simpler to implement and provide exact replication of market prices, yet may struggle to capture the forward-looking volatility dynamics effectively accounted for by stochastic models.
 
