@@ -19,7 +19,7 @@ In the realm of quantitative finance, foundational knowledge is the bedrock upon
 
 ### "Options, Futures, and Other Derivatives" by John Hull
 
-For beginners, "Options, Futures, and Other Derivatives" by John Hull lays a comprehensive groundwork in derivatives and risk management. Hull's work is an excellent starting point for understanding the compl[exit](/wiki/exit-strategy)ies of financial instruments and their applications[1].
+For beginners, "Options, Futures, and Other Derivatives" by John Hull lays a comprehensive groundwork in derivatives and risk management. Hull's work is an excellent starting point for understanding the complexities of financial instruments and their applications[1].
 
 ### "The Concepts and Practice of Mathematical Finance" by Mark Joshi
 
@@ -49,7 +49,7 @@ The relevance of each book is underscored by its application to real-world scena
     - $d_2 = d_1 - \sigma_s \sqrt{T-t}$,
     - $\sigma_s$ is the volatility of the underlying asset's price.
     
-    For hands-on l[earning](/wiki/earning-announcement), readers can explore Python libraries such as `numpy` and `scipy` to implement financial models:
+    For hands-on learning, readers can explore Python libraries such as `numpy` and `scipy` to implement financial models:
     
     ```python
     import numpy as np

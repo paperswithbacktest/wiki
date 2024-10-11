@@ -18,7 +18,7 @@ The importance of incorporating advanced technologies like RL in financial marke
 
 ## Understanding Reinforcement Learning
 
-Reinforcement l[earning](/wiki/earning-announcement) (RL) is a specialized branch of [machine learning](/wiki/machine-learning) where an agent interacts with an environment and learns to make decisions by receiving feedback through rewards or penalties. Unlike supervised learning, where a model is trained on a dataset containing input-output pairs, RL focuses on learning optimal behaviors through exploration and exploitation without explicit instructions or labeled data.
+Reinforcement learning (RL) is a specialized branch of [machine learning](/wiki/machine-learning) where an agent interacts with an environment and learns to make decisions by receiving feedback through rewards or penalties. Unlike supervised learning, where a model is trained on a dataset containing input-output pairs, RL focuses on learning optimal behaviors through exploration and exploitation without explicit instructions or labeled data.
 
 **Key Components of Reinforcement Learning**
 
@@ -127,7 +127,7 @@ A significant hurdle is the requirement for large amounts of data and computatio
 
 Another critical challenge is the potential for overfitting, where a model performs well on historical data but fails to generalize to unseen data. This is particularly relevant in RL as models can excessively optimize for past market conditions that no longer hold. Introducing regularization techniques and employing cross-validation strategies can mitigate some of these issues, but they cannot wholly eliminate the risks associated with model overfitting.
 
-Slow convergence rates pose another limitation. Due to the highly stochastic nature of financial environments, RL models may require extensive training time to stabilize and provide actionable insights. Techniques to improve convergence such as using prioritized experience replay or adjusting learning rates dynamically are essentials, yet they add an additional layer of compl[exit](/wiki/exit-strategy)y to deployment.
+Slow convergence rates pose another limitation. Due to the highly stochastic nature of financial environments, RL models may require extensive training time to stabilize and provide actionable insights. Techniques to improve convergence such as using prioritized experience replay or adjusting learning rates dynamically are essentials, yet they add an additional layer of complexity to deployment.
 
 Ethical considerations also emerge as a significant limitation. The opacity of RL models, especially those based on [deep learning](/wiki/deep-learning) methodologies, can lead to a lack of transparency in how trading decisions are made. This raises concerns about accountability and the potential for biased decision-making, which could inadvertently destabilize markets or favor particular market players unfairly. Ensuring ethical compliance and interpretability in model deployment is crucial in harnessing RL's full potential in trading.
 

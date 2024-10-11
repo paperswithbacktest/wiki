@@ -123,9 +123,9 @@ The Black–Litterman model, despite its many advantages, faces several challeng
 
 Another limitation of the Black–Litterman model is its sensitivity to the quality of the input data, particularly concerning the subjective views of investors. These views play a crucial role in shaping the expected returns and can suffer from inaccuracy or bias, leading to suboptimal portfolio decisions. As a result, the success of the model is heavily reliant on the accuracy and reliability of both the equilibrium returns and the investor views incorporated.
 
-The compl[exit](/wiki/exit-strategy)y of the mathematical models and the computational demand can serve as a barrier to effective implementation. The requirement for extensive computational resources may limit the use of this model for smaller firms with constrained technical capabilities.
+The complexity of the mathematical models and the computational demand can serve as a barrier to effective implementation. The requirement for extensive computational resources may limit the use of this model for smaller firms with constrained technical capabilities.
 
-To overcome these limitations, several approaches can be undertaken. Using robust estimation techniques for the key inputs, such as returns and covariances, can improve the quality of the model's outputs. Advanced methods like machine l[earning](/wiki/earning-announcement) and data analytics can enhance the predictive power and reliability of investor views and market expectations.
+To overcome these limitations, several approaches can be undertaken. Using robust estimation techniques for the key inputs, such as returns and covariances, can improve the quality of the model's outputs. Advanced methods like machine learning and data analytics can enhance the predictive power and reliability of investor views and market expectations.
 
 Moreover, integrating adaptive techniques or hybrid models can provide a more flexible framework that adjusts to dynamic market conditions. Adaptive models that continuously update their parameters based on emerging market data can reduce the impact of assumption deviations and increase the robustness of the portfolio outcomes.
 

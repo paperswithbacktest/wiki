@@ -174,7 +174,7 @@ Blending mechanical precision with human intuition can yield a more adaptive and
 
 ## The Evolution of Mechanical Trading: Current Trends & Future Outlook
 
-Mechanical trading, once a straightforward algorithmic interpretation of market data, has evolved leaps and bounds with the integration of Artificial Intelligence (AI) and Machine L[earning](/wiki/earning-announcement) (ML). AI & ML have transformed the landscape, enabling systems to learn from data, recognize patterns, and even adapt to changing market conditions without human intervention.
+Mechanical trading, once a straightforward algorithmic interpretation of market data, has evolved leaps and bounds with the integration of Artificial Intelligence (AI) and Machine learning (ML). AI & ML have transformed the landscape, enabling systems to learn from data, recognize patterns, and even adapt to changing market conditions without human intervention.
 
 Traditional mechanical strategies were mainly rule-based, working within defined parameters. In contrast, [AI-driven strategies can analyze vast datasets](https://paperswithbacktest.com/datasets), consider multiple variables, and improve themselves by constantly learning from new data. This self-improvement is the cornerstone of ML, where algorithms learn from historical data to predict future market movements. For instance, [deep learning](/wiki/deep-learning), a subset of ML, uses [neural network](/wiki/neural-network)s to analyze not just price and [volume](/wiki/volume-trading-strategy) but also news feeds, social media sentiment, and other unstructured data sources.
 

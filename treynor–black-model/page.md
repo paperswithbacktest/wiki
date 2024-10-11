@@ -172,7 +172,7 @@ problem.solve()
 
 By including realistic constraints, one can mitigate extreme allocations, ensuring the portfolio is diversified and manageable within common trading limits.
 
-Another adjustment involves refining the estimation of alpha and residual risk to make them more robust. This may include leveraging machine l[earning](/wiki/earning-announcement) for more accurate predictions or adopting Bayesian methods to integrate prior information on security performance.
+Another adjustment involves refining the estimation of alpha and residual risk to make them more robust. This may include leveraging machine learning for more accurate predictions or adopting Bayesian methods to integrate prior information on security performance.
 
 In sum, while the Treynor–Black model offers a robust framework for blending active and passive strategies, its practical application requires mindful adjustments. Addressing weight constraints and improving prediction accuracy can enhance the model’s real-world applicability, making it a valuable tool for traders and portfolio managers.
 

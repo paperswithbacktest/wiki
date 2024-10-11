@@ -73,7 +73,7 @@ Genetic algorithms simulate the process of natural selection to solve optimizati
 
 In practice, two-stage optimization is often applied, where optimization occurs at different levels: first across broad asset classes, then at the individual asset level. This approach addresses both systematic and unsystematic risks, ensuring a balanced portfolio. Systematic risk is inherent across the market, affecting asset classes, while unsystematic risk is asset-specific.
 
-Advanced mathematical tools and computational techniques are indispensable in optimizing complex portfolios. Techniques such as Monte Carlo simulations, which forecast potential future states of a portfolio under various scenarios, are particularly useful. Additionally, leveraging parallel computing and machine l[earning](/wiki/earning-announcement) models can further enhance the efficiency and efficacy of portfolio optimization processes in algorithmic trading.
+Advanced mathematical tools and computational techniques are indispensable in optimizing complex portfolios. Techniques such as Monte Carlo simulations, which forecast potential future states of a portfolio under various scenarios, are particularly useful. Additionally, leveraging parallel computing and machine learning models can further enhance the efficiency and efficacy of portfolio optimization processes in algorithmic trading.
 
 Overall, employing these optimization methods enables algorithmic traders to adeptly balance the trade-off between risk and return, crafting portfolios that align with their investment goals within the dynamic landscape of financial markets.
 
@@ -82,7 +82,7 @@ Overall, employing these optimization methods enables algorithmic traders to ade
 
 Constructing a covariance matrix acts as a cornerstone for optimizing portfolios, as it allows for the assessment of asset return correlations. By understanding the relationships between different assets, investors can more accurately predict how a portfolio may perform under various market conditions. This matrix helps identify and minimize risk through diversification.
 
-To tackle the compl[exit](/wiki/exit-strategy)y and scale of optimizing large portfolios, tools like linear programming and stochastic programming are critical. Linear programming methods aid in finding the optimal asset weights that minimize risk or maximize returns, given certain constraints. Its strength lies in its ability to handle linear constraints efficiently, making it suitable for certain fixed-income portfolio optimizations or where constraints are straightforwardly linear. An example of a linear programming problem is:
+To tackle the complexity and scale of optimizing large portfolios, tools like linear programming and stochastic programming are critical. Linear programming methods aid in finding the optimal asset weights that minimize risk or maximize returns, given certain constraints. Its strength lies in its ability to handle linear constraints efficiently, making it suitable for certain fixed-income portfolio optimizations or where constraints are straightforwardly linear. An example of a linear programming problem is:
 
 $$
 

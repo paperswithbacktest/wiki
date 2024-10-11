@@ -31,7 +31,7 @@ At Jane Street, the company culture emphasizes flat hierarchies and open communi
 
 Innovation at Jane Street is largely driven by collaboration. The firm's culture promotes teamwork, recognizing that complex financial challenges are best addressed through the pooling of diverse expertise and perspectives. Quants regularly work alongside traders, developers, and other specialists to test hypotheses and refine algorithms. This interdisciplinary approach not only leads to enhanced problem-solving but also to the continuous improvement of trading strategies and tools.
 
-Collaboration at Jane Street is further bolstered by the firm's commitment to continuous l[earning](/wiki/earning-announcement) and knowledge-sharing. Quants frequently participate in training sessions, workshops, and seminars that span a range of topics, from advanced mathematical models to cutting-edge technological advancements. This not only ensures that quants are well-equipped with the latest skills and knowledge but also promotes a culture where learning is valued and encouraged.
+Collaboration at Jane Street is further bolstered by the firm's commitment to continuous learning and knowledge-sharing. Quants frequently participate in training sessions, workshops, and seminars that span a range of topics, from advanced mathematical models to cutting-edge technological advancements. This not only ensures that quants are well-equipped with the latest skills and knowledge but also promotes a culture where learning is valued and encouraged.
 
 The dynamic atmosphere at Jane Street is palpable. Quants are involved in a variety of projects, ranging from developing sophisticated trading algorithms to exploring new markets. The collaborative spirit extends to social and team-building activities, which help build strong interpersonal relationships and a supportive workplace community.
 
@@ -93,7 +93,7 @@ Jane Street emphasizes ongoing learning and development, which is essential in t
 
 ## Challenges and Rewards of Being a Quant at Jane Street
 
-Working as a quant at Jane Street presents a set of distinct challenges and rewards that both intrigue and test those in the role. A primary challenge stems from the high-pressure environment inherent to financial markets. Quants at Jane Street must continuously develop and deploy new strategies in real-time trading scenarios, requiring quick thinking and adaptability. The compl[exit](/wiki/exit-strategy)y of problem-solving is heightened by the vast amounts of data processed each day, demanding proficiency in statistical methods and advanced programming skills.
+Working as a quant at Jane Street presents a set of distinct challenges and rewards that both intrigue and test those in the role. A primary challenge stems from the high-pressure environment inherent to financial markets. Quants at Jane Street must continuously develop and deploy new strategies in real-time trading scenarios, requiring quick thinking and adaptability. The complexity of problem-solving is heightened by the vast amounts of data processed each day, demanding proficiency in statistical methods and advanced programming skills.
 
 Despite these challenges, or perhaps because of them, the rewards of being a quant at Jane Street are considerable. The firm offers highly competitive compensation packages that reflect the critical role quants play in its success. Beyond financial incentives, there is significant intellectual satisfaction in tackling intricate problems and witnessing the tangible impact of one's work on trading performance.
 

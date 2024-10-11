@@ -34,7 +34,7 @@ where $X$ is the input image, $F$ is the filter, and $(i, j)$ denote the spatial
 
 Once a filter has swept across the input, it produces an output known as a feature map. These feature maps highlight various detected patterns and features at different spatial scales. For example, early layers may detect basic edges or textures, while deeper layers recognize more complex structures like shapes or even objects. This hierarchical feature extraction generates progressively abstract representations of input data, making CNNs particularly effective for tasks like image recognition.
 
-CNNs utilize multiple convolutional layers, with each layer l[earning](/wiki/earning-announcement) increasingly abstract features. The earlier layers capture low-level details, while deeper layers integrate these details into high-level concepts. Such a structure allows CNNs to effectively perform complex tasks, such as identifying objects in images, detecting faces, and even analyzing patterns in non-image data that can be represented visually.
+CNNs utilize multiple convolutional layers, with each layer learning increasingly abstract features. The earlier layers capture low-level details, while deeper layers integrate these details into high-level concepts. Such a structure allows CNNs to effectively perform complex tasks, such as identifying objects in images, detecting faces, and even analyzing patterns in non-image data that can be represented visually.
 
 In summary, CNNs harness convolutional layers and filters to intelligently extract and hierarchically organize features from input data, enabling powerful processing and understanding of visual information.
 

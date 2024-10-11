@@ -123,7 +123,7 @@ Kurtosis risk is a critical element in algorithmic trading that cannot be ignore
 
 The ongoing need for adjustments in statistical models and risk management practices is paramount for accurate market predictions and risk assessment. Traditional models, which heavily rely on the assumption of normal distribution, may overlook the real-world manifestation of extreme events. By acknowledging the presence of fat tails and high kurtosis in market data, traders can adopt more robust techniques, such as incorporating stochastic volatility models or applying tail risk hedging strategies to mitigate potential losses.
 
-For further research, it is vital to explore advanced quantitative techniques that can better capture kurtosis in financial data. Machine l[earning](/wiki/earning-announcement) models and data-driven approaches could provide insights into complex market dynamics influenced by high kurtosis. Additionally, enhancing real-time analysis tools to monitor kurtosis levels could help in timely decision-making and risk management adjustments.
+For further research, it is vital to explore advanced quantitative techniques that can better capture kurtosis in financial data. Machine learning models and data-driven approaches could provide insights into complex market dynamics influenced by high kurtosis. Additionally, enhancing real-time analysis tools to monitor kurtosis levels could help in timely decision-making and risk management adjustments.
 
 In conclusion, integrating an understanding of kurtosis risk into algorithmic trading not only enhances model accuracy but also fortifies risk management practices, paving the way for more sustainable trading strategies in increasingly dynamic financial markets.
 

@@ -49,7 +49,7 @@ Co-location is a solution to the latency issue. By positioning their servers wit
 
 While many traders might look at aggregated data over seconds, minutes, or even days, HFT firms analyze data on a tick-by-tick basis. A "tick" is any change in the price of a security, regardless of volume. By examining every single price change, HFT algorithms can detect patterns, anomalies, or opportunities that might only exist for fractions of a second[3].
 
-This granular data analysis demands immense computational power. Sophisticated algorithms sift through millions of data points every second, deciding when to buy or sell. Machine l[earning](/wiki/earning-announcement) and other advanced techniques help in refining these strategies, allowing them to evolve with the market.
+This granular data analysis demands immense computational power. Sophisticated algorithms sift through millions of data points every second, deciding when to buy or sell. Machine learning and other advanced techniques help in refining these strategies, allowing them to evolve with the market.
 
 High-Frequency Trading is an intricate ballet of technology, data, and strategy. It's a world where millisecond improvements can mean the difference between profit and loss, and where the relentless pursuit of efficiency constantly reshapes the trading landscape.
 

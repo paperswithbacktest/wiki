@@ -72,7 +72,7 @@ Understanding the intricacies of financial markets, including market structure, 
 
 **Continuous Learning**
 
-Algorithmic trading is a field that evolves rapidly with technological advancements and market changes. Continuous l[earning](/wiki/earning-announcement) is crucial. Engaging with the algorithmic trading community through forums like QuantConnect or Stack Exchange can provide exposure to new ideas and techniques. Additionally, staying updated with the latest trends and tools through platforms such as Coursera, Udacity, or edX will enhance your adaptability and effectiveness in strategy development.
+Algorithmic trading is a field that evolves rapidly with technological advancements and market changes. Continuous learning is crucial. Engaging with the algorithmic trading community through forums like QuantConnect or Stack Exchange can provide exposure to new ideas and techniques. Additionally, staying updated with the latest trends and tools through platforms such as Coursera, Udacity, or edX will enhance your adaptability and effectiveness in strategy development.
 
 In sum, while foundational skills in programming, mathematics, and financial knowledge are critical, the commitment to continuous learning and adaptation is what sustains a successful career in algorithmic trading.
 

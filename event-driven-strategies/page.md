@@ -27,7 +27,7 @@ The mechanics involve thorough research and analysis to determine the potential 
 
 Event-driven strategies have been around for several decades, evolving with the financial markets. In the early days, these strategies were primarily focused on mergers and acquisitions. Investors would analyze potential merger deals and invest accordingly, trying to predict which mergers would be successful and which would fail.
 
-Over time, as financial markets became more complex and information more accessible, the scope of event-driven strategies expanded. The 1980s saw a significant rise in leveraged buyouts and corporate restructuring, which provided a fertile ground for these strategies. The 1990s and 2000s introduced more compl[exit](/wiki/exit-strategy)y with the advent of new financial instruments and a greater focus on distressed securities.
+Over time, as financial markets became more complex and information more accessible, the scope of event-driven strategies expanded. The 1980s saw a significant rise in leveraged buyouts and corporate restructuring, which provided a fertile ground for these strategies. The 1990s and 2000s introduced more complexity with the advent of new financial instruments and a greater focus on distressed securities.
 
 Today, event-driven strategies encompass a wide array of corporate events and are employed by a diverse group of market participants, from [hedge fund](/wiki/hedge-fund-trading-strategies)s specializing in specific types of events to individual investors looking for opportunities in market inefficiencies. The evolution of technology and data analytics has further refined these strategies, allowing for more sophisticated analysis and quicker reaction to events as they unfold.
 

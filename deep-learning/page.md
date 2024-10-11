@@ -20,7 +20,7 @@ Notably, the success of DRL in complex environments such as gaming heralds its p
 
 ## Understanding Deep Reinforcement Learning
 
-Deep Reinforcement L[earning](/wiki/earning-announcement) (DRL) represents a convergence of [neural network](/wiki/neural-network)s and [reinforcement learning](/wiki/reinforcement-learning), creating a robust framework for decision-making in complex environments. In trading, DRL is harnessed to formulate strategies that maximize gains through intelligent decision-making.
+Deep Reinforcement learning (DRL) represents a convergence of [neural network](/wiki/neural-network)s and [reinforcement learning](/wiki/reinforcement-learning), creating a robust framework for decision-making in complex environments. In trading, DRL is harnessed to formulate strategies that maximize gains through intelligent decision-making.
 
 At its core, DRL operates on the principle of [agents](/wiki/agents) interacting with environments. An agent is a decision-maker, while the environment represents the external world in which the agent operates. The agent observes a state $s_t$ of the environment at time $t$ and selects an action $a_t$ from a set of possible actions. Upon executing this action, the environment transitions to a new state $s_{t+1}$ and provides the agent with a reward $r_t$.
 
@@ -46,7 +46,7 @@ Implementing DRL involves several nuanced steps:
 
 Neural networks enhance the learning capacity of DRL, allowing it to process high-dimensional inputs and uncover nonlinear patterns, crucial for handling the intricate dependencies in market data. Moreover, leveraging advancements like deep Q-networks or LSTM (Long Short-Term Memory) units allows DRL to manage sequential decision-making and temporal dependencies better.
 
-By applying these principles, DRL provides a dynamic approach to trading, adapting strategies in response to real-time market feedback, and optimizing portfolios in ways traditional algorithms cannot. The flexibility inherent in DRL positions it as a formidable tool in navigating the compl[exit](/wiki/exit-strategy)ies of modern financial markets.
+By applying these principles, DRL provides a dynamic approach to trading, adapting strategies in response to real-time market feedback, and optimizing portfolios in ways traditional algorithms cannot. The flexibility inherent in DRL positions it as a formidable tool in navigating the complexities of modern financial markets.
 
 
 ## Applications of Deep Reinforcement Learning in Trading

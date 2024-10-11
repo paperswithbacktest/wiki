@@ -206,7 +206,7 @@ In conclusion, effective risk management is the bedrock of consistent trading su
 
 ### Learning from Mistakes
 
-Trading, much like any skill, involves a steep l[earning](/wiki/earning-announcement) curve. One of the pivotal aspects of this curve is not just making mistakes, but actively learning from them. In the world of trading, mistakes can cost money, making them tough lessons. However, reframing these errors as tuition for the lessons they provide can change a trader's entire outlook.
+Trading, much like any skill, involves a steep learning curve. One of the pivotal aspects of this curve is not just making mistakes, but actively learning from them. In the world of trading, mistakes can cost money, making them tough lessons. However, reframing these errors as tuition for the lessons they provide can change a trader's entire outlook.
 
 Every seasoned trader has stories of misjudged trades or overlooked indicators. What separates the transient from the tenacious is the ability to dissect these experiences, understand the root causes, and adapt future strategies accordingly. No trade should be seen in isolation but as a link in the ongoing chain of a trader's education.
 

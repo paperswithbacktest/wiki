@@ -32,7 +32,7 @@ One of the most significant advantages of transformers over traditional models l
 
 Transformers have shown exceptional prowess, particularly in the domain of natural language processing (NLP). Models such as BERT (Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) have set new performance benchmarks for tasks like translation, summarization, and question-answering. Beyond NLP, transformer models are also making significant strides in fields like computer vision, exemplified by the Vision Transformer (ViT), which adapts the principles of transformer models to image classification tasks.
 
-As such, the advent of transformers represents a pivotal shift in machine l[earning](/wiki/earning-announcement), offering models that not only improve upon the limitations of traditional sequence models but also extend their utility across diverse domains, from language processing to image and beyond.
+As such, the advent of transformers represents a pivotal shift in machine learning, offering models that not only improve upon the limitations of traditional sequence models but also extend their utility across diverse domains, from language processing to image and beyond.
 
 
 ## Applications of Transformers in Algorithmic Trading
@@ -63,7 +63,7 @@ Overall, the adaptability, speed, and ability to comprehend complex data interde
 
 ## Challenges and Considerations
 
-Integrating transformer models into trading systems brings several challenges that need careful consideration to maximize their benefits. One significant issue is the computational cost and infrastructure requirements. Transformer models, especially those with large architectures like GPTs or BERT, demand substantial computational power and memory. These models involve a substantial number of parameters and require robust GPUs or TPUs for efficient training and inference. This necessitates data centers or cloud solutions that can support such demands, increasing both the operational costs and compl[exit](/wiki/exit-strategy)ies of system management.
+Integrating transformer models into trading systems brings several challenges that need careful consideration to maximize their benefits. One significant issue is the computational cost and infrastructure requirements. Transformer models, especially those with large architectures like GPTs or BERT, demand substantial computational power and memory. These models involve a substantial number of parameters and require robust GPUs or TPUs for efficient training and inference. This necessitates data centers or cloud solutions that can support such demands, increasing both the operational costs and complexities of system management.
 
 The importance of data quality and volume cannot be overstated when training transformer models. Transformers thrive on large datasets for model accuracy, but the data must also be clean and relevant to financial contexts. Poor data quality can lead to inaccurate predictions and, consequently, substantial financial losses. Preprocessing steps including data cleaning, normalization, and augmentation are critical to ensure data reliability.
 

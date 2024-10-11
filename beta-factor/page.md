@@ -51,7 +51,7 @@ High-beta stocks, characterized by their greater volatility compared to the mark
 
 Low-beta stocks, on the other hand, are less volatile and tend to move more conservatively compared to the market. When incorporated into algorithmic trading, these stocks can contribute to a more stable and balanced portfolio. Algorithms might employ diversification techniques, distributing investments across a variety of low-beta assets to achieve a consistent performance while maintaining a lower risk threshold.
 
-In practice, the usage of beta in algorithmic trading involves not only monitoring the beta values but also continuously adjusting strategies in response to shifting market conditions. This active management allows algorithms to navigate the compl[exit](/wiki/exit-strategy)ies of the financial markets, optimizing risk-adjusted returns across different stock portfolios. By integrating beta into algorithmic models, traders can systematically align their portfolios with their risk tolerance and investment objectives.
+In practice, the usage of beta in algorithmic trading involves not only monitoring the beta values but also continuously adjusting strategies in response to shifting market conditions. This active management allows algorithms to navigate the complexities of the financial markets, optimizing risk-adjusted returns across different stock portfolios. By integrating beta into algorithmic models, traders can systematically align their portfolios with their risk tolerance and investment objectives.
 
 
 ## Special Cases and Considerations

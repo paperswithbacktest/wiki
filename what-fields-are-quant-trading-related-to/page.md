@@ -80,7 +80,7 @@ df['Moving_Average'] = df['Price'].rolling(window=3).mean()
 print(df)
 ```
 
-The advent of data science and machine l[earning](/wiki/earning-announcement) is revolutionizing quantitative trading by offering advanced analytical tools to parse and predict market trends. Machine learning models can be trained on large historical datasets to detect patterns and anomalies, enabling traders to anticipate market shifts with greater accuracy. For instance, employing a [machine learning](/wiki/machine-learning) algorithm like a [neural network](/wiki/neural-network) can help predict price movements by identifying nonlinear relationships in data that traditional linear models might miss.
+The advent of data science and machine learning is revolutionizing quantitative trading by offering advanced analytical tools to parse and predict market trends. Machine learning models can be trained on large historical datasets to detect patterns and anomalies, enabling traders to anticipate market shifts with greater accuracy. For instance, employing a [machine learning](/wiki/machine-learning) algorithm like a [neural network](/wiki/neural-network) can help predict price movements by identifying nonlinear relationships in data that traditional linear models might miss.
 
 Data science also plays a critical role in managing and preprocessing the enormous [volume](/wiki/volume-trading-strategy)s of data generated every day in financial markets. Techniques such as data cleaning, transformation, and normalization are crucial for ensuring that the inputs to trading models are accurate and reliable. As trading increasingly relies on high-quality data, proficiency in data handling techniques is as vital as algorithmic prowess.
 

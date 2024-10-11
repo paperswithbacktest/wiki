@@ -175,7 +175,7 @@ The Black-Scholes Model is founded on the principle of no-[arbitrage](/wiki/arbi
 
 The main advantage of using stochastic calculus and the Black-Scholes Model over the Binomial Model is that it allows for the continuous modeling of the stock price path and can be extended to more complex options and other financial derivatives. It captures the market's randomness and provides a dynamic framework for option pricing.
 
-For a deeper comparison of these models, the book "Options, Futures, and Other Derivatives" by John C. Hull offers an extensive discussion on the application, advantages, and limitations of both the Binomial Model and the Black-Scholes Model in various financial contexts. Hull's text is widely regarded as an essential resource for understanding the compl[exit](/wiki/exit-strategy)ies and practical applications of financial models, bridging the gap between theory and practice[5].
+For a deeper comparison of these models, the book "Options, Futures, and Other Derivatives" by John C. Hull offers an extensive discussion on the application, advantages, and limitations of both the Binomial Model and the Black-Scholes Model in various financial contexts. Hull's text is widely regarded as an essential resource for understanding the complexities and practical applications of financial models, bridging the gap between theory and practice[5].
 
 ## Solving Stochastic Differential Equations
 
@@ -332,7 +332,7 @@ For more complex models, such as those involving stochastic differential equatio
 
 For those looking to deep dive deeper into coding stochastic calculus models, resources such as "Python for Finance" by Yves Hilpisch provide an extensive guide to using Python for financial analysis, including stochastic calculus. Online platforms like GitHub offer repositories full of examples and frameworks that can be adapted and extended for specific financial modeling tasks[8].
 
-The development of stochastic calculus models in Python is a process of constant l[earning](/wiki/earning-announcement) and refinement. It requires not only a strong foundation in the theoretical aspects of stochastic calculus but also a practical understanding of Python’s numerical libraries and coding best practices. As the field of quantitative finance evolves, the synergy between stochastic calculus and programming will undoubtedly continue to foster innovative solutions for complex financial challenges.
+The development of stochastic calculus models in Python is a process of constant learning and refinement. It requires not only a strong foundation in the theoretical aspects of stochastic calculus but also a practical understanding of Python’s numerical libraries and coding best practices. As the field of quantitative finance evolves, the synergy between stochastic calculus and programming will undoubtedly continue to foster innovative solutions for complex financial challenges.
 
 ## Future of Stochastic Calculus in Finance
 

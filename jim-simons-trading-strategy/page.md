@@ -23,7 +23,7 @@ Born in 1938 in Newton, Massachusetts, Jim Simons exhibited a prodigious aptitud
 
 His early career saw him deep dive deep into the world of academia. Simons became a renowned figure in the realm of mathematics, notably making significant contributions to the field of differential geometry. One of his most influential works was the Chern-Simons form, which found applications not only in mathematics but also in theoretical physics[1].
 
-However, Simons' trajectory took an unexpected turn in the late 1970s. Recognizing the potential of applying mathematical models to the financial markets, he began to explore the world of trading. His mathematical background provided him with a unique lens through which to view the compl[exit](/wiki/exit-strategy)ies of financial markets.
+However, Simons' trajectory took an unexpected turn in the late 1970s. Recognizing the potential of applying mathematical models to the financial markets, he began to explore the world of trading. His mathematical background provided him with a unique lens through which to view the complexities of financial markets.
 
 In 1978, Simons took a definitive step away from academia when he founded Renaissance Technologies[2]. This [hedge fund](/wiki/hedge-fund-trading-strategies) would go on to become one of the most successful in the world, primarily due to its heavy reliance on quantitative models developed by Simons and his team. His ability to bridge the gap between the abstract world of mathematics and the tangible realm of trading not only revolutionized his personal career trajectory but also set a precedent for the entire trading industry. The financial world would never be the same after Simons demonstrated the immense potential of harnessing mathematical algorithms to navigate the market's unpredictable waters.
 
@@ -89,7 +89,7 @@ In terms of portfolio management, the Medallion Fund is known for its aggressive
 
 To further reduce its risk, Renaissance takes out a call option on the portfolio it has designed. This call option idea is therefore excellent. It is highly leveraged and offers protection against both the very low probability of a loss greater than the option premium and the unknown probability of a potentially catastrophic loss due to a black swan event.
 
-This approach to trading, steeped in continuous l[earning](/wiki/earning-announcement) and adaptation, has not only generated consistent returns for Renaissance but also revolutionized the way the world thinks about finance and investment.
+This approach to trading, steeped in continuous learning and adaptation, has not only generated consistent returns for Renaissance but also revolutionized the way the world thinks about finance and investment.
 
 ## The Special Sauce: Renaissance's Team
 

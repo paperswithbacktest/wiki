@@ -89,6 +89,6 @@ Equally crucial is TGS's commitment to acquiring top-tier talent. By recruiting 
 
 Beyond financial markets, TGS's role extends through its substantial contributions to philanthropy and its active engagement in policy discussions. The firm's founders have directed generous donations toward initiatives like Huntington's disease research, aiming to translate financial achievements into tangible social impact. TGS's involvement in advocating for beneficial tax policies underscores its dedication to leveraging its financial prowess for broader societal benefits.
 
-TGS Management continues to adeptly navigate global market compl[exit](/wiki/exit-strategy)ies, affirming its status as a multifaceted entity that transcends mere financial pursuits. Through a blend of secrecy, talent acquisition, and social responsibility, TGS exemplifies an enduring influence that extends beyond profit margins to encompass meaningful change.
+TGS Management continues to adeptly navigate global market complexities, affirming its status as a multifaceted entity that transcends mere financial pursuits. Through a blend of secrecy, talent acquisition, and social responsibility, TGS exemplifies an enduring influence that extends beyond profit margins to encompass meaningful change.
 
 

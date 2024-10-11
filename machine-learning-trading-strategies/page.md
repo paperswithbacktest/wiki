@@ -19,7 +19,7 @@ Machine learning is a subset of artificial intelligence where algorithms are des
 
 Trading strategies in the financial world refer to a set of rules or guidelines that traders and investors use to guide their buying and selling decisions in the markets. These strategies can range from simple rule-based methods to complex models involving numerous variables. They are essential for navigating the financial markets, as they provide a structured approach to trading, minimizing emotional decision-making and helping to manage risks. The significance of trading strategies lies in their ability to capitalize on market opportunities and mitigate losses in volatile markets.
 
-The intersection of machine l[earning](/wiki/earning-announcement) and trading strategies represents a significant evolution in finance. Machine learning algorithms can analyze large datasets, recognize complex patterns, and make predictions at a speed and accuracy that is unattainable by human traders. This capability enhances the effectiveness of trading strategies, providing insights that are grounded in data analysis rather than intuition.
+The intersection of machine learning and trading strategies represents a significant evolution in finance. Machine learning algorithms can analyze large datasets, recognize complex patterns, and make predictions at a speed and accuracy that is unattainable by human traders. This capability enhances the effectiveness of trading strategies, providing insights that are grounded in data analysis rather than intuition.
 
 For a more in-depth understanding of [machine learning](/wiki/machine-learning) and its application in finance, readers can refer to "Advances in Financial Machine Learning" by Marcos López de Prado, which offers a comprehensive overview of how modern machine learning methods are transforming the financial industry[1].
 
@@ -103,7 +103,7 @@ Another important consideration in feature selection is to avoid overfitting, wh
 
 ### Overview of Common Models
 
-In the world of machine learning trading strategies, a variety of models are employed, each with its unique strengths and applications. These models range from simple linear models to complex [neural network](/wiki/neural-network)s, and their selection depends on the specific requirements of the trading strategy, including the type of data, the compl[exit](/wiki/exit-strategy)y of the market dynamics, and the trading objectives.
+In the world of machine learning trading strategies, a variety of models are employed, each with its unique strengths and applications. These models range from simple linear models to complex [neural network](/wiki/neural-network)s, and their selection depends on the specific requirements of the trading strategy, including the type of data, the complexity of the market dynamics, and the trading objectives.
 
 **Linear regression**, one of the simplest and most widely used models, is often employed for its ease of interpretation and implementation. It's particularly effective in situations where relationships between variables are linear and well-defined. In trading, linear regression can be used to predict future prices based on past price movements and other linearly related economic indicators.
 

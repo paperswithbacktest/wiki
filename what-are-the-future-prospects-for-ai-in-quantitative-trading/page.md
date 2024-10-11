@@ -49,7 +49,7 @@ In summary, AI's integration into quantitative trading signifies a leap toward m
 
 ## Technological Advancements Driving AI in Quantitative Trading
 
-Artificial Intelligence (AI) is revolutionizing quantitative trading through technological advancements that enhance its capabilities. Emerging technologies like machine l[earning](/wiki/earning-announcement) and [neural network](/wiki/neural-network)s have become pivotal in developing sophisticated trading models. Machine learning, in particular, allows for the creation of algorithms that automatically improve from experience, making them invaluable for predicting market trends and executing trades.
+Artificial Intelligence (AI) is revolutionizing quantitative trading through technological advancements that enhance its capabilities. Emerging technologies like machine learning and [neural network](/wiki/neural-network)s have become pivotal in developing sophisticated trading models. Machine learning, in particular, allows for the creation of algorithms that automatically improve from experience, making them invaluable for predicting market trends and executing trades.
 
 Neural networks, a subset of [machine learning](/wiki/machine-learning), are especially useful due to their capacity to model complex patterns in data. By mimicking the human brain's interconnected neuron structures, neural networks in quantitative trading can recognize intricate relationships across different financial instruments and markets. This ability is critical for strategies that involve the simultaneous analysis of vast arrays of market data.
 

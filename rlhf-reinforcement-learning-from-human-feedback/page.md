@@ -18,7 +18,7 @@ The purpose of this article is to explore how RLHF can transform algorithmic tra
 
 ## Understanding RLHF
 
-Reinforcement L[earning](/wiki/earning-announcement) from Human Feedback (RLHF) is an extension of [reinforcement learning](/wiki/reinforcement-learning) (RL), a type of [machine learning](/wiki/machine-learning) where [agents](/wiki/agents) learn to make decisions through trial and error interactions with an environment. In traditional RL, the agent receives feedback in the form of rewards and penalties defined by a reward function, which it uses to optimize its decision-making policy. However, crafting this reward function can be challenging and may not always capture complex human preferences or nuanced task requirements.
+Reinforcement learning from Human Feedback (RLHF) is an extension of [reinforcement learning](/wiki/reinforcement-learning) (RL), a type of [machine learning](/wiki/machine-learning) where [agents](/wiki/agents) learn to make decisions through trial and error interactions with an environment. In traditional RL, the agent receives feedback in the form of rewards and penalties defined by a reward function, which it uses to optimize its decision-making policy. However, crafting this reward function can be challenging and may not always capture complex human preferences or nuanced task requirements.
 
 RLHF addresses these limitations by incorporating human feedback into the learning process, allowing agents to align better with human values and expectations. The primary distinction between RLHF and traditional RL lies in how feedback is obtained and utilized. While traditional RL relies purely on mathematically defined reward functions, RLHF integrates feedback provided directly by humans, which can be given in real-time.
 
@@ -82,7 +82,7 @@ Industry experts have noted RLHF’s performance in improving risk management. U
 
 One lesson learned from implementing RLHF is the importance of balancing human input with algorithmic processing to avoid overfitting. Systems that overly rely on human feedback risk developing biases that can skew trading decisions. Managing this balance requires careful calibration of the algorithms to weigh human advice against empirical data effectively.
 
-An additional challenge uncovered through case applications is the integration of RLHF models with existing trading infrastructures. Issues such as latency in processing feedback and the technical compl[exit](/wiki/exit-strategy)y of merging RLHF systems with legacy platforms require robust solutions. Some organizations have addressed these challenges by developing hybrid models that incorporate RLHF within modular frameworks, easing integration while maintaining system performance.
+An additional challenge uncovered through case applications is the integration of RLHF models with existing trading infrastructures. Issues such as latency in processing feedback and the technical complexity of merging RLHF systems with legacy platforms require robust solutions. Some organizations have addressed these challenges by developing hybrid models that incorporate RLHF within modular frameworks, easing integration while maintaining system performance.
 
 Privacy and ethical considerations also emerged as critical factors throughout these implementations. Ensuring that human feedback is securely processed and anonymized is vital to maintaining confidentiality and compliance with regulatory standards.
 

@@ -35,7 +35,7 @@ Several milestones highlight the ongoing technological advances impacting algori
 
 3. **NYSE's Hybrid Market Initiative (2006)**: Integrating automated trading with traditional floor-based exchanges allowed for more fluidity and a greater role for algorithms, improving market efficiency.
 
-Technological advancements continue to shape algorithmic trading, with significant research devoted to machine l[earning](/wiki/earning-announcement), data analytics, and distributed computing. As these fields evolve, they further augment the capabilities of algorithmic trading, ensuring it remains an integral part of financial markets moving forward.
+Technological advancements continue to shape algorithmic trading, with significant research devoted to machine learning, data analytics, and distributed computing. As these fields evolve, they further augment the capabilities of algorithmic trading, ensuring it remains an integral part of financial markets moving forward.
 
 
 ## High-Performance Computing (HPC)
@@ -86,7 +86,7 @@ df['Moving Average'] = df['Price'].rolling(window=3).mean()
 print(df)
 ```
 
-C++ is another popular language for algorithmic trading, primarily due to its performance efficiency. Its ability to process large volumes of data with minimal latency makes it ideal for high-frequency trading systems. The language's compl[exit](/wiki/exit-strategy)y, however, can be a barrier for many traders, requiring a more detailed understanding of computer science principles.
+C++ is another popular language for algorithmic trading, primarily due to its performance efficiency. Its ability to process large volumes of data with minimal latency makes it ideal for high-frequency trading systems. The language's complexity, however, can be a barrier for many traders, requiring a more detailed understanding of computer science principles.
 
 **Trading Development Platforms**
 

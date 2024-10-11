@@ -56,7 +56,7 @@ Afternoons might be dedicated to longer-term projects or research. For instance,
 
 As markets wind down, a review of the day's trading activities and model performances becomes paramount. Adjustments might be made to trading algorithms based on the day's outcomes, ensuring they remain optimized for the subsequent trading sessions.
 
-Throughout the day, continuous l[earning](/wiki/earning-announcement) is an underlying theme. Financial markets are dynamic, and the mathematical and computational tools used to navigate them evolve rapidly[6]. Keeping abreast of the latest research, attending seminars, or even engaging in internal discussions about recent academic papers can all be part and parcel of a quant's quest for knowledge.
+Throughout the day, continuous learning is an underlying theme. Financial markets are dynamic, and the mathematical and computational tools used to navigate them evolve rapidly[6]. Keeping abreast of the latest research, attending seminars, or even engaging in internal discussions about recent academic papers can all be part and parcel of a quant's quest for knowledge.
 
 In essence, a quant's day is a fusion of rigorous mathematical analysis, real-time application in the markets, continuous collaboration, and an insatiable hunger for knowledge. It's a career that demands both depth of expertise and the agility to adapt to an ever-changing financial landscape.
 
@@ -64,7 +64,7 @@ In essence, a quant's day is a fusion of rigorous mathematical analysis, real-ti
 
 The quant profession, standing at the intersection of finance, mathematics, and technology, offers numerous perks that have drawn many to its fold.
 
-First and foremost, quants are well-compensated, often earning salaries that are significantly higher than other professions in finance. This lucrative pay is a reflection of the specialized skill set and the high demand for professionals who can navigate the compl[exit](/wiki/exit-strategy)ies of modern financial markets.
+First and foremost, quants are well-compensated, often earning salaries that are significantly higher than other professions in finance. This lucrative pay is a reflection of the specialized skill set and the high demand for professionals who can navigate the complexities of modern financial markets.
 
 The intellectual stimulation is another allure. Quants deal with challenging problems, employing advanced mathematical and computational techniques to make sense of vast and intricate datasets. For those with a curious mind, the dynamic nature of financial markets and the constant evolution of quantitative techniques offer an ever-changing puzzle to solve.
 

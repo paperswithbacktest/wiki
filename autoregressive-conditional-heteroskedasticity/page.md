@@ -65,7 +65,7 @@ Consider a case where ARCH models are implemented in an intra[day trading](/wiki
 
 Furthermore, ARCH models are compared to other volatility models, such as the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models, which extend ARCH by introducing lag volatilities into the model. GARCH models often provide even more predictive power for trading algorithms due to their ability to capture both short and long-volatility dynamics.
 
-Although ARCH models offer valuable insights and predictions for algorithmic trading, their compl[exit](/wiki/exit-strategy)y and computational demands shouldn't be underestimated. Successful traders often employ a mix of models and continuously adapt these to capture the nuances of market behavior, sometimes combining ARCH models with machine l[earning](/wiki/earning-announcement) techniques to fine-tune predictions further.
+Although ARCH models offer valuable insights and predictions for algorithmic trading, their complexity and computational demands shouldn't be underestimated. Successful traders often employ a mix of models and continuously adapt these to capture the nuances of market behavior, sometimes combining ARCH models with machine learning techniques to fine-tune predictions further.
 
 In summary, ARCH models are a foundational tool in algorithmic trading strategies for predicting market volatility. Their ability to adapt to volatility clusters allows traders to anticipate and react to market changes efficiently, transforming volatility from a risk into an opportunity.
 

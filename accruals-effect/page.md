@@ -153,7 +153,7 @@ The trend of incorporating accrual data in trading models is gaining traction, f
 
 Looking forward, the incorporation of accruals in algorithmic trading is expected to become more sophisticated. Enhanced data collection techniques, such as natural language processing (NLP) to analyze financial statements, will likely play a role in this evolution. Additionally, as more regulatory and public datasets become available, the quality and depth of accrual data will improve, offering new opportunities for traders to refine their strategies further.
 
-In conclusion, while challenges remain in terms of data quality and model compl[exit](/wiki/exit-strategy)y, the successful application of accruals in algorithmic trading already demonstrates its potential effectiveness. Staying abreast of the latest trends and technological advancements will be crucial for traders looking to capitalize on the benefits of accrual data in their trading strategies.
+In conclusion, while challenges remain in terms of data quality and model complexity, the successful application of accruals in algorithmic trading already demonstrates its potential effectiveness. Staying abreast of the latest trends and technological advancements will be crucial for traders looking to capitalize on the benefits of accrual data in their trading strategies.
 
 
 ## Conclusion

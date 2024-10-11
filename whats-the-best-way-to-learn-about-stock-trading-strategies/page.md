@@ -28,12 +28,12 @@ Grasping these basics is not just preparatory; it's essential. Diving into advan
 
 For beginners seeking to bolster their understanding of the stock market, several resources can be invaluable. One highly recommended book is “The Intelligent Investor” by Benjamin Graham, which lays out principles of value investing. Another essential resource is “A Random Walk Down Wall Street” by Burton G. Malkiel, offering insights into various market theories and their applications. Online platforms such as Investopedia also provide comprehensive guides and articles that cover fundamental concepts in a digestible format.
 
-These resources serve as excellent starting points, offering foundational knowledge and insights into more nuanced aspects of stock trading. Understanding the basics of stock trading creates a stepping stone for more advanced l[earning](/wiki/earning-announcement), strategy development, and ultimately, successful trading experiences.
+These resources serve as excellent starting points, offering foundational knowledge and insights into more nuanced aspects of stock trading. Understanding the basics of stock trading creates a stepping stone for more advanced learning, strategy development, and ultimately, successful trading experiences.
 
 
 ## Exploring Different Types of Stock Trading Strategies
 
-In stock trading, a well-defined strategy is crucial for navigating the compl[exit](/wiki/exit-strategy)ies of the market. Different trading strategies cater to varied investment goals and risk profiles. Here, we will explore three popular stock trading strategies: [day trading](/wiki/day-trading-spy), swing trading, and long-term investing.
+In stock trading, a well-defined strategy is crucial for navigating the complexities of the market. Different trading strategies cater to varied investment goals and risk profiles. Here, we will explore three popular stock trading strategies: [day trading](/wiki/day-trading-spy), swing trading, and long-term investing.
 
 Day trading involves buying and selling stocks within the same trading day, capitalizing on small price movements. This strategy necessitates a mindset that is highly analytical and decisive, as traders must make quick decisions based on real-time market data. Skills in technical analysis, such as reading candlestick patterns and understanding moving averages, are paramount. The objective is to close all positions by the end of the trading day to avoid overnight risks. Day traders rely heavily on technology, utilizing advanced trading platforms and tools to track market trends and execute trades swiftly. The intense pace and need for constant attention mean that not everyone is suited for day trading.
 

@@ -64,7 +64,7 @@ Dispersion trading thrives on the foundation of market inefficiencies specifical
 5. **Complex yet Transparent**: While dispersion trading requires a keen understanding of volatility and correlation dynamics, it's fundamentally based on transparent and observable metrics. The transparency of the trade mechanics attracts traders who prefer strategies where the risks and rewards can be quantified upfront.
 6. **Opportunities in Various Market Conditions**: Whether the market is bullish, bearish, or range-bound, dispersion trading offers potential profit opportunities. Its profitability isn't solely dependent on directional market movements, but rather on the relative volatilities and correlations.
 
-In essence, dispersion trading offers a unique blend of compl[exit](/wiki/exit-strategy)y, transparency, and efficiency. Its reliance on volatility and correlation mispricings, combined with its potential for profitability in diverse market conditions, makes it an enticing choice for traders keen on exploiting niche inefficiencies in the financial markets.
+In essence, dispersion trading offers a unique blend of complexity, transparency, and efficiency. Its reliance on volatility and correlation mispricings, combined with its potential for profitability in diverse market conditions, makes it an enticing choice for traders keen on exploiting niche inefficiencies in the financial markets.
 
 ### Diving into the U.S. Market Landscape
 
@@ -234,7 +234,7 @@ Modeling skew with such models provides a more nuanced understanding of market d
 
 **Using Machine Learning for Signal Enhancement**
 
-Modern traders also incorporate machine l[earning](/wiki/earning-announcement) techniques to enhance signal quality. Neural networks or support vector machines can be trained on historical data, capturing complex non-linear relationships in volatility surfaces that traditional models might miss[13].
+Modern traders also incorporate machine learning techniques to enhance signal quality. Neural networks or support vector machines can be trained on historical data, capturing complex non-linear relationships in volatility surfaces that traditional models might miss[13].
 
 In summary, the volatility skew offers dispersion traders an additional dimension of analysis and opportunity. Proper modeling and signal generation from the skew can lead to better-informed trades and potentially higher returns.
 

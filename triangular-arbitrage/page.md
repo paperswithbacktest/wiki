@@ -84,7 +84,7 @@ Bank quoted rates and cross rates are essential in identifying arbitrage possibi
 
 The participation of banks and market makers creates a constantly shifting landscape where exchange rates are continuously adjusted in response to supply, demand, and external economic indicators. These adjustments can create fleeting windows during which rate inefficiencies occur. Despite their brief duration, these inefficiencies are what arbitrageurs seek to exploit, underscoring the importance of the roles these banking entities play in the dynamics of currency valuation and arbitrage.
 
-In conclusion, international banks and market makers not only facilitate currency exchange but also inadvertently affect the presence and disappearance of triangular arbitrage opportunities. Their influence over bid-ask spreads and currency rates contributes to the compl[exit](/wiki/exit-strategy)y and ephemeral nature of arbitrage in today's fast-paced forex market.
+In conclusion, international banks and market makers not only facilitate currency exchange but also inadvertently affect the presence and disappearance of triangular arbitrage opportunities. Their influence over bid-ask spreads and currency rates contributes to the complexity and ephemeral nature of arbitrage in today's fast-paced forex market.
 
 
 ## Evidence of Triangular Arbitrage

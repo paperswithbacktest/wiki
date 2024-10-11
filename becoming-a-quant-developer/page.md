@@ -61,7 +61,7 @@ In parallel, **database management** is ongoing. Quant developers frequently int
 
 As the trading day concludes, post-market hours provide a valuable window for **system upgrades and maintenance**. It's a race against time. With Asian markets soon to commence trading, the systems must be primed, tested, and ready.
 
-Throughout the day, quant developers also engage in **continuous l[earning](/wiki/earning-announcement)**[9]. The financial world is in perpetual flux, with new technologies like quantum computing and [deep learning](/wiki/deep-learning) making headway. Staying updated is not just a benefit—it's a necessity.
+Throughout the day, quant developers also engage in **continuous learning**[9]. The financial world is in perpetual flux, with new technologies like quantum computing and [deep learning](/wiki/deep-learning) making headway. Staying updated is not just a benefit—it's a necessity.
 
 In essence, a quant developer's day is a blend of rigorous technical work, collaborative interactions, swift problem-solving, and continuous evolution. Amidst the dynamic backdrop of the financial markets, they stand as the crucial bridge between theoretical finance and its real-world execution.
 
@@ -123,7 +123,7 @@ In terms of growth potential, the ever-evolving financial landscape, marked by t
 
 Scientific computing stands as a cornerstone in the realm of quant development. At its core, it involves the utilization of advanced mathematical models and computational techniques to solve intricate problems, primarily those that are too complex for analytical solutions. In the financial world, where quant developers thrive, the ability to simulate, optimize, and analyze vast amounts of data in real-time is indispensable, and this is where the prowess of scientific computing comes into play.
 
-Financial markets are known for their compl[exit](/wiki/exit-strategy)y. The numerous variables involved, from [interest rate](/wiki/interest-rate-trading-strategies)s to geopolitical events, render analytical solutions almost impossible for many problems. Here, scientific computing provides quant developers with the tools to create numerical simulations. For example, Monte Carlo simulations, a method rooted in scientific computing, allows quants to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables[12].
+Financial markets are known for their complexity. The numerous variables involved, from [interest rate](/wiki/interest-rate-trading-strategies)s to geopolitical events, render analytical solutions almost impossible for many problems. Here, scientific computing provides quant developers with the tools to create numerical simulations. For example, Monte Carlo simulations, a method rooted in scientific computing, allows quants to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables[12].
 
 Option pricing, a pivotal aspect of financial markets, also leans heavily on scientific computing. The famous Black-Scholes model, while being analytical, has its limitations. For more complex financial derivatives, quant developers often resort to numerical methods, like finite difference methods or binomial trees, to price these instruments.
 

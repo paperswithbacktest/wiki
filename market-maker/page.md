@@ -66,7 +66,7 @@ Several prominent firms exemplify the impact of algorithmic trading on market ma
 
 Strategies such as mean reversion and [momentum](/wiki/momentum) trading are commonly used by algorithmic market makers. In a mean reversion strategy, algorithms predict that the price of a security will revert to its historical average, executing trades when prices deviate from this mean. Momentum strategies, conversely, capitalize on existing market trends, buying securities on upward trends and selling those on downward trends, profiting from the continuation of these movements.
 
-Algorithmic trading and market making have revolutionized the financial markets by enhancing liquidity, ensuring tighter spreads, and enabling faster price discovery. As technology continues to advance, the role of algorithmic systems in market making is likely to expand, driven by innovations in data processing, machine l[earning](/wiki/earning-announcement), and [artificial intelligence](/wiki/ai-artificial-intelligence).
+Algorithmic trading and market making have revolutionized the financial markets by enhancing liquidity, ensuring tighter spreads, and enabling faster price discovery. As technology continues to advance, the role of algorithmic systems in market making is likely to expand, driven by innovations in data processing, machine learning, and [artificial intelligence](/wiki/ai-artificial-intelligence).
 
 
 ## Market Makers in Decentralized Exchanges

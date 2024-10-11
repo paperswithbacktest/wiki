@@ -19,7 +19,7 @@ Within this guide, we shall navigate through the multifaceted world of AI in tra
 
 ### Defining AI Trading
 
-AI trading, often referred to as algorithmic or automated trading, is the process where computer programs are leveraged to make trading decisions based on a set of criteria derived from historical data. These criteria can range from simple moving average crossovers to intricate [neural network](/wiki/neural-network)s and [deep l[earning](/wiki/earning-announcement)](/wiki/deep-learning) models. It's not about replacing the human trader but enhancing their capabilities, offering real-time data analysis at a scale and speed beyond human potential.
+AI trading, often referred to as algorithmic or automated trading, is the process where computer programs are leveraged to make trading decisions based on a set of criteria derived from historical data. These criteria can range from simple moving average crossovers to intricate [neural network](/wiki/neural-network)s and [deep learning](/wiki/deep-learning) models. It's not about replacing the human trader but enhancing their capabilities, offering real-time data analysis at a scale and speed beyond human potential.
 
 ![AI in trading.png](images/AI_in_trading.png)
 
@@ -117,7 +117,7 @@ The agility of AI in deciphering data patterns allows it to identify anomalous a
 
 A salient utility of AI in risk management is its capability to leverage machine learning algorithms to predict potential market downturns and adjust trading strategies accordingly. AI analyses historical data, recognizes patterns, and employs predictive analytics to gauge market directions, assisting traders and algorithms in making informed decisions under volatile conditions. Techniques like regression analysis and time series forecasting enable AI to anticipate price movements and modify trading strategies to mitigate losses[23].
 
-AI is also paramount in the detection and prevention of fraud in trading platforms. Traditional fraud detection systems can be overwhelmed by the vastness and compl[exit](/wiki/exit-strategy)y of financial data, providing a fertile ground for malicious activities to proliferate. AI models, utilizing anomaly detection, swiftly identify irregularities in trading patterns, such as pump-and-dump schemes or layering, by continuously learning from incoming data and detecting deviations from established patterns[24]. This proactiveness ensures that suspicious activities are promptly identified, scrutinized, and curtailed.
+AI is also paramount in the detection and prevention of fraud in trading platforms. Traditional fraud detection systems can be overwhelmed by the vastness and complexity of financial data, providing a fertile ground for malicious activities to proliferate. AI models, utilizing anomaly detection, swiftly identify irregularities in trading patterns, such as pump-and-dump schemes or layering, by continuously learning from incoming data and detecting deviations from established patterns[24]. This proactiveness ensures that suspicious activities are promptly identified, scrutinized, and curtailed.
 
 Through the deployment of Natural Language Processing (NLP) in risk management, AI scrutinizes financial news, social media chatter, and economic reports to forecast market sentiments. The analysis of textual data, such as news regarding political instability or a sudden change in economic policies, provides actionable insights that could influence trading strategies, ensuring a proactive approach to managing unforeseen risks[25].
 

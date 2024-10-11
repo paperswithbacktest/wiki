@@ -172,7 +172,7 @@ print("Sharpe Ratio:", sharpe_ratio)
 print("Sortino Ratio:", sortino_ratio)
 ```
 
-In conclusion, choosing the right metric to assess investment performance should account for the specific investment context, strategy, and the investor's risk tolerance levels. A thoughtful combination of multiple metrics offers a more complete view, enhancing the ability to navigate the compl[exit](/wiki/exit-strategy)ies of financial markets effectively.
+In conclusion, choosing the right metric to assess investment performance should account for the specific investment context, strategy, and the investor's risk tolerance levels. A thoughtful combination of multiple metrics offers a more complete view, enhancing the ability to navigate the complexities of financial markets effectively.
 
 
 ## Conclusion

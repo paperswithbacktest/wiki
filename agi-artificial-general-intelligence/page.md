@@ -18,7 +18,7 @@ Thus, the introduction of AGI into the world of trading promises not just an evo
 
 ## Understanding AGI and Its Current State
 
-Artificial Intelligence (AI) is often categorized into three distinct types: Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Superintelligence (ASI). The progression from ANI to AGI, and potentially to ASI, illustrates the levels of compl[exit](/wiki/exit-strategy)y and capability AI systems can achieve.
+Artificial Intelligence (AI) is often categorized into three distinct types: Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Superintelligence (ASI). The progression from ANI to AGI, and potentially to ASI, illustrates the levels of complexity and capability AI systems can achieve.
 
 **Artificial Narrow Intelligence (ANI)** refers to AI systems that excel in specific tasks, such as facial recognition, voice assistants, or spam filtering. These systems operate under a narrow set of parameters and lack the ability to generalize knowledge beyond their predefined functions.
 
@@ -62,7 +62,7 @@ The development of advanced algorithms powered by Artificial General Intelligenc
 
 ### Development of Advanced Algorithms
 
-AGI can process vast datasets in real-time, identify complex patterns, and make predictions without explicit human guidance. In trading, this capability can manifest as an algorithm that not only learns from historical and real-time market data but also anticipates systemic failures or market shifts. These algorithms, unlike current machine l[earning](/wiki/earning-announcement) models, do not just interpolate from past events but can extrapolate, potentially identifying novel trading opportunities.
+AGI can process vast datasets in real-time, identify complex patterns, and make predictions without explicit human guidance. In trading, this capability can manifest as an algorithm that not only learns from historical and real-time market data but also anticipates systemic failures or market shifts. These algorithms, unlike current machine learning models, do not just interpolate from past events but can extrapolate, potentially identifying novel trading opportunities.
 
 ### Combining Human Intuition with AGI
 

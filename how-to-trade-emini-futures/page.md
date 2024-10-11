@@ -74,7 +74,7 @@ Tick charts, which plot price after a certain number of trades (ticks) have been
 
 Example setups and signals for entry largely depend on the trader's chosen strategy. Using the Trend Gap Strategy, a signal might be the formation of the gap itself in conjunction with other technical indicators like RSI or MACD. For scalpers, a sudden surge in [volume](/wiki/volume-trading-strategy) combined with a breach of a short-term moving average might be an ideal entry signal.
 
-Understanding and mastering these strategies requires time, practice, and continual l[earning](/wiki/earning-announcement). As always, practicing on a demo account and incorporating solid risk management techniques is advised before committing real capital.
+Understanding and mastering these strategies requires time, practice, and continual learning. As always, practicing on a demo account and incorporating solid risk management techniques is advised before committing real capital.
 
 ## Technical Aspects
 

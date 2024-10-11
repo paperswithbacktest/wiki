@@ -88,7 +88,7 @@ Thus, positions in operations, IT, and client services not only serve as unique 
 
 In the competitive arena of quantitative hedge funds, the ability to self-teach critical skills and construct a robust portfolio can markedly enhance your candidacy for roles in the industry. Let's explore the steps to develop these competencies effectively.
 
-Leveraging online platforms and [course](/wiki/best-algorithmic-trading-courses)s is a foundational step in acquiring the essential quantitative skills demanded by hedge funds. Websites such as Coursera, edX, and Khan Academy offer comprehensive courses on machine l[earning](/wiki/earning-announcement), financial markets, and statistical analysis. For example, a data-driven finance course can provide insights into using libraries like Pandas and NumPy, essential tools for data manipulation and analysis in Python.
+Leveraging online platforms and [course](/wiki/best-algorithmic-trading-courses)s is a foundational step in acquiring the essential quantitative skills demanded by hedge funds. Websites such as Coursera, edX, and Khan Academy offer comprehensive courses on machine learning, financial markets, and statistical analysis. For example, a data-driven finance course can provide insights into using libraries like Pandas and NumPy, essential tools for data manipulation and analysis in Python.
 
 To illustrate a practical application, consider the following Python snippet to calculate the moving average of asset prices, a common task in financial analysis.
 

@@ -45,7 +45,7 @@ where $ S(t) $ is the spread, $ P_1(t) $ and $ P_2(t) $ are the prices of the tw
 
 ### Data Analysis
 
-Data is the backbone of statistical arbitrage strategies. Comprehensive data analysis is employed to process historical and real-time financial data to spot patterns and correlations that indicate potential trades. Advanced statistical techniques such as Markov chains, principal component analysis (PCA), and machine l[earning](/wiki/earning-announcement) algorithms are often used to enhance the accuracy of predictions. Here's a simple Python snippet using pandas for a basic correlation check:
+Data is the backbone of statistical arbitrage strategies. Comprehensive data analysis is employed to process historical and real-time financial data to spot patterns and correlations that indicate potential trades. Advanced statistical techniques such as Markov chains, principal component analysis (PCA), and machine learning algorithms are often used to enhance the accuracy of predictions. Here's a simple Python snippet using pandas for a basic correlation check:
 
 ```python
 import pandas as pd

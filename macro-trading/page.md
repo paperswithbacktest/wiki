@@ -68,7 +68,7 @@ By intertwining these strategies and being nimble in their application, macro tr
 
 ## Developing a Macro Trading Strategy
 
-Crafting a macro trading strategy requires a structured approach that is tailored to address global market compl[exit](/wiki/exit-strategy)ies. Successful traders not only understand the macroeconomic landscape but also have robust systems in place to make calculated decisions.
+Crafting a macro trading strategy requires a structured approach that is tailored to address global market complexities. Successful traders not only understand the macroeconomic landscape but also have robust systems in place to make calculated decisions.
 
 **Picking and Vetting Strategies**: Before diving into the markets, it's paramount to select a trading strategy aligned with individual goals and risk tolerance. This might mean focusing on interest rate differentials between countries or targeting commodities impacted by global economic shifts. Whichever the focus, it's crucial to continuously vet and tweak the strategy based on real-world outcomes.
 

@@ -129,7 +129,7 @@ The Alpaca API supports various functionalities, including market data retrieval
 
 One of the significant advantages of using the Alpaca API is the flexibility it affords in creating unique trading solutions. The absence of commissions further adds to its appeal, as it allows increased experimentation without incurring extra costs. The ability to integrate with platforms like TradingView means that traders can chart their strategies visually and execute them programmatically, combining technical analysis with automated trading seamlessly.
 
-Moreover, Alpaca's API is known for its accessibility and the support it provides to its user community. Comprehensive documentation and active community forums ensure that users can find the resources they need as they develop and deploy their trading algorithms. This level of support is crucial for both novice and experienced developers as they navigate the compl[exit](/wiki/exit-strategy)ies of algorithmic trading.
+Moreover, Alpaca's API is known for its accessibility and the support it provides to its user community. Comprehensive documentation and active community forums ensure that users can find the resources they need as they develop and deploy their trading algorithms. This level of support is crucial for both novice and experienced developers as they navigate the complexities of algorithmic trading.
 
 In summary, Alpaca's commission-free trading platform with an intuitive and flexible API acts as a powerful tool for developers and traders looking to deploy custom trading algorithms. Its integration capabilities with tools like TradingView further enhance its utility, making it a popular choice among traders seeking to leverage technology for better trading outcomes.
 

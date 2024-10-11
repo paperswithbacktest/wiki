@@ -20,7 +20,7 @@ Andrew Lo was born in Hong Kong in 1960 and moved to the United States with his 
 
 His pursuit of knowledge did not stop there. Driven by a desire to further hone his expertise in economics, Lo advanced to Harvard University, where he achieved both a Master's degree and a Ph.D. in Economics. During his time at Harvard, Lo was immersed in a rigorous academic environment that emphasized analytical rigor and intellectual curiosity. These years played a pivotal role in shaping his quantitative approach to finance, as he engaged with complex economic theories and mathematical models.
 
-Lo's education at these prestigious institutions laid the groundwork for his later innovations in financial engineering and quantitative investment. The intellectual rigor and analytical skills he developed during these years became integral to his approach in understanding and tackling financial market compl[exit](/wiki/exit-strategy)ies.
+Lo's education at these prestigious institutions laid the groundwork for his later innovations in financial engineering and quantitative investment. The intellectual rigor and analytical skills he developed during these years became integral to his approach in understanding and tackling financial market complexities.
 
 
 ## Career and Contribution to Finance
@@ -29,7 +29,7 @@ Andrew Lo's distinguished career in finance and economics traces back to his ear
 
 Lo's contributions to financial economics have been both extensive and impactful. He is renowned for integrating principles of evolutionary biology with financial theory, culminating in his development of the Adaptive Markets Hypothesis. This innovative framework challenges the traditional Efficient Market Hypothesis by suggesting that market dynamics are better understood through the lens of adaptation and natural selection, akin to ecological systems.
 
-Lo further extended his influence by co-founding the AlphaSimplex Group, an investment management company that applies sophisticated quantitative models to develop investment strategies. The firm implements advanced methods such as machine l[earning](/wiki/earning-announcement) and statistical [arbitrage](/wiki/arbitrage) to optimize returns, reflecting Lo's commitment to leveraging technology and data science in finance. AlphaSimplex's strategies are designed to dynamically adjust to changing market conditions, an approach that embodies the principles outlined in the Adaptive Markets Hypothesis.
+Lo further extended his influence by co-founding the AlphaSimplex Group, an investment management company that applies sophisticated quantitative models to develop investment strategies. The firm implements advanced methods such as machine learning and statistical [arbitrage](/wiki/arbitrage) to optimize returns, reflecting Lo's commitment to leveraging technology and data science in finance. AlphaSimplex's strategies are designed to dynamically adjust to changing market conditions, an approach that embodies the principles outlined in the Adaptive Markets Hypothesis.
 
 Through his academic and professional endeavors, Andrew Lo has significantly influenced both theoretical and applied finance. His work continues to spur innovation in quantitative finance, with a lasting legacy that bridges the gap between complex market theories and practical financial applications.
 

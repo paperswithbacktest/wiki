@@ -23,7 +23,7 @@ The journey of algorithmic trading is deeply intertwined with technological evol
 
 However, it was in the 1980s that [algorithmic trading](/wiki/algorithmic-trading) saw a significant leap, fueled by the integration of computers in trading floors and the adoption of electronic communication networks (ECNs), platforms allowing buyers and sellers to transact directly without intermediaries. By the 1990s, the rapid advancement of computational power and the emergence of the internet accelerated the proliferation of sophisticated algorithms. This era introduced quantitative strategies, including statistical [arbitrage](/wiki/arbitrage), which sought to leverage mathematical models to exploit market inefficiencies.
 
-The dawn of the 21st century heralded the rise of 'Cyborg finance', a term capturing the fusion of high-speed technology with finance. Financial markets evolved into highly interconnected digital ecosystems. Algorithmic trading started harnessing machine l[earning](/wiki/earning-announcement) and [artificial intelligence](/wiki/ai-artificial-intelligence), magnifying its capabilities to analyze vast data sets and execute trades at near-instantaneous speeds.
+The dawn of the 21st century heralded the rise of 'Cyborg finance', a term capturing the fusion of high-speed technology with finance. Financial markets evolved into highly interconnected digital ecosystems. Algorithmic trading started harnessing machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence), magnifying its capabilities to analyze vast data sets and execute trades at near-instantaneous speeds.
 
 High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset of algorithmic trading focusing on executing large numbers of orders at extremely fast speeds, burgeoned in the mid-2000s, representing a significant chunk of the market activity[2]. This phenomenon intensified the race for speed, leading firms to invest heavily in infrastructure, from fiber-optic cables laid across continents to microwave towers transmitting orders faster than traditional means.
 
@@ -59,7 +59,7 @@ High-performance computing is often essential for algorithmic trading, especiall
 
 A stable and fast internet connection is paramount. Algorithmic trading systems demand real-time data feeds, and any lag can result in missed trading opportunities or execution at non-optimal prices. For retail algorithmic traders, a broadband connection with a speed of at least 50 Mbps is generally suggested. However, institutional traders or those engaged in high-frequency trading often have direct connections to exchanges to minimize latency[8].
 
-It's worth noting that as the compl[exit](/wiki/exit-strategy)y and frequency of trades increase, so do the technical requirements. Hence, traders must continuously evaluate and upgrade their systems to stay competitive and ensure the efficacy of their trading algorithms.
+It's worth noting that as the complexity and frequency of trades increase, so do the technical requirements. Hence, traders must continuously evaluate and upgrade their systems to stay competitive and ensure the efficacy of their trading algorithms.
 
 #### System Architecture & Automated Controls
 

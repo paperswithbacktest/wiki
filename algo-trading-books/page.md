@@ -27,7 +27,7 @@ One of the captivating aspects of algo trading is its interdisciplinary nature. 
 
 Yet, as markets have evolved, so too have the tools used to analyze and navigate them. Statistics and econometrics provide the foundational backbone for many algorithmic strategies, offering structured ways to decipher market data, find correlations, and predict future price movements. Technical analysis further complements this by visually interpreting price movements and identifying historically recurring patterns.
 
-But the frontier of algo trading is undoubtedly being reshaped by machine l[earning](/wiki/earning-announcement). With the ability to process vast datasets and adapt to changing market conditions, [machine learning](/wiki/machine-learning) techniques are pushing the boundaries of what's possible in trade prediction and strategy optimization[2].
+But the frontier of algo trading is undoubtedly being reshaped by machine learning. With the ability to process vast datasets and adapt to changing market conditions, [machine learning](/wiki/machine-learning) techniques are pushing the boundaries of what's possible in trade prediction and strategy optimization[2].
 
 Furthermore, while theoretical knowledge is invaluable, practical implementation remains a challenge of its own. This is where practical guides step in, offering real-world insights into strategy building, [backtesting](/wiki/backtesting), and deployment.
 

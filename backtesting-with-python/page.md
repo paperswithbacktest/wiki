@@ -79,7 +79,7 @@ Backtesting.py stands as a notable player in the realm of backtesting libraries 
 4. **Dependency on External Libraries for Advanced Analysis**: For sophisticated technical indicators or advanced analytics, one might need to lean on external libraries like TA-Lib, introducing an added layer of complexity.
 5. **Limited Broker and Data Source Integrations**: Unlike some other backtesting platforms, Backtesting.py doesn't have built-in integrations with live brokers or data providers, meaning real-time testing or deployment requires additional work.
 
-While Backtesting.py offers a robust foundation for backtesting endeavors, it's essential for users to weigh its capabilities against their unique needs, ensuring it aligns with the compl[exit](/wiki/exit-strategy)ies and nuances of their trading strategies.
+While Backtesting.py offers a robust foundation for backtesting endeavors, it's essential for users to weigh its capabilities against their unique needs, ensuring it aligns with the complexities and nuances of their trading strategies.
 
 ### Getting started: Installation and basic setup
 

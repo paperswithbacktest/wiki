@@ -135,7 +135,7 @@ Using both algo trading and global macro strategy can be powerful, but it's also
 
 Algo trading and global macro strategies combine technology and economics to help traders in the unpredictable world of finance. From the start of algo trading to its current state, technology has played a huge role. This mix allows traders to better understand and use big economic changes.
 
-The hybridization of algo trading and global macro strategies amplifies the capability to decipher, and leverage, the ceaseless fluctuations of macroeconomic variables, offering a potent instrument to those who dare to deep dive into its compl[exit](/wiki/exit-strategy)ies. Happy trading!
+The hybridization of algo trading and global macro strategies amplifies the capability to decipher, and leverage, the ceaseless fluctuations of macroeconomic variables, offering a potent instrument to those who dare to deep dive into its complexities. Happy trading!
 
 ## Frequently Asked Questions
 

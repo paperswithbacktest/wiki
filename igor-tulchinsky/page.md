@@ -35,7 +35,7 @@ His transition to the finance industry marked a significant shift in his career 
 
 Tulchinsky's career launched him further when he joined Millennium Management, where he played a pivotal role as a statistical-[arbitrage](/wiki/arbitrage) portfolio manager. His contributions were transformative due to his adoption of cutting-edge quantitative techniques to identify market inefficiencies and execute trades effectively. Statistical arbitrage strategies, which involve exploiting pricing discrepancies across related financial instruments, became his expertise.
 
-Using sophisticated models, Tulchinsky was able to anticipate and capitalize on short-term market movements. His strategies likely involved statistical methods such as regression analysis, machine l[earning](/wiki/earning-announcement) algorithms, and time-series forecasting. Python, a programming language popular among quants for its vast library support and data manipulation capabilities, would have been instrumental in implementing these strategies. For instance, a simple linear regression model in Python to predict stock returns might look like:
+Using sophisticated models, Tulchinsky was able to anticipate and capitalize on short-term market movements. His strategies likely involved statistical methods such as regression analysis, machine learning algorithms, and time-series forecasting. Python, a programming language popular among quants for its vast library support and data manipulation capabilities, would have been instrumental in implementing these strategies. For instance, a simple linear regression model in Python to predict stock returns might look like:
 
 ```python
 import numpy as np

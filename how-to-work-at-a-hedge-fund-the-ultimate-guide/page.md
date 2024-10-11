@@ -70,7 +70,7 @@ But qualifications alone won't land you the job. Hedge funds value a diverse ski
 - **Coding:** As the industry leans more on algorithmic strategies, coding becomes increasingly vital. Knowledge in Python, R, or MATLAB can set you apart.
 - **Soft skills:** Communication, teamwork, and resilience are often underlined. It's one thing to analyze data; it's another to explain your insights to a team or persuade a portfolio manager of your investment thesis.
 
-Finally, the hedge fund industry is continuously evolving, driven by technological innovations, regulatory changes, and market dynamics. Continual l[earning](/wiki/earning-announcement) is not just encouraged; it's imperative. Regularly attending industry seminars, taking relevant [course](/wiki/best-algorithmic-trading-courses)s, and staying updated with financial news will ensure that professionals remain relevant and adaptive in this fast-paced industry.
+Finally, the hedge fund industry is continuously evolving, driven by technological innovations, regulatory changes, and market dynamics. Continual learning is not just encouraged; it's imperative. Regularly attending industry seminars, taking relevant [course](/wiki/best-algorithmic-trading-courses)s, and staying updated with financial news will ensure that professionals remain relevant and adaptive in this fast-paced industry.
 
 ## Setting the Foundation: Early Steps
 
@@ -233,7 +233,7 @@ The hedge fund industry, with its complex strategies and high stakes, offers pro
 
 But like any other esteemed profession, breaking into hedge funds requires more than just technical knowledge. It demands a genuine passion for investing, an unwavering commitment to understanding global markets, and the ability to adapt and thrive in ever-changing environments. Your journey may be paved with intense competition and rigorous challenges, but remember, the blend of thorough preparation, genuine passion for the craft, and a never-give-up attitude is the trifecta that will set you apart.
 
-By equipping yourself with the right resources, continuously seeking knowledge, and networking effectively, you set the stage for a fulfilling career in hedge funds. As you embark on this path, embrace the compl[exit](/wiki/exit-strategy)ies, savor the learning, and always strive for excellence. The world of hedge funds awaits, and with dedication and perseverance, success is not just possible—it's inevitable.
+By equipping yourself with the right resources, continuously seeking knowledge, and networking effectively, you set the stage for a fulfilling career in hedge funds. As you embark on this path, embrace the complexities, savor the learning, and always strive for excellence. The world of hedge funds awaits, and with dedication and perseverance, success is not just possible—it's inevitable.
 
 ## References & Further Reading
 

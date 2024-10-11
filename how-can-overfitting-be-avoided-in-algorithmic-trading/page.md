@@ -53,7 +53,7 @@ print(f"Validation Score: {val_score:.4f}")
 # Output may show high training accuracy yet significantly lower validation accuracy, indicating overfitting
 ```
 
-In this example, despite achieving a high training score, the significant drop in validation score demonstrates overfitting. The model is "l[earning](/wiki/earning-announcement)" noise and quirks from the training data that do not translate into predictive power for unseen data, a cautionary scenario for algorithmic traders.
+In this example, despite achieving a high training score, the significant drop in validation score demonstrates overfitting. The model is "learning" noise and quirks from the training data that do not translate into predictive power for unseen data, a cautionary scenario for algorithmic traders.
 
 
 ## Best Practices for Preventing Overfitting
@@ -103,7 +103,7 @@ Feature selection and dimensionality reduction, when applied thoughtfully, not o
 
 ## Regularization Techniques
 
-Regularization is a powerful technique used to combat overfitting in the development of trading algorithms. Overfitting occurs when a model learns the noise and idiosyncrasies of the training data rather than the underlying patterns, which can lead to poor predictive performance on unseen data. Regularization addresses this by introducing a penalty for larger model weights, which discourages compl[exit](/wiki/exit-strategy)y and encourages simplicity, leading to more generalizable models.
+Regularization is a powerful technique used to combat overfitting in the development of trading algorithms. Overfitting occurs when a model learns the noise and idiosyncrasies of the training data rather than the underlying patterns, which can lead to poor predictive performance on unseen data. Regularization addresses this by introducing a penalty for larger model weights, which discourages complexity and encourages simplicity, leading to more generalizable models.
 
 There are several types of regularization methods commonly applied, especially Lasso (Least Absolute Shrinkage and Selection Operator) and Ridge regression. Both aim to prevent overfitting but differ in their approach:
 

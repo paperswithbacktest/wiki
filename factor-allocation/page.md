@@ -63,7 +63,7 @@ $$
 
 where $w$ is the vector of weights, $\Sigma$ is the covariance matrix of factor returns, $\lambda$ is the risk aversion coefficient, and $\mu$ is the expected return vector. This approach ensures that the factor weights not only cater to targeted risk levels but also align with the investor's return expectations.
 
-Moreover, continuous monitoring and adjustment of factor weights are necessary to respond to changing market dynamics. This might involve using machine l[earning](/wiki/earning-announcement) algorithms to predict factor returns and adjust weights accordingly, thereby minimizing unexpected risk exposures.
+Moreover, continuous monitoring and adjustment of factor weights are necessary to respond to changing market dynamics. This might involve using machine learning algorithms to predict factor returns and adjust weights accordingly, thereby minimizing unexpected risk exposures.
 
 In conclusion, accurate factor weighting is a vital component of a robust algorithmic trading strategy, providing investors with the ability to manage risks effectively while striving for optimal return profiles.
 
@@ -227,7 +227,7 @@ For example, suppose an investor finds that a momentum factor is showing signs o
 
 Considering these challenges, investors should incorporate robust risk management practices. Diversification across various factors reduces reliance on any single characteristic and softens the blow of unforeseen market disruptions. Using stress tests and scenario analyses can further fortify the portfolio against extreme conditions, providing a buffer against abrupt market shocks.
 
-In summary, although factor allocation offers attractive advantages, tackling its intrinsic challenges requires vigilance, agility, and a blend of historical insights with current market contexts. By employing continuous monitoring and dynamic adjustments, investors can navigate these compl[exit](/wiki/exit-strategy)ies and achieve more resilient, risk-adjusted returns.
+In summary, although factor allocation offers attractive advantages, tackling its intrinsic challenges requires vigilance, agility, and a blend of historical insights with current market contexts. By employing continuous monitoring and dynamic adjustments, investors can navigate these complexities and achieve more resilient, risk-adjusted returns.
 
 
 ## Conclusion

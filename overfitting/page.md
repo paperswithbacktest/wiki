@@ -20,7 +20,7 @@ Overfitting is a fundamental issue in data modeling that occurs when a model lea
 
 To better understand overfitting, it's helpful to differentiate it from underfitting. Underfitting occurs when a model is too simplistic to capture the underlying trend in the data, resulting in poor performance on both training and test datasets. Conversely, overfitting happens when a model is overly complex, capturing noise as if it were a significant pattern.
 
-Consider an example of fitting a polynomial to data points. Suppose you have five data points that roughly form a quadratic curve. An underfit model might use a straight line, failing to capture the curvature present in the data. An overfit model, on the other hand, might use a high-degree polynomial that passes through each data point, including any outliers. While this high-degree polynomial provides a perfect prediction for the training data, it usually performs poorly on new data since it has effectively "memorized" the noise rather than l[earning](/wiki/earning-announcement) the underlying pattern.
+Consider an example of fitting a polynomial to data points. Suppose you have five data points that roughly form a quadratic curve. An underfit model might use a straight line, failing to capture the curvature present in the data. An overfit model, on the other hand, might use a high-degree polynomial that passes through each data point, including any outliers. While this high-degree polynomial provides a perfect prediction for the training data, it usually performs poorly on new data since it has effectively "memorized" the noise rather than learning the underlying pattern.
 
 Here’s an illustrative Python example using polynomial fitting:
 
@@ -75,7 +75,7 @@ Metrics such as the Sharpe ratio can help in identifying overfitting. The Sharpe
 
 Backtesting results provide significant insights into potential overfitting. A typical approach to detecting overfitting through backtesting is to divide the data into in-sample (training data) and out-of-sample (testing data) sets. Successful models should perform consistently on both datasets. If a model that shows outstanding performance on in-sample data exhibits poor results with out-of-sample data, it likely suffers from overfitting. Additionally, using techniques like walk-forward analysis during backtesting, where a model is continuously updated and tested on recent data, can further highlight discrepancies indicative of overfitting.
 
-In summary, signs of overfitting in algorithmic trading are manifest in model compl[exit](/wiki/exit-strategy)y, discrepancies in model accuracy across different datasets, and inflated performance metrics during backtesting. Recognizing these signs is crucial for traders to develop strategies that are not just historically profitable but also resilient in future market conditions.
+In summary, signs of overfitting in algorithmic trading are manifest in model complexity, discrepancies in model accuracy across different datasets, and inflated performance metrics during backtesting. Recognizing these signs is crucial for traders to develop strategies that are not just historically profitable but also resilient in future market conditions.
 
 
 ## Causes of Overfitting in Trading Algorithms

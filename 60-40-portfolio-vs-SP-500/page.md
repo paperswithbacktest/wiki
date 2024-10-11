@@ -116,7 +116,7 @@ Looking forward, investors might consider adapting the classic 60/40 model to al
 
 Another perspective involves rethinking asset allocation strategies altogether. Dynamic asset allocation, which adjusts the mix of stocks and bonds based on market conditions, could offer a more responsive approach to managing portfolio risk. Similarly, factor-based investing, focusing on investment factors like value, size, or [[momentum](/wiki/momentum)](https://paperswithbacktest.com/paper/fact-fiction-and-momentum-investing), may provide a more nuanced method for constructing the equity component of the portfolio.
 
-In summary, while the traditional 60/40 portfolio may no longer be the one-size-fits-all solution it once was, it is not necessarily obsolete. Instead, its principles need to be reinterpreted and adjusted in light of the current economic environment. Investors should consider a more flexible, diversified approach to asset allocation, staying attuned to market shifts and emerging investment opportunities. This adaptability will be crucial in navigating the compl[exit](/wiki/exit-strategy)ies of modern financial markets and achieving long-term investment goals.
+In summary, while the traditional 60/40 portfolio may no longer be the one-size-fits-all solution it once was, it is not necessarily obsolete. Instead, its principles need to be reinterpreted and adjusted in light of the current economic environment. Investors should consider a more flexible, diversified approach to asset allocation, staying attuned to market shifts and emerging investment opportunities. This adaptability will be crucial in navigating the complexities of modern financial markets and achieving long-term investment goals.
 
 ## Alternatives and Variations
 

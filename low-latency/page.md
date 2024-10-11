@@ -127,7 +127,7 @@ One prominent strategy centers around network-side processing, a method that off
 
 Another crucial factor in achieving ultra-low latency is the strategic investment in high-performance computing infrastructure. This includes upgrading server capabilities, deploying state-of-the-art processing units, and enhancing network infrastructure to support faster data transmission rates. For instance, firms may invest in direct fiber optic connections to trading exchanges, reducing the physical distance data must travel, thereby cutting down on latency.
 
-Additionally, algorithm optimization is critical in minimizing latency. Algorithms designed for trading must be streamlined to ensure they are executing in the shortest possible time. This involves refining code, minimizing computational compl[exit](/wiki/exit-strategy)y, and utilizing efficient data structures. Techniques such as code profiling and benchmarking are often applied to identify bottlenecks and optimize performance.
+Additionally, algorithm optimization is critical in minimizing latency. Algorithms designed for trading must be streamlined to ensure they are executing in the shortest possible time. This involves refining code, minimizing computational complexity, and utilizing efficient data structures. Techniques such as code profiling and benchmarking are often applied to identify bottlenecks and optimize performance.
 
 Firms also invest strategically in technologies such as co-location, where trading systems are physically positioned close to exchange infrastructure to minimize signal travel time. The advantage of co-location is particularly pronounced in high-frequency trading, where even microsecond delays can result in significant financial implications.
 

@@ -59,7 +59,7 @@ $\hat{C} = \arg\max_{k} P(C_k | d)$
 
 where $\hat{C}$ represents the predicted class[3].
 
-Machine L[earning](/wiki/earning-announcement) (ML) and Artificial Intelligence (AI) play a pivotal role in predictive analysis within news trading algorithms. For instance, [neural network](/wiki/neural-network)s might be employed for their capacity to learn from vast datasets and make predictions. Consider a **simple feedforward neural network**; the output $y$ is computed as
+Machine learning (ML) and Artificial Intelligence (AI) play a pivotal role in predictive analysis within news trading algorithms. For instance, [neural network](/wiki/neural-network)s might be employed for their capacity to learn from vast datasets and make predictions. Consider a **simple feedforward neural network**; the output $y$ is computed as
 
 $y = \sigma(W_2\sigma(W_1x + b_1) + b_2)$
 

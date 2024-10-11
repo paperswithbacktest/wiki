@@ -60,7 +60,7 @@ The landscape of algo trading is rapidly evolving with the advent of [alternativ
 
 3. **Satellite Imagery**: Satellite data can provide insights into economic activities and anomalies. For instance, monitoring the number of cars in retail parking lots or analyzing the amount of flaring at gas fields can hint at economic activity levels. This use of alternative datasets exemplifies the innovative strategies traders deploy to gain an informational edge.
 
-The integration of traditional and alternative sources of data provides a holistic view of market conditions, enabling more informed trading decisions. However, the compl[exit](/wiki/exit-strategy)y and [volume](/wiki/volume-trading-strategy) of data necessitate sophisticated processing techniques and powerful computing capabilities to fully exploit these diverse data sources.
+The integration of traditional and alternative sources of data provides a holistic view of market conditions, enabling more informed trading decisions. However, the complexity and [volume](/wiki/volume-trading-strategy) of data necessitate sophisticated processing techniques and powerful computing capabilities to fully exploit these diverse data sources.
 
 
 ## Challenges in Acquiring and Using Training Data
@@ -124,7 +124,7 @@ To harness the full potential of training data in algorithmic trading, adhering 
 
 Preprocessing is a crucial step in obtaining high-quality data. It involves cleaning the data to remove any noise and inconsistencies that may skew algorithmic outputs. This is particularly important in financial data, which can contain anomalies such as gaps in time series or erroneous entries due to market irregularities.
 
-Normalization is often used to scale the data into a standard range, typically between 0 and 1. This process is vital when the data will be fed into machine l[earning](/wiki/earning-announcement) models, as it ensures that all inputs are treated equally and prevents any single feature from disproportionately affecting the model’s performance.
+Normalization is often used to scale the data into a standard range, typically between 0 and 1. This process is vital when the data will be fed into machine learning models, as it ensures that all inputs are treated equally and prevents any single feature from disproportionately affecting the model’s performance.
 
 Python example for normalizing data:
 

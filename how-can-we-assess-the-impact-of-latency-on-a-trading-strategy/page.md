@@ -88,7 +88,7 @@ Co-location involves positioning trading servers within the same data centers as
 
 **Optimizing Algorithms**
 
-Algorithm optimization plays a critical role in reducing latency. One approach involves re[factor](/wiki/factor-investing)ing algorithms to reduce computational compl[exit](/wiki/exit-strategy)y, allowing faster decision-making and execution. Use advanced programming languages like C++ for speed-critical components, as these languages provide more control over hardware resources and execute commands more swiftly than interpreted languages. 
+Algorithm optimization plays a critical role in reducing latency. One approach involves re[factor](/wiki/factor-investing)ing algorithms to reduce computational complexity, allowing faster decision-making and execution. Use advanced programming languages like C++ for speed-critical components, as these languages provide more control over hardware resources and execute commands more swiftly than interpreted languages. 
 
 Here is an example code snippet in Python, showing how one might vectorize operations using NumPy to speed up algorithm components:
 

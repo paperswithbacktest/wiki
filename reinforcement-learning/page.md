@@ -36,7 +36,7 @@ $$
 Q(s, a) \leftarrow Q(s, a) + \alpha [r + \gamma \max_{a'} Q(s', a') - Q(s, a)]
 $$
 
-  Where $s$ and $s'$ are the current and next states, $a$ and $a'$ are the actions, $r$ is the reward, $\alpha$ is the l[earning](/wiki/earning-announcement) rate, and $\gamma$ is the discount [factor](/wiki/factor-investing).
+  Where $s$ and $s'$ are the current and next states, $a$ and $a'$ are the actions, $r$ is the reward, $\alpha$ is the learning rate, and $\gamma$ is the discount [factor](/wiki/factor-investing).
 
 - **Model-based RL**: Here, the agent tries to model the environment's dynamics and uses this model to make decisions. This involves predicting the next state and reward given a state-action pair. Model-based methods typically offer faster convergence to optimal policies because of their predictions, but they require accurate modeling, which can be challenging.
 
@@ -51,7 +51,7 @@ A significant advantage of RL in trading is its ability to make data-driven deci
 
 The adaptability of RL is a key differentiator from traditional algorithmic trading approaches. Traditional systems typically use static models that might struggle to adapt to the non-stationary nature of financial markets. In contrast, RL models can be designed to update their strategies as they gather new information, thereby providing a more resilient approach to market shifts.
 
-However, while RL offers innovative capabilities, it also presents unique challenges. One such challenge is the need for large datasets to train the models effectively, ensuring that the RL agent can generalize well to unseen market scenarios. Furthermore, the compl[exit](/wiki/exit-strategy)y of financial markets and the potential for overfitting demand rigorous model validation and testing.
+However, while RL offers innovative capabilities, it also presents unique challenges. One such challenge is the need for large datasets to train the models effectively, ensuring that the RL agent can generalize well to unseen market scenarios. Furthermore, the complexity of financial markets and the potential for overfitting demand rigorous model validation and testing.
 
 Comparatively, traditional algorithmic trading relies heavily on historical data analysis and predefined strategies that may not account for future market dynamics effectively. These systems might excel in stable environments but falter when unexpected market conditions arise. RL's potential lies in addressing these limitations by constantly learning and adapting, thus offering a competitive edge in the fast-paced and evolving landscape of financial markets. 
 

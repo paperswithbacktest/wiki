@@ -199,7 +199,7 @@ Customizing communication not only demonstrates an understanding of investor nee
 
 Different investors have varying levels of financial literacy and interests. Therefore, tailoring communication ensures that information is both accessible and relevant. For example, while high-net-worth individuals might be interested in projections of potential returns alongside tax implications, family offices may focus more on long-term stability and succession planning.
 
-Engagement can be further personalized by creating direct communication channels with investors. This could involve regular one-on-one meetings, investor webinars, or personalized newsletters that focus on specific areas of interest to the investor. By segmenting investors and adjusting the compl[exit](/wiki/exit-strategy)y and depth of information shared, fund managers can significantly improve investor satisfaction and loyalty.
+Engagement can be further personalized by creating direct communication channels with investors. This could involve regular one-on-one meetings, investor webinars, or personalized newsletters that focus on specific areas of interest to the investor. By segmenting investors and adjusting the complexity and depth of information shared, fund managers can significantly improve investor satisfaction and loyalty.
 
 ### Regular Updates and Transparency
 

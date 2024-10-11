@@ -148,7 +148,7 @@ These case studies highlight the importance of advanced data analysis, continuou
 
 ## Future Trends in Trading Earnings with Algorithms
 
-Algorithmic trading is undergoing continuous evolution, driven largely by technological advancements and the growing compl[exit](/wiki/exit-strategy)y of financial markets. This section explores future trends, focusing on the integration of earnings announcements into algo trading strategies.
+Algorithmic trading is undergoing continuous evolution, driven largely by technological advancements and the growing complexity of financial markets. This section explores future trends, focusing on the integration of earnings announcements into algo trading strategies.
 
 ### Technological Advancements and Their Impact
 

@@ -33,7 +33,7 @@ Algorithmic traders actively incorporate seasonal patterns into their trading st
 
 Firstly, algorithmic traders utilize historical data to identify seasonal patterns and trends. Analyzing historical price movements, trading volumes, and volatility can reveal regularities associated with specific times of the year. For instance, a common seasonal pattern is the "Sell in May and Go Away" anomaly, where stock markets tend to underperform in the six months starting May, compared to the rest of the year. By statistically analyzing past data, traders can confirm the existence of such patterns and adjust their strategies accordingly.
 
-To detect seasonality, traders use various statistical methods and machine l[earning](/wiki/earning-announcement) algorithms. One popular technique is using Fourier Transform to identify dominant cycles within a time series. Python, a favored language among quants, offers libraries such as NumPy and SciPy that facilitate such analyses:
+To detect seasonality, traders use various statistical methods and machine learning algorithms. One popular technique is using Fourier Transform to identify dominant cycles within a time series. Python, a favored language among quants, offers libraries such as NumPy and SciPy that facilitate such analyses:
 
 ```python
 import numpy as np

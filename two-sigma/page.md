@@ -27,7 +27,7 @@ By integrating technology with quantitative analysis, Two Sigma has been able to
 
 ## Technology and Trading Strategies
 
-Two Sigma Investments has carved a niche for itself in the [algorithmic trading](/wiki/algorithmic-trading) industry through its robust implementation of advanced technology, particularly artificial intelligence (AI) and machine l[earning](/wiki/earning-announcement). These technologies form the backbone of the firm's investment strategies, enabling it to analyze immense data sets rapidly and optimize trading decisions with precision.
+Two Sigma Investments has carved a niche for itself in the [algorithmic trading](/wiki/algorithmic-trading) industry through its robust implementation of advanced technology, particularly artificial intelligence (AI) and machine learning. These technologies form the backbone of the firm's investment strategies, enabling it to analyze immense data sets rapidly and optimize trading decisions with precision.
 
 The use of AI and [machine learning](/wiki/machine-learning) allows Two Sigma to discern patterns and correlations within market data that would otherwise be imperceptible. By leveraging these technologies, the firm can make informed predictions about market movements, leading to improved decision-making and ultimately, better investment returns. Machine learning models, which learn and adapt based on new data, enhance the firm’s capability to respond swiftly to changing market conditions.
 

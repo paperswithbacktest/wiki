@@ -23,7 +23,7 @@ In addition to facilitating seamless cross-border transactions, SWIFT also provi
 
 ## The Role of SWIFT in Financial Markets
 
-SWIFT, the Society for Worldwide Interbank Financial Telecommunication, is a cornerstone in facilitating global financial transactions. Despite its origin as a cooperative formed in 1973 to address the growing compl[exit](/wiki/exit-strategy)y of international payments, SWIFT has evolved into a critical infrastructure in the financial markets. It provides a secure and standardized communication platform that has become indispensable for the execution of international financial transactions.
+SWIFT, the Society for Worldwide Interbank Financial Telecommunication, is a cornerstone in facilitating global financial transactions. Despite its origin as a cooperative formed in 1973 to address the growing complexity of international payments, SWIFT has evolved into a critical infrastructure in the financial markets. It provides a secure and standardized communication platform that has become indispensable for the execution of international financial transactions.
 
 One of the primary services SWIFT offers is financial messaging. It allows financial institutions to exchange transaction-related information securely and efficiently. This service comprises various message types tailored to different transaction needs, from payments and securities to trade finance and treasury. By standardizing these messages, SWIFT ensures interoperability and consistency across the global financial ecosystem, reducing the complexity and potential for error.
 

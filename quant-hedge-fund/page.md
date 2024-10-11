@@ -170,7 +170,7 @@ Quant hedge funds, known for their sophisticated mathematical models and algorit
 
 ![Screenshot 2024-01-12 at 08.47.36.png](images/Screenshot_2024-01-12_at_08.47.36.png)
 
-In recent times, the performance of quant hedge funds has been a mixed bag. On one hand, some funds have demonstrated exceptional returns, capitalizing on market inefficiencies and anomalies detected by their complex algorithms. These successes are often attributed to advanced machine l[earning](/wiki/earning-announcement) techniques and increased computational power, allowing for more accurate predictions and efficient execution of trades.
+In recent times, the performance of quant hedge funds has been a mixed bag. On one hand, some funds have demonstrated exceptional returns, capitalizing on market inefficiencies and anomalies detected by their complex algorithms. These successes are often attributed to advanced machine learning techniques and increased computational power, allowing for more accurate predictions and efficient execution of trades.
 
 On the other hand, there are instances where quant funds have underperformed. This underperformance can be linked to several factors. Firstly, the crowded nature of trades in the quant space often leads to diminished returns, as many funds may be chasing similar strategies. Secondly, the adaptability of these funds in rapidly changing markets can be a challenge. While traditional funds can quickly shift their strategies based on human judgment, quant funds may require time to adjust their models to new market conditions.
 
@@ -266,7 +266,7 @@ As professionals progress in their careers, moving into senior roles like lead a
 
 The career path in quant hedge funds often involves a steep learning curve. Early career stages focus on technical skill development, model building, and understanding of financial markets. Mid-career roles typically involve more strategic responsibilities, including developing new trading strategies and managing larger segments of the portfolio. Senior positions often encompass a broader range of responsibilities, including fund management, strategic decision-making, and team leadership.
 
-The lifestyle in quant hedge funds can be demanding. The high-pressure environment, driven by the fast pace of financial markets and the compl[exit](/wiki/exit-strategy)y of the work, requires long hours and a high level of commitment. However, this is often balanced by intellectually rewarding work, the opportunity to work with cutting-edge technologies and methodologies, and the satisfaction of solving complex problems.
+The lifestyle in quant hedge funds can be demanding. The high-pressure environment, driven by the fast pace of financial markets and the complexity of the work, requires long hours and a high level of commitment. However, this is often balanced by intellectually rewarding work, the opportunity to work with cutting-edge technologies and methodologies, and the satisfaction of solving complex problems.
 
 Additionally, the field offers substantial opportunities for personal and professional growth. As technology and financial markets evolve, professionals in this space must continually learn and adapt, making it an exciting field for those who thrive on challenge and innovation.
 

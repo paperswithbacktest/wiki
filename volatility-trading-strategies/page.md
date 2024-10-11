@@ -197,7 +197,7 @@ Volatility trading software and technologies have evolved to enable traders to m
 
 For those seeking to deep dive deeper into the technical aspects of these indicators, "Trading Volatility: Trading Volatility, Correlation, Term Structure and Skew" by Colin Bennett provides a wealth of information on volatility products and trading strategies[4].
 
-By leveraging these indicators and tools, traders can better navigate the compl[exit](/wiki/exit-strategy)ies of market volatility. It’s the nuanced understanding of each indicator's strengths and limitations that can give traders an edge in developing robust volatility trading strategies.
+By leveraging these indicators and tools, traders can better navigate the complexities of market volatility. It’s the nuanced understanding of each indicator's strengths and limitations that can give traders an edge in developing robust volatility trading strategies.
 
 ## Risk Management in Volatility Trading
 

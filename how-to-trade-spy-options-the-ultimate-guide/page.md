@@ -213,7 +213,7 @@ Swing trading involves holding a position for several days to weeks, capitalizin
 - **Straddle**: Purchase a call and put at the same strike price and expiration. This strategy is profitable when SPY moves significantly, regardless of the direction.
 - **Iron Butterfly**: Similar to the Iron Condor but with sold call and put options at the same strike. The purchased call and put are further out-of-the-money. This strategy profits in a narrow price range but can have limited losses in case of significant movement.
 
-In all these strategies, [risk management](https://blog.paperswithbacktest.com/p/[backtesting](/wiki/backtesting)-a-trading-strategy-on) is paramount. Position sizing, setting stop-losses, and understanding the maximum potential loss can prevent devastating blows to your trading account. And, as always, continuous l[earning](/wiki/earning-announcement) and practice will help refine these strategies for better outcomes.
+In all these strategies, [risk management](https://blog.paperswithbacktest.com/p/[backtesting](/wiki/backtesting)-a-trading-strategy-on) is paramount. Position sizing, setting stop-losses, and understanding the maximum potential loss can prevent devastating blows to your trading account. And, as always, continuous learning and practice will help refine these strategies for better outcomes.
 
 ## Advantages and Risks
 

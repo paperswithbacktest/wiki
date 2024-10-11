@@ -59,7 +59,7 @@ Market structures play a vital role in price formation and discovery, which are 
 
 Each market structure holds unique implications for algorithmic trading strategies. The auction model allows for strategies focused on exploiting market depth and liquidity, such as market-making, where algorithms provide liquidity by simultaneously posting buy and sell orders to profit from the bid-ask spread. Additionally, [momentum](/wiki/momentum)-based strategies, which capitalize on short-term price trends, thrive in the auction environment due to faster price adjustments.
 
-In the negotiation model, algorithmic trading might emphasize machine l[earning](/wiki/earning-announcement) and [artificial intelligence](/wiki/ai-artificial-intelligence) to assess counterparty behavior and optimize bargaining strategies. These algorithms need to be sophisticated enough to interpret historical data and predict counterparty actions, potentially providing a competitive edge in low-frequency trades.
+In the negotiation model, algorithmic trading might emphasize machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence) to assess counterparty behavior and optimize bargaining strategies. These algorithms need to be sophisticated enough to interpret historical data and predict counterparty actions, potentially providing a competitive edge in low-frequency trades.
 
 The posted pricing model aligns well with strategies that hinge on statistical [arbitrage](/wiki/arbitrage) and pairs trading. Algorithms can analyze static pricing data to identify discrepancies or patterns that indicate profitable trading opportunities without the necessity of continuous price monitoring.
 

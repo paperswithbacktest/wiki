@@ -18,7 +18,7 @@ Quantitative trading, commonly known as quant trading, utilizes mathematical mod
 
 The underlying principle of quant trading is to exploit minimal market inefficiencies by leveraging computational prowess. This requires comprehensive models, often based on past market behaviors and statistical methods, to predict future price movements. Central to this method is the use of algorithms that can automate the trading process, allowing for rapid decision-making that human traders cannot achieve manually.
 
-Quant traders build strategies through mathematical models that transform historical market data into actionable insights. These models often incorporate various statistical techniques, such as regression analysis, time series analysis, and machine l[earning](/wiki/earning-announcement) algorithms, to detect patterns and correlations in the data.
+Quant traders build strategies through mathematical models that transform historical market data into actionable insights. These models often incorporate various statistical techniques, such as regression analysis, time series analysis, and machine learning algorithms, to detect patterns and correlations in the data.
 
 A simple example is the utilization of a moving average, where traders might observe if the current price level of a security deviates significantly from its average price over a specific period. The formula for a simple moving average (SMA) for a security can be expressed as:
 

@@ -147,7 +147,7 @@ These real-world examples provide a tangible understanding of market makers' rol
 
 Market making, while rooted in ancient financial practices, is far from static. As technology evolves, so too does the landscape of market making, promising enhanced efficiencies but also bringing along new challenges.
 
-The acceleration of technology in finance, particularly the use of **Artificial Intelligence (AI) and Machine L[earning](/wiki/earning-announcement) (ML)**, is at the forefront of the market making evolution. AI and ML have the potential to analyze vast amounts of data far quicker and more accurately than humans. As a result, predictive models for price movements can be more precise, allowing market makers to set tighter bid-ask spreads and manage risks more effectively.
+The acceleration of technology in finance, particularly the use of **Artificial Intelligence (AI) and Machine learning (ML)**, is at the forefront of the market making evolution. AI and ML have the potential to analyze vast amounts of data far quicker and more accurately than humans. As a result, predictive models for price movements can be more precise, allowing market makers to set tighter bid-ask spreads and manage risks more effectively.
 
 Decentralized finance (DeFi) also represents a seismic shift in the world of market making. With the growth of **Automated Market Makers (AMMs)** on decentralized exchanges, traditional market makers find themselves competing with algorithms on platforms like Uniswap or Balancer. These platforms operate 24/7 and can provide liquidity across a myriad of assets, sometimes outcompeting traditional venues in terms of volume.
 

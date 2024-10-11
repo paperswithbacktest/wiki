@@ -30,7 +30,7 @@ The assembly of a systematic trading team requires a strategic selection of prof
 
 Quantitative analysts are the backbone of model-driven trading strategies. Their primary responsibility is to develop, test, and refine quantitative models that can identify trading opportunities. Using mathematical techniques and statistical analysis, they build models to predict price movements or assess risk. These professionals often possess a strong background in mathematics, [statistics](/wiki/bayesian-statistics), and programming.
 
-Data scientists complement quants by leveraging big data and machine l[earning](/wiki/earning-announcement) techniques to enhance trading models. They extract insights from large datasets, often implementing algorithms that can process and interpret diverse financial data sources in real-time. Skills in programming languages such as Python, along with expertise in [machine learning](/wiki/machine-learning) libraries like TensorFlow or Scikit-learn, are highly valuable.
+Data scientists complement quants by leveraging big data and machine learning techniques to enhance trading models. They extract insights from large datasets, often implementing algorithms that can process and interpret diverse financial data sources in real-time. Skills in programming languages such as Python, along with expertise in [machine learning](/wiki/machine-learning) libraries like TensorFlow or Scikit-learn, are highly valuable.
 
 2. **Software Developers and IT Specialists**
 
@@ -51,7 +51,7 @@ Experienced traders are indispensable for the execution and management of trades
 
 Legal and compliance experts are equally critical as they safeguard the fund against the evolving regulatory landscape. These professionals ensure that the trading activities and data practices adhere to regional and international laws. Their role involves regular audits, risk assessments, and compliance training, which are vital for maintaining the integrity and reputation of the hedge fund. As regulations like MiFID II and the Dodd-Frank Act continue to impact trading operations, the expertise of compliance specialists becomes crucial in preemptively identifying potential legal pitfalls and implementing corrective measures.
 
-In conclusion, the synergy between portfolio managers, experienced traders, and compliance experts forms a robust foundation for a systematic trading team. Together, they navigate the compl[exit](/wiki/exit-strategy)ies of risk management, strategy execution, and regulatory compliance, ensuring that the hedge fund operates smoothly and efficiently in the dynamic financial markets.
+In conclusion, the synergy between portfolio managers, experienced traders, and compliance experts forms a robust foundation for a systematic trading team. Together, they navigate the complexities of risk management, strategy execution, and regulatory compliance, ensuring that the hedge fund operates smoothly and efficiently in the dynamic financial markets.
 
 
 ## Defining the Skill Set Required for Each Role

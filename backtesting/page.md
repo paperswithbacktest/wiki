@@ -23,7 +23,7 @@ Historically, [backtesting](/wiki/backtesting) as a concept has deep roots, but 
 
 The evolution of backtesting is intrinsically linked to the broader shifts in the trading world. The proliferation of [algorithmic trading](/wiki/algorithmic-trading), where computers are programmed to execute trades based on a set of predefined criteria, further underscored the importance of backtesting. As markets became more competitive and margins thinner, the need for robust, evidence-based strategies became paramount. Backtesting, with its ability to provide empirical evidence on a strategy's merits, naturally found its place at the heart of this new trading paradigm.
 
-In essence, backtesting has grown from manual chart plotting to an indispensable tool in the modern trader's arsenal, helping navigate the compl[exit](/wiki/exit-strategy)ies of today's financial markets with greater confidence and precision.
+In essence, backtesting has grown from manual chart plotting to an indispensable tool in the modern trader's arsenal, helping navigate the complexities of today's financial markets with greater confidence and precision.
 
 ## The Mechanics of Backtesting
 
@@ -154,7 +154,7 @@ Downsampling is a way to reduce the amount of data used to fit the ML algorithm 
 
 **Event-Based Sampling**
 
-Portfolio managers make investment decisions after significant events occur, such as changes in market conditions or economic indicators. These events are used to train machine l[earning](/wiki/earning-announcement) algorithms to predict future outcomes. If the algorithm is not accurate, the definition of a significant event may need to be adjusted or alternative features considered.
+Portfolio managers make investment decisions after significant events occur, such as changes in market conditions or economic indicators. These events are used to train machine learning algorithms to predict future outcomes. If the algorithm is not accurate, the definition of a significant event may need to be adjusted or alternative features considered.
 
 In financial time series, the signal-to-noise ratio is usually low. Using the entire dataset can cause the model to focus too much on noisy samples and not enough on informative ones. Downsampling can improve the signal-to-noise ratio, but randomly doing so is not effective as it doesn't change the ratio of noisy to informative samples. A better solution is to apply a CUSUM filter, which only creates a sample when the next values deviate sufficiently from the previous value.
 

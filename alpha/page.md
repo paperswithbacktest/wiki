@@ -103,7 +103,7 @@ To achieve an optimal portfolio, investors often seek to maximize Alpha while ma
 
 ## Applications of Alpha in Risk Management
 
-Alpha is a crucial metric not only for assessing performance but also for navigating the compl[exit](/wiki/exit-strategy)ies of risk management in investment portfolios. As investors evaluate whether the returns on their investments justify the risk exposure, Alpha provides essential insights by highlighting the value added or lost due to active management.
+Alpha is a crucial metric not only for assessing performance but also for navigating the complexities of risk management in investment portfolios. As investors evaluate whether the returns on their investments justify the risk exposure, Alpha provides essential insights by highlighting the value added or lost due to active management.
 
 Incorporating Alpha into risk management involves evaluating a fund's returns relative to the risks undertaken, specifically after accounting for fees and other expenses. A positive Alpha suggests that a fund or portfolio manager has delivered returns beyond those predicted by market movements alone, indicating effective risk management. Conversely, a negative Alpha can serve as a warning that the risk is not yielding adequate returns.
 

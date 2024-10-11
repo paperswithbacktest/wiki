@@ -164,7 +164,7 @@ Moreover, the complexity of algorithmic models themselves can introduce operatio
 
 Model risk refers to the potential for losses due to inaccuracies or inadequacies in the algorithmic models. These algorithms often employ strategies based on historical data, which may not adequately predict future market conditions. For instance, if an algorithm heavily depends on a particular economic indicator, any abnormal market behavior related to that indicator might lead to misjudgment in trading decisions.
 
-To manage model risk, continuous evaluation and recalibration of algorithms are vital. Regular [backtesting](/wiki/backtesting) against updated historical data can help in understanding how algorithms might perform under different market scenarios. Additionally, incorporating machine l[earning](/wiki/earning-announcement) approaches allows algorithms to adapt to new patterns, which may mitigate some forms of model risk.
+To manage model risk, continuous evaluation and recalibration of algorithms are vital. Regular [backtesting](/wiki/backtesting) against updated historical data can help in understanding how algorithms might perform under different market scenarios. Additionally, incorporating machine learning approaches allows algorithms to adapt to new patterns, which may mitigate some forms of model risk.
 
 **Legal and Ethical Considerations in Algorithmic Trading**
 

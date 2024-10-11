@@ -18,7 +18,7 @@ Drawing from the lessons of the financial crisis, the founders of High-Flyer env
 
 Based in Hangzhou, Zhejiang—a city known for its tech innovation and entrepreneurial spirit—High-Flyer quickly established itself as a formidable force in quantitative trading. The firm's strategic location in a tech-savvy area provided access to a pool of skilled talent and facilitated collaborations with tech companies and academic institutions. This advantageous position enabled High-Flyer to scale its operations and capture significant market share, becoming one of China's largest quantitative funds in record time.
 
-High-Flyer's foundational years were marked by a focus on blending academic rigor with practical application. This blend allowed them to develop proprietary trading algorithms that leveraged AI and machine l[earning](/wiki/earning-announcement) techniques, setting them apart from competitors. By harnessing the power of technology, High-Flyer not only optimized trading strategies but also mitigated risks, aligning with their founding vision of revolutionizing trading through innovation.
+High-Flyer's foundational years were marked by a focus on blending academic rigor with practical application. This blend allowed them to develop proprietary trading algorithms that leveraged AI and machine learning techniques, setting them apart from competitors. By harnessing the power of technology, High-Flyer not only optimized trading strategies but also mitigated risks, aligning with their founding vision of revolutionizing trading through innovation.
 
 As High-Flyer gained recognition, it attracted significant investments and interest from industry stakeholders. This [momentum](/wiki/momentum) validated the founders' belief in the potential of [algorithmic trading](/wiki/algorithmic-trading), cementing High-Flyer's reputation as a pioneering entity in China's evolving financial landscape. The firm's rapid ascent underscored the effectiveness of their innovative strategies and commitment to leveraging technology to navigate and lead the future of trading.
 
@@ -42,7 +42,7 @@ Another challenge High-Flyer encountered was the rapid expansion of its assets u
 
 Furthermore, High-Flyer dealt with legal challenges, epitomized by a 2023 lawsuit concerning intellectual property rights. Competitors alleged that High-Flyer had infringed upon proprietary technology, which could threaten the firm's reputation and competitive edge. However, High-Flyer successfully defended against these claims, maintaining their stance and securing a favorable outcome. This legal victory was crucial not only for the firm’s reputation but also for asserting its independence and proprietary innovation in quantitative trading technologies.
 
-These challenges, from operational missteps to legal battles, underline the compl[exit](/wiki/exit-strategy)ies faced by High-Flyer in its pursuit of industry leadership. Despite these setbacks, the firm demonstrated resilience and strategic foresight, securing its place as a formidable entity in the algorithmic trading sector.
+These challenges, from operational missteps to legal battles, underline the complexities faced by High-Flyer in its pursuit of industry leadership. Despite these setbacks, the firm demonstrated resilience and strategic foresight, securing its place as a formidable entity in the algorithmic trading sector.
 
 
 ## Commitment to Innovation and Social Responsibility

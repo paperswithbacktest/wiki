@@ -84,7 +84,7 @@ Value investing focuses on identifying undervalued stocks with strong fundamenta
 
 One common myth regarding long short equity compared to value investing is that the former solely aims for quick profits through shorting, which disregards value fundamentals. However, many long short portfolios integrate value investing principles by shorting stocks deemed overvalued or technically weak, effectively capturing inefficiencies on both sides of the market.
 
-Long short strategies offer greater flexibility, potentially enhancing returns during market corrections by identifying and taking advantage of both misvalued opportunities and overvalued risks, something value investors might miss due to a predominant focus on long positions. However, the compl[exit](/wiki/exit-strategy)y and execution challenges of managing both long and short book trades need adept management skills and sophisticated market analysis.
+Long short strategies offer greater flexibility, potentially enhancing returns during market corrections by identifying and taking advantage of both misvalued opportunities and overvalued risks, something value investors might miss due to a predominant focus on long positions. However, the complexity and execution challenges of managing both long and short book trades need adept management skills and sophisticated market analysis.
 
 In summary, while each strategy has its merits and is suited for different investor goals and market conditions, the long short equity approach offers a dynamic framework adaptable to varying market cycles, enabling risk management and alpha generation curtailed to the investor’s strategic insight and risk appetite.
 

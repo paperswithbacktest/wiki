@@ -56,7 +56,7 @@ The phrase "garbage in, garbage out" stands true, especially in the realm of bac
 
 **Hardware and Software Considerations**
 
-The computational power required for backtesting can vary significantly based on the compl[exit](/wiki/exit-strategy)y of the strategy and the granularity of the data. Simple strategies tested over daily data might be adequately backtested using Excel[2]. However, sophisticated strategies, especially those involving high-frequency trading, demand high-end computational resources, sometimes even cloud-based simulations, to ensure timely processing of vast data volumes. On the software front, tools range from platform-specific software like MetaTrader for [forex](/wiki/forex-system) trading to programming languages like Python, which offers flexibility and can be integrated with powerful backtesting libraries[3].
+The computational power required for backtesting can vary significantly based on the complexity of the strategy and the granularity of the data. Simple strategies tested over daily data might be adequately backtested using Excel[2]. However, sophisticated strategies, especially those involving high-frequency trading, demand high-end computational resources, sometimes even cloud-based simulations, to ensure timely processing of vast data volumes. On the software front, tools range from platform-specific software like MetaTrader for [forex](/wiki/forex-system) trading to programming languages like Python, which offers flexibility and can be integrated with powerful backtesting libraries[3].
 
 **Human Oversight**
 
@@ -318,7 +318,7 @@ In the realm of backtesting, various tools and platforms have emerged, each offe
 - **Advantages**: Robust features, excellent data integration, and dedicated support. They often allow both backtesting and automated trading, offering a one-stop solution.
 - **Limitations**: Costs can add up, especially with monthly or annual subscriptions. Some platforms use proprietary scripting languages, which means traders have to invest time in learning a new system.
 
-In conclusion, the best platform often hinges on the trader's specific needs, expertise, and budget. While proprietary platforms might offer out-of-the-box solutions, open-source tools provide flexibility and customization at the cost of a steeper l[earning](/wiki/earning-announcement) curve.
+In conclusion, the best platform often hinges on the trader's specific needs, expertise, and budget. While proprietary platforms might offer out-of-the-box solutions, open-source tools provide flexibility and customization at the cost of a steeper learning curve.
 
 ## The Art and Science of Backtesting
 

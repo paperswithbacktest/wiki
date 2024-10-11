@@ -209,7 +209,7 @@ Day trading with ETFs requires a strategic approach that involves careful select
 
 For a deeper understanding of [day trading](/wiki/day-trading-spy) ETFs, the book "High Probability Trading Strategies: Entry to Exit Tactics for the Forex, Futures, and Stock Markets" by Robert C. Miner provides valuable insights. It covers essential aspects of market analysis and trade execution, which are fundamental in navigating the complexities of day trading with ETFs.
 
-In summary, successful day trading in ETFs demands a blend of careful ETF selection, rigorous market and technical analysis, strategic planning of entry and exit points, disciplined risk management, and ongoing l[earning](/wiki/earning-announcement). The principles outlined in Robert C. Miner's book can further enhance one's understanding and proficiency in this trading domain.
+In summary, successful day trading in ETFs demands a blend of careful ETF selection, rigorous market and technical analysis, strategic planning of entry and exit points, disciplined risk management, and ongoing learning. The principles outlined in Robert C. Miner's book can further enhance one's understanding and proficiency in this trading domain.
 
 ### Risk Management
 

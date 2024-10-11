@@ -256,7 +256,7 @@ Incorporating these libraries into your trading strategy not only expedites the 
 
 ### Machine Learning and Advanced Predictive Models
 
-In the ever-evolving landscape of quantitative finance, machine l[earning](/wiki/earning-announcement) stands at the forefront, offering tools and techniques to extract patterns and make predictions. Python, given its rich ecosystem, has become the go-to language for implementing [machine learning](/wiki/machine-learning) in trading strategies.
+In the ever-evolving landscape of quantitative finance, machine learning stands at the forefront, offering tools and techniques to extract patterns and make predictions. Python, given its rich ecosystem, has become the go-to language for implementing [machine learning](/wiki/machine-learning) in trading strategies.
 
 **scikit-learn**
 

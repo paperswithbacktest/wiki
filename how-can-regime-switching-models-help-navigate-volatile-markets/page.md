@@ -97,7 +97,7 @@ In practice, these models have found applications across various asset classes a
 
 Consider a regime-switching model applied to stock market indices, where it identifies two primary regimes: a "calm" regime with an expected return of 5% and volatility of 10%, and a "turbulent" regime returning -2% with volatility of 30%. By estimating the probability of the market being in the turbulent regime at any given time, investment strategies can be dynamically adjusted to hedge against anticipated losses during volatile periods.
 
-Overall, by providing a structured and probabilistic framework to comprehend and predict market volatility, regime-switching models present a compelling methodology for investors to harness in order to navigate the compl[exit](/wiki/exit-strategy)ies of financial markets effectively.
+Overall, by providing a structured and probabilistic framework to comprehend and predict market volatility, regime-switching models present a compelling methodology for investors to harness in order to navigate the complexities of financial markets effectively.
 
 
 ## Benefits of Using Regime-Switching Models
@@ -123,7 +123,7 @@ Another limitation lies in the assumptions inherent to these models. Many regime
 
 Parameter estimation poses an additional challenge, as it requires precise calibration and monitoring. Small errors in parameter estimation can lead to significant deviations in forecasts, undermining the model's reliability.
 
-To mitigate these challenges, practitioners can adopt several strategies. Enhancing computational techniques through parallel processing or leveraging cloud computing resources can alleviate computational constraints. Similarly, the use of robust statistical methods and machine l[earning](/wiki/earning-announcement) techniques can improve parameter estimation and accommodate model complexity.
+To mitigate these challenges, practitioners can adopt several strategies. Enhancing computational techniques through parallel processing or leveraging cloud computing resources can alleviate computational constraints. Similarly, the use of robust statistical methods and machine learning techniques can improve parameter estimation and accommodate model complexity.
 
 Furthermore, validating model assumptions with empirical data and incorporating expert judgment or economic indicators can refine regime identification and enhance model robustness. By continuously updating the model with new data, practitioners can maintain its relevance and accuracy over time.
 

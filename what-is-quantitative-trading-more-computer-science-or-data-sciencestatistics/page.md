@@ -30,14 +30,14 @@ Algorithm development is the stage where traders design and create mathematical 
 
 Execution refers to the implementation of these trading strategies in live markets. It requires robust systems capable of executing trades quickly and efficiently, often within milliseconds, to take advantage of transient market opportunities. This involves not only the execution of trades but also the management of risk and the monitoring of market conditions in real-time.
 
-Quantitative trading systems emphasize automation to manage the compl[exit](/wiki/exit-strategy)y and speed required in modern financial markets. By combining sophisticated data analysis with advanced algorithms and efficient execution, quantitative trading has transformed the landscape of trading, providing tools to exploit market inefficiencies with precision and scale.
+Quantitative trading systems emphasize automation to manage the complexity and speed required in modern financial markets. By combining sophisticated data analysis with advanced algorithms and efficient execution, quantitative trading has transformed the landscape of trading, providing tools to exploit market inefficiencies with precision and scale.
 
 
 ## The Role of Computer Science in Quantitative Trading
 
 Quantitative trading benefits significantly from the innovations and methodologies native to computer science, particularly in the areas of algorithm development and trading system implementation. At its core, quantitative trading relies on precise and efficient code to execute trades at high speed and optimal accuracy. Programming languages such as Python and C++ play a vital role in this context.
 
-Python is favored for its ease of use, versatility, and rich ecosystem of libraries and frameworks that are particularly useful in data analysis and machine l[earning](/wiki/earning-announcement). The powerful libraries such as NumPy and pandas facilitate numerical computations and data manipulation, which are crucial in [backtesting](/wiki/backtesting) trading strategies and processing large datasets. Moreover, Python’s [machine learning](/wiki/machine-learning) libraries like scikit-learn and TensorFlow allow for implementing sophisticated models that can adapt and evolve based on market conditions.
+Python is favored for its ease of use, versatility, and rich ecosystem of libraries and frameworks that are particularly useful in data analysis and machine learning. The powerful libraries such as NumPy and pandas facilitate numerical computations and data manipulation, which are crucial in [backtesting](/wiki/backtesting) trading strategies and processing large datasets. Moreover, Python’s [machine learning](/wiki/machine-learning) libraries like scikit-learn and TensorFlow allow for implementing sophisticated models that can adapt and evolve based on market conditions.
 
 ```python
 import numpy as np

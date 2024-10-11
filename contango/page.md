@@ -33,7 +33,7 @@ Algorithmic trading strategies have the potential to effectively leverage contan
 
 ### Role of Algorithms in Identifying and Exploiting Contango Situations
 
-Algorithms play a crucial role in detecting contango by continuously analyzing vast amounts of market data to identify pricing patterns and anomalies. These algorithms use statistical models, machine l[earning](/wiki/earning-announcement) techniques, and predefined rules to assess futures curves and determine the presence of contango. For instance, by evaluating the spread between different futures contracts and the expected spot price, algorithms can signal when the market is in contango.
+Algorithms play a crucial role in detecting contango by continuously analyzing vast amounts of market data to identify pricing patterns and anomalies. These algorithms use statistical models, machine learning techniques, and predefined rules to assess futures curves and determine the presence of contango. For instance, by evaluating the spread between different futures contracts and the expected spot price, algorithms can signal when the market is in contango.
 
 Once a contango situation is identified, algorithmic strategies are capable of executing trades with precision and speed. These strategies often involve simultaneously holding long positions in short-term futures contracts while taking short positions in longer-term contracts, profiting from the differential as the contracts converge towards the spot price over time.
 

@@ -32,7 +32,7 @@ Where:
 
 The origins of Bayesian [statistics](/wiki/bayesian-statistics) trace back to Reverend Thomas Bayes, who postulated Bayes' theorem in the 18th century. However, the Bayesian approach didn't gain significant traction until the 20th century, primarily due to computational limitations. With the advent of powerful computers and algorithms in the latter part of the 20th century, the practical applications of Bayesian methods exploded.
 
-Today, Bayesian statistics plays a pivotal role in various fields. From machine l[earning](/wiki/earning-announcement) to medical research, Bayesian methods provide a flexible framework for understanding complex phenomena and making predictions. Its ability to incorporate prior knowledge and continuously update beliefs with new data makes it particularly valuable in the era of big data.
+Today, Bayesian statistics plays a pivotal role in various fields. From machine learning to medical research, Bayesian methods provide a flexible framework for understanding complex phenomena and making predictions. Its ability to incorporate prior knowledge and continuously update beliefs with new data makes it particularly valuable in the era of big data.
 
 **Comparison Between Bayesian and Frequentist Approaches**
 
@@ -254,7 +254,7 @@ Another scenario could involve monitoring a machine's performance over time. If 
 
 In both cases, as more data is observed, the Bayesian approach allows for consistent updating of beliefs, refining the model's understanding of the underlying distribution or process.
 
-In essence, Bayesian inference over possibilities is about selecting the right model compl[exit](/wiki/exit-strategy)y given the data at hand and the questions of interest, ensuring that the conclusions drawn are both robust and flexible.
+In essence, Bayesian inference over possibilities is about selecting the right model complexity given the data at hand and the questions of interest, ensuring that the conclusions drawn are both robust and flexible.
 
 ### Formal Description and Definitions
 

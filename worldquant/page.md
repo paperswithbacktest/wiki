@@ -25,7 +25,7 @@ Igor Tulchinsky’s leadership has been pivotal in shaping WorldQuant's journey.
 
 ## Algorithmic Trading at WorldQuant
 
-WorldQuant has carved a niche for itself in the [quantitative trading](/wiki/quantitative-trading) domain by employing sophisticated statistical data analysis and computation. Central to its strategy is the creation of 'alphas'—predictive signals or models designed to forecast market movements and inform trading decisions. These alphas are generated through rigorous data analysis, employing machine l[earning](/wiki/earning-announcement) techniques and historical data evaluation, which helps in capturing inefficiencies in the market.
+WorldQuant has carved a niche for itself in the [quantitative trading](/wiki/quantitative-trading) domain by employing sophisticated statistical data analysis and computation. Central to its strategy is the creation of 'alphas'—predictive signals or models designed to forecast market movements and inform trading decisions. These alphas are generated through rigorous data analysis, employing machine learning techniques and historical data evaluation, which helps in capturing inefficiencies in the market.
 
 The company's 'Alpha Factory' is a testament to its commitment to innovation in trading strategies, housing over 4 million alphas. This expansive library of models is the result of continuous research and development efforts, allowing WorldQuant to effectively capitalize on market opportunities and manage risks. Each alpha undergoes a validation process to ensure it meets the firm’s stringent performance criteria, including profitability, statistical significance, and robustness across varied market conditions.
 

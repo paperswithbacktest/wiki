@@ -213,7 +213,7 @@ Investors looking to incorporate digital assets into their All Weather Portfolio
 
 ## Advanced Techniques and Adjustments
 
-Incorporating advanced techniques and adjustments such as leverage and alternative assets can potentially amplify the returns of an All Weather Portfolio, albeit with added compl[exit](/wiki/exit-strategy)ies and risks.
+Incorporating advanced techniques and adjustments such as leverage and alternative assets can potentially amplify the returns of an All Weather Portfolio, albeit with added complexities and risks.
 
 Leverage, when used judiciously, can magnify an investor’s exposure to certain asset classes within an All Weather Portfolio. For instance, using leveraged ETFs or margin borrowing to increase exposure to bonds or equities can boost potential upside during favorable market conditions. However, leverage can also amplify losses, making the portfolio more susceptible to volatility. It's vital to assess the cost of leverage, including borrowing costs and the potential for margin calls, which can force liquidation at inopportune times. The work of economists like Robert Shiller, who have extensively studied market volatility, can offer insights into the judicious use of leverage in portfolio construction.
 
@@ -223,7 +223,7 @@ When incorporating alternative assets, it’s also important to consider the lon
 
 ## The Future of All Weather Investing
 
-Global finance is poised to see increased integration of AI and machine l[earning](/wiki/earning-announcement), potentially leading to more sophisticated investment models. The All Weather strategy will likely evolve, utilizing AI to fine-tune asset allocation by analyzing vast datasets that cover economic indicators, market trends, sentiment analysis, and even geopolitical events. AI algorithms excel at identifying complex, non-linear patterns within data that are imperceptible to humans, which could be instrumental in optimizing asset allocation for better risk-adjusted returns.
+Global finance is poised to see increased integration of AI and machine learning, potentially leading to more sophisticated investment models. The All Weather strategy will likely evolve, utilizing AI to fine-tune asset allocation by analyzing vast datasets that cover economic indicators, market trends, sentiment analysis, and even geopolitical events. AI algorithms excel at identifying complex, non-linear patterns within data that are imperceptible to humans, which could be instrumental in optimizing asset allocation for better risk-adjusted returns.
 
 Machine learning can provide ongoing optimization of an All Weather Portfolio, dynamically adjusting to market conditions much more quickly than traditional methods. For example, during periods of sudden market stress or euphoria, [machine learning](/wiki/machine-learning) models can potentially recalibrate the asset mix to mitigate losses or capture upside, respectively, based on predictive analytics.
 

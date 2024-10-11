@@ -20,7 +20,7 @@ When selecting software for quantitative trading, it's essential to assess sever
 
 Speed is another vital [factor](/wiki/factor-investing), particularly in environments where milliseconds can make the difference between profit and loss. Software that prioritizes low-latency data feed integrations and order execution can provide a competitive edge. The capability to seamlessly integrate with market data feeds ensures real-time data accuracy and enables precise decision-making.
 
-Customization is crucial since many traders rely on proprietary models tailored to their unique strategies. Look for software that offers flexibility in customizing algorithms, indicators, and trading rules. This is especially important for sophisticated strategies that leverage machine l[earning](/wiki/earning-announcement) or other advanced techniques.
+Customization is crucial since many traders rely on proprietary models tailored to their unique strategies. Look for software that offers flexibility in customizing algorithms, indicators, and trading rules. This is especially important for sophisticated strategies that leverage machine learning or other advanced techniques.
 
 Moreover, different software solutions emphasize distinct functionalities such as [backtesting](/wiki/backtesting), live trading, or strategy development. For instance, some platforms may excel in backtesting capabilities, allowing traders to simulate strategies using historical data before committing capital. Others might focus on live trading infrastructure to enhance execution reliability under high-frequency trading conditions.
 

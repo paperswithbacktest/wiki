@@ -33,7 +33,7 @@ Overall, algorithmic stock picking represents a significant evolution in investm
 
 Algorithmic trading, often referred to as algo trading, leverages computer programs and algorithms to execute trades at speeds and frequencies that are impossible for humans. The benefits over traditional trading are significant, including increased speed, accuracy, and the ability to process vast amounts of data in real-time. One of the key advantages is the reduction of human error and emotional bias, which can lead to more consistent and objective trading decisions.
 
-Algorithms used in financial markets vary greatly in compl[exit](/wiki/exit-strategy)y and purpose. They can be categorized into different types, including but not limited to:
+Algorithms used in financial markets vary greatly in complexity and purpose. They can be categorized into different types, including but not limited to:
 
 1. **Trend-following algorithms**: These algorithms identify and capitalize on market trends and are typically based on technical analysis indicators such as moving averages or momentum oscillators.
 

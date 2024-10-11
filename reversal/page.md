@@ -32,7 +32,7 @@ Numerous algorithms and strategies are utilized in [algorithmic trading](/wiki/a
 
 **Data and technology** are pivotal in the evolution and proliferation of algorithmic trading. The availability of high-speed internet and sophisticated computational resources has empowered traders to process enormous datasets and execute complex algorithms swiftly. Historical and real-time market data facilitate backtesting and optimization, allowing traders to refine their strategies before live implementation. 
 
-Furthermore, technological advancements have introduced machine l[earning](/wiki/earning-announcement) and [artificial intelligence](/wiki/ai-artificial-intelligence) into the mix, enabling the development of adaptive algorithms that learn from new data patterns and adjust trading strategies dynamically. These systems can efficiently handle non-linear relationships in market data, offering a new frontier for innovation in trading strategies. 
+Furthermore, technological advancements have introduced machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence) into the mix, enabling the development of adaptive algorithms that learn from new data patterns and adjust trading strategies dynamically. These systems can efficiently handle non-linear relationships in market data, offering a new frontier for innovation in trading strategies. 
 
 Overall, algorithmic trading represents a paradigm shift in how trades are executed, dictated largely by advancements in technology and data analytics capabilities. The landscape is ever-evolving, promising greater integration of sophisticated data processing methods and [machine learning](/wiki/machine-learning) techniques in the future.
 

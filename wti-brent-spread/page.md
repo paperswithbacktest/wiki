@@ -35,7 +35,7 @@ Conversely, in the mid-2010s, the spread narrowed again as U.S. export restricti
 
 The historical analysis is not just a reflection of past price movements but also a contextual study that incorporates the impact of events such as wars, natural disasters, and policy changes. Each peak and trough tells a story of disruption and adaptation within the oil markets.
 
-For a comprehensive understanding, traders often refer to seminal works such as "The Pricing of Crude Oil" by Bassam Fattouh, which delves into the compl[exit](/wiki/exit-strategy)ies of oil benchmarks and their pricing mechanisms, offering insights into the intricacies of the WTI-Brent spread over time[1].
+For a comprehensive understanding, traders often refer to seminal works such as "The Pricing of Crude Oil" by Bassam Fattouh, which delves into the complexities of oil benchmarks and their pricing mechanisms, offering insights into the intricacies of the WTI-Brent spread over time[1].
 
 ## Factors Influencing the WTI-Brent Spread
 
@@ -83,7 +83,7 @@ Econometric analysis provides a quantitative backbone for assessing and forecast
 
 Cointegration models are another important tool, particularly in assessing the long-term relationship between WTI and Brent prices. These models are based on the principle that while the spread may fluctuate, the prices of WTI and Brent should move together over time if they are indeed cointegrated. This relationship is essential for traders who are betting on the convergence of the spread.
 
-Predictive modeling often incorporates variables beyond historical prices, such as production figures, consumption data, and inventory levels. Machine l[earning](/wiki/earning-announcement) algorithms have also been introduced, leveraging large datasets to improve the accuracy of predictions. For example, [neural network](/wiki/neural-network)s can detect complex nonlinear patterns in the spread that might be invisible to traditional econometric models.
+Predictive modeling often incorporates variables beyond historical prices, such as production figures, consumption data, and inventory levels. Machine learning algorithms have also been introduced, leveraging large datasets to improve the accuracy of predictions. For example, [neural network](/wiki/neural-network)s can detect complex nonlinear patterns in the spread that might be invisible to traditional econometric models.
 
 However, the effectiveness of these models is subject to the quality of data and the stability of the underlying economic relationships. Structural breaks in the market, such as the 2020 pandemic's impact on oil demand, can render models based on past data less reliable. Therefore, while econometric tools and predictive models are powerful, they must be used with caution and in conjunction with a broader analysis of market conditions.
 

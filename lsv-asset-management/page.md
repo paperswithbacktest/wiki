@@ -62,7 +62,7 @@ For example, LSV might develop a quantitative model that assigns weights to vari
 
 The firm's decision-making process is profoundly data-driven, harnessing historical market data, economic indicators, and corporate financial reports to inform trading decisions. This rigorous analysis allows LSV to mitigate biases that may arise from human judgment, ensuring a disciplined and objective approach to asset management. 
 
-Through its commitment to quantitative analysis, LSV Asset Management adeptly navigates the compl[exit](/wiki/exit-strategy)ies of financial markets, fostering successful investment outcomes for its clients. By continually refining its models and incorporating the latest academic research, LSV remains at the forefront of quantitative investment strategies.
+Through its commitment to quantitative analysis, LSV Asset Management adeptly navigates the complexities of financial markets, fostering successful investment outcomes for its clients. By continually refining its models and incorporating the latest academic research, LSV remains at the forefront of quantitative investment strategies.
 
 
 ## Impact and Achievements

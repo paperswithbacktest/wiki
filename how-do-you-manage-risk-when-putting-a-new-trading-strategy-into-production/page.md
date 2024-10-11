@@ -18,7 +18,7 @@ The purpose of this article is to provide a comprehensive guide on effectively n
 
 ## Understanding Trading Strategy Risks
 
-Trading strategies are essential for navigating the compl[exit](/wiki/exit-strategy)ies of financial markets. However, implementing these strategies involves several risks that can be broadly categorized into market risk, operational risk, and model risk.
+Trading strategies are essential for navigating the complexities of financial markets. However, implementing these strategies involves several risks that can be broadly categorized into market risk, operational risk, and model risk.
 
 **Market Risk** arises from the possibility of losses due to movements in market prices. This type of risk is inherent in all trading activities, as prices of securities fluctuate based on numerous factors such as economic indicators, political events, and investors' perceptions. When deploying a new trading strategy, market risk is particularly pronounced because the strategy's exposure to different asset classes and market conditions may not be fully understood. For instance, a strategy designed to profit from mean reversion might fail in a trending market, leading to substantial losses.
 
@@ -26,7 +26,7 @@ Operational Risk refers to the risk of loss resulting from inadequate or failed 
 
 Model Risk is the risk of a quantitative model failing to perform the tasks or make predictions as expected. In trading, models are critical for making predictions about market behavior and assessing risk. However, every model is subject to simplifications and assumptions that can lead to errors or unexpected results. When a new strategy is introduced, model risk becomes significant because the underpinning assumptions and data may not adequately capture real-world complexities. For instance, a model may assume normal distribution of returns when the actual distribution possesses skewness or kurtosis.
 
-Deploying a new trading strategy amplifies these risks due to several [factor](/wiki/factor-investing)s. First, the strategy's assumptions and parameters might not have been tested extensively in live market conditions. Second, the interactions with existing systems and processes might introduce unforeseen vulnerabilities. Third, the l[earning](/wiki/earning-announcement) curve associated with managing a new strategy can lead to operational inefficiencies or errors.
+Deploying a new trading strategy amplifies these risks due to several [factor](/wiki/factor-investing)s. First, the strategy's assumptions and parameters might not have been tested extensively in live market conditions. Second, the interactions with existing systems and processes might introduce unforeseen vulnerabilities. Third, the learning curve associated with managing a new strategy can lead to operational inefficiencies or errors.
 
 Given these amplified risks, a systematic approach is crucial for understanding and mitigating them. This involves a comprehensive evaluation of the strategy under various market conditions, robust testing of the operational framework, and stress-testing the model assumptions. Defining clear risk metrics and establishing thresholds for acceptable losses are essential components of this approach. By systematically identifying potential risk exposures and developing contingency plans, traders can be better prepared to respond to adverse market movements and operational challenges, thereby enhancing the strategy's overall resilience.
 

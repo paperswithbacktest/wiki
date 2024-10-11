@@ -60,7 +60,7 @@ Similarly, Genium, used by Nasdaq Nordic exchanges, is another sophisticated tra
 
 The T7 trading platform, utilized by Deutsche Börse, further exemplifies the advances in trading technology supporting algorithmic trading. T7 is renowned for its high throughput and low latency, allowing traders to exploit [arbitrage](/wiki/arbitrage) opportunities, execute market-making strategies, and implement complex algorithms effectively. Moreover, T7 features advanced risk control mechanisms and a comprehensive set of order types that empower algorithmic traders to optimize their strategies in real-time.
 
-The evolution of these trading systems is marked by a continuous focus on performance enhancements and technological innovation. As these platforms evolve, they integrate improved data analytics, machine l[earning](/wiki/earning-announcement) algorithms, and superior network infrastructures to support the growing needs of traders. This evolution results in reduced market irregularities and improved liquidity, benefiting not only algorithmic traders but also retail investors.
+The evolution of these trading systems is marked by a continuous focus on performance enhancements and technological innovation. As these platforms evolve, they integrate improved data analytics, machine learning algorithms, and superior network infrastructures to support the growing needs of traders. This evolution results in reduced market irregularities and improved liquidity, benefiting not only algorithmic traders but also retail investors.
 
 For traders, these advancements in trading technology mean access to faster and more reliable systems, enabling them to execute intricate trading strategies with precision. As European stock exchanges continue to innovate and improve their technological infrastructure, the impact on algorithmic trading and the broader financial market landscape is profound. Responsive, fast-paced trading encouraged by these technologies leads to higher trading volumes, more competitive pricing, and a more dynamic stock market environment.
 
@@ -92,7 +92,7 @@ One of the primary challenges in the European context is maintaining market inte
 
 Latency, or the time it takes to execute trades, is another concern. As trading speeds continue to accelerate, exchanges must invest in cutting-edge infrastructure to minimize delays. This investment is crucial but can be costly, especially for smaller exchanges that may not have the same resources as their larger counterparts.
 
-Furthermore, cybersecurity remains a significant challenge. As the compl[exit](/wiki/exit-strategy)y and speed of trading algorithms increase, so does the potential for cyber attacks. Exchanges must therefore invest heavily in robust cybersecurity measures to protect sensitive data and trading activities.
+Furthermore, cybersecurity remains a significant challenge. As the complexity and speed of trading algorithms increase, so does the potential for cyber attacks. Exchanges must therefore invest heavily in robust cybersecurity measures to protect sensitive data and trading activities.
 
 ### Opportunities
 

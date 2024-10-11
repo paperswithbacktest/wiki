@@ -18,7 +18,7 @@ Algorithmic trading (also known as algo trading) involves using complex algorith
 
 ## Understanding GPT Models
 
-Generative Pretrained Transformers (GPT) are a class of machine l[earning](/wiki/earning-announcement) models that have gained significant attention due to their ability to produce human-like text based on input data. Developed by OpenAI, these models have revolutionized natural language processing tasks by leveraging a transformer-based architecture.
+Generative Pretrained Transformers (GPT) are a class of machine learning models that have gained significant attention due to their ability to produce human-like text based on input data. Developed by OpenAI, these models have revolutionized natural language processing tasks by leveraging a transformer-based architecture.
 
 **Structure and Functioning of GPT Models**
 

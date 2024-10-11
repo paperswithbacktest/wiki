@@ -114,7 +114,7 @@ portfolio_var_95 = portfolio_mean - norm.ppf(1-alpha) * portfolio_std
 print(f"95% Portfolio VaR: {portfolio_var_95:.2f}")
 ```
 
-This approach can be extended to portfolios with more assets, but it's vital to consider the covariance matrix's size and compl[exit](/wiki/exit-strategy)y as the number of assets grows.
+This approach can be extended to portfolios with more assets, but it's vital to consider the covariance matrix's size and complexity as the number of assets grows.
 
 In practice, financial institutions often employ the Variance-Covariance method due to its mathematical elegance and relative simplicity, [especially when historical data might not be extensive or reliable](https://blog.paperswithbacktest.com/p/how-to-collect-data-for-[backtesting](/wiki/backtesting)).
 

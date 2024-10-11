@@ -143,7 +143,7 @@ The model also contends with the uncertainty in expected returns. Expected retur
 
 Moreover, the model's computational demands can be significant, particularly with modern investment portfolios that involve a large number of assets. Optimization requires solving a quadratic programming problem, which can be computationally expensive and time-consuming, especially when inputs are frequently updated or when the portfolio needs continuous rebalancing.
 
-In summary, while the Markowitz model provides a foundational framework for understanding and approaching portfolio optimization, its practical implementation can be hindered by issues of input sensitivity, computational compl[exit](/wiki/exit-strategy)y, and the need for precise expected return estimates. Addressing these limitations remains a key area for further research and innovation in financial modeling.
+In summary, while the Markowitz model provides a foundational framework for understanding and approaching portfolio optimization, its practical implementation can be hindered by issues of input sensitivity, computational complexity, and the need for precise expected return estimates. Addressing these limitations remains a key area for further research and innovation in financial modeling.
 
 
 ## Conclusion
@@ -154,6 +154,6 @@ In the context of algorithmic trading, the Markowitz model serves as a vital too
 
 Despite its foundational role, the Markowitz model faces challenges that require attention in modern financial contexts. The model's sensitivity to input variations and the complexity of accurately estimating the covariance matrix in large asset universes often pose practical limitations. Moreover, the computational intensity associated with solving optimization problems becomes more pronounced as the scale of assets increases. These [factor](/wiki/factor-investing)s underscore the necessity for continued research and innovation to overcome these obstacles and enhance the model's practical utility.
 
-Research efforts are critical to refining the Markowitz model, addressing its limitations, and exploring new applications in ever-evolving financial landscapes. By improving its computational efficiency, developing techniques to handle uncertainties more effectively, and integrating advances in data science and machine l[earning](/wiki/earning-announcement), the model's utility can be significantly enhanced. Encouraging collaboration between academia and industry will be key to evolving the Markowitz model to meet the changing demands of modern finance, ensuring its continued relevance and contribution to both portfolio optimization and algorithmic trading.
+Research efforts are critical to refining the Markowitz model, addressing its limitations, and exploring new applications in ever-evolving financial landscapes. By improving its computational efficiency, developing techniques to handle uncertainties more effectively, and integrating advances in data science and machine learning, the model's utility can be significantly enhanced. Encouraging collaboration between academia and industry will be key to evolving the Markowitz model to meet the changing demands of modern finance, ensuring its continued relevance and contribution to both portfolio optimization and algorithmic trading.
 
 

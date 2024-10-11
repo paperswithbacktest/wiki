@@ -151,7 +151,7 @@ While each trading strategy comes with its unique set of principles and advantag
 
 Trend following, at its core, capitalizes on the inherent momentum present in markets. Through this guide, we've explored the essence of trend-following strategies, delved into the different types of trends, and unpacked a plethora of trend indicators ranging from the classic moving averages to unique and specialized ones. Remember, while these indicators provide powerful insights, their efficacy often increases when combined, allowing traders to filter out noise and home in on genuine signals.
 
-An essential takeaway is that while tools and indicators are pivotal, a trader's discernment, continual l[earning](/wiki/earning-announcement), and adaptability remain paramount. Markets evolve, but the principle of trend following remains consistent: align with the market's direction, and it can serve as a potent ally in your trading journey.
+An essential takeaway is that while tools and indicators are pivotal, a trader's discernment, continual learning, and adaptability remain paramount. Markets evolve, but the principle of trend following remains consistent: align with the market's direction, and it can serve as a potent ally in your trading journey.
 
 For those eager to amplify their trading potential, integrating trend following into your toolkit can be transformative. While no strategy guarantees success, with patience, persistence, and a dedication to continuous learning, trend following can be a lucrative and rewarding approach in the dynamic world of trading.
 

@@ -22,7 +22,7 @@ Quantitative trading, often referred to as quant trading, utilizes mathematical 
 
 Unlike traditional trading, which often relies on intuition and market experience, quant trading is systematic and based on data analysis. Traditional traders may make decisions based on macroeconomic indicators, news analysis, or technical chart patterns. In contrast, quant traders use objective, data-driven strategies that aim to exploit inefficiencies in the market. For instance, while a traditional trader might look at a chart to determine future price movements, a quant trader would use a statistical model to predict the same.
 
-Data and algorithms are at the heart of quantitative trading. Traders rely on historical data sets to backtest their algorithms and ensure that trading strategies are robust and profitable. Algorithms in quant trading execute trades based on predefined criteria, minimizing human intervention and emotional biases. The process involves using statistical techniques such as regression analysis, machine l[earning](/wiki/earning-announcement), and stochastic calculus to forecast future price movements and determine optimal trading strategies.
+Data and algorithms are at the heart of quantitative trading. Traders rely on historical data sets to backtest their algorithms and ensure that trading strategies are robust and profitable. Algorithms in quant trading execute trades based on predefined criteria, minimizing human intervention and emotional biases. The process involves using statistical techniques such as regression analysis, machine learning, and stochastic calculus to forecast future price movements and determine optimal trading strategies.
 
 With the advancement of technology and the availability of big data, quantitative trading has become more sophisticated. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subclass of quant trading, involves executing a large number of orders at extremely high speeds, taking advantage of minute price discrepancies. This requires powerful computer systems and low-latency networks.
 
@@ -88,7 +88,7 @@ Data analysis and statistical skills are fundamental. Quant traders use statisti
 
 A firm understanding of financial markets and instruments is paramount. Quant traders should be familiar with different asset classes, including stocks, bonds, options, and derivatives. Knowledge of how these instruments function and interrelate is vital for developing strategies that exploit [arbitrage](/wiki/arbitrage) opportunities or hedge against risks. Understanding market mechanics, order types, and execution is crucial for strategy implementation. This expertise, combined with programming and analytical skills, forms a robust foundation for crafting strategies that can thrive in the ever-evolving landscape of quantitative trading. 
 
-Acquiring these essential skills requires continuous learning and staying updated with industry advancements, ensuring traders can adeptly navigate the compl[exit](/wiki/exit-strategy)ies of the financial markets.
+Acquiring these essential skills requires continuous learning and staying updated with industry advancements, ensuring traders can adeptly navigate the complexities of the financial markets.
 
 
 ## Building a Portfolio

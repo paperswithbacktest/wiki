@@ -18,7 +18,7 @@ In summary, Jim Simons’ remarkable career is characterized by groundbreaking c
 
 ## Early Life and Education
 
-James Harris Simons, commonly known as Jim Simons, was born in 1938 in Brookline, Massachusetts. His early years were nurtured in a supportive family environment that recognized and encouraged his natural aptitude for mathematics. Simons' father owned a shoe [factor](/wiki/factor-investing)y, but despite a lack of formal educational background, the family valued l[earning](/wiki/earning-announcement) and intellectual curiosity.
+James Harris Simons, commonly known as Jim Simons, was born in 1938 in Brookline, Massachusetts. His early years were nurtured in a supportive family environment that recognized and encouraged his natural aptitude for mathematics. Simons' father owned a shoe [factor](/wiki/factor-investing)y, but despite a lack of formal educational background, the family valued learning and intellectual curiosity.
 
 Simons' formal education began at the prestigious Massachusetts Institute of Technology (MIT), where he earned his Bachelor of Science degree in Mathematics in 1958. His time at MIT was distinguished by a keen interest in problem-solving and analytical thinking, which set the foundation for his future endeavors. Following his undergraduate studies, Simons continued to pursue his passion for mathematics at the University of California, Berkeley. He earned his Ph.D. in Mathematics in 1961 at the remarkably young age of 23. His doctoral thesis, titled "On the Transitivity of Holonomy Systems," under the supervision of Bertram Kostant, was a testament to his deep understanding of mathematical concepts and his potential to contribute significantly to the field.
 

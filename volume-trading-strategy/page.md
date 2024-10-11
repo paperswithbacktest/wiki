@@ -60,7 +60,7 @@ Where $ADL_{prev}$ is the previous value of the Accumulation/Distribution Line.
 
 Volume by Price is a horizontal histogram that is plotted on the vertical axis of a price chart to showcase the amount of volume for each price level. This visual representation can help traders identify price levels with significant trading activity, which may act as support or resistance.
 
-For further reading on volume indicators, "A Complete Guide to Volume Price Analysis" by Anna Coulling is a resource that explores the relationship between trading volume and price movements in depth. This guide can serve as a foundational text for understanding the compl[exit](/wiki/exit-strategy)ies and applications of volume analysis in trading[1].
+For further reading on volume indicators, "A Complete Guide to Volume Price Analysis" by Anna Coulling is a resource that explores the relationship between trading volume and price movements in depth. This guide can serve as a foundational text for understanding the complexities and applications of volume analysis in trading[1].
 
 ### Volume Rate of Change
 
@@ -247,7 +247,7 @@ For an in-depth look at the application of volume analysis in different markets,
 
 Understanding and applying volume trading strategies is essential for any trader looking to navigate the markets with an additional layer of depth. Volume provides a third dimension to the price and time focus of traditional analysis, offering insights into the strength of price moves and potential shifts in market trends.
 
-The future of volume trading looks promising, with technological advancements providing traders with more sophisticated tools and analytics. As markets evolve, the granularity of volume data will enhance, allowing for more precise and nuanced analysis. Real-time volume analytics, combined with [artificial intelligence](/wiki/ai-artificial-intelligence) and machine l[earning](/wiki/earning-announcement), could lead to the development of predictive models that can adapt to changing market dynamics more efficiently.
+The future of volume trading looks promising, with technological advancements providing traders with more sophisticated tools and analytics. As markets evolve, the granularity of volume data will enhance, allowing for more precise and nuanced analysis. Real-time volume analytics, combined with [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning, could lead to the development of predictive models that can adapt to changing market dynamics more efficiently.
 
 ## References & Further Reading
 

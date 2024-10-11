@@ -35,7 +35,7 @@ Several [factor](/wiki/factor-investing)s contribute to market slippage and asso
 
 Other contributing factors include trade size, market [volatility](/wiki/volatility-trading-strategies), and the speed of trade execution. Large trade orders are more likely to move the market price, thus increasing slippage. High volatility can also exacerbate slippage, as rapidly changing prices make it difficult to execute trades at the expected price. Additionally, delayed execution can lead to increased slippage, as prices may shift in the interim.
 
-In conclusion, understanding market impact costs is essential for traders aiming to navigate the compl[exit](/wiki/exit-strategy)ies of market liquidity. By comprehensively analyzing these costs and the factors contributing to market slippage, traders can better strategize to manage their transactions effectively, ensuring cost-efficiency and maintaining trading profitability.
+In conclusion, understanding market impact costs is essential for traders aiming to navigate the complexities of market liquidity. By comprehensively analyzing these costs and the factors contributing to market slippage, traders can better strategize to manage their transactions effectively, ensuring cost-efficiency and maintaining trading profitability.
 
 
 ## Measuring Market Impact
@@ -105,7 +105,7 @@ One effective approach is pacing trades and staying under daily turnover thresho
 
 Algorithmic trading strategies play a pivotal role in managing and predicting market impact. Algorithms can be designed to execute trades based on historical data and real-time market conditions, adapting dynamically to minimize impact. Popular algorithms, such as VWAP (Volume Weighted Average Price) and TWAP (Time Weighted Average Price), are employed to ensure that trades are conducted at prices consistent with the average over a specified period, reducing the possibility of executing all trades at sub-optimal prices that heighten market impact.
 
-For instance, an algorithm can identify patterns in [order book](/wiki/order-book-trading-strategies) dynamics and liquidity shifts, leveraging complex models like machine l[earning](/wiki/earning-announcement) and statistical analytics. Traders can backtest these strategies to refine their effectiveness under different market scenarios, iterating upon the algorithm to adapt to new market conditions and maintain a minimal market impact.
+For instance, an algorithm can identify patterns in [order book](/wiki/order-book-trading-strategies) dynamics and liquidity shifts, leveraging complex models like machine learning and statistical analytics. Traders can backtest these strategies to refine their effectiveness under different market scenarios, iterating upon the algorithm to adapt to new market conditions and maintain a minimal market impact.
 
 By employing these strategies, traders can effectively navigate the complexities of executing large trades while minimizing their influence on market prices, thereby preserving asset value and maximizing returns.
 

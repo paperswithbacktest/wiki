@@ -126,7 +126,7 @@ average_return = sum(strategy_returns) / len(strategy_returns)
 print(f"Average Return: {average_return}")
 ```
 
-Optimization takes this a step further by fine-tuning parameters to improve performance. Techniques such as genetic algorithms or machine l[earning](/wiki/earning-announcement) can be employed for optimization to enhance the robustness and profitability of the algorithmic strategy.
+Optimization takes this a step further by fine-tuning parameters to improve performance. Techniques such as genetic algorithms or machine learning can be employed for optimization to enhance the robustness and profitability of the algorithmic strategy.
 
 ### When to Consider Pre-made Algorithms
 

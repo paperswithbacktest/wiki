@@ -18,7 +18,7 @@ The intersection of AI, reinforcement learning, and algorithmic trading represen
 
 ## Understanding Reinforcement Learning
 
-Reinforcement L[earning](/wiki/earning-announcement) (RL) is a distinct paradigm within [machine learning](/wiki/machine-learning), renowned for its efficiency in decision-making processes. Unlike supervised learning, where models learn from a labeled dataset, or unsupervised learning, which involves finding patterns in unlabeled data, RL focuses on learning through interactions with an environment to achieve a certain goal. This trial-and-error approach enables an RL model to learn a policy that dictates the best action to take in a given state to maximize cumulative reward over time.
+Reinforcement learning (RL) is a distinct paradigm within [machine learning](/wiki/machine-learning), renowned for its efficiency in decision-making processes. Unlike supervised learning, where models learn from a labeled dataset, or unsupervised learning, which involves finding patterns in unlabeled data, RL focuses on learning through interactions with an environment to achieve a certain goal. This trial-and-error approach enables an RL model to learn a policy that dictates the best action to take in a given state to maximize cumulative reward over time.
 
 In RL, there are several fundamental components:
 
@@ -49,7 +49,7 @@ One of the key concepts in reinforcement learning is the trade-off between explo
 
 Typical use cases of RL in algorithmic trading include asset price prediction, portfolio management, and automated trading execution. For predicting asset prices, RL models can process vast amounts of historical and real-time data to identify patterns and predict future price movements, even in highly volatile markets. In portfolio management, RL helps in optimizing the asset allocation, adjusting the investment ratios to achieve the desired risk-return profiles. Automated trading execution is another prominent application, where RL-driven algorithms can perform trades, continuously evaluating market conditions and adapting their strategies in real-time to exploit market inefficiencies.
 
-In summary, reinforcement learning provides a framework that can significantly enhance trading strategies by learning to optimize actions through feedback from market interactions, thus offering a promising approach to managing compl[exit](/wiki/exit-strategy)ies associated with modern trading environments.
+In summary, reinforcement learning provides a framework that can significantly enhance trading strategies by learning to optimize actions through feedback from market interactions, thus offering a promising approach to managing complexities associated with modern trading environments.
 
 
 ## Challenges and Limitations

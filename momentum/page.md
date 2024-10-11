@@ -35,7 +35,7 @@ The late 20th century witnessed an explosion in momentum strategies due to sever
 
 The arrival of the 21st century marked the transition from manual momentum trading practices to algorithmic ones. The advent of high-frequency trading and the increasing computational power allowed traders to execute momentum strategies at unparalleled speeds and accuracy. This new era was marked by influential figures like Cliff Asness, co-founder of AQR Capital Management, who championed factor-based investing, with momentum being a key factor[5].
 
-The 2008 financial crisis acted as a significant milestone, emphasizing the need for adaptive momentum strategies. Post-crisis, as financial markets underwent substantial structural changes, the importance of algorithmic momentum trading surged. Algo traders began to combine traditional momentum strategies with emerging fields like machine l[earning](/wiki/earning-announcement) and [artificial intelligence](/wiki/ai-artificial-intelligence), setting the stage for the current landscape of momentum algo trading.
+The 2008 financial crisis acted as a significant milestone, emphasizing the need for adaptive momentum strategies. Post-crisis, as financial markets underwent substantial structural changes, the importance of algorithmic momentum trading surged. Algo traders began to combine traditional momentum strategies with emerging fields like machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence), setting the stage for the current landscape of momentum algo trading.
 
 ## Fundamentals of Momentum in Algorithmic Trading
 

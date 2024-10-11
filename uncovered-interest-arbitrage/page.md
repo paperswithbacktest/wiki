@@ -96,7 +96,7 @@ Uncovered interest arbitrage, by its nature, presents several significant risks,
 
 Additionally, transaction costs pose another substantial challenge. These costs, including currency conversion fees and brokerage commissions, can erode the profitability of arbitrage opportunities. High transaction costs can substantially dampen the appeal of minor interest rate differentials, which are typically what these strategies aim to exploit.
 
-Regulatory considerations also play a critical role. Different countries may have various regulations regarding foreign exchange transactions and international investments. Tightening of these regulations can increase the compl[exit](/wiki/exit-strategy)y and cost of executing uncovered interest arbitrage strategies, thus impacting their feasibility.
+Regulatory considerations also play a critical role. Different countries may have various regulations regarding foreign exchange transactions and international investments. Tightening of these regulations can increase the complexity and cost of executing uncovered interest arbitrage strategies, thus impacting their feasibility.
 
 To mitigate these risks, employing advanced risk management techniques and technology is crucial. One effective strategy is the use of predictive analytics and modeling tools that harness historical data and market trends to forecast potential exchange rate movements. These models, often powered by [machine learning](/wiki/machine-learning), can improve the accuracy of predictions, thereby reducing the uncertainty associated with exchange rate fluctuations.
 

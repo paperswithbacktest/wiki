@@ -27,7 +27,7 @@ Another benefit is scalability. Algorithms allow funds to operate across multipl
 
 An example illustrating the contrast between systematic and discretionary trading is how each approaches market indicators. In systematic trading, a fund may utilize an algorithm based on technical indicators such as moving averages or relative strength indexes. If the model detects a crossover in moving averages, it might automatically execute buy or sell orders. The decision-making process is thus entirely based on pre-encoded rules. Conversely, discretionary trading relies heavily on the expertise and intuition of individual traders, who assess market conditions and make decisions based on their judgments and insights. While discretion can incorporate qualitative [factor](/wiki/factor-investing)s, it may be prone to subjective biases and inconsistencies.
 
-In summary, systematic trading hedge funds leverage the power of technology and data, offering a transparent and methodical investment approach distinct from the often unpredictable nature of human-driven discretionary trading. This systematic nature allows them to navigate the compl[exit](/wiki/exit-strategy)ies of financial markets with a higher degree of precision and reliability.
+In summary, systematic trading hedge funds leverage the power of technology and data, offering a transparent and methodical investment approach distinct from the often unpredictable nature of human-driven discretionary trading. This systematic nature allows them to navigate the complexities of financial markets with a higher degree of precision and reliability.
 
 
 ## Key Considerations for Choosing a Legal Structure

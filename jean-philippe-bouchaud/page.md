@@ -33,7 +33,7 @@ By challenging the EMH, Bouchaud's work illuminates the unpredictable and often 
 
 His work in [algorithmic trading](/wiki/algorithmic-trading) underscores the importance of understanding market microstructure—a detailed examination of the processes and outcomes of financial exchanges. Through advanced simulations and agent-based models, Bouchaud has demonstrated the potential for more accurate risk assessment and pricing strategies, which are essential in navigating the modern financial landscape. These contributions not only challenge existing models but also enhance the precision of financial predictions, offering invaluable tools for both traders and risk managers.
 
-In essence, Bouchaud's transition to finance reflects a broader trend of interdisciplinary research, harnessing the power of physics to develop financial models that accommodate the compl[exit](/wiki/exit-strategy)ies and uncertainties of market behavior. This innovative approach continues to influence both academic research and practical applications, reshaping the way financial markets are understood and operated.
+In essence, Bouchaud's transition to finance reflects a broader trend of interdisciplinary research, harnessing the power of physics to develop financial models that accommodate the complexities and uncertainties of market behavior. This innovative approach continues to influence both academic research and practical applications, reshaping the way financial markets are understood and operated.
 
 
 ## Key Contributions to Algorithmic Trading

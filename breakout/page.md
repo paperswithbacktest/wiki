@@ -77,7 +77,7 @@ def breakout_strategy(prices, resistance_level):
 ```
 This algorithm checks if the current price exceeds a pre-determined resistance level and executes a trade if a breakout is detected.
 
-Algorithmic breakout strategies need to be dynamic, adjusting to evolving market conditions. Continuous development and optimization of the algorithm are crucial, including the integration of machine l[earning](/wiki/earning-announcement) techniques to anticipate breakout patterns more effectively. By maintaining a robust algorithmic framework, traders can enhance their ability to profit from market volatility and trending opportunities.
+Algorithmic breakout strategies need to be dynamic, adjusting to evolving market conditions. Continuous development and optimization of the algorithm are crucial, including the integration of machine learning techniques to anticipate breakout patterns more effectively. By maintaining a robust algorithmic framework, traders can enhance their ability to profit from market volatility and trending opportunities.
 
 
 ## Designing a Breakout Trading Strategy

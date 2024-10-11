@@ -187,7 +187,7 @@ However, like all trading strategies, it's not infallible. High-frequency trader
 
 It's also worth noting that this strategy is most effective in highly liquid markets where the order book is dense with orders. In illiquid markets, the order book might be sparse, making it challenging to discern meaningful patterns or imbalances.
 
-To maximize the efficacy of the Order Book Imbalance strategy, many traders combine it with other indicators or use machine l[earning](/wiki/earning-announcement) algorithms to discern genuine signals from noise.
+To maximize the efficacy of the Order Book Imbalance strategy, many traders combine it with other indicators or use machine learning algorithms to discern genuine signals from noise.
 
 #### Latency Arbitrage
 

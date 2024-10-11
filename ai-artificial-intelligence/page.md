@@ -19,7 +19,7 @@ The relevance of AI in today’s market cannot be overstated. In an era characte
 
 Artificial Intelligence (AI) is a branch of computer science focused on creating systems capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding. AI operates on the principles of simulating human cognitive processes using algorithms, data, and computational power.
 
-At its core, AI involves machine l[earning](/wiki/earning-announcement) (ML), where machines learn from data. Machine learning enables AI systems to automatically learn and improve from experience without being explicitly programmed. This learning process is achieved through the development of algorithms that can review and interpret complex data, make decisions, and make predictions.
+At its core, AI involves machine learning (ML), where machines learn from data. Machine learning enables AI systems to automatically learn and improve from experience without being explicitly programmed. This learning process is achieved through the development of algorithms that can review and interpret complex data, make decisions, and make predictions.
 
 In the context of finance, AI’s fundamental principles are applied to analyze financial markets and make trading decisions. It uses quantitative methods to process vast datasets – ranging from stock prices and trading [volume](/wiki/volume-trading-strategy)s to economic indicators and global financial news. By analyzing this data, AI systems can identify patterns and insights that inform investment strategies.
 
