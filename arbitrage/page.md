@@ -1,5 +1,5 @@
 ---
-title: "Arbitrage in Algo Trading"
+title: "Arbitrage (Algo Trading)
 description: Uncover the intricacies of arbitrage in algorithmic trading, a profitable strategy that combines technology, mathematics, and finance. Explore various types of arbitrage strategies and their applications, as well as risks to be aware of. Dive into our extensive database for advanced strategies and resources to help you capitalize on market inefficiencies.
 ---
 

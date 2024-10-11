@@ -1,5 +1,5 @@
 ---
-title: "Short Selling in Algo Trading"
+title: "Short Selling (Algo Trading)
 description: Discover the intricacies of short selling, a strategy used in algorithmic trading to maximize profits. Learn why investors choose to short sell, its risks, and how it's employed in algo trading for volatility navigation and significant profits. Dive deeper with recommended resources.
 ---
 

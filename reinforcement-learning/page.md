@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning in Algo Trading"
+title: "Reinforcement Learning (Algo Trading)
 description: Discover the intersection of Reinforcement Learning and Algo Trading, where an agent makes decisions based on rewards or penalties in the financial market. Understand its components, applications, advantages, and challenges. Dive deeper into this adaptive machine learning paradigm for advanced trading strategies.
 ---
 

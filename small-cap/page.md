@@ -1,5 +1,5 @@
 ---
-title: "Small Cap in Algo Trading"
+title: "Small Cap (Algo Trading)
 description: Discover the world of Small Cap investing and algorithmic trading in this comprehensive article. Learn about Small Cap stocks, their historical returns, the Small Caps premium, and how algo trading can help maximize returns in this high-risk, high-reward market. Explore resources for further study and datasets for quantitative analysis.
 ---
 

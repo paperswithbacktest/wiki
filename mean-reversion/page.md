@@ -1,5 +1,5 @@
 ---
-title: "Mean Reversion in Algo Trading"
+title: "Mean Reversion (Algo Trading)
 description: Mean reversion trading strategy is a popular approach that assumes prices will eventually move back towards the average or mean. Discover its historical origins, mathematical foundations, real-life scenarios, advantages, disadvantages, and differences with other strategies like trend following and momentum trading. Learn when to apply mean reversion in various market conditions.
 ---
 

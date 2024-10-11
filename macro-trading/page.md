@@ -1,5 +1,5 @@
 ---
-title: "Macro Trading in Algo Trading"
+title: "Macro Trading (Algo Trading)
 description: Discover Macro Trading, a strategy that capitalizes on economic and political factors affecting entire countries or global events. Delve into the world of macro traders who focus on monetary policy, fiscal policy, geopolitical events, and global macroeconomic indicators to make informed investment decisions. Understand the significance of macro trading through historic examples and learn about its typologies and systems.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "FX Anomaly in Algo Trading"
+title: "FX Anomaly (Algo Trading)
 description: Delve into the world of Forex algorithmic trading and explore the FX anomaly, its significance, and profitable strategies like Carry Trade and Monetary Value. Learn how to implement these anomalies using algorithms for maximum returns while managing risks.
 ---
 

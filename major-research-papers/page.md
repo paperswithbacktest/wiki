@@ -1,5 +1,5 @@
 ---
-title: "Major Research Papers in Algo Trading"
+title: "Major Research Papers (Algo Trading)
 description: Explore key research papers on algorithmic trading, focusing on optimal execution, market impact, and market making. These papers provide valuable insights into the mathematical models and strategies that underpin trading, including the Almgren-Chriss framework, market microstructure analysis, and high-frequency trading in limit order books. Ideal for anyone looking to deepen their understanding of how financial markets operate and how to navigate their complexities through data-driven strategies.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Asset Class Picking in Algo Trading"
+title: "Asset Class Picking (Algo Trading)
 description: Learn about Asset Class Picking, an essential algo trading strategy that optimizes portfolio performance by allocating assets between different classes. Discover strategies like Risk Premia Harvesting, Protective Asset Allocation, and The Trend is Our Friend. Understand the importance of momentum, value, and standardization in asset allocation research. Improve your investment strategy with this deep dive into the world of Algo Trading.
 ---
 

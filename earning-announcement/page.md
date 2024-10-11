@@ -1,5 +1,5 @@
 ---
-title: "Earnings Announcements in Algo Trading"
+title: "Earnings Announcements (Algo Trading)
 description: Earnings announcements significantly impact financial markets and play a crucial role in quantitative trading, particularly in algorithmic trading strategies. Understanding the history, significance, and market impact of earnings announcements is essential for developing effective trading strategies. Explore how PEAD and other phenomena can be exploited with algo trading and learn about resources to help you become a successful quant trader.
 ---
 

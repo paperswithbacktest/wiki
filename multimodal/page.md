@@ -1,5 +1,5 @@
 ---
-title: "Multimodal in Algo Trading"
+title: "Multimodal (Algo Trading)
 description: Discover how multimodal models are revolutionizing algo trading by processing various types of data simultaneously, improving predictive accuracy and flexibility in the face of diverse financial markets. Learn about the potential applications and challenges of this advanced AI technology in algorithmic trading.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "News Trading in Algo Trading"
+title: "News Trading (Algo Trading)
 description: News trading in algorithmic trading revolves around leveraging news events to inform and drive automated trading decisions, capitalizing on market fluctuations caused by these releases. Significant types of news that impact markets include economic data, earnings reports, political events, and market rumors. The approach relies on real-time data analysis and the ability to extract relevant information swiftly through techniques like web scraping, data mining, and sentiment analysis. Challenges involve managing vast volumes of data and ensuring accurate interpretation of news. News-based algo trading systems aim to execute trades before broader market reactions, using AI, machine learning, and NLP for advanced market insights.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Overfitting in Algo Trading"
+title: "Overfitting (Algo Trading)
 description: Learn about overfitting, a common challenge in algorithmic trading where machine learning models become too specialized in training data and struggle to generalize new data. Discover causes and prevention strategies to build robust and efficient trading models. Continuously evaluate performance for success. Explore resources for trading strategies, libraries, and datasets.
 ---
 

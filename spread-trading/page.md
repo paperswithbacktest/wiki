@@ -1,5 +1,5 @@
 ---
-title: "Spread Trading in Algo Trading"
+title: "Spread Trading (Algo Trading)
 description: Discover the power of Spread Trading in the world of Algo Trading. Learn about this diversified strategy's benefits, variations, and examples, as well as its integration into algo trading systems for maximized profit potential and risk reduction. Explore resources for further study and become a successful quant trader.
 ---
 

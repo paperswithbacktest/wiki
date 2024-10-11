@@ -1,5 +1,5 @@
 ---
-title: "Transformer in Algo Trading"
+title: "Transformer (Algo Trading)
 description: Discover how the Transformer architecture, with its self-attention mechanism, revolutionizes natural language processing and offers significant potential for algorithmic trading. Learn about sentiment analysis, market prediction, and challenges in implementing Transformer-based models. Explore resources for further study.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Fund Picking in Algo Trading"
+title: "Fund Picking (Algo Trading)
 description: Explore the complex world of fund picking in algo trading and its importance in achieving superior returns. Learn why past performance is an unreliable indicator, and discover additional competence indicators for fund managers. Delve into the realities of active funds and consider the momentum strategy for effective fund selection. Become a well-informed investor with our resources and datasets.
 ---
 

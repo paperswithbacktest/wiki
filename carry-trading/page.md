@@ -1,5 +1,5 @@
 ---
-title: "Carry Trading in Algo Trading"
+title: "Carry Trading (Algo Trading)
 description: Discover the synergy of Carry Trading and Algo Trading in this comprehensive guide. Learn how to automate carry trade strategies using sophisticated algorithms for quick reactions and enhanced risk management in the Forex market. Understand the mathematical concept, risks involved, designing algorithms, and employing a basic carry trade strategy with Python and Backtrader.
 ---
 

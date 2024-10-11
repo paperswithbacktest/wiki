@@ -1,5 +1,5 @@
 ---
-title: "Volatility Effect in Algo Trading"
+title: "Volatility Effect (Algo Trading)
 description: Explore the Volatility Effect, a market anomaly that offers high risk-adjusted returns in low-volatility stocks, and its importance in algorithmic trading. Learn why this counter-intuitive phenomenon occurs and how traders can exploit it for superior performance across various markets and assets. Dive into related research papers, libraries, strategies, and datasets to enhance your quantitative trading skills.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Momentum Trading Strategies in Algo Trading"
+title: "Momentum Trading Strategies (Algo Trading)
 description: Discover the foundations and principles behind momentum trading, a dynamic strategy that seeks to capitalize on the continuation of existing price trends in the market. From its historical roots to psychological insights, learn how this approach can help traders stay ahead in today's fast-paced trading environment. Understand the difference between momentum trading and other popular strategies like value trading, contrarian trading, swing trading, and buy & hold.
 ---
 
