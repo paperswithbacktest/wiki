@@ -131,7 +131,7 @@ Notably, LSTMs, with their capacity to remember patterns over time, are widely a
 
 Convolutional Neural Networks (CNNs), despite being widely recognized for image recognition tasks, have been explored in the domain of stock price prediction as well. The ability of CNNs to discern patterns in multi-dimensional spaces makes them apt for deciphering volatilities and fluctuations in the financial markets. CNN models, when employed in analyzing historical stock data, have demonstrated significant proficiency in identifying latent features relevant for accurate predictions[28].
 
-An exemplary application of deep learning in stock trading is algorithmic trading, where predictive models based on deep learning are utilized to forecast price changes in the short-term and execute trades autonomously. Such algorithms take myriad factors into account, such as price, timing, and volume, trading in a way that maximizes profit while minimizing risk.
+An exemplary application of [deep learning](/wiki/deep-learning) in stock trading is algorithmic trading, where predictive models based on deep learning are utilized to forecast price changes in the short-term and execute trades autonomously. Such algorithms take myriad factors into account, such as price, timing, and volume, trading in a way that maximizes profit while minimizing risk.
 
 Deep learning has also found relevance in options pricing, where neural networks are employed to calculate the option prices that are otherwise determined using the Black-Scholes model. This exemplifies the capability of deep learning to predict not just underlying asset prices but also derive the prices of complex financial instruments accurately[29].
 

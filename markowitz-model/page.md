@@ -21,9 +21,9 @@ subject to the constraint:
 
 where \( w_i \) and \( w_j \) are the weights of the assets in the portfolio, and \( \sigma_{ij} \) is the covariance between assets \( i \) and \( j \).
 
-Harry Markowitz’s work essentially laid down the groundwork for modern financial portfolio theory and significantly influenced how investors approached asset allocation. The ability to take into account both return and risk transformed investment strategies and led to the development of sophisticated models and tools that are still used in portfolio management and algorithmic trading today.
+Harry Markowitz’s work essentially laid down the groundwork for modern financial portfolio theory and significantly influenced how investors approached asset allocation. The ability to take into account both return and risk transformed investment strategies and led to the development of sophisticated models and tools that are still used in portfolio management and [algorithmic trading](/wiki/algorithmic-trading) today.
 
-This model's premise that risk can be managed—but not entirely eradicated—by diversifying investments among various assets forms the basis of many contemporary investment strategies. It highlights a fundamental tenet of investing: while one cannot control market volatility, one can devise strategies to mitigate its impact, thereby optimizing investment performance.
+This model's premise that risk can be managed—but not entirely eradicated—by diversifying investments among various assets forms the basis of many contemporary investment strategies. It highlights a fundamental tenet of investing: while one cannot control market [volatility](/wiki/volatility-trading-strategies), one can devise strategies to mitigate its impact, thereby optimizing investment performance.
 
 
 ## Understanding the Markowitz Model
@@ -133,7 +133,7 @@ The model also contends with the uncertainty in expected returns. Expected retur
 
 Moreover, the model's computational demands can be significant, particularly with modern investment portfolios that involve a large number of assets. Optimization requires solving a quadratic programming problem, which can be computationally expensive and time-consuming, especially when inputs are frequently updated or when the portfolio needs continuous rebalancing.
 
-In summary, while the Markowitz model provides a foundational framework for understanding and approaching portfolio optimization, its practical implementation can be hindered by issues of input sensitivity, computational complexity, and the need for precise expected return estimates. Addressing these limitations remains a key area for further research and innovation in financial modeling.
+In summary, while the Markowitz model provides a foundational framework for understanding and approaching portfolio optimization, its practical implementation can be hindered by issues of input sensitivity, computational compl[exit](/wiki/exit-strategy)y, and the need for precise expected return estimates. Addressing these limitations remains a key area for further research and innovation in financial modeling.
 
 
 ## Conclusion
@@ -142,8 +142,8 @@ The Markowitz model has established itself as a cornerstone of portfolio optimiz
 
 In the context of algorithmic trading, the Markowitz model serves as a vital tool for developing risk-averse trading strategies. Its principles facilitate the integration of portfolio optimization into algorithmic systems, enabling automated strategies that account for the dynamic nature of financial markets. This adaptability is crucial in constructing robust trading systems capable of operating in diverse market conditions.
 
-Despite its foundational role, the Markowitz model faces challenges that require attention in modern financial contexts. The model's sensitivity to input variations and the complexity of accurately estimating the covariance matrix in large asset universes often pose practical limitations. Moreover, the computational intensity associated with solving optimization problems becomes more pronounced as the scale of assets increases. These factors underscore the necessity for continued research and innovation to overcome these obstacles and enhance the model's practical utility.
+Despite its foundational role, the Markowitz model faces challenges that require attention in modern financial contexts. The model's sensitivity to input variations and the complexity of accurately estimating the covariance matrix in large asset universes often pose practical limitations. Moreover, the computational intensity associated with solving optimization problems becomes more pronounced as the scale of assets increases. These [factor](/wiki/factor-investing)s underscore the necessity for continued research and innovation to overcome these obstacles and enhance the model's practical utility.
 
-Research efforts are critical to refining the Markowitz model, addressing its limitations, and exploring new applications in ever-evolving financial landscapes. By improving its computational efficiency, developing techniques to handle uncertainties more effectively, and integrating advances in data science and machine learning, the model's utility can be significantly enhanced. Encouraging collaboration between academia and industry will be key to evolving the Markowitz model to meet the changing demands of modern finance, ensuring its continued relevance and contribution to both portfolio optimization and algorithmic trading.
+Research efforts are critical to refining the Markowitz model, addressing its limitations, and exploring new applications in ever-evolving financial landscapes. By improving its computational efficiency, developing techniques to handle uncertainties more effectively, and integrating advances in data science and machine l[earning](/wiki/earning-announcement), the model's utility can be significantly enhanced. Encouraging collaboration between academia and industry will be key to evolving the Markowitz model to meet the changing demands of modern finance, ensuring its continued relevance and contribution to both portfolio optimization and algorithmic trading.
 
 

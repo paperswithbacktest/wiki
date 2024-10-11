@@ -26,7 +26,7 @@ To determine these signals, the stochastic oscillator is built upon two primary 
 
 where "Current Close" is the most recent closing price, "Lowest Low" is the lowest price over the chosen period, and "Highest High" is the highest price over the same period.
 
-The %D line, on the other hand, acts as a signal line by being a moving average of the %K value, typically calculated over a three-period span. This smoothing effect aids in reducing the noise in the data, making it easier to identify potential trend reversals and price momentum.
+The %D line, on the other hand, acts as a signal line by being a moving average of the %K value, typically calculated over a three-period span. This smoothing effect aids in reducing the noise in the data, making it easier to identify potential trend reversals and price [momentum](/wiki/momentum).
 
 By analyzing the crossover of the %K and %D lines, traders can gain insights into market trends and identify possible reversal points. When the %K line crosses above the %D line, it can indicate a bullish signal, suggesting potential upward momentum. Conversely, a %K crossing below the %D may signal a bearish trend, hinting at potential downward movement.
 
@@ -82,12 +82,12 @@ Traders utilize the stochastic oscillator to identify potential reversal points 
 
 Divergence occurs when the price of a security moves in the opposite direction of the stochastic oscillator. For instance, if a stock's price reaches a new high while the oscillator forms a lower high, it suggests a potential weakening in momentum, indicating a possible bearish reversal. Conversely, convergence can signal a continuation of the current trend. Recognizing these patterns is crucial for traders in anticipating market movements.
 
-Accurate interpretation of these signals empowers traders to make informed decisions. For example, a %K crossover above a %D line in the oversold region might prompt a trader to consider purchasing, anticipating a price rise. Conversely, a %K crossover below a %D line in the overbought region suggests contemplating selling or shorting the stock, expecting a price decline. By leveraging the stochastic oscillator's signals, traders can better manage risk and optimize their trading strategies through timely entries and exits.
+Accurate interpretation of these signals empowers traders to make informed decisions. For example, a %K crossover above a %D line in the oversold region might prompt a trader to consider purchasing, anticipating a price rise. Conversely, a %K crossover below a %D line in the overbought region suggests contemplating selling or shorting the stock, expecting a price decline. By leveraging the stochastic oscillator's signals, traders can better manage risk and optimize their trading strategies through timely entries and [exit](/wiki/exit-strategy)s.
 
 
 ## Application in Algorithmic Trading
 
-The stochastic oscillator plays a critical role in the development of automated trading strategies by providing reliable signals that can be encoded into algorithmic systems. Its primary function in algorithmic trading is to facilitate the precise execution of trades through the analysis of price momentum and potential reversal points. By embedding these signals into trading algorithms, traders can significantly enhance their profitability through timely market entry and exit.
+The stochastic oscillator plays a critical role in the development of automated trading strategies by providing reliable signals that can be encoded into algorithmic systems. Its primary function in [algorithmic trading](/wiki/algorithmic-trading) is to facilitate the precise execution of trades through the analysis of price momentum and potential reversal points. By embedding these signals into trading algorithms, traders can significantly enhance their profitability through timely market entry and exit.
 
 Algorithmic traders leverage both the %K and %D lines of the stochastic oscillator to identify moments when price momentum indicates favorable trading conditions. Specifically, algorithms are set to trigger trades when certain conditions are satisfied, such as when the %K line crosses above the %D line in an oversold area, suggesting a potential uptrend. Likewise, a crossing below in an overbought area might signal a downturn, prompting a sell decision.
 

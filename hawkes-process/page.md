@@ -61,14 +61,14 @@ n = \int_0^\infty \phi(s) \, ds
 
 The value of \(n\) determines the long-term stability of the process. If \(n < 1\), the process will eventually die out, whereas \(n = 1\) can lead to criticality, and \(n > 1\) can cause the process to explode, creating an infinite sequence of events in finite time.
 
-These mathematical formulations highlight the adaptability of the Hawkes process in modeling sequences of events where the influence of each event diminishes over time, and they allow for capturing clusters of high intensity, a feature particularly useful in applications such as algorithmic trading. This ability to model event clusters accurately underpins the effectiveness of using Hawkes in financial contexts.
+These mathematical formulations highlight the adaptability of the Hawkes process in modeling sequences of events where the influence of each event diminishes over time, and they allow for capturing clusters of high intensity, a feature particularly useful in applications such as [algorithmic trading](/wiki/algorithmic-trading). This ability to model event clusters accurately underpins the effectiveness of using Hawkes in financial contexts.
 
 
 ## Applications in Algorithmic Trading
 
 Hawkes processes are particularly well-suited for modeling high-frequency trading data, where the timing and sequence of trades play a critical role in understanding market dynamics. These stochastic processes account for the clustering of trade events, recognizing that trades often trigger subsequent trades in short succession. This characteristic is vital for understanding market microstructure dynamics, as it allows financial analysts to identify patterns within trading activities that can have significant implications on price movements.
 
-By capturing the self-exciting nature of trades, Hawkes models help in predicting spikes in trading activity and sudden price changes. For instance, following an initial trade, the increased intensity function in a Hawkes model signals a higher probability of further trades occurring shortly thereafter. This makes it a valuable tool for predicting future trading volumes and potential price volatility, enabling traders to anticipate stress points within the market and adjust their strategies accordingly.
+By capturing the self-exciting nature of trades, Hawkes models help in predicting spikes in trading activity and sudden price changes. For instance, following an initial trade, the increased intensity function in a Hawkes model signals a higher probability of further trades occurring shortly thereafter. This makes it a valuable tool for predicting future trading [volume](/wiki/volume-trading-strategy)s and potential price [volatility](/wiki/volatility-trading-strategies), enabling traders to anticipate stress points within the market and adjust their strategies accordingly.
 
 Traders and financial analysts utilize Hawkes processes to enhance their decision-making processes and optimize trading strategies. These models can be implemented in various algorithmic trading strategies to identify optimal trade execution windows based on anticipated market activity. Moreover, they assist in the detection of market trends and reversals by analyzing the sequences and frequencies of trade events.
 
@@ -83,7 +83,7 @@ One of the significant benefits of employing Hawkes processes in trading is thei
 
 Despite these advantages, calibrating Hawkes models to real-world market data poses several challenges. It demands sophisticated statistical techniques and a profound understanding of market behaviors. The calibration process often involves estimating the parameters of the Hawkes process, such as the baseline intensity and the excitation functions, which requires advanced statistical tools and expertise. 
 
-Moreover, computational complexity is another hurdle. The Hawkes process, by nature, involves continuous recalculations of its intensity function as new events occur. This can result in significant computational demands, especially when dealing with high-frequency trading data that involves thousands of events per second. Efficient algorithms and high-performance computing resources become indispensable in overcoming these challenges.
+Moreover, computational compl[exit](/wiki/exit-strategy)y is another hurdle. The Hawkes process, by nature, involves continuous recalculations of its intensity function as new events occur. This can result in significant computational demands, especially when dealing with high-frequency trading data that involves thousands of events per second. Efficient algorithms and high-performance computing resources become indispensable in overcoming these challenges.
 
 Additionally, maintaining model accuracy requires continuous data updates. The rapidly changing financial environment means that data used to feed the Hawkes process models must be up-to-date to ensure that the model's outputs remain relevant. This continuous updating of data adds another layer of complexity, necessitating robust data management systems and processes to seamlessly integrate new data into existing models.
 

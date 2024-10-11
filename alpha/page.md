@@ -18,7 +18,7 @@ This article will explore the concept of Alpha in algorithmic trading, its signi
 
 Alpha is a critical metric in evaluating the effectiveness of investment strategies, particularly in algorithmic trading. It represents the excess return an investment generates over a market index, making it a fundamental tool for measuring the success of algorithmic strategies. In this context, Alpha is crucial for determining how well a trading strategy leverages market inefficiencies to deliver returns that surpass the benchmark index.
 
-In algorithmic trading, where decisions are statistically driven and executed at high speeds, generating a positive Alpha indicates that the strategy has effectively capitalized on patterns or anomalies in the market that are not reflected in the broader market movements. This could be due to unique strategies involving timing, asset selection, or statistical arbitrage that consistently produce additional returns.
+In [algorithmic trading](/wiki/algorithmic-trading), where decisions are statistically driven and executed at high speeds, generating a positive Alpha indicates that the strategy has effectively capitalized on patterns or anomalies in the market that are not reflected in the broader market movements. This could be due to unique strategies involving timing, asset selection, or statistical [arbitrage](/wiki/arbitrage) that consistently produce additional returns.
 
 Mathematically, Alpha is the intercept in the regression line of the Capital Asset Pricing Model (CAPM). The formula for calculating Alpha (\(\alpha\)) is expressed as:
 
@@ -39,7 +39,7 @@ In summary, Alpha serves as a succinct metric for evaluating and refining algori
 
 ## The Role of Alpha in Modern Portfolio Theory
 
-Alpha is an essential metric in modern portfolio theory, serving as a foundational element alongside Beta in the capital asset pricing model (CAPM). CAPM is a theoretical framework that helps investors assess the expected return of an asset, taking into account its inherent risk relative to the overall market. While Beta focuses on a portfolio's volatility or systemic risk as compared to the market, Alpha measures the ability of a portfolio's active management to generate excess returns beyond what would be expected based on its Beta and market performance.
+Alpha is an essential metric in modern portfolio theory, serving as a foundational element alongside Beta in the capital asset pricing model (CAPM). CAPM is a theoretical framework that helps investors assess the expected return of an asset, taking into account its inherent risk relative to the overall market. While Beta focuses on a portfolio's [volatility](/wiki/volatility-trading-strategies) or systemic risk as compared to the market, Alpha measures the ability of a portfolio's active management to generate excess returns beyond what would be expected based on its Beta and market performance.
 
 The expression for calculating Alpha is:
 
@@ -83,7 +83,7 @@ These passive strategies involve creating a portfolio designed to match or track
 
 Despite these challenges, algorithmic trading strategies persist in seeking market inefficiencies for Alpha generation. Algorithmic trading leverages complex mathematical models, statistical analyses, and computational algorithms to make trading decisions. The primary aim is to exploit fleeting opportunities in market data that human analysis might miss. These strategies can rapidly process vast amounts of information across different markets and asset classes, thereby identifying price discrepancies or predictable patterns due to market microstructure noise, temporal anomalies, or short-lived arbitrage opportunities. 
 
-For instance, high-frequency trading (HFT), a subset of algorithmic trading, operates at extremely short time frames, executing trades within milliseconds to capitalize on minimal price discrepancies that may exist only momentarily. However, the success of such strategies hinges on advanced technology, sophisticated algorithms, and access to high-speed trading platforms.
+For instance, high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset of algorithmic trading, operates at extremely short time frames, executing trades within milliseconds to capitalize on minimal price discrepancies that may exist only momentarily. However, the success of such strategies hinges on advanced technology, sophisticated algorithms, and access to high-speed trading platforms.
 
 Ultimately, the pursuit of positive Alpha requires constant innovation, as markets evolve and pricing models become more efficient. Investors and algorithm developers need to balance the quest for Alpha with the inherent risks and costs associated with active trading to optimize their return on investment.
 
@@ -103,7 +103,7 @@ To achieve an optimal portfolio, investors often seek to maximize Alpha while ma
 
 ## Applications of Alpha in Risk Management
 
-Alpha is a crucial metric not only for assessing performance but also for navigating the complexities of risk management in investment portfolios. As investors evaluate whether the returns on their investments justify the risk exposure, Alpha provides essential insights by highlighting the value added or lost due to active management.
+Alpha is a crucial metric not only for assessing performance but also for navigating the compl[exit](/wiki/exit-strategy)ies of risk management in investment portfolios. As investors evaluate whether the returns on their investments justify the risk exposure, Alpha provides essential insights by highlighting the value added or lost due to active management.
 
 Incorporating Alpha into risk management involves evaluating a fund's returns relative to the risks undertaken, specifically after accounting for fees and other expenses. A positive Alpha suggests that a fund or portfolio manager has delivered returns beyond those predicted by market movements alone, indicating effective risk management. Conversely, a negative Alpha can serve as a warning that the risk is not yielding adequate returns.
 

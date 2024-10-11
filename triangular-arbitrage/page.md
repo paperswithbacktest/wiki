@@ -18,14 +18,14 @@ For instance, let's say you start with USD, and you notice discrepancies in the 
 
 If the product of exchange rates allows you to end up with more than your initial US dollars, an arbitrage opportunity exists. Mathematically, if:
 \[ (USD/EUR) \times (EUR/GBP) \times (GBP/USD) > 1 \]
-Then this indicates a profitable arbitrage situation.
+Then this indicates a profitable [arbitrage](/wiki/arbitrage) situation.
 
-Arbitrageurs, or traders specializing in detecting these inefficiencies, leverage sophisticated algorithms and high-speed trading platforms to execute these trades swiftly. By doing so, they not only profit from discrepancies but also contribute to the efficiency and liquidity of the Forex market by realigning currency prices to their 'correct' levels. However, this is a race against time as these discrepancies are typically ephemeral, vanishing in seconds with the actions of efficient markets and continuous trading.
+Arbitrageurs, or traders specializing in detecting these inefficiencies, leverage sophisticated algorithms and high-speed trading platforms to execute these trades swiftly. By doing so, they not only profit from discrepancies but also contribute to the efficiency and [liquidity](/wiki/liquidity-risk-premium) of the Forex market by realigning currency prices to their 'correct' levels. However, this is a race against time as these discrepancies are typically ephemeral, vanishing in seconds with the actions of efficient markets and continuous trading.
 
 
 ## How Triangular Arbitrage Works
 
-Triangular arbitrage is an advanced trading strategy that leverages price discrepancies between three different currencies in the foreign exchange (forex) market. The core idea is to exploit inefficiencies between these rates before the market can correct them, thereby securing a risk-free profit.
+Triangular arbitrage is an advanced trading strategy that leverages price discrepancies between three different currencies in the foreign exchange ([forex](/wiki/forex-system)) market. The core idea is to exploit inefficiencies between these rates before the market can correct them, thereby securing a risk-free profit.
 
 The mechanics behind triangular arbitrage involve three key currencies and the respective exchange rates between them. Let's say we have three currencies: Currency A, Currency B, and Currency C. An investor would look to exploit the misalignment in the exchange rates A/B, B/C, and C/A. The fundamental steps involved in executing a triangular arbitrage trade are as follows:
 
@@ -52,7 +52,7 @@ Suppose you start with $10,000:
 
 In this case, you end up with $12,707.50, which means a profit of $2,707.50 after completing the round trip of conversions. This profit can be attributed to the temporary inefficiency in how the exchange rates aligned. In reality, transaction costs and fees need to be subtracted, but the underlying principle of profit through exploitation of rate discrepancies remains the same.
 
-Triangular arbitrage opportunities are slim and fleeting, as they often require quick and automated execution to capitalize on them before the market self-corrects. Technology and algorithmic trading play a crucial role in identifying and acting on these opportunities efficiently.
+Triangular arbitrage opportunities are slim and fleeting, as they often require quick and automated execution to capitalize on them before the market self-corrects. Technology and [algorithmic trading](/wiki/algorithmic-trading) play a crucial role in identifying and acting on these opportunities efficiently.
 
 
 ## Cross Exchange Rate Discrepancies
@@ -67,7 +67,7 @@ This implicit rate should ideally match the market rate for EUR/GBP. However, di
 
 Triangular arbitrage opportunities arise when the implicit cross exchange rate differs from the direct market exchange rate. Traders can exploit these discrepancies by simultaneously buying and selling equivalent amounts of currencies to lock in a risk-free profit. For instance, if the implicit EUR/GBP rate calculated from USD pairs is different from the market rate, an arbitrageur can exchange USD to EUR, then EUR to GBP, and finally GBP back to USD. The key is that the sequence exploits discrepancies while ensuring the trades result in the same starting currency, ideally at a profit.
 
-Bank-quoted rates and market rates can significantly influence these arbitrage opportunities. Banks might not update their quoted rates as frequently as the market rates change due to various factors like transaction volumes and liquidity conditions. As a result, the discrepancy between static bank rates and dynamic market rates can create arbitrage openings. However, these opportunities are typically short-lived as the market adjusts to correct the mispricing, with algorithmic traders rapidly detecting and acting upon inefficiencies.
+Bank-quoted rates and market rates can significantly influence these arbitrage opportunities. Banks might not update their quoted rates as frequently as the market rates change due to various [factor](/wiki/factor-investing)s like transaction [volume](/wiki/volume-trading-strategy)s and liquidity conditions. As a result, the discrepancy between static bank rates and dynamic market rates can create arbitrage openings. However, these opportunities are typically short-lived as the market adjusts to correct the mispricing, with algorithmic traders rapidly detecting and acting upon inefficiencies.
 
 The persistence of such discrepancies hinges on several factors, including how quickly banks update their rates and how swiftly market participants react. Despite the potential for profit, the prevalence of algorithmic trading in modern forex markets has made it increasingly challenging to capitalize on these arbitrage opportunities, as automated systems can execute trades in milliseconds, often outpacing human traders.
 
@@ -82,7 +82,7 @@ Bank quoted rates and cross rates are essential in identifying arbitrage possibi
 
 The participation of banks and market makers creates a constantly shifting landscape where exchange rates are continuously adjusted in response to supply, demand, and external economic indicators. These adjustments can create fleeting windows during which rate inefficiencies occur. Despite their brief duration, these inefficiencies are what arbitrageurs seek to exploit, underscoring the importance of the roles these banking entities play in the dynamics of currency valuation and arbitrage.
 
-In conclusion, international banks and market makers not only facilitate currency exchange but also inadvertently affect the presence and disappearance of triangular arbitrage opportunities. Their influence over bid-ask spreads and currency rates contributes to the complexity and ephemeral nature of arbitrage in today's fast-paced forex market.
+In conclusion, international banks and market makers not only facilitate currency exchange but also inadvertently affect the presence and disappearance of triangular arbitrage opportunities. Their influence over bid-ask spreads and currency rates contributes to the compl[exit](/wiki/exit-strategy)y and ephemeral nature of arbitrage in today's fast-paced forex market.
 
 
 ## Evidence of Triangular Arbitrage
@@ -93,7 +93,7 @@ In analyzing the opportunities in foreign exchange markets, researchers have fou
 
 An example of this can be illustrated when considering three currencies: USD, EUR, and JPY. Suppose the USD/EUR rate is 0.85, EUR/JPY is 130, and USD/JPY is quoted at 110. The implied USD/JPY rate can be calculated by multiplying the USD/EUR and EUR/JPY rates (0.85 * 130 = 110.5). If the market is quoting USD/JPY as 110, an arbitrage opportunity arises because the implied rate and the market rate diverge.
 
-Furthermore, empirical studies suggest that these arbitrage opportunities become more frequent during periods of market volatility or when there's significant market activity, particularly when high volumes cause discrepancies due to differing operational latencies across trading platforms. Such scenarios can temporarily impede the regular rapid adjustment of prices, uncovering arbitrage possibilities.
+Furthermore, empirical studies suggest that these arbitrage opportunities become more frequent during periods of market [volatility](/wiki/volatility-trading-strategies) or when there's significant market activity, particularly when high volumes cause discrepancies due to differing operational latencies across trading platforms. Such scenarios can temporarily impede the regular rapid adjustment of prices, uncovering arbitrage possibilities.
 
 The correlation between exchange rates and the appearance of arbitrage opportunities signifies that market inefficiencies, although rare, are still possible, particularly in emerging markets or under strain in developed markets. Transaction speeds and technological advancements have increasingly narrowed these opportunities; however, for swift traders equipped with advanced algorithms capable of executing trades within milliseconds, these discrepancies still provide profitable ventures. 
 

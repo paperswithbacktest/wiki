@@ -27,7 +27,7 @@ This strategy offers a disciplined approach to investment selection as it system
 
 ## Application of Safety-First Criterion in Algorithmic Trading
 
-Algorithmic trading is characterized by its ability to execute large volumes of trades within milliseconds, driven by complex mathematical models and statistical analyses. In this fast-paced environment, managing risk is paramount. By incorporating Roy's safety-first criterion, algorithms can prioritize minimizing the probability of returns falling below a critical threshold, ensuring a more conservative investment strategy.
+Algorithmic trading is characterized by its ability to execute large [volume](/wiki/volume-trading-strategy)s of trades within milliseconds, driven by complex mathematical models and statistical analyses. In this fast-paced environment, managing risk is paramount. By incorporating Roy's safety-first criterion, algorithms can prioritize minimizing the probability of returns falling below a critical threshold, ensuring a more conservative investment strategy.
 
 To implement Roy’s safety-first criterion, trading algorithms must consider the likelihood of achieving less than the minimum acceptable return for a portfolio. This involves calculating the probability that the portfolio's return will fall below this threshold in real-time, allowing the algorithm to dynamically adjust the portfolio composition. The criterion serves as a guardrail, mitigating significant losses during volatile market phases by emphasizing decisions that favor downside protection.
 
@@ -37,7 +37,7 @@ A typical implementation of Roy's safety-first criterion requires programming th
 
 where \( E(R_p) \) is the expected return of the portfolio, \( MAR \) is the minimum acceptable return, and \( \sigma_p \) represents the standard deviation of the portfolio's returns. By continually updating and comparing these ratios, the algorithm can select the portfolio adjustments that optimize the trade-off between risk and return, safeguarding against adverse market conditions.
 
-In practice, implementing this criterion also involves integrating real-time data feeds and robust error-handling mechanisms to ensure that the trading system responds effectively to market changes. Python, a popular language for algorithmic trading, can be employed to code this dynamic selection process. For instance, a simplified code snippet might look like this:
+In practice, implementing this criterion also involves integrating real-time data feeds and robust error-handling mechanisms to ensure that the trading system responds effectively to market changes. Python, a popular language for [algorithmic trading](/wiki/algorithmic-trading), can be employed to code this dynamic selection process. For instance, a simplified code snippet might look like this:
 
 ```python
 def calculate_safety_first_ratio(expected_return, min_acceptable_return, std_deviation):
@@ -114,7 +114,7 @@ On the other hand, the Sharpe ratio centers on optimizing returns with respect t
 
 \[ \text{Sharpe Ratio} = \frac{\text{Expected Return} - \text{Risk-Free Rate}}{\text{Standard Deviation of Return}} \]
 
-Here, the ratio measures the excess return per unit of risk, guiding investors towards portfolios that deliver higher returns relative to their volatility. The risk-free rate serves as a baseline, typically represented by government bond yields.
+Here, the ratio measures the excess return per unit of risk, guiding investors towards portfolios that deliver higher returns relative to their [volatility](/wiki/volatility-trading-strategies). The risk-free rate serves as a baseline, typically represented by government bond yields.
 
 The choice between employing the safety-first criterion and the Sharpe ratio depends largely on an investor's risk tolerance and financial goals. Those prioritizing loss aversion might gravitate towards the safety-first approach to avoid dipping below critical return levels. Conversely, investors aiming for maximum returns for the given level of risk might prefer the Sharpe ratio, optimizing the trade-off between risk and return. Both metrics underscore the importance of balancing risk with potential rewards, offering strategic insights into portfolio selection and management.
 

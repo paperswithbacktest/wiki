@@ -75,7 +75,7 @@ Implementing neural networks in algorithmic trading systems presents a series of
 
 One of the primary technical challenges is ensuring data quality. In trading, neural networks rely heavily on historical and real-time data to make predictions and decisions. Poor data quality, characterized by inaccuracies, inconsistencies, or omissions, can lead to unreliable outputs from the model, ultimately affecting trading performance. As financial data comes from multiple sources with varying frequencies and formats, maintaining a high standard of data integrity becomes crucial.
 
-Another significant challenge is the computational requirement. Training neural networks, especially deep learning models, demands substantial computational resources. The volume of data involved in financial markets combined with complex model architectures can strain hardware capabilities. This necessity for high performance computing resources increases both the cost and complexity of implementing neural network solutions in algorithmic trading environments.
+Another significant challenge is the computational requirement. Training neural networks, especially [deep learning](/wiki/deep-learning) models, demands substantial computational resources. The volume of data involved in financial markets combined with complex model architectures can strain hardware capabilities. This necessity for high performance computing resources increases both the cost and complexity of implementing neural network solutions in algorithmic trading environments.
 
 ### Risks and Ethical Considerations
 

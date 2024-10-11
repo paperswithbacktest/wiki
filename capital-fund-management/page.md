@@ -18,7 +18,7 @@ Capital Fund Management (CFM) traces its origins to 1991, when it was founded by
 
 A major milestone in CFM's history occurred in 2000, when it merged with Science & Finance. This strategic merger enriched CFM with additional expertise in quantitative finance and computing, setting a foundation for more sophisticated trading strategies. This move was instrumental in bolstering its capabilities and integrating a comprehensive approach to data-driven decision-making within the firm.
 
-CFM's evolution continued with the expansion of its product offerings in 2013, marked by the introduction of alternative beta programs. These programs focus on harnessing data-driven decisions to adeptly navigate the complexities of investment landscapes. The firm leveraged cutting-edge research and quantitative models to diversify its strategies beyond traditional investment paradigms.
+CFM's evolution continued with the expansion of its product offerings in 2013, marked by the introduction of alternative beta programs. These programs focus on harnessing data-driven decisions to adeptly navigate the compl[exit](/wiki/exit-strategy)ies of investment landscapes. The firm leveraged cutting-edge research and quantitative models to diversify its strategies beyond traditional investment paradigms.
 
 The incorporation of alternative beta strategies allowed CFM to offer products that capture the systematic, non-capitalization-weighted sources of risk and return. These strategies are constructed using objective, rule-based methodologies to target risk premia that are uncorrelated with conventional market indices. This enabled the firm to offer solutions that could enhance portfolio diversification and optimize risk-adjusted returns for its clients.
 
@@ -27,9 +27,9 @@ CFM's commitment to quantitative finance and data analysis has been a constant t
 
 ## CFM’s Approach to Algorithmic Trading
 
-Capital Fund Management (CFM) employs a highly scientific and academic approach to algorithmic trading by integrating quantitative techniques into their investment strategies. At the core of their methodology is the use of complex mathematical models and extensive data analysis. CFM employs a multi-strategy, multi-asset framework, meaning they operate across various asset classes, such as equities, commodities, and currencies, while utilizing a combination of strategies tailored to each asset's characteristics.
+Capital Fund Management (CFM) employs a highly scientific and academic approach to [algorithmic trading](/wiki/algorithmic-trading) by integrating quantitative techniques into their investment strategies. At the core of their methodology is the use of complex mathematical models and extensive data analysis. CFM employs a multi-strategy, multi-asset framework, meaning they operate across various asset classes, such as equities, commodities, and currencies, while utilizing a combination of strategies tailored to each asset's characteristics.
 
-CFM's systematic approach involves leveraging statistical and machine learning methods to detect patterns and inefficiencies in the market. By utilizing massive datasets, they are able to identify potential alpha opportunities and craft strategies that statistically outperform the market. CFM's quantitative strategies often include model-based predictions and optimization techniques, where historical and real-time data feed into algorithms to execute trades with precision and efficiency.
+CFM's systematic approach involves leveraging statistical and machine l[earning](/wiki/earning-announcement) methods to detect patterns and inefficiencies in the market. By utilizing massive datasets, they are able to identify potential alpha opportunities and craft strategies that statistically outperform the market. CFM's quantitative strategies often include model-based predictions and optimization techniques, where historical and real-time data feed into algorithms to execute trades with precision and efficiency.
 
 An illustration of CFM's strategy could involve mean reversion or trend-following techniques. For instance, in mean reversion, algorithms are designed to identify price action deviations from historical averages, betting on a reversal to the norm. These strategies can be mathematically formulated, where mean reversion might involve statistically testing the hypothesis that a time series \( X_t \) reverts to a mean level \( \mu \):
 
@@ -39,7 +39,7 @@ where \( \phi \) is the speed of reversion and \( \epsilon_t \) is a noise term.
 
 CFM's multi-asset capability allows them to diversify risk, reducing exposure by spreading investments across different market sectors. This is crucial in managing systematic risks and ensuring stable returns. Their tech-savvy approach utilizes high-frequency trading systems and the latest computational tools to execute trades, minimizing transaction costs and market impact.
 
-Furthermore, CFM captures alternative investment strategies by harnessing alternative data sources, which might include satellite imagery, social media sentiment analysis, and internet search trends. This alternative data is meticulously analyzed to generate insights that traditional data might miss, enabling CFM to stay ahead in a competitive landscape.
+Furthermore, CFM captures alternative investment strategies by harnessing [alternative data](/wiki/best-alternative-data) sources, which might include satellite imagery, social media sentiment analysis, and internet search trends. This alternative data is meticulously analyzed to generate insights that traditional data might miss, enabling CFM to stay ahead in a competitive landscape.
 
 Overall, CFM's scientific orientation ensures they remain at the forefront of algorithmic trading, employing a comprehensive, data-driven strategy that not only capitalizes on existing market opportunities but also innovates within the quantitative finance sector.
 
@@ -52,7 +52,7 @@ Jean-Philippe Bouchaud, widely respected for his contributions to econophysics a
 
 Philippe Jordan's leadership has equally been crucial. His adeptness at managing strategic initiatives and business development has ensured that CFM remains at the forefront of innovation in the asset management industry. His leadership style focuses on cultivating a dynamic team environment where cutting-edge research and practical applications converge seamlessly.
 
-The addition of Laurent Laloux to the board in 2017 further strengthened CFM's leadership. With extensive experience in quantitative finance, Laloux brought new insights and expertise, reinforcing CFM's commitment to innovative research and systematic trading. His forward-thinking approach has been instrumental in integrating advanced data analytics and machine learning techniques into CFM's investment strategies.
+The addition of Laurent Laloux to the board in 2017 further strengthened CFM's leadership. With extensive experience in quantitative finance, Laloux brought new insights and expertise, reinforcing CFM's commitment to innovative research and systematic trading. His forward-thinking approach has been instrumental in integrating advanced data analytics and [machine learning](/wiki/machine-learning) techniques into CFM's investment strategies.
 
 Together, these leaders have cultivated a management style that aligns scientific inquiry with strategic action, ensuring CFM's ongoing success and influence in the financial sector. Through their dedicated leadership, CFM continues to thrive, expanding its reach and impact in global markets.
 

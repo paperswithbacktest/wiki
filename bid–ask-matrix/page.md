@@ -31,7 +31,7 @@ To qualify as a valid bid–ask matrix, three critical conditions must be met:
 
 3. **Economy of Direct Exchanges:** Direct exchanges should be more beneficial than any indirect, multi-step trades. Mathematically, this translates into a form of the triangle inequality in the context of trading, where the direct exchange rate \( \pi_{ij} \) should be less than or equal to the product of exchange rates for trading through an intermediate asset. This condition is crucial to prevent arbitrage opportunities, which can occur if a trader can profit by exploiting discrepancies in indirect trading paths.
 
-These three conditions ensure the matrix represents a realistic and economically sensible model of asset exchanges, helping traders navigate complex financial markets efficiently. By following these principles, traders can build models to identify arbitrage-free portfolios, enhancing the efficiency of the trading strategies they develop.
+These three conditions ensure the matrix represents a realistic and economically sensible model of asset exchanges, helping traders navigate complex financial markets efficiently. By following these principles, traders can build models to identify [arbitrage](/wiki/arbitrage)-free portfolios, enhancing the efficiency of the trading strategies they develop.
 
 
 ## Examples of Bid–Ask Matrices
@@ -154,7 +154,7 @@ In this example, the matrix provides exchange rates between three hypothetical a
 
 ## Conclusion
 
-The bid–ask matrix plays a vital role in algorithmic trading by providing a framework for understanding asset exchanges and optimizing trading strategies. It ensures that traders can execute transactions efficiently by offering a comprehensive view of exchange rates among different assets. One of its primary benefits is maintaining arbitrage-free conditions, which prevents the exploitation of price differentials and ensures that trades are conducted at fair market values. This ultimately reduces potential losses associated with transaction costs and enhances overall market efficiency.
+The bid–ask matrix plays a vital role in [algorithmic trading](/wiki/algorithmic-trading) by providing a framework for understanding asset exchanges and optimizing trading strategies. It ensures that traders can execute transactions efficiently by offering a comprehensive view of exchange rates among different assets. One of its primary benefits is maintaining arbitrage-free conditions, which prevents the exploitation of price differentials and ensures that trades are conducted at fair market values. This ultimately reduces potential losses associated with transaction costs and enhances overall market efficiency.
 
 By identifying and minimizing transaction costs through streamlined trade executions, the bid–ask matrix allows traders to develop strategies that are both efficient and profitable. This strategic advantage is crucial as it enables the identification of optimal trading paths, maximizing returns while keeping trade expenses to a minimum.
 

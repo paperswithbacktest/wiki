@@ -40,7 +40,7 @@ In investment contexts, the formula may be utilized to determine the proportion 
 
 ## Application of the Kelly Criterion in Algorithmic Trading
 
-The Kelly Criterion is a mathematical formula used to determine the optimal size of a series of bets, which can be directly applied to algorithmic trading strategies. By calculating the proportion of capital to allocate to a given investment based on the expected return and probability of success, traders can maximize their long-term growth potential. This approach, especially in the highly structured environment of algorithmic trading, helps in determining the proportion of the portfolio to risk on each trade. 
+The Kelly Criterion is a mathematical formula used to determine the optimal size of a series of bets, which can be directly applied to [algorithmic trading](/wiki/algorithmic-trading) strategies. By calculating the proportion of capital to allocate to a given investment based on the expected return and probability of success, traders can maximize their long-term growth potential. This approach, especially in the highly structured environment of algorithmic trading, helps in determining the proportion of the portfolio to risk on each trade. 
 
 To integrate the Kelly Criterion in diversification strategies, it is used alongside other portfolio management strategies to balance the risk across different investments. By allocating funds according to the Kelly Criterion, traders can effectively manage their risk exposure and optimize their returns. As a result, a portfolio can be constructed that is not only diversified in terms of asset types and sectors but also in terms of risk profile and expected returns. This means using the Kelly Criterion allows for a dynamic adjustment of investment weights based on changing market conditions, ensuring that the portfolio remains optimized for long-term growth.
 
@@ -69,7 +69,7 @@ Finally, adopting Kelly's methods in automated trading systems offers several be
 
 ## Advantages of Using the Kelly Criterion
 
-The Kelly Criterion stands out for its mathematical rigor in maximizing the growth of one's wealth over the long term. It is rooted in the principle of optimizing the geometric mean of wealth, which ensures sustainable growth by reinvesting a calculated portion of available capital. By leveraging a formula that factors in probabilities and outcomes, the Kelly Criterion allows investors to balance their risk with potential reward effectively.
+The Kelly Criterion stands out for its mathematical rigor in maximizing the growth of one's wealth over the long term. It is rooted in the principle of optimizing the geometric mean of wealth, which ensures sustainable growth by reinvesting a calculated portion of available capital. By leveraging a formula that [factor](/wiki/factor-investing)s in probabilities and outcomes, the Kelly Criterion allows investors to balance their risk with potential reward effectively.
 
 The central approach of the Kelly Criterion is to identify the optimal fraction of capital to wager or invest in an activity with uncertain outcomes. This optimal fraction \( f^* \) is determined by the formula:
 
@@ -83,7 +83,7 @@ where:
 
 This formula mathematically ensures that gains are maximized in such a way that the compounding effect of returns can work over the long term. Essentially, it advises scaling back investments as the risk increases, maintaining a balance between maximizing expected returns and protecting against significant losses.
 
-Moreover, the beauty of the Kelly Criterion is its application to maintaining a delicate balance between risk and reward. By adjusting the fraction of the capital invested based on changing probabilities and odds, it prevents overly aggressive betting that could result in significant short-term losses. This built-in conservatism helps in managing the volatility of returns, providing a smoother growth curve for capital over time.
+Moreover, the beauty of the Kelly Criterion is its application to maintaining a delicate balance between risk and reward. By adjusting the fraction of the capital invested based on changing probabilities and odds, it prevents overly aggressive betting that could result in significant short-term losses. This built-in conservatism helps in managing the [volatility](/wiki/volatility-trading-strategies) of returns, providing a smoother growth curve for capital over time.
 
 Prominent investors, such as Warren Buffett and Bill Gross, have reportedly applied principles akin to the Kelly Criterion in their investment strategies. Buffett’s principle of betting big when the odds are in his favor echoes the core premise of Kelly's approach — to capitalize on the most favorable bets rather than spreading resources thinly. This philosophy has contributed to his long-term success, demonstrating the practical applicability of this mathematical approach beyond just theoretical constructs.
 
