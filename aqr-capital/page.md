@@ -85,3 +85,16 @@ Looking to the future, algorithmic trading at AQR Capital is poised to play an i
 To maintain its leadership in the field, AQR Capital will need to continue investing in research and development. The exploration of new algorithmic trading strategies, [machine learning](/wiki/machine-learning) techniques, and data analysis tools is critical for staying ahead of market trends. By doing so, AQR can reinforce its commitment to innovation and excellence in investment management, paving the way for a future where algorithmic trading strategies significantly redefine the landscape of the financial industry. As the potential of algorithmic trading unfolds, further exploration and study will be vital for investment professionals seeking to leverage these transformative strategies effectively.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[5]: Asness, C. S., Liew, J. M., & Pedersen, L. H. (2001). ["Do Hedge Funds Hedge?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=252810) Financial Analysts Journal, 57(5), 6-18.

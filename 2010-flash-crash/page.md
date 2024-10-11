@@ -126,3 +126,16 @@ One of the major outcomes was the introduction of circuit breakers, mechanisms d
 The Flash Crash's legacy is evident in the intensified scrutiny of trading practices and the evolving regulatory landscape. It catalyzed global discussions about the pace of technological integration in financial markets and its implications for market integrity and investor confidence. The enduring impact of the Flash Crash lies in its role as a cautionary tale—an emblem of the potential perils that come with financial innovation lacking sufficient oversight and risk controls. As markets continue to evolve, the lessons from this event remain crucial to understanding and navigating the complexities of modern finance.
 
 
+
+
+## References & Further Reading
+
+[1]: U.S. Securities and Exchange Commission & Commodity Futures Trading Commission. (2010). ["Findings Regarding the Market Events of May 6, 2010."](https://www.sec.gov/news/studies/2010/marketevents-report.pdf)
+
+[2]: Kirilenko, A., Kyle, A. S., Samadi, M., & Tuzun, T. (2017). ["The Flash Crash: High-Frequency Trading in an Electronic Market."](https://www.jstor.org/stable/26652722) Review of Financial Studies, 30(11), 2226–2257.
+
+[3]: Lewis, M. (2014). ["Flash Boys: A Wall Street Revolt."](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599) W. W. Norton & Company.
+
+[4]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) John Wiley & Sons.
+
+[5]: Patterson, S. (2013). ["Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S. Stock Market."](https://www.amazon.com/Dark-Pools-Machine-Riggers-Market/dp/0307887189) Crown Business.

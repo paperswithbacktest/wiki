@@ -80,3 +80,14 @@ The firm's success is largely attributed to its data-driven strategies that mini
 Furthermore, AlphaSimplex's commitment to continuous innovation ensures that they remain at the forefront of the industry. By staying adaptive to market changes and advancements in technology, they maintain an edge that is essential for long-term success. As algorithmic trading continues to shape financial markets, their pioneering strategies provide a blueprint for how investment firms can achieve growth in a competitive environment.
 
 
+
+
+## References & Further Reading
+
+[1]: Lo, A. W. (2016). ["Adaptive Markets: Financial Evolution at the Speed of Thought."](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought/dp/0691135142) Princeton University Press.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: Berger, A., Pukthuanthong, K., & Yang, J. J. (2011). ["International diversification with frontier markets."](https://www.sciencedirect.com/science/article/abs/pii/S0304405X11000420) Journal of Financial Economics.
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan

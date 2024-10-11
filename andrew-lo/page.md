@@ -67,3 +67,16 @@ Lo’s extensive research, particularly in crafting algorithms that can adjust t
 The legacy of Andrew Lo is evident not only in academia but also in the success of practical financial applications such as those employed by AlphaSimplex Group, where innovative trading approaches inspired by his research continue to thrive. As we look to the future, his foundational contributions remain essential, paving the way for ongoing advancements in algorithmic trading and financial engineering.
 
 
+
+
+## References & Further Reading
+
+[1]: Lo, A. W. (2004). ["The Adaptive Markets Hypothesis: Market Efficiency from an Evolutionary Perspective."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=602222) *Journal of Portfolio Management*, 30(5), 15-29.
+
+[2]: Lo, A. W. (2017). ["Adaptive Markets: Financial Evolution at the Speed of Thought."](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought/dp/0691135142) Princeton University Press.
+
+[3]: Lo, A. W., & MacKinlay, A. C. (1999). ["A Non-Random Walk Down Wall Street."](https://www.amazon.fr/Non-Random-Walk-Down-Wall-Street/dp/0691092567) Princeton University Press.
+
+[4]: Lo, A. W. (2005). ["Reconciling Efficient Markets with Behavioral Finance: The Adaptive Markets Hypothesis."](https://www.researchgate.net/publication/228259155_Reconciling_Efficient_Markets_with_Behavioral_Finance_The_Adaptive_Markets_Hypothesis) *Journal of Investment Consulting*, 7, 21-44.
+
+[5]: Lo, A. W., & Hasanhodzic, J. (2009). ["The Heretics of Finance: Conversations with Leading Practitioners of Technical Analysis."](https://www.amazon.com/Heretics-Finance-Conversations-Practitioners-Technical/dp/1576603164) Bloomberg Press.
