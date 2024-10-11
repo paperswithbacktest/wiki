@@ -63,3 +63,16 @@ Over the years, the Man Group has continuously demonstrated its ability to integ
 This lasting influence of James Man underscores how a robust foundation coupled with an innovative spirit can lead to sustained success. The journey from a sugar brokerage to a powerhouse in algorithmic trading highlights the transformative path shaped by James Man's original vision. The evolution of the Man Group into a modern investment giant serves as a notable example of strategic growth and adaptation, ensuring its relevance in the ever-evolving financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["The Man Group: A History and Evolution"](https://www.man.com/) - Man Group Official Website
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.fr/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.fr/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan

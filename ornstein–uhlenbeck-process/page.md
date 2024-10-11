@@ -159,3 +159,20 @@ The Ornstein–Uhlenbeck process stands out as a versatile and indispensable too
 Further research and development continue to expand the process's applicability across diverse domains. The adaptability of the Ornstein–Uhlenbeck process, coupled with continuous innovation, ensures its ongoing significance and utilization. As computational finance and quantitative models evolve, the integration of such stochastic processes becomes increasingly crucial, reinforcing their role as tools for both theoretical understanding and practical application. This enduring adaptability exemplifies why the Ornstein–Uhlenbeck process remains a cornerstone in fields requiring rigorous mathematical and statistical modeling.
 
 
+
+
+## References & Further Reading
+
+[1]: Uhlenbeck, G. E., & Ornstein, L. S. (1930). ["On the theory of the Brownian motion."](https://link.aps.org/doi/10.1103/PhysRev.36.823) Physical Review.
+
+[2]: Gibson, R., & Schwartz, E. S. (1990). ["Stochastic convenience yield and the pricing of oil contingent claims."](https://www.jstor.org/stable/2328801)90039-V) Journal of Finance.
+
+[3]: Vasicek, O. (1977). ["An equilibrium characterization of the term structure."](https://www.sciencedirect.com/science/article/pii/0304405X77900162) Journal of Financial Economics, 5(2), 177-188.
+
+[4]: Denny, M. (2016). ["The Ornstein–Uhlenbeck process: a review"](https://www.researchgate.net/publication/2912703_Ornstein-Uhlenbeck_Process) American Journal of Physics, 84, 935-947.
+
+[5]: [Hull, J. C. (2015). "Options, Futures, and Other Derivatives"](https://fac.ksu.edu.sa/sites/default/files/options_futures_and_other_derivatives_8th_ed_part1.pdf) Pearson. 
+
+[6]: Cartea, Á., & Figueroa, M. G. (2005). ["Pricing in electricity markets: A mean reverting jump diffusion model with seasonality."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=592262) Journal of Financial Economics, 78(3), 463-492. 
+
+[7]: [Wilmott, P. (2007). "Paul Wilmott Introduces Quantitative Finance"](https://www.amazon.com/Paul-Wilmott-Introduces-Quantitative-Finance/dp/0470319585) Wiley. 

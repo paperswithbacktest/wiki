@@ -177,3 +177,16 @@ The strategic application of these orders helps traders optimize their market ex
 Moreover, the fluid nature of financial markets necessitates a proactive stance from traders. Continual learning and adaptation are essential to stay ahead of market shifts and evolving trading technology. As algorithmic trading continues to grow and evolve, being conversant with various order types and their implications on market behavior will empower traders to leverage opportunities efficiently, maintaining a competitive edge in a rapidly changing landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies"](https://www.amazon.fr/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson
+
+[2]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506). Wiley Finance.
+
+[3]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management"](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management). Academic Press.
+
+[4]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading"](https://www.amazon.com/Empirical-Market-Microstructure-Institutions-Econometrics/dp/0195301641). Oxford University Press.
+
+[5]: Narang, R. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading"](https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362411). Wiley.
