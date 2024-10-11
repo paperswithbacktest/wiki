@@ -1,5 +1,5 @@
 ---
-title: "Reversal in Algo Trading"
+title: "Reversal (Algo Trading)"
 description: Discover the Reversal effect in Algo Trading, a phenomenon where asset prices temporarily deviate from their intrinsic values before correcting. Learn how Reversal strategies work, their roots, challenges, and exploit this effect with precision using algorithms. Explore resources for trading strategies, libraries, datasets, and become a successful quant trader.
 ---
 

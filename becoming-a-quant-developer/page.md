@@ -1,5 +1,5 @@
 ---
-title: "Becoming a Quant Developer in Algo Trading"
+title: "Becoming a Quant Developer (Algo Trading)"
 description: Unlock the world of quant developing in algo trading. As a quant developer, you'll bridge finance and tech by creating algorithmic trading strategies, optimizing mathematical models for pricing and risk management, and executing trades at record speeds. Explore real-life examples and strategies, plus a database of research-backed approaches in equities, cryptocurrencies, commodities, currencies, bonds, and options. Dive into the dynamic role that transforms theoretical financial insights into real-world tools driving efficiency, innovation, and strategic advantage.
 ---
 

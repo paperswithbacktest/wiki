@@ -1,5 +1,5 @@
 ---
-title: "Value in Algo Trading"
+title: "Value (Algo Trading)"
 description: Discover the fundamentals of Value-Based Investing, a popular strategy in Algo Trading, where undervalued assets are identified and capitalized on. Learn its application to equities, currencies, bonds, and more. Understand its relevance in today's market and how algo trading has revolutionized its implementation. Explore resources for further study.
 ---
 

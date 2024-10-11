@@ -1,5 +1,5 @@
 ---
-title: "Trading Earnings in Algo Trading"
+title: "Trading Earnings (Algo Trading)"
 description: Discover the concept of Trading Earnings, its impact on markets, and strategies for maximizing profits in algorithmic trading based on corporate earnings announcements. Learn about pre- and post-earnings announcement drifts, and how quantitative traders exploit this opportunity using predictive models and data analysis.
 ---
 

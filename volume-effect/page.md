@@ -1,5 +1,5 @@
 ---
-title: "Volume Effect in Algo Trading"
+title: "Volume Effect (Algo Trading)"
 description: Discover the importance and role of volume in algo trading, a fundamental yet often overlooked indicator. Learn how high volume can indicate market strength and predict momentum shifts. Explore strategies for using volume to enhance trading signals and confirm trend reversals or breakouts.
 ---
 

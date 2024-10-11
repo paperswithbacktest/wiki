@@ -1,5 +1,5 @@
 ---
-title: "AGI (Artificial General Intelligence) in Algo Trading"
+title: "AGI (Artificial General Intelligence) (Algo Trading)"
 description: Discover how Artificial General Intelligence (AGI), capable of human-like intelligence, is revolutionizing algorithmic trading. Learn about its benefits, challenges, and potential impact on the future of trading. Read more for resources on trading strategies, libraries, datasets, and becoming a quant trader.
 ---
 

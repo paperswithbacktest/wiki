@@ -1,5 +1,5 @@
 ---
-title: "General Adversarial Network (GAN) in Algo Trading"
+title: "General Adversarial Network (GAN) (Algo Trading)"
 description: Discover how the General Adversarial Network (GAN), a revolutionary machine learning model, is transforming algorithmic trading. Learn how GANs generate new data to simulate market scenarios, optimize strategies, reduce risk, and improve sentiment analysis. Dive into the world of GANs and enhance your trading strategies. Explore resources for quantitative traders.
 ---
 

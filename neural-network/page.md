@@ -1,5 +1,5 @@
 ---
-title: "Neural Network in Algo Trading"
+title: "Neural Network (Algo Trading)"
 description: Discover the future of algorithmic trading as we deep dive into the revolutionary role of neural networks. Neural networks, modeled after the human brain, process vast financial data sets to detect trends, anticipate market movements, and optimize trading strategies. Learn about their concrete applications, challenges, and the promising integration with other AI technologies.
 ---
 

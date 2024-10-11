@@ -1,5 +1,5 @@
 ---
-title: "Smart Beta in Algo Trading"
+title: "Smart Beta (Algo Trading)"
 description: Discover the concept, benefits, and rise of Smart Beta in algorithmic trading. This innovative investment strategy combines passive and active approaches to maximize returns and minimize risk. Explore how it differs from other strategies and learn about popular Smart Beta funds. Read more for resources on trading strategies, libraries, datasets, and becoming a quant trader.
 ---
 

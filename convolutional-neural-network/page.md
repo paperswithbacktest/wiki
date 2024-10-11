@@ -1,5 +1,5 @@
 ---
-title: "Convolutional Neural Network (CNN) in Algo Trading"
+title: "Convolutional Neural Network (CNN) (Algo Trading)"
 description: Discover how Convolutional Neural Networks (CNNs), a powerful deep learning model, are revolutionizing algorithmic trading by analyzing market data, identifying patterns, and processing news images. Learn about CNN architecture and its applications in the financial industry. Explore resources for traders and developers.
 ---
 

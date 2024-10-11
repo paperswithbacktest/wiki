@@ -1,5 +1,5 @@
 ---
-title: "Stock Picking in Algo Trading"
+title: "Stock Picking (Algo Trading)"
 description: Delve into the world of Stock Picking, an essential technique in quantitative trading for maximizing returns through meticulous analysis of stock fundamentals and prices. Learn about the stages of stock picking, its differences with passive management, and resources to help you become a successful quant trader.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pairs Trading in Algo Trading"
+title: "Pairs Trading (Algo Trading)"
 description: Discover the intricacies of pair trading in algo trading, including its theoretical framework based on cointegration and Z-score analysis. Explore historical applications and learn how top hedge funds employ this strategy. Python code snippets provided for identifying cointegration, calculating correlation, and determining Z-scores. Begin your journey into the world of pairs trading today.
 ---
 
