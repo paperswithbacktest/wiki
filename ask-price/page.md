@@ -128,3 +128,18 @@ In auctions, ask prices guide participants by establishing starting points for b
 Going forward, investigating the nuances of the bid-ask spread will enhance one's comprehension of market activities, illuminating how the interplay between ask and bid prices can indicate market conditions and signal trading opportunities. A deeper examination of these spreads can offer insights into market liquidity, volatility, and the potential cost of trading, providing traders with a competitive edge.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[5]: Mankiw, N. G. (2014). ["Principles of Economics"](https://www.amazon.com/Principles-Economics-N-Gregory-Mankiw/dp/0538453052) (7th Edition). Cengage Learning.
+
+[6]: Fabozzi, F. J., Focardi, S. M., & Kolm, P. N. (2006). ["The Mathematics of Financial Modeling and Investment Management"](https://www.wiley.com/en-us/The+Mathematics+of+Financial+Modeling+and+Investment+Management-p-9780471674238). Wiley.

@@ -154,3 +154,18 @@ As data analytics and computational power expand, APT's role in algorithmic trad
 In conclusion, APT extends beyond a simple asset pricing tool; it represents a significant step forward in quantitative finance, enabling a more comprehensive approach to valuing assets and managing portfolio risk. As technology continues to advance, the potential of APT in fostering a more informed and efficient financial landscape is immense.
 
 
+
+
+## References & Further Reading
+
+[1]: Ross, S. A. (1976). ["The Arbitrage Theory of Capital Asset Pricing."](https://www.top1000funds.com/wp-content/uploads/2014/05/The-Arbitrage-Theory-of-Capital-Asset-Pricing.pdf) Journal of Economic Theory, 13(3), 341-360.
+
+[2]: Bodie, Z., Kane, A., & Marcus, A. J. (2014). ["Investments"](https://cms.dm.uba.ar/Members/maurette/ACF2022/%28McGraw-Hill_Irwin%20series%20in%20finance%2C%20insurance%2C%20and%20real%20estate%29%20Zvi%20Bodie_%20Alex%20Kane_%20Alan%20J%20Marcus-Investments-Mc-Graw-Hill%20Education%20%282014%29.pdf) (10th ed.). McGraw-Hill Education.
+
+[3]: Reinganum, M. R. (1981). ["The Arbitrage Pricing Theory: Some Empirical Results."](https://www.jstor.org/stable/2327013) Journal of Finance, 36(2), 313-321.
+
+[4]: Schneeweis, T., Crowder, G, & Kazemi, H. (2010). ["The New Science of Asset Allocation: Risk Management in a Multi-Asset World"](https://www.amazon.com/New-Science-Asset-Allocation-Multi-Asset/dp/047053740X). Wiley.
+
+[5]: Connor, G., & Korajczyk, R. A. (1988). ["Risk and Return in an Equilibrium APT: Application of a New Test Methodology."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1917406) Journal of Financial and Quantitative Analysis, 23(4), 413-430.
+
+[6]: Ang, A. (2014). ["Asset Management: A Systematic Approach to Factor Investing."](https://www.amazon.com/Asset-Management-Systematic-Investing-Association/dp/0199959323) Oxford University Press.

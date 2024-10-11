@@ -133,3 +133,16 @@ The significance of ARCH models extends beyond volatility prediction; they serve
 As financial markets continue evolving, so too do the econometric models employed to understand them. With the integration of machine learning techniques and computational advancements, the future of ARCH models holds promise for more refined and accurate predictive analytics. This ongoing evolution underscores the importance of adapting and enhancing econometric models to remain competitive in rapidly changing financial environments. The continuous development and integration of ARCH models signal a robust future where sophisticated mathematical frameworks increasingly support complex trading strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Engle, R. F. (1982). ["Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation."](https://doi.org/10.2307/1912773) Econometrica, 50(4), 987-1007.
+
+[2]: Bollerslev, T. (1986). ["Generalized Autoregressive Conditional Heteroskedasticity."](https://www.sciencedirect.com/science/article/abs/pii/0304407686900631) Journal of Econometrics, 31(3), 307-327.
+
+[3]: Tsay, R. S. (2010). ["Analysis of Financial Time Series"](https://cpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/0/6796/files/2017/03/analysis-of-financial-time-series-copy-2ffgm3v.pdf) (3rd ed.). Wiley-Interscience.
+
+[4]: Engle, R. F., & Patton, A. J. (2001). ["What Good is a Volatility Model?"](https://web-static.stern.nyu.edu/rengle/EnglePattonQF.pdf) Quantitative Finance, 1(2), 237-245.
+
+[5]: Poon, S.-H., & Granger, C. W. J. (2003). ["Forecasting Volatility in Financial Markets: A Review."](https://www.aeaweb.org/articles?id=10.1257/002205103765762743) Journal of Economic Literature, 41(2), 478-539.

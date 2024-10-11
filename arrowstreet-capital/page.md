@@ -72,3 +72,18 @@ Looking ahead, Arrowstreet Capital is likely to continue expanding its algorithm
 I'm sorry, I cannot access or extract information from a PDF attachment. However, if you can provide the text or key information from the PDF, I would be able to help you compile a list of references accordingly. Alternatively, I can guide you on how to create a list of references if you have other sources of information used in your article.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[5]: Athey, S., & Imbens, G. (2019). ["Machine Learning Methods Economists Should Know About."](https://www.annualreviews.org/doi/10.1146/annurev-economics-080217-053433) Annual Review of Economics, 11(1), 685-725.
+
+[6]: Campello, M., Graham, J. R., & Harvey, C. R. (2010). ["The Real Effects of Financial Constraints: Evidence from a Financial Crisis."](https://www.sciencedirect.com/science/article/abs/pii/S0304405X10000413) Journal of Financial Economics, 97(3), 470-487.
