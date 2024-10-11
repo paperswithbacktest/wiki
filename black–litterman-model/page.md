@@ -141,3 +141,16 @@ As financial markets evolve, the prospects for the Black–Litterman model remai
 Continued exploration and research are crucial to advance the utility of the Black–Litterman model further. Integrating cutting-edge technologies such as [machine learning](/wiki/machine-learning) could offer enhancements to the model, enabling better performance under varying market conditions. Moreover, ongoing efforts to refine the model's assumptions and methodologies will likely extend its applicability across different asset classes and market environments. Encouraging collaboration between academics and industry practitioners can drive innovation, ensuring that the Black–Litterman model remains a cornerstone of modern portfolio management and algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Black, F., & Litterman, R. (1992). ["Global Portfolio Optimization."](https://people.duke.edu/~charvey/Teaching/BA453_2006/Black_Litterman_Global_Portfolio_Optimization_1992.pdf) Financial Analysts Journal, 20(5), 1-8.
+
+[2]: Idzorek, T. M. (2005). ["A Step-by-Step Guide to the Black-Litterman Model: Incorporating User-Specified Confidence Levels."](https://people.duke.edu/~charvey/Teaching/BA453_2006/Idzorek_onBL.pdf) Working Paper.
+
+[3]: Meucci, A. (2005). ["The Black-Litterman Approach: Original Model and Extensions."](https://www.researchgate.net/publication/228205727_The_Black-Litterman_Approach_Original_Model_and_Extensions) Journal of Asset Management, 6(5), 318-338.
+
+[4]: Satchell, S., & Scowcroft, A. (2000). ["A Demystification of the Black-Litterman Model: Managing Quantitative and Traditional Portfolio Management."](https://www.researchgate.net/publication/31962785_A_demystification_of_the_Black-Litterman_model_Managing_quantitative_and_traditional_portfolio_construction) Journal of Asset Management, 1(2), 138-150.
+
+[5]: He, G., & Litterman, R. (1999). ["The Intuition Behind Black-Litterman Model Portfolios."](https://people.duke.edu/~charvey/Teaching/BA453_2004/GS_The_intuition_behind.pdf) Investment Management, Journal of Portfolio Management, 25(5), 44-51.

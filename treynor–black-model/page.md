@@ -186,3 +186,16 @@ Looking to the future, the integration of financial models such as Treynor–Bla
 The evolution of trading strategies with models such as Treynor–Black signals a shift towards increasingly sophisticated methods of managing investments. While there are inherent challenges and limitations, particularly concerning model assumptions and realistic application, continued innovation and adaptation hold the promise of enhancing both efficiency and effectiveness in trading. As we move forward, the synergy between financial models and cutting-edge technology is expected to redefine algorithmic trading strategies, paving the way for broader applications and new innovations in the financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Treynor, J. L., & Black, F. (1973). ["How to Use Security Analysis to Improve Portfolio Selection,"](https://www.semanticscholar.org/paper/How-to-Use-Security-Analysis-to-Improve-Portfolio-Treynor-Black/fd655bf8e1fb8b018c78188d8c32636ec8c7b3b6) The Journal of Business, 46(1), 66-86.
+
+[2]: Black, F., & Litterman, R. (1992). ["Global Portfolio Optimization,"](https://people.duke.edu/~charvey/Teaching/BA453_2006/Black_Litterman_Global_Portfolio_Optimization_1992.pdf) Financial Analysts Journal, 48(5), 28-43.
+
+[3]: Bodie, Z., Kane, A., & Marcus, A. J. (2014). ["Investments"](https://www.amazon.com/Investments-Portfolio-Management-Zvi-Bodie/dp/0071289143). McGraw-Hill Education.
+
+[4]: Elton, E. J., Gruber, M. J., Brown, S. J., & Goetzmann, W. N. (2009). ["Modern Portfolio Theory and Investment Analysis"](https://elearn.daffodilvarsity.edu.bd/pluginfile.php/913300/mod_label/intro/Modern%20Portfolio%20Theory%20and%20Investment%20Analysis.pdf), 9th Edition, Wiley.
+
+[5]: Lo, A. W., & MacKinlay, A. C. (1999). ["A Non-Random Walk Down Wall Street"](http://assets.press.princeton.edu/chapters/s6558.pdf). Princeton University Press.

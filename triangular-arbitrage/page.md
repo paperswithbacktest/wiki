@@ -153,3 +153,16 @@ In today's fast-paced trading environment, however, the viability of triangular 
 Despite these challenges, the core concept of triangular arbitrage remains integral to understanding currency market efficiencies. Technological advancements continue to shape the future of trading, pushing toward even more sophisticated algorithms capable of instantaneously capturing subtle arbitrage opportunities. Going forward, traders and technology developers alike will need to adapt to these changes, focusing on leveraging cutting-edge technology to maintain competitiveness in a rapidly evolving market.
 
 
+
+
+## References & Further Reading
+
+[1]: Lyons, R. K. (2001). ["The Microstructure Approach to Exchange Rates."](http://faculty.haas.berkeley.edu/lyons/docs/bookch1.pdf) MIT Press.
+
+[2]: Marshall, B. R., Treepongkaruna, S., & Young, M. (2008). ["An Analysis of Triangular Arbitrage Activity: Evidence from the Spot Foreign Exchange Market."](https://www.scirp.org/reference/referencespapers?referenceid=535839) Journal of Banking & Finance, 32(7), 1324-1336.
+
+[3]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.acsu.buffalo.edu/~keechung/MGF743/Readings/Trading-Exchanges-Market-Microstructure-Practitioners%20Draft%20Copy.pdf) Oxford University Press.
+
+[4]: Dacorogna, M. M., Müller, U. A., Nagler, R. J., Olsen, R. B., & Pictet, O. V. (2001). ["An Introduction to High-Frequency Finance."](https://scholar.google.ch/citations?user=qoIST1oAAAAJ&hl=en) Academic Press.
+
+[5]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-frequency trading."](https://www.researchgate.net/publication/228261374_High-Frequency_Trading) IT Financial Communications, 6(1-2), 24-31.

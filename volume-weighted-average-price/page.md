@@ -135,3 +135,16 @@ Here’s how you can organize your References section:
 Feel free to update the references with actual articles and links from your resources.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Volume-weighted Average Price (VWAP)"](https://chartschool.stockcharts.com/table-of-contents/technical-indicators-and-overlays/technical-overlays/volume-weighted-average-price-vwap#:~:text=Volume%2DWeighted%20Average%20Price%20(VWAP)%20is%20exactly%20what%20it,and%20ends%20when%20it%20closes.) on Investopedia
+
+[2]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[3]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management"](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management)
+
+[4]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506)
+
+[5]: Jalali, S. K., & Kearney, C. (2019). ["Algorithmic and High-Frequency Trading"](https://www.amazon.fr/Algorithmic-High-Frequency-Trading-%C3%81lvaro-Cartea/dp/1107091144) in The Journal of Financial Research

@@ -95,3 +95,18 @@ Visit the official QuantLib website for comprehensive documentation and communit
 By leveraging these resources, you can enhance your familiarity and proficiency with QuantLib, thereby maximizing its utility in your financial projects and trading strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Ametrano, F., & Ballabio, L. (2016). ["QuantLib: A Software Framework for Quantitative Finance."](https://www.quantlib.org/) Available at SSRN.
+
+[2]: Hull, J. C. (2017). ["Options, Futures, and Other Derivatives."](https://www.amazon.com/Options-Futures-Derivatives-English-Spanish/dp/1292212896) Pearson Education.
+
+[3]: Black, F., & Scholes, M. (1973). ["The Pricing of Options and Corporate Liabilities."](https://www.jstor.org/stable/1831029) Journal of Political Economy, 81(3), 637-654.
+
+[4]: Glasserman, P. (2003). ["Monte Carlo Methods in Financial Engineering."](https://www.academia.edu/26054760/Monte_Carlo_Methods_In_Financial_Engineering) Springer Science & Business Media.
+
+[5]: Andersen, L., & Piterbarg, V. (2010). ["Interest Rate Modeling. Volume I: Foundations and Vanilla Models."](https://hpcquantlib.wordpress.com/2017/06/05/andersen-piterbarg-integration-limits-for-the-time-dependent-heston-model/) Atlantic Financial Press.
+
+[6]: Wilmott, P. (2007). ["Paul Wilmott Introduces Quantitative Finance."](https://www.wiley.com/en-us/Paul+Wilmott+Introduces+Quantitative+Finance-p-9780471498629) John Wiley & Sons.
