@@ -12,6 +12,8 @@ Capital Fund Management (CFM) has established itself as a prominent player in th
 This article focuses on CFM's influential role in algorithmic trading, tracing its historical journey, distinctive methodology, and strategic collaborations with notable academic institutions. CFM's commitment to algorithmic trading stems from its foundational belief in the power of quantitative analysis and data-driven insights, which continue to shape its investment strategies and operational ethos.
 
 
+## Table of Contents
+
 ## History and Evolution of Capital Fund Management
 
 Capital Fund Management (CFM) traces its origins to 1991, when it was founded by Jean-Pierre Aguilar and Bruno Combier. The firm established itself early on as a forerunner in the application of quantitative and systematic investment strategies. This pioneering spirit set the stage for significant growth and innovation in the financial industry, contributing to CFM's reputation as a leader in algorithmic trading.

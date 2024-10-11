@@ -16,6 +16,8 @@ The role of Monte Carlo methods in addressing uncertainties in financial markets
 In summary, the intersection of algorithmic trading and Monte Carlo methods fortifies traders against the randomness inherent in financial markets, equipping them with the necessary tools to make informed trading decisions amidst uncertainty. By leveraging these simulations, traders can enhance predictive precision and risk management, driving strategic advantages in financial operations.
 
 
+## Table of Contents
+
 ## Understanding Monte Carlo Methods
 
 Monte Carlo methods are a class of computational algorithms that rely on repeated random sampling to obtain numerical results. These techniques are employed to understand complex systems that are analytically intractable. The principal idea is to use randomness to solve problems that might be deterministic in nature.

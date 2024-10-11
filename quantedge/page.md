@@ -14,6 +14,8 @@ As of March 2024, Quantedge Capital has achieved substantial financial growth, m
 By maintaining a focus on innovation and rigorous analysis, Quantedge Capital continues to attract and manage significant investments, carving out a niche in the competitive investment management landscape.
 
 
+## Table of Contents
+
 ## Company Overview
 
 Quantedge Capital, established in 2006, has grown significantly over the years, establishing itself as a prominent player in the investment management sector. Originally founded in Singapore, the firm has expanded its operations to include a strategic presence in New York City, reflecting its global ambitions and commitment to serving a diverse clientele.

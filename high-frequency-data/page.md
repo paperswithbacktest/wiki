@@ -18,6 +18,8 @@ In financial markets, understanding real-time market behaviors and dynamics is e
 In summary, high frequency data is indispensable in algorithmic trading, providing the necessary information to navigate the complexities of financial markets. As technological advancements continue to evolve, the efficiency and effectiveness of high frequency data collection and analysis are expected to improve, further empowering traders in the rapidly changing landscape of finance.
 
 
+## Table of Contents
+
 ## Understanding High Frequency Data
 
 High frequency data is integral to modern financial markets, where transactions occur with incredible speed and precision. It primarily consists of tick-by-tick market data, where each tick represents a change in price or [volume](/wiki/volume-trading-strategy), capturing every market event as it unfolds. This level of granularity allows traders and analysts to observe events over the smallest possible time intervals, commonly spanning mere milliseconds, and derive insights crucial for [algorithmic trading](/wiki/algorithmic-trading) strategies.

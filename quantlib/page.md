@@ -14,6 +14,8 @@ One indispensable tool for quantitative analysts engaged in algorithmic trading 
 This article will explore how QuantLib can be a powerful asset in the algorithmic trading toolkit. By leveraging the extensive capabilities of QuantLib, traders and financial analysts can enhance their trading strategies and improve their decision-making processes. Through features like support for multiple asset classes and sophisticated mathematical models, QuantLib provides the necessary components to drive innovation and efficiency in trading. Whether you are back-testing a new trading strategy or deploying high-frequency trading algorithms, QuantLib offers the functionality and flexibility needed to succeed in today’s fast-paced financial markets.
 
 
+## Table of Contents
+
 ## What is QuantLib?
 
 QuantLib is a numerical library mainly utilized within the quantitative finance community for the valuation of financial instruments and derivatives. Since its inception in 2000, this open-source project has been developed by a group of committed quantitative analysts and has become a significant tool in the finance sector, both for academic purposes and practical applications by industry professionals.

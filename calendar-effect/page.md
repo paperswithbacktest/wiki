@@ -16,6 +16,8 @@ Algorithmic trading, which leverages computer programs to execute trades at high
 This article is structured to provide a comprehensive understanding of calendar effects in financial markets. Beginning with the definition and examples of calendar effects, it will explore the underlying causes and the debate surrounding their existence and statistical importance. A connection will be drawn to algorithmic trading, illustrating how strategies can be formulated to exploit these predictable patterns, alongside a discussion on the potential risks and limitations of relying solely on these anomalies. The article will also challenge the validity of calendar effects through the lens of the efficient-market hypothesis, scrutinizing the risks of data mining and shifts in market behavior. Recent developments and academic findings will offer contemporary insights, concluding with a balanced perspective on the feasibility of incorporating calendar effects into algorithmic trading and proposing future research directions.
 
 
+## Table of Contents
+
 ## Understanding Calendar Effects
 
 Calendar effects refer to patterns in financial markets that appear to occur regularly at certain times or dates. These effects suggest that there could be predictable and exploitable trends based on the calendar. Two well-known examples are the January effect and the weekend effect.

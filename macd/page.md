@@ -14,6 +14,8 @@ The MACD works by comparing different exponential moving averages (EMAs) of a st
 In the context of algorithmic trading, MACD's integration allows traders to automate and systemize their strategies. The indicator's ability to swiftly highlight trend reversals can be particularly valuable in executing trades with precision and reducing reliance on emotional decision-making. Whether for seasoned professionals or novice traders, mastering the MACD indicator enhances one's capability to navigate the complexities of the market efficiently.
 
 
+## Table of Contents
+
 ## What is MACD?
 
 The MACD, or Moving Average Convergence/Divergence, is a technical trading indicator designed to help traders identify changes in a trend's strength, direction, momentum, and duration. This indicator is highly valued in the world of technical analysis due to its ability to provide a visual representation of stock price movements over a designated period.

@@ -16,6 +16,8 @@ Beyond his contributions to investment management, Harding is also noteworthy fo
 Through an exploration of David Winton Harding's career, one gains valuable insights into the methodologies and strategies driving quantitative investing. His work illustrates how blending scientific inquiry with financial acumen can lead to remarkable innovations and impact in both the investment world and beyond.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 David Harding was born in Oxford, England, in 1961, as the youngest of four siblings. His early education took place at Pangbourne College, an independent school known for its strong emphasis on academic excellence. This environment likely fostered his initial interest in analytical thinking and problem-solving—skills critical to his future career in quantitative finance.
@@ -87,3 +89,16 @@ Beyond his professional achievements, Harding's philanthropic efforts, epitomize
 David Winton Harding's legacy is multifaceted, blending the precision of quantitative finance with the altruistic pursuits of philanthropy and public service. His life's work offers enduring inspiration for future generations, promoting the integration of rigorous scientific methods in finance and encouraging philanthropic endeavors that focus on education and sustainability. Harding's contributions will likely continue to influence the trajectory of quantitative investing and philanthropy for years to come.
 
 
+
+
+## References & Further Reading
+
+[1]: ["The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution"](https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/073521798X) by Gregory Zuckerman
+
+[2]: ["Adaptive Markets: Financial Evolution at the Speed of Thought"](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought/dp/0691135148) by Andrew W. Lo
+
+[3]: ["David Harding: Hedge fund manager who's giving it away"](https://www.independent.co.uk/news/business/analysis-and-features/david-harding-hedge-fund-manager-who-s-giving-it-all-away-10025259.html) The Independent, article on David Harding's philanthropy
+
+[4]: ["AHL: Born to trade Futures"](https://www.man.com/ahl) - Information about AHL, a fund co-founded by David Harding and its impact on quantitative trading, Man Group website
+
+[5]: ["The Heretic's Guide to Global Finance: Hacking the Future of Money"](https://www.amazon.com/Heretics-Guide-Global-Finance-Future/dp/0745333404) by Brett Scott

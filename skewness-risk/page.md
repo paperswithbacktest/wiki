@@ -14,6 +14,8 @@ The implications of skewness risk in financial models are profound. Models that 
 In algorithmic trading, where split-second decisions can lead to significant financial outcomes, considering skewness in risk management is essential for minimizing unexpected losses. By understanding and addressing skewness risk, traders can better manage the inherent uncertainties of financial markets, optimizing their algorithms to handle asymmetric data distributions more effectively.
 
 
+## Table of Contents
+
 ## Understanding Skewness Risk
 
 Skewness risk arises when data points are not symmetrically distributed around an average value, causing a discrepancy between the mean and the median in these distributions. This asymmetry signifies that the tail on one side of the probability distribution is longer or fatter than the tail on the other side. In a positively skewed distribution, the right tail is longer, meaning a greater presence of high-value outliers pulling the mean upwards away from the median. Conversely, a negatively skewed distribution has a longer left tail with low-value outliers pulling the mean downwards.

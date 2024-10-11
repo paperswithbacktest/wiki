@@ -14,6 +14,8 @@ Order books are crucial in algorithmic trading, a method of executing trades usi
 The article will comprehensively examine several facets of order books, starting with their structural and functional elements—bids, asks, and order matching—and explaining their application in securities trading. It will delve into more advanced concepts, like the crossed book phenomenon and 'Top of the Book', and explore the implications of order book depth for trading. Additionally, we will investigate the multi-specialist order book model, advancements in visualization technology, and other practical applications of order books beyond securities trading, such as e-commerce. This exploration aims to underscore the relevance of order books in both human and algorithmic trading, encouraging further inquiry and understanding of their role in various trading contexts.
 
 
+## Table of Contents
+
 ## Understanding the Order Book
 
 An order book is a digital list of buy and sell orders for a security or financial instrument organized by price level. The structure of an order book typically comprises two primary sides: the bid side and the ask side, reflecting the interests of buyers and sellers respectively.

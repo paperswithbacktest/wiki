@@ -14,6 +14,8 @@ Born in Russia, Gerko's journey from a mathematician to a financial leader in th
 This article focuses on unraveling the journey of Alex Gerko, examining his substantial contributions to algorithmic trading, and evaluating the transformative effects his firm has imparted on financial markets. Through exploring his strategic initiatives and the technological advancements he has spearheaded, we gain insights into how such innovation drives evolution within the trading sector.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Alex Gerko was born on December 3, 1979, in Russia, where he initially cultivated his interest in mathematics. This passion led him to Moscow State University, one of the most prestigious institutions in Russia, renowned for its rigorous mathematics program. Gerko earned a PhD from the university, equipping him with a profound understanding that would serve as the cornerstone of his later career in financial trading.

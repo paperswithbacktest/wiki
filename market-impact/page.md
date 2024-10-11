@@ -14,6 +14,8 @@ A crucial factor to consider in algorithmic trading is market impact, which refe
 Market impact is closely related to market liquidity, which is the ability to buy or sell an asset without causing a significant change in its price. A liquid market, characterized by a high volume of trades and narrow bid-ask spreads, tends to have lower market impact costs. Conversely, in an illiquid market, even small trades can lead to substantial price movements, increasing market impact costs. Therefore, the relationship between market impact and liquidity is pivotal for traders seeking to optimize their trading strategies and minimize associated costs. Understanding this relationship equips traders with the insights needed to devise strategies that consider both the direct and indirect costs of trading, ensuring more effective execution in the financial markets.
 
 
+## Table of Contents
+
 ## Understanding Market Impact in Algorithmic Trading
 
 Market impact refers to the change in an asset's price caused by executing a trade. When a buy order is placed, it can drive the price up, while a sell order can push it down. The size of the order and the liquidity of the asset play crucial roles in determining the extent of the market impact. 

@@ -16,6 +16,8 @@ Simons’ achievements in finance are paralleled by his success in mathematics. 
 In summary, Jim Simons’ remarkable career is characterized by groundbreaking contributions to mathematics and transformative developments in the field of algorithmic trading. His accomplishments not only highlight his exceptional talent and intellect but also underscore his lasting influence on both mathematics and finance, reshaping the landscapes of these fields.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 James Harris Simons, commonly known as Jim Simons, was born in 1938 in Brookline, Massachusetts. His early years were nurtured in a supportive family environment that recognized and encouraged his natural aptitude for mathematics. Simons' father owned a shoe [factor](/wiki/factor-investing)y, but despite a lack of formal educational background, the family valued learning and intellectual curiosity.

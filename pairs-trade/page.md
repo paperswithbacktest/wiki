@@ -16,6 +16,8 @@ The origins of pairs trading trace back to the 1980s when it was pioneered by a 
 Understanding how pairs trading was developed and how it functions within algorithmic trading helps appreciate its continuing importance in effectively navigating today's volatile markets.
 
 
+## Table of Contents
+
 ## Understanding Pairs Trading
 
 Pairs trading is a sophisticated strategy categorized under statistical [arbitrage](/wiki/arbitrage) and convergence trading. It capitalizes on the natural correlation between two securities to generate profits while maintaining a market-neutral stance. The core idea behind this strategy involves identifying two assets whose historical prices have exhibited a close relationship—often moving in tandem due to underlying economic or market [factor](/wiki/factor-investing)s.

@@ -26,6 +26,8 @@ This article will focus on key areas within market microstructure that have sign
 Understanding these elements is fundamental to leveraging market microstructure knowledge in developing sophisticated [algorithmic trading](/wiki/algorithmic-trading) strategies. We will explore these areas in detail, highlighting how they interact with modern trading technologies and their implications for the future of finance.
 
 
+## Table of Contents
+
 ## Understanding Market Microstructure
 
 Market microstructure is a specialized area within finance that scrutinizes how trading occurs in financial markets. Maureen O'Hara, a pioneering figure in this field, has provided a comprehensive theoretical framework that is pivotal in understanding trading dynamics and market efficiency. Her work sheds light on the intricate processes that govern the transaction of financial assets and the subsequent influence on price behavior and market [liquidity](/wiki/liquidity-risk-premium).

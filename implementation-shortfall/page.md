@@ -16,6 +16,8 @@ Understanding and managing implementation shortfall is vital for traders aiming 
 This article explores the significance of implementation shortfall in algorithmic trading, focusing on how it can influence trading strategies and execution. By examining the components and impact of implementation shortfall, traders are better equipped to craft strategies that tackle this integral part of the trading process, ultimately fostering better market performance and competitive edge.
 
 
+## Table of Contents
+
 ## Understanding Implementation Shortfall
 
 Implementation shortfall provides a crucial metric in the assessment of trading decision costs against intended strategies. It measures the deviation between the expected and actual execution prices, [factor](/wiki/factor-investing)ing in expenses shaped by market dynamics and procedural delays.

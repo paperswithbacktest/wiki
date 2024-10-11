@@ -16,6 +16,8 @@ Arbitrage plays a significant role in financial markets because it contributes t
 In summary, spot-future parity is a pivotal concept that underpins both theoretical finance and the practical application of trading strategies. Its understanding is indispensable for traders and investors seeking to harness the power of arbitrage while contributing to a more efficient market environment.
 
 
+## Table of Contents
+
 ## Understanding Spot–Future Parity
 
 Spot-future parity is a fundamental concept in financial markets, especially crucial in understanding how spot prices and futures prices relate under normal market conditions. This relationship is primarily determined by several components: the spot price, futures price, [interest rate](/wiki/interest-rate-trading-strategies)s, dividends, storage costs, and convenience yield. Each of these elements plays a role in ensuring the parity condition holds.

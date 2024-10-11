@@ -16,6 +16,8 @@ In light of this anomaly, the use of algorithmic trading presents a sophisticate
 Algorithmic trading, hence, serves as a powerful tool in optimizing investment strategies based on the low-volatility anomaly, offering a frontier of opportunities for further innovation and returns optimization. As markets evolve and data availability increases, strategies leveraging low-volatility patterns through advanced algorithms hold promise for investors seeking to navigate financial markets effectively.
 
 
+## Table of Contents
+
 ## Understanding the Low-Volatility Anomaly
 
 A low-[volatility](/wiki/volatility-trading-strategies) security is characterized by relatively stable price movements compared to the broader market. These securities are appealing because they tend to offer more predictable returns with less dramatic price swings. This stability, or lower volatility, implies a lower risk of loss over time, making them attractive to risk-averse investors who value steady returns.

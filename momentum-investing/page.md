@@ -14,6 +14,8 @@ Momentum investing disputes this by leveraging market inefficiencies, often attr
 This article provides an in-depth exploration of how momentum investing is integrated into algorithmic trading. By harnessing algorithmic techniques, traders can enhance the speed and efficiency with which they identify and act upon these momentum trends, potentially increasing returns. Since algorithms can process vast amounts of data faster and more accurately than human traders, they serve as a powerful tool for executing momentum strategies in today's financial markets. The fusion of momentum investing with algorithmic trading strategies illuminates new avenues for capitalizing on market inefficiencies, ultimately reshaping the landscape of modern financial markets.
 
 
+## Table of Contents
+
 ## The Core Principles of Momentum Investing
 
 Momentum investing is centered on the premise that assets showing an upward price trend will continue to rise, while those declining will continue to fall. This concept opposes the random walk theory, suggesting that stock prices follow a predictable path due to market inefficiencies.

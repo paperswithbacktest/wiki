@@ -20,6 +20,8 @@ The relationship illustrates that holding a long call option and a short put opt
 In algorithmic trading, Put-Call Parity plays a crucial role as it provides a reliable framework for identifying arbitrage opportunities. Automated trading systems can exploit deviations from this parity to execute trades that profit from market inefficiencies, thereby enhancing the robustness of trading strategies. Fast and efficient computing allows algorithms to swiftly detect pricing anomalies, analyze large datasets, and implement trades to capitalize on these discrepancies, underscoring the importance of mathematical relationships like Put-Call Parity in developing sophisticated algorithmic trading models.
 
 
+## Table of Contents
+
 ## Understanding Put-Call Parity
 
 Put-Call Parity is a fundamental concept in options pricing that establishes a relationship between the prices of European call and put options with the same strike price and expiration. This relationship is pivotal as it illustrates how these options can replicate a forward contract on the underlying security.

@@ -14,6 +14,8 @@ As of March 2023, Voleon manages over $7.6 billion in assets, highlighting its s
 This article provides an exploration of Voleon's innovative methodology in algorithmic trading, tracing its evolution and examining the strategic decisions that have shaped its path. By focusing on areas such as its history, investment strategies, and the challenges it has encountered, we aim to provide a comprehensive overview of this pioneering firm's operations and the impact it has had on the financial sector.
 
 
+## Table of Contents
+
 ## History of The Voleon Group
 
 Founded by Michael Kharitonov and Jon McAuliffe, both with experience at D. E. Shaw & Co., The Voleon Group has been an exemplar in incorporating machine learning within financial markets since its establishment in 2007. This firm's inception coincided with the 2007–2008 financial crisis, presenting significant challenges. However, Voleon adeptly navigated these trying times by restructuring its trading algorithms. This adaptation enabled the firm to shift from early struggles to substantial recovery and profitability in subsequent years.

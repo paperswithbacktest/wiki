@@ -14,6 +14,8 @@ Steven A. Cohen's journey in the financial sector is marked by his sharp acumen 
 Through its focus on algorithmic trading and other advanced financial methodologies, Point72 continues to maintain its stature as a leading hedge fund, constantly pushing the boundaries of innovation and exploring new frontiers in asset management. As the firm progresses, its ability to integrate advanced trading techniques and data-driven strategies remains central to its sustained success in the dynamic world of finance.
 
 
+## Table of Contents
+
 ## The Transition from SAC Capital to Point72
 
 In 2014, Point72 Asset Management emerged from the shadow of SAC Capital Advisors, following a series of insider trading scandals that shook the hedge fund industry. Founded by the prolific trader Steven A. Cohen, Point72 was established as a new entity to manage Cohen's personal wealth, marking a significant shift in the firm's direction and focus. This transition was necessitated by the dire legal challenges SAC Capital faced, including a substantial $1.8 billion settlement with U.S. regulators, which effectively ended SAC's operations as a hedge fund managing external capital.

@@ -12,6 +12,8 @@ In financial trading, speed and accuracy are critical components that often dict
 One of the key technological infrastructures supporting this transformation is the SWIFT (Society for Worldwide Interbank Financial Telecommunication) network. As the backbone of global financial messaging, SWIFT provides the secure, standardized communication capabilities essential for executing trades swiftly and accurately. With its expansive network connecting over 11,000 financial institutions across more than 200 countries, SWIFT facilitates seamless cross-border data exchange, ensuring that algorithmic trading systems can operate at optimal efficiency across global markets. By offering robust security and compliance frameworks, SWIFT empowers financial institutions to leverage algorithmic trading's full potential in a trustworthy and reliable environment, ultimately enhancing the overall trading landscape.
 
 
+## Table of Contents
+
 ## Understanding SWIFT
 
 SWIFT, or the Society for Worldwide Interbank Financial Telecommunication, was established in 1973 as a cooperative entity. Its primary function is to facilitate international payments by providing a standardized messaging network for financial institutions. This network serves as a secure conduit for transmitting payment orders, confirmations, and other types of financial information between banks and other financial entities across the globe.

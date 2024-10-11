@@ -14,6 +14,8 @@ The low-volatility anomaly, a key concept underpinning this strategy, challenges
 In the context of algorithmic trading, low-volatility investing holds particular relevance. Algorithmic trading systems, which rely on computational power and advanced algorithms to execute trades, can efficiently implement low-volatility strategies by analyzing vast datasets to identify and select low-risk assets in real-time. This integration of low-volatility strategies within algorithmic frameworks allows for more dynamic portfolio management, aligning with the goal of optimizing returns while managing risk exposure. As such, low-volatility investing continues to gain traction, not only as a standalone strategy but also as a critical component of sophisticated algorithmic trading systems.
 
 
+## Table of Contents
+
 ## Historical Background
 
 The low-volatility anomaly was first documented in the 1970s when researchers found that stocks with lower volatility tended to outperform those with higher volatility, contradicting the traditional financial theories that higher risk should come with higher returns. This anomaly presented a challenge to the Capital Asset Pricing Model (CAPM), which posits that the expected return of a security should be directly proportional to its risk, as measured by beta.

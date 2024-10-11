@@ -18,6 +18,8 @@ Within algorithmic trading systems, orders are used to automate these decision-m
 In conclusion, understanding and effectively utilizing various types of orders is paramount in algorithmic trading. As markets evolve and technology advances, traders who continuously enhance their knowledge of order types and strategic applications will maintain an edge in achieving better trading efficiency and performance.
 
 
+## Table of Contents
+
 ## Understanding Market Orders
 
 Market orders are a fundamental concept in [algorithmic trading](/wiki/algorithmic-trading), forming the backbone of numerous trading strategies. A market order is an instruction to buy or sell a security immediately at the best available current market price. The primary feature of market orders is their immediacy; they are executed as soon as possible, assuming there are counterparties willing to take the opposite position at the prevailing market price.

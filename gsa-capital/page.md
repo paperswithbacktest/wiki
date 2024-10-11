@@ -12,6 +12,8 @@ GSA Capital has established itself as a prominent player in the world of algorit
 Founded with a vision to harness the power of computational finance, GSA Capital has developed a reputation for its innovative trading strategies and robust risk management frameworks. The company's emphasis on data-driven decision-making and automation underscores its commitment to maintaining a competitive edge in the algorithmic trading sector. This article will explore GSA Capital's history, delving into its transition from a traditional hedge fund to a leading algorithmic trading firm. It will also examine the evolution of its trading strategies and highlight significant developments that have shaped its trajectory in the industry. Through this examination, readers will gain insights into how GSA Capital continues to adapt and thrive in the rapidly evolving landscape of quantitative investment and systematic trading.
 
 
+## Table of Contents
+
 ## Background of GSA Capital
 
 GSA Capital was founded in 2005 by Jonathan Hiscock, marking a significant shift from his successful tenure at Deutsche Bank. Hiscock, a pioneer in algorithmic trading, capitalized on his expertise to establish GSA Capital as a formidable player in the quantitative finance sector. The firm initially positioned itself as a long/short equity hedge fund, leveraging sophisticated mathematical models and quantitative methods to navigate and capitalize on market inefficiencies.

@@ -16,6 +16,8 @@ In recent years, algorithmic trading has become an integral part of fixed-income
 As financial markets continue to grow more complex, the role of fixed-income arbitrage remains critical. By ensuring that prices reflect true market values, this strategy contributes to a healthier financial ecosystem where capital is allocated more efficiently. The ongoing evolution of algorithmic trading techniques promises even further advancements in execution accuracy and speed, shaping the future of fixed-income arbitrage.
 
 
+## Table of Contents
+
 ## Understanding Fixed-Income Securities
 
 Fixed-income securities are essential tools in the financial market, serving as debt instruments through which entities like governments and corporations raise funds. These securities offer investors a reliable income stream through regular interest payments, making them attractive for individuals seeking predictable returns. At their core, fixed-income securities represent a loan made by an investor to an issuer, with the understanding that the issuer will repay the principal amount at maturity along with scheduled interest payments.

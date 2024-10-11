@@ -14,6 +14,8 @@ Bouchaud's pioneering approaches significantly influenced modern trading strateg
 Over his career, Bouchaud has published extensively, with works that have sparked new lines of inquiry and shaped current understanding in quantitative finance. His contributions have paved the way for a more interdisciplinary approach within the financial industry, integrating rigorous scientific methodologies into economic analysis. As we explore his groundbreaking work, it becomes evident how his innovations continue to impact and transform the landscape of modern financial markets.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Jean-Philippe Bouchaud was born in Paris in 1962, embarking on a remarkable academic journey at a young age. He attended the French Lycée in London, where he was exposed to a rigorous educational environment that laid the foundation for his future endeavors. Bouchaud's academic excellence led him to the prestigious École Normale Supérieure (ENS), a highly esteemed institution known for producing intellectual luminaries. 

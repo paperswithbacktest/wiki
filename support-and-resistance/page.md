@@ -14,6 +14,8 @@ Support levels form when a security's price declines to a point that elicits inc
 In the sphere of algorithmic trading, the understanding of support and resistance is especially beneficial. Traders can harness these levels to automate trading decisions, allowing their algorithms to respond to market movements efficiently and effectively. This automation mitigates emotional decision-making by adhering to predefined rules, ensuring timely and accurate reactions to fluctuations in market prices. As algorithmic trading continues to gain prominence, mastering support and resistance concepts becomes increasingly essential for optimizing trading strategies.
 
 
+## Table of Contents
+
 ## Understanding Support and Resistance Levels
 
 Support levels and resistance levels are pivotal components of technical analysis in trading. Support levels indicate price points where a security tends to find buying interest strong enough to halt or reverse a downward trend. This phenomenon often occurs due to increased demand at these lower price levels. As the price of an asset decreases to a support level, traders and investors perceive the asset to be undervalued, prompting buying activity which stabilizes or elevates the price.

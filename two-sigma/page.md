@@ -14,6 +14,8 @@ The importance of technology, AI, and ML in modern trading cannot be overstated.
 The purpose of this article is to explore Two Sigma's approach to algorithmic trading. By examining the strategies, technologies, and innovations employed by Two Sigma, we aim to understand how the firm maintains its leadership position in the hedge fund industry. This exploration highlights the central role of technological innovation in shaping the future of trading and underscores the dynamic interplay between finance and computer science, which continues to drive progress and competitive advantage in the market.
 
 
+## Table of Contents
+
 ## Background of Two Sigma
 
 Two Sigma Investments, founded in 2001 by John Overdeck, David Siegel, and Mark Pickard, has emerged as a major player in the field of algorithmic trading. The founding trio brought together a unique blend of expertise in computer science, mathematics, and financial markets, which significantly influenced the direction and operational framework of the firm. 

@@ -16,6 +16,8 @@ Systematica's strategy is defined by its reliance on rigorous quantitative analy
 Overall, Systematica Investments represents a modern approach to trading, where technology and quantitative methods pave the way for innovation and growth in the financial sector.
 
 
+## Table of Contents
+
 ## Historical Background
 
 Systematica Investments traces its origins back to BlueTrend, a prominent fund within BlueCrest Capital Management. BlueTrend, under the leadership of Leda Braga, gained a reputation for its robust performance and innovative approach to [hedge fund](/wiki/hedge-fund-trading-strategies) management. From 2004 to 2014, BlueTrend was a stellar performer in the hedge fund landscape, leveraging quantitative analysis and algorithmic strategies to achieve significant profitability. This period of success established BlueTrend as a key player, reinforcing the viability of systematic trading strategies over a range of market conditions.

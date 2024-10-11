@@ -14,6 +14,8 @@ However, the firm's journey took a significant turn following the introduction o
 This article provides an in-depth analysis of PDT Partners' evolution, its monumental achievements, and the distinctive attributes that elevate its standing in algorithmic trading. Through a blend of historical perspective and contemporary insights, we will uncover how PDT Partners continues to set the benchmark for success in this dynamic field.
 
 
+## Table of Contents
+
 ## History of PDT Partners
 
 PDT Partners originated as the Process Driven Trading Group within Morgan Stanley in 1993, marking its entry into the world of finance as a pioneer in algorithmic trading. Over the years, the group attracted attention for its ability to leverage quantitative strategies to generate significant returns. This set the stage for its eventual evolution into an independent entity.

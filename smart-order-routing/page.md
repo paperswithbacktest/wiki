@@ -14,6 +14,8 @@ SOR systems aggregate data from multiple trading venues to assess the optimal ex
 Moreover, the use of SOR is essential as it empowers traders to access a broader spectrum of liquidity pools. By doing so, traders can mitigate the risk of price slippage - the difference between the expected price of a trade and the actual price at which it is executed. SOR enhances trading performance by reducing these risks, making it a fundamental component of advanced trading strategies. As trading environments continue to evolve, smart order routing remains vital for maintaining competitive advantage within fragmented markets.
 
 
+## Table of Contents
+
 ## History of Smart Order Routing
 
 Smart order routing (SOR) has undergone significant evolution since its inception, driven by technological advancements and regulatory changes. Its origins trace back to the 1980s with the advent of Direct Order Turnaround (DOT), a pivotal development by the New York Stock Exchange (NYSE) aimed at streamlining trade executions. During this period, the focus was primarily on reducing manual intervention and enhancing the efficiency of order execution processes.

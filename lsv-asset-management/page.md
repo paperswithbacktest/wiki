@@ -14,6 +14,8 @@ From its inception, LSV Asset Management has been distinguished by its commitmen
 In a rapidly evolving industry where technology and data analysis are becoming increasingly crucial, LSV's emphasis on quantitative methodologies not only underscores its pioneering spirit but also ensures that the firm remains at the forefront of investment management innovation. Through its dedication to these strategies, LSV Asset Management continues to build on its legacy of success while adapting to the changing landscape of global finance.
 
 
+## Table of Contents
+
 ## About LSV Asset Management
 
 LSV Asset Management, founded in 1994 by Josef Lakonishok, Andrei Shleifer, and Robert W. Vishny, stands as a prominent figure in the investment management sector. Hailing from prestigious academic backgrounds, each founder brought a wealth of knowledge and research experience to the firm. Josef Lakonishok is renowned for his work in value investing, Andrei Shleifer has contributed significantly to financial economics, and Robert W. Vishny is noted for his research in asset pricing and behavioral finance.

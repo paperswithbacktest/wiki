@@ -16,6 +16,8 @@ Algorithmic trading plays an essential role in the execution and management of v
 In essence, volatility arbitrage leverages the power of statistical analysis and technological advancement. As markets become increasingly complex, the relevance of algorithmic trading continues to grow, offering traders contemporary tools vital for navigating the intricate relationship between price and volatility. This symbiosis of innovation and strategy underscores the critical importance of volatility measures in today’s trading world, laying the groundwork for potential financial gain.
 
 
+## Table of Contents
+
 ## Understanding Volatility Arbitrage
 
 Volatility [arbitrage](/wiki/arbitrage) is a trading strategy that seeks to profit from the difference between expected future [volatility](/wiki/volatility-trading-strategies) and actual market volatility. Contrary to traditional trading, which focuses on price movements, volatility arbitrage emphasizes the movement of volatility itself. This strategy is employed by traders who believe that the market's predictions about future volatility, often reflected in the pricing of options, are incorrect.

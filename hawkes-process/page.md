@@ -12,6 +12,8 @@ In the fast-evolving world of algorithmic trading, the integration of mathematic
 Originally developed in the 1970s for analyzing earthquake aftershocks, the Hawkes process has found diverse applications across finance, insurance, neuroscience, and other domains where events unfold over time. When applied to financial markets, it is instrumental in understanding and predicting the dynamic sequences of trades and price changes. In algorithmic trading, using processes like Hawkes allows for a nuanced understanding of market microstructure dynamics, offering traders a significant edge through insights into when and how market events are likely to cluster. This article explores key concepts surrounding the Hawkes process and its crucial relevance to modern algorithmic trading strategies, highlighting its potential impact and importance within the financial sector.
 
 
+## Table of Contents
+
 ## Understanding the Hawkes Process
 
 The Hawkes process is a stochastic process known for its self-exciting property, meaning that each event increases the probability of future events occurring. This feature is particularly useful for modeling occurrences that have clustered patterns over time, as is often seen in fields like finance and social networks.

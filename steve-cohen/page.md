@@ -14,6 +14,8 @@ Throughout his career, Cohen adeptly leveraged algorithmic trading to enhance hi
 This article explores various facets of Steve Cohen's journey with algorithmic trading, highlighting his notable achievements and the controversies that shadowed his career. By examining these aspects, one gains a comprehensive overview of Cohen's influential role and the lasting impact of his contributions to modern finance.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Steve Cohen was born in 1956 in Great Neck, New York, into a Jewish family where he developed a penchant for risk-taking through strategic poker games. This interest in calculated risks foreshadowed his future endeavors in financial markets. Growing up, Cohen's curiosity about the financial world only intensified, driving him to pursue an economics degree at the Wharton School, University of Pennsylvania—a prestigious institution known for nurturing financial wizards.

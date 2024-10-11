@@ -16,6 +16,8 @@ However, leveraging in trading is a double-edged sword. While it promises enhanc
 This article examines how leverage operates within the domain of algorithmic trading. It assesses the benefits and risks associated with leveraged trading and suggests strategies for optimizing its use. By understanding these dynamics, traders can harness the power of leverage to maximize their investment potential, while remaining cognizant of the risk factors and adhering to regulatory frames of reference.
 
 
+## Table of Contents
+
 ## Understanding Leverage in Algorithmic Trading
 
 Algorithmic trading leverages sophisticated mathematical models and automated systems to execute a high [volume](/wiki/volume-trading-strategy) of trades at speeds and frequencies that are impossible for a human trader. In this context, leverage becomes an essential element, allowing traders to scale their investments significantly by borrowing capital. This borrowed capital enables traders to engage in trades that exceed the actual cash they hold, thus maximizing potential returns.

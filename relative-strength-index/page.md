@@ -14,6 +14,8 @@ The RSI operates on a scale from 0 to 100, where readings above 70 typically ind
 In the domain of algorithmic trading, RSI's applicability extends beyond simple buy and sell signals. It forms a core component of many automated trading strategies, which utilize quantitative techniques to make systematic trading decisions. The ability to automate RSI-based signals allows traders to execute trades with precision and speed, optimizing entry and exit points in the market. Furthermore, RSI can be integrated with other technical indicators to enhance the robustness and reliability of algorithmic strategies, offering nuanced insights into market dynamics and improving the overall trading performance.
 
 
+## Table of Contents
+
 ## Understanding the Relative Strength Index
 
 The Relative Strength Index (RSI) is a crucial tool in technical analysis, a momentum oscillator that evaluates the speed and change of price movements. It provides traders with insights into whether an asset is overbought or oversold, aiding in decision-making for entering or exiting trades. 

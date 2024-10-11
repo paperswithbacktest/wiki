@@ -14,6 +14,8 @@ Algorithmic trading, which involves using complex mathematical models and comput
 The purpose of this article is to explore Ubiquant's unique algorithmic trading methods, examining how they have evolved over time and what impact they have had on the broader investment management industry. By understanding Ubiquant's strategies and innovations, we can gain insights into the future of quantitative finance and the ongoing transformation of the investment landscape through advanced technology.
 
 
+## Table of Contents
+
 ## Background of Ubiquant
 
 Ubiquant Investment (Beijing) Corp, Ltd. was founded in 2012 by Wang Chen and Yao Qicong, both former researchers at WorldQuant, a prominent global quantitative asset management firm. The duo's comprehensive experience in quantitative methods and financial markets laid a strong foundation for Ubiquant, allowing it to steadily evolve within the fast-paced financial landscape.

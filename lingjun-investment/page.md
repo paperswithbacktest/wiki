@@ -12,6 +12,8 @@ Lingjun Investment is a prominent hedge fund management firm based in Beijing, C
 Algorithmic trading involves the application of sophisticated algorithms to execute trades at optimal speeds and efficiency, providing a competitive edge in the fast-paced financial markets. Lingjun Investment has harnessed this technology to enhance its trading effectiveness, significantly influencing the financial market dynamics. Its prominence in hedge fund management and the financial sector reflects Lingjun's strategic adoption of cutting-edge technology, which has positioned it as a noteworthy influencer in algorithmic trading. In this article, we will examine how Lingjun's innovative practices shape financial markets and assess its broader implications for the investment management industry.
 
 
+## Table of Contents
+
 ## Background and History
 
 Lingjun Investment was founded in June 2014 by Cai Meijie, who previously worked at China International Capital Corporation. The firm's inception marked the beginning of a rapid growth trajectory that positioned it as a significant player in the investment management industry. Lingjun Investment's focus on developing innovative approaches to hedge fund management has contributed greatly to its reputation and success. 

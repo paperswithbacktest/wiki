@@ -16,6 +16,8 @@ The significance of PEAD extends beyond its challenge to the EMH, serving as a c
 Exploring PEAD through the lens of algorithmic trading not only provides insights into its mechanics but also underscores the evolving nature of financial markets, where human behavioral biases create opportunities that algorithmic systems can exploit. Furthermore, this discussion facilitates a deeper understanding of the market's dynamics, challenging established notions and shaping future research and trading strategies.
 
 
+## Table of Contents
+
 ## Understanding Post–Earnings-Announcement Drift
 
 Post–[earning](/wiki/earning-announcement)s-announcement drift (PEAD) was first brought into the spotlight by the seminal work of Ray J. Ball and P. Brown in the late 1960s. Through their pioneering research, they uncovered an intriguing anomaly occurring in the stock market: the prices of stocks continued to move in the direction of an earnings surprise for an extended period following an earnings announcement. This drift was contrary to the expectation set by the efficient market hypothesis (EMH), which posits that stock prices should instantly and fully reflect all available information, including new earnings data. 

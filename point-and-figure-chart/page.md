@@ -14,6 +14,8 @@ The primary purpose of P&F charting is to identify support and resistance levels
 P&F charting remains relevant in modern algorithmic trading, where the ability to condense and accurately interpret data quickly is vital. Algorithmic strategies can leverage the simplistic and direct nature of P&F charts to execute trades based on clearly defined price patterns without being affected by the noise from insignificant price actions. As a result, P&F charts contribute to developing robust trading algorithms that can identify price trends and potential reversals efficiently, providing a competitive edge in today's fast-paced trading environments.
 
 
+## Table of Contents
+
 ## Historical Background
 
 Point and figure (P&F) charting is a time-honored technique in technical analysis that was introduced in 1898. The method is often credited to Hoyle, who first documented the approach, setting a foundation for future advancement. P&F charts originated as a straightforward way to record and analyze price movements, with a focus on capturing significant changes rather than the passage of time. This focus was revolutionary, as it allowed traders to concentrate purely on price action, filtering out the noise that often accompanies time-based charting methods.

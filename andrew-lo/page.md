@@ -14,6 +14,8 @@ Lo's approach to finance is characterized by a detailed understanding of market 
 By examining Lo's educational background and professional journey, we gain insights into how his unique perspective on finance was cultivated. His rigorous academic training and influential career have equipped him with the tools to challenge conventional thinking and propose novel solutions to financial market challenges. As a result, Andrew Lo continues to play a pivotal role in shaping the future directions of financial strategies and algorithmic trading.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Andrew Lo was born in Hong Kong in 1960 and moved to the United States with his family at the tender age of five. This early relocation marked the beginning of a journey that would see the convergence of diverse cultural perspectives and an exceptional educational trajectory. Lo's academic path led him to Yale University, where he earned a Bachelor of Arts in Economics. This formative experience at Yale was characterized by a strong foundation in economic principles and a burgeoning interest in quantitative analysis. 

@@ -12,6 +12,8 @@ Kenneth C. Griffin is a prominent figure in the hedge fund industry and a key pl
 Under Griffin's guidance, Citadel has become synonymous with cutting-edge trading technologies. His initiatives have laid the foundation for Citadel's success, enabling it to become one of the most influential hedge funds globally. This article will examine how Griffin's visionary approach to algorithmic trading has shaped financial markets and solidified his status as a transformative leader in the industry. Through an analysis of Griffin's trajectory, we will explore his contributions to finance, highlighting the transformative impact of algorithmic trading on market operations and efficiency.
 
 
+## Table of Contents
+
 ## The Rise of Kenneth C. Griffin
 
 Kenneth C. Griffin, born in 1968 in Daytona Beach, Florida, demonstrated a remarkable aptitude for entrepreneurship from an early age. His journey into the financial sector began while he was a student at Harvard University. It was during his time at Harvard that Griffin started trading, famously initiating his first trades from his dorm room—a narrative that underscores his early passion and skill in finance. With a modest setup, he used a fax machine and personal computer to trade convertible bonds, marking the inception of his future in financial markets.

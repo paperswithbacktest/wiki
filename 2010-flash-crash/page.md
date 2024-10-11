@@ -14,6 +14,8 @@ Algorithmic trading, driven by complex mathematical models and automated executi
 The purpose of this article is to explore the multifaceted causes behind the 2010 Flash Crash, its immediate and long-term impacts on the financial industry, and the consequential regulatory reforms implemented to prevent similar events in the future. By understanding these dynamics, we aim to shed light on the evolving role of technology in financial markets and the balance required to harness its benefits while safeguarding market stability.
 
 
+## Table of Contents
+
 ## Background of the 2010 Flash Crash
 
 The 2010 Flash Crash, an unprecedented event in the history of financial markets, unfolded against a backdrop of global economic uncertainty and technological evolution. A key element preceding this dramatic market phenomenon was the European debt crisis. In early 2010, concerns over the financial stability of several eurozone countries, particularly Greece, began to escalate. This crisis led to widespread risk aversion among investors, causing increased volatility across international markets (Investopedia, n.d.).

@@ -14,6 +14,8 @@ While James Man, the pioneering force behind the Man Group, operated in an era f
 This article examines the Man Group's historical journey from its founding by James Man to its current prominence in algorithmic trading. By tracing this trajectory, we observe how James Man's entrepreneurial spirit and vision significantly influence the firm's present success in adapting and thriving within the ever-evolving financial landscape.
 
 
+## Table of Contents
+
 ## The Historical Roots of Man Group
 
 James Man laid the groundwork for what would become a prominent figure in the investment management landscape by starting his business in 1783 as a sugar broker in Whitechapel, London. This initial enterprise reflected the burgeoning trade opportunities of the era, and Man was well-positioned to exploit them.

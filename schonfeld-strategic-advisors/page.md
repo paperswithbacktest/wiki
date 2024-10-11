@@ -12,6 +12,8 @@ Schonfeld Strategic Advisors, headquartered at 590 Madison Avenue in New York Ci
 The strategic leadership under CEO Ryan Tolkin has been pivotal in steering the firm towards substantial growth and diversification. As of 2023, Schonfeld proudly manages approximately $13.8 billion in assets, a testament to its successful investment strategies and robust performance in the competitive hedge fund sector. With a strong foundation and a focus on innovation, Schonfeld Strategic Advisors continues to chart a course of impact and influence within the financial landscape.
 
 
+## Table of Contents
+
 ## History of Schonfeld Strategic Advisors
 
 Schonfeld Strategic Advisors began its journey in 1988 as a family office focused on short-term trading strategies. This initial focus helped build Schonfeld's reputation for astute and nimble market maneuvers, largely attributed to its founder's vision. Over time, the firm capitalized on technological advancements to enhance trading efficiency and decision-making processes.

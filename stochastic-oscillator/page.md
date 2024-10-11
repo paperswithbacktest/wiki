@@ -14,6 +14,8 @@ Lane's primary objective was to create a tool that could identify overbought or 
 This article explores the stochastic oscillator's significant role in algorithmic trading, discussing its calculation, interpretation, and practical applications. Algorithmic trading, which employs sophisticated mathematical models and pre-programmed trading instructions, often leverages the stochastic oscillator to fine-tune its strategies for optimal trading outcomes. Through understanding the mechanics of this indicator, traders can improve their strategies, making informed decisions based on the potential for market reversals indicated by the stochastic oscillator's signals.
 
 
+## Table of Contents
+
 ## Understanding the Stochastic Oscillator
 
 The stochastic oscillator is a versatile momentum indicator that operates by assessing support and resistance levels to gauge momentum within a given market. This tool expresses the closing price's position relative to its price range over a specified period, often smoothing the price data to generate more actionable trading signals.

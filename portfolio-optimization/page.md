@@ -18,6 +18,8 @@ In an algorithmic trading environment, these optimization strategies can be auto
 Incorporating such techniques, automated trading systems seek to achieve consistent returns by optimizing asset distribution efficiently and dynamically, even in highly volatile markets. This necessity for balancing risk and return in a strategic manner makes portfolio optimization an indispensable component in the toolbox of modern financial management and algorithmic trading systems.
 
 
+## Table of Contents
+
 ## Modern Portfolio Theory
 
 Modern Portfolio Theory (MPT), introduced by Harry Markowitz in 1952, has profoundly reshaped investment strategies by emphasizing the importance of diversification and efficient portfolio construction. MPT posits that an investor can construct an "efficient frontier" of optimal portfolios offering the maximum possible expected return for a given level of risk. This insight promotes not only the idea of diversifying investments to mitigate risk but also the notion of evaluating both risk and return as part of the investment decision-making process.

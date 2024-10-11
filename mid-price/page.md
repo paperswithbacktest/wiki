@@ -12,6 +12,8 @@ Algorithmic trading has brought a transformative change to financial markets by 
 The significance of the mid-price goes beyond simply being a measure of fair value; it acts as a critical benchmark for developing, back-testing, and executing trading strategies. By understanding this metric, traders can design algorithms that respond dynamically to market changes, improving the accuracy and profitability of their trades. As this article will discuss, leveraging the mid-price effectively is crucial for optimizing trading strategies and managing risks, a necessity in a field where precision and timing are paramount.
 
 
+## Table of Contents
+
 ## Understanding Mid-price
 
 The mid-price is fundamentally defined as the average of the ask price and the bid price in a trading scenario. Mathematically, it can be expressed as:

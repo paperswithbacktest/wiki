@@ -12,6 +12,8 @@ The world of finance is continuously advancing, with hedge fund managers like Is
 Englander is recognized for employing sophisticated and data-driven approaches to trading, effectively changing how trading is executed on a large scale. His strategies encompass various quantitative techniques that facilitate efficient market operations and enhance trading outcomes. By understanding the methodologies that Englander utilizes, we can gain insight into the ways these strategies have transformed modern trading practices. His pioneering work in algorithmic trading has set a benchmark for the industry, shaping the future of trading with a focus on precision, speed, and scalability.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Israel Englander, a prominent figure in the hedge fund industry, was born in 1948 and grew up in Brooklyn, New York, within a Polish-Jewish family. His early exposure to the dynamics of the stock market marked the beginning of his lifelong engagement in finance. As a high school student, Englander's interest in trading was sparked, leading him to actively trade stocks even during those formative years. This early involvement provided him with a foundational understanding of market mechanisms and a practical insight into investment strategies.

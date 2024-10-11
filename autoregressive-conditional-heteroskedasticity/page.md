@@ -20,6 +20,8 @@ The significance of ARCH models goes beyond just forecasting; they facilitate en
 In conclusion, the integration of ARCH models within algorithmic trading has highlighted the importance of volatility modeling in financial time series. It exemplifies how econometric innovations continue to shape trading strategies, underscoring the ongoing evolution of financial markets driven by data-driven insights.
 
 
+## Table of Contents
+
 ## What is Autoregressive Conditional Heteroskedasticity (ARCH)?
 
 Autoregressive Conditional Heteroskedasticity (ARCH) models, developed by Nobel laureate Robert F. Engle, revolutionized the econometric analysis of time-series data, particularly by addressing the challenges posed by varying [volatility](/wiki/volatility-trading-strategies) over time. Engle introduced ARCH models in his seminal 1982 paper as a means to better capture and model the heteroskedastic nature of financial time series—a common phenomenon where the variance of a series is not constant but depends on past periods' error terms.

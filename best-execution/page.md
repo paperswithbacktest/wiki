@@ -16,6 +16,8 @@ The principles of best execution have significantly evolved over time, primarily
 Algorithmic trading, a modern development in the financial markets, has further refined the application of best execution. Algorithmic trading involves using advanced algorithms and strategies to automate trading processes, which necessitates precise adherence to best execution mandates considering these evolved regulations. This evolution requires investment services firms to remain constantly aware of both regulatory requirements and technological advancements to discharge their obligations effectively.
 
 
+## Table of Contents
+
 ## Historical Context of Best Execution
 
 In 1975, the U.S. Congress made significant strides in securities regulation by enacting the Securities Acts Amendments. Among its critical innovations was laying the groundwork for a more connected and transparent trading ecosystem. This legislative movement led to the establishment of the National Market System (NMS), which would evolve substantially over subsequent decades.

@@ -10,6 +10,8 @@ description: High-Flyer, a leading algorithmic trading firm based in China, comb
 In the fast-evolving world of finance, algorithmic trading is reshaping the landscape through its precision and speed. A standout leader in this domain is High-Flyer, a China-based hedge fund merging artificial intelligence with quantitative trading to deliver exceptional results. Founded in 2015 by engineers from Zhejiang University, High-Flyer quickly established itself as a premier entity within China's financial sector. This article outlines the compelling journey of High-Flyer, examining its strategies, significant milestones, and the challenges it has encountered along the way. With its innovative approach, High-Flyer exemplifies how technology can redefine financial paradigms, setting a new benchmark in algorithmic trading.
 
 
+## Table of Contents
+
 ## The Foundation of High-Flyer
 
 High-Flyer's journey began in 2015, spearheaded by the innovative minds of Xu Jin, Zheng Dawei, and Liang Wenfeng. These three engineers, each hailing from the prestigious Zhejiang University, were deeply influenced by their academic experiences during the tumultuous 2007–2008 financial crisis. This period of economic instability underscored the volatile nature of traditional financial markets and highlighted an opportunity for transformation through the application of technology.

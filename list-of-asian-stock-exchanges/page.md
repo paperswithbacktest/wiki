@@ -14,6 +14,8 @@ Algorithmic trading, a method where algorithms based on complex mathematical mod
 The focus of this article is Asian stock exchanges, which are increasingly integrating algorithmic trading into their operations. These exchanges, spanning regions like Eastern, Central, Southeast, Southern, and Western Asia, are not just pivotal in their respective economies but also in the global financial landscape. With economic powerhouses like China, Japan, and India in this region, the adoption and evolution of algorithmic trading on these platforms could significantly influence global market dynamics. As these markets grow and evolve, understanding the role of algorithmic trading in Asian stock exchanges is essential for investors and policymakers aiming to navigate the shifting tides of global finance.
 
 
+## Table of Contents
+
 ## Top Asian Stock Exchanges in Algorithmic Trading
 
 Asian stock exchanges play a pivotal role in the global algorithmic trading landscape, leveraging technology to enhance trading efficiency and execution speed. As of 2023, several stock exchanges stand out due to their significant market capitalizations and integration of algorithmic trading.

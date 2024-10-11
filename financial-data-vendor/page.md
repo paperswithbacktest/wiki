@@ -16,6 +16,8 @@ Algorithmic trading, an advanced form of trading that relies on computer algorit
 The connection between financial data vendors and algorithmic trading is intricate and vital. Vendors help facilitate the implementation of various algorithmic strategies by ensuring that traders have access to low-latency data feeds and historical data sets that enable backtesting and optimization of trading algorithms. Thus, they help maintain the reliability and efficiency of algorithmic trading systems, ultimately contributing to greater market liquidity and efficiency. In this fast-evolving financial landscape, choosing a dependable financial data vendor is critical for any trading entity aspiring to succeed in algorithmic trading.
 
 
+## Table of Contents
+
 ## Historical Perspective of Financial Data Vendors
 
 The evolution of financial data vendors is a testament to the remarkable technological progress that has transformed financial markets over the decades. With origins tracing back to the 1870s, the early dissemination of financial information was embodied by the ticker tape—a revolutionary device that provided stock prices and was the first instance of real-time financial data distribution. This early technology provided traders with immediate updates from the trading floors of stock exchanges, laying the groundwork for future innovations in data transmission.
@@ -107,3 +109,16 @@ Staying updated with industry trends and technological advancements is crucial. 
 Partnering with reputable financial data vendors offers numerous benefits, including access to cutting-edge data services and value-added insights. These collaborations can provide a competitive advantage, enabling traders and investors to navigate markets more effectively. As algorithmic trading continues to grow, aligning with robust data vendors will be key to success in this data-driven landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan

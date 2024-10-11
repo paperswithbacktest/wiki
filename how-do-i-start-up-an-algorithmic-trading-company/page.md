@@ -59,6 +59,8 @@ Starting an [algorithmic trading](/wiki/algorithmic-trading) business requires a
 
 
 
+## Table of Contents
+
 ## References & Further Reading
 
 [1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper_files/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html) Advances in Neural Information Processing Systems 24.

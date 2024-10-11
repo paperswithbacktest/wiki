@@ -16,6 +16,8 @@ Futures contracts are standardized agreements to buy or sell an asset at a prede
 This market condition holds significant opportunities for algorithmic traders who leverage computational models to predict and react to market changes efficiently. By understanding normal backwardation, traders can implement strategies that exploit price discrepancies between the futures contract and the anticipated spot price, thereby enhancing their trading effectiveness and profitability.
 
 
+## Table of Contents
+
 ## Understanding Normal Backwardation
 
 Normal backwardation is a market condition in which the futures prices of a commodity are lower than the expected spot prices at maturity. This phenomenon occurs because futures prices are often determined by the balance of supply and demand, risk premiums required by hedgers, and the expectations of market participants. In normal backwardation, futures prices rise as they approach the spot price for a commodity, incentivizing investors to buy futures contracts.

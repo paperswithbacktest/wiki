@@ -14,6 +14,8 @@ The concept of Alpha is particularly significant in algorithmic trading, where s
 This article will explore the concept of Alpha in algorithmic trading, its significance, calculation methods, and various applications in the financial landscape. Understanding Alpha not only aids in evaluating investment performance but also serves as a critical component in developing strategies that manage risk and enhance returns.
 
 
+## Table of Contents
+
 ## Understanding Alpha in Algorithmic Trading
 
 Alpha is a critical metric in evaluating the effectiveness of investment strategies, particularly in algorithmic trading. It represents the excess return an investment generates over a market index, making it a fundamental tool for measuring the success of algorithmic strategies. In this context, Alpha is crucial for determining how well a trading strategy leverages market inefficiencies to deliver returns that surpass the benchmark index.

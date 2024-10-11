@@ -12,6 +12,8 @@ David Siegel stands out as a pivotal figure at the intersection of computer scie
 Algorithmic trading has redefined financial markets by automating complex trading processes using advanced algorithms and quantitative analysis. This transformation has led to increased efficiency, reduced human error, and the ability to process vast amounts of data at speeds unreachable by traditional methods. Two Sigma, under Siegel's leadership, exemplifies this paradigm shift. The firm employs state-of-the-art machine learning techniques and cutting-edge big data analytics to make informed, data-driven investment decisions, setting benchmarks for innovation in the financial industry. Siegel's pioneering work continues to shape the future of finance and technology, influencing how both industries adapt to rapid technological advancements.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 David Siegel's affinity for technology and computers began at a remarkably young age, marking him as a youthful prodigy in the field. His fascination with how things worked was evident in his early projects, where he would dismantle and reassemble various electronic devices to understand their inner workings. This inquisitive nature laid the groundwork for his future endeavors in computer science.

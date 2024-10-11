@@ -14,6 +14,8 @@ TGS Management has successfully carved out a distinctive niche, emphasizing the 
 In this article, we'll explore the elements that have contributed to TGS Management's success in algorithmic trading, offering insights into its historical context, strategic methodologies, and the broader societal impact of its founders through philanthropic endeavors and political engagements.
 
 
+## Table of Contents
+
 ## The Foundation and Legacy of TGS Management
 
 TGS Management was established by Frederick Taylor, David Gelbaum, and Andrew Shechtel after the dissolution of Princeton-Newport Partners (PNP), which faced legal hurdles despite being a pioneer as the first quantitative hedge fund. The closure of PNP acted as a catalyst for the founders, who seized the opportunity to create TGS, leveraging the expertise and experience they had acquired at PNP, thereby retaining much of its talent and investor base.

@@ -18,6 +18,8 @@ Contrary to the assertions of the efficient-market hypothesis (EMH), which sugge
 In conclusion, technical analysis is a vital tool for many within the financial markets, offering insights that are integral despite criticisms relating to its theoretical foundations. Its application in algorithmic trading underscores its adaptability and resilience in the evolving landscape of financial trading strategies.
 
 
+## Table of Contents
+
 ## The Evolution of Technical Analysis
 
 Technical analysis traces its origins to the 17th century, during the bustling era of the Dutch financial markets. It was here that Joseph de la Vega laid the groundwork with early practices that hinted at a systematic approach to market prediction. His book, "Confusion of Confusions," published in 1688, is one of the first documented explorations of market behaviors and investor psychology, offering insights that remain relevant in understanding market trends today.

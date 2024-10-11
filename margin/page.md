@@ -18,6 +18,8 @@ The use of margin extends beyond merely collateralizing trading positions. It al
 In summary, margin is indispensable in algorithmic trading, serving not only as collateral but also as a risk management tool that mitigates credit risk. It allows traders to optimize their trading strategies by leveraging capital effectively, while simultaneously providing brokers and exchanges with a safeguard against financial default, ultimately promoting a stable and trustworthy financial market.
 
 
+## Table of Contents
+
 ## Understanding Margin in Algorithmic Trading
 
 Margin is a fundamental concept in [algorithmic trading](/wiki/algorithmic-trading), serving as both a strategic tool and a risk management mechanism. In essence, margin refers to the capital that traders are required to deposit with their brokerage to open and maintain positions in financial markets. It acts as a financial collateral, ensuring that the trader can fulfill their obligations under the trading terms, thereby mitigating the credit risk to the broker.

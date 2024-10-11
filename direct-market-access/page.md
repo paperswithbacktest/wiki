@@ -18,6 +18,8 @@ The integration of DMA and algorithmic trading is particularly advantageous in m
 In summary, the introduction of direct market access has revolutionized trading by facilitating direct interaction with financial exchanges, thereby increasing market participation among diverse investor groups. Its alignment with algorithmic trading offers a comprehensive toolkit for developing innovative trading strategies, further enhancing the overall efficiency and competitiveness of financial markets.
 
 
+## Table of Contents
+
 ## How Direct Market Access Works
 
 Direct Market Access (DMA) enables investors to interact with an exchange's [order book](/wiki/order-book-trading-strategies) using electronic platforms, effectively bypassing intermediary broker-dealers. This direct interaction empowers traders to execute orders with greater precision and speed, offering a significant advantage over traditional methods that rely on intermediaries.

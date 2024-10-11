@@ -14,6 +14,8 @@ Studying market anomalies is crucial in the context of algorithmic trading, wher
 This article primarily focuses on understanding the nature of market anomalies and explores how they relate to current asset pricing theories, including the Capital Asset Pricing Model (CAPM) and Fama-French models. It introduces the main categories of market anomalies, such as time-series and cross-sectional anomalies, and discusses their implications for algorithmic trading strategies. The piece also covers the challenges faced in exploiting anomalies due to factors like trading costs, illiquidity, and the evolution of market conditions. Ultimately, it highlights the importance of continual research and adaptation in trading strategies to maintain an edge in exploiting these anomalies.
 
 
+## Table of Contents
+
 ## Understanding Market Anomalies
 
 Market anomalies represent patterns or trends in financial markets that seem to contradict established asset pricing models. These deviations from expected market behavior are of particular interest because they suggest opportunities for investors to achieve abnormal returns.

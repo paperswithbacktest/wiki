@@ -14,6 +14,8 @@ An essential aspect of algorithmic trading is the analysis of time series data, 
 The Johansen test was developed by Søren Johansen, a prominent Danish economist known for his significant contributions to econometrics and statistical theory. This test improves upon earlier methods by allowing for the simultaneous examination of more than two time series, making it a robust solution for complex financial datasets. By implementing the Johansen test, traders can identify stable, long-term relationships between assets, which can be harnessed to optimize trading algorithms and enhance profitability in the market.
 
 
+## Table of Contents
+
 ## Understanding the Johansen Test
 
 The Johansen test is a statistical approach used to determine the presence of cointegration among multiple I(1) time series. Recognized for its robustness in econometric analysis, the Johansen test is particularly valuable in the realm of financial markets, where understanding the long-term equilibrium relationships among assets is crucial.

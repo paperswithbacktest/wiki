@@ -18,6 +18,8 @@ This dual transaction exploits situations where the convertible bond might be un
 By harnessing the characteristics of convertible securities and employing a strategic stock shorting approach, convertible arbitrage aims to generate consistent returns, regardless of overall market direction. This strategy allows hedge funds to not only seek alpha through mispricing correction but also effectively manage risk by maintaining a hedged position, balancing the inherent uncertainties in the financial markets.
 
 
+## Table of Contents
+
 ## Understanding Convertible Arbitrage
 
 Convertible [arbitrage](/wiki/arbitrage) is an investment strategy that leverages the unique characteristics of convertible securities, which are hybrid financial instruments combining elements of debt and equity. This approach involves purchasing convertible securities and simultaneously short selling the common stock of the same issuer. The core idea is to exploit the potential mispricing between these securities and their underlying stocks.

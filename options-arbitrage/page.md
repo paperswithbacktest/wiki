@@ -16,6 +16,8 @@ While conversions involve shorting a call, longing a put, and acquiring the unde
 The advent of automated trading platforms has significantly impacted the landscape of options arbitrage by reducing market inefficiencies. Although actionable arbitrage opportunities have become sparse due to swift market corrections facilitated by technology, algorithmic trading still plays a crucial role in executing complex strategies at speeds that manual trading cannot match. Understanding the intricacies of conversion and reversal strategies remains vital as technology continues to transform the financial markets.
 
 
+## Table of Contents
+
 ## Understanding Options Arbitrage
 
 Options [arbitrage](/wiki/arbitrage) is a strategy that traders use to capitalize on discrepancies between actual market prices and theoretical values in the options market. This involves executing simultaneous buy and sell transactions designed to exploit these pricing inefficiencies. The process is typically low-risk, providing an avenue for small but steady profits if executed correctly.

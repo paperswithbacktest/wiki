@@ -16,6 +16,8 @@ Algorithmic trading plays a pivotal role in the execution of uncovered interest 
 Moreover, algorithmic trading minimizes human errors and biases, enabling a more systematic approach to managing the risks and complexities inherent in uncovered interest arbitrage. Through the use of advanced predictive models and data analytics, traders can better anticipate market movements, enhancing the likelihood of successful arbitrage. In this dynamic landscape, the synergy between uncovered interest arbitrage and algorithmic trading underscores the growing importance of technology in modern financial strategies, amplifying potential gains while navigating the associated risks.
 
 
+## Table of Contents
+
 ## Understanding Uncovered Interest Arbitrage
 
 Uncovered Interest Arbitrage (UIA) is a finance strategy targeting profit by leveraging [interest rate](/wiki/interest-rate-trading-strategies) differentials between two countries, without hedging against currency risk. This method exploits the concept of uncovered interest rate parity (UIP), a condition in international finance suggesting that the expected difference in interest rates between two countries should equal the expected change in exchange rates between the countries' currencies. However, UIP does not consistently hold, thus generating [arbitrage](/wiki/arbitrage) opportunities.

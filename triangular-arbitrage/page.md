@@ -25,6 +25,8 @@ Then this indicates a profitable [arbitrage](/wiki/arbitrage) situation.
 Arbitrageurs, or traders specializing in detecting these inefficiencies, leverage sophisticated algorithms and high-speed trading platforms to execute these trades swiftly. By doing so, they not only profit from discrepancies but also contribute to the efficiency and [liquidity](/wiki/liquidity-risk-premium) of the Forex market by realigning currency prices to their 'correct' levels. However, this is a race against time as these discrepancies are typically ephemeral, vanishing in seconds with the actions of efficient markets and continuous trading.
 
 
+## Table of Contents
+
 ## How Triangular Arbitrage Works
 
 Triangular arbitrage is an advanced trading strategy that leverages price discrepancies between three different currencies in the foreign exchange ([forex](/wiki/forex-system)) market. The core idea is to exploit inefficiencies between these rates before the market can correct them, thereby securing a risk-free profit.

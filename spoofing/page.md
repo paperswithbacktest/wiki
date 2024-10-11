@@ -14,6 +14,8 @@ The impact of spoofing on market dynamics can be significant. It can lead to inc
 Regulatory bodies worldwide have recognized the harmful effects of spoofing and have taken actions to curb this practice. High-profile cases such as that of Navinder Singh Sarao, who manipulated markets and was partly blamed for contributing to the 2010 Flash Crash, have highlighted the severity of spoofing. Additionally, the case of Michael Coscia marked the first criminal conviction under the anti-spoofing provision of the Dodd-Frank Act, setting a legal precedent. These actions underline the regulatory commitment to maintaining market integrity by deterring spoofing practices through stringent penalties and enforcement measures.
 
 
+## Table of Contents
+
 ## Understanding Spoofing
 
 Spoofing is a deceptive practice in financial markets where traders place large orders with the intent to cancel them before execution. This tactic is used to create a misleading appearance of demand or supply, manipulating other market participants into reacting in a way that benefits the spoofer.

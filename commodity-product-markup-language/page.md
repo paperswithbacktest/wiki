@@ -14,6 +14,8 @@ Amid this revolutionary shift, the Commodity Product Markup Language (CpML) has 
 CpML plays a critical role in enhancing interoperability, which is essential for efficient trading and post-deal processes. By standardizing the language used in electronic messaging, CpML enables consistent data representation, reducing the risk of errors and misunderstandings. This interoperability ensures that trading parties and platforms can effectively communicate, enabling faster deal execution and more transparent post-deal processes, such as confirmations and settlements. As financial markets continue to evolve towards greater automation and speed, standards like CpML will remain vital for maintaining order and accuracy in increasingly complex trading environments.
 
 
+## Table of Contents
+
 ## Understanding Commodity Product Markup Language (CpML)
 
 Commodity Product Markup Language (CpML) is an XML-based business markup language specifically designed for wholesale energy trading. Its primary purpose is to facilitate the representation and standardization of trading messages, enhancing communication and ensuring consistency across various trading platforms and participants. By leveraging XML (Extensible Markup Language), CpML offers a flexible and structured format that can be universally interpreted, making it an integral tool in the dynamic environment of energy trading.

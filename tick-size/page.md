@@ -10,6 +10,8 @@ description: Discover the pivotal role of tick size in algorithmic trading, wher
 In financial markets, 'tick size' defines the smallest price increment at which securities are quoted. It functions as a foundational element across various trading instruments, including stocks, bonds, and futures. This concept influences trading dynamics by dictating the minimal price changes that can occur. Understanding tick size is particularly crucial for algorithmic traders. These traders devise strategies that depend on accurate and minute price movements to capitalize on market opportunities. By leveraging the precise nature of tick size, algorithmic trading systems can enhance order execution, optimize entry and exit strategies, and improve overall trading efficiency. Knowing the role of tick size helps traders develop methodologies that align with market microstructures, ultimately leading to more effective trading strategies.
 
 
+## Table of Contents
+
 ## Tick Size in Bonds
 
 In financial markets, the concept of tick size is crucial for understanding how bond prices are quoted and traded. U.S. mortgage bonds and specific corporate bonds utilize a tick size of one thirty-second (1/32) of one percent. This means that the smallest incremental change in these bond prices is $\frac{1}{32}\%$, providing granularity in how these securities are valued and traded. Such precision is essential for traders to execute transactions with favorable pricing, optimize yield, and manage portfolios effectively.

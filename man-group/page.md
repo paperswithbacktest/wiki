@@ -14,6 +14,8 @@ Algorithmic trading has indisputably become a cornerstone of modern financial op
 This article will explore how Man Group has positioned itself at the forefront of algorithmic trading, employing state-of-the-art technology to navigate the complex and volatile financial landscape. By focusing on Man Group's journey and achievements in algorithmic trading, we aim to provide insights into how the organization continues to shape and be shaped by advancements in technology and investing strategies.
 
 
+## Table of Contents
+
 ## Historical Background of Man Group
 
 The origins of Man Group can be traced back to 1783, marking the inception of a journey that began in the vibrant trade industry of that era. Initially established as a sugar cooperage and brokerage by James Man in the bustling city of London, the firm laid its foundation by facilitating trade in commodities that were pivotal to the economy at the time. This venture into the brokerage world set the stage for its future diversification and expansion, eventually molding it into the leading financial services powerhouse it is today.

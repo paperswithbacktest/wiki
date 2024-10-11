@@ -20,6 +20,8 @@ Organizations such as the African Securities Exchanges Association (ASEA) are in
 In summary, the growing importance of algorithmic trading on African stock exchanges signifies a strategic evolution necessary for these markets to thrive in the modern economic landscape. By embracing these technologies, African exchanges are not just facilitating market activities but are also setting the stage for sustained economic growth and development across the continent.
 
 
+## Table of Contents
+
 ## Overview of African Stock Exchanges
 
 Stock exchanges in Africa have had a storied history, reflecting a tapestry of economic growth and technological evolution across the continent. The introduction of stock exchanges has been pivotal in formalizing financial markets allowing businesses to access capital and investors to diversify their portfolios. As these markets matured, African exchanges have increasingly embraced innovation, catalyzing financial development.

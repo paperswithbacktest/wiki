@@ -14,6 +14,8 @@ One such contentious strategy is 'layering'. Layering involves placing and subse
 In exploring the intricacies of layering, this article aims to illuminate its implications and how it fits within the broader context of algorithmic trading. With financial markets increasingly under the scrutiny of regulators, understanding strategies such as layering becomes crucial for traders and institutions alike. This overview sets the stage for a deeper examination of the mechanics, legal considerations, and notable instances of layering in practice, offering a comprehensive understanding of its role and impact in modern finance.
 
 
+## Table of Contents
+
 ## What is Layering in Algorithmic Trading?
 
 Layering represents a significant tactic in algorithmic trading, particularly within high-frequency trading (HFT), used to create a deceptive view of market conditions. In practice, traders employing layering place numerous orders for a stock with no intention of executing them. These orders are strategically entered to alter the perception of supply or demand, effectively steering market behavior to benefit the trader.

@@ -14,6 +14,8 @@ In modern financial exchanges, the importance of order matching systems cannot b
 Operating as the central component within an electronic trading ecosystem, order matching systems utilize sophisticated algorithms to process massive volumes of orders submitted by traders. When a buy order’s conditions meet those of a sell order, the system executes the trade, updating the order book, which records all active and historical orders for a particular security. This automated process involves constant real-time data input and analysis, ensuring optimal matching based on predefined trading rules and parameters. By handling these operations seamlessly, order matching systems play a pivotal role in modern financial markets, enabling the smooth functioning of electronic trading and significantly contributing to the efficiency and fairness of global financial exchanges.
 
 
+## Table of Contents
+
 ## History of Order Matching Systems
 
 The 1980s marked a revolutionary period in the history of financial markets with the introduction of electronic order matching systems. These systems emerged to replace the traditional open outcry method that dominated trading floors. Open outcry involved brokers shouting and using hand signals to communicate buy and sell orders, a process that was slow, error-prone, and lacked transparency. The advent of electronic order matching systems addressed these issues by offering a more efficient, accurate, and transparent way to handle trades.

@@ -16,6 +16,8 @@ AQR Capital Management operates on a comprehensive scale with a diverse client b
 This article focuses specifically on AQR Capital's approach to algorithmic trading. Through a detailed examination of their methodologies and technological advancements, we aim to shed light on how algorithmic trading integrates into AQR’s broader investment strategies. The discussion provides insights into how algorithmic methods not only enhance efficiency but also contribute to managing diversified portfolios with lower correlations and improved risk management. By understanding AQR's practices, one can glimpse the broader impact of algorithmic trading on performance outcomes and its potential to shape the future landscape of financial investments.
 
 
+## Table of Contents
+
 ## Background on AQR Capital Management
 
 AQR Capital Management was founded in 1998 by Cliff Asness, along with his colleagues David Kabiller, John Liew, and Robert Krail. The inception of AQR marked the beginning of a formidable emphasis on quantitative finance and research-based investment strategies, setting it apart within the financial landscape. Located in Greenwich, Connecticut, the firm has consistently grown, expanding its reach and influence over the years.

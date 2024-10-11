@@ -14,6 +14,8 @@ The ask price holds significance in trading activities, serving as a key variabl
 The basic contrast between the ask price and the bid price lies in their respective roles in a transaction. While the ask price represents the minimum selling point set by sellers, the bid price is determined by the buyers' maximum willingness to pay. The difference between the two, known as the bid-ask spread, is an essential factor influencing trading decisions. A narrow bid-ask spread typically indicates high market liquidity and low transaction costs, while a wider spread may suggest lower liquidity and higher costs, potentially impacting the efficiency and attractiveness of trading particular assets. Understanding these dynamics is crucial for market participants aiming to execute trades effectively and economically.
 
 
+## Table of Contents
+
 ## Understanding Ask Price in Algorithmic Trading
 
 Algorithmic trading has revolutionized financial markets by leveraging automated systems to make trading decisions at speeds and efficiencies that far surpass human capabilities. A crucial component of these systems is the ask price, which plays an integral role in crafting algorithmic trading strategies.

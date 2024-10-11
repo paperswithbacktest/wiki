@@ -10,6 +10,8 @@ description: Chart patterns play a crucial role in algorithmic trading by helpin
 Chart patterns are fundamental instruments used by technical analysts and traders to identify potential trends and make informed decisions in both stock and commodity markets. These patterns manifest naturally over time and serve as indicators of market dynamics, providing valuable signals for probable future movements. The intrinsic function of chart patterns in trading lies in their ability to aid in forecasting price directions through visual patterns observed on price charts. By examining these patterns, traders can predict potential reversals or continuations in market trends, thereby enabling more strategic trade executions.
 
 
+## Table of Contents
+
 ## Understanding Traditional Chart Patterns
 
 Traditional chart patterns have long served as key tools in market analysis, providing invaluable insights into the collective psychology of market participants. These patterns have been scrutinized and utilized by traders for over a century to forecast potential price movements by recognizing specific shapes and formations on historical price charts. 

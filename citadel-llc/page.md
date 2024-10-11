@@ -12,6 +12,8 @@ Citadel LLC stands as a titan within the hedge fund and financial services indus
 Citadel's significance in the financial industry is particularly pronounced in the realm of algorithmic trading, where it has established itself as a leader. By leveraging technology and innovative strategies, Citadel has been able to execute trades with unprecedented speed and precision, thus setting a benchmark for efficiency and accuracy. The firm's focus on algorithmic trading not only enhances its performance but also contributes to market liquidity and price discovery, making it an integral player in shaping financial market dynamics. Through constant innovation and adaptation, Citadel continues to influence and lead the ever-evolving landscape of algorithmic trading.
 
 
+## Table of Contents
+
 ## The Rise of Algorithmic Trading
 
 Algorithmic trading has revolutionized the financial markets by transforming how trades are executed and strategies are developed. Initially emerging in the late 20th century, algorithmic trading leverages automated systems and complex algorithms to perform trades with remarkable speed and precision. These systems analyze vast amounts of data, capitalize on market inefficiencies, and execute trades faster than any human trader could.

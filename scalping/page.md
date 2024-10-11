@@ -14,6 +14,8 @@ While scalping can be viewed as a legitimate arbitrage strategy, enabling trader
 This article aims to explore scalping in detail, focusing on the mechanisms that drive this trading strategy, the principles that make it effective, and the ethical implications involved in its practice. Understanding scalping's multifaceted nature helps traders and investors to navigate its complexities, ensuring profitability while adhering to legal and ethical standards.
 
 
+## Table of Contents
+
 ## Understanding Scalping as Arbitrage
 
 Scalping, a widely used strategy in algorithmic trading, aims to capitalize on small price discrepancies in the financial markets, primarily by leveraging the bid-ask spread. This approach involves executing a high frequency of trades in quick succession with the goal of securing marginal profits. The essence of scalping lies in its ability to efficiently exploit these minor price gaps through precision and timing.

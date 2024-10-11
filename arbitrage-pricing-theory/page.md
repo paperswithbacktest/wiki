@@ -16,6 +16,8 @@ In the context of algorithmic trading, APT plays a significant role by offering 
 As technological advancements continue to reshape the financial landscape, the intersection of APT with algorithmic trading holds considerable promise for further innovations in asset pricing and risk assessment, fostering more informed and efficient financial markets.
 
 
+## Table of Contents
+
 ## Understanding Arbitrage Pricing Theory
 
 Arbitrage Pricing Theory (APT) is fundamentally based on the law of one price, which asserts that identical goods or assets should have the same price in an efficient market. In this context, APT envisions a market equilibrium state where [arbitrage](/wiki/arbitrage) opportunities—profits from price discrepancies—do not exist. The absence of arbitrage opportunities ensures that asset prices reflect their true values, adjusted for risk.

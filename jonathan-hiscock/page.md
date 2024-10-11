@@ -12,6 +12,8 @@ Jonathan Hiscock is a prominent British hedge fund manager best known for foundi
 GSA Capital, under Hiscock's leadership, has set benchmarks in the financial industry by emphasizing quantitative strategies and technology-driven approaches. Hiscock's journey in the financial sector, from his foundational experiences to establishing GSA Capital, showcases a blend of strategic acumen and technological innovation. This article examines the key milestones in Hiscock's career and the evolution of GSA Capital, while also discussing the critical role algorithmic trading plays in modern finance. The insights drawn from Hiscock's approach provide a valuable understanding of mergers between financial expertise and cutting-edge technology in the financial markets.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Jonathan Hiscock, born in April 1974, showed an early aptitude for mathematics, which he pursued vigorously at the University of Oxford, one of the world's most prestigious institutions. This strong academic foundation was crucial in shaping his future in the financial sector and algorithmic trading. The rigorous training in mathematical theories and problem-solving techniques at Oxford honed his analytical skills, imperative for navigating the complexities of financial markets.

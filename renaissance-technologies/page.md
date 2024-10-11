@@ -16,6 +16,8 @@ The firm’s commitment to using robust mathematical frameworks highlights its r
 Through consistent performance and groundbreaking trading methodologies, Renaissance Technologies has built a formidable reputation within the financial sector, influencing the evolution of hedge funds and promoting the growth of algorithmic trading as a vital component of modern finance.
 
 
+## Table of Contents
+
 ## The Founding and Growth of Renaissance Technologies
 
 Renaissance Technologies, initially known as Monemetrics, was founded in 1978 by James Simons, a distinguished mathematician and former Cold War codebreaker. Simons leveraged his profound mathematical expertise to establish a new kind of investment firm that focused primarily on trading currencies. The early days of Monemetrics were characterized by an innovative approach that utilized mathematical models to inform trading strategies. This integration of mathematics into finance was still nascent at the time, and Simons' vision was instrumental in pioneering this new discipline.

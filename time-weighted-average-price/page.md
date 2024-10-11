@@ -22,6 +22,8 @@ $$
 where $P_j$ represents the price of the security at a specific time interval $j$, and $T_j$ is the time period at which the price is sampled. Through a clear grasp of TWAP's calculation, traders can effectively manage and implement this strategy to minimize market impact, enhance trading performance, and maintain market equilibrium. Understanding these aspects of TWAP can greatly improve strategic decisions in financial markets.
 
 
+## Table of Contents
+
 ## Understanding Time-Weighted Average Price (TWAP)
 
 Time-Weighted Average Price (TWAP) is widely known as a method used to execute trades at an average price calculated over a specific timeframe. This is particularly useful for traders who wish to avoid the pitfalls of market turbulence caused by large, sudden transactions. By executing orders gradually over a predetermined period, TWAP strategies help in achieving a price that reflects the true market value of the security, thereby maintaining market equilibrium.

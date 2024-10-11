@@ -16,6 +16,8 @@ Key terminologies associated with trading curbs include circuit breakers, financ
 By temporarily halting trading, circuit breakers provide a breather in turbulent times, facilitating orderly market functions and protecting investors from extreme market fluctuations. As markets evolve with technological advancements and increased participation from algorithmic trading, the importance and mechanisms of trading curbs continue to be relevant discussions within financial regulation circles.
 
 
+## Table of Contents
+
 ## Historical Background
 
 The concept of trading curbs emerged prominently following the events of Black Monday on October 19, 1987, when global stock markets experienced a catastrophic drop, with the Dow Jones Industrial Average plunging by about 22%. This unprecedented market crash underscored the need for mechanisms to manage extreme [volatility](/wiki/volatility-trading-strategies) and prevent panic-induced sell-offs. The chaotic trading environment on that day revealed significant shortcomings in the ability of market participants to communicate effectively, leading to widespread confusion and further compounding the downward spiral of stock prices.
@@ -168,3 +170,18 @@ Finding a balance between market freedom and regulatory protection remains a vit
 In conclusion, trading curbs remain a fundamental aspect of financial regulation, offering a buffer against volatility and securing the orderly functioning of markets. As technology continues to evolve, so must the tools and strategies employed to manage volatility, ensuring that financial systems are resilient enough to withstand future shocks while promoting an open and competitive trading environment.
 
 
+
+
+## References & Further Reading
+
+[1]: Brady, N. (1988). ["Report of the Presidential Task Force on Market Mechanisms."](https://babel.hathitrust.org/cgi/pt?id=pur1.32754050114354) U.S. Government Printing Office.
+
+[2]: Securities and Exchange Commission. ["Modification of NYSE Rule 80A."](https://www.sec.gov/rules/sro/nyse/34-52016.pdf) Securities and Exchange Commission, 2005.
+
+[3]: Kyle, A. S. (1988). ["Trading Halts and Price Limits"](https://www.nber.org/papers/w2268). National Bureau of Economic Research Working Paper No. 2268.
+
+[4]: Harris, L. (1998). ["Circuit Breakers and Program Trading Limits: What Have We Learned?"](https://www.researchgate.net/publication/222660042_Circuit_Breakers_and_Program_Trading_Limits_What_Have_We_Learned) Brookings-Wharton Papers on Financial Services, 17–63.
+
+[5]: U.S. Commodity Futures Trading Commission. ["The Role of Circuit Breakers in Trading Markets."](https://www.cftc.gov/PressRoom/PressReleases/pr6397-12) Press Release, 2012.
+
+[6]: U.S. Securities and Exchange Commission (SEC). ["Concept Release on Equity Market Structure."](https://www.sec.gov/rules/concept/2010/34-61358.pdf) 2010.

@@ -16,6 +16,8 @@ Algorithmic trading, a domain that heavily relies on the exploitation of minute 
 NFLVR's approach to assessing and pricing risk, through an appropriate measure of market fairness, provides critical insights into the efficiencies or inefficiencies in trading strategies. By understanding these underpinnings, algorithmic trading can maintain a balance between potential opportunities and the inherent risks, sifting through the noise to find sustainable, risk-adjusted returns. This theoretical framework thus serves as a crucial roadmap for comprehending market efficiencies and strategically navigating the complexities of financial markets through algorithmic trades.
 
 
+## Table of Contents
+
 ## Understanding NFLVR in Algorithmic Trading
 
 Algorithmic trading leverages the principles of the "No Free Lunch with Vanishing Risk" (NFLVR) to navigate market inefficiencies prudently. This concept underscores that in an efficient market, the possibility of achieving risk-free returns through trading strategies is nullified by the cost of acquiring information and acting on it. Thus, algorithmic traders utilize complex mathematical models to identify and exploit transient market inefficiencies without incurring substantial risks.

@@ -14,6 +14,8 @@ Mathematically, the process is expressed through a stochastic differential equat
 One of the most distinguished applications of this process within finance is its use in interest rate modeling, where the mean-reverting nature can be employed to predict and analyze interest rate movements over time. Its role in creating dynamic models for asset prices further underscores its versatility. As the financial markets evolve, the process offers a mathematical framework adaptable across numerous applications, extending its relevance beyond its initial physical context.
 
 
+## Table of Contents
+
 ## Understanding the Ornstein–Uhlenbeck Process
 
 The Ornstein–Uhlenbeck (OU) process is a prominent stochastic process defined by a specific stochastic differential equation (SDE). This equation captures the essence of mean-reverting behavior, which is central to its application in various fields, including financial mathematics and physical sciences. The mathematical expression for the OU process is given by:

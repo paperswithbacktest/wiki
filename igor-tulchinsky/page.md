@@ -14,6 +14,8 @@ Tulchinsky's contributions extend beyond just founding a company. His work has e
 Through his career, Igor Tulchinsky has demonstrated an unwavering dedication to advancing the field of algorithmic trading. His efforts have not only contributed to the success of WorldQuant but have also influenced broader market trends, establishing him as a thought leader and pioneer in quantitative finance.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Igor Tulchinsky was born in Minsk, Belarus, where he spent his early years before his family immigrated to the United States. This move was pivotal, setting the stage for Igor's future endeavors in finance and technology. The experience of transitioning to a new country likely instilled in him a sense of adaptability and resilience, qualities that would prove essential in his later career.

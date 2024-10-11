@@ -14,6 +14,8 @@ The significance of transaction costs in algorithmic trading strategies cannot b
 In summary, understanding and managing transaction costs is essential for the economic viability of algorithmic trading strategies, affecting both decision-making and the execution of trades. Careful analysis and strategic planning are required to minimize these costs, thereby enhancing trading outcomes and ensuring competitive market participation.
 
 
+## Table of Contents
+
 ## Understanding Transaction Costs
 
 Transaction costs are a fundamental concept in economics, essential for understanding market dynamics and economic behavior. John R. Commons first introduced the idea, viewing transaction costs as the expenses incurred when individuals exchange goods or services. Commons emphasized that these costs arise from the need to negotiate, monitor, and enforce agreements, thereby impacting the overall efficiency of market transactions. This notion laid the groundwork for further studies, particularly by Oliver E. Williamson, who expanded on Commons' work. Williamson's analysis highlighted the role of transaction costs in shaping organizational structures and governance, emphasizing the importance of these costs in fostering or hindering economic exchanges.

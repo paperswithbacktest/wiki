@@ -20,6 +20,8 @@ The benefits of market making extend beyond liquidity. They contribute to market
 In summary, market makers are vital to financial markets for their role in maintaining liquidity and ensuring stability. Their activities, encapsulated by the bid-ask spread and inventory management, not only meet market demand but also foster efficient trading conditions that benefit all market participants. As financial markets evolve, the importance of market makers remains a constant, underscoring their critical function in modern finance.
 
 
+## Table of Contents
+
 ## How Market Makers Operate
 
 Market makers are essential participants in financial markets, providing [liquidity](/wiki/liquidity-risk-premium) and facilitating smooth trading operations. At the heart of their activity lies the bid-ask spread, which is crucial for understanding their role. The bid-ask spread represents the difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask). This spread is significant as it reflects the market's liquidity and the potential cost of trading. A narrower spread typically indicates a more liquid market, whereas a wider spread suggests less liquidity and higher transaction costs for traders.

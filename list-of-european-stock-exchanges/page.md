@@ -14,6 +14,8 @@ In recent decades, the concept of algorithmic trading has fundamentally transfor
 Europe stands out as a key hub for both stock exchanges and innovative trading practices. The region hosts a diverse array of significant stock exchanges that play crucial roles in both regional and global finance. From the renowned London Stock Exchange Group to the multi-national Euronext, and the technologically advanced Deutsche Börse, European stock exchanges are at the forefront of financial market activity. This diverse landscape fosters competitive advancements and regulatory frameworks that support the growing prominence of algorithmic trading.
 
 
+## Table of Contents
+
 ## Major European Stock Exchanges
 
 Europe hosts some of the world's most influential and financially significant stock exchanges, many with market capitalizations exceeding US$1 trillion. These exchanges are pivotal in facilitating trade, influencing global markets, and promoting economic growth.

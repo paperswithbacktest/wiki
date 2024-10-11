@@ -16,6 +16,8 @@ Algorithmic trading, which represents a substantial portion of daily market acti
 Overall, as the financial markets continue to evolve with technological advancements, understanding market liquidity becomes increasingly crucial for investors and traders aiming to optimize their trading strategies. This article will further explore how market liquidity impacts algorithmic trading and why its efficient management is essential in today's fast-paced trading environment.
 
 
+## Table of Contents
+
 ## Understanding Market Liquidity
 
 Market [liquidity](/wiki/liquidity-risk-premium) is a crucial [factor](/wiki/factor-investing) that allows financial markets to function smoothly, serving as a conduit through which transactions occur rapidly and with minimal impact on asset prices. The balancing act between the speed of completing a transaction and the resultant price fluctuation highlights the essence of market liquidity.

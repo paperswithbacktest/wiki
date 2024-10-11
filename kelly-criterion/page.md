@@ -16,6 +16,8 @@ Kelly's original work was framed in the context of information theory and commun
 In essence, the Kelly Criterion addresses the fundamental question of how much to bet in a repeated game to ensure the highest possible long-term growth rate of capital. It does this by identifying a betting strategy that balances risk and reward, allowing participants to remain solvent and maximize wealth over time. The formula takes into consideration the probability of winning, losing, and the ratio of losses to wins, providing a clear directive for optimal capital allocation.
 
 
+## Table of Contents
+
 ## The Kelly Criterion Formula
 
 The Kelly Criterion Formula offers a strategic method for determining the optimal fraction of capital to invest or bet on a particular outcome to maximize the logarithm of wealth. At its core, for binary outcomes, the formula is expressed as:

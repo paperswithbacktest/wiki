@@ -14,6 +14,8 @@ The Treynor–Black model, introduced by Jack Treynor and Fischer Black in the 1
 The purpose of this article is to explore how the Treynor–Black model can be applied within algorithmic trading, illuminating the ways in which it enhances trading efficiency and efficacy. We will examine its theoretical underpinnings, mathematical foundations, and describe how algorithmic trading systems can effectively integrate such models. Additionally, we will discuss the challenges and limitations faced when applying the Treynor–Black model in the real-world trading context, offering insights into potential solutions and future advancements in this field.
 
 
+## Table of Contents
+
 ## Understanding the Treynor–Black Model
 
 The Treynor–Black model is a sophisticated approach within the finance sector, specifically for portfolio optimization. Developed by Jack Treynor and Fischer Black, this model aims to enhance returns by combining a passive index-based strategy with an actively managed portfolio focused on specific securities predicted to outperform the market.

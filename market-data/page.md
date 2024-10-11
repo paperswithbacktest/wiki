@@ -16,6 +16,8 @@ In algorithmic trading, market data plays an integral role by supplying the info
 Furthermore, market data allows for backtesting, a technique used to simulate trading strategies against historical data to assess their potential effectiveness. By understanding past market behavior, algorithms can be fine-tuned to improve performance and minimize risk. In summary, market data serves as the foundation for making informed trading decisions and supports the sophisticated strategies employed in algorithmic trading, underscoring its critical importance in the financial markets.
 
 
+## Table of Contents
+
 ## Understanding Market Data
 
 Market data is the lifeblood of financial trading, providing the information necessary to make informed decisions about buying and selling financial instruments. The fundamental components of market data include details about the assets themselves, such as equities, derivatives, bonds, currencies, and commodities. Each of these instruments has specific attributes that are captured in market data feeds, enabling traders to analyze and act upon them effectively.
@@ -139,3 +141,16 @@ Another trend is the shift towards cloud-based data solutions that enable scalab
 Finally, as algorithms become more reliant on high-quality data, the impact of market data on trading success cannot be overstated. The precision of executions, risk management, and overall trading performance hinge on the accuracy, speed, and relevance of the data available to traders. Leveraging superior data not only enhances algorithmic trading success but also empowers traders to adapt to rapidly changing market conditions more effectively. As technology and data management practices continue to advance, embracing these changes will be critical for staying competitive in the financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-intelligence/dp/9918608013) by Stefan Jansen
+
+[3]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[4]: ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/0470563761) by Irene Aldridge
+
+[5]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-gb/Evidence+Based+Technical+Analysis:+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) by David Aronson

@@ -30,6 +30,8 @@ Harry Markowitz’s work essentially laid down the groundwork for modern financi
 This model's premise that risk can be managed—but not entirely eradicated—by diversifying investments among various assets forms the basis of many contemporary investment strategies. It highlights a fundamental tenet of investing: while one cannot control market [volatility](/wiki/volatility-trading-strategies), one can devise strategies to mitigate its impact, thereby optimizing investment performance.
 
 
+## Table of Contents
+
 ## Understanding the Markowitz Model
 
 The Markowitz Model, often referred to as the mean-variance model, is cornerstone in modern finance for its mathematical approach to portfolio optimization. Central to this model is the balance it strikes between expected returns and the associated risks or standard deviation. This balancing act is crucial in helping investors make informed decisions about the composition of their investment portfolios.

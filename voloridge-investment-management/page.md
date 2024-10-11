@@ -14,6 +14,8 @@ Algorithmic trading has revolutionized financial markets by providing a level of
 Voloridge's commitment to harnessing advanced algorithms and statistical models for trading has resulted in impressive performance metrics. Its strategies capitalize on patterns and insights derived from vast amounts of market data, marking the firm as a leader in innovation and effectiveness within the asset management industry. As we explore Voloridge's methodologies and achievements, it becomes clear how their strategic use of algorithmic trading has played a crucial role in their success and shaped their reputation in the financial world.
 
 
+## Table of Contents
+
 ## Background of Voloridge Investment Management
 
 Voloridge Investment Management was founded in 2009 by David Vogel, a notable figure in the field of quantitative finance. Vogel's journey into quantitative investment began with his early career at Quantitative Investment Management (QIM), where he honed his skills in algorithmic trading. QIM is a well-established hedge fund that specializes in creating computer-based trading strategies, and its influence is evident in the methodologies employed at Voloridge.

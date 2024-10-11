@@ -12,6 +12,8 @@ Arrowstreet Capital stands as a prominent investment management firm headquarter
 With billions in assets under management, Arrowstreet Capital has cemented its position as a significant player in the investment management sector. This accomplishment is highlighted not only by the size of its managed assets but also by its esteemed reputation. Despite its impressive footprint, the firm maintains a low-profile operational ethos, often likened to a 'black box,' which adds an air of exclusivity to its offerings. This understated presence, combined with groundbreaking financial methodologies, cements Arrowstreet's reputation as a quietly powerful force in modern investment strategy.
 
 
+## Table of Contents
+
 ## Background of Arrowstreet Capital
 
 Arrowstreet Capital was established in 1999 by three prominent figures in the financial and academic worlds: Bruce Clarke, John Y. Campbell, and Peter Rathjens. The founding of the firm was driven by a vision to leverage quantitative approaches in asset management, particularly for institutional investors. The founders aimed to integrate rigorous economic theory with advanced computational techniques to deliver superior investment performance. Their unique approach positioned the firm as a pioneer in quantitative investment strategies at the turn of the century.

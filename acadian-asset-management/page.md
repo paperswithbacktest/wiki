@@ -16,6 +16,8 @@ Algorithmic trading has become progressively central to modern financial markets
 In an era where financial markets are becoming increasingly complex, firms that effectively harness this technology gain a significant edge. The sophistication of Acadian's algorithmic models represents a merger between financial acuity and technological innovation, driving the industry toward a future where data and technology are pivotal. As the financial world continues to embrace digital transformation, the importance of algorithmic trading will only escalate, further entrenching its role as an indispensable tool for investment managers seeking value and efficiency in their portfolios.
 
 
+## Table of Contents
+
 ## Background of Acadian Asset Management
 
 Acadian Asset Management was founded in 1986 by Gary Bergstrom and several others, establishing itself as a pioneer in the field of quantitative investment management. From its inception, the firm recognized the potential of using quantitative analytics and algorithmic processes to enhance investment decision-making. This approach set Acadian apart during a time when traditional investment strategies dominated the market.

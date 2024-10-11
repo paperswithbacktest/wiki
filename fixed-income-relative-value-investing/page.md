@@ -16,6 +16,8 @@ In recent years, the integration of algorithmic trading has significantly enhanc
 Algorithmic trading has paved the way for a more systematic and scalable approach to FI-RV, ensuring that strategies remain competitive in today's fast-paced financial markets. As technology continues to advance, the synergy between algorithmic models and FI-RV strategies is poised to refine the precision and profitability of these investment approaches, adapting to an ever-evolving financial landscape.
 
 
+## Table of Contents
+
 ## Understanding Fixed-Income Relative-Value Investing
 
 Fixed-Income Relative-Value Investing (FI-RV) is a sophisticated investment approach focusing on identifying and capitalizing on price discrepancies between fixed-income securities. Unlike traditional investing, which often involves taking directional bets on markets, FI-RV seeks to exploit valuation inefficiencies between related financial instruments, typically involving government bonds, [interest rate](/wiki/interest-rate-trading-strategies) swaps, and futures contracts. These strategies are grounded in the expectation that temporary mispricings will eventually revert to their fair value, thus allowing investors to capture profits with minimal exposure to broader market movements.

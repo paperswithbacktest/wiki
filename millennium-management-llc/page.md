@@ -14,6 +14,8 @@ The firm's substantial involvement in algorithmic trading sets it apart from man
 This article will provide a comprehensive overview of Millennium Management's evolution, detailing its history, investment philosophy, and the technological advancements that underpin its trading activities. We will explore the founding of the firm, its adaptation to industry challenges, and key milestones that have shaped its current market positioning. Additionally, the multi-strategy approach employed by Millennium and the intricate role of algorithmic trading in its investment toolkit will be scrutinized. By examining these facets, the article aims to offer insights into how Millennium Management continues to maintain a competitive edge in the fast-paced hedge fund landscape.
 
 
+## Table of Contents
+
 ## History of Millennium Management
 
 Millennium Management, LLC was founded in 1989 by Israel Englander and Ronald Shear, marking the beginning of what would become a prominent force in the hedge fund industry. Initially, the firm faced the typical challenges of establishing a foothold in a competitive market, including building a strong client base and developing robust investment strategies. The early years required navigating market fluctuations and establishing a reputation for reliability and profitability.

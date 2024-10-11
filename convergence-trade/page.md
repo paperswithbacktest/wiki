@@ -14,6 +14,8 @@ Convergence trading plays a crucial role in financial markets as it helps in enh
 Algorithmic trading enhances the execution of convergence strategies by employing computer algorithms to identify and exploit these price discrepancies with speed and precision impossible to achieve manually. The success of convergence trading hinges on understanding market behavior, historical price patterns, and the fundamental linkages between assets, making it an essential component of a well-functioning market ecosystem.
 
 
+## Table of Contents
+
 ## Understanding Convergence Trading
 
 Convergence trading is a strategy that capitalizes on the gradual price alignment of related financial instruments. The fundamental mechanics involve identifying similar assets or securities whose prices are expected to converge over time. Traders engage in these opportunities by simultaneously buying the undervalued asset and selling the overvalued one, anticipating that their prices will eventually meet, allowing them to realize a profit from the spread.

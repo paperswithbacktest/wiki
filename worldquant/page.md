@@ -12,6 +12,8 @@ WorldQuant LLC is a prominent international player in the hedge fund and quantit
 The firm's approach combines quantitative models, machine learning techniques, and vast datasets to inform trading decisions and investment strategies. By prioritizing technological advancements and data accuracy, WorldQuant has consistently set itself apart as a leader in the financial industry. This commitment to innovation allows the company to effectively navigate the complexities of global markets, providing robust solutions to its clients. As a result, WorldQuant has not only shaped the evolution of quantitative finance but also maintained its competitive edge across rapidly changing market conditions.
 
 
+## Table of Contents
+
 ## Founding and History
 
 WorldQuant was founded in 2007 as a spin-off from Millennium Management, a prominent hedge fund based in New York City. The inception of WorldQuant marked a strategic move under the visionary leadership of Igor Tulchinsky, who sought to leverage the growing power of quantitative analysis in financial markets. Tulchinsky, with a background in computer science, recognized the potential for combining advanced algorithms and vast data analytics to create sophisticated trading strategies.

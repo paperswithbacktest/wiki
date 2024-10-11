@@ -16,6 +16,8 @@ Historically, the development of the Black-Litterman model was rooted in a need 
 The enduring significance of the Black-Litterman model in algorithmic trading is evident as it equips traders with a powerful tool to navigate the complexities of financial markets. By aligning the theoretical underpinnings of finance with the practical insights of investors, it facilitates enhanced decision-making and strategic investment planning, making it indispensable in contemporary algorithmic trading practices.
 
 
+## Table of Contents
+
 ## Understanding the Black–Litterman Model
 
 The Black–Litterman model is a sophisticated portfolio optimization method that resolves some of the limitations associated with traditional mean-variance optimization. Developed by Fischer Black and Robert Litterman at Goldman Sachs in the early 1990s, the model refines asset allocation by incorporating both market equilibrium assumptions and investor insights.

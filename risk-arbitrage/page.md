@@ -16,6 +16,8 @@ Risk arbitrage is predicated on the assumption that the market has not perfectly
 As part of a sophisticated investment strategy, understanding the legal, financial, and strategic complexities of each merger or acquisition is crucial. Success in risk arbitrage often requires a deep knowledge of the involved companies and industries, along with an ability to interpret geopolitical and macroeconomic factors that might affect the deal. Arbitrageurs must also be adept at managing the various risks and potential setbacks associated with these corporate transactions.
 
 
+## Table of Contents
+
 ## Understanding Mergers in Risk Arbitrage
 
 In a merger, an acquiring company extends an offer to purchase a target company, typically using cash, stock, or a combination of both. This dynamic provides a fertile ground for risk [arbitrage](/wiki/arbitrage)urs, who aim to exploit the discrepancy between the target company's current stock price and the proposed offer price. Their strategy involves buying the target's stock at its lower market price, anticipating that it will rise to match the offer as the merger progresses toward completion.

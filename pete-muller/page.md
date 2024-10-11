@@ -12,6 +12,8 @@ Pete Muller is a multifaceted American investor celebrated for his significant c
 Beyond finance, Muller's talents extend to music, where he excels as a singer-songwriter, further showcasing his versatility and creative depth. His philanthropic efforts underscore a commitment to giving back to communities, with a focus on fostering education and the arts. This article explores Pete Muller's multifaceted career, highlighting his strategic brilliance in algorithmic trading and the unique blend of talents that define his life and contributions across various spheres.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Pete Muller’s early life was deeply influenced by his culturally diverse family background in Wayne, New Jersey. With an Austrian engineer father and a Brazilian psychiatrist mother, Muller grew up in an environment that valued both technical precision and psychological insight. This unique blend of influences likely fostered his analytical thinking and creative expression, attributes that have defined his multifaceted career.

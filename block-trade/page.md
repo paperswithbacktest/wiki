@@ -16,6 +16,8 @@ A hallmark feature of block trading is its reliance on private negotiation. Tran
 Overall, block trades are a crucial component of modern financial markets. They provide a mechanism for large transactions to occur efficiently and quietly, benefiting all parties involved while maintaining market integrity. As financial markets continue to evolve, the strategies and execution methods surrounding block trades will likely remain a pivotal topic for institutional investors aiming to leverage sizable trades effectively.
 
 
+## Table of Contents
+
 ## Understanding Block Trades
 
 Block trades are significant transactions in the financial markets, typically involving a large number of securities. To qualify as a block trade, the transaction must meet certain size requirements, which vary by country. In the United States, the Financial Industry Regulatory Authority (FINRA) defines a block trade as one involving at least 10,000 shares of stock or a total market value of $200,000 or more. In Canada, the threshold can be similar, though specifics might vary slightly depending on the exchange or settlement framework. These transactions are often executed with minimal market disruption through private negotiations.

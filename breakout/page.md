@@ -14,6 +14,8 @@ Breakouts are particularly relevant in algorithmic trading, which involves the a
 In this article, we will explore how breakouts can be leveraged within the domain of algorithmic trading, discussing their role and examining methods by which traders can harness this strategy to maximize their trading success.
 
 
+## Table of Contents
+
 ## Understanding Breakouts
 
 Breakouts represent significant movements in market prices as they move through established support or resistance levels. These levels are often considered psychological barriers, where price activity has historically reversed. When a breakout occurs, it signals a potential shift in sentiment, allowing traders to gauge the likelihood of a new trend forming. 

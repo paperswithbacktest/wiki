@@ -14,6 +14,8 @@ Understanding the mechanics of slippage is crucial for traders aiming to refine 
 Addressing slippage involves utilizing algorithms designed to execute trades at the most favorable prices. Such algorithms, when backtested on historical data, can provide valuable insights into reducing slippage, even though it can never be entirely eliminated. As traders become more familiar with how slippage operates within market dynamics, they can implement robust strategies to minimize its adverse effects, ultimately enhancing their trading effectiveness.
 
 
+## Table of Contents
+
 ## What is Slippage in Algorithmic Trading?
 
 In financial markets, slippage refers to the situation where the actual price at which a trade is executed deviates from the expected price. This discrepancy can occur due to several factors, including market impact, liquidity, and frictional costs. Market impact can arise when large orders affect the price levels, potentially driving prices up for buys or down for sells beyond the initial expected levels. Liquidity, or the availability of buy/sell orders at various price points, plays a significant role in slippage; if a market is less liquid, significant differences between desired and executed prices are more likely. Frictional costs, such as transaction fees and bid-ask spreads, also contribute to slippage, increasing the overall costs of executing trades.

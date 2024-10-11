@@ -14,6 +14,8 @@ The normal distribution, paramount in statistical modeling, is characterized by 
 The focus of this article is on the impact of kurtosis risk in algorithmic trading. Algorithmic trading systems often depend on models that assume normal distribution, potentially leading to underpreparedness against unexpected market behaviors. Recognizing and addressing kurtosis risk is crucial in refining trading strategies, ensuring they are robust against the anomalies that standard models might overlook. Understanding and integrating such risk into trading models can significantly enhance decision-making processes and financial outcomes.
 
 
+## Table of Contents
+
 ## Understanding Kurtosis and Fat Tail Risk
 
 Kurtosis is a statistical measure that describes the tail distribution of data points in relation to the mean of a dataset. It quantifies the degree to which a distribution is peaked or flat compared to a normal distribution. More specifically, kurtosis focuses on the tails and the peaks of the probability distribution function. In financial markets, understanding kurtosis is crucial because it can significantly affect risk management and decision-making processes. In these markets, a high kurtosis value often indicates a distribution with fat tails, which signals higher probability for extreme values that can lead to significant losses or gains.

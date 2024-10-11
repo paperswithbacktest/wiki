@@ -10,6 +10,8 @@ description: XTX Markets is a prominent algorithmic trading firm based in London
 XTX Markets Limited is a leading algorithmic trading firm, headquartered in London, renowned for its sophisticated approach to market making and liquidity provision. Since its inception in January 2015 by Alexander Gerko, XTX Markets has swiftly carved out a prominent position within the financial markets. The company's strengths lie in its ability to deploy advanced algorithms and machine learning techniques to efficiently trade across various financial venues. As an electronic liquidity provider, XTX Markets operates globally, optimizing trading strategies to capitalize on market inefficiencies. This strategic prowess enables the firm to remain at the forefront of the competitive algorithmic trading industry.
 
 
+## Table of Contents
+
 ## History and Growth
 
 XTX Markets Limited emerged as a significant player in the algorithmic trading industry following its inception as a spin-off from GSA Capital. This strategic move marked its formal entry into the competitive financial trading segment in January 2015. The inception of XTX Markets was a calculated decision to leverage advanced algorithmic strategies, translating complex financial data into actionable insights and executable trades across various market venues.

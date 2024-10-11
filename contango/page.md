@@ -16,6 +16,8 @@ Algorithmic trading significantly impacts the dynamics of contango through its a
 As the integration of algorithmic trading evolves, its role in shaping contango dynamics within financial markets continues to grow. By leveraging advanced algorithms and machine learning models, traders can better anticipate market trends, assess risk, and exploit inefficiencies, paving the way for more informed and strategic trading decisions.
 
 
+## Table of Contents
+
 ## Understanding Contango
 
 Contango is a market condition observed in futures markets where the futures price of a commodity is higher than its expected future spot price. This typically occurs when the cost of holding or storing the physical commodity, known as the [carry](/wiki/carry-trading)ing cost, plays a significant role. In a contango market, futures prices are progressively higher with longer maturities, creating an upward-sloping futures curve.

@@ -14,6 +14,8 @@ Two Sigma has become known for its data-driven approach, setting a standard in t
 Under Overdeck's leadership, Two Sigma has established itself as a leader in quantitative investing, distinguishing itself through the use of technology to gain a competitive edge. This approach has not only enhanced the efficiency of trading operations but has also paved the way for greater innovation within the financial sector. Through Two Sigma, John Overdeck exemplifies how the integration of technology and finance can lead to groundbreaking advancements in hedge fund management, benefiting both investors and the broader financial community.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 John Overdeck was born in 1969 and raised in Columbia, Maryland, in a family deeply rooted in mathematics. His father served as a senior mathematician at the National Security Agency, undoubtedly inspiring Overdeck's early interest in the field. Demonstrating an exceptional aptitude for mathematics from a young age, Overdeck's talents shone brightly on an international stage when he won a silver medal at the International Mathematics Olympiad in 1986. This prestigious achievement highlighted his proficiency and commitment to the discipline at an early stage in his life.

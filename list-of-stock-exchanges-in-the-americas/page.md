@@ -16,6 +16,8 @@ The role of technology in financial markets has thus become increasingly importa
 These technological evolutions underscore the necessity for stock exchanges in the Americas to continuously adapt and innovate to remain competitive, relevant, and secure in a globalized and interconnected financial system.
 
 
+## Table of Contents
+
 ## Understanding Stock Exchanges in the Americas
 
 A stock exchange is a structured marketplace where investors can buy and sell securities, such as stocks and bonds. These exchanges play a crucial role in the economy by providing a platform for companies to raise capital and for investors to trade financial assets. They facilitate price discovery and maintain transparency, ensuring confidence among market participants. Additionally, stock exchanges contribute to economic growth by helping companies obtain the funds necessary for expansion and fostering an environment where investments can lead to wealth creation.

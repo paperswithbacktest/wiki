@@ -14,6 +14,8 @@ Algorithmic trading, meanwhile, represents a technological evolution in the fina
 Ray Dalio's connection with algorithmic trading is marked by his innovative approach to investing, which is deeply rooted in data-driven decision making. At Bridgewater Associates, Dalio has pioneered the integration of technology in investment strategies, utilizing algorithmic models to capture market opportunities and mitigate risks. This synergy between human insight and machine precision has not only defined Dalio's success but also exemplifies a modern paradigm where intuition is married to algorithmic accuracy. Through this blend of strategic thinking and advanced technology, Dalio continues to shape the future of finance, illustrating a powerful narrative of how established investment philosophies can evolve with technological advancements.
 
 
+## Table of Contents
+
 ## Ray Dalio: A Brief Biography
 
 Ray Dalio, renowned for his profound impact on the financial sector, had a journey that began with humble beginnings. Born on August 8, 1949, in Jackson Heights, Queens, New York, Dalio was raised in a modest household. His father was a jazz musician while his mother was a homemaker. Dalio's interest in investing sparked early. At 12, he bought shares in Northeast Airlines, which tripled following a merger, igniting his passion for the financial markets.

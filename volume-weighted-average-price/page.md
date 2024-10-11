@@ -16,6 +16,8 @@ In algorithmic trading, VWAP holds significant importance as it serves as a benc
 Overall, VWAP's integration into algorithmic trading underscores its influence on contemporary trading strategies. It continues to be a fundamental benchmark in the trading community, aiding in the optimization of trade execution and the minimization of market impact, thus enhancing the overall efficiency of financial markets.
 
 
+## Table of Contents
+
 ## Understanding VWAP
 
 Volume-weighted Average Price (VWAP) is a crucial metric in the financial industry, serving as a benchmark for evaluating the average trading price of a security over a specific period, adjusted for [volume](/wiki/volume-trading-strategy). Unlike simple averages, VWAP provides a more nuanced view by incorporating the volume of trades, offering insights into the price at which most trading occurred.

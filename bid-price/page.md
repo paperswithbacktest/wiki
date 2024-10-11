@@ -12,6 +12,8 @@ In algorithmic trading, the bid price is a critical concept, referring to the hi
 The purpose of this article is to provide readers with a comprehensive understanding of the bid price, especially in the context of modern algorithmic trading. We will explore how the bid price is utilized within algorithmic trading strategies, the differences and relationships between bid and ask prices, and the way bid prices can influence trading decisions and strategies. Readers will gain insights into the complexity of financial markets and the significance of bid price analysis in the development of successful trading algorithms. Additionally, the article will offer an overview of the tools and technologies available for analyzing bid prices, providing a robust framework for understanding their application in real-world trading scenarios.
 
 
+## Table of Contents
+
 ## Understanding Bid Price
 
 The bid price represents the highest price a buyer is willing to pay for a security in the marketplace. It serves as a critical parameter in understanding market dynamics as it directly reflects the demand for a specific asset. A precise understanding of the bid price allows traders and financial analysts to gauge market sentiment and make informed decisions.

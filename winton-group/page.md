@@ -16,6 +16,8 @@ Moreover, Winton's commitment to research and quantitative data analysis underpi
 In essence, Winton Group stands as a testament to the power of blending advanced technological methods with investment management, marking a significant shift in how financial assets are traded in today's world. This not only highlights the company's innovative spirit but also underscores its potential for future growth and influence within global financial markets.
 
 
+## Table of Contents
+
 ## History of Winton Group
 
 David Harding founded Winton Group after departing from Man AHL, launching the firm in February 1997. Man AHL is known for its pioneering role in the development of [algorithmic trading](/wiki/algorithmic-trading) strategies, and Harding carried this innovative spirit into his new venture. The early days for Winton Group were challenging, particularly in attracting clients as a commodity trading advisor. Initially, the firm struggled to differentiate itself in a competitive market. However, Winton managed to overcome these hurdles through distinctive fee structures that appealed to investors, emphasizing the firm's confidence in its systematic trading strategies.

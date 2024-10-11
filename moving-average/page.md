@@ -14,6 +14,8 @@ At its core, a moving average calculates the average price of a security over a 
 Moving averages are instrumental in algorithmic trading strategies, offering visual signals that can inform entry and exit points. By comparing the moving average to current price levels, traders can determine whether a stock is overbought or oversold, thereby guiding strategic decisions. This adaptability makes moving averages a fundamental tool for traders seeking to leverage statistical insights and enhance their trading performance.
 
 
+## Table of Contents
+
 ## Understanding Moving Averages
 
 A moving average is utilized in time series data to mitigate short-term fluctuations, thereby revealing longer-term trends. This process involves averaging a set of data points within the series over a given period. By doing so, the moving average smooths out noise, allowing traders and analysts to discern patterns and trends more clearly.

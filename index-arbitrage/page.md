@@ -16,6 +16,8 @@ Index arbitrage is integral to algorithmic trading, enhancing efficiency and pre
 In summary, index arbitrage leverages the interplay between an index’s market price and its components to yield profit, serving as a cornerstone in the algorithmic trading landscape to achieve precise, automated trading strategies.
 
 
+## Table of Contents
+
 ## Understanding Index Arbitrage
 
 Index [arbitrage](/wiki/arbitrage) is a powerful trading strategy that capitalizes on discrepancies between the market prices of index-tracking products, such as Exchange-Traded Funds ([ETF](/wiki/etf-trading-strategies)s) and futures, and the actual current value of the component stocks that comprise the index. To understand its workings, it is essential to grasp the fundamentals of an index itself.

@@ -14,6 +14,8 @@ In the sphere of algorithmic trading, the bid-ask spread holds particular signif
 The focus of this article will be on exploring these bid-ask spread dynamics, understanding their implications in different trading environments, and the impact of technology on their calculation and application. This exploration will provide insights into how spreads are more than just a gap, representing the underlying market conditions and influencing trading strategies, particularly in the high-tech world of algorithmic trading.
 
 
+## Table of Contents
+
 ## Understanding the Bid-Ask Spread
 
 The bid-ask spread, also referred to as bid-offer or bid/ask, is the difference between the highest price a buyer is willing to pay for an asset (the bid) and the lowest price a seller is willing to accept (the ask). This spread is a fundamental concept in financial markets, serving as an indicator of the asset's liquidity and associated transaction costs. 

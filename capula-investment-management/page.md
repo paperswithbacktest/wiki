@@ -14,6 +14,8 @@ Capula's emergence in the financial world coincided with a period marked by rapi
 This article aims to provide an insight into Capula's influence within the financial markets. By focusing on their algorithmic trading prowess, the discussion will uncover how Capula has not only harnessed these technologies to gain competitive advantage but has also contributed to paradigm shifts in investment management practices. Through detailed examination, the narrative will illustrate how Capula's pioneering strategies and innovative approaches continue to shape the landscape of modern finance.
 
 
+## Table of Contents
+
 ## Background of Capula Investment Management
 
 Capula Investment Management LLP, a formidable entity in the global financial landscape, is primarily based in Mayfair, London. This strategic location positions Capula at the heart of one of the world’s leading financial hubs. Established in 2005, the firm's rapid growth has been bolstered by global affiliations with offices in major financial centers such as Hong Kong, Japan, Singapore, and the United States. This international presence not only enhances Capula's global reach but also enriches its insights into diverse markets, allowing for a well-rounded portfolio of investment strategies.

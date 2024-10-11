@@ -10,6 +10,8 @@ description: PanAgora Asset Management, based in Boston, is recognized for its i
 PanAgora Asset Management, based in Boston, is distinguished for its unique and forward-thinking approach to investment management. As a leader in the financial industry, the firm excels through its adept use of quantitative analysis and algorithmic trading. These techniques have enabled PanAgora to carve out a niche where data-driven decision-making and advanced computational models are at the forefront of its investment strategies. This approach not only enhances the efficiency of their trading operations but also allows for a more rigorous evaluation and management of risks versus returns. The following article will provide an in-depth examination of PanAgora's ground-breaking methods and the substantial influence the firm has exerted on algorithmic trading. By leveraging state-of-the-art algorithms and a commitment to continuous innovation, PanAgora is setting benchmarks in how investments are assessed and executed.
 
 
+## Table of Contents
+
 ## History and Background of PanAgora
 
 PanAgora Asset Management was established in 1989 by Richard A. Crowell, marking its place as a pioneer in the quantitative investment strategy domain. This forward-thinking approach utilizes mathematical models and vast data sets to make informed investment decisions, setting PanAgora apart from traditional asset management firms that often rely on fundamental analysis. Initially formed as a joint venture between two significant financial entities, Shearson Lehman Brothers and Nippon Life, PanAgora quickly made a name for itself in the rapidly evolving finance world. 

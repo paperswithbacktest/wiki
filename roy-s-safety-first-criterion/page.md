@@ -14,6 +14,8 @@ One such strategy is Roy's safety-first criterion, a technique introduced by eco
 This article examines Roy's safety-first criterion, a pivotal method for minimizing investment risk, and explores its application in algorithmic trading scenarios. By integrating this method into trading algorithms, investors can better navigate market volatility and protect their portfolios against significant losses.
 
 
+## Table of Contents
+
 ## Understanding Roy's Safety-First Criterion
 
 Introduced by A. D. Roy in 1952, the safety-first criterion is a fundamental framework for investment portfolio selection, prioritizing the minimization of risk associated with returns falling below a specified minimum threshold. This approach is particularly relevant for investors who are risk-averse and prefer a strategy that emphasizes the protection of their capital from undesirable, adverse outcomes.

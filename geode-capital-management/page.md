@@ -10,6 +10,8 @@ description: Geode Capital Management is a leading investment management firm sp
 Geode Capital Management, renowned for its proficiency in algorithmic trading, stands as a distinguished investment management firm headquartered in Boston, Massachusetts. Since its founding in 2001, Geode has charted a remarkable trajectory of growth and innovation in the financial sector. This article examines Geode's historical journey, the evolution of its operational strategies, and its influential role in the domain of algorithmic trading—a swiftly advancing field characterized by the use of complex algorithms and data analytics to inform investment decisions. The firm's strategic initiatives and sustained success offer a compelling narrative in the dynamic landscape of investment management.
 
 
+## Table of Contents
+
 ## History of Geode Capital Management
 
 Geode Capital Management originated with its founding by Fidelity Investments in 2001. The primary aim was to implement systematic long/short equity strategies, which involve taking long positions in stocks expected to rise and short positions in those anticipated to fall. This approach seeks to capitalize on market inefficiencies while minimizing risk through diversification and strategic investment tactics.

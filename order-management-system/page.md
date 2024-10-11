@@ -14,6 +14,8 @@ In the context of algorithmic trading, OMS facilitate the automation of trading 
 The importance of an OMS in this setting cannot be overstated; they represent the backbone of modern trading infrastructures, enabling traders to manage complex order flows and market dynamics with reliability and precision. By providing features such as order routing, trade management, and risk monitoring, OMS ensure that trades are not only executed timely but also align with the firm’s overall trading strategy and risk parameters. In effect, they are pivotal in optimizing trading performance and achieving best execution, thereby contributing significantly to the competitive advantage of financial trading firms in today's fast-paced markets.
 
 
+## Table of Contents
+
 ## Understanding Order Management Systems
 
 Order Management Systems (OMS) are vital tools in today’s diverse industrial landscape, designed to streamline and manage the lifecycle of orders in an efficient manner. The primary purpose of an OMS is to automate order processing, track sales, manage inventory, and ensure timely delivery, thereby enhancing overall operational efficiency.

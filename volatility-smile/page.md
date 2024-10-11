@@ -14,6 +14,8 @@ Understanding these volatility patterns is essential in algorithmic trading, whe
 The formation of a volatility smile is often attributed to market imperfections and trader behavior. For instance, investors might demand higher premiums for out-of-the-money options as a hedge against extreme market events, resulting in higher implied volatilities for these options. Additionally, factors such as supply and demand dynamics and market sentiment can affect the observed patterns. By understanding the mechanisms that give rise to volatility smiles, traders and financial analysts can better anticipate pricing deviations and adjust their strategies accordingly.
 
 
+## Table of Contents
+
 ## Understanding Volatility Smiles
 
 Implied volatility (IV) is a crucial metric in options pricing, reflecting the market's expectations of future volatility of the underlying asset. It significantly influences the premium of an options contract; higher implied volatility typically leads to higher option prices due to increased potential for substantial price movements, enhancing the likelihood of profit for options holders. 

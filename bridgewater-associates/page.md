@@ -14,6 +14,8 @@ Recognized as a leader in investment management, Bridgewater's strategies and ap
 This article explores how Bridgewater integrates algorithmic trading within its broader investment strategy, offering insights into the technological and strategic advances that have solidified its status as an industry leader.
 
 
+## Table of Contents
+
 ## History of Bridgewater Associates
 
 Bridgewater Associates traces its origins back to 1975 when Ray Dalio founded a small advisory firm in his New York City apartment. Initially focused on advising corporate clients on currency and interest rate risks, the firm quickly gained traction due to Dalio's deep understanding of macroeconomic principles and his innovative approach to investment. This set the stage for Bridgewater's transformation into one of the largest hedge funds in the world.

@@ -14,6 +14,8 @@ AQR's significance stems from its pioneering role in bringing sophisticated quan
 Asness's influence extends into the broader financial methodology, notably impacting how markets interpret and utilize mathematical models to predict and respond to market behaviors. By advocating for a strictly empirical, data-oriented approach, Asness has advanced the notion that financial markets can be navigated more effectively with robust analytical tools and strategic foresight. His work has not only championed algorithmic trading but also enhanced the overall efficiency and efficacy of modern finance practices, establishing him as a pivotal figure in the evolution of investment strategies.
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Clifford Asness was born in New York City in 1966 and grew up in a suburban setting that nurtured his penchant for intellectual pursuits. His early life was characterized by a profound curiosity, which eventually led him to finance and investment management—fields where analytical rigor and strategic thinking reign supreme. Asness's family environment played a pivotal role in shaping his inquisitive nature. Though specific details about his family are not extensively documented, it is clear that Asness cultivated a passion for problem-solving and critical thinking from a young age.

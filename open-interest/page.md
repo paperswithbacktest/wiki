@@ -14,6 +14,8 @@ In the complex world of trading, understanding open interest is vital for making
 In this article, we explore what open interest is, emphasizing its importance in recognizing and capitalizing on market trends. We also discuss its application in algorithmic trading, where open interest can guide the development of sophisticated trading algorithms. By leveraging open interest, traders can enhance their predictive models and gain a competitive edge in the constantly evolving trading environment.
 
 
+## Table of Contents
+
 ## Understanding Open Interest
 
 Open interest is a key concept in the derivatives market, signifying the total number of futures or options contracts that are active. This means these contracts remain open and have not yet reached expiration, been exercised by the parties involved, or closed through offsetting positions. Open interest serves as an indicator of market participation, reflecting the number of outstanding long or short positions maintained by traders.

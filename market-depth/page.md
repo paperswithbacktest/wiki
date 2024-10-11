@@ -16,6 +16,8 @@ Market depth data enhances trading strategies by enabling algorithms to better e
 Furthermore, market depth provides insights into market sentiment and potential price levels of support and resistance. Traders can use this information to refine entry and exit strategies, thereby achieving more favorable trade outcomes. Through strategic use of market depth data, algorithmic trading can become more efficient, reducing transaction costs and slippage, and ultimately leading to enhanced profitability.
 
 
+## Table of Contents
+
 ## Understanding Market Depth
 
 Market depth refers to the measure of a market's ability to sustain large order [volume](/wiki/volume-trading-strategy)s without significant impacts on asset prices. It reflects the number of open buy and sell orders for a financial security at various price levels and is a crucial aspect of real-time trading. In essence, market depth provides a detailed look into the [liquidity](/wiki/liquidity-risk-premium) of the market for a particular asset over short periods.

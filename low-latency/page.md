@@ -16,6 +16,8 @@ Historically, many trading firms have capitalized on low latency, whereas those 
 Therefore, achieving ultra-low latency has become synonymous with competitive advantage in trading, prompting continuous investments in technology and infrastructure to maintain and enhance processing speeds.
 
 
+## Table of Contents
+
 ## What Determines 'Low' Latency?
 
 Low latency in capital markets, particularly within [algorithmic trading](/wiki/algorithmic-trading), is a continuously evolving concept. Traditionally, low latency referred to the speed at which trading systems could process data and execute trades. However, as technology advances, what was once considered low latency becomes outdated, pushing the goalposts further.

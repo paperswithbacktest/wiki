@@ -14,6 +14,8 @@ In algorithmic trading, identifying cointegrated assets allows traders to exploi
 This article will explore the significance of cointegration in algorithmic trading. It will discuss foundational theories developed by pioneers like Granger and Engle, who advanced our understanding of co-movements in financial time series. Additionally, it will examine methodologies for detecting cointegration, ranging from basic tests like the Engle-Granger method to more complex models. Finally, the article will highlight practical implications in market strategies, demonstrating how cointegration can be integrated into sophisticated trading algorithms to potentially enhance trading performance. By understanding these concepts, traders can better navigate market dynamics, leveraging statistical tools to inform strategic decisions.
 
 
+## Table of Contents
+
 ## Understanding Cointegration
 
 Cointegration is a concept used in time series analysis to identify and model long-term relationships between non-stationary data series. Typically, if a set of time series variables is individually integrated of order $d$, which means that they require differencing $d$ times to become stationary, they are said to be cointegrated if there exists a linear combination of these variables that is integrated of a lower order, typically $d-1$. Such a linear combination suggests that despite being non-stationary, these series move together over time, maintaining a steady equilibrium, and thus providing valuable insights for analysis.

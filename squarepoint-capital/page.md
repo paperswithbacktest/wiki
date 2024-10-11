@@ -14,6 +14,8 @@ Squarepoint's strength lies in its ability to utilize quantitative finance—mel
 This article delves into the history, operations, and broader impact of Squarepoint Capital in algorithmic trading. From its inception to its current operations, we will explore how Squarepoint has become a formidable force, continually adapting to the shifting financial landscape while maintaining a commitment to innovation and precision.
 
 
+## Table of Contents
+
 ## History and Formation
 
 Squarepoint Capital's journey began within the proprietary trading unit nQuant at Lehman Brothers. This unit was known for its strong quantitative strategies and innovative approaches to trading. The pivotal moment in Squarepoint's history came in 2014 when nQuant was spun off from Barclays, a consequence of significant regulatory shifts in the financial industry. This transition led to the birth of Squarepoint Capital and was particularly influenced by the introduction of the Volcker Rule, which imposed restrictions on proprietary trading by banks.

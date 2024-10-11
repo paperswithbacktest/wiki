@@ -14,6 +14,8 @@ The significance of value investing lies in its long-term orientation and discip
 This article explores the intriguing fusion of value investing principles with algorithmic trading. As technology continues to transform financial markets, combining the time-tested fundamentals of value investing with the speed and precision of algorithmic trading presents a compelling opportunity. We will explore how algorithms can be crafted to analyze underlying company data and execute value-oriented trades with unprecedented accuracy and speed. This convergence promises enhanced decision-making processes for investors, blending the best of traditional and modern investment approaches.
 
 
+## Table of Contents
+
 ## Understanding Value Investing
 
 Value investing is a methodology focused on identifying and purchasing securities that are undervalued relative to their true intrinsic worth. This concept, rooted in the conservative approach advocated by Benjamin Graham, aims to capitalize on discrepancies between a stock’s market price and its perceived intrinsic value. The core idea is to buy stocks when their price is significantly lower than their intrinsic value and to hold onto them until the market recognizes their true worth, thus providing a margin of safety against market volatility and investment losses.

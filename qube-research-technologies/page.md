@@ -14,6 +14,8 @@ QRT is recognized for its significant role in transforming the landscape of algo
 The firm's achievements are reflected in its remarkable increase in assets under management (AUM). From its inception, QRT has demonstrated an impressive trajectory of growth, rapidly expanding its AUM while consistently delivering notable performance returns for its investors. This growth illustrates the firm's successful implementation of quantitative strategies, making QRT a formidable entity in the investment management industry.
 
 
+## Table of Contents
+
 ## History and Background
 
 Qube Research & Technologies Limited (QRT) has its roots in the Quantitative and Systematic Asset Management (QSAM) division of Credit Suisse. This division was instrumental in developing sophisticated algorithms and models for managing investments, emphasizing systematic trading strategies that rely heavily on quant methods. The growing regulatory landscape and advancements in technology propelled QSAM to develop robust systems that could handle complex data analysis, ultimately laying the foundation for what would become QRT.

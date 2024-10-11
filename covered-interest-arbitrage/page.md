@@ -29,6 +29,8 @@ Algorithmic trading enhances this process by using advanced algorithms and real-
 The goal of this article is to dissect the mechanics behind covered interest arbitrage, examine its effects in the context of [algorithmic trading](/wiki/algorithmic-trading), and assess the opportunities it presents in today's highly interconnected and technologically sophisticated financial markets. We will explore how this strategy operates within modern trading environments and the [factor](/wiki/factor-investing)s that influence its viability and potential profitability.
 
 
+## Table of Contents
+
 ## Understanding Covered Interest Arbitrage
 
 Covered interest arbitrage (CIA) is a strategy used in the foreign exchange markets to exploit differences in interest rates between two countries while mitigating exchange rate risk through the use of forward contracts. This financial tactic hinges on the interest rate parity condition, which posits that the forward exchange rate should incorporate the interest rate differentials between two currencies. When this condition does not hold, arbitrage opportunities arise. Let's explore this concept in detail, including a practical example to clarify the execution mechanics and the opportunities created by interest rate discrepancies.
