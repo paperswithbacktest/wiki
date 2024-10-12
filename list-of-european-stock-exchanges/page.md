@@ -124,3 +124,16 @@ However, while the promise of algorithmic trading is substantial, it also presen
 In conclusion, the evolution of European stock exchanges and algorithmic trading heralds new opportunities, offering fertile ground for further research and exploration. As the industry continues to advance, stakeholders must stay informed and adaptive to capitalize on the benefits while managing inherent risks. Embracing this journey will ensure that European stock exchanges remain at the forefront of global financial markets, driving economic progress and facilitating global financial integration.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

@@ -112,3 +112,16 @@ As automation and technology continue to advance, the role of block trading is p
 The increasing adoption of technology, combined with the inherent advantages of block trades, underscores the importance of staying informed and adaptable in this dynamic environment. Investors and market participants should further explore block trading as a strategic tool within their broader trading and investment activities, ensuring they remain at the forefront of a rapidly evolving marketplace.
 
 
+
+
+## References & Further Reading
+
+[1]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.
+
+[2]: O'Hara, M. (1997). ["Market Microstructure Theory."](https://www.wiley.com/en-us/Market+Microstructure+Theory-p-9780631207610) Blackwell Publishers.
+
+[3]: Hull, J. C. (2018). ["Options, Futures, and Other Derivatives."](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/finance/Options-Futures-and-Other-Derivatives-Hull.html) Pearson.
+
+[4]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management."](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management) Academic Press.
+
+[5]: ["Block Trading and Market Efficiency: A Market Microstructure Approach"](https://en.wikipedia.org/wiki/Market_microstructure) by Conrad, J., Johnson, K., & Wahal, S. (2003). Journal of Financial Markets.

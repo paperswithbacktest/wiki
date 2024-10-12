@@ -76,3 +76,16 @@ Jean-Philippe Bouchaud is a leading figure in algorithmic trading, where his int
 As financial markets continue to evolve with increasing complexity, Bouchaud's methodologies and perspectives highlight the critical integration of science and finance. His contributions demonstrate how algorithmic trading can benefit from rigorous scientific analysis, providing tools and models that enhance decision-making and risk assessment. The ongoing influence of Bouchaud's work underscores the potential for further innovations in developing robust, accurate financial systems.
 
 
+
+
+## References & Further Reading
+
+[1]: Bouchaud, J.-P. & Potters, M. (2003). ["Theory of Financial Risk and Derivative Pricing: From Statistical Physics to Risk Management."](https://www.cambridge.org/core/books/theory-of-financial-risk-and-derivative-pricing/5BBBA04CE72ED9E5E7C1C028D9A94FCB) Cambridge University Press.
+
+[2]: Bouchaud, J.-P. (2003). ["Economics need a scientific revolution."](https://www.nature.com/articles/4551181a) Nature, 423(6937), 7.
+
+[3]: Bouchaud, J.-P. et al. (2008). ["Trades, Quotes and Prices: Financial Markets Under the Microscope."](https://www.semanticscholar.org/paper/Trades%2C-Quotes-and-Prices%3A-Financial-Markets-Under-Bouchaud-Bonart/5822f8496a8a497f7038d15bb3413fb54528da8b) Cambridge University Press.
+
+[4]: Mantegna, R. N. & Stanley, H. E. (2000). ["An Introduction to Econophysics: Correlations and Complexity in Finance."](https://assets.cambridge.org/052162/0082/sample/0521620082WS.pdf) Cambridge University Press.
+
+[5]: Farmer, J. D. & Geanakoplos, J. (2008). ["The virtues and vices of equilibrium and the future of financial economics."](https://onlinelibrary.wiley.com/doi/abs/10.1002/cplx.20261) Science, 321(5895), 167-172.

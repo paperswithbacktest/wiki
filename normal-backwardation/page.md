@@ -168,3 +168,22 @@ Looking ahead, advancements in machine learning and [artificial intelligence](/w
 Understanding market dynamics remains essential for traders, especially those focusing on backwardation. A deep knowledge of factors such as convenience yield, supply insufficiencies, and other macroeconomic elements is crucial to leveraging these conditions effectively. As markets continue to evolve, traders who strive for a comprehensive understanding of these dynamics will be better positioned to navigate market uncertainties and capitalize on backwardation opportunities. The future of backwardation trading is poised for transformation with technology, but the fundamental principles of market awareness and strategic foresight remain unchanged.
 
 
+
+
+## References & Further Reading
+
+[1]: Keynes, J. M. (1930). "A Treatise on Money: The Applied Theory of Money." Macmillan & Co.
+
+[2]: Hull, J. C. (2017). ["Options, Futures, and Other Derivatives."](https://books.google.com/books/about/Options_Futures_and_Other_Derivatives_eB.html?id=2iopDwAAQBAJ) Pearson.
+
+[3]: Black, F. (1976). "The Pricing of Commodity Contracts." Journal of Financial Economics.
+
+[4]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[5]: Geman, H. (2005). "Commodities and Commodity Derivatives: Modelling and Pricing for Agriculturals, Metals and Energy." Wiley Finance.
+
+[6]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[7]: Fama, E. F., & French, K. R. (1987). "Commodity Futures Prices: Some Evidence on Forecast Power, Premiums, and the Theory of Storage." The Journal of Business, 60(1).
+
+[8]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan

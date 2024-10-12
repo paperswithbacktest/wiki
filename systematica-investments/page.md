@@ -90,3 +90,18 @@ Cybersecurity is another critical area. As trading platforms become more reliant
 Despite these challenges, Systematica remains committed to its mission of driving innovation in investment management. The firm’s ongoing investment in research and development, coupled with its strategic focus on cutting-edge technology, position it well to navigate future complexities. By leveraging its expertise in systematic trading strategies and expanding its use of AI and alternative data, Systematica can seize new opportunities, maintain its competitive edge, and continue delivering value to its investors.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[5]: ["The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution"](https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/073521798X) by Gregory Zuckerman
+
+[6]: Mullainathan, S., & Spiess, J. (2017). ["Machine Learning: An Applied Econometric Approach."](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87) Journal of Economic Perspectives, 31(2), 87-106.

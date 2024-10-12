@@ -178,3 +178,18 @@ Looking ahead, the FI-RV landscape is likely to evolve significantly with advanc
 Continued research and innovation are vital for maintaining success in FI-RV investing. By leveraging emerging technologies and adapting to regulatory changes, investors can enhance strategy robustness. Emphasizing education and skill development in algorithmic trading and data analytics will be crucial for future success. In this dynamic environment, a commitment to learning and adaptation will provide a competitive edge and ensure profitable outcomes in fixed-income relative-value investing.
 
 
+
+
+## References & Further Reading
+
+[1]: Lowenstein, R. (2000). ["When Genius Failed: The Rise and Fall of Long-Term Capital Management."](https://archive.org/details/whengeniusfailed00lowe) Random House.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) John Wiley & Sons.
+
+[3]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing.
+
+[4]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) John Wiley & Sons.
+
+[5]: Fabozzi, F. J., & Mann, S. V. (2011). ["Handbook of Fixed-Income Securities."](https://www.mhebooklibrary.com/doi/book/10.1036/9781260473902?contentTab=true) McGraw-Hill Professional.
+
+[6]: Chincarini, L. B., & Kim, D. (2006). ["Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management."](https://www.amazon.com/Quantitative-Equity-Portfolio-Management-Construction/dp/0071459391) McGraw-Hill.

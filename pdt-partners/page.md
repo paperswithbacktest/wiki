@@ -69,3 +69,22 @@ Operating at the intersection of finance and technology, PDT has carved out a di
 As the firm continues to broaden its geographical footprint and explore diverse investment opportunities, it remains a formidable entity within the global hedge fund industry. PDT’s ongoing expansion is a reflection of its adaptive strategies and commitment to harnessing technological advancements to stay ahead. This strategic agility ensures that PDT Partners is well-positioned to continue its trajectory of growth and maintain its status as a powerhouse in algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[6]: Dodd-Frank Wall Street Reform and Consumer Protection Act. ["Full Text of the Dodd-Frank Act."](https://www.congress.gov/111/plaws/publ203/PLAW-111publ203.pdf)
+
+[7]: Patel, A., & Young, J. (2020). ["High-Frequency Trading: Impacts on Market Efficiency and Integrity."](https://onlinelibrary.wiley.com/doi/10.1111/jofi.12882) Journal of Financial Economics.
+
+[8]: Chandler, D. (2012). ["Machine Learning in Financial Markets: Techniques and Applications."](https://www.sciencedirect.com/science/article/pii/S0957417423001410) Springer Finance Series.

@@ -146,3 +146,16 @@ Fixed-income arbitrage is crucial in maintaining market efficiency and liquidity
 As financial markets continue to evolve, ongoing advancements in arbitrage techniques and technology are set to reshape the future of fixed-income trading. Innovations such as [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) will likely provide even finer tools for analyzing and responding to market movements, offering new avenues for optimizing arbitrage strategies. Adapting to these changes will be essential for market participants aiming to leverage fixed-income arbitrage successfully, ensuring that it remains an indispensable tool for sustaining market health and providing substantial investment returns.
 
 
+
+
+## References & Further Reading
+
+[1]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[2]: Fabozzi, F. J., & Mann, S. V. (2005). ["The Handbook of Fixed Income Securities."](https://www.mhebooklibrary.com/doi/book/10.1036/9781260473902?contentTab=true) McGraw-Hill.
+
+[3]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[4]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing.
+
+[5]: Fabozzi, F. J., Nguyen, D., & Fabozzi, P. A. (2017). ["Fixed Income Analysis."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118266649) Wiley Finance.

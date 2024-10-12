@@ -151,3 +151,16 @@ However, the successful application of cointegration in trading is not without c
 As algorithmic trading continues to grow and evolve, the importance of cointegration is likely to persist. By focusing on long-term relationships and mean-reverting strategies, cointegration provides a framework through which traders can design sophisticated trading strategies. These strategies not only offer opportunities for profit but also add a layer of resilience in the face of market [volatility](/wiki/volatility-trading-strategies). Moving forward, traders who master the intricacies of cointegration will be well-positioned to capitalize on its benefits as part of a broader, adaptive trading approach.
 
 
+
+
+## References & Further Reading
+
+[1]: Engle, R. F., & Granger, C. W. J. (1987). ["Co-integration and Error Correction: Representation, Estimation, and Testing."](https://www.jstor.org/stable/1913236) Econometrica, 55(2), 251-276.
+
+[2]: Johansen, S. (1991). ["Estimation and Hypothesis Testing of Cointegration Vectors in Gaussian Vector Autoregressive Models."](https://www.econometricsociety.org/publications/econometrica/1991/11/01/estimation-and-hypothesis-testing-cointegration-vectors) Econometrica, 59(6), 1551-1580.
+
+[3]: Alexander, C. (2001). ["Market Models: A Guide to Financial Data Analysis."](https://www.casact.org/sites/default/files/old/marketmodels.pdf) John Wiley & Sons.
+
+[4]: Tsay, R. S. (2010). ["Analysis of Financial Time Series (Wiley Series in Probability and Statistics)."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470644560) Wiley-Interscience.
+
+[5]: Hamilton, J. D. (1994). ["Time Series Analysis."](https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis) Princeton University Press.

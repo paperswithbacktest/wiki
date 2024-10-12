@@ -128,3 +128,11 @@ For those keen on deepening their understanding of slippage and its impact on tr
 These resources offer theoretical foundations and practical approaches to effectively understand and manage slippage in trading activities.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Dynamic Hedging: Managing Vanilla and Exotic Options"](https://www.amazon.com/Dynamic-Hedging-Managing-Vanilla-Options/dp/0471152803) by Nassim Nicolas Taleb
+
+[2]: ["Forecasting Volatility in the Financial Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=331800) by John L. Knight and Stephen Satchell
+

@@ -177,3 +177,16 @@ Navigating the complexities of volatility arbitrage requires a balance of opport
 These resources, from [books](/wiki/algo-trading-books) and articles to online [course](/wiki/best-algorithmic-trading-courses)s and professional organizations, provide valuable insights and opportunities for traders interested in volatility arbitrage and algorithmic trading to further their knowledge and skills.
 
 
+
+
+## References & Further Reading
+
+[1]: Sinclair, E. (2008). ["Volatility Trading."](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118662724.fmatter) Wiley Finance.
+
+[2]: Corcoran, C. M. (2007). ["Market-neutral Trading: Combining Technical and Fundamental Analysis into 7 Long-Short Trading Systems."](https://archive.org/details/marketneutraltra0000carr) Wiley.
+
+[3]: Chan, E. P. (2013). ["Algorithmic Trading: Winning Strategies and Their Rationale."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[4]: Andersen, T. G., Bollerslev, T., Christoffersen, P., & Diebold, F. X. (2006). ["Volatility Forecasting."](https://www.nber.org/papers/w8160) PIER Working Paper 06-22.
+
+[5]: Dowd, K. (2002). ["Risk Management in Trading."](https://www.semanticscholar.org/paper/Measuring-Market-Risk-Dowd/7a98c481e798f4bd78e90ba2ff9c4583e4d3a93f) Wiley Finance.

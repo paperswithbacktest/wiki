@@ -69,3 +69,16 @@ Technological advancements are poised to amplify the benefits of ultra-low laten
 As financial markets evolve, the importance of maintaining agile and state-of-the-art ultra-low latency solutions will continue to grow. Firms must stay ahead by investing in technology and infrastructure that support the swift execution of trades. This foresight will ensure they maintain competitiveness and capitalize on the benefits of ultra-fast trading environments. Future developments promise not only to enhance the capabilities of DMA but also to make such technologies more accessible, potentially transforming the landscape of algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506). Wiley.
+
+[2]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717). Wiley.
+
+[3]: De Prado, M. L. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[4]: Hasbrouck, J. (2016). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading"](https://archive.org/details/empiricalmarketm0000hasb). Oxford University Press.
+
+[5]: Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). ["Does algorithmic trading improve liquidity?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01624.x). The Review of Financial Studies, 24(5), 1593-1624.

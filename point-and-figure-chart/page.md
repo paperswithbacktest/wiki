@@ -151,3 +151,16 @@ Looking ahead, the potential for P&F charting in algorithmic trading is promisin
 For those interested in expanding their understanding and application of P&F charting, it is advisable to explore additional resources and research. Delving deeper into historical and contemporary studies on P&F charting can provide valuable insights into this powerful analytical tool, helping to unlock its full potential in both manual and automated trading strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Pring, M. J. (2002). ["Technical Analysis Explained: The Successful Investor's Guide to Spotting Investment Trends and Turning Points."](https://www.amazon.com/Technical-Analysis-Explained-Fifth-Successful/dp/0071825177) McGraw-Hill.
+
+[2]: ["Point and Figure Charting: The Essential Application for Forecasting and Tracking Market Prices"](https://www.amazon.com/Point-Figure-Charting-Application-Forecasting/dp/1118445708) by Thomas Dorsey
+
+[3]: "The Definitive Guide to Point and Figure" by Jeremy du Plessis, available on [Amazon](https://www.amazon.com/Definitive-Guide-Point-Figure-Comprehensive/dp/0857192450).
+
+[4]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications."](https://archive.org/details/technicalanalysi0000murp) New York Institute of Finance.
+
+[5]: Schwager, J. D. (1989). ["Market Wizards: Interviews with Top Traders."](https://www.amazon.com/Market-Wizards-Jack-D-Schwager/dp/0887306101) Wiley. 

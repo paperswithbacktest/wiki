@@ -194,3 +194,16 @@ Balancing the risk and opportunity inherent in pairs trading is essential for su
 Considering pairs trading as part of a diversified trading strategy can enhance portfolio resilience. It complements other trading methods by offering a hedge against market-wide movements, given its relative insulation from systematic risks. For traders keen on exploiting relative value strategies, pairs trading provides a systematic methodology to make informed, data-driven decisions, aligning with the broader trend of utilizing quantitative approaches in modern finance. Embracing pairs trading, combined with other strategies, can create a well-rounded trading portfolio capable of navigating various market conditions effectively.
 
 
+
+
+## References & Further Reading
+
+[1]: Gatev, E. G., Goetzmann, W. N., & Rouwenhorst, K. G. (2006). ["Pairs Trading: Performance of a Relative Value Arbitrage Rule."](https://www.nber.org/papers/w7032) The Journal of Finance, 61(5), 2223-2254.
+
+[2]: Vidyamurthy, G. (2004). ["Pairs Trading: Quantitative Methods and Analysis."](https://www.wiley.com/en-us/Pairs+Trading%3A+Quantitative+Methods+and+Analysis-p-9780471460671) John Wiley & Sons.
+
+[3]: Avellaneda, M., & Lee, J. H. (2010). ["Statistical Arbitrage in the U.S. Equities Market."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1153505) Quantitative Finance, 10(7), 761-782.
+
+[4]: Pole, A. (2007). ["Statistical Arbitrage: Algorithmic Trading Insights and Techniques."](https://books.google.com/books/about/Statistical_Arbitrage.html?id=xSjXTnKqIKoC) John Wiley & Sons.
+
+[5]: Engle, R. F., & Granger, C. W. J. (1987). ["Co-Integration and Error Correction: Representation, Estimation, and Testing."](https://www.jstor.org/stable/1913236)90087-0) Econometrica, 55(2), 251-276.

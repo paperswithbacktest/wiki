@@ -223,3 +223,14 @@ Looking forward, margin requirements are likely to evolve in response to changin
 In conclusion, margin remains a fundamental component of algorithmic trading, offering both substantial opportunities and significant risks. Its effective utilization can lead to enhanced returns, but it demands rigorous risk management practices. As the financial world continues to evolve, understanding and adapting to changing margin requirements will be crucial for traders aiming to thrive in competitive markets.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

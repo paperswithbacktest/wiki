@@ -135,3 +135,18 @@ Continuous research and innovation remain essential to navigate the complexities
 In conclusion, proactive management of transaction costs is imperative for algorithmic traders aiming to maintain a competitive edge. By prioritizing ongoing innovation and research, the trading community can continue to adapt and thrive in an ever-evolving market landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Commons, J. R. (1931). ["Institutional Economics."](https://la.utexas.edu/users/hcleaver/368/368commonsoninstitutionalecontable.pdf) The American Economic Review, 21(4), 648-657.
+
+[2]: Williamson, O. E. (1981). ["The Economics of Organization: The Transaction Cost Approach."](https://www.jstor.org/stable/pdfplus/2778934.pdf) American Journal of Sociology, 87(3), 548-577.
+
+[3]: North, D. C. (1990). ["Institutions, Institutional Change and Economic Performance."](https://archive.org/details/institutionsinst0000nort) Cambridge University Press.
+
+[4]: Kissell, R. (2006). ["The Expanded Implementation Shortfall: Understanding Transaction Cost Components."](https://www.researchgate.net/publication/247907350_The_Expanded_Implementation_Shortfall_Understanding_Transaction_Cost_Components) The Journal of Trading, 1(3), 6-16.
+
+[5]: De Prado, M. L. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[6]: Aitken, M., & Frino, A. (1996). ["The Determinants of Market Impact: Evidence from Institutional Trades."](https://www.sciencedirect.com/science/article/pii/S1057521903000632) Pacific-Basin Finance Journal, 4(1), 33-47.

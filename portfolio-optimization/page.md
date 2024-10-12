@@ -215,3 +215,16 @@ The ongoing evolution in mathematical tools and cooperative strategies continues
 This continuous innovation in portfolio optimization equips modern investors with sophisticated solutions to adapt to evolving market dynamics. By leveraging these advancements, algorithmic trading systems not only enhance performance but also ensure resilience against market uncertainties, thereby securing better outcomes for investors.
 
 
+
+
+## References & Further Reading
+
+[1]: Markowitz, H. (1952). ["Portfolio Selection."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1952.tb01525.x) Journal of Finance, 7(1), 77–91.
+
+[2]: Luenberger, D. G. (1998). ["Investment Science."](https://www.amazon.com/Investment-Science-David-G-Luenberger/dp/0199740089) Oxford University Press.
+
+[3]: Fabozzi, F. J., & Markowitz, H. M. (2011). ["Theory and Practice of Investment Management: Asset Allocation, Valuation, Portfolio Construction, and Strategies."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267028) Wiley.
+
+[4]: Roncalli, T. (2013). ["Introduction to Risk Parity and Budgeting."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272973) Chapman and Hall/CRC.
+
+[5]: Grinold, R. C., & Kahn, R. N. (1999). ["Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk."](https://archive.org/details/activeportfoliom0000grin) McGraw-Hill.

@@ -69,3 +69,16 @@ The influence of algorithmic trading, popularized by Englander, goes beyond mere
 Remaining a key figure in the hedge fund landscape, Englander's strategic foresight and leadership continue to shape the market. His relentless pursuit of excellence and penchant for adopting cutting-edge strategies ensure Millennium Management's position at the forefront of the industry. As an influential figure, Englander's impact resonates, fostering growth and adaptation in an ever-evolving financial environment.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) by Stefan Jansen
+
+[4]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[5]: Israel Englander and Millennium Management profile on ["Institutional Investor"](https://www.institutionalinvestor.com/article/2bsv1yyzn3z5qz6adh9mo/premium/millennium-management)

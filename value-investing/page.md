@@ -214,3 +214,20 @@ Moreover, the collaboration of traditional and modern approaches allows for enha
 The potential of this integration is vast, encouraging further exploration and innovation. As the financial landscape continues to evolve, leveraging the strengths of both value investing principles and algorithmic methodologies could redefine investment strategies. This fusion not only provides a fresh perspective but also paves the way for more sophisticated and resilient approaches to capitalizing on market opportunities.
 
 
+
+
+## References & Further Reading
+
+[1]: Graham, B. (2006). ["The Intelligent Investor: The Definitive Book on Value Investing."](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) Harper Business.
+
+[2]: Graham, B., & Dodd, D. L. (1934). ["Security Analysis."](https://books.google.com/books/about/Security_Analysis_The_Classic_1934_Editi.html?id=wXlrnZ1uqK0C) McGraw-Hill Education.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.
+
+[6]: Buffett, W. E. (1990). ["The Essays of Warren Buffett: Lessons for Corporate America."](http://dspace.vnbrims.org:13000/xmlui/bitstream/handle/123456789/4754/The%20Essays%20of%20Warren%20Buffett%20Lessons%20for%20Corporate%20America%2C%20Third%20Edition.pdf?sequence=1) The Cunningham Group.
+
+[7]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.wiley.com/en-us/Evidence+Based+Technical+Analysis%3A+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744) Wiley.

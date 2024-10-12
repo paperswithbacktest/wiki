@@ -146,3 +146,18 @@ Roy's safety-first criterion provides investors with a systematic approach to ri
 
 The enduring relevance of Roy's method in financial strategy attests to its foundational value in risk management practices. Its application continues to offer robust protection against market volatility, ensuring that it remains a vital tool for both conservative and progressive investment strategies. The innovations introduced by Roy's criterion underscore its significance and validate the long-lasting contributions he made to the financial sector.
 
+
+
+## References & Further Reading
+
+[1]: Roy, A. D. (1952). ["Safety First and the Holding of Assets."](https://www.jstor.org/stable/1907413) Econometrica, 20(3), 431–449.
+
+[2]: Telser, L. G. (1955). ["Safety First and Hedging."](https://academic.oup.com/restud/article/23/1/1/1522601) The Review of Economic Studies, 23(1), 1-16.
+
+[3]: Leon, C. H., & Wilkins, B. P. (1979). ["A Portfolio Selection Model Using Safety-first Criteria."](https://www.researchgate.net/publication/337900192_Project_portfolio_selection_problems_a_review_of_models_uncertainty_approaches_solution_techniques_and_case_studies)90028-2) Journal of Banking & Finance, 3(4), 297-306.
+
+[4]: Steenbeek, O. W. A. Facing risk: Modern portfolio theory with a 'safety first' twist. Institutional Investor Journals. 
+
+[5]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[6]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

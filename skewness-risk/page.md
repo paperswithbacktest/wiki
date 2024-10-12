@@ -191,3 +191,18 @@ The incorporation of skewness into risk models allows for more accurate forecast
 Ongoing research and adaptation of algorithms are necessary to effectively manage skewness risk. As financial markets and instruments evolve, continuous monitoring of data distributions and model adjustments become crucial. By integrating the latest findings and ensuring models reflect the underlying data properties, traders can reduce the susceptibility to skewness-related errors and improve trading performance.
 
 
+
+
+## References & Further Reading
+
+[1]: Mandelbrot, B. B. (1997). ["Fractals and Scaling in Finance: Discontinuity, Concentration, Risk"](https://link.springer.com/book/10.1007/978-1-4757-2763-0). Springer.
+
+[2]: Cont, R. (2001). ["Empirical properties of asset returns: stylized facts and statistical issues"](https://www.tandfonline.com/doi/abs/10.1080/713665670). The Journal of Risk Finance.
+
+[3]: Patton, A. J. (2004). ["On the out-of-sample importance of skewness and asymmetric dependence for asset allocation"](https://academic.oup.com/jfec/article/2/1/130/960723). Journal of Financial Economics.
+
+[4]: Tsay, R. S. (2010). ["Analysis of Financial Time Series,"](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470644560) 3rd Edition. Wiley.
+
+[5]: J.P. Morgan Technical Document. (1996). ["RiskMetrics: Technical Document"](https://www.msci.com/documents/10199/5915b101-4206-4ba0-aee2-3449d5c7e95a). 
+
+[6]: Hull, J. C. (2018). ["Options, Futures, and Other Derivatives,"](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/finance/Options-Futures-and-Other-Derivatives-Hull.html) 10th Edition. Pearson.

@@ -142,3 +142,22 @@ Algorithmic trading brings precision and speed to the exploitation of contango, 
 As technological advancements continue to reshape the landscape of trading, staying informed about market patterns such as contango remains essential. Traders and investors are encouraged to delve deeper into these market conditions, adapting their strategies to stay competitive. By embracing both the opportunities and challenges presented by contango and algorithmic trading, market participants can enhance their capacity to thrive in ever-evolving financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Contango and Backwardation in the Commodity Futures Market"](https://www.investopedia.com/articles/07/contango_backwardation.asp) - An Investopedia article explaining the concepts of contango and backwardation in futures markets.
+
+[2]: Lemke, C., & Gabrys, B. (2010). ["Meta-learning for time series forecasting and forecast combination."](https://www.sciencedirect.com/science/article/pii/S0925231210001074) Neurocomputing, 73(10-12), 2006-2016.
+
+[3]: Hull, J. (2018). ["Options, Futures, and Other Derivatives"](https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315) (10th Edition). Pearson.
+
+[4]: Fama, E. F., & French, K. R. (1987). ["Commodity Futures Prices: Some Evidence on Forecast Power, Premiums and the Theory of Storage."](https://www.jstor.org/stable/2352947) The Journal of Business, 60(1), 55-73.
+
+[5]: ["Market Microstructure Theory"](https://en.wikipedia.org/wiki/Market_microstructure) by Maureen O'Hara
+
+[6]: Johnson, L. L. (1960). ["The Theory of Hedging and Speculation in Commodity Futures."](https://www.jstor.org/stable/2296076) The Review of Economic Studies, 27(3), 139-151.
+
+[7]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications"](https://archive.org/details/technicalanalysi0000murp). New York Institute of Finance.
+
+[8]: ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems%2C+2nd+Edition-p-9781118343500) by Irene Aldridge.

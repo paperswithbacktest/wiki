@@ -124,3 +124,16 @@ However, despite these advancements, it's essential to understand the inherent r
 In essence, momentum investing, when combined with algorithmic trading, offers substantial potential for returns by leveraging speed and exploiting inefficiencies. Yet, a keen awareness of the associated risks and an understanding of the market landscape are imperative to navigate the complexities of this investment approach effectively. As the landscape of technology and data continues to evolve, so too does the potential for more sophisticated and profitable momentum strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Jegadeesh, N., & Titman, S. (1993). ["Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency."](https://www.jstor.org/stable/2328882) The Journal of Finance, 48(1), 65-91.
+
+[2]: Asness, C. S., Moskowitz, T. J., & Pedersen, L. H. (2013). ["Value and Momentum Everywhere."](https://pages.stern.nyu.edu/~lpederse/papers/ValMomEverywhere.pdf) The Journal of Finance, 68(3), 929-985.
+
+[3]: [Quantitative Momentum: A Practitioner's Guide to Building a Momentum-Based Stock Selection System](https://books.google.com/books/about/Quantitative_Momentum.html?id=K2npCgAAQBAJ) by Wesley R. Gray and Jack R. Vogel
+
+[4]: ["Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson
+
+[5]: ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems-p-9780470579770) by Irene Aldridge

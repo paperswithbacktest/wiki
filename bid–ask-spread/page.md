@@ -130,3 +130,18 @@ The discussion on different types of bid-ask spreads, such as quoted, effective,
 For traders and market participants, grasping the nuances of bid-ask spreads empowers more informed decision-making and strategic trading. As markets continue to evolve with technological advancements, further research into the impacts on bid-ask spreads is not just encouraged but necessary. This understanding ensures readiness to adapt to changing market conditions and helps in harnessing the potential benefits of tight spreads for optimized trading performance.
 
 
+
+
+## References & Further Reading
+
+[1]: Stoll, H. R. (2000). ["Friction"](https://onlinelibrary.wiley.com/doi/abs/10.1111/0022-1082.00259) The Journal of Finance, 55(4), 1479-1514.
+
+[2]: Hasbrouck, J. (2009). ["Trading Costs and Returns for US Equities: Estimating Effective Costs from Daily Data."](https://www.jstor.org/stable/20488006) The Review of Financial Studies, 22(3), 1221-1256.
+
+[3]: O'Hara, M. (1995). ["Market Microstructure Theory."](https://www.semanticscholar.org/paper/Market-Microstructure-Theory-O'Hara/2bd0833b023f3270a2a6bf301e86b8e02e2f28ed) Blackwell Business.
+
+[4]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) Oxford University Press.
+
+[5]: Bouchaud, J. P., Farmer, J. D., & Lillo, F. (2009). ["How Markets Slowly Digest Changes in Supply and Demand."](https://arxiv.org/abs/0809.0822) Handbook of Financial Markets: Dynamics and Evolution.
+
+[6]: Menkveld, A. J. (2013). ["High Frequency Trading and the New-Market Makers."](https://www.sciencedirect.com/science/article/pii/S1386418113000281) Journal of Financial Markets, 16(4), 712-740.

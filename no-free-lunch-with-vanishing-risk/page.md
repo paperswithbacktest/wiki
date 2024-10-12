@@ -99,3 +99,16 @@ The continuous evolution of financial markets requires persistent innovation and
 In conclusion, the application of NFLVR principles is essential for achieving more stable and sustainable trading outcomes. As market structures and conditions continually change, the onus is on financial professionals to integrate robust NFLVR-driven strategies that are adept at navigating these changes, thus securing an enduring competitive advantage.
 
 
+
+
+## References & Further Reading
+
+[1]: Delbaen, F., & Schachermayer, W. (1994). ["A General Version of the Fundamental Theorem of Asset Pricing."](https://link.springer.com/article/10.1007/BF01450498) Mathematische Annalen, 300(1), 463-520.
+
+[2]: Björk, T. (2009). ["Arbitrage Theory in Continuous Time."](http://www.nigerianwomeninmaths.org/cs/books/Tomas%20Bjork-Arbitrage%20Theory%20in%20Continuous%20Time%20(Oxford%20Finance)%20(2009)%20(1).pdf) Oxford University Press.
+
+[3]: Karatzas, I., & Shreve, S. E. (1998). ["Methods of Mathematical Finance."](https://link.springer.com/book/10.1007/978-1-4939-6845-9) Springer.
+
+[4]: Harrison, J. M., & Kreps, D. M. (1979). ["Martingales and Arbitrage in Multiperiod Securities Markets."](https://www.sciencedirect.com/science/article/pii/0022053179900437) Journal of Economic Theory, 20(3), 381-408.
+
+[5]: Merton, R. C. (1992). ["Continuous-Time Finance."](https://archive.org/details/continuoustimefi0000mert) Blackwell.

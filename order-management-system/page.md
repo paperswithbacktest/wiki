@@ -117,3 +117,20 @@ Looking to the future, innovations in [artificial intelligence](/wiki/ai-artific
 To optimize OMS for trading success, firms must prioritize selecting systems that offer scalability, customization, and real-time data processing. Emphasizing user-friendly interfaces and comprehensive training can further enhance trader efficiency and system utilization. By leveraging the full potential of OMS, traders and firms are better positioned to achieve trading efficiency and profitability in a fast-paced financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) Oxford University Press.
+
+[2]: Mehrling, P. (2011). ["The New Lombard Street: How the Fed Became the Dealer of Last Resort."](https://www.jstor.org/stable/j.ctt7sgxz) Princeton University Press.
+
+[3]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley.
+
+[4]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management."](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management) Academic Press.
+
+[5]: Dealing with Data-Related Regulatory Issues in Algorithmic Trading, Journal of Trading. 
+
+[6]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.
+
+[7]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-Frequency Trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) In: Stock Exchanges and Stock Index Futures. Springer.

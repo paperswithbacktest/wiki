@@ -110,3 +110,20 @@ As financial markets become increasingly complex and data-driven, Renaissance's 
 In essence, Renaissance Technologies' journey highlights the significant impact of integrating scientific rigor into financial strategies. Their ongoing quest for innovation not only reinforces their dominance but also inspires a new generation of quantitative approaches within the hedge fund industry.
 
 
+
+
+## References & Further Reading
+
+[1]: Patterson, S. (2010). ["The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It."](https://www.amazon.com/Quants-Whizzes-Conquered-Street-Destroyed/dp/0307453383) Crown Business.
+
+[2]: Zuckerman, G. (2009). ["The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution."](https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/073521798X) Penguin Random House.
+
+[3]: Derman, E. (2012). ["My Life as a Quant: Reflections on Physics and Finance."](https://www.amazon.com/My-Life-Quant-Reflections-Physics/dp/0470192739) Wiley.
+
+[4]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[5]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119203803.fmatter) Wiley.
+
+[6]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315) Wiley.
+
+[7]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.

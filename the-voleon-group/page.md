@@ -89,3 +89,16 @@ As Voleon looks to the future, its success will depend significantly on its capa
 Maintaining the balance between innovation and adaptability will be crucial. By doing so, Voleon can not only sustain its current standing as a leader in the industry but also drive future growth and success. Furthermore, the firm's commitment to ethical considerations, as shown by its responsiveness to criticism over hiring practices, underscores its potential for maintaining a strong, positive reputation. As the firm evolves, its ability to leverage cutting-edge technology while staying attuned to market and regulatory demands will be key to its ongoing prominence in the industry.
 
 
+
+
+## References & Further Reading
+
+[1]: ["The Voleon Group: At the Intersection of Hedge Funds and AI"](https://voleon.com/) Institutional Investor
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

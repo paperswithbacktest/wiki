@@ -128,3 +128,18 @@ The feasibility of using calendar effects in algorithmic trading is thus balance
 Looking forward, research might focus on identifying new calendar effects that adapt to changing market structures, supported by technological advancements like [machine learning](/wiki/machine-learning). Improved data analytics could reveal subtle market nuances previously unnoticed, offering the potential for novel strategies that capitalize on evolving patterns. As financial markets continue to transform, so too must the methodologies that seek to profit from their anomalies.
 
 
+
+
+## References & Further Reading
+
+[1]: Rozeff, M. S., & Kinney, W. R. (1976). ["Capital market seasonality: The case of stock returns."](https://www.sciencedirect.com/science/article/pii/0304405X76900283) Journal of Financial Economics, 3(4), 379-402. (Discusses the January effect and its implications on stock returns.)
+
+[2]: French, K. R. (1980). ["Stock returns and the weekend effect."](https://www.sciencedirect.com/science/article/pii/0304405X80900215) Journal of Financial Economics, 8(1), 55-69. (Explores the weekend effect in stock returns.)
+
+[3]: Keim, D. B. (1983). ["Size-related anomalies and stock return seasonality: Further empirical evidence."](https://www.sciencedirect.com/science/article/pii/0304405X83900259) Journal of Financial Economics, 12(1), 13-32. (Provides evidence on seasonal patterns in stock returns.)
+
+[4]: Zhang, C., & Jacobsen, B. (2013). ["Are monthly seasonals real? A three century perspective."](https://academic.oup.com/rof/article-abstract/17/5/1743/1581343) International Journal of Finance & Economics, 18(4), 368-384. (Studies the persistence of calendar effects over three centuries.)
+
+[5]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://www.wiley.com/en-us/Algorithmic+Trading%3A+Winning+Strategies+and+Their+Rationale-p-9781118460146) by Ernest P. Chan. (Provides insights into algorithmic trading strategies including those based on calendar effects.)
+
+[6]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan. (Discusses the setup and execution of algorithmic trading strategies.)

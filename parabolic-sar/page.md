@@ -161,3 +161,16 @@ Traders who effectively integrate the Parabolic SAR can enhance their trading st
 However, the ever-changing nature of financial markets necessitates continual research and adaptation. Factors such as market [volatility](/wiki/volatility-trading-strategies), chart type, and overall economic conditions can influence the effectiveness of the Parabolic SAR. As such, ongoing analysis and strategy adjustments are vital for traders seeking to maximize the utility of this indicator. By remaining adaptable and informed, traders can harness the full potential of the Parabolic SAR, thereby enhancing their algorithmic trading endeavors.
 
 
+
+
+## References & Further Reading
+
+[1]: Wilder Jr, J. W. (1978). ["New Concepts in Technical Trading Systems."](https://archive.org/details/newconceptsintec00wild) Trend Research.
+
+[2]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) John Wiley & Sons.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) John Wiley & Sons.
+
+[4]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) John Wiley & Sons.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.

@@ -130,3 +130,16 @@ For further research, it is vital to explore advanced quantitative techniques th
 In conclusion, integrating an understanding of kurtosis risk into algorithmic trading not only enhances model accuracy but also fortifies risk management practices, paving the way for more sustainable trading strategies in increasingly dynamic financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Mandelbrot, B. B. (2004). ["The (Mis)Behavior of Markets: A Fractal View of Financial Turbulence"](https://archive.org/details/misbehaviourofma0000mand). Basic Books.
+
+[2]: Taleb, N. N. (2007). ["The Black Swan: The Impact of the Highly Improbable"](https://www.jstor.org/stable/23045073). Random House.
+
+[3]: Cont, R. (2001). ["Empirical properties of asset returns: stylized facts and statistical issues."](https://www.tandfonline.com/doi/abs/10.1080/713665670) Quantitative Finance, 1(2), 223-236.
+
+[4]: Jorion, P. (2006). ["Value at Risk: The New Benchmark for Managing Financial Risk"](https://books.google.com/books/about/Value_at_Risk_3rd_Ed.html?id=nnblKhI7KP8C). McGraw-Hill.
+
+[5]: Geman, H. (2005). ["Commodities and Commodity Derivatives: Modelling and Pricing for Agriculturals, Metals and Energy"](https://www.amazon.com/Commodities-Commodity-Derivatives-Modelling-Agriculturals/dp/0470012188). Wiley.

@@ -81,3 +81,20 @@ A notable aspect of CFM has been its continuous commitment to research and devel
 CFM's dedication to combining scientific inquiry with market expertise has not only provided a competitive edge but also fosters advancements in the financial sector, promoting transparency and efficiency. Thus, Capital Fund Management remains at the forefront of the evolution of quantitative finance, setting benchmarks for both academic and financial communities.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[5]: Bouchaud, J.-P. & Potters, M. (2003). ["Theory of Financial Risk and Derivative Pricing: From Statistical Physics to Risk Management"](https://www.cambridge.org/core/books/theory-of-financial-risk-and-derivative-pricing/5BBBA04CE72ED9E5E7C1C028D9A94FCB). Cambridge University Press. 
+
+[6]: Cont, R. (2001). ["Empirical properties of asset returns: stylized facts and statistical issues."](http://rama.cont.perso.math.cnrs.fr/pdf/empirical.pdf) The Review of Financial Studies.
+
+[7]: Asness, C. S., Krail, R. J., & Liew, J. M. (2001). ["Do hedge funds hedge?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=252810) The American Economic Review.

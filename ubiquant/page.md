@@ -95,3 +95,20 @@ Looking ahead, Ubiquant's future prospects appear promising as the firm continue
 The landscape of quantitative finance is rapidly transforming, with firms like Ubiquant at the forefront of this evolution. As the industry shifts towards more data-driven approaches, the ability to harness sophisticated algorithms and technology will be crucial in shaping the future of investment management. Ubiquant's dedication to continual technological advancements and international expansion not only solidifies its role as a leader in quantitative finance but also sets a precedent for the industry's evolution.
 
 
+
+
+## References & Further Reading
+
+[1]: Yang, B., & Colditz, G. A. (2019). ["Exploring Reinforcement Learning in Financial Markets: Algorithms and Applications."](https://link.springer.com/chapter/10.1007/978-3-031-33309-5_5) IEEE, 2019.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Machine Learning for Asset Managers"](https://www.cambridge.org/core/elements/machine-learning-for-asset-managers/6D9211305EA2E425D33A9F38D0AE3545) by Marcos Lopez de Prado
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[5]: ["Algorithmic and High-Frequency Trading"](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) by Álvaro Cartea, Sebastian Jaimungal, and José Penalva
+
+[6]: Kearns, M., Nevmyvaka, Y. (2013). ["Machine Learning for Market Microstructure and High Frequency Trading."](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf) Springer, New York, NY.
+
+[7]: ["Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies"](https://archive.org/details/algorithmictradi0000john) by Barry Johnson

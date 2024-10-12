@@ -160,3 +160,16 @@ Moreover, the types of mergers, whether cash or stock-based, present different o
 The advent of algorithmic trading has further enhanced the efficiency and potential profitability of risk arbitrage. Advanced algorithms are capable of processing vast datasets to pinpoint mispricing opportunities more accurately and swiftly than manual analysis. By integrating such technologies, investors can improve trade execution, manage risk with greater precision, and potentially amplify their returns. The use of algorithmic trading in risk arbitrage exemplifies how technological advancements continue to shape investment strategies, making it a continuously evolving and attractive option for those adept at navigating its intricacies.
 
 
+
+
+## References & Further Reading
+
+[1]: Schwert, G. W. (2000). ["Hostility in Takeovers: In the Eyes of the Beholder?"](https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00301) The Journal of Finance, 55(6), 2599-2640.
+
+[2]: Mitchell, M. L., & Pulvino, T. (2001). ["Characteristics of Risk and Return in Risk Arbitrage."](https://www.jstor.org/stable/2697819) The Journal of Finance, 56(6), 2135-2175.
+
+[3]: Moeller, S. B., Schlingemann, F. P., & Stulz, R. M. (2005). ["Wealth Destruction on a Massive Scale? A Study of Acquiring-Firm Returns in the Recent Merger Wave."](https://www.jstor.org/stable/3694766) The Journal of Finance, 60(2), 757-782.
+
+[4]: Brealey, R. A., Myers, S. C., & Allen, F. (2019). ["Principles of Corporate Finance."](https://www.mheducation.com/highered/product/principles-corporate-finance-brealey-myers/M9781264080946.html) McGraw-Hill Education.
+
+[5]: Andrade, G., Mitchell, M., & Stafford, E. (2001). ["New Evidence and Perspectives on Mergers."](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.2.103) Journal of Economic Perspectives, 15(2), 103-120.

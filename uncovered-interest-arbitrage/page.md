@@ -120,3 +120,22 @@ Despite these technological advantages, the unpredictability of future exchange 
 As the global financial landscape evolves, so too must the methodologies used to navigate it. Uncovered interest arbitrage, when harnessed with cutting-edge technology and thorough market analysis, presents a viable approach to capitalizing on foreign exchange markets. Future exploration and deeper understanding of these complex strategies are encouraged, as they hold the potential for innovative advancements in trading practices. These efforts will ensure that investors remain ahead of the curve in an ever-changing financial environment.
 
 
+
+
+## References & Further Reading
+
+[1]: Froot, K. A., & Thaler, R. H. (1990). ["Anomalies: Foreign Exchange."](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.4.3.179) Journal of Economic Perspectives, 4(3), 179-192.
+
+[2]: Taylor, M. P. (1995). ["The Economics of Exchange Rates."](https://www.jstor.org/stable/2728909) Journal of Economic Literature, 33(1), 13-47.
+
+[3]: Burnside, C., Eichenbaum, M., & Rebelo, S. (2007). ["The Returns to Currency Speculation."](https://www.nber.org/system/files/working_papers/w16942/w16942.pdf) National Bureau of Economic Research Working Paper No. 12916.
+
+[4]: Akram, Q. F., Rime, D., & Sarno, L. (2008). ["Arbitrage in the Foreign Exchange Market: Turning on the Microscope."](https://www.sciencedirect.com/science/article/pii/S0022199608000706) Journal of International Economics, 76(2), 237-253.
+
+[5]: Avramov, D., & Chordia, T. (2006). ["Asset Pricing Models and Financial Market Anomalies."](https://www.jstor.org/stable/3844019) The Review of Financial Studies, 19(3), 1001-1040.
+
+[6]: ["Interest Rate Parity, Exchange Rates, and Forex Trading"](https://www.investopedia.com/terms/i/interestrateparity.asp) - Investopedia
+
+[7]: Brealey, R., Myers, S., & Allen, F. (2020). ["Principles of Corporate Finance"](https://www.mheducation.com/highered/product/principles-corporate-finance-brealey-myers/M9781264080946.html) (13th Edition). McGraw-Hill Education.
+
+[8]: ["Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson

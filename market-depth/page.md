@@ -77,3 +77,16 @@ Integrating real-time market depth data into trading strategies enhances decisio
 Looking ahead, advancements in market depth analysis for algorithmic trading are expected to focus on enhanced data analytics and machine learning techniques. These developments aim to refine predictive models, increasing their precision and reliability. As technology evolves, traders will gain access to deeper, more nuanced market insights, promoting more informed decision-making. This progress will likely result in more sophisticated trading strategies and further integration of [artificial intelligence](/wiki/ai-artificial-intelligence) to process vast amounts of market data instantaneously, presenting traders with competitive advantages in the pursuit of optimized trading performance.
 
 
+
+
+## References & Further Reading
+
+[1]: Johnson, B., & Holloway, D. (2019). ["Algorithmic Trading & DMA: An introduction to direct access trading strategies"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207). 4Myeloma Press.
+
+[2]: Kissell, R., & Malamut, R. (2006). ["Algorithmic Decision-Making Framework"](https://guides.pm-research.com/content/iijtrading/2006/1/82). The Journal of Banking & Finance.
+
+[3]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading"](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems-p-9780470579770). John Wiley & Sons.
+
+[4]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners"](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708). Oxford University Press.
+
+[5]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading"](https://academic.oup.com/book/52241). Oxford University Press.

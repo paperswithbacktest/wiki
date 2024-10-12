@@ -112,3 +112,20 @@ The future potential of low-volatility investing in algorithmic trading seems su
 In financial markets, the integration and evolution of low-volatility strategies suggest a promising yet cautious path forward. These strategies will likely continue to play a crucial role, as long as they adapt to new data and trading environments. As more investors recognize the value of reduced volatility, the influx of capital might compress future returns. However, the adaptive nature of algorithmic trading systems, combined with machine learning advancements, could extend the viability and performance of low-volatility strategies. The ongoing challenge will be to balance the pursuit of reduced risk with the potential for diminished returns, ensuring sustainability while maintaining competitive advantage in diverse market conditions.
 
 
+
+
+## References & Further Reading
+
+[1]: Baker, M., Bradley, B., & Wurgler, J. (2011). ["Benchmarks as Limits to Arbitrage: Understanding the Low-Volatility Anomaly."](https://pages.stern.nyu.edu/~jwurgler/papers/wurgler_bradley_baker.pdf) Financial Analysts Journal, 67(1), 40-54.
+
+[2]: Frazzini, A., & Pedersen, L. H. (2014). ["Betting Against Beta."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2049939) Journal of Financial Economics, 111(1), 1-25.
+
+[3]: MSCI Inc. (n.d.). ["MSCI Minimum Volatility Indexes."](https://www.msci.com/indexes/group/minimum-volatility-indexes)
+
+[4]: S&P Dow Jones Indices. (n.d.). ["S&P 500 Low Volatility Index."](https://www.spglobal.com/spdji/en/indices/dividends-factors/sp-500-low-volatility-index/)
+
+[5]: Fama, E. F., & French, K. R. (1992). ["The Cross-Section of Expected Stock Returns."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1992.tb04398.x) Journal of Finance, 47(2), 427-465.
+
+[6]: Blitz, D., & van Vliet, P. (2007). ["The Volatility Effect: Lower Risk without Lower Return."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=980865) Journal of Portfolio Management, 34(1), 102-113.
+
+[7]: Ang, A., Hodrick, R. J., Xing, Y., & Zhang, X. (2006). ["The Cross-Section of Volatility and Expected Returns."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2006.00836.x) Journal of Finance, 61(1), 259-299.

@@ -137,3 +137,16 @@ Despite these advancements, a crucial balance between accuracy and computational
 In conclusion, the future of Monte Carlo methods in financial markets lies in harnessing technological advancements to enhance simulation accuracy and efficiency. While challenges persist, continued innovation and strategic implementation can further establish these methods as a cornerstone for modern algorithmic trading, balancing precision with the need for rapid analysis in one of the world's most dynamic environments.
 
 
+
+
+## References & Further Reading
+
+[1]: Glasserman, P. (2004). ["Monte Carlo Methods in Financial Engineering."](https://link.springer.com/book/10.1007/978-0-387-21617-1) Springer.
+
+[2]: Hull, J. C. (2018). ["Options, Futures, and Other Derivatives."](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/finance/Options-Futures-and-Other-Derivatives-Hull.html) Pearson.
+
+[3]: Boyle, P. P., Broadie, M., & Glasserman, P. (1997). ["Monte Carlo methods for security pricing."](https://www.sciencedirect.com/science/article/pii/S0165188997000286) Journal of Economic Dynamics and Control.
+
+[4]: Jäckel, P. (2002). ["Monte Carlo methods in finance."](https://www.wiley.com/en-us/Monte+Carlo+Methods+in+Finance-p-9780471497417) Wiley.
+
+[5]: Taleb, N. N. (2010). ["The Black Swan: The Impact of the Highly Improbable."](https://www.jstor.org/stable/23045073) Random House.

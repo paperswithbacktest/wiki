@@ -67,3 +67,16 @@ Integral to Voloridge's impact is its focus on harnessing vast amounts of data a
 Looking ahead, Voloridge is well-positioned to expand its footprint in global financial markets. The continual advancement of technology and data analytics presents opportunities for further enhancing their algorithmic models, potentially unlocking new avenues for growth and diversification. As global markets evolve, Voloridge's expertise in algorithmic trading and commitment to innovation will serve as pivotal assets, enabling them to capitalize on emerging trends and opportunities in the ever-changing financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Asness, C. S., Liew, J. M., & Stevens, R. L. (1997). ["Parsimony in Practice: An Asset Allocation Framework."](https://pages.stern.nyu.edu/~lpederse/papers/ValMomEverywhere.pdf) Financial Analysts Journal.
+
+[2]: ["Automated Trading with R: Quantitative Research and Platform Development"](https://link.springer.com/book/10.1007/978-1-4842-2178-5) by Chris Conlan
+
+[3]: Kearns, M., & Nevmyvaka, Y. (2013). ["Machine Learning for Market Microstructure and High Frequency Trading."](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf) In: Bourlard, H., & Bengio, S. (eds) High-Frequency Trading, Cambridge University Press.
+
+[4]: ["Algorithmic and High-Frequency Trading"](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) by Álvaro Cartea, Sebastian Jaimungal, and José Penalva
+
+[5]: Chincarini, L. B., & Kim, D. (2006). ["Quantitative Equity Portfolio Management."](https://www.mhebooklibrary.com/doi/book/10.1036/9781264268931) McGraw-Hill Education.

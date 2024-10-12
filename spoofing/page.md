@@ -161,3 +161,22 @@ In conclusion, the fight against spoofing in algorithmic trading should be a pri
 10. **Reports by the Bank for International Settlements (BIS)**: BIS publications address broader market dynamics and the implications of market infrastructure developments on trading behaviors like spoofing.
 
 
+
+
+## References & Further Reading
+
+[1]: Easley, D., López de Prado, M., & O'Hara, M. (2013). ["The Volume Clock: Insights into the High Frequency Paradigm"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2034858). The Journal of Portfolio Management, 39(1).
+
+[2]: Lewis, M. (2014). ["Flash Boys: A Wall Street Revolt."](https://en.wikipedia.org/wiki/Flash_Boys) W. W. Norton & Company.
+
+[3]: U.S. Commodity Futures Trading Commission (CFTC). ["Market Disruption and Spoofing."](https://www.cftc.gov/?os=app&ref=app)
+
+[4]: Securities and Exchange Commission (SEC). ["SEC Actions Against Market Manipulation."](https://www.sec.gov/newsroom/press-releases/2024-166)
+
+[5]: Johnson, B. (2010). ["Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies."](https://archive.org/details/algorithmictradi0000john) 4Myeloma Press.
+
+[6]: Financial Conduct Authority (FCA). ["Market Abuse Regulations: An FCA Summary."](https://www.fca.org.uk/markets/market-abuse/regulation)
+
+[7]: Scopino, G. (2015). ["The Dodd-Frank Act's Anti-Spoofing Provision."](https://www.thompsoncoburn.com/docs/default-source/News-Documents/spoofing.pdf?sfvrsn=0) Cornell Law Review, 101(1), 797-846.
+
+[8]: Journal of Finance. ["The Post-Dodd-Frank World: Spoofing and Market Integrity."](https://en.wikipedia.org/wiki/Spoofing_%28finance%29)

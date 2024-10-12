@@ -63,3 +63,16 @@ Moreover, XTX Markets' growth trajectory and significant involvement in social r
 As XTX Markets continues to expand its global reach and deepen its integration in various financial sectors, the company is prepared to cement its leadership position. Its reliance on cutting-edge technology and strategic market operations remains central to its strategy, ensuring that it can adeptly adapt to evolving market trends and maintain its competitive edge in the continuously advancing field of algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Gerko, A., & Shah, N. (2015). ["The role of technology in modern finance"](https://online.ucpress.edu/gp/article/2/1/27353/118411/How-Is-Technology-Changing-the-World-and-How). Journal of Applied Finance.
+
+[2]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems%2C+2nd+Edition-p-9781118343500). John Wiley & Sons.
+
+[3]: ["Markets Media Interview with Alexander Gerko"](https://www.ft.com/content/d813fe90-29ba-4c98-ac57-c2919a7970b1) - Insights into the operations and strategies employed by XTX Markets.
+
+[4]: Harford, T. (2016). ["How algorithms rule our working lives"](https://www.linkedin.com/pulse/how-algorithms-rule-our-working-lives-martin-morency). Financial Times. 
+
+[5]: ["Financial Times Article on XTX Markets"](https://www.ft.com/content/82a747ac-0091-4e6b-9c2a-4ac567f18fa2) - An overview of XTX Markets' role and impact in the financial markets.

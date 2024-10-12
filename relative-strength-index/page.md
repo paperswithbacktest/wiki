@@ -123,3 +123,18 @@ Experimentation with RSI settings can yield valuable insights for traders. Adjus
 Despite its enduring relevance, RSI is not without limitations. Its propensity for false signals in strongly trending markets underscores the importance of combining it with other analytical tools. Nevertheless, the continuous evolution of trading technologies and strategies keeps RSI pertinent, as it adapts to the ever-changing demands of financial markets. Trading professionals should consider RSI not just as a static tool but as a dynamic component of their analytical arsenal. As the landscape of trading continues to evolve, RSI’s adaptability and integration with modern trading systems ensure its continued significance for traders seeking precision and insight in their trading endeavors.
 
 
+
+
+## References & Further Reading
+
+[1]: Wilder, J. W. (1978). ["New Concepts in Technical Trading Systems."](https://archive.org/details/newconceptsintec00wild) Trend Research.
+
+[2]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications."](https://archive.org/details/technicalanalysi0000murp) New York Institute of Finance.
+
+[3]: Aronson, D. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) Wiley.
+
+[4]: Appel, G., & Hitschler, F. (2008). ["Technical Analysis: Power Tools for Active Investors."](https://www.amazon.com/Technical-Analysis-Power-Active-Investors/dp/0132930048) Financial Times Prentice Hall.
+
+[5]: Levich, R. M. (Ed.). (2011). ["The Handbook of Trading: Strategies for Navigating and Profiting from Currency, Bond, and Stock Markets."](https://archive.org/details/internationalfin00levi) Wiley.
+
+[6]: Elder, A. (2002). ["Trading for a Living: Psychology, Trading Tactics, Money Management."](https://www.amazon.com/Trading-Living-Psychology-Tactics-Management/dp/0471592242) Wiley.

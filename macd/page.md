@@ -126,3 +126,16 @@ MACD is a lagging indicator, which means it is based on historical data and ther
 Furthermore, the effectiveness of using MACD also lies in continuous learning and strategic adaptation. Markets evolve, and so should trading techniques. Traders who commit to understanding the subtleties of the MACD indicator and remain flexible in their strategies tend to maximize their success in [algorithmic trading](/wiki/algorithmic-trading). This continuous refinement of skills and approaches ensures that the MACD, in combination with other analysis tools, can significantly enhance trading decisions and outcomes.
 
 
+
+
+## References & Further Reading
+
+[1]: Appel, G. (2005). ["Technical Analysis: Power Tools for Active Investors"](https://www.amazon.com/Technical-Analysis-Power-Active-Investors/dp/0132930048) by Gerald Appel
+
+[2]: Pring, M. J. (2002). ["Technical Analysis Explained"](https://www.amazon.com/Technical-Analysis-Explained-Fifth-Successful/dp/0071825177) by Martin J. Pring
+
+[3]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications"](https://archive.org/details/technicalanalysi0000murp) by John J. Murphy
+
+[4]: Kirkpatrick, C. D., & Dahlquist, J. R. (2010). ["Technical Analysis: The Complete Resource for Financial Market Technicians"](https://ptgmedia.pearsoncmg.com/images/9780134137049/samplepages/9780134137049.pdf) by Charles D. Kirkpatrick and Julie R. Dahlquist
+
+[5]: Achelis, S. B. (2000). ["Technical Analysis from A to Z"](https://archive.org/details/technicalanalysi00ache) by Steven B. Achelis

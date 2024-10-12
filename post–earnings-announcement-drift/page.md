@@ -113,3 +113,20 @@ Moreover, the continuous integration of empirical research with practical tradin
 For further reading on PEAD and its implications in financial markets, consider exploring specialized finance and accounting journals that periodically publish updated research on market anomalies and trading strategies utilizing advanced algorithmic techniques.
 
 
+
+
+## References & Further Reading
+
+[1]: Ball, R., & Brown, P. (1968). ["An Empirical Evaluation of Accounting Income Numbers."](https://www.jstor.org/stable/2490232) Journal of Accounting Research, 6(2), 159-178.
+
+[2]: Bernard, V. L., & Thomas, J. K. (1989). ["Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium?"](https://www.jstor.org/stable/2491062) Journal of Accounting Research, 27, 1-36.
+
+[3]: Bernard, V. L., & Thomas, J. K. (1990). ["Evidence That Stock Prices Do Not Fully Reflect the Implications of Current Earnings for Future Earnings."](https://www.sciencedirect.com/science/article/pii/016541019090008R) Journal of Accounting and Economics, 13(4), 305-340.
+
+[4]: Mendenhall, R. R. (2004). ["Arbitrage Risk and Post-Earnings-Announcement Drift."](https://www.jstor.org/stable/10.1086/422627) Journal of Business, 77(4), 875-894.
+
+[5]: Fama, E. F. (1991). ["Efficient Capital Markets: II."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1991.tb04636.x) The Journal of Finance, 46(5), 1575-1617.
+
+[6]: Chordia, T., & Shivakumar, L. (2006). ["Earnings and Price Momentum."](https://www.sciencedirect.com/science/article/pii/S0304405X05002175) Journal of Financial Economics, 80(3), 627-656.
+
+[7]: Skinner, D. J., & Sloan, R. G. (2002). ["Earnings Surprises, Growth Expectations, and Stock Returns or Don’t Let an Earnings Torpedo Sink Your Portfolio."](https://link.springer.com/article/10.1023/A:1020294523516) Review of Accounting Studies, 7(2-3), 289-312.

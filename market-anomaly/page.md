@@ -138,3 +138,16 @@ Trading strategies should be resilient, flexible, and based on robust historical
 In conclusion, an in-depth understanding of market anomalies is essential for devising effective algorithmic trading strategies. The commitment to continuous research and adaptation is paramount to exploiting these market inefficiencies effectively, ensuring the longevity and success of trading operations in an ever-evolving financial ecosystem.
 
 
+
+
+## References & Further Reading
+
+[1]: Fama, E. F., & French, K. R. (1992). ["The Cross-Section of Expected Stock Returns."](https://www.jstor.org/stable/2329112) The Journal of Finance, 47(2), 427-465.
+
+[2]: Shiller, R. J. (1981). ["Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends?"](https://www.jstor.org/stable/1802789) The American Economic Review, 71(3), 421-436.
+
+[3]: Jegadeesh, N., & Titman, S. (1993). ["Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency."](https://www.jstor.org/stable/2328882) The Journal of Finance, 48(1), 65-91.
+
+[4]: Poterba, J. M., & Summers, L. H. (1988). ["Mean Reversion in Stock Prices: Evidence and Implications."](https://www.sciencedirect.com/science/article/pii/0304405X88900219) Journal of Financial Economics, 22(1), 27-59.
+
+[5]: Lakonishok, J., Shleifer, A., & Vishny, R. W. (1994). ["Contrarian Investment, Extrapolation, and Risk."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1994.tb04772.x) The Journal of Finance, 49(5), 1541-1578.

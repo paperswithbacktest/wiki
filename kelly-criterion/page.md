@@ -186,3 +186,16 @@ The Kelly Criterion stands as a robust method for optimizing gains in trading by
 When integrating the Kelly Criterion into trading strategies, it's important to consider it alongside other risk management practices. By doing so, traders can create a more comprehensive strategy that accounts for market volatility, investment duration, and individual risk tolerance. Such integration allows for better decision-making, potentially improving the overall performance of algorithmic trading systems. While the Kelly Criterion provides a theoretical foundation for maximizing growth, its real-world application requires adaptability and precise execution, reinforcing its role not just as a standalone approach but as a vital component of a broader investment strategy.
 
 
+
+
+## References & Further Reading
+
+[1]: Kelly, J. L. (1956). ["A New Interpretation of Information Rate."](https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf) Bell System Technical Journal, 35(4), 917-926.
+
+[2]: MacLean, L. C., Thorp, E. O., & Ziemba, W. T. (2011). ["The Kelly Capital Growth Investment Criterion: Theory and Practice."](https://www.tandfonline.com/doi/full/10.1080/14697688.2011.619561) World Scientific Publishing Company.
+
+[3]: Vince, R. (1992). ["The Mathematics of Money Management: Risk Analysis Techniques for Traders."](https://archive.org/download/mathematics_202103/Mathematics%20Of%20Money%20Management.%20Ralph%20Vince.pdf) Wiley.
+
+[4]: Thorp, E. O. (1969). ["Optimal Gambling Systems for Favorable Games."](https://www.jstor.org/stable/1402118) Review of the International Statistical Institute, 37(3), 273-293.
+
+[5]: Ed Thorp's website, [ED THORP](http://www.edwardothorp.com/), containing various resources and writings on the Kelly Criterion and its applications.

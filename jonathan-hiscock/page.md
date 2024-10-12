@@ -65,3 +65,20 @@ Through the effective use of algorithmic trading, Hiscock has harnessed the powe
 As the financial markets continue to evolve, the marriage of finance and technology will become even more crucial. Jonathan Hiscock's successful strategies serve as a testament to the ongoing potential of algorithmic trading. His influence can be seen in how modern trading platforms are increasingly incorporating AI-based tools and machine learning algorithms—trends that are poised to reshape the future of financial trading. In this dynamic context, Hiscock's pioneering work remains highly influential, guiding both current and future developments in the field.
 
 
+
+
+## References & Further Reading
+
+[1]: ["The Sunday Times Rich List 2019"](https://en.wikipedia.org/wiki/Sunday_Times_Rich_List_2019) - The Sunday Times
+
+[2]: ["Machine Learning for Asset Managers"](https://www.cambridge.org/core/books/machine-learning-for-asset-managers/6D9211305EA2E425D33A9F38D0AE3545) by Marcos Lopez de Prado
+
+[3]: Brogaard, J., Hendershott, T., & Riordan, R. (2014). ["High-Frequency Trading and Price Discovery."](https://www.jstor.org/stable/24465658) The Review of Financial Studies, Volume 27, Issue 8, pp. 2267–2306.
+
+[4]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems,"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) 2nd Edition. Wiley.
+
+[5]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) John Wiley & Sons.
+
+[6]: Koller, D., & Friedman, N. (2009). ["Probabilistic Graphical Models: Principles and Techniques."](https://dl.acm.org/doi/10.5555/1795555) MIT Press.
+
+[7]: [GSA Capital official website](https://www.gsacapital.com/)

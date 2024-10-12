@@ -153,3 +153,16 @@ Moreover, the application of these levels is not restricted to manual trading; t
 Whether employing proactive techniques like trendlines and calculated pivots or relying on reactive methods such as analyzing volume profiles, understanding support and resistance is essential for effective market navigation. As markets evolve, these methods provide traders with the tools to adapt and respond efficiently, capitalizing on market movements with improved accuracy and confidence.
 
 
+
+
+## References & Further Reading
+
+[1]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications"](https://archive.org/details/technicalanalysi0000murp). New York Institute of Finance.
+
+[2]: Tharp, V. K. (2013). ["Trade Your Way to Financial Freedom"](https://www.amazon.com/Trade-Your-Way-Financial-Freedom/dp/007147871X). McGraw-Hill Education.
+
+[3]: Pring, M. J. (2002). ["Technical Analysis Explained: The Successful Investor's Guide to Spotting Investment Trends and Turning Points"](https://www.amazon.com/Technical-Analysis-Explained-Fifth-Successful/dp/0071825177). McGraw-Hill Education.
+
+[4]: Nison, S. (1991). ["Japanese Candlestick Charting Techniques: A Contemporary Guide to the Ancient Investment Techniques of the Far East"](https://archive.org/details/japanesecandlest0000niso). Prentice Hall Press.
+
+[5]: Lo, A. W., Mamaysky, H., & Wang, J. (2000). ["Foundations of Technical Analysis: Computational Algorithms, Statistical Inference, and Empirical Implementation"](https://www.cis.upenn.edu/~mkearns/teaching/cis700/lo.pdf). Journal of Finance, 55(4), 1705–1770.

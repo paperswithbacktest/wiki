@@ -140,3 +140,16 @@ Proper application of these moving averages can enhance trading performance by p
 As the algorithmic trading landscape evolves, continuous advancements and adaptations in trading algorithms can harness the full potential of moving averages. By optimizing the parameters and integrating them with other sophisticated tools, traders can significantly mitigate the drawbacks, such as lag, and capture more accurate and timely signals. Consequently, keeping abreast of technological developments and market dynamics is crucial for leveraging moving averages effectively in trading algorithms.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[5]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications."](https://archive.org/details/technicalanalysi0000murp) New York Institute of Finance.

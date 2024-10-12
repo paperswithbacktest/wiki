@@ -80,3 +80,20 @@ Looking ahead, PanAgora's strategic initiatives are geared towards sustaining it
 PanAgora Asset Management remains a leader in algorithmic trading, capitalizing on its significant expertise in quantitative analysis. The firm's innovative strategies set it apart within the financial sector, often serving as a benchmark for industry standards. As PanAgora continues to integrate cutting-edge algorithms and quantitative methods into its investment processes, it steadily shapes the future trajectory of investment management. This sustained focus on innovation and analytical rigor ensures that PanAgora not only remains competitive but also anticipates and adapts to emerging challenges in the financial landscape. With a strong leadership team dedicated to continuous growth and research, PanAgora is strategically positioned for long-term success, securing its place as a prominent player capable of steering the evolution of algorithmic trading and investment strategies. The firm's commitment to innovation promises to drive its continued impact and growth in the global financial sector.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[6]: Qian, Edward. (2005). ["Risk Parity Portfolios: Efficient Portfolios through True Diversification."](https://www.panagora.com/assets/PanAgora-Risk-Parity-Portfolios-Efficient-Portfolios-Through-True-Diversification.pdf) Society of Actuaries. 
+
+[7]: Fabozzi, F. J., Kolm, P. N., Pachamanova, D. A., & Focardi, S. M. (2007). ["Robust Portfolio Optimization and Management."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202172) Wiley Finance.

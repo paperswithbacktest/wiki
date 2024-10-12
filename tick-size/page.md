@@ -84,3 +84,16 @@ Moreover, staying informed about tick size regulations is equally vital. Regulat
 In conclusion, tick size is more than just a technical detail; it is a critical component of market microstructure that impacts the efficiency and effectiveness of trading strategies. For algorithmic traders, a keen understanding of tick size dynamics, combined with awareness of regulatory obligations, is essential to navigate the complex landscape of financial markets successfully.
 
 
+
+
+## References & Further Reading
+
+[1]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) Oxford University Press.
+
+[2]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.
+
+[3]: Madhavan, A. (2000). ["Market Microstructure: A Survey."](https://www.sciencedirect.com/science/article/pii/S1386418100000070) Review of Financial Studies, 13(2), 205-272.
+
+[4]: O’Hara, M. (1995). ["Market Microstructure Theory."](https://www.wiley.com/en-us/Market+Microstructure+Theory-p-9780631207610) Blackwell Publishers.
+
+[5]: Biais, B., & Glosten, L. R., & Spatt, C. (2005). ["Market Microstructure: A Survey of Microfoundations, Empirical Results, and Policy Implications."](https://www.sciencedirect.com/science/article/abs/pii/S1386418104000382) Journal of Economic Literature, 43(4), 1076-1105.

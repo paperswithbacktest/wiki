@@ -194,3 +194,16 @@ As we look toward the future, Put-Call Parity continues to influence the evoluti
 Moreover, the dynamic nature of markets underscores the necessity for ongoing research and observation. As trading conditions and market structures change, continually refining our understanding of Put-Call Parity and its applications will be crucial. This ongoing study will help traders adapt to new market conditions, ensuring that the significance of Put-Call Parity remains a cornerstone in the toolbox of future trading strategies. Encouraging further exploration of this and similar concepts will be vital for traders who wish to remain at the forefront of the evolving financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Hull, J. C. (2017). ["Options, Futures, and Other Derivatives"](https://www.semanticscholar.org/paper/Options%2C-Futures%2C-and-Other-Derivatives-Hull/89bdee500c8623864fc9eb7a471546aa713acc44) (9th Edition). Pearson.
+
+[2]: Black, F., & Scholes, M. (1973). ["The Pricing of Options and Corporate Liabilities."](https://www.cs.princeton.edu/courses/archive/fall09/cos323/papers/black_scholes73.pdf) Journal of Political Economy, 81(3), 637-654.
+
+[3]: Merton, R. C. (1973). ["Theory of Rational Option Pricing."](https://www.jstor.org/stable/3003143) The Bell Journal of Economics and Management Science, 4(1), 141-183.
+
+[4]: Natenberg, S. (1994). ["Option Volatility and Pricing: Advanced Trading Strategies and Techniques."](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774) McGraw-Hill.
+
+[5]: Kissell, R. (2014). ["The Science of Algorithmic Trading and Portfolio Management."](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management) Academic Press.

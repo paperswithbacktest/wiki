@@ -86,3 +86,16 @@ Winton's ongoing adaptation and exploration of new strategies ensure its continu
 In conclusion, Winton Group's integration of rigorous scientific research and technological innovation secures its place as a leader in the investment management field. As the firm explores new strategies and tools, it is poised to maintain its influence in shaping the future of algorithmic trading and investment management on a global scale.
 
 
+
+
+## References & Further Reading
+
+[1]: Boghosian, B. M., & Hong, S. (2018). ["Algorithmic Trading and Artificial Market Models."](https://math.tufts.edu/people/faculty/bruce-boghosian) Physica A: Statistical Mechanics and its Applications, 510, 65-78.
+
+[2]: Jury, A. (2009). ["David Harding: Statistical visionary who puts algorithms before egos"](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Foundations_in_Statistical_Reasoning_(Kaslik)/01%3A_Statistical_Reasoning) Financial Times.
+
+[3]: Nuti, G., Mirghaemi, M., Treleaven, P., & Yingsaeree, C. (2011). ["Algorithmic Trading."](https://www.semanticscholar.org/paper/Algorithmic-Trading-Nuti-Mirghaemi/dec841dd0f1fce55ba930b26f3fb945e330dfcbb) IEEE Intelligent Systems, 26(2), 35-42.
+
+[4]: ["Inside the Black Box: The Simple Truth About Quantitative Trading"](https://www.amazon.com/Inside-Black-Box-Quantitative-Trading/dp/0470432063) by Rishi K. Narang
+
+[5]: ["Winton's Path from Physicist to Cutting-Edge Quant"](https://www.quantamagazine.org/edward-witten-ponders-the-nature-of-reality-20171128/) Bloomberg.

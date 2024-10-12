@@ -116,3 +116,16 @@ The impact of Asness's contributions extends beyond quantitative strategies. His
 Overall, Clifford Asness's work has fundamentally shaped modern investment strategies by integrating empirical research with advanced quantitative methods. As the financial industry continues to evolve, his contributions to both practice and academia will likely influence the trajectory of future innovations, consolidating his legacy as a transformative figure in finance.
 
 
+
+
+## References & Further Reading
+
+[1]: Fama, E. F., & French, K. R. (1993). ["Common risk factors in the returns on stocks and bonds."](https://www.sciencedirect.com/science/article/pii/0304405X93900235) Journal of Financial Economics, 33(1), 3-56.
+
+[2]: Asness, C. S., Moskowitz, T. J., & Pedersen, L. H. (2013). ["Value and Momentum Everywhere."](https://pages.stern.nyu.edu/~lpederse/papers/ValMomEverywhere.pdf) The Review of Financial Studies, 26(7), 1711-1753.
+
+[3]: AQR Capital Management. ["Research and Insights."](https://www.aqr.com/Insights/Research) AQR's page for scholarly articles and insights in quantitative finance.
+
+[4]: Carhart, M. M. (1997). ["On Persistence in Mutual Fund Performance."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1997.tb03808.x) The Journal of Finance, 52(1), 57-82.
+
+[5]: "Efficient Market Hypothesis." ["Investopedia."](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp) An overview and explanation of the Efficient Market Hypothesis.

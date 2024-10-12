@@ -82,3 +82,16 @@ Kenneth C. Griffin has fundamentally reshaped the hedge fund industry and financ
 Griffin's influence extends beyond his professional endeavors, as evidenced by his substantial philanthropic contributions. His dedication to education, medical research, and cultural initiatives demonstrates a commitment to societal progress. These efforts reflect a broader vision that intertwines financial success with a responsibility to foster positive change within communities. Griffin's legacy, therefore, is distinguished by a profound impact on both the financial and social landscapes, underscoring his multifaceted contributions to advancing societal welfare alongside his transformative roles in finance.
 
 
+
+
+## References & Further Reading
+
+[1]: Kuleli, T. (2018). ["Algorithmic Trading of Futures via Machine Learning"](https://resources.caih.jhu.edu/textbook-solutions/publication/download/algorithmic_trading_of_futures_via_machine_learning.pdf). SSRN.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119203803.fmatter) (2nd ed.). Wiley.
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[5]: Patterson, S. (2012). ["Dark Pools: The Rise of AI Trading Machines and the Looming Threat to Wall Street"](https://archive.org/details/darkpoolsriseofa0000patt). Crown Business.

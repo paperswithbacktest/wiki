@@ -169,3 +169,20 @@ Given the growing complexity and [volatility](/wiki/volatility-trading-strategie
 Looking ahead, the future of algorithmic trading stands at the precipice of transformation driven by continuous advancements in statistical methodologies. As data accessibility and computational power expand, traders will have unprecedented opportunities to harness these technologies to gain a competitive edge. By adapting to emerging techniques, market participants can better navigate the evolving landscape, ensuring their strategies remain both innovative and effective.
 
 
+
+
+## References & Further Reading
+
+[1]: Johansen, S. (1991). ["Estimation and Hypothesis Testing of Cointegration Vectors in Gaussian Vector Autoregressive Models."](https://www.econometricsociety.org/publications/econometrica/1991/11/01/estimation-and-hypothesis-testing-cointegration-vectors) Econometrica, 59(6), 1551-1580.
+
+[2]: Lütkepohl, H. (2005). ["New Introduction to Multiple Time Series Analysis."](https://link.springer.com/book/10.1007/978-3-540-27752-1) Springer.
+
+[3]: Alexander, C. (1999). ["Optimal Hedging Using Cointegration."](https://royalsocietypublishing.org/doi/10.1098/rsta.1999.0416) Philosophical Transactions: Mathematical, Physical and Engineering Sciences, 357(1758), 2039-2058.
+
+[4]: Tsay, R. S. (2013). ["Multivariate Time Series Analysis: With R and Financial Applications."](https://www.semanticscholar.org/paper/Multivariate-Time-Series-Analysis%3A-With-R-and-Tsay/d4c0cfa6bf6f3a17fad19d48e98781fdc7f4174d) John Wiley & Sons.
+
+[5]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[6]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley Trading.
+
+[7]: Harris, R., & Sollis, R. (2003). ["Applied Time Series Modelling and Forecasting."](https://archive.org/details/appliedtimeserie0000harr) Wiley.

@@ -97,3 +97,26 @@ In decentralized contexts, market making is experiencing a novel transformation.
 Staying informed about developments in market making strategies and regulations is essential for market participants and observers alike. Understanding the intersection of technology and traditional trading methods will be key to navigating the future financial landscape. As the market continues to evolve, a thorough knowledge of market making mechanisms and their regulatory environment will be invaluable for seizing emerging opportunities and mitigating potential risks.
 
 
+
+
+## References & Further Reading
+
+[1]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) Oxford University Press.
+
+[2]: Stoll, H.R. (2003). ["Market Microstructure."](http://www.eecs.harvard.edu/~cat/cs/crypto-market/papers/mmicrostructure-stoll.pdf) In G.M. Constantinides, M. Harris, and R.M. Stulz (Eds.), Handbook of the Economics of Finance, Volume 1A (pp. 553-604). Elsevier.
+
+[3]: O'Hara, M. (1995). ["Market Microstructure Theory."](https://www.semanticscholar.org/paper/Market-Microstructure-Theory-O'Hara/2bd0833b023f3270a2a6bf301e86b8e02e2f28ed) Blackwell Publishers.
+
+[4]: Chordia, T., Roll, R., & Subrahmanyam, A. (2000). ["Commonality in Liquidity."](https://onlinelibrary.wiley.com/doi/abs/10.1111/0022-1082.00335) Journal of Financial Economics, 56(1), 3-28.
+
+[5]: Avellaneda, M., & Stoikov, S. (2008). ["High-frequency trading in a limit order book."](https://math.nyu.edu/~avellane/HighFrequencyTrading.pdf) Quantitative Finance, 8(3), 217-224.
+
+[6]: Menkveld, A.J. (2013). ["High Frequency Trading and the New-Market Makers."](https://www.sciencedirect.com/science/article/pii/S1386418113000281) Journal of Financial Markets, 16(4), 712-740.
+
+[7]: ["The Trouble with HFT."](https://www.investopedia.com/financial-edge/0113/has-high-frequency-trading-ruined-the-stock-market-for-the-rest-of-us.aspx) Financial Analysts Journal.
+
+[8]: Buterin, V. (2013). ["Ethereum White Paper: A Next Generation Smart Contract & Decentralized Application Platform."](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf) Ethereum Foundation.
+
+[9]: D. Schär, F. Schüpbach, & L. Gudgeon (2020). ["Decentralized Exchanges: The ‘Wild West’ of Global Financial Markets?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571335) Working Paper.
+
+[10]: O'Hara, M. & Ye, M. (2011). ["Is Market Fragmentation Harming Market Quality?"](https://www.sciencedirect.com/science/article/pii/S0304405X11000390) Management Science, 57(11), 647-633.

@@ -73,3 +73,16 @@ Despite its advantages, CpML faces challenges in achieving broader adoption and 
 The strategic implications of CpML on the future of trading systems are profound. By promoting standardization, CpML has the potential to significantly reduce operational risks and improve the efficiency and accuracy of trading operations. As financial markets become increasingly digitized, the demand for a robust framework to manage complex transactions is paramount. CpML serves as a cornerstone for such frameworks, ensuring that trading systems can adapt rapidly to regulatory changes and technological advancements, ultimately fostering a more resilient and responsive trading environment. The extent to which CpML can influence the future of trading will depend on overcoming integration challenges and embracing continuous development to align with new technological paradigms.
 
 
+
+
+## References & Further Reading
+
+[1]: Giles, M., & Yang, J. (2013). ["Efficient Data Structures for Financial Simulation."](https://people.maths.ox.ac.uk/gilesm/mlmc.html) In Proceedings of the ACM SIGMOD International Conference on Management of Data.
+
+[2]: Stoll, H. R. (2006). ["Electronic Trading in Stock Markets."](https://pubs.aeaweb.org/doi/pdfplus/10.1257/089533006776526067) Journal of Economic Perspectives, 20(1), 153-174.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: EFET. (2014). ["EFET CPML Working Group Presentation."](https://efet.org/files/documents/EFET_CpML_for_ESM_3.2_with_tracked_changes.pdf) European Federation of Energy Traders.
+
+[5]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://academic.oup.com/book/52292) Oxford University Press.

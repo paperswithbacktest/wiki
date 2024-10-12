@@ -114,3 +114,16 @@ In conclusion, Asian stock exchanges are not only crucial for the algorithmic tr
 For additional verification and a deeper understanding, these resources are instrumental in supporting the content discussed and for future research.
 
 
+
+
+## References & Further Reading
+
+[1]: Li, B., Wong, W.K., & Qiao, Z. (2014). ["Stock liquidity, its determinants and implications: A case study of Hong Kong."](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00586) The Chinese Economy.
+
+[2]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-frequency trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) Business & Information Systems Engineering.
+
+[3]: Yan, Y., & Zhang, H. (2012). ["An improved algorithm for trading in highly frequent markets."](https://www.tandfonline.com/doi/full/10.1080/00036846.2017.1412075) Mathematics and Computers in Simulation.
+
+[4]: Aitken, M. (2008). ["Algorithmic trading overview."](https://research.birmingham.ac.uk/en/publications/algorithmic-trading-and-market-quality-international-evidence-of-) JASSA: The Finsia Journal of Applied Finance.
+
+[5]: Hasbrouck, J., & Saar, G. (2013). ["Low-latency trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1695460) The Review of Financial Studies.

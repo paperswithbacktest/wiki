@@ -93,3 +93,16 @@ Furthermore, keeping abreast of regulatory developments is essential for ensurin
 For a comprehensive perspective, exploring academic journals and financial text[books](/wiki/algo-trading-books) that discuss high-frequency trading strategies, including algorithmic manipulation techniques, can provide additional depth and understanding. Combining these resources with practical steps and updates on regulatory actions will ensure that professionals involved in trading can navigate modern financial markets effectively and ethically.
 
 
+
+
+## References & Further Reading
+
+[1]: MacKenzie, D. (2018). [“Spoofing: A Case Study in the Sociology of Algorithms.”](https://uberty.org/wp-content/uploads/2015/11/mackenzie-algorithms.pdf) Economy and Society.
+
+[2]: Easley, D., López de Prado, M. M., & O’Hara, M. (2012). ["The Volume Clock: Insights into the High Frequency Paradigm."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1695596) The Journal of Portfolio Management.
+
+[3]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems%2C+2nd+Edition-p-9781118343500) Wiley.
+
+[4]: U.S. Commodity Futures Trading Commission. (2020). ["CFTC Orders JPMorgan to Pay $920 Million for Spoofing."](https://www.cftc.gov/PressRoom/PressReleases/8470-21) Press Room.
+
+[5]: The Securities and Exchange Commission. ["Speech by SEC Commissioner: Remarks at the Economic Club of New York."](https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sec-speaks-040224)

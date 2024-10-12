@@ -194,3 +194,22 @@ Reflecting on the future of arbitrage strategies in international financial mark
 In conclusion, while algorithmic trading has reduced the frequency of traditional arbitrage opportunities by enhancing market efficiency, it remains crucial for traders to balance exploiting such opportunities against the backdrop of advancing technological and regulatory environments. The perpetual evolution of markets requires acute awareness of both emerging opportunities and the limitations posed by increasingly efficient systems.
 
 
+
+
+## References & Further Reading
+
+[1]: Gyntelberg, J., & Schrimpf, A. (2011). "FX strategies in corporate bond markets and covered interest arbitrage." BIS Quarterly Review.
+
+[2]: Anderson, N., Domanski, D., & Menkveld, A. (2016). "Central bank balance sheets and interest rate risk management: Evidence from Hong Kong and Singapore." BIS Papers No. 66.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: Mackenzie, M. (2006). "Carry Trade Continues to Gain Popularity." Financial Times.
+
+[5]: Lyons, R. K. (2001). ["The Microstructure Approach to Exchange Rates."](https://direct.mit.edu/books/monograph/2004/The-Microstructure-Approach-to-Exchange-Rates) MIT Press.
+
+[6]: Rogoff, K. (1996). "The purchasing power parity puzzle." Journal of Economic Literature, 34(2), 647-668.
+
+[7]: Burnside, C., Eichenbaum, M., & Rebelo, S. (2007). "The Returns to Currency Speculation." NBER Working Paper No. 12916.
+
+[8]: Shleifer, A., & Vishny, R. W. (1997). "The limits of arbitrage." The Journal of Finance, 52(1), 35-55.

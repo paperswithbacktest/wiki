@@ -124,3 +124,16 @@ Recent advancements in algorithmic trading have yielded sophisticated solutions 
 Continued innovation is critical for further minimization of implementation shortfall. As new technologies and data analytics methods are developed, these can be integrated into trading algorithms to offer even more precise control over trade execution. Ultimately, by harnessing these advancements, traders can maintain a competitive edge, ensuring that strategic approaches are both flexible and resilient in the face of evolving market dynamics.
 
 
+
+
+## References & Further Reading
+
+[1]: Kissell, R., & Glantz, M. (2003). ["Optimal Trading Strategies: Quantitative Approaches for Managing Market Impact and Trading Risk."](https://archive.org/details/optimaltradingst0000kiss) AMACOM.
+
+[2]: Almgren, R., & Chriss, N. (2000). ["Optimal Execution of Portfolio Transactions."](https://smallake.kr/wp-content/uploads/2016/03/optliq.pdf) The Journal of Risk.
+
+[3]: Lo, A. W. (2016). ["Adaptive Markets: Financial Evolution at the Speed of Thought."](https://www.jstor.org/stable/j.ctvc77k3n) Princeton University Press.
+
+[4]: Robert Kissell. (2013). ["The Science of Algorithmic Trading and Portfolio Management."](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management) Academic Press.
+
+[5]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.

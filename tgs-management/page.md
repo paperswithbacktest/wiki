@@ -94,3 +94,16 @@ Beyond financial markets, TGS's role extends through its substantial contributio
 TGS Management continues to adeptly navigate global market complexities, affirming its status as a multifaceted entity that transcends mere financial pursuits. Through a blend of secrecy, talent acquisition, and social responsibility, TGS exemplifies an enduring influence that extends beyond profit margins to encompass meaningful change.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Quantitative Finance and Risk Management: A Physicist's Approach"](https://www.researchgate.net/publication/303410924_Quantitative_Finance_and_Risk_Management_A_Physicist's_Approach) by Jan W. Dash
+
+[2]: Chinco, A., & Fos, V. (2016). ["The sound of many funds rebalancing."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2764941) The Review of Financial Studies, 29(9), 2625-2667.
+
+[3]: ["The New Financial Order: Risk in the 21st Century"](https://www.jstor.org/stable/j.ctt7rhkh) by Robert J. Shiller
+
+[4]: Daskalaki, C., Kostakis, A., & Skiadopoulos, G. (2014). ["Are there common factors in individual stock futures returns?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2056186) Journal of Financial Markets, 19, 29-53.
+
+[5]: Zumbach, G. (2004). ["Volatility Clustering in Financial Markets: Empirical Facts and Agent-Based Models."](https://link.springer.com/chapter/10.1007/978-3-540-34625-8_10) In Lecture Notes in Physics, 650.

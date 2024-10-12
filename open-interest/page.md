@@ -152,3 +152,18 @@ Moreover, continuous learning and adaptation are key to effectively leveraging o
 In summary, open interest is more than just a figure representing active contracts; it is a strategic tool that, when used judiciously with other indicators, can significantly enhance trading performance and market understanding.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading, 2nd Edition"](https://www.oreilly.com/library/view/machine-learning-for/9781839217715/) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
+
+[5]: Hull, J. (2017). ["Options, Futures, and Other Derivatives"](https://archive.org/details/options-futures-and-other-derivatives). Pearson.
+
+[6]: Bookstaber, R. (2007). ["A Demon of Our Own Design: Markets, Hedge Funds, and the Perils of Financial Innovation"](https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2007/a-demon-of-our-own-design-markets). Wiley.

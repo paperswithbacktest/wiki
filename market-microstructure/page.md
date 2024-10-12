@@ -230,3 +230,18 @@ Information dissemination and asymmetry introduce layers of complexity. They pre
 For future research, several areas stand out. The ongoing evolution of trading technologies presents opportunities to deepen our understanding of how market microstructure impacts algorithmic trading. Further exploration could focus on integrating machine learning to predict transaction costs and volatility more accurately. Additionally, examining the effects of emerging financial products and decentralized exchanges could provide insights into new market dynamics and their implications for algorithmic strategies. Advancing these areas will not only enhance algorithmic trading but also contribute to the overall efficiency and stability of financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: O'Hara, M. (1995). ["Market Microstructure Theory"](https://www.wiley.com/en-us/Market+Microstructure+Theory-p-9780631207610). Blackwell Publishers.
+
+[2]: Menkveld, A. J. (2013). ["High Frequency Trading and the New Market Makers."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1722924) The Review of Financial Studies, 26(3), 643-679.
+
+[3]: Harris, L. (2002). ["Trading and Exchanges: Market Microstructure for Practitioners"](https://academic.oup.com/book/52292). Oxford University Press.
+
+[4]: Easley, D., & O'Hara, M. (1987). ["Price, Trade Size, and Information in Securities Markets."](https://www.sciencedirect.com/science/article/pii/0304405X87900298) Journal of Financial Economics, 19(1), 69-90.
+
+[5]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading"](https://academic.oup.com/book/52241). Oxford University Press.
+
+[6]: Glosten, L. R., & Milgrom, P. R. (1985). ["Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders."](https://www.sciencedirect.com/science/article/pii/0304405X85900443) Journal of Financial Economics, 14(1), 71-100.

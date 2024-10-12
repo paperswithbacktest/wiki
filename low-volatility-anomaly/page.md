@@ -107,3 +107,18 @@ Future exploration and innovation in trading strategies are crucial for maintain
 In summary, the low-volatility anomaly remains a captivating and lucrative phenomenon within financial markets. Algorithmic trading serves as an essential conduit for capitalizing on these anomalies, with its potential continually being expanded by technological progress and innovative research. As such, the ongoing study and enhancement of algorithmic trading methodologies will play a pivotal role in shaping the future of finance, driving both academic inquiry and practical application forward.
 
 
+
+
+## References & Further Reading
+
+[1]: Haugen, R. A., & Baker, N. L. (1991). ["The Efficient Market Inefficiency of Capitalization-Weighted Stock Portfolios."](http://www.efalken.com/LowVolClassics/HaugenBaker991.pdf) The Journal of Portfolio Management, 17(3), 35-41.
+
+[2]: Baker, M., Bradley, B., & Wurgler, J. (2011). ["Benchmarks as Limits to Arbitrage: Understanding the Low-Volatility Anomaly."](https://pages.stern.nyu.edu/~jwurgler/papers/wurgler_bradley_baker.pdf) Financial Analysts Journal, 67(1), 40-54.
+
+[3]: Blitz, D., & van Vliet, P. (2007). ["The Volatility Effect: Lower Risk without Lower Return."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=980865) Journal of Portfolio Management, 34(1), 102-113.
+
+[4]: ["Advances in Financial Machine Learning"](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086) by Marcos Lopez de Prado
+
+[5]: Pedersen, L. H. (2009). ["When Everyone Runs for the Exit."](https://www.nber.org/papers/w15297) The International Journal of Central Banking.
+
+[6]: ["Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management"](https://www.amazon.com/Quantitative-Equity-Portfolio-Management-Construction/dp/0071459391) by Ludwig B. Chincarini and Daehwan Kim

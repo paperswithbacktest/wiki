@@ -105,3 +105,20 @@ Furthermore, the evolution and success of convertible arbitrage rely heavily on 
 In summary, while convertible arbitrage holds significant promise within algorithmic trading, its success is contingent upon rigorous risk management and a willingness to adapt and enhance strategies through continuous innovation. Embracing these approaches can not only optimize returns but also maintain resilience amid the inherent challenges of ever-changing market dynamics.
 
 
+
+
+## References & Further Reading
+
+[1]: Ammann, M., Kind, A., & Wilde, C. (2003). ["Are convertible bonds underpriced? An analysis of the French market."](https://www.sciencedirect.com/science/article/pii/S0378426601002564)00213-X) European Economic Review, 47(7), 1153-1171.
+
+[2]: Calamos, N. P. (2003). ["Convertible Arbitrage: Insights and Techniques."](https://www.amazon.com/Convertible-Arbitrage-Insights-Techniques-Successful/dp/0471423610) John Wiley & Sons.
+
+[3]: Lhabitant, F. S. (2002). ["Hedge Funds: Myths and Limits."](https://archive.org/details/hedgefundsmythsl0000lhab) John Wiley & Sons.
+
+[4]: Lewis, C. M., Rogalski, R. J., & Seward, J. K. (2001). Convertible debt issuance, capital structure change, and financing-related information. Journal of Financial Economics, 56(2), 269-290.
+
+[5]: Agarwal, V., Fung, W., Loon, Y. C., & Naik, N. Y. (2007). ["Risk and Return in Convertible Arbitrage: Evidence from the Convertible Bond Market."](https://www.econstor.eu/bitstream/10419/57723/1/699917603.pdf) The Journal of Finance, 62(3), 1369-1403.
+
+[6]: McDonald, R. L. (2006). ["Derivatives Markets (2nd Edition)."](https://archive.org/details/derivativesmarke0000mcdo_e5u9) Addison Wesley.
+
+[7]: Fabozzi, F. J., Modigliani, F., Jones, F. J., & Ferri, M. G. (2009). Foundations of Financial Markets and Institutions (4th Edition). Pearson.

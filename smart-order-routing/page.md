@@ -100,3 +100,16 @@ Smart order routing (SOR) is integral to crafting effective trading strategies i
 For traders aiming to capitalize on available opportunities, a deep comprehension of SOR mechanisms is indispensable. This understanding not only facilitates strategic advantage but also equips traders with the tools to navigate and exploit market disparities. By staying informed about advancements in SOR technology, traders can better position themselves to engage successfully in the evolving financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Stoll, H. R. (2006). ["Financial Regulation and the Markets for Trading Services."](http://www.eecs.harvard.edu/~cat/cs/crypto-market/papers/mmicrostructure-stoll.pdf) Journal of Applied Corporate Finance, 18(2), 8-20.
+
+[2]: Harris, L. E. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners"](https://academic.oup.com/book/52292). Oxford University Press.
+
+[3]: O'Hara, M. (1995). ["Market Microstructure Theory"](https://www.wiley.com/en-us/Market+Microstructure+Theory-p-9781557864437). Blackwell Publishing.
+
+[4]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading"](https://academic.oup.com/book/52241). Oxford University Press.
+
+[5]: Biais, B., Glosten, L., & Spatt, C. (2005). ["Market Microstructure: A Survey of Microfoundations, Empirical Results, and Policy Implications."](https://www.sciencedirect.com/science/article/abs/pii/S1386418104000382) Journal of Financial Markets, 8(2), 217-264.

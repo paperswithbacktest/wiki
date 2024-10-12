@@ -118,3 +118,16 @@ Lastly, "Hawkes Processes and Their Applications to Finance: A Review" by Chavez
 These references not only build on the mathematical and theoretical aspects of Hawkes processes but also underscore their practical significance in understanding and interpreting complex financial systems.
 
 
+
+
+## References & Further Reading
+
+[1]: Hawkes, A. G. (1971). ["Spectra of some self-exciting and mutually exciting point processes."](https://www.dcscience.net/Hawkes-Biometrika-1971.pdf) Biometrika, 58(1), 83–90.
+
+[2]: Bacry, E., Mastromatteo, I., & Muzy, J.F. (2015). ["Hawkes Processes in Finance."](https://arxiv.org/abs/1502.04592) Market Microstructure and Liquidity, 1(1).
+
+[3]: Aït-Sahalia, Y., Cacho-Diaz, J., & Laeven, R.J.A. (2015). ["Modeling Financial Contagion Using Mutually Exciting Jump Processes."](https://www.sciencedirect.com/science/article/pii/S0304405X15000264) Journal of Econometrics, 183(2), 125–140.
+
+[4]: Errais, E., Giesecke, K., & Goldberg, L.R. (2010). ["Pricing Credit from the Top Down with Affine Point Processes."](https://www.semanticscholar.org/paper/Pricing-Credit-from-the-Top-Down-with-Affine-Point-Errais-Giesecke/4bf353cde51733359b35ff3274891417292d0d69) Journal of Financial Economics, 91(2), 184–192.
+
+[5]: Chavez-Demoulin, V., Davison, A.C., & McNeil, A.J. (2005). ["Estimating Value-at-Risk: A Point Process Approach."](https://www.semanticscholar.org/paper/Estimating-value-at-risk%3A-a-point-process-approach-Chavez-Demoulin-Davison/238d1c2ea052b188be69ec328b49b2c4bea5b517) Journal of the American Statistical Association, 100(472), 1003-1016.

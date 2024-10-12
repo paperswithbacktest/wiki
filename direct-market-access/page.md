@@ -92,3 +92,20 @@ Despite facing regulatory hurdles aimed at safeguarding market stability, DMA re
 Overall, the continuous evolution of DMA, alongside its synergy with technological advancements, underscores its significance in empowering traders to navigate and succeed in the complexities of financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Aitken, M., Comerton-Forde, C., & Frino, A. (2004). ["Direct Market Access: Implications for Volatility and Market Integrity."](https://www.researchgate.net/profile/Michael-Aitken/publication/279182030_HIGH_FREQUENCY_TRADING_AND_END-OF-DAY_PRICE_DISLOCATION/links/558cc7ca08ae591c19da122f/HIGH-FREQUENCY-TRADING-AND-END-OF-DAY-PRICE-DISLOCATION.pdf) The Review of Financial Studies, 17(1), 221-243.
+
+[2]: Hasbrouck, J., & Saar, G. (2013). ["Low-latency Trading."](https://www.sciencedirect.com/science/article/abs/pii/S1386418113000165) Journal of Financial Markets, 16(4), 646-679.
+
+[3]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119203803.fmatter) Wiley.
+
+[4]: Domowitz, I. (2002). ["Liquidity, Transaction Costs, and Reintermediation in Electronic Markets."](https://link.springer.com/article/10.1023/A:1016077023185) The Journal of Financial Services Research, 22(1), 141-157.
+
+[5]: O'Hara, M. (2015). ["High Frequency Market Microstructure."](https://www.sciencedirect.com/science/article/pii/S0304405X15000045) Journal of Finance, 70(3), 1013-1053.
+
+[6]: Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). ["Does Algorithmic Trading Improve Liquidity?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01624.x) The Journal of Financial Economics, 24(3), 1416-1450.
+
+[7]: Chlistalla, M. (2011). ["High-frequency trading: Better than its reputation?"](https://www.finextra.com/finextra-downloads/featuredocs/prod0000000000269468.pdf) Deutsche Bank Research.

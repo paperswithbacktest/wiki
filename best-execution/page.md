@@ -134,3 +134,22 @@ As trading environments continue to shift due to technological advancements and 
 Ultimately, maintaining an informed perspective and agile operations is critical for firms striving to achieve effective best execution. By continuously assessing industry developments and adopting innovative practices, investment services firms can effectively meet client expectations and regulatory demands in an ever-competitive market landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) Oxford University Press.
+
+[2]: O'Hara, M. (2015). ["High-Frequency Trading: The Good, the Bad, and the Regulation."](https://www.sciencedirect.com/science/article/pii/S0304405X15000045) Financial Analysts Journal, 70(3).
+
+[3]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-Frequency Trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) SpringerLink.
+
+[4]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.
+
+[5]: Malkiel, B. G. (2016). ["A Random Walk Down Wall Street: The Time-tested Strategy for Successful Investing."](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380) W. W. Norton & Company.
+
+[6]: SEC. (2005). ["Regulation NMS."](https://www.sec.gov/rules-regulations/2005/06/regulation-nms) U.S. Securities and Exchange Commission.
+
+[7]: European Union. (2004). ["Markets in Financial Instruments Directive (MiFID)."](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004L0039) Official Journal of the European Union.
+
+[8]: Pardo, R. (2008). ["The Evaluation and Optimization of Trading Strategies."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969) Wiley Trading.

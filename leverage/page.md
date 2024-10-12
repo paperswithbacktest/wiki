@@ -150,3 +150,24 @@ Possessing a comprehensive understanding of leverage empowers traders to make in
 In summary, while leverage offers the promise of amplified returns, it demands a strategic, informed, and disciplined approach to realize its benefits and mitigate risks effectively.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[5]: Basel Committee on Banking Supervision. (2011). ["Basel III: A global regulatory framework for more resilient banks and banking systems"](https://www.bis.org/publ/bcbs189.htm). Bank for International Settlements. 
+
+[6]: Fulbrook, Kevin. (2011). ["The Basics of Financial Leverage"](https://www.researchgate.net/publication/285967441_The_Basics_of_Finance_An_Introduction_to_Financial_Markets_Business_Finance_and_Portfolio_Management) Investopedia.
+
+[7]: Bone, J. (2013). ["The Leverage Cycle"](https://www.journals.uchicago.edu/doi/full/10.1086/648285) by John Geanakoplos. National Bureau of Economic Research. 
+
+[8]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-frequency trading"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) IT – Information Technology. 
+
+[9]: Hull, J. (2018). ["Options, Futures, and Other Derivatives"](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/finance/Options-Futures-and-Other-Derivatives-Hull.html) (10th edition), Pearson.

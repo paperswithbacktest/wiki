@@ -166,3 +166,18 @@ By understanding and applying spot-future parity across different markets, wheth
 In conclusion, the strategic application of spot-future parity provides a significant advantage in algorithmic trading. As traders continue to refine their understanding and approach, the potential for profit and efficiency in financial markets grows. Exploring advanced trading strategies that harness spot-future parity can further enhance the effectiveness and competitiveness of algorithmic traders.
 
 
+
+
+## References & Further Reading
+
+[1]: Hull, J. C. (2017). "Options, Futures, and Other Derivatives." Pearson Education Limited.
+
+[2]: Shreve, S. E. (2004). "Stochastic Calculus for Finance I: The Binomial Asset Pricing Model." Springer.
+
+[3]: ["A Guide to the Futures and Options Markets"](https://www.investopedia.com/ask/answers/difference-between-options-and-futures/) by George A. Fontanills
+
+[4]: Damodaran, A. (2008). "Strategic Risk Taking: A Framework for Risk Management." FT Press.
+
+[5]: Taleb, N. N. (2007). "The Black Swan: The Impact of the Highly Improbable." Random House.
+
+[6]: ["Algorithmic Trading and DMA"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson

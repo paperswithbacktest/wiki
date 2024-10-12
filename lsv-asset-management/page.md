@@ -108,3 +108,18 @@ LSV's unique approach, rooted in a deep understanding of behavioral finance and 
 For readers seeking a progressive and informed approach to asset management, LSV Asset Management's methodology presents an attractive option. By prioritizing quantitative analysis, the firm not only stays ahead in terms of innovation but also consistently adds value to its clients’ portfolios, making it a leader worth watching in the investment management sector.
 
 
+
+
+## References & Further Reading
+
+[1]: Lakonishok, J., Shleifer, A., & Vishny, R. W. (1994). ["Contrarian Investment, Extrapolation, and Risk."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1994.tb04772.x) The Journal of Finance, 49(5), 1541-1578.
+
+[2]: Fama, E. F., & French, K. R. (1993). ["Common risk factors in the returns on stocks and bonds."](https://people.hec.edu/rosu/wp-content/uploads/sites/43/2023/09/Fama-French-Common-risk-factors-1993.pdf) Journal of Financial Economics, 33(1), 3-56.
+
+[3]: Shleifer, A. (2000). ["Inefficient Markets: An Introduction to Behavioral Finance."](https://academic.oup.com/book/27761) Oxford University Press.
+
+[4]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[5]: Lo, A. W. (2007). ["Efficient Market Hypothesis."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=991509) In L. Blume & S. Durlauf (Eds.), The New Palgrave: A Dictionary of Economics, 2nd Edition. 
+
+[6]: Tsay, R. S. (2010). ["Analysis of Financial Time Series."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470644560) 3rd Edition, Wiley-Interscience.

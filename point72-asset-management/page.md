@@ -103,3 +103,16 @@ However, sustaining its competitive stature requires balancing growth with ethic
 In summary, Point72's future success lies in its ability to marry technological advancements with principled business conduct. By striking this balance, the hedge fund can continue to lead in both traditional and modern investment arenas, ensuring its long-term sustainability and relevance in the dynamic world of finance.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) by Stefan Jansen
+
+[3]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
+
+[4]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[5]: French, K.R. (2008). ["Presidential Address: The Cost of Active Investing."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2008.01368.x) The Journal of Finance, 63(4), 1537-1573.

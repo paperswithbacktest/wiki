@@ -107,3 +107,16 @@ As technology evolves, advancements in [artificial intelligence](/wiki/ai-artifi
 In conclusion, although the landscape of index arbitrage is complex and dynamic, the synergy between algorithmic trading and technological innovation continues to empower traders, refining their strategies for optimal gains. This ongoing evolution promises to sustain the viability and allure of index arbitrage well into the future.
 
 
+
+
+## References & Further Reading
+
+[1]: Mackinlay, A. Craig, & Ramaswamy, K. (1988). ["Index Futures Arbitrage and the Behavior of Stock Index Futures Prices."](https://www.jstor.org/stable/2962006) The Review of Financial Studies, 1(2), 137-158.
+
+[2]: Harris, L. (1989). ["The October 1987 S&P 500 stock-futures basis."](https://www.jstor.org/stable/2328276) The Journal of Finance, 44(1), 77-99.
+
+[3]: Korn, R., & Kasper, M. (2009). ["Algorithmic Trading: Strategy, Timing, and High-frequency Execution."](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) Wiley Finance Series.
+
+[4]: Bakshi, G., Madan, D., & Panayotov, G. (2012). ["Derivative Trades and the Cross-section of Expected Returns."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1462543) The Journal of Financial Economics, 105(3), 505-522.
+
+[5]: Hasbrouck, J. (2003). ["Intraday Price Formation in U.S. Equity Index Markets."](https://onlinelibrary.wiley.com/doi/10.1046/j.1540-6261.2003.00609.x) The Review of Financial Studies, 16(1), 1-25.

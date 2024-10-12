@@ -131,3 +131,16 @@ Moreover, throughout the various applications—from securities trading to e-com
 In conclusion, the multifaceted utility of order books underscores their significance not only in algorithmic trading but across a broad spectrum of trade activities. As technologies evolve and market dynamics become increasingly complex, further exploration of order books will likely reveal new insights, reinforcing their central role in the financial ecosystem. As such, expanding one's knowledge and competence with order books can open doors to advanced trading techniques and strategies that are essential in today's competitive markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Bouchaud, J.P., Farmer, J.D., & Lillo, F. (2009). ["How Markets Slowly Digest Changes in Supply and Demand."](https://arxiv.org/abs/0809.0822) In Handbook of Financial Markets: Dynamics and Evolution.
+
+[2]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) Oxford University Press.
+
+[3]: Simone, R. (2017). ["Market Microstructure in Practice."](https://books.google.com/books/about/Market_Microstructure_In_Practice_Second.html?id=TtFKDwAAQBAJ) Wiley.
+
+[4]: O’Hara, M. (1995). ["Market Microstructure Theory."](https://www.wiley.com/en-us/Market+Microstructure+Theory-p-9780631207610) Blackwell Publishing.
+
+[5]: Gould, M.D., Porter, M.A., Williams, S., McDonald, M., Fenn, D.J., & Howison, S.D. (2013). ["Limit Order Books."](https://arxiv.org/abs/1012.0349) Quantitative Finance.

@@ -65,3 +65,16 @@ Capula Investment Management stands out as a key player in the dynamic landscape
 By continually leveraging sophisticated technologies and innovative approaches, Capula has effectively maintained its status as a leader in the hedge fund industry. The firm's ability to adapt to changing market conditions and harness the power of data analytics not only enhances its investment performance but also sets a benchmark for other financial institutions. As technology becomes increasingly integral to finance, Capula's sustained leadership and pioneering spirit will likely continue to influence and guide the trajectory of modern investment strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

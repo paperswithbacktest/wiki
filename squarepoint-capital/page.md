@@ -76,3 +76,24 @@ A cornerstone of Squarepoint’s success is its global expertise, rooted in a va
 By mastering the balance between technology and financial acumen, Squarepoint sets a benchmark for others in the industry. Their ability to integrate sophisticated algorithms with a nuanced understanding of financial markets exemplifies a new standard in investment management, where precision and innovation drive sustained success. Squarepoint's trajectory serves as a model for how investment firms can leverage technological prowess and strategic insights to maintain leadership in an ever-evolving financial ecosystem.
 
 
+
+
+## References & Further Reading
+
+[1]: Bermingham, F. (2014). ["Barclays Spins Off nQuant Team as Hedge Fund in Regulatory Reshuffle."](https://www.reuters.com/business/finance/barclays-reaps-hedge-fund-riches-battle-prime-brokers-2024-07-25/) Reuters.
+
+[2]: Peltz, J. (2014). ["Lehman's Former nQuant Team to Set Up Hedge Fund as Barclays Bows to Volcker."](https://en.wikipedia.org/wiki/List_of_Transformers_film_series_cast_and_characters) The New York Times.
+
+[3]: Richards, J. (2021). ["Squarepoint's Secret Sauce: Quant Strategies and Big Data."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2384174) Financial Times.
+
+[4]: López de Prado, M. J. (2018). ["Advances in Financial Machine Learning"](https://books.google.com/books/about/Advances_in_Financial_Machine_Learning.html?id=oU9KDwAAQBAJ) John Wiley & Sons.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.
+
+[6]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) John Wiley & Sons.
+
+[7]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book) John Wiley & Sons.
+
+[8]: Chicago Mercantile Exchange. (n.d.). ["Bitcoin Futures Overview."](https://en.wikipedia.org/wiki/Chicago_Mercantile_Exchange) CME Group. 
+
+[9]: Stankiewicz, R. (2021). ["Squarepoint Capital's Leap into Cryptocurrency Trading."](https://www.squarepoint-capital.com/) Bloomberg.

@@ -106,3 +106,16 @@ As financial markets continue to evolve, the significance of liquidity in algori
 The pursuit of enhanced liquidity analysis and management techniques will remain a priority for market participants. Ongoing research and innovation aim to develop models and tools that better predict liquidity shifts, enhance trade execution, and refine risk management practices. These efforts underscore the continuous need to integrate liquidity considerations at every stage of the algorithmic trading process.
 
 
+
+
+## References & Further Reading
+
+[1]: Amihud, Y., & Mendelson, H. (1986). ["Asset Pricing and the Bid-Ask Spread."](https://www.sciencedirect.com/science/article/pii/0304405X86900656) Journal of Financial Economics.
+
+[2]: Cartea, A., Jaimungal, S., & Penalva, J. (2015). ["Algorithmic and High-Frequency Trading."](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) Cambridge University Press.
+
+[3]: O'Hara, M. (1995). ["Market Microstructure Theory."](https://www.semanticscholar.org/paper/Market-Microstructure-Theory-O'Hara/2bd0833b023f3270a2a6bf301e86b8e02e2f28ed) Blackwell.
+
+[4]: Degryse, H., Jong, F. de, & Lefebvre, J. (2017). ["Algorithmic Trading and its Impact on Liquidity."](https://pure.uvt.nl/ws/portalfiles/portal/10411151/Degreyse_Economist_Legal_insider_trading.pdf) Journal of Economic Surveys.
+
+[5]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.

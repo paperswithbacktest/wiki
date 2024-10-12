@@ -91,3 +91,16 @@ The ability to execute trades at consistent intervals helps in controlling the m
 Understanding TWAP's nuances and calculation can greatly enhance trading efficacy. Traders equipped with this knowledge can strategically plan their order execution processes in a way that aligns with complex market dynamics. Employing TWAP effectively means navigating the intricacies of financial markets with precision, ensuring that trades are carried out smoothly and efficiently, regardless of market conditions.
 
 
+
+
+## References & Further Reading
+
+[1]: Kissell, R., & Malamut, R. (2005). ["Algorithmic Decision Making Framework."](https://www.semanticscholar.org/paper/Algorithmic-Decision-Making-Framework-Kissell-Malamut/5da40e3ffcf6ca9e60f1cdfa39bad1c0d2290ce5) Journal of Trading.
+
+[2]: Madhavan, A. (2002). ["VWAP Strategies."](https://guides.pm-research.com/content/iijtrading/2002/1/32) The Journal of Portfolio Management.
+
+[3]: Bouchaud, J. P., Gefen, Y., Potters, M., & Wyart, M. (2004). ["Fluctuations and response in financial markets: the subtle nature of 'random' price changes."](https://arxiv.org/abs/cond-mat/0307332) Quantitative Finance.
+
+[4]: Stoikov, S., & Saglam, M. (2009). ["Option market making under inventory risk with Bayesian learning."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1393818) Probability in the Engineering and Informational Sciences.
+
+[5]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.

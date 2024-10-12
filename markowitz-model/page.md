@@ -159,3 +159,20 @@ Despite its foundational role, the Markowitz model faces challenges that require
 Research efforts are critical to refining the Markowitz model, addressing its limitations, and exploring new applications in ever-evolving financial landscapes. By improving its computational efficiency, developing techniques to handle uncertainties more effectively, and integrating advances in data science and machine learning, the model's utility can be significantly enhanced. Encouraging collaboration between academia and industry will be key to evolving the Markowitz model to meet the changing demands of modern finance, ensuring its continued relevance and contribution to both portfolio optimization and algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Markowitz, H. (1952). ["Portfolio Selection."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1952.tb01525.x) The Journal of Finance, 7(1), 77–91.
+
+[2]: Merton, R. C. (1972). ["An Analytic Derivation of the Efficient Portfolio Frontier."](http://www.stat.ucla.edu/~nchristo/statistics_c183_c283/analytic_derivation_frontier.pdf) Journal of Financial and Quantitative Analysis, 7(4), 1851–1872.
+
+[3]: Bodie, Z., Kane, A., & Marcus, A. J. (2014). ["Investments."](https://www.mheducation.com/highered/product/investments-bodie-kane/M9781264412662.html) McGraw-Hill Education.
+
+[4]: Luenberger, D. G. (1997). ["Investment Science."](https://www.amazon.com/Investment-Science-David-G-Luenberger/dp/0199740089) Oxford University Press.
+
+[5]: Sharpe, W. F. (1994). ["The Sharpe Ratio."](https://web.stanford.edu/~wfsharpe/art/sr/SR.htm) The Journal of Portfolio Management, 21(1), 49-58.
+
+[6]: Elton, E. J., Gruber, M. J., Brown, S. J., & Goetzmann, W. N. (2014). ["Modern Portfolio Theory and Investment Analysis."](https://books.google.com/books/about/Modern_Portfolio_Theory_and_Investment_A.html?id=181CEAAAQBAJ) Wiley.
+
+[7]: Fabozzi, F. J., Kolm, P. N., Pachamanova, D. A., & Focardi, S. M. (2007). ["Robust Portfolio Optimization and Management."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202172) Wiley.

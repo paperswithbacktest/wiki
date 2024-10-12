@@ -108,3 +108,16 @@ Algorithmic trading significantly enhances the efficiency of convergence strateg
 Looking forward, as markets continue to evolve with advancements in technology and shifts in trading paradigms, convergence trading will likely adapt in response to these changes. The increasing integration of [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) into trading models may offer enhanced predictive abilities, potentially refining convergence strategies further. Nonetheless, the core of successful convergence trading will always rest on a comprehensive understanding of market mechanics and disciplined risk management practices amid an ever-evolving financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Gatev, E. G., Goetzmann, W. N., & Rouwenhorst, K. G. (2006). ["Pairs Trading: Performance of a Relative-Value Arbitrage Rule."](http://www-stat.wharton.upenn.edu/~steele/Courses/434/434Context/PairsTrading/PairsTradingGGR.pdf) The Review of Financial Studies, 19(3), 797-827.
+
+[2]: Elliott, R. J., van der Hoek, J., & Malcolm, W. P. (2005). ["Pairs Trading."](http://stat.wharton.upenn.edu/~steele/Courses/434/434Context/PairsTrading/PairsTradingQFin05.pdf) Quantitative Finance, 5(3), 271-276.
+
+[3]: Lo, A. W., & MacKinlay, A. C. (1990). ["When Are Contrarian Profits Due to Stock Market Overreaction?"](https://www.jstor.org/stable/2962020) The Review of Financial Studies, 3(2), 175-205.
+
+[4]: Avellaneda, M., & Lee, J. H. (2010). ["Statistical Arbitrage in the U.S. Equities Market."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1153505) Quantitative Finance, 10(7), 761-782.
+
+[5]: Narang, R. K. (2009). ["Inside the Black Box: The Simple Truth About Quantitative Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267738) Wiley Finance.

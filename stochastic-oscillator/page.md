@@ -160,3 +160,16 @@ The stochastic oscillator serves as an essential tool in both traditional and al
 As trading technology advances, the stochastic oscillator remains a staple of technical analysis with considerable adaptability for automated trading environments. Its compatibility with algorithmic strategies allows for integration with other technical indicators like Moving Average Convergence Divergence (MACD) and Relative Strength Index (RSI), broadening the scope of application and enhancing the reliability of trading signals. Thus, the stochastic oscillator not only stands the test of time but continues to evolve, offering traders a robust tool to navigate both present and future market dynamics effectively.
 
 
+
+
+## References & Further Reading
+
+[1]: Lane, George. ["Lane's Stochastics."](https://en.wikipedia.org/wiki/George_Lane_%28technical_analyst%29) International Federation of Technical Analysts Journal, 1978.
+
+[2]: Murphy, John J. ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications,"](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661) New York Institute of Finance, 1999.
+
+[3]: Pring, Martin J. ["Technical Analysis Explained: The Successful Investor's Guide to Spotting Investment Trends and Turning Points,"](https://www.amazon.com/Technical-Analysis-Explained-Fifth-Successful/dp/0071825177) McGraw-Hill Education, 2002.
+
+[4]: Kaufman, Perry J. ["Trading Systems and Methods,"](https://www.amazon.com/Trading-Systems-Methods-Wiley/dp/1119605350) Wiley, 2013.
+
+[5]: Kirkpatrick, Charles D., & Dahlquist, Julie R. ["Technical Analysis: The Complete Resource for Financial Market Technicians,"](https://books.google.com/books/about/Technical_Analysis.html?id=62-9CgAAQBAJ) FT Press, 2010.

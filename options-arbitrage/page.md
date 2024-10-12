@@ -153,3 +153,16 @@ Furthermore, for those inclined towards quantitative analysis and programming, p
 By leveraging both classic literature and modern digital tools, traders can gain a well-rounded education that equips them to succeed in the options market. Whether through [books](/wiki/algo-trading-books), online [course](/wiki/best-algorithmic-trading-courses)s, or market analysis platforms, continuous learning is the key to staying competitive in this ever-evolving field.
 
 
+
+
+## References & Further Reading
+
+[1]: McMillan, L. G. (2012). ["Options as a Strategic Investment"](https://archive.org/details/optionsasstrateg0000mcmi). Prentice Hall Press.
+
+[2]: Natenberg, S. (1994). ["Option Volatility and Pricing: Advanced Trading Strategies and Techniques"](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774). McGraw-Hill.
+
+[3]: Cottle, S., Murray, R., & Block, F. (1989). ["Modern Security Analysis: Principles and Techniques"](https://www.amazon.com/Security-Analysis-Sidney-Cottle/dp/0070132356). McGraw-Hill Education.
+
+[4]: Derman, E. (2004). ["My Life as a Quant: Reflections on Physics and Finance"](https://emanuelderman.com/books/my-life-as-a-quant/). Wiley.
+
+[5]: Hull, J. C. (2017). ["Options, Futures, and Other Derivatives"](https://www.semanticscholar.org/paper/Options%2C-Futures%2C-and-Other-Derivatives-Hull/89bdee500c8623864fc9eb7a471546aa713acc44). Pearson.

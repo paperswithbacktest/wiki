@@ -155,3 +155,20 @@ However, these technological advancements also bring challenges that stakeholder
 In conclusion, stock exchanges and algorithmic trading are indispensable to the economic vitality of the Americas. As these markets evolve, stakeholders must seize opportunities to harness technological innovations while managing associated challenges. By doing so, they can ensure sustainable growth and stability, ultimately benefiting economies and societies across the region. As technology continues to integrate with financial practices, embracing these developments is key to fostering a dynamic and thriving trading environment.
 
 
+
+
+## References & Further Reading
+
+[1]: López de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://books.google.com/books/about/Advances_in_Financial_Machine_Learning.html?id=oU9KDwAAQBAJ) Wiley.
+
+[2]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) Wiley.
+
+[3]: Jansen, S. (2018). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing.
+
+[4]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[5]: Securities and Exchange Commission. (2010). [Findings Regarding the Market Events of May 6, 2010.](https://www.sec.gov/news/studies/2010/marketevents-report.pdf) 
+
+[6]: International Organization of Securities Commissions. (2013). [Regulatory Issues Raised by the Impact of Technological Changes on Market Integrity and Efficiency.](https://www.iosco.org/library/pubdocs/pdf/IOSCOPD354.pdf)
+
+[7]: Bank for International Settlements. (2016). [Electronic Trading in Fixed Income Markets.](https://www.bis.org/publ/mktc07.pdf)

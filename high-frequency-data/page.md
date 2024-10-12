@@ -139,3 +139,16 @@ On the other hand, the sheer volume and speed of data generation pose significan
 The continuous advancements in data collection and processing technology, such as improved computational power and machine learning algorithms, hold promise for further enhancing the applicability of high frequency data in algorithmic trading. These innovations are set to refine data processing methods, making them faster and more efficient, thus opening up new possibilities for traders. As technology evolves, the capacity to handle and interpret complex datasets will expand, providing even deeper insights into market micro-structures and dynamics. This ongoing evolution underscores the critical importance of high frequency data as not just a tool for today, but as a vital asset in the future of algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
