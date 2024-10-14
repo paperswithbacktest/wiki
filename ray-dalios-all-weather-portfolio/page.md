@@ -172,3 +172,22 @@ Algorithmic trading further refines the portfolio management process by automati
 Moreover, investors leveraging this strategy benefit from a systematic approach that efficiently manages and adjusts portfolio components in response to economic indicators. This adaptability is crucial in navigating uncertain market environments and aligning with risk-adjusted performance goals. Overall, the combination of algorithmic trading with the All Weather Portfolio maximizes the potential for enhanced efficiency, precision, and financial stability, making it a compelling choice for investors aiming to secure their assets against varying economic conditions.
 
 
+
+
+## References & Further Reading
+
+[1]: Dalio, R. (2015). ["Principles: Life and Work."](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) Simon & Schuster.
+
+[2]: Dalio, R. (2017). ["Big Debt Crises."](https://www.amazon.com/Big-Debt-Crises-Ray-Dalio/dp/1732689806) Bridgewater Associates.
+
+[3]: Ang, A. (2014). ["Asset Management: A Systematic Approach to Factor Investing."](https://academic.oup.com/book/3342) Oxford University Press.
+
+[4]: Asness, C. S., Frazzini, A., & Pedersen, L. H. (2012). ["Leverage Aversion and Risk Parity."](https://pages.stern.nyu.edu/~lpederse/papers/LeverageAversionRP.pdf) Financial Analysts Journal, 68(1), 47-59.
+
+[5]: ["Risk Parity Fundamentals"](https://www.taylorfrancis.com/books/mono/10.1201/b21089/risk-parity-fundamentals-edward-qian) by Edward E. Qian.
+
+[6]: Fabozzi, F. J., & Focardi, S. M. (2010). ["The Mathematics of Financial Modeling and Investment Management."](https://www.semanticscholar.org/paper/The-Mathematics-of-Financial-Modeling-and-Focardi-Fabozzi/9ef7cbeee77cf22e2ee62cfef22f466a27aec6c8) Wiley.
+
+[7]: Boyd, E., & Hill, J. (2018). ["Professional Automated Trading: Theory and Practice."](https://books.google.com/books/about/Professional_Automated_Trading.html?id=PUXxAAAAQBAJ) Elsevier.
+
+[8]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://books.google.com/books/about/Algorithmic_Trading.html?id=CIwCTVqEj4oC) by Ernie Chan.

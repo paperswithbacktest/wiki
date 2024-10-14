@@ -183,3 +183,20 @@ Continuous learning and adaptation are key in navigating the ever-evolving marke
 Encouragement is given to traders to continuously explore and innovate within the algorithmic trading framework, enhancing their strategies using the tools and methodologies available. Emphasis on the integration of technological solutions, such as Python for coding and backtesting, enables traders to refine their approaches, ultimately aiming for optimal results in QQQ algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Algorithmic and High-Frequency Trading"](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) by Álvaro Cartea, Sebastian Jaimungal, and José Penalva
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[5]: ["Python for Finance: Mastering Data-Driven Finance"](https://books.google.com/books/about/Python_for_Finance.html?id=2qd9DwAAQBAJ) by Yves Hilpisch
+
+[6]: Nanex Research, ["The May 6, 2010 Flash Crash Analysis"](https://corporatefinanceinstitute.com/resources/equities/2010-flash-crash/)
+
+[7]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen

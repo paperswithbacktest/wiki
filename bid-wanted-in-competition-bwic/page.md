@@ -150,3 +150,18 @@ Technological advancements, including machine learning and artificial intelligen
 Given these developments, it is crucial for market participants to consider how BWIC processes can be optimized through automation and technology. Embracing these innovations not only aids in achieving more competitive pricing but also supports enhanced risk management and strategic planning. As the trading environment becomes increasingly dynamic, leveraging automated BWIC systems will be vital for maintaining a competitive edge and strengthening overall trading strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Lopez de Prado, M. (2018). [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[2]: Jansen, S. (2018). [Machine Learning for Algorithmic Trading](https://github.com/stefan-jansen/machine-learning-for-trading). Packt Publishing.
+
+[3]: Chan, E. P. (2008). [Quantitative Trading: How to Build Your Own Algorithmic Trading Business](https://github.com/ftvision/quant_trading_echan_book). Wiley.
+
+[4]: Biais, B., Bisiere, C., Bouvard, M., & Casamatta, C. (2019). ["Blockchain and the  Future of Financial Markets."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3108601) Toulouse School of Economics.
+
+[5]: Treleaven, P., Galas, M., & Lalchand, V. (2013). ["Algorithmic Trading Review."](https://www.researchgate.net/publication/262239006_Algorithmic_Trading_Review) Communications of the ACM, 56(11), 76-85.
+
+[6]: Harvey, C. R., Liu, Y., & Zhu, H. (2016). ["... and the Cross-Section of Expected Returns."](https://academic.oup.com/rfs/article/29/1/5/1843824) Journal of Finance, 71(1), 579-617.

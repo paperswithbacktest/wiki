@@ -260,3 +260,22 @@ This exploration encourages practitioners and researchers to experiment with GBM
 By leveraging these resources, individuals interested in geometric Brownian motion and its applications in algorithmic trading can deepen their understanding and enhance their technical skills.
 
 
+
+
+## References & Further Reading
+
+[1]: Hull, J. C. (2012). ["Options, Futures, and Other Derivatives,"](https://www.semanticscholar.org/paper/Options%2C-Futures%2C-and-Other-Derivatives-Hull/89bdee500c8623864fc9eb7a471546aa713acc44) 9th Edition. Pearson Education. 
+
+[2]: Shreve, S. E. (2004). ["Stochastic Calculus for Finance I: The Binomial Asset Pricing Model"](https://link.springer.com/book/10.1007/978-0-387-22527-2) and ["Stochastic Calculus for Finance II: Continuous-Time Models"](https://link.springer.com/book/10.1007/978-0-387-22527-2). Springer Finance.
+
+[3]: Black, F., & Scholes, M. (1973). ["The Pricing of Options and Corporate Liabilities."](https://www.cs.princeton.edu/courses/archive/fall09/cos323/papers/black_scholes73.pdf) The Journal of Political Economy, 81(3), 637-654.
+
+[4]: Christoffersen, P. (2012). ["Elements of Financial Risk Management,"](https://www.sciencedirect.com/book/9780123744487/elements-of-financial-risk-management) 2nd Edition. Academic Press.
+
+[5]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://books.google.com/books/about/Advances_in_Financial_Machine_Learning.html?id=oU9KDwAAQBAJ) Wiley.
+
+[6]: Coursera. ["Financial Engineering and Risk Management Part I,"](https://www.coursera.org/specializations/financialengineering) offered by Columbia University.
+
+[7]: EdX. ["Computational Investing, Part I,"](https://www.classcentral.com/course/compinvesting1-406) offered by Georgia Tech.
+
+[8]: DataCamp. ["Importing & Managing Financial Data in Python."](https://www.datacamp.com/courses/importing-and-managing-financial-data-in-python)
