@@ -84,7 +84,7 @@ print("Maximum risk per trade:", position_size)
 
 **Stop-Loss Orders**
 
-Stop-loss orders automatically sell a security when it drops to a specific price, protecting traders from excessive losses. By setting a stop-loss, traders ensure that they exit trades before losses escalate beyond a predetermined level. For example, if a trader buys a stock at $50 and sets a stop-loss at $45, the stock would be sold automatically if it falls to that price, mitigating larger losses in a declining market. This not only caps potential losses but also removes emotional decision-making, which can cloud judgment during volatile periods.
+Stop-loss orders automatically sell a security when it drops to a specific price, protecting traders from excessive losses. By setting a stop-loss, traders ensure that they [exit](/wiki/exit-strategy) trades before losses escalate beyond a predetermined level. For example, if a trader buys a stock at $50 and sets a stop-loss at $45, the stock would be sold automatically if it falls to that price, mitigating larger losses in a declining market. This not only caps potential losses but also removes emotional decision-making, which can cloud judgment during volatile periods.
 
 **Diversification**
 

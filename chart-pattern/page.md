@@ -70,7 +70,7 @@ price_series = pd.Series([1.0, 1.2, 0.9, 1.4, 1.3])
 retracement_61_8 = fibonacci_retracement(price_series, 0.618)
 ```
 
-In summary, harmonic patterns provide a framework where Fibonacci ratios play a crucial role in predicting market reversals, thus offering traders potential high-probability entry and exit points in their trading strategies.
+In summary, harmonic patterns provide a framework where Fibonacci ratios play a crucial role in predicting market reversals, thus offering traders potential high-probability entry and [exit](/wiki/exit-strategy) points in their trading strategies.
 
 
 ## The Role of Candlestick Patterns

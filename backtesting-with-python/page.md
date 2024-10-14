@@ -261,7 +261,7 @@ Technical indicators play an instrumental role in quantifying and visualizing va
     
 4. **Incorporating Indicators in Your Strategy**:
     
-    With your indicators set up, they can be used in [Backtesting.py](http://backtesting.py/) to craft entry and exit signals. For example, consider a strategy where you buy when the RSI is below 30 (oversold) and sell when it surpasses 70 (overbought):
+    With your indicators set up, they can be used in [Backtesting.py](http://backtesting.py/) to craft entry and [exit](/wiki/exit-strategy) signals. For example, consider a strategy where you buy when the RSI is below 30 (oversold) and sell when it surpasses 70 (overbought):
     
     ```python
     def strategy(data):
@@ -1228,7 +1228,7 @@ By adhering to these best practices, traders and developers can ensure that thei
 
 Visualization serves as a bridge between complex trading algorithms and human intuition. By graphically representing strategies and their performance, traders can spot patterns, anomalies, and areas for improvement, turning raw data into actionable insights. Python, with its plethora of visualization tools, stands at the forefront of this domain.
 
-Python's extensive range of visualization libraries, such as **Matplotlib**, **Seaborn**, **Plotly**, and **Bokeh**, offers a multitude of options for traders[^1^]. Each library has its strengths:
+Python's extensive range of visualization libraries, such as **Matplotlib**, **Seaborn**, **Plotly**, and **Bokeh**, offers a multitude of options for traders[1]. Each library has its strengths:
 
 - **Matplotlib** provides a granular control over every aspect of a plot, ideal for those who require bespoke charting.
 - **Seaborn** builds on Matplotlib's foundations but abstracts away much of the complexity, making intricate visualizations easier to achieve.

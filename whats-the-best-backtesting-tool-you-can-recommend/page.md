@@ -148,7 +148,7 @@ Firstly, when integrating a backtesting tool, align its functionalities with you
 
 Ongoing analysis is crucial. After establishing your initial strategy, do not simply rely on a single backtest. Market conditions fluctuate, thus it is essential to perform backtests regularly to evaluate how your strategy holds up under new data and varying market scenarios. This continuous evaluation allows you to adapt and tweak your strategy to improve its performance over time. Pay attention to metrics like the Sharpe ratio, maximum drawdown, and net profit, which can provide insights into the practical viability and risk level of your strategies.
 
-Adaptation should be driven by the insights gathered from backtest results rather than a gut feeling or a reactive impulse to short-term market fluctuations. Utilize these results to calibrate your trading parameters, such as stop-loss levels, position sizing, or entry/exit points, ensuring they align with your risk tolerance and financial goals.
+Adaptation should be driven by the insights gathered from backtest results rather than a gut feeling or a reactive impulse to short-term market fluctuations. Utilize these results to calibrate your trading parameters, such as stop-loss levels, position sizing, or entry/[exit](/wiki/exit-strategy) points, ensuring they align with your risk tolerance and financial goals.
 
 While backtesting tools are powerful, they possess certain limitations and potential pitfalls. One primary limitation is overfitting, where a trading strategy is too closely tailored to historical data and thus fails to perform in real-time trading. Mitigate this risk by dividing your data into in-sample (for tuning your model) and out-of-sample (for testing the model's predictive capability) segments.
 

@@ -85,7 +85,7 @@ To begin, algorithms utilize financial indicators such as price-to-earnings rati
 
 In addition to financial metrics, modern algorithmic stock picking incorporates market sentiment analysis. By using natural language processing (NLP) tools to analyze news articles, financial reports, and social media chatter, algorithms gauge investor sentiment towards a stock. Positive sentiment might indicate a stock price rise, whereas negative sentiment might suggest a decline.
 
-Historical data serves as another cornerstone in stock picking algorithms. These datasets include past price movements, trading volumes, and historical financial performance. Algorithms use this data to identify patterns and trends, which help predict future price movements. One common method is using moving averages to smooth out price data and identify potential entry or exit points.
+Historical data serves as another cornerstone in stock picking algorithms. These datasets include past price movements, trading volumes, and historical financial performance. Algorithms use this data to identify patterns and trends, which help predict future price movements. One common method is using moving averages to smooth out price data and identify potential entry or [exit](/wiki/exit-strategy) points.
 
 Consider the process of backtesting and optimization, crucial steps in refining trading algorithms. Backtesting involves simulating the algorithm's performance using historical data to assess its accuracy and profitability. This process allows traders to understand how the algorithm would have performed in past market conditions without risking real capital.
 

@@ -72,7 +72,7 @@ $$
 \text{ROC} = \left( \frac{\text{Current Price} - \text{Price Ten Days Ago}}{\text{Price Ten Days Ago}} \right) \times 100
 $$
 
-Traders set thresholds to decide when to enter or exit trades. Algorithms can automate this process, quickly analyzing large datasets to pinpoint the best entry and exit points. Moreover, [machine learning](/wiki/machine-learning) models can enhance these strategies by predicting momentum continuation or reversal.
+Traders set thresholds to decide when to enter or [exit](/wiki/exit-strategy) trades. Algorithms can automate this process, quickly analyzing large datasets to pinpoint the best entry and exit points. Moreover, [machine learning](/wiki/machine-learning) models can enhance these strategies by predicting momentum continuation or reversal.
 
 **Mean Reversion Strategies:**
 

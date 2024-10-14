@@ -124,7 +124,7 @@ To harness the full potential of training data in algorithmic trading, adhering 
 
 Preprocessing is a crucial step in obtaining high-quality data. It involves cleaning the data to remove any noise and inconsistencies that may skew algorithmic outputs. This is particularly important in financial data, which can contain anomalies such as gaps in time series or erroneous entries due to market irregularities.
 
-Normalization is often used to scale the data into a standard range, typically between 0 and 1. This process is vital when the data will be fed into machine learning models, as it ensures that all inputs are treated equally and prevents any single feature from disproportionately affecting the model’s performance.
+Normalization is often used to scale the data into a standard range, typically between 0 and 1. This process is vital when the data will be fed into [machine learning](/wiki/machine-learning) models, as it ensures that all inputs are treated equally and prevents any single feature from disproportionately affecting the model’s performance.
 
 Python example for normalizing data:
 

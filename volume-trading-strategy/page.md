@@ -247,7 +247,7 @@ For an in-depth look at the application of volume analysis in different markets,
 
 Understanding and applying volume trading strategies is essential for any trader looking to navigate the markets with an additional layer of depth. Volume provides a third dimension to the price and time focus of traditional analysis, offering insights into the strength of price moves and potential shifts in market trends.
 
-The future of volume trading looks promising, with technological advancements providing traders with more sophisticated tools and analytics. As markets evolve, the granularity of volume data will enhance, allowing for more precise and nuanced analysis. Real-time volume analytics, combined with [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning, could lead to the development of predictive models that can adapt to changing market dynamics more efficiently.
+The future of volume trading looks promising, with technological advancements providing traders with more sophisticated tools and analytics. As markets evolve, the granularity of volume data will enhance, allowing for more precise and nuanced analysis. Real-time volume analytics, combined with [artificial intelligence](/wiki/ai-artificial-intelligence) and [machine learning](/wiki/machine-learning), could lead to the development of predictive models that can adapt to changing market dynamics more efficiently.
 
 ## References & Further Reading
 

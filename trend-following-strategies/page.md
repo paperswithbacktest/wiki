@@ -208,7 +208,7 @@ The bond market, while often perceived as less volatile, does exhibit trends, es
 
 The key to successfully implementing trend following in different markets lies in understanding the unique characteristics of each market. Factors such as market liquidity, volatility, and the impact of economic events vary across markets and must be accounted for in trend following strategies.
 
-While the core principles of trend following remain the same, strategies may need to be tailored to fit different markets. This includes customizing indicator settings, risk management rules, and entry/exit criteria to suit the specific dynamics of each market.
+While the core principles of trend following remain the same, strategies may need to be tailored to fit different markets. This includes customizing indicator settings, risk management rules, and entry/[exit](/wiki/exit-strategy) criteria to suit the specific dynamics of each market.
 
 Applying trend following across multiple markets can also provide diversification benefits, reducing risk and smoothing the equity curve. This diversification allows trend followers to capitalize on opportunities in different markets while mitigating the impact of any single market’s downturn.
 

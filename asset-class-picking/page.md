@@ -72,7 +72,7 @@ Tactical strategies in asset class picking involve leveraging multiple asset cla
 
 Market anomalies, such as unexpected macroeconomic shifts or unprecedented geopolitical events, necessitate a fluid approach to tactical strategies. Traditional models might falter under these conditions, requiring the deployment of adaptive strategies that can recalibrate capital allocation based on real-time data.
 
-Flexibility is crucial because the correlations between asset classes can change depending on market conditions, often unexpectedly. Adaptation strategies include leveraging machine learning algorithms that can identify subtle patterns and signals across various asset classes more efficiently than human-driven analysis.
+Flexibility is crucial because the correlations between asset classes can change depending on market conditions, often unexpectedly. Adaptation strategies include leveraging [machine learning](/wiki/machine-learning) algorithms that can identify subtle patterns and signals across various asset classes more efficiently than human-driven analysis.
 
 By continuously refining tactical strategies, investors can better position themselves to capture short-term gains while managing risk. Building a diverse toolkit that incorporates [momentum](/wiki/momentum), value, and [carry](/wiki/carry-trading) strategies across multiple asset classes prepares asset managers to confront various market inefficiencies, irrespective of prevailing conditions. This dynamic approach not only aims to exploit inefficiencies but also enhances the robustness of the entire investment portfolio.
 

@@ -234,7 +234,7 @@ Modeling skew with such models provides a more nuanced understanding of market d
 
 **Using Machine Learning for Signal Enhancement**
 
-Modern traders also incorporate machine learning techniques to enhance signal quality. Neural networks or support vector machines can be trained on historical data, capturing complex non-linear relationships in volatility surfaces that traditional models might miss[13].
+Modern traders also incorporate [machine learning](/wiki/machine-learning) techniques to enhance signal quality. Neural networks or support vector machines can be trained on historical data, capturing complex non-linear relationships in volatility surfaces that traditional models might miss[13].
 
 In summary, the volatility skew offers dispersion traders an additional dimension of analysis and opportunity. Proper modeling and signal generation from the skew can lead to better-informed trades and potentially higher returns.
 

@@ -57,7 +57,7 @@ If you are looking for official, direct, and reliable access to Yahoo Finance da
 
 ### Usability with Programming Languages
 
-Given the popularity of **Python** in the fields of data analysis, finance, and machine learning, it's no surprise that there are several dedicated Python libraries for accessing Yahoo Finance data. Libraries like `yfinance` and `yahoo_fin` are tailored for Python and offer seamless integration, allowing for easy retrieval and manipulation of financial data.
+Given the popularity of **Python** in the fields of data analysis, finance, and [machine learning](/wiki/machine-learning), it's no surprise that there are several dedicated Python libraries for accessing Yahoo Finance data. Libraries like `yfinance` and `yahoo_fin` are tailored for Python and offer seamless integration, allowing for easy retrieval and manipulation of financial data.
 
 Other languages like **JavaScript**, **Java**, **R**, and **C#** also have libraries or methods to access Yahoo Finance data, albeit with varying degrees of ease and functionality. For instance, in the R community, the `quantmod` package allows users to fetch data from Yahoo Finance among other sources. Similarly, there are npm packages for JavaScript and libraries for Java that facilitate this data access.
 
@@ -577,7 +577,7 @@ Yes, the API allows users to retrieve historical stock data, including daily pri
 
 **Are there rate limits for the Yahoo Finance API?**
 
-Rate limits vary based on the subscription tier. Free users typically face stricter limits than premium subscribers. Always refer to Yahoo's official documentation to get the most current rate limits[^1^].
+Rate limits vary based on the subscription tier. Free users typically face stricter limits than premium subscribers. Always refer to Yahoo's official documentation to get the most current rate limits.
 
 **Why was the public Yahoo Finance API decommissioned in 2017?**
 

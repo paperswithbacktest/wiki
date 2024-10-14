@@ -67,7 +67,7 @@ A common approach in statistical arbitrage is pairs trading, where two co-integr
 
 The success of statistical arbitrage depends heavily on the accuracy of the models used and the speed of execution. Inefficient model specifications can lead to misjudging opportunities, while delays in execution can cause significant slippage, eroding potential profits. This is why high-frequency trading systems and advanced data analytics play a crucial role in this strategy.
 
-Statistical arbitrage has evolved significantly with advancements in computing power and machine learning. Modern strategies may incorporate complex algorithms that adapt to changing market conditions, learning from new data to optimize trading decisions.
+Statistical arbitrage has evolved significantly with advancements in computing power and [machine learning](/wiki/machine-learning). Modern strategies may incorporate complex algorithms that adapt to changing market conditions, learning from new data to optimize trading decisions.
 
 For an in-depth exploration of statistical arbitrage and its methodologies, "Quantitative Finance: A Simulation-Based Introduction Using Excel" by Matt Davison provides a practical guide. This resource offers insights into the quantitative techniques used in statistical arbitrage, including model building, [backtesting](/wiki/backtesting), and risk management[4].
 

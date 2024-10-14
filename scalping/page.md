@@ -18,7 +18,7 @@ This article aims to explore scalping in detail, focusing on the mechanisms that
 
 ## Understanding Scalping as Arbitrage
 
-Scalping, a widely used strategy in algorithmic trading, aims to capitalize on small price discrepancies in the financial markets, primarily by leveraging the bid-ask spread. This approach involves executing a high frequency of trades in quick succession with the goal of securing marginal profits. The essence of scalping lies in its ability to efficiently exploit these minor price gaps through precision and timing.
+Scalping, a widely used strategy in algorithmic trading, aims to capitalize on small price discrepancies in the financial markets, primarily by leveraging the bid-ask spread. This approach involves executing a [high frequency](/wiki/high-frequency-trading) of trades in quick succession with the goal of securing marginal profits. The essence of scalping lies in its ability to efficiently exploit these minor price gaps through precision and timing.
 
 In [scalping](/wiki/gamma-scalping), timing is crucial. Traders need to enter and [exit](/wiki/exit-strategy) positions rapidly, often within minutes or even seconds. This necessitates a deep understanding of market patterns and the agility to respond instantly to price movements. Volume plays a complementary role, as successful scalping requires executing numerous trades to accrue substantial profit over time. Each trade, though individually small in profit, contributes to a cumulative gain that can be significant, especially when compounded over many transactions.
 

@@ -18,7 +18,7 @@ This article explores how Bridgewater integrates algorithmic trading within its 
 
 ## History of Bridgewater Associates
 
-Bridgewater Associates traces its origins back to 1975 when Ray Dalio founded a small advisory firm in his New York City apartment. Initially focused on advising corporate clients on currency and interest rate risks, the firm quickly gained traction due to Dalio's deep understanding of macroeconomic principles and his innovative approach to investment. This set the stage for Bridgewater's transformation into one of the largest hedge funds in the world.
+Bridgewater Associates traces its origins back to 1975 when Ray Dalio founded a small advisory firm in his New York City apartment. Initially focused on advising corporate clients on currency and [interest rate](/wiki/interest-rate-trading-strategies) risks, the firm quickly gained traction due to Dalio's deep understanding of macroeconomic principles and his innovative approach to investment. This set the stage for Bridgewater's transformation into one of the largest hedge funds in the world.
 
 The firm grew by pioneering several key innovations in investment strategy, most notably the concept of risk parity. Risk parity is a strategy that allocates risk rather than capital across different asset classes to achieve diversification. Instead of a traditional asset allocation strategy, which divides investment based on asset categories (like 60% equities and 40% bonds), risk parity considers the [volatility](/wiki/volatility-trading-strategies) and correlation of asset classes to distribute risk more evenly. This innovation has been crucial in helping Bridgewater mitigate risks and enhance returns.
 

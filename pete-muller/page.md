@@ -46,7 +46,7 @@ PDT Partners is renowned for its highly effective algorithmic trading strategies
 
 One of the firm's distinctive methodologies includes leveraging [statistical arbitrage](/wiki/statistical-arbitrage), which involves predicting price movements by analyzing correlations between different securities. By harnessing vast datasets and applying sophisticated statistical techniques, PDT's algorithms can discern patterns that may not be immediately apparent to human traders.
 
-The backbone of Muller's strategies lies in the combination of mathematical expertise and cutting-edge technology. Employing machine learning techniques, PDT enhances its models by continuously integrating vast amounts of data to improve prediction accuracy. This adaptive approach ensures that the models remain effective even as market conditions evolve.
+The backbone of Muller's strategies lies in the combination of mathematical expertise and cutting-edge technology. Employing [machine learning](/wiki/machine-learning) techniques, PDT enhances its models by continuously integrating vast amounts of data to improve prediction accuracy. This adaptive approach ensures that the models remain effective even as market conditions evolve.
 
 For instance, consider a simple moving average crossover strategy, which illustrates the concept of algorithmic decision-making:
 

@@ -158,7 +158,7 @@ Hedging involves taking an offsetting position in a related security to reduce p
 
 ### Stop-Loss Orders
 
-Stop-loss orders are designed to limit potential losses in a trading position. By setting a predetermined price at which a security will be sold, traders can exit a position before further losses occur.
+Stop-loss orders are designed to limit potential losses in a trading position. By setting a predetermined price at which a security will be sold, traders can [exit](/wiki/exit-strategy) a position before further losses occur.
 
 **Effectiveness**: Stop-loss orders help in automating exit strategies, thus preventing emotional decision-making and ensuring that losses do not accumulate beyond an acceptable level.
 

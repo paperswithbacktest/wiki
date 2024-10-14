@@ -166,7 +166,7 @@ Sudden appearances or disappearances of large orders can signal an upcoming pric
 
 **Scalping Small Changes**
 
-Scalpers use the order book to make quick profits from small price movements. They look for patterns where they can enter and exit trades rapidly, capitalizing on tiny but frequent price changes.
+Scalpers use the order book to make quick profits from small price movements. They look for patterns where they can enter and [exit](/wiki/exit-strategy) trades rapidly, capitalizing on tiny but frequent price changes.
 
 **Combining with Technical Analysis**
 

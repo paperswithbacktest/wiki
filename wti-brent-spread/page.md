@@ -71,7 +71,7 @@ Trading the WTI-Brent spread involves a range of strategies that traders employ 
 
 Pair trading is another common strategy that involves taking a long position in one benchmark while shorting the other, effectively betting on the change in the price difference rather than the price of oil itself. This approach is predicated on the idea that the prices of WTI and Brent will move towards each other, and profits are made on the relative change rather than absolute price movements.
 
-Risks in trading the spread are multifaceted, including leverage risks. Many traders use leverage to amplify their trading capacity, which can lead to significant gains but also to magnified losses if the market moves against their positions. Liquidity risk is also a concern, as sudden market shocks can lead to a lack of market depth, making it difficult to exit positions without affecting the market price.
+Risks in trading the spread are multifaceted, including leverage risks. Many traders use leverage to amplify their trading capacity, which can lead to significant gains but also to magnified losses if the market moves against their positions. Liquidity risk is also a concern, as sudden market shocks can lead to a lack of market depth, making it difficult to [exit](/wiki/exit-strategy) positions without affecting the market price.
 
 Risk management is critical in spread trading. Traders often set predefined limits on losses to safeguard their capital. They also monitor a wide array of market indicators to manage and hedge their positions effectively, ensuring that they are not overexposed to adverse market moves. Diversification across different commodities, geographical exposure, and temporal horizons can also mitigate risks.
 

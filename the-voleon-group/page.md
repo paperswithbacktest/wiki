@@ -73,7 +73,7 @@ Another layer of complexity arises from the very nature of the machine learning 
 
 ## Regulatory and Ethical Considerations
 
-Voleon faced significant scrutiny over its use of non-compete clauses. These clauses initially stipulated that employees were required to exit the industry for a period of two years without compensation upon leaving the firm. This practice not only posed ethical dilemmas but also legal questions about restrictive covenants within the financial services industry. These clauses can limit an individual’s capacity to find employment post-departure, impacting their livelihood and potentially constraining the free movement of talent across the industry. 
+Voleon faced significant scrutiny over its use of non-compete clauses. These clauses initially stipulated that employees were required to [exit](/wiki/exit-strategy) the industry for a period of two years without compensation upon leaving the firm. This practice not only posed ethical dilemmas but also legal questions about restrictive covenants within the financial services industry. These clauses can limit an individual’s capacity to find employment post-departure, impacting their livelihood and potentially constraining the free movement of talent across the industry. 
 
 Following mounting criticism, Voleon agreed to discontinue enforcing these non-compete clauses. By doing so, it addressed both the legal and ethical concerns raised about its hiring and employment practices. This decision underscored the importance of balancing innovative trading strategies with regulatory expectations and ethical employment practices. 
 

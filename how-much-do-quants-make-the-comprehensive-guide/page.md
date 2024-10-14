@@ -56,7 +56,7 @@ Compensation in the quant world is significantly influenced by geography. As fin
 
 **New York**, the epicenter of the financial world, boasts some of the highest salaries for quants. Here, a seasoned quant can expect an average salary that ranges between $150,000 and $300,000, with bonuses pushing the total compensation even higher[5].
 
-Over in **London**, a major European financial hub, quants receive competitive salaries, though slightly lower than their counterparts in New York. The average compensation lies between £80,000 and £150,000, with top professionals earning significantly more, especially in elite hedge funds and investment banks[6].
+Over in **London**, a major European financial hub, quants receive competitive salaries, though slightly lower than their counterparts in New York. The average compensation lies between £80,000 and £150,000, with top professionals [earning](/wiki/earning-announcement) significantly more, especially in elite hedge funds and investment banks[6].
 
 In **Hong Kong**, another critical node in the global financial network, quants command salaries that range from HKD 800,000 to HKD 2 million, influenced by the city's strategic location and its bridge to mainland Chinese markets.
 

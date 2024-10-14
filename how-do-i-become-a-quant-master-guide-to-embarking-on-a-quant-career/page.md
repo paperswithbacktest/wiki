@@ -64,7 +64,7 @@ In essence, a quant's day is a fusion of rigorous mathematical analysis, real-ti
 
 The quant profession, standing at the intersection of finance, mathematics, and technology, offers numerous perks that have drawn many to its fold.
 
-First and foremost, quants are well-compensated, often earning salaries that are significantly higher than other professions in finance. This lucrative pay is a reflection of the specialized skill set and the high demand for professionals who can navigate the complexities of modern financial markets.
+First and foremost, quants are well-compensated, often [earning](/wiki/earning-announcement) salaries that are significantly higher than other professions in finance. This lucrative pay is a reflection of the specialized skill set and the high demand for professionals who can navigate the complexities of modern financial markets.
 
 The intellectual stimulation is another allure. Quants deal with challenging problems, employing advanced mathematical and computational techniques to make sense of vast and intricate datasets. For those with a curious mind, the dynamic nature of financial markets and the constant evolution of quantitative techniques offer an ever-changing puzzle to solve.
 

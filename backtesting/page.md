@@ -482,7 +482,7 @@ when the metalabelling model predicts $p[x=1]$, we compute the $z$ test statisti
 
 ### Backtesting on synthetic data
 
-Each strategy has an implementation tactic called "trading rules," which provide the algorithm to enter and exit a position. These rules rely on historical simulations, which can lead to the problem of backtest overfitting, making the investment strategy unfit for the future.
+Each strategy has an implementation tactic called "trading rules," which provide the algorithm to enter and [exit](/wiki/exit-strategy) a position. These rules rely on historical simulations, which can lead to the problem of backtest overfitting, making the investment strategy unfit for the future.
 
 The goal is to exit a position optimally, which is a dilemma often faced by execution traders, and it should not be confused with the determination of entry and exit thresholds for investing in a security. To avoid the risk of overfitting, a good practice is deriving the optimal parameters for the trading rule directly from the stochastic process that generates the data, rather than engaging in historical simulations.
 

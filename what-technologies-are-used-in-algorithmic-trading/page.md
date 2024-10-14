@@ -154,7 +154,7 @@ Real-time monitoring and analytics play a pivotal role in risk assessment. These
 
 Machine learning models are increasingly being integrated into risk management systems. They can be trained to predict market movements or detect arbitrage opportunities that could represent both risk and opportunity. By analyzing historical and real-time data, these models can forecast potential risks and alert traders before these risks materialize.
 
-Various risk management tools offer functionalities specifically catered to algorithmic trading. For example, order management systems (OMS) and execution management systems (EMS) not only facilitate efficient trade execution but also provide risk checks that can halt orders if risk parameters are breached. These systems can implement stop-loss orders, which automatically exit a trade if the asset price falls below a certain level.
+Various risk management tools offer functionalities specifically catered to algorithmic trading. For example, order management systems (OMS) and execution management systems (EMS) not only facilitate efficient trade execution but also provide risk checks that can halt orders if risk parameters are breached. These systems can implement stop-loss orders, which automatically [exit](/wiki/exit-strategy) a trade if the asset price falls below a certain level.
 
 Here’s a basic Python example of a moving average crossover strategy, combined with a risk management system using a stop-loss order:
 

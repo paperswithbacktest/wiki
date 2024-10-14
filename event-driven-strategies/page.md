@@ -49,7 +49,7 @@ The 'spread' in merger arbitrage refers to the difference between the market pri
 
 A key aspect of merger arbitrage is assessing the risk of the merger not going through as planned. Factors such as regulatory hurdles, financing issues, or changes in market conditions can impact the success of a merger. Arbitrageurs must evaluate these risks and adjust their positions accordingly.
 
-Successful merger arbitrage requires precise timing. Investors need to enter and exit their positions at the right moments to maximize profits and minimize risks. This often involves a detailed analysis of the merger timeline and the regulatory environment.
+Successful merger arbitrage requires precise timing. Investors need to enter and [exit](/wiki/exit-strategy) their positions at the right moments to maximize profits and minimize risks. This often involves a detailed analysis of the merger timeline and the regulatory environment.
 
 To mitigate risks, merger arbitrageurs often employ various hedging strategies. These may include options strategies or diversifying across multiple merger deals.
 

@@ -238,7 +238,7 @@ An essential resource for understanding the complexities of algorithmic trading 
 
 Algorithmic trading isn't without risks. Market anomalies, unforeseen events, and technological limitations can impact trading outcomes. Python's flexibility allows for the incorporation of risk management techniques to mitigate these issues.
 
-The future of Python in algorithmic trading is bright, with ongoing advancements in machine learning and computational power. Traders and financial engineers are encouraged to keep abreast of the latest Python developments to maintain a competitive edge in strategy development and execution.
+The future of Python in algorithmic trading is bright, with ongoing advancements in [machine learning](/wiki/machine-learning) and computational power. Traders and financial engineers are encouraged to keep abreast of the latest Python developments to maintain a competitive edge in strategy development and execution.
 
 ## Machine Learning in Quantitative Finance
 

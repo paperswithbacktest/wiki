@@ -41,7 +41,7 @@ Algorithmic trading has become a cornerstone of modern financial markets, effici
 
 One common approach to harnessing calendar effects in [algorithmic trading](/wiki/algorithmic-trading) involves identifying specific seasonal trends, such as the "January Effect," wherein stock prices tend to increase in January, or the "weekend effect," where stock returns are typically higher on Mondays. These patterns, once identified, can be programmed into trading algorithms to execute buy or sell orders automatically when conditions align with expected patterns.
 
-For example, consider an algorithm designed to capitalize on the January Effect. It might be structured to increase holdings in small-cap stocks towards the end of December, anticipating a price rise in January. This strategy requires historical analysis to confirm the consistency of the effect and careful timing to enter and exit the market profitably.
+For example, consider an algorithm designed to capitalize on the January Effect. It might be structured to increase holdings in small-cap stocks towards the end of December, anticipating a price rise in January. This strategy requires historical analysis to confirm the consistency of the effect and careful timing to enter and [exit](/wiki/exit-strategy) the market profitably.
 
 Another example includes exploiting the pre-holiday effect, where stock prices tend to rise in the days leading up to holidays. An algorithm may automatically execute buy orders for specific stocks a few days before these holidays, expecting to sell them at a higher price just before or after the holiday. 
 

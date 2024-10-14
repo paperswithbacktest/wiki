@@ -142,7 +142,7 @@ In summary, [algorithmic trading](/wiki/algorithmic-trading) strategies that foc
 
 ## Challenges of Volatility in Algorithmic Trading
 
-High volatility in financial markets often presents significant challenges for algorithmic trading systems. One of the primary issues is slippage, which occurs when an order is executed at a different price than expected. During volatile periods, rapid price changes can lead to slippage, adversely affecting the profitability of trades. For example, if an algorithm anticipates a certain entry or exit point based on historical data, sudden fluctuations may cause execution at a less favorable price.
+High volatility in financial markets often presents significant challenges for algorithmic trading systems. One of the primary issues is slippage, which occurs when an order is executed at a different price than expected. During volatile periods, rapid price changes can lead to slippage, adversely affecting the profitability of trades. For example, if an algorithm anticipates a certain entry or [exit](/wiki/exit-strategy) point based on historical data, sudden fluctuations may cause execution at a less favorable price.
 
 Another challenge is the increased market impact. High-frequency trading and large order [volume](/wiki/volume-trading-strategy)s can exacerbate price movements, especially in thinly traded assets or during periods of heightened volatility. The presence of numerous algorithms seeking to capitalize on the same price dislocations can further amplify these effects, leading to larger-than-expected market moves.
 

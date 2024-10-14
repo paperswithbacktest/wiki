@@ -100,7 +100,7 @@ Addressing these challenges involves a combination of technological safeguards, 
 
 ## The Future of Algorithmic Trading
 
-The future of algorithmic trading holds significant potential, driven by advancements in technology and expanding market interest. Forecasts suggest continued robust growth in the algorithmic trading market, bolstered by increased participation from both institutional and retail investors. A report by MarketsandMarkets estimates that the algorithmic trading market is expected to grow from USD 11.1 billion in 2019 to USD 18.8 billion by 2024, at a compound annual growth rate (CAGR) of 11.1%[^1^].
+The future of algorithmic trading holds significant potential, driven by advancements in technology and expanding market interest. Forecasts suggest continued robust growth in the algorithmic trading market, bolstered by increased participation from both institutional and retail investors. A report by MarketsandMarkets estimates that the algorithmic trading market is expected to grow from USD 11.1 billion in 2019 to USD 18.8 billion by 2024, at a compound annual growth rate (CAGR) of 11.1%.
 
 Emerging technologies, particularly blockchain, are poised to revolutionize algorithmic trading. Blockchain technology offers traceability, transparency, and enhanced security, which are critical in maintaining the integrity of financial transactions. By leveraging smart contracts on blockchain, trades can be executed automatically when predetermined conditions are met, thereby increasing efficiency and reducing the potential for human error. Furthermore, blockchain's decentralized nature can mitigate risks associated with single points of failure, offering a more resilient trading infrastructure.
 
@@ -109,8 +109,6 @@ Artificial Intelligence (AI) and Machine Learning (ML) are expected to further r
 As algorithmic trading becomes more sophisticated, its adoption across various asset classes is likely to expand. Beyond equities and foreign exchange, where algorithmic trading is already prevalent, there is growing interest in applying these strategies to commodities, cryptocurrencies, and other financial instruments. This broadening scope enables traders to diversify portfolios and hedge against risks across different markets.
 
 In conclusion, the future landscape of algorithmic trading is promising, characterized by technological innovations and greater market penetration. As these trends continue, algorithmic trading is expected to play an increasingly vital role in the global financial ecosystem, offering enhanced efficiency, transparency, and profitability.
-
-[^1^]: [MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/algorithmic-trading-market-251304201.html)
 
 
 ## Conclusion

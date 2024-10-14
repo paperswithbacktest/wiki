@@ -89,7 +89,7 @@ Arbitrageurs involved in risk arbitrage strategies must be vigilant about variou
 
 **Deal Amendments:** Amendments to deal terms, such as adjusted offer prices or revised payment structures, can alter the risk-reward dynamics of an arbitrage position. Investors must quickly assess the new terms and decide whether to adjust their strategies accordingly.
 
-Market conditions also play a crucial role in determining risk arbitrage outcomes. During market downturns, [liquidity](/wiki/liquidity-risk-premium) constraints can exacerbate losses as more investors seek to exit their positions. Additionally, broader economic factors and sector-specific challenges can impact investor confidence and the perceived viability of pending mergers and acquisitions.
+Market conditions also play a crucial role in determining risk arbitrage outcomes. During market downturns, [liquidity](/wiki/liquidity-risk-premium) constraints can exacerbate losses as more investors seek to [exit](/wiki/exit-strategy) their positions. Additionally, broader economic factors and sector-specific challenges can impact investor confidence and the perceived viability of pending mergers and acquisitions.
 
 **Strategies to Manage Risks:**
 
@@ -110,7 +110,7 @@ Algorithmic trading has revolutionized risk arbitrage by allowing investors to e
 
 The primary advantage of [algorithmic trading](/wiki/algorithmic-trading) in risk arbitrage is its ability to swiftly react to market dynamics. Algorithms can continuously monitor market fluctuations and news events related to mergers, adjusting positions accordingly to capitalize on any discrepancies between the current market price of a target company's stock and the anticipated value post-merger. This speed and responsiveness would be impossible for manual traders to achieve.
 
-An example of algorithmic trading's power is its capacity to calculate the probability of a merger's success by analyzing historical data and key indicators. Algorithms assess factors such as market sentiment, regulatory hurdles, and economic conditions alongside the merger's specific attributes. These systems can be programmed to incorporate machine learning techniques, progressively enhancing their predictive accuracy over time.
+An example of algorithmic trading's power is its capacity to calculate the probability of a merger's success by analyzing historical data and key indicators. Algorithms assess factors such as market sentiment, regulatory hurdles, and economic conditions alongside the merger's specific attributes. These systems can be programmed to incorporate [machine learning](/wiki/machine-learning) techniques, progressively enhancing their predictive accuracy over time.
 
 Consider the following simplified Python code snippet illustrating a basic algorithmic trading strategy for risk arbitrage:
 

@@ -51,7 +51,7 @@ However, the brilliance of AI trading is not without its shadows. **Overfitting*
 
 ## AI Trading Strategies Explained
 
-AI trading strategies have evolved to capitalize on various market dynamics, employing advanced algorithms that can adapt to changing conditions. One such strategy is **quantitative [momentum](/wiki/momentum)**, which leverages statistical analysis to identify securities moving in a particular direction and capitalizes on the continuation of that movement. These algorithms analyze historical price data and market [volume](/wiki/volume-trading-strategy)s to pinpoint trends that are likely to persist, allowing traders to enter and exit positions at pivotal moments to maximize gains.
+AI trading strategies have evolved to capitalize on various market dynamics, employing advanced algorithms that can adapt to changing conditions. One such strategy is **quantitative [momentum](/wiki/momentum)**, which leverages statistical analysis to identify securities moving in a particular direction and capitalizes on the continuation of that movement. These algorithms analyze historical price data and market [volume](/wiki/volume-trading-strategy)s to pinpoint trends that are likely to persist, allowing traders to enter and [exit](/wiki/exit-strategy) positions at pivotal moments to maximize gains.
 
 Another cornerstone of AI trading is **mean reversion**, a strategy based on the assumption that prices and returns eventually move back towards the mean or average. This method is particularly effective in range-bound markets, where AI algorithms can detect deviations from a historical average price and trade on the expectation that prices will revert to that average over time.
 

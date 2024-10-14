@@ -23,7 +23,7 @@ By leveraging advanced quantitative finance strategies, the company has managed 
 
 ## Algorithmic Trading: Lingjun's Core Strength
 
-Algorithmic trading is at the core of Lingjun Investment's strategy, utilizing advanced mathematical models and algorithms for high-speed financial decision-making. Lingjun sets itself apart with its robust quantitative finance strategies, ensuring agility and precision in its trading operations. These strategies typically involve statistical [arbitrage](/wiki/arbitrage), trend-following, and market-making activities, supported by data-driven insights and machine learning techniques.
+Algorithmic trading is at the core of Lingjun Investment's strategy, utilizing advanced mathematical models and algorithms for high-speed financial decision-making. Lingjun sets itself apart with its robust quantitative finance strategies, ensuring agility and precision in its trading operations. These strategies typically involve statistical [arbitrage](/wiki/arbitrage), trend-following, and market-making activities, supported by data-driven insights and [machine learning](/wiki/machine-learning) techniques.
 
 The leadership of the firm, particularly Chief Investment Officer (CIO) Ma Zhiyu, is instrumental in steering these [algorithmic trading](/wiki/algorithmic-trading) initiatives. Ma brings a wealth of expertise to the table, with a background that includes experience at globally recognized firms, which have honed his proficiency in quantitative approaches and risk management. This diverse experience enables Lingjun to continually refine its algorithms and adapt to market changes efficiently.
 

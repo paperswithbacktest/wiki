@@ -52,7 +52,7 @@ where $\Delta P$ is the change in price caused by the trade, and $V$ is the volu
 
 Trading volume and turnover are closely related to market liquidity. Trading volume refers to the number of shares or contracts traded in a given period, while turnover is the trading volume relative to the total number of shares available in the market. High trading volumes typically indicate high liquidity, meaning that the market can absorb trades without substantial price changes. Consequently, lower market impact costs generally occur in markets with high liquidity.
 
-Measuring market impact is crucial for trading strategies as it influences decision-making in market entry and exit. Understanding and predicting market impact allows traders to optimize order execution and reduce transaction costs. For instance, large orders can be split into smaller trades to minimize the impact on market prices, a strategy known as "order slicing".
+Measuring market impact is crucial for trading strategies as it influences decision-making in market entry and [exit](/wiki/exit-strategy). Understanding and predicting market impact allows traders to optimize order execution and reduce transaction costs. For instance, large orders can be split into smaller trades to minimize the impact on market prices, a strategy known as "order slicing".
 
 Implementing such strategies not only helps manage execution risks but also aids in maintaining the desired risk-return profile. High-frequency traders and algorithmic trading systems often incorporate these market impact measures to enhance their models' efficiency and accuracy, ultimately striving for more profitable trading outcomes.
 
@@ -107,7 +107,7 @@ One effective approach is pacing trades and staying under daily turnover thresho
 
 Algorithmic trading strategies play a pivotal role in managing and predicting market impact. Algorithms can be designed to execute trades based on historical data and real-time market conditions, adapting dynamically to minimize impact. Popular algorithms, such as VWAP (Volume Weighted Average Price) and TWAP (Time Weighted Average Price), are employed to ensure that trades are conducted at prices consistent with the average over a specified period, reducing the possibility of executing all trades at sub-optimal prices that heighten market impact.
 
-For instance, an algorithm can identify patterns in [order book](/wiki/order-book-trading-strategies) dynamics and liquidity shifts, leveraging complex models like machine learning and statistical analytics. Traders can backtest these strategies to refine their effectiveness under different market scenarios, iterating upon the algorithm to adapt to new market conditions and maintain a minimal market impact.
+For instance, an algorithm can identify patterns in [order book](/wiki/order-book-trading-strategies) dynamics and liquidity shifts, leveraging complex models like [machine learning](/wiki/machine-learning) and statistical analytics. Traders can backtest these strategies to refine their effectiveness under different market scenarios, iterating upon the algorithm to adapt to new market conditions and maintain a minimal market impact.
 
 By employing these strategies, traders can effectively navigate the complexities of executing large trades while minimizing their influence on market prices, thereby preserving asset value and maximizing returns.
 

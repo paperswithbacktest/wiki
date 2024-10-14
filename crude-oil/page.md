@@ -272,7 +272,7 @@ This depends on your market analysis and which crude oil type aligns with your t
 
 **How important is technical analysis in crude oil trading?**
 
-Technical analysis is a crucial tool, especially for short-term trading strategies. It helps in identifying trends, chart patterns, and potential entry and exit points. However, it should be used alongside fundamental analysis for a comprehensive market view.
+Technical analysis is a crucial tool, especially for short-term trading strategies. It helps in identifying trends, chart patterns, and potential entry and [exit](/wiki/exit-strategy) points. However, it should be used alongside fundamental analysis for a comprehensive market view.
 
 **Can I trade crude oil without owning the physical commodity?**
 

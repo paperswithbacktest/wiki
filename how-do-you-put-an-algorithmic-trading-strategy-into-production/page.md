@@ -164,7 +164,7 @@ By diligently setting up efficient data collection and trade execution systems, 
 
 ## Implementing Risk Management and Monitoring Systems
 
-Integrating risk management tools is a crucial step in deploying algorithmic trading strategies to manage exposure effectively and mitigate potential losses. These tools are designed to control various types of risks, such as market risk, credit risk, and operational risk, using models and algorithms to assess and limit exposure. Key components include stop-loss limits, value-at-risk (VaR) models, and stress testing protocols. Stop-loss limits automatically exit positions at predetermined loss points to minimize downside risk. Here’s a simple Python code snippet illustrating a stop-loss function:
+Integrating risk management tools is a crucial step in deploying algorithmic trading strategies to manage exposure effectively and mitigate potential losses. These tools are designed to control various types of risks, such as market risk, credit risk, and operational risk, using models and algorithms to assess and limit exposure. Key components include stop-loss limits, value-at-risk (VaR) models, and stress testing protocols. Stop-loss limits automatically [exit](/wiki/exit-strategy) positions at predetermined loss points to minimize downside risk. Here’s a simple Python code snippet illustrating a stop-loss function:
 
 ```python
 def apply_stop_loss(entry_price, current_price, stop_loss_percentage):

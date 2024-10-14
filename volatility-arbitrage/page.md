@@ -64,7 +64,7 @@ This code snippet demonstrates how traders might calculate the necessary stock a
 Volatility arbitrage is a sophisticated trading strategy that hinges on forecasting volatility to capitalize on discrepancies between implied and realized volatility. Here's how traders execute this strategy and maintain efficiency through continuous re-hedging.
 
 ### Forecasting Volatility
-Forecasting volatility is a critical step in volatility arbitrage. Traders often rely on historical data, econometric models, and advanced algorithmic techniques to predict future volatility. Popular models include GARCH (Generalized Autoregressive Conditional Heteroskedasticity) and its variants, which provide a framework for forecasting future volatility based on past variances. Moreover, machine learning algorithms are increasingly being used to detect patterns and forecast volatility with higher precision.
+Forecasting volatility is a critical step in volatility arbitrage. Traders often rely on historical data, econometric models, and advanced algorithmic techniques to predict future volatility. Popular models include GARCH (Generalized Autoregressive Conditional Heteroskedasticity) and its variants, which provide a framework for forecasting future volatility based on past variances. Moreover, [machine learning](/wiki/machine-learning) algorithms are increasingly being used to detect patterns and forecast volatility with higher precision.
 
 #### Example of a Simple GARCH Model in Python:
 ```python
