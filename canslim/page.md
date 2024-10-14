@@ -196,3 +196,18 @@ To code CANSLIM trading algorithms, one can start with resources such as online 
 Several platforms provide robust tools for backtesting CANSLIM-based strategies. QuantConnect is popular for its extensive library and community support for Python and C# users. TradingView offers a user-friendly interface with Pine Script for observing historical performance. MetaTrader, primarily used for [forex](/wiki/forex-system) and CFDs, also supports backtesting with MQL5. Additionally, NinjaTrader focuses on futures and provides advanced backtesting and simulation features, ideal for implementing CANSLIM criteria.
 
 
+
+
+## References & Further Reading
+
+[1]: O'Neil, W. J. (2009). ["How to Make Money in Stocks: A Winning System in Good Times and Bad, Fourth Edition"](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/0071614133). McGraw-Hill Education.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[3]: Aronson, D. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741). Wiley.
+
+[4]: Jansen, S. (2018). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715). Packt Publishing.
+
+[5]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.
+
+[6]: Pring, M. J. (2002). ["Technical Analysis Explained: The Successful Investor's Guide to Spotting Investment Trends and Turning Points"](https://www.amazon.com/Technical-Analysis-Explained-Fifth-Successful/dp/0071825177). McGraw-Hill Education.

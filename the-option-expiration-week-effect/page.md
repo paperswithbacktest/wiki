@@ -178,3 +178,16 @@ Continuous refinement of these strategies, grounded in rigorous backtesting, is 
 In summary, while OPEX week presents complexities, it also offers significant trading opportunities. By understanding the expiration dynamics and continuously refining algorithmic strategies, traders can navigate these volatile periods effectively, translating predictable patterns into tangible gains.
 
 
+
+
+## References & Further Reading
+
+[1]: Stoll, H. R., & Whaley, R. E. (1987). ["Program Trading and Expiration Day Effects."](https://www.jstor.org/stable/pdf/4479013.pdf) Financial Analysts Journal, 43(2).
+
+[2]: Options, Futures, and Other Derivatives by John C. Hull.
+
+[3]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado.
+
+[4]: ["Trading and Exchanges: Market Microstructure for Practitioners"](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) by Larry Harris.
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan.

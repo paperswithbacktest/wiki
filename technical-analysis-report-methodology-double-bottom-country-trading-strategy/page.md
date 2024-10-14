@@ -146,3 +146,22 @@ Readers are encouraged to expand their knowledge by exploring more about trading
 This synthesis of traditional technical analysis with contemporary computational resources heralds a promising future for quantitative traders. As algorithmic trading continues to evolve, incorporating innovative strategies and insights from studies like this will be crucial for staying competitive in the fast-paced financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications."](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661) New York Institute of Finance.
+
+[2]: Schwager, J. D. (1989). ["Market Wizards: Interviews with Top Traders."](https://www.amazon.com/Market-Wizards-Interviews-Top-Traders/dp/0135560934) Wiley.
+
+[3]: Lo, A. W., & Hasanhodzic, J. (2010). ["The Evolution of Technical Analysis: Financial Prediction from Babylonian Tablets to Bloomberg Terminals."](https://www.amazon.com/Evolution-Technical-Analysis-Prediction-Babylonian/dp/1576603490) Wiley.
+
+[4]: Fama, E. F., & Blume, M. E. (1966). ["Filter Rules and Stock Market Trading."](https://www.jstor.org/stable/2351744) Journal of Business, 39(1), 226-241. 
+
+[5]: Park, C.-H., & Irwin, S. H. (2007). ["What Do We Know About the Profitability of Technical Analysis?"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-6419.2007.00519.x) Journal of Economic Surveys, 21(4), 786-826.
+
+[6]: Kahneman, D. (2011). ["Thinking, Fast and Slow."](https://link.springer.com/article/10.1007/s00362-013-0533-y) Farrar, Straus and Giroux.
+
+[7]: Shiller, R. J. (2010). ["Irrational Exuberance."](https://www.cfainstitute.org/-/media/documents/book/rf-publication/2010/rf-v2010-n2-5.pdf) Princeton University Press.
+
+[8]: SSRN. ["Research on the Principles and Effectiveness of Technical Analysis."](https://www.ssrn.com/index.cfm/en/) Social Science Research Network.

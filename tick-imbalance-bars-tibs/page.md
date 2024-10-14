@@ -200,3 +200,16 @@ However, implementing tick imbalance bars is not without its challenges. Setting
 Further research and development in this area may lead to even more advanced methods of constructing and utilizing imbalance bars. Potential areas of exploration include refining the threshold calculation processes, incorporating machine learning techniques to optimize sampling, and extending the concept to other types of financial data, such as volume and dollar exchanges. As these advancements unfold, tick imbalance bars could become a key component in the toolkit of algorithmic traders, providing deeper insights and improved performance across diverse trading scenarios.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[5]: Bouchaud, J.P., Farmer, J.D., & Lillo, F. (2008). ["How markets slowly digest changes in supply and demand."](https://arxiv.org/abs/0809.0822) Handbook of Financial Markets: Dynamics and Evolution.

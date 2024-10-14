@@ -118,3 +118,16 @@ Continuous analysis of drawdowns allows traders to optimize their algorithmic sy
 In summary, incorporating drawdown metrics into algorithmic trading practices is crucial for maintaining a competitive edge. It ensures not only the preservation of capital but also the potential for sustainable growth in an ever-evolving financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Tharp, V. K. (2008). ["Trade Your Way to Financial Freedom"](https://www.amazon.com/Trade-Your-Way-Financial-Freedom/dp/007147871X). McGraw-Hill Education.
+
+[2]: Katz, J. O., & McCormick, D. L. (2000). ["The Encyclopedia of Trading Strategies"](https://www.amazon.com/Encyclopedia-Trading-Strategies-Jeffrey-Ph-D/dp/0070580995). McGraw-Hill.
+
+[3]: Malkiel, B. G. (2016). ["A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing"](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338). W. W. Norton & Company.
+
+[4]: Hull, J. C. (2018). ["Options, Futures, and Other Derivatives"](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/finance/Options-Futures-and-Other-Derivatives-Hull.html). Pearson.
+
+[5]: Carver, R. (2019). ["Systematic Trading: A Unique New Method for Designing Trading and Investing Systems"](https://www.amazon.com/Systematic-Trading-designing-trading-investing/dp/0857194453). Harriman House.

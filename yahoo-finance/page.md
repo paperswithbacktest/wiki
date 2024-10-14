@@ -238,3 +238,26 @@ While Yahoo Finance offers significant advantages, there are inherent challenges
 Ultimately, the choice of a financial data source should align with the trader's particular objectives, strategies, and risk tolerance. By carefully evaluating the benefits and limitations of each platform, traders can effectively harness these resources to enhance their algorithmic trading capabilities and achieve their financial goals.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Yahoo Finance API (Unofficial) Documentation"](https://algotrading101.com/learn/yahoo-finance-api-guide/)
+
+[2]: ["yfinance - an open-source library for accessing Yahoo Finance data"](https://algotrading101.com/learn/yfinance-guide/)
+
+[3]: ["RapidAPI's Yahoo Finance API"](https://rapidapi.com/blog/blog/how-to-use-the-yahoo-finance-api/)
+
+[4]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://books.google.com/books/about/Advances_in_Financial_Machine_Learning.html?id=oU9KDwAAQBAJ) Wiley.
+
+[5]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[6]: ["Alpha Vantage API Documentation"](https://www.alphavantage.co/documentation/)
+
+[7]: ["Polygon.io Documentation"](https://polygon.io/docs/stocks)
+
+[8]: ["IEX Cloud API Documentation"](https://iexcloud.io/docs/core/fundamentals)
+
+[9]: Jansen, S. (2018). ["Machine Learning for Algorithmic Trading."](https://www.amazon.com/Hands-Machine-Learning-Algorithmic-Trading/dp/178934641X) Packt Publishing.
+
+[10]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) Wiley.

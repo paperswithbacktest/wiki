@@ -211,3 +211,26 @@ For those interested in furthering their understanding of R in the context of fi
 These resources provide a solid framework for mastering R in the financial sector, supporting both beginners and advanced practitioners in their journey toward effective quantitative finance and algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Mordor Intelligence, "Algorithmic Trading Market - Growth, Trends, COVID-19 Impact, and Forecasts (2023)," accessed September, 2023.
+
+[2]: Georgakopoulos, Harry. ["Quantitative Trading with R"](https://www.amazon.com/Quantitative-Trading-Understanding-Mathematical-Computational/dp/1137354070). Palgrave Macmillan, 2015.
+
+[3]: Wuertz, Diethelm, and Yohan Chalabi. ["R for Finance"](https://www.rmetrics.org/ebooks-basicr). Springer, 2016.
+
+[4]: Peng, Roger D. ["R Programming for Data Science"](https://bookdown.org/rdpeng/rprogdatascience/). Leanpub, 2015.
+
+[5]: Quantmod: Quantitative Financial Modelling Framework, available at [CRAN](https://cran.r-project.org/web/packages/quantmod/index.html).
+
+[6]: TTR: Technical Trading Rules, available at [CRAN](https://cran.r-project.org/web/packages/TTR/index.html).
+
+[7]: PerformanceAnalytics: Econometric Tools for Performance and Risk Analysis, available at [CRAN](https://rdrr.io/cran/PerformanceAnalytics/).
+
+[8]: Quandl.com for financial, economic, and alternative datasets accessible via R.
+
+[9]: Alpha Vantage API for real-time and historical market data, [Alpha Vantage](https://www.alphavantage.co/documentation/).
+
+[10]: Yahoo Finance data accessed using the quantmod package, documentation available at [quantmod package](https://www.youtube.com/watch?v=KcTWf9wLOUE).

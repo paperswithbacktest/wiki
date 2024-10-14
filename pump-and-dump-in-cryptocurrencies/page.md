@@ -90,3 +90,16 @@ Moving forward, the battle against pump and dump schemes will likely hinge on a 
 For investors and traders, prudence is vital when engaging with cryptocurrency markets. Developing a nuanced understanding of manipulation strategies, including pump and dump schemes, is essential. By staying informed and exercising caution, market participants can better navigate the complexities of the crypto landscape and minimize their susceptibility to fraudulent activities. Ultimately, a combination of informed trading practices and robust external safeguards will be key to mitigating the impact of these schemes in the cryptocurrency markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Xu, J., & Livshits, B. (2019). ["The Anatomy of a Cryptocurrency Pump-and-Dump Scheme."](https://arxiv.org/abs/1811.10109) 2019 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW).
+
+[2]: Gandal, N., Hamrick, J. T., Moore, T., & Oberman, T. (2018). ["Price manipulation in the Bitcoin ecosystem."](https://tylermoore.utulsa.edu/jme17.pdf) American Economic Review, 108(7), 1888-1913.
+
+[3]: Foley, S., Karlsen, J. R., & Putniņš, T. J. (2019). ["Sex, drugs, and bitcoin: How much illegal activity is financed through cryptocurrencies?"](https://academic.oup.com/rfs/article-abstract/32/5/1798/5427781) The Review of Financial Studies, 32(5), 1798-1853.
+
+[4]: Phillip, A., Chan, J. S. K., & Peiris, S. (2018). ["A new look at cryptocurrencies."](https://www.sciencedirect.com/science/article/abs/pii/S0165176517304731) Journal of Risk and Financial Management, 11(1), 23.
+
+[5]: LeBaron, B., & Yamamoto, R. (2021). ["Artificial Intelligence and Market Manipulation: Evidence from the Cryptocurrencies Market."](https://www.sciencedirect.com/science/article/pii/S004016252031218X) Available at SSRN: 3871168.

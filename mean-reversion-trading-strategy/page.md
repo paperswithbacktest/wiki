@@ -371,3 +371,20 @@ This script downloads historical closing prices for Apple Inc. (AAPL) and calcul
 By understanding these fundamentals, traders can better leverage mean reversion strategies in their trading practice.
 
 
+
+
+## References & Further Reading
+
+[1]: Ang, A., & Bekaert, G. (2002). ["International Asset Allocation with Time-Varying Correlations."](https://www.nber.org/papers/w7056) The Review of Financial Studies, 15(4), 1137-1187.
+
+[2]: Brock, W., Lakonishok, J., & LeBaron, B. (1992). ["Simple Technical Trading Rules and the Stochastic Properties of Stock Returns."](https://www.jstor.org/stable/2328994) The Journal of Finance, 47(5), 1731-1764.
+
+[3]: Lo, A. W., & MacKinlay, A. C. (1988). ["Stock Market Prices Do Not Follow Random Walks: Evidence from a Simple Specification Test."](https://academic.oup.com/rfs/article-abstract/1/1/41/1601244) The Review of Financial Studies, 1(1), 41-66.
+
+[4]: Granger, C. W. J., & Engle, R. F. (1987). ["Cointegration and Error Correction: Representation, Estimation, and Testing."](https://www.jstor.org/stable/1913236?read-now=1) Econometrica, 55(2), 251-276.
+
+[5]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[6]: Prado, M. L. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[7]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315) Wiley.

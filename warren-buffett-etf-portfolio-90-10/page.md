@@ -230,3 +230,18 @@ Investors are encouraged to weigh the long-term benefits of this hybrid approach
 In conclusion, the synthesis of Buffett's enduring investment principles with the agility of algorithmic trading presents a novel frontier for portfolio management. While it promises substantial opportunities, investors must remain vigilant and prudent, acknowledging both the promise of technological integration and the complexities it introduces.
 
 
+
+
+## References & Further Reading
+
+[1]: Bogle, J. C. (1999). ["Common Sense on Mutual Funds: New Imperatives for the Intelligent Investor"](https://www.amazon.com/Common-Sense-Mutual-Funds-Imperatives/dp/0471392286). John Wiley & Sons.
+
+[2]: Graham, B. (1949). ["The Intelligent Investor: The Definitive Book on Value Investing"](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661). Harper Business.
+
+[3]: Malkiel, B. G. (2015). ["A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing"](https://www.academia.edu/10850809/A_Random_Walk_Down_Wall_Street_The_Time_Tested_Strategy_for_Successful_Investing). W. W. Norton & Company.
+
+[4]: ["Investing in ETFs: The Essential Guide"](https://www.fool.com/investing/how-to-invest/etfs/) by CFA Institute Research Foundation
+
+[5]: Lo, A. W., & MacKinlay, A. C. (1999). ["A Non-Random Walk Down Wall Street"](https://www.jstor.org/stable/j.ctt7tccx). Princeton University Press.
+
+[6]: ["The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns"](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509) by John C. Bogle

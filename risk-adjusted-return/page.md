@@ -287,3 +287,22 @@ As financial markets continue to evolve, influenced by technological advancement
 In summary, the dynamic nature of markets necessitates a proactive approach to evaluating and improving trading strategies, ensuring that they remain effective under varying market conditions. By prioritizing risk-adjusted returns, investors can better achieve their financial goals with balanced risk and reward, setting the stage for future success in increasingly complex trading environments.
 
 
+
+
+## References & Further Reading
+
+[1]: Sharpe, W. F. (1966). ["Mutual Fund Performance"](http://www.stat.ucla.edu/~nchristo/statistics_c183_c283/sharpe__mutual_fund_performance.pdf). Journal of Business, 39(1), 119-138.
+
+[2]: Treynor, J. L. (1965). ["How to Rate Management of Investment Funds."](https://onlinelibrary.wiley.com/doi/10.1002/9781119196679.ch10) Harvard Business Review, 43, 63-75.
+
+[3]: Jensen, M. C. (1968). ["The Performance of Mutual Funds in the Period 1945–1964"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1968.tb00815.x). Journal of Finance, 23(2), 389-416.
+
+[4]: Sortino, F. A., & van der Meer, R. (1991). ["Downside Risk"](https://research.rug.nl/en/publications/downside-risk-capturing-whats-at-stake-in-investment-situations). Journal of Portfolio Management, 17(4), 27-31.
+
+[5]: Markowitz, H. (1952). ["Portfolio Selection"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1952.tb01525.x). The Journal of Finance, 7(1), 77-91.
+
+[6]: Grinold, R. C., & Kahn, R. N. (2000). ["Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk"](https://www.amazon.com/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826)
+
+[7]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[8]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.

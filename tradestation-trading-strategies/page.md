@@ -218,3 +218,18 @@ TradeStation encourages an iterative trading approach, fostering continuous lear
 In a dynamic and rapidly evolving financial landscape, staying informed about new advancements and consistently optimizing strategies with robust platforms like TradeStation is crucial for achieving sustained success. As market conditions change, the adaptive tools within TradeStation support traders in maintaining a competitive edge, ensuring their approaches remain viable and profitable. Engaging with the platform's features allows traders to respond adeptly to market shifts, thus safeguarding their trading endeavors against obsolescence and maintaining relevance in the marketplace.
 
 
+
+
+## References & Further Reading
+
+[1]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741). John Wiley & Sons, Inc.
+
+[2]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley Trading.
+
+[3]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python, 2nd Edition"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715). Packt Publishing.
+
+[4]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://books.google.com/books/about/Advances_in_Financial_Machine_Learning.html?id=oU9KDwAAQBAJ). Wiley.
+
+[5]: Pardo, R. (2008). ["The Evaluation and Optimization of Trading Strategies"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969). Wiley Trading.
+
+[6]: Pardo, R. (2011). ["Design, Testing, and Optimization of Trading Systems"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969). Wiley Trading.

@@ -99,3 +99,16 @@ Additionally, advancements in portfolio [backtesting](/wiki/backtesting) and opt
 For practical applications, consider experimenting with Python libraries such as TensorFlow for [neural network](/wiki/neural-network) models or PyPortfolioOpt for portfolio optimization to explore how modern computational tools can provide insights into market behaviors and risks. Understanding the mathematical and computational advancements since 2007 can provide valuable tools for developing resilient trading strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Khandani, A. E., & Lo, A. W. (2011). ["What Happened to the Quants in August 2007?"](https://www.nber.org/papers/w14465) Journal of Financial Markets, 14(1), 1-46.
+
+[2]: Buttonwood (2007, September 6). ["The blow-up: When quants from top-notch firms get a hiding, the damage to their reputation is serious."](https://www.princeton.edu/~markus/misc/MediaMention/Buttonwood%20_%20Economist.pdf) The Economist.
+
+[3]: Narang, R. (2009). ["Inside the Black Box: The Simple Truth About Quantitative Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267738) Wiley.
+
+[4]: Derman, E. (2011). ["Models.Behaving.Badly: Why Confusing Illusion with Reality Can Lead to Disaster, on Wall Street and in Life."](https://www.amazon.com/Models-Behaving-Badly-Confusing-Illusion-Reality-Disaster/dp/1439164991) Free Press.
+
+[5]: Patterson, S. (2010). ["The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It."](https://www.amazon.com/Quants-Whizzes-Conquered-Street-Destroyed/dp/0307453383) Crown Business.

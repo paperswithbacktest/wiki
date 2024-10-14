@@ -134,3 +134,22 @@ In the context of contemporary trading, especially algorithmic trading, integrat
 Given the swift pace of technological advancements and regulatory changes, understanding and leveraging Metcalfe's Law offers traders a strategic edge. It promotes an adaptive strategy foundation, where innovative models that utilize both network data and traditional evaluation instruments are pivotal. Moving forward, embracing a hybrid strategy that amalgamates conventional approaches with novel network-driven insights is likely to enhance decision-making and investment outcomes in the Bitcoin market.
 
 
+
+
+## References & Further Reading
+
+[1]: Metcalfe, Robert M. (1995). ["Metcalfe's Law: A network becomes more valuable as it reaches more users."](http://ctlj.colorado.edu/wp-content/uploads/2015/12/v2.Final-Yoo-11.25.15-JRD.pdf) Omni Magazine, Vol 17, No. 9.
+
+[2]: Nakamoto, Satoshi. (2008). ["Bitcoin: A Peer-to-Peer Electronic Cash System."](https://nakamotoinstitute.org/library/bitcoin/) Bitcoin.org.
+
+[3]: Croman, K., Decker, C., Eyal, I., Gencer, A. E., Juels, A., Kosba, A., Miller, A., Saxena, P., Shi, E., Sirer, E. G., Song, D., & Wattenhofer, R. (2016). ["On Scaling Decentralized Blockchains."](https://experts.illinois.edu/en/publications/on-scaling-decentralized-blockchains-a-position-paper) Financial Cryptography and Data Security.
+
+[4]: Biais, B., Bisière, C., Bouvard, M., & Casamatta, C. (2019). ["The Blockchain Folk Theorem"](https://academic.oup.com/rfs/article/32/5/1662/5427771). The Review of Financial Studies, 32(5), 1662-1715.
+
+[5]: Huberman, Gur, Jacob Leshno, and Ciamac Moallemi. (2019). ["Monopoly Without a Monopolist: An Economic Analysis of the Bitcoin Payment System."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3025604) Columbia Business School Research Paper.
+
+[6]: Jansen, Stefan. (2020). ["Machine Learning for Algorithmic Trading, Second Edition: Predictive models to extract signals from market and alternative data."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing. 
+
+[7]: Lopez de Prado, Marcos. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) John Wiley & Sons.
+
+[8]: Chan, Ernest P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) John Wiley & Sons.

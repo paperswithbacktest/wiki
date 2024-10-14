@@ -102,3 +102,16 @@ The importance of tools like Alphacet Discovery is evident in their ability to s
 Looking towards the potential evolution of this technology, the future appears promising. As the trading landscape becomes increasingly dominated by machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence), platforms that can seamlessly integrate these technologies will be indispensable. Alphacet Discovery's capacity for real-time machine learning application signals its alignment with this trend, suggesting it will remain relevant and influential as the technology matures. By continually enhancing its features to accommodate emerging needs, Alphacet is poised to sustain its impact on the industry, supporting the next wave of innovation in algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2986459.2986743) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
