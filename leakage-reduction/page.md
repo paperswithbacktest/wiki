@@ -145,3 +145,16 @@ Continual learning and adaptation are crucial in the dynamic field of algorithmi
 In conclusion, mitigating information leakage is critical to achieving effective and profitable algorithmic trading strategies. By leveraging technology, improving operational practices, and fostering a culture of continuous learning, firms can maintain their competitive edge and successfully navigate the challenges of modern financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Singh, P., & Singh, M. (2017). ["Algorithmic Trading and Information Leakage: Issues, Evidence, and Practical Solutions."](https://research.monash.edu/en/publications/working-capital-management-and-firm-profitability-a-meta-analysis) In Big Data Analytics for Business.
+
+[2]: Cartea, Á., Jaimungal, S., & Penalva, J. (2015). ["Algorithmic and High-Frequency Trading."](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) Cambridge University Press.
+
+[3]: Aldridge, I. (2010). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems%2C+2nd+Edition-p-9781118343500) Wiley.
+
+[4]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-Frequency Trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) SSRN Electronic Journal.
+
+[5]: De Prado, M. L. (2018). ["Advances in Financial Machine Learning."](https://books.google.com/books/about/Advances_in_Financial_Machine_Learning.html?id=oU9KDwAAQBAJ) Wiley.

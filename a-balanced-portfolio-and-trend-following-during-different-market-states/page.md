@@ -192,3 +192,16 @@ The ability to consider historical data and previous market cycles provides valu
 Looking forward, upcoming articles will explore out-of-sample market cycle analyses and the application of real-time strategic adjustments. These investigations aim to enhance adaptive strategies further, offering insights for investors seeking to navigate future uncertainties effectively. The knowledge gained from both in-sample and out-of-sample analyses will be instrumental for developing more robust investment frameworks that can withstand diverse economic landscapes.
 
 
+
+
+## References & Further Reading
+
+[1]: ["The Myth of the Rational Market: A History of Risk, Reward, and Delusion on Wall Street"](https://www.amazon.com/Myth-Rational-Market-History-Delusion/dp/0060599030) by Justin Fox
+
+[2]: Asness, C. S., Krail, R. J., & Liew, J. M. (2001). ["Do Hedge Funds Hedge?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=252810) The Journal of Portfolio Management, 29(1), 6-19.
+
+[3]: Fama, E. F., & French, K. R. (1993). ["Common Risk Factors in the Returns on Stocks and Bonds."](https://people.hec.edu/rosu/wp-content/uploads/sites/43/2023/09/Fama-French-Common-risk-factors-1993.pdf) Journal of Financial Economics, 33(1), 3-56.
+
+[4]: Jegadeesh, N., & Titman, S. (1993). ["Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1993.tb04702.x) Journal of Finance, 48(1), 65-91.
+
+[5]: Moskowitz, T. J., Ooi, Y. H., & Pedersen, L. H. (2012). ["Time Series Momentum."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2089463) Journal of Financial Economics, 104(2), 228-250.

@@ -160,3 +160,16 @@ There remains vast potential for further research and exploration of Itô's Lemm
 As algorithmic trading continues to advance, the confluence of mathematical innovations, technological advancements, and market dynamics will perpetually redefine the nature of financial interactions. Itô's Lemma, alongside emerging mathematical insights, will undoubtedly shape the direction of future financial innovations, reinforcing the indispensable role of stochastic calculus in the ever-evolving field of algorithmic trading. Encouraging ongoing research and development in this area will be crucial for realizing the full potential of these sophisticated financial models and tools.
 
 
+
+
+## References & Further Reading
+
+[1]: Øksendal, B. (2003). ["Stochastic Differential Equations: An Introduction with Applications."](https://link.springer.com/book/10.1007/978-3-642-14394-6) Springer.
+
+[2]: Hull, J. C. (2018). ["Options, Futures, and Other Derivatives."](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/finance/Options-Futures-and-Other-Derivatives-Hull.html) Pearson.
+
+[3]: Shreve, S. E. (2004). ["Stochastic Calculus for Finance II: Continuous-Time Models."](https://link.springer.com/book/9780387401010) Springer.
+
+[4]: Merton, R. C. (1973). ["Theory of Rational Option Pricing."](https://www.semanticscholar.org/paper/Theory-of-Rational-Option-Pricing-Merton/f22256599cc513be281a2a82082d4bac7031def2) The Review of Economics and Statistics, 41(5), 141-183.
+
+[5]: Wilmott, P., Howison, S., & Dewynne, J. (1995). ["The Mathematics of Financial Derivatives: A Student Introduction."](https://www.cambridge.org/core/books/mathematics-of-financial-derivatives/7121345D07C5BCE4FBEC91A8A7E6F267) Cambridge University Press.

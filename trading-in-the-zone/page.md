@@ -135,3 +135,16 @@ Algo traders, by marrying discipline and psychology with their data-driven appro
 'Trading in the Zone' serves as a crucial reminder that at the heart of successful trading, even in quantitative domains, lies a well-conditioned mindset. It is a compelling testament to the fact that trading is not solely about numbers; it is a psychological endeavor where the trader’s mindset plays a pivotal role in achieving success. Embracing this holistic approach to trading leads to better outcomes, reinforcing the essential synergy between psychological awareness and technical analysis in algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Douglas, M. (2000). ["Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude."](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447) Prentice Hall Press.
+
+[2]: Jansen, S. (2018). ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading). Packt Publishing.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[4]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.
+
+[5]: Aronson, D. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.wiley.com/en-us/Evidence+Based+Technical+Analysis%3A+Applying+the+Scientific+Method+and+Statistical+Inference+to+Trading+Signals-p-9780470008744). Wiley.

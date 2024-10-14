@@ -223,3 +223,16 @@ Automation plays an increasingly significant role in modern financial markets, e
 Finally, it is crucial to adhere to ethical and regulatory standards when implementing algorithmic trading systems. As these technologies advance, traders must ensure that their strategies comply with applicable regulations and ethical guidelines. This adherence not only protects their investments but also contributes to the integrity and stability of the financial markets as a whole. By responsibly leveraging the capabilities of the FTX API, traders can optimize their trading outcomes while maintaining compliance with the necessary legal and ethical frameworks.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

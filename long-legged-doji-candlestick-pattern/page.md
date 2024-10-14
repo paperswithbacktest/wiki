@@ -205,3 +205,16 @@ In algorithmic trading, the long-legged doji finds its utility as part of a holi
 For future traders, thorough testing and modification of strategies involving the long-legged doji are essential. Backtesting, using historical data to simulate trading strategies, helps validate the effectiveness of incorporating the long-legged doji within a broader trading strategy. Traders should customize their algorithms and strategies to align with specific trading goals and varying market conditions, ensuring the effectiveness and robustness of their approaches in different market scenarios. This tailored optimization can help mitigate the inherent risks associated with relying solely on the indecisive nature of this pattern.
 
 
+
+
+## References & Further Reading
+
+[1]: Nison, S. (1991). ["Japanese Candlestick Charting Techniques: A Contemporary Guide to the Ancient Investment Techniques of the Far East."](https://www.amazon.com/Japanese-Candlestick-Charting-Techniques-Contemporary/dp/0139316507) New York Institute of Finance.
+
+[2]: Murphy, J.J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications."](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661) New York Institute of Finance.
+
+[3]: Pring, M.J. (2002). ["Technical Analysis Explained: The Successful Investor's Guide to Spotting Investment Trends and Turning Points."](https://www.amazon.com/Technical-Analysis-Explained-Fifth-Successful/dp/0071825177) McGraw-Hill.
+
+[4]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) John Wiley & Sons.
+
+[5]: Aronson, D.R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) John Wiley & Sons.

@@ -271,3 +271,16 @@ While uncorrelated strategies themselves are not a guarantee for higher returns,
 One of the main challenges of finding uncorrelated assets is that correlation between assets can change over time, particularly during periods of market stress when correlations tend to increase. This makes it difficult to maintain a consistent level of portfolio diversification. Additionally, implementing such assets in algorithmic strategies requires continuous monitoring and adjustment. Overfitting poses another significant challenge; relying too heavily on historical correlation data can lead to models that do not perform well in live markets. Constant adaptation, rigorous backtesting, and stress testing are necessary to ensure the robustness of uncorrelated strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2986459.2986743) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

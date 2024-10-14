@@ -112,3 +112,20 @@ The integration of right-tail tests into algorithmic trading strategies can lead
 As financial markets continue to evolve, right-tail unit-root tests will become increasingly important for maintaining a competitive edge. The ability to swiftly identify and respond to anomalies not only mitigates the risk associated with potential market bubbles but also capitalizes on opportunities for strategic gains. Consequently, the adoption of these methods is likely to expand, reinforcing their role in the development of resilient and adaptive trading systems.
 
 
+
+
+## References & Further Reading
+
+[1]: Phillips, P. C. B., & Shi, Z. (2018). ["Financial bubble implosion and reverse regression."](https://www.jstor.org/stable/26613585) Journal of Applied Econometrics, 33(3), 450-471.
+
+[2]: Philips, P. C. B., Shi, S., & Yu, J. (2015). ["Testing for multiple bubbles: Historical episodes of exuberance and collapse in the S&P 500."](http://korora.econ.yale.edu/phillips/pubs/art/p1498.pdf) International Economic Review, 56(4), 1043-1078.
+
+[3]: Homm, U., & Breitung, J. (2012). ["Testing for Speculative Bubbles in Stock Markets: A Comparison of Alternative Methods."](https://academic.oup.com/jfec/article-abstract/10/1/198/757787) Journal of Financial Econometrics, 10(1), 198-231.
+
+[4]: Bhargava, A. (1986). ["On the theory of testing for unit roots in observed time series."](https://www.jstor.org/stable/2297634) The Review of Economic Studies, 53(3), 369-384.
+
+[5]: Dickey, D. A., & Fuller, W. A. (1979). ["Distribution of the estimators for autoregressive time series with a unit root."](https://www.jstor.org/stable/pdf/2286348.pdf) Journal of the American Statistical Association, 74(366a), 427-431.
+
+[6]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[7]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) John Wiley & Sons.

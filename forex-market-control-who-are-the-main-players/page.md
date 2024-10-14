@@ -142,3 +142,18 @@ Algorithmic traders must comply with financial regulations that protect market i
 By understanding these elements, investors can optimize their engagement in algorithmic forex trading while mitigating potential risks. The dynamic nature of the forex market necessitates continuous monitoring and adaptation to sustain successful algorithmic trading strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Goodhart, C. A. E. (1988). ["The Foreign Exchange Market: A Random Walk with a Dragging Anchor"](https://www.semanticscholar.org/paper/The-Foreign-Exchange-Market%3A-A-Random-Walk-with-a-Goodhart/a3f6cd43b6eaf80220bd7fd60d16a3aed1871b37). Economica, New Series, Vol. 55, No. 220.
+
+[2]: "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson. (Available on [Amazon](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207))
+
+[3]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems-p-9780470579770). Wiley.
+
+[4]: Pojarliev, M., & Levich, R. M. (2012). ["A New Look at Currency Investing"](https://www.cfainstitute.org/-/media/documents/book/rf-publication/2012/rf-v2012-n4-1-pdf.pdf). Financial Analysts Journal, Vol. 68, No. 4.
+
+[5]: Treleaven, P., Galas, M., & Yoon, Y. (2013). ["Algorithmic Trading Review"](https://dl.acm.org/doi/pdf/10.1145/2500117). IET Software, Vol. 6, Issue 4.
+
+[6]: Chaboud, A. P., Chiquoine, B., Hjalmarsson, E., & Vega, C. (2014). ["Rise of the Machines: Algorithmic Trading in the Foreign Exchange Market"](https://www.jstor.org/stable/43612951). The Review of Financial Studies, Volume 27, Issue 7.

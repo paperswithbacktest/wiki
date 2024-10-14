@@ -214,3 +214,20 @@ For individuals interested in further expanding their understanding of algorithm
 These additional resources offer invaluable information for anyone delving into backtesting and developing resilient algorithmic trading strategies. Whether through educational courses, informative books, or interactive communities, traders can find the necessary tools to aid their trading journey.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://www.wiley.com/en-us/Algorithmic+Trading%3A+Winning+Strategies+and+Their+Rationale-p-9781118746912) by Ernest P. Chan
+
+[2]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[3]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos López de Prado
+
+[4]: ["Backtesting in Trading: A Practical Guide with Python"](https://algotrading101.com/learn/backtesting-py-guide/) by Jacques Joubert
+
+[5]: QuantConnect Community Guide. [QuantConnect](https://www.quantconnect.com/forum/)
+
+[6]: ["Backtesting Strategies and How to Manage Your Portfolio"](https://backtestgo.com/) by Investopedia
+
+[7]: ["Build Your Own Algorithmic Trading System"](https://www.youtube.com/watch?v=WBmJbVzBg64) by Kirill Eremenko, Hadelin de Ponteves, et al.

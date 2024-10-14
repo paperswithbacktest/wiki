@@ -179,3 +179,16 @@ Strategic recommendations for traders and investment managers include leveraging
 Looking ahead, algorithmic trading and portfolio management innovations will likely blur the distinctions between traditional strategies like the 60/40 portfolio and more aggressive tactics. The integration of [artificial intelligence](/wiki/ai-artificial-intelligence) and machine learning models will enable real-time analysis and adaptation of investment strategies. As technology advances, the adaptability of the 60/40 portfolio may increase, incorporating real-time data to shift allocations dynamically, while the S&P 500 firms may increasingly rely on machine learning to maximize returns during volatile periods. Overall, the evolving landscape of algorithmic trading suggests that both strategies can coexist, serving different investor profiles, and benefitting from technological tools that refine their execution and management over time.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

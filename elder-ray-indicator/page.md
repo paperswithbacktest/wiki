@@ -156,3 +156,16 @@ Can the Elder Ray be used for algo trading? Yes, the Elder Ray Indicator can be 
 What are the best practices in using Elder Ray? Employing the Elder Ray Indicator effectively involves combining it with other technical indicators to filter out false signals and enhance decision-making. Users should engage in thorough backtesting on historical data to evaluate the performance and reliability of the strategy before deploying it. This process helps fine-tune the parameters and adapt to various market conditions, thereby improving the accuracy and profitability of trading strategies based on the Elder Ray Indicator.
 
 
+
+
+## References & Further Reading
+
+[1]: Elder, A. (1993). ["Trading for a Living: Psychology, Trading Tactics, Money Management"](https://www.amazon.com/Trading-Living-Psychology-Tactics-Management/dp/0471592242). John Wiley & Sons.
+
+[2]: Elder, A. (2002). ["Come into My Trading Room: A Complete Guide to Trading"](https://www.amazon.com/Come-Into-My-Trading-Room/dp/0471225347). John Wiley & Sons.
+
+[3]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications"](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661). New York Institute of Finance.
+
+[4]: Pring, M. J. (2006). ["Technical Analysis Explained"](https://www.amazon.com/Technical-Analysis-Explained-Fifth-Successful/dp/0071825177). McGraw-Hill.
+
+[5]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741). John Wiley & Sons.

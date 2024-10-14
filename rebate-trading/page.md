@@ -155,3 +155,18 @@ Algorithmic strategies present an opportunity to enhance rebate trading's viabil
 Overall, rebate trading can be a valuable component of a well-rounded trading strategy, particularly for traders capable of managing high volumes and transactions efficiently. Nonetheless, it demands careful planning and continuous optimization to navigate the complexities of ECN fees and to maintain cost-effectiveness. As algorithmic trading continues to evolve, the integration of rebate trading into such strategies remains a promising, yet complex venture.
 
 
+
+
+## References & Further Reading
+
+[1]: Cumming, D., Johan, S., & Li, D. (2013). ["Exchange Trading Rules, Liquidity, and Volatility."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1328553) Journal of Financial Markets, 16(3), 419-437.
+
+[2]: Hasbrouck, J., & Saar, G. (2013). ["Low-latency trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1695460) The Review of Financial Studies, 26(9), 2374–2416.
+
+[3]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems%2C+2nd+Edition-p-9781118343500) John Wiley & Sons.
+
+[4]: Laruelle, S., & Lehalle, C. A. (2013). ["Market Microstructure in Practice."](http://helper.ipam.ucla.edu/publications/fmws2/fmws2_12928.pdf) World Scientific.
+
+[5]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://academic.oup.com/book/52292) Oxford University Press.
+
+[6]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-Frequency Trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) Business & Information Systems Engineering, 3(2), 105-108.

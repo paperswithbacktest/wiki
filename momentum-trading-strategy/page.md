@@ -186,3 +186,20 @@ Implementing momentum trading within an algorithmic framework provides traders w
 Looking forward, future advancements in data analysis and machine learning hold substantial promise for further enhancing the effectiveness of momentum strategies in algorithmic trading. Techniques such as [deep learning](/wiki/deep-learning), natural language processing, and advanced pattern recognition can potentially uncover deeper insights into market trends and sentiment, enabling the development of more sophisticated and adaptive trading algorithms. This continuous integration of technological advancements will likely redefine the landscape of momentum trading strategies, making them even more potent tools for achieving trading success.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Momentum"](https://sciencenotes.org/momentum-in-physics-definition-formula-examples/) - CFA Institute.
+
+[2]: Jegadeesh, N., & Titman, S. (1993). ["Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1993.tb04702.x) The Journal of Finance, 48(1), 65-91.
+
+[3]: J. H. Cochrane, (1999). ["New Facts in Finance."](https://www.nber.org/papers/w7169) Economic Perspectives, Federal Reserve Bank of Chicago.
+
+[4]: ["Advances in Financial Machine Learning"](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086) by Marcos Lopez de Prado
+
+[5]: ["Quantitative Momentum: A Practitioner's Guide to Building a Momentum-Based Stock Selection System"](https://books.google.com/books/about/Quantitative_Momentum.html?id=K2npCgAAQBAJ) by Wesley R. Gray and Jack R. Vogel
+
+[6]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://www.wiley.com/en-us/Algorithmic+Trading%3A+Winning+Strategies+and+Their+Rationale-p-9781118460146) by Ernest P. Chan
+
+[7]: ["Machine Learning for Asset Managers"](https://www.cambridge.org/core/elements/machine-learning-for-asset-managers/6D9211305EA2E425D33A9F38D0AE3545) by Marcos López de Prado

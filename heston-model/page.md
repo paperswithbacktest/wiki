@@ -289,3 +289,16 @@ Despite its complexities, the Heston model provides quantitative traders and fin
 Understanding and applying the Heston model's methodologies can significantly benefit traders, capturing the dynamic intricacies of financial markets and providing a competitive edge in developing robust trading strategies.
 
 
+
+
+## References & Further Reading
+
+[1]: Heston, S. L. (1993). ["A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options."](https://www.jstor.org/stable/2962057) The Review of Financial Studies, 6(2), 327-343.
+
+[2]: Gatheral, J. (2006). ["The Volatility Surface: A Practitioner's Guide."](https://www.wiley.com/en-us/The+Volatility+Surface%3A+A+Practitioner%27s+Guide-p-9780471792512) Wiley.
+
+[3]: Wilmott, P. (2006). ["Paul Wilmott Introduces Quantitative Finance."](https://www.wiley.com/en-us/Paul+Wilmott+Introduces+Quantitative+Finance,+2nd+Edition-p-9781118836798) Wiley.
+
+[4]: Jäckel, P. (2002). ["Monte Carlo Methods in Finance."](https://www.wiley.com/en-us/Monte+Carlo+Methods+in+Finance-p-9780471497417) Wiley.
+
+[5]: Hull, J. C. (2018). ["Options, Futures, and Other Derivatives."](https://www.semanticscholar.org/paper/Options%2C-Futures%2C-and-Other-Derivatives-Hull/89bdee500c8623864fc9eb7a471546aa713acc44) Pearson.

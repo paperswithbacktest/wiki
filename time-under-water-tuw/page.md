@@ -182,3 +182,16 @@ The integration of TUW into comprehensive performance analysis can enhance the a
 Future research should focus on fine-tuning TUW analytics, particularly concerning its alignment with advanced machine learning models in trading strategy optimization. Developing automated tools that calculate and interpret TUW in real-time can be beneficial for traders operating in high-frequency environments. Additionally, exploring the correlation between TUW and market volatility might provide deeper insights into strategy resilience, allowing for enhanced predictive capabilities. This could involve creating visualization techniques or software solutions that allow traders to model potential TUW scenarios under various market conditions, thus advancing the field of algorithmic trading. Integrating TUW with other time-based risk metrics may also yield a more holistic framework for performance evaluation, potentially setting new standards for trading strategy assessment.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://proceedings.neurips.cc/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

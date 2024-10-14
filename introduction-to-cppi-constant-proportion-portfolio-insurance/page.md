@@ -93,3 +93,20 @@ Rebalancing frequency is another crucial parameter that influences CPPI's effect
 Continuous analysis of market conditions and adapting the strategy accordingly is key to leveraging CPPI's full potential. This involves monitoring market volatility, assessing the performance of the chosen safe and risky assets, and tweaking parameters as needed to maintain the desired risk-return profile. In essence, the success of CPPI rests on its flexibility and the investor's ability to fine-tune its parameters in response to prevailing market environments, ultimately aiming to achieve optimized risk-adjusted returns.
 
 
+
+
+## References & Further Reading
+
+[1]: Black, F., & Perold, A. F. (1992). ["Theory of Constant Proportion Portfolio Insurance."](https://www.sciencedirect.com/science/article/pii/016518899290043E) Journal of Economic Dynamics and Control, 16(3-4), 403-426.
+
+[2]: Grossman, S. J., & Zhou, Z. (1993). ["Optimal Investment Strategies for Controlling Drawdowns."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9965.1993.tb00044.x) Management Science, 39(8), 990-1305.
+
+[3]: [CPPI Performance in Different Market Conditions](https://www.quantifiedstrategies.com/constant-proportion-portfolio-insurance-cppi-position-sizing/) - CFA Institute Publications
+
+[4]: Bertrand, P., & Prigent, J. L. (2005). ["Portfolio Insurance: The Extreme Value Approach to the Dynamic CPPI."](https://www.researchgate.net/profile/Jean-Luc-Prigent/publication/228226446_Portfolio_Insurance_The_Extreme_Value_Theory_of_the_Cppi_Method/links/00b49516c60f0a0fcf000000/Portfolio-Insurance-The-Extreme-Value-Theory-of-the-Cppi-Method.pdf) The Journal of Asset Management, 6(1), 42-40.
+
+[5]: Balder, S., Brandl, M., & Mahayni, A. (2009). ["Dynamic Strategies for Portfolio Insurance: the Case of CPPI](https://www.fbv.kit.edu/symposium/10th/papers/Balder_Brandl_Mahayni%20-%20Effectiveness%20of%20CPPI%20Strategies%20under%20Discrete-Time%20Trading.pdf) Annals of Operations Research, 165, 1-21.
+
+[6]: Estep, Tony, & Kritzman, Mark. (1988). ["CPPI: The Strategy, the Model, the Evidence."](https://www.semanticscholar.org/paper/TIPP%3A-Insurance-without-complexity-Estep-Kritzman/e853b7082a5288709bc01a9a312b2d7f487ab771) Review of Financial Economics, 15(1), 31-82.
+
+[7]: Hamidi, B. A., Maillet, B., & Tokpavi, S. (2009). ["A True or False Floor as a Conditional Value at Risk: Application to Portfolio Insurance."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1289265) Journal of Banking & Finance, 33(8), 1517-1528.

@@ -261,3 +261,20 @@ The adoption of open-source tools like Scilab is gaining [momentum](/wiki/moment
 For practitioners considering Scilab, recognizing its strengths and limitations is crucial. While Scilab is a powerful tool, it is essential to leverage its community support and resources to overcome challenges such as performance issues and industry adoption barriers. As Scilab continues to evolve, traders and financial analysts are encouraged to contribute to its development, tailoring it to address specific trading requirements and fostering a more inclusive financial ecosystem.
 
 
+
+
+## References & Further Reading
+
+[1]: Aubry, L., & Gomes, D. (2002). ["Scilab: From Theory to Practice (I); Fundamentals"](https://books.google.com/books/about/Scilab_from_Theory_to_Practice_I_Fundame.html?id=6_LTCwAAQBAJ)
+
+[2]: Bornert, J. (2018). ["Introduction to Algorithms for Trading"](https://ceramics.onlinelibrary.wiley.com/doi/10.1111/ijac.13450)
+
+[3]: Marcos Lopez de Prado. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
+
+[4]: Snow, E. (2013). ["Quantitative Finance with Python: A Practical Guide"](https://www.taylorfrancis.com/books/mono/10.1201/9781003180975/quantitative-finance-python-chris-kelliher)
+
+[5]: Beasley, D. (2010). ["Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"](https://wesmckinney.com/book/)
+
+[6]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book)
+
+[7]: ["Scilab Documentation"](https://help.scilab.org/docs/5.3.0/en_US/index.html) - Official guide and resources for Scilab functions and features.

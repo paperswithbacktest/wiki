@@ -250,3 +250,18 @@ Algorithmic trading requires a meticulously crafted strategy and an adept unders
 The cornerstone of successful algo trading is the commitment to continual learning and rigorous testing. Algorithms, much like markets, are not static; they evolve. Traders must persistently engage with new data, technologies, and methods to remain competitive. This continuous cycle of learning and testing not only aids in discovering lucrative opportunities but also fortifies the trader's ability to exploit them effectively. By maintaining this adaptive mindset, traders can ensure their strategies remain viable and progressive in an ever-changing financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). ["Does Algorithmic Trading Improve Liquidity?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01624.x) The Journal of Finance, 66(1), 1-33.
+
+[2]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2986459.2986743) Advances in Neural Information Processing Systems 24.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315) Wiley.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.
+
+[6]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.

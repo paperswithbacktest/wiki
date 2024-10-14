@@ -1,6 +1,6 @@
 ---
 title: "TradeStation (Algo Trading)"
-description: Optimize your algorithmic trading with TradeStation: a leading platform renowned for its powerful tools and seamless integration with UltraAlgo. Enjoy advanced charting, extensive historical data, customizable indicators, and multi-asset support to enhance your trading strategies. Exploit AI-driven backtesting and real-time market analytics to refine and execute strategies with precision and speed. Elevate your trading performance by leveraging TradeStation's robust offerings for superior market insights and opportunities.
+description: "Optimize your algorithmic trading with TradeStation: a leading platform renowned for its powerful tools and seamless integration with UltraAlgo. Enjoy advanced charting, extensive historical data, customizable indicators, and multi-asset support to enhance your trading strategies. Exploit AI-driven backtesting and real-time market analytics to refine and execute strategies with precision and speed. Elevate your trading performance by leveraging TradeStation's robust offerings for superior market insights and opportunities."
 ---
 
 
@@ -94,3 +94,16 @@ The integration of TradeStation with UltraAlgo provides a seamless trading exper
 By embracing these advanced technologies, traders can refine their existing strategies and discern new opportunities across various asset classes. The future of algorithmic trading with platforms like TradeStation promises enhanced strategy optimization and improved risk management practices, equipping traders to better anticipate and react to market shifts. In an era marked by rapid technological advancements, leveraging sophisticated platforms like TradeStation with UltraAlgo integration can be an essential strategy for achieving trading success.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications"](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661) by John J. Murphy
+
+[2]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://www.wiley.com/en-us/Algorithmic+Trading%3A+Winning+Strategies+and+Their+Rationale-p-9781118460146) by Ernie Chan
+
+[3]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

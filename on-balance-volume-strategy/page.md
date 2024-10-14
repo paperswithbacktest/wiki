@@ -208,3 +208,18 @@ How does OBV work with other indicators in a trading strategy? On-Balance Volume
 What does OBV suggest when it diverges from price movements? Divergence between OBV and price can be a potent signal in technical analysis. When price movements and OBV trends diverge, it may indicate potential reversals or weakening trends. For instance, if a stock's price reaches new highs but the OBV does not follow and remains flat or declines, it suggests a bearish divergence, where the upward price trend may lack the necessary volume support, indicating a potential reversal. Conversely, a bullish divergence occurs when prices make new lows, but OBV either holds steady or climbs, indicating that accumulating buying volume may precede a price increase. Such divergences are often valuable in anticipating changes in price direction and can provide early warning signals for traders to adjust their positions.
 
 
+
+
+## References & Further Reading
+
+[1]: Granville, J. E. (1963). ["Granville's New Key to Stock Market Profits"](https://books.google.com/books/about/Granville_s_New_Key_to_Stock_Market_Prof.html?id=21ukDwAAQBAJ) Prentice Hall Press.
+
+[2]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications"](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661) New York Institute of Finance.
+
+[3]: Pring, M. J. (1991). ["Technical Analysis Explained: The Successful Investor's Guide to Spotting Investment Trends and Turning Points"](https://www.amazon.com/Technical-Analysis-Explained-Fifth-Successful/dp/0071825177) McGraw-Hill.
+
+[4]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315) Wiley.
+
+[5]: Elder, A. (1993). ["Trading for a Living: Psychology, Trading Tactics, Money Management"](https://www.amazon.com/Trading-Living-Psychology-Tactics-Management/dp/0471592242) John Wiley & Sons.
+
+[6]: Schwager, J. D. (1993). ["The New Market Wizards: Conversations with America's Top Traders"](https://archive.org/details/newmarketwizards00jack) HarperBusiness.

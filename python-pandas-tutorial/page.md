@@ -272,3 +272,16 @@ As financial markets are continuously changing, continuous learning and adaptati
 In summary, Python's comprehensive library ecosystem equips algo traders with the tools needed to harness time series data effectively, facilitating the development of sophisticated trading algorithms. The continuous evolution of markets necessitates ongoing learning and strategy refinement, tasks for which Python is exceptionally well-suited due to its flexibility and computational power.
 
 
+
+
+## References & Further Reading
+
+[1]: McKinney, W. (2017). ["Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"](https://wesmckinney.com/book/) (2nd ed.). O'Reilly Media.
+
+[2]: Tsay, R. S. (2010). ["Analysis of Financial Time Series"](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470644560) (3rd ed.). Wiley.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[4]: Zhang, T., & Bai, H. (2020). ["Python for Finance Cookbook: Over 50 Recipes for Applying Modern Python Libraries to Financial Data Analysis"](https://journals.sagepub.com/doi/abs/10.1177/00220345241279555). Packt Publishing.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) (2nd ed.). Packt Publishing.

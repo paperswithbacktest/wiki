@@ -224,3 +224,18 @@ Despite the advantages yfinance offers, there are challenges to its use. Data an
 As financial markets become increasingly complex, tools like yfinance are essential for maintaining a competitive edge. They not only provide the data necessary for comprehensive market analysis but also help traders keep pace with market developments swiftly. By embracing the capabilities of yfinance, traders can elevate their algorithmic trading strategies, making them more robust, efficient, and responsive to changing market conditions.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Yahoo Finance Data with Python"](https://www.geeksforgeeks.org/get-financial-data-from-yahoo-finance-with-python/) on Real Python
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: Stefan Jansen. ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715)
+
+[4]: Ernest P. Chan. ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889)
+
+[5]: David Aronson. ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741)
+
+[6]: ["Efficiently Download Historical Stock Data From Yahoo Finance With Python."](https://stackoverflow.com/questions/12433076/download-history-stock-prices-automatically-from-yahoo-finance-in-python) - Towards Data Science on Medium

@@ -119,3 +119,18 @@ In algorithmic trading, identifying a reliable risk-free rate is imperative for 
 However, the ever-evolving landscape of Bitcoin suggests that the current approximations are only a precursor to further innovation. Increased regulatory clarity and financial infrastructure are crucial to establishing a more precise definition of a Bitcoin risk-free rate. As regulators, financial institutions, and market participants continue to engage with the dynamic cryptocurrency market, a deeper understanding and more precise tools will likely emerge. These developments are essential not only for the maturation of Bitcoin markets but also for their seamless integration into the broader financial ecosystem.
 
 
+
+
+## References & Further Reading
+
+[1]: Narayanan, A., Bonneau, J., Felten, E., Miller, A., & Goldfeder, S. (2016). ["Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies). Princeton University Press.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[3]: Ametrano, F. M. (2016). ["Hayek Money: The Cryptocurrency Price Stability Solution."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2425270) Ledger.
+
+[4]: Hull, J. C. (2017). ["Options, Futures, and Other Derivatives"](https://www.amazon.com/Options-Futures-Other-Derivatives-10th/dp/013447208X). Pearson.
+
+[5]: Antonopoulos, A. M. (2017). ["Mastering Bitcoin: Unlocking Digital Cryptocurrencies"](https://books.google.com/books/about/Mastering_Bitcoin.html?id=IXmrBQAAQBAJ). O'Reilly Media.
+
+[6]: Gandal, N., & Halaburda, H. (2016). ["Can We Predict the Winner in a Market with Network Effects? Competition in Cryptocurrency Market."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2832836) Games.

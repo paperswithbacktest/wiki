@@ -195,3 +195,18 @@ However, the deployment of the Zweig Breadth Ratio should be accompanied by a co
 Successful implementation of the Zweig Breadth Ratio can substantially upgrade a trader’s ability to interpret market movements, making it an invaluable addition to trading models. By systematically understanding and applying this indicator, traders stand to improve their market evaluations and decision-making processes, leading to potential increases in trading efficacy and profitability.
 
 
+
+
+## References & Further Reading
+
+[1]: Zweig, M. (1986). ["Winning on Wall Street."](https://www.amazon.com/Martin-Zweigs-Winning-Wall-Street/dp/0446512346) Warner Books Inc.
+
+[2]: Pardo, R. (2008). ["The Evaluation and Optimization of Trading Strategies."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969) Wiley.
+
+[3]: Kaufman, P. J. (2013). ["Technical Analysis: A New Dimension."](https://assets.cambridge.org/97811071/88488/frontmatter/9781107188488_frontmatter.pdf) Wiley.
+
+[4]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications."](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661) New York Institute of Finance.
+
+[5]: Schwager, J. D. (2012). ["Market Wizards, Updated: Interviews with Top Traders."](https://www.amazon.com/Market-Wizards-Updated-Interviews-Traders/dp/1118273052) Wiley.
+
+[6]: Pring, M. J. (2002). ["Technical Analysis Explained, Fifth Edition: The Successful Investor's Guide to Spotting Investment Trends and Turning Points."](https://www.amazon.com/Technical-Analysis-Explained-Fifth-Successful/dp/0071825177) McGraw-Hill Education.

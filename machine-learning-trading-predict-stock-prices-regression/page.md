@@ -238,3 +238,16 @@ Additionally, external factors such as geopolitical events and economic shifts c
 In conclusion, while regression analysis offers promising opportunities for profit maximization in algorithmic trading, unveiling its full potential requires a nuanced understanding of both its capabilities and constraints. The dynamic nature of markets necessitates continuous learning and model adjustments. This adaptability, coupled with a strategic blend of statistical and [fundamental analysis](/wiki/fundamental-analysis), forms the basis of a resilient trading strategy. By embracing these practices, traders can more effectively leverage regression analysis to navigate the complexities of modern financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

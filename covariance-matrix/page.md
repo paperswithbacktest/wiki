@@ -206,3 +206,22 @@ Despite its significant advantages, the covariance matrix does have limitations,
 Continuous learning and adaptation are essential for traders to harness the full potential of the covariance matrix. As markets evolve, so too must the strategies and tools traders employ. By maintaining an up-to-date understanding of both market trends and quantitative methods, traders can continue to leverage the covariance matrix effectively, ensuring it remains a vital component of their analytical toolkit.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Risk and Asset Allocation"](https://link.springer.com/book/10.1007/978-3-540-27904-4) by Attilio Meucci
+
+[2]: ["Portfolio Management Formulas: Mathematical Trading Methods for the Futures, Options, and Stock Markets"](https://www.wiley.com/en-us/Portfolio+Management+Formulas%3A+Mathematical+Trading+Methods+for+the+Futures%2C+Options%2C+and+Stock+Markets-p-9780471527565) by Ralph Vince
+
+[3]: DeMiguel, V., Garlappi, L., & Uppal, R. (2009). ["Optimal versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy?"](https://www.jstor.org/stable/30226017) The Review of Financial Studies, 22(5), 1915-1953.
+
+[4]: Fabozzi, F. J., Kolm, P. N., Pachamanova, D. A., & Focardi, S. M. (2007). ["Robust Portfolio Optimization and Management"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202172) (Vol. 10). John Wiley & Sons.
+
+[5]: Markowitz, H. (1952). ["Portfolio Selection."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1952.tb01525.x) The Journal of Finance, 7(1), 77-91.
+
+[6]: ["Python for Finance: Mastering Data-Driven Finance"](https://books.google.com/books/about/Python_for_Finance.html?id=2qd9DwAAQBAJ) by Yves Hilpisch
+
+[7]: ["Quantitative Financial Risk Management: Theory and Practice"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119080305) by C. W. Oosterlee and S. Mehreen
+
+[8]: Ledoit, O., & Wolf, M. (2004). ["A Well-Conditioned Estimator for Large-Dimensional Covariance Matrices."](https://www.sciencedirect.com/science/article/pii/S0047259X03000964) Journal of Multivariate Analysis, 88(2), 365-411.

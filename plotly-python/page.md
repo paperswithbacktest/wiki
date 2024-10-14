@@ -191,3 +191,26 @@ Moreover, embracing visualization tools such as Plotly significantly enriches th
 Plotly's integration into algorithmic trading workflows complements the analytical power of Python, providing a seamless experience for traders to transform raw data into actionable insights. The combination of Python's computational strength and Plotly's advanced visualization tools offers a comprehensive approach to building algorithmic trading strategies, resulting in enhanced decision-making processes and potentially greater trading success.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[6]: Oliphant, T. E. (2006). ["A Guide to NumPy"](http://web.mit.edu/dvp/Public/numpybook.pdf)
+
+[7]: Van Rossum, G., & Drake, F. L. (2009). ["Python 3 Reference Manual"](https://dl.acm.org/doi/book/10.5555/1593511) Python Software Foundation
+
+[8]: McKinney, W. (2010). ["Data Structures for Statistical Computing in Python"](http://conference.scipy.org.s3-website-us-east-1.amazonaws.com/proceedings/scipy2010/pdfs/mckinney.pdf), Proceedings of the 9th Python in Science Conference
+
+[9]: Hunter, J. D. (2007). ["Matplotlib: A 2D Graphics Environment."](https://ieeexplore.ieee.org/document/4160265) Computing in Science & Engineering
+
+[10]: Sheppard, K. (2023). ["Introduction to Python for Econometrics, Statistics and Data Analysis"](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2021.pdf)

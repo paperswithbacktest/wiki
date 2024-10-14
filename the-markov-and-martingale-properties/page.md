@@ -191,3 +191,16 @@ While the benefits of integrating the Markov property into trading algorithms ar
 In summary, the Markov property provides a robust framework for developing efficient and effective algorithmic trading models. However, its success lies in the practitioner’s ability to combine it with other modeling strategies, allowing for greater flexibility and adaptability in a continuously evolving market landscape. Understanding these dynamics will be paramount for those exploring the depths of algorithmic trading, thereby enhancing their ability to develop models that are both innovative and pragmatic.
 
 
+
+
+## References & Further Reading
+
+[1]: Rabiner, L. R. (1989). ["A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition."](https://ieeexplore.ieee.org/document/18626/?arnumber=18626) Proceedings of the IEEE, 77(2).
+
+[2]: Elliott, R., Aggoun, L., & Moore, J. (1995). ["Hidden Markov Models: Estimation and Control."](https://link.springer.com/book/10.1007/978-0-387-84854-9) Springer.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.

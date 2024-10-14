@@ -137,3 +137,24 @@ By bridging psychological insights with algorithmic trading strategies, new aven
 Continued exploration and integration of behavioral finance with algorithmic trading can develop more adaptive and efficient trading platforms. Advances in technology, such as artificial intelligence and machine learning, further enhance this integration by allowing for improved pattern recognition and prediction capabilities. These tools can refine strategies that anticipate market behaviors driven by cognitive biases, thereby maintaining a competitive edge in dynamic markets. As these disciplines converge, they promise to yield trading systems that are not only technically proficient but also psychologically insightful, ensuring a comprehensive approach to understanding and leveraging financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Thaler, R. H. (1993). ["Advances in Behavioral Finance, Volume II"](https://www.degruyter.com/document/doi/10.1515/9781400829125/html) Princeton University Press.
+
+[2]: Kahneman, D. (2011). ["Thinking, Fast and Slow"](https://link.springer.com/article/10.1007/s00362-013-0533-y) Farrar, Straus and Giroux.
+
+[3]: Barberis, N., & Thaler, R. (2003). ["A Survey of Behavioral Finance."](https://www.nber.org/papers/w9222) Handbook of the Economics of Finance, Volume 1B, 1053-1128.
+
+[4]: Chen, G., & Weigand, R. A. (2004). ["Behavioral finance: An overview of key concepts."](https://www.nature.com/articles/s41398-024-03120-6) Financial Analysts Journal, 60(6), 84-87.
+
+[5]: Montier, J. (2010). ["Behavioral Finance: Insights into Irrational Minds and Markets"](https://www.amazon.com/Behavioural-Finance-Insights-Irrational-Markets/dp/0470844876) Wiley.
+
+[6]: Ritter, J. R. (2003). ["Behavioral Finance."](https://www.sciencedirect.com/science/article/pii/S0927538X03000489) Pacific-Basin Finance Journal, 11(4), 429-437.
+
+[7]: Pompian, M. M. (2011). ["Behavioral Finance and Wealth Management: How to Build Optimal Portfolios That Account for Investor Biases"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202400) Wiley.
+
+[8]: De Bondt, W. F. M., & Thaler, R. H. (1985). ["Does the Stock Market Overreact?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1985.tb05004.x) The Journal of Finance, 40(3), 793-805.
+
+[9]: Shefrin, H. (2002). ["Beyond Greed and Fear: Understanding Behavioral Finance and the Psychology of Investing"](https://academic.oup.com/book/27607) Oxford University Press.

@@ -82,3 +82,14 @@ While the Vomiting Camel Pattern is not a legitimate tool in technical analysis,
 Successful trading requires a comprehensive approach, balancing technical skills, such as data analysis and risk management, with psychological insights. Traders must remain aware of cognitive biases and cultivate a mindset capable of integrating quantitative data with qualitative insights. Importantly, maintaining a good sense of humor can provide a mental edge, helping traders to manage stress and foster a flexible mindset essential for navigating the complexities of financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) Wiley.
+
+[3]: Jansen, S. (2018). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing.
+
+[4]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.

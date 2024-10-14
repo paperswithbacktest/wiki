@@ -135,3 +135,16 @@ For those interested in expanding their knowledge of trading strategies, Quantpe
 For further reading on algorithmic trading techniques, several [books](/wiki/algo-trading-books) and online courses can provide foundational and advanced knowledge. Notable books include "Algorithmic Trading" by Ernie Chan, which covers strategy development and quantitative research, and "Quantitative Trading" by Rishi K. Narang, offering insights into how quant trading strategies are developed and executed. Online platforms like Coursera and edX also provide courses on algorithmic trading, taught by experts from top universities and financial institutions. These resources will equip you with the necessary skills and knowledge to understand and develop algorithmic trading strategies effectively.
 
 
+
+
+## References & Further Reading
+
+[1]: Baur, D. G., Cahill, D., Godfrey, K., & Liu, Z. Y. (2021). ["Bitcoin: Medium of Exchange or Speculative Asset?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3319237) Finance Research Letters.
+
+[2]: ["Algorithmic Trading"](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp) by Ernie Chan
+
+[3]: Bouoiyour, J., & Selmi, R. (2015). ["What Does Bitcoin Look Like?"](https://www.semanticscholar.org/paper/What-Does-Bitcoin-Look-Like-Bouoiyour-Selmi/b7410adc691b805bab0129850b021d5285193f59) Annals of Economics and Finance.
+
+[4]: Narang, R. K. (2009). ["Inside the Black Box: The Simple Truth About Quantitative Trading"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267738) Wiley.
+
+[5]: Poyser, O. P. (2019). ["Herding Behavior in Cryptocurrency Markets"](https://arxiv.org/pdf/1806.11348.pdf) Journal of Economic Behavior & Organization.

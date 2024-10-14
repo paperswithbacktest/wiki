@@ -160,3 +160,16 @@ Efficient execution methods are equally crucial. Employing smart order routing t
 In today's highly competitive financial markets, where every basis point counts, the effective management of transaction costs is vital for sustained success in algorithmic trading. By meticulously considering transaction costs, traders can achieve a more precise and accurate evaluation of their trading strategies, ultimately leading to improved profitability and competitive advantage.
 
 
+
+
+## References & Further Reading
+
+[1]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management."](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management) Academic Press.
+
+[2]: Johnson, B., & Ouma, J. (2011). ["Market Microstructure: A Trader's Guide."](https://onlinelibrary.wiley.com/doi/10.1111/j.1756-2171.2011.00139.x) Wiley.
+
+[3]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) Oxford University Press.
+
+[4]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.
+
+[5]: Kissell, R. (2014). ["Multi-Asset Risk Modeling: Techniques for a Global Economy in an Electronic and Algorithmic Trading Era."](https://www.sciencedirect.com/book/9780124016903/multi-asset-risk-modeling) Academic Press.

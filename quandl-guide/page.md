@@ -265,3 +265,16 @@ Networking with other professional traders and developers is invaluable. Several
 These resources provide essential support for anyone looking to integrate Yahoo Finance data into their algorithmic trading strategies, offering everything from technical documentation to community advice.
 
 
+
+
+## References & Further Reading
+
+[1]: Roussi, R. (2019). ["yfinance: Download historical market data from Yahoo Finance."](https://github.com/ranaroussi/yfinance)
+
+[2]: Hilpisch, Y. (2018). ["Python for Finance: Analyze Big Financial Data."](https://books.google.com/books/about/Python_for_Finance.html?id=E93SBQAAQBAJ) O'Reilly Media.
+
+[3]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[4]: Chan, E. P. (2013). ["Algorithmic Trading: Winning Strategies and Their Rationale."](https://en.wikipedia.org/wiki/Algorithmic_trading) Wiley.
+
+[5]: Aronson, D. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315) Wiley.

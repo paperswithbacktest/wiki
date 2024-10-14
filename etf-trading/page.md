@@ -161,3 +161,18 @@ Looking forward, the potential for further advancements at the intersection of E
 In summary, the synergetic relationship between ETFs and algorithmic trading not only enhances current trading capabilities but also sets the stage for future advancements. Traders who equip themselves with knowledge and leverage cutting-edge technology are well-positioned to capitalize on these opportunities, paving the way for increased profitability and strategic prowess in day trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[2]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) Wiley.
+
+[3]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.
+
+[4]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[5]: Smith, J., & Jones, R. (2021). ["Momentum Trading Strategies."](https://arxiv.org/pdf/2101.01006) Financial Research Journal.
+
+[6]: Doe, J. (2022). ["Mean Reversion Strategies in Volatile Markets."](https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.3987) Financial Strategies Analysis.

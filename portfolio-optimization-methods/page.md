@@ -255,3 +255,20 @@ Advanced algorithms offer unique opportunities to enhance trading strategies, ad
 The ongoing research and development of algorithmic trading tools promise further improvements in portfolio performance. With each technological advancement, traders can refine their strategies, achieving a greater edge in volatile markets. Enhanced computational power and data analytics capabilities are enablers in this regard, facilitating the processing of vast datasets and enabling precise strategy adjustments. This continuous innovation is crucial for capturing new opportunities and minimizing risks, ultimately leading to superior portfolio outcomes.
 
 
+
+
+## References & Further Reading
+
+[1]: Markowitz, H. (1952). ["Portfolio Selection."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1952.tb01525.x) The Journal of Finance, 7(1), 77-91.
+
+[2]: Roncalli, T. (2013). ["Introduction to Risk Parity and Budgeting."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272973) Chapman and Hall/CRC.
+
+[3]: De Prado, M. L. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: Chan, E. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://rickorford.com/quantitative-trading/) Wiley.
+
+[5]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315) Wiley.
+
+[6]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.
+
+[7]: Fabozzi, F. J., Kolm, P. N., Pachamanova, D., & Focardi, S. (2007). ["Robust Portfolio Optimization and Management."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202172) Wiley.

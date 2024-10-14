@@ -160,3 +160,16 @@ The future outlook for dividend stocks in the Singaporean market amidst technolo
 Informed investment decisions are crucial in navigating the evolving landscape of dividend investing. By combining traditional financial analysis with modern algorithmic trading techniques, investors can harness the strengths of both approaches. Traditional analysis offers historical insights and fundamental valuation, while algorithmic trading provides speed and adaptability. Investors who thoughtfully integrate these strategies can achieve a comprehensive understanding of the market, enhance portfolio performance, and effectively manage risk. This balanced approach is particularly valuable in a rapidly changing market environment, enabling investors to capitalize on opportunities while safeguarding against potential downside risks.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

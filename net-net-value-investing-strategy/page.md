@@ -168,3 +168,16 @@ Investors should also strive to balance the thoroughness of fundamental evaluati
 In conclusion, the blend of net-net stock investing and algorithmic trading provides a strategic framework for exploiting undervalued market segments. By combining the insights from fundamental analysis with the capabilities of algorithmic systems, investors can enhance their potential for achieving favorable returns while effectively managing risk. Maintaining a focus on innovation and adaptability will be key to unlocking the full potential of this integrated investment approach.
 
 
+
+
+## References & Further Reading
+
+[1]: Graham, Benjamin. **The Intelligent Investor: The Definitive Book on Value Investing.** Revised Edition. Harper Business, 2006.
+
+[2]: Montier, James. **Value Investing: Tools and Techniques for Intelligent Investment.** Wiley, 2009.
+
+[3]: Lopez de Prado, Marcos. **Advances in Financial Machine Learning.** Wiley, 2018.
+
+[4]: Chan, Ernest P. **Quantitative Trading: How to Build Your Own Algorithmic Trading Business.** Wiley, 2009.
+
+[5]: Jansen, Stefan. **Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python.** 2nd Edition, Packt Publishing, 2020.

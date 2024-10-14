@@ -247,3 +247,16 @@ When backtesting a stochastic strategy, several key considerations must be addre
 Yes, stochastic strategies can be automated and integrated into existing trading platforms. Automation offers the advantage of executing trades quickly and consistently, minimizing the impact of human emotions. By using Python libraries such as `pandas`, `yfinance`, and `ta` for technical analysis, traders can write scripts to execute stochastic strategies. Additionally, integration with platforms like MetaTrader 4/5 or TradingView can be accomplished through APIs or custom-built plugins. Due to the complexities and nuances of algorithmic trading, comprehensive testing and a strong understanding of the strategy are essential before deploying automated systems in live trading environments.
 
 
+
+
+## References & Further Reading
+
+[1]: George C. Lane. ["Lane's Stochastics"](https://en.wikipedia.org/wiki/George_Lane_%28technical_analyst%29) by George C. Lane
+
+[2]: ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications"](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661) by John J. Murphy
+
+[3]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://www.wiley.com/en-us/Algorithmic+Trading%3A+Winning+Strategies+and+Their+Rationale-p-9781118460146) by Ernie Chan
+
+[4]: ["Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"](https://wesmckinney.com/book/) by Wes McKinney
+
+[5]: ["Backtest: The New Rules of Algorithmic Trading"](https://www.quantstart.com/articles/Successful-Backtesting-of-Algorithmic-Trading-Strategies-Part-I/) by Michael Gouvalaris

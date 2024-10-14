@@ -125,3 +125,16 @@ In real-time trading environments, the ability to process data rapidly and make 
 For traders and developers looking to advance their algorithmic trading capabilities, mastering lambda functions is a prudent investment. By leveraging the power of lambda functions, they can achieve higher coding proficiency and boost the trading effectiveness of their strategies, ultimately gaining a competitive edge in the financial markets. As algorithmic trading continues to evolve, the ability to write clean, efficient code remains a key [factor](/wiki/factor-investing) in success.
 
 
+
+
+## References & Further Reading
+
+[1]: McKinney, W. (2012). ["Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython."](https://wesmckinney.com/book/) O'Reilly Media.
+
+[2]: VanderPlas, J. (2016). ["Python Data Science Handbook: Essential Tools for Working with Data."](https://jakevdp.github.io/PythonDataScienceHandbook/) O'Reilly Media.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: Hilpisch, Y. (2020). ["Python for Finance: Mastering Data-Driven Finance."](https://books.google.com/books/about/Python_for_Finance.html?id=2qd9DwAAQBAJ) O'Reilly Media.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing.

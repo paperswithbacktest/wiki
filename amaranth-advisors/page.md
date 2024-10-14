@@ -110,3 +110,16 @@ The crucial lessons from Amaranth's experience continue to influence hedge fund 
 By studying Amaranth's approach and downfall, financial professionals gain crucial insights into the complexities of algorithmic trading. The emphasis today is on a balanced strategy—leveraging the advantages of technology and sophisticated algorithms while ensuring protective measures are in place to mitigate potential losses. This dual focus on innovation and caution aids in navigating the regulatory and market challenges that underscore the ever-evolving landscape of hedge fund management.
 
 
+
+
+## References & Further Reading
+
+[1]: Lowenstein, R. (2008). ["When Genius Failed: The Rise and Fall of Long-Term Capital Management"](https://www.amazon.com/When-Genius-Failed-Long-Term-Management-ebook/dp/B000FC1KZC) by Roger Lowenstein
+
+[2]: Till, H., & Eagleeye, J. (2006). ["The Amaranth Debacle: A Failure of Risk Measures or the Self-destruction of an Energy Hedge Fund?"](https://eagleeyebooks.com/book/9780061711299) Journal of Alternative Investments, 9(3), 76-83.
+
+[3]: Bookstaber, R. (2007). ["A Demon of Our Own Design: Markets, Hedge Funds, and the Perils of Financial Innovation"](https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2007/a-demon-of-our-own-design-markets) by Richard Bookstaber
+
+[4]: Kolman, J. (2010). ["The History of Amaranth Advisors Collapse"](https://climateimpact.edhec.edu/publications/amaranth-collapse-what-happened-and-what), Quantum Social Science.
+
+[5]: Ritholtz, B. (2006). ["The Lessons of Amaranth Advisors"](https://ludwigbc.com/pubs/pub9.pdf) The Big Picture Blog.

@@ -102,3 +102,16 @@ As markets continue to evolve, it is crucial for traders to adapt their strategi
 In summary, dual momentum combines the best aspects of absolute and relative momentum strategies, providing a robust framework for trading in dynamic markets. When executed with precision and adaptability, it can be a valuable element of an advanced trading strategy, offering both opportunity and stability in an ever-evolving market landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Antonacci, G. (2014). ["Dual Momentum Investing: An Innovative Strategy for Higher Returns with Lower Risk."](https://www.amazon.com/Dual-Momentum-Investing-Innovative-Strategy/dp/0071849440) McGraw-Hill Education.
+
+[2]: ["Quantitative Momentum: A Practitioner's Guide to Building a Momentum-Based Stock Selection System"](https://books.google.com/books/about/Quantitative_Momentum.html?id=K2npCgAAQBAJ) by Wesley R. Gray and Jack R. Vogel
+
+[3]: Jegadeesh, N., & Titman, S. (1993). ["Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1993.tb04702.x) The Journal of Finance, 48(1), 65-91.
+
+[4]: ["Momentum Strategies"](https://www.fidelity.com/learning-center/trading-investing/trading/momentum-trading-strategies) by Antonacci, G.
+
+[5]: ["Financial Trading and Investing"](https://shop.elsevier.com/books/financial-trading-and-investing/teall/978-0-323-90955-6) by John L. Teall

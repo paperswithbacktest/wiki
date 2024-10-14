@@ -104,3 +104,16 @@ The balance between exploiting opportunities through algorithmic trading and min
 As the landscape of financial markets continues to evolve with advancements in technology, the call to action for traders and investors is clear: prioritize robust risk management practices as an integral component of your algorithmic trading strategies. By doing so, traders not only safeguard their investments but also contribute to the overall health and integrity of the financial markets. Adapting to regulatory changes and employing comprehensive compliance strategies further fortifies these practices, ensuring that algorithmic trading remains an efficient and reliable mechanism for engaging with today’s complex markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Aite Group. (Year unavailable). Statistics on algorithmic trading volume. Retrieved from industry reports and publications.
+
+[2]: "Flash Crash of 2010." U.S. Securities and Exchange Commission (SEC) Report. Retrieved from https://www.sec.gov/reportspubs/special-studies/research-effect-may-6-2010-market-structure.htm
+
+[3]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems%2C+2nd+Edition-p-9781118343500). Wiley.
+
+[4]: Markets in Financial Instruments Directive (MiFID II). European Securities and Markets Authority (ESMA). Official documentation available at https://www.esma.europa.eu/policy-rules/mifid-ii-and-mifir
+
+[5]: Knight Capital Incident. U.S. Securities and Exchange Commission (SEC) Report. Retrieved from https://www.sec.gov/litigation/admin/2013/34-70694.pdf

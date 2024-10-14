@@ -171,3 +171,18 @@ As the trading landscape rapidly evolves with technological advancements, stayin
 This article serves as a foundational guide for those interested in algorithmic trading utilizing Robinhood's API. With the information provided, aspiring traders can begin their journey towards implementing advanced trading strategies, positioning themselves favorably in an ever-evolving market.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[5]: Pine, J. (2019). ["Algorithmic Trading & Quantitative Analysis Using Python & Pandas"](https://www.datacamp.com/tutorial/finance-python-trading)
+
+[6]: Elkan, C. (2013). ["Backtesting Strategies"](https://www.nber.org/system/files/working_papers/w21329/w21329.pdf) Quantpedia.

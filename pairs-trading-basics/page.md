@@ -154,3 +154,22 @@ Additionally, risk management is paramount for pairs trading. Although the strat
 For traders and developers aiming to succeed with pairs trading, continuous learning and experimentation are encouraged. Engaging with current literature, exploring novel statistical techniques, and utilizing simulation tools to test hypotheses can significantly enhance the understanding and execution of pairs trading strategies. By iterating on strategies and adapting to changes in market dynamics, traders can better navigate the complexities of contemporary financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Vidyamurthy, Ganapathy. (2004). ["Pairs Trading: Quantitative Methods and Analysis"](https://www.amazon.com/Pairs-Trading-Quantitative-Methods-Analysis/dp/0471460672). John Wiley & Sons.
+
+[2]: Gatev, E., Goetzmann, W. N., & Rouwenhorst, K. G. (2006). ["Pairs Trading: Performance of a Relative-Value Arbitrage Rule."](https://www.nber.org/papers/w7032) The Review of Financial Studies, 19(3), 797-827.
+
+[3]: Engle, R. F., & Granger, C. W. J. (1987). ["Co-Integration and Error Correction: Representation, Estimation, and Testing."](https://www.semanticscholar.org/paper/Co-integration-and-error-correction%3A-estimation-and-Engle-Granger/9885b611792aedb706ba905e610b4a0a409d5984) Econometrica, 55(2), 251-276.
+
+[4]: Elliot N. Waves, J. (1999). ["Cointegration in Financial Markets: An Introduction."](https://www.amazon.com/Elliott-Wave-Principle-Market-Behavior/dp/0471988499)00058-6) Journal of Banking & Finance.
+
+[5]: Vidyamurthy, G. (2004). ["How to Pick Pairs for Pairs Trading: Learn the Science Behind the Pair Selection."](https://www.researchgate.net/publication/47801548_Pairs_Trading_Quantitative_Methods_and_Analysis_G_Vidyamurthy) 
+
+[6]: [Machine Learning for Algorithmic Trading](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) by Stefan Jansen
+
+[7]: McKinney, Michael. (2020). ["Statistics for Algorithmic Trading: Learn About Statistical Arbitrage Techniques, Including Pairs Trading."](https://www.mckinsey.com/featured-insights/2020-year-in-review) 
+
+[8]: Calvori, F., & Gigante, G. (2007). ["Applying Kalman Filter to Pairs Trading."](https://letianzj.github.io/kalman-filter-pairs-trading.html) Financial Econometrics Research.

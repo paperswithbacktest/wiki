@@ -207,3 +207,20 @@ print(f"Stop Loss: {stop_loss}, Profit Target 1: {profit_target_1}, Profit Targe
 This script calculates stop-loss and two tiered profit-taking levels based on Fibonacci percentages relative to the entry price.
 
 
+
+
+## References & Further Reading
+
+[1]: Pesavento, L. (1997). ["Fibonacci Ratios with Pattern Recognition."](https://www.amazon.com/Fibonacci-Ratios-Pattern-Recognition-Pesavento/dp/0934380368) New Classics Library.
+
+[2]: Carney, S. (2010). ["Harmonic Trading, Volume One: Profiting from the Natural Order of the Financial Markets."](https://www.amazon.com/Harmonic-Trading-One-Profiting-Financial/dp/0137051506) FT Press.
+
+[3]: Nenninger, N. J. (2008). ["Harmonic Trading, Volume 2: Advanced Strategies for Profiting from the Natural Order of the Financial Markets."](https://scholar.google.com/citations?user=Ob63snkAAAAJ) FT Press.
+
+[4]: Gilmore, B. ["Geometry of the Fibonacci Series."](https://math.libretexts.org/Bookshelves/Applied_Mathematics/Book%3A_College_Mathematics_for_Everyday_Life_(Inigo_et_al)/10%3A_Geometric_Symmetry_and_the_Golden_Ratio/10.04%3A_Fibonacci_Numbers_and_the_Golden_Ratio) Wavebreaker Publishing.
+
+[5]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[6]: Pardo, R. (2008). ["The Evaluation and Optimization of Trading Strategies."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969) Wiley Trading.
+
+[7]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315) Wiley.

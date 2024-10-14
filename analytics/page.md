@@ -98,3 +98,16 @@ Advanced analytics, including machine learning algorithms and [artificial intell
 Harnessing the potential of advanced analytics can substantially change the competitive landscape for traders. Those who adeptly leverage these cutting-edge technologies can vastly improve their strategic capabilities, adapting swiftly to new market conditions and optimizing their trading strategies for superior performance. Consequently, the future of trading is heavily rooted in the continuous development and implementation of innovative analytical tools and technologies, which promise to redefine the boundaries of what is possible in financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Machine Learning for Algorithmic Trading"](https://www.oreilly.com/library/view/machine-learning-for/9781839217715/) by Stefan Jansen
+
+[3]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[4]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[5]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2986459.2986743) Advances in Neural Information Processing Systems 24.

@@ -183,3 +183,16 @@ Furthermore, an investment checklist supports traders in maintaining consistency
 Investors are encouraged to customize their checklists according to their personal experiences and unique market exposures. This customization not only tailors the checklist to reflect an individual’s specific trading style, goals, and risk tolerance, but it also enables continuous improvement. By integrating personal insights and adapting to evolving market conditions, traders can refine their checklists over time, which enhances the effectiveness of their algorithmic trading strategies and reinforces their ability to adapt to market dynamics efficiently. This adaptive approach ensures that the checklist remains relevant, allowing it to serve as a powerful tool for optimizing trade executions and improving overall trading outcomes.
 
 
+
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2986459.2986743) Advances in Neural Information Processing Systems 24.
+
+[2]: ["Advances in Financial Machine Learning"](https://resources.caih.jhu.edu/textbooks/Resources/_pdfs/Advances_In_Financial_Machine_Learning.pdf) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan

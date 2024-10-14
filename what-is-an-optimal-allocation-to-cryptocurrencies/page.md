@@ -93,3 +93,22 @@ The rapidly changing nature of cryptocurrency landscapes underscores the importa
 Despite ongoing debates concerning the intrinsic value and long-term viability of cryptocurrencies, their potential for generating substantial returns renders them an attractive option within algorithmic trading. Charitable empirical research supports the notion that even modest allocations can yield significant diversification benefits. Hence, while the uncertainty surrounding the future of digital currencies persists, their role as a component of diversified algorithmic trading strategies remains compelling. Through careful consideration of risk and performance metrics, thoughtful allocation to cryptocurrencies can optimize portfolio outcomes while contributing to diversified investment objectives.
 
 
+
+
+## References & Further Reading
+
+[1]: Corbet, S., Lucey, B., & Yarovaya, L. (2019). ["Cryptocurrencies as a Financial Asset: A Systematic Analysis"](https://www.sciencedirect.com/science/article/pii/S1057521918305271). Journal of International Financial Markets, Institutions & Money, 59, 131-153.
+
+[2]: Bessimbinder, H. (1992). ["Systematic Risk, Hedging Pressure, and Risk Premiums in Futures Markets"](https://www.jstor.org/stable/2962144). The Review of Financial Studies, 5(4), 637-667.
+
+[3]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[4]: Berge, K., & Jordà S. (2011). ["Bayesian VAR Models"](https://www.aeaweb.org/articles?id=10.1257/mac.3.2.246). National Bureau of Economic Research.
+
+[5]: Barberis, N., & Thaler, R. (2003). ["A Survey of Behavioral Finance"](https://www.nber.org/papers/w9222). Handbook of the Economics of Finance, 1, 105-161.
+
+[6]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[7]: Markowitz, H. (1952). ["Portfolio Selection"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1952.tb01525.x). The Journal of Finance, 7(1), 77-91.
+
+[8]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan

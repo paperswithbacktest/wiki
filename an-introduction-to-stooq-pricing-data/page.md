@@ -305,3 +305,16 @@ Traders are encouraged to further experiment with Stooq data to develop and refi
 Looking ahead, the landscape of data provision for algorithmic trading continues to evolve. Improvements in data accessibility, integration, and quality are anticipated as the demand for more sophisticated and comprehensive data sources grows. Future developments may also include enhancements in data delivery mechanisms, making it even more convenient for traders to access and utilize financial data effectively in real time. As these trends progress, traders equipped with the knowledge and tools to capitalize on such advancements will be better positioned to achieve success in this dynamic field.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+
+[5]: ["Python for Finance Cookbook: Over 50 Recipes for Applying Modern Python Libraries to Financial Data Analysis"](https://books.google.com/books/about/Python_for_Finance_Cookbook.html?id=O0fODwAAQBAJ) by Eryk Lewinson

@@ -179,3 +179,16 @@ However, despite its promising attributes, traders must remain cautious of the N
 In conclusion, the NR7 strategy is a testament to how systematic approaches can enhance trading precision and profitability. By focusing on volatility dynamics and potential breakouts, NR7 empowers traders with insights into market behavior that can be strategically harnessed for profit maximization. Nevertheless, prudent implementation, continuous evaluation, and a comprehensive understanding of its constraints are crucial to effectively integrating NR7 into a robust trading strategy portfolio.
 
 
+
+
+## References & Further Reading
+
+[1]: Crabel, T. (1990). ["Day Trading with Short Term Price Patterns and Opening Range Breakout."](https://www.amazon.com/Trading-Short-Patterns-Opening-Breakout/dp/0934380171) Business One Irwin.
+
+[2]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) Wiley.
+
+[3]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[4]: Prado, M. L. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.

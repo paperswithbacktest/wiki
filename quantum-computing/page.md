@@ -116,3 +116,24 @@ To remain competitive, traders must not only acknowledge but also integrate quan
 By actively embracing the advantages offered by quantum advances, the trading community can place itself on the cutting edge of technological evolution. This proactive stance is essential for capitalizing on the novel opportunities that quantum computing will introduce, thereby maintaining a competitive edge in this rapidly evolving sector. As the industry progresses, those who adapt swiftly will likely lead in innovation and success, reshaping the future of algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Montanaro, A. (2016). ["Quantum algorithms: an overview."](https://www.nature.com/articles/npjqi201523) npj Quantum Information, 2, 15023.
+
+[2]: Shor, P. W. (1997). ["Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer."](https://arxiv.org/abs/quant-ph/9508027) SIAM Journal on Computing, 26(5), 1484-1509.
+
+[3]: Lloyd, S., & Weedbrook, C. (2016). ["Quantum machine learning with small-scale devices."](https://link.aps.org/doi/10.1103/PhysRevLett.121.040502) Nature, 540(7631), 42-44.
+
+[4]: Nielsen, M. A., & Chuang, I. L. (2010). ["Quantum Computation and Quantum Information: 10th Anniversary Edition."](https://dl.acm.org/doi/book/10.5555/1972505) Cambridge University Press.
+
+[5]: Arute, F. et al. (2019). ["Quantum supremacy using a programmable superconducting processor."](https://www.nature.com/articles/s41586-019-1666-5) Nature, 574, 505-510.
+
+[6]: Farhi, E., Goldstone, J., & Gutmann, S. (2014). ["A quantum approximate optimization algorithm."](https://arxiv.org/abs/1411.4028) arXiv preprint arXiv:1411.4028.
+
+[7]: Grover, L. K. (1996). ["A fast quantum mechanical algorithm for database search."](https://dl.acm.org/doi/10.1145/237814.237866) Proceedings of the twenty-eighth annual ACM symposium on Theory of Computing, 212-219.
+
+[8]: Bernstein, D. J. (2009). ["Post-quantum cryptography."](https://link.springer.com/book/10.1007/978-3-540-88702-7) Springer.
+
+[9]: Preskill, J. (2018). ["Quantum Computing in the NISQ era and beyond."](https://quantum-journal.org/papers/q-2018-08-06-79/) Quantum, 2: 79.
