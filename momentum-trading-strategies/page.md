@@ -3,11 +3,11 @@ title: "Momentum Trading Strategies (Algo Trading)"
 description: Discover the foundations and principles behind momentum trading, a dynamic strategy that seeks to capitalize on the continuation of existing price trends in the market. From its historical roots to psychological insights, learn how this approach can help traders stay ahead in today's fast-paced trading environment. Understand the difference between momentum trading and other popular strategies like value trading, contrarian trading, swing trading, and buy & hold.
 ---
 
-
-
 Momentum trading is a strategy that seeks to capitalize on the continuation of existing price trends in the market. The foundational belief behind this approach is that assets that have performed well in recent times are more likely to continue doing well in the foreseeable future, and conversely, those that have performed poorly will likely continue their downtrend. Momentum traders aim to enter the market during these periods of strong trends and exit before the momentum shifts or dissipates.
 
 Understanding momentum is crucial in today's trading environment. In an era characterized by global interconnectedness, information dissemination at lightning speed, and high-frequency trading, price movements can be swift and significant. Being able to identify and ride these momentum waves not only provides traders with opportunities for profit but also enables them to stay ahead of the curve. As more algorithmic and quantitative trading strategies emerge, being adept at identifying momentum becomes an invaluable skill, allowing traders to distinguish between genuine price movements and "noise."
+
+![Image](images/1.jpeg)
 
 In the modern trading landscape, where trends can be propelled by a mix of fundamental news, sentiment shifts, and institutional trading activities, understanding momentum's nuances can make the difference between a successful trade and a missed opportunity.
 

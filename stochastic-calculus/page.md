@@ -3,11 +3,11 @@ title: "Stochastic calculus in finance"
 description: Discover the fundamental role of Stochastic Calculus in finance, including its impact on pricing derivatives and managing financial risks through models like Black-Scholes. Understand Brownian motion, Stochastic Differential Equations (SDEs), and their applications in financial modeling. Explore resources for further study.
 ---
 
-
-
 Stochastic calculus is a branch of mathematics that operates on stochastic processes, providing the tools necessary for modeling systems that evolve over time with inherent randomness. In finance, stochastic calculus is crucial for the development of models used to price derivatives and manage financial risks, particularly in the continuous-time framework.
 
 It serves as the backbone for numerous financial theories, such as the famous Black-Scholes-Merton model for option pricing, where asset prices are assumed to follow a stochastic differential equation (SDE) driven by Brownian motion. The formulation of such models and the analysis of financial markets' behavior would be impossible without the foundation provided by stochastic calculus.
+
+![Image](images/1.jpeg)
 
 The introduction of stochastic calculus to finance dates back to the early 20th century, with notable contributions from mathematicians such as Albert Einstein and Norbert Wiener. However, it was the groundbreaking work of Kiyoshi Itô in the mid-20th century that established the rigorous mathematical framework that financial engineers and quantitative analysts rely upon today. Itô's development of stochastic integrals and the Itô calculus formalized how to work with stochastic processes, laying the groundwork for modern financial modeling.
 

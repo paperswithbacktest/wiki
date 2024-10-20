@@ -3,11 +3,11 @@ title: "Trading Institutions: A Comprehensive Guide"
 description: Discover the essential role of trading institutions in financial markets. From ancient civilizations to modern electronic trading, learn how these entities have evolved and influenced investment trends. Explore classifications of institutional players like proprietary trading shops, high-frequency firms, hedge funds, asset managers, and banks, with insights into significant employers such as Jane Street, Citadel Securities, DRW, and Optiver.
 ---
 
-
-
 Trading institutions, at their core, are entities or firms that trade securities for their accounts or on behalf of customers. They stand as pillars in the financial world, executing large-volume transactions that can significantly influence the direction of market prices. Unlike individual traders, these institutions trade substantial amounts of shares and have the ability to manage and disperse vast portfolios that can span different market sectors and geographic regions. Their role in the financial markets cannot be overstated. They facilitate liquidity, ensure smoother price transitions for stocks, and often serve as trendsetters in determining market sentiment. As major stakeholders in the financial ecosystem, understanding their operations and strategies is crucial for anyone navigating the investment realm. Their existence and operations interlink with the very fabric of global economies, influencing decisions ranging from individual investments to national economic policies.
 
 ## Table of Contents
+
+![Image](images/1.png)
 
 ## Historical Perspective of Trading Institutions
 

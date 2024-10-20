@@ -3,11 +3,11 @@ title: "Major Research Papers (Algo Trading)"
 description: Explore key research papers on algorithmic trading, focusing on optimal execution, market impact, and market making. These papers provide valuable insights into the mathematical models and strategies that underpin trading, including the Almgren-Chriss framework, market microstructure analysis, and high-frequency trading in limit order books. Ideal for anyone looking to deepen their understanding of how financial markets operate and how to navigate their complexities through data-driven strategies.
 ---
 
-
-
 The intricate world of finance, characterized by its dynamic markets and complex mathematical models, presents unique challenges and opportunities for researchers and practitioners. This compilation of scholarly papers offers a deep dive into various aspects of financial market analysis, ranging from the empirical examination of asset returns to the nuanced strategies of market making. Authored by experts in the field, each paper contributes to a comprehensive understanding of market dynamics, highlighting the theoretical foundations and practical implications of statistical analysis, market microstructure, optimal execution, market impact models, and market making strategies. These works collectively serve as a foundational resource for anyone looking to deepen their understanding of the sophisticated mechanisms driving financial markets.
 
 ## Table of Contents
+
+![Image](images/1.jpeg)
 
 ## Stylized facts
 
@@ -102,7 +102,6 @@ Market makers need to set bid and ask quotes for stocks while balancing their po
 ## Conclusion
 
 The collection of papers presented here encapsulates a wealth of knowledge and expertise in the field of financial market analysis. Each paper, with its unique focus and approach, contributes to a broader understanding of how financial markets operate and how various strategies and models can be employed to navigate these markets effectively. From exploring the statistical properties of asset returns to developing optimal trading strategies, these papers offer invaluable insights into the complexities of market dynamics. Whether for academic research, professional development, or personal interest, delving into these works provides a deeper appreciation of the mathematical and empirical frameworks that underpin modern financial markets, equipping readers with the knowledge to approach these challenging and ever-evolving environments with confidence and expertise.
-
 
 ## References & Further Reading
 

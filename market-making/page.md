@@ -3,11 +3,11 @@ title: "Market Making and Algo Trading"
 description: Market making is a vital process in financial markets, where market makers continuously quote bid and ask prices for securities, ensuring liquidity and smooth trade execution. The evolution of market making, from traditional manual methods to sophisticated algorithmic trading, has enhanced market efficiency. Market makers profit from the bid-ask spread and take on the risk of holding inventory to facilitate trades. While market makers operate across different exchanges like NYSE, Nasdaq, and decentralized platforms using Automated Market Makers (AMMs), their role in maintaining orderly markets remains essential, supported by advances in technology and algorithmic strategies.
 ---
 
-
-
 Market making is a cornerstone activity in financial markets, ensuring liquidity and facilitating the smooth execution of trades. At its core, market making involves **continuously quoting** buy (bid) and sell (ask) prices for financial instruments, such as stocks, bonds, or derivatives, thereby providing a platform for other participants to trade. For institutional traders, market makers are indispensable partners, guaranteeing the ability to enter or exit positions without causing significant price disruptions. Meanwhile, for retail traders, they often operate behind the scenes, indirectly influencing the prices seen on trading platforms and ensuring that when the trade button is clicked, there's a counterparty ready to take the opposite position.
 
 ## Table of Contents
+
+![Image](images/1.png)
 
 ## What is a Market Maker?
 
@@ -100,29 +100,28 @@ Furthermore, with the rise of [algorithmic trading](/wiki/algorithmic-trading) a
 Here's a succinct look into some pivotal academic works on market making:
 
 - **Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders** - [Glosten and Milgrom (1985)](https://www.sciencedirect.com/science/article/pii/0304405X85900443)
-    
+
     👉 The spread between bid and ask prices serves as compensation for market makers when trading with participants having better information. Mathematically, the model presents:
-    
+
     $\text{Spread} = \text{Adverse Selection Cost} + \text{Order Processing Cost}$
-    
+
 - **Inferring the Components of the Bid-Ask Spread: Theory and Empirical Tests** - [Stoll (1989)](https://www.jstor.org/stable/2328278)
-    
+
     👉 The bid-ask spread is deconstructed into order processing costs, inventory holding costs, and adverse selection costs. This is represented as:
-    
+
     $\text{Spread} = \text{Order Costs} + \text{Inventory Costs} + \text{Adverse Selection}$
-    
+
 - **Continuous Auctions and Insider Trading** - [Kyle (1985)](https://www.jstor.org/stable/1913210)
-    
+
     👉 Insiders can hide their trades within the noise of uninformed trading. Market makers then adjust prices gradually to prevent revealing these informed trades.
-    
+
 - **High-frequency trading in a limit order book** - [Avellaneda and Stoikov (2008)](https://math.nyu.edu/~avellane/HighFrequencyTrading.pdf)
-    
+
     👉 This paper explores the optimal strategies for high-frequency traders and market makers in a limit order book setting. The researchers present a model that balances the profitability of trades against the risk of adverse selection.
-    
+
 - **General Intensity Shapes in Optimal Liquidation** - [Guéant and Lehalle (2013)](https://arxiv.org/abs/1204.0148)
-    
+
     👉 Investigating optimal execution strategies, this study dives deep into the liquidation problem using the Almgren-Chriss framework. It elucidates the ideal conditions under which assets should be liquidated to maximize returns and minimize market impact.
-    
 
 While this list is by no means exhaustive, these works encapsulate the core concepts and challenges of market making in various settings.
 

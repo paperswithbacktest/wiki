@@ -3,12 +3,11 @@ title: "What software allows us to test automated strategies with historical pri
 description: "Discover the top platforms for backtesting and automated trading, including MetaTrader 4 & 5, QuantConnect, NinjaTrader, and more. From popular Forex platforms to open-source libraries like Backtrader and Quantlib, each tool offers unique features for strategy development, real-time analysis, and backtesting. Learn about platforms tailored to both manual and algorithmic traders, with support for custom scripting, advanced analytics, and access to diverse markets such as equities and commodities."
 ---
 
-
-
-
 ## Table of Contents
 
 ## MetaTrader 4 & 5 (MT4/MT5)
+
+![Image](images/1.jpeg)
 
 - **Description**: These are among the world's most popular trading platforms, mainly focused on Forex. They feature a development environment called MetaEditor for coding automated strategies called Expert Advisors (EAs).
 - **Features**: These platforms offer a graphical visualization of backtesting, enabling real-time analysis of strategy performance. MT5, unlike MT4, also offers access to other markets such as equities and commodities.
@@ -52,7 +51,6 @@ description: "Discover the top platforms for backtesting and automated trading, 
 
 - **Description**: A comprehensive platform combining technical analysis, backtesting and automated trading.
 - **Features**: With its own scripting language, EasyLanguage, users can develop complex strategies and test them with integrated historical data.
-
 
 ## References & Further Reading
 

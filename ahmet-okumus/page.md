@@ -3,16 +3,13 @@ title: "Ahmet Okumus: A Trading Legend (Algo Trading)"
 description: Explore the remarkable journey of Ahmet Okumus, a trading legend in algorithmic finance who transcended from Istanbul to Wall Street. Achieving an extraordinary average annual return of 107% from 1992 to 2000, Okumus' success stems from a unique trading philosophy and disciplined approach. Featured in "Stock Market Wizards," he offers profound insights into trading strategies and methodologies. This article delves into Okumus' balanced tactics of disciplined research and strategic risk management, providing traders with inspiration and actionable insights to enhance competitiveness in the financial markets.
 ---
 
-
-
-
-
 Ahmet Okumus stands out as a prominent figure in the world of algorithmic trading, commencing his journey from Istanbul and making significant strides onto Wall Street. His trading career is marked by exceptional success, driven by a unique philosophy that underpins his strategic decisions. Starting with a modest capital investment, Okumus demonstrated an outstanding average annual return of 107% from 1992 to 2000, illustrating his adeptness in navigating financial markets with precision and acumen.
 
 Beyond his impressive financial achievements, Okumus garnered recognition through his feature in Jack Schwager's book, "Stock Market Wizards." In this book, he provided deep insights into his trading experiences, offering valuable lessons on the intricacies of stock market participation. His ability to share practical knowledge and reflections on his journey has fortified his reputation among peers and budding traders alike.
 
-This article aims to expound on Okumus’ trading methodologies, which reflect a balance between disciplined research and strategic risk-taking. His adaptability in the face of market fluctuations underscores a nuanced understanding of stock trading dynamics, valuable for traders seeking to enhance their competitiveness in the financial markets. By examining Okumus' journey and strategies, we endeavor to unravel the components of his success, offering inspiration and actionable insights for traders at all levels.
+![Image](images/1.jpeg)
 
+This article aims to expound on Okumus’ trading methodologies, which reflect a balance between disciplined research and strategic risk-taking. His adaptability in the face of market fluctuations underscores a nuanced understanding of stock trading dynamics, valuable for traders seeking to enhance their competitiveness in the financial markets. By examining Okumus' journey and strategies, we endeavor to unravel the components of his success, offering inspiration and actionable insights for traders at all levels.
 
 ## Table of Contents
 
@@ -24,7 +21,6 @@ Upon arriving in the U.S., Okumus initially took on a variety of positions, each
 
 Okumus' notable success during this period did not go unnoticed. His exceptional ability to generate high returns and his distinctive trading methodology earned him a mention in Jack Schwager's acclaimed book, "Stock Market Wizards." In the book, his strategies and insights into stock market trading were highlighted, cementing his reputation as a skilled trader and a respected figure in the financial community.
 
-
 ## Trading Strategies and Philosophy
 
 Ahmet Okumus is distinguished by a methodical and research-intensive approach to trading, which involves an extensive commitment of over 100 hours of research per week. His strategy is predominantly value-focused, targeting stocks that have experienced substantial price declines, typically in the range of 60-70% from their highs. This approach allows Okumus to capitalize on potential undervaluation, seeking opportunities in stocks that may have been overlooked or undervalued by the broader market.
@@ -34,7 +30,6 @@ Okumus implements stringent selection criteria in his trading decisions, which i
 A distinctive aspect of Okumus' trading philosophy is his contrarian stance on managing losses. Unlike the common practice among many traders to cut losses short, Okumus prefers to buy more of a stock that moves lower, provided it meets his fundamental criteria. This contrarian approach is grounded in his belief in the intrinsic value of his selected stocks. By averaging down, Okumus increases his investment in stocks he considers undervalued, reinforcing his position until the market corrects itself and reflects the stock’s true value.
 
 Overall, Ahmet Okumus' disciplined approach and philosophy are reflective of a long-term value investing mindset, where patience and thorough research play critical roles in navigating the complexities of the stock market.
-
 
 ## Key Strategies and Market Approach
 
@@ -46,7 +41,6 @@ One of Okumus' unique tactics involves the use of cash-secured puts. This strate
 
 Okumus is selective with his investments, typically maintaining a concentrated portfolio of only about ten stocks. He firmly believes that his top ten ideas have the potential to outperform more extensive portfolios. This concentration allows him to focus his research and resources more intensively on each selection, ensuring that each investment is scrutinized with a high level of due diligence. This approach also aligns with his belief in the power of in-depth research and understanding the fundamental aspects of each company within his portfolio.
 
-
 ## Handling Market Challenges
 
 During the dot-com bubble burst of the late 1990s and early 2000s, Ahmet Okumus, like many investors, faced substantial setbacks. His losses stemmed from prematurely shorting internet stocks, a common pitfall during that exuberant period. This experience served as a critical learning point for Okumus, leading him to reassess and refine his trading strategies. 
@@ -57,7 +51,6 @@ Okumus's response to these challenges was not a complete overhaul of his strateg
 
 This experience underscored the importance of remaining flexible yet committed to one's core principles, a balance that Okumus has successfully maintained throughout his career. His journey illustrates that while market conditions may change, steadfast dedication to a well-researched, disciplined investing approach can sustain long-term success.
 
-
 ## Conclusion: Insights and Inspiration
 
 Ahmet Okumus' journey from the Istanbul Stock Exchange to Wall Street exemplifies how disciplined strategies and an adaptive mindset contribute to achieving remarkable success in trading. Starting with limited capital and facing numerous challenges, Okumus consistently demonstrated an ability to navigate complex market environments. His risk-averse strategies, rooted in a focus on value and sound fundamentals, allowed him to achieve substantial returns where others faltered.
@@ -67,9 +60,6 @@ Central to Okumus' success is his commitment to intensive research, which inform
 Additionally, Okumus' willingness to adapt his strategies, particularly in response to market challenges such as the dot-com bubble burst, highlights the necessity of flexibility in trading. His experience during market downturns reinforced his approach to avoid speculative manias that are difficult to predict, illustrating a valuable lesson for traders in maintaining discipline and adhering to fundamental principles.
 
 The lessons from Okumus' career offer insight into the importance of a disciplined approach and adaptability in trading. His journey serves as an inspiration for traders, emphasizing that consistent success is achievable through a commitment to research, calculated risk-taking, and learning from both successes and setbacks.
-
-
-
 
 ## References & Further Reading
 

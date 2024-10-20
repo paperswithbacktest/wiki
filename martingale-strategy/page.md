@@ -3,11 +3,11 @@ title: "Martingale strategy"
 description: Learn about the Martingale Strategy, a popular betting system used in gambling and trading. This progressive strategy involves doubling the stake after each loss with the belief that an eventual win will recover all losses. Discover its mathematical foundation, risks, and practical implementation.
 ---
 
-
-
 The martingale strategy is a popular betting system that historically stems from the world of gambling but has been adapted for use in trading and investment. The core idea of this strategy is deceptively simple: after every loss, the gambler doubles the size of their bet, assuming that they will eventually win and recoup their losses, plus make a profit equivalent to the original bet. In the context of trading, this means doubling the investment in a losing position with the expectation that a favorable turn will cover the losses and lead to a gain.
 
 Tracing back to 18th century France, the term "martingale" originally referred to a class of betting strategies popular in France at that time. The simplest of these strategies was designed for a game in which the gambler wins his stake if a coin comes up heads and loses it if the coin comes up tails. The strategy had the gambler double the bet after every loss, so that the first win would recover all previous losses plus win a profit equal to the original stake. As it made its way into the English lexicon, the term "martingale" had come to denote a general betting strategy that sees the gambler continuously double their bet until they secure a win.
+
+![Image](images/1.png)
 
 While no definitive origin has been pinpointed, the strategy's development is often linked to John Henry Martindale, a casino owner in London who encouraged players to double their bets after a loss in the 1700s, albeit the spelling of his name differs slightly. The strategy’s mathematical foundation, often associated with the concept of mean reversion, posits that asset prices and historical returns will revert to the long-term average or mean.
 

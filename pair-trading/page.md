@@ -3,11 +3,11 @@ title: "Pairs Trading (Algo Trading)"
 description: Discover the intricacies of pair trading in algo trading, including its theoretical framework based on cointegration and Z-score analysis. Explore historical applications and learn how top hedge funds employ this strategy. Python code snippets provided for identifying cointegration, calculating correlation, and determining Z-scores. Begin your journey into the world of pairs trading today.
 ---
 
-
-
 Pair trading, originating from the quant-driven corners of Wall Street in the 1980s, hinges on the statistical method of cointegration to ascertain the likelihood of two financial instruments moving in tandem. Essentially, traders capitalize on the divergence of two co-integrated stocks, buying the undervalued security while short-selling the overvalued one, thereby banking on the reversion to their mean relationship. Notably, this strategy, regardless of the overarching market conditions, seeks to exploit short-term discrepancies in correlated security pairs, providing a haven of relative market neutrality and enabling traders to glean gains from mispricings in correlated assets.
 
 Amidst the cascade of trading innovations, pair trading has steadfastly demonstrated resilience and relevance in various market scenarios. Navigating through this comprehensive guide, you'll explore its theoretical underpinnings, historical trajectories, advanced strategies, and the algorithmic models propelling it into the modern trading realm.
+
+![Image](images/1.png)
 
 ## Table of Contents
 

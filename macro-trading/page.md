@@ -3,11 +3,11 @@ title: "Macro Trading (Algo Trading)"
 description: Discover Macro Trading, a strategy that capitalizes on economic and political factors affecting entire countries or global events. Delve into the world of macro traders who focus on monetary policy, fiscal policy, geopolitical events, and global macroeconomic indicators to make informed investment decisions. Understand the significance of macro trading through historic examples and learn about its typologies and systems.
 ---
 
-
-
 Macro trading is a strategy that focuses on making investment decisions based on economic and political factors of entire countries or global events. This approach delves into the broader aspects, such as a nation's monetary policy, fiscal policy, political events, and global macroeconomic factors, as opposed to analyzing individual companies or stocks. Macro trading can encompass a wide range of financial instruments, from foreign currencies and government bonds to commodities and equities, anything that reacts to large-scale economic shifts.
 
 The importance of macro trading in the financial world cannot be overstated. As economies and markets become increasingly interconnected, a single event in one part of the world can send ripples across global markets. Whether it's a decision by central banks to change interest rates, a surprise election result, or an unforeseen geopolitical event, these macro-level happenings can drastically affect asset prices worldwide. By understanding and anticipating these macroeconomic shifts, macro traders can position their investments to benefit from large scale movements in the market. Additionally, macro trading provides an avenue for diversification, offering potential returns that might not be correlated to traditional asset classes or market benchmarks.
+
+![Image](images/1.png)
 
 Historically, many significant market moves can be traced back to macroeconomic events. For instance, the monetary policies enacted by central banks after the 2008 financial crisis led to a prolonged era of low-interest rates, which had a profound impact on asset prices across the globe. Similarly, geopolitical tensions, such as trade disputes between major economies, can create both challenges and opportunities for astute macro traders.
 

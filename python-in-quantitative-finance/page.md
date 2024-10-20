@@ -3,11 +3,11 @@ title: "Python quantitative finance"
 description: Discover the power of Python in quantitative finance. Learn how to set up a Python environment, grasp foundational concepts, and explore essential libraries like NumPy, Pandas, Matplotlib, Scipy, and statsmodels. Master data structures, algorithms, and techniques for market analysis with practical examples and resources.
 ---
 
-
-
 Python's ascendancy in the finance sector is a testament to its versatility and adaptability. This programming language, renowned for its ease of use and readability, has become the lingua franca among quantitative analysts and financial engineers. Its surge in popularity is underpinned by an active community that contributes to a rich ecosystem of libraries and frameworks, making complex tasks more approachable. Libraries like `NumPy` and `Pandas` have simplified data analysis, while `Matplotlib` and `Seaborn` have brought clarity to data visualization, crucial in dissecting financial markets. Scipy and Statsmodels have further extended Python's capabilities into scientific computing and statistical modeling, essential for developing intricate financial models.
 
 Python's dominance in the field is also due to its ability to act as a powerful tool for both novice programmers and seasoned quants alike. For beginners, Python is an excellent entry point into the world of coding due to its straightforward syntax. For experts, it offers robust functionalities for deep financial analysis and algorithm development. Its compatibility with other languages and tools adds to its allure, providing a comprehensive platform for all forms of quantitative finance work.
+
+![Image](images/1.png)
 
 ## Table of Contents
 
