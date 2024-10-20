@@ -22,7 +22,7 @@ This article will explore how technical analysis aids in swing trading and its r
 
 Swing trading is a trading strategy that focuses on capturing gains in financial instruments over a relatively short period, typically ranging from a few days to several weeks. The underlying premise of swing trading is to capitalize on expected upward or downward "swings" in asset prices. 
 
-Traders engaged in swing trading employ various analytical techniques to identify swings in a security's price. These techniques often involve both fundamental analysis, which evaluates the intrinsic value of a security based on economic indicators and financial statements, and technical analysis, which examines past market data, primarily price and volume.
+Traders engaged in swing trading employ various analytical techniques to identify swings in a security's price. These techniques often involve both fundamental analysis, which evaluates the intrinsic value of a security based on economic indicators and financial statements, and technical analysis, which examines past market data, primarily price and [volume](/wiki/volume-trading-strategy).
 
 Swing trading sits between [day trading](/wiki/day-trading-spy) and trend trading. Day trading entails executing multiple trades within a single day, with traders typically closing all positions by the end of the trading session. In contrast, trend trading involves holding positions based on expected long-term trends, often spanning several months. Swing trading, therefore, serves as a middle ground, aiming to capture a significant portion of a potential price move without the need to monitor trades constantly or commit to long-term positions.
 

@@ -18,7 +18,7 @@ This article aims to explore the nuances of the bearish kicker pattern, undersco
 
 ## Understanding the Bearish Kicker Pattern
 
-The bearish kicker candlestick pattern is a formation that signals a potential reversal in an upward trend, indicating a shift towards a bearish market. It is characterized by a gap down in prices that completely overwhelms the prior bullish candlestick, suggesting that the momentum has shifted decisively from buyers to sellers.
+The bearish kicker candlestick pattern is a formation that signals a potential reversal in an upward trend, indicating a shift towards a bearish market. It is characterized by a gap down in prices that completely overwhelms the prior bullish candlestick, suggesting that the [momentum](/wiki/momentum) has shifted decisively from buyers to sellers.
 
 A typical bearish kicker consists of two candles: the first is a bullish candle (often represented in green) that is followed by a bearish candle (often represented in red) with no overlap between their real bodies. The second candlestick opens below the closing price of the first and moves further down, forming a distinct gap. This formation typically occurs at the top of an uptrend and acts as a strong indicator of a potential reversal to a downtrend.
 

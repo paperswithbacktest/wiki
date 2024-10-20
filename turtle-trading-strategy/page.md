@@ -22,7 +22,7 @@ This article will examine the history and fundamental principles of Turtle Tradi
 
 Turtle Trading originated in the 1980s as part of an experiment conceived by veteran traders Richard Dennis and William Eckhardt. This experiment was designed to resolve a long-standing debate between the two regarding the nature of trading success: could trading skills be taught, or was successful trading an innate talent? Dennis, a successful commodities trader, believed that with the proper training, anyone could be taught to trade. In contrast, Eckhardt was skeptical, questioning if profound natural abilities played a more significant role.
 
-To test these theories, Dennis and Eckhardt conducted an innovative experiment. They recruited a diverse group of people from various backgrounds and levels of trading experience. These individuals came to be known as the 'Turtles,' inspired by Dennis's visit to a turtle farm in Singapore, where he had an epiphany that traders could be cultivated just as turtles were farmed.
+To test these theories, Dennis and Eckhardt conducted an innovative experiment. They recruited a diverse group of people from various backgrounds and levels of trading experience. These individuals came to be known as the 'Turtles,' inspired by Dennis's visit to a [turtle](/wiki/turtle-trading) farm in Singapore, where he had an epiphany that traders could be cultivated just as turtles were farmed.
 
 The Turtles were introduced to a systematic, rules-based approach to trading, which marked a significant departure from the discretionary methods many traders employed at the time. This methodology focused on trend-following strategies, a concept Dennis himself had successfully implemented in his trading career. 
 

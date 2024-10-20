@@ -22,7 +22,7 @@ Algorithmic trading, often referred to as algo trading, involves the use of comp
 
 One of the primary advantages of algorithmic trading is its precision in execution. Algorithms can monitor multiple market conditions in real time, executing trades at the exact moment predetermined criteria are met. This level of precision significantly reduces slippage, a common issue in manual trading where the executed trade price diverges from the intended price. 
 
-Additionally, algorithmic trading minimizes human error, a crucial factor in fast-paced financial markets. Human traders are susceptible to emotional biases and fatigue, which can lead to inconsistent decision-making. Algorithms, devoid of emotions, execute trades based solely on the set rules, ensuring a consistent approach to trading strategies.
+Additionally, algorithmic trading minimizes human error, a crucial [factor](/wiki/factor-investing) in fast-paced financial markets. Human traders are susceptible to emotional biases and fatigue, which can lead to inconsistent decision-making. Algorithms, devoid of emotions, execute trades based solely on the set rules, ensuring a consistent approach to trading strategies.
 
 The ability of algorithmic systems to process vast amounts of information swiftly is another significant advantage. Financial markets generate huge volumes of data continuously. Algorithms can analyze this data across multiple securities and time frames more rapidly than a human could, identifying and acting on trading opportunities almost instantaneously.
 

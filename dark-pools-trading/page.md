@@ -20,7 +20,7 @@ This article aims to shed light on the role of dark pools in algorithmic trading
 
 ## Understanding Dark Pools
 
-Dark pools are private trading platforms designed to facilitate securities trading away from the public spotlight. Unlike public exchanges such as the New York Stock Exchange (NYSE) or NASDAQ, where order books are visible to all participants, dark pools operate with anonymity, ensuring that the details of trades are not disclosed to the broader market before execution. This secrecy can be advantageous for institutional investors, particularly when executing block trades—large orders of securities—without causing significant shifts in market prices.
+Dark pools are private trading platforms designed to facilitate securities trading away from the public spotlight. Unlike public exchanges such as the New York Stock Exchange (NYSE) or NASDAQ, where order [books](/wiki/algo-trading-books) are visible to all participants, dark pools operate with anonymity, ensuring that the details of trades are not disclosed to the broader market before execution. This secrecy can be advantageous for institutional investors, particularly when executing block trades—large orders of securities—without causing significant shifts in market prices.
 
 Block trades executed in public exchanges can lead to considerable price slippage, a phenomenon where the price of a security moves unfavorably between the time an order is placed and when it is executed. Dark pools mitigate this risk by allowing trades to occur without alerting other market participants, thus preserving the confidentiality of trading strategies and minimizing market impact.
 

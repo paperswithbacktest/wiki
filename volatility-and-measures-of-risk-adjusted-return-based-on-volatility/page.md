@@ -18,7 +18,7 @@ This article examines the concept of volatility in the context of algorithmic tr
 
 ## Understanding Volatility
 
-Volatility represents the rate of change in the price of a security, quantifying the extent to which its return fluctuates over a specific period. This measurement of price dispersion can be pivotal for traders as it significantly influences the risk and potential reward of an investment. For traders seeking to assess the predictability and stability of returns, understanding volatility is indispensable.
+Volatility represents the rate of change in the price of a security, quantifying the extent to which its return fluctuates over a specific period. This measurement of price [dispersion](/wiki/dispersion-trading) can be pivotal for traders as it significantly influences the risk and potential reward of an investment. For traders seeking to assess the predictability and stability of returns, understanding volatility is indispensable.
 
 Volatility's relevance extends beyond mere price movement analysis; it plays a crucial role in risk assessment. High volatility is synonymous with larger price swings, presenting both opportunities and risks. In such scenarios, the potential for significant gains exists, but so does the risk of substantial losses. Conversely, low volatility indicates smaller, less frequent price movements, often perceived as less risky but potentially yielding lower returns.
 

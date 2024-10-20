@@ -20,7 +20,7 @@ This article examines the Double Seven strategy in detail, covering its foundati
 
 The Double Seven strategy, formulated by Larry Connors and Cesar Alvarez, is prominently detailed in their book "Short Term Trading Strategies That Work". This trading approach is categorized as a mean-reversion strategy, which targets the exploitation of temporary reversals within market trends. The core principle is that prices exhibiting extreme short-term movements tend to return to their average levels, thus presenting lucrative buying or selling opportunities.
 
-The strategy's mechanism largely revolves around the application of simple moving averages and specific price-based indicators. Unlike momentum strategies that buy on strength and sell on weakness, the Double Seven strategy does the opposite. It anticipates a price movement reversal upon reaching certain thresholds, making it fundamentally counter-trend in nature.
+The strategy's mechanism largely revolves around the application of simple moving averages and specific price-based indicators. Unlike [momentum](/wiki/momentum) strategies that buy on strength and sell on weakness, the Double Seven strategy does the opposite. It anticipates a price movement reversal upon reaching certain thresholds, making it fundamentally counter-trend in nature.
 
 The simple moving average (SMA), a key component of this strategy, is used to identify the prevailing trend. A 200-day SMA often serves as a benchmark for defining the market's long-term direction. If the current price is above this moving average, it is indicative of an upward trend, which sets the foundation for further strategic actions.
 

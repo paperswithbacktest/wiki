@@ -22,7 +22,7 @@ This article will explore these dimensions in detail, covering what algorithmic 
 
 ## What is Algorithmic Trading?
 
-Algorithmic trading, commonly referred to as algo trading, is the process of executing orders using pre-programmed and automated trading instructions. These instructions account for variables such as time, price, and volume, significantly reducing the role of human discretion in trading decisions. The significance of algorithmic trading lies in its ability to enhance market efficiency by executing orders at speeds and frequencies unattainable by a human trader, thereby enabling the exploitation of minute market inefficiencies.
+Algorithmic trading, commonly referred to as algo trading, is the process of executing orders using pre-programmed and automated trading instructions. These instructions account for variables such as time, price, and [volume](/wiki/volume-trading-strategy), significantly reducing the role of human discretion in trading decisions. The significance of algorithmic trading lies in its ability to enhance market efficiency by executing orders at speeds and frequencies unattainable by a human trader, thereby enabling the exploitation of minute market inefficiencies.
 
 The history of [algorithmic trading](/wiki/algorithmic-trading) dates back to the early 1970s with the advent of electronic trading platforms. The London Stock Exchange facilitated one of the first instances of automated trading with the introduction of its Electronic Trading System (SETS) in 1984. The development of algorithmic trading accelerated in the 1990s as stock exchanges worldwide adopted electronic trading systems, driven by technological advances and regulatory changes that permitted more electronic access to markets.
 

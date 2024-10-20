@@ -18,9 +18,9 @@ This article examines various strategies employed by crypto trading bots, uncove
 
 ## What is Crypto Bot Trading?
 
-Crypto bot trading refers to the use of computer programs that automatically execute trades in cryptocurrency markets according to predefined criteria. These bots are designed to monitor market data in real time, recognize trading opportunities, and carry out trades with minimal to no human input. This is achieved by leveraging sophisticated algorithms that determine when to buy, sell, or hold digital assets, thereby enabling around-the-clock trading even when human traders are unavailable.
+Crypto bot trading refers to the use of computer programs that automatically execute trades in cryptocurrency markets according to predefined criteria. These bots are designed to monitor market data in real time, recognize trading opportunities, and [carry](/wiki/carry-trading) out trades with minimal to no human input. This is achieved by leveraging sophisticated algorithms that determine when to buy, sell, or hold digital assets, thereby enabling around-the-clock trading even when human traders are unavailable.
 
-The functionality of crypto bots lies in their ability to operate based on specific algorithmic conditions. These algorithms can be programmed to consider various factors such as market indicators, price movements, and volume trends to make informed trading decisions. For instance, a basic example might involve a moving average crossover strategy where a bot could be set to buy a cryptocurrency when its short-term moving average crosses above its long-term moving average, and sell when the opposite occurs. Here's a simple pseudocode example of such a strategy:
+The functionality of crypto bots lies in their ability to operate based on specific algorithmic conditions. These algorithms can be programmed to consider various factors such as market indicators, price movements, and [volume](/wiki/volume-trading-strategy) trends to make informed trading decisions. For instance, a basic example might involve a moving average crossover strategy where a bot could be set to buy a cryptocurrency when its short-term moving average crosses above its long-term moving average, and sell when the opposite occurs. Here's a simple pseudocode example of such a strategy:
 
 ```python
 # Simple moving average crossover strategy

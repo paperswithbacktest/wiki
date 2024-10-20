@@ -20,7 +20,7 @@ The purpose of this article is to explore how the KuCoin API can be integrated i
 
 ## Understanding Algorithmic Trading
 
-Algorithmic trading is a method of executing orders using automated and pre-programmed trading instructions to account for variables such as time, price, and volume. By utilizing these algorithms, traders can optimize trading decisions and remove human intervention from the process. This approach leverages the computational power of machines to operate at speeds and frequencies that are impossible for human traders.
+Algorithmic trading is a method of executing orders using automated and pre-programmed trading instructions to account for variables such as time, price, and [volume](/wiki/volume-trading-strategy). By utilizing these algorithms, traders can optimize trading decisions and remove human intervention from the process. This approach leverages the computational power of machines to operate at speeds and frequencies that are impossible for human traders.
 
 At its core, algorithmic trading involves designing algorithms that automatically execute trades based on predefined criteria. These algorithms process vast amounts of data to make real-time trading decisions, optimizing the execution of trades by taking advantage of market conditions that align with the algorithm's parameters. This automation leads to improved accuracy, reduced transaction costs, and the ability to exploit short-lived trading opportunities.
 

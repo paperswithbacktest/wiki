@@ -22,7 +22,7 @@ Futures trading involves the buying and selling of futures contracts, which are 
 
 Futures contracts are available across diverse asset classes. These include commodities like oil and gold, financial instruments like currencies and indices, and even interest rates. The versatility in asset choice allows traders to execute strategies tailored to specific market conditions.
 
-One of the distinguishing features of futures trading is leverage. Leverage permits traders to control a large position size with a comparatively smaller amount of capital. This characteristic amplifies potential returns, but it also escalates risk, necessitating strategic risk management. The liquidity of futures markets adds another layer of attractiveness for traders, ensuring the ability to enter and exit positions with relative ease and minimal price impact.
+One of the distinguishing features of futures trading is leverage. Leverage permits traders to control a large position size with a comparatively smaller amount of capital. This characteristic amplifies potential returns, but it also escalates risk, necessitating strategic risk management. The liquidity of futures markets adds another layer of attractiveness for traders, ensuring the ability to enter and [exit](/wiki/exit-strategy) positions with relative ease and minimal price impact.
 
 To effectively develop trading strategies in futures markets, comprehensive knowledge of market operations is indispensable. Familiarity with the workings of futures exchanges, contract specifications, and the interplay of supply and demand dynamics enhances strategic decision-making. It is also essential to understand the regulatory environment and its implications for futures trading activities.
 

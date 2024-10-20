@@ -20,7 +20,7 @@ This article provides an overview of Robinhood's API for algorithmic trading, em
 
 ## Understanding Algorithmic Trading
 
-Algorithmic trading refers to the method of executing trades using programmed instructions, or algorithms, that account for various variables such as timing, price, and volume. With the advent of technology, algorithmic trading has become a cornerstone of the financial markets, offering the ability to execute orders at unprecedented speed and frequency, far surpassing human capabilities.
+Algorithmic trading refers to the method of executing trades using programmed instructions, or algorithms, that account for various variables such as timing, price, and [volume](/wiki/volume-trading-strategy). With the advent of technology, algorithmic trading has become a cornerstone of the financial markets, offering the ability to execute orders at unprecedented speed and frequency, far surpassing human capabilities.
 
 One of the primary advantages of algorithmic trading is its capacity to minimize human error and bias. Human traders, influenced by emotions and subjective judgments, may make inconsistent decisions, whereas algorithms execute trades based on predefined criteria without deviation. This systematic approach helps reduce emotional decision-making, which can often lead to faulty investment choices.
 

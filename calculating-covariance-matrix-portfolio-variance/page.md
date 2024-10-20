@@ -18,7 +18,7 @@ This article explores the significance of the covariance variance matrix in algo
 
 ## Understanding Covariance and Variance
 
-Covariance and variance are foundational concepts in statistics, particularly within the field of finance, where they are crucial for evaluating risk and relationships between different assets. Covariance measures how two variables move in relation to each other, providing insights into whether the variables tend to increase or decrease simultaneously. If the covariance is positive, it indicates that the variables tend to move in the same direction, whereas a negative covariance suggests they move inversely. The mathematical representation of covariance between two variables $X$ and $Y$ can be expressed as:
+Covariance and variance are foundational concepts in [statistics](/wiki/bayesian-statistics), particularly within the field of finance, where they are crucial for evaluating risk and relationships between different assets. Covariance measures how two variables move in relation to each other, providing insights into whether the variables tend to increase or decrease simultaneously. If the covariance is positive, it indicates that the variables tend to move in the same direction, whereas a negative covariance suggests they move inversely. The mathematical representation of covariance between two variables $X$ and $Y$ can be expressed as:
 
 $$
 \text{Cov}(X, Y) = \frac{\sum (X_i - \bar{X})(Y_i - \bar{Y})}{n - 1}

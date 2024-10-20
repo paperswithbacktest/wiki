@@ -18,7 +18,7 @@ In this article, we will examine how traders and financial professionals can eff
 
 ## Overview of Stooq Data
 
-Stooq is a financial data platform based in Poland that offers extensive data resources for various global financial instruments. It provides free access to OHLCV (Open, High, Low, Close, Volume) data, covering over 21,000 global securities, inclusive of ETFs, enabling detailed market analysis. The data is available from global stock exchanges, commodities markets, indices, forex, and cryptocurrencies, catering to a wide range of financial analysis needs.
+Stooq is a financial data platform based in Poland that offers extensive data resources for various global financial instruments. It provides free access to OHLCV (Open, High, Low, Close, Volume) data, covering over 21,000 global securities, inclusive of ETFs, enabling detailed market analysis. The data is available from global stock exchanges, commodities markets, indices, [forex](/wiki/forex-system), and cryptocurrencies, catering to a wide range of financial analysis needs.
 
 One of Stooq's main advantages is its provision of minute-level data, which is crucial for algorithmic trading strategies that require precise and granular data analysis. Such high-frequency data allows traders and analysts to perform detailed time series analysis and develop nuanced trading strategies that capitalize on short term market movements.
 

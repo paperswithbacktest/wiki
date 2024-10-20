@@ -20,7 +20,7 @@ This article aims to explore the intersection between institutional traders and 
 
 ## Understanding Institutional Traders
 
-Institutional traders are major players in the financial markets, consisting of entities like hedge funds, mutual funds, pension funds, endowments, and investment banks. These organizations trade large amounts of securities, significantly influencing market dynamics due to the sheer volume and scale of their trading activities. Typically, institutional traders differ from retail traders, who are individual investors trading with their personal funds. 
+Institutional traders are major players in the financial markets, consisting of entities like hedge funds, mutual funds, pension funds, endowments, and investment banks. These organizations trade large amounts of securities, significantly influencing market dynamics due to the sheer [volume](/wiki/volume-trading-strategy) and scale of their trading activities. Typically, institutional traders differ from retail traders, who are individual investors trading with their personal funds. 
 
 Hedge funds are investment vehicles that employ various strategies to achieve high returns for their clients, often capitalizing on market inefficiencies. Their strategies can range from long/short equity to global macroeconomic positions. Mutual funds, on the other hand, pool resources from individual investors to purchase a diversified portfolio of stocks, bonds, or other securities. These funds aim to provide steady returns for their investors while managing risks through diversification. Investment banks engage in trading as part of their broader financial services, which include underwriting, facilitating mergers and acquisitions, and asset management.
 

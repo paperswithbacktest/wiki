@@ -22,7 +22,7 @@ The Money Flow Index (MFI) stands out as a momentum oscillator utilized by trade
 
 Unlike the traditional RSI, which focuses solely on price movements, the MFI incorporates volume data into its calculations, thereby providing a more holistic view of market activity. This inclusion of volume significantly enhances the indicator’s ability to reflect the true momentum behind price movements. 
 
-The relevance of key levels within the MFI is twofold: they help in identifying potential price reversals and thus provide traders with strategic entry and exit points. For instance, when the MFI reaches extreme levels (below 20 or above 80), it signifies a potential reversal in the price trend, allowing traders to anticipate and act upon expected market changes.
+The relevance of key levels within the MFI is twofold: they help in identifying potential price reversals and thus provide traders with strategic entry and [exit](/wiki/exit-strategy) points. For instance, when the MFI reaches extreme levels (below 20 or above 80), it signifies a potential reversal in the price trend, allowing traders to anticipate and act upon expected market changes.
 
 By combining price [momentum](/wiki/momentum) and [volume](/wiki/volume-trading-strategy) data, the Money Flow Index serves as a powerful tool for traders aiming to make informed decisions based on current market conditions.
 

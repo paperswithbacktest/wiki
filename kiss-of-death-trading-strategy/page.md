@@ -18,7 +18,7 @@ This article aims to provide a comprehensive understanding of the Kiss of Death 
 
 ## Understanding the Kiss of Death Signal
 
-The Kiss of Death is a stock market pattern known for its potential to signal upcoming bear markets. It is identified by a specific sequence of movements in the S&P 500 index. The sequence begins with the index reaching an all-time high, followed by a decline that takes it below its monthly 21-day exponential moving average (EMA). After falling below the 21-EMA, the index recovers slightly, rising back above the 21-EMA before subsequently dropping below the prior low. This pattern suggests a lack of sustained momentum in the market, which may signal the onset of significant economic downturns.
+The Kiss of Death is a stock market pattern known for its potential to signal upcoming bear markets. It is identified by a specific sequence of movements in the S&P 500 index. The sequence begins with the index reaching an all-time high, followed by a decline that takes it below its monthly 21-day exponential moving average (EMA). After falling below the 21-EMA, the index recovers slightly, rising back above the 21-EMA before subsequently dropping below the prior low. This pattern suggests a lack of sustained [momentum](/wiki/momentum) in the market, which may signal the onset of significant economic downturns.
 
 Historically, the Kiss of Death has been associated with some of the most crucial market crashes, serving as a precursor to the downturns experienced in years such as 1969, 1973, 1978, 2001, and 2008. By analyzing historical data, traders have found that this pattern, although rare, has proven to be an ominous signal that warrants consideration.
 

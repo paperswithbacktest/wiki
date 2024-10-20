@@ -20,7 +20,7 @@ This guide aims to elucidate the intricacies of RTY futures, offering a detailed
 
 The E-mini Russell 2000 Index futures (RTY) are a type of financial derivative that enables traders to speculate on the movements of the Russell 2000 Index, a key benchmark for tracking small-cap U.S. stocks. These futures contracts are specifically designed to be more accessible to a broader range of traders, particularly those with smaller trading accounts, thanks to their reduced contract size compared to standard futures contracts.
 
-RTY futures contracts are traded on the CME Globex platform, a leading electronic trading platform renowned for its high liquidity and efficiency. This facilitates smoother transactions and helps ensure tighter bid-ask spreads, giving traders a more efficient market experience. Liquidity is crucial for traders because it affects the ease with which positions can be entered and exited without significantly impacting the price.
+RTY futures contracts are traded on the CME Globex platform, a leading electronic trading platform renowned for its high [liquidity](/wiki/liquidity-risk-premium) and efficiency. This facilitates smoother transactions and helps ensure tighter bid-ask spreads, giving traders a more efficient market experience. Liquidity is crucial for traders because it affects the ease with which positions can be entered and exited without significantly impacting the price.
 
 The value of an RTY futures contract is derived by multiplying the index value by $50. Mathematically, this can be expressed as:
 

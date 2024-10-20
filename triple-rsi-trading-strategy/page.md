@@ -20,7 +20,7 @@ Algorithmic traders use these tools to design trading systems that not only reac
 
 ## Understanding High Win Rate in Algo Trading
 
-High win rate in algorithmic trading is a key performance metric representing the proportion of trades executed by an algorithm that end in profit over a defined timeframe. For algorithmic traders, achieving a high win rate is particularly vital when the trading strategy involves executing a high frequency of trades, as it enables the generation of consistent returns and reinforces the reliability of the trading system.
+High win rate in algorithmic trading is a key performance metric representing the proportion of trades executed by an algorithm that end in profit over a defined timeframe. For algorithmic traders, achieving a high win rate is particularly vital when the trading strategy involves executing a [high frequency](/wiki/high-frequency-trading) of trades, as it enables the generation of consistent returns and reinforces the reliability of the trading system.
 
 Several factors contribute to securing a high win rate in algorithmic trading. Among these, effective risk management is paramount. Risk management involves the precise calibration of trade sizes, stop-loss arrangements, and the overall risk exposure per trade relative to the portfolio size. This ensures that individual losses do not significantly impact the trading account, allowing potentially successful trades to recover any unexpected drawdowns.
 

@@ -18,7 +18,7 @@ This article aims to provide a comprehensive overview of the best dividend stock
 
 ## Understanding Dividend Stocks
 
-Dividends represent a portion of a company's earnings that is distributed to shareholders, typically on a regular basis, such as quarterly or annually. This distribution serves as a direct source of income for investors, in addition to the potential for capital appreciation of the stock itself. The primary advantage of investing in dividend stocks is the dual benefit of earning consistent income while also participating in the stock’s long-term value growth.
+Dividends represent a portion of a company's earnings that is distributed to shareholders, typically on a regular basis, such as quarterly or annually. This distribution serves as a direct source of income for investors, in addition to the potential for capital appreciation of the stock itself. The primary advantage of investing in dividend stocks is the dual benefit of [earning](/wiki/earning-announcement) consistent income while also participating in the stock’s long-term value growth.
 
 Companies that offer significant dividend yields are usually well-established entities with a track record of stable earnings performance. These companies are often in mature industries where growth is steady but less aggressive, allowing for a portion of profits to be returned to shareholders. A strong dividend yield indicates that the company is generating sufficient profits and is financially robust enough to share those profits with investors.
 

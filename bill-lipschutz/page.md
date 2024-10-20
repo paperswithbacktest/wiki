@@ -18,7 +18,7 @@ This article explores Lipschutz's strategic deployment of algorithmic trading an
 
 ## Early Career and Algorithmic Trading Revolution
 
-Bill Lipschutz began his illustrious career at Salomon Brothers, a prominent investment bank known for its aggressive trading strategies and innovative financial products. During the late 1970s and 1980s, Lipschutz quickly gained recognition as a formidable forex trader. His success was largely attributed to his deep understanding of market dynamics and an intuitive grasp of currency fluctuations.
+Bill Lipschutz began his illustrious career at Salomon Brothers, a prominent investment bank known for its aggressive trading strategies and innovative financial products. During the late 1970s and 1980s, Lipschutz quickly gained recognition as a formidable [forex](/wiki/forex-system) trader. His success was largely attributed to his deep understanding of market dynamics and an intuitive grasp of currency fluctuations.
 
 In the 1990s, Lipschutz foresaw the transformative potential of emerging technologies in trading and became one of the first traders to embrace algorithmic trading. Recognizing the limitations of manual trading, such as slower execution times and susceptibility to emotional decisions, he integrated algorithmic solutions into his strategies. Lipschutz's approach involved using mathematical models to automate and optimize trading operations, thereby increasing efficiency and accuracy.
 

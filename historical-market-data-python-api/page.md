@@ -18,7 +18,7 @@ This article will explore how modern traders leverage these platforms to refine 
 
 ## Understanding Algo Trading
 
-Algorithmic trading, commonly known as algo trading, involves using computer algorithms to execute trades based on predefined criteria. These algorithms are designed to make trading decisions by analyzing market data, identifying trading opportunities, and executing trades at optimal prices and times. The automation provided by algo trading enables traders to implement strategies that would be difficult or even impossible to carry out manually. 
+Algorithmic trading, commonly known as algo trading, involves using computer algorithms to execute trades based on predefined criteria. These algorithms are designed to make trading decisions by analyzing market data, identifying trading opportunities, and executing trades at optimal prices and times. The automation provided by algo trading enables traders to implement strategies that would be difficult or even impossible to [carry](/wiki/carry-trading) out manually. 
 
 Algo trading offers several noteworthy benefits. Firstly, it significantly enhances the speed of execution. Algorithms can react to market movements in milliseconds, allowing trades to be executed more quickly than humanly possible, which is crucial in high-frequency trading environments where time is of the essence. Secondly, algo trading improves efficiency. By minimizing human intervention, the risk of manual errors is reduced, and consistent execution of trading strategies can be maintained. Algorithms can process vast amounts of market data with precision, identifying and exploiting inefficiencies that might be missed by manual traders.
 

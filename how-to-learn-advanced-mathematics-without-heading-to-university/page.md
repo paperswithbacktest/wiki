@@ -22,7 +22,7 @@ This article explores the diverse mathematical concepts applied in algorithmic t
 
 Algorithmic trading utilizes computer programs to automatically execute trading actions on financial markets based on predefined criteria. This approach is designed to identify and exploit trading opportunities more efficiently than traditional manual trading.
 
-At the core of algorithmic trading are algorithms—comprehensive sets of instructions that automate decision-making processes. These algorithms can simultaneously analyze multiple market conditions, such as price, volume, and timing, to determine optimal trading moments. By scanning various indicators across global markets in real-time, they help traders execute buy or sell orders automatically when market conditions meet specific predefined thresholds.
+At the core of algorithmic trading are algorithms—comprehensive sets of instructions that automate decision-making processes. These algorithms can simultaneously analyze multiple market conditions, such as price, [volume](/wiki/volume-trading-strategy), and timing, to determine optimal trading moments. By scanning various indicators across global markets in real-time, they help traders execute buy or sell orders automatically when market conditions meet specific predefined thresholds.
 
 Basic algorithms often rely on straightforward, rule-based logic. For example, a simple algorithm might buy a stock if its moving average over the past 20 days exceeds its 50-day moving average, and sell if the opposite occurs. This approach allows traders to capitalize on trends and patterns with minimal manual intervention.
 

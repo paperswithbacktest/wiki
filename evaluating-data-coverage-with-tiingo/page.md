@@ -18,7 +18,7 @@ This article examines Tiingo's role in supporting algorithmic trading. We will e
 
 ## What is Tiingo?
 
-Tiingo is a comprehensive financial data platform, recognized primarily for providing affordable yet high-quality data feeds essential for algorithmic trading. The platform offers an extensive range of data sets tailored to the needs of modern traders and investors. These data sets include historical market data, which is critical for backtesting trading strategies and analyzing market trends over time. Additionally, it supplies financial statements, offering insights into a company's financial health, which are pivotal for fundamental analysis.
+Tiingo is a comprehensive financial data platform, recognized primarily for providing affordable yet high-quality data feeds essential for algorithmic trading. The platform offers an extensive range of data sets tailored to the needs of modern traders and investors. These data sets include historical market data, which is critical for backtesting trading strategies and analyzing market trends over time. Additionally, it supplies financial statements, offering insights into a company's financial health, which are pivotal for [fundamental analysis](/wiki/fundamental-analysis).
 
 One of the standout features of Tiingo is its sentiment analysis capabilities. By analyzing news and social media content, Tiingo helps traders gauge the market mood, which can significantly influence trading decisions. For instance, a positive sentiment might be an indicator of rising stock prices, while negative sentiment could suggest a downturn. This analysis is complemented by the platform's comprehensive news coverage, ensuring traders have access to timely and relevant information.
 

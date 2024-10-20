@@ -20,7 +20,7 @@ Moreover, this article presents real-world examples of AI's application in renow
 
 AI trading algorithms use advanced technologies such as machine learning and sophisticated analytics to automate and refine trading decisions. These algorithms have the capacity to process vast and intricate datasets, a capability that significantly surpasses human limitations in terms of both speed and accuracy.
 
-Machine learning, particularly deep learning models, plays a crucial role in AI trading by enabling the identification of complex market patterns and trends that may not be apparent through conventional analysis. For instance, neural networks can be utilized to capture nonlinear interactions within financial data, thereby enhancing predictive capabilities. A basic example of a machine learning algorithm used in trading is the Long Short-Term Memory (LSTM) network, which is particularly suitable for time series forecasting due to its ability to remember information over long sequences.
+Machine learning, particularly [deep learning](/wiki/deep-learning) models, plays a crucial role in AI trading by enabling the identification of complex market patterns and trends that may not be apparent through conventional analysis. For instance, neural networks can be utilized to capture nonlinear interactions within financial data, thereby enhancing predictive capabilities. A basic example of a machine learning algorithm used in trading is the Long Short-Term Memory (LSTM) network, which is particularly suitable for time series forecasting due to its ability to remember information over long sequences.
 
 ```python
 # Example of an LSTM model in Python using Keras

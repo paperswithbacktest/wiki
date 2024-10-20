@@ -20,7 +20,7 @@ Whether you're a seasoned trader or a newcomer to the forex market, understandin
 
 ## Understanding Intraday Forex Trading
 
-Intraday forex trading, often referred to as day trading, is a strategy where traders engage in buying and selling currency pairs within the same trading day. This method is designed to capitalize on small price movements in the highly liquid forex market. Unlike swing trading or position trading, where traders hold positions for days or even weeks, intraday trading requires the closure of all trades by the end of the day to avoid the uncertainties and risks associated with overnight market fluctuations.
+Intraday forex trading, often referred to as [day trading](/wiki/day-trading-spy), is a strategy where traders engage in buying and selling currency pairs within the same trading day. This method is designed to capitalize on small price movements in the highly liquid forex market. Unlike swing trading or position trading, where traders hold positions for days or even weeks, intraday trading requires the closure of all trades by the end of the day to avoid the uncertainties and risks associated with overnight market fluctuations.
 
 A hallmark of intraday trading is the short timeframes used. Trades are typically executed on minute, five-minute, or even 15-minute charts, allowing traders to respond quickly to market signals. This rapid trading cadence demands a high level of concentration and a disciplined approach to entry and exit strategies.
 

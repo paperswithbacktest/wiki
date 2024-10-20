@@ -22,7 +22,7 @@ Long-term trading strategies in algorithmic trading involve leveraging the buy-a
 
 The implementation of long-term strategies within algorithmic frameworks requires a comprehensive understanding of market fundamentals, such as macroeconomic indicators, interest rates, GDP growth, and earnings reports. These factors play a crucial role in influencing the strategic decision-making process by contributing to the identification of sustainable trends and potential inflection points.
 
-One of the primary objectives of these long-term strategies is to exploit broad market momentum, capturing upward or downward trends as they develop. By focusing on these macroeconomic variables, long-term algorithms can effectively align their trading signals with underlying economic conditions, thus enhancing the probability of achieving favorable outcomes.
+One of the primary objectives of these long-term strategies is to exploit broad market [momentum](/wiki/momentum), capturing upward or downward trends as they develop. By focusing on these macroeconomic variables, long-term algorithms can effectively align their trading signals with underlying economic conditions, thus enhancing the probability of achieving favorable outcomes.
 
 Compared to short-term trading, these algorithms demand less frequent monitoring, providing a more passive approach to investment management. However, the requirement for a solid grasp of economic indicators and [fundamental analysis](/wiki/fundamental-analysis) remains imperative. This understanding aids in constructing strategies that are robust and adaptive to changing market conditions.
 

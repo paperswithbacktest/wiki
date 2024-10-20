@@ -20,7 +20,7 @@ Overall, the exploration in this article will provide traders with a deeper unde
 
 ## What is QuantConnect?
 
-QuantConnect is a sophisticated algorithmic trading platform that equips traders with a comprehensive suite of tools for designing, testing, and implementing trading strategies. At its core, QuantConnect supports a diverse range of financial markets, including equities, options, forex, and futures, allowing traders to apply their strategies across multiple asset classes. This flexibility is crucial for those aiming to diversify their portfolios and explore different market opportunities.
+QuantConnect is a sophisticated algorithmic trading platform that equips traders with a comprehensive suite of tools for designing, testing, and implementing trading strategies. At its core, QuantConnect supports a diverse range of financial markets, including equities, options, [forex](/wiki/forex-system), and futures, allowing traders to apply their strategies across multiple asset classes. This flexibility is crucial for those aiming to diversify their portfolios and explore different market opportunities.
 
 A standout feature of QuantConnect is its cloud-based integrated development environment (IDE), which facilitates both backtesting and live trading. This environment allows traders to simulate their strategies using historical data before deploying them in real-time markets. Backtesting is essential for assessing the viability and performance of a trading strategy under various market conditions without risking actual capital. The real-time capability ensures that strategies can be executed promptly and efficiently once they have been validated.
 

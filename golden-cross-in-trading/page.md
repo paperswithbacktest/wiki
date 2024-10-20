@@ -18,7 +18,7 @@ This article aims to define the Golden Cross, highlight its importance, and exam
 
 ## Understanding the Golden Cross
 
-A Golden Cross occurs when a short-term moving average, such as the 50-day Simple Moving Average (SMA), crosses above a long-term moving average like the 200-day SMA. This event is recognized as a bullish breakout, highlighting a potential shift towards a strong upward trend. The formation of a Golden Cross is generally viewed as an indicator of momentum transitioning from a bearish outlook to a bullish perspective, often stimulating increased buying interest in the market. 
+A Golden Cross occurs when a short-term moving average, such as the 50-day Simple Moving Average (SMA), crosses above a long-term moving average like the 200-day SMA. This event is recognized as a bullish [breakout](/wiki/breakout-trading), highlighting a potential shift towards a strong upward trend. The formation of a Golden Cross is generally viewed as an indicator of momentum transitioning from a bearish outlook to a bullish perspective, often stimulating increased buying interest in the market. 
 
 The mathematical foundation of the Golden Cross can be illustrated through the calculation of SMAs. The formula for calculating the simple moving average for a given period $n$ is:
 

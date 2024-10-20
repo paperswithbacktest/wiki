@@ -22,7 +22,7 @@ Developing practical approaches to cryptocurrency arbitrage can bolster a trader
 
 ## Understanding Cryptocurrency Arbitrage
 
-Arbitrage in the context of cryptocurrency trading refers to the practice of capitalizing on the price differentials of a specific digital asset across distinct trading platforms. This concept, familiar in traditional financial markets, has become increasingly pertinent in the cryptocurrency domain due to the presence of numerous exchanges globally, each with its own liquidity and trading volume.
+Arbitrage in the context of cryptocurrency trading refers to the practice of capitalizing on the price differentials of a specific digital asset across distinct trading platforms. This concept, familiar in traditional financial markets, has become increasingly pertinent in the cryptocurrency domain due to the presence of numerous exchanges globally, each with its own liquidity and trading [volume](/wiki/volume-trading-strategy).
 
 In essence, the core strategy of [cryptocurrency](/wiki/cryptocurrency) [arbitrage](/wiki/arbitrage) involves purchasing a crypto asset at a reduced price on one exchange and subsequently selling it at an elevated price on another. This process is driven by the inherent inefficiencies and price discrepancies that arise within the cryptocurrency market. Such inconsistencies are the result of several factors, including differences in demand and supply conditions, variations in exchange fees, and latency in price updates across platforms. 
 

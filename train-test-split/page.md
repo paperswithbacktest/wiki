@@ -20,7 +20,7 @@ By thoroughly examining and contrasting these validation methods, this article e
 
 ## Understanding Train-Test Split
 
-The train-test split method is a foundational approach in model validation, especially prevalent in machine learning and algorithmic trading. This method divides a given dataset into two distinct subsets: a training set and a testing set. The primary objective of this split is to evaluate a model's performance on unseen data, thereby providing an estimation of its generalization capability.
+The train-test split method is a foundational approach in model validation, especially prevalent in [machine learning](/wiki/machine-learning) and algorithmic trading. This method divides a given dataset into two distinct subsets: a training set and a testing set. The primary objective of this split is to evaluate a model's performance on unseen data, thereby providing an estimation of its generalization capability.
 
 ### Methodology
 

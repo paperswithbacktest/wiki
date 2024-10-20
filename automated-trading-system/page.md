@@ -20,7 +20,7 @@ Traders interested in automated systems can benefit from understanding their abi
 
 Algo trading, a sophisticated facet of modern finance, employs programmed computers to execute trades based on predefined criteria. These criteria can encompass a vast array of parameters, such as timing, price, and even complex mathematical models derived from historical market data. The fundamental aspect of algo trading is its capability to operate at speeds and frequencies unattainable by human traders, leveraging computational power to capitalize on fleeting opportunities in the marketplace.
 
-Automated trading systems, a key subset of algo trading, extend this technological prowess by not only identifying and analyzing potential trades but also executing them automatically. The instructions or algorithms governing these systems can range from simple moving average strategies to intricate statistical arbitrage models. For instance, a basic example in Python for executing trades based on moving averages might look like this:
+Automated trading systems, a key subset of algo trading, extend this technological prowess by not only identifying and analyzing potential trades but also executing them automatically. The instructions or algorithms governing these systems can range from simple moving average strategies to intricate statistical [arbitrage](/wiki/arbitrage) models. For instance, a basic example in Python for executing trades based on moving averages might look like this:
 
 ```python
 # Simple moving average crossover strategy

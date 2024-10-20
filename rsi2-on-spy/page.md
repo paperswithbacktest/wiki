@@ -18,7 +18,7 @@ In this article, we will explore how RSI can be effectively applied in algorithm
 
 ## Understanding the Relative Strength Index (RSI)
 
-The Relative Strength Index (RSI) is a widely-used momentum oscillator in financial markets, designed to measure the speed and magnitude of price movements. Developed by J. Welles Wilder Jr. in 1978, the RSI operates on a scale from 0 to 100 and is predominantly used to identify overbought or oversold conditions in a market. An asset is traditionally considered overbought when its RSI reading exceeds 70, and oversold when the RSI falls below 30. These threshold levels suggest potential reversal points, which are crucial in devising mean-reversion trading strategies.
+The Relative Strength Index (RSI) is a widely-used [momentum](/wiki/momentum) oscillator in financial markets, designed to measure the speed and magnitude of price movements. Developed by J. Welles Wilder Jr. in 1978, the RSI operates on a scale from 0 to 100 and is predominantly used to identify overbought or oversold conditions in a market. An asset is traditionally considered overbought when its RSI reading exceeds 70, and oversold when the RSI falls below 30. These threshold levels suggest potential reversal points, which are crucial in devising mean-reversion trading strategies.
 
 Mathematically, the RSI is calculated as follows:
 

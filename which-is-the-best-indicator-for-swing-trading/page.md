@@ -18,7 +18,7 @@ This article delves into identifying the most effective indicators for swing tra
 
 ## Understanding Swing Trading and Algo Trading
 
-Swing trading is a trading strategy aimed at capturing short- to medium-term gains over a period of days to weeks. Unlike day trading, which involves executing multiple trades within a single day to capitalize on small price movements, swing trading involves holding positions for a longer duration, allowing traders to exploit predictable price swings. This approach bridges the gap between day trading's ultra-short-term focus and long-term investing strategies that rely on fundamental analysis and extended holding periods to build portfolio value over time.
+Swing trading is a trading strategy aimed at capturing short- to medium-term gains over a period of days to weeks. Unlike day trading, which involves executing multiple trades within a single day to capitalize on small price movements, swing trading involves holding positions for a longer duration, allowing traders to exploit predictable price swings. This approach bridges the gap between day trading's ultra-short-term focus and long-term investing strategies that rely on [fundamental analysis](/wiki/fundamental-analysis) and extended holding periods to build portfolio value over time.
 
 A key component of swing trading is identifying market momentum and reversals to open and close positions advantageously. This characteristic sets it apart from day trading, which predominantly relies on quick decision-making and second-by-second monitoring, and long-term investing, which often neglects short-term market fluctuations.
 

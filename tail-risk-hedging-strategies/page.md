@@ -20,7 +20,7 @@ This article will focus on comprehensively understanding the concept of tail hed
 
 Tail risk refers to the possibility of rare and extreme market events occurring more frequently than anticipated by a normal distribution model. Traditional financial models often assume that asset returns follow a Gaussian distribution, characterized by its bell-shaped curve. In such a distribution, extreme events—or "tails"—are expected to occur with very low frequency. However, empirical evidence suggests that real-world financial markets exhibit "fat tails," where these improbable events are more common than predicted.
 
-Examples of tail events include financial crises, such as the 2008 global financial meltdown, geopolitical upheavals like unexpected wars or regime changes, and surprising economic announcements or policy shifts that can trigger market chaos. These events are not only rare but also carry a disproportionate potential for financial loss.
+Examples of tail events include financial crises, such as the 2008 global financial meltdown, geopolitical upheavals like unexpected wars or regime changes, and surprising economic announcements or policy shifts that can trigger market chaos. These events are not only rare but also [carry](/wiki/carry-trading) a disproportionate potential for financial loss.
 
 The significance of recognizing tail risk lies in its potential impact on investment portfolios. Without appropriate hedging mechanisms, portfolios remain vulnerable to catastrophic losses during such events. Traditional risk management strategies, which largely rely on diversification and the assumption of normally distributed returns, often fall short in protecting against these rare, impactful occurrences.
 

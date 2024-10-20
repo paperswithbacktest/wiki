@@ -20,9 +20,9 @@ This article explores a range of strategies involving gold trading within algori
 
 ## Understanding Gold Trading Strategies
 
-Gold trading strategies encompass a broad spectrum, catering to different trading preferences and market conditions. These strategies can generally be categorized into two primary types: short-term strategies, such as scalping, and long-term strategies involving investments. Both approaches are informed by gold's idiosyncrasies compared to other commodities.
+Gold trading strategies encompass a broad spectrum, catering to different trading preferences and market conditions. These strategies can generally be categorized into two primary types: short-term strategies, such as [scalping](/wiki/gamma-scalping), and long-term strategies involving investments. Both approaches are informed by gold's idiosyncrasies compared to other commodities.
 
-Gold holds a unique position as a safe-haven asset, a factor that influences its strategic trading approaches. Unlike other commodities that are primarily driven by supply and demand dynamics, gold's price movements are significantly affected by its perception as a secure investment during times of economic uncertainty. This characteristic attracts investors seeking to hedge against market volatility, inflation, or currency devaluation.
+Gold holds a unique position as a safe-haven asset, a [factor](/wiki/factor-investing) that influences its strategic trading approaches. Unlike other commodities that are primarily driven by supply and demand dynamics, gold's price movements are significantly affected by its perception as a secure investment during times of economic uncertainty. This characteristic attracts investors seeking to hedge against market volatility, inflation, or currency devaluation.
 
 Globally, gold prices are influenced by three major facets: economic trends, geopolitical tensions, and central bank policies. Economic indicators, including GDP growth rates, inflation data, and employment [statistics](/wiki/bayesian-statistics), can sway investor sentiments and impact demand for gold. For instance, during economic downturns, investors tend to increase their gold holdings, driving up its price. Conversely, during robust economic growth, gold may see decreased demand as other asset classes like equities become more attractive.
 

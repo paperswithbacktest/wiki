@@ -20,7 +20,7 @@ As traders aim to enhance their investment strategies, leveraging algorithmic sy
 
 Oversold conditions occur when a stock's price experiences a rapid decline over a short duration, often beyond what is justified by the company's intrinsic value and broader market conditions. This typically reflects an imbalance where the selling pressure outweighs buying interest, potentially driven by market sentiment or external events. Technical analysis plays a critical role in identifying such conditions, with the Relative Strength Index (RSI) being one of the most utilized indicators.
 
-The RSI, developed by J. Welles Wilder Jr., is a momentum oscillator that measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to evaluate overbought or oversold conditions in trading. The formula for RSI is:
+The RSI, developed by J. Welles Wilder Jr., is a [momentum](/wiki/momentum) oscillator that measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to evaluate overbought or oversold conditions in trading. The formula for RSI is:
 
 $$
 

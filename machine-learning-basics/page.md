@@ -22,7 +22,7 @@ Machine learning in algorithmic trading leverages advanced computational techniq
 
 Various machine learning algorithms optimize trading processes by enabling the analysis of complex datasets. For example, regression models may predict future asset prices based on historical trends, while classification algorithms can be used to identify signals for buying or selling. By discerning patterns, machine learning facilitates the optimal execution of trades, helping manage risks and adapt to diverse market conditions.
 
-The integration of machine learning in trading processes supports effective decision-making under different market scenarios. For instance, clustering techniques can segment asset data or market behaviors, identifying opportunities or potential risks. Meanwhile, reinforcement learning algorithms allow systems to improve trading strategy through continuous learning and adaptation to market feedback.
+The integration of machine learning in trading processes supports effective decision-making under different market scenarios. For instance, clustering techniques can segment asset data or market behaviors, identifying opportunities or potential risks. Meanwhile, [reinforcement learning](/wiki/reinforcement-learning) algorithms allow systems to improve trading strategy through continuous learning and adaptation to market feedback.
 
 Overall, [machine learning](/wiki/machine-learning)'s application in [algorithmic trading](/wiki/algorithmic-trading) represents an evolution towards more dynamic and adaptive trading strategies, empowering traders to navigate the complex and volatile financial markets with greater efficacy.
 

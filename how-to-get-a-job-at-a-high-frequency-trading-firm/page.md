@@ -18,11 +18,11 @@ This article aims to highlight some of the leading HFT firms active in the spher
 
 High-Frequency Trading (HFT) involves executing an extraordinary number of trades in fractions of a second, utilizing specialized algorithms and advanced technological infrastructure. It represents a paradigm shift in trading, predominantly focusing on minimizing latency—the delay before a transfer of data begins—and maximizing both the speed and volume of trades executed. 
 
-HFT firms engage in several sophisticated strategies to maintain their competitive edge. One prominent strategy is market making, where HFTs provide liquidity to the markets by being willing to buy and sell securities at specified prices. They profit from the bid-ask spread, while also enhancing market efficiency.
+HFT firms engage in several sophisticated strategies to maintain their competitive edge. One prominent strategy is [market making](/wiki/market-making), where HFTs provide liquidity to the markets by being willing to buy and sell securities at specified prices. They profit from the bid-ask spread, while also enhancing market efficiency.
 
-Another key strategy is statistical arbitrage, which involves the simultaneous buying and selling of securities to exploit price differences. This method relies on complex mathematical models and algorithms to forecast the price divergence and convergence between securities, allowing traders to capitalize on momentary discrepancies.
+Another key strategy is statistical [arbitrage](/wiki/arbitrage), which involves the simultaneous buying and selling of securities to exploit price differences. This method relies on complex mathematical models and algorithms to forecast the price divergence and convergence between securities, allowing traders to capitalize on momentary discrepancies.
 
-Trend following is an additional tactic employed by these companies, where trades are executed based on the momentum of market price trends. HFT firms utilize advanced algorithms to detect these trends rapidly and to predict short-term future movements.
+Trend following is an additional tactic employed by these companies, where trades are executed based on the [momentum](/wiki/momentum) of market price trends. HFT firms utilize advanced algorithms to detect these trends rapidly and to predict short-term future movements.
 
 The cornerstone of [HFT](/wiki/high-frequency-trading-strategies)'s success lies in its reliance on substantial data analysis, [machine learning](/wiki/machine-learning), and cutting-edge technology. These components are crucial for refining algorithms, improving prediction accuracy, and gaining competitive advantages. In particular, machine learning techniques enable HFT firms to identify patterns and anomalies within vast datasets, often encompassing financial news, historical prices, and other market information.
 

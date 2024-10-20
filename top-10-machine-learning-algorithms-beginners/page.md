@@ -18,7 +18,7 @@ For beginners eager to incorporate machine learning in their trading endeavors, 
 
 ## Understanding Machine Learning
 
-Machine learning is a pivotal component of artificial intelligence, devoted to the development of algorithms that enable systems to autonomously learn and adapt from acquired data. At its core, machine learning seeks to construct models that are able to recognize patterns and make data-driven predictions or decisions, thereby minimizing the need for explicit programming interventions.
+Machine learning is a pivotal component of [artificial intelligence](/wiki/ai-artificial-intelligence), devoted to the development of algorithms that enable systems to autonomously learn and adapt from acquired data. At its core, machine learning seeks to construct models that are able to recognize patterns and make data-driven predictions or decisions, thereby minimizing the need for explicit programming interventions.
 
 There are four fundamental types of machine learning, each with its unique methodologies and applications:
 

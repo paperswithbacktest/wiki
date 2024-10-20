@@ -18,7 +18,7 @@ As algorithmic trading continues to grow, the incorporation of reversal strategi
 
 ## Understanding Algorithmic Trading
 
-Algorithmic trading uses computer algorithms to execute trades based on pre-established criteria, achieving speeds that far exceed human capabilities. This practice is key to modern financial markets, leveraging technological advancements to enhance market efficiency and liquidity. By automating trade execution, algorithmic trading reduces transaction costs and minimizes the risk of human error. Furthermore, traders can employ algorithms to backtest various strategies against historical data, enabling the optimization of trading strategies for improved outcomes.
+Algorithmic trading uses computer algorithms to execute trades based on pre-established criteria, achieving speeds that far exceed human capabilities. This practice is key to modern financial markets, leveraging technological advancements to enhance market efficiency and [liquidity](/wiki/liquidity-risk-premium). By automating trade execution, algorithmic trading reduces transaction costs and minimizes the risk of human error. Furthermore, traders can employ algorithms to backtest various strategies against historical data, enabling the optimization of trading strategies for improved outcomes.
 
 Algorithmic trading strategies can be broadly categorized into trend-following and mean reversion, among others. Trend-following strategies aim to capitalize on sustained movement in asset prices, buying securities in upward trends and selling in downward trends. Mean reversion strategies, on the other hand, exploit the concept that asset prices will revert to a historical average over time, allowing traders to profit from deviations from this average.
 

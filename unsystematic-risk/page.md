@@ -20,7 +20,7 @@ Unsystematic risk, also referred to as specific, diversifiable, or idiosyncratic
 
 Business model flaws are another contributor. A business model defines how an entity creates, delivers, and captures value, and defects in this model can lead to vulnerabilities specific to that business. For example, if a company relies heavily on a single revenue stream, any disturbance to that stream can introduce significant risk.
 
-Liquidity issues further amplify unsystematic risks. Liquidity pertains to the ability of a company to meet its short-term obligations, and a lack of liquidity can force a company into distress or even bankruptcy. This jeopardy is particularly relevant in sectors that are highly cyclical or sensitive to economic changes, where access to capital can suddenly become restricted.
+Liquidity issues further amplify unsystematic risks. Liquidity pertains to the ability of a company to meet its short-term obligations, and a lack of [liquidity](/wiki/liquidity-risk-premium) can force a company into distress or even bankruptcy. This jeopardy is particularly relevant in sectors that are highly cyclical or sensitive to economic changes, where access to capital can suddenly become restricted.
 
 Operational problems also play a significant role. These relate to errors, delays, or malfunctions in day-to-day company operations, encompassing anything from supply chain disruptions to technology failures. Such issues can prevent a company from functioning smoothly and efficiently, thereby impacting its performance and increasing its specific risk.
 

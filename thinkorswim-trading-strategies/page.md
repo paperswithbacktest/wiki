@@ -18,7 +18,7 @@ This article aims to provide readers with a comprehensive understanding of the t
 
 ## Understanding Thinkorswim as a Trading Platform
 
-Thinkorswim is a comprehensive trading platform known for its versatility and robust feature set, attracting a diverse user base ranging from beginner traders to seasoned professionals. Launched by TD Ameritrade, the platform has established itself as a leader in the trading software space, particularly for its capacity to accommodate various financial instruments, including stocks, options, futures, and forex.
+Thinkorswim is a comprehensive trading platform known for its versatility and robust feature set, attracting a diverse user base ranging from beginner traders to seasoned professionals. Launched by TD Ameritrade, the platform has established itself as a leader in the trading software space, particularly for its capacity to accommodate various financial instruments, including stocks, options, futures, and [forex](/wiki/forex-system).
 
 ### Overview of Thinkorswim and Its Features
 

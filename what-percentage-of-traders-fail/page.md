@@ -20,7 +20,7 @@ In summary, while algo trading offers enticing prospects for efficiency and prec
 
 ## What Percentage of Traders Lose Money in Algo Trading?
 
-Algorithmic trading, often regarded as a cutting-edge approach to engaging with financial markets, involves using computer programs to execute trades at high speed and frequency. While the technological sophistication of algo trading suggests a streamlined and possibly more effective method of trading, statistics reveal a different narrative. Research consistently indicates that approximately 70% to 90% of traders, including those leveraging algorithmic strategies, ultimately face financial losses.
+Algorithmic trading, often regarded as a cutting-edge approach to engaging with financial markets, involves using computer programs to execute trades at high speed and frequency. While the technological sophistication of algo trading suggests a streamlined and possibly more effective method of trading, [statistics](/wiki/bayesian-statistics) reveal a different narrative. Research consistently indicates that approximately 70% to 90% of traders, including those leveraging algorithmic strategies, ultimately face financial losses.
 
 This high rate of loss can primarily be attributed to the inherently competitive and zero-sum nature of financial markets. In a zero-sum game, the gains of some traders come at the expense of others, and the inclusion of technology in the form of algo trading does not fundamentally alter this dynamic. According to reports and analyses, the advanced mechanisms at play do not necessarily confer any lasting advantage unless executed with exceptional skill and adaptability.
 

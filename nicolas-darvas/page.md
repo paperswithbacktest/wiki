@@ -22,7 +22,7 @@ The core principles of the Darvas Box Theory—using price highs, volumes, and t
 
 ## Who Was Nicolas Darvas?
 
-Nicolas Darvas, a Hungarian-born dancer, made a remarkable transition from the world of art to finance, ultimately earning recognition as a notable figure in stock trading. Born in 1920, Darvas pursued a career in dance and gained international fame alongside his partner, Julia, as a ballroom dancer. Despite his artistic success, his interest in the stock market was piqued during a tour in the United States in the 1950s. 
+Nicolas Darvas, a Hungarian-born dancer, made a remarkable transition from the world of art to finance, ultimately [earning](/wiki/earning-announcement) recognition as a notable figure in stock trading. Born in 1920, Darvas pursued a career in dance and gained international fame alongside his partner, Julia, as a ballroom dancer. Despite his artistic success, his interest in the stock market was piqued during a tour in the United States in the 1950s. 
 
 Darvas's journey into trading began somewhat accidentally. He received stock as payment for a nightclub appearance and, intrigued by the potential for financial growth, decided to immerse himself in learning about the market. Utilizing a systematic approach, Darvas devised a unique strategy that would later gain widespread attention and accolades. His transformational moment came through meticulous study and the eventual creation of the Darvas Box Theory, a trading strategy that emphasized the significance of price movements and trading volumes to identify stock trends.
 

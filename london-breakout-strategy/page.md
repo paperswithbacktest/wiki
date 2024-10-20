@@ -22,7 +22,7 @@ The London Breakout Strategy is a popular trading approach that focuses on captu
 
 To implement the London Breakout Strategy, traders first identify the range established during the Asian session. This involves marking the highest and lowest price points achieved in this period. These price points form the support (lowest point) and resistance (highest point) levels that are crucial for setting up potential trades.
 
-Once the London session begins, traders monitor price movements closely to spot when these levels are broken. A breakout occurs when the price moves above the resistance level or below the support level, signaling increased market activity and potential momentum in the direction of the breakout. The goal is to enter trades in the direction of the breakout to ride the emerging trend.
+Once the London session begins, traders monitor price movements closely to spot when these levels are broken. A breakout occurs when the price moves above the resistance level or below the support level, signaling increased market activity and potential [momentum](/wiki/momentum) in the direction of the breakout. The goal is to enter trades in the direction of the breakout to ride the emerging trend.
 
 The London Breakout Strategy is valued for offering precise entry and [exit](/wiki/exit-strategy) points. Clear thresholds are defined by the support and resistance levels, which reduces uncertainty in trading decisions. By entering trades upon the confirmation of a [breakout](/wiki/breakout-trading), traders aim to minimize the impact of false signals and increase their probability of success.
 

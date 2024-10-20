@@ -18,7 +18,7 @@ The essence of Monroe Trout's success lies in his disciplined risk management an
 
 ## Who is Monroe Trout?
 
-Monroe Trout is a highly regarded figure in the world of finance, particularly noted for his expertise as a hedge fund manager and quantitative trader. His significant reputation stems from his predictive prowess and pioneering use of computers in trading markets, laying the groundwork for modern algorithmic trading strategies.
+Monroe Trout is a highly regarded figure in the world of finance, particularly noted for his expertise as a [hedge fund](/wiki/hedge-fund-trading-strategies) manager and quantitative trader. His significant reputation stems from his predictive prowess and pioneering use of computers in trading markets, laying the groundwork for modern algorithmic trading strategies.
 
 Trout rose to prominence largely due to his feature in Jack Schwager's "New Market Wizards," a book that profiles some of the most successful traders of the day. In the book, Trout is recognized for his unique approach and impressive track record, which captivated the financial community and aspiring traders alike. This feature helped establish him as a formative influence on contemporary trading practices.
 

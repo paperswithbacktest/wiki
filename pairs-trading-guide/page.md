@@ -18,7 +18,7 @@ This article explores the concept of pair trading as it applies to algorithmic t
 
 ## Understanding Pair Trading
 
-Pair trading, also known as statistical arbitrage, is a prominent trading strategy that focuses on the dynamics between two correlated assets. In this approach, a trader takes a long position in one asset while concurrently taking a short position in another. The primary objective is to capitalize on the convergence of the price spread between these two assets, exploiting temporary market inefficiencies.
+Pair trading, also known as [statistical arbitrage](/wiki/statistical-arbitrage), is a prominent trading strategy that focuses on the dynamics between two correlated assets. In this approach, a trader takes a long position in one asset while concurrently taking a short position in another. The primary objective is to capitalize on the convergence of the price spread between these two assets, exploiting temporary market inefficiencies.
 
 At its core, pair trading is based on the principle of market neutrality. This means that the strategy is designed to generate profits irrespective of the overall market direction. By balancing long and short positions, the trader mitigates the risk associated with broad market movements, which is a significant advantage over traditional directional trading strategies.
 

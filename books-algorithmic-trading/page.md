@@ -20,7 +20,7 @@ Algorithmic trading involves the use of computational algorithms to automate the
 
 Understanding the fundamental concepts of algorithmic trading is a prerequisite before exploring more sophisticated strategies. At its core, algorithmic trading requires a grasp of both financial markets and programming skills, typically in languages such as Python, which is favored for its ease of use and robust libraries like NumPy and Pandas for data analysis.
 
-Books on algorithmic trading guide readers through the intricacies of market dynamics and trading systems. One essential aspect is market microstructure—the detailed examination of how trades are conducted and how market participants interact. Understanding this helps traders comprehend liquidity, price formation, and the impact of different types of orders on the market.
+Books on algorithmic trading guide readers through the intricacies of market dynamics and trading systems. One essential aspect is market microstructure—the detailed examination of how trades are conducted and how market participants interact. Understanding this helps traders comprehend [liquidity](/wiki/liquidity-risk-premium), price formation, and the impact of different types of orders on the market.
 
 A foundational book that addresses these concepts is "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan. It articulates the design of simple algorithmic trading strategies while explaining the rationale behind them. The book provides insights into statistical arbitrage, mean reversion, and momentum strategies, offering readers an understanding of the underlying principles that govern these strategies.
 

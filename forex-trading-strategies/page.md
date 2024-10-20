@@ -20,7 +20,7 @@ As forex trading increasingly embraces automation, traders must be cognizant of 
 
 ## Understanding Forex Trading Strategies
 
-Forex trading strategies are carefully designed methodologies that guide traders in making informed decisions by analyzing market data. These strategies can range from straightforward approaches such as trend following and scalping to more complex tactics employing both technical and fundamental analysis.
+Forex trading strategies are carefully designed methodologies that guide traders in making informed decisions by analyzing market data. These strategies can range from straightforward approaches such as [trend following](/wiki/trend-following) and scalping to more complex tactics employing both technical and [fundamental analysis](/wiki/fundamental-analysis).
 
 1. **Trend Following**: This strategy capitalizes on the premise that asset prices tend to move in trends. Traders utilizing trend following aim to enter trades aligned with the prevailing market direction. Key indicators often include moving averages and the Average Directional Index (ADX). For instance, a trader might use a simple moving average (SMA) crossover strategy, where a buy signal is generated when a short-term SMA crosses above a long-term SMA.
 

@@ -22,7 +22,7 @@ The hammer candlestick pattern is a fundamental component of technical analysis,
 
 This pattern usually emerges at the bottom of a downtrend, acting as an indicator of a possible bullish reversal. The psychology behind the hammer formation suggests that sellers dominated the market initially, driving prices down. However, buyers eventually gained strength, pushing the price back up to close near the session's opening level. This shift in control from sellers to buyers signals potential buying opportunities.
 
-For traders, the hammer's significance lies in its role as a potential buy signal, alerting them to a changing market sentiment. However, it is crucial to confirm the pattern with subsequent price action or additional technical indicators to avoid false positives. Although the hammer pattern alone suggests a reversal, confirmation from another period's positive price action or other indicators like moving averages or momentum oscillators greatly enhances its reliability as a trading signal.
+For traders, the hammer's significance lies in its role as a potential buy signal, alerting them to a changing market sentiment. However, it is crucial to confirm the pattern with subsequent price action or additional technical indicators to avoid false positives. Although the hammer pattern alone suggests a reversal, confirmation from another period's positive price action or other indicators like moving averages or [momentum](/wiki/momentum) oscillators greatly enhances its reliability as a trading signal.
 
 
 ## Identifying a Hammer Candlestick Pattern
