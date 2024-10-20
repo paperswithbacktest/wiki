@@ -1,5 +1,5 @@
 ---
-title: "[HQuotes.com](http://hquotes.com/) (Algo Trading)"
+title: "HQuotes.com (Algo Trading)"
 description: Discover the transformative power of hquotes-com, a leading platform in algorithmic trading. With innovative tools and resources, it enables traders to execute high-speed transactions with precision and efficiency, eliminating human biases. Catering to both beginners and professionals, hquotes-com offers features like advanced backtesting, real-time data analysis, and customizable algorithm options. Enhance your trading efficiency with its automated execution and low-latency environment, providing a robust foundation for leveraging algorithmic strategies in today's competitive financial markets.
 ---
 

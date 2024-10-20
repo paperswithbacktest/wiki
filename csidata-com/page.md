@@ -1,5 +1,5 @@
 ---
-title: "[CSIdata.com](http://csidata.com/) (Algo Trading)"
+title: "CSIdata.com (Algo Trading)"
 description: CSIData.com is a critical resource in algorithmic trading, providing meticulously curated futures data across numerous asset classes like commodities and stock indices. This data underpins strategy development and backtesting, essential for predicting market movements and making informed trading decisions. The integration of CSIData.com's futures data with platforms like Quantopian Zipline enhances algorithmic trading by enabling precise simulations and strategy testing. Despite some user interface limitations, the accuracy and depth of CSIData.com's data make it invaluable for traders looking to leverage the advantages of futures, such as cost efficiency and ease of short-selling, in automated trading strategies.
 ---
 

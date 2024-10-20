@@ -1,5 +1,5 @@
 ---
-title: "[Quotes-plus.com](http://quotes-plus.com/) (Algo Trading)"
+title: "Quotes-plus.com (Algo Trading)"
 description: Explore the advantages of Quotes-plus.com, a platform enhancing algorithmic trading through automation and data-driven insights. Discover tools for strategy building, backtesting, and risk management to improve trading efficiency and outcomes in volatile markets.
 ---
 
