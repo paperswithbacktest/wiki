@@ -19,7 +19,7 @@ This article will evaluate the benefits and risks associated with multilateral a
 
 ## Understanding Financial Markets Trading Facilities
 
-Financial trading facilities are crucial to the functioning of modern financial markets, serving as the foundation for executing trades across various asset classes such as stocks, foreign exchange (forex), commodities, and other derivatives. These facilities have evolved from traditional physical exchanges to sophisticated digital platforms, each characterized by distinct features and operational models that cater to specific trading needs and preferences.
+Financial trading facilities are crucial to the functioning of modern financial markets, serving as the foundation for executing trades across various asset classes such as stocks, foreign exchange ([forex](/wiki/forex-system)), commodities, and other derivatives. These facilities have evolved from traditional physical exchanges to sophisticated digital platforms, each characterized by distinct features and operational models that cater to specific trading needs and preferences.
 
 Traditional exchanges, like the New York Stock Exchange (NYSE) and the London Stock Exchange (LSE), are centralized venues where buyers and sellers meet to execute trades under a structured and regulated environment. These exchanges play a significant role in ensuring market [liquidity](/wiki/liquidity-risk-premium) and transparency by providing continuous pricing information and maintaining an [order book](/wiki/order-book-trading-strategies) that captures the interests of market participants. The organized nature of these exchanges offers a sense of security to investors, as trades are often monitored and settled through trusted clearinghouses.
 

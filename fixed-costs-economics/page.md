@@ -19,7 +19,7 @@ Through this analysis, firms and individuals engaged in algorithmic trading can 
 
 ## Understanding Fixed Costs in Business
 
-Fixed costs are an essential component of business expenses, characterized by their constancy irrespective of changes in production volume. Exemplifying these costs are expenses such as rent, salaries, insurance, and licenses, which are fundamental for sustaining business operations. By their nature, fixed costs do not fluctuate with the level of goods or services produced, thus offering stability and predictability in financial planning.
+Fixed costs are an essential component of business expenses, characterized by their constancy irrespective of changes in production [volume](/wiki/volume-trading-strategy). Exemplifying these costs are expenses such as rent, salaries, insurance, and licenses, which are fundamental for sustaining business operations. By their nature, fixed costs do not fluctuate with the level of goods or services produced, thus offering stability and predictability in financial planning.
 
 From a financial perspective, fixed costs hold significant influence over a company's financial health and operating leverage. Operating leverage refers to the degree to which a company uses fixed costs in its cost structure. A higher proportion of fixed costs can amplify the impact of changes in sales on operating income, thereby affecting the overall profitability. Companies with high operating leverage experience more significant variations in profit margins with changes in sales levels compared to companies with lower operating leverage.
 

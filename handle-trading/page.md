@@ -19,7 +19,7 @@ As the financial landscape continues to evolve, algorithmic trading stands at th
 
 ## What is Financial Trading?
 
-Financial trading refers to the buying and selling of financial instruments in various markets with the aim of generating profits. It plays a pivotal role in the global economy by facilitating liquidity, enabling price discovery, and allowing risk management. Financial trading is conducted across various platforms and involves a diverse array of instruments, including stocks, forex, commodities, and derivatives.
+Financial trading refers to the buying and selling of financial instruments in various markets with the aim of generating profits. It plays a pivotal role in the global economy by facilitating liquidity, enabling price discovery, and allowing risk management. Financial trading is conducted across various platforms and involves a diverse array of instruments, including stocks, [forex](/wiki/forex-system), commodities, and derivatives.
 
 Stocks, or equities, represent ownership in a company and provide shareholders with voting rights and a claim on company profits in the form of dividends. Stock trading primarily occurs on exchanges, where investors buy and sell shares at market-determined prices. This activity is vital for the allocation of capital and provides companies with the necessary funds for growth and expansion.
 
