@@ -21,7 +21,7 @@ $$
 \text{Debt Ratio} = \frac{\text{Total Debt}}{\text{Total Assets}}
 $$
 
-This metric provides insights into the extent to which a company’s assets are financed through debt, reflecting on both financial risk and stability. A high debt ratio, typically more than 0.5, suggests that a significant portion of the company's assets are financed by liabilities, which can imply greater financial risk and potential solvency issues, particularly in times of economic volatility. Conversely, a lower debt ratio indicates that a company relies less on borrowed capital, which is often perceived as a sign of financial robustness and lower risk.
+This metric provides insights into the extent to which a company’s assets are financed through debt, reflecting on both financial risk and stability. A high debt ratio, typically more than 0.5, suggests that a significant portion of the company's assets are financed by liabilities, which can imply greater financial risk and potential solvency issues, particularly in times of economic [volatility](/wiki/volatility-trading-strategies). Conversely, a lower debt ratio indicates that a company relies less on borrowed capital, which is often perceived as a sign of financial robustness and lower risk.
 
 For stakeholders, understanding the debt ratio is crucial in evaluating a company's fiscal health. In the context of investment, a high debt ratio might signal an aggressive growth strategy funded by borrowing, but it could also suggest a higher likelihood of default if the company faces downturns in cash flow or market conditions. Conversely, a company with a lower debt ratio may be seen as more conservative or prudent in its financial practices, potentially signaling steadier performance under economic strains.
 

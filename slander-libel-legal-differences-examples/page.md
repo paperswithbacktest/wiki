@@ -19,7 +19,7 @@ This article aims to dissect the distinctions between libel and slander, further
 
 Libel and slander are integral components of defamation law, crucial for understanding how personal and professional reputations can be protected in legal contexts. Both are categorized under defamation, yet they diverge significantly in how they are communicated and perceived.
 
-Libel constitutes defamation through written or published statements. This form of defamation is characterized by its relative permanency, as it involves content disseminated via media such as newspapers, books, or digital platforms. The enduring nature of written or published words means they can be easily referenced and accessed over time, often making libel easier to prove in court due to the availability of concrete evidence.
+Libel constitutes defamation through written or published statements. This form of defamation is characterized by its relative permanency, as it involves content disseminated via media such as newspapers, [books](/wiki/algo-trading-books), or digital platforms. The enduring nature of written or published words means they can be easily referenced and accessed over time, often making libel easier to prove in court due to the availability of concrete evidence.
 
 Conversely, slander is represented by oral statements that defame. These statements are fleeting, as they are spoken rather than documented or published. The transient nature of slander presents challenges in proving the occurrence and impact of the defamatory statement, as it typically depends on witness accounts and other ephemeral forms of evidence.
 

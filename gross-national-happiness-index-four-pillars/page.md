@@ -19,7 +19,7 @@ In summary, the integration of GNH principles into economic and technological sy
 
 ## Understanding Gross National Happiness (GNH)
 
-Gross National Happiness (GNH) is a comprehensive, multidimensional measure of economic and moral progress, originated by the Kingdom of Bhutan. First proposed by the Fourth King of Bhutan, King Jigme Singye Wangchuck, in the 1970s, GNH was introduced as an alternative to traditional economic measures like Gross Domestic Product (GDP), emphasizing that the well-being of citizens should be prioritized over purely economic statistics.
+Gross National Happiness (GNH) is a comprehensive, multidimensional measure of economic and moral progress, originated by the Kingdom of Bhutan. First proposed by the Fourth King of Bhutan, King Jigme Singye Wangchuck, in the 1970s, GNH was introduced as an alternative to traditional economic measures like Gross Domestic Product (GDP), emphasizing that the well-being of citizens should be prioritized over purely economic [statistics](/wiki/bayesian-statistics).
 
 While GDP provides a quantitative measure of a country's economic performance, focusing primarily on production and consumption levels, it fails to account for the qualitative aspects of human life. It measures the total value of goods and services produced over a specific time period but does not consider income distribution, environmental impact, or social well-being. In contrast, GNH seeks to evaluate prosperity not by material wealth but by holistic considerations encompassing various aspects of life quality. 
 

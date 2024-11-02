@@ -19,7 +19,7 @@ Economic indicators are vital statistics that help signal the broader trends in 
 
 The importance of economic indicators lies in their ability to influence critical decisions across various domains. For instance, policymakers utilize these indicators to develop and adjust fiscal policies, ensuring that economic stability and growth are maintained. In the business sphere, companies analyze economic indicators to refine their strategies, optimize operations, and navigate market dynamics more effectively. Investors also rely heavily on these indicators when making portfolio decisions, seeking to capitalize on potential market opportunities or mitigate risks.
 
-Economic indicators offer a data-driven foundation for decision-making processes and strategic planning. By analyzing patterns and trends within these statistics, stakeholders can make informed choices, forecast potential economic conditions, and ultimately enhance their decision-making capabilities.
+Economic indicators offer a data-driven foundation for decision-making processes and strategic planning. By analyzing patterns and trends within these [statistics](/wiki/bayesian-statistics), stakeholders can make informed choices, forecast potential economic conditions, and ultimately enhance their decision-making capabilities.
 
 ## Leading Indicators
 

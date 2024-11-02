@@ -19,7 +19,7 @@ The following article will explore the mechanics of triangle chart patterns, the
 
 ## Understanding Triangle Chart Patterns
 
-Triangle patterns are graphical representations created by plotting trendlines along converging price points, ultimately forming a triangular shape. These patterns manifest in a market when the trading range of an asset gradually narrows. This narrowing indicates a reduction in volatility, often preceding a significant price movement.
+Triangle patterns are graphical representations created by plotting trendlines along converging price points, ultimately forming a triangular shape. These patterns manifest in a market when the trading range of an asset gradually narrows. This narrowing indicates a reduction in [volatility](/wiki/volatility-trading-strategies), often preceding a significant price movement.
 
 The value of triangle patterns lies in their ability to signal potential price movements, including both continuation and reversal of prevailing trends. By analyzing these formations, traders can make educated predictions about future price directions. Triangle patterns' predictive capacity stems from the way they encapsulate market consolidation and imminent [breakout](/wiki/breakout-trading) points.
 
