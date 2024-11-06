@@ -7,8 +7,6 @@ description: Discover the historical roots, concepts, strategy development, and 
 
 Trend following, a classic trading strategy, revolves around capitalizing on persistent market movements by securing positions in the direction of the prevailing trend. Particularly in algorithmic trading, trend following is of paramount importance due to its methodical, rule-based nature that leverages statistical probabilities to identify and act upon lucrative trading opportunities. Algorithmic traders apply mathematical models and computational algorithms to recognize trends, generate signals, and execute trades autonomously, minimizing human intervention and emotional biases.
 
-![Untitled](images/Untitled.png)
-
 In this article, we'll explore the nuances of trend following from its historical roots to its application in modern algorithmic trading systems. The subsequent sections aim to unravel the complexities of [trend following strategies](https://paperswithbacktest.com/paper/does-trend-following-work-on-stocks), illuminate the mathematical and computational underpinnings, and provide a coherent guide on developing, implementing, and managing trend following algorithms in varied financial markets.
 
 ## Table of Contents

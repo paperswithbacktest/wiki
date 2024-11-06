@@ -7,7 +7,7 @@ description: Discover the world of Factor Allocation in Algo Trading, an innovat
 
 In the rapidly evolving landscape of algorithmic trading, the allocation of factors has emerged as a key strategy for optimizing portfolios. This approach centers on selecting and timing specific quantifiable characteristics—commonly referred to as factors—that have the potential to enhance risk-adjusted returns. Factors can include attributes such as value, growth, momentum, or volatility, each offering unique insights into asset behavior and performance.
 
-![1](images/1.png)
+![1](images/1.jpg)
 
 Implementing factor allocation requires a nuanced understanding of market dynamics and a strategic approach to balancing these characteristics. The goal is to construct portfolios that do not merely rely on broad asset classes but are finely tuned through the strategic weighting of individual factors. Factor allocation diverges from traditional asset allocation by focusing on these underlying traits rather than on the assets themselves, which may lead to more robust portfolio optimization.
 

@@ -19,7 +19,7 @@ Thus, exploring this intersection offers a comprehensive understanding for anyon
 
 ## Understanding Exchange-Traded Funds (ETFs)
 
-An Exchange-Traded Fund (ETF) is a type of investment fund that pools together capital from investors to purchase a diversified portfolio of stocks, bonds, or other assets. Unlike mutual funds, which are valued once at the end of the trading day, ETFs can be bought and sold on a stock exchange throughout the trading day at market-determined prices. This liquidity factor makes ETFs a flexible investment option, appealing to a wide range of investors from individual traders to large institutional entities.
+An Exchange-Traded Fund (ETF) is a type of investment fund that pools together capital from investors to purchase a diversified portfolio of stocks, bonds, or other assets. Unlike mutual funds, which are valued once at the end of the trading day, ETFs can be bought and sold on a stock exchange throughout the trading day at market-determined prices. This liquidity [factor](/wiki/factor-investing) makes ETFs a flexible investment option, appealing to a wide range of investors from individual traders to large institutional entities.
 
 ETFs often mirror the performance of an index, such as the S&P 500, or a specific sector, commodity, or asset class, allowing investors to gain exposure to a broader market or industry segment. This indexing approach often results in lower management fees since the objective is to replicate the performance of the benchmark rather than outperform it, thus making ETFs cost-effective for investors.
 

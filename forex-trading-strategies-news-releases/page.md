@@ -19,7 +19,7 @@ This article examines the intricacies of trading strategies related to news rele
 
 ## Understanding News Releases in Forex Trading
 
-News releases play a pivotal role in Forex trading due to their capacity to cause significant fluctuations in currency values. Traders closely analyze economic indicators such as interest rate decisions, employment data, and Gross Domestic Product (GDP) reports, since these factors directly influence the currency markets. Such indicators provide insights into a nation's economic health and monetary policy direction, thereby impacting investor sentiment and market dynamics.
+News releases play a pivotal role in Forex trading due to their capacity to cause significant fluctuations in currency values. Traders closely analyze economic indicators such as [interest rate](/wiki/interest-rate-trading-strategies) decisions, employment data, and Gross Domestic Product (GDP) reports, since these factors directly influence the currency markets. Such indicators provide insights into a nation's economic health and monetary policy direction, thereby impacting investor sentiment and market dynamics.
 
 Interest rate decisions, often made by central banks, are among the most influential news releases. A change in interest rates can alter the yield on a nation's assets, affecting the demand for its currency. For instance, a rise in interest rates might increase the currency's value as investors seek higher returns, whereas a rate cut could diminish its value.
 

@@ -37,10 +37,7 @@ Navigating through the sea of available algorithmic trading courses can be overw
 - **Platform**: [https://paperswithbacktest.com/course](https://paperswithbacktest.com/course)
 - **Course Curriculum**: Covers a wide range of topics, including data sourcing, strategy implementation, backtesting, and performance analysis using Python and various financial libraries.
     
-    ![AI & Algo Trading course roadmap ([https://paperswithbacktest.com/course](https://paperswithbacktest.com/course))](Best%20Algorithmic%20Trading%20Courses%20in%202024%20cd49549d1dcc444dbbac988562425255/Roadmap-vf.svg)
-    
-    AI & Algo Trading course roadmap ([https://paperswithbacktest.com/course](https://paperswithbacktest.com/course))
-    
+    - [AI & Algo Trading course roadmap](https://paperswithbacktest.com/course)
     - [Developing the Mindset of a Successful Trader](https://blog.paperswithbacktest.com/p/developing-the-mindset-of-a-successful): Focuses on cultivating the mental attitude and discipline required for long-term trading success.
     - [Overcome Procrastination Forever](https://blog.paperswithbacktest.com/p/overcome-procrastination-forever): Offers strategies to eliminate procrastination and enhance productivity in trading and research.
     - [How to Collect Data for Backtesting](https://blog.paperswithbacktest.com/p/how-to-collect-data-for-backtesting): Guides on sourcing and gathering reliable data for backtesting trading strategies.

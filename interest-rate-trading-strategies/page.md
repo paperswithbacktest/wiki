@@ -19,7 +19,7 @@ Interest rates, yields, and bonds are interconnected concepts crucial in financi
 
 **Interest Rates:** These are essentially the cost of borrowing money, typically expressed as an annual percentage. Central banks set benchmark interest rates, like the Federal Funds Rate in the United States, which influence general economic activity. Higher interest rates can slow economic growth, while lower rates can stimulate it. In trading, interest rates are pivotal because they affect the value of a country's currency and the overall investment climate.
 
-![treasury interest hits 16-yr record.jpg.webp](Interest%20rate%20trading%20strategies%202cd2639fe4b141bf8c39f3f7e48a7b35/treasury_interest_hits_16-yr_record.jpg.webp)
+![treasury interest hits 16-yr record.png](images/treasury_interest_hits_16-yr_record.png)
 
 **Yields:** Yield refers to the earnings generated and realized on an investment over a particular period. It's most commonly associated with bonds and is expressed as an annual percentage. The yield of a bond inversely correlates with its price; as bond prices increase, yields decrease and vice versa. Yields are influenced by various factors, including interest rates set by central banks. For traders, monitoring yield movements is crucial, especially in government bonds, as it reflects investor sentiment and economic outlook.
 
@@ -71,7 +71,7 @@ Interest rate markets are diverse and multifaceted, each offering unique opportu
 
 In the landscape of interest rate trading, understanding the distinction between short-term and long-term rates is fundamental. These rates, influenced by different economic [factor](/wiki/factor-investing)s, play unique roles in the financial markets.
 
-![graphic-three-yield-curves.webp](Interest%20rate%20trading%20strategies%202cd2639fe4b141bf8c39f3f7e48a7b35/graphic-three-yield-curves.webp)
+![graphic-three-yield-curves.webp](images/graphic-three-yield-curves.webp)
 
 **Short-Term Rates**
 
