@@ -21,7 +21,7 @@ This article will explore the definitions of the LLN, illustrate its application
 
 ## Understanding the Law of Large Numbers
 
-The Law of Large Numbers (LLN) is a key theorem within probability theory and statistics, articulating the behavior of averages calculated from random samples. The core idea is that, as the number of observations from a population increases, the sample mean tends to converge to the population mean. This principle underlies many statistical processes and supports more accurate predictions.
+The Law of Large Numbers (LLN) is a key theorem within probability theory and [statistics](/wiki/bayesian-statistics), articulating the behavior of averages calculated from random samples. The core idea is that, as the number of observations from a population increases, the sample mean tends to converge to the population mean. This principle underlies many statistical processes and supports more accurate predictions.
 
 More specifically, the LLN is formulated in two distinct types: the Weak Law and the Strong Law. The Weak Law of Large Numbers suggests that for any positive number $\epsilon$, the probability that the absolute difference between the sample average $\bar{X}_n$ and the expected value $\mu$ exceeds $\epsilon$ approaches zero as the sample size $n$ increases, formally expressed as:
 
