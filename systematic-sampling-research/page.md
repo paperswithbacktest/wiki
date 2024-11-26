@@ -19,7 +19,7 @@ Overall, systematic sampling stands out as a valuable tool for both researchers 
 
 ## Understanding Systematic Sampling
 
-Systematic sampling is a statistical method used in drawing a sample from a larger population wherein elements are selected at predetermined intervals. This approach involves choosing a random starting point and consistently picking every nth item from a list until the desired sample size is achieved. The method is straightforward, making it particularly advantageous for large datasets where more complex sampling techniques might become cumbersome.
+Systematic sampling is a statistical method used in drawing a sample from a larger population wherein elements are selected at predetermined intervals. This approach involves choosing a random starting point and consistently [picking](/wiki/asset-class-picking) every nth item from a list until the desired sample size is achieved. The method is straightforward, making it particularly advantageous for large datasets where more complex sampling techniques might become cumbersome.
 
 The key feature of systematic sampling is the sampling interval, which is calculated as the population size (N) divided by the desired sample size (n), mathematically represented as:
 

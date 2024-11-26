@@ -19,7 +19,7 @@ As banks navigate changing interest rate environments and incorporate advanced t
 
 Net interest income (NII) represents the differential between a bank's gross earnings from its interest-bearing assets and the costs associated with its interest-bearing liabilities. This metric is crucial for assessing a bank's core profitability stemming from its primary financial transactions.
 
-Interest-bearing assets constitute the foundation of a bank's earning capabilities and encompass loans, mortgages, and securities. These assets are pivotal because they generate interest revenue, which is the primary component of NII. On the liability side, the bulk typically consists of customer deposits, which accrue interest expense for the bank.
+Interest-bearing assets constitute the foundation of a bank's [earning](/wiki/earning-announcement) capabilities and encompass loans, mortgages, and securities. These assets are pivotal because they generate interest revenue, which is the primary component of NII. On the liability side, the bulk typically consists of customer deposits, which accrue interest expense for the bank.
 
 The quality and type of a bank's assets play a significant role in determining its net interest income. High-quality assets such as low-risk mortgages or government securities tend to ensure steady interest income, even in volatile markets. Conversely, riskier loans might offer higher interest rates but come with increased default risk, which could adversely affect the bank's NII. Therefore, banks meticulously balance their asset composition, striving to maximize returns while managing risk.
 

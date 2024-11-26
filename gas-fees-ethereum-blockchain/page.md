@@ -19,7 +19,7 @@ Gas fees are crucial components of the Ethereum network, functioning as transact
 
 The primary factors influencing gas fees include supply and demand dynamics, as well as overall network conditions. When network activity is high, the demand for transaction processing increases, leading to higher gas prices. Conversely, during periods of low activity, gas prices tend to decrease. This variability can significantly affect the cost structure of decentralized applications and transactions, making gas fees a key consideration for users and developers.
 
-Gas fees are denominated in gwei, a subunit of ether (ETH), Ethereum's native cryptocurrency. Specifically, one ether equals one billion gwei (1 ETH = 1,000,000,000 gwei). This standard allows for gas fees to be expressed in smaller, more manageable numbers, easing calculations and making transaction costs more comprehensible to users.
+Gas fees are denominated in gwei, a subunit of ether (ETH), Ethereum's native [cryptocurrency](/wiki/cryptocurrency). Specifically, one ether equals one billion gwei (1 ETH = 1,000,000,000 gwei). This standard allows for gas fees to be expressed in smaller, more manageable numbers, easing calculations and making transaction costs more comprehensible to users.
 
 The calculation of transaction costs on Ethereum involves multiplying the gas limit, which represents the maximum amount of computational effort the user is willing to pay for, by the gas price, which is how much the user is willing to pay per unit of gas in gwei. Mathematically, this is expressed as:
 
