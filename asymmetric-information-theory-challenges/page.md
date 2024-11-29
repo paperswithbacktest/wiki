@@ -19,7 +19,7 @@ This article aims to explore the economic challenges that arise from asymmetric 
 
 ## Understanding Information Economics
 
-Information economics is a branch of economics that examines how information and information systems affect an economy and economic decisions. One of its fundamental principles is that information has value because it can reduce uncertainty in economic decision-making. Economic agents rely on information to make informed choices, such as whether to invest, consume, or save. The quality and accessibility of information can significantly influence these decisions, affecting overall economic outcomes.
+Information economics is a branch of economics that examines how information and information systems affect an economy and economic decisions. One of its fundamental principles is that information has value because it can reduce uncertainty in economic decision-making. Economic [agents](/wiki/agents) rely on information to make informed choices, such as whether to invest, consume, or save. The quality and accessibility of information can significantly influence these decisions, affecting overall economic outcomes.
 
 Information economics provides a theoretical framework that includes the analysis of asymmetric information, signaling, and screening. These concepts shed light on how differing levels of information between parties can lead to suboptimal decision-making or market failures. For instance, when one party possesses more or better information than another, it can result in phenomena such as adverse selection and moral hazard, impacting market efficiency.
 

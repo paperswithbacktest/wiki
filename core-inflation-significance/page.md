@@ -19,7 +19,7 @@ In summary, economic indicators, particularly inflation and its core measures, s
 
 ## Understanding Economic Indicators
 
-Economic indicators are statistics or data points that provide insights into the health and direction of an economy. These indicators are crucial for economists, policymakers, investors, and business leaders as they offer a snapshot of economic activity, enabling informed decision-making. They reflect various aspects of an economy and help in understanding its current state, projecting future performance, and formulating economic policies.
+Economic indicators are [statistics](/wiki/bayesian-statistics) or data points that provide insights into the health and direction of an economy. These indicators are crucial for economists, policymakers, investors, and business leaders as they offer a snapshot of economic activity, enabling informed decision-making. They reflect various aspects of an economy and help in understanding its current state, projecting future performance, and formulating economic policies.
 
 Economic indicators can be broadly categorized into three types: leading, lagging, and coincident indicators. Leading indicators are predictors that often change before the economy as a whole starts to follow a particular trend, making them useful for forecasting future economic activity. Examples include the stock market returns, new orders for durable goods, and the money supply. 
 

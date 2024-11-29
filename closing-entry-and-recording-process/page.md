@@ -19,7 +19,7 @@ Furthermore, investigating the role of financial statements in algorithmic tradi
 
 Closing entries are a fundamental component of the accounting cycle, serving the crucial function of preparing financial records for the transition into a new accounting period. These entries primarily focus on transferring the balances from temporary accounts, such as revenues and expenses, to permanent accounts like retained earnings. The significance of this process lies in its ability to ensure that a company's financial performance is accurately reported and ready for the next period.
 
-The mechanics of closing entries involve a series of steps aimed at resetting temporary account balances to zero. This is vital because temporary accounts are used to track financial activities within a specific period and should not carry over to the next cycle. The classic approach involves a step-by-step closing of revenue, expense, income summary, and dividend accounts. 
+The mechanics of closing entries involve a series of steps aimed at resetting temporary account balances to zero. This is vital because temporary accounts are used to track financial activities within a specific period and should not [carry](/wiki/carry-trading) over to the next cycle. The classic approach involves a step-by-step closing of revenue, expense, income summary, and dividend accounts. 
 
 1. **Revenue Closure**: The first step is to transfer all revenue account balances to the Income Summary account. This is typically represented as:
 $$

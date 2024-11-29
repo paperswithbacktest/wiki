@@ -19,7 +19,7 @@ This article will explore these themes, offering a structured examination of IRR
 
 ## What is Internal Rate of Return (IRR)?
 
-Internal Rate of Return (IRR) is a financial metric used to evaluate the profitability of investments. It represents the discount rate at which the net present value (NPV) of cash flows from an investment equals zero. In simpler terms, IRR is the break-even interest rate that makes the present value of future cash inflows equal to the initial investment cost.
+Internal Rate of Return (IRR) is a financial metric used to evaluate the profitability of investments. It represents the discount rate at which the net present value (NPV) of cash flows from an investment equals zero. In simpler terms, IRR is the break-even [interest rate](/wiki/interest-rate-trading-strategies) that makes the present value of future cash inflows equal to the initial investment cost.
 
 To calculate IRR, one must determine the discount rate ($r$) that satisfies the equation:
 

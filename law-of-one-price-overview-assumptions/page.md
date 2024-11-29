@@ -19,7 +19,7 @@ This article intends to explore the interplay between core economic theories, ma
 
 ## Economic Theory and Its Influence on Markets
 
-Economic theory provides a comprehensive framework for understanding the complexities of market dynamics. At its core, economic theory seeks to explain how resources are allocated in a society, the interplay between different economic agents, and the outcome of their interactions in various types of markets. One seminal aspect of economic theory is the concept of supply and demand, which serves as the foundation for analyzing economic interactions.
+Economic theory provides a comprehensive framework for understanding the complexities of market dynamics. At its core, economic theory seeks to explain how resources are allocated in a society, the interplay between different economic [agents](/wiki/agents), and the outcome of their interactions in various types of markets. One seminal aspect of economic theory is the concept of supply and demand, which serves as the foundation for analyzing economic interactions.
 
 Supply and demand describe the relationship between the quantity of a good that producers are willing to sell and the quantity that consumers are willing to buy at different price levels. The law of demand posits that, all else being equal, an increase in the price of a good leads to a decrease in its quantity demanded. Conversely, the law of supply suggests that a higher price results in an increased quantity supplied. These principles are pivotal for determining the market equilibrium, where the quantity supplied equals the quantity demanded, thereby setting an equilibrium price.
 

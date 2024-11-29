@@ -19,7 +19,7 @@ The purpose of this article is to examine these three components — junk bonds,
 
 ## Understanding Junk Bonds: An Overview
 
-Junk bonds, also known as high-yield bonds, are fixed-income securities with a lower credit rating than investment-grade bonds. They typically fall below the ‘BBB’ rating by Standard & Poor’s or ‘Baa’ by Moody’s. These bonds carry a higher risk of default, meaning there is a significant chance that the issuing company might fail to make interest payments or repay the principal. In compensation for this elevated risk, junk bonds offer higher yields, presenting both a risk and reward opportunity for investors.
+Junk bonds, also known as high-yield bonds, are fixed-income securities with a lower credit rating than investment-grade bonds. They typically fall below the ‘BBB’ rating by Standard & Poor’s or ‘Baa’ by Moody’s. These bonds [carry](/wiki/carry-trading) a higher risk of default, meaning there is a significant chance that the issuing company might fail to make interest payments or repay the principal. In compensation for this elevated risk, junk bonds offer higher yields, presenting both a risk and reward opportunity for investors.
 
 The risk-reward profile of junk bonds involves a delicate balance; their higher interest rates provide attractive income potential, especially in low-interest environments. Investors might gain considerably if the issuing company's creditworthiness improves or if the overall market conditions enhance the bond’s value. However, these potential gains come with the risk of capital loss if the issuer defaults or fails to meet its obligations. As such, investing in junk bonds requires thorough credit risk analysis and a diversified portfolio to mitigate potential losses.
 
