@@ -19,7 +19,7 @@ This article aims to explore the integration of Fibonacci retracements within al
 
 ## Understanding Forex Trading
 
-Forex trading, also known as foreign exchange trading, involves the exchange of currencies with the primary objective of earning a profit. Operating 24 hours a day, the forex market is the largest financial market in the world, with a daily trading volume exceeding $6 trillion. It plays a crucial role in global commerce, as it enables the conversion of currencies essential for international trade and investment.
+Forex trading, also known as foreign exchange trading, involves the exchange of currencies with the primary objective of [earning](/wiki/earning-announcement) a profit. Operating 24 hours a day, the forex market is the largest financial market in the world, with a daily trading volume exceeding $6 trillion. It plays a crucial role in global commerce, as it enables the conversion of currencies essential for international trade and investment.
 
 Key participants in the [forex](/wiki/forex-system) market include banks, corporations, and retail traders. Banks are the largest participants, engaging in forex transactions both for their clients and for profit through proprietary trading. Corporations participate in the forex market primarily to hedge against currency risk that arises from international operations and transactions. Retail traders are individual investors who speculate on currency movements, facilitated by brokers offering leverage to amplify potential returns.
 

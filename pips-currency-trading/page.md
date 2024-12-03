@@ -19,7 +19,7 @@ This article explores the calculations, significance, and strategic use of pips 
 
 Forex trading is fundamentally the exchange of one currency for another. This activity is primarily conducted through currency pairs, which signify the relative value between two currencies. A currency pair consists of a base currency and a quote currency. For instance, in the currency pair EUR/USD, the euro (EUR) is the base currency, and the US dollar (USD) is the quote currency. The quoted rate indicates how much of the quote currency is needed to purchase one unit of the base currency.
 
-Currency pairs are categorized into three main groups: major, minor, and exotic pairs. Major currency pairs include the most traded currencies worldwide, characterized by high liquidity and volume. They incorporate the US dollar alongside another major currency, such as EUR/USD, USD/JPY, or GBP/USD. These pairs are known for their stability and tighter spreads.
+Currency pairs are categorized into three main groups: major, minor, and exotic pairs. Major currency pairs include the most traded currencies worldwide, characterized by high liquidity and [volume](/wiki/volume-trading-strategy). They incorporate the US dollar alongside another major currency, such as EUR/USD, USD/JPY, or GBP/USD. These pairs are known for their stability and tighter spreads.
 
 Minor currency pairs, also referred to as cross-currency pairs, exclude the US dollar. Examples include EUR/GBP, AUD/JPY, and GBP/CAD. Although they are less liquid than major pairs, they offer opportunities for traders seeking diversification.
 

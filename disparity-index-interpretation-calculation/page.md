@@ -19,7 +19,7 @@ The purpose of this article is to explore the role of technical indicators in fi
 
 ## Technical Indicators in Financial Analysis
 
-Technical indicators are essential tools in financial analysis, primarily used to evaluate market trends and inform trading decisions. These indicators are mathematical calculations based on historical price, volume, or open interest data of a financial asset. The primary purpose of technical indicators is to facilitate the prediction of future price movements by analyzing past market data. While technical indicators are diverse, they can be broadly categorized into several types, including trend indicators, momentum indicators, volatility indicators, and volume indicators.
+Technical indicators are essential tools in financial analysis, primarily used to evaluate market trends and inform trading decisions. These indicators are mathematical calculations based on historical price, [volume](/wiki/volume-trading-strategy), or open interest data of a financial asset. The primary purpose of technical indicators is to facilitate the prediction of future price movements by analyzing past market data. While technical indicators are diverse, they can be broadly categorized into several types, including trend indicators, momentum indicators, volatility indicators, and volume indicators.
 
 **Definition and Types of Technical Indicators**
 

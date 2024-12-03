@@ -19,7 +19,7 @@ This article aims to explore these themes, highlighting their impact and how the
 
 ## Understanding Geographical Mobility
 
-Geographical mobility refers to the movement of individuals or groups across various locations, primarily driven by economic motivations. This concept encompasses movements at local, regional, national, and international levels. Historically, geographical mobility has been a crucial factor in shaping labor markets and influencing economic growth. The ability and choice to relocate depend on numerous factors that impact the decision-making process of individuals or groups considering a move.
+Geographical mobility refers to the movement of individuals or groups across various locations, primarily driven by economic motivations. This concept encompasses movements at local, regional, national, and international levels. Historically, geographical mobility has been a crucial [factor](/wiki/factor-investing) in shaping labor markets and influencing economic growth. The ability and choice to relocate depend on numerous factors that impact the decision-making process of individuals or groups considering a move.
 
 One of the primary drivers of geographical mobility is the pursuit of job opportunities. Areas that offer better employment prospects, higher wages, or improved working conditions often attract workers from regions with fewer opportunities. Economic conditions such as economic growth or recession significantly influence these movements. In times of economic downturn, regions experiencing economic stagnation or decline might see an outflow of residents seeking better prospects elsewhere. Conversely, areas experiencing economic booms may attract an influx of workers.
 

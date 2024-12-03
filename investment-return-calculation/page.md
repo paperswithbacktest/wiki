@@ -19,7 +19,7 @@ $$
 \text{ROI} = \left( \frac{\text{Net Return}}{\text{Cost of Investment}} \right) \times 100\%
 $$
 
-This formula provides a straightforward means of understanding the gains or losses made relative to the initial investment cost. However, despite its apparent simplicity, ROI has inherent limitations. It does not factor in the time duration over which the investment is held, which can lead to skewed analysis when comparing the performance of investments with varying time frames. For example, an investment that yields a 10% return over one year might be more advantageous than one that yields a 10% return over five years, but this distinction is not captured in the basic ROI calculation.
+This formula provides a straightforward means of understanding the gains or losses made relative to the initial investment cost. However, despite its apparent simplicity, ROI has inherent limitations. It does not [factor](/wiki/factor-investing) in the time duration over which the investment is held, which can lead to skewed analysis when comparing the performance of investments with varying time frames. For example, an investment that yields a 10% return over one year might be more advantageous than one that yields a 10% return over five years, but this distinction is not captured in the basic ROI calculation.
 
 In the context of automated trading, ROI is invaluable in providing a quick assessment of the effectiveness of trading strategies. The rapid execution of trades and high trading volumes characteristic of algorithmic trading necessitate efficient monitoring of performance metrics such as ROI. By gauging ROI, traders can make informed decisions about adjusting their strategies to enhance profitability.
 

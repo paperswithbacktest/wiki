@@ -19,7 +19,7 @@ Compliance with FICA is mandatory for all wage earners in the United States; opt
 
 The Social Security tax rate is set at 6.2% of an employee's wages, which the employer matches, culminating in a total rate of 12.4%. This tax is applicable only up to a certain wage base limit, which the Social Security Administration adjusts annually for inflation.
 
-Medicare taxes, on the other hand, are calculated at a rate of 1.45% on all employee earnings, with no wage base limit. Employers also match this contribution, leading to a combined rate of 2.9%. In addition, there's an additional 0.9% Medicare tax applied to individuals earning over $200,000 annually; employers do not match this additional rate.
+Medicare taxes, on the other hand, are calculated at a rate of 1.45% on all employee earnings, with no wage base limit. Employers also match this contribution, leading to a combined rate of 2.9%. In addition, there's an additional 0.9% Medicare tax applied to individuals [earning](/wiki/earning-announcement) over $200,000 annually; employers do not match this additional rate.
 
 These contributions are critical as they accumulate funds necessary to maintain the solvency and functionality of Social Security and Medicare systems, ensuring ongoing support for eligible individuals. Understanding the mechanics and obligations of FICA is crucial for anyone engaged in employment or self-employment in the United States.
 
