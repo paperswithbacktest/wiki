@@ -19,7 +19,7 @@ The seven-day yield is a pivotal metric in the evaluation of money market funds,
 
 The utility of the seven-day yield lies in its ability to facilitate comparison among various funds. Since money market funds typically invest in low-risk, short-term securities, the yield provides insight into how effectively a fund is capitalizing on available interest rates. This yield quickly indicates the potential annual earnings from a fund, allowing investors to gauge performance without delving deep into the complexities of each fund's individual securities.
 
-Additionally, the standardization of the seven-day yield means that investors can reliably compare funds of similar mandates. For instance, when an investor looks at a series of government money market funds, the seven-day yield acts as a consistent baseline. This uniformity helps alleviate some of the confusion that can arise from the inherent volatility and varying composition of different funds.
+Additionally, the standardization of the seven-day yield means that investors can reliably compare funds of similar mandates. For instance, when an investor looks at a series of government money market funds, the seven-day yield acts as a consistent baseline. This uniformity helps alleviate some of the confusion that can arise from the inherent [volatility](/wiki/volatility-trading-strategies) and varying composition of different funds.
 
 Ultimately, while the seven-day yield is based on a short observation period, it provides a reliable forecast for assessing which money market funds might offer the best returns, making it an indispensable tool for both individual investors and financial analysts.
 

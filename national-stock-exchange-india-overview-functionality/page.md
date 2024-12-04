@@ -19,7 +19,7 @@ Readers can look forward to gaining insights into how algo trading has grown wit
 
 ## Understanding the National Stock Exchange (NSE) of India
 
-The National Stock Exchange (NSE) of India, established in 1992, has played a pivotal role in transforming the landscape of Indian capital markets. Conceived as a public initiative, NSE was created to provide a transparent and efficient platform for stock trading, addressing various deficiencies observed in the earlier market systems. Its establishment marked a significant shift from the floor-based open outcry system to an electronic limit order book, furthering transparency and reducing transaction costs.
+The National Stock Exchange (NSE) of India, established in 1992, has played a pivotal role in transforming the landscape of Indian capital markets. Conceived as a public initiative, NSE was created to provide a transparent and efficient platform for stock trading, addressing various deficiencies observed in the earlier market systems. Its establishment marked a significant shift from the floor-based open outcry system to an electronic limit [order book](/wiki/order-book-trading-strategies), furthering transparency and reducing transaction costs.
 
 From its inception, NSE has been instrumental in enhancing the efficiency of Indian capital markets. By leveraging technology, NSE introduced a nationwide trading platform that eliminated geographical barriers and facilitated seamless trading across the country. This technology-driven approach has encouraged more participants to enter the market, thereby increasing [liquidity](/wiki/liquidity-risk-premium) and reducing spreads.
 

@@ -19,7 +19,7 @@ Binary options are a type of financial instrument that allows traders to specula
 
 In the United States, the regulatory landscape for binary options is more stringent compared to other regions, primarily to protect investors from fraud. Binary options trading is regulated by the Commodity Futures Trading Commission (CFTC) and the Securities and Exchange Commission (SEC) in the US. These agencies ensure that platforms offering binary options operate transparently and comply with federal securities laws. One of the requirements is that binary options platforms must be registered and approved as exchanges by these regulatory bodies to legally offer services to US residents. 
 
-Key platforms and exchanges offering binary options trading in the US include the North American Derivatives Exchange (Nadex) and the Cantor Exchange. These platforms are regulated by the CFTC, which adds a layer of oversight and safety for traders. Nadex, for example, provides a wide range of markets, including forex, commodities, stock indices, and events, allowing traders to engage in binary options backed by real markets.
+Key platforms and exchanges offering binary options trading in the US include the North American Derivatives Exchange (Nadex) and the Cantor Exchange. These platforms are regulated by the CFTC, which adds a layer of oversight and safety for traders. Nadex, for example, provides a wide range of markets, including [forex](/wiki/forex-system), commodities, stock indices, and events, allowing traders to engage in binary options backed by real markets.
 
 ## The Role of Algorithmic Trading
 

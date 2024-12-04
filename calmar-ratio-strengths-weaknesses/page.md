@@ -19,7 +19,7 @@ Risk analysis is an essential process in investment management, focused on ident
 
 Investment metrics serve as quantitative tools to assess the risk and return profiles of assets, providing a numerical basis for comparing different investments. By quantifying aspects such as volatility, returns, and drawdowns, these metrics allow investors to gauge the potential risks and rewards associated with various investment opportunities.
 
-Familiarizing oneself with investment metrics is crucial for investors, especially those aiming to navigate volatile markets effectively. For instance, understanding volatility—the degree of variation in trading prices—helps investors anticipate price fluctuations, thereby allowing them to make more informed decisions. Standard deviation is a commonly used measure of volatility, representing the amount of variation or dispersion of a set of values. It is calculated as follows:
+Familiarizing oneself with investment metrics is crucial for investors, especially those aiming to navigate volatile markets effectively. For instance, understanding volatility—the degree of variation in trading prices—helps investors anticipate price fluctuations, thereby allowing them to make more informed decisions. Standard deviation is a commonly used measure of volatility, representing the amount of variation or [dispersion](/wiki/dispersion-trading) of a set of values. It is calculated as follows:
 
 $$
 \sigma = \sqrt{\frac{1}{N}\sum_{i=1}^{N}(X_i - \bar{X})^2}

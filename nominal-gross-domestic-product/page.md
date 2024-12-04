@@ -19,7 +19,7 @@ This article will explore the components and calculation methods of GDP, emphasi
 
 ## Understanding Nominal GDP
 
-Nominal GDP evaluates an economy's output at current market prices, offering a measure of its economic size without adjusting for inflation. This metric calculates the total monetary value of all finished goods and services produced within a country's borders over a specified period, typically annually or quarterly. By reflecting current prices, nominal GDP captures both the volume of goods and services produced and the prevailing price levels at the time.
+Nominal GDP evaluates an economy's output at current market prices, offering a measure of its economic size without adjusting for inflation. This metric calculates the total monetary value of all finished goods and services produced within a country's borders over a specified period, typically annually or quarterly. By reflecting current prices, nominal GDP captures both the [volume](/wiki/volume-trading-strategy) of goods and services produced and the prevailing price levels at the time.
 
 One of the primary advantages of nominal GDP is its ability to provide a straightforward measure of an economy's size and total output. It serves as a baseline for comparing production levels across different time periods or nations. However, nominal GDP can be misleading during inflationary periods. As prices rise, nominal GDP may suggest growth even if the actual quantity of goods and services produced remains unchanged or declines. This inflation effect may lead to overestimating economic well-being if not accounted for through adjustments or complementary metrics.
 

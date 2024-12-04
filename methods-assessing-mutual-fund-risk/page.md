@@ -19,7 +19,7 @@ In this article, we will explore the various aspects of mutual fund risk, invest
 
 ## Understanding Mutual Fund Risks
 
-Mutual funds are investment vehicles that pool capital from numerous investors to purchase a diversified portfolio of securities, such as stocks, bonds, or other financial instruments. Managed by professional fund managers, these funds offer investors the opportunity to benefit from diversification, professional management, and economies of scale. However, despite their advantages, mutual funds carry inherent risks that investors should carefully consider before investing.
+Mutual funds are investment vehicles that pool capital from numerous investors to purchase a diversified portfolio of securities, such as stocks, bonds, or other financial instruments. Managed by professional fund managers, these funds offer investors the opportunity to benefit from diversification, professional management, and economies of scale. However, despite their advantages, mutual funds [carry](/wiki/carry-trading) inherent risks that investors should carefully consider before investing.
 
 **Types of Risks Associated with Mutual Fund Investments**
 
