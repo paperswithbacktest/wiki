@@ -19,7 +19,7 @@ In this context, the intersection of tax strategies and financial planning becom
 
 Tax rates significantly influence financial decision-making for both individuals and businesses, directly affecting disposable income and the capacity for reinvestment. These rates can be categorized into three primary types: marginal, average, and effective tax rates, each serving distinct functions within financial activities.
 
-The marginal tax rate is the rate applied to the last dollar of income earned. It is incremental, meaning higher earnings push taxpayers into higher brackets, leading them to pay more on additional income. This rate is crucial for decision-makers evaluating the financial impact of earning additional income or potential investments, as it determines the tax on that marginal income.
+The marginal tax rate is the rate applied to the last dollar of income earned. It is incremental, meaning higher earnings push taxpayers into higher brackets, leading them to pay more on additional income. This rate is crucial for decision-makers evaluating the financial impact of [earning](/wiki/earning-announcement) additional income or potential investments, as it determines the tax on that marginal income.
 
 Average tax rate, on the other hand, provides a broader perspective. It is calculated by dividing total taxes paid by total income, reflecting the proportion of income that is paid in taxes. While it simplifies understanding one's tax burden, it does not offer insight into tax liability on extra income, which is where the marginal tax rate prevails.
 

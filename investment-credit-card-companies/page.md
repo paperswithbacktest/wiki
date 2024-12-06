@@ -19,7 +19,7 @@ This article examines the integral roles that investment credit card companies a
 
 Investment credit card companies play an influential role in both the financial services sector and the broader investment arena. These companies generate revenue through multiple streams, primarily via interest rates, transaction fees, and a range of service charges. These streams are pivotal for maintaining their profitability in an increasingly competitive market environment.
 
-Interest rates constitute a significant portion of their income. Credit card companies charge consumers for carrying a balance on their credit cards, providing a continuous revenue stream. The average interest rate charged can vary widely, often ranging between 12% to 24% annually, depending on the credit worthiness of the cardholder and the specific terms of the card.
+Interest rates constitute a significant portion of their income. Credit card companies charge consumers for carrying a balance on their credit cards, providing a continuous revenue stream. The average [interest rate](/wiki/interest-rate-trading-strategies) charged can vary widely, often ranging between 12% to 24% annually, depending on the credit worthiness of the cardholder and the specific terms of the card.
 
 Transaction fees are another vital source of income. Each time a cardholder uses their credit card, the merchant pays a fee to the credit card network, generally around 1% to 3% of the purchase amount. This fee is usually split among the credit card company, the cardholder's bank (issuing bank), and the merchant's bank (acquiring bank). Additionally, card companies impose various service charges, such as annual fees, late payment fees, and foreign transaction fees, further bolstering their revenue streams.
 

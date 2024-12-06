@@ -19,7 +19,7 @@ For both novice and experienced investors, this guide aims to broaden investment
 
 ## Understanding ETFs
 
-Exchange-Traded Funds (ETFs) are a type of investment fund that are traded on stock exchanges, much like individual stocks. An ETF holds assets such as stocks, commodities, or bonds and generally operates with an arbitrage mechanism designed to keep trading close to its net asset value, although deviations can occasionally occur.
+Exchange-Traded Funds (ETFs) are a type of investment fund that are traded on stock exchanges, much like individual stocks. An ETF holds assets such as stocks, commodities, or bonds and generally operates with an [arbitrage](/wiki/arbitrage) mechanism designed to keep trading close to its net asset value, although deviations can occasionally occur.
 
 ### Types of ETFs
 

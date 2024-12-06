@@ -20,7 +20,7 @@ This article will first explore the economic impacts of immigration, detailing i
 
 ## Understanding Immigration's Economic Impact
 
-Immigration has long been recognized as a pivotal factor in shaping global economic landscapes. The economic benefits of immigration stem from several key contributions that immigrants make to host countries. These contributions can be categorized into labor market augmentation, innovation and entrepreneurship, fiscal impacts, and consideration of potential challenges and dependencies in managing immigration effectively.
+Immigration has long been recognized as a pivotal [factor](/wiki/factor-investing) in shaping global economic landscapes. The economic benefits of immigration stem from several key contributions that immigrants make to host countries. These contributions can be categorized into labor market augmentation, innovation and entrepreneurship, fiscal impacts, and consideration of potential challenges and dependencies in managing immigration effectively.
 
 Firstly, immigrants significantly bolster labor markets by filling essential gaps, often in sectors facing labor shortages. For example, immigrant labor is vital in industries such as healthcare, technology, agriculture, and construction. By providing a diverse pool of skills and abilities, immigrants enhance productivity and economic dynamism. Studies suggest that immigrants contribute positively to labor markets by complementing the native workforce, rather than displacing it, thereby increasing both employment levels and wages [1].
 

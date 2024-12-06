@@ -19,7 +19,7 @@ By the conclusion, our aim is to equip readers with a thorough understanding of 
 
 ## Understanding Response Lag
 
-Response lag refers to the temporal delay between the initiation of a trade order and its execution in the market. This delay can occur due to various technical and operational factors within the trading infrastructure. In the high-speed domain of algorithmic trading, response lag is critical because even minor delays can result in substantial financial losses. This is particularly relevant in high-frequency trading (HFT) where trades are executed in fractions of a second to capitalize on small price movements.
+Response lag refers to the temporal delay between the initiation of a trade order and its execution in the market. This delay can occur due to various technical and operational factors within the trading infrastructure. In the high-speed domain of algorithmic trading, response lag is critical because even minor delays can result in substantial financial losses. This is particularly relevant in high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) where trades are executed in fractions of a second to capitalize on small price movements.
 
 The response lag significantly influences the dynamics of financial systems, impacting decision-making processes and market stability. It can create discrepancies between the anticipated and actual execution prices, known as slippage, which can significantly affect the profitability of trading strategies.
 

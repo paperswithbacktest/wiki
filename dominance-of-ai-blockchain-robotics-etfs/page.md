@@ -19,7 +19,7 @@ By exploring Robotics, Blockchain, and AI ETFs and their interaction with algori
 
 Exchange Traded Funds (ETFs) are investment vehicles listed and traded on major stock exchanges, resembling the functionality of individual stocks. These funds provide investors with an opportunity to gain diversified exposure to a basket of assets, such as stocks, commodities, or bonds, through a single purchase. ETFs are structured to track an index, sector, commodity, or other asset classes, enabling investors to benefit from a broad market movement without having to own each underlying asset directly.
 
-One of the key characteristics of ETFs is their liquidity. Investors can buy and sell ETF shares throughout the trading day at market-driven prices, unlike mutual funds, which are typically traded at the Net Asset Value (NAV) at the close of the market. This liquidity provides investors with greater control over their investment timing and can be particularly advantageous in volatile markets.
+One of the key characteristics of ETFs is their [liquidity](/wiki/liquidity-risk-premium). Investors can buy and sell ETF shares throughout the trading day at market-driven prices, unlike mutual funds, which are typically traded at the Net Asset Value (NAV) at the close of the market. This liquidity provides investors with greater control over their investment timing and can be particularly advantageous in volatile markets.
 
 Moreover, ETFs are often more cost-effective than mutual funds, as they generally incur lower expense ratios and management fees. The passive management style of most ETFs contributes to these reduced costs, as they typically aim to replicate the performance of a particular index rather than actively outperform it.
 

@@ -19,7 +19,7 @@ In summary, the intersection of options trading, the DJIA, and algorithmic metho
 
 ## Understanding Stock Market Investing
 
-Stock market investing is the practice of buying and selling shares of companies on stock exchanges with the goal of earning returns. This involves analyzing companies, sectors, and larger economic indicators to make informed decisions about where to allocate capital. The foundation of stock market investing revolves around understanding company fundamentals, market trends, and economic conditions.
+Stock market investing is the practice of buying and selling shares of companies on stock exchanges with the goal of [earning](/wiki/earning-announcement) returns. This involves analyzing companies, sectors, and larger economic indicators to make informed decisions about where to allocate capital. The foundation of stock market investing revolves around understanding company fundamentals, market trends, and economic conditions.
 
 Traditional stock investing strategies often include “buy and hold,” where investors purchase stocks with the expectation that they will appreciate over time, and “value investing,” where investors look for undervalued stocks that have the potential to grow. Another popular approach is “growth investing,” which focuses on companies expected to increase their earnings at an above-average rate compared to others.
 
