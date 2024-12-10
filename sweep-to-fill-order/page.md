@@ -19,7 +19,7 @@ To provide a comprehensive view, we will begin with an overview of algorithmic t
 
 Algorithmic trading refers to the automation of trading activities using pre-programmed algorithms to execute orders based on predetermined criteria, such as timing, price, or quantity. These algorithms are designed to analyze market data and execute trades at speeds and frequencies that surpass human capabilities, making them a powerful tool in modern financial markets.
 
-By eliminating the emotional biases inherent in human decision-making, algorithmic trading enables the execution of complex strategies with precision and efficiency. Traders and firms utilize algorithms to capitalize on opportunities for arbitrage, trend-following, and market-making strategies, among others. The algorithms are coded to respond to market signals and execute trades triggered by specified conditions.
+By eliminating the emotional biases inherent in human decision-making, algorithmic trading enables the execution of complex strategies with precision and efficiency. Traders and firms utilize algorithms to capitalize on opportunities for [arbitrage](/wiki/arbitrage), trend-following, and market-making strategies, among others. The algorithms are coded to respond to market signals and execute trades triggered by specified conditions.
 
 Recent advancements in technology and data availability have propelled the adoption of [algorithmic trading](/wiki/algorithmic-trading) in various financial markets, including stocks, futures, and foreign exchange. This automation facilitates the execution of trades within milliseconds, a critical [factor](/wiki/factor-investing) in high-frequency trading where speed is of the essence.
 
