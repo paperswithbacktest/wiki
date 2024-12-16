@@ -19,7 +19,7 @@ Margin trading is a financial strategy that allows investors to trade assets usi
 
 ### Mechanics of Margin Trading
 
-In margin trading, investors open margin accounts with brokerage firms. These accounts permit them to borrow money against the collateral of their existing securities. The borrowed funds, typically at a set interest rate, are used to purchase additional securities, thereby leveraging the initial investment. The level of leverage in margin trading is typically expressed as a ratio. For instance, a 2:1 leverage implies that for every $1 of the investor's capital, they can trade $2 worth of securities. The potential for higher returns arises due to the increased market exposure.
+In margin trading, investors open margin accounts with brokerage firms. These accounts permit them to borrow money against the collateral of their existing securities. The borrowed funds, typically at a set [interest rate](/wiki/interest-rate-trading-strategies), are used to purchase additional securities, thereby leveraging the initial investment. The level of leverage in margin trading is typically expressed as a ratio. For instance, a 2:1 leverage implies that for every $1 of the investor's capital, they can trade $2 worth of securities. The potential for higher returns arises due to the increased market exposure.
 
 ### Leverage and Its Amplifying Effects
 

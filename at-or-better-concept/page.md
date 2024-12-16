@@ -19,7 +19,7 @@ This article aims to explore the definition and relevance of the 'at-or-better' 
 
 'At-or-better' orders in trading are executed at a predetermined price or a more advantageous one. These orders are a subset of limit orders, signifying that a trade will only be executed if the specified price, or a better one, is available. This concept ensures the trade is conducted under favorable financial conditions, contrasting distinctly from market orders that prioritize the speed of execution over the price at which the trade is performed.
 
-A limit order, including 'at-or-better,' is crucial in scenarios where the trader wants to control the entry or exit price for a particular transaction. For instance, if a trader places a buy 'at-or-better' order at $50, the transaction will only execute if the market price is $50 or less. Conversely, for a sell order, the trade will be executed at prices $50 or more, ensuring favorable conditions for the seller.
+A limit order, including 'at-or-better,' is crucial in scenarios where the trader wants to control the entry or [exit](/wiki/exit-strategy) price for a particular transaction. For instance, if a trader places a buy 'at-or-better' order at $50, the transaction will only execute if the market price is $50 or less. Conversely, for a sell order, the trade will be executed at prices $50 or more, ensuring favorable conditions for the seller.
 
 Distinct from market orders, which are executed immediately at the best available current price, 'at-or-better' orders require patience and may not execute if the market does not reach the specified criteria. This distinction is vital since it allows traders to define and stick to their price goals, reducing exposure to unfavorable market movements.
 

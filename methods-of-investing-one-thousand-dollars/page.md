@@ -19,7 +19,7 @@ Furthermore, good education and implementing a disciplined strategy can empower 
 
 ## Understanding Algorithmic Trading
 
-Algorithmic trading entails the use of computer programs to automatically execute trades based on specified parameters or rules. This method seeks to mitigate emotional biases inherent in human trading behaviors while increasing the speed and efficiency of trading operations. By implementing pre-set criteria, algorithmic systems can analyze vast datasets quickly, identifying optimal entry and exit points that may be missed by human traders.
+Algorithmic trading entails the use of computer programs to automatically execute trades based on specified parameters or rules. This method seeks to mitigate emotional biases inherent in human trading behaviors while increasing the speed and efficiency of trading operations. By implementing pre-set criteria, algorithmic systems can analyze vast datasets quickly, identifying optimal entry and [exit](/wiki/exit-strategy) points that may be missed by human traders.
 
 One of the primary advantages of [algorithmic trading](/wiki/algorithmic-trading) is its capacity to process and react to market data in real-time without the hesitation that can accompany manual trading. As the computational power of these algorithms allows for rapid execution, trades are typically made within milliseconds, ensuring the capture of beneficial market movements often before manual traders can react.
 
