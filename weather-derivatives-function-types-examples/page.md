@@ -19,7 +19,7 @@ Financial instruments are pivotal for companies aiming to shield themselves from
 
 Options give holders the right, but not the obligation, to buy or sell an asset, typically a stock, at an agreed-upon price before the option expires. Futures, on the other hand, bind both the buyer and seller to execute the transaction at the specified future date and price, making them a bit more rigid but effective as a hedging mechanism.
 
-Beyond these traditional contracts, companies are increasingly turning to more sophisticated derivatives, including swaps, forward contracts, and the like. Derivatives derive their value from the performance of an underlying entity, such as an asset, interest rate, or index, allowing investors to hedge against risks without necessarily owning the asset.
+Beyond these traditional contracts, companies are increasingly turning to more sophisticated derivatives, including swaps, forward contracts, and the like. Derivatives derive their value from the performance of an underlying entity, such as an asset, [interest rate](/wiki/interest-rate-trading-strategies), or index, allowing investors to hedge against risks without necessarily owning the asset.
 
 With the rapid advancement of technology, innovative instruments like weather derivatives and [algorithmic trading](/wiki/algorithmic-trading) are gaining prominence. Weather derivatives, for example, are contracts that provide payouts based on weather indices, helping industries such as agriculture and energy manage risks associated with adverse weather conditions. Unlike traditional insurance, they cover high-probability, non-catastrophic events, offering businesses a more flexible tool for financial risk management.
 

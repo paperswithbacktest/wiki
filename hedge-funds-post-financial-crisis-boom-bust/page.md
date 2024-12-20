@@ -19,7 +19,7 @@ This article examines the interconnected relationships between economic cycles, 
 
 Economic cycles, often referred to as business cycles, are fundamental features of the global economy characterized by phases of expansion and contraction. These cycles are measured by changes in the gross domestic product (GDP) and other macroeconomic indicators. 
 
-During a boom, or expansion phase, the economy experiences significant growth. Key economic indicators such as GDP, employment rates, consumer spending, and industrial production exhibit robust performance. Low unemployment rates, increased consumer confidence, and rising incomes further drive the positive momentum. Investment activity intensifies as businesses anticipate continued demand growth, leading to capital expansion and innovation.
+During a boom, or expansion phase, the economy experiences significant growth. Key economic indicators such as GDP, employment rates, consumer spending, and industrial production exhibit robust performance. Low unemployment rates, increased consumer confidence, and rising incomes further drive the positive [momentum](/wiki/momentum). Investment activity intensifies as businesses anticipate continued demand growth, leading to capital expansion and innovation.
 
 Conversely, the bust, or contraction phase, signifies a slowdown or shrinkage in economic activity. Indicators during this phase often include declining GDP, rising unemployment, reduced consumer spending, and potential deflation. The contraction can evolve into a recession, marked by persistent economic decline spread across the economy. Recessions often entail reduced industrial output, falling stock markets, and increased government intervention to stabilize the economy.
 

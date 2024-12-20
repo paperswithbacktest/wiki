@@ -19,7 +19,7 @@ This guide aims to shed light on the complex dynamics of bulk shipping and commo
 
 ## Understanding Bulk Shipping
 
-Bulk shipping is a critical component of global trade, involving the transport of substantial quantities of unpackaged goods such as grains, coal, and iron ore. This sector is divided into two main categories: dry bulk and wet bulk shipping. Dry bulk shipping specifically deals with solid raw materials like iron ore, coal, grains, and other similar commodities, while wet bulk focuses on liquid cargoes, including crude oil and chemicals.
+Bulk shipping is a critical component of global trade, involving the transport of substantial quantities of unpackaged goods such as grains, coal, and iron ore. This sector is divided into two main categories: dry bulk and wet bulk shipping. Dry bulk shipping specifically deals with solid raw materials like iron ore, coal, grains, and other similar commodities, while wet bulk focuses on liquid cargoes, including [crude oil](/wiki/crude-oil) and chemicals.
 
 ### Types of Vessels Used
 
