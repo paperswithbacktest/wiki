@@ -19,7 +19,7 @@ This article delves into how real estate investment stands to benefit from the i
 
 Real estate investment involves the strategic acquisition, management, and disposition of property assets with the primary aim of generating profit. This form of investment is recognized for its potential to yield consistent rental income and the opportunity for properties to appreciate in value over time. Furthermore, real estate investments contribute significantly to portfolio diversification, which can mitigate risks by spreading investments across various asset types.
 
-One of the fundamental concepts in real estate investment is cash flow, which refers to the net income generated from a property after deducting operating expenses. Positive cash flow indicates that a property is earning more income than it costs to maintain, making it a crucial indicator of investment viability. Mathematically, cash flow can be expressed as:
+One of the fundamental concepts in real estate investment is cash flow, which refers to the net income generated from a property after deducting operating expenses. Positive cash flow indicates that a property is [earning](/wiki/earning-announcement) more income than it costs to maintain, making it a crucial indicator of investment viability. Mathematically, cash flow can be expressed as:
 
 $$
 \text{Cash Flow} = \text{Total Rental Income} - \text{Operating Expenses}

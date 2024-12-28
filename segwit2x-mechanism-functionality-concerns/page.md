@@ -94,7 +94,7 @@ As the cryptocurrency ecosystem matures, addressing scalability challenges remai
 
 [Böhme, R., Christin, N., Edelman, B., & Moore, T. (2015). "Bitcoin: Economics, technology, and governance."](https://www.aeaweb.org/articles?id=10.1257/jep.29.2.213) Journal of Economic Perspectives, 29(2), 213-238.
 
-Narayanan, A., Bonneau, J., Felten, E., Miller, A., & Goldfeder, S. (2016). ["Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction."](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies) Princeton University Press.
+Narayanan, A., Bonneau, J., Felten, E., Miller, A., & Goldfeder, S. (2016). ["Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction."](https://press.princeton.edu/[books](/wiki/algo-trading-books)/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies) Princeton University Press.
 
 Antonopoulos, A. M. (2014). ["Mastering Bitcoin: Unlocking Digital Cryptocurrencies."](https://books.google.com/books/about/Mastering_Bitcoin.html?id=IXmrBQAAQBAJ) O'Reilly Media, Inc.
 

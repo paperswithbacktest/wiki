@@ -19,7 +19,7 @@ Overall, basis rate swaps and the mitigation of basis risk represent fundamental
 
 ## What Are Financial Derivatives?
 
-Financial derivatives are financial instruments whose value is derived from an underlying asset, rate, index, or event. These contracts allow counterparties to trade specific financial risks and are integral to modern financial systems, facilitating efficient risk management, speculation, and arbitrage.
+Financial derivatives are financial instruments whose value is derived from an underlying asset, rate, index, or event. These contracts allow counterparties to trade specific financial risks and are integral to modern financial systems, facilitating efficient risk management, speculation, and [arbitrage](/wiki/arbitrage).
 
 ### Key Types of Derivatives
 

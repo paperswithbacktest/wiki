@@ -19,7 +19,7 @@ In understanding these dynamic investment strategies, we will explore the histor
 
 ## Understanding Stocks Investment Risks
 
-Investing in stocks presents a variety of risks that necessitate careful consideration for the protection of capital and optimization of returns. Among these, market risk is a prominent factor, as stock prices are inherently volatile and influenced by economic conditions, interest rates, and global events. Market risk can lead to substantial fluctuations in the value of investments, and understanding these dynamics is crucial for investors aiming to manage the inherent volatility effectively.
+Investing in stocks presents a variety of risks that necessitate careful consideration for the protection of capital and optimization of returns. Among these, market risk is a prominent [factor](/wiki/factor-investing), as stock prices are inherently volatile and influenced by economic conditions, interest rates, and global events. Market risk can lead to substantial fluctuations in the value of investments, and understanding these dynamics is crucial for investors aiming to manage the inherent volatility effectively.
 
 Additional risks include company-specific factors that may affect stock performance. These can range from management decisions, changes in leadership, product recalls, to competitive pressures that a company might face. Such microeconomic factors, distinct from broader market or economic risks, can impact the intrinsic value of individual stocks. Investors must therefore perform comprehensive financial analysis and keep abreast of news related to the companies they are investing in.
 
