@@ -19,7 +19,7 @@ As technology continues to permeate financial markets, the convergence of advanc
 
 ## Understanding Financial Derivatives
 
-Financial derivatives are financial instruments whose value is derived from the performance of underlying assets, indexes, or interest rates. They serve as pivotal tools in the financial markets for hedging, speculation, and arbitrage. The key feature of derivatives is that they allow for the transfer of risk without the necessity of owning the underlying asset. 
+Financial derivatives are financial instruments whose value is derived from the performance of underlying assets, indexes, or interest rates. They serve as pivotal tools in the financial markets for hedging, speculation, and [arbitrage](/wiki/arbitrage). The key feature of derivatives is that they allow for the transfer of risk without the necessity of owning the underlying asset. 
 
 ### Definition and Types of Financial Derivatives
 

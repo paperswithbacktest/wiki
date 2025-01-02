@@ -19,7 +19,7 @@ Overall, the convergence of discounting, economics, finance, and algorithmic tra
 
 ## Understanding Discounting in Economics and Finance
 
-Discounting is an integral concept in economics and finance, crucial for determining the present value of future cash flows. This principle is based on the time value of money, which postulates that a dollar received today holds more value than a dollar received in the future. This results from the potential earning capacity of money, where funds available in the present can be invested to generate additional income.
+Discounting is an integral concept in economics and finance, crucial for determining the present value of future cash flows. This principle is based on the time value of money, which postulates that a dollar received today holds more value than a dollar received in the future. This results from the potential [earning](/wiki/earning-announcement) capacity of money, where funds available in the present can be invested to generate additional income.
 
 A central formula in discounting is the Net Present Value (NPV). The NPV of a project or investment is the sum of the present values of all expected cash flows, both incoming and outgoing, discounted at a specific rate. The mathematical representation of NPV is as follows:
 

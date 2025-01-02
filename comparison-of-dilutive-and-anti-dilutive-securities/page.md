@@ -18,7 +18,7 @@ As the financial landscape continues to evolve, the interplay between these elem
 Financial instruments are integral to the operation and structure of financial markets. They serve as contracts that represent a financial asset to one party and a financial liability to another, facilitating the transfer and allocation of capital. These tools can be broadly classified into various categories, including stocks, bonds, derivatives, and other hybrid instruments.
 
 **1. Stocks:**
-Stocks, or equity securities, represent ownership interests in a corporation. They confer upon shareholders the potential to earn dividends and gain from capital appreciation relative to the corporation's growth and profitability. The fundamental characteristic of stocks is their volatility and potential for high returns, making them a necessary component of portfolio diversification strategies.
+Stocks, or equity securities, represent ownership interests in a corporation. They confer upon shareholders the potential to earn dividends and gain from capital appreciation relative to the corporation's growth and profitability. The fundamental characteristic of stocks is their [volatility](/wiki/volatility-trading-strategies) and potential for high returns, making them a necessary component of portfolio diversification strategies.
 
 **2. Bonds:**
 Bonds, classified as debt securities, are instruments whereby the issuer is obliged to pay back the principal amount along with interest (referred to as the coupon) over a specified period. Bonds are typically used by corporations, municipalities, and governments to raise funds for various purposes. Their predictable return and lower risk compared to stocks make them appealing to conservative investors.

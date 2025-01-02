@@ -19,7 +19,7 @@ Noise in financial markets refers to random fluctuations in price data that are 
 
 Trader behavior often contributes to noise, as market participants may react to speculative news or rumors, leading to volatile price movements that are not based on fundamental analysis. These reactions can create patterns in price data that seem significant in the short term but lack underlying justifications in market fundamentals.
 
-Market microstructure is another critical source of noise. The technical aspects of how a market operates, such as bid-ask spreads, limit order books, and trading volumes, can introduce significant noise. For instance, a widening bid-ask spread may temporarily lower trade prices without reflecting a genuine shift in market valuation. Similarly, spikes in trading volume can cause transient oscillations in asset prices, making it challenging to discern genuine market trends.
+Market microstructure is another critical source of noise. The technical aspects of how a market operates, such as bid-ask spreads, limit order [books](/wiki/algo-trading-books), and trading volumes, can introduce significant noise. For instance, a widening bid-ask spread may temporarily lower trade prices without reflecting a genuine shift in market valuation. Similarly, spikes in trading volume can cause transient oscillations in asset prices, making it challenging to discern genuine market trends.
 
 External events, such as unexpected geopolitical developments, economic data releases, or abrupt regulatory changes, can also cause noise. These events often prompt swift and sharp trading reactions; however, if they do not have sustainable implications, they primarily introduce short-term [volatility](/wiki/volatility-trading-strategies).
 

@@ -19,7 +19,7 @@ These elements, when combined effectively, can significantly influence trading p
 
 ## Understanding Risk Management in Trading
 
-Risk management is a crucial component of trading strategies, particularly in algorithmic trading, where the high-speed execution of trades elevates the importance of minimizing potential losses. In trading, risk management starts with the identification of risks, which involves recognizing the potential events or conditions that could lead to financial loss. These risks include market risk, liquidity risk, operational risk, and credit risk, among others.
+Risk management is a crucial component of trading strategies, particularly in algorithmic trading, where the high-speed execution of trades elevates the importance of minimizing potential losses. In trading, risk management starts with the identification of risks, which involves recognizing the potential events or conditions that could lead to financial loss. These risks include market risk, [liquidity](/wiki/liquidity-risk-premium) risk, operational risk, and credit risk, among others.
 
 Market risk is the possibility of an investor experiencing losses due to factors that affect the overall performance of the financial markets. It can be quantified using measures such as Value at Risk (VaR), which estimates the maximum potential loss over a given time frame with a specific confidence level. Liquidity risk, on the other hand, refers to the inability to buy or sell assets quickly enough to prevent or minimize a loss. 
 

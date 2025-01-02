@@ -19,7 +19,7 @@ The interplay between registration rights and algorithmic trading illustrates th
 
 Securities investment involves the allocation of financial resources into various financial instruments such as stocks, bonds, and derivatives, with the primary goal of generating returns. At its core, effective securities investment necessitates strategies that aim to maximize returns while concurrently managing and mitigating risks, particularly in markets characterized by volatility. 
 
-To succeed in securities investment, investors employ both fundamental and technical analysis. Fundamental analysis involves evaluating a security's intrinsic value by examining related economic, financial, and other qualitative and quantitative factors. This type of analysis often includes an assessment of a company's financial statements, management team, competitive advantages, industry position, and overall economic environment. For instance, the price-to-earnings ratio (P/E ratio) is a common metric used in fundamental analysis to gauge whether a stock is over or undervalued.
+To succeed in securities investment, investors employ both fundamental and technical analysis. Fundamental analysis involves evaluating a security's intrinsic value by examining related economic, financial, and other qualitative and quantitative factors. This type of analysis often includes an assessment of a company's financial statements, management team, competitive advantages, industry position, and overall economic environment. For instance, the price-to-earnings ratio (P/E ratio) is a common metric used in [fundamental analysis](/wiki/fundamental-analysis) to gauge whether a stock is over or undervalued.
 
 $$
 \text{P/E Ratio} = \frac{\text{Market Value per Share}}{\text{Earnings per Share (EPS)}}
