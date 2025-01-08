@@ -19,7 +19,7 @@ A ballpark figure is a rough numerical estimate utilized as a placeholder when e
 
 In trading and financial markets, ballpark figures hold particular significance due to the dynamic nature of these industries. Uncertainty is inherent in trading, and often, precise data may not be immediately available for rapid decision-making or strategy evaluation. Ballpark figures help traders set initial frameworks or expectations. For example, when considering a new investment, a trader might use a ballpark figure to estimate potential returns based on historical performance or market conditions. Ballpark figures serve as temporary guideposts, offering a reference point to make preliminary decisions more swiftly and efficiently.
 
-While these estimates are not meant to replace detailed analysis, they are instrumental in moving processes forward when time is of the essence or when data collection is ongoing. In essence, ballpark figures facilitate a pragmatic approach, enabling stakeholders to maintain momentum in decision-making or negotiations despite the absence of detailed metrics.
+While these estimates are not meant to replace detailed analysis, they are instrumental in moving processes forward when time is of the essence or when data collection is ongoing. In essence, ballpark figures facilitate a pragmatic approach, enabling stakeholders to maintain [momentum](/wiki/momentum) in decision-making or negotiations despite the absence of detailed metrics.
 
 ## Importance of Ballpark Figures in Algorithmic Trading
 

@@ -19,7 +19,7 @@ By understanding and leveraging these strategies—Index LEAPS, hedging, and alg
 
 ## Understanding Investment Risks
 
-Investment risk refers to the potential for realized investment returns to diverge from expected returns, which may lead to financial loss. This deviation can stem from various inherent uncertainties present in financial markets, necessitating careful evaluation and management to optimize investment success. Key financial risks include market risk, credit risk, liquidity risk, and operational risk, each contributing differently to a portfolio's overall risk profile.
+Investment risk refers to the potential for realized investment returns to diverge from expected returns, which may lead to financial loss. This deviation can stem from various inherent uncertainties present in financial markets, necessitating careful evaluation and management to optimize investment success. Key financial risks include market risk, credit risk, [liquidity](/wiki/liquidity-risk-premium) risk, and operational risk, each contributing differently to a portfolio's overall risk profile.
 
 Market risk involves the possibility of an investment's value fluctuating due to changes in market factors such as stock prices, interest rates, or foreign exchange rates. This type of risk is often unavoidable but can be mitigated through diversification. Market risk is inherently systematic, impacting the entire market or a significant segment rather than individual stocks or securities.
 

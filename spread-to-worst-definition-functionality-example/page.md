@@ -19,7 +19,7 @@ Spread-to-Worst (STW) and Yield-to-Worst (YTW) are essential metrics in bond inv
 
 STW measures the difference in returns between the worst-performing and best-performing securities within the same market segment. This metric is particularly valuable for assessing the range of returns that can occur in a portfolio of bonds. The spread is calculated by comparing the yield of a bond to a benchmark yield, such as the yield on a government bond with a similar maturity and credit quality. A wider spread indicates a higher level of perceived risk or potential underperformance relative to the benchmark.
 
-YTW, on the other hand, calculates the lowest yield a bondholder can receive if the bond issuer exercises any call options before the bond's maturity. This calculation becomes crucial in scenarios where bonds carry call options, allowing the issuer to redeem the bond before its scheduled maturity date. The formula for Yield-to-Worst is:
+YTW, on the other hand, calculates the lowest yield a bondholder can receive if the bond issuer exercises any call options before the bond's maturity. This calculation becomes crucial in scenarios where bonds [carry](/wiki/carry-trading) call options, allowing the issuer to redeem the bond before its scheduled maturity date. The formula for Yield-to-Worst is:
 
 $$
 \text{YTW} = \min(\text{YTM}, \text{YTC})

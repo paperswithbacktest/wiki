@@ -19,7 +19,7 @@ Understanding the intricate balance of these strategies is crucial for investors
 
 Investment strategies serve as vital frameworks for investors, providing structured approaches to reach specific financial goals. These strategies are diverse, ranging across a spectrum that includes growth investing, value investing, index investing, and active management. Each strategy comes with distinct characteristics and exhibits different risk-return profiles, offering investors various pathways to wealth accumulation.
 
-Growth investing focuses on capital appreciation, targeting stocks of companies expected to grow at an above-average rate relative to the market. Investors prioritize potential over present earnings, accepting higher risk for the chance of substantial returns. This approach typically suits those with a higher risk tolerance and a longer time horizon, as growth stocks can be volatile.
+Growth investing focuses on capital appreciation, targeting stocks of companies expected to grow at an above-average rate relative to the market. Investors prioritize potential over present earnings, accepting higher risk for the chance of substantial returns. This approach typically suits those with a higher risk tolerance and a longer time horizon, as [growth stocks](/wiki/growth-stocks) can be volatile.
 
 Value investing, on the other hand, seeks stocks that are undervalued by the market. Value investors look for discrepancies between a company's intrinsic value and its market price, buying stocks they believe are traded for less than their true worth. This strategy often appeals to individuals with a moderate risk tolerance who are willing to adopt a patient approach, as market corrections can take time.
 

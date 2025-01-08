@@ -19,7 +19,7 @@ Vanguard is renowned for its array of mutual funds, prominently featuring two di
 
 ### Vanguard Equity Income Fund Investor Shares (VEIPX)
 
-VEIPX focuses on providing a high level of current income along with long-term capital appreciation by investing primarily in dividend-paying, undervalued stocks of large and mid-cap companies. The fund's strategy encompasses selecting equity holdings that are considered to be undervalued based on fundamental analysis. This approach involves evaluating the intrinsic value of securities compared to their current trading price, favoring stocks that offer above-average dividend yields.
+VEIPX focuses on providing a high level of current income along with long-term capital appreciation by investing primarily in dividend-paying, undervalued stocks of large and mid-cap companies. The fund's strategy encompasses selecting equity holdings that are considered to be undervalued based on [fundamental analysis](/wiki/fundamental-analysis). This approach involves evaluating the intrinsic value of securities compared to their current trading price, favoring stocks that offer above-average dividend yields.
 
 The performance of VEIPX is underpinned by its diversified portfolio, primarily across sectors like financials, healthcare, and consumer goods, which traditionally pay higher dividends. Historical performance data indicate that VEIPX generally performs well in stable or rising [interest rate](/wiki/interest-rate-trading-strategies) environments when value stocks tend to outperform.
 

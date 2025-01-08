@@ -19,7 +19,7 @@ The financial landscape is continually evolving, making it vital for algorithmic
 
 Basis risk arises when the correlation between a hedging instrument and the underlying asset it intends to offset is imperfect. This divergence results in potential financial exposure as the hedge might not fully mitigate potential losses associated with the underlying asset. 
 
-The significance of basis risk in risk management is paramount because it underlines the potential volatility that might be underestimated when constructing hedging strategies. When basis risk is not adequately managed, an assumed secure position might result in unexpected losses, undermining financial stability.
+The significance of basis risk in risk management is paramount because it underlines the potential [volatility](/wiki/volatility-trading-strategies) that might be underestimated when constructing hedging strategies. When basis risk is not adequately managed, an assumed secure position might result in unexpected losses, undermining financial stability.
 
 To understand basis risk more comprehensively, it's essential to recognize its various forms:
 

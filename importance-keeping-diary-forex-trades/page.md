@@ -19,7 +19,7 @@ This article intends to explore the intersections of trade analysis, the utility
 
 Trade analysis plays a crucial role in forex trading by enhancing traders' decision-making processes. By systematically reviewing past trades, traders can pinpoint successful strategies and recognize errors, allowing for more informed decisions in future endeavors. This reflective practice not only aids in identifying trading patterns but also bolsters trader confidence by highlighting high-probability setups.
 
-One primary tool that traders utilize in trade analysis is technical analysis. This method involves assessing statistical trends gathered from trading activity, such as price movement and volume. Technical indicators, such as moving averages, relative strength index (RSI), and Bollinger Bands, provide insights into market sentiment and potential price direction. For instance, the moving average, calculated as:
+One primary tool that traders utilize in trade analysis is technical analysis. This method involves assessing statistical trends gathered from trading activity, such as price movement and [volume](/wiki/volume-trading-strategy). Technical indicators, such as moving averages, relative strength index (RSI), and Bollinger Bands, provide insights into market sentiment and potential price direction. For instance, the moving average, calculated as:
 
 $$
 \text{MA}_n = \frac{\sum_{i=1}^{n} P_i}{n}

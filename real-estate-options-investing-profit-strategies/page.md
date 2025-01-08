@@ -19,7 +19,7 @@ As technology continues to advance, the integration of these fields encourages a
 
 ## Understanding Real Estate as an Alternative Investment
 
-Alternative investments encompass asset classes outside traditional categories such as stocks, bonds, and cash. They often include tangible assets, private equity, hedge funds, commodities, and real estate. Real estate, regarded as a cornerstone of alternative investments, offers investors an avenue to diversify their portfolios and hedge against market volatility.
+Alternative investments encompass asset classes outside traditional categories such as stocks, bonds, and cash. They often include tangible assets, private equity, hedge funds, commodities, and real estate. Real estate, regarded as a cornerstone of alternative investments, offers investors an avenue to diversify their portfolios and hedge against market [volatility](/wiki/volatility-trading-strategies).
 
 Real estate is often heralded for its stability and growth potential over the long term. Historically, real estate has demonstrated resilience amid economic fluctuations, providing steady income through rent and potential appreciation in property value. This stability makes it an attractive option for investors seeking long-term capital preservation and growth. According to historical data, real estate has consistently outperformed inflation, offering a tangible asset that retains and often appreciates in value over time (Case & Shiller, 1989).
 

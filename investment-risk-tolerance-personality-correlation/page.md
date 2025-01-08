@@ -19,7 +19,7 @@ The objective of this article is to explore the intersection of personality, ris
 
 Risk tolerance is a fundamental concept in the investing world, referring to the degree of variability in investment returns that an investor is willing to withstand. It is an essential consideration as it influences investment strategies and portfolio allocations, directly impacting the risk and return profile of investment decisions.
 
-Risk tolerance consists of two main components: the willingness and the ability to take risks. Willingness to take risks is a psychological factor, reflecting an individual's comfort level with uncertainty and potential losses. It is subjective and can be influenced by one's personality, past experiences, and confidence in their financial acumen.
+Risk tolerance consists of two main components: the willingness and the ability to take risks. Willingness to take risks is a psychological [factor](/wiki/factor-investing), reflecting an individual's comfort level with uncertainty and potential losses. It is subjective and can be influenced by one's personality, past experiences, and confidence in their financial acumen.
 
 On the other hand, the ability to take risks is more objective, determined by financial circumstances such as income level, net worth, and [liquidity](/wiki/liquidity-risk-premium) needs. It also considers how losses might affect an individual's financial position and long-term goals. For instance, a young investor with a steady income and few financial obligations might have a higher ability to take risks compared to someone nearing retirement with a fixed income.
 

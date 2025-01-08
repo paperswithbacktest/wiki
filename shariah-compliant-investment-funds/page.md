@@ -19,7 +19,7 @@ This synergy between Islamic finance and modern technology not only fortifies th
 
 Shariah-compliant investments are financial products that adhere strictly to Islamic law, or Shariah, which provides a framework for conducting business in an ethical and socially responsible manner. Under Shariah law, certain practices are explicitly prohibited, shaping the structure and function of these investments.
 
-One of the primary prohibitions is on riba, or interest, which is seen as exploitive and unjust. Instead of earning interest, profits in Shariah-compliant investments are often made through equity participation where risk and profit are shared among parties. This ensures that wealth is generated through genuine trade and business activity rather than mere capital on capital.
+One of the primary prohibitions is on riba, or interest, which is seen as exploitive and unjust. Instead of [earning](/wiki/earning-announcement) interest, profits in Shariah-compliant investments are often made through equity participation where risk and profit are shared among parties. This ensures that wealth is generated through genuine trade and business activity rather than mere capital on capital.
 
 Moreover, Shariah law prohibits investment in industries considered harmful or unethical. This includes sectors such as alcohol, gambling, pornography, and tobacco, which are viewed as detrimental to individuals and society at large. Consequently, Shariah-compliant investments are a subset of socially responsible investing, sharing a focus on ethical business practices and sustainability.
 

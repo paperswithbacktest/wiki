@@ -19,7 +19,7 @@ Financial reporting is a systematic process of documenting and communicating fin
 
 The income statement, also known as the profit and loss statement, measures a company’s financial performance over a specific accounting period. It details revenues, expenses, gains, and losses, ultimately resulting in net income or loss. This statement helps stakeholders understand how well the company generates profit through its operations.
 
-A cash flow statement provides a detailed account of the cash inflows and outflows during a given period. It is divided into three main sections: operating activities, investing activities, and financing activities. By illustrating how cash is generated and used, it helps assess the company's liquidity, solvency, and financial flexibility.
+A cash flow statement provides a detailed account of the cash inflows and outflows during a given period. It is divided into three main sections: operating activities, investing activities, and financing activities. By illustrating how cash is generated and used, it helps assess the company's [liquidity](/wiki/liquidity-risk-premium), solvency, and financial flexibility.
 
 The balance sheet, often regarded as the cornerstone of financial reporting, presents a snapshot of a company’s financial position at a specific point in time. It comprises three primary components: assets, liabilities, and equity. This statement is crucial for evaluating a company's capital structure and financial stability.
 

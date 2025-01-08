@@ -19,7 +19,7 @@ Algorithmic trading has revolutionized the financial landscape, offering speed, 
 
 Net Present Value (NPV) is a fundamental concept in financial analysis that plays a crucial role in making informed investment decisions. NPV represents the difference between the present value of cash inflows and the present value of cash outflows over a specified period. Essentially, it is a method used to evaluate the profitability of an investment or project by assessing the net effect of these expected cash flows.
 
-NPV accounts for the time value of money, a core principle in finance which suggests that a dollar today is worth more than a dollar in the future. This is due to the potential earning capacity of money, often attributed to factors like inflation and interest rates. To incorporate the time value of money into NPV calculations, a discount rate is utilized. This rate, typically reflecting the investor's required rate of return, is applied to future cash flows, discounting them to their present value.
+NPV accounts for the time value of money, a core principle in finance which suggests that a dollar today is worth more than a dollar in the future. This is due to the potential [earning](/wiki/earning-announcement) capacity of money, often attributed to factors like inflation and interest rates. To incorporate the time value of money into NPV calculations, a discount rate is utilized. This rate, typically reflecting the investor's required rate of return, is applied to future cash flows, discounting them to their present value.
 
 The basic formula for calculating NPV is:
 

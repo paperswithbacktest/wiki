@@ -19,7 +19,7 @@ In summary, John R. Hicks's theoretical advancements have enduring significance 
 
 John R. Hicks made seminal contributions to economic theory, many of which remain integral to the study and application of economics today. His work on the elasticity of substitution, IS-LM model, and the Hicksian compensated demand curve stand out as pivotal concepts that continue to influence both microeconomic and macroeconomic analysis.
 
-One of Hicks' notable contributions is the concept of the elasticity of substitution, which measures the ease with which factors of production can be substituted for one another in production processes. This elasticity is crucial for understanding how changes in relative factor prices affect the input mix of production. Formally, the elasticity of substitution ($\sigma$) is defined as the percentage change in the capital-labor ratio ($K/L$) divided by the percentage change in the rate of technical substitution ($RTS$):
+One of Hicks' notable contributions is the concept of the elasticity of substitution, which measures the ease with which factors of production can be substituted for one another in production processes. This elasticity is crucial for understanding how changes in relative [factor](/wiki/factor-investing) prices affect the input mix of production. Formally, the elasticity of substitution ($\sigma$) is defined as the percentage change in the capital-labor ratio ($K/L$) divided by the percentage change in the rate of technical substitution ($RTS$):
 
 $$
 \sigma = \frac{\text{d}(\ln(K/L))}{\text{d}(\ln(RTS))}

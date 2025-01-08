@@ -19,7 +19,7 @@ A Purchase and Sale (P&S) statement is an essential document in real estate, ser
 
 The P&S statement typically includes crucial details such as the agreed-upon property price, which serves as the foundation for the financial aspects of the transaction. Additionally, it specifies the closing date, which is the day when the ownership of the property is officially transferred from the seller to the buyer. The conditions of the sale, such as any contingencies or specific requirements that must be met before the transaction can be finalized, are also clearly outlined. These may include inspections, financing terms, or any necessary repairs.
 
-Real estate professionals, such as agents or attorneys, usually prepare the P&S statement to ensure accuracy and compliance with legal standards. Their expertise is invaluable in drafting a document that reflects the mutual agreement of the parties involved while adhering to local real estate laws and regulations.
+Real estate professionals, such as [agents](/wiki/agents) or attorneys, usually prepare the P&S statement to ensure accuracy and compliance with legal standards. Their expertise is invaluable in drafting a document that reflects the mutual agreement of the parties involved while adhering to local real estate laws and regulations.
 
 Beyond real estate transactions, P&S statements have applications in futures trading. In this context, they serve as records in trading accounts to detail the positions held by traders. These statements provide a snapshot of the trader's obligations and rights concerning the futures contracts they have bought or sold.
 
