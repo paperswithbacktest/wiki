@@ -81,3 +81,20 @@ In a constantly evolving trading landscape, Wincent stands out due to its dedica
 For traders seeking to experience the transformative impact of algorithmic trading on their strategies and outcomes, exploring Wincent is a step towards modernizing their trading practice and achieving optimal results.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Algorithmic Trading and DMA: An introduction to direct access trading strategies"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[4]: ["Trading and Exchanges: Market Microstructure for Practitioners"](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) by Larry Harris
+
+[5]: ["The Science of Algorithmic Trading and Portfolio Management"](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management) by Robert Kissell
+
+[6]: Hendershott, T., & Riordan, R. (2013). ["Algorithmic trading and the market for liquidity."](https://www.jstor.org/stable/43303831) Journal of Financial and Quantitative Analysis.
+
+[7]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) by Irene Aldridge

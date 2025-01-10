@@ -136,3 +136,16 @@ As algorithmic trading continues to gain traction in the financial industry, org
 Whether investors are interested in exploring new investment avenues or are focused on strong risk management practices, Qsemble's strategic approach offers substantial benefits. The firm's commitment to transparency, ethical trading practices, and continuous technological innovation distinguishes it as a leader in the financial sector. For investors aiming to harness the capabilities of technology in finance, Qsemble Capital Management stands out as a premier choice, offering a blend of innovation, reliability, and expertise.
 
 
+
+
+## References & Further Reading
+
+[1]: Varian, H. R. (2014). ["Big Data: New Tricks for Econometrics."](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.3) Journal of Economic Perspectives, 28(2), 3-28.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[3]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.
+
+[4]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[5]: Aronson, D. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) Wiley.

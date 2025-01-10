@@ -114,3 +114,16 @@ Staying at the forefront of technological advancements is crucial, and CQS ensur
 In summary, this article has outlined CQS's significant role in the algorithmic trading landscape, emphasizing the advantages and opportunities it provides to traders globally. As CQS continues to lead with technological innovation, it is set to remain influential in the evolution of financial markets, paving the way for new possibilities in trading strategies and execution.
 
 
+
+
+## References & Further Reading
+
+[1]: Narang, R. K. (2009). ["Inside the Black Box: The Simple Truth About Quantitative Trading"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267738). Wiley.
+
+[2]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management"](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management). Academic Press.
+
+[3]: ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/0470563761) by Irene Aldridge
+
+[4]: Treleaven, P., Galas, M., & Lalchand, V. (2013). ["Algorithmic Trading Review"](https://www.researchgate.net/publication/262239006_Algorithmic_Trading_Review). *European Journal of Operational Research*, 225(2).
+
+[5]: Marquis, D. (2019). ["Trading at the Speed of Light"](https://www.amazon.com/Trading-Speed-Light-Algorithms-Transforming/dp/0691211388). Princeton University Press.

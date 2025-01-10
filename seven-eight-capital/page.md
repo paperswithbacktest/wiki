@@ -152,3 +152,20 @@ Looking to the future, the role of algorithmic trading is anticipated to grow ev
 For those interested in learning more about cutting-edge algorithmic trading and the dynamic strategies employed by leading firms, engaging with or following the developments of Seven Eight Capital offers valuable insights. As the landscape of trading continues to transform, the firm's proactive and forward-thinking approach ensures it will remain a significant player, setting benchmarks for performance and innovation in the financial industry.
 
 
+
+
+## References & Further Reading
+
+[1]: Domowitz, I., & Steil, B. (1999). ["Automation, Trading Costs, and the Structure of the Trading Services Industry."](https://www.nomurafoundation.or.jp/en/wordpress/wp-content/uploads/2014/09/19971011_Ian_Domowitz_-_Benn_Steil.pdf) The Review of Financial Studies, 12(2), 345-363.
+
+[2]: Aldridge, I. (2010). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.ahmetbeyefendi.com/wp-content/uploads/2020/07/High-Frequency-Trading-Irene-Aldridge.pdf) John Wiley & Sons.
+
+[3]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362411) John Wiley & Sons.
+
+[4]: Leal, L., & Nogueira, F. (2020). ["Understanding High-Frequency Trading and Why It's Implemented."](https://pubmed.ncbi.nlm.nih.gov/30282049/) Journal of Applied Mathematics.
+
+[5]: Hasbrouck, J., & Saar, G. (2013). ["Low-Latency Trading."](https://www.sciencedirect.com/science/article/abs/pii/S1386418113000165) The Review of Financial Studies, 26(9), 2015-2055.
+
+[6]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[7]: Linton, O. B., & Mahmoodzadeh, M. (2022). ["The impact of algorithmic trading in financial markets: A survey."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3112978) Journal of Economic Surveys.

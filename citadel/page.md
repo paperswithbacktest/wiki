@@ -94,3 +94,16 @@ As technology and data analytics continue to advance, Citadel stands ready to fu
 By employing sophisticated algorithmic trading operations, Citadel offers valuable insights and services to the global market. Their contributions extend beyond mere trade execution, encompassing a comprehensive suite of market analyses that empower participants with critical information. Through these developments, Citadel fosters a more informed and responsive trading environment, reinforcing its position as a critical player in shaping the future of financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems%2C+2nd+Edition-p-9781118343500) Wiley.
+
+[2]: Easley, D., López de Prado, M. M., & O'Hara, M. (2013). ["High-Frequency Trading: The Big Data Challenge."](https://www.jstor.org/stable/41485533) Journal of Financial and Quantitative Analysis, 48(1).
+
+[3]: Narang, R. K. (2009). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267738) Wiley.
+
+[4]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[5]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.

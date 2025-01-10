@@ -94,3 +94,22 @@ With the continuous advancement of technology, the significance and reach of alg
 To thrive in this intricate and volatile market, a comprehensive understanding of corn futures and the nuances of algorithmic trading is indispensable. Staying abreast of market developments, regulatory changes, and technological innovations will equip traders with the knowledge required for informed decision-making. By integrating these elements into their trading approach, market participants can better navigate the complexities of corn futures trading and capitalize on the opportunities presented by this dynamic segment of the commodities market.
 
 
+
+
+## References & Further Reading
+
+[1]: Chicago Board of Trade. ["CBOT Corn Futures Contract Specification."](https://www.cmegroup.com/markets/agriculture/grains/corn.html) CME Group.
+
+[2]: Hull, John C. (2015). ["Options, Futures, and Other Derivatives."](https://www.semanticscholar.org/paper/Options%2C-Futures%2C-and-Other-Derivatives-Hull/89bdee500c8623864fc9eb7a471546aa713acc44) 10th Edition, Pearson.
+
+[3]: Narang, Rishi K. (2013). ["Inside the Black Box: The Simple Truth About Quantitative Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267738) Wiley.
+
+[4]: Aldridge, Irene. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley.
+
+[5]: CME Group. ["Globex."](https://www.cmegroup.com/globex.html) CME Group.
+
+[6]: Intercontinental Exchange. ["Agricultural Derivatives."](https://www.ice.com/agriculture) ICE.
+
+[7]: International Monetary Fund. ["Global Commodity Markets."](https://www.imf.org/en/Research/commodity-prices) 
+
+[8]: Dalian Commodity Exchange. ["Corn Futures."](http://www.dce.com.cn/DCE/) Dalian Commodity Exchange.

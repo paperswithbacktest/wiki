@@ -97,3 +97,16 @@ Understanding the evolving nature of these financial tools is essential for thos
 The exploration of Eschaton Trading’s strategies and its impact highlights a pivotal transition in modern finance, where algorithmic trading is not just an ancillary service but a foundational element of financial operations. This transformation suggests a promising future not only for Eschaton Trading but also for the broader financial ecosystem, which benefits from increased liquidity, efficiency, and accessibility.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems%2C+2nd+Edition-p-9781118343500). Wiley.
+
+[2]: Jordan, M., & Mitchell, T. (2015). ["Machine learning: Trends, perspectives, and prospects."](https://pubmed.ncbi.nlm.nih.gov/26185243/) Science, 349(6245), 255-260.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[4]: Kissell, R. (2014). ["The Science of Algorithmic Trading and Portfolio Management"](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management). Academic Press.
+
+[5]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.

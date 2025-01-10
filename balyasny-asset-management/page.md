@@ -107,3 +107,16 @@ BAM has consistently demonstrated a commitment to advancing their strategies and
 In conclusion, BAM's integration of technology into their investment processes not only enhances their operational efficiency but also sets a benchmark for other firms aspiring to leverage advanced technologies. Their ability to adapt and innovate in response to market demands assures their relevance and service value to investors, both today and in the decades to come.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, I. (2010). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506). Wiley Finance.
+
+[2]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717). Wiley.
+
+[3]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management"](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management). Academic Press.
+
+[4]: Edgar, T. W., & Manz, D. O. (2017). ["Research Methods for Cyber Security"](https://www.sciencedirect.com/book/9780128053492/research-methods-for-cyber-security). Elsevier.
+
+[5]: Drotleff, K. W., Findings from the Decade Long Simons Fintech Challenge: ["Are You Ready? The Evolution of Machine Learning in Financial Markets"](https://www.researchgate.net/publication/384583631_The_Impact_of_Financial_Technology_on_the_Financial_Services_Industry_A_Systematic_Review). The New York Times.

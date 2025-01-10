@@ -117,3 +117,22 @@ Looking forward, the future potential of Dolat Capital in the algo trading indus
 Readers interested in gaining insight into cutting-edge trading methodologies or looking to collaborate with a forward-thinking financial entity are encouraged to explore more about Dolat Capital. Engaging with their services can offer valuable exposure to innovative trading strategies and a partnership with a leader in the evolving landscape of algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Machine Trading: Deploying Computer Algorithms to Conquer the Markets"](https://www.amazon.com/Machine-Trading-Deploying-Computer-Algorithms/dp/1119219604) by Ernest P. Chan
+
+[4]: Vogel, J. and Gray, W. (2015). ["DIY Financial Advisor: A Simple Solution to Build and Protect Your Wealth"](https://www.amazon.com/DIY-Financial-Advisor-Solution-Protect/dp/111907150X). Wiley.
+
+[5]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506). Wiley Finance.  
+
+[6]: Squires, A. (2011). ["Quantitative Trading Systems"](https://www.amazon.com/Quantitative-Trading-Systems-Howard-Bandy/dp/0979183839)
+
+[7]: ["Artificial Intelligence in Finance: A Review and New Research Directions"](https://www.researchgate.net/publication/377563906_Artificial_intelligence_in_Finance_a_comprehensive_review_through_bibliometric_and_content_analysis), The Journal of Finance.  
+
+[8]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management"](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management). Academic Press.

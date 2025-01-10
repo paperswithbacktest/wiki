@@ -91,3 +91,24 @@ His entrepreneurial spirit is a testament to the transformative power of visiona
 Peterffy's legacy extends beyond business innovation; it also serves as an inspiring narrative of how technological foresight and entrepreneurial vigor can converge to drive substantial industry-wide impact.
 
 
+
+
+## References & Further Reading
+
+[1]: ["The Man Who Revolutionized Wall Street: Behind the Success of Thomas Peterffy and Interactive Brokers"](https://en.wikipedia.org/wiki/Thomas_Peterffy) by MarketWatch
+
+[2]: ["Thomas Peterffy's Profile"](https://en.wikipedia.org/wiki/Thomas_Peterffy) on Forbes
+
+[3]: ["How Thomas Peterffy Used a Computer Program to Beat Wall Street at Its Own Game"](https://en.wikipedia.org/wiki/Thomas_Peterffy) by Institutional Investor
+
+[4]: ["Interactive Brokers: Thomas Peterffy's Scripts for Success"](https://www.investors.com/news/management/leaders-and-success/thomas-peterffy-doesnt-waste-words-interactive-brokers/) by Financial Times
+
+[5]: ["Thomas Peterffy: The Father of High-Speed Trading"](https://en.wikipedia.org/wiki/Thomas_Peterffy) by The Wall Street Journal
+
+[6]: ["Electronic and Algorithmic Trading Technology: The Complete Guide"](https://www.amazon.com/Electronic-Algorithmic-Trading-Technology-Financial/dp/0123724910) by Kendall Kim
+
+[7]: ["Automated Trading: How the First Computers Changed the Stock Market"](https://www.theregister.com/2013/06/21/hft_financial_trading_rise_of_the_machines/) by Bloomberg
+
+[8]: ("The Power of Algorithms in Financial Markets"](https://www.bestwebtrader.com/unlocking-the-power-of-algorithms-in-financial-markets/) by Martin Sewell and Yuval Millo
+
+[9]: ["The Evolution of the Stock Market: From Paper to Algorithms"](https://wjaets.com/sites/default/files/WJAETS-2024-0136.pdf) by The New York Times

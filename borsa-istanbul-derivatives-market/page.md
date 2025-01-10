@@ -106,3 +106,24 @@ Moving forward, the future of algorithmic trading in Turkey's financial markets 
 Acknowledging ongoing efforts, Borsa Istanbul is committed to enhancing market infrastructure and competitiveness. Initiatives aimed at adopting cutting-edge technologies and refining regulatory frameworks are essential to maintaining the market's integrity and attractiveness. As the market grows, it is paramount that stakeholders collaborate and contribute to an ecosystem that supports sustainable growth, ensuring that Borsa Istanbul remains a significant player in the global financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Karan, M. B. (2013). ["Borsa Istanbul and the Development of Capital Markets in Turkey."](https://scholar.google.com/citations?user=jA6qyG0AAAAJ&hl=en) In Handbook of Islamic Banking and Finance.
+
+[2]: Gazioglu, S. (2013). ["Transformation of Financial Markets in Turkey: An Overview."](https://www.econbiz.de/Record/capital-flow-to-an-emerging-financial-market-in-turkey-gazioglu-saziye/10009955374) Business History.
+
+[3]: Lo, A. W., & MacKinlay, A. C. (1999). ["A Non-Random Walk Down Wall Street"](https://www.jstor.org/stable/j.ctt7tccx) Princeton University Press. 
+
+[4]: Chaboud, A., Chiquoine, B., Hjalmarsson, E., & Vega, C. (2014). ["Rise of the Machines: Algorithmic Trading in the Foreign Exchange Market."](https://www.jstor.org/stable/43612951) The Review of Economic Studies.
+
+[5]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119203803.fmatter) Wiley Finance Series. 
+
+[6]: Menkveld, A. J. (2013). ["High-Frequency Trading and the New-Market Makers."](https://www.sciencedirect.com/science/article/pii/S1386418113000281) Journal of Economic Perspectives.
+
+[7]: Capital Markets Board of Turkey (CMB). ["Regulatory Framework for Algorithmic Trading."](https://cmb.gov.tr/) Official Website of the Capital Markets Board of Turkey.
+
+[8]: de Prado, M. L. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[9]: Jegadeesh, N., & Titman, S. (1993). ["Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency."](https://www.jstor.org/stable/2328882) The Journal of Finance.

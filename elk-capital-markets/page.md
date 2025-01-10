@@ -96,3 +96,18 @@ For those considering a venture into algorithmic trading, Elk Capital Markets pr
 Readers interested in exploring the potential of algorithmic trading with Elk Capital Markets can find more information on their website or contact their customer service team for personalized guidance. As the financial markets continue to evolve, Elk Capital Markets is well-positioned to spearhead innovations and contribute significantly to the sector, promising sustained growth and a transformative impact in the world of finance.
 
 
+
+
+## References & Further Reading
+
+[1]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717) (2nd ed.). Wiley.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[3]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.
+
+[4]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.
+
+[5]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management"](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management). Academic Press.
+
+[6]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-Frequency Trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) Morgan & Claypool Publishers.

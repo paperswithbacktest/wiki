@@ -3,20 +3,17 @@ title: "Chicago Trading Company Overview (Algo Trading)"
 description: "Chicago Trading Company excels in algorithmic trading and market-making, enhancing market liquidity since 1995 with innovative trading strategies and advanced technologies."
 ---
 
-
-
-
-
 The Chicago Trading Company (CTC) is a distinguished entity in the financial markets sector, headquartered in Chicago. Established in 1995, CTC has made a significant mark as a proprietary market-making firm, specializing in algorithmic trading and contributing substantially to market liquidity. As a proprietary trading firm, CTC has consistently maintained a reputation for excellence and innovation, leveraging its expertise in trading strategies to enhance market performance.
 
 Algorithmic trading, which involves the use of complex algorithms to execute trades at high speeds and volumes, is a cornerstone of CTC’s operations. By optimizing the execution of trades through data-driven strategies, CTC not only improves efficiency but also ensures competitive pricing and liquidity across various markets. This capability places CTC at the forefront of algorithmic trading, allowing it to swiftly adapt to the dynamic nature of financial markets.
+
+![Image](images/1.jpeg)
 
 Furthermore, CTC has built its reputation as a market maker in multiple asset classes, including equities, interest rates, and commodities. Market makers like CTC play a crucial role in financial ecosystems by facilitating trading and enhancing market liquidity. They achieve this by continuously quoting buy and sell prices for various instruments, thus enabling other market participants to execute trades more smoothly and with reduced transaction costs.
 
 Since its inception, CTC has been committed to pioneering advancements in trading technologies and processes, ensuring that it remains a leader in the industry. The company's innovative approach and steadfast dedication to market efficiency have solidified its standing as a key player in promoting fair and transparent market structures.
 
 In summary, the Chicago Trading Company stands out for its contribution to enhancing market liquidity through cutting-edge algorithmic trading and its role as a prominent proprietary market-making firm since 1995. By continually innovating and adapting to market needs, CTC remains an integral component of the global financial trading landscape.
-
 
 ## Table of Contents
 
@@ -30,7 +27,6 @@ Leadership transitions have also played a crucial role in shaping the strategic 
 
 Overall, the history of CTC is characterized by its continuous efforts to integrate advanced technology and maintain agile leadership, which have been instrumental in its development as a preeminent proprietary trading company.
 
-
 ## Products and Services
 
 Chicago Trading Company (CTC) is known for its comprehensive market-making services, which play a pivotal role in maintaining the dynamics of the U.S derivatives exchanges. Engaging extensively in derivatives trading, CTC offers [liquidity](/wiki/liquidity-risk-premium) and price stability across diverse asset classes.
@@ -40,7 +36,6 @@ CTC's operations in market-making extend to asset classes such as equities, inte
 The company's role as a Designated Primary Market-Maker (DPM), specialist, and primary market maker is instrumental in major exchanges, such as the Chicago Board Options Exchange (CBOE) and the New York Mercantile Exchange (NYMEX). As a DPM on these exchanges, CTC assumes the responsibility of maintaining a continuous [order book](/wiki/order-book-trading-strategies), thereby facilitating trade execution and enhancing the overall market quality. This function is fundamental to exchanging operations, as it ensures that there is always a willing counterparty available, reducing the likelihood of trading halts or liquidity shortages.
 
 Through its strategic positioning and robust operational framework, CTC influences the pricing mechanisms and efficiencies on platforms like CBOE and NYMEX. This is achieved by deploying sophisticated trading models and algorithms which assess real-time data to make split-second decisions, optimizing the execution of trades. Consequently, CTC not only contributes to the smooth functioning of these exchanges but also supports the wider financial market ecosystem.
-
 
 ## Technology and Algo Trading
 
@@ -65,16 +60,16 @@ import pandas as pd
 def moving_average_trading_strategy(data, short_window=40, long_window=100):
     signals = pd.DataFrame(index=data.index)
     signals['signal'] = 0.0
-    
+
     # Create short simple moving average
     signals['short_mavg'] = data['Close'].rolling(window=short_window, min_periods=1).mean()
-    
+
     # Create long simple moving average
     signals['long_mavg'] = data['Close'].rolling(window=long_window, min_periods=1).mean()
-    
+
     # Create signals
     signals['signal'][short_window:] = np.where(signals['short_mavg'][short_window:] > signals['long_mavg'][short_window:], 1.0, 0.0)   
-    
+
     return signals
 ```
 
@@ -87,7 +82,6 @@ One of CTC's notable innovations in algorithmic trading is through its integrati
 The integration of real-world data through networks like Pyth helps CTC to adapt to fast-changing market conditions. By receiving up-to-date data feeds, CTC can refine its trading strategies and ensure that its trading decisions are informed by the most current information available.
 
 In conclusion, CTC’s commitment to algorithmic trading and technological innovation has positioned it as a vital contributor to the financial markets, providing liquidity and facilitating efficient trading. Its use of technology and analytics not only enhances its trading strategies but also exemplifies its forward-thinking approach in a highly competitive market landscape.
-
 
 ## CTC’s Impact on Financial Markets
 
@@ -109,7 +103,6 @@ Through strategic participation, CTC helps prevent significant price discrepanci
 
 CTC's innovative trading technologies, combined with its strategic market roles, significantly contribute to the robustness and resilience of financial markets globally. By continuing these efforts, CTC reinforces its position as a catalyst for market modernization, advocating for practices that prioritize market clarity and investor protection.
 
-
 ## Corporate Culture and Values
 
 Chicago Trading Company (CTC) has cultivated a corporate culture characterized by collaboration, ingenuity, and integrity. As a proprietary trading firm, CTC acknowledges the significance of fostering an environment that encourages diverse perspectives and innovative thinking, both critical for maintaining a competitive edge in the financial markets.
@@ -123,7 +116,6 @@ In terms of community engagement and social responsibility, CTC is actively invo
 CTC also integrates social responsibility into its business practices by promoting ethical trading and sustainable operations. The firm’s ethical guidelines and trading policies reflect a commitment to integrity and fairness, ensuring that CTC remains a responsible participant in the global financial markets. Through these efforts, CTC not only contributes to market stability but also reinforces its reputation as a firm with high ethical standards.
 
 Overall, CTC's corporate culture and values are pivotal to its success as a leader in algorithmic trading. By fostering ingenuity, promoting diversity and inclusion, and engaging actively with the community, CTC reinforces its commitment to integrity and social responsibility, ensuring sustained growth and influence in the financial industry.
-
 
 ## Future Prospects
 
@@ -143,7 +135,6 @@ Evolving trading platforms, such as multi-asset class platforms, are likely to r
 
 Overall, CTC's future is intricately linked to its ability to innovate and adapt to shifting market environments and technological trends. By leveraging advancements in AI, blockchain, and engaging with emerging markets, CTC positions itself to sustain and enhance its influence in the financial markets, paving the way for continued success and contributions to global market efficiency and transparency.
 
-
 ## Conclusion
 
 Chicago Trading Company (CTC) has established itself as a formidable leader in the algorithmic trading sector, primarily by leveraging advanced technologies and sophisticated trading strategies to optimize market participation. Since its inception in 1995, CTC has consistently driven innovation within the financial markets, from pioneering trading algorithms to harnessing high-frequency trading techniques that provide liquidity and enhance market efficiency.
@@ -154,4 +145,22 @@ Furthermore, CTC's influence extends beyond trading performance; the firm advoca
 
 In conclusion, CTC's enduring commitment to innovation symbolizes its profound impact on the financial markets. By continually pioneering new trading technologies and advocating for equitable market conditions, CTC exemplifies a steadfast dedication to fostering fair and efficient markets. Its adaptability and forward-thinking approach suggest a promising trajectory, poised to navigate and shape the evolving landscape of algorithmic trading well into the future.
 
+## References & Further Reading
 
+[1]: ["Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson
+
+[2]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley Finance.
+
+[3]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708) Oxford University Press.
+
+[4]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717) Wiley Finance.
+
+[5]: De Prado, M. L. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[6]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.
+
+[7]: ["Financial Markets and Algorithmic Trading"](https://link.springer.com/content/pdf/10.1007/978-1-4842-7110-0_1) from EdX, University of Michigan. 
+
+[8]: Bouchaud, J.-P., Farmer, J. D., Lillo, F. (2009). "How Markets Slowly Digest Changes in Supply and Demand". In T. Hens & K. R. Schenk-Hoppé (Eds.), Handbook of Financial Markets: Dynamics and Evolution. Elsevier. 
+
+[9]: Lo, A. W. (2017). ["Adaptive Markets: Financial Evolution at the Speed of Thought."](https://www.amazon.com/Adaptive-Markets-Financial-Evolution-Thought/dp/0691135142) Princeton University Press.

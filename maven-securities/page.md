@@ -169,3 +169,18 @@ Looking ahead, Maven Securities is well-poised to shape the future trajectory of
 For those interested in the dynamic field of algorithmic trading, Maven Securities presents a compelling narrative of innovation, leadership, and adaptability. Engaging with the company's developments and insights offers an opportunity to better understand the complexities of modern financial markets. Readers are encouraged to explore further or connect directly with Maven Securities to gain deeper insights into the evolving landscape of algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Jovanovic, B., & Menkveld, A. J. (2015). ["Middlemen in Limit Order Markets."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1624329) The Econometrica Journal, 83(3), 39-69.
+
+[2]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems%2C+2nd+Edition-p-9781118343500) Wiley Finance.
+
+[3]: Narang, R. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717) John Wiley & Sons.
+
+[4]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[5]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) John Wiley & Sons.
+
+[6]: Cartea, Á., Jaimungal, S., & Penalva, J. (2015). ["Algorithmic and High-Frequency Trading."](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) Cambridge University Press.

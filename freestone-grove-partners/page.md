@@ -143,3 +143,16 @@ Freestone Grove Partners' influence extends beyond its immediate clientele, impa
 For potential clients and partners considering a venture into algorithmic trading, engaging with Freestone Grove Partners offers an opportunity to leverage their expertise and comprehensive suite of services. As algorithmic trading continues to transform financial markets, aligning with a proven entity like Freestone Grove Partners could be a decisive step towards achieving enhanced market success and strategic growth.
 
 
+
+
+## References & Further Reading
+
+[1]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) John Wiley & Sons.
+
+[2]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) John Wiley & Sons.
+
+[3]: Jansen, S. (2018). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.
+
+[4]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) John Wiley & Sons.
+
+[5]: Kroll, M., & Six, L. (2017). ["High Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems-p-9780470579770) Traders Press.

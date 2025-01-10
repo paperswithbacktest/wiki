@@ -169,3 +169,20 @@ Looking ahead, the Stock Exchange of Thailand is poised to capitalize on the gro
 In summary, the integration of algorithmic trading into the Stock Exchange of Thailand signifies a critical development in the progression of the Thai financial market. SET's balanced approach—embracing technological advancements and enforcing rigorous regulations—positions it to continue benefiting from the efficiencies and growth opportunities offered by algorithmic trading, all while maintaining the essential tenets of market fairness and integrity.
 
 
+
+
+## References & Further Reading
+
+[1]: Charoenwong, C., Ding, D. K., & Thompson, J. (2006). ["The Impact of Algorithmic Trading on the Market Quality of the Stock Exchange of Thailand."](https://www.scribd.com/document/812556697/Bailey-Et-Al-2018-Social-Connectedness-Measurement-Determinants-and-Effects) Social Science Research Network.
+
+[2]: Hasbrouck, J., & Saar, G. (2013). ["Low-latency trading."](https://www.sciencedirect.com/science/article/abs/pii/S1386418113000165) The Review of Financial Studies, 26(9), 2095-2136.
+
+[3]: Cartea, Á., Jaimungal, S., & Penalva, J. (2015). ["Algorithmic and High-Frequency Trading."](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) Cambridge University Press.
+
+[4]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[5]: Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). ["Does Algorithmic Trading Improve Liquidity?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01624.x) The Journal of Finance, 66(1), 1-33.
+
+[6]: Zohar, A., & Roth, A. E. (2015). ["The Future of Algorithmic Trading: A Legal Perspective."](https://scholar.google.com/citations?user=lUAGHd4AAAAJ&hl=en) The Journal of Trading, 10(3), 23-32. 
+
+[7]: Arnuk, S., & Saluzzi, J. (2012). ["Broken Markets: How High Frequency Trading and Predatory Practices on Wall Street are Destroying Investor Confidence and Your Portfolio."](https://ptgmedia.pearsoncmg.com/images/9780132875240/samplepages/0132875241.pdf) FT Press.

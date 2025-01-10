@@ -3,14 +3,11 @@ title: "Tower Research Capital (Algo Trading)"
 description: "Explore Tower Research Capital's rise in algorithmic trading since 1998 with innovative strategies focused on speed precision and advanced technology."
 ---
 
-
-
-
-
 Tower Research Capital has established itself as a formidable entity in the domain of algorithmic trading, where it applies state-of-the-art strategies to navigate financial markets. Since its inception in 1998 by Mark Gorton, the firm has emerged as a leading global financial services provider specializing in algorithmic and quantitative trading. This article intends to explore Tower Research Capital's development, its unique approach to algorithmic trading, and the subsequent impact on financial markets.
 
 The company distinguishes itself through innovative use of technology and trading strategies, emphasizing speed, precision, and the ability to process complex data. Introduction to their operations will highlight the factors contributing to their distinguished status in the highly competitive landscape of financial trading. Whether you are a budding trader, a seasoned investor, or someone with an interest in algorithmic trading, this article promises to equip you with valuable knowledge and understanding of Tower Research Capital’s methodologies and their implications on the financial market ecosystem.
 
+![Image](images/1.png)
 
 ## Table of Contents
 
@@ -45,7 +42,6 @@ In this example, the strategy generates buy signals when the short-term moving a
 
 Algorithmic trading systems have the capacity to process vast amounts of market data in real time, identifying market patterns, inefficiencies, and opportunities that would go unnoticed through manual analysis. This ability not only improves the speed of transactions but also enhances the overall [liquidity](/wiki/liquidity-risk-premium) and efficiency of financial markets. Understanding these principles is essential to grasp the advanced innovations employed by firms like Tower Research Capital in developing robust trading strategies.
 
-
 ## The Origins of Tower Research Capital
 
 Tower Research Capital was founded in 1998 by Mark Gorton, who was recognized for his dual expertise in finance and technology. Gorton envisioned creating a company that would utilize advanced technology to develop efficient trading systems. This vision became the cornerstone of Tower Research Capital, aiming to revolutionize the way trading was conducted by employing sophisticated algorithms and cutting-edge technological infrastructure.
@@ -55,7 +51,6 @@ In its early years, Tower Research Capital focused on developing trading strateg
 Throughout its growth, Tower Research Capital consistently prioritized staying ahead of technological advancements. This focus has allowed the company to adapt to the fast-paced, ever-evolving financial markets. By integrating innovation into its core business practices, it has effectively expanded its reach across various asset classes and global markets, ensuring a broad and diversified trading portfolio.
 
 Today, Tower Research Capital is recognized as a leader in [quantitative trading](/wiki/quantitative-trading). It operates across numerous global financial markets, maintaining a strong presence in equities, futures, options, and other derivatives. The company's success stems from its ability to combine traditional trading principles with modern technology, fostering a culture of innovation that keeps it at the forefront of the financial industry. As a result, Tower Research Capital has built a reputation for excellence and reliability, cementing its status as a prominent player in algorithmic trading.
-
 
 ## Tower Research Capital's Algorithmic Trading Strategies
 
@@ -100,7 +95,6 @@ predictions = classifier.predict(new_data)
 
 Overall, Tower Research Capital’s strategic blend of statistical models, robust trading infrastructure, and innovative technologies underscores its ability to exploit financial market opportunities and remain resilient amid evolving economic landscapes.
 
-
 ## Impact on the Financial Market
 
 Tower Research Capital's algorithmic trading practices have significantly advanced the efficiency and evolution of financial markets. Utilizing sophisticated algorithms, the firm excels in creating liquidity and narrowing bid-ask spreads, which leads to decreased transaction costs for a broad spectrum of market participants. This is especially crucial in high-frequency trading environments where fractions of a second can determine the success or failure of a trade. By automating trades to occur at optimal times and prices, Tower Research optimizes capital flow and helps stabilize financial systems.
@@ -112,7 +106,6 @@ However, the ascendancy of algorithmic trading firms like Tower has sparked deba
 Despite these challenges, Tower Research Capital's influence on fostering competitive equity is indisputable. The firm contributes to price discovery processes, bringing efficiency to markets that benefit a wide array of stakeholders, from retail investors to large institutional players. Moreover, as the financial landscape continues to be shaped by technological advancements, Tower stands at the forefront of this transformation, blending traditional financial methodologies with state-of-the-art technology.
 
 The presence of Tower Research Capital is emblematic of the far-reaching impact of technology on conventional financial systems. By integrating cutting-edge computational methods into the trading process, the firm underscores the pivotal role technology plays in sustaining market dynamics. This symbiosis of technology and finance signifies a shift towards more automated, data-driven systems that have the capacity to redefine trading on a global scale.
-
 
 ## The Future of Algo Trading with Tower Research Capital
 
@@ -147,7 +140,6 @@ Sustainability and ethical considerations are also poised to influence the futur
 
 Tower Research Capital's ongoing growth and success underscore its influence in shaping financial markets and global trading ecosystems. By continually integrating innovative practices and technologies, the firm is likely to play a pivotal role in driving the next phase of evolution in algorithmic trading. This dynamic approach enables Tower to maintain a competitive edge, ensuring that it remains a key player in tomorrow's financial landscape.
 
-
 ## Conclusion
 
 Tower Research Capital stands as a testament to the power of algorithmic trading in revolutionizing the financial industry. Through the strategic use of advanced technology, Tower has consistently set new standards for trading efficiency and market operations, demonstrating that technology-driven trading is not only viable but transformative.
@@ -158,4 +150,16 @@ Understanding Tower Research Capital's strategies and impacts offers valuable in
 
 Overall, Tower Research Capital exemplifies the continuous evolution of finance, seamlessly combining historical trading practices with the innovation necessary to thrive in contemporary markets. This synthesis provides a clear indication of how algorithmic trading will continue to influence and redefine financial transactions worldwide.
 
+## References & Further Reading
 
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Algorithmic Trading and DMA: An introduction to direct access trading strategies"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson
+
+[3]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
+
+[4]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[5]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506). Wiley Finance.
+
+[6]: ["Flash Boys: A Wall Street Revolt"](https://en.wikipedia.org/wiki/Flash_Boys) by Michael Lewis

@@ -128,3 +128,20 @@ By studying SIG's strategies, individuals and organizations engaged in trading c
 As technological advancements continue to reshape global markets, SIG is poised to remain at the forefront of this evolution. Its ongoing commitment to developing and refining its algorithmic trading approaches suggests that it will play a crucial role in guiding the future directions of the financial industry. Through its actions and strategies, SIG exemplifies the potential of algorithmic trading to drive both growth and stability within financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506). Wiley.
+
+[2]: Duhigg, C. (2009). ["Traders Profit With Computers Set at High Speed"](https://www.nytimes.com/2009/07/24/business/24trading.html) The New York Times.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[4]: Narang, R. (2009). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267738). Wiley.
+
+[5]: Patterson, S. (2013). ["Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S. Stock Market"](https://www.amazon.com/Dark-Pools-Machine-Traders-Rigging/dp/0307887189). Crown Business.
+
+[6]: Vaananen, L. (2013). ["Dark Pools and High Frequency Trading For Dummies"](https://www.dummies.com/book/business-careers-money/personal-finance/investing/general-investing/dark-pools-and-high-frequency-trading-for-dummies-281564/). For Dummies.
+
+[7]: Zohar, A., & Nickerson, J. (2010). ["Efficient Market Hypothesis Revisited: Performance Analysis of Algorithmic and High-Frequency Trading"](https://pmc.ncbi.nlm.nih.gov/articles/PMC9250071/). Social Science Research Network.

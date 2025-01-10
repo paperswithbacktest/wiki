@@ -3,16 +3,13 @@ title: "Blueshift Asset Management (Algo Trading)"
 description: "Blueshift Asset Management specializes in systematic investing with a focus on algorithmic trading strategies that enhance market efficiency and investment returns."
 ---
 
-
-
-
-
 Blueshift Asset Management, established in 2017, is a distinguished player in the field of alternative investment management. The firm specializes in leveraging systematic investing strategies, prominently utilizing equity market-neutral strategies coupled with algorithmic and high-frequency trading. This investment methodology emphasizes the use of advanced computer algorithms to analyze vast sets of financial data, enabling rapid and precise trade execution with minimal human intervention. 
 
 Located in Red Bank, New Jersey, Blueshift benefits from its proximity to major financial hubs such as New York and Philadelphia. This strategic location not only facilitates professional networking and growth opportunities but also enhances lifestyle benefits for its team. As a firm committed to the forefront of quantitative finance, Blueshift fosters a collaborative and innovative work environment. This setting encourages team members to engage with complex challenges, promoting the exchange of ideas and the development of cutting-edge trading models.
 
-The firm is recognized for its multi-disciplinary approach and the robust academic backgrounds of its team members. Such diversity in expertise allows Blueshift to approach financial challenges from a holistic perspective, integrating insights from various fields to optimize investment strategies. The combination of a strategic location, a collaborative culture, and a commitment to innovation positions Blueshift Asset Management as a leading option for professionals seeking to engage with advanced financial solutions and contribute to the evolution of quantitative finance.
+![Image](images/1.jpeg)
 
+The firm is recognized for its multi-disciplinary approach and the robust academic backgrounds of its team members. Such diversity in expertise allows Blueshift to approach financial challenges from a holistic perspective, integrating insights from various fields to optimize investment strategies. The combination of a strategic location, a collaborative culture, and a commitment to innovation positions Blueshift Asset Management as a leading option for professionals seeking to engage with advanced financial solutions and contribute to the evolution of quantitative finance.
 
 ## Table of Contents
 
@@ -42,7 +39,6 @@ def strategy(prices):
 Algorithmic trading strategies can encompass a range of financial instruments, such as equities, futures, options, and other asset classes. These strategies are integral to quantitative investment firms like Blueshift, which leverage [algorithmic trading](/wiki/algorithmic-trading) to maintain efficiency and competitiveness in the financial markets. Notably, algorithmic trading facilitates significant advantages, such as increased execution speed, minimized market impact, and improved trade accuracy.
 
 Furthermore, the use of algorithms allows firms to approach trading from a data-driven perspective, with decisions being made based on comprehensive statistical analysis and historical data. This approach helps in identifying patterns and trends that may not be immediately evident to human traders, granting firms the opportunity to capitalize on subtle market inefficiencies.
-
 
 ## Blueshift's Approach to Trading
 
@@ -75,7 +71,6 @@ signals = np.where(z_score > 1, -1, np.where(z_score < -1, 1, 0))
 
 Blueshift fosters a culture that emphasizes open knowledge sharing, creativity, and transparency. Collaborative efforts are encouraged across various disciplines, allowing teams to bring diverse perspectives to solve complex financial problems. This collaborative environment supports the continuous development and refinement of innovative trading models. By promoting a platform where ideas can be freely exchanged and tested, Blueshift enhances its capability to remain agile and responsive to the ever-changing market landscape.
 
-
 ## Blueshift's Automated Trading Platform
 
 Blueshift Asset Management offers a versatile automated trading platform designed to meet the needs of both institutional and individual users. This platform supports event-driven trading, allowing users to deploy strategies that react to market events with minimal latency. The inclusion of high-quality, bias-free datasets spanning various asset classes ensures that traders have access to comprehensive market information crucial for informed decision-making.
@@ -83,7 +78,6 @@ Blueshift Asset Management offers a versatile automated trading platform designe
 The platform is built on a cloud-based infrastructure, making it accessible from any location with internet connectivity. This setup not only provides convenience but also ensures scalability and reliability for users managing significant trading volumes. To cater to different levels of technical proficiency, Blueshift's platform features interfaces that support both Python and no-code environments. This flexibility means that users with sophisticated programming skills can write custom algorithms in Python, while those less familiar with coding can still develop and execute trading strategies using intuitive drag-and-drop tools.
 
 Compliance and security are fundamental components of Blueshift's trading platform. It emphasizes adherence to industry standards and regulatory requirements, offering a secure environment for conducting trading operations. Users can be confident that their trading activities are protected by robust security measures, ensuring the integrity and confidentiality of their financial data. By combining these features, Blueshift's automated trading platform provides a comprehensive solution that addresses the diverse needs of modern traders.
-
 
 ## Career Opportunities at Blueshift
 
@@ -95,7 +89,6 @@ Blueshift also places a strong emphasis on diversity and inclusion within its wo
 
 In summary, career opportunities at Blueshift are well-suited for individuals who thrive in a dynamic, challenging, and collaborative setting, where cutting-edge financial technologies meet a supportive and inclusive work environment.
 
-
 ## Conclusion
 
 Blueshift Asset Management is recognized as a leading entity in the field of algorithmic trading, characterized by its commitment to innovation and a culture that encourages collaborative excellence. Leveraging systematic investment strategies, the firm has distinguished itself by minimizing risks and maximizing potential returns through market-neutral approaches. Their advanced trading technologies, which integrate high-frequency and algorithmic trading methods, offer traders precision and efficiency across various asset classes.
@@ -105,3 +98,15 @@ The firm's automated trading platform enhances these capabilities, catering to a
 For traders and financial professionals seeking involvement with leading-edge financial solutions, Blueshift Asset Management stands out as a valuable partner. The firm's dedication to developing innovative trading models not only provides an exciting workplace for professionals interested in quantitative finance but also fosters an environment of continuous learning and adaptation to new financial challenges. This makes Blueshift not just a workplace, but a breeding ground for future financial leaders and innovations in algorithmic trading.
 
 
+
+## References & Further Reading
+
+[1]: Lo, Andrew W. (2004). ["The Efficient Market Hypothesis and Its Critics."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=602222) Journal of Economic Perspectives, 18(1), 25-46.
+
+[2]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale-ebook/dp/B00CY5HC0U) by Ernest P. Chan
+
+[3]: Aldridge, Irene. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley.
+
+[4]: Narang, Rishi K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717) Wiley.
+
+[5]: Fabozzi, Frank J., Focardi, Sergio M., Kolm, Petter N. (2010). ["Quantitative Equity Investing: Techniques and Strategies."](https://www.amazon.com/Quantitative-Equity-Investing-Techniques-Strategies/dp/0470262478) Wiley.

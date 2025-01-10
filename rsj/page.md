@@ -112,3 +112,16 @@ For those interested in exploring the realm of algorithmic trading further, RSJ 
 RSJ's trajectory hints at a future where trading technologies continue to advance, embracing more data-driven approaches and integrating machine learning algorithms. As we forge ahead, companies like RSJ will likely play a pivotal role in navigating this transition, driving the next wave of financial innovation. The continuous evolution of trading technologies promises a dynamic and challenging landscape, inviting robust participation from technologists, financial experts, and regulators alike.
 
 
+
+
+## References & Further Reading
+
+[1]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[2]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.
+
+[3]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python"](https://github.com/stefan-jansen/machine-learning-for-trading). Packt Publishing.
+
+[4]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741). Wiley.
+
+[5]: Cartea, Á., Jaimungal, S., & penalva, J. (2015). ["Algorithmic and High-Frequency Trading."](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) Cambridge University Press.

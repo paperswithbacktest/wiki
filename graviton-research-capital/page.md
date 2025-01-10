@@ -156,3 +156,18 @@ Graviton Research Capital remains committed to pioneering advances in algorithmi
 The implications of Graviton's work extend across global financial markets. By promoting a culture of transparency and ethical compliance, they establish trust within the financial ecosystem, setting a standard for others to follow. As algorithmic trading continues to gain prominence, the practices and principles championed by Graviton offer a blueprint for sustainable growth and innovation in markets worldwide. This underscores a future where algorithmic trading plays a pivotal role in shaping economic landscapes, with Graviton leading the charge toward this transformation.
 
 
+
+
+## References & Further Reading
+
+[1]: Chincarini, L. & Kim, D. (2006). ["Quantitative Equity Portfolio Management."](https://archive.org/details/quantitativeequi0000chin_c9d6) McGraw-Hill.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[3]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.
+
+[4]: Narang, R.K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362411) Wiley.
+
+[5]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[6]: Aronson, D. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals."](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) Wiley.

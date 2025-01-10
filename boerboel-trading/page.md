@@ -79,3 +79,16 @@ Boerboel Trading’s unwavering commitment to excellence ensures its position at
 The journey of Boerboel Trading serves as a testament to the transformative power of technology in modern finance. The firm's ability to harness the capabilities of algorithmic trading has not only revolutionized its operations but also underscored the potential for technological innovation within the financial sector. As we progress, the impact of algorithmic trading is poised to grow, offering new opportunities and challenges within the evolving financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://books.google.com/books/about/Algorithmic_Trading.html?id=WAlFDwAAQBAJ) by Ernest P. Chan
+
+[2]: Jovanovic, F., & Schinckus, C. (2017). ["Algorithmic Trading and the Dynamics of Financial Markets."](https://www.scirp.org/reference/referencespapers?referenceid=2218631) Journal of Economic Issues.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[4]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley.
+
+[5]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717) Wiley.

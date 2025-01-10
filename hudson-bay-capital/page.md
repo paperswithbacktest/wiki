@@ -114,3 +114,16 @@ While challenges, such as technological reliance and regulatory scrutiny, persis
 As algorithmic trading continues to evolve, entities like Hudson Bay Capital are poised to play pivotal roles in shaping its future. Their ongoing innovation and flexibility will be critical in maintaining leadership amid the challenges and opportunities presented by advancing financial technologies. Through these efforts, Hudson Bay Capital not only secures its growth and competitive advantage but also contributes significantly to the broader evolution of trading strategies in financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506). Wiley.
+
+[4]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management"](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management). Academic Press.
+
+[5]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717). Wiley.

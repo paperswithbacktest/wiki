@@ -3,14 +3,11 @@ title: "The Order Machine (TOM) Overview (Algo Trading)"
 description: "Explore the innovative journey of The Order Machine TOM in reshaping financial markets through algorithmic trading and learn about its market impact and challenges."
 ---
 
-
-
-
-
 The financial markets have undergone a significant transformation due to algorithmic trading, a method that utilizes complex algorithms to make high-speed trading decisions. At the forefront of this innovation was The Order Machine (TOM), a pioneering entity that played a vital role in reshaping the trading landscape. Established in 2009, TOM quickly emerged as a formidable player in Amsterdam's trading circles, directly challenging established entities like NYSE Euronext. By leveraging alternative trading mechanics and cutting-edge technologies, TOM sought to enhance market efficiency and provide competitive trading opportunities.
 
 This article explores the evolution of TOM, highlighting its journey from inception to significant market influence. It examines the various impacts TOM had on trading dynamics and the broader market environment. Furthermore, the discussion delves into the lessons learned from TOM's operations, providing valuable insights into both the potential benefits and challenges inherent in algorithmic trading systems.
 
+![Image](images/1.jpeg)
 
 ## Table of Contents
 
@@ -21,7 +18,6 @@ The Order Machine (TOM) was inaugurated in 2009 as an innovative joint venture b
 Headquartered in Amsterdam, TOM operated as a multilateral trading facility (MTF), a market infrastructure designed to facilitate trading with transparency and efficiency. The platform was equipped not only to offer a wide range of trading products but also to provide brokerage services that appealed to professional and retail investors alike. The multilateral setup allowed TOM to function as an alternative to traditional exchanges, enabling competitive pricing and liquidity enhancements.
 
 In its quest for expansion and increased credibility, TOM welcomed significant partnerships. ABN AMRO, one of the Netherlands' largest banks, and IMC Group, a leading proprietary trading firm, joined TOM. These collaborations reinforced TOM’s operational capacity and market visibility. By integrating these partners, TOM bolstered its standing in the Dutch and broader European markets, offering a compelling alternative to established trading venues such as NYSE Euronext. These strategic alliances enabled TOM to harness a wider range of market participants and foster a more dynamic trading environment, accentuating its role as a pioneer in the algorithmic trading domain.
-
 
 ## Achievements and Market Impact
 
@@ -35,7 +31,6 @@ Algorithmic trading was at the core of TOM's operations, allowing it to not only
 
 Overall, TOM's achievements and its impact on the market were significant. They illustrated how technology-driven strategies could successfully compete with established entities and enhance market dynamics. TOM's innovations and market performance highlighted the transformative potential of [algorithmic trading](/wiki/algorithmic-trading) systems in improving market efficiency and liquidity.
 
-
 ## Challenges Faced by TOM
 
 The Order Machine (TOM) encountered several notable challenges during its operational years, which ultimately influenced its trajectory in the algorithmic trading landscape. One of the primary challenges was a lawsuit filed by NYSE Euronext, which revolved around intellectual property rights concerning the AEX Index. This legal battle highlighted the complexities of operating within a highly competitive market where proprietary indices and trading methodologies are critical assets. The lawsuit underscored the intense rivalry between trading platforms and the importance of intellectual property in maintaining a competitive edge.
@@ -43,7 +38,6 @@ The Order Machine (TOM) encountered several notable challenges during its operat
 In addition to legal challenges, TOM faced financial constraints that played a significant role in its eventual wind-down. By 2017, TOM started to experience financial difficulties, which impeded its ability to sustain operations at the level required to compete effectively with larger and more established exchanges. This financial strain led TOM to initiate a strategic withdrawal, transferring its conducted trades to other platforms, including Euronext. The need to transfer trades and pivot operations was indicative of the challenging economic environment for smaller trading facilities in maintaining market share against larger incumbents.
 
 These challenges highlight the intricate balance required between innovation, intellectual property management, and financial stability within the trading industry. The case of TOM illustrates how external pressures, whether through competitive legal actions or financial sustainability issues, can significantly impact the viability of a trading platform.
-
 
 ## TOM’s Trading Strategies and Mechanisms
 
@@ -77,7 +71,6 @@ Moreover, the introduction of Smart Order Routing (SOR) underscored TOM's innova
 
 The synergy of these strategies and mechanisms enabled TOM to not only compete against larger established exchanges but also to provide exceptional value to its trading participants, setting an exemplary model within the algorithmic trading ecosystem.
 
-
 ## Impact of Regulatory and Market Changes
 
 The trading industry is subject to continuous regulatory and market changes that shape its operational landscape. For entities like The Order Machine (TOM), these dynamics necessitated constant adaptation to remain competitive and compliant. The European financial markets, during TOM's active years, were influenced by various regulations including the Markets in Financial Instruments Directive (MiFID), which aimed to increase competition and transparency across EU financial markets. This regulatory environment required trading platforms to innovate continuously, ensuring that trading technologies could effectively meet new compliance and operational standards.
@@ -87,7 +80,6 @@ Another significant challenge faced by TOM was market saturation. As more tradin
 Funding constraints compounded these challenges. Innovating in the face of rigorous regulations and a saturated market is resource-intensive. Trading platforms require substantial investment in technology and human resources to develop and maintain advanced trading systems that comply with shifting regulations. For TOM, insufficient funding restricted its ability to scale operations and invest in the necessary technological upgrades and innovations. This situation underscored the importance of securing adequate financial backing to support sustainable growth and regulatory compliance in the evolving world of trading.
 
 In summary, the regulatory environment and market conditions critically influenced TOM’s operational decisions and trajectory. The necessity to adapt to changing regulations, compete in a saturated market, and manage funding constraints were significant factors in TOM’s journey, providing essential lessons for future trading entities aiming to thrive in a dynamic financial landscape.
-
 
 ## The Future of Algorithmic Trading: Lessons from TOM
 
@@ -117,7 +109,6 @@ Navigating regulatory landscapes is equally vital. As financial markets are heav
 
 TOM’s legacy sheds light on both the potential and the inherent challenges of algorithmic systems. As the trading environment continues to grow and become more technologically advanced, the integration of TOM's strategies—such as Smart Order Routing—and its collaborative approach with stakeholders remain instructive. These insights can guide future entrants in creating robust algorithmic trading platforms that not only survive but thrive in the competitive landscape of global finance.
 
-
 ## Conclusion
 
 The Order Machine (TOM) played a pivotal role in reshaping financial market operations through its pioneering implementation of algorithmic trading techniques. TOM successfully demonstrated that algorithmic systems could increase trading efficiency, improve market liquidity, and offer competitive pricing, thereby fulfilling the promise of technology in transforming the trading landscape.
@@ -130,4 +121,18 @@ The challenges encountered by TOM, including regulatory hurdles and competitive 
 
 As technology continues to advance, there remains an abundance of insights to be drawn from TOM's innovative strategies and operational challenges. These lessons highlight the delicate balance between pioneering financial technologies and maintaining the flexibility to adapt to evolving market and regulatory conditions, ensuring the sustainable growth and evolution of algorithmic trading systems.
 
+## References & Further Reading
 
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). ["Does Algorithmic Trading Improve Liquidity?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01624.x) The Review of Financial Studies, 24(8), 2824-2851.
+
+[3]: Hasbrouck, J., & Saar, G. (2013). ["Low-latency trading."](https://www.sciencedirect.com/science/article/abs/pii/S1386418113000165) The Review of Financial Studies, 26(9), 2096-2139.
+
+[4]: Riordan, R., & Storkenmaier, A. (2012). ["Latency, Liquidity and Price Discovery."](https://www.sciencedirect.com/science/article/pii/S1386418112000237) Journal of Financial Markets, 15(4), 416-437.
+
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
+
+[6]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-Frequency Trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) Journal of Information Technology, 52(2), 85-97.
+
+[7]: Europe Economics. (2010). ["The Future of Computer Trading in Financial Markets."](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/289058/11-1276-the-future-of-computer-trading-in-financial-markets.pdf) UK Government Office for Science.

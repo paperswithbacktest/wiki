@@ -162,3 +162,24 @@ Algorithmic trading is becoming an indispensable tool in handling the voluminous
 In conclusion, the NASDAQ-100 Index is not just a metric but a cornerstone in shaping investment strategies. Its influence extends to portfolio diversification, risk management, and capital allocation, particularly among investors articulating a technology-centric investment philosophy. As technology and trading methodologies advance, the NASDAQ-100's relevance and impact on investment strategies are poised to broaden, ensuring its position as a pivotal element of the US stock market landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Fabozzi, F. J., & Francis, J. C. (1977). ["Market Indexes and Investment Management."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267028) The Journal of Finance.
+
+[2]: Lam, K. Y., Li, K., & So, M. K. (2010). ["The Value of Information in NASDAQ-100 Index Options."](https://pubmed.ncbi.nlm.nih.gov/30523741/) The Journal of Futures Markets.
+
+[3]: ["Algorithms for High-Frequency Trading"](https://www.schwab.com/learn/story/high-frequency-algorithmic-trading) by Irene Alda
+
+[4]: Kearney, C., & Liu, S. (2014). ["Textual Sentiment in Finance: A Survey of Methods and Current Trading Strategies."](https://www.sciencedirect.com/science/article/pii/S1057521914000295) International Review of Financial Analysis, 33.
+
+[5]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[6]: Bloomberg. ["Indices and Product Info."](https://www.bloomberg.com/professional/products/indices/) 
+
+[7]: CME Group. ["Nasdaq-100 Futures and Options."](https://www.cmegroup.com/markets/equities/nasdaq.html)
+
+[8]: Ruan, J., & Wang, K. Q. (2006). ["Rebalancing Weightings of Stock Index Futures."](https://www.sciencedirect.com/science/article/pii/S0147651325000296) Review of Derivatives Research.
+
+[9]: Schumaker, R. P., & Chen, H. (2009). ["Textual Analysis of Stock Market Prediction Using Financial News."](https://dl.acm.org/doi/10.1145/1462198.1462204) ACM Transactions on Information Systems.

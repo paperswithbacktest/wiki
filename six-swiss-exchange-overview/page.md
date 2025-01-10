@@ -81,3 +81,22 @@ The Exchange offers a comprehensive suite of services and products, making it in
 As financial markets continue to evolve, the robust foundation and strategic foresight of the SIX Swiss Exchange ensure its sustained prominence as a leader in trading technology and market integration. The Exchange adeptly navigates complex regulatory landscapes and embraces new asset classes, as demonstrated by its partnerships and acquisition efforts. This adaptability is pivotal in maintaining its competitive edge on a global scale, solidifying its role and potential within the ever-changing financial landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: SIX Group. ["SIX Swiss Exchange: Overview."](https://www.six-group.com/en/products-services/the-swiss-stock-exchange.html)
+
+[2]: Eurex Group. ["Eurex - Derivatives Exchange."](https://www.eurex.com/ex-en/markets/equ)
+
+[3]: "Trading and Electronic Markets: What Investment Professionals Need to Know" by Larry Harris
+
+[4]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-Frequency Trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) Springer Handbook of Electronic Markets.
+
+[5]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[6]: "Trading at the Speed of Light: How Ultrafast Algorithms Are Transforming Financial Markets" by Donald MacKenzie
+
+[7]: BME Group. ["Bolsas y Mercados Españoles (BME)."](https://www.bolsasymercados.es/ing/About-BME/Companies)
+
+[8]: LMAX Digital. ["LMAX Group Partnership with SIX."](https://www.lmax.com/press-centre/lmaxgroup_to_launch_247_traded_crypto_futures_in_partnership_with_six)

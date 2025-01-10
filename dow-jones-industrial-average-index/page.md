@@ -104,3 +104,20 @@ As we look towards the future, consistent monitoring of the DJIA will provide in
 In conclusion, while the DJIA has continually adapted to changes in the economic landscape, the integration of modern trading technologies further amplifies its significance. By keeping an eye on this pivotal index, market participants can gain a deeper understanding of potential shifts in economic direction, helping them to make more informed decisions amidst ever-changing financial environments.
 
 
+
+
+## References & Further Reading
+
+[1]: ["The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns"](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509) by John C. Bogle
+
+[2]: Jones, Charles. (1991). ["A Century of Stock Market Liquidity and Trading Costs."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=313681): Cambridge University Press.
+
+[3]: ["Dow 36,000: The New Strategy for Profiting From the Coming Rise in the Stock Market"](https://en.wikipedia.org/wiki/Dow_36,000) by James K. Glassman and Kevin A. Hassett
+
+[4]: ["Algorithmic Trading and DMA: An introduction to direct access trading strategies"](https://archive.org/details/algorithmictradi0000john) by Barry Johnson
+
+[5]: Graham, Benjamin. (1973). ["The Intelligent Investor: The Definitive Book on Value Investing."](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) Harper Business. 
+
+[6]: Ripley, Barbara and Rotblut, Charles. (2014). ["The Individual Investor's Guide to the Top Mutual Funds."](https://www.aaii.com/journal/article/the-individual-investors-guide-to-the-top-mutual-funds-2014) American Association of Individual Investors.
+
+[7]: Shleifer, Andrei, and Vishny, Robert W. (1997). ["The Limits of Arbitrage"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1997.tb03807.x), The Journal of Finance, 52(1), 35-55.

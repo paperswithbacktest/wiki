@@ -3,18 +3,15 @@ title: "Myron Scholes: Economist and Nobel Laureate (Algo Trading)"
 description: "Discover the accomplishments of economist and Nobel laureate Myron Scholes known for co-developing the Black-Scholes model revolutionizing option pricing."
 ---
 
-
-
-
-
 Myron Samuel Scholes, born in July 1941, is a Canadian-American economist recognized for his groundbreaking contributions to financial economics. Notably, Scholes is renowned for co-developing the Black-Scholes model for option pricing, a pivotal advancement that transformed the domain of financial derivatives. This model, created alongside Fischer Black and Robert C. Merton, offered a robust theoretical framework for valuing options, thereby making the market more accessible and manageable for traders and financial professionals.
 
 Scholes' pioneering work in option pricing was acknowledged globally when he, along with Robert C. Merton, received the Nobel Memorial Prize in Economic Sciences in 1997. The award honored their innovative methodology for determining the value of derivatives, a development that has had substantial and lasting implications across various industries, influencing both academic research and practical finance.
 
+![Image](images/1.png)
+
 Beyond his theoretical achievements, Myron Scholes has had an impactful career in academia and the financial sector. His work spans teaching and research in prestigious institutions and practical engagements within the financial industry, where his insights have significantly influenced modern asset allocation, risk management, and algorithmic trading methods.
 
 This article provides an exploration into the life, contributions, and enduring influence of Myron Scholes, highlighting his important role in shaping contemporary financial economics.
-
 
 ## Table of Contents
 
@@ -26,7 +23,6 @@ Scholes' academic journey began at McMaster University, where he pursued a Bache
 
 Following his undergraduate studies, Scholes advanced his education at the University of Chicago, a hub for economic thought and innovation. He earned both an MBA and a Ph.D. in economics at this prestigious institution. At Chicago, Scholes had the opportunity to study under prominent scholars, including Eugene Fama and Merton Miller, whose insights into efficient markets and financial economics would significantly impact his own research. The rigorous training and mentorship he received during this period equipped Scholes with the analytical skills that would later aid in his revolutionary contributions to the field of financial derivatives.
 
-
 ## Academic and Professional Career
 
 Myron Scholes began his academic career at the Massachusetts Institute of Technology (MIT) Sloan School of Management. During his tenure at MIT, Scholes contributed significantly to the burgeoning field of financial economics through his research and teaching. After leaving MIT, Scholes continued his academic journey at the University of Chicago Booth School of Business, a leading institution recognized for its innovative economic research and a strong focus on empirical study. 
@@ -36,7 +32,6 @@ In 1981, Scholes joined Stanford University, where he was appointed the Frank E.
 At Stanford, Scholes contributed to the development of quantitative finance, a field that combines mathematical finance, statistical theories, and computational tools to solve high-level financial problems. His research explored key areas such as risk management, market microstructure, and corporate decision-making processes. These investigations elevated academic discourse and provided innovative frameworks that influenced both contemporary financial practices and academic literature.
 
 Scholes' academic contributions have left a lasting impact on the field, fostering a new generation of financial economists and practitioners who continue to build upon his foundational work. His role in shaping modern financial theory and practice is evident in his commitment to bridging theoretical concepts with real-world applications, a hallmark of his distinguished career.
-
 
 ## The Black-Scholes Model
 
@@ -65,7 +60,6 @@ The introduction of the Black-Scholes model in 1973 marked a significant advance
 
 By providing a systematic methodology for option pricing, the model rendered the derivatives market more transparent and efficient. It enabled the emergence of more complex financial instruments and applications, contributing significantly to the evolution of modern financial trading. The elegance and applicability of the Black-Scholes formula also offered a crucial bridge between theoretical finance and real-world trading practices, establishing it as a cornerstone of financial derivatives literature and tooling.
 
-
 ## Nobel Prize in Economic Sciences
 
 In 1997, Myron Scholes was awarded the Nobel Prize in Economic Sciences alongside Robert C. Merton for their pioneering work on the valuation of options. This accolade was a testament to the transformative impact of the Black-Scholes model, developed originally in collaboration with the late Fischer Black. Although Black had passed away in 1995 and was ineligible for the Nobel Prize himself, Scholes took the opportunity during his Nobel Lecture to emphasize Black's pivotal role in their collaborative research.
@@ -92,7 +86,6 @@ The introduction of the Black-Scholes model provided a groundbreaking approach t
 
 The recognition by the Nobel Committee not only underscored the scientific rigor and practical utility of Scholes' contributions but also highlighted the model's ongoing influence in both theoretical and applied financial contexts. As financial markets continue to evolve, the foundational principles introduced by Scholes and his colleagues remain integral, informing new derivative products and risk assessment methodologies embraced by economists and traders globally.
 
-
 ## Algorithmic Trading and Later Activities
 
 Myron Scholes' pioneering efforts in financial economics extended significantly into [algorithmic trading](/wiki/algorithmic-trading), an area where his work has provided foundational quantitative tools essential for assessing and managing risk. His contributions to risk management and derivative pricing have equipped traders with sophisticated techniques to execute trading strategies, thereby enhancing the efficiency and effectiveness of financial markets.
@@ -104,7 +97,6 @@ The LTCM episode highlighted both the potential and the inherent risks of highly
 After LTCM, Scholes continued to make significant contributions to the financial industry. He leveraged his expertise by engaging with financial institutions to provide insights into modern asset allocation and risk management. His approach often emphasized the integration of quantitative models to inform investment strategies while acknowledging the limitations and uncertainties inherent in financial markets. This involved considering factors such as volatility, liquidity, and correlations when designing trading algorithms and managing investment portfolios.
 
 Scholes' work in algorithmic trading has left a lasting impact on how financial professionals approach quantitative finance. His insights into risk and derivatives pricing continue to influence the development of trading algorithms, helping traders and institutions to better navigate and capitalize on market dynamics. Through his ongoing contributions, Scholes remains an influential figure in shaping the future landscape of financial economics and trading practices.
-
 
 ## Legacy and Influence
 
@@ -133,3 +125,21 @@ Beyond the technical impact of his work, Scholes' career serves as a quintessent
 Scholes’ legacy is evident in the sustained relevance of his work, manifesting in both the theoretical exploration and empirical practices in economics and finance today. He has not only provided quantitative tools to the industry but has also been instrumental in the evolution of financial theories, ensuring their application remains rooted in rigorous scientific analysis.
 
 
+
+## References & Further Reading
+
+[1]: Hull, J. C. (2014). ["Options, Futures, and Other Derivatives"](https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315). Pearson Education.
+
+[2]: Black, F., & Scholes, M. (1973). ["The Pricing of Options and Corporate Liabilities"](https://www.cs.princeton.edu/courses/archive/fall09/cos323/papers/black_scholes73.pdf). *The Journal of Political Economy*, Vol. 81, No. 3, pp. 637-654.
+
+[3]: Merton, R. C. (1973). ["Theory of Rational Option Pricing"](https://www.jstor.org/stable/3003143). *The Bell Journal of Economics and Management Science*, Vol. 4, No. 1, pp. 141-183.
+
+[4]: Scholes, M. (1998). ["Derivatives in a Dynamic Environment"](https://www.jstor.org/stable/pdf/116839.pdf). Nobel Prize Lecture.
+
+[5]: Fabozzi, F. J., & Markowitz, H. M. (2010). ["The Theory and Practice of Investment Management"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267028). Wiley.
+
+[6]: ["My Life as a Quant: Reflections on Physics and Finance"](https://www.amazon.com/My-Life-Quant-Reflections-Physics/dp/0470192739) by Emanuel Derman
+
+[7]: Seierstad, A., & Sydsaeter, K. (1987). ["Optimal Control Theory with Economic Applications"](https://shop.elsevier.com/books/optimal-control-theory-with-economic-applications/seierstad/978-0-444-87923-3). North-Holland.
+
+[8]: Lo, A. W. (2007). ["Hedge Funds: An Analytic Perspective"](https://www.jstor.org/stable/j.ctt7rq28). Princeton University Press.

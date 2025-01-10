@@ -118,3 +118,16 @@ By embracing these future trends and continually enhancing their systems, Mana P
 Mana Partners' proficiency in algorithmic trading delivers a significant edge to investors aiming for efficient and profitable trading solutions. By consistently leveraging advanced technology and strategic insights, they distinguish themselves within the competitive landscape of the finance industry. Their deep understanding of client needs, combined with bespoke approaches, nurtures long-term success and cultivates trust among their clients. As the dynamics of trading continue to evolve, Mana Partners is unwavering in its dedication to innovation, ensuring they are at the forefront of new technological advancements. This commitment empowers clients to navigate and capitalize on emerging trends effectively. For investors keen on elevating their trading capabilities, exploring the resources and expertise offered by Mana Partners represents an essential step forward in optimizing their market performance and investment returns.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[3]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
+
+[4]: Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). ["Does Algorithmic Trading Improve Liquidity?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01624.x) The Review of Financial Studies, 24(11), 3288-3327.
+
+[5]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson

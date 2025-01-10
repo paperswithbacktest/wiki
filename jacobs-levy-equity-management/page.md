@@ -99,3 +99,18 @@ The future of investing will be defined by the integration of human insights wit
 Ultimately, the sustained success of Jacobs Levy Equity Management demonstrates that embracing technological change is crucial for achieving long-term superiority in the competitive finance industry. This strategic foresight and dedication to innovation ensure that the firm remains at the forefront of the evolving world of algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson
+
+[2]: ["Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management"](https://www.amazon.com/Quantitative-Equity-Portfolio-Management-Construction/dp/0071459391) by Ludovic Phalippou, Bruce Jacobs, and Kenneth Levy
+
+[3]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[4]: ["The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution"](https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/073521798X) by Gregory Zuckerman
+
+[5]: Treleaven, P., Galas, M., & Vidhi, P. (2013). ["Algorithmic trading review."](https://dl.acm.org/doi/10.1145/2500117) Communications of the ACM. 
+
+[6]: Fritz, B., Mitarbeitern, I., & Weitzel, T. (2009). ["High Frequency Trading"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2108344) ACM Transactions on Management Information Systems.

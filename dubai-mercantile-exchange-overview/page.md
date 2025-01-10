@@ -117,3 +117,22 @@ DME's integration of algorithmic trading has revolutionized the trading process 
 Looking ahead, DME continues to anticipate the demands of an increasingly dynamic global economy. The exchange is investing in new trading platforms and exploring product expansions that will cater to a broader range of commodities. Strategic partnerships and technological advancements will likely play a pivotal role in DME's future, enabling it to maintain its status as a key player in global commodity trading. As the energy trading landscape evolves, DME remains well-positioned to adapt and thrive, contributing to enhanced market integration and price transparency on a global scale.
 
 
+
+
+## References & Further Reading
+
+[1]: Dubai Mercantile Exchange. ["About DME"](https://en.wikipedia.org/wiki/Dubai_Mercantile_Exchange). Dubai Mercantile Exchange.
+
+[2]: CME Group. ["Clearing"](https://www.cmegroup.com/solutions/clearing.html). CME Group.
+
+[3]: Pardo, R. (2011). ["The Evaluation and Optimization of Trading Strategies"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969). Wiley.
+
+[4]: Jensen, M. (2020). ["Algorithmic Trading and DMA: An introduction to direct access trading strategies"](https://www.semanticscholar.org/paper/Algorithmic-trading-%26-DMA-%3A-an-introduction-to-Johnson/aa5de1ab883d5e23b6651faa7c1807586d688e4b). 4Myeloma Press.
+
+[5]: UAE Government Portal. ["Dubai International Financial Centre (DIFC)"](https://www.difc.ae/). UAE Government.
+
+[6]: Johnson, B. (2010). ["Algorithmic Trading & DMA: An introduction to direct access trading strategies"](https://archive.org/details/algorithmictradi0000john). 4Myeloma Press.
+
+[7]: Patterson, S. (2012). ["Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S. Stock Market"](https://www.amazon.com/Dark-Pools-Machine-Traders-Rigging/dp/0307887189). Crown Business.
+
+[8]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.

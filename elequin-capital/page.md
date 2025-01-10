@@ -142,3 +142,16 @@ For investors interested in exploring the potential of algorithmic trading, Eleq
 The intersection of technology and finance presents a promising future, where collaborative efforts can drive innovation and efficiency in financial markets. By embracing the principles of algorithmic trading, institutions like Elequin Capital not only advance their interests but also contribute to the broader evolution of trading practices. As such, interested individuals and investors are encouraged to examine the opportunities presented by Elequin Capital, potentially participating in a transformative era for finance.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+
+[3]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
+
+[4]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley.
+
+[5]: Patel, S., & Thakur, R. (2019). ["Stock Market Prediction Using Machine Learning."](https://ieeexplore.ieee.org/document/8703332) Procedia Computer Science.

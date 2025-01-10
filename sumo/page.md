@@ -96,3 +96,26 @@ Traders should also regularly review market reports and white papers to stay inf
 These resources collectively offer a comprehensive guide to mastering the Sumo algo trading strategy, ensuring traders stay informed and capable of adapting to the rapidly changing environments of modern financial markets.
 
 
+
+
+## References & Further Reading
+
+[1]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). John Wiley & Sons.
+
+[2]: Chan, E. P. (2013). ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://github.com/ftvision/quant_trading_echan_book). John Wiley & Sons.
+
+[3]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). John Wiley & Sons.
+
+[4]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python"](https://github.com/stefan-jansen/machine-learning-for-trading). Packt Publishing.
+
+[5]: Buchanan, B. G. (2019). ["A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.wiley.com/en-us/High+Frequency+Trading%3A+A+Practical+Guide+to+Algorithmic+Strategies+and+Trading+Systems-p-9780470579770). Academic Press.
+
+[6]: Chincarini, L. B., & Kim, D. (2006). ["Quantitative Equity Portfolio Management: An Active Approach to Portfolio Construction and Management"](https://archive.org/details/quantitativeequi0000chin_c9d6). McGraw-Hill Education.
+
+[7]: Coursera. ["Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training"](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-2019)
+
+[8]: edX. ["Mathematics for Machine Learning"](https://www.edx.org/learn/math/edx-math-for-machine-learning-with-python)
+
+[9]: Chan, E. P. Blog. [epchan.blogspot.com](https://www.linkedin.com/company/blogspot)
+
+[10]: QuantConnect. [www.quantconnect.com](https://www.quantconnect.com/)

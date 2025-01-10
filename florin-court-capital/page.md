@@ -117,3 +117,20 @@ Readers are encouraged to explore the multifaceted world of algorithmic trading 
 Looking ahead, Florin Court Capital is poised to continue its trajectory of influence within the industry. As markets globalize and evolve, the firm's strategic forays into emerging markets, coupled with sustained technological innovation, will likely amplify its impact. By addressing future challenges such as regulatory changes and market volatility, Florin Court Capital is well-positioned to shape the future of algorithmic trading, driving both growth and sustainability in an ever-changing economic landscape.
 
 
+
+
+## References & Further Reading
+
+[1]: Treleaven, P., Galas, M., & Lalchand, V. (2013). ["Algorithmic trading review."](https://www.researchgate.net/publication/262239006_Algorithmic_Trading_Review) *IEEE Computer*, 46(11), 28-35.
+
+[2]: Aldridge, I. (2010). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.ahmetbeyefendi.com/wp-content/uploads/2020/07/High-Frequency-Trading-Irene-Aldridge.pdf) Wiley.
+
+[3]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717) Wiley Finance.
+
+[4]: Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). ["Does Algorithmic Trading Improve Liquidity?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01624.x) *The Review of Financial Studies*, 24(1), 1-41.
+
+[5]: Cartea, Á., Jaimungal, S., & Penalva, J. (2015). ["Algorithmic and High-Frequency Trading."](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) Cambridge University Press.
+
+[6]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[7]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-Frequency Trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) In: *Handbook on Electronic Securities Markets*.

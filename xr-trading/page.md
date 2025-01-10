@@ -194,3 +194,18 @@ As a leader in the algorithmic trading arena, XR Trading exemplifies the potenti
 Readers are encouraged to engage with further materials on XR Trading and explore the rapidly evolving field of algorithmic trading. Understanding the depth and intricacies of XR Trading’s strategies will provide valuable insights into the future trajectory of financial markets influenced by advanced computing technologies. Whether for academic interests or professional pursuits, the study of XR Trading’s methodologies offers a glimpse into the future of finance.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: ["Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies"](https://archive.org/details/algorithmictradi0000john) by Barry Johnson
+
+[3]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
+
+[4]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley.
+
+[5]: Narang, R. (2009). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267738) Wiley.
+
+[6]: ["Principles of Quantitative Equity Investing: A Complete Guide to Creating, Evaluating, and Implementing Trading Strategies"](https://www.amazon.com/Principles-Quantitative-Equity-Investing-Implementing/dp/0134192796) by Sugata Ray

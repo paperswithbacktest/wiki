@@ -3,18 +3,15 @@ title: "Oslo Stock Exchange (Algo Trading)"
 description: "Explore Oslo Børs, the Oslo Stock Exchange, a hub for algorithmic trading and financial innovation under Euronext offering diverse global investment opportunities."
 ---
 
-
-
-
-
 The Oslo Stock Exchange, commonly referred to as Oslo Børs, serves as the central securities market in Norway. Established in 1819, it has developed into a comprehensive platform supporting various financial instruments, including equities, derivatives, and fixed income products. Over the years, the exchange has adapted to the evolving financial landscape, expanding its services and enhancing its capabilities to meet the needs of both local and international investors.
 
 The most significant shift in its modern history came in 2019 when Oslo Børs was acquired by Euronext, a major pan-European exchange group. This acquisition not only increased the exchange's influence on the global stage but also integrated Oslo Børs into a broader network of markets, offering increased access and opportunities for international investors.
 
+![Image](images/1.jpeg)
+
 In recent years, algorithmic trading has taken a prominent role in Oslo Børs' operations. Algorithmic trading refers to the use of computer algorithms to automate trading, executing orders with speed and precision based on predefined parameters. This has significantly contributed to enhancing market efficiency and driving high trading volumes. As a result, Oslo Børs has emerged as a hub for sophisticated trading strategies, attracting both institutional investors and quantitative trading firms.
 
 This article will provide a comprehensive overview of Oslo Børs, examining its historical evolution, technological advancements, and the impact it continues to exert on the financial markets.
-
 
 ## Table of Contents
 
@@ -28,7 +25,6 @@ A pivotal milestone in the history of Oslo Børs was its public listing in 2001.
 
 The acquisition of Oslo Børs by Euronext in 2019 is another significant chapter in its history. This acquisition expanded its market reach and fostered greater integration with European and global financial markets. Under Euronext's umbrella, Oslo Børs has been able to leverage shared infrastructures and technologies, while still maintaining its autonomy in supporting the Norwegian economy. This alliance has bolstered its capabilities to serve as a robust platform for trading diversified financial instruments.
 
-
 ## Market Structure and Segments
 
 The Oslo Stock Exchange, a pivotal component of Norway's financial architecture, is structured to facilitate multiple financial instruments, including equities, fixed income, and derivatives. This diverse infrastructure supports a wide range of investment activities and caters to both established corporations and emerging enterprises.
@@ -41,7 +37,6 @@ The fixed income market segment encompasses bonds and other debt instruments, wh
 
 Through its structured market segments, Oslo Børs effectively addresses diverse investment needs, promoting a healthy financial ecosystem conducive to both national and international economic growth.
 
-
 ## Technology Infrastructure
 
 Oslo Børs employs advanced trading technologies to support its diverse market activities. Central to its technological framework is the Optiq trading platform, which is utilized in collaboration with Euronext. Optiq is known for its high-performance capabilities, allowing Oslo Børs to handle substantial trading volumes efficiently. This platform provides market participants with low-latency connections, which are crucial for high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) and [algorithmic trading](/wiki/algorithmic-trading) strategies. 
@@ -51,7 +46,6 @@ Low-latency connections reduce the time it takes for trade orders to be placed a
 Moreover, Oslo Børs ensures accessibility to real-time market data, an essential resource for traders and analysts. The exchange provides comprehensive [order book](/wiki/order-book-trading-strategies) information and detailed trade data, offering insights into the market's depth and liquidity. This transparency facilitates informed decision-making and enhances market efficiency by allowing participants to analyze trading patterns, study price dynamics, and implement sophisticated trading strategies. 
 
 The robust technology infrastructure of Oslo Børs not only supports current trading activities but also enhances its ability to accommodate future advancements and innovations in trading technology. Being part of the Euronext network allows Oslo Børs to leverage shared technological resources and innovations, thus maintaining its position as a key player in the evolving landscape of global financial markets.
-
 
 ## Algorithmic Trading
 
@@ -71,7 +65,6 @@ The OSE's integration with Euronext further strengthens its capabilities by faci
 
 In conclusion, algorithmic trading has become integral to the functioning of the Oslo Stock Exchange, supporting its role as a hub for efficient and cost-effective trading. Through cutting-edge technology and strategic integration, OSE provides a platform that meets the needs of modern traders, positioning itself as a leader in the algorithmic trading landscape.
 
-
 ## Integration with Euronext
 
 The acquisition of the Oslo Stock Exchange (OSE) by Euronext in 2019 marked a significant milestone, expanding OSE's market reach and facilitating greater operational synergy. This strategic integration enhances the Oslo Børs' access to a broader investor base across Europe and globally, significantly augmenting its visibility and influence.
@@ -84,7 +77,6 @@ Despite the integration with Euronext, OSE maintains its distinct identity and f
 
 In conclusion, the incorporation of OSE into the Euronext family represents a convergence of operational excellence and expanded market opportunities, strengthening its role as a crucial player in the global securities market while remaining committed to its Norwegian roots.
 
-
 ## Conclusion
 
 Oslo Børs, as part of the Euronext group, continues to play a significant role in both the Norwegian and international financial systems. The exchange's commitment to technological advancement underpins its ongoing relevance and capacity for future growth. Its integration with Euronext has not only strengthened its operational capabilities but also expanded its market access, making it more attractive to international investors.
@@ -94,3 +86,15 @@ Algorithmic trading remains a fundamental aspect of Oslo Børs' operations. By e
 Furthermore, Oslo Børs continues to provide a versatile trading environment that caters to both local and foreign investors. It remains dedicated to supporting the Norwegian economy while simultaneously broadening its horizons through global connections. Through its robust technology infrastructure and strategic alliances, Oslo Børs is well-equipped to adapt to the ever-changing landscape of global finance, thereby solidifying its position as a key player in the world of securities trading.
 
 
+
+## References & Further Reading
+
+[1]: Grønstad, Geir A. (2016). ["The Norwegian Securities Market Act: Oslo Børs in Perspective"](https://www.researchgate.net/publication/336190136_Asbjorn_Gronstad_2016_Film_and_the_Ethical_Imagination)
+
+[2]: Euronext. (2019). ["Euronext completes the acquisition of Oslo Børs VPS"](https://www.euronext.com/en/about/media/euronext-press-releases/euronext-completes-acquisition-oslo-bors-vps)
+
+[3]: Narang, Rukeyser. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading"](https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362411)
+
+[4]: Cartea, Álvaro, Jaimungal, Sebastian, & Penalva, José. (2015). ["Algorithmic and High-Frequency Trading"](https://www.amazon.com/Algorithmic-High-Frequency-Trading-Mathematics-Finance/dp/1107091144) 
+
+[5]: Lopez de Prado, Marcos. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)

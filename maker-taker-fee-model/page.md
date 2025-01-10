@@ -128,3 +128,18 @@ Market participants must navigate these complexities, balancing the need for liq
 The ongoing scrutiny of the maker-taker fee model reflects its significant role in shaping modern trading environments. As market participants and regulatory bodies continue to examine its implications, adaptations are likely to emerge. These may include changes in regulatory frameworks aimed at ensuring fair execution and mitigating potential conflicts of interest. The future dynamics of trading environments will depend on the balance between fostering liquidity and addressing ethical considerations, making the maker-taker model a focal point in the evolution of market structures.
 
 
+
+
+## References & Further Reading
+
+[1]: Angel, J. J., Harris, L. E., & Spatt, C. S. (2010). ["Equity Trading in the 21st Century."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1584026) The Journal of Finance, 55(2), 577-616.
+
+[2]: Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). ["Does Algorithmic Trading Improve Liquidity?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01624.x) The Review of Financial Studies, 24(5), 1594-1624.
+
+[3]: Battalio, R., Hatch, B., & Jennings, R. (2004). ["All Else Equal? A Multidimensional Analysis of Retail, Market Order Execution Quality"](https://www.sciencedirect.com/science/article/abs/pii/S1386418102000435) The Financial Review, 39(2), 141-171.
+
+[4]: [Options, Futures, and Other Derivatives](https://www.amazon.com/Options-Futures-Other-Derivatives-Global/dp/1292410655) by John C. Hull
+
+[5]: Hasbrouck, J. & Saar, G. (2013). ["Low-latency trading."](https://www.sciencedirect.com/science/article/abs/pii/S1386418113000165) The Review of Financial Studies, 26(9), 2955-2995.
+
+[6]: Securities and Exchange Commission (SEC). (2018). ["Transaction Fee Pilot for NMS Stocks"](https://www.sec.gov/rules-regulations/2018/12/transaction-fee-pilot-nms-stocks). U.S. Securities and Exchange Commission.

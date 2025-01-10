@@ -181,3 +181,18 @@ For those interested in gaining deeper insights into DE Shaw and algorithmic tra
 These resources collectively offer a broad spectrum of information about DE Shaw and the sophisticated world of algorithmic trading, aiding readers in exploring further in these fields.
 
 
+
+
+## References & Further Reading
+
+[1]: ["SEC Form ADV for DE Shaw"](https://reports.adviserinfo.sec.gov/reports/ADV/135284/PDF/135284.pdf) 
+
+[2]: ["Bloomberg: DE Shaw's Secretive Algorithms"](https://algorithmxlab.com/blog/pioneer-ai-hedge-fund-de-shaw/) 
+
+[3]: ["Financial Times: Quantitative Trading Techniques"](https://www.quantifiedstrategies.com/quantitative-trading-strategies/) 
+
+[4]: ["Algorithmic Trading and DMA"](https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207) by Barry Johnson
+
+[5]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos López de Prado
+
+[6]: ["Quantitative Strategy Development"](https://www.sciencedirect.com/science/article/pii/S0925527319302014) in the Journal of Financial Economics

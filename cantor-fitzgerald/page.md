@@ -87,3 +87,18 @@ The evolving nature of global financial systems calls for precision, innovation,
 As trading environments become more complex, Cantor Fitzgerald's forward-thinking strategies position the firm at the forefront of technology and market adaptability. By allowing for the integration of cross-asset frameworks and fostering a culture of continuous enhancement, Cantor ensures that its algorithms not only meet today’s requirements but are also prepared for future developments. This strategic foresight and unwavering commitment to excellence guarantee that Cantor's algorithmic trading solutions continue to serve as industry benchmarks.
 
 
+
+
+## References & Further Reading
+
+[1]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management."](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management) Academic Press.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[3]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[4]: "Algorithmic Trading in Practice" by Dr. Prakash G. Apte, Prof. Sachin Modi, and others. [Link to Publication](https://www.researchgate.net/publication/327686663_Algorithmic_trading_in_practice).
+
+[5]: Dourra, H., & Siy, P. (2002). ["Investment using technical analysis and fuzzy logic."](https://www.sciencedirect.com/science/article/pii/S0165011401001695) Expert Systems, 19(3), 146-155.
+
+[6]: Chaboud, A. P., Chiquoine, B., Hjalmarsson, E., & Vega, C. (2014). ["Rise of the Machines: Algorithmic Trading in the Foreign Exchange Market."](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12186) The Review of Financial Studies, 27(9), 2267-2306.

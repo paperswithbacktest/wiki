@@ -128,3 +128,20 @@ One of the distinguishing factors of Ansatz Capital is its commitment to collabo
 As the firm continues to grow, it remains steadfast in pioneering new frontiers within quantitative trading. By consistently investing in technological advancements, Ansatz Capital is poised to maintain its leadership in algorithmic trading, offering groundbreaking solutions that challenge traditional market paradigms. This forward-looking approach not only benefits the firm but also contributes to the broader evolution of financial markets, impacting how they operate on a fundamental level.
 
 
+
+
+## References & Further Reading
+
+[1]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) by Ernest P. Chan
+
+[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+
+[4]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale-ebook/dp/B00CY5HC0U) by Ernie Chan
+
+[5]: ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) by Stefan Jansen
+
+[6]: Biais, B., Foucault, T., & Moinas, S. (2015). ["Equilibrium High-Frequency Trading"](https://www.sciencedirect.com/science/article/abs/pii/S0304405X15000288). Journal of Financial Economics, 116(2), 292-313.
+
+[7]: Hasbrouck, J., & Saar, G. (2013). ["Low-Latency Trading"](https://www.sciencedirect.com/science/article/abs/pii/S1386418113000165). The Quarterly Journal of Economics, 131(1), 223-265.

@@ -96,3 +96,20 @@ The success of Rokos Capital Management underscores wider implications for the f
 In conclusion, Rokos Capital Management's commitment to continuously integrating technology into their trading approach exemplifies a forward-thinking attitude. Their proactive stance not only positions them as a leader in algorithmic trading but also highlights the necessity for ongoing innovation to sustain a competitive edge in the ever-evolving financial landscape. As the industry progresses, further research and development in algorithmic trading will likely uncover new opportunities, solidifying technology's role as a transformative force in investment management.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems,"](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) 2nd Edition. Wiley.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[3]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[4]: Narang, R. K. (2013). ["Inside the Black Box: The Simple Truth About Quantitative Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118267738) Wiley.
+
+[5]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing.
+
+[6]: Kissell, R. (2013). ["The Science of Algorithmic Trading and Portfolio Management."](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management) Academic Press.
+
+[7]: Engle, R. (2000). ["The Econometrics of Ultra-High-Frequency Data."](https://www.jstor.org/stable/2999473) The Review of Financial Studies, 1(1), 5-29.

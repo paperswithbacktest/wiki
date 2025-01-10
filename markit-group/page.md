@@ -81,3 +81,16 @@ As technology progresses, the role of data in algorithmic trading continues to e
 The landscape of market analytics is rapidly evolving, characterized by an increasing reliance on both real-time data and forward-looking insights. As the financial markets of the future become more data-driven, businesses that recognize and adapt to this shift will maintain competitive advantages. Leveraging Markit's offerings can empower these businesses to harness the full potential of financial analytics in strategic decision-making and operational improvements. As such, embracing Markit's innovative data solutions can be pivotal for businesses aiming to stay ahead in today's fast-paced financial environment.
 
 
+
+
+## References & Further Reading
+
+[1]: ["The Data Revolution and the Global Arbitrage Opportunity"](https://www.nortonrosefulbright.com/en/knowledge/publications/c93235b5/the-future-of-arbitration-in-the-world-of-big-data) by IHS Markit
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley.
+
+[3]: Pring, M. J. (1991). ["Technical Analysis Explained: The Successful Investor's Guide to Spotting Investment Trends and Turning Points"](https://archive.org/details/technicalanalysi00prin). McGraw-Hill Education.
+
+[4]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.
+
+[5]: Aronson, D. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315). Wiley.

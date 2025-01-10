@@ -88,3 +88,16 @@ As financial markets continue to transform, Akuna remains adept in adapting to t
 For professionals aiming to make a significant impact in trading, Akuna Capital presents a prime opportunity. It not only offers a robust platform for innovation but also encourages growth and development within its workforce. Through its global reach and commitment to pushing the boundaries of trading technology, Akuna fosters an environment where individuals can harness their skills and contribute to the future of algorithmic trading.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley Finance.
+
+[2]: Vasileiou, E., Hasan, M. S., & Smyth, R. (2019). ["The impact of algorithmic trading on market quality: Evidence from emerging markets."](https://www.sciencedirect.com/science/article/abs/pii/S0378426618303807) Journal of Banking & Finance.
+
+[3]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362411) Wiley Finance.
+
+[4]: Mitrache, A., & Voicu, M.-C. (2018). ["Algorithmic Trading and High-Frequency Trading: A Literature Review."](https://www.econstor.eu/bitstream/10419/144690/1/860290824.pdf) Procedia Computer Science.
+
+[5]: Cumming, D. J., & Johan, S. A. (2017). ["Global Algorithmic Capital Markets: High Frequency Trading, Dark Pools, and Regulatory Challenges."](https://academic.oup.com/book/27407) Academic Press.

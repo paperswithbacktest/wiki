@@ -189,3 +189,19 @@ Staying informed about market developments, technological advancements, and regu
 For those interested in exploring the possibilities of algorithmic trading or seeking to refine existing strategies, visiting the Sunrise Futures website can provide valuable resources and insights. Engaging with their team can also offer tailored advice and support, facilitating a smoother transition into the world of automated trading systems.
 
 
+
+
+## References & Further Reading
+
+[1]: Aldridge, I. (2013). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://www.amazon.com/High-Frequency-Trading-Practical-Algorithmic-Strategies/dp/1118343506) Wiley.
+
+[2]: Cartea, Á., Jaimungal, S., & Penalva, J. (2015). ["Algorithmic and High-Frequency Trading."](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) Cambridge University Press.
+
+[3]: Kaufman, P. J. (2013). ["Trading Systems and Methods."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202561) Wiley.
+
+[4]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717) Wiley Finance.
+
+[5]: Treleaven, P., Galas, M., & Lalchand, V. (2013). ["Algorithmic trading review."](https://www.researchgate.net/publication/262239006_Algorithmic_Trading_Review) Communications of the ACM.
+
+[6]: Peters, E. E. (1994). ["Fractal Market Analysis: Applying Chaos Theory to Investment and Economics."](https://archive.org/details/fractalmarketana0000pete) Wiley.
+

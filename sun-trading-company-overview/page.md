@@ -3,16 +3,13 @@ title: "Sun Trading Company Overview (Algo Trading)"
 description: "Discover the world of algorithmic trading with Sun Trading LLC based in Chicago. Learn about its diverse asset management and market-making strategies."
 ---
 
-
-
-
-
 Sun Trading LLC is a prominent name in the world of algorithmic trading. Established in 2003, it has its headquarters in Chicago, Illinois, one of the major financial hubs in the United States. Over the years, Sun Trading has had a significant impact on financial markets, leveraging cutting-edge technology to make trading more efficient and effective.
 
 As a proprietary trading firm, Sun Trading stands out for its diversified approach, engaging in various asset classes across multiple geographies. Its operations span equities, equity options, foreign exchange, fixed income, and futures markets, highlighting the breadth of its market engagement. This diversification not only enhances the firm's trading capabilities but also stabilizes its performance across different market conditions.
 
-This article offers an in-depth overview of Sun Trading's operations, history, and key achievements. The firm's approach to market making and its contributions to the algorithmic trading landscape are explored to understand its role in modern financial markets. Through strategic acquisitions and leadership transitions, Sun Trading has continually adapted to the evolving trading environment, demonstrating resilience and foresight in its business strategies. By examining these aspects, the article aims to provide insights into Sun Trading's influence in high-frequency and quantitative trading domains.
+![Image](images/1.png)
 
+This article offers an in-depth overview of Sun Trading's operations, history, and key achievements. The firm's approach to market making and its contributions to the algorithmic trading landscape are explored to understand its role in modern financial markets. Through strategic acquisitions and leadership transitions, Sun Trading has continually adapted to the evolving trading environment, demonstrating resilience and foresight in its business strategies. By examining these aspects, the article aims to provide insights into Sun Trading's influence in high-frequency and quantitative trading domains.
 
 ## Table of Contents
 
@@ -28,7 +25,6 @@ In 2018, a new chapter in Sun Trading's history began with its acquisition by Hu
 
 This strategic evolution reflected the broader transformations within financial services, where agility and technological prowess became essential for maintaining competitive advantage. By becoming part of Hudson River Trading, Sun Trading ensured the continuation of its legacy within a larger structure, promising ongoing contributions to advancements in trading technology and strategies.
 
-
 ## Leadership and Key Personnel
 
 Jeff Wigley, the founder of Sun Trading LLC, has been instrumental in steering the company towards growth and innovation, holding the position of Executive Chairman. His vision and leadership laid the foundation upon which the firm has built its esteemed reputation in [algorithmic trading](/wiki/algorithmic-trading).
@@ -36,7 +32,6 @@ Jeff Wigley, the founder of Sun Trading LLC, has been instrumental in steering t
 The leadership under Bernard Dan, a noteworthy figure in Sun Trading's history, marked a period of significant expansion and enhanced market presence. Bernard Dan, well-known for his prior experience in financial markets, played a pivotal role in steering the firm through evolving market dynamics, helping to refine its trading strategies and expand into new asset classes. His contributions were crucial in positioning Sun Trading as a formidable competitor in the financial sector.
 
 With the transition of leadership from Bernard Dan to Kevin Cuttica, Sun Trading embarked on a new chapter, characterized by a refined focus on global trading strategy development. Kevin Cuttica brought a wealth of experience and forward-thinking strategies that aimed to leverage advanced trading technologies to further strengthen the firm's market-making capabilities. This leadership shift not only underscored the company's commitment to innovation and excellence but also reinforced its strategic direction in the ever-evolving landscape of algorithmic and quantitative trading.
-
 
 ## Algorithmic Trading and Market Making
 
@@ -52,7 +47,6 @@ The use of advanced technology enables the firm to maintain a competitive edge i
 
 In essence, Sun Trading leverages its robust technological infrastructure and innovative trading strategies to excel in algorithmic trading. The firm’s commitment to providing liquidity and enhancing market depth underpins its role in the modern financial ecosystem, contributing to more efficient and transparent markets.
 
-
 ## Impact of the Acquisition by Hudson River Trading
 
 The acquisition of Sun Trading by Hudson River Trading in 2018 marked a pivotal moment in the algorithmic trading industry. This strategic move was designed to enhance capabilities in high-frequency trading (HFT), leveraging the combined strengths of both firms. By integrating Sun Trading's expertise in [market making](/wiki/market-making) and diverse asset classes with Hudson River Trading's robust quantitative trading infrastructure, the merger created a more comprehensive and resilient trading platform.
@@ -63,7 +57,6 @@ The merger facilitated significant advancements in trading technology, notably t
 
 Overall, the acquisition represented a synergistic blend of talents and technologies, driving efficiencies and strategic growth in the high-frequency trading sector. Hudson River Trading's ability to harness Sun Trading's market-making expertise further solidified its presence as a leader in the algorithmic trading domain.
 
-
 ## Conclusion
 
 Sun Trading LLC has carved a notable niche within algorithmic trading, demonstrating significant influence and resilience. Known for its strategic approach in market making and quantitative trading, Sun Trading has helped shape the modern financial landscape. The company's innovations in trading technology, characterized by sophisticated algorithms and enhanced risk management systems, have bolstered liquidity and market depth.
@@ -73,3 +66,19 @@ The acquisition by Hudson River Trading in 2018 marked a pivotal transition, all
 As financial services continue to evolve, the technological milestones achieved by Sun Trading remain critical. Its contributions to the development of algorithmic trading strategies have not only facilitated increased market efficiency but also set a precedent for future innovations in the field. Through sustained excellence in technology and market engagement, Sun Trading continues to be a vital component of Hudson River Trading's success and the broader financial ecosystem.
 
 
+
+## References & Further Reading
+
+[1]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+
+[2]: Aldridge, I. (2010). ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119203803) Wiley Finance.
+
+[3]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+
+[4]: Narang, R. K. (2013). ["Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118662717) Wiley.
+
+[5]: Derman, E. (2012). ["Models.Behaving.Badly: Why Confusing Illusion with Reality Can Lead to Disaster, on Wall Street and in Life."](https://www.amazon.com/Models-Behaving-Badly-Confusing-Illusion-Reality-Disaster/dp/1439164991) Free Press.
+
+[6]: ["High-Frequency Trading and Dark Pools: The Complexity of Modern Markets"](https://www.amazon.com/High-Frequency-Trading-Dark-Pools-Complexity-ebook/dp/B0CC6G1BWD) - Investopedia Article.
+
+[7]: Mackenzie, D. (2021). ["Trading at the Speed of Light: How Ultrafast Algorithms Are Transforming Financial Markets."](https://www.amazon.com/Trading-Speed-Light-Algorithms-Transforming/dp/0691211388) Princeton University Press.
