@@ -5,6 +5,8 @@ description: "Discover the journey of Andrei Pastor from theoretical physics to 
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Andrei Pastor was born and raised in the vicinity of St. Petersburg, Russia. His early fascination with the natural sciences led him to pursue a Bachelor of Science in Physics at Saint Petersburg State University, where he attended from 1991 to 1995. This foundational education set the stage for his long-standing interest in theoretical physics and later financial markets.
@@ -21,7 +23,7 @@ Andrei Pastor's professional voyage began on the trading floors of financial gia
 
 ### Transition to Quantitative and High-Frequency Trading
 
-Pastor transitioned to Nico Holdings LLC in March 2009, where he took on the role of Fixed Income Portfolio Manager. Over the course of his tenure, which lasted until March 2010, he implemented fixed income RV (relative value) strategies and engaged in treasury basis and behavioral modeling. His ability to integrate quantitative assessments with trading strategies increased his stature in the realm of high-frequency trading (HFT).
+Pastor transitioned to Nico Holdings LLC in March 2009, where he took on the role of Fixed Income Portfolio Manager. Over the [course](/wiki/best-algorithmic-trading-courses) of his tenure, which lasted until March 2010, he implemented fixed income RV (relative value) strategies and engaged in treasury basis and behavioral modeling. His ability to integrate quantitative assessments with trading strategies increased his stature in the realm of high-frequency trading (HFT).
 
 Continuing on this path, he joined Buttonwood Group Trading, LLC, in March 2010 as a Fixed Income Portfolio Manager. With a focus on high-frequency trading across multiple asset classes, he predominantly concentrated on fixed income markets. His strategic insights and ability to rapidly analyze market data further solidified his reputation as a proficient [HFT](/wiki/high-frequency-trading-strategies) strategist during his two-year stint at Buttonwood.
 

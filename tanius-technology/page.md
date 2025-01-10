@@ -19,7 +19,7 @@ The subsequent sections of this article will delve into the specifics of Tanius 
 
 ## What is Algorithmic Trading?
 
-Algorithmic trading is a method of executing trades using pre-programmed instructions that account for variables such as price, timing, and volume. Unlike traditional trading methods, which rely heavily on the discretion and intuition of human traders, algorithmic trading utilizes automated processes to increase efficiency and accuracy. 
+Algorithmic trading is a method of executing trades using pre-programmed instructions that account for variables such as price, timing, and [volume](/wiki/volume-trading-strategy). Unlike traditional trading methods, which rely heavily on the discretion and intuition of human traders, algorithmic trading utilizes automated processes to increase efficiency and accuracy. 
 
 Algorithms employed in trading can be categorized into several types, each designed to exploit different market conditions. Trend-following algorithms, for instance, identify and trade in the direction of enduring market trends. These algorithms often use techniques such as moving averages to predict future price movements. Arbitrage algorithms take advantage of price discrepancies between different markets or instruments by executing simultaneous trades to achieve risk-free profits. Market-making algorithms provide [liquidity](/wiki/liquidity-risk-premium) to the markets by continuously placing buy and sell orders, capturing the spread between the bid and ask prices while managing inventory risk.
 

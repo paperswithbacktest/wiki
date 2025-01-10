@@ -5,6 +5,8 @@ description: "Discover the career and expertise of Srikanth Veluvolu a seasoned 
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Srikanth Veluvolu was born and raised in the United States. He attended Kinnelon High School, where he completed his secondary education in 2007. Following his passion for science and technology, he pursued a Bachelor's degree in Engineering Physics and Computer Science at the prestigious University of Michigan. During his time at the university, from 2007 to 2011, Veluvolu honed his skills in programming languages such as C, Fortran 77, and Fortran 90, focusing on memory and I/O optimization. He notably contributed to rebuilding a simulation software package for the Chandra X-ray Observatory, showcasing his technical expertise and dedication to research.
@@ -17,7 +19,7 @@ Veluvolu's professional journey began even before he graduated from university. 
 
 ### JPMorgan Chase & Co. (2011 - 2015; 2019 - 2021)
 
-Srikanth Veluvolu returned to JPMorgan Chase after completing his undergraduate studies, initially serving as a Technology Analyst for Fixed Income Analytics from July 2011 to July 2013. In this role, he developed a deep understanding of fixed income markets and honed his quantitative skills. He later transitioned to the role of Quantitative Developer in the US Fixed Income Research team, focusing on cash and rates derivatives. His experience at JPMorgan provided him with a solid foundation in derivatives and fixed income, key areas of expertise that he would carry forward in his career.
+Srikanth Veluvolu returned to JPMorgan Chase after completing his undergraduate studies, initially serving as a Technology Analyst for Fixed Income Analytics from July 2011 to July 2013. In this role, he developed a deep understanding of fixed income markets and honed his quantitative skills. He later transitioned to the role of Quantitative Developer in the US Fixed Income Research team, focusing on cash and rates derivatives. His experience at JPMorgan provided him with a solid foundation in derivatives and fixed income, key areas of expertise that he would [carry](/wiki/carry-trading) forward in his career.
 
 In March 2019, Veluvolu rejoined JPMorgan Chase & Co. as an Architect and Quantitative Developer, working in New York. Over the next year and a half, he was deeply involved in developing and integrating data, technologies, and quantitative methodologies to advance systematic research into global rates and macro markets. From November 2020 to August 2021, Veluvolu took on the role of AI Research Engineer at JPMorgan, where he focused on pioneering novel applications of AI in finance, further expanding his expertise in cutting-edge financial technologies.
 

@@ -3,13 +3,11 @@ title: "Nasdaq-100 Index Overview (Algo Trading)"
 description: "Explore the NASDAQ-100 Index a key benchmark of 100 top non-financial tech-driven companies shaping innovation and growth in the U.S. and globally."
 ---
 
-
-
-
-
 The NASDAQ-100 Index is a pivotal component of the United States stock market, serving as a benchmark for the technology industry and other leading non-financial sectors. Established in January 1985 by the NASDAQ stock exchange, the index comprises 100 of the largest non-financial companies listed on NASDAQ, encapsulating industries such as technology, telecommunications, and biotechnology. These sectors are collectively key players in charting the direction of technological advancement and innovation.
 
 The NASDAQ-100 is structured as a modified-capitalization-weighted index. This means that while the market capitalization of the companies influences their weight in the index, modifications are applied to prevent any single company from exerting undue influence. The formula for calculating the index value can be expressed as:
+
+![Image](images/1.png)
 
 $$
 \text{Index Value} = \frac{\sum_{i=1}^{N} ( \text{Weight}_i \times \text{Price}_i )}{\text{Divisor}}
@@ -20,7 +18,6 @@ where $\text{Weight}_i$ is the modified weight of the company $i$, $\text{Price}
 While the NASDAQ-100 focuses specifically on the top non-financial companies, the Nasdaq Composite Index represents a broader swath of the market. The latter includes all domestic and international stocks listed on the NASDAQ stock exchange, totaling over 3,000 companies. Hence, while both indices may share some common constituents, the NASDAQ-100 provides targeted exposure to some of the most innovative and influential firms within the technology-centric sectors, making it uniquely efficient for investors seeking growth opportunities in these areas.
 
 In summary, the NASDAQ-100 Index not only plays a crucial role in mirroring the performance of dominant, innovation-driven companies within the US stock market, but it also provides insights into economic shifts across its major constituent industries. Its distinct modified-capitalization-weighted structure differentiates it from other indices and underscores its emphasis on market stability and growth potential.
-
 
 ## Table of Contents
 
@@ -34,7 +31,6 @@ Adjustments in the base price and annual modifications for options trading have 
 
 By accommodating an increasingly diverse pool of companies and maintaining rigorous standards, the NASDAQ-100 has sustained its prominence as a key gauge of market trends and technological advancement within the U.S. and beyond.
 
-
 ## Composition and Key Components
 
 The NASDAQ-100 Index is primarily composed of 100 of the largest non-financial companies listed on the NASDAQ Stock Market. The selection criteria for companies to be included in the NASDAQ-100 are rooted in market capitalization. Companies must be listed exclusively on NASDAQ, which means that they are required to meet NASDAQ's high standards of governance and financial viability. Importantly, companies should be non-financial, which excludes entities like banks, investment companies, and insurance companies.
@@ -44,7 +40,6 @@ The industries prominently represented in the NASDAQ-100 Index include technolog
 The NASDAQ-100 is also notable for its inclusion of international companies, which adds a global dimension to the Index. This inclusion allows the NASDAQ-100 to capture some of the top-performing multinational corporations that contribute significantly to technological advancements worldwide. The presence of international companies in the Index underscores the global interconnectedness of technology markets and enables investors to gain exposure to non-US markets, thus providing a more diversified portfolio.
 
 Overall, the composition of the NASDAQ-100 Index reflects a strategic aggregation of high-growth, highly influential companies that are shaping the future of many industries through innovation and technology.
-
 
 ## NASDAQ-100 Index Products
 
@@ -79,7 +74,6 @@ $$
 This characteristic makes them attractive for investors looking to manage investment risks effectively. Additionally, these options are utilized by portfolio managers to replicate the performance of the NASDAQ-100 Index, contributing to efficient fund management.
 
 In conclusion, the NASDAQ-100 Index Products cater to a diverse range of investor needs, from tactical trading to comprehensive risk management strategies. By providing broad exposure to major technology-driven companies while offering robust financial instruments, these products play a critical role in modern investment portfolios.
-
 
 ## Algo Trading and the NASDAQ-100
 
@@ -123,7 +117,6 @@ Several algorithmic trading strategies are employed within the NASDAQ-100:
 
 Overall, algorithmic trading strategies have transformed the trading landscape of the NASDAQ-100, enhancing efficiency and contributing to more liquid and orderly markets. As technology evolves, further integration of [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) in algorithmic strategies is expected, continually influencing trading dynamics within this prominent index.
 
-
 ## Annual Rebalancing and Market Dynamics
 
 The NASDAQ-100 Index undergoes an annual rebalancing process each December to ensure that it accurately represents the performance of its constituent companies and maintains its modified-capitalization-weighted structure. This rebalancing is crucial for aligning the index with the current market conditions and the eligibility criteria for the companies it includes.
@@ -150,7 +143,6 @@ Financial viability is also assessed, with companies required to meet certain fi
 
 In summary, the annual rebalancing of the NASDAQ-100 Index serves as a corrective measure to maintain fairness and accurately represent the technology-driven and innovative companies dominating the index. The process influences market dynamics, affecting both liquidity and volatility, which investors must be prepared to manage.
 
-
 ## Conclusion
 
 The NASDAQ-100 Index holds a prominent position in the US stock market, representing a comprehensive collection of the largest non-financial companies, predominantly from the technology sector. As a leading benchmark, it provides a lens through which investors can gauge the performance of technology-driven enterprises at both national and international levels.
@@ -160,9 +152,6 @@ The future trajectory of the NASDAQ-100 is closely intertwined with the continue
 Algorithmic trading is becoming an indispensable tool in handling the voluminous data and fast-paced trading activities integral to technology stocks. The automation of trade executions allows for efficiency and speed that are unattainable through manual means. Algorithmic trading strategies, such as statistical [arbitrage](/wiki/arbitrage), [momentum](/wiki/momentum) trading, and machine learning models, will likely continue to evolve and adapt, thereby enhancing trading precision and market liquidity for the NASDAQ-100 constituents.
 
 In conclusion, the NASDAQ-100 Index is not just a metric but a cornerstone in shaping investment strategies. Its influence extends to portfolio diversification, risk management, and capital allocation, particularly among investors articulating a technology-centric investment philosophy. As technology and trading methodologies advance, the NASDAQ-100's relevance and impact on investment strategies are poised to broaden, ensuring its position as a pivotal element of the US stock market landscape.
-
-
-
 
 ## References & Further Reading
 

@@ -5,6 +5,8 @@ description: "Discover Gourav Vohra's journey from Queens College graduate to a 
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Gourav Vohra is an experienced system and network administrator based in the New York City Metropolitan Area. He pursued his higher education at Queens College, where he earned a Bachelor of Science (B.S.) degree in Computer Science. This educational foundation paved the way for a successful career in information technology, particularly within the complex and demanding environment of the investment management industry.
@@ -19,7 +21,7 @@ Following this, Vohra took on the position of System Administrator at Fischer Fr
 
 ### Renaissance Technologies LLC
 
-In a significant career milestone, Gourav joined Renaissance Technologies LLC in July 2007 as a Systems Administrator. Over the course of nearly 12 years, he immersed himself in the intricacies of system administration within one of the most renowned quantitative hedge funds in the world. His role involved managing complex IT infrastructures and ensuring seamless operations, which bolstered his reputation as a competent and reliable IT professional.
+In a significant career milestone, Gourav joined Renaissance Technologies LLC in July 2007 as a Systems Administrator. Over the [course](/wiki/best-algorithmic-trading-courses) of nearly 12 years, he immersed himself in the intricacies of system administration within one of the most renowned quantitative hedge funds in the world. His role involved managing complex IT infrastructures and ensuring seamless operations, which bolstered his reputation as a competent and reliable IT professional.
 
 ### Transition to Platform and Network Engineering
 

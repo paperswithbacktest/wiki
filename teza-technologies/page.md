@@ -19,7 +19,7 @@ Ultimately, this exploration will provide insights into the critical aspects tha
 
 ## What is Algorithmic Trading?
 
-Algorithmic trading is a method of executing trades using pre-programmed computer strategies that leverage mathematical models and algorithms to make decisions in financial markets. This approach allows traders to carry out transactions at speeds and frequencies that would be impossible for human traders, enhancing market efficiency.
+Algorithmic trading is a method of executing trades using pre-programmed computer strategies that leverage mathematical models and algorithms to make decisions in financial markets. This approach allows traders to [carry](/wiki/carry-trading) out transactions at speeds and frequencies that would be impossible for human traders, enhancing market efficiency.
 
 The implementation of [algorithmic trading](/wiki/algorithmic-trading) provides numerous benefits. One of the most significant advantages is efficiency. Algorithms can analyze market conditions in real-time, identify trading opportunities, and execute trades almost instantaneously. This leads to better utilization of time and resources. Additionally, algorithmic trading is known for its precision. By eliminating human emotions and biases, it ensures systematic trading based entirely on quantitative data and predefined criteria. This precision not only enhances decision-making but also reduces the risk of errors. Furthermore, algorithmic trading can lower transaction costs. By optimizing the timing and price of trades, algorithms can minimize slippage and secure favorable pricing, thereby increasing profitability.
 

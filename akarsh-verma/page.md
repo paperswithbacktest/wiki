@@ -5,6 +5,8 @@ description: "Discover the journey of Akarsh Verma a software engineer in NYC wi
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Akarsh Verma was born and raised in New York, New York, United States. He began his academic journey at Skyline High School, completing his high school education there from 2012 to 2014. His pursuit of knowledge led him to attend the Harvard Extension School in 2014, where he took courses in Introductory Neurology and Physics. Akarsh then furthered his education at Bonn International School in Germany, earning his high school diploma from 2014 to 2016.

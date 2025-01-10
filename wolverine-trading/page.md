@@ -19,7 +19,7 @@ This article aims to explore the landscape of algorithmic trading through the le
 
 ## Understanding Algo Trading
 
-Algorithmic trading, often referred to as algo trading, is a method of executing trades using automated and pre-programmed trading instructions to account for variables such as timing, price, and volume. This technological approach to trading leverages computational algorithms to analyze data and execute orders faster and more efficiently than human traders.
+Algorithmic trading, often referred to as algo trading, is a method of executing trades using automated and pre-programmed trading instructions to account for variables such as timing, price, and [volume](/wiki/volume-trading-strategy). This technological approach to trading leverages computational algorithms to analyze data and execute orders faster and more efficiently than human traders.
 
 The evolution of [algorithmic trading](/wiki/algorithmic-trading) can be traced back to the late 1970s and early 1980s, when electronic exchanges began to emerge. Initially, algorithms were primarily used for executing straightforward tasks such as order routing and high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)). As technology progressed, so did the complexity and capabilities of these algorithms. By the 1990s, the industry witnessed a significant leap with the introduction of more sophisticated strategies that incorporated statistical [arbitrage](/wiki/arbitrage) and market-making techniques.
 

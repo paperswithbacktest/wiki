@@ -5,6 +5,8 @@ description: "Explore the inspiring journey of Oli Atlason an Icelandic quantita
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Oli Atlason was born and raised in Iceland, where he developed an early passion for mathematics and analytical thinking. During his formative years, he attended Verzlunarskóli Íslands, a prestigious secondary school in Iceland, known for its strong emphasis on business and economics. His academic prowess in mathematics was evident from a young age, setting the stage for his future career in quantitative research and finance.
@@ -21,7 +23,7 @@ In 1999, Atlason had also served as a summer analyst at FBA - Fjárfestingarbank
 
 ## Career in Finance
 
-Following his academic accomplishments, Oli Atlason transitioned into the finance sector, where he built a notable career on the backbone of his statistical expertise. In 2007, he joined Goldman Sachs as a Summer Associate, a role that introduced him to the intricacies of quantitative and algorithmic trading. This experience led to his subsequent full-time position at Goldman Sachs as Vice President from September 2008 to October 2011. During his tenure, Atlason specialized in quantitative and algorithmic trading in interest rate products, leveraging his robust analytical skills to navigate complex financial markets.
+Following his academic accomplishments, Oli Atlason transitioned into the finance sector, where he built a notable career on the backbone of his statistical expertise. In 2007, he joined Goldman Sachs as a Summer Associate, a role that introduced him to the intricacies of quantitative and [algorithmic trading](/wiki/algorithmic-trading). This experience led to his subsequent full-time position at Goldman Sachs as Vice President from September 2008 to October 2011. During his tenure, Atlason specialized in quantitative and algorithmic trading in [interest rate](/wiki/interest-rate-trading-strategies) products, leveraging his robust analytical skills to navigate complex financial markets.
 
 In November 2011, Atlason moved to Tower Research Capital, a prominent proprietary trading firm in New York. As a Quantitative Trader, he spent nearly six years honing his trading strategies and contributing to the firm's success in [quantitative trading](/wiki/quantitative-trading). His work at Tower Research Capital focused on developing and implementing algorithmic trading models, a role that capitalized on his in-depth knowledge of stochastic processes and statistical inference.
 

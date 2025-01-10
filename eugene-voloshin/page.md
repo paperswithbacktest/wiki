@@ -5,6 +5,8 @@ description: "Eugene Voloshin is a trading expert with over a decade of experien
 
 
 
+## Table of Contents
+
 ## Eugene Voloshin
 
 Eugene Voloshin is a seasoned professional in the trading industry, known for his expertise in quantitative analysis, algorithmic trading, and DevOps engineering. With a career spanning over a decade, Voloshin has made significant contributions to the field through his work with prominent trading firms and his strong academic foundation in finance.
@@ -21,11 +23,11 @@ Voloshin's career began in 2010 at PRGX/Walgreens Co, where he worked as a Tempo
 
 #### Creation Technologies, Inc
 
-In July 2010, Voloshin joined Creation Technologies, Inc as an Accounting Intern. Over the course of four months, he excelled in using Made2Manage business software to perform accounts payable and receivable duties. He mastered accounting processes, resolved discrepancies, and participated in converting the business system to Oracle. This position further honed his skills in financial management and integrated business software.
+In July 2010, Voloshin joined Creation Technologies, Inc as an Accounting Intern. Over the [course](/wiki/best-algorithmic-trading-courses) of four months, he excelled in using Made2Manage business software to perform accounts payable and receivable duties. He mastered accounting processes, resolved discrepancies, and participated in converting the business system to Oracle. This position further honed his skills in financial management and integrated business software.
 
 #### X-Pat Trading LLC (part of HTG Capital Partners)
 
-Voloshin transitioned into the trading industry with X-Pat Trading LLC, part of HTG Capital Partners, as a Quantitative Trading Analyst/Trader in October 2010. For two years, he focused on FX algorithmic trading and treasury basis trades. He played a crucial role in setting up and testing [momentum](/wiki/momentum) algorithms in the energy sector and implemented risk controls for various trades. His work involved close collaboration with programmers to improve trading strategies and software, showcasing his ability to bridge finance and technology.
+Voloshin transitioned into the trading industry with X-Pat Trading LLC, part of HTG Capital Partners, as a Quantitative Trading Analyst/Trader in October 2010. For two years, he focused on [FX](/wiki/fx-anomaly) [algorithmic trading](/wiki/algorithmic-trading) and treasury basis trades. He played a crucial role in setting up and testing [momentum](/wiki/momentum) algorithms in the energy sector and implemented risk controls for various trades. His work involved close collaboration with programmers to improve trading strategies and software, showcasing his ability to bridge finance and technology.
 
 #### CGTA (part of HTG Capital Partners)
 

@@ -5,6 +5,8 @@ description: "Discover the journey of Petr Vytřas from a mathematical prodigy i
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Petr Vytřas was born in the Czech Republic and demonstrated an early aptitude for mathematics and analytical thinking. His academic journey began at the Czech Technical University in Prague, where he pursued studies at the Faculty of Nuclear Sciences and Physical Engineering. Vytřas earned his Master of Science (MSc) degree in Mathematics in 2002, marking the beginning of a distinguished academic and professional career.
@@ -25,7 +27,7 @@ In August 2007, Vytřas transitioned to a role as a Risk Management Analyst at t
 
 ### Transition to Quantitative Analysis
 
-Building on his experience in risk management, Vytřas shifted his career focus to quantitative analysis, a field that combines his mathematical background with growing industry demand for data-driven decision-making. In May 2014, he joined RSJ Algorithmic Trading as a Quantitative Analyst. Over the course of three years and six months, he contributed to developing sophisticated trading strategies and algorithms, leveraging his knowledge of statistics and data analysis.
+Building on his experience in risk management, Vytřas shifted his career focus to quantitative analysis, a field that combines his mathematical background with growing industry demand for data-driven decision-making. In May 2014, he joined RSJ Algorithmic Trading as a Quantitative Analyst. Over the [course](/wiki/best-algorithmic-trading-courses) of three years and six months, he contributed to developing sophisticated trading strategies and algorithms, leveraging his knowledge of [statistics](/wiki/bayesian-statistics) and data analysis.
 
 His journey continued at Tanius Technology, LLC in London, United Kingdom, where he served as a Quantitative Analyst from March 2018 to August 2021. There, Vytřas was instrumental in driving technology-driven financial solutions, particularly in the realm of quantitative analysis.
 

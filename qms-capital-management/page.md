@@ -19,7 +19,7 @@ For stakeholders within the financial sector, an understanding of QMS Capital Ma
 
 ## Understanding Algorithmic Trading
 
-Algorithmic trading, often abbreviated as algo trading, refers to the use of computer programs to execute a series of trades at speeds and frequencies that are impossible for human traders. At its core, algorithmic trading involves the automatic placement of trades in the financial markets based on predefined criteria such as timing, price, or volume. The algorithms analyze the market data using sophisticated mathematical models and execute trades without human intervention.
+Algorithmic trading, often abbreviated as algo trading, refers to the use of computer programs to execute a series of trades at speeds and frequencies that are impossible for human traders. At its core, algorithmic trading involves the automatic placement of trades in the financial markets based on predefined criteria such as timing, price, or [volume](/wiki/volume-trading-strategy). The algorithms analyze the market data using sophisticated mathematical models and execute trades without human intervention.
 
 One distinguishing [factor](/wiki/factor-investing) between algorithmic and traditional trading methods is the absence of human emotions and biases in decision-making. While traditional traders rely on intuition and experience, [algorithmic trading](/wiki/algorithmic-trading) relies on quantitative analytics and computing power. This offers significant advantages, such as the ability to backtest strategies over historical data before deploying them in real-time.
 

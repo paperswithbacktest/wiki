@@ -5,6 +5,8 @@ description: "Explore Dmitry Karpeyev's extensive career in computational scienc
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Dmitry Karpeyev was born and raised in Russia, and his academic journey in mathematics and computer science began at Voronezh State University, where he pursued a Bachelor's degree in Mathematics from 1991 to 1994. He then transitioned to Old Dominion University in the United States to further his studies in applied mathematics, completing a Bachelor's degree between 1994 and 1996. Dmitry continued his academic journey at Old Dominion University, where he earned a Ph.D. in Computer Science from 1996 to 2002. His Ph.D. research focused on the development of symplectic and multisymplectic algorithms for time integration of Hamiltonian partial differential equations (PDEs), foundational work for creating a high-performance library of geometric time integrators.
@@ -27,15 +29,15 @@ In addition, Dmitry worked as an Assistant Computational Mathematician at Argonn
 
 Transitioning to the private sector, Dmitry brought his expertise to various roles within the financial industry. At KCG Holdings, Inc., he developed a scalable distributed trading data ingestion and analytics platform, utilizing languages like C++, Java, and Python.
 
-From 2017 to 2018, Dmitry served as a Financial Engineer and later as a Senior Quantitative Researcher at Balyasny Asset Management L.P., where he specialized in [machine learning](/wiki/machine-learning), systematic strategies, and alternative data modeling. His projects included the development of NLP tagging systems for transaction attribution and building cross-asset systematic trading strategies.
+From 2017 to 2018, Dmitry served as a Financial Engineer and later as a Senior Quantitative Researcher at Balyasny Asset Management L.P., where he specialized in [machine learning](/wiki/machine-learning), systematic strategies, and [alternative data](/wiki/best-alternative-data) modeling. His projects included the development of NLP tagging systems for transaction attribution and building cross-asset systematic trading strategies.
 
-He continued to refine his skills at Port 22, LLC, and DV Trading LLC, where he held senior quantitative research and engineering roles. His work focused on futures and cryptocurrency markets, building end-to-end strategies utilizing statistical analysis, backtesting models, and implementing low-latency trading systems.
+He continued to refine his skills at Port 22, LLC, and DV Trading LLC, where he held senior quantitative research and engineering roles. His work focused on futures and [cryptocurrency](/wiki/cryptocurrency) markets, building end-to-end strategies utilizing statistical analysis, [backtesting](/wiki/backtesting) models, and implementing low-latency trading systems.
 
 ### Recent Endeavors
 
 Dmitry's recent work includes positions at Ghost and 3Red Partners, where he continues to apply his expertise in AI and quantitative analysis to autonomous vehicles and high-frequency trading. As a Quant at 3Red Partners, he focuses on developing strategies for European natural gas curves and short-term [interest rate](/wiki/interest-rate-trading-strategies) swaps (STIRS).
 
-At the University of Chicago Pritzker School of Medicine, Dmitry is a Deep Learning Researcher, collaborating with the data oncology group on quantum computing and multimodal machine learning. His research involves developing deep learning models for genomic and protein data and exploring quantum-enabled models for genomic/transcriptomic data landscapes in cancer research.
+At the University of Chicago Pritzker School of Medicine, Dmitry is a Deep Learning Researcher, collaborating with the data oncology group on quantum computing and multimodal machine learning. His research involves developing [deep learning](/wiki/deep-learning) models for genomic and protein data and exploring quantum-enabled models for genomic/transcriptomic data landscapes in cancer research.
 
 ## Publications and Awards
 

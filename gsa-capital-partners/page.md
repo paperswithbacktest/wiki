@@ -19,7 +19,7 @@ In summary, GSA Capital Partners exemplifies the transformative power of algorit
 
 ## History and Background of GSA Capital Partners
 
-GSA Capital Partners, an esteemed firm in the algorithmic trading industry, was founded in 2005 as a spin-off from Deutsche Bank. It was established by a group of experienced traders and quants who sought to leverage advanced quantitative trading strategies. Initially focusing on statistical arbitrage, GSA Capital quickly carved a niche for itself, capitalizing on market inefficiencies through sophisticated mathematical models and robust technological infrastructure.
+GSA Capital Partners, an esteemed firm in the algorithmic trading industry, was founded in 2005 as a spin-off from Deutsche Bank. It was established by a group of experienced traders and quants who sought to leverage advanced [quantitative trading](/wiki/quantitative-trading) strategies. Initially focusing on statistical arbitrage, GSA Capital quickly carved a niche for itself, capitalizing on market inefficiencies through sophisticated mathematical models and robust technological infrastructure.
 
 In its formative years, GSA Capital Partners laid the foundation for its future success by emphasizing the development of proprietary trading algorithms. The firm's early success was built upon the strength of its [algorithmic trading](/wiki/algorithmic-trading) system, which harnessed large-scale data analysis and fast execution to identify and exploit fleeting market opportunities. This focus on technology and innovation set the stage for the company's rapid growth.
 

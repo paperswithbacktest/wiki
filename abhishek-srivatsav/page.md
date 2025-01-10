@@ -5,6 +5,8 @@ description: "Discover the journey of Abhishek Srivatsav a dynamic trader with e
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Abhishek Srivatsav was born and raised in an environment that valued education and cultural diversity. From an early age, he exhibited a keen interest in mathematics and logical reasoning, which later on became foundational in his career in trading and finance. 
@@ -19,13 +21,13 @@ Abhishek Srivatsav began his professional career in the summer of 2018 when he i
 
 ## Career at Eagle Market Makers, Inc.
 
-In August 2019, Abhishek joined Eagle Market Makers, Inc., based in Chicago, Illinois, as a Proprietary Trader. During his four-year tenure at Eagle Market Makers, he specialized in researching and implementing quantitative trading strategies. His role as a proprietary trader involved making informed trading decisions based on market trends, analyzing data, and managing portfolio risks. Abhishek's skill set in Microsoft Excel and his proficiency in public speaking were crucial in developing and communicating complex trading ideas. He played a significant role in optimizing trading processes and maximizing the firm's financial performance.
+In August 2019, Abhishek joined Eagle Market Makers, Inc., based in Chicago, Illinois, as a Proprietary Trader. During his four-year tenure at Eagle Market Makers, he specialized in researching and implementing [quantitative trading](/wiki/quantitative-trading) strategies. His role as a proprietary trader involved making informed trading decisions based on market trends, analyzing data, and managing portfolio risks. Abhishek's skill set in Microsoft Excel and his proficiency in public speaking were crucial in developing and communicating complex trading ideas. He played a significant role in optimizing trading processes and maximizing the firm's financial performance.
 
 ## Current Role at 3Red Partners
 
-In July 2023, Abhishek Srivatsav advanced his career by joining 3Red Partners as a Trader in the Greater Chicago Area. At 3Red Partners, Abhishek continues to leverage his extensive expertise in trading, focusing on high-frequency and algorithmic trading strategies. His role involves developing innovative trading solutions and contributing to the competitive edge of the firm within the financial markets. 
+In July 2023, Abhishek Srivatsav advanced his career by joining 3Red Partners as a Trader in the Greater Chicago Area. At 3Red Partners, Abhishek continues to leverage his extensive expertise in trading, focusing on high-frequency and [algorithmic trading](/wiki/algorithmic-trading) strategies. His role involves developing innovative trading solutions and contributing to the competitive edge of the firm within the financial markets. 
 
-His strategic insights and decision-making abilities in the fast-paced trading environment are backed by a solid understanding of statistics and economics, enabling him to adeptly handle market fluctuations and capitalize on profitable opportunities.
+His strategic insights and decision-making abilities in the fast-paced trading environment are backed by a solid understanding of [statistics](/wiki/bayesian-statistics) and economics, enabling him to adeptly handle market fluctuations and capitalize on profitable opportunities.
 
 ## Professional Skills and Attributes
 

@@ -5,6 +5,8 @@ description: "Explore Aaron Silberstein's journey from a math enthusiast in Roma
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Aaron Silberstein was born in Romania and developed an early affinity for languages and mathematics. Displaying a natural aptitude for analytical thinking, he pursued his passion for mathematics through formal education. Silberstein completed his undergraduate studies at Princeton University, where he achieved an A.B. in Mathematics and obtained a certificate in Linguistics from 2002 to 2007. His educational pursuits at this prestigious institution laid a solid foundation for his future academic and professional endeavors.
@@ -17,7 +19,7 @@ In 2007, Silberstein embarked on graduate studies at Harvard University, immersi
 
 ### University of Pennsylvania
 
-Silberstein's academic journey continued at the University of Pennsylvania, where he served as the Hans Rademacher Instructor of Mathematics from September 2012 to June 2014. His responsibilities included designing and managing an Inquiry-Based Learning (IBL) calculus course, which aimed to foster critical thinking and enhance problem-solving abilities among students. Simultaneously, Silberstein pursued his research interests, further establishing himself as a scholar with a profound understanding of complex mathematical theories.
+Silberstein's academic journey continued at the University of Pennsylvania, where he served as the Hans Rademacher Instructor of Mathematics from September 2012 to June 2014. His responsibilities included designing and managing an Inquiry-Based Learning (IBL) calculus [course](/wiki/best-algorithmic-trading-courses), which aimed to foster critical thinking and enhance problem-solving abilities among students. Simultaneously, Silberstein pursued his research interests, further establishing himself as a scholar with a profound understanding of complex mathematical theories.
 
 ### University of Chicago
 

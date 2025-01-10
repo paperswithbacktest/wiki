@@ -19,7 +19,7 @@ Through its efforts, Cubist contributes significantly to the broader financial e
 
 Cubist Systematic Strategies is known for its systematic, computer-driven trading strategies that utilize research across a wide spectrum of liquid asset classes. As the quantitative research and trading division of Point72, Cubist employs algorithmic tools and big data analyses to enhance trading performance and optimize financial strategies. By integrating data from a variety of publicly accessible sources, Cubist formulates quantitative strategies aimed at exploiting market inefficiencies.
 
-At the core of Cubist's methodology lies a strong technical foundation combining elements from statistics, computer science, and finance. This multidisciplinary approach is crucial for developing sophisticated trading algorithms capable of responding swiftly to market changes. The field of algorithmic trading often relies on automating the trading process to identify price patterns or trends that might not be visible to the human eye. For instance, the algorithms may include linear regression models to predict future price movements based on historical data:
+At the core of Cubist's methodology lies a strong technical foundation combining elements from [statistics](/wiki/bayesian-statistics), computer science, and finance. This multidisciplinary approach is crucial for developing sophisticated trading algorithms capable of responding swiftly to market changes. The field of algorithmic trading often relies on automating the trading process to identify price patterns or trends that might not be visible to the human eye. For instance, the algorithms may include linear regression models to predict future price movements based on historical data:
 
 ```python
 import numpy as np

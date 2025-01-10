@@ -19,7 +19,7 @@ Vector Trading refers to the process of executing trades through the utilization
 
 Unlike traditional manual trading methods, Vector Trading is capable of processing large volumes of data at exceptional speeds. This efficiency is achieved by leveraging computational power that far surpasses human capability. For instance, algorithms may analyze various indicators such as moving averages, price patterns, and other technical signals to make informed decisions swiftly.
 
-The strategies employed in Vector Trading are crafted to detect opportunities arising from market inefficiencies. These can include price mismatches, arbitrage opportunities, or other anomalies that may be temporarily present in the market. For example, a basic algorithm may look for discrepancies in the prices of a stock across different exchanges and execute trades to profit from the differences.
+The strategies employed in Vector Trading are crafted to detect opportunities arising from market inefficiencies. These can include price mismatches, [arbitrage](/wiki/arbitrage) opportunities, or other anomalies that may be temporarily present in the market. For example, a basic algorithm may look for discrepancies in the prices of a stock across different exchanges and execute trades to profit from the differences.
 
 In Python, a simple model for moving average crossover strategy, which is commonly used in Vector Trading, might look like this:
 

@@ -19,7 +19,7 @@ Overall, Lynx Asset Management exemplifies the transformative power of algorithm
 
 ## Background of Lynx Asset Management
 
-Lynx Asset Management is a distinguished firm in the financial sector, known for its pioneering efforts in algorithmic trading. The firm's foundation traces back to 2000, with its inception in Stockholm, Sweden. The initial years were marked by a strategic focus on developing quantitative trading strategies, leveraging the power of algorithms to navigate the complexities of global financial markets.
+Lynx Asset Management is a distinguished firm in the financial sector, known for its pioneering efforts in algorithmic trading. The firm's foundation traces back to 2000, with its inception in Stockholm, Sweden. The initial years were marked by a strategic focus on developing [quantitative trading](/wiki/quantitative-trading) strategies, leveraging the power of algorithms to navigate the complexities of global financial markets.
 
 One of the key milestones for Lynx Asset Management was its launch of the Lynx Program, which quickly gained a reputation for delivering consistent returns. The program highlighted the firm's capacity to adapt to various market conditions and underscored the importance of diversification in its trading approach. Over the years, Lynx Asset Management has been recognized for its robust performance, particularly during turbulent market periods, further solidifying its status as a leader in the [algorithmic trading](/wiki/algorithmic-trading) landscape.
 

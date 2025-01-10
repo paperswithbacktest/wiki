@@ -5,6 +5,8 @@ description: "Discover the impactful career of George Monogyios a leader in high
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 George Monogyios was born in [birthplace] and developed an interest in finance and technology at an early age. He attended [university name], where he obtained a degree in [field of study]. This academic foundation set the stage for his entry into the financial sector, specifically in the areas of quantitative trading and high-frequency trading.
@@ -27,11 +29,11 @@ Monogyios moved to New York in October 2011 to join Tower Research Capital, a no
 
 ### 3Red Partners
 
-In February 2019, Monogyios was appointed Managing Partner and Head of Trading at 3Red Partners in the Greater Chicago Area. Under his leadership, 3Red Partners has continued to thrive as a pioneering force in modern trading technologies. Monogyios played a pivotal role in directing the company’s trading activities, strategic planning, and risk management, bolstering the firm’s market position. His expertise in market making and strategy development has been integral to 3Red Partners' sustained success.
+In February 2019, Monogyios was appointed Managing Partner and Head of Trading at 3Red Partners in the Greater Chicago Area. Under his leadership, 3Red Partners has continued to thrive as a pioneering force in modern trading technologies. Monogyios played a pivotal role in directing the company’s trading activities, strategic planning, and risk management, bolstering the firm’s market position. His expertise in [market making](/wiki/market-making) and strategy development has been integral to 3Red Partners' sustained success.
 
 ## Skills and Innovations
 
-George Monogyios is reputed for his proficiency in market making and high-frequency trading. His skill set includes developing sophisticated trading strategies and executing them in high-pressure market environments. Monogyios's work has often focused on the integration of technological advancements, such as algorithmic models and artificial intelligence, to facilitate more efficient trading operations.
+George Monogyios is reputed for his proficiency in market making and high-frequency trading. His skill set includes developing sophisticated trading strategies and executing them in high-pressure market environments. Monogyios's work has often focused on the integration of technological advancements, such as algorithmic models and [artificial intelligence](/wiki/ai-artificial-intelligence), to facilitate more efficient trading operations.
 
 Beyond his technical expertise, Monogyios is also recognized for his leadership skills and strategic vision, which have both been critical in steering trading teams and managing complex projects across multiple organizations.
 

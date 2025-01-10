@@ -5,6 +5,8 @@ description: "Discover Benjamen Lambert's inspiring career journey from finance 
 
 
 
+## Table of Contents
+
 ## Early Life and Education
 
 Benjamen Lambert, a notable figure in the financial markets and cybersecurity spheres, was born and raised in the St. Louis metropolitan area. His academic journey began at the University of Missouri-Columbia in 2001 and quickly transitioned to Washington University in St. Louis. At Washington University, Lambert pursued a Bachelor of Science degree in Economics, which he completed in 2005. Throughout his academic career, he cultivated a strong foundation in quantitative and analytical skills, which later became instrumental in his career as a financial trader.
@@ -23,7 +25,7 @@ In May 2005, Lambert transitioned to Citi, serving as a CBOE/CME Floor Clerk in 
 
 ### Rise in Algorithmic Trading
 
-Lambert's career took a significant turn when he joined Sun Trading LLC in London and Chicago as an Algorithmic Foreign Exchange Trader from May 2007 to June 2011. Here, he distinguished himself by running and optimizing high-frequency [FX](/wiki/fx-anomaly) trading strategies and managing global FX exposure. Notably, Lambert developed an ETF market-making strategy that elevated him to the position of NYSE Arca Lead Market Maker in two CurrencyShares FX ETFs.
+Lambert's career took a significant turn when he joined Sun Trading LLC in London and Chicago as an Algorithmic Foreign Exchange Trader from May 2007 to June 2011. Here, he distinguished himself by running and optimizing high-frequency [FX](/wiki/fx-anomaly) trading strategies and managing global FX exposure. Notably, Lambert developed an [ETF](/wiki/etf-trading-strategies) market-making strategy that elevated him to the position of NYSE Arca Lead Market Maker in two CurrencyShares FX ETFs.
 
 Following his tenure at Sun Trading, Lambert founded Broad Oak Capital Advisors in Saint Louis, where he served as President from July 2011 to January 2014. He was responsible for designing and executing mid- and high-frequency algorithmic strategies in FX, equity, and derivatives, showcasing his expertise in automated trading systems.
 
@@ -35,7 +37,7 @@ In an impressive career pivot, Lambert joined the Federal Bureau of Investigatio
 
 ### Return to Financial Markets at 3Red Partners
 
-Returning to his roots in algorithmic trading, Lambert joined 3Red Partners in the Greater Chicago Area as an Algorithmic Trader in September 2020. With a focus on energies, agricultural, and [interest rate](/wiki/interest-rate-trading-strategies) derivatives markets, Lambert's role involves running and monitoring trading models, performing simulations, and managing risk. His deep technical knowledge, especially in Python, allows him to analyze and optimize trading strategies, ensuring their profitability and robustness.
+Returning to his roots in [algorithmic trading](/wiki/algorithmic-trading), Lambert joined 3Red Partners in the Greater Chicago Area as an Algorithmic Trader in September 2020. With a focus on energies, agricultural, and [interest rate](/wiki/interest-rate-trading-strategies) derivatives markets, Lambert's role involves running and monitoring trading models, performing simulations, and managing risk. His deep technical knowledge, especially in Python, allows him to analyze and optimize trading strategies, ensuring their profitability and robustness.
 
 ## Certifications and Skills
 
