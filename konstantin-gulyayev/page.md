@@ -21,7 +21,7 @@ Gulyayev's professional career began at JP Morgan Chase Investment Bank, where h
 
 ### Jump Trading
 
-In 2007, Gulyayev joined Jump Trading as a Financial Engineer. Over the next four years, he specialized in high frequency algorithmic trading, a field that utilizes complex algorithms to execute a large number of orders at extremely high speeds. His work at Jump Trading involved designing and implementing trading algorithms that could efficiently process and respond to market data far quicker than traditional trading methods. This role was a pivotal point in his career, establishing his reputation as an expert in algorithmic trading systems.
+In 2007, Gulyayev joined Jump Trading as a Financial Engineer. Over the next four years, he specialized in high frequency [algorithmic trading](/wiki/algorithmic-trading), a field that utilizes complex algorithms to execute a large number of orders at extremely high speeds. His work at Jump Trading involved designing and implementing trading algorithms that could efficiently process and respond to market data far quicker than traditional trading methods. This role was a pivotal point in his career, establishing his reputation as an expert in algorithmic trading systems.
 
 ### Ratel Research LLC
 

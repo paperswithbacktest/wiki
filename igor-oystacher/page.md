@@ -21,7 +21,7 @@ Before founding 3Red Partners, Oystacher gained experience and expertise in trad
 
 ### 3Red Partners
 
-In May 2010, Igor Oystacher established 3Red Partners, a proprietary trading firm based in the Greater Chicago Area. As the Managing Partner and CEO of the firm, Oystacher's leadership and vision have been instrumental in the company's growth and success over the years. Under his guidance, 3Red Partners has become known for its use of cutting-edge technology and algorithmic trading strategies.
+In May 2010, Igor Oystacher established 3Red Partners, a proprietary trading firm based in the Greater Chicago Area. As the Managing Partner and CEO of the firm, Oystacher's leadership and vision have been instrumental in the company's growth and success over the years. Under his guidance, 3Red Partners has become known for its use of cutting-edge technology and [algorithmic trading](/wiki/algorithmic-trading) strategies.
 
 Oystacher's role at 3Red Partners involves overseeing the strategic direction of the firm, managing its operations, and ensuring it remains at the forefront of the trading industry. His expertise in high-frequency trading has been a distinguishing [factor](/wiki/factor-investing) for the firm, enabling it to navigate complex market conditions and maintain a competitive edge. The firm's success can be attributed to its innovative approach, a reflection of Oystacher's forward-thinking leadership.
 

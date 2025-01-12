@@ -21,7 +21,7 @@ Snyder's professional journey began at Cantor Fitzgerald, where he served as an 
 
 ### Goldenberg Hehmeyer LLP
 
-In January 2000, Snyder transitioned to Goldenberg Hehmeyer LLP, working as a Government Treasuries Trader for three years. Here, he gained invaluable experience in fixed-income basis and yield curve trades and executed arbitrage trades for government treasuries in multiple markets. His role involved preparing daily reconciliation statements of trading activity and maintaining market positions, which further honed his analytical abilities and understanding of financial instruments.
+In January 2000, Snyder transitioned to Goldenberg Hehmeyer LLP, working as a Government Treasuries Trader for three years. Here, he gained invaluable experience in fixed-income basis and yield curve trades and executed [arbitrage](/wiki/arbitrage) trades for government treasuries in multiple markets. His role involved preparing daily reconciliation statements of trading activity and maintaining market positions, which further honed his analytical abilities and understanding of financial instruments.
 
 ### Kingstree Trading
 
