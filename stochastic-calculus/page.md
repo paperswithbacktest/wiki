@@ -288,7 +288,7 @@ In summary, the use of stochastic calculus in asset pricing enables practitioner
 
 Risk management stands as a cornerstone of modern finance, and stochastic calculus provides an essential toolkit for understanding and mitigating market risks. Its application allows for the sophisticated modeling of market uncertainties and the precise valuation of complex financial instruments, particularly derivatives.
 
-In the realm of risk management, one of the key applications of stochastic calculus is the quantification and hedging of financial risks. Through the use of stochastic models, risk managers can identify the potential future states of the market and make informed decisions to mitigate risks. For example, the pricing of options, futures, and other derivatives often relies on the Black-Scholes-Merton model, which assumes the asset prices follow a geometric Brownian motion, an SDE given by:
+In risk management, one of the key applications of stochastic calculus is the quantification and hedging of financial risks. Through the use of stochastic models, risk managers can identify the potential future states of the market and make informed decisions to mitigate risks. For example, the pricing of options, futures, and other derivatives often relies on the Black-Scholes-Merton model, which assumes the asset prices follow a geometric Brownian motion, an SDE given by:
 
 $dS_t = \mu S_t dt + \sigma S_t dW_t$
 
@@ -308,7 +308,7 @@ Stochastic calculus has become an indispensable part of risk management, allowin
 
 The practical implementation of stochastic calculus in financial modeling is a skill that merges mathematical theory with computational power. Python, a programming language favored for its simplicity and robust library ecosystem, stands as a key tool for coding stochastic calculus models.
 
-In the realm of finance, the implementation typically begins with the simulation of stochastic processes like Brownian motion, which can be represented in Python with simple code snippets:
+In finance, the implementation typically begins with the simulation of stochastic processes like Brownian motion, which can be represented in Python with simple code snippets:
 
 ```python
 import numpy as np

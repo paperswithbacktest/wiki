@@ -37,7 +37,7 @@ Order execution is the process of completing a buy or sell order in the marketpl
 
 With technological advancements, execution mechanisms have evolved, offering more sophisticated options such as market makers and Electronic Communication Networks (ECNs). Market makers are financial intermediaries that provide [liquidity](/wiki/liquidity-risk-premium) by quoting both buy and sell prices for a given asset, profiting from the spread between these prices. They play a crucial role in ensuring market liquidity and stability, especially during times of [volatility](/wiki/volatility-trading-strategies).
 
-ECNs represent a significant leap in the realm of order execution efficiency. These automated systems connect buyers and sellers directly without intermediary intervention, enhancing speed and transparency. ECNs match buy and sell orders at specified prices, facilitating trades around the clock, unlike traditional exchanges with limited trading hours.
+ECNs represent a significant leap in order execution efficiency. These automated systems connect buyers and sellers directly without intermediary intervention, enhancing speed and transparency. ECNs match buy and sell orders at specified prices, facilitating trades around the clock, unlike traditional exchanges with limited trading hours.
 
 The speed and efficiency of execution critically impact the outcome of a trade, particularly regarding timing and cost. Rapid execution minimizes the risk of price fluctuations between the placement and completion of an order, a phenomenon known as slippage. Slippage occurs when an order is filled at a price different from the expected one, typically due to swift market movements or delays in executing the trade.
 

@@ -79,7 +79,7 @@ Successfully navigating these cycles requires traders to diversify their approac
 
 ## Backtesting the 52-Week High Strategy
 
-Backtesting is an essential step before applying any trading strategy, and the 52-week high strategy is no exception in the realm of [algorithmic trading](/wiki/algorithmic-trading). Backtesting involves simulating a trading strategy using historical data to evaluate its potential effectiveness. This process aids in understanding how a strategy might perform under various market conditions before committing real capital.
+Backtesting is an essential step before applying any trading strategy, and the 52-week high strategy is no exception in [algorithmic trading](/wiki/algorithmic-trading). Backtesting involves simulating a trading strategy using historical data to evaluate its potential effectiveness. This process aids in understanding how a strategy might perform under various market conditions before committing real capital.
 
 To backtest the 52-week high strategy, traders typically utilize computing platforms such as Amibroker, MetaTrader, or Python-based frameworks like Backtrader. These platforms facilitate the analysis of historical stock data to identify when a stock price approaches or surpasses its 52-week high, thus triggering potential buy signals. The [backtesting](/wiki/backtesting) process typically involves several key steps:
 

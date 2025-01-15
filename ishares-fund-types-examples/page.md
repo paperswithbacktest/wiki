@@ -27,7 +27,7 @@ In summary, iShares has established itself as a leader in the [ETF](/wiki/etf-tr
 
 ## Types of iShares Funds
 
-iShares, a pioneer in the realm of exchange-traded funds (ETFs), offers a broad spectrum of investment options catering to various investor needs. Among the most prominent offerings are the iShares Core S&P 500 ETF, iShares MSCI Emerging Markets ETF, iShares Core US Aggregate Bond ETF, and specific thematic funds targeting niche sectors.
+iShares, a pioneer in exchange-traded funds (ETFs), offers a broad spectrum of investment options catering to various investor needs. Among the most prominent offerings are the iShares Core S&P 500 ETF, iShares MSCI Emerging Markets ETF, iShares Core US Aggregate Bond ETF, and specific thematic funds targeting niche sectors.
 
 iShares Core S&P 500 ETF stands as a cornerstone for many investors, as it mirrors the S&P 500 Index. This index comprises 500 of the largest publicly traded companies in the United States, providing investors with a diversified exposure to large-cap U.S. equities. The primary advantage of this ETF is that it allows investors to achieve broad market exposure to leading companies across different sectors with relatively low management fees.
 

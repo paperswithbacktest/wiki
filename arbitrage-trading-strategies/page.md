@@ -5,7 +5,7 @@ description: Learn about arbitrage trading, a profitable strategy that involves 
 
 
 
-Arbitrage, in the realm of trading, refers to the simultaneous purchase and sale of an asset to profit from a difference in its price in different markets or forms. This strategy capitalizes on temporary market inefficiencies, allowing traders to make risk-free profits as long as the price discrepancy exists. The concept hinges on the law of one price, which states that identical assets should have a single price in an efficient market. However, in reality, markets often exhibit inefficiencies due to various factors like differing information, transaction costs, or geographical barriers, presenting opportunities for arbitrage.
+Arbitrage, in trading, refers to the simultaneous purchase and sale of an asset to profit from a difference in its price in different markets or forms. This strategy capitalizes on temporary market inefficiencies, allowing traders to make risk-free profits as long as the price discrepancy exists. The concept hinges on the law of one price, which states that identical assets should have a single price in an efficient market. However, in reality, markets often exhibit inefficiencies due to various factors like differing information, transaction costs, or geographical barriers, presenting opportunities for arbitrage.
 
 ![Untitled](images/Untitled.png)
 
@@ -99,7 +99,7 @@ For a deeper understanding of the role of market makers in financial markets, in
 
 ### Equity Markets
 
-In the realm of equity markets, arbitrage strategies involve capitalizing on price discrepancies of stocks or related financial instruments across different markets or forms. One prevalent approach in this domain is merger or risk arbitrage, typically employed when a company announces an acquisition or merger. Traders buy stocks of the company being acquired, speculating that its stock price will rise to the acquisition price, while potentially shorting the acquirer’s stocks.
+In equity markets, arbitrage strategies involve capitalizing on price discrepancies of stocks or related financial instruments across different markets or forms. One prevalent approach in this domain is merger or risk arbitrage, typically employed when a company announces an acquisition or merger. Traders buy stocks of the company being acquired, speculating that its stock price will rise to the acquisition price, while potentially shorting the acquirer’s stocks.
 
 Another prominent strategy is pairs trading, where traders identify two stocks whose prices have historically moved together. When a divergence occurs, one stock is bought (the underperformer) while the other is sold short (the outperformer), betting on their eventual convergence in prices.
 

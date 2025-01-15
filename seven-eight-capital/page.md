@@ -41,7 +41,7 @@ In summary, the evolution of algorithmic trading is characterized by technologic
 
 ## About Seven Eight Capital
 
-Seven Eight Capital is a notable entity in the world of algorithmic trading, founded with a vision to harness the power of technology and data-driven strategies. The firm was established by a group of finance professionals and quantitative experts who recognized the potential of algorithmic approaches to optimize trading operations. Its inception aimed at creating a seamless integration of advanced technological tools with financial market insight to deliver superior trading solutions.
+Seven Eight Capital is a notable entity in algorithmic trading, founded with a vision to harness the power of technology and data-driven strategies. The firm was established by a group of finance professionals and quantitative experts who recognized the potential of algorithmic approaches to optimize trading operations. Its inception aimed at creating a seamless integration of advanced technological tools with financial market insight to deliver superior trading solutions.
 
 The mission of Seven Eight Capital revolves around innovation, efficiency, and delivering value through cutting-edge algorithmic trading strategies. The firm is committed to leveraging quantitative research, mathematical models, and big data analytics to provide a competitive edge in trading performance. Core values such as integrity, transparency, and a relentless pursuit of excellence underpin the company's operations, guiding its interactions with clients, partners, and stakeholders.
 

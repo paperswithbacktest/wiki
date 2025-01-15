@@ -13,7 +13,7 @@ Furthermore, this piece will trace Dennis’s career path, highlighting his inno
 
 ## Who is Richard Dennis?
 
-Richard Dennis, an iconic figure in the realm of trading, was born in Chicago in 1949. His foray into the trading world began while he was still in his early twenties, trading futures on the Chicago Mercantile Exchange (CME), a prestigious venue known for its diverse array of contracts spanning agricultural products, currencies, and indices. Despite starting with a modest $1,600 loan, Dennis's innate trading acumen and rigorous adherence to strategic principles allowed him to amass a fortune, transforming the initial investment into over $200 million within a decade. This monumental success underscored his status as a preeminent trader, particularly in commodities markets.
+Richard Dennis, an iconic figure in trading, was born in Chicago in 1949. His foray into the trading world began while he was still in his early twenties, trading futures on the Chicago Mercantile Exchange (CME), a prestigious venue known for its diverse array of contracts spanning agricultural products, currencies, and indices. Despite starting with a modest $1,600 loan, Dennis's innate trading acumen and rigorous adherence to strategic principles allowed him to amass a fortune, transforming the initial investment into over $200 million within a decade. This monumental success underscored his status as a preeminent trader, particularly in commodities markets.
 
 Dennis's influence extended beyond his personal trading achievements. He became renowned for his educational contributions to the trading community, most notably through the Turtle Trader experiment. This experiment tested the hypothesis that trading success could be systematically taught regardless of prior experience. By using carefully structured rule-based trading strategies, Dennis, alongside his partner William Eckhardt, provided empirical evidence that even those with no background in finance could achieve proficiency in trading. This innovative approach emphasized the potential of methodical training and systematic trading rules, marking a significant shift in the perception of how trading expertise could be developed and disseminated.
 
@@ -49,7 +49,7 @@ Risk management remains a cornerstone of the Turtle Trading methodology, largely
 
 Through its systematic and quantitative nature, the Turtle Trading Strategy illustrates a disciplined approach to trading, focusing on stronger, longer-term trends, making it a relevant and influential method in contemporary trading practices.
 
-## Richard Dennis in the Realm of Algorithmic Trading
+## Richard Dennis in Algorithmic Trading
 
 Richard Dennis's teachings have significantly influenced the advancement of algorithmic and systematic trading strategies. His approach centered on removing the influence of emotions from trading decisions, thereby creating rule-based systems that prioritize discipline and consistency. This methodology has effectively set the stage for modern [algorithmic trading](/wiki/algorithmic-trading) practices, where automated systems execute trades based on predefined criteria without emotional interference.
 

@@ -27,7 +27,7 @@ In February 2001, Valeriy joined Fannie Mae as a Financial Engineer, solidifying
 
 Valeriy took his skills to Alexandra Investment Management in September 2002, serving as the Head of Quantitative Research and Quantitative Strategist. During his five-year tenure, he focused on the development and implementation of [quantitative trading](/wiki/quantitative-trading) strategies, particularly in the equity and [ETF](/wiki/etf-trading-strategies) markets.
 
-His acumen in the realm of quantitative trading led him to Millennium Management in August 2008 as a Vice President. There, he continued to refine his capabilities in automated systematic trading and medium-frequency intraday strategies.
+His acumen in quantitative trading led him to Millennium Management in August 2008 as a Vice President. There, he continued to refine his capabilities in automated systematic trading and medium-frequency intraday strategies.
 
 In December 2009, Valeriy became a Portfolio Manager and Partner at QRT LP, where he was instrumental in developing medium-frequency intraday trading strategies, reinforcing his stature as a leader in the field of [algorithmic trading](/wiki/algorithmic-trading).
 

@@ -31,7 +31,7 @@ Algorithmic trading presents numerous benefits, chief among which are increased 
 
 ## Jump Trading: A Pioneering Firm
 
-Jump Trading is a prominent entity in the realm of algorithmic trading, recognized for its innovative approach and substantial impact on global financial markets. Established in 1999 by Bill DiSomma and Paul Gurinas, Jump Trading has developed a reputation for leveraging cutting-edge technology to optimize trading strategies and enhance market efficiency. The firm operates as a proprietary trading company, focusing on algorithmic and high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) across various asset classes, including equities, futures, options, and cryptocurrencies.
+Jump Trading is a prominent entity in algorithmic trading, recognized for its innovative approach and substantial impact on global financial markets. Established in 1999 by Bill DiSomma and Paul Gurinas, Jump Trading has developed a reputation for leveraging cutting-edge technology to optimize trading strategies and enhance market efficiency. The firm operates as a proprietary trading company, focusing on algorithmic and high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) across various asset classes, including equities, futures, options, and cryptocurrencies.
 
 Jump Trading is headquartered in Chicago, Illinois, and maintains a significant presence in financial hubs worldwide, such as New York, London, and Singapore. This global footprint ensures the firm can operate continually across different time zones, a critical aspect of high-frequency trading. The firm has also established state-of-the-art data centers that provide the high-speed connectivity necessary for executing trades with minimal latency.
 

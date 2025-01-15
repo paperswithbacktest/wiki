@@ -17,7 +17,7 @@ This article aims to explore the interplay between employment law, the Master-Se
 
 ## Definition of the Master-Servant Rule
 
-The Master-Servant Rule is a longstanding legal doctrine that establishes the premise that employers are legally accountable for the actions taken by their employees during tasks performed within the realm of their employment. Known more formally as vicarious liability, this principle allows for the attribution of any employee negligence or misconduct to the employer, provided such actions occur within the scope of employment. The rule underscores an employer's duty to oversee their employees' conduct, serving as a foundational element in employer-employee legal dynamics.
+The Master-Servant Rule is a longstanding legal doctrine that establishes the premise that employers are legally accountable for the actions taken by their employees during tasks performed within their employment. Known more formally as vicarious liability, this principle allows for the attribution of any employee negligence or misconduct to the employer, provided such actions occur within the scope of employment. The rule underscores an employer's duty to oversee their employees' conduct, serving as a foundational element in employer-employee legal dynamics.
 
 Historically, the origins of the Master-Servant Rule can be traced back to ancient legal customs, where it was recognized that those who employ others for service should bear responsibility for the actions of those they employ. This principle not only reinforces the hierarchical nature of traditional employment relationships but also stresses the importance of vigilance and due diligence on the part of employers.
 

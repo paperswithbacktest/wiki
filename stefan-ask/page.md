@@ -15,7 +15,7 @@ Stefan Ask was born in Sweden, where he developed an early interest in science a
 
 ## Career in Particle Physics
 
-Ask began his professional journey in the realm of particle physics. He was a CERN Research Fellow from April 2005 to June 2007, where he participated in high-energy physics experiments. Subsequently, he held a Science and Technology Facilities Council (STFC) Postdoctoral Fellowship at the University of Manchester from July 2007 to July 2010. During this period, Ask contributed to significant scientific publications, such as "Search for squarks and gluinos using final states with jets and missing transverse momentum with the ATLAS detector in sqrt(s) = 7 TeV proton-proton collisions."
+Ask began his professional journey in particle physics. He was a CERN Research Fellow from April 2005 to June 2007, where he participated in high-energy physics experiments. Subsequently, he held a Science and Technology Facilities Council (STFC) Postdoctoral Fellowship at the University of Manchester from July 2007 to July 2010. During this period, Ask contributed to significant scientific publications, such as "Search for squarks and gluinos using final states with jets and missing transverse momentum with the ATLAS detector in sqrt(s) = 7 TeV proton-proton collisions."
 
 His contributions to particle physics continued as he received the STFC Advanced Fellowship at the University of Cambridge from July 2010 to September 2012. His work during these years focused on searching for new particles, which laid the groundwork for his subsequent transition into the field of finance.
 

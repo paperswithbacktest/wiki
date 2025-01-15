@@ -9,7 +9,7 @@ In the modern financial landscape, the rise of algorithmic trading amplifies the
 
 ![Image](images/1.jpeg)
 
-This article explores the NRV formula, its application in accounting, and its relevance in the world of algorithmic trading. We will examine how NRV contributes to more accurate financial reporting and its impact on algorithmic trading strategies. Additionally, the article will address the advantages and challenges associated with NRV, particularly in relation to its assumptions and potential discrepancies with actual outcomes. Understanding these facets allows businesses and investors to better leverage NRV in optimizing both traditional and automated investment platforms.
+This article explores the NRV formula, its application in accounting, and its relevance in algorithmic trading. We will examine how NRV contributes to more accurate financial reporting and its impact on algorithmic trading strategies. Additionally, the article will address the advantages and challenges associated with NRV, particularly in relation to its assumptions and potential discrepancies with actual outcomes. Understanding these facets allows businesses and investors to better leverage NRV in optimizing both traditional and automated investment platforms.
 
 ## Table of Contents
 

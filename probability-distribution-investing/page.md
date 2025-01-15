@@ -66,7 +66,7 @@ This code generates a normal distribution sample and calculates its mean and sta
 
 ### Types of Probability Distributions in Investing
 
-In the realm of finance and investing, probability distributions serve as essential tools for modeling and analyzing various market phenomena. These distributions offer insight into the expected behavior of asset prices and returns, assisting investors and traders in making informed decisions and managing risks effectively.
+In finance and investing, probability distributions serve as essential tools for modeling and analyzing various market phenomena. These distributions offer insight into the expected behavior of asset prices and returns, assisting investors and traders in making informed decisions and managing risks effectively.
 
 #### Normal Distribution
 

@@ -130,7 +130,7 @@ The landscape of liquid alternatives is experiencing transformative trends and i
 
 ### Growth of ETFs in Liquid Alternatives
 
-Exchange-Traded Funds (ETFs) have gained prominence within the realm of liquid alternatives due to their flexibility, lower costs, and tax efficiency. Their ability to provide diversified exposure to alternative strategies while maintaining liquidity is attracting a range of investors. The [ETF](/wiki/etf-trading-strategies) structure allows for continuous trading, which is a significant advantage over traditional mutual funds that only trade at the end of the day. The increased adoption of ETFs is supported by technological advancements that facilitate efficient portfolio management and trading execution.
+Exchange-Traded Funds (ETFs) have gained prominence within liquid alternatives due to their flexibility, lower costs, and tax efficiency. Their ability to provide diversified exposure to alternative strategies while maintaining liquidity is attracting a range of investors. The [ETF](/wiki/etf-trading-strategies) structure allows for continuous trading, which is a significant advantage over traditional mutual funds that only trade at the end of the day. The increased adoption of ETFs is supported by technological advancements that facilitate efficient portfolio management and trading execution.
 
 ### Integration of ESG Criteria
 

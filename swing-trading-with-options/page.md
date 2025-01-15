@@ -248,7 +248,7 @@ It is imperative for options traders to stay informed about regulatory changes t
 
 ## Swing Trading Options: The Psychology of Trading
 
-In the realm of options trading, adherence to legal frameworks and regulatory considerations is as crucial as any trading strategy. In the United States, the Securities and Exchange Commission (SEC) oversees options trading, ensuring transparency and fairness. The Options Clearing Corporation (OCC) acts as the issuer and guarantor for option contracts, enforcing standards and managing the assignment of exercised options.
+In options trading, adherence to legal frameworks and regulatory considerations is as crucial as any trading strategy. In the United States, the Securities and Exchange Commission (SEC) oversees options trading, ensuring transparency and fairness. The Options Clearing Corporation (OCC) acts as the issuer and guarantor for option contracts, enforcing standards and managing the assignment of exercised options.
 
 For regulatory compliance, traders must navigate through a series of rules. Options trading is governed by the “pattern day trader” rule, which pertains to those who execute four or more day trades within five business days in a margin account, provided the number of day trades is more than six percent of the customer's total trading activity for that same five-day period. Such traders must maintain a minimum equity of $25,000 in their margin account.
 

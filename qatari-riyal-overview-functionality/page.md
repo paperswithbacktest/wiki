@@ -1,6 +1,6 @@
 ---
 title: "Qatari Riyal: Overview and Functionality (Algo Trading)"
-description: "Explore the stability and predictability of the Qatari Riyal in the realm of algorithmic trading Discover opportunities in Qatar's evolving financial market"
+description: "Explore the stability and predictability of the Qatari Riyal in algorithmic trading Discover opportunities in Qatar's evolving financial market"
 ---
 
 The world of finance is continuously evolving, and algorithmic trading is at the forefront of this transformation. Qatar, a burgeoning economic hub, plays a significant role in global finance through its currency, the Qatari Riyal (QAR). The QAR is characterized by a stable exchange rate, pegged to the US Dollar (USD) at a fixed rate of 1 USD to 3.64 QAR. This fixed exchange rate offers both unique opportunities and challenges for investors and traders, particularly those utilizing algorithmic trading strategies. 

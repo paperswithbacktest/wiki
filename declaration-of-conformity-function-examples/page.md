@@ -9,7 +9,7 @@ In the context of algorithmic trading, the DoC emerges as a key component in com
 
 ![Image](images/1.jpeg)
 
-This article explores the nuances of the Declaration of Conformity within the realm of algorithmic trading, with a focus on understanding its role, the necessary requirements, and the implications for both trading firms and software developers. By examining specific examples of successful DoC implementations and best practices for maintaining compliance, we aim to highlight how this document contributes to building a robust compliance infrastructure. By adhering to these guidelines, companies in the algorithmic trading industry can secure a safer trading environment, avoid regulatory penalties, and foster long-term growth and market credibility.
+This article explores the nuances of the Declaration of Conformity within algorithmic trading, with a focus on understanding its role, the necessary requirements, and the implications for both trading firms and software developers. By examining specific examples of successful DoC implementations and best practices for maintaining compliance, we aim to highlight how this document contributes to building a robust compliance infrastructure. By adhering to these guidelines, companies in the algorithmic trading industry can secure a safer trading environment, avoid regulatory penalties, and foster long-term growth and market credibility.
 
 ## Table of Contents
 

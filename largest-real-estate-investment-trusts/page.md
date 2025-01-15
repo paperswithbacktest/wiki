@@ -29,7 +29,7 @@ The structural diversity of these types allows investors to choose REIT investme
 
 ## Largest REITs by Market Capitalization
 
-Prologis (PLD) stands as the foremost entity in the realm of Real Estate Investment Trusts (REITs) by market capitalization, focusing primarily on logistics real estate. With an expansive international asset portfolio, Prologis addresses significant demand in sectors such as e-commerce and supply chain efficiency. The company’s strategic positioning in key markets enables it to capitalize on trends in global trade and urbanization.
+Prologis (PLD) stands as the foremost entity in Real Estate Investment Trusts (REITs) by market capitalization, focusing primarily on logistics real estate. With an expansive international asset portfolio, Prologis addresses significant demand in sectors such as e-commerce and supply chain efficiency. The company’s strategic positioning in key markets enables it to capitalize on trends in global trade and urbanization.
 
 American Tower (AMT) and Crown Castle (CCI) are pivotal in the communications infrastructure sector, providing essential services for the deployment and operation of wireless and broadcast communications networks. These REITs possess extensive portfolios of communication sites, including towers and small cells, capitalizing on the widespread adoption of mobile technology and data consumption. Their assets are integral to the expansion of 5G networks, making them indispensable in the digital age.
 

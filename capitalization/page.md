@@ -105,7 +105,7 @@ For professionals in algorithmic trading, the requirements extend beyond general
 
 Moreover, resources such as the Purdue Online Writing Lab (OWL) provide comprehensive guidance on grammar, punctuation, and style, supporting a deeper understanding of writing mechanics. These resources include extensive examples and exercises to enhance learning.
 
-In the realm of algorithmic trading, the importance of standardized documentation cannot be overstated. Templates for system specifications and reports help ensure that essential information is conveyed effectively. For example, LaTeX, a high-quality document preparation system, is often used for creating well-structured and professional documents, aiding in the clear presentation of complex data and algorithmic principles. It allows professionals to incorporate mathematical notations with ease, an essential aspect given the quantitative nature of trading algorithms.
+In algorithmic trading, the importance of standardized documentation cannot be overstated. Templates for system specifications and reports help ensure that essential information is conveyed effectively. For example, LaTeX, a high-quality document preparation system, is often used for creating well-structured and professional documents, aiding in the clear presentation of complex data and algorithmic principles. It allows professionals to incorporate mathematical notations with ease, an essential aspect given the quantitative nature of trading algorithms.
 
 Below is a Python snippet demonstrating the use of syntax highlighting and auto-complete features in an IDE to enhance code readability and reduce errors:
 

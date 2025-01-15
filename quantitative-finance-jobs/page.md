@@ -45,7 +45,7 @@ Moreover, specializations in programming languages such as Python, R, or C++ are
 
 ### Quantitative Analyst
 
-The role of a Quantitative Analyst, commonly referred to as a "Quant," is central in the realm of quantitative finance. A Quantitative Analyst applies mathematical and statistical methods to financial and risk management problems. They develop and implement complex models used to make decisions about risk management, investments, pricing, and more, typically within investment banks, [hedge fund](/wiki/hedge-fund-trading-strategies)s, or asset management firms.
+The role of a Quantitative Analyst, commonly referred to as a "Quant," is central in quantitative finance. A Quantitative Analyst applies mathematical and statistical methods to financial and risk management problems. They develop and implement complex models used to make decisions about risk management, investments, pricing, and more, typically within investment banks, [hedge fund](/wiki/hedge-fund-trading-strategies)s, or asset management firms.
 
 Responsibilities of a Quantitative Analyst often include:
 

@@ -5,7 +5,7 @@ description: "Explore the Irrelevance Proposition Theorem by Miller and Modiglia
 
 The irrelevance proposition theory, introduced by Nobel laureates Merton Miller and Franco Modigliani in 1958, fundamentally contends that a company's market value is unaffected by its financial structure, particularly its choice between debt and equity financing. The theorem's assumptions include a market devoid of taxes, bankruptcy costs, and asymmetric information. Under these ideal conditions, the proposition asserts that the value of a firm is determined by its real assets and operations, not by its liability structure. 
 
-In modern economic theory, this theorem provides a benchmark for evaluating corporate financial strategies. Its implications reach beyond traditional finance into the realm of automated and algorithmic trading, where rapid decision-making and execution are paramount. Understanding this proposition is crucial, as it influences how capital structuring decisions are theoretically perceived under optimal market conditions.
+In modern economic theory, this theorem provides a benchmark for evaluating corporate financial strategies. Its implications reach beyond traditional finance into automated and algorithmic trading, where rapid decision-making and execution are paramount. Understanding this proposition is crucial, as it influences how capital structuring decisions are theoretically perceived under optimal market conditions.
 
 ![Image](images/1.jpeg)
 

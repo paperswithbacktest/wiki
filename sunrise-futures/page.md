@@ -64,7 +64,7 @@ Backtesting is a critical component of algorithmic trading, serving as a method 
 
  to Sunrise Futures
 
-Sunrise Futures is a prominent company in the financial sector, specializing in algorithmic trading. The company's primary focus is on financial instruments such as futures, stocks, and [forex](/wiki/forex-system), reflecting its comprehensive expertise in various market segments. Sunrise Futures has carved a niche for itself in the realm of algorithmic trading by leveraging cutting-edge technology to execute trades with precision and efficiency.
+Sunrise Futures is a prominent company in the financial sector, specializing in algorithmic trading. The company's primary focus is on financial instruments such as futures, stocks, and [forex](/wiki/forex-system), reflecting its comprehensive expertise in various market segments. Sunrise Futures has carved a niche for itself in algorithmic trading by leveraging cutting-edge technology to execute trades with precision and efficiency.
 
 The company was established with a commitment to innovation in trading strategies and has made significant contributions to the field of algorithmic trading. Over the years, Sunrise Futures has developed a reputation for pioneering sophisticated algorithms that enhance trading performance. Its history is marked by a consistent effort to integrate advanced computational methods with deep market analysis, creating strategies that yield optimal results.
 

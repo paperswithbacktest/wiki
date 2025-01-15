@@ -168,7 +168,7 @@ The evolving landscape of financial technology suggests that AI-driven algorithm
 
 ## Conclusion
 
-Tax lots are integral to creating tax-efficient investment strategies, particularly within the realm of algorithmic trading. These groupings of securities, each with unique acquisition costs, influence capital gains calculations significantly. By understanding and utilizing tax lot methods, investors can markedly reduce their tax liabilities. For instance, employing strategies like Specific Identification allows investors to selectively liquidate tax lots based on their cost basis, directly impacting taxable gains and losses.
+Tax lots are integral to creating tax-efficient investment strategies, particularly within algorithmic trading. These groupings of securities, each with unique acquisition costs, influence capital gains calculations significantly. By understanding and utilizing tax lot methods, investors can markedly reduce their tax liabilities. For instance, employing strategies like Specific Identification allows investors to selectively liquidate tax lots based on their cost basis, directly impacting taxable gains and losses.
 
 Algorithmic trading not only accelerates transaction execution but also enables precise control over tax outcomes. By integrating tax lot strategies into trading algorithms, investors can proactively manage tax implications. Algorithms can be coded to optimize the selection of tax lots in a manner that minimizes capital gains tax, thereby enhancing net profit.
 

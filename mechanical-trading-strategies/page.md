@@ -116,7 +116,7 @@ Developing a robust mechanical trading system is as much an art as it is science
 
 ## Expanding the Horizon: Multi-market & Multi-strategy Systems
 
-Diversification has long been heralded as a cornerstone of investment strategy, as championed by Nobel laureate Harry Markowitz's Modern Portfolio Theory[6]. In the realm of mechanical trading, diversification's power isn't just about asset classes; it extends to trading across multiple markets and leveraging varied strategies.
+Diversification has long been heralded as a cornerstone of investment strategy, as championed by Nobel laureate Harry Markowitz's Modern Portfolio Theory[6]. In mechanical trading, diversification's power isn't just about asset classes; it extends to trading across multiple markets and leveraging varied strategies.
 
 Trading across different markets, whether they are geographically diverse stock exchanges, different asset classes like commodities, equities, or [forex](/wiki/forex-system), or even distinct sectors within an economy, can provide insulation against localized economic shocks or market anomalies. For instance, while tech stocks might face a downturn, agricultural commodities could be on an upswing, creating opportunities for traders. Furthermore, markets have varied levels of [liquidity](/wiki/liquidity-risk-premium), trading hours, and [volatility](/wiki/volatility-trading-strategies), offering an assortment of risk and reward profiles.
 
@@ -188,7 +188,7 @@ In sum, while the fusion of AI & ML with mechanical trading offers unprecedented
 
 ## Tools, Platforms & Software for Mechanical Trading
 
-Mechanical trading requires sophisticated platforms and software tools to design, backtest, and execute strategies. The choice of the right tool can significantly influence the success of a trading strategy. Here's an overview of popular platforms that cater to different needs within the realm of mechanical trading.
+Mechanical trading requires sophisticated platforms and software tools to design, backtest, and execute strategies. The choice of the right tool can significantly influence the success of a trading strategy. Here's an overview of popular platforms that cater to different needs within mechanical trading.
 
 1. **MetaTrader 4 & 5 (MT4/MT5)**: These platforms are among the most widely used by retail traders. MT4 is primarily focused on Forex trading, while MT5 offers access to other instruments like stocks and commodities. Both platforms provide a built-in language (MQL4 & MQL5) for strategy development and comprehensive charting tools. Their strengths lie in their user-friendliness and vast community support, which has resulted in a plethora of custom indicators and Expert Advisors (EAs) available for download.
 2. **NinjaTrader**: A versatile platform catering to futures, forex, and stock markets. It boasts advanced charting and backtesting capabilities. The platform's strategy builder allows traders without programming knowledge to design systems, while those proficient in C# can deep dive deeper into its coding environment.
@@ -244,7 +244,7 @@ Mechanical trading strategies, underpinned by rigorous research, systematized de
 
 However, the journey is not without its challenges. As we've seen from real-world case studies, over-reliance or overconfidence in models can lead to significant setbacks. It's a reminder that while technology and algorithms can be powerful allies, they are not infallible.
 
-For those embarking on or continuing this journey, the ever-evolving landscape of mechanical trading demands a commitment to learning. Embracing a mindset of adaptability, continuous education, and vigilance can be the difference between fleeting success and sustained excellence. Always remember that in the realm of trading, as with many endeavors, knowledge is power, and persistence is key.
+For those embarking on or continuing this journey, the ever-evolving landscape of mechanical trading demands a commitment to learning. Embracing a mindset of adaptability, continuous education, and vigilance can be the difference between fleeting success and sustained excellence. Always remember that in trading, as with many endeavors, knowledge is power, and persistence is key.
 
 ## References & Further Reading
 

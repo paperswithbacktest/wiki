@@ -19,7 +19,7 @@ He furthered his education at Boston University, where he pursued a Master’s d
 
 Feinberg began his career at PanAgora Asset Management, where he worked for twelve years. He started as a Senior Associate in January 2002, a role he held for four years. During this period, Feinberg honed his skills in asset management and prepared for more advanced roles by engaging deeply with portfolio strategies and fund management tactics based on quantitative analysis.
 
-In May 2006, he was promoted to Portfolio Manager, a role that enabled him to apply his skills directly to managing funds and investment portfolios. His tenure as Portfolio Manager lasted until January 2008, after which he assumed the role of Director, Equities - Head of Implementation. As Director, Feinberg was responsible for executing the company's equity strategies and implementing innovative trading technologies, responsibilities that marked his growing influence in the realm of algorithmic trading.
+In May 2006, he was promoted to Portfolio Manager, a role that enabled him to apply his skills directly to managing funds and investment portfolios. His tenure as Portfolio Manager lasted until January 2008, after which he assumed the role of Director, Equities - Head of Implementation. As Director, Feinberg was responsible for executing the company's equity strategies and implementing innovative trading technologies, responsibilities that marked his growing influence in algorithmic trading.
 
 ### Acadian Asset Management
 
@@ -29,7 +29,7 @@ Feinberg’s expertise in asset management, coupled with his experience in hedge
 
 ## Contributions to Algorithmic Trading
 
-Joel Greenberg Feinberg's career reflects significant contributions to the realm of algorithmic trading, an area that revolutionized the finance industry in the 21st century. Algorithmic trading involves the use of computer algorithms to automate the trading process, often exploiting the speed and precision of computers to identify and capitalize on market inefficiencies.
+Joel Greenberg Feinberg's career reflects significant contributions to algorithmic trading, an area that revolutionized the finance industry in the 21st century. Algorithmic trading involves the use of computer algorithms to automate the trading process, often exploiting the speed and precision of computers to identify and capitalize on market inefficiencies.
 
 Feinberg's work at PanAgora and Acadian Asset Management has aligned closely with major evolutions in this field. Although specific publications by Feinberg are not publicized, his work directly applied the findings of key scientific literature in algorithmic trading such as "Algorithmic Trading and DMA" by Barry Johnson and "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan. These works emphasize the importance of strategic, technology-driven approaches in achieving investment success, principles that Feinberg has diligently implemented throughout his career.
 

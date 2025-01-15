@@ -113,7 +113,7 @@ In summary, the integration of algorithmic trading into financial markets fundam
 
 ## Applications of Historical Pricing in Algo Trading
 
-Historical pricing data plays a vital role in the realm of algorithmic trading, serving as the backbone for risk management, backtesting, and the development of predictive models. With the advent of big data and advanced computational power, historical data's importance has magnified, enabling traders to derive insights that inform robust trading strategies. 
+Historical pricing data plays a vital role in algorithmic trading, serving as the backbone for risk management, backtesting, and the development of predictive models. With the advent of big data and advanced computational power, historical data's importance has magnified, enabling traders to derive insights that inform robust trading strategies. 
 
 One primary application of historical pricing data in algorithmic trading is in risk management. By analyzing historical price movements, traders can identify volatility trends, calculate potential losses, and establish risk limits. Value-at-risk (VaR) is one such quantitative risk management technique that utilizes historical data to estimate the potential loss of an investment portfolio over a specified period, given normal market conditions. The historical simulation method for VaR, for instance, involves assuming that the future reflects the past and uses past market data to predict future risk probabilities.
 

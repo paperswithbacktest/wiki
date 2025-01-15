@@ -45,7 +45,7 @@ The firm's commitment to ESG investments is not merely a business strategy but r
 
 ## Leadership and Vision
 
-David Vogel, the CEO and founder of Voloridge Investment Management, is a prominent figure in the world of algorithmic trading. With a strong background in mathematical modeling and data analysis, Vogel has been instrumental in crafting the strategic vision that has propelled Voloridge to success. His journey began with a keen interest in quantitative methods, honed through his earlier endeavors with Quantitative Investment Management, where he gained invaluable experience handling large data sets and developing predictive models. 
+David Vogel, the CEO and founder of Voloridge Investment Management, is a prominent figure in algorithmic trading. With a strong background in mathematical modeling and data analysis, Vogel has been instrumental in crafting the strategic vision that has propelled Voloridge to success. His journey began with a keen interest in quantitative methods, honed through his earlier endeavors with Quantitative Investment Management, where he gained invaluable experience handling large data sets and developing predictive models. 
 
 Vogel's foresight and innovative approach have been key to Voloridge's impressive growth and achievement in algorithmic trading. His ability to harness complex algorithms and leverage big data has enabled the firm to achieve consistently high returns, setting a benchmark within the investment community. Under his leadership, Voloridge has maintained a performance streak that is remarkable for its consistency and lack of annual losses, underscoring his effectiveness in navigating the volatile financial markets with precision.
 

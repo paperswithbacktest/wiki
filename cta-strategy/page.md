@@ -72,7 +72,7 @@ Trend following is a trading strategy predicated on the belief that securities w
 
 At its core, [trend following](/wiki/trend-following) seeks to [leverage the [momentum](/wiki/momentum) of a market](https://paperswithbacktest.com/paper/do-momentum-and-reversals-coexist). It operates on the principle that once a trend is in motion, it is more likely to continue than to reverse. The logic is straightforward: market prices often reflect a collective response to new information, and as that information diffuses, it influences the buying and selling decisions of market participants, reinforcing the trend[3].
 
-In the realm of Commodity Trading Advisors (CTAs), trend following holds a particular significance. Here's why:
+In Commodity Trading Advisors (CTAs), trend following holds a particular significance. Here's why:
 
 1. **Diversification Benefits**: Trend following strategies can be applied across a range of markets, including equities, bonds, currencies, and commodities, providing diversification to a portfolio[4].
 2. **Adaptability**: Unlike strategies that are based on fundamental analysis, trend following relies purely on price data, making it adaptive to any market situation.

@@ -99,7 +99,7 @@ Understanding these dynamics is crucial for investors evaluating participating p
 
 ## Participating Preferred Shares vs Non-Participating
 
-Preferred shares are a significant component of corporate financing and investing, offering unique benefits and characteristics distinct from common shares. Within the realm of preferred shares, two principal types exist: participating and non-participating preferred shares. Understanding the nuances between these can significantly impact an investor’s decision-making process. 
+Preferred shares are a significant component of corporate financing and investing, offering unique benefits and characteristics distinct from common shares. Within preferred shares, two principal types exist: participating and non-participating preferred shares. Understanding the nuances between these can significantly impact an investor’s decision-making process. 
 
 **Participating Preferred Shares** provide shareholders with the standard fixed dividend expected of preferred shares plus the opportunity to receive additional dividends. These additional dividends are typically contingent on the performance of the company, making these shares appealing in profitable years. Moreover, in the event of a company's liquidation, participating preferred shareholders may receive their original investment back plus a share of any remaining proceeds distributed among common shareholders. This dual benefit can significantly enhance investor returns during profitable periods and protect capital during liquidation events. However, participating preferred shares often come with lower fixed dividend rates compared to non-participating preferred shares, balancing the potential for higher overall returns with a base level of guaranteed income.
 

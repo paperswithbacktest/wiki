@@ -9,7 +9,7 @@ This article examines the mechanics of the Bullish Three Line Strike pattern, it
 
 ![Image](images/1.png)
 
-As we explore the Bullish Three Line Strike, we aim to underscore its importance in the world of algorithmic trading and discuss how traders can effectively utilize this pattern for improved trading outcomes. By leveraging pattern recognition techniques and substantial data analysis, algorithmic trading systems can identify these formations precision, promising benefits in efficiency and consistency.
+As we explore the Bullish Three Line Strike, we aim to underscore its importance in algorithmic trading and discuss how traders can effectively utilize this pattern for improved trading outcomes. By leveraging pattern recognition techniques and substantial data analysis, algorithmic trading systems can identify these formations precision, promising benefits in efficiency and consistency.
 
 ## Table of Contents
 

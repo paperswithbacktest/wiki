@@ -66,7 +66,7 @@ In summary, the significance of alternative data in algorithmic trading is profo
 
 ## Examples of Internet Alternative Data Providers
 
-Platforms like YipitData and M Science have become pivotal in the realm of alternative data provision, particularly for investors seeking to capitalize on non-traditional data sources. These companies aggregate and analyze a wide variety of datasets, including app usage [statistics](/wiki/bayesian-statistics), web traffic patterns, and social sentiment indicators. Such data types are invaluable for developing insights into market trends and consumer behaviors that are not discernible from conventional metrics alone.
+Platforms like YipitData and M Science have become pivotal in alternative data provision, particularly for investors seeking to capitalize on non-traditional data sources. These companies aggregate and analyze a wide variety of datasets, including app usage [statistics](/wiki/bayesian-statistics), web traffic patterns, and social sentiment indicators. Such data types are invaluable for developing insights into market trends and consumer behaviors that are not discernible from conventional metrics alone.
 
 Alternative data providers often focus on specific sectors, catering to diverse industries ranging from retail to financial services. For instance, YipitData is known for aggregating data related to the consumer sector, providing detailed insights into retail sales trends and consumer demand fluctuations. Meanwhile, M Science offers comprehensive data sets that intersect sectors like telecommunications and e-commerce, using proprietary analytics to deliver unique market perspectives.
 

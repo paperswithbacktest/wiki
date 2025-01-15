@@ -67,7 +67,7 @@ In summary, SEC Form 17-H serves as a framework for broker-dealers to enhance th
 
 ## Case Studies and Lessons Learned
 
-The collapse of Drexel Burnham Lambert marks a significant case study in the realm of financial compliance and regulatory oversight. Drexel Burnham Lambert was a powerful Wall Street investment bank that became synonymous with high-yield bonds, commonly known as "junk bonds", during the 1980s. The firm's aggressive trading strategies and high-risk financial maneuvers ultimately led to its downfall and were punctuated by significant compliance failures and regulatory scrutiny.
+The collapse of Drexel Burnham Lambert marks a significant case study in financial compliance and regulatory oversight. Drexel Burnham Lambert was a powerful Wall Street investment bank that became synonymous with high-yield bonds, commonly known as "junk bonds", during the 1980s. The firm's aggressive trading strategies and high-risk financial maneuvers ultimately led to its downfall and were punctuated by significant compliance failures and regulatory scrutiny.
 
 **Collapse of Drexel Burnham Lambert**
 

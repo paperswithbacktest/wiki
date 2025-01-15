@@ -13,7 +13,7 @@ Neil Bhattacharjee is an influential figure in the field of algorithmic trading,
 
 ## Career
 
-Neil Bhattacharjee embarked on his professional journey in the realm of finance and trading immediately after his graduation. He joined Akuna Capital, a prominent trading firm known for its expertise in derivatives trading and market-making. His career at Akuna Capital marked a significant phase in his professional life, allowing him to delve deeper into the complexities of trading digital assets and derivatives.
+Neil Bhattacharjee embarked on his professional journey in finance and trading immediately after his graduation. He joined Akuna Capital, a prominent trading firm known for its expertise in derivatives trading and market-making. His career at Akuna Capital marked a significant phase in his professional life, allowing him to delve deeper into the complexities of trading digital assets and derivatives.
 
 ### Akuna Capital
 

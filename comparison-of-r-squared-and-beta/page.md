@@ -31,7 +31,7 @@ where $SS_{\text{residual}}$ is the sum of squares of the residual errors (the p
 
 In practical terms, if you have a dataset with observations on a dependent variable $Y$ and one or more independent variables $X_1, X_2, \ldots, X_n$, you typically start by fitting a regression model (e.g., linear regression) to predict $Y$ using $X_1, X_2, \ldots, X_n$. The R-squared value will give you a snapshot of how much of the change in $Y$ can be attributed to changes in the independent variables, helping you assess the model's explanatory power.
 
-In the realm of finance, understanding the R-squared value is crucial for traders who use algorithmic models to make informed decisions. While a high R-squared is desirable, it is important to remember that it does not imply causation but rather a correlation between the predicted and actual values. Thus, it should be interpreted carefully, especially when used in developing predictive trading models.
+In finance, understanding the R-squared value is crucial for traders who use algorithmic models to make informed decisions. While a high R-squared is desirable, it is important to remember that it does not imply causation but rather a correlation between the predicted and actual values. Thus, it should be interpreted carefully, especially when used in developing predictive trading models.
 
 ## Understanding Beta in Trading
 

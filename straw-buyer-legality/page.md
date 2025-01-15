@@ -81,7 +81,7 @@ Understanding the concept and implications of straw buyer transactions is crucia
 
 In the context of algorithmic trading, vigilance is essential to ensure these automated systems are not unknowingly linked with illicit straw buying activities. Algorithmic trading, characterized by its speed and efficiency, can sometimes obscure the true intent of transactions if not properly regulated and monitored. This necessitates robust compliance mechanisms to safeguard against inadvertently supporting deceptive schemes akin to straw purchases.
 
-Awareness and adherence to legal standards are critical in mitigating the risks associated with straw buying, both in traditional settings and within the realm of algorithmic trading. Financial professionals and legal entities must prioritize ethical considerations, ensuring compliance with regulatory frameworks. By doing so, they can protect themselves from the legal repercussions and maintain the integrity of financial markets and large-scale transactions.
+Awareness and adherence to legal standards are critical in mitigating the risks associated with straw buying, both in traditional settings and within algorithmic trading. Financial professionals and legal entities must prioritize ethical considerations, ensuring compliance with regulatory frameworks. By doing so, they can protect themselves from the legal repercussions and maintain the integrity of financial markets and large-scale transactions.
 
 ## References & Further Reading
 

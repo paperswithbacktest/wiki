@@ -9,7 +9,7 @@ The Fibonacci sequence, a series of numbers where each number is the sum of the 
 
 ![1](images/1.png)
 
-In the realm of trading, Fibonacci numbers are transmuted into ratios, and these ratios—primarily 23.6%, 38.2%, 50%, 61.8%, and 100%—are esteemed for their predictive value in technical analysis. Traders apply these ratios to identify potential reversal levels on stock charts. The philosophy behind this application is that after a significant price movement, either up or down, new support and resistance levels are often at or near these Fibonacci levels. The practical manifestation of these principles is evident in tools like Fibonacci retracements, where horizontal lines are drawn on a chart to indicate where support and resistance are likely to occur, based on the Fibonacci levels.
+In trading, Fibonacci numbers are transmuted into ratios, and these ratios—primarily 23.6%, 38.2%, 50%, 61.8%, and 100%—are esteemed for their predictive value in technical analysis. Traders apply these ratios to identify potential reversal levels on stock charts. The philosophy behind this application is that after a significant price movement, either up or down, new support and resistance levels are often at or near these Fibonacci levels. The practical manifestation of these principles is evident in tools like Fibonacci retracements, where horizontal lines are drawn on a chart to indicate where support and resistance are likely to occur, based on the Fibonacci levels.
 
 ## Table of Contents
 

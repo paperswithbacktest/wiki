@@ -21,7 +21,7 @@ At CME, Redding's career evolved through a series of progressively influential r
 
 A notable period in Redding's tenure at the CME was during its merger with the Chicago Board of Trade (CBOT). This merger was a landmark event in the finance industry, leading to the creation of one of the largest and most diverse derivatives marketplaces in the world. Redding's leadership during this period was crucial in driving the integration and expansion of stock index futures and options offerings. These financial instruments became vital tools for hedging and speculating, providing market participants with enhanced capabilities to manage risk and leverage market opportunities.
 
-Redding's early contributions were marked by his ability to navigate complex market environments and identify opportunities for growth and innovation. His strategic initiatives and leadership at CME not only propelled his career but also contributed to transforming the financial landscape, particularly in the realm of derivative trading. By laying the groundwork for future advancements, Redding played a key role in shaping the evolution of modern financial markets.
+Redding's early contributions were marked by his ability to navigate complex market environments and identify opportunities for growth and innovation. His strategic initiatives and leadership at CME not only propelled his career but also contributed to transforming the financial landscape, particularly in derivative trading. By laying the groundwork for future advancements, Redding played a key role in shaping the evolution of modern financial markets.
 
 ## Major Achievements at CME Group
 

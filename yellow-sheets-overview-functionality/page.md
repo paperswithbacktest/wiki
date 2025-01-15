@@ -17,7 +17,7 @@ This article will explore Yellow Sheets and algorithmic trading, examining their
 
 ## Understanding Yellow Sheets in Financial Markets
 
-Yellow Sheets are crucial informational bulletins used in the realm of over-the-counter (OTC) trading, specifically focusing on corporate bonds. These pages are instrumental in ensuring a certain level of transparency and clarity for securities that do not have the benefit of being listed on major exchanges. They are primarily published by OTC Markets Group, an organization that plays a significant role in providing financial market data and trading services.
+Yellow Sheets are crucial informational bulletins used in over-the-counter (OTC) trading, specifically focusing on corporate bonds. These pages are instrumental in ensuring a certain level of transparency and clarity for securities that do not have the benefit of being listed on major exchanges. They are primarily published by OTC Markets Group, an organization that plays a significant role in providing financial market data and trading services.
 
 Yellow Sheets contain essential data that traders and investors rely on when evaluating potential bond securities for inclusion in their portfolios. This data typically includes yield, volume, high, low, closing prices, and bid-ask spread of bonds. Such detailed information aids traders in making informed decisions, offering a comprehensive snapshot of the trading dynamics and price fluctuations associated with non-listed corporate bonds.
 

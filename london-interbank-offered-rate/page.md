@@ -89,7 +89,7 @@ In conclusion, the future of financial benchmarks promises a more transparent, s
 
 ## Conclusion
 
-The transition from the London Interbank Offered Rate (LIBOR) to alternative financial benchmarks such as the Secured Overnight Financing Rate (SOFR) signifies a momentous transformation in the realm of financial benchmarks. This shift has profound implications for global markets and trading strategies that have long relied on LIBOR.
+The transition from the London Interbank Offered Rate (LIBOR) to alternative financial benchmarks such as the Secured Overnight Financing Rate (SOFR) signifies a momentous transformation in financial benchmarks. This shift has profound implications for global markets and trading strategies that have long relied on LIBOR.
 
 Stakeholders across the financial landscape must adopt a proactive approach to navigate these changes effectively. This includes reassessing and updating financial contracts, risk management strategies, and trading algorithms to align with new, more transparent benchmarks. By doing so, these entities can unlock new opportunities presented by alternative rates and maintain resilience and competitiveness in an evolving market environment.
 

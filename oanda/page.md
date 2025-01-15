@@ -23,7 +23,7 @@ An essential component of OANDA's offering is its robust API (Application Progra
 
 The flexibility and functionality of the OANDA API make it possible to craft bespoke trading solutions tailored to specific needs and preferences. Traders can execute trades based on a variety of triggers and conditions, such as price levels, technical indicators, or economic events, thereby automating decision-making processes and minimizing manual intervention. This level of automation not only enhances efficiency but also helps in reducing emotional biases that may affect trading decisions.
 
-Ultimately, OANDA's platform stands out in the world of algorithmic trading for its versatile offerings and the ease with which traders can implement custom strategies. Whether integrating with advanced analytics platforms or utilizing the platform’s native capabilities, OANDA equips traders with the tools necessary to pursue algorithmic trading with precision and confidence.
+Ultimately, OANDA's platform stands out in algorithmic trading for its versatile offerings and the ease with which traders can implement custom strategies. Whether integrating with advanced analytics platforms or utilizing the platform’s native capabilities, OANDA equips traders with the tools necessary to pursue algorithmic trading with precision and confidence.
 
 ## Connecting to OANDA Using Python
 

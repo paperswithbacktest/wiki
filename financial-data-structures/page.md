@@ -31,7 +31,7 @@ Hash tables represent another critical data structure, used primarily for their 
 
 Graph-based structures enable the representation of relationships between different data points, allowing for complex analyses such as network flows and dependencies in multi-asset trading environments.
 
-In summary, financial data structures are indispensable tools in the world of algorithmic trading, providing the architecture needed to organize and process large, complex datasets swiftly and efficiently. The choice of data structure can greatly influence the performance of trading algorithms, hence making it a critical consideration in the design and implementation of trading systems.
+In summary, financial data structures are indispensable tools in algorithmic trading, providing the architecture needed to organize and process large, complex datasets swiftly and efficiently. The choice of data structure can greatly influence the performance of trading algorithms, hence making it a critical consideration in the design and implementation of trading systems.
 
 ## Key Role of Data Structures in Algo Trading
 

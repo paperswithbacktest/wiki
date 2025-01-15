@@ -198,7 +198,7 @@ By adopting dollar bars, traders can achieve a more dynamic representation of ma
 
 ## Real-World Applications of Dollar Bars
 
-In the world of algorithmic trading, the choice of data representation can significantly impact trading performance. Dollar bars offer a versatile framework that measures market activity in terms of the fiat value exchanged, rather than the frequency of trades or the number of shares traded. This approach makes them particularly beneficial in markets with varying [liquidity](/wiki/liquidity-risk-premium) and volatility, such as [cryptocurrency](/wiki/cryptocurrency) markets and traditional stock exchanges.
+In algorithmic trading, the choice of data representation can significantly impact trading performance. Dollar bars offer a versatile framework that measures market activity in terms of the fiat value exchanged, rather than the frequency of trades or the number of shares traded. This approach makes them particularly beneficial in markets with varying [liquidity](/wiki/liquidity-risk-premium) and volatility, such as [cryptocurrency](/wiki/cryptocurrency) markets and traditional stock exchanges.
 
 ### Cryptocurrency Markets
 
@@ -224,7 +224,7 @@ Traders and analysts can employ dollar bars to improve decision-making by gainin
 
 One concrete example of the effective use of dollar bars comes from a proprietary trading firm that deployed them in high-frequency trading strategies across the stocks listed on the NASDAQ. By reconstructing market data into dollar bars, they managed to detect anomalous market conditions that traditionally would have been obfuscated by noise in time-based or tick data. This led to enhanced algorithmic efficiency and accuracy in trade executions.
 
-In the realm of cryptocurrencies, a start-up [hedge fund](/wiki/hedge-fund-trading-strategies) adopted dollar bars to navigate the erratic trading environment of Bitcoin and Ethereum markets. By focusing on dollar-transacted metrics, they achieved a more stable and reliable set of analytics, which translated into better predictive models for lock and entry points, ultimately improving their portfolio performance and reducing volatility exposure.
+In cryptocurrencies, a start-up [hedge fund](/wiki/hedge-fund-trading-strategies) adopted dollar bars to navigate the erratic trading environment of Bitcoin and Ethereum markets. By focusing on dollar-transacted metrics, they achieved a more stable and reliable set of analytics, which translated into better predictive models for lock and entry points, ultimately improving their portfolio performance and reducing volatility exposure.
 
 These case studies underline the efficacy of dollar bars as an innovative tool in both volatile and stable market conditions, enabling traders and analysts to derive actionable insights and improve the outcome of their trading strategies.
 

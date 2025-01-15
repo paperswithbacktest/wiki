@@ -1,6 +1,6 @@
 ---
 title: "Comparison of Bitcoin and Litecoin (Algo Trading)"
-description: "Explore the key differences and similarities between Bitcoin and Litecoin in the world of algorithmic trading and learn how they impact trading strategies."
+description: "Explore the key differences and similarities between Bitcoin and Litecoin in algorithmic trading and learn how they impact trading strategies."
 ---
 
 Cryptocurrencies have witnessed a meteoric rise in popularity and significance over the past decade, revolutionizing the landscape of digital finance. As decentralized digital assets, cryptocurrencies offer a new paradigm of value exchange that transcends traditional banking systems. Among the myriad of cryptocurrencies available, Bitcoin and Litecoin stand out as two of the most prominent and influential players in the market.

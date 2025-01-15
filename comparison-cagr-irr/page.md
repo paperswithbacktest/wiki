@@ -60,7 +60,7 @@ where:
 
 This formula sheds light on how CAGR simplifies the comparison across different investments, despite the inherent [volatility](/wiki/volatility-trading-strategies) during individual years. For instance, investors considering mutual funds, stocks, or real estate portfolios can utilize CAGR to assess the efficacy of their growth strategies as it reduces the noise created by fluctuations in annual returns.
 
-Beyond a mere gauge of historical performance, the utility of CAGR extends into the realm of strategic financial planning. It provides insight into whether the investment aligns with long-term financial objectives, facilitating informed decision-making. By presenting a smoothed growth trajectory, CAGR allows investors to objectively evaluate if the investment approach matches their targeted growth aspirations.
+Beyond a mere gauge of historical performance, the utility of CAGR extends into strategic financial planning. It provides insight into whether the investment aligns with long-term financial objectives, facilitating informed decision-making. By presenting a smoothed growth trajectory, CAGR allows investors to objectively evaluate if the investment approach matches their targeted growth aspirations.
 
 Moreover, by normalizing the variations across the investment timeline, CAGR presents a standardized measure that aids in comparing returns across diverse asset classes and market conditions. This becomes instrumental for investors who are keen on juxtaposing different investment opportunities to optimize their portfolio mix for superior risk-adjusted returns.
 

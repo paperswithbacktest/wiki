@@ -25,7 +25,7 @@ While both legal systems significantly impact global legal practices, they diffe
 
 The influence of civil and common law systems extends into financial markets, particularly [algorithmic trading](/wiki/algorithmic-trading). These legal frameworks create the regulatory environment within which algorithmic trading operates, predominantly affecting how algorithmic trades are supervised, executed, and regulated. In civil law jurisdictions, codified regulations may offer precise guidelines and restrictions on trading practices. Conversely, common law jurisdictions may develop regulatory measures through accumulated judicial decisions, interpreting existing laws in response to new trading technologies and market behaviors.
 
-Understanding the intricacies of these legal systems is essential for grasping their impact on global trading practices. Legal practitioners, financial analysts, and stakeholders in international trading must be adept at navigating these systems to ensure compliance and optimize trading strategies. The structured nature of civil law offers clarity, whereas the adaptability of common law provides flexibility, each offering distinct benefits and challenges in the realm of algorithmic trading and beyond.
+Understanding the intricacies of these legal systems is essential for grasping their impact on global trading practices. Legal practitioners, financial analysts, and stakeholders in international trading must be adept at navigating these systems to ensure compliance and optimize trading strategies. The structured nature of civil law offers clarity, whereas the adaptability of common law provides flexibility, each offering distinct benefits and challenges in algorithmic trading and beyond.
 
 ## Algorithmic Trading: An Overview
 

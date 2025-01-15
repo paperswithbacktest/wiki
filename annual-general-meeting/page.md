@@ -15,7 +15,7 @@ This article will explore the significance of AGMs, their traditional structure,
 
 ## Understanding the Annual General Meeting (AGM)
 
-An Annual General Meeting (AGM) is a formal gathering of a company’s shareholders, aimed at fostering communication between the management and the shareholders regarding the company’s performance and future outlook. It is a foundational event in the realm of corporate governance, providing a platform for transparency and accountability. During an AGM, several key activities are undertaken to ensure the smooth operation and strategic direction of a company. 
+An Annual General Meeting (AGM) is a formal gathering of a company’s shareholders, aimed at fostering communication between the management and the shareholders regarding the company’s performance and future outlook. It is a foundational event in corporate governance, providing a platform for transparency and accountability. During an AGM, several key activities are undertaken to ensure the smooth operation and strategic direction of a company. 
 
 One of the primary activities within an AGM is the presentation and review of the company’s financial statements. This includes the balance sheet, income statement, and cash flow statement. These documents are crucial for giving shareholders insights into the company's financial health and performance over the past fiscal year. Understanding these financials enables shareholders to make informed decisions regarding their investments and align with the company’s financial strategies.
 

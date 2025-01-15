@@ -11,7 +11,7 @@ Similarly, in the modern financial sector, algorithmic trading represents a form
 
 Though seemingly unrelated, both Juneteenth and algorithmic trading share the overarching themes of liberation and progress. Each represents a break from historical constraints—whether social or financial—ushering a path towards equality and innovation. Their juxtaposition underscores a fundamental drive in human endeavor: the relentless pursuit of freedom in all its forms, charting courses toward greater equity and potential.
 
-This article will explore the historical significance of Juneteenth and draw parallels to the emancipation experienced in the world of algorithmic trading. By understanding how each event embodies themes of liberation, this examination will highlight the common pursuit of freedom as an essential catalyst for progress in society and finance alike.
+This article will explore the historical significance of Juneteenth and draw parallels to the emancipation experienced in algorithmic trading. By understanding how each event embodies themes of liberation, this examination will highlight the common pursuit of freedom as an essential catalyst for progress in society and finance alike.
 
 ## Table of Contents
 

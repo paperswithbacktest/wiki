@@ -104,7 +104,7 @@ This script simulates bond defaults and calculates the expected return and risk 
 
 ## The Role of Algorithmic Trading in MBS
 
-Algorithmic trading employs sophisticated algorithms to perform trading tasks such as decision-making and execution without human intervention. In the realm of Mortgage-Backed Securities (MBS), this approach facilitates enhanced [liquidity](/wiki/liquidity-risk-premium) and market efficiency. MBS, being complex financial products, benefit significantly from the precision and speed that [algorithmic trading](/wiki/algorithmic-trading) offers.
+Algorithmic trading employs sophisticated algorithms to perform trading tasks such as decision-making and execution without human intervention. In Mortgage-Backed Securities (MBS), this approach facilitates enhanced [liquidity](/wiki/liquidity-risk-premium) and market efficiency. MBS, being complex financial products, benefit significantly from the precision and speed that [algorithmic trading](/wiki/algorithmic-trading) offers.
 
 The impact of algorithmic trading on MBS markets primarily lies in its ability to execute transactions rapidly and accurately. Traditional trading often depends on manual processes, which can be slow and prone to errors. Algorithms, however, can analyze vast amounts of data in real-time, making split-second decisions that optimize trading outcomes. This capability is critical in markets where price movements can be fleeting, allowing traders to capture gains from even minor fluctuations.
 

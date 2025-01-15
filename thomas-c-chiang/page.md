@@ -17,7 +17,7 @@ Following the completion of his Ph.D., Thomas C. Chiang embarked on a career in 
 
 ## Contributions to Financial Research
 
-Chiang's extensive work in financial analysis, financial modeling, and higher education is marked by a series of influential publications. His research has significantly contributed to the understanding of various aspects of financial markets, particularly in the realm of algorithmic trading.
+Chiang's extensive work in financial analysis, financial modeling, and higher education is marked by a series of influential publications. His research has significantly contributed to the understanding of various aspects of financial markets, particularly in algorithmic trading.
 
 One of his seminal papers, "Forecasting Treasure Bill Rate - A Time Varying Coefficient Approach," published in the Journal of Financial Research in 1991, provided valuable insights into the dynamic nature of [interest rate](/wiki/interest-rate-trading-strategies) forecasting. Another key work, "Empirical Analysis on the Predictions of the Future Spot Rates" (1986), further cemented his reputation as a scholar capable of blending empirical analysis with theoretical foundations.
 
@@ -35,7 +35,7 @@ Algorithmic trading, characterized by the use of automated systems to execute tr
 
 As an academic and researcher, Thomas C. Chiang has left an indelible mark on the fields of finance and economics. His scholarly work continues to influence a wide array of financial practices and contributes to the evolution of financial theories and applications. Students and professionals alike benefit from his insights, which bridge the gap between theoretical economics and practical trading applications.
 
-Chiang's legacy extends beyond his published works; as an educator, he has inspired a new generation of finance professionals who [carry](/wiki/carry-trading) forward his commitment to rigorous analysis and innovative financial modeling. His contributions to finance, particularly in the realm of algorithmic trading, will undoubtedly continue to shape the field for years to come.
+Chiang's legacy extends beyond his published works; as an educator, he has inspired a new generation of finance professionals who [carry](/wiki/carry-trading) forward his commitment to rigorous analysis and innovative financial modeling. His contributions to finance, particularly in algorithmic trading, will undoubtedly continue to shape the field for years to come.
 
 ## External References
 

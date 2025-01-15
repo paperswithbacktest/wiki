@@ -84,7 +84,7 @@ Privacy concerns also pose significant challenges. With increasing regulatory sc
 
 The costs associated with processing vast quantities of alternative data further complicate its usage. High-performance computing resources are required to handle the volumes and variation of data efficiently. For instance, when dealing with extensive claims records from insurance datasets, firms need sophisticated data processing infrastructures to extract meaningful insights without incurring prohibitive costs.
 
-In the realm of algorithmic trading, practitioners must also be alert to potential pitfalls such as data overfitting. This occurs when a trading model is excessively tailored to historical data, capturing noise rather than genuine market signals. As a strategy to mitigate overfitting, traders can use techniques like cross-validation and out-of-sample testing to assess the robustness of their models.
+In algorithmic trading, practitioners must also be alert to potential pitfalls such as data overfitting. This occurs when a trading model is excessively tailored to historical data, capturing noise rather than genuine market signals. As a strategy to mitigate overfitting, traders can use techniques like cross-validation and out-of-sample testing to assess the robustness of their models.
 
 Despite these challenges, considerable opportunities exist for those who can navigate the complexities. Developing advanced machine learning models capable of handling diverse datasets efficiently is at the forefront of this endeavor. Machine learning algorithms, particularly those leveraging deep learning and ensemble techniques, are becoming increasingly adept at identifying subtle market trends from multifaceted data sources.
 

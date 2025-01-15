@@ -264,7 +264,7 @@ plt.legend()
 plt.show()
 ```
 
-Through this example, traders gain practical insights into implementing a Python-driven approach to volatility trading. By effectively extracting and analyzing data, traders can build robust models that forecast volatility, thereby improving their ability to make informed trading decisions. This case study also serves as a tutorial for traders intending to employ their volatility models using Python, underscoring Python's utility in the realm of [algorithmic trading](/wiki/algorithmic-trading).
+Through this example, traders gain practical insights into implementing a Python-driven approach to volatility trading. By effectively extracting and analyzing data, traders can build robust models that forecast volatility, thereby improving their ability to make informed trading decisions. This case study also serves as a tutorial for traders intending to employ their volatility models using Python, underscoring Python's utility in [algorithmic trading](/wiki/algorithmic-trading).
 
 ## Challenges and Best Practices
 

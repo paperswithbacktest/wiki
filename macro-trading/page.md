@@ -23,7 +23,7 @@ The 1970s played a pivotal role in the evolution of [macro trading](/wiki/macro-
 
 Among the pioneers of macro trading, George Soros stands out for his legendary bet against the British pound in 1992. He speculated that the pound would be forced to devalue, and by leveraging billions, he famously "broke the Bank of England" and earned a profit of around $1 billion in a single day. This audacious move not only solidified his status as one of the most astute macro traders but also underscored the potential of macro trading strategies to capitalize on global economic trends and policy missteps.
 
-Another key contributor to the realm of macro trading is Paul Tudor Jones. His prescient prediction of the 1987 stock market crash, as depicted in the documentary "Trader," showcased his ability to leverage macroeconomic insights into actionable trading strategies. His approach, which melded technical analysis with a keen understanding of macro events, set a precedent for future macro traders.
+Another key contributor to macro trading is Paul Tudor Jones. His prescient prediction of the 1987 stock market crash, as depicted in the documentary "Trader," showcased his ability to leverage macroeconomic insights into actionable trading strategies. His approach, which melded technical analysis with a keen understanding of macro events, set a precedent for future macro traders.
 
 The rise of these early macro traders coincided with the growth of global [hedge fund](/wiki/hedge-fund-trading-strategies)s, which provided the perfect platform for macro strategies to be tested and optimized. Funds like Soros’s Quantum Fund and Tudor Jones’s Tudor Investment Corporation were instrumental in shaping the macro trading landscape.
 

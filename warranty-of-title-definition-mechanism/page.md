@@ -49,7 +49,7 @@ Furthermore, the digital transformation and the accompanying rise of digital ass
 
 The interplay of ownership rights within economic systems underscores the need for robust legal infrastructure. Clear legal definitions and protections enable markets to function more efficiently and inclusively, benefiting broader economic systems. As such, continuous refinement of property laws is essential to support evolving economic landscapes and leverage opportunities for growth and innovation.
 
-## Legal Challenges in the Realm of Algorithmic Trading
+## Legal Challenges in Algorithmic Trading
 
 Algorithmic trading, characterized by the use of advanced algorithms to automate and optimize trading decisions, raises several complex legal concerns primarily centered around intellectual property and data rights. These issues arise due to the proprietary nature of trading algorithms and the vast amounts of data utilised in this domain.
 

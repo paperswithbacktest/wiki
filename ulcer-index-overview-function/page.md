@@ -11,7 +11,7 @@ Traditional risk metrics like the standard deviation and Sharpe Ratio typically 
 
 Metaphorically borrowing from the concept of ulcers in digestive health, where stress and prolonged exposure to certain conditions can lead to discomfort, the Ulcer Index similarly emphasizes stress caused by unfavorable market movements. This approach highlights the importance of evaluating stress elements in financial contexts, analogous to assessing potential causes and impacts in health-related scenarios.
 
-In the world of algorithmic trading, where computational models and mathematical algorithms drive investment decisions, such a tool proves invaluable. By offering a more nuanced understanding of market stress, the Ulcer Index enables traders and investors to prioritize risk mitigation. Through its application, traders are better equipped to manage portfolios with a focus on preserving capital by identifying and minimizing exposure to periods of significant market decline.
+In algorithmic trading, where computational models and mathematical algorithms drive investment decisions, such a tool proves invaluable. By offering a more nuanced understanding of market stress, the Ulcer Index enables traders and investors to prioritize risk mitigation. Through its application, traders are better equipped to manage portfolios with a focus on preserving capital by identifying and minimizing exposure to periods of significant market decline.
 
 The Ulcer Index thus offers a comprehensive perspective, balancing the pursuit of returns with the prudent management of risk. It equips traders and investors with the insights needed to handle market uncertainties, ultimately fostering informed decision-making and enhancing overall trading strategies.
 

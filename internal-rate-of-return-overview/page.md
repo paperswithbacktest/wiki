@@ -135,7 +135,7 @@ Conclusively, the synergy between algorithmic trading and financial analysis has
 
 ## Integrating IRR with Algo Trading Strategies
 
-The integration of the Internal Rate of Return (IRR) with algorithmic trading strategies presents a promising evolution in the realm of financial analysis and automated trading. By utilizing IRR, algorithmic trading systems can be refined to make more informed investment decisions, aligning short-term trading efficiency with long-term profitability.
+The integration of the Internal Rate of Return (IRR) with algorithmic trading strategies presents a promising evolution in financial analysis and automated trading. By utilizing IRR, algorithmic trading systems can be refined to make more informed investment decisions, aligning short-term trading efficiency with long-term profitability.
 
 IRR serves as a critical metric in assessing the viability of investments by estimating the expected annual growth rate. In the context of algorithmic trading, IRR can be employed to evaluate and prioritize trades that align with an investor’s risk tolerance and return expectations. By calculating IRR for potential trading strategies, algorithms can discern which strategies are most likely to meet predefined financial thresholds, thus refining decision-making processes and optimizing portfolio management.
 

@@ -55,7 +55,7 @@ In summary, algorithmic trading represents a significant advancement in trading 
 
 ## Impact of Algorithmic Trading on FDI
 
-Algorithmic trading has emerged as a transformative force in the realm of Foreign Direct Investment (FDI), altering how investors evaluate and execute cross-border investments. This section discusses how algorithmic trading influences FDI decision-making through advanced analytics, risk minimization, and the alignment with global market digitalization.
+Algorithmic trading has emerged as a transformative force in Foreign Direct Investment (FDI), altering how investors evaluate and execute cross-border investments. This section discusses how algorithmic trading influences FDI decision-making through advanced analytics, risk minimization, and the alignment with global market digitalization.
 
 Algorithmic trading employs sophisticated computer algorithms to analyze large data sets quickly, uncovering patterns and trends that may elude traditional analysis methods. This powerful analytical capability provides investors with a more nuanced understanding of international market conditions, enabling more informed FDI decisions. For instance, by analyzing macroeconomic indicators, foreign exchange fluctuations, and geopolitical developments, algorithms can forecast market conditions that impact foreign investment strategies.
 

@@ -47,7 +47,7 @@ Several types of algorithms are utilized in the financial markets:
 
 The integration of technology and data analytics plays a crucial role in algorithmic trading. Sophisticated trading platforms and powerful computing systems enable traders to backtest their algorithms with historical data to evaluate their potential profitability and risks before deployment in real markets. Significant advancements in data processing techniques, such as real-time data analytics and big data technology, are pivotal in refining these algorithms for better performance.
 
-Moreover, [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) have begun permeating the realm of algorithmic trading, allowing algorithms to learn from past trades to optimize future trading decisions. This approach enhances the adaptive capacity of algorithms, potentially leading to improved trading strategies that can operate effectively under changing market conditions.
+Moreover, [machine learning](/wiki/machine-learning) and [artificial intelligence](/wiki/ai-artificial-intelligence) have begun permeating algorithmic trading, allowing algorithms to learn from past trades to optimize future trading decisions. This approach enhances the adaptive capacity of algorithms, potentially leading to improved trading strategies that can operate effectively under changing market conditions.
 
 In conclusion, algorithmic trading represents a cutting-edge approach to financial market interactions. By harnessing computational power and data science, it offers unparalleled benefits in efficiency, precision, and cost-effectiveness, distinguishing itself markedly from traditional trading methodologies.
 
@@ -173,7 +173,7 @@ In conclusion, keeping informed about the latest developments in algorithmic tra
 
 5. **Additional Insights and Resources:**
    - Zuckerman, Gregory. *The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution*. Penguin Random House, 2019. This book explores the evolution and impact of algorithmic trading firms, providing context for companies such as Eisler Capital.
-   - "Algorithmic Trading: A Survey." Available via ArXiv.org (arxiv.org/abs/2011.01098). This paper offers a comprehensive survey of the technologies and strategies prevalent in the realm of algorithmic trading.
+   - "Algorithmic Trading: A Survey." Available via ArXiv.org (arxiv.org/abs/2011.01098). This paper offers a comprehensive survey of the technologies and strategies prevalent in algorithmic trading.
 
 These resources serve as foundational knowledge and further reading to understand the dynamics of algorithmic trading and the role companies like Eisler Capital play in shaping contemporary financial markets.
 

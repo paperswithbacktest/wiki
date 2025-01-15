@@ -184,7 +184,7 @@ Therefore, algorithmic trading relying strictly on economic theories must remain
 
 ## Conclusion
 
-Consumer behavior and economic theories intersect significantly in the realm of trading, offering vital insights into market dynamics and decision-making processes. Algorithmic trading, leveraging principles such as the substitution effect, integrates these insights to optimize trading strategies. By understanding how consumers adjust their purchasing habits in response to price changes, algorithmic models can mimic these patterns to predict market movements.
+Consumer behavior and economic theories intersect significantly in trading, offering vital insights into market dynamics and decision-making processes. Algorithmic trading, leveraging principles such as the substitution effect, integrates these insights to optimize trading strategies. By understanding how consumers adjust their purchasing habits in response to price changes, algorithmic models can mimic these patterns to predict market movements.
 
 Future research in this field should focus on refining algorithms to better accommodate complex consumer behavior patterns and market conditions. This includes developing more sophisticated machine learning models that can adapt to evolving economic factors and consumer preferences. Moreover, the rapid technological advancements demand continuous exploration of how traditional economic theories, such as utility maximization, can be adapted and integrated into these automated systems to enhance predictive accuracy.
 

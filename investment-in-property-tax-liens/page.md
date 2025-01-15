@@ -90,7 +90,7 @@ The implementation of algo trading in tax lien investments not only accelerates 
 
 ## Advantages of Using Algorithms in Tax Lien Investing
 
-Algorithmic trading, often known as algo trading, has revolutionized various financial markets by employing complex algorithms to automate and optimize trading decisions. This approach is now making significant inroads into the realm of tax lien investing. This section explores how algorithms enhance speed and efficiency in tax lien investments, minimize risk, and maximize returns, supported by case studies.
+Algorithmic trading, often known as algo trading, has revolutionized various financial markets by employing complex algorithms to automate and optimize trading decisions. This approach is now making significant inroads into tax lien investing. This section explores how algorithms enhance speed and efficiency in tax lien investments, minimize risk, and maximize returns, supported by case studies.
 
 ### Speed and Efficiency
 

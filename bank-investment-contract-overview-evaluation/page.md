@@ -29,7 +29,7 @@ Investors participating in BICs can also take advantage of the 'deposit window' 
 
 Additionally, BICs often offer higher yields than traditional savings accounts and Certificates of Deposit (CDs). The increased yield is primarily due to the illiquid nature of BICs — once an investor commits to a BIC, their capital is typically locked in until the contract matures. This illiquidity is compensated by the offering of higher interest rates, providing a premium over more liquid bank products.
 
-In the realm of portfolio diversification, BICs play a crucial role. They are frequently incorporated into diversified investment portfolios to balance risk across different asset types. By including BICs, investors can offset the [volatility](/wiki/volatility-trading-strategies) of equities or other high-risk investments, thus stabilizing their overall portfolio performance.
+In portfolio diversification, BICs play a crucial role. They are frequently incorporated into diversified investment portfolios to balance risk across different asset types. By including BICs, investors can offset the [volatility](/wiki/volatility-trading-strategies) of equities or other high-risk investments, thus stabilizing their overall portfolio performance.
 
 Finally, the guarantee of returns associated with BICs is a major attraction for pension plans and long-term savings vehicles. The assurance of a fixed return provides security for financial planning and actuarial forecasting, making BICs a dependable component in managing future liabilities.
 

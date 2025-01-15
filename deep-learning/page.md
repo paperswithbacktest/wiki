@@ -214,7 +214,7 @@ In sum, this application underscores the potential of LSTM networks in advancing
 
 ## Conclusion
 
-Deep reinforcement learning (DRL) holds considerable promise in the world of algorithmic trading, effectively pushing the boundaries of strategy development and execution. Its capacity to learn and adapt in real-time has the potential to revolutionize trading strategies, offering a competitive advantage in rapidly changing financial markets. DRL's strength lies in its ability to process complex and vast datasets autonomously, continually refining strategies to maximize returns.
+Deep reinforcement learning (DRL) holds considerable promise in algorithmic trading, effectively pushing the boundaries of strategy development and execution. Its capacity to learn and adapt in real-time has the potential to revolutionize trading strategies, offering a competitive advantage in rapidly changing financial markets. DRL's strength lies in its ability to process complex and vast datasets autonomously, continually refining strategies to maximize returns.
 
 However, applying DRL to trading is not without challenges. One significant hurdle is handling market unpredictability, where sudden changes in market conditions can greatly affect performance. The model's adaptability needs to match the market's rapid fluctuations, which can be daunting given the stochastic nature of financial markets. Additionally, refining predictive accuracy remains a critical area for further research. The complexity of financial markets means that even sophisticated models may struggle with accurate predictions, requiring ongoing enhancements to ensure reliability and precision.
 

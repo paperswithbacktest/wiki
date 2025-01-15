@@ -103,7 +103,7 @@ Real-world examples demonstrate the transformative power of effective cost analy
 
 In the manufacturing sector, consider the case of a mid-sized electronics company that conducted a comprehensive cost analysis to streamline its operations. By closely examining its overhead costs, the company identified inefficiencies in energy consumption and maintenance procedures. Implementing energy-saving technologies and optimizing maintenance schedules resulted in a reduction of overhead costs by 15%. Consequently, this led to an increase in profit margins by 10%, underscoring how strategic cost control can directly enhance financial outcomes.
 
-In the realm of algorithmic trading, cost analysis plays a pivotal role in refining trading strategies. A leading trading firm, specializing in high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), applied advanced cost analysis techniques to assess transaction fees, latency costs, and infrastructure expenses. By utilizing these insights, the firm successfully restructured its algorithms to minimize transaction costs. Here's a simplified Python snippet modeling this optimization process:
+In algorithmic trading, cost analysis plays a pivotal role in refining trading strategies. A leading trading firm, specializing in high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), applied advanced cost analysis techniques to assess transaction fees, latency costs, and infrastructure expenses. By utilizing these insights, the firm successfully restructured its algorithms to minimize transaction costs. Here's a simplified Python snippet modeling this optimization process:
 
 ```python
 def optimize_trading_strategy(transaction_costs, latency, infrastructure_costs):

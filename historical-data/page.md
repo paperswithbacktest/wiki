@@ -9,7 +9,7 @@ A key component of creating effective algorithmic trading strategies is the use 
 
 ![Image](images/1.png)
 
-The concept of using past market data to forecast future movements underpins many algorithmic trading models. Algorithms are constructed to recognize repeatable formats within this historical data and apply these insights to predict future price movements. The reliance on historical data helps in simulating potential trading scenarios, allowing for more robust strategy testing before implementation in live markets. The integration of historical data not only improves predictability but also assists in reducing risks associated with unforeseen market changes. This foundational approach highlights the intrinsic value historical data holds in the realm of algorithmic trading.
+The concept of using past market data to forecast future movements underpins many algorithmic trading models. Algorithms are constructed to recognize repeatable formats within this historical data and apply these insights to predict future price movements. The reliance on historical data helps in simulating potential trading scenarios, allowing for more robust strategy testing before implementation in live markets. The integration of historical data not only improves predictability but also assists in reducing risks associated with unforeseen market changes. This foundational approach highlights the intrinsic value historical data holds in algorithmic trading.
 
 ## Table of Contents
 

@@ -9,7 +9,7 @@ As issues of income inequality gain prominence globally, understanding tools lik
 
 ![Image](images/1.jpeg)
 
-In parallel to the growing discourse on economic inequality, the realm of automated or algorithmic trading is increasingly relevant. This sophisticated trading method, characterized by the use of algorithms to execute trade orders, can significantly influence market dynamics. It affects liquidity and volatility, potentially exacerbating economic disparities by concentrating financial gains among a limited number of high-frequency traders. Thus, the interplay between algorithmic trading and economic inequality warrants attention.
+In parallel to the growing discourse on economic inequality, automated or algorithmic trading is increasingly relevant. This sophisticated trading method, characterized by the use of algorithms to execute trade orders, can significantly influence market dynamics. It affects liquidity and volatility, potentially exacerbating economic disparities by concentrating financial gains among a limited number of high-frequency traders. Thus, the interplay between algorithmic trading and economic inequality warrants attention.
 
 This article evaluates the role of the Gini Index in contemporary economic analysis while considering its limitations. Furthermore, it examines how automated trading affects financial markets and its implications for economic inequality. By exploring the intersection of these topics, the article provides a comprehensive perspective relevant to current financial systems and policy considerations.
 

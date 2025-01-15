@@ -150,7 +150,7 @@ Algorithmic trading has revolutionized commodity markets, offering both opportun
 
 1. **High-Frequency Trading (HFT) in Oil Markets**
 
-High-frequency trading represents a significant success in the realm of algorithmic trading, particularly in oil markets. Firms engaged in [HFT](/wiki/high-frequency-trading-strategies) leverage powerful algorithms to execute trades in fractions of a second, capitalizing on minute price discrepancies. For instance, during periods of high volatility, such as geopolitical tensions affecting oil supply, HFT algorithms can quickly adjust positions, optimizing profitability. These algorithms also contribute to enhancing market liquidity by increasing transaction volumes and narrowing bid-ask spreads, which benefits all market participants.
+High-frequency trading represents a significant success in algorithmic trading, particularly in oil markets. Firms engaged in [HFT](/wiki/high-frequency-trading-strategies) leverage powerful algorithms to execute trades in fractions of a second, capitalizing on minute price discrepancies. For instance, during periods of high volatility, such as geopolitical tensions affecting oil supply, HFT algorithms can quickly adjust positions, optimizing profitability. These algorithms also contribute to enhancing market liquidity by increasing transaction volumes and narrowing bid-ask spreads, which benefits all market participants.
 
 2. **Machine Learning and Predictive Analytics in Agriculture**
 
@@ -207,7 +207,7 @@ The interplay between commodities, market dynamics, and algorithmic trading is p
 - **MetaTrader 5**: Popular for forex and commodities trading, offering advanced charting and trading capabilities.
 
 #### Suggested Readings on Algorithmic Trading in Other Asset Classes
-1. **"Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading"** by Rishi K. Narang - This book demystifies complex trading strategies within the realm of quantitative and high-frequency trading.
+1. **"Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading"** by Rishi K. Narang - This book demystifies complex trading strategies within quantitative and high-frequency trading.
 
 2. **"High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"** by Irene Aldridge - A detailed guide to algorithmic strategies applicable across various asset classes, not limited to commodities.
 

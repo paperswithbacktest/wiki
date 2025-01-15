@@ -37,7 +37,7 @@ Risk management is a core component of AlphaGrep's strategy development. The fir
 
 AlphaGrep also emphasizes continuous improvement and innovation within its strategy framework. The use of [backtesting](/wiki/backtesting) and simulation plays a crucial role in refining their trading models, allowing the firm to test various hypotheses and adapt to evolving market conditions. This iterative process ensures that strategies remain robust and relevant over time.
 
-In summary, AlphaGrep's trading strategies are built on a foundation of sophisticated analytics, cutting-edge technology, and rigorous risk management practices. By interlinking these elements, the firm sustains its competitive advantage in the world of algorithmic trading.
+In summary, AlphaGrep's trading strategies are built on a foundation of sophisticated analytics, cutting-edge technology, and rigorous risk management practices. By interlinking these elements, the firm sustains its competitive advantage in algorithmic trading.
 
 ## Global Operations and Market Presence
 

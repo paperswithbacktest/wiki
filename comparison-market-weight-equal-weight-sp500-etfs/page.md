@@ -9,7 +9,7 @@ Exchange-Traded Funds (ETFs) have emerged as transformative investment tools, of
 
 ![Image](images/1.gif)
 
-Within the realm of S&P 500 ETFs, two primary types prevail: market-weighted and equal-weighted ETFs. Market-weighted ETFs replicate the traditional S&P 500 index's methodology, giving larger companies more influence in the fund's portfolio. In contrast, equal-weighted ETFs allocate identical weight to each company, regardless of its market capitalization, promoting a more uniform distribution of investment across all 500 companies.
+Within S&P 500 ETFs, two primary types prevail: market-weighted and equal-weighted ETFs. Market-weighted ETFs replicate the traditional S&P 500 index's methodology, giving larger companies more influence in the fund's portfolio. In contrast, equal-weighted ETFs allocate identical weight to each company, regardless of its market capitalization, promoting a more uniform distribution of investment across all 500 companies.
 
 In parallel, algorithmic trading has gained prominence. It refers to using computer algorithms to execute trading orders with minimal human intervention, often based on predetermined rules and strategies. Such automated trading systems can process significant amounts of data at high speeds, optimizing trade timing and execution, which has reshaped modern investing landscapes by enhancing efficiency, speed, and precision.
 

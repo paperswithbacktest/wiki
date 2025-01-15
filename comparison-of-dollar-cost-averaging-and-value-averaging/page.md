@@ -95,7 +95,7 @@ While algorithmic trading offers numerous benefits, it is not without risks. Som
 
 ### Examples of Successful Algorithmic Trading Strategies
 
-Several firms and strategies have demonstrated success in the realm of algorithmic trading. A notable example is the Medallion Fund, managed by Renaissance Technologies. Known for its exceptional returns, the fund employs sophisticated statistical models and algorithms to execute trades across a broad spectrum of financial instruments.
+Several firms and strategies have demonstrated success in algorithmic trading. A notable example is the Medallion Fund, managed by Renaissance Technologies. Known for its exceptional returns, the fund employs sophisticated statistical models and algorithms to execute trades across a broad spectrum of financial instruments.
 
 Similarly, high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) firms like Citadel Securities and Virtu Financial use algorithmic approaches to trade large volumes of stocks and other securities, profiting from small price discrepancies in milliseconds. These firms rely heavily on advanced technology and infrastructure to maintain their competitive edge in speed and execution.
 

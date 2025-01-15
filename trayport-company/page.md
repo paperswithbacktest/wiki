@@ -39,7 +39,7 @@ Moreover, Trayport’s solutions are adept at improving market operations. By in
 
 The continuous innovation embedded within Trayport's platforms exemplifies their commitment to enhancing trading efficiencies. By providing comprehensive tools and technologies, Trayport empowers energy traders with improved market access, allowing them to navigate complex trading scenarios effectively. This capability is vital in a rapidly evolving energy market, where the ability to manage trades efficiently can provide significant competitive advantages. 
 
-Ultimately, Trayport positions itself as a pivotal player in the realm of electronic trading solutions, continually adapting to the needs of the energy market through forward-thinking technological advancements. This adaptability ensures that Trayport meets the demands of the ever-changing landscape, offering support that is both reliable and innovative.
+Ultimately, Trayport positions itself as a pivotal player in electronic trading solutions, continually adapting to the needs of the energy market through forward-thinking technological advancements. This adaptability ensures that Trayport meets the demands of the ever-changing landscape, offering support that is both reliable and innovative.
 
 ## Algorithmic Trading in Energy Markets
 

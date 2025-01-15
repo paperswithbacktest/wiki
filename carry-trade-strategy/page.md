@@ -79,7 +79,7 @@ def dynamic_stop_loss(current_price, entry_price, loss_limit_percent):
         return "Hold Position"
 ```
 
-In the realm of leveraging, algorithms must carefully manage the extent of borrowed capital used in trades to amplify potential returns. Strategic use of leverage involves calculating the optimal ratio, balancing the potential for increased profits against the risk of significant losses. An algorithm might automatically adjust leverage based on market volatility, increasing leverage in stable conditions and reducing it during high volatility.
+In leveraging, algorithms must carefully manage the extent of borrowed capital used in trades to amplify potential returns. Strategic use of leverage involves calculating the optimal ratio, balancing the potential for increased profits against the risk of significant losses. An algorithm might automatically adjust leverage based on market volatility, increasing leverage in stable conditions and reducing it during high volatility.
 
 Implementing these elements requires a sophisticated understanding of both market behavior and computational techniques. It is not merely about coding but involves constant testing and refinement of algorithms. Traders often simulate different market scenarios, [backtesting](/wiki/backtesting) their strategies using historical data to ensure robustness before deploying them in live market conditions. Adjustments are made based on backtest results to fine-tune the parameters and rules within the algorithm.
 

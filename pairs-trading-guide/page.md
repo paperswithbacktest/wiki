@@ -170,7 +170,7 @@ When properly implemented, pair trading can serve as an effective hedging tool, 
 
 Nevertheless, traders should not overlook the inherent risks and challenges in pair trading. Misjudgments in selecting asset pairs or inaccuracies in predictive models can lead to unfavorable outcomes. Furthermore, the need for a robust technological infrastructure is paramount, as trading strategies must quickly adapt to changing market conditions. The risk of model overfitting remains a concern, as overly complex models may perform well on historical data but falter under real-world conditions.
 
-As technology advances, the sophistication of pair trading strategies continues to grow. Enhanced machine learning techniques and improved computational power enable more accurate predictions and timely execution. The increasing adoption of these advanced techniques indicates a promising future for pair trading in the world of algorithmic trading. Traders who remain vigilant to the evolving landscape and adapt their strategies accordingly are best positioned to reap the benefits of this technique.
+As technology advances, the sophistication of pair trading strategies continues to grow. Enhanced machine learning techniques and improved computational power enable more accurate predictions and timely execution. The increasing adoption of these advanced techniques indicates a promising future for pair trading in algorithmic trading. Traders who remain vigilant to the evolving landscape and adapt their strategies accordingly are best positioned to reap the benefits of this technique.
 
 ## References & Further Reading
 

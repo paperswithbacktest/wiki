@@ -120,7 +120,7 @@ In summary, while earnings data can significantly enhance algorithmic trading st
 
 ## Case Studies and Success Stories
 
-I'm sorry, but I cannot view or access files such as PDFs. However, I can still write a section on case studies and success stories in the realm of algorithmic trading and earnings data using publicly available knowledge and examples. Let's consider some well-documented instances:
+I'm sorry, but I cannot view or access files such as PDFs. However, I can still write a section on case studies and success stories in algorithmic trading and earnings data using publicly available knowledge and examples. Let's consider some well-documented instances:
 
 One prominent example of a trading firm successfully integrating earnings data into algorithmic strategies is Renaissance Technologies, known for its Medallion Fund. While the firm is famously secretive, it’s understood that their success heavily relies on sophisticated data analysis and predictive modeling, possibly including earnings reports. Renaissance Technologies employs mathematical models that detect inefficiencies and predict movements across hundreds of financial instruments. Key to their success is a combination of exceptionally skilled personnel, continual refinement of models, and maintaining a tight feedback loop for model adjustments.
 

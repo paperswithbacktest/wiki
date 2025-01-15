@@ -11,7 +11,7 @@ Similarly, stock issuance plays a crucial role in corporate finance by allowing 
 
 Algorithmic trading is another key component that represents a sophisticated method in modern financial markets. Automating the execution of trades, algorithmic trading utilizes complex algorithms to carry out transactions efficiently and rapidly. This technology-driven process can boost market liquidity and ensure that trades are executed at optimal prices without human intervention. The seamless integration of algorithmic trading with various corporate actions, like stock issuance, can significantly influence market dynamics, offering advantages such as increased trading volumes and price stability.
 
-This article aims to explore the interrelations between bonus shares, stock issuance, and algorithmic trading, shedding light on their collective impact within the realm of corporate finance. Understanding how these components influence corporate strategies and market behaviors is essential for stakeholders navigating today's financial landscape.
+This article aims to explore the interrelations between bonus shares, stock issuance, and algorithmic trading, shedding light on their collective impact within corporate finance. Understanding how these components influence corporate strategies and market behaviors is essential for stakeholders navigating today's financial landscape.
 
 ## Table of Contents
 

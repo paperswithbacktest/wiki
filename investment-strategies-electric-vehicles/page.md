@@ -23,7 +23,7 @@ Beyond Tesla, several established automakers are also expanding their portfolios
 
 In addition to vehicle manufacturers, investment prospects exist within companies that supply essential parts and materials to the EV industry. For example, Plug Power, which specializes in hydrogen fuel cell systems, is increasingly relevant as EV manufacturers explore alternative energy storage and propulsion technologies. Investing in these suppliers can offer exposure to critical components of the EV supply chain and the diverse technological approaches being adopted in the sector.
 
-Overall, direct investments in electric vehicle-focused companies comprise an integral part of a diversified investment strategy aimed at benefiting from the transition to sustainable transportation. As established automakers commit to electrification and leading-edge companies like Tesla and Plug Power drive innovation, the realm of opportunities for investors in the EV sector promises substantial potential growth.
+Overall, direct investments in electric vehicle-focused companies comprise an integral part of a diversified investment strategy aimed at benefiting from the transition to sustainable transportation. As established automakers commit to electrification and leading-edge companies like Tesla and Plug Power drive innovation, opportunities for investors in the EV sector promises substantial potential growth.
 
 ## Electric Vehicles Exchange-Traded Funds (ETFs)
 

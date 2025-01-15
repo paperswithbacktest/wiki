@@ -145,7 +145,7 @@ Overall, while emerging trade policies may introduce complexity into algorithmic
 
 ## Conclusion
 
-The complex interplay between trade barriers, tariffs, and algorithmic trading forms a multifaceted landscape in the realm of international commerce. This intersection significantly impacts global markets, shaping the strategies and outcomes of various trading entities. Trade barriers, including tariffs, quotas, and non-tariff barriers, serve as pivotal instruments for countries to regulate the flow of goods and services. They influence economic dynamics by protecting domestic industries and affecting foreign trade competition.
+The complex interplay between trade barriers, tariffs, and algorithmic trading forms a multifaceted landscape in international commerce. This intersection significantly impacts global markets, shaping the strategies and outcomes of various trading entities. Trade barriers, including tariffs, quotas, and non-tariff barriers, serve as pivotal instruments for countries to regulate the flow of goods and services. They influence economic dynamics by protecting domestic industries and affecting foreign trade competition.
 
 Tariffs, as one of the primary forms of trade barriers, play a critical role in international trade policy. By imposing costs on imports, they can both protect domestic industries and alter the competitive environment for foreign competitors. Historical and contemporary cases illustrate the profound effects tariffs have, both beneficial in terms of protectionism and detrimental when they lead to trade wars.
 

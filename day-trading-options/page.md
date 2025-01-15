@@ -222,7 +222,7 @@ Risk management is the backbone of a successful options day trading operation. W
 
 **Significance of Setting Goals and Stop Losses**: Before entering any trade, it's paramount to have clear goals and defined exit strategies. Stop losses are orders placed with a broker to buy or sell once the stock reaches a certain price, ensuring that a trade is automatically closed at a pre-determined level to limit potential losses. By setting clear goals, traders can ensure they lock in profits at desired levels without letting emotions cloud their judgment.
 
-**Role of Diversification**: It's a fundamental principle of investing: don't put all your eggs in one basket. Diversification, or spreading investments across various assets or strategies, can mitigate the impact of a poor-performing investment on the overall portfolio[4]. Even within the realm of options, traders can diversify by underlying assets, expiration dates, or strategies.
+**Role of Diversification**: It's a fundamental principle of investing: don't put all your eggs in one basket. Diversification, or spreading investments across various assets or strategies, can mitigate the impact of a poor-performing investment on the overall portfolio[4]. Even within options, traders can diversify by underlying assets, expiration dates, or strategies.
 
 **Importance of Backtesting Strategies**: Backtesting involves applying trading strategies to historical data to ascertain their viability before risking any actual capital[5]. It offers a glimpse into potential profitability, drawdown, and other performance metrics, ensuring that traders are equipped with strategies that have proven successful in past market conditions.
 
@@ -250,7 +250,7 @@ In the dynamic world of options day trading, understanding these pros and cons c
 
 ## Getting Started with Day Trading Options
 
-Entering the realm of options day trading demands a blend of preparation, understanding of market dynamics, and the right resources. Here's a roadmap to set you on the right [course](/wiki/best-algorithmic-trading-courses):
+Entering options day trading demands a blend of preparation, understanding of market dynamics, and the right resources. Here's a roadmap to set you on the right [course](/wiki/best-algorithmic-trading-courses):
 
 **Minimum Capital Requirements**:
 

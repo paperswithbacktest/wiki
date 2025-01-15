@@ -9,7 +9,7 @@ Social influence and peer group dynamics significantly impact the behavior and d
 
 ![Image](images/1.png)
 
-The integration of social and peer influences into the realm of algo trading presents profound implications for financial markets. Such integration not only reflects the human tendency to conform to peer behaviors but also underscores the potential for collective decision-making to influence algorithmic strategies. Traders and financial institutions must consider these social dynamics when developing and refining their trading algorithms to enhance their predictive accuracy and adaptiveness to market changes.
+The integration of social and peer influences into algo trading presents profound implications for financial markets. Such integration not only reflects the human tendency to conform to peer behaviors but also underscores the potential for collective decision-making to influence algorithmic strategies. Traders and financial institutions must consider these social dynamics when developing and refining their trading algorithms to enhance their predictive accuracy and adaptiveness to market changes.
 
 This article examines the role of social and peer group dynamics in algo trading, offering insights into their broader implications for the financial markets. By exploring how these social elements intertwine with technological advancements in trading, we can better understand the complexities of modern financial systems and the opportunities and challenges they present.
 

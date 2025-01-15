@@ -51,7 +51,7 @@ However, the rise of algorithmic trading also introduces challenges, particularl
 
 The balance between leveraging the strategic benefits of algorithmic trading and maintaining ethical integrity is essential. As algorithmic trading continues to evolve, it necessitates a comprehensive regulatory framework to mitigate risks and ensure fair market practices. Regulators may need to develop more advanced oversight methodologies and employ technologies that can effectively monitor and govern high-frequency trading activities to prevent abuse.
 
-## Freeze Outs in the Realm of Algo Trading
+## Freeze Outs in Algo Trading
 
 Algorithmic trading, characterized by the use of complex algorithms and high-speed data processing, adds a new dimension to traditional freeze out strategies employed by majority shareholders. By utilizing these algorithms, traders can execute large volumes of transactions at speeds unmatched by human traders, significantly affecting stock prices and market conditions. This capability can be strategically leveraged to influence the stock valuations in ways that pressure minority shareholders into selling their shares.
 

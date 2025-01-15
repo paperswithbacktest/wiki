@@ -53,7 +53,7 @@ Additionally, regulatory entities such as FINRA regularly publish lists of disci
 
 ## The Role of FINRA and Other Regulatory Bodies
 
-The Financial Industry Regulatory Authority (FINRA) plays a substantial role in establishing and enforcing ethical standards within the realm of algorithmic trading, ensuring a robust framework for fair trading practices. FINRA's mandate includes creating detailed guidelines for broker-dealers aimed at promoting loyalty and equitable dealings with clients. These guidelines serve as a deterrent against unfair trading activities by defining clear ethical benchmarks and procedures that market participants are required to follow.
+The Financial Industry Regulatory Authority (FINRA) plays a substantial role in establishing and enforcing ethical standards within algorithmic trading, ensuring a robust framework for fair trading practices. FINRA's mandate includes creating detailed guidelines for broker-dealers aimed at promoting loyalty and equitable dealings with clients. These guidelines serve as a deterrent against unfair trading activities by defining clear ethical benchmarks and procedures that market participants are required to follow.
 
 FINRA's regulatory approach encompasses monitoring trading activities to detect irregular practices, imposing sanctions on violators, and fostering a transparent trading environment. The ethical standards set by FINRA are integral in aligning the operational processes of broker-dealers with the overarching goal of preserving market integrity.
 

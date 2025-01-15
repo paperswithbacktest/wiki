@@ -164,7 +164,7 @@ def moving_average_crossover(data, short_window, long_window):
     return signals
 ```
 
-In this code snippet, the algorithm calculates short and long moving averages to generate trading signals, effectively capitalizing on trend directions. Such algorithmic mechanisms are continuously refined to improve accuracy and efficiency, demonstrating significant potential within the realm of Forex trading.
+In this code snippet, the algorithm calculates short and long moving averages to generate trading signals, effectively capitalizing on trend directions. Such algorithmic mechanisms are continuously refined to improve accuracy and efficiency, demonstrating significant potential within Forex trading.
 
 ## Algorithmic Trading in Forex
 

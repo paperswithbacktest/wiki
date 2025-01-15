@@ -35,7 +35,7 @@ In practice, SABB allows investors to decrypt the true yield potential of bonds,
 
 Algorithmic trading has become a pivotal element in the bond markets, offering enhanced precision and speed in executing trades. Algorithms leverage computational power to process and analyze vast datasets, identifying favorable trading opportunities that may not be apparent through manual methods. This capability is particularly valuable in nuanced environments like Semi-Annual Bond Basis (SABB), where yield comparisons and coupon payment frequencies can complicate trading decisions.
 
-In the realm of SABB, [algorithmic trading](/wiki/algorithmic-trading) systems utilize [machine learning](/wiki/machine-learning) and advanced analytics to improve the prediction of market trends and refine trading strategies. Machine learning algorithms can be trained on historical market data to recognize patterns and anticipate yield fluctuations. This enables traders to make informed decisions quickly, capitalizing on fleeting market conditions before they revert or counteract.
+In SABB, [algorithmic trading](/wiki/algorithmic-trading) systems utilize [machine learning](/wiki/machine-learning) and advanced analytics to improve the prediction of market trends and refine trading strategies. Machine learning algorithms can be trained on historical market data to recognize patterns and anticipate yield fluctuations. This enables traders to make informed decisions quickly, capitalizing on fleeting market conditions before they revert or counteract.
 
 For example, a Python-based algorithm could be employed to assess yield spreads across bonds with varying coupon periods:
 

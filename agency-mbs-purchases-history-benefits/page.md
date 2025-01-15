@@ -82,7 +82,7 @@ predicted_return = model.predict(new_indicators)
 
 This simplified model exemplifies how algorithmic systems can assess potential investment returns using economic indicators. The exact configurations of such models are often more sophisticated, incorporating numerous variables and employing advanced techniques like [deep learning](/wiki/deep-learning) for improved accuracy.
 
-In conclusion, the adoption of algorithmic trading strategies in the realm of MBS introduces an enhanced level of precision and efficiency, allowing traders to capitalize on fleeting market conditions. This technological advancement stands as a transformative force in the trading of mortgage-backed securities, capitalizing on the rapid processing capabilities of computers and the prowess of data-driven decision-making frameworks.
+In conclusion, the adoption of algorithmic trading strategies in MBS introduces an enhanced level of precision and efficiency, allowing traders to capitalize on fleeting market conditions. This technological advancement stands as a transformative force in the trading of mortgage-backed securities, capitalizing on the rapid processing capabilities of computers and the prowess of data-driven decision-making frameworks.
 
 ## Financial Advantages of Algo Trading in Agency MBS
 

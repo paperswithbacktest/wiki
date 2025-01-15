@@ -9,7 +9,7 @@ description: "Discover the journey of Gary Artinian an influential leader in alg
 
 ## Early Life and Education
 
-Gary Artinian is an influential figure in the realm of algorithmic trading, known for his extensive background in finance, engineering, and technology. He began his academic journey at Rensselaer Polytechnic Institute, where he earned a dual Bachelor of Science degree in Electrical Engineering and Computer Systems Engineering, graduating in 2005. During his time at Rensselaer, Artinian developed a solid foundation in technical skills and analytical thinking, which would later become crucial in the complex world of algorithmic trading.
+Gary Artinian is an influential figure in algorithmic trading, known for his extensive background in finance, engineering, and technology. He began his academic journey at Rensselaer Polytechnic Institute, where he earned a dual Bachelor of Science degree in Electrical Engineering and Computer Systems Engineering, graduating in 2005. During his time at Rensselaer, Artinian developed a solid foundation in technical skills and analytical thinking, which would later become crucial in the complex world of algorithmic trading.
 
 Following his undergraduate studies, Artinian pursued a Master of Engineering in Industrial & Management Engineering at the same institute, completing the program in 2008. His graduate studies further equipped him with advanced problem-solving skills and a deeper understanding of systems engineering, preparing him for the complexities of the financial markets.
 

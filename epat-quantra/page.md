@@ -1,6 +1,6 @@
 ---
 title: "EPAT vs. Quantra Explained (Algo Trading)"
-description: Explore the key differences and benefits of EPAT and Quantra in the realm of algorithmic trading. Learn how EPAT by QuantInsti provides a comprehensive education in algo trading through hands-on experience, technical skills training, and personalized mentorship, equipping participants with the tools needed for success in tech-driven financial markets.
+description: Explore the key differences and benefits of EPAT and Quantra in algorithmic trading. Learn how EPAT by QuantInsti provides a comprehensive education in algo trading through hands-on experience, technical skills training, and personalized mentorship, equipping participants with the tools needed for success in tech-driven financial markets.
 ---
 
 The world of finance is undergoing significant transformation as technology increasingly dictates the strategies used in market participation. Central to this technological evolution is algorithmic trading, which utilizes computer algorithms to execute trades with precision and speed. This method optimizes trade timing, reduces transaction costs, and minimizes the risks associated with human errors. 

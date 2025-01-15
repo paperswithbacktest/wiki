@@ -15,7 +15,7 @@ This article examines Akuna Capital's strategic methodologies in algorithmic tra
 
 ## What is Akuna Capital?
 
-Akuna Capital, established in 2011 in Chicago, has emerged as a dynamic entity in the realm of options market making. Its reputation is built on the seamless integration of liquidity provision and the utilization of advanced technologies in its trading practices. The firm's distinctive approach involves algorithmic trading strategies that ensure efficient market operations and competitive positioning.
+Akuna Capital, established in 2011 in Chicago, has emerged as a dynamic entity in options market making. Its reputation is built on the seamless integration of liquidity provision and the utilization of advanced technologies in its trading practices. The firm's distinctive approach involves algorithmic trading strategies that ensure efficient market operations and competitive positioning.
 
 The firm has expanded its footprint globally, establishing offices in prominent financial centers such as Sydney, Shanghai, and London. This global presence enables Akuna to operate across various time zones and market environments, enhancing its ability to provide continuous liquidity and capitalize on trading opportunities worldwide.
 

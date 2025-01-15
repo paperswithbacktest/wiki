@@ -73,7 +73,7 @@ Algorithmic trading's capability to empower economically through technological a
 
 ## Connecting Past and Present: Economic Empowerment Through Innovation
 
-The entrepreneurial spirit that defined Black Wall Street in the early 20th century finds its echo today in the realm of fintech and algorithmic trading. This historical reflection illustrates a parallel between the tenacity of African-American entrepreneurs in the past and present efforts to leverage cutting-edge technology for economic empowerment.
+The entrepreneurial spirit that defined Black Wall Street in the early 20th century finds its echo today in fintech and algorithmic trading. This historical reflection illustrates a parallel between the tenacity of African-American entrepreneurs in the past and present efforts to leverage cutting-edge technology for economic empowerment.
 
 Black Wall Street was a hub of economic activity, driven by a community that valued entrepreneurship and self-reliance. Today, similar principles guide African-American entrepreneurs as they harness digital technology to create financial independence. The fintech industry offers a myriad of opportunities, from mobile payment systems to blockchain technologies, allowing for greater access to financial services and investment platforms. African-Americans are utilizing these tools to break down traditional barriers to entry, enabling wealth accumulation and management on an unprecedented scale.
 

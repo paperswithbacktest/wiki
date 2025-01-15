@@ -75,7 +75,7 @@ The collaboration between these diverse professionals, each bringing their exper
 
 ### Statistical Arbitrage
 
-Statistical Arbitrage, often referred to as Stat Arb, represents a pivotal strategy employed by many quant hedge funds. It's a complex, quantitative approach to trading that seeks to exploit price discrepancies identified through statistical and computational methodologies. Here's a closer look at how Statistical Arbitrage works in the realm of quant hedge funds:
+Statistical Arbitrage, often referred to as Stat Arb, represents a pivotal strategy employed by many quant hedge funds. It's a complex, quantitative approach to trading that seeks to exploit price discrepancies identified through statistical and computational methodologies. Here's a closer look at how Statistical Arbitrage works in quant hedge funds:
 
 ![Untitled](images/Untitled.png)
 
@@ -220,7 +220,7 @@ In summary, quant hedge funds play a pivotal role in the modern hedge fund indus
 
 ### Roles and Responsibilities
 
-In the realm of quant hedge funds, a diverse array of roles and responsibilities is crucial to their operation and success. At the core are quantitative analysts, often referred to as **quants**. These individuals specialize in developing complex mathematical models that form the backbone of trading strategies. They apply techniques from fields like [statistics](/wiki/bayesian-statistics), data science, and machine learning to analyze market data, identify trends, and predict market movements.
+In quant hedge funds, a diverse array of roles and responsibilities is crucial to their operation and success. At the core are quantitative analysts, often referred to as **quants**. These individuals specialize in developing complex mathematical models that form the backbone of trading strategies. They apply techniques from fields like [statistics](/wiki/bayesian-statistics), data science, and machine learning to analyze market data, identify trends, and predict market movements.
 
 Another vital role is that of the **traders**. In quant funds, traders often work closely with quants, using the models developed to execute trades. However, unlike traditional trading, their decisions are heavily guided by algorithmic strategies. This requires a deep understanding of both the markets and the underlying algorithms to effectively manage and execute trades.
 

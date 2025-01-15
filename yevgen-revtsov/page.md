@@ -42,6 +42,6 @@ Revtsov's work is motivated by the rigorous principles outlined in seminal works
 
 ### Personal Life
 
-Based in Boston, Massachusetts, Yevgen Revtsov continues to be a dynamic force in the world of algorithmic trading. Outside of his professional endeavors, he is known for his mentorship and leadership within the quantitative finance community, facilitating the next generation of technologists and analysts.
+Based in Boston, Massachusetts, Yevgen Revtsov continues to be a dynamic force in algorithmic trading. Outside of his professional endeavors, he is known for his mentorship and leadership within the quantitative finance community, facilitating the next generation of technologists and analysts.
 
 For more detailed information about Yevgen Revtsov and his professional exploits, his LinkedIn profile can be accessed at www.linkedin.com/in/erevtsov.

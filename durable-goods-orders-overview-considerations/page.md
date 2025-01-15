@@ -92,7 +92,7 @@ action = trading_decision(data)
 print(f"Trading Action: {action}")
 ```
 
-This example demonstrates a simple algorithm that uses a hypothetical API to obtain durable goods data and makes a basic trading decision based on growth percentage thresholds. By integrating similar logic into more sophisticated systems, traders can enhance their strategy to not only increase profitability but also stabilize their market positions amidst economic fluctuations. Thus, the utilization of economic indicators like durable goods orders is invaluable in the realm of algorithmic trading, where milliseconds can define success or failure in the market.
+This example demonstrates a simple algorithm that uses a hypothetical API to obtain durable goods data and makes a basic trading decision based on growth percentage thresholds. By integrating similar logic into more sophisticated systems, traders can enhance their strategy to not only increase profitability but also stabilize their market positions amidst economic fluctuations. Thus, the utilization of economic indicators like durable goods orders is invaluable in algorithmic trading, where milliseconds can define success or failure in the market.
 
 ## Strategies for Utilizing Durable Goods Orders in Algo Trading
 

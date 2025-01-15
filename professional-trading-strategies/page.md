@@ -20,7 +20,7 @@ In essence, while the allure of the financial markets draws many, succeeding wit
 
 ## The Mindset of a Professional Trader
 
-Trading, at its core, is as much a mental game as it is about numbers and charts. The mindset with which a trader approaches the market can often be the deciding [factor](/wiki/factor-investing) between success and failure. The realm of trading psychology is vast, touching upon various aspects of a trader's personality, decision-making process, and reactions to market outcomes.
+Trading, at its core, is as much a mental game as it is about numbers and charts. The mindset with which a trader approaches the market can often be the deciding [factor](/wiki/factor-investing) between success and failure. trading psychology is vast, touching upon various aspects of a trader's personality, decision-making process, and reactions to market outcomes.
 
 One of the foremost aspects of trading psychology is discipline. Professional traders understand the importance of setting rules and sticking to them. Discipline ensures that traders don't veer off their defined path, even when the market's allure or fear becomes overwhelming. For instance, a disciplined trader will have set stop-loss levels and will not let emotions keep a losing trade open longer than the strategy dictates.
 

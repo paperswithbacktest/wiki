@@ -87,7 +87,7 @@ Amazon, primarily through Amazon Web Services (AWS), delivers a strong technolog
 
 ### Market Share and Customer Base
 
-In the realm of cloud services, Amazon retains a competitive advantage with the largest market share, reported at approximately 32% as of recent analyses, whereas Google holds a considerable but smaller share. AWS's extensive customer base spans various industries, including financial services, and is integral to its growth strategy. Market leader status provides Amazon substantial leverage in establishing partnerships and expanding its influence in the financial sector.
+In cloud services, Amazon retains a competitive advantage with the largest market share, reported at approximately 32% as of recent analyses, whereas Google holds a considerable but smaller share. AWS's extensive customer base spans various industries, including financial services, and is integral to its growth strategy. Market leader status provides Amazon substantial leverage in establishing partnerships and expanding its influence in the financial sector.
 
 Google, while trailing Amazon in cloud market share, compensates with a focus on innovation and partnerships with fintech companies. Google's strategic collaborations, such as those with financial institutions and fintech startups, aim to integrate its advanced AI and cloud offerings into existing trading systems, potentially expanding its customer base.
 

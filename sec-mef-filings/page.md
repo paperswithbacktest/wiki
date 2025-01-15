@@ -51,7 +51,7 @@ To ensure algorithmic trading practices align with statutory standards, the SEC 
 
 ## The Intersection of SEC Filings and Algo Trading
 
-SEC filings are instrumental in the world of algorithmic trading, providing the essential data that fuels trading algorithms and strategies. These filings, accessible through the SEC's EDGAR database, ensure that market participants, including sophisticated trading algorithms, have access to timely and accurate information critical for making informed trading decisions.
+SEC filings are instrumental in algorithmic trading, providing the essential data that fuels trading algorithms and strategies. These filings, accessible through the SEC's EDGAR database, ensure that market participants, including sophisticated trading algorithms, have access to timely and accurate information critical for making informed trading decisions.
 
 Algorithmic trading relies heavily on data-driven models to execute trades at high speeds and volumes. Key to executing these trades effectively is the ability to process and analyze large sets of market data, including SEC filings. These documents contain a wealth of information about companies' financial health, operational performance, and strategic initiatives. For example, filings such as quarterly and annual earnings reports, insider trading activities, and material event disclosures provide quantitative and qualitative data inputs vital for algorithmic models.
 

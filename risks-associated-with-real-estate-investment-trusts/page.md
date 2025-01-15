@@ -108,7 +108,7 @@ Investment trusts, in general, are companies that invest their resources in fina
 
 In summary, investors have numerous options beyond traditional REITs to diversify and potentially enhance their real estate portfolios. However, assessing the varying risk factors and aligning with personal investment goals is crucial for informed decision-making in this multifaceted landscape.
 
-## Algorithmic Trading in the Realm of Real Estate Investment
+## Algorithmic Trading in Real Estate Investment
 
 Algorithmic trading, commonly referred to as algo trading, involves using computer algorithms to execute trading strategies at high speed and [volume](/wiki/volume-trading-strategy), minimizing human intervention. It leverages complex mathematical models and computational algorithms to make decisions, which often involves automatically trading on various financial markets based on pre-defined conditions. This paradigm shift has markedly influenced the financial markets by enhancing the speed and efficiency of executing trades while reducing transaction costs.
 

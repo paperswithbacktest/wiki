@@ -19,7 +19,7 @@ The ultimate goal of this piece is to equip readers with actionable insights on 
 
 ## Understanding the Sanku (Three Gaps) Pattern
 
-The Sanku, or Three Gaps Pattern, is a formation within the realm of Japanese candlestick charting used by traders to interpret market sentiment and predict potential reversals. Characterized by three distinct price gaps along a prevailing trend, the Sanku pattern provides valuable insights into the momentum driving that trend, whether it is ascending or descending.
+The Sanku, or Three Gaps Pattern, is a formation within Japanese candlestick charting used by traders to interpret market sentiment and predict potential reversals. Characterized by three distinct price gaps along a prevailing trend, the Sanku pattern provides valuable insights into the momentum driving that trend, whether it is ascending or descending.
 
 Each gap within the Sanku pattern signifies a notable shift in price, typically propelled by strong market forces of buying or selling. The first gap in the sequence often marks the beginning or the reinforcement of a trend, indicating a decisive move by traders that sets the direction. This gap is frequently accompanied by increased trading [volume](/wiki/volume-trading-strategy), suggesting a reinforcement of conviction among market participants.
 

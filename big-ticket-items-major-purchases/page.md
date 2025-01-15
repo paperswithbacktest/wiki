@@ -33,7 +33,7 @@ In summary, big-ticket items are not just influential in affecting household fin
 
 ## Consumer Spending Trends on Big-Ticket Items
 
-Analyzing current consumer spending trends on big-ticket items provides critical insights into the evolving economic environment and consumer behavior. In recent years, we have observed a marked shift towards more cautious purchasing habits, primarily driven by economic uncertainties and downturns in consumer confidence. This change has been particularly evident in the realm of non-essential big-ticket purchases, where consumers exhibit increased prudence and restraint.
+Analyzing current consumer spending trends on big-ticket items provides critical insights into the evolving economic environment and consumer behavior. In recent years, we have observed a marked shift towards more cautious purchasing habits, primarily driven by economic uncertainties and downturns in consumer confidence. This change has been particularly evident in non-essential big-ticket purchases, where consumers exhibit increased prudence and restraint.
 
 The decline in consumer confidence has played a pivotal role in shaping these spending trends. Often measured through consumer confidence indices, this sentiment reflects the overall economic outlook perceived by consumers. When confidence is low, as has been the case in recent times due to various global economic challenges, consumers tend to become risk-averse, opting to delay or forego large purchases in favor of conserving financial resources. The behavior is especially pronounced with luxury and non-essential items, which are often the first to be set aside in times of economic uncertainty.
 

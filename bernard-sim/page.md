@@ -37,7 +37,7 @@ Bernard’s commitment to staying abreast of industry trends and advancements is
 
 As an expert in the field, Bernard Sim is known for his keen ability to align investment success with innovation. His experience spans over nearly two decades, marking him as a seasoned authority in quantitative data models and trading processes. He remains a pivotal figure at Acadian Asset Management, pioneering advanced analytic methodologies and establishing best practices in data quality.
 
-As he continues to drive forward in the field of algorithmic trading, Bernard's career remains a testament to his dedication to data-driven decision-making, collaborative approaches with data vendors, and a passion for refining investment processes. His contributions significantly impact the realm of quantitative finance and algorithmic trading, ensuring that these domains evolve in accuracy, efficiency, and relevance to the modern financial landscape.
+As he continues to drive forward in the field of algorithmic trading, Bernard's career remains a testament to his dedication to data-driven decision-making, collaborative approaches with data vendors, and a passion for refining investment processes. His contributions significantly impact quantitative finance and algorithmic trading, ensuring that these domains evolve in accuracy, efficiency, and relevance to the modern financial landscape.
 
 ### External References
 

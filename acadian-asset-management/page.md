@@ -71,7 +71,7 @@ Acadian's market influence extends beyond its geographic footprint. The firm is 
 
 As of June 2023, Acadian manages assets worth approximately $100 billion, underscoring its stature as a key player in the investment management landscape. This significant asset base reflects the confidence of institutional investors in Acadian's ability to deliver consistent performance and manage risk. The integration of quantitative techniques and advanced data analytics into their asset management process has been instrumental in driving this success.
 
-Acadian's impact on the market is also evident through its influence on investment trends, particularly in the realm of algorithmic trading and quantitative finance. By continuously refining their strategies and embracing technological innovations, Acadian sets benchmarks in the industry and influences broader market practices.
+Acadian's impact on the market is also evident through its influence on investment trends, particularly in algorithmic trading and quantitative finance. By continuously refining their strategies and embracing technological innovations, Acadian sets benchmarks in the industry and influences broader market practices.
 
 In summary, Acadian Asset Management not only boasts a robust global presence, but its significant assets under management and advanced asset management capabilities firmly establish its influence in the global financial markets.
 

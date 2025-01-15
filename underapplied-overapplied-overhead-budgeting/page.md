@@ -9,7 +9,7 @@ Overhead, in an accounting context, consists of costs that are not directly attr
 
 ![Image](images/1.png)
 
-The interplay between budgeting and overhead management further extends into the realm of modern financial strategies like algorithmic trading. Utilizing algorithms to automate trading activities requires a nuanced grasp of financial variables, including overhead costs. When actual overhead costs diverge from budgeted figures, they create underapplied or overapplied overhead, influencing an organization's financial statements and requiring adjustments to maintain accurate financial portrayals.
+The interplay between budgeting and overhead management further extends into modern financial strategies like algorithmic trading. Utilizing algorithms to automate trading activities requires a nuanced grasp of financial variables, including overhead costs. When actual overhead costs diverge from budgeted figures, they create underapplied or overapplied overhead, influencing an organization's financial statements and requiring adjustments to maintain accurate financial portrayals.
 
 Exploring these concepts provides a foundation for understanding how they impact business operations and strategic decisions. These insights offer valuable implications for traders and businesses aiming to refine their financial strategies and operations through informed decision-making. By comprehensively acknowledging these concepts, organizations better position themselves to achieve financial stability and leverage competitive advantages in the evolving market landscape.
 

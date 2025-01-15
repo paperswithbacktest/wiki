@@ -23,7 +23,7 @@ Andrei Pastor's professional voyage began on the trading floors of financial gia
 
 ### Transition to Quantitative and High-Frequency Trading
 
-Pastor transitioned to Nico Holdings LLC in March 2009, where he took on the role of Fixed Income Portfolio Manager. Over the [course](/wiki/best-algorithmic-trading-courses) of his tenure, which lasted until March 2010, he implemented fixed income RV (relative value) strategies and engaged in treasury basis and behavioral modeling. His ability to integrate quantitative assessments with trading strategies increased his stature in the realm of high-frequency trading (HFT).
+Pastor transitioned to Nico Holdings LLC in March 2009, where he took on the role of Fixed Income Portfolio Manager. Over the [course](/wiki/best-algorithmic-trading-courses) of his tenure, which lasted until March 2010, he implemented fixed income RV (relative value) strategies and engaged in treasury basis and behavioral modeling. His ability to integrate quantitative assessments with trading strategies increased his stature in high-frequency trading (HFT).
 
 Continuing on this path, he joined Buttonwood Group Trading, LLC, in March 2010 as a Fixed Income Portfolio Manager. With a focus on high-frequency trading across multiple asset classes, he predominantly concentrated on fixed income markets. His strategic insights and ability to rapidly analyze market data further solidified his reputation as a proficient [HFT](/wiki/high-frequency-trading-strategies) strategist during his two-year stint at Buttonwood.
 

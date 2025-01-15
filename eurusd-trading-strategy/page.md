@@ -338,7 +338,7 @@ def calculate_sma(data, window):
 sma_20 = calculate_sma(price_data['Close'], 20)
 ```
 
-For beginners entering the realm of algo trading in forex, a few key tips can help set a solid foundation. It is essential to start with a comprehensive understanding of both forex markets and algorithmic trading principles. Beginners should:
+For beginners entering algo trading in forex, a few key tips can help set a solid foundation. It is essential to start with a comprehensive understanding of both forex markets and algorithmic trading principles. Beginners should:
 - Start with a demo account to practice strategy implementation without financial risks.
 - Develop a solid trading plan, integrating both technical and fundamental analysis, and stick to it.
 - Keep risk management at the forefront, employing stop-loss and take-profit orders to mitigate potential losses.

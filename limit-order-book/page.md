@@ -60,7 +60,7 @@ Limit orders are fundamental instructions in trading, allowing investors to buy 
 
 Consider a trader who wants to purchase shares of a company currently trading at $50, but believes the market price might dip slightly. The trader can place a buy limit order at $48. If the price falls to $48, the order will execute, allowing the trader to purchase the shares at a favorable price. However, if the price never drops to $48, the order remains unfilled.
 
-In the realm of trading algorithms, limit orders are often employed within automated trading systems to optimize execution strategies. By implementing these orders within algorithms, traders can ensure systematic and disciplined execution of trades without the need for manual intervention.
+In trading algorithms, limit orders are often employed within automated trading systems to optimize execution strategies. By implementing these orders within algorithms, traders can ensure systematic and disciplined execution of trades without the need for manual intervention.
 
 Limit orders thus play a critical role in enabling traders to manage their trades with precision and confidence. Nonetheless, whilst offering significant benefits in terms of price control and strategic positioning, the inherent limitations and risks of missed opportunities must be carefully considered in their application.
 

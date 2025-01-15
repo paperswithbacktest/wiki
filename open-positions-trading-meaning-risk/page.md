@@ -17,7 +17,7 @@ This article will cover fundamental concepts associated with open positions and 
 
 ## Understanding Open Positions and Their Risks
 
-An open position in trading represents a financial commitment that remains active until a counter trade is executed to offset it. This status indicates ongoing market exposure and the inherent risks associated with it. The duration of open positions varies significantly, being as brief as moments in the realm of day trading to extending over years for long-term investment strategies. Each timeframe encompasses distinct risk profiles, requiring traders to adapt their strategies accordingly. 
+An open position in trading represents a financial commitment that remains active until a counter trade is executed to offset it. This status indicates ongoing market exposure and the inherent risks associated with it. The duration of open positions varies significantly, being as brief as moments in day trading to extending over years for long-term investment strategies. Each timeframe encompasses distinct risk profiles, requiring traders to adapt their strategies accordingly. 
 
 Open positions are subject to market volatility, creating potential outcomes of both gains and losses. The fluctuating nature of financial markets means that each open position carries a variable degree of uncertainty. Traders, therefore, face the challenge of effectively managing these risks by staying informed about market conditions and employing strategic measures aimed at mitigating potential drawbacks.
 

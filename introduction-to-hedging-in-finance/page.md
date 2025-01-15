@@ -21,7 +21,7 @@ This article discusses how hedging and algorithmic trading are shaping contempor
 
 Hedging is a strategic approach in finance aimed at minimizing the risk of unfavorable price movements in assets by taking offsetting positions in related securities. This method is conceptually akin to insurance, where the goal is to mitigate potential losses resulting from asset price fluctuations. By adopting hedging strategies, investors can create a buffer against adverse market shifts while pursuing their financial objectives.
 
-Common instruments utilized in hedging strategies include derivatives such as options, futures, and swaps. Each of these financial products serves distinct purposes in the realm of risk reduction:
+Common instruments utilized in hedging strategies include derivatives such as options, futures, and swaps. Each of these financial products serves distinct purposes in risk reduction:
 
 1. **Options**: These are contracts that provide the buyer the right, but not the obligation, to buy or sell an asset at a predetermined price within a specified timeframe. Options come in two forms: calls (which offer the right to purchase) and puts (which provide the right to sell). By using options, investors can hedge against potential declines in the value of an asset they hold.
 

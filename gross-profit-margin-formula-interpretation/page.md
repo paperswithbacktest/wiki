@@ -85,7 +85,7 @@ A gross profit margin, calculated using the formula $(\text{Revenue} - \text{Cos
 
 Traders utilize these profitability insights to filter stocks, thereby identifying potentially lucrative trading opportunities. For instance, a firm consistently posting high gross profit margins likely manages production costs efficiently and exhibits strong pricing strategies. Such attributes can imply a competitive edge in its industry, making it a candidate for algorithmic trading models focused on identifying stable investments.
 
-By refining their models with profitability metrics like the gross profit margin, algo traders can amplify performance and profitability. Python, a common language in the realm of algorithmic trading, can be employed to integrate gross profit margin data seamlessly. Below is an example of how traders might incorporate this data:
+By refining their models with profitability metrics like the gross profit margin, algo traders can amplify performance and profitability. Python, a common language in algorithmic trading, can be employed to integrate gross profit margin data seamlessly. Below is an example of how traders might incorporate this data:
 
 ```python
 def calculate_gross_profit_margin(revenue, cogs):

@@ -13,7 +13,7 @@ Understanding the theoretical constructs of the OTR framework is vital for enhan
 
 Furthermore, the OTR framework's capacity to mitigate the risks of overfitting is of paramount importance. By focusing on deriving optimal trading rules through alternative methodologies, such as models with prices following stochastic processes, traders can significantly reduce the dependency on historical data. This approach fosters the development of robust trading strategies that are resilient across different market phases and conditions.
 
-The significance of OTR in algorithmic trading cannot be overstated. It presents a new horizon for scholars and practitioners in finance, encouraging exploration beyond the realm of traditional methodologies. As we explore the numerous facets of the OTR framework, it becomes evident that its contributions to trading strategies extend beyond just technical optimization; it is about creating systems poised for enduring success in the unpredictable labyrinth of financial markets.
+The significance of OTR in algorithmic trading cannot be overstated. It presents a new horizon for scholars and practitioners in finance, encouraging exploration beyond traditional methodologies. As we explore the numerous facets of the OTR framework, it becomes evident that its contributions to trading strategies extend beyond just technical optimization; it is about creating systems poised for enduring success in the unpredictable labyrinth of financial markets.
 
 ## Table of Contents
 

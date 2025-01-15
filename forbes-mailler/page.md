@@ -47,4 +47,4 @@ Mailler resides in Sydney, New South Wales, where he balances his professional c
 
 ## Conclusion
 
-Forbes Mailler is a promising talent in the realm of algorithmic trading, contributing innovative solutions and strategic insights in a fast-paced industry. His educational and professional experiences, combined with a strong foundation in quantitative finance, set the stage for a significant impact on the world of finance trading. As he continues to evolve in his role, Mailler's contributions to Akuna Capital are poised to reflect the dynamic potential of algorithmic trading strategies in global markets.
+Forbes Mailler is a promising talent in algorithmic trading, contributing innovative solutions and strategic insights in a fast-paced industry. His educational and professional experiences, combined with a strong foundation in quantitative finance, set the stage for a significant impact on the world of finance trading. As he continues to evolve in his role, Mailler's contributions to Akuna Capital are poised to reflect the dynamic potential of algorithmic trading strategies in global markets.

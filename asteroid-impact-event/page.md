@@ -5,7 +5,7 @@ description: "Explore the intriguing connection between asteroid impacts and fin
 
 The universe is a vast expanse filled with celestial bodies and mysteries waiting to be uncovered. Among the many phenomena encompassing our universe, asteroid impact events emerge as a focal point of interest due to their profound implications on both space science and financial markets. These impact events involve collisions between celestial objects, such as asteroids, and terrestrial planets, including Earth, where they can lead to significant consequences ranging from environmental changes to market fluctuations.
 
-Historically, asteroid impacts have played a crucial role in shaping planetary landscapes and influencing the evolutionary trajectory of life on Earth. The study of these events extends beyond scientific curiosity and enters the realm of practical impact, particularly in the financial sector. The combination of advanced technology in astronomical observations and high-frequency trading algorithms has led to the exploration of asteroid impacts with a dual lens of scientific investigation and financial strategy. 
+Historically, asteroid impacts have played a crucial role in shaping planetary landscapes and influencing the evolutionary trajectory of life on Earth. The study of these events extends beyond scientific curiosity and enters practical impact, particularly in the financial sector. The combination of advanced technology in astronomical observations and high-frequency trading algorithms has led to the exploration of asteroid impacts with a dual lens of scientific investigation and financial strategy. 
 
 ![Image](images/1.jpeg)
 

@@ -15,7 +15,7 @@ Recent revisions to Article 9 have aimed to address the complexities introduced 
 
 ## Understanding Article 9: A Brief Overview
 
-Article 9 has historically been a cornerstone in the realm of financial regulation, primarily governing transactions involving secured interests in personal property. Its significance stems from its role in establishing legal frameworks that facilitate credit transactions and provide mechanisms for creditors to secure their interests with collateral. Initially, Article 9's objectives revolved around standardizing practices related to secured transactions, creating clarity for transactions involving securities and derivatives, and ensuring a level of protection for both creditors and debtors.
+Article 9 has historically been a cornerstone in financial regulation, primarily governing transactions involving secured interests in personal property. Its significance stems from its role in establishing legal frameworks that facilitate credit transactions and provide mechanisms for creditors to secure their interests with collateral. Initially, Article 9's objectives revolved around standardizing practices related to secured transactions, creating clarity for transactions involving securities and derivatives, and ensuring a level of protection for both creditors and debtors.
 
 In its original formulation, Article 9 focused on traditional financial transactions where the pace of activity was relatively moderate compared to modern standards. The regulations aimed to provide a uniform structure that helped mitigate inconsistencies arising from state-level variations in commercial laws. Financial markets then relied on manual and less complex trading mechanisms, which the original provisions adequately addressed.
 

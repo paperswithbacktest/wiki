@@ -9,7 +9,7 @@ The primary motivation behind stock splits is often to enhance the stock's marke
 
 ![Image](images/1.jpeg)
 
-This article aims to explore the various impacts of stock splits on shareholders, company financials, and the realm of algorithmic trading. Understanding these nuances is essential for investors to make informed decisions regarding their portfolios and to anticipate market reactions. The discussion will extend to how stock splits can affect trading volume, market psychology, and the potential benefits for companies projecting confidence in their growth prospects. Through this exploration, investors will gain insights into leveraging stock splits as part of their investment strategies.
+This article aims to explore the various impacts of stock splits on shareholders, company financials, and algorithmic trading. Understanding these nuances is essential for investors to make informed decisions regarding their portfolios and to anticipate market reactions. The discussion will extend to how stock splits can affect trading volume, market psychology, and the potential benefits for companies projecting confidence in their growth prospects. Through this exploration, investors will gain insights into leveraging stock splits as part of their investment strategies.
 
 ## Table of Contents
 

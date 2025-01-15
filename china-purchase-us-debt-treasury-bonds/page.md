@@ -55,7 +55,7 @@ Algorithmic trading's influence on Treasury yields is equally significant. Yield
 
 The integration of algorithmic trading into the Treasury market requires a nuanced understanding of both its benefits and potential risks. Continuous advancements in [machine learning](/wiki/machine-learning) and data analytics may enhance the predictive capabilities of these algorithms, offering more refined and timely market insights. However, with increased sophistication comes the imperative for vigilant oversight. Financial institutions and policymakers must collaborate to ensure that these innovations align with overarching objectives of market stability and integrity.
 
-In conclusion, while algorithmic trading heralds a new era of efficiency and precision in Treasury markets, it also necessitates careful management of the associated volatility and systemic risks. Balancing these factors is essential to harness the full potential of algo trading within the realm of U.S. Treasury securities, thereby maintaining a stable and efficient global financial market infrastructure.
+In conclusion, while algorithmic trading heralds a new era of efficiency and precision in Treasury markets, it also necessitates careful management of the associated volatility and systemic risks. Balancing these factors is essential to harness the full potential of algo trading within U.S. Treasury securities, thereby maintaining a stable and efficient global financial market infrastructure.
 
 ## Geopolitical and Economic Considerations
 

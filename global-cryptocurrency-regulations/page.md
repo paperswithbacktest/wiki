@@ -61,7 +61,7 @@ Overall, the UK's balanced approach strives to create a sustainable ecosystem fo
 
 ## Japan: Progressive Yet Cautious
 
-Japan has positioned itself as a progressive yet cautious nation in the realm of cryptocurrency regulation. The country's legal framework treats cryptocurrencies as legal property, requiring entities involved in cryptocurrency trading and management to register with the Financial Services Agency (FSA). This classification underscores a regulatory approach that emphasizes the integration of digital assets into the broader financial system while ensuring consumer protection.
+Japan has positioned itself as a progressive yet cautious nation in cryptocurrency regulation. The country's legal framework treats cryptocurrencies as legal property, requiring entities involved in cryptocurrency trading and management to register with the Financial Services Agency (FSA). This classification underscores a regulatory approach that emphasizes the integration of digital assets into the broader financial system while ensuring consumer protection.
 
 The taxation policy on cryptocurrencies in Japan reflects the government's balanced approach. Gains from cryptocurrency transactions are subject to miscellaneous income tax, with rates that can reach up to 55% depending on the amount of profit and other personal income tax circumstances. This tax structure not only integrates cryptocurrency trading into the official tax system but also aims to ensure that profits derived from this asset class are appropriately reported, maintaining fairness and transparency in tax compliance.
 

@@ -7,7 +7,7 @@ Understanding the dynamics of the stock market is crucial for successful algorit
 
 In algorithmic trading, where decisions are guided by predefined criteria and models, the beta factor assumes a pivotal role. It allows for the quantification of volatility and potential risk associated with different stocks within a portfolio. A stock's beta is determined through statistical methods, specifically by running a linear regression on its returns against the market's returns. The outcome indicates whether the stock is expected to be more or less volatile than the market itself. For instance, a beta greater than 1 signifies that the stock is more volatile than the market, whereas a beta less than 1 indicates less volatility. This knowledge enables traders to fine-tune their strategies according to the level of risk they are willing to assume.
 
-This article will explore the concept of beta, examining its mathematical foundation and practical implications in the realm of algorithmic trading. Understanding beta not only aids in risk assessment but also empowers traders to optimize their strategies and potentially enhance returns.
+This article will explore the concept of beta, examining its mathematical foundation and practical implications in algorithmic trading. Understanding beta not only aids in risk assessment but also empowers traders to optimize their strategies and potentially enhance returns.
 
 ![Untitled](images/Untitled.png)
 

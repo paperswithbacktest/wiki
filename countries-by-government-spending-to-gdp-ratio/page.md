@@ -13,7 +13,7 @@ The dynamics of government spending in relation to GDP can have profound implica
 
 Understanding this ratio is not only pivotal for economic analysis but also for financial markets. Algorithmic trading systems, which operate by executing trades based on coded strategies, increasingly incorporate economic indicators like the government spending to GDP ratio into their models. By doing so, algorithmic traders attempt to capture trends and forecast changes in the economic environment, thereby making more informed trading decisions.
 
-In summary, the government spending to GDP ratio serves as a crucial tool for evaluating a country's economic strategies and fiscal health. This article aims to explore the nuances of this relationship, shedding light on its influence within the economy and its application in modern financial markets, including the realm of algorithmic trading.
+In summary, the government spending to GDP ratio serves as a crucial tool for evaluating a country's economic strategies and fiscal health. This article aims to explore the nuances of this relationship, shedding light on its influence within the economy and its application in modern financial markets, including algorithmic trading.
 
 ## Table of Contents
 

@@ -204,7 +204,7 @@ The integration of block trades with algorithmic strategies offers substantial b
 
 As technology continues to advance, there is significant potential for innovation in how block and algorithmic trading are implemented. Future developments in machine learning and artificial intelligence are poised to further refine trading strategies, potentially enhancing predictive capabilities and execution precision.
 
-Given the dynamic nature of financial markets, continuous research and adaptation to new technologies are crucial. As the industry evolves, embracing innovation will be essential for traders and institutions to maintain competitiveness and capitalize on emerging opportunities. Further exploration of how cutting-edge technologies can be harnessed to optimize trading strategies promises not only to advance market efficiency but also to unlock new avenues for growth and success in the realm of financial trading.
+Given the dynamic nature of financial markets, continuous research and adaptation to new technologies are crucial. As the industry evolves, embracing innovation will be essential for traders and institutions to maintain competitiveness and capitalize on emerging opportunities. Further exploration of how cutting-edge technologies can be harnessed to optimize trading strategies promises not only to advance market efficiency but also to unlock new avenues for growth and success in financial trading.
 
 ## References & Further Reading
 

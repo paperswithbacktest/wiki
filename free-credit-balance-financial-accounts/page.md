@@ -5,7 +5,7 @@ description: "Explore the role of free credit balances in financial accounts for
 
 In today's dynamic financial landscape, understanding various investment tools and their regulation is crucial for both new and seasoned investors. As markets continue to evolve, having a firm grasp of how different instruments function and are governed provides a critical edge in decision-making processes.
 
-This article focuses on free credit balances, a fundamental component in the realm of investment accounts. Essentially, a free credit balance represents the cash portion of an investor's margin account that is available for withdrawal at any time. This balance remains after accounting for any margin requirements, outstanding purchases, and proceeds from short sales. By retaining a free credit balance, investors can enhance their market agility and capitalize on immediate investment opportunities.
+This article focuses on free credit balances, a fundamental component in investment accounts. Essentially, a free credit balance represents the cash portion of an investor's margin account that is available for withdrawal at any time. This balance remains after accounting for any margin requirements, outstanding purchases, and proceeds from short sales. By retaining a free credit balance, investors can enhance their market agility and capitalize on immediate investment opportunities.
 
 ![Image](images/1.png)
 

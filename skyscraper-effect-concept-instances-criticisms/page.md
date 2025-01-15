@@ -49,7 +49,7 @@ Moreover, an analysis of the relationship between GDP growth and skyscraper deve
 
 The predictive power of the Skyscraper Effect is further called into question by considering the multitude of economic, political, and technological factors influencing economic cycles. These include but are not limited to fiscal policies, geopolitical events, technological disruptions, and market sentiment. The complexity and interdependence of these factors mean that attributing future economic conditions to a single architectural event does not adequately capture their intricate nature.
 
-In sum, while the construction of skyscrapers may coincide with particular economic climates, the Skyscraper Effect does not serve as a standalone predictive tool for economic downturns. The effect's appeal lies in its simplicity, but this very simplicity undermines its utility in the nuanced field of economic forecasting. Future research and analysis should account for the varied and dynamic influences at play in economic cycles beyond the realm of architectural ambition.
+In sum, while the construction of skyscrapers may coincide with particular economic climates, the Skyscraper Effect does not serve as a standalone predictive tool for economic downturns. The effect's appeal lies in its simplicity, but this very simplicity undermines its utility in the nuanced field of economic forecasting. Future research and analysis should account for the varied and dynamic influences at play in economic cycles beyond architectural ambition.
 
 ## Algorithmic Trading: Modern Economic Indicators
 

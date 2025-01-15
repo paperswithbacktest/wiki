@@ -9,7 +9,7 @@ Tail hedging in algorithmic trading is employed as a protective strategy to miti
 
 ![Image](images/1.jpeg)
 
-This article will focus on comprehensively understanding the concept of tail hedging within the realm of algorithmic trading. We will systematically explore the methodologies utilized in tail hedging, examine various strategic approaches, and discuss the implications these strategies have within the landscape of algorithmic trading. Tail hedging, while not a panacea for all financial risks, provides traders with a vital tool to manage and potentially mitigate the adverse effects of extreme market movements.
+This article will focus on comprehensively understanding the concept of tail hedging within algorithmic trading. We will systematically explore the methodologies utilized in tail hedging, examine various strategic approaches, and discuss the implications these strategies have within the landscape of algorithmic trading. Tail hedging, while not a panacea for all financial risks, provides traders with a vital tool to manage and potentially mitigate the adverse effects of extreme market movements.
 
 ## Table of Contents
 

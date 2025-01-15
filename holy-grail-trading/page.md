@@ -100,7 +100,7 @@ Overall, quantitative trading empowers traders to enhance their strategy portfol
 
 ## Conclusion
 
-The quest for a single Holy Grail trading strategy is a persistent myth in the world of algorithmic trading. However, reality dictates that no singular strategy can consistently outperform in the ever-fluctuating financial markets. The path to stable profitability lies in building a diversified portfolio of strategies.
+The quest for a single Holy Grail trading strategy is a persistent myth in algorithmic trading. However, reality dictates that no singular strategy can consistently outperform in the ever-fluctuating financial markets. The path to stable profitability lies in building a diversified portfolio of strategies.
 
 Diversification stands at the core of consistent trading success. By spreading investments across various strategies that are non-correlated, traders can effectively manage risk. This approach mitigates potential losses that might arise when market conditions change unfavorably for a particular strategy. Non-correlation ensures that when one strategy underperforms, others may thrive, balancing the overall portfolio performance.
 

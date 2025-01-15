@@ -17,7 +17,7 @@ As technology's role in automating trading systems expands, a nuanced comprehens
 
 ## What Are Economic Sectors?
 
-An economic sector is a substantial grouping of businesses and enterprises that engage in analogous business activities or produce interconnected products and services. This classification system facilitates a detailed analysis of the economy by breaking it down into manageable components, thereby aiding in the assessment of economic expansion or contraction. In the realm of finance, these sectors are further specialized into investment sectors, permitting more targeted analyses and refined investment strategies.
+An economic sector is a substantial grouping of businesses and enterprises that engage in analogous business activities or produce interconnected products and services. This classification system facilitates a detailed analysis of the economy by breaking it down into manageable components, thereby aiding in the assessment of economic expansion or contraction. In finance, these sectors are further specialized into investment sectors, permitting more targeted analyses and refined investment strategies.
 
 The primary types of economic sectors include the primary, secondary, tertiary, and quaternary sectors. The primary sector is involved in the extraction and harvesting of natural resources. Its activities encompass agriculture, mining, forestry, and fishing, which form the foundational stage of the economic output by providing raw materials. This sector is crucial for economies heavily reliant on these natural resources, and its health directly impacts food security and resource availability.
 

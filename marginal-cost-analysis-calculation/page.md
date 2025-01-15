@@ -110,7 +110,7 @@ This indicates that each of the additional 50 widgets costs $100 to produce, hel
 
 ### Algorithmic Trading: Refining Strategies
 
-In the realm of finance, Renaissance Technologies, one of the most successful quantitative hedge funds, exemplifies the application of marginal cost analysis in [algorithmic trading](/wiki/algorithmic-trading). In algorithmic trading, every trade incurs costs such as transaction fees and market impact costs. By analyzing these marginal costs, trading algorithms can be designed to execute trades only when the expected marginal profit exceeds the marginal cost, thereby maximizing returns.
+In finance, Renaissance Technologies, one of the most successful quantitative hedge funds, exemplifies the application of marginal cost analysis in [algorithmic trading](/wiki/algorithmic-trading). In algorithmic trading, every trade incurs costs such as transaction fees and market impact costs. By analyzing these marginal costs, trading algorithms can be designed to execute trades only when the expected marginal profit exceeds the marginal cost, thereby maximizing returns.
 
 Consider a Python snippet that calculates marginal cost per trade:
 

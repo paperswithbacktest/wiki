@@ -17,7 +17,7 @@ In 2022, Cruickshanks enrolled at the University of Waterloo to pursue a Bachelo
 
 ## Career and Internship Experience
 
-Throughout his academic career, Maxwell Cruickshanks has actively sought out opportunities to apply his knowledge and gain practical experience. His internships have been pivotal in shaping his understanding of the tech industry, particularly in the realm of algorithmic trading.
+Throughout his academic career, Maxwell Cruickshanks has actively sought out opportunities to apply his knowledge and gain practical experience. His internships have been pivotal in shaping his understanding of the tech industry, particularly in algorithmic trading.
 
 ### Untether AI (May 2023 - August 2023)
 

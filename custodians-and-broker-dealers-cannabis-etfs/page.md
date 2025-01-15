@@ -35,7 +35,7 @@ In summary, while custodians ensure the secure handling and safekeeping of secur
 
 ## Algorithmic Trading in Cannabis ETFs
 
-Algorithmic trading utilizes computer programs to execute trades automatically based on predefined criteria, streamlining the buying and selling of securities. In the realm of cannabis exchange-traded funds (ETFs), [algorithmic trading](/wiki/algorithmic-trading) plays a crucial role in enhancing market liquidity and ensuring accurate pricing. The increased liquidity stems from the ability of algorithms to process large volumes of trades quickly, thus narrowing the bid-ask spread and stabilizing prices. 
+Algorithmic trading utilizes computer programs to execute trades automatically based on predefined criteria, streamlining the buying and selling of securities. In cannabis exchange-traded funds (ETFs), [algorithmic trading](/wiki/algorithmic-trading) plays a crucial role in enhancing market liquidity and ensuring accurate pricing. The increased liquidity stems from the ability of algorithms to process large volumes of trades quickly, thus narrowing the bid-ask spread and stabilizing prices. 
 
 Given the cannabis market's inherent [volatility](/wiki/volatility-trading-strategies), algorithmic trading systems can efficiently handle the rapid fluctuations. For instance, algorithms can be designed to monitor market signals and execute trades instantaneously based on changes in supply and demand, thereby offering investors better entry and [exit](/wiki/exit-strategy) points. These systems can accommodate a variety of strategies, including [momentum](/wiki/momentum) trading and mean reversion, each tailored to capitalize on the peculiarities of the cannabis market.
 

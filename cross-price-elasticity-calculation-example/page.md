@@ -5,7 +5,7 @@ description: "Discover how cross price elasticity and elasticity of demand shape
 
 Understanding various economic formulas is essential in the fields of economics and trading, as they are integral to making informed decisions. Among these, cross price elasticity and elasticity of demand stand out as fundamental concepts that significantly impact market analysis. Cross price elasticity measures the responsiveness of the quantity demanded for one good when the price of another good changes, offering insights into whether two goods function as substitutes or complements. Elasticity of demand, on the other hand, assesses how the quantity demanded of a product reacts to changes in its price, thus informing pricing strategies and revenue forecasts.
 
-These economic principles are becoming increasingly relevant in the realm of algorithmic trading, also known as algo trading. This form of trading uses computer algorithms to execute trades at optimal times and prices, and incorporating economic formulas such as cross price elasticity and elasticity of demand can enhance the efficiency and accuracy of trading strategies. By understanding these concepts, traders can better anticipate market trends, adjust their portfolios, and enhance profitability.
+These economic principles are becoming increasingly relevant in algorithmic trading, also known as algo trading. This form of trading uses computer algorithms to execute trades at optimal times and prices, and incorporating economic formulas such as cross price elasticity and elasticity of demand can enhance the efficiency and accuracy of trading strategies. By understanding these concepts, traders can better anticipate market trends, adjust their portfolios, and enhance profitability.
 
 ![Image](images/1.jpeg)
 

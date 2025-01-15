@@ -17,7 +17,7 @@ This article aims to provide a comprehensive overview of the concept of black sw
 
 Coined by Nassim Nicholas Taleb, a black swan event refers to an unpredictable occurrence that can produce severe consequences, primarily due to its rarity and substantial impact on markets. These events often seem apparent in hindsight; however, they defy prediction prior to their occurrence. Traditional financial models typically rely on historical data and probability distributions that assume normal market conditions, rendering them inadequate for anticipating black swan events.
 
-Taleb introduced the concept in his 2007 book, "The Black Swan: The Impact of the Highly Improbable," highlighting three main attributes of such events: they are outliers outside the realm of regular expectations, they carry an extreme impact, and they can be explained after the fact by which they seem predictable.
+Taleb introduced the concept in his 2007 book, "The Black Swan: The Impact of the Highly Improbable," highlighting three main attributes of such events: they are outliers outside regular expectations, they carry an extreme impact, and they can be explained after the fact by which they seem predictable.
 
 One of the challenges in discerning black swan events lies in their contravention of prevailing statistical and financial paradigms. Standard financial theories often rely on Gaussian distributions and the efficient market hypothesis, suggesting that market prices reflect all available information. However, black swan events lie in the tails of these distributions — occurrences deemed sufficiently rare that they are often not considered in financial modeling. 
 

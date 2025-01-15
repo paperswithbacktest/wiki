@@ -113,7 +113,7 @@ By continuously updating and integrating these calculations into trading algorit
 
 ## Mathematical Formulations of Elasticity in Trading
 
-Quantitative expressions of elasticity serve as essential tools in the realm of algorithmic trading. The price elasticity of demand is mathematically expressed as:
+Quantitative expressions of elasticity serve as essential tools in algorithmic trading. The price elasticity of demand is mathematically expressed as:
 
 $$
 E_d = \frac{\% \text{ change in quantity demanded}}{\% \text{ change in price}} = \frac{\Delta Q_d / Q_d}{\Delta P / P}

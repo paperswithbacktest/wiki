@@ -91,7 +91,7 @@ The long-lasting impact of Simons' philanthropy on mathematics and science educa
 
 ## Conclusion
 
-Jim Simons stands as a towering figure in the world of algorithmic trading, having fundamentally transformed how financial markets operate. As the founder of Renaissance Technologies, Simons pioneered the application of [quantitative trading](/wiki/quantitative-trading) strategies, utilizing mathematical models to predict market movements and generate extraordinary returns. His work has inspired a wave of algorithmic trading, making quantitative approaches a mainstay in modern finance.
+Jim Simons stands as a towering figure in algorithmic trading, having fundamentally transformed how financial markets operate. As the founder of Renaissance Technologies, Simons pioneered the application of [quantitative trading](/wiki/quantitative-trading) strategies, utilizing mathematical models to predict market movements and generate extraordinary returns. His work has inspired a wave of algorithmic trading, making quantitative approaches a mainstay in modern finance.
 
 Simons' legacy extends far beyond finance. In mathematics, his contributions, notably in differential geometry and topological quantum field theory, have left a lasting imprint. The Chern–Simons theory, developed in collaboration with Shiing-Shen Chern, remains a cornerstone in the field. His work in cryptography has also been influential, shaping secure communication methods that are integral today.
 

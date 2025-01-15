@@ -11,7 +11,7 @@ Autocorrelation, the correlation of a signal with a delayed copy of itself, can 
 
 In the context of regression analysis, the Durbin-Watson statistic ranges from 0 to 4. A value of 2 indicates no autocorrelation, values below 2 suggest positive autocorrelation, and values above 2 point to negative autocorrelation. By accurately identifying these patterns, traders can refine their models to mitigate prediction errors, ultimately leading to more consistent and reliable trading strategies.
 
-This article will cover the essential components of the Durbin-Watson test, its implications for regression analysis, and its significance in the realm of algorithmic trading. For both seasoned traders and statistical enthusiasts, employing the Durbin-Watson test in trading models through advanced statistical tests can result in more robust and dependable outcomes.
+This article will cover the essential components of the Durbin-Watson test, its implications for regression analysis, and its significance in algorithmic trading. For both seasoned traders and statistical enthusiasts, employing the Durbin-Watson test in trading models through advanced statistical tests can result in more robust and dependable outcomes.
 
 ## Table of Contents
 

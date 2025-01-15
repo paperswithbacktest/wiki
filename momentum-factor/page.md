@@ -19,7 +19,7 @@ For those looking to deep dive deeper into the academic perspective on momentum,
 
 ## What is Momentum?
 
-Momentum, within the realm of investing, refers to the phenomenon where securities that have performed well in one period continue to perform well in the subsequent period, and conversely, securities that have performed poorly continue to perform poorly. This persistence in performance can be observed in various time frames, ranging from months to years, and is a widely recognized [factor](/wiki/factor-investing) influencing stock prices.
+Momentum, within investing, refers to the phenomenon where securities that have performed well in one period continue to perform well in the subsequent period, and conversely, securities that have performed poorly continue to perform poorly. This persistence in performance can be observed in various time frames, ranging from months to years, and is a widely recognized [factor](/wiki/factor-investing) influencing stock prices.
 
 Price [momentum](/wiki/momentum) and [earning](/wiki/earning-announcement)s momentum, while related, are distinct concepts. Price momentum focuses on the movement of stock prices. It is based on the idea that stocks with rising prices tend to continue their ascent, while those with falling prices tend to continue to decline. This type of momentum is purely technical and does not necessarily consider the underlying reasons for the price movements.
 
@@ -85,7 +85,7 @@ Momentum is a pervasive force in financial markets, influencing not just stocks,
 
 **Equities**
 
-In the realm of equities, momentum is often captured through the performance of indices or individual stocks. For instance, studies have shown that stocks hitting 52-week highs have a tendency to continue outperforming. This trend is not just confined to the U.S. market but has been observed in markets globally, indicating a universal behavioral aspect to investing that transcends regional and asset boundaries.
+In equities, momentum is often captured through the performance of indices or individual stocks. For instance, studies have shown that stocks hitting 52-week highs have a tendency to continue outperforming. This trend is not just confined to the U.S. market but has been observed in markets globally, indicating a universal behavioral aspect to investing that transcends regional and asset boundaries.
 
 **Fixed income**
 

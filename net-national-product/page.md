@@ -15,7 +15,7 @@ $$
 
 This calculation reflects the net value of a country's production, including goods and services that degrade in value over time. As such, NNP can offer a clearer picture of economic sustainability by factoring in the wear and tear on capital assets. This measure is increasingly relevant in discussions about long-term economic growth and environmental sustainability, considering the depletion of natural resources.
 
-In the realm of financial markets, particularly in algorithmic trading, NNP can be a valuable data point. By incorporating NNP information, algorithms can better adjust to macroeconomic changes, thereby optimizing decision-making processes and portfolio returns. This article will discuss the calculation of NNP, its importance in economic analysis, and how it can be applied effectively in trading strategies. By the end, readers will appreciate NNP’s relevance in today's interconnected global economy, recognizing its role not only as a marker of economic health but also as a tool for achieving sustainable economic growth.
+In financial markets, particularly in algorithmic trading, NNP can be a valuable data point. By incorporating NNP information, algorithms can better adjust to macroeconomic changes, thereby optimizing decision-making processes and portfolio returns. This article will discuss the calculation of NNP, its importance in economic analysis, and how it can be applied effectively in trading strategies. By the end, readers will appreciate NNP’s relevance in today's interconnected global economy, recognizing its role not only as a marker of economic health but also as a tool for achieving sustainable economic growth.
 
 ## Table of Contents
 

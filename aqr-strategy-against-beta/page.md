@@ -88,7 +88,7 @@ In summary, while AQR's strategy offers appealing features like enhanced Sharpe 
 
 ## AQR Capital Management: An Overview
 
-AQR Capital Management, established by Clifton Asness, stands out as a prominent entity in the realm of quantitative investment strategies. The firm has consistently merged academic research with practical trading techniques, contributing to its significant growth and influence in the financial industry. As of 2020, AQR managed over $143 billion in assets, showcasing its capability to attract substantial investor interest and trust.
+AQR Capital Management, established by Clifton Asness, stands out as a prominent entity in quantitative investment strategies. The firm has consistently merged academic research with practical trading techniques, contributing to its significant growth and influence in the financial industry. As of 2020, AQR managed over $143 billion in assets, showcasing its capability to attract substantial investor interest and trust.
 
 AQR's success can largely be attributed to its innovative strategies that leverage financial theories for real-world application, one of the most notable being the 'Bet Against Beta' strategy. This approach highlights AQR's ability to identify and capitalize on market inefficiencies, establishing itself as a pioneer in quantitative finance.
 

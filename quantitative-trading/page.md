@@ -105,7 +105,7 @@ Throughout this life cycle, continuous monitoring and iteration are imperative. 
 
 ## Key Strategies in Quantitative Trading
 
-Quantitative trading strategies are diverse, relying on mathematical and statistical tools to identify and exploit market inefficiencies. These are some of the most employed strategies in the realm of quantitative trading:
+Quantitative trading strategies are diverse, relying on mathematical and statistical tools to identify and exploit market inefficiencies. These are some of the most employed strategies in quantitative trading:
 
 - **Arbitrage** is the practice of taking advantage of a price difference between two or more markets. There are several forms of arbitrage:
 - **Statistical Arbitrage**: Uses statistical techniques to predict future price movements based on historical data. This method often involves complex mathematical models and large data sets[13].

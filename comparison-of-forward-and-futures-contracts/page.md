@@ -45,7 +45,7 @@ In summary, futures contracts offer a standardized, liquid way to hedge against 
 
 ## Exploring Forward Contracts
 
-Forward contracts represent a pivotal tool within the realm of financial derivatives, offering a bespoke approach to contracting between two parties aiming to transact an asset at a predetermined price in the future. These contracts stand apart from their futures counterparts due to their inherent customizability and lack of standardization. Crucially, forward contracts are traded over-the-counter (OTC), which enables the involved parties to tailor terms and conditions to suit their specific needs.
+Forward contracts represent a pivotal tool within financial derivatives, offering a bespoke approach to contracting between two parties aiming to transact an asset at a predetermined price in the future. These contracts stand apart from their futures counterparts due to their inherent customizability and lack of standardization. Crucially, forward contracts are traded over-the-counter (OTC), which enables the involved parties to tailor terms and conditions to suit their specific needs.
 
 Despite their flexibility, forward contracts present a heightened counterparty risk, as the success of the contract's settlement highly depends on each party's ability to fulfill their obligations. This risk is accentuated by the absence of a clearing house, which is typically found in exchange-traded futures. Due to this increased risk [factor](/wiki/factor-investing), forward contracts are predominantly leveraged in hedging strategies, particularly by corporations aiming to mitigate potential future price volatilities.
 

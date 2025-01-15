@@ -1,6 +1,6 @@
 ---
 title: "Difference Between WACC and IRR (Algo Trading)"
-description: "Explore the key differences between WACC and IRR in the realm of algorithmic trading and learn how these metrics aid investment decision-making and risk management."
+description: "Explore the key differences between WACC and IRR in algorithmic trading and learn how these metrics aid investment decision-making and risk management."
 ---
 
 Understanding financial metrics is essential for making informed decisions in corporate finance and investment analysis. Among these metrics, the Weighted Average Cost of Capital (WACC) and the Internal Rate of Return (IRR) play key roles in evaluating investment opportunities and project viability. WACC represents the average rate a company expects to pay to finance its assets and is crucial for determining if an investment can generate sufficient returns to cover its costs. On the other hand, IRR helps assess the potential profitability of investments by calculating the expected rate of return and comparing it against the company's WACC.

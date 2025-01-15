@@ -29,7 +29,7 @@ $$
 
 This dual recording mechanism ensures that the accounting equation remains balanced, enhancing the accuracy of financial records. This method not only supports detailed financial analysis but also aids in the detection of errors or fraudulent activities through its systematic approach.
 
-Within the realm of double-entry bookkeeping, zero-proof bookkeeping emerges as a critical technique. This process involves manually verifying that the total debits equal the total credits in the accounting records. By doing so, it ensures the accuracy and integrity of financial data. This is akin to maintaining a balanced balance sheet, where the equation:
+Within double-entry bookkeeping, zero-proof bookkeeping emerges as a critical technique. This process involves manually verifying that the total debits equal the total credits in the accounting records. By doing so, it ensures the accuracy and integrity of financial data. This is akin to maintaining a balanced balance sheet, where the equation:
 
 $$
 \text{Total Debits} = \text{Total Credits}

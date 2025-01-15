@@ -113,7 +113,7 @@ In addressing these challenges, international regulatory bodies have intensified
 
 Moreover, ethical considerations and risks associated with algorithmic trading also involve the opacity of trading algorithms, which can lead to market manipulation or prevent transparent financial reporting. As a result, global regulatory bodies are increasingly scrutinizing the financial activities in tax havens to ensure fairer international competition and prevent financial crises.
 
-Given these international efforts to curb tax evasion, Hong Kong may need to adjust its tax policies to align with global standards. Such changes could potentially affect Hong Kong's status as a tax haven and, consequently, its role in the world of algorithmic trading. Maintaining its status without alienating international regulatory bodies will be crucial for Hong Kong's continued success as a leading global financial hub.
+Given these international efforts to curb tax evasion, Hong Kong may need to adjust its tax policies to align with global standards. Such changes could potentially affect Hong Kong's status as a tax haven and, consequently, its role in algorithmic trading. Maintaining its status without alienating international regulatory bodies will be crucial for Hong Kong's continued success as a leading global financial hub.
 
 ## Conclusion
 

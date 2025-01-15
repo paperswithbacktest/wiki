@@ -3,7 +3,7 @@ title: "House Money Effect (Algo Trading)"
 description: "Explore the House Money Effect a key concept in behavioral finance that impacts investor risk-taking behavior and decision-making with algorithmic trading systems."
 ---
 
-The world of investing transcends mere numbers and charts, deeply intertwining with the realm of human psychology. Behavioral finance, a field focusing on the psychological influences on investor decisions, offers valuable insights into why investors might deviate from logical and systematic decision-making. Within this context, one prominent concept is the House Money Effect, a psychological bias with significant implications for investing.
+The world of investing transcends mere numbers and charts, deeply intertwining with human psychology. Behavioral finance, a field focusing on the psychological influences on investor decisions, offers valuable insights into why investors might deviate from logical and systematic decision-making. Within this context, one prominent concept is the House Money Effect, a psychological bias with significant implications for investing.
 
 The House Money Effect elucidates the behavioral tendency among investors to adopt greater risks with profits than with their original capital. This effect, first introduced by Richard H. Thaler and Eric J. Johnson, draws parallels to behavior observed in casino gambling, where individuals show a propensity to gamble more freely with "house money" or previous winnings. Understanding this bias is crucial for investors as it impacts decision-making processes and risk management strategies.
 

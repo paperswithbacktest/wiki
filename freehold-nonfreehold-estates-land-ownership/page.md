@@ -71,7 +71,7 @@ These modern trends are influencing both freehold and nonfreehold property marke
 
 ## Conclusion
 
-Both freehold and nonfreehold estates offer distinct advantages and limitations in the realm of property investment. Freehold estates provide enduring ownership and control, making them ideal for those seeking long-term investment and inheritance potential. Conversely, nonfreehold estates, characterized by defined durations and lease-based arrangements, cater to individuals and businesses interested in flexible and short-term property utilization. Understanding the differences between these forms of estates allows investors to align their strategies with specific objectives and risk profiles.
+Both freehold and nonfreehold estates offer distinct advantages and limitations in property investment. Freehold estates provide enduring ownership and control, making them ideal for those seeking long-term investment and inheritance potential. Conversely, nonfreehold estates, characterized by defined durations and lease-based arrangements, cater to individuals and businesses interested in flexible and short-term property utilization. Understanding the differences between these forms of estates allows investors to align their strategies with specific objectives and risk profiles.
 
 The advent of algorithmic trading highlights the transformative role of technology in optimizing investment processes. By automating data analysis and decision-making, algorithmic trading enhances the precision and speed of transactions, providing investors with a significant competitive advantage. This technological integration is redefining investment strategies, particularly in real estate, where large datasets and market predictions are pivotal.
 

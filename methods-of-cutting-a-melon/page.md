@@ -79,7 +79,7 @@ Both melon cutting and algorithmic trading require a structured approach to achi
 
 When slicing a melon, the goal is to achieve uniformity and efficiency. This translates into a set of repeatable processes: selecting the right melon, using a stable cutting board, employing precise knife skills, and applying the appropriate cutting techniques for the desired outcome, such as cubes or slices. This structured method ensures that the task is executed efficiently and consistently.
 
-In the world of algorithmic trading, similar principles apply. Traders must develop and adhere to a systematic approach to market analysis and trade execution. This involves setting clear trading rules, employing precise algorithms, and executing trades automatically in response to market signals. For instance, an algorithm might be designed to buy a stock when the short-term moving average crosses above the long-term moving average, a classic example of a moving average crossover strategy.
+In algorithmic trading, similar principles apply. Traders must develop and adhere to a systematic approach to market analysis and trade execution. This involves setting clear trading rules, employing precise algorithms, and executing trades automatically in response to market signals. For instance, an algorithm might be designed to buy a stock when the short-term moving average crosses above the long-term moving average, a classic example of a moving average crossover strategy.
 
 ```python
 # Example of a simple moving average crossover strategy in Python

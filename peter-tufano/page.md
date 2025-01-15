@@ -13,7 +13,7 @@ Peter Tufano was born and raised in the United States. He attended Harvard Colle
 
 ## Academic and Professional Career
 
-Peter Tufano began his distinguished academic career at Harvard Business School in 1989. Over a span of 22 years, he held several key roles, including the Sylvan C. Coleman Professor of Financial Management and Senior Associate Dean. His research and teaching primarily focused on financial innovation, risk management, and consumer finance, enabling him to make significant contributions to the field of finance, particularly in the realm of algorithmic trading.
+Peter Tufano began his distinguished academic career at Harvard Business School in 1989. Over a span of 22 years, he held several key roles, including the Sylvan C. Coleman Professor of Financial Management and Senior Associate Dean. His research and teaching primarily focused on financial innovation, risk management, and consumer finance, enabling him to make significant contributions to the field of finance, particularly in algorithmic trading.
 
 ### Harvard Business School (1989–2011, 2021–Present)
 

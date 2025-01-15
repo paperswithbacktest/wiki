@@ -59,7 +59,7 @@ Algorithmic trading, fueled by asymmetric information, showcases how advancement
 
 ## Strategies Leveraging Asymmetric Information
 
-In the world of algorithmic trading, leveraging asymmetric information can lead to profitable trading strategies under various market conditions. Three prominent strategies exemplify this: news-based trading, order flow analysis, and latency arbitrage.
+In algorithmic trading, leveraging asymmetric information can lead to profitable trading strategies under various market conditions. Three prominent strategies exemplify this: news-based trading, order flow analysis, and latency arbitrage.
 
 **News-Based Trading**
 

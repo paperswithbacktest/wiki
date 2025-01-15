@@ -11,7 +11,7 @@ Rouse's career is characterized by a seamless blend of theoretical and applied e
 
 In government service, Rouse's expertise was further recognized through her appointments to the Council of Economic Advisers under both the Obama and Biden administrations. Her tenure as chair of the Council was particularly noteworthy, marking a historic appointment as the first Black woman to hold the position. In this role, she provided crucial economic guidance during challenging times, influencing economic policy at the highest levels.
 
-Rouse's impact also reaches into the realm of algorithmic trading and financial markets, where her academic insights into economic behaviors and market dynamics underscore the importance of data-driven decision-making in finance. Her championing of these techniques has been instrumental in highlighting the value of economic education in enhancing financial market efficiencies.
+Rouse's impact also reaches into algorithmic trading and financial markets, where her academic insights into economic behaviors and market dynamics underscore the importance of data-driven decision-making in finance. Her championing of these techniques has been instrumental in highlighting the value of economic education in enhancing financial market efficiencies.
 
 Overall, Cecilia Rouse's journey through academia, government, and think tanks highlights her as a trailblazer in leveraging economics to address broad social and economic challenges. Her dedication to economic equity and education continues to influence public policy and academic research, cementing her legacy as a transformative figure in economic thought and practice.
 

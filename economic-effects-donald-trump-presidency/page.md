@@ -89,7 +89,7 @@ Ultimately, the fiscal and trade policies enacted during different administratio
 
 ## Conclusion: Long-Term Economic Impacts
 
-Trump's presidency left an intricate legacy on the United States economy with significant ramifications for trading practices, particularly in the realm of algorithmic trading. The policies implemented during his tenure have been observed to produce both immediate benefits and longer-term fiscal challenges.
+Trump's presidency left an intricate legacy on the United States economy with significant ramifications for trading practices, particularly in algorithmic trading. The policies implemented during his tenure have been observed to produce both immediate benefits and longer-term fiscal challenges.
 
 The most apparent short-term gain was the substantial growth in stock markets, driven by investor optimism and tax policies that favored corporations, such as the Tax Cuts and Jobs Act. This created an environment where algorithmic trading systems thrived, taking advantage of the bullish trends and increased trading volumes. On the contrary, Trump’s trade policies, notably the trade wars, introduced volatility and uncertainty which necessitated swift adaptability from algorithmic trading models. The frequent shifts in U.S. trade stance required traders to continually adjust their strategies to mitigate risks and exploit opportunities presented by fluid market conditions.
 

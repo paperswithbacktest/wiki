@@ -50,7 +50,7 @@ Case studies highlight various scenarios where algorithmic trading systems have 
 
 Nevertheless, maintaining consistent Alpha remains challenging in a rapidly evolving market environment. Algo trading systems must constantly adapt to changes in market dynamics, regulatory shifts, and technological advancements. Factors like sudden economic events, increased competition among trading firms, and changes in liquidity can affect an algorithm's capacity to sustain positive Alpha over time. Moreover, high transaction costs and market impact must be carefully managed to prevent erosion of returns.
 
-In conclusion, Alpha remains a pivotal concept in the realm of algorithmic trading. While achieving and sustaining positive Alpha is challenging, it is essential for traders and analysts aiming for superior investment performance. Recognizing its importance allows for more refined strategy development and optimization in the pursuit of consistent, risk-adjusted returns.
+In conclusion, Alpha remains a pivotal concept in algorithmic trading. While achieving and sustaining positive Alpha is challenging, it is essential for traders and analysts aiming for superior investment performance. Recognizing its importance allows for more refined strategy development and optimization in the pursuit of consistent, risk-adjusted returns.
 
 ## Evaluating Algo Trading Performance with Jensen’s Measure
 

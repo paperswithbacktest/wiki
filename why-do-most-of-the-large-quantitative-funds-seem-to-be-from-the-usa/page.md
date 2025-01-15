@@ -99,7 +99,7 @@ Despite their challenges, US-based quantitative funds continue to play a pivotal
 
 ## Conclusion
 
-The United States has emerged as a dominating force in the realm of quantitative funds, driven by several interconnected [factor](/wiki/factor-investing)s. A robust technological infrastructure has provided the foundation for sophisticated algorithmic trading and data analysis, essential components of quantitative finance. Pioneering advancements in cloud computing, machine learning, and artificial intelligence have found fertile ground in the American tech ecosystem, allowing quant funds to process vast datasets with speed and accuracy. 
+The United States has emerged as a dominating force in quantitative funds, driven by several interconnected [factor](/wiki/factor-investing)s. A robust technological infrastructure has provided the foundation for sophisticated algorithmic trading and data analysis, essential components of quantitative finance. Pioneering advancements in cloud computing, machine learning, and artificial intelligence have found fertile ground in the American tech ecosystem, allowing quant funds to process vast datasets with speed and accuracy. 
 
 The academic landscape in the US also plays a crucial role, with leading universities producing a stream of skilled professionals proficient in quantitative methods. Partnerships between these academic institutions and financial firms have fostered an environment where cutting-edge research directly translates into practical financial strategies. Influential research contributions from these institutions have reshaped portfolio management and risk assessment techniques.
 

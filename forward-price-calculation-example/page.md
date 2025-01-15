@@ -9,7 +9,7 @@ In recent years, the significance of forward pricing has expanded in the context
 
 ![Image](images/1.jpeg)
 
-This article examines forward price calculation, illustrating its applications through financial examples and emphasizing its importance in the realm of algorithmic trading. By understanding the intricate details of forward pricing, traders can make more informed decisions, improve trading efficiency, and leverage these insights for strategic advantage in dynamic financial markets.
+This article examines forward price calculation, illustrating its applications through financial examples and emphasizing its importance in algorithmic trading. By understanding the intricate details of forward pricing, traders can make more informed decisions, improve trading efficiency, and leverage these insights for strategic advantage in dynamic financial markets.
 
 ## Table of Contents
 

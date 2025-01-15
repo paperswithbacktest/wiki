@@ -5,7 +5,7 @@ description: News trading in algorithmic trading revolves around leveraging news
 
 
 
-News trading in the realm of algorithmic (algo) trading is the strategic incorporation of news events to inform and drive automated trading decisions. Typically, the aim is to capitalize on market fluctuations prompted by news releases related to economic indicators, financial reports, and other pertinent occurrences. News trading is imperative in algo trading because news directly influences financial market behaviors, often causing stock prices to surge or plunge, currency values to fluctuate, and commodities to vary in demand and value.
+News trading in algorithmic (algo) trading is the strategic incorporation of news events to inform and drive automated trading decisions. Typically, the aim is to capitalize on market fluctuations prompted by news releases related to economic indicators, financial reports, and other pertinent occurrences. News trading is imperative in algo trading because news directly influences financial market behaviors, often causing stock prices to surge or plunge, currency values to fluctuate, and commodities to vary in demand and value.
 
 When news impacts the financial markets, it's typically through the immediate injection of volatility and liquidity. Take, for example, a scenario where a quarterly earnings report exceeds analysts’ expectations - the involved company’s stock price may swiftly ascend, driven by an influx of investors eager to partake in the promising profitability. Conversely, a political instability event, such as a geopolitical conflict or an unexpected election outcome, can prompt a swift decline in the involved nations’ currency values or stock indices, as investors might retreat to mitigate potential losses.
 
@@ -187,7 +187,7 @@ Through this lens, the future of news-based algo trading oscillates between real
 
 ## Additional Resources
 
-For those delving deeper into the realm of news trading in algorithmic trading, a selection of profound resources is indispensable to augment knowledge and refine strategies.
+For those delving deeper into news trading in algorithmic trading, a selection of profound resources is indispensable to augment knowledge and refine strategies.
 
 "Algorithmic Trading: Winning Strategies and Their Rationale" by Dr. Ernest P. Chan provides a detailed exploration into diverse algorithmic strategies and explicates the theoretical underpinnings and practical implementations of the same. A particularly invaluable resource for those who seek to comprehend the mechanics and strategies intrinsic to algo trading, the book weaves through various trading methods meticulously, offering insights into the implementation of statistically derived strategies[10].
 

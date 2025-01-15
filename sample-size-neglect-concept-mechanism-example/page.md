@@ -11,7 +11,7 @@ In algorithmic trading, a solid grasp of statistical principles is paramount for
 
 ## Understanding Statistical Bias in Trading
 
-Statistical bias in trading refers to systematic errors that occur when a data set fails to accurately represent the entire population, leading to unreliable outcomes. This misrepresentation can mislead traders about actual market trends or the efficiency of a particular trading strategy. The issue of statistical bias is particularly critical in the realm of trading, where decisions must be grounded in rigorous data analysis to minimize financial risk and enhance performance.
+Statistical bias in trading refers to systematic errors that occur when a data set fails to accurately represent the entire population, leading to unreliable outcomes. This misrepresentation can mislead traders about actual market trends or the efficiency of a particular trading strategy. The issue of statistical bias is particularly critical in trading, where decisions must be grounded in rigorous data analysis to minimize financial risk and enhance performance.
 
 Sample size neglect is a significant form of statistical bias, arising when the importance of a data sample's size is disregarded. In trading, this bias often leads to inadequate interpretations of market movements and strategy effectiveness. Consider a scenario where a trading algorithm is backtested on a small sample of historical data; the algorithm could exhibit satisfactory performance due to randomness rather than genuine predictive power. Traders might mistakenly perceive this performance as robust, ignoring the limited sample size and consequently making flawed investment decisions.
 

@@ -19,7 +19,7 @@ Ultimately, the effective integration of construction loan notes and algorithmic
 
 ## Understanding Construction Loan Notes (CLNs)
 
-A Construction Loan Note (CLN) is a short-term debt instrument utilized predominantly by municipalities or real estate developers to finance construction projects. This financial tool is instrumental in swiftly generating the necessary cash flow to initiate and progress construction activities, specifically in housing developments or civic projects. The distinguishing feature of CLNs lies in their targeted use within the realm of construction and real estate development, often at the municipal level.
+A Construction Loan Note (CLN) is a short-term debt instrument utilized predominantly by municipalities or real estate developers to finance construction projects. This financial tool is instrumental in swiftly generating the necessary cash flow to initiate and progress construction activities, specifically in housing developments or civic projects. The distinguishing feature of CLNs lies in their targeted use within construction and real estate development, often at the municipal level.
 
 The CLN process typically begins with the issuance of the note, which provides immediate funding for the project. This immediate cash flow is crucial for the timely commencement of construction tasks. The essence of a CLN's functionality is based on its short-term nature, usually maturing within a few years. During this period, the construction project advances towards completion, leveraging the funds available via the CLN.
 

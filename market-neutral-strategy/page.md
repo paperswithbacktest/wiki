@@ -59,7 +59,7 @@ However, statistical arbitrage is not without risks. Key challenges include mode
 
 ### Delta Neutral Options Strategies
 
-Delta neutral options strategies are a sophisticated approach within the realm of market neutral trading, primarily focusing on options trading. These strategies aim to offset positive and negative deltas—meaning the sensitivity of an option's price to a $1 change in the underlying asset—so that the overall delta of the assets in question is as close to zero as possible. This neutralizes or minimizes the directional risk associated with price movements of the underlying asset.
+Delta neutral options strategies are a sophisticated approach within market neutral trading, primarily focusing on options trading. These strategies aim to offset positive and negative deltas—meaning the sensitivity of an option's price to a $1 change in the underlying asset—so that the overall delta of the assets in question is as close to zero as possible. This neutralizes or minimizes the directional risk associated with price movements of the underlying asset.
 
 ![Untitled](images/Untitled%202.png)
 

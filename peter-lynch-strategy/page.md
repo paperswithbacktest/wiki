@@ -65,7 +65,7 @@ This script calculates short and long-term moving averages, generating buy (1) o
 
 ## Integrating Lynch's Principles with Algorithmic Trading
 
-Peter Lynch's investment principles, though deeply rooted in fundamental analysis, can be effectively translated into the realm of algorithmic trading. At the core of Lynch's approach is the ability to identify undervalued stocks with strong growth potential, often referred to as "ten baggers." This strategy hinges on detailed company analysis, where the focus lies on understanding business models, financial health, and growth prospects. By codifying these criteria into algorithms, investors can automate this exploratory process, achieving both scale and precision.
+Peter Lynch's investment principles, though deeply rooted in fundamental analysis, can be effectively translated into algorithmic trading. At the core of Lynch's approach is the ability to identify undervalued stocks with strong growth potential, often referred to as "ten baggers." This strategy hinges on detailed company analysis, where the focus lies on understanding business models, financial health, and growth prospects. By codifying these criteria into algorithms, investors can automate this exploratory process, achieving both scale and precision.
 
 Algorithms can be developed to screen for undervalued stocks using traditional metrics employed by Lynch, such as the price-to-earnings (P/E) ratio and the price/earnings to growth (PEG) ratio. These ratios help in assessing whether a stock is appropriately valued relative to its earnings and growth potential. For instance, a Python-based algorithm might look like this:
 

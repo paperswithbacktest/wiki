@@ -9,7 +9,7 @@ description: "Discover the groundbreaking work of Petros Zerfos in algorithmic t
 
 ## Petros Zerfos
 
-Petros Zerfos is a prominent figure in the realm of computer science, particularly known for his contributions to algorithmic trading, data engineering, and wireless networks. Currently a Principal Research Scientist and Manager at IBM Research, Zerfos has had a profound impact on the field of artificial intelligence and quantitative finance through his extensive research and development work. 
+Petros Zerfos is a prominent figure in computer science, particularly known for his contributions to algorithmic trading, data engineering, and wireless networks. Currently a Principal Research Scientist and Manager at IBM Research, Zerfos has had a profound impact on the field of artificial intelligence and quantitative finance through his extensive research and development work. 
 
 ### Early Life and Education
 

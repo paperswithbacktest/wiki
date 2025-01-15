@@ -115,7 +115,7 @@ Incorporating an overnight trading bias into strategies has proven beneficial fo
 
 From a legal and regulatory standpoint, it is imperative for traders to stay informed about the rules governing overnight trading in various markets. These regulations are in place to protect market integrity and ensure fair trading practices.
 
-Adaptability is key in the realm of overnight trading. As market conditions shift and economic indicators fluctuate, strategies that once yielded profit may need adjustment. Continuous education and a willingness to evolve with the markets are vital traits of a proficient overnight trader.
+Adaptability is key in overnight trading. As market conditions shift and economic indicators fluctuate, strategies that once yielded profit may need adjustment. Continuous education and a willingness to evolve with the markets are vital traits of a proficient overnight trader.
 
 Building an overnight trading portfolio should align with a trader's broader investment objectives, incorporating a well-thought-out diversification strategy and sound portfolio management practices. Whether focusing on long-term trends or short-term movements, an effective portfolio should reflect a trader's goals, risk tolerance, and trading style.
 

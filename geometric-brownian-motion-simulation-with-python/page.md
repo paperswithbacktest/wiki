@@ -5,7 +5,7 @@ description: Explore the application of geometric Brownian motion in algorithmic
 
 Algorithmic trading refers to the utilization of computer algorithms to automate and enhance trading in financial markets. This method leverages high-speed data processing and decision-making capabilities to execute trades at speeds and frequencies beyond human traders. The importance of algorithmic trading lies in its ability to exploit market inefficiencies, improve liquidity, and reduce transaction costs, ultimately contributing to more efficient and competitive markets.
 
-Within this context, geometric Brownian motion (GBM) emerges as a crucial mathematical model for modeling stock prices and financial assets. GBM is a stochastic process widely recognized for its application in the realm of financial modeling, particularly in estimating the dynamics of asset prices. The model assumes continuous, random price fluctuations characterized by a constant drift and volatility, making it a suitable candidate for representing the erratic movements of asset prices in financial markets.
+Within this context, geometric Brownian motion (GBM) emerges as a crucial mathematical model for modeling stock prices and financial assets. GBM is a stochastic process widely recognized for its application in financial modeling, particularly in estimating the dynamics of asset prices. The model assumes continuous, random price fluctuations characterized by a constant drift and volatility, making it a suitable candidate for representing the erratic movements of asset prices in financial markets.
 
 ![Image](images/1.png)
 

@@ -67,7 +67,7 @@ where $S_t$ is the stock price at time $t$, $\mu$ is the drift coefficient repre
 
 **Monte Carlo Simulations:** GBM is often employed in Monte Carlo methods to simulate numerous potential future price paths of an asset. This technique helps in estimating the probability distribution of future values, thus facilitating risk assessment and decision-making processes under uncertainty.
 
-**Option Pricing Models:** In the realm of options trading, GBM is fundamental to the Black-Scholes model, which provides analytical solutions for pricing European call and put options. The assumption of GBM allows traders to estimate fair option prices, making it an invaluable tool in derivative markets.
+**Option Pricing Models:** In options trading, GBM is fundamental to the Black-Scholes model, which provides analytical solutions for pricing European call and put options. The assumption of GBM allows traders to estimate fair option prices, making it an invaluable tool in derivative markets.
 
 ### Advantages of Using GBM
 

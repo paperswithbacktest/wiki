@@ -69,7 +69,7 @@ The complexities introduced by algorithmic trading, such as the need for advance
 
 ## Challenges and Evolution
 
-OneChicago, established as a significant entity in the realm of single-stock futures trading, faced numerous challenges over its two decades of operation. Notably, the exchange experienced declining trading volumes and increased competition from other financial markets and instruments. This environment required OneChicago to continually innovate and adapt.
+OneChicago, established as a significant entity in single-stock futures trading, faced numerous challenges over its two decades of operation. Notably, the exchange experienced declining trading volumes and increased competition from other financial markets and instruments. This environment required OneChicago to continually innovate and adapt.
 
 Regulatory changes were a persistent challenge, as financial markets are heavily regulated to ensure transparency and security. OneChicago had to navigate these regulations while maintaining its competitiveness. For instance, the introduction of regulations such as the Dodd-Frank Act, aimed at increasing market oversight following the 2008 financial crisis, required exchanges to modify their operational procedures to comply with new legal standards.
 

@@ -55,7 +55,7 @@ $$
 
 Congestion pricing, commonly applied in transportation networks, aims to reduce congestion by dissuading demand during high-usage periods. The rationale is not just revenue maximization, but also improving efficiency by reallocating demand across time. The fundamental difference is that while peak and congestion pricing seek to manage demand constructively, hockey stick bidding is often more closely associated with extracting surplus under static demand conditions.
 
-In energy markets, the use of such pricing strategies is vital to managing supply and demand dynamics. Hockey stick bidding is particularly controversial because, while it responds to microeconomic realities similar to those of other pricing strategies, it often transgresses into the realm of perceived market exploitation, raising moral and regulatory questions.
+In energy markets, the use of such pricing strategies is vital to managing supply and demand dynamics. Hockey stick bidding is particularly controversial because, while it responds to microeconomic realities similar to those of other pricing strategies, it often transgresses into perceived market exploitation, raising moral and regulatory questions.
 
 The interplay of these economic concepts illustrates why hockey stick bidding remains attractive for suppliers yet contentious among regulators and consumers. Understanding the balance between legitimate market behavior and potential exploitation is key to evaluating this strategy's appropriateness in various auction settings.
 

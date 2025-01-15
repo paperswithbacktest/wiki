@@ -9,7 +9,7 @@ The dynamic nature of trading requires a keen comprehension of how different ord
 
 ![Image](images/1.jpeg)
 
-By focusing on imbalance-only orders, we explore their strategic application within the realm of algorithmic trading, where automated systems leverage these orders to achieve optimized trade executions. Understanding the intricacies of IO orders, including their timing and execution mechanics, empowers traders and investors to balance opportunities and risks effectively in the stock market. Through strategic utilizations, these orders can enhance liquidity and improve overall market participation rates, ultimately contributing to more efficient and informed trading decisions.
+By focusing on imbalance-only orders, we explore their strategic application within algorithmic trading, where automated systems leverage these orders to achieve optimized trade executions. Understanding the intricacies of IO orders, including their timing and execution mechanics, empowers traders and investors to balance opportunities and risks effectively in the stock market. Through strategic utilizations, these orders can enhance liquidity and improve overall market participation rates, ultimately contributing to more efficient and informed trading decisions.
 
 ## Table of Contents
 

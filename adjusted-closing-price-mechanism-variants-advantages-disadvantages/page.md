@@ -191,7 +191,7 @@ In conclusion, adjusted closing prices are indispensable in fine-tuning algorith
 
 ## Calculation of Adjusted Closing Price
 
-The calculation of adjusted closing prices is a crucial task in the realm of financial analysis, particularly for those interested in obtaining a clear view of a stock's historical performance. Unadjusted closing prices often fail to capture the effects of corporate actions such as dividends and stock splits, necessitating adjustments to ensure data accuracy. Below, we discuss the algorithmic approach to calculating adjusted closing prices, covering the necessary adjustments for dividends and stock splits, along with an illustrative example. Additionally, we explore tools and methods for maintaining accuracy in historical stock data.
+The calculation of adjusted closing prices is a crucial task in financial analysis, particularly for those interested in obtaining a clear view of a stock's historical performance. Unadjusted closing prices often fail to capture the effects of corporate actions such as dividends and stock splits, necessitating adjustments to ensure data accuracy. Below, we discuss the algorithmic approach to calculating adjusted closing prices, covering the necessary adjustments for dividends and stock splits, along with an illustrative example. Additionally, we explore tools and methods for maintaining accuracy in historical stock data.
 
 ### Algorithmic Approach to Calculate Adjusted Closing Prices
 

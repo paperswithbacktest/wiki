@@ -5,7 +5,7 @@ description: "Discover the key differences between affirmative and negative bond
 
 In the world of bonds and financial agreements, covenants play a crucial role. They are legally binding terms that safeguard the interests of bond issuers and holders. Essentially, bond covenants are stipulations within a bond’s indenture that ensure borrowers uphold certain financial practices and obligations, thus protecting the lenders. These covenants are key to maintaining the balance of power between issuers and investors, mitigating risks, and preserving the financial health of both parties involved.
 
-This article focuses on the dual nature of covenants as negative and affirmative, each serving distinct functions in the realm of bond agreements. Negative covenants impose restrictions on actions that an issuer may undertake, such as incurring additional debt, which could compromise the borrower’s ability to meet financial obligations. On the other hand, affirmative covenants require issuers to engage in specific actions to maintain transparency and operational efficiency, like regularly providing audited financial statements.
+This article focuses on the dual nature of covenants as negative and affirmative, each serving distinct functions in bond agreements. Negative covenants impose restrictions on actions that an issuer may undertake, such as incurring additional debt, which could compromise the borrower’s ability to meet financial obligations. On the other hand, affirmative covenants require issuers to engage in specific actions to maintain transparency and operational efficiency, like regularly providing audited financial statements.
 
 ![Image](images/1.png)
 

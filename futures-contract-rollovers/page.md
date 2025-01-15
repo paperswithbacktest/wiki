@@ -11,7 +11,7 @@ The process of rolling over futures contracts is indispensable for traders aimin
 
 Moreover, in algorithmic trading—where trading strategies might require constant exposure to market indices, commodities, or other financial instruments—understanding the nuances of the rollover process becomes even more vital. Algorithms are designed to execute trades based on predefined criteria without human intervention; thus, integrating an efficient rollover strategy ensures that these algorithms function optimally without disruptions.
 
-This article aims to dissect the rollover process, investigate its importance within the realm of algorithmic trading, and provide insights into effective management strategies. By mastering this process, traders can leverage the opportunities presented by futures markets while minimizing potential disruptions to their strategic objectives.
+This article aims to dissect the rollover process, investigate its importance within algorithmic trading, and provide insights into effective management strategies. By mastering this process, traders can leverage the opportunities presented by futures markets while minimizing potential disruptions to their strategic objectives.
 
 ## Table of Contents
 

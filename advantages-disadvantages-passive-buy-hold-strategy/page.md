@@ -43,7 +43,7 @@ Overall, while the buy-and-hold strategy remains a cornerstone of passive invest
 
 Algorithmic trading plays a transformative role in passive investment by automating the execution of trades based on predefined rules, thereby significantly reducing the likelihood of human error. The automation characteristic of [algorithmic trading](/wiki/algorithmic-trading) provides the capability to maintain continuous monitoring of the market, enabling quick responses to market changes without direct human intervention. 
 
-One of the primary strategies facilitated by algorithmic trading in the realm of passive investment is dollar-cost averaging. This strategy involves investing a fixed amount in a particular asset at regular intervals, thereby mitigating the impact of market volatility. Trading bots can effortlessly implement such strategies, ensuring consistent investment without requiring manual input. Here's a simple example of how a trading bot may implement a dollar-cost averaging strategy using Python:
+One of the primary strategies facilitated by algorithmic trading in passive investment is dollar-cost averaging. This strategy involves investing a fixed amount in a particular asset at regular intervals, thereby mitigating the impact of market volatility. Trading bots can effortlessly implement such strategies, ensuring consistent investment without requiring manual input. Here's a simple example of how a trading bot may implement a dollar-cost averaging strategy using Python:
 
 ```python
 class TradingBot:

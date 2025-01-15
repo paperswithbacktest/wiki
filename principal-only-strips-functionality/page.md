@@ -1,11 +1,11 @@
 ---
 title: "Principal-Only Strips and Their Functionality (Algo Trading)"
-description: "Explore the unique features of Principal-Only strips in the realm of algo trading These instruments focus solely on principal repayments from MBS pools offering strategic investment opportunities"
+description: "Explore the unique features of Principal-Only strips in algo trading These instruments focus solely on principal repayments from MBS pools offering strategic investment opportunities"
 ---
 
 In the world of finance, having a comprehensive understanding of the various instruments available is crucial for investors aiming to make informed decisions. Among these complex instruments is the Principal-Only (PO) strip, a specific type of fixed-income security that originates from mortgage-backed securities (MBS). PO strips represent a unique investment opportunity as they allow investors to receive only the principal repayments from a pool of underlying mortgages, as opposed to also receiving interest payments. 
 
-This article aims to provide an in-depth exploration of PO strips, highlighting their peculiar characteristics and roles in the investment landscape. We will examine how these securities are increasingly being utilized within the realm of algorithmic trading, a field that uses computer algorithms to optimize trading decisions and enhance returns. As technology continues to advance, algorithmic trading has begun to reshape the way financial products like PO strips are used and analyzed, offering new strategies and benefits to investors.
+This article aims to provide an in-depth exploration of PO strips, highlighting their peculiar characteristics and roles in the investment landscape. We will examine how these securities are increasingly being utilized within algorithmic trading, a field that uses computer algorithms to optimize trading decisions and enhance returns. As technology continues to advance, algorithmic trading has begun to reshape the way financial products like PO strips are used and analyzed, offering new strategies and benefits to investors.
 
 ![Image](images/1.jpeg)
 

@@ -53,7 +53,7 @@ Recognizing these differences between paper and live trading is crucial for trad
 
 ## How to Use Paper Trading to Test and Refine Trading Strategies
 
-Paper trading serves as an indispensable tool for validating and refining trading strategies in the world of algorithmic trading. When a strategy is developed, it usually goes through a [backtesting](/wiki/backtesting) process using historical data to assess its potential effectiveness. However, paper trading provides an additional layer of verification by allowing traders to confirm these strategies in a simulated environment that mirrors current market conditions.
+Paper trading serves as an indispensable tool for validating and refining trading strategies in algorithmic trading. When a strategy is developed, it usually goes through a [backtesting](/wiki/backtesting) process using historical data to assess its potential effectiveness. However, paper trading provides an additional layer of verification by allowing traders to confirm these strategies in a simulated environment that mirrors current market conditions.
 
 To begin, traders should use paper trading to forward test new hypotheses about market behavior. This means implementing the strategy in a simulated setting, observing outcomes, and making necessary adjustments based on those observations. For example, if a trader hypothesizes that a certain market event impacts stock prices differently than accounted for in the past, paper trading can be used to test this hypothesis without any financial risk.
 

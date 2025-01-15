@@ -125,7 +125,7 @@ In summary, algorithmic trading is indispensable in managing dual-listed stocks,
 
 ## Algorithmic Trading and Dual-Listed Stocks
 
-Algorithmic trading has increasingly become a staple in financial markets, including the realm of dual-listed stocks. Dual-listed stocks, by their nature, present arbitrage opportunities that algorithms are adept at identifying. Arbitrage, the simultaneous buying and selling of the same asset in different markets to profit from unequal prices, becomes feasible when a stock is available on multiple exchanges with price discrepancies due to market inefficiencies or time lags. 
+Algorithmic trading has increasingly become a staple in financial markets, including dual-listed stocks. Dual-listed stocks, by their nature, present arbitrage opportunities that algorithms are adept at identifying. Arbitrage, the simultaneous buying and selling of the same asset in different markets to profit from unequal prices, becomes feasible when a stock is available on multiple exchanges with price discrepancies due to market inefficiencies or time lags. 
 
 To exploit arbitrage opportunities, an algorithmic trading system monitors prices of dual-listed stocks across various exchanges. When a price disparity is detected, the algorithm executes buy and sell orders simultaneously to capitalize on this difference. For example, if Stock X is dual-listed on the New York Stock Exchange (NYSE) and the London Stock Exchange (LSE) and is trading at $100 on NYSE but $102 on LSE, an algorithm can automatically purchase the stock on NYSE and sell it on LSE, securing a profit before transaction costs and fees.
 

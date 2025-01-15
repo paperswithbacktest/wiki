@@ -9,7 +9,7 @@ One of the primary advantages of algorithmic trading is the increased speed and 
 
 ![Image](images/1.jpeg)
 
-A fundamental concept in the realm of algo trading is that of standard bars, which are vital components of time-series analysis. Standard bars, typically constructed based on time intervals, such as minutes, hours, or days, serve as a systematic framework for analyzing price movements and trading volume over uniform periods. These bars help in identifying trends, measuring volatility, and generating trading signals.
+A fundamental concept in algo trading is that of standard bars, which are vital components of time-series analysis. Standard bars, typically constructed based on time intervals, such as minutes, hours, or days, serve as a systematic framework for analyzing price movements and trading volume over uniform periods. These bars help in identifying trends, measuring volatility, and generating trading signals.
 
 The purpose of this article is to explore the concept of standard bars and their significant role in algorithmic trading. Understanding how standard bars work enables traders to enhance their trading strategies by providing a consistent framework for analyzing market data and optimizing trade execution. Through this exploration, we aim to demonstrate how standard bars contribute to the effectiveness and efficiency of algorithmic trading systems.
 

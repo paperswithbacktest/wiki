@@ -69,7 +69,7 @@ Furthermore, Rockefeller's emphasis on research and development fostered a cultu
 
 ## Rockefeller's Influence on Contemporary Economic Practices
 
-John D. Rockefeller's influence on contemporary economic practices is profound, particularly in the realm of strategic business methodologies and the foundational principles that have shaped modern financial markets. His strategies within Standard Oil have not only left a lasting mark on the oil industry but have also indirectly influenced current financial practices such as algorithmic trading.
+John D. Rockefeller's influence on contemporary economic practices is profound, particularly in strategic business methodologies and the foundational principles that have shaped modern financial markets. His strategies within Standard Oil have not only left a lasting mark on the oil industry but have also indirectly influenced current financial practices such as algorithmic trading.
 
 Rockefeller was a pioneer in implementing systematic business methods, most notably through the use of vertical integration and controlling supply chains. This approach minimized costs and maximized efficiencies while establishing a model for monopolistic practices that continues to inform modern economic strategies. The precision and efficiency of Rockefeller’s methodologies can be closely related to how algorithmic trading operates in today's financial markets.
 

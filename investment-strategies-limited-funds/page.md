@@ -13,7 +13,7 @@ Algorithmic trading, which automates trading by harnessing computer programs to 
 
 This article explores key strategies that low-budget investors can use, focusing particularly on algorithmic trading as a means to optimize returns. We will delve into why low-budget investing is not only possible but advantageous, providing opportunities to grow wealth while managing risk effectively. The basics of algorithmic trading will be covered, highlighting how it has opened new avenues for investors, regardless of the size of their portfolios, to engage efficiently and strategically in financial markets.
 
-By illustrating how these concepts interplay, this article aims to empower every investor—whether they are just starting or looking to refine their strategies—with the knowledge to make technology work in their favor. As the barrier to entry continues to lower, the realm of financial investment transforms into a more inclusive space where possibilities abound for everyone willing to learn and adapt.
+By illustrating how these concepts interplay, this article aims to empower every investor—whether they are just starting or looking to refine their strategies—with the knowledge to make technology work in their favor. As the barrier to entry continues to lower, financial investment transforms into a more inclusive space where possibilities abound for everyone willing to learn and adapt.
 
 ## Table of Contents
 

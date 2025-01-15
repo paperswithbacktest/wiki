@@ -97,7 +97,7 @@ In portfolio management, standard deviation is used alongside expected returns t
 
 ## Balancing Risk and Return in Portfolio Management
 
-In the world of algorithmic trading, achieving a harmonious balance between risk and return is a central objective of portfolio management. Investors rely on the complementary use of expected return and standard deviation to craft investment strategies that are both profitable and stable.
+In algorithmic trading, achieving a harmonious balance between risk and return is a central objective of portfolio management. Investors rely on the complementary use of expected return and standard deviation to craft investment strategies that are both profitable and stable.
 
 Expected return offers a forecast of the potential gains from an investment, providing a target for profitability. On the other side, standard deviation serves as a measure of risk by quantifying the volatility of returns around the expected value. The combination of these metrics helps in identifying the risk-return profiles of different trades, allowing investors to make more informed decisions.
 

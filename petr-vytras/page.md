@@ -29,7 +29,7 @@ In August 2007, Vytřas transitioned to a role as a Risk Management Analyst at t
 
 Building on his experience in risk management, Vytřas shifted his career focus to quantitative analysis, a field that combines his mathematical background with growing industry demand for data-driven decision-making. In May 2014, he joined RSJ Algorithmic Trading as a Quantitative Analyst. Over the [course](/wiki/best-algorithmic-trading-courses) of three years and six months, he contributed to developing sophisticated trading strategies and algorithms, leveraging his knowledge of [statistics](/wiki/bayesian-statistics) and data analysis.
 
-His journey continued at Tanius Technology, LLC in London, United Kingdom, where he served as a Quantitative Analyst from March 2018 to August 2021. There, Vytřas was instrumental in driving technology-driven financial solutions, particularly in the realm of quantitative analysis.
+His journey continued at Tanius Technology, LLC in London, United Kingdom, where he served as a Quantitative Analyst from March 2018 to August 2021. There, Vytřas was instrumental in driving technology-driven financial solutions, particularly in quantitative analysis.
 
 In April 2022, Vytřas joined 3Red Partners in Prague, Czechia as a Quantitative Researcher. His role involves cutting-edge research and the application of quantitative methods to finance, further solidifying his reputation as a leader in the field.
 

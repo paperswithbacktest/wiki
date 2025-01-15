@@ -9,7 +9,7 @@ Among the various strategies within algorithmic trading, pairs trading stands ou
 
 ![Image](images/1.png)
 
-The origins of pairs trading trace back to the 1980s when it was pioneered by a team at Morgan Stanley, led by Nunzio Tartaglia. This innovative concept emerged from the need for a strategy that could generate returns regardless of market direction. Pairs trading became a critical tool in the realm of statistical arbitrage, where traders seek to exploit pricing inefficiencies. Over the decades, as computing power and data availability grew, pairs trading strategies evolved to become more sophisticated, allowing traders to identify and act on subtle and fleeting pricing discrepancies with accuracy and speed.
+The origins of pairs trading trace back to the 1980s when it was pioneered by a team at Morgan Stanley, led by Nunzio Tartaglia. This innovative concept emerged from the need for a strategy that could generate returns regardless of market direction. Pairs trading became a critical tool in statistical arbitrage, where traders seek to exploit pricing inefficiencies. Over the decades, as computing power and data availability grew, pairs trading strategies evolved to become more sophisticated, allowing traders to identify and act on subtle and fleeting pricing discrepancies with accuracy and speed.
 
 Understanding how pairs trading was developed and how it functions within algorithmic trading helps appreciate its continuing importance in effectively navigating today's volatile markets.
 

@@ -11,7 +11,7 @@ Covariance and correlation are pivotal in quantifying how two variables, such as
 
 Understanding and applying these statistical concepts allows traders to manage market risk effectively. By accurately analyzing covariance and correlation, traders can enhance their decision-making processes, particularly in managing portfolios where diversification is key. This knowledge aids in creating strategies that account for potential market changes and asset interactions, leading to more stable and profitable trading outcomes.
 
-In summary, through the application of statistical analysis, particularly the calculation and interpretation of covariance and correlation, traders can build more reliable trading algorithms. This understanding contributes significantly to mitigating risks and maximizing returns, underscoring the importance of these statistical measures in the world of algorithmic trading.
+In summary, through the application of statistical analysis, particularly the calculation and interpretation of covariance and correlation, traders can build more reliable trading algorithms. This understanding contributes significantly to mitigating risks and maximizing returns, underscoring the importance of these statistical measures in algorithmic trading.
 
 ## Table of Contents
 

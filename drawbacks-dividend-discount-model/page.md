@@ -33,7 +33,7 @@ Where:
 
 This equation presumes that the growth rate $g$ of dividends is less than the required rate of return $r$, ensuring the model's mathematical viability.
 
-While the DDM is effective for valuing steadily dividend-paying entities such as utilities or large-cap companies with consistent earnings, it is less applicable to entities with unpredictable dividend payments or those that do not pay dividends at all. The model's reliance on the consistency and predictability of dividends and their growth rate is a crucial limitation when applied to companies in dynamic sectors or growth-focused firms that reinvest earnings rather than disburse them as dividends. Thus, for firms that fall outside the realm of stable dividend payouts, alternative valuation models may offer more accurate assessments.
+While the DDM is effective for valuing steadily dividend-paying entities such as utilities or large-cap companies with consistent earnings, it is less applicable to entities with unpredictable dividend payments or those that do not pay dividends at all. The model's reliance on the consistency and predictability of dividends and their growth rate is a crucial limitation when applied to companies in dynamic sectors or growth-focused firms that reinvest earnings rather than disburse them as dividends. Thus, for firms that fall outside stable dividend payouts, alternative valuation models may offer more accurate assessments.
 
 ## Limitations of the Dividend Discount Model
 

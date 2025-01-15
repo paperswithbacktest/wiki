@@ -3,7 +3,7 @@ title: "Z-Score: Concept and Calculation (Algo Trading)"
 description: "Explore the importance of Z-scores in algorithmic trading as a statistical tool for evaluating price deviations and potential trading opportunities."
 ---
 
-In the world of algorithmic trading, statistical tools play a critical role in evaluating potential trading strategies. Among these tools, the Z-score is particularly useful for measuring the statistical significance of a stock's deviation from its mean price. By providing a standardized way to assess price movements, Z-scores are invaluable for traders aiming to make informed decisions based on quantitative analysis.
+In algorithmic trading, statistical tools play a critical role in evaluating potential trading strategies. Among these tools, the Z-score is particularly useful for measuring the statistical significance of a stock's deviation from its mean price. By providing a standardized way to assess price movements, Z-scores are invaluable for traders aiming to make informed decisions based on quantitative analysis.
 
 The Z-score is calculated using the formula $Z = \frac{X - \mu}{\sigma}$, where $X$ is the current value of the stock, $\mu$ is its historical mean, and $\sigma$ is the standard deviation. This calculation helps traders understand whether a particular price is characteristic of the usual fluctuations within a dataset or if it represents an anomaly. The presence of a positive Z-score indicates a price above the mean, while a negative Z-score shows the contrary. Thus, Z-scores provide insights into an asset's volatility, assisting traders in identifying potential trends or reversals.
 

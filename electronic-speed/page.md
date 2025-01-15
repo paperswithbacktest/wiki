@@ -17,7 +17,7 @@ In this article, we explore the history of eSpeed, its pivotal technological adv
 
 ## Understanding eSpeed
 
-eSpeed is a significant entity within the realm of electronic trading platforms, primarily focusing on U.S. Treasury and fixed income markets. The platform emerged as a specialized venue for trading in these sectors, providing a robust infrastructure for handling high-frequency trading operations.
+eSpeed is a significant entity within electronic trading platforms, primarily focusing on U.S. Treasury and fixed income markets. The platform emerged as a specialized venue for trading in these sectors, providing a robust infrastructure for handling high-frequency trading operations.
 
 In 2013, eSpeed was acquired by Nasdaq OMX, marking a strategic expansion of Nasdaq's operations into the fixed-income market. This acquisition enabled Nasdaq to broaden its services and leverage eSpeed's established reputation and technology to strengthen its position in this area of financial markets. The move was part of a broader trend throughout the trading industry, where exchanges and financial platforms have increasingly sought to incorporate electronic trading technologies to enhance market reach and service efficiency.
 

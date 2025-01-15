@@ -3,7 +3,7 @@ title: "Convolutional Neural Network (CNN) (Algo Trading)"
 description: Discover how Convolutional Neural Networks (CNNs), a powerful deep learning model, are revolutionizing algorithmic trading by analyzing market data, identifying patterns, and processing news images. Learn about CNN architecture and its applications in the financial industry. Explore resources for traders and developers.
 ---
 
-The world of artificial intelligence is vast and spans many fields and applications, from speech recognition to weather prediction. One term you may have heard in this context is "Convolutional Neural Network" (CNN). Particularly powerful for processing data with a grid topology, such as images, CNNs are playing an increasingly important role in the world of algorithmic trading.
+The world of artificial intelligence is vast and spans many fields and applications, from speech recognition to weather prediction. One term you may have heard in this context is "Convolutional Neural Network" (CNN). Particularly powerful for processing data with a grid topology, such as images, CNNs are playing an increasingly important role in algorithmic trading.
 
 ![Untitled](images/Untitled.png)
 

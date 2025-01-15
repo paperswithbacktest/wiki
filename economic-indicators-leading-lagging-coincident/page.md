@@ -37,7 +37,7 @@ Importantly, while leading indicators provide valuable foresight, they are not i
 
 ## Lagging Indicators
 
-Lagging indicators are critical components in the realm of economic analysis, serving as confirmation tools for trends or patterns that have already commenced within the economy. Unlike leading indicators, which attempt to forecast future movements, or coincident indicators that align with current economic conditions, lagging indicators provide retrospective insight, offering confirmation and validation to analysts and policymakers regarding prevailing trends.
+Lagging indicators are critical components in economic analysis, serving as confirmation tools for trends or patterns that have already commenced within the economy. Unlike leading indicators, which attempt to forecast future movements, or coincident indicators that align with current economic conditions, lagging indicators provide retrospective insight, offering confirmation and validation to analysts and policymakers regarding prevailing trends.
 
 One prominent example of a lagging indicator is the unemployment rate. This metric reflects the percentage of the labor force that is unemployed and actively seeking employment. The unemployment rate is invaluable because it reflects economic conditions after changes in the economy have occurred. For instance, a declining unemployment rate confirms that a previously identified upwards trend in economic recovery is indeed underway.
 

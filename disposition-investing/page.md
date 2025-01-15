@@ -67,7 +67,7 @@ One of the primary advantages of [algorithmic trading](/wiki/algorithmic-trading
 
 Moreover, the emotionless nature of algorithmic trading allows for a disciplined, consistent approach to trading that is not subject to the psychological pitfalls, such as fear and greed, faced by human traders. This results in more reliable and repeatable trading outcomes. However, developing and testing an algorithmic trading system requires a deep understanding of programming, financial markets, and statistical methods.
 
-For those interested in entering the realm of algorithmic trading, proficiency in programming languages such as Python is highly beneficial. Python's extensive libraries, such as NumPy for numerical computations and Pandas for data manipulation, along with frameworks like Zipline for [backtesting](/wiki/backtesting) trading strategies, provide robust tools for developing sophisticated trading systems. An example of a simple moving average crossover strategy in Python might look like this:
+For those interested in entering algorithmic trading, proficiency in programming languages such as Python is highly beneficial. Python's extensive libraries, such as NumPy for numerical computations and Pandas for data manipulation, along with frameworks like Zipline for [backtesting](/wiki/backtesting) trading strategies, provide robust tools for developing sophisticated trading systems. An example of a simple moving average crossover strategy in Python might look like this:
 
 ```python
 import pandas as pd

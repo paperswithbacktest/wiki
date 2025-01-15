@@ -97,7 +97,7 @@ Another fundamental aspect of starting with algorithmic trading is acquiring bas
 
 In addition to learning to code, it is beneficial to seek out well-regarded certifications or educational resources that provide comprehensive knowledge about algorithmic trading. Institutions such as the Chartered Institute for Securities & Investment (CISI) and online platforms like Udemy offer specific courses and certifications that can build a solid foundation in financial markets and trading strategies.
 
-Crucially, before investing real money, it is advisable for amateur investors to begin with a demo account. Demo accounts allow users to practice and refine their strategies without financial risk, providing a safe environment to test and iterate on algorithmic trading methodologies. This practice phase is instrumental in understanding the market dynamics and the intricacies of trading algorithms before transitioning to live trading. By following these steps, amateur investors can gradually build the skills and confidence necessary to participate in the world of algorithmic trading effectively.
+Crucially, before investing real money, it is advisable for amateur investors to begin with a demo account. Demo accounts allow users to practice and refine their strategies without financial risk, providing a safe environment to test and iterate on algorithmic trading methodologies. This practice phase is instrumental in understanding the market dynamics and the intricacies of trading algorithms before transitioning to live trading. By following these steps, amateur investors can gradually build the skills and confidence necessary to participate in algorithmic trading effectively.
 
 ## Conclusion
 

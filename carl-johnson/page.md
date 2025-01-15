@@ -35,7 +35,7 @@ Johnson's tenure has seen Acadian Asset Management implement risk management tec
 
 ## Industry Impact and Legacy
 
-Carl Johnson is widely recognized for his pioneering efforts in the realm of algorithmic trading. His work has influenced both the practical application and theoretical frameworks within the financial technology sector. By leading with innovation, his career serves as a testament to the powerful synergy between technology and finance.
+Carl Johnson is widely recognized for his pioneering efforts in algorithmic trading. His work has influenced both the practical application and theoretical frameworks within the financial technology sector. By leading with innovation, his career serves as a testament to the powerful synergy between technology and finance.
 
 Through his leadership at Acadian Asset Management, Johnson continues to push the boundaries of what algorithmic trading can achieve. His commitment to technological excellence and strategic insight into market dynamics ensures that his contributions will have a lasting impact on the industry for years to come.
 

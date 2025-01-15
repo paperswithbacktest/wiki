@@ -128,7 +128,7 @@ Overall, this demonstration exemplifies how triple barrier labelling serves as a
 
 ## Conclusion
 
-In the realm of algorithmic trading, the use of labels is crucial for developing robust trading strategies. Labels serve as foundational elements that allow traders to transform raw financial data into actionable insights. They are essential for training machine learning models, facilitating the prediction of market movements with greater precision. This labeling process is particularly significant as it provides a structured way to assess the performance of various trading strategies, enabling traders to make informed decisions.
+In algorithmic trading, the use of labels is crucial for developing robust trading strategies. Labels serve as foundational elements that allow traders to transform raw financial data into actionable insights. They are essential for training machine learning models, facilitating the prediction of market movements with greater precision. This labeling process is particularly significant as it provides a structured way to assess the performance of various trading strategies, enabling traders to make informed decisions.
 
 Triple barrier labelling stands out as an advanced method for refining these labels. By incorporating three barriers—profit-taking, stop loss, and maximum holding period—triple barrier labelling provides a dynamic framework that adapts to market conditions, thereby enabling more accurate statistical modeling. This approach improves upon fixed-time horizon methods by considering various market scenarios and potential outcomes, making it a versatile tool for traders who seek to optimize their strategies.
 

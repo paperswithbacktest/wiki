@@ -29,7 +29,7 @@ Born in 1755, James Man exemplified a robust entrepreneurial spirit that would l
 
 As a sugar broker, James Man capitalized on his adeptness in trade and market acumen, rapidly building a business that adapted to the needs of its clientele while anticipating market trends. His leadership qualities were instrumental, fostering a thriving enterprise that would eventually morph into a powerhouse in investment management known today as the Man Group. His effort to secure significant contracts, such as the pivotal supply deal with the Royal Navy, underscored his strategic thinking and capacity to scale operations effectively.
 
-Man’s retirement in 1819 marked the end of an era of direct leadership, yet the company retained his spirit of innovation and resilience. Upon his passing in 1823 in Dartmouth, Devon, Man left behind not just a business, but a legacy of adaptability and strategic foresight. His imprint remained evident as the company evolved over the centuries, navigating through the complexities of global markets to become a leader in the financial sector, particularly in the realm of [algorithmic trading](/wiki/algorithmic-trading).
+Man’s retirement in 1819 marked the end of an era of direct leadership, yet the company retained his spirit of innovation and resilience. Upon his passing in 1823 in Dartmouth, Devon, Man left behind not just a business, but a legacy of adaptability and strategic foresight. His imprint remained evident as the company evolved over the centuries, navigating through the complexities of global markets to become a leader in the financial sector, particularly in [algorithmic trading](/wiki/algorithmic-trading).
 
 ## Growth into Algorithmic Trading
 

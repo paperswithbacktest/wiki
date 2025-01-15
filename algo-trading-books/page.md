@@ -115,7 +115,7 @@ Mastering the theoretical aspects of algorithmic trading is just one part of the
 
 **"Building Winning Algorithmic Trading Systems" by Kevin J. Davey**
 
-- **Description**: Davey, a recognized figure in the world of algorithmic trading, offers a step-by-step guide on building, evaluating, and implementing robust algo trading systems. The book also sheds light on the pitfalls to avoid and strategies to enhance profitability.
+- **Description**: Davey, a recognized figure in algorithmic trading, offers a step-by-step guide on building, evaluating, and implementing robust algo trading systems. The book also sheds light on the pitfalls to avoid and strategies to enhance profitability.
 - **Best Suited For**: Both beginners looking for a structured approach to building trading systems and advanced traders seeking to refine their techniques.
 - **Unique Aspects**: Davey's book is enriched by his personal experiences, and he shares several of his own systems, offering readers a peek into the strategies of a seasoned trader.
 - 👉 [Amazon.com](https://www.amazon.com/Building-Winning-Algorithmic-Trading-Systems/dp/1118778987)

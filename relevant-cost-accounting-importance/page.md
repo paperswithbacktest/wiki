@@ -45,7 +45,7 @@ Effectively managing these trading costs involves a comprehensive understanding 
 
 ## Linking Relevant Cost Analysis to Trading Costs
 
-The analysis of trading costs using relevant cost principles involves distinguishing between expenses that can be avoided and those that are inevitable. This methodology parallels how managers utilize relevant costs for business decisions and can substantially reduce unnecessary trading costs in the realm of algorithmic strategies.
+The analysis of trading costs using relevant cost principles involves distinguishing between expenses that can be avoided and those that are inevitable. This methodology parallels how managers utilize relevant costs for business decisions and can substantially reduce unnecessary trading costs in algorithmic strategies.
 
 In algorithmic trading, understanding which costs genuinely influence a trading strategy is imperative. By effectively filtering out non-essential cost data, traders can concentrate on the charges that significantly impact their decision-making processes. This focus allows for strategic optimization where traders analyze the cost-benefit aspects of specific transactions. For example, by eschewing fixed, non-negotiable costs such as basic platform fees, traders can allocate resources toward variable, performance-related expenses like those incurred from commission structures and market conditions that can vary significantly across executions.
 

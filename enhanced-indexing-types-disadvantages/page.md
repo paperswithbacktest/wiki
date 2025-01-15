@@ -83,7 +83,7 @@ In conclusion, while enhanced indexing offers the possibility of increased retur
 
 ## Role of Algo Trading in Enhanced Indexing
 
-Algorithmic trading, often referred to as algo trading, is pivotal in the realm of enhanced indexing due to its capacity to execute complex trading strategies quickly and efficiently. Enhanced indexing, which seeks to deliver returns that outperform a benchmark index while retaining characteristics of systematic investing, relies heavily on the use of algorithms to manage and optimize portfolios.
+Algorithmic trading, often referred to as algo trading, is pivotal in enhanced indexing due to its capacity to execute complex trading strategies quickly and efficiently. Enhanced indexing, which seeks to deliver returns that outperform a benchmark index while retaining characteristics of systematic investing, relies heavily on the use of algorithms to manage and optimize portfolios.
 
 Algo trading involves utilizing computer programs to automatically execute trades according to predefined strategies and criteria. By leveraging these algorithms, investors can ensure trades are executed at the best possible prices, reduce manual errors, and maintain consistency across portfolios. This efficiency is especially beneficial in enhanced indexing, where the aim is not merely to track an index, but to strategically deviate from it to enhance returns.
 

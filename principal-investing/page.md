@@ -172,7 +172,7 @@ Berkshire's investment philosophy emphasizes direct control over investment deci
 
 #### Sequoia Capital: Pioneering Venture Capital Investments
 
-Sequoia Capital exemplifies principal investing within the realm of venture capital. Known for early investments in companies like Apple, Google, and Airbnb, Sequoia's strategy involves identifying nascent firms with substantial growth potential. Key decision-making factors include technological innovation, market demand, and visionary leadership. [^2]
+Sequoia Capital exemplifies principal investing within venture capital. Known for early investments in companies like Apple, Google, and Airbnb, Sequoia's strategy involves identifying nascent firms with substantial growth potential. Key decision-making factors include technological innovation, market demand, and visionary leadership. [^2]
 
 Sequoia's adeptness in strategic decision-making allows it to shape the development of start-ups, leveraging both financial resources and mentorship to enhance company value. This proactive engagement ultimately serves as a catalyst for significant capital appreciation upon successful exit strategies, such as public offerings or acquisitions.
 

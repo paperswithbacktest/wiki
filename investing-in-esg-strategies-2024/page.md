@@ -102,7 +102,7 @@ model.fit(X_train, y_train)
 predictions = model.predict(X_test)
 ```
 
-In the realm of enhancing investment choices and returns, technology plays a crucial role. Big data analytics, [artificial intelligence](/wiki/ai-artificial-intelligence) (AI), and machine learning facilitate the processing and interpretation of ESG data to develop predictive models for sustainable investments. These technologies enable investors to identify emerging trends and risks quickly, adapting their strategies to maximize financial and ESG outcomes.
+In enhancing investment choices and returns, technology plays a crucial role. Big data analytics, [artificial intelligence](/wiki/ai-artificial-intelligence) (AI), and machine learning facilitate the processing and interpretation of ESG data to develop predictive models for sustainable investments. These technologies enable investors to identify emerging trends and risks quickly, adapting their strategies to maximize financial and ESG outcomes.
 
 A notable case study is BlackRock, a leading asset management firm, which has incorporated algorithmic trading strategies within its ESG-focused portfolios to maintain efficient risk-adjusted returns. By integrating AI-driven insights and ESG analytics, BlackRock's algorithms can dynamically adjust asset allocations in response to both market dynamics and ESG-related developments.
 

@@ -124,7 +124,7 @@ Now, let's deep dive deeper into the real-world consequences of imperfect correl
 2. **Volatility Smiles and Surface Dynamics**: Imperfect correlations often give rise to volatility smiles and changes in the volatility surface. This is because as correlations change, the relative demand for out-of-the-money and in-the-money options shifts, leading to variations in implied volatilities[3].
 3. **Increased Risk Exposure**: Dispersion trading, by design, seeks to exploit the mispricing due to differences in implied and realized correlations. However, when stocks aren't perfectly correlated, there's an added risk dimension. Should correlations suddenly converge closer to the implied level, it can lead to rapid losses.
 4. **Opportunities for Arbitrage**: On the brighter side, imperfect correlations can provide seasoned dispersion traders with opportunities. When individual stocks diverge from the expected path set by the index, traders can leverage these discrepancies to lock in arbitrage profits.
-5. **Portfolio Diversification Effects**: While it's an inherent assumption in portfolio theory that diversification reduces risk, imperfect correlation can sometimes challenge this notion in the realm of dispersion trading. A sudden and unexpected move in a large constituent of the index can lead to significant ripple effects on the portfolio's performance.
+5. **Portfolio Diversification Effects**: While it's an inherent assumption in portfolio theory that diversification reduces risk, imperfect correlation can sometimes challenge this notion in dispersion trading. A sudden and unexpected move in a large constituent of the index can lead to significant ripple effects on the portfolio's performance.
 
 Correlation dynamics, thus, form the backbone of dispersion trading. Accurately gauging and positioning for changes in these correlations can mean the difference between profitability and loss. As the financial landscape evolves and markets become more interconnected, understanding the nuances of correlation becomes ever more crucial for the astute dispersion trader.
 
@@ -176,7 +176,7 @@ Where $V$ represents the portfolio's value and $\rho$ is the correlation coeffic
 
 Monitoring rega is crucial for traders. A high positive rega implies that the trade stands to gain from an increase in correlation, whereas a negative rega suggests the opposite. Regularly assessing and adjusting one's position to manage rega ensures the trade doesn't become excessively exposed to sudden correlation shifts.
 
-In the realm of dispersion trading, risks are inherent. However, by understanding and actively managing [factor](/wiki/factor-investing)s like market volatility, correlation sensitivity, and rega, traders can better navigate the complex landscapes of modern financial markets.
+In dispersion trading, risks are inherent. However, by understanding and actively managing [factor](/wiki/factor-investing)s like market volatility, correlation sensitivity, and rega, traders can better navigate the complex landscapes of modern financial markets.
 
 ### Dispersion Statistics
 

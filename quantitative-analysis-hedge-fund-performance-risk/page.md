@@ -31,7 +31,7 @@ In conclusion, quantitative analysis not only supports but is integral to the st
 
 ## Risk Assessment in Hedge Fund Performance
 
-Understanding and managing risk are crucial components of hedge fund success, and quantitative methods substantially augment these capabilities. In the realm of finance, numerous metrics are employed to quantify and assess risk, with standard deviation, Value at Risk (VaR), skewness, and kurtosis being among the most essential.
+Understanding and managing risk are crucial components of hedge fund success, and quantitative methods substantially augment these capabilities. In finance, numerous metrics are employed to quantify and assess risk, with standard deviation, Value at Risk (VaR), skewness, and kurtosis being among the most essential.
 
 **Standard Deviation and Risk Volatility**
 

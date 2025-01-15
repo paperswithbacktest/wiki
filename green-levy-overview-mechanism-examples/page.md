@@ -79,7 +79,7 @@ This hypothetical model demonstrates how algorithmic trading systems can be adju
 
 Despite its promise, integrating ESG criteria into algorithmic trading presents challenges. The complexity of ESG data, its variability in quality, and the need for standardization can hinder its effective incorporation. Furthermore, there is a risk that ESG metrics may be manipulated to present a misleadingly positive image of a company’s practices, a phenomenon known as "greenwashing."
 
-In conclusion, while algorithmic trading has traditionally focused on financial metrics, its application within the realm of sustainable finance offers the capacity to drive investments towards environmentally responsible companies. As technology and data analytics continue to advance, the refinement of algorithms to incorporate ESG criteria is likely to enhance the scale and impact of sustainable finance, encouraging a shift toward more sustainable market behaviors.
+In conclusion, while algorithmic trading has traditionally focused on financial metrics, its application within sustainable finance offers the capacity to drive investments towards environmentally responsible companies. As technology and data analytics continue to advance, the refinement of algorithms to incorporate ESG criteria is likely to enhance the scale and impact of sustainable finance, encouraging a shift toward more sustainable market behaviors.
 
 ## Challenges and Criticisms
 

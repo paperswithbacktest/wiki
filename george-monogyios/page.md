@@ -41,7 +41,7 @@ Beyond his technical expertise, Monogyios is also recognized for his leadership 
 
 Throughout his career, George Monogyios has been at the forefront of transforming trading methodologies and strategies. His work has not only impacted the companies he has been directly associated with but has also influenced broader industry practices through innovative trading solutions.
 
-Monogyios continues to be an active contributor to the realm of quantitative trading, perpetually exploring avenues for technological enhancement and strategic development in the trading sector.
+Monogyios continues to be an active contributor to quantitative trading, perpetually exploring avenues for technological enhancement and strategic development in the trading sector.
 
 ## External Links
 

@@ -151,7 +151,7 @@ In summary, while the ADF test provides valuable insights for identifying statio
 
 ## Conclusion
 
-The Augmented Dickey-Fuller (ADF) test is a crucial tool in the realm of algorithmic trading strategies, serving as a fundamental mechanism to verify the stationarity of financial time series. Stationarity is vital because it implies that statistical properties such as mean and variance are constant over time, thus enabling more reliable prediction models in financial markets. The ADF test assists traders in identifying such stationary series, contributing significantly to the development of robust and predictive algorithmic trading strategies like pairs trading, where the co-integration of asset pairs indicates potential profit opportunities.
+The Augmented Dickey-Fuller (ADF) test is a crucial tool in algorithmic trading strategies, serving as a fundamental mechanism to verify the stationarity of financial time series. Stationarity is vital because it implies that statistical properties such as mean and variance are constant over time, thus enabling more reliable prediction models in financial markets. The ADF test assists traders in identifying such stationary series, contributing significantly to the development of robust and predictive algorithmic trading strategies like pairs trading, where the co-integration of asset pairs indicates potential profit opportunities.
 
 The benefits of applying the ADF test extend beyond just stationarity verification; it enhances the reliability of trading algorithms by ensuring that the time series data used are stable and predictable. This increases the effectiveness of trading signals, reduces the risk in trading decisions, and potentially improves overall trading performance.
 

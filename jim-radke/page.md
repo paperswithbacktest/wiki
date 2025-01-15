@@ -35,7 +35,7 @@ Radke's technological acumen led him to Getco/KCG in 2009, where he worked as a 
 
 ### Independent Consultant and Seed CX
 
-In 2017, Radke took on a role as an Independent Consultant for six months, focusing on credit modeling software before taking a short-lived position at Seed CX in April 2018. At Seed CX, he was a Software Engineer responsible for developing [cryptocurrency](/wiki/cryptocurrency) exchange matching engine and gateway software. This experience marked Radke's entry into the realm of digital asset trading, utilizing C++, Python, and Linux systems.
+In 2017, Radke took on a role as an Independent Consultant for six months, focusing on credit modeling software before taking a short-lived position at Seed CX in April 2018. At Seed CX, he was a Software Engineer responsible for developing [cryptocurrency](/wiki/cryptocurrency) exchange matching engine and gateway software. This experience marked Radke's entry into digital asset trading, utilizing C++, Python, and Linux systems.
 
 ### 3Red Partners
 

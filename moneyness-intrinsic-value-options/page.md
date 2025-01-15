@@ -13,7 +13,7 @@ Intrinsic value, on the other hand, represents the actual value of an option if 
 
 The continuous evolution of financial markets has seen algorithmic trading become increasingly prominent. This advancement leverages computational power to apply statistical and mathematical models for trading decisions, enhancing speed and efficiency. In this context, a thorough grasp of moneyness and intrinsic value contributes significantly to developing and refining algorithmic trading strategies that aim to maximize returns while managing risks efficiently.
 
-This article aims to connect the dots between these core concepts and algorithmic trading strategies. By exploring the interplay between moneyness, intrinsic value, and algorithmic systems, we seek to provide a comprehensive understanding that enhances trading decisions. As a starting point, we will define these concepts and explain their relevance in the realm of options trading.
+This article aims to connect the dots between these core concepts and algorithmic trading strategies. By exploring the interplay between moneyness, intrinsic value, and algorithmic systems, we seek to provide a comprehensive understanding that enhances trading decisions. As a starting point, we will define these concepts and explain their relevance in options trading.
 
 ## Table of Contents
 

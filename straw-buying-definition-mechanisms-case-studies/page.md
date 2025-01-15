@@ -37,7 +37,7 @@ The ongoing challenge of straw buying underscores the need for continued vigilan
 
 ## Straw Buying Beyond Firearms: Automated Trading and Financial Markets
 
-Straw buying practices have extended beyond traditional sectors such as firearms into the realm of financial markets, particularly through automated and [algorithmic trading](/wiki/algorithmic-trading) systems. In finance, straw buying often involves creating fictitious or collaborative identities to execute trades that might otherwise be restricted or subject to regulatory oversight. This practice complicates the enforcement of compliance measures and has led to significant market manipulation concerns.
+Straw buying practices have extended beyond traditional sectors such as firearms into financial markets, particularly through automated and [algorithmic trading](/wiki/algorithmic-trading) systems. In finance, straw buying often involves creating fictitious or collaborative identities to execute trades that might otherwise be restricted or subject to regulatory oversight. This practice complicates the enforcement of compliance measures and has led to significant market manipulation concerns.
 
 Algorithmic trading, which allows for high-frequency operations, can be particularly susceptible to straw buying techniques that aim to exploit market inefficiencies. This form of trading is characterized by executing rapid transactions using pre-programmed instructions. When illicit straw buying methods are integrated into these systems, they can mask the true intent and source of the trades. This presents considerable challenges for regulatory compliance as it obscures the actual actors and motives behind certain market activities, making it difficult to identify fraudulent practices.
 

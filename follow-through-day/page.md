@@ -9,7 +9,7 @@ The follow-through day concept offers a market-timing mechanism that aids trader
 
 ![Image](images/1.jpeg)
 
-In this article, the intricacies of the follow-through day strategy will be examined in detail. The focus will be on its significance within the realm of algo trading, its key components, and the ways in which it can be applied effectively to enhance trading performance.
+In this article, the intricacies of the follow-through day strategy will be examined in detail. The focus will be on its significance within algo trading, its key components, and the ways in which it can be applied effectively to enhance trading performance.
 
 ## Table of Contents
 

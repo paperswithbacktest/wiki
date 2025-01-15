@@ -130,7 +130,7 @@ Arbitrageurs can construct a riskless position to take advantage of the price di
 
 Put-call parity plays a significant role in maintaining equilibrium in options pricing. Market makers and arbitrageurs contribute to market efficiency by correcting price discrepancies. Through strategies enabled by put-call parity, traders can engage in arbitrage if the equilibrium is disrupted, thus restoring the balance.
 
-These opportunities, while often razor-thin, especially in liquid and efficient markets, motivate the use of [algorithmic trading](/wiki/algorithmic-trading) systems to detect and exploit these discrepancies quickly. The effective use of put-call parity in trading strategies underscores its significance in the realm of financial derivatives and options trading, promoting a deeper understanding of market dynamics and enhancing trading efficiency.
+These opportunities, while often razor-thin, especially in liquid and efficient markets, motivate the use of [algorithmic trading](/wiki/algorithmic-trading) systems to detect and exploit these discrepancies quickly. The effective use of put-call parity in trading strategies underscores its significance in financial derivatives and options trading, promoting a deeper understanding of market dynamics and enhancing trading efficiency.
 
 ## Algorithmic Trading and Put-Call Parity
 

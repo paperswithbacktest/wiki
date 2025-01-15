@@ -63,7 +63,7 @@ The primary benefits of algorithmic trading include speed, efficiency, and the r
 
 **Common Strategies**
 
-Several strategies dominate the realm of algorithmic trading. Trend-following strategies aim to capitalize on market [momentum](/wiki/momentum) by identifying and following existing market trends. These strategies are often based on technical indicators such as moving averages. Arbitrage strategies exploit price discrepancies between related securities across different markets or exchanges, striving for risk-free profit. Statistical models, including mean reversion or market-making strategies, use quantitative methods to predict price changes based on historical data and statistical patterns.
+Several strategies dominate algorithmic trading. Trend-following strategies aim to capitalize on market [momentum](/wiki/momentum) by identifying and following existing market trends. These strategies are often based on technical indicators such as moving averages. Arbitrage strategies exploit price discrepancies between related securities across different markets or exchanges, striving for risk-free profit. Statistical models, including mean reversion or market-making strategies, use quantitative methods to predict price changes based on historical data and statistical patterns.
 
 **Advancements in Technology and Algorithm Design**
 

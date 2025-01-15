@@ -77,7 +77,7 @@ $$
 
 where $P(t)$ is the predicted price at time $t$, $\beta_0$ is the intercept, $\beta_1, \beta_2, \ldots, \beta_n$ are the coefficients for the predictor variables $X_1(t), X_2(t), \ldots, X_n(t)$, and $\epsilon(t)$ is the error term.
 
-In the realm of broader government securities, algorithms enhance liquidity by facilitating quicker and more accurate matching of buy and sell orders, thereby reducing the bid-ask spreads. This improved liquidity is essential in large and heavily-traded markets like U.S. Treasury securities, where timely execution can significantly affect the profitability of investment strategies.
+In broader government securities, algorithms enhance liquidity by facilitating quicker and more accurate matching of buy and sell orders, thereby reducing the bid-ask spreads. This improved liquidity is essential in large and heavily-traded markets like U.S. Treasury securities, where timely execution can significantly affect the profitability of investment strategies.
 
 Furthermore, algorithms assist in better pricing strategies by dynamically adjusting the prices based on market trends and [order book](/wiki/order-book-trading-strategies) dynamics. This capability is essential for market-making, where the objective is to profit from the spread between bid and ask prices.
 

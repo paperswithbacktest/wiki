@@ -110,7 +110,7 @@ Ultimately, balancing sensitivity to actual structural changes with robustness a
 
 ## Conclusion
 
-The Chu-Stinchcombe-White CUSUM test emerges as a robust technique in the realm of financial markets, particularly adept at identifying structural breaks within financial datasets. Its integration into algorithmic trading systems is a substantial step toward enhancing both model robustness and adaptability, allowing these systems to navigate shifting market conditions skillfully.
+The Chu-Stinchcombe-White CUSUM test emerges as a robust technique in financial markets, particularly adept at identifying structural breaks within financial datasets. Its integration into algorithmic trading systems is a substantial step toward enhancing both model robustness and adaptability, allowing these systems to navigate shifting market conditions skillfully.
 
 Despite certain challenges, such as setting appropriate thresholds and differentiating between market noise and genuine structural breaks, the test's advantages become apparent in its contributions to risk management and performance optimization. The use of CUSUM provides a statistical edge by predicting market shifts, enabling traders to adjust strategies preemptively and optimize decision-making.
 

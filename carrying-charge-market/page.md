@@ -17,7 +17,7 @@ Ultimately, understanding and managing carrying charges equips traders with the 
 
 ## Understanding Carrying Charges
 
-Carrying charges represent the array of costs associated with holding an asset or commodity over a specified period. They are a critical consideration in the realm of financial markets, particularly in the pricing of futures contracts. These costs encompass a variety of expenditures, including interest expenses, storage fees, insurance costs, and opportunity costs. Understanding each component aids investors in calculating potential net returns and formulating effective investment strategies.
+Carrying charges represent the array of costs associated with holding an asset or commodity over a specified period. They are a critical consideration in financial markets, particularly in the pricing of futures contracts. These costs encompass a variety of expenditures, including interest expenses, storage fees, insurance costs, and opportunity costs. Understanding each component aids investors in calculating potential net returns and formulating effective investment strategies.
 
 Interest expenses arise when capital is borrowed to finance an asset's purchase, representing a significant component of carrying charges. If interest rates rise, carrying charges increase accordingly, affecting the overall cost structure of holding an asset. 
 

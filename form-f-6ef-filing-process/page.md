@@ -9,7 +9,7 @@ Form F-6EF serves as an expedited pathway for foreign entities seeking to list A
 
 ![Image](images/1.jpeg)
 
-Moreover, the realm of securities trading has been increasingly influenced by algorithmic trading, or algo trading, a technique where computer algorithms execute trades at high speed and volumes. Algo trading plays a significant role in modern financial markets, including the trading of ADRs. Its implementation can lead to optimized trading conditions, such as enhanced liquidity and reduced transaction costs—factors paramount for both issuers and investors.
+Moreover, securities trading has been increasingly influenced by algorithmic trading, or algo trading, a technique where computer algorithms execute trades at high speed and volumes. Algo trading plays a significant role in modern financial markets, including the trading of ADRs. Its implementation can lead to optimized trading conditions, such as enhanced liquidity and reduced transaction costs—factors paramount for both issuers and investors.
 
 This article intends to examine the intersection of Form F-6EF, ADR regulation, and the burgeoning field of algorithmic trading. The narrative will elucidate how regulatory mechanisms and technological advancements converge to facilitate a more efficient, accessible, and dynamic global trading environment, encouraging both issuers and investors to embrace innovative financial strategies.
 

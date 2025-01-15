@@ -60,7 +60,7 @@ Algorithmic trading significantly impacts manager universe benchmarks by alterin
 
 ## Role of Algorithmic Trading in Performance Benchmarking
 
-Algorithmic trading has reshaped the landscape of financial markets by implementing complex and high-speed trading strategies that follow specific, pre-set criteria. Its influence extends beyond trading efficiency and into the realm of performance benchmarking, where it may present both challenges and opportunities.
+Algorithmic trading has reshaped the landscape of financial markets by implementing complex and high-speed trading strategies that follow specific, pre-set criteria. Its influence extends beyond trading efficiency and into performance benchmarking, where it may present both challenges and opportunities.
 
 One challenge associated with algorithmic trading in performance benchmarking arises from its ability to skew performance data within a manager universe. Manager universes generally comprise a group of investment managers with similar styles, intended to provide a comparative performance framework. However, algorithmic trading can disrupt this framework by introducing variability that isn't present in traditional, human-led trading strategies. For example, algorithmic trading might exploit market inefficiencies more rapidly than traditional methods, leading to returns that deviate from typical patterns observed in a manager universe. This variation can result in distorted performance metrics unless the algorithmic trades are specifically accounted for in the analysis.
 

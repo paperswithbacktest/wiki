@@ -9,7 +9,7 @@ With the progression of algo trading comes the evolution of subscription pricing
 
 ![Image](images/1.jpeg)
 
-This article examines how subscription pricing functions within the realm of algorithmic trading. We will explore the diversity of pricing models available and how they affect the trading landscape by analyzing several key algo trading subscription plans. This examination will include discussions on their features and how these plans effectively cater to the varying requirements of traders. By illuminating these aspects, we aim to provide a comprehensive understanding of how subscription models support both novice and experienced traders in achieving their financial objectives efficiently.
+This article examines how subscription pricing functions within algorithmic trading. We will explore the diversity of pricing models available and how they affect the trading landscape by analyzing several key algo trading subscription plans. This examination will include discussions on their features and how these plans effectively cater to the varying requirements of traders. By illuminating these aspects, we aim to provide a comprehensive understanding of how subscription models support both novice and experienced traders in achieving their financial objectives efficiently.
 
 ## Table of Contents
 

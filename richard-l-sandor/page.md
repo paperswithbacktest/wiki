@@ -83,7 +83,7 @@ mse = mean_squared_error(y_test, predictions)
 print(f"Mean Squared Error: {mse}")
 ```
 
-Chicago's historical significance in financial markets provides a substantial foundation for the city's leadership in algorithmic trading technology. With its cutting-edge financial infrastructure, Chicago has become a hub for technological advancements in trading. Institutions within the city capitalize on this infrastructure to push the boundaries of what algorithmic trading can achieve, particularly in the realm of environmental finance. This blend of financial innovation and sustainable practices underscores Chicago's ongoing contribution to advancing algorithmic trading and fostering a more sustainable financial ecosystem.
+Chicago's historical significance in financial markets provides a substantial foundation for the city's leadership in algorithmic trading technology. With its cutting-edge financial infrastructure, Chicago has become a hub for technological advancements in trading. Institutions within the city capitalize on this infrastructure to push the boundaries of what algorithmic trading can achieve, particularly in environmental finance. This blend of financial innovation and sustainable practices underscores Chicago's ongoing contribution to advancing algorithmic trading and fostering a more sustainable financial ecosystem.
 
 ## The Future of Financial Markets and Environmental Finance
 

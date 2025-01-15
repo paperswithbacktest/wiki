@@ -19,7 +19,7 @@ While the accelerator theory provides insight into investment dynamics, it is no
 
 Despite these criticisms, understanding the accelerator theory remains vital for economic policy-making. Governments can use the insights derived from the theory to design effective stimulus measures, particularly during periods of economic downturn. By recognizing the interconnectedness of income, demand, and investment, policymakers can better target interventions that promote sustained economic growth.
 
-The theory’s implications extend beyond policy into the realm of business strategy and financial planning. Companies actively monitor changes in economic indicators and national income to adjust their investment plans. This attention to demand shifts ensures that businesses can respond to market developments efficiently, maintaining competitiveness and profitability. Overall, the accelerator theory serves as a foundational concept for comprehending the intricate dynamics of investment and economic growth, offering valuable insights for both policymakers and business leaders.
+The theory’s implications extend beyond policy into business strategy and financial planning. Companies actively monitor changes in economic indicators and national income to adjust their investment plans. This attention to demand shifts ensures that businesses can respond to market developments efficiently, maintaining competitiveness and profitability. Overall, the accelerator theory serves as a foundational concept for comprehending the intricate dynamics of investment and economic growth, offering valuable insights for both policymakers and business leaders.
 
 ## Application of Accelerator Theory in Investment
 

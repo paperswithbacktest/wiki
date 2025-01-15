@@ -9,7 +9,7 @@ The CDS performs its function by providing centralized depository services, esse
 
 ![Image](images/1.png)
 
-As technology advances, the role of CDS has increasingly converged with the realm of algorithmic trading, where rapid transaction processing and high-frequency trades necessitate robust infrastructure and minimal settlement times. The blend of CDS services with such modern trading techniques illustrates its adaptability and its burgeoning importance in the contemporary financial landscape. An exploration of CDS reveals its significant impact on Canada's financial systems and highlights its future trajectory within the global financial arena.
+As technology advances, the role of CDS has increasingly converged with algorithmic trading, where rapid transaction processing and high-frequency trades necessitate robust infrastructure and minimal settlement times. The blend of CDS services with such modern trading techniques illustrates its adaptability and its burgeoning importance in the contemporary financial landscape. An exploration of CDS reveals its significant impact on Canada's financial systems and highlights its future trajectory within the global financial arena.
 
 ## Table of Contents
 

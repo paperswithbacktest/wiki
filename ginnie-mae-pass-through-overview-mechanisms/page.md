@@ -119,7 +119,7 @@ Ultimately, successful investment in Ginnie Mae pass-throughs requires a balance
 
 ## Conclusion: Are Ginnie Mae Pass-Throughs Right for You?
 
-Ginnie Mae pass-throughs represent a robust investment choice for those seeking stable income, primarily due to their backing by the full faith and credit of the U.S. government. This governmental guarantee provides a high level of credit quality, making Ginnie Mae pass-throughs a comparatively secure investment vehicle within the realm of mortgage-backed securities. 
+Ginnie Mae pass-throughs represent a robust investment choice for those seeking stable income, primarily due to their backing by the full faith and credit of the U.S. government. This governmental guarantee provides a high level of credit quality, making Ginnie Mae pass-throughs a comparatively secure investment vehicle within mortgage-backed securities. 
 
 Nevertheless, investors must thoughtfully evaluate the associated risks, particularly interest rate risk and prepayment risk. Interest rate fluctuations can significantly affect the value of these securities; as interest rates rise, the value of existing pass-throughs may decrease. Conversely, falling interest rates might encourage homeowners to refinance, leading to prepayment risk. Prepayments result in investors receiving their principal back earlier than expected, reducing future interest income and potentially necessitating the reinvestment of funds in a lower interest rate environment. 
 

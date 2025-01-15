@@ -43,7 +43,7 @@ In summary, the Three White Soldiers pattern is a powerful technical tool for id
 
 ## Technical Significance and Reliability
 
-The Three White Soldiers pattern holds considerable technical significance in the realm of technical analysis due to its robust bullish reversal signal. This pattern, characterized by three consecutive long-bodied candlesticks, typically occurs after a downtrend, suggesting a potential uptrend reversal. Each candlestick should open within the body of the previous one and close progressively higher, demonstrating strong buying pressure and enhancing the pattern's reliability as a signal for a market upturn.
+The Three White Soldiers pattern holds considerable technical significance in technical analysis due to its robust bullish reversal signal. This pattern, characterized by three consecutive long-bodied candlesticks, typically occurs after a downtrend, suggesting a potential uptrend reversal. Each candlestick should open within the body of the previous one and close progressively higher, demonstrating strong buying pressure and enhancing the pattern's reliability as a signal for a market upturn.
 
 A crucial [factor](/wiki/factor-investing) that enhances the effectiveness of the Three White Soldiers pattern is trading [volume](/wiki/volume-trading-strategy). Elevated volume during the formation of this pattern further confirms strong bullish sentiment, as it indicates increased activity and commitment from buyers. Conversely, low trading volume may diminish the pattern's reliability as it could reflect a lack of conviction among market participants, suggesting a weaker reversal signal.
 

@@ -102,7 +102,7 @@ Algorithmic approaches to averaging down provide an attractive alignment of disc
 
 ## Backtesting the Strategy
 
-Backtesting is an essential step in validating the effectiveness of the averaging down strategy within the realm of stock investments. This process involves simulating the application of the strategy using historical data to evaluate its potential performance before committing actual capital. By backtesting, investors gain insights into how the strategy might perform under various market conditions, allowing for more informed decision-making.
+Backtesting is an essential step in validating the effectiveness of the averaging down strategy within stock investments. This process involves simulating the application of the strategy using historical data to evaluate its potential performance before committing actual capital. By backtesting, investors gain insights into how the strategy might perform under various market conditions, allowing for more informed decision-making.
 
 ### Example of Backtesting with SPY ETF
 

@@ -23,7 +23,7 @@ By successfully completing the CSC, individuals gain the authority to trade a va
 
 The significance of the CSC extends to those who wish to provide investment advice; completing the CSC is often a requisite step in building a career in financial advisement. Participants of the program are equipped with the theoretical and practical know-how needed to navigate the complex securities market, ensuring that they can adhere to industry standards and regulations while offering informed investment strategies.
 
-In essence, the CSC certification is a pivotal component for individuals looking to establish a credible and professional grounding in the Canadian investment sector. It lays the groundwork for a deeper understanding of financial markets, thereby facilitating career advancement and specialization within the realm of financial advisory and securities trading.
+In essence, the CSC certification is a pivotal component for individuals looking to establish a credible and professional grounding in the Canadian investment sector. It lays the groundwork for a deeper understanding of financial markets, thereby facilitating career advancement and specialization within financial advisory and securities trading.
 
 ## Exam Structure and Content
 

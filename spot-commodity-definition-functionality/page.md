@@ -45,7 +45,7 @@ Spot trading is prominent in several markets, including energy markets (such as 
 
 ## The Rise of Algo Trading in Commodity Markets
 
-Algorithmic trading, or algo trading, refers to the use of computer algorithms to manage trading activities in financial markets, including commodities. This method utilizes pre-programmed instructions capable of executing trades at speeds and frequencies that are impossible for human traders. Algorithms are designed to analyze market conditions, identify trading opportunities, and execute trades based on specified criteria. In the realm of commodity markets, algo trading automates processes, improves trading efficiency, and adapts to rapidly changing market conditions more effectively than traditional methods.
+Algorithmic trading, or algo trading, refers to the use of computer algorithms to manage trading activities in financial markets, including commodities. This method utilizes pre-programmed instructions capable of executing trades at speeds and frequencies that are impossible for human traders. Algorithms are designed to analyze market conditions, identify trading opportunities, and execute trades based on specified criteria. In commodity markets, algo trading automates processes, improves trading efficiency, and adapts to rapidly changing market conditions more effectively than traditional methods.
 
 ### Algorithms in Commodity Trading
 

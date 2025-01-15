@@ -133,7 +133,7 @@ This approach enforces that algorithmic decisions do not vary unjustly across di
 
 ## Interconnection: Civil Rights Principles and Algorithmic Fairness
 
-The principles underpinning civil rights advocacy, particularly those focused on equality and non-discrimination, have found a new frontier in the realm of algorithmic fairness. As technology continues to transform various sectors, including employment, finance, and law enforcement, the mechanisms ensuring fairness and equality require critical examination.
+The principles underpinning civil rights advocacy, particularly those focused on equality and non-discrimination, have found a new frontier in algorithmic fairness. As technology continues to transform various sectors, including employment, finance, and law enforcement, the mechanisms ensuring fairness and equality require critical examination.
 
 ### Parallels Between Civil Rights Advocacy and Algorithmic Fairness
 
@@ -171,7 +171,7 @@ Ensuring algorithmic fairness is a multifaceted challenge that requires continuo
 
 The Civil Rights Act of 1964 remains a pivotal milestone in the journey toward equality, with its influence pervading various contemporary issues. Its enactment marked a crucial turning point, providing the legal framework to dismantle systemic discrimination and segregation. The Act has been instrumental in shaping subsequent reforms and legislation, effectively embedding the values of equality and non-discrimination into the national ethos.
 
-Despite significant progress in the decades following its passage, challenges persist in achieving full equality. In the realm of social justice, issues such as racial disparities in criminal justice, economic inequality, and access to quality education continue to demand attention and action. The principles enshrined in the Civil Rights Act serve as a guide for addressing these persistent inequalities, reminding society of its moral and legal obligations to uphold fairness and justice for all individuals.
+Despite significant progress in the decades following its passage, challenges persist in achieving full equality. In social justice, issues such as racial disparities in criminal justice, economic inequality, and access to quality education continue to demand attention and action. The principles enshrined in the Civil Rights Act serve as a guide for addressing these persistent inequalities, reminding society of its moral and legal obligations to uphold fairness and justice for all individuals.
 
 The financial markets, too, reflect this ongoing struggle for equality. While the principles of diversity and inclusion have gained traction, there are still substantial challenges to overcome. Discriminatory practices in lending, credit, and investment persist, albeit in more subtle forms. The integration of civil rights principles into financial regulations and corporate governance is crucial to fostering an environment where all stakeholders can participate equitably.
 

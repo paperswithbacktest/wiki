@@ -9,7 +9,7 @@ Demonetization, a significant policy tool, involves stripping a currency unit of
 
 ![Image](images/1.jpeg)
 
-Within the realm of financial markets, algorithmic trading represents a seminal evolution, bridging economics and advanced technology. By employing automated systems to execute trade based on pre-defined strategies and criteria, algorithmic trading enhances market efficiency. It allows for high-speed transactions that provide liquidity and can narrow bid-ask spreads, thereby influencing the overall functionality of financial markets. However, this reliance on algorithms introduces complexities, including risks of market manipulation and the need for oversight to ensure market integrity.
+Within financial markets, algorithmic trading represents a seminal evolution, bridging economics and advanced technology. By employing automated systems to execute trade based on pre-defined strategies and criteria, algorithmic trading enhances market efficiency. It allows for high-speed transactions that provide liquidity and can narrow bid-ask spreads, thereby influencing the overall functionality of financial markets. However, this reliance on algorithms introduces complexities, including risks of market manipulation and the need for oversight to ensure market integrity.
 
 Understanding these economic concepts is essential for navigating the modern financial ecosystem, where policies and technologies dynamically interact. As such, investors, businesses, and policymakers must leverage insights from these mechanisms to harness opportunities while mitigating potential risks inherent within evolving economic systems.
 

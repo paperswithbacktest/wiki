@@ -15,7 +15,7 @@ This article aims to elucidate the link between comprehensive financial reports 
 
 ## Understanding the Form 10-K
 
-The Form 10-K is an essential document in the realm of financial reporting for publicly traded companies in the United States. Mandated by the Securities and Exchange Commission (SEC), it provides a comprehensive overview of a company's financial performance over the fiscal year. The significance of the Form 10-K lies in its role as a detailed annual report that offers critical insights into a company's operations, financial condition, and future prospects, thereby playing a crucial role in investment decision-making.
+The Form 10-K is an essential document in financial reporting for publicly traded companies in the United States. Mandated by the Securities and Exchange Commission (SEC), it provides a comprehensive overview of a company's financial performance over the fiscal year. The significance of the Form 10-K lies in its role as a detailed annual report that offers critical insights into a company's operations, financial condition, and future prospects, thereby playing a crucial role in investment decision-making.
 
 **Components of a Form 10-K**
 

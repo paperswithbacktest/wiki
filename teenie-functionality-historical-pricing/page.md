@@ -88,7 +88,7 @@ The legacy of Teenie persists in the lexicon and algorithms employed by traders 
 
 ### Future Potential in Financial Analytics and High-Frequency Trading
 
-In the realm of financial analytics, the principles embodied by Teenie offer potential for improved analytical models. As high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) seeks ever-smaller margins to capitalize on fleeting arbitrage opportunities, the historical understanding of fractional units like Teenie can inspire innovative approaches to price analysis and execution efficiency. The precision associated with teenie-sized increments supports the development of algorithms that better accommodate rapid market shifts, thereby optimizing trade outcomes.
+In financial analytics, the principles embodied by Teenie offer potential for improved analytical models. As high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) seeks ever-smaller margins to capitalize on fleeting arbitrage opportunities, the historical understanding of fractional units like Teenie can inspire innovative approaches to price analysis and execution efficiency. The precision associated with teenie-sized increments supports the development of algorithms that better accommodate rapid market shifts, thereby optimizing trade outcomes.
 
 High-frequency trading environments, which require instantaneous decision-making across numerous trades, can benefit from reincorporating the concept of fractional increments. The adaptation of Teenie's principles to modern HFT systems could enhance algorithms' sensitivity to market fluctuations, thereby leveraging micro-profit opportunities inherent in rapid trading cycles.
 

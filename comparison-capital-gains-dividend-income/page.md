@@ -19,7 +19,7 @@ By understanding these components—capital gains, investment income, dividend i
 
 ## Capital Gains: A Key Component of Investment Returns
 
-Capital gains represent the financial gains realized when the selling price of an asset surpasses its original purchase cost. These profits are commonly associated with the sale of stocks, bonds, real estate, or other investment vehicles. Capital gains are crucial in the realm of investment returns, often considerably enhancing an investor's overall income, especially during bullish markets when asset prices tend to rise.
+Capital gains represent the financial gains realized when the selling price of an asset surpasses its original purchase cost. These profits are commonly associated with the sale of stocks, bonds, real estate, or other investment vehicles. Capital gains are crucial in investment returns, often considerably enhancing an investor's overall income, especially during bullish markets when asset prices tend to rise.
 
 ### Factors Affecting Capital Gains
 

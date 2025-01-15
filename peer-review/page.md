@@ -99,7 +99,7 @@ print(df)
 
 In this simplistic model, trading decisions are made based on the crossover of short-term and long-term moving averages, an approach substantiated by academic research for identifying trends and market momentum.
 
-In conclusion, peer-reviewed academic research is indispensable in the world of algorithmic trading. It ensures that the algorithms deployed in financial markets are grounded in validated theories, thereby enhancing their reliability and effectiveness. As market dynamics continue to evolve, the continual incorporation of innovative academic insights into trading algorithms remains crucial for achieving an edge in competitive trading environments.
+In conclusion, peer-reviewed academic research is indispensable in algorithmic trading. It ensures that the algorithms deployed in financial markets are grounded in validated theories, thereby enhancing their reliability and effectiveness. As market dynamics continue to evolve, the continual incorporation of innovative academic insights into trading algorithms remains crucial for achieving an edge in competitive trading environments.
 
 ## Navigating Future Prospects in Scholarly Evaluation
 

@@ -5,7 +5,7 @@ description: "Discover the synergy between shell leases and algorithmic trading 
 
 Shell leases are a prevalent concept in the world of commercial real estate, offering a unique lease structure that balances the demands of tenants and landlords. In this arrangement, the landlord provides a basic structure without interior finishes, allowing tenants the freedom to customize the space to their specific needs. This approach is particularly appealing for businesses seeking cost-effective solutions and flexibility in the design of their commercial spaces.
 
-Algorithmic trading, typically associated with financial markets, has started to make its mark in the realm of real estate investments. This method involves using complex algorithms to execute trades, analyze market trends, and optimize investment strategies. Its application in commercial real estate is innovative, promising enhanced efficiency in property selection, trend analysis, and strategic decision-making.
+Algorithmic trading, typically associated with financial markets, has started to make its mark in real estate investments. This method involves using complex algorithms to execute trades, analyze market trends, and optimize investment strategies. Its application in commercial real estate is innovative, promising enhanced efficiency in property selection, trend analysis, and strategic decision-making.
 
 ![Image](images/1.png)
 

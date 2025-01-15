@@ -51,7 +51,7 @@ Conversely, retail traders often seek flexibility and cost-efficiency in their t
 
 The divergence in trading volumes between institutional and retail investors significantly impacts their market influence and access to information. Institutional investors, trading in large volumes, can often access deeper market insights and more sophisticated data analysis tools. This access enables a level of forecasting and strategic planning that is typically unattainable for retail investors. Nonetheless, the democratization of financial technology has begun to narrow this gap, providing retail traders with unprecedented access to data and tools that enhance their trading capabilities.
 
-Overall, while institutional investors leverage algorithmic trading to execute large, efficient, and rapid trades, retail investors benefit from the technological advancements in algorithmic systems to make informed and agile trading decisions. The balance between scaling efficiency and maintaining flexibility characterizes the distinct approaches each investor type employs in the realm of algorithmic trading.
+Overall, while institutional investors leverage algorithmic trading to execute large, efficient, and rapid trades, retail investors benefit from the technological advancements in algorithmic systems to make informed and agile trading decisions. The balance between scaling efficiency and maintaining flexibility characterizes the distinct approaches each investor type employs in algorithmic trading.
 
 ## The Role of AI in Algorithmic Trading
 

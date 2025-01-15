@@ -29,7 +29,7 @@ Edwin Peng is recognized for his work in advancing the methodologies used in [al
 
 ## Influence and Recognition
 
-Peng's influence in the realm of quantitative finance has been affirmed by his peers and mentors. While still early in his career, his contributions to Akuna Capital and the broader financial community have demonstrated a notable commitment to innovation and excellence. His work in refining the algorithms used for trading VIX options has been particularly impactful, providing valuable insights into managing [volatility](/wiki/volatility-trading-strategies) and risk.
+Peng's influence in quantitative finance has been affirmed by his peers and mentors. While still early in his career, his contributions to Akuna Capital and the broader financial community have demonstrated a notable commitment to innovation and excellence. His work in refining the algorithms used for trading VIX options has been particularly impactful, providing valuable insights into managing [volatility](/wiki/volatility-trading-strategies) and risk.
 
 ## External Activities
 

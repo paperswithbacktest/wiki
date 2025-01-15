@@ -13,7 +13,7 @@ In contrast, algorithmic trading, commonly referred to as algo trading, leverage
 
 The integration of these financial strategies becomes instrumental in meeting specific financial goals. Short-term investments can provide quick access to funds or generate steady returns, whereas algo trading can capitalize on market inefficiencies and volatility to offer enhanced returns. By effectively combining these strategies, investors and financial planners can work towards tailored financial outcomes, be it capital growth, liquidity preservation, or risk management.
 
-This article seeks to provide insights into the realm of short-term investments and algorithmic trading, focusing on how they can be leveraged for effective financial planning. Key terms and concepts such as liquidity, algorithmic strategies, trading efficiency, and investment vehicles will be examined in detail, providing readers with a comprehensive understanding of how to employ these tools to meet their distinct financial objectives.
+This article seeks to provide insights into short-term investments and algorithmic trading, focusing on how they can be leveraged for effective financial planning. Key terms and concepts such as liquidity, algorithmic strategies, trading efficiency, and investment vehicles will be examined in detail, providing readers with a comprehensive understanding of how to employ these tools to meet their distinct financial objectives.
 
 ## Table of Contents
 

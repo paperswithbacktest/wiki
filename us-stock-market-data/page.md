@@ -74,7 +74,7 @@ Moreover, the platform provides real-time data sourced from multiple venues. Acc
 
 Furthermore, Databento presents a versatile pricing model. This flexibility ensures that traders can access data solutions tailored to their specific needs and trading volumes, making it an appealing choice for both small-scale traders and large institutional firms. By accommodating various trading profiles, Databento democratizes access to high-quality market data, empowering a broader range of market participants.
 
-In conclusion, Databento's innovative solutions in market data access underscore its role as a critical facilitator in the realm of algorithmic trading. By offering low-latency connectivity, diverse asset classes, and adaptable pricing structures, the platform addresses the core needs of contemporary traders in the rapidly evolving US stock market.
+In conclusion, Databento's innovative solutions in market data access underscore its role as a critical facilitator in algorithmic trading. By offering low-latency connectivity, diverse asset classes, and adaptable pricing structures, the platform addresses the core needs of contemporary traders in the rapidly evolving US stock market.
 
 ## Benefits of Databento Services
 

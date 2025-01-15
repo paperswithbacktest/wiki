@@ -9,7 +9,7 @@ Real estate alternative data consists of non-conventional sources that provide n
 
 ![Image](images/1.png)
 
-As we explore the integration of real estate alternative data into algorithmic trading, the objective is to assess whether this convergence provides a substantial strategic advantage or represents a temporary trend spurred by technological advancements. By evaluating this synergy, we aim to uncover the true impact and sustainability of alternative data as a transformative tool in the world of algorithmic trading.
+As we explore the integration of real estate alternative data into algorithmic trading, the objective is to assess whether this convergence provides a substantial strategic advantage or represents a temporary trend spurred by technological advancements. By evaluating this synergy, we aim to uncover the true impact and sustainability of alternative data as a transformative tool in algorithmic trading.
 
 ## Table of Contents
 

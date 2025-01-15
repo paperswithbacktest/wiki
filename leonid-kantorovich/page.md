@@ -100,7 +100,7 @@ print("Optimal value:", -result.fun)
 
 In this scenario, the objective function `c` represents the returns of the assets, while `A` and `b` define the constraints. The `linprog` function provides the solution that maximizes returns under the given constraints.
 
-Kantorovich's methodologies continue to underpin the development of trading models that necessitate precise and efficient allocation of capital, coupled with minimal risk exposure. His work laid the foundation for quantitative approaches that are integral to financial engineering and risk management today, demonstrating linear programming's enduring significance in the realm of algorithmic trading. As financial systems grow more complex, linear programming remains an indispensable tool for optimizing outcomes in an uncertain world.
+Kantorovich's methodologies continue to underpin the development of trading models that necessitate precise and efficient allocation of capital, coupled with minimal risk exposure. His work laid the foundation for quantitative approaches that are integral to financial engineering and risk management today, demonstrating linear programming's enduring significance in algorithmic trading. As financial systems grow more complex, linear programming remains an indispensable tool for optimizing outcomes in an uncertain world.
 
 ## Conclusion
 

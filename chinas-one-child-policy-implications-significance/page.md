@@ -9,7 +9,7 @@ In parallel to its population control measures, China has also emerged as a sign
 
 ![Image](images/1.png)
 
-This article examines the interplay between China's population control initiatives and its global economic positioning in the realm of algorithmic trading. Understanding these dynamics is crucial for assessing how demographic transitions can shape economic strategies, including advancements in financial technologies and changing patterns in trading practices. By scrutinizing these connections, we gain insights into the broader implications of demographic changes on economic policy and market engagements in China and across the world.
+This article examines the interplay between China's population control initiatives and its global economic positioning in algorithmic trading. Understanding these dynamics is crucial for assessing how demographic transitions can shape economic strategies, including advancements in financial technologies and changing patterns in trading practices. By scrutinizing these connections, we gain insights into the broader implications of demographic changes on economic policy and market engagements in China and across the world.
 
 ## Table of Contents
 

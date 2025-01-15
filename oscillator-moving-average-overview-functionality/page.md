@@ -77,7 +77,7 @@ The Oscillator of a Moving Average (OSMA) serves as a vital tool in confirming m
 
 A critical aspect of OSMA interpretation is the crossover of the zero line. When the OSMA moves across the zero line from negative to positive, it may signal the beginning of an upward trend. Conversely, when it shifts from positive to negative, a potential trend reversal toward a downtrend is indicated. These crossovers can be pivotal moments for traders to consider initiating or closing positions, allowing for more strategic decision-making.
 
-In the realm of [algorithmic trading](/wiki/algorithmic-trading), these OSMA signals can be systematically utilized by encoding them into trading algorithms. For instance, a simple Python script can automate trading decisions based on OSMA signals:
+In [algorithmic trading](/wiki/algorithmic-trading), these OSMA signals can be systematically utilized by encoding them into trading algorithms. For instance, a simple Python script can automate trading decisions based on OSMA signals:
 
 ```python
 def calculate_osma(macd_line, signal_line):

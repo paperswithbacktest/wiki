@@ -15,7 +15,7 @@ The goal of this article is to curate a definitive collection of literature that
 
 ## Foundational Knowledge
 
-In the realm of quantitative finance, foundational knowledge is the bedrock upon which all complex strategies and models are built. Mastery of mathematical concepts, statistical theories, and financial principles is essential.
+In quantitative finance, foundational knowledge is the bedrock upon which all complex strategies and models are built. Mastery of mathematical concepts, statistical theories, and financial principles is essential.
 
 ### "Options, Futures, and Other Derivatives" by John Hull
 

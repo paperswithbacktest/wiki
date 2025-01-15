@@ -65,7 +65,7 @@ The benefits of algo trading in this sector are manifold. One primary advantage 
 
 Moreover, algo trading facilitates the swift analysis of vast datasets. In a sector as dynamic as the space economy, quick decision-making is crucial. Algorithms can process and extract valuable insights from a wide range of data sources, including financial reports, market trends, and real-time news, enabling investors to make informed decisions promptly. This capacity for rapid data processing positions algo trading as an essential tool for investors seeking to exploit the complex and fast-evolving opportunities within the space economy.
 
-Overall, the integration of algo trading into the realm of space economy investments not only enhances efficiency and accuracy but also empowers investors to engage with this new frontier in a more sophisticated and strategic manner. As the space economy continues to grow, the role of [algorithmic trading](/wiki/algorithmic-trading) is likely to expand, offering innovative ways to harness its potential and navigate its complexities.
+Overall, the integration of algo trading into space economy investments not only enhances efficiency and accuracy but also empowers investors to engage with this new frontier in a more sophisticated and strategic manner. As the space economy continues to grow, the role of [algorithmic trading](/wiki/algorithmic-trading) is likely to expand, offering innovative ways to harness its potential and navigate its complexities.
 
 ## Challenges and Risks in Space Economy Investments
 

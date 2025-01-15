@@ -66,7 +66,7 @@ The competitive landscape of finance, particularly in quantitative [hedge fund](
 
 This strategic emphasis on acquiring high-level expertise aligns with TGS's operational philosophy, where innovative and effective algorithmic trading strategies are the bedrock of its success. By fostering an environment that attracts and retains elite professionals, TGS ensures that it remains at the forefront of financial innovation. The diverse skill set brought in by these recruits contributes to TGS's ability to stay adaptive and responsive to the ever-evolving dynamics of global financial markets.
 
-The rigorous hiring process at TGS reflects a deep understanding that the essence of successful algorithmic trading lies not just in sophisticated computational technology but also in the brilliant minds that design and refine it. Thus, the firm's focus on recruiting and nurturing exceptional talent remains a driving force behind its innovative success in the world of algorithmic trading.
+The rigorous hiring process at TGS reflects a deep understanding that the essence of successful algorithmic trading lies not just in sophisticated computational technology but also in the brilliant minds that design and refine it. Thus, the firm's focus on recruiting and nurturing exceptional talent remains a driving force behind its innovative success in algorithmic trading.
 
 ## Philanthropic Efforts and Political Engagement
 

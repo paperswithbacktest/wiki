@@ -5,7 +5,7 @@ description: "Explore the fascinating blend of chemistry and finance as the Nine
 
 In this article, we explore the intriguing intersection of chemistry, the Nine-Bond Rule, chemical structures, and algorithmic trading, a domain where scientific theory meshes with financial innovation to create fertile ground for novel approaches in trading and investment strategies. 
 
-The Nine-Bond Rule is a concept that permeates both chemistry and stock exchange regulations, rendering it a subject of multifaceted complexity. In the realm of chemistry, this rule often involves the stability and reactivity of molecules, affecting how electron densities distribute in chemical structures. Meanwhile, in financial markets, the Nine-Bond Rule plays a historical role in bond trading, where it was once mandated that orders of nine or fewer bonds be handled specifically to optimize price discovery on the trading floor.
+The Nine-Bond Rule is a concept that permeates both chemistry and stock exchange regulations, rendering it a subject of multifaceted complexity. In chemistry, this rule often involves the stability and reactivity of molecules, affecting how electron densities distribute in chemical structures. Meanwhile, in financial markets, the Nine-Bond Rule plays a historical role in bond trading, where it was once mandated that orders of nine or fewer bonds be handled specifically to optimize price discovery on the trading floor.
 
 ![Image](images/1.png)
 

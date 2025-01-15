@@ -61,7 +61,7 @@ Machine learning (ML) and [artificial intelligence](/wiki/ai-artificial-intellig
 
 For instance, supervised learning models leverage historical data to train algorithms on identifying market trends. These models can predict future price movements by analyzing past patterns and relationships within the data. In contrast, reinforcement learning models focus on optimizing trading actions by interacting with the market environment. Here, models are rewarded for actions that result in positive outcomes, such as profitable trades, reinforcing successful strategies.
 
-Python, a popular programming language in the realm of data science and finance, is extensively used to develop and implement these [machine learning](/wiki/machine-learning) models. Below is a simplified example of using Python and the Scikit-learn library to implement a basic supervised learning model for predicting price movements:
+Python, a popular programming language in data science and finance, is extensively used to develop and implement these [machine learning](/wiki/machine-learning) models. Below is a simplified example of using Python and the Scikit-learn library to implement a basic supervised learning model for predicting price movements:
 
 ```python
 import numpy as np

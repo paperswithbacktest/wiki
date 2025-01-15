@@ -17,7 +17,7 @@ By harnessing the potential of algorithmic trading, E*TRADE and Fidelity not onl
 
 ## Overview of E*TRADE and Fidelity
 
-E*TRADE and Fidelity are two of the most established names in the realm of online trading, each with a rich history and distinct offerings that have shaped their evolution and service portfolios. 
+E*TRADE and Fidelity are two of the most established names in online trading, each with a rich history and distinct offerings that have shaped their evolution and service portfolios. 
 
 ### History and Evolution
 

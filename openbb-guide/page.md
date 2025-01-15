@@ -5,7 +5,7 @@ description: Discover the power of OpenBB, an innovative open-source platform fo
 
 In recent years, algorithmic trading has gained significant ground in the financial markets. This sophisticated form of trading employs computer algorithms to automate and optimize trading decisions, allowing for rapid execution of orders based on pre-established criteria. As technology continues to evolve, traders and investors are in constant pursuit of efficient tools to enhance their trading strategies, aiming to achieve better outcomes and minimize human error.
 
-Among the platforms that have emerged to cater to this need, OpenBB has become a notable player in the world of algorithmic trading. OpenBB stands out as an innovative, open-source investment research platform designed for both individual traders and institutional investors. Its focus on transparency and community-driven development ensures that it meets the diverse needs of its users, supporting a wide range of financial instruments and markets.
+Among the platforms that have emerged to cater to this need, OpenBB has become a notable player in algorithmic trading. OpenBB stands out as an innovative, open-source investment research platform designed for both individual traders and institutional investors. Its focus on transparency and community-driven development ensures that it meets the diverse needs of its users, supporting a wide range of financial instruments and markets.
 
 ![Image](images/1.webp)
 

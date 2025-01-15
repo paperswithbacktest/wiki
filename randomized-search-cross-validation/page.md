@@ -11,7 +11,7 @@ Among the myriad of techniques employed within machine learning is randomized se
 
 Randomized search cross-validation stands out as a sophisticated approach that efficiently navigates the complexities of hyperparameter tuning. Unlike traditional methods which exhaustively search through a predefined grid of parameters, randomized search investigates a randomly chosen subset of the parameter space. This makes it computationally less expensive and more feasible, especially when dealing with large datasets and complex models typical in financial markets.
 
-This article will explore the intricacies of randomized search cross-validation, its implementation in the world of algorithmic trading, and how it can improve trading strategies by delivering models that are both robust and efficient in making market predictions. Understanding and applying this technique can offer a strategic advantage to traders seeking to optimize their algorithmic trading systems for better decision-making and profitability as financial markets continue to grow in complexity.
+This article will explore the intricacies of randomized search cross-validation, its implementation in algorithmic trading, and how it can improve trading strategies by delivering models that are both robust and efficient in making market predictions. Understanding and applying this technique can offer a strategic advantage to traders seeking to optimize their algorithmic trading systems for better decision-making and profitability as financial markets continue to grow in complexity.
 
 ## Table of Contents
 

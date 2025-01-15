@@ -9,7 +9,7 @@ Algorithmic trading represents one of the most transformative advances in financ
 
 ![Image](images/1.jpeg)
 
-This article focuses on exploring the intersection between economic theories recognized by the Nobel Prize and their application within the world of algorithmic trading. By examining this synergy, we aim to provide insights into how these groundbreaking theories contribute to enhancing the effectiveness and efficiency of modern trading systems. Through their application, traders and financial institutions can achieve greater precision, minimize risks, and maximize returns, ultimately driving innovation in the financial sector.
+This article focuses on exploring the intersection between economic theories recognized by the Nobel Prize and their application within algorithmic trading. By examining this synergy, we aim to provide insights into how these groundbreaking theories contribute to enhancing the effectiveness and efficiency of modern trading systems. Through their application, traders and financial institutions can achieve greater precision, minimize risks, and maximize returns, ultimately driving innovation in the financial sector.
 
 ## Table of Contents
 

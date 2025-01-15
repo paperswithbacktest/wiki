@@ -188,7 +188,7 @@ In recent years, the rise of algorithmic trading has transformed the way markets
 
 This relationship between the loonie and algorithmic trading illustrates a complex dynamic where traditional economic factors and cutting-edge technological strategies converge. Through algorithmic trading, market participants can respond to changes in interest rates, economic forecasts, and commodity prices with unprecedented agility.
 
-As global economies continue to evolve, understanding the interaction between the loonie and trading algorithms will be crucial. Both traders and policymakers must remain vigilant, continuously refining their understanding and strategies to adapt to shifting landscapes. This ongoing exploration not only enhances market participants' ability to navigate economic challenges but also ensures they can seize emerging opportunities effectively. The future landscape of the Canadian economy and the realm of trading promises to be both challenging and rewarding for those prepared to engage with these dynamic components.
+As global economies continue to evolve, understanding the interaction between the loonie and trading algorithms will be crucial. Both traders and policymakers must remain vigilant, continuously refining their understanding and strategies to adapt to shifting landscapes. This ongoing exploration not only enhances market participants' ability to navigate economic challenges but also ensures they can seize emerging opportunities effectively. The future landscape of the Canadian economy and trading promises to be both challenging and rewarding for those prepared to engage with these dynamic components.
 
 ## References & Further Reading
 

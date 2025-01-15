@@ -112,7 +112,7 @@ In conclusion, as 5G technology evolves, it will continue to reshape financial m
 
 ## Conclusion
 
-The integration of 5G technology within telecommunications has significantly transformed the landscape, creating profound impacts across various industries, notably in the realm of algorithmic trading. By providing high-speed connectivity and remarkably low latency, 5G has enhanced the performance of trading algorithms, facilitating more swift and precise trading decisions. This advanced capability has enabled financial institutions to optimize their trading strategies, ensuring they remain competitive in increasingly fast-paced markets.
+The integration of 5G technology within telecommunications has significantly transformed the landscape, creating profound impacts across various industries, notably in algorithmic trading. By providing high-speed connectivity and remarkably low latency, 5G has enhanced the performance of trading algorithms, facilitating more swift and precise trading decisions. This advanced capability has enabled financial institutions to optimize their trading strategies, ensuring they remain competitive in increasingly fast-paced markets.
 
 Investments in 5G infrastructure are vital to sustaining economic growth and fostering innovation. The continuous evolution of this technology will spearhead advancements in telecommunications, allowing other sectors such as smart cities, autonomous vehicles, and healthcare to also reap its benefits. As global economies strive for enhanced connectivity and technological superiority, the focus on expanding and upgrading 5G frameworks will be crucial.
 

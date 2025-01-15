@@ -147,7 +147,7 @@ To mitigate these limitations, traders often combine MACD with other technical i
 
 MACD has been pivotal in numerous historical trading scenarios, demonstrating its potential in identifying buy and sell signals. For instance, during the 2008-2009 financial crisis, many traders observed significant movements in the stock market. Analyzing MACD indicators during this period, several stocks exhibited buy signals as the MACD line crossed above the signal line, aligning with the subsequent market recovery.
 
-In the realm of algorithmic trading, MACD is frequently integrated into trading algorithms to automate decision-making. A notable case involved the use of algorithmic trading in the [forex](/wiki/forex-system) market around 2016, where traders employed MACD to identify potential entry and exit points in currency pairs. By leveraging historical MACD data, algorithms were able to execute trades in milliseconds, capitalizing on the momentum shifts indicated by MACD signals. 
+In algorithmic trading, MACD is frequently integrated into trading algorithms to automate decision-making. A notable case involved the use of algorithmic trading in the [forex](/wiki/forex-system) market around 2016, where traders employed MACD to identify potential entry and exit points in currency pairs. By leveraging historical MACD data, algorithms were able to execute trades in milliseconds, capitalizing on the momentum shifts indicated by MACD signals. 
 
 Python plays a crucial role in such strategies. The following Python snippet illustrates how to calculate MACD using the pandas and pandas_ta libraries:
 

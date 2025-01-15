@@ -76,7 +76,7 @@ In conclusion, the combination of multiple momentum strategies necessitates a mu
 
 ## Key Momentum Strategies in Algo Trading
 
-Momentum strategies in algorithmic trading are designed to capture the persistence of equity price trends, leveraging the behavioral tendencies of markets to chase winning stocks and avoid losers. In the realm of U.S. equities, several prominent momentum strategies are employed, each with its specific methodology and intention of exploiting market inefficiencies.
+Momentum strategies in algorithmic trading are designed to capture the persistence of equity price trends, leveraging the behavioral tendencies of markets to chase winning stocks and avoid losers. In U.S. equities, several prominent momentum strategies are employed, each with its specific methodology and intention of exploiting market inefficiencies.
 
 **Momentum Factor Effect in Stocks**
 

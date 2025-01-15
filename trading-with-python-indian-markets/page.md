@@ -11,7 +11,7 @@ Python, a versatile and powerful programming language, has emerged as a cornerst
 
 Within the Indian financial landscape, the role of Python has become increasingly prominent. The integration of Python with trading platforms and APIs, such as Zerodha's Kite Connect, empowers traders by providing seamless access to real-time data and enabling automated trade execution. Furthermore, Python's open-source nature has fostered a large, dynamic community, constantly contributing to a growing repository of resources and innovative solutions.
 
-This article explores how Python is shaping the realm of algorithmic trading in India. We will examine its benefits, the platforms supporting its use, the tools and strategies that enhance its capabilities, and the potential it offers for future advancements in trading technology. Whether seasoned or novice, traders leveraging Python are better positioned to adapt and thrive in the fast-paced environment of the Indian financial markets.
+This article explores how Python is shaping algorithmic trading in India. We will examine its benefits, the platforms supporting its use, the tools and strategies that enhance its capabilities, and the potential it offers for future advancements in trading technology. Whether seasoned or novice, traders leveraging Python are better positioned to adapt and thrive in the fast-paced environment of the Indian financial markets.
 
 ## Table of Contents
 

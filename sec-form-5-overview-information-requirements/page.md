@@ -37,7 +37,7 @@ Overall, SEC Form 5 is pivotal in the ongoing efforts to prevent illegal insider
 
 ## Information Required by SEC Form 5
 
-SEC Form 5 is a pivotal document in the realm of financial transparency and regulatory compliance, necessitating the disclosure of several key pieces of information to ensure clarity in insider transactions. 
+SEC Form 5 is a pivotal document in financial transparency and regulatory compliance, necessitating the disclosure of several key pieces of information to ensure clarity in insider transactions. 
 
 Primarily, the form requires the name and address of the reporting individual, which allows for precise identification and accountability. Alongside personal identification, the issuer's name and the corresponding ticker symbol must be included, providing a clear link to the specific securities and the company involved.
 

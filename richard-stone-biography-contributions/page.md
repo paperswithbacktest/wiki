@@ -82,7 +82,7 @@ One of Stone's most significant legacies is his transformation of complex econom
 
 Stone's introduction of double-entry bookkeeping principles to national accounts allowed for a more comprehensive and accurate depiction of economic activities. These principles helped in balancing the economy's transaction records, offering insights into economic conditions and enabling more informed decision-making. His methodologies provided critical tools for understanding the interactions within economies, vital for effective fiscal and monetary policy.
 
-Beyond national accounting, Stone's contributions extended into the realm of econometrics, where his statistical models provided quantitative assessments that advanced economic forecasting and analysis. His work underpinned the development of econometric models that are used to simulate economic conditions and test policy impacts, offering a predictive edge to economic planning.
+Beyond national accounting, Stone's contributions extended into econometrics, where his statistical models provided quantitative assessments that advanced economic forecasting and analysis. His work underpinned the development of econometric models that are used to simulate economic conditions and test policy impacts, offering a predictive edge to economic planning.
 
 Richard Stone's ability to synthesize complex economic variables into coherent models paved the way for the kind of systemic analyses required in modern economic studies. His approach set a precedent for integrating economic theory with empirical data, a practice that remains central to economic research and policy formulation today.
 

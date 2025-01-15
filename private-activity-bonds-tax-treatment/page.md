@@ -57,7 +57,7 @@ In summary, Private Activity Bonds are crafted to incentivize private investment
 
 ## Tax Treatment of Private Activity Bonds
 
-Private Activity Bonds (PABs) present a unique case in the realm of municipal securities concerning their tax treatment. Typically, the interest income generated from municipal bonds is exempt from federal income tax, which provides a significant advantage to investors in higher tax brackets. However, PABs differ due to their alignment with projects offering both private and public benefits. This dual nature influences their tax treatment, including exposure to the Alternative Minimum Tax (AMT) and specific IRS regulations under the Internal Revenue Code.
+Private Activity Bonds (PABs) present a unique case in municipal securities concerning their tax treatment. Typically, the interest income generated from municipal bonds is exempt from federal income tax, which provides a significant advantage to investors in higher tax brackets. However, PABs differ due to their alignment with projects offering both private and public benefits. This dual nature influences their tax treatment, including exposure to the Alternative Minimum Tax (AMT) and specific IRS regulations under the Internal Revenue Code.
 
 ### Tax-Exempt Status of PABs
 

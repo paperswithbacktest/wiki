@@ -107,7 +107,7 @@ In conclusion, algorithmic trading offers a sophisticated means to engage with t
 
 ## Gambian Dalasi and Algorand: A Case Study
 
-The Algorand blockchain represents a significant innovation in the realm of decentralized finance and currency trading. As a scalable and secure blockchain platform, Algorand facilitates seamless transactions with low latency, making it relevant for currency trading, including the trading of the Gambian Dalasi (GMD). With a robust consensus mechanism known as Pure Proof-of-Stake (PPoS), Algorand ensures both the security and efficiency of transactions, which are critical attributes in the trading landscape.
+The Algorand blockchain represents a significant innovation in decentralized finance and currency trading. As a scalable and secure blockchain platform, Algorand facilitates seamless transactions with low latency, making it relevant for currency trading, including the trading of the Gambian Dalasi (GMD). With a robust consensus mechanism known as Pure Proof-of-Stake (PPoS), Algorand ensures both the security and efficiency of transactions, which are critical attributes in the trading landscape.
 
 ### GMD/ALGO Exchange Rate Historical Data
 

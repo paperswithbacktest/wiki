@@ -166,7 +166,7 @@ This Python script employs the `comb` function from the `math` module for effici
 
 ## Software and Tools for Binomial Analysis
 
-In the realm of statistical computing, a variety of software tools and libraries are available to assist traders and analysts in performing binomial analysis effectively. Among these, Python stands out due to its versatile libraries such as NumPy and SciPy, which simplify complex calculations. NumPy provides support for large, multi-dimensional arrays and matrices, while SciPy adds additional functionality for statistical distributions, making them invaluable for calculating and visualizing binomial distributions.
+In statistical computing, a variety of software tools and libraries are available to assist traders and analysts in performing binomial analysis effectively. Among these, Python stands out due to its versatile libraries such as NumPy and SciPy, which simplify complex calculations. NumPy provides support for large, multi-dimensional arrays and matrices, while SciPy adds additional functionality for statistical distributions, making them invaluable for calculating and visualizing binomial distributions.
 
 In Python, the `scipy.stats` module includes a binomial distribution function that can be used to compute probabilities. For example, to calculate the probability of observing exactly $k$ successes in $n$ trials with a success probability $p$, one would utilize the following code:
 

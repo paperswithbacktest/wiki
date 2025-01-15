@@ -29,7 +29,7 @@ Basel I set the stage for subsequent accords such as Basel II and Basel III, whi
 
 The introduction of Basel I played a fundamental role in stabilizing global financial systems by creating a standardized approach to capital adequacy. This standardization encouraged sound banking practices and facilitated more equitable competition among international banks. Furthermore, the framework provided a crucial foundation that influenced the development of national regulatory frameworks, ensuring a level of consistency and reliability that adhered to international standards.
 
-Basel I's impact was significant in that it not only provided a benchmark for evaluating banks' capital positions but also promoted confidence among stakeholders, including investors and regulators, by signaling a commitment to financial prudence and risk management. Overall, Basel I was a pivotal development in the realm of international banking regulation, paving the way for more comprehensive regulatory measures to address the complexities of modern financial landscapes.
+Basel I's impact was significant in that it not only provided a benchmark for evaluating banks' capital positions but also promoted confidence among stakeholders, including investors and regulators, by signaling a commitment to financial prudence and risk management. Overall, Basel I was a pivotal development in international banking regulation, paving the way for more comprehensive regulatory measures to address the complexities of modern financial landscapes.
 
 ## Algorithmic Trading: A Modern Approach in the Financial Markets
 

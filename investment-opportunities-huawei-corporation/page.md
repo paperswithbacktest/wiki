@@ -59,7 +59,7 @@ On a broader scale, algorithmic trading exerts substantial influence on global m
 
 ## Huawei's Investments in Algorithmic Trading
 
-Huawei, as a major player in the technology sector, has the potential to play a significant role in the world of algorithmic trading. The company's expertise in telecommunications and information technology could enable it to develop advanced trading solutions that leverage big data, machine learning, and artificial intelligence. These technologies are crucial for the execution of algorithmic trading strategies, which rely on speed, data analysis, and automation.
+Huawei, as a major player in the technology sector, has the potential to play a significant role in algorithmic trading. The company's expertise in telecommunications and information technology could enable it to develop advanced trading solutions that leverage big data, machine learning, and artificial intelligence. These technologies are crucial for the execution of algorithmic trading strategies, which rely on speed, data analysis, and automation.
 
 One potential strategy for Huawei could be to develop and provide cutting-edge trading platforms. These platforms may incorporate sophisticated algorithms capable of executing trades with high efficiency and minimal latency. Huawei's extensive experience with high-speed networks and data infrastructures would be a considerable advantage in this area, facilitating the necessary data transmission and processing speeds required by modern trading systems.
 

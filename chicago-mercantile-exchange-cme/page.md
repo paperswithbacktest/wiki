@@ -9,7 +9,7 @@ Algorithmic trading, or algo trading, utilizes sophisticated computer algorithms
 
 ![Image](images/1.jpeg)
 
-This article aims to navigate through the role of the CME in the world of algorithmic trading. It highlights the impact algorithmic trading has on market dynamics, such as liquidity and pricing. By examining the mechanisms behind algorithmic trading and its applicability on platforms like CME, the article seeks to provide insights into how trading operations have evolved. Moreover, understanding CME’s integration and support of algorithmic trading can offer foresight into the future trajectory of financial markets. Through this examination, readers can appreciate the advantages algorithmic trading presents to market participants and the challenges it raises, ultimately underscoring the CME's pivotal role in shaping modern trading landscapes.
+This article aims to navigate through the role of the CME in algorithmic trading. It highlights the impact algorithmic trading has on market dynamics, such as liquidity and pricing. By examining the mechanisms behind algorithmic trading and its applicability on platforms like CME, the article seeks to provide insights into how trading operations have evolved. Moreover, understanding CME’s integration and support of algorithmic trading can offer foresight into the future trajectory of financial markets. Through this examination, readers can appreciate the advantages algorithmic trading presents to market participants and the challenges it raises, ultimately underscoring the CME's pivotal role in shaping modern trading landscapes.
 
 ## Table of Contents
 

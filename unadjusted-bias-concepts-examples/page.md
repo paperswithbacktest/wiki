@@ -3,7 +3,7 @@ title: "Unadjusted Bias: Concepts and Examples (Algo Trading)"
 description: "Explore the impact of unadjusted biases in algorithmic trading and their potential to distort trading strategies. Learn how to identify and mitigate these biases."
 ---
 
-In the world of algorithmic trading, accuracy and reliability are paramount for effective decision-making. These decisions are grounded in robust statistical analyses, which are critical for interpreting market data and guiding trading strategies. However, biases, both unadjusted and statistical, can have significant impacts on these strategies and their outcomes.
+In algorithmic trading, accuracy and reliability are paramount for effective decision-making. These decisions are grounded in robust statistical analyses, which are critical for interpreting market data and guiding trading strategies. However, biases, both unadjusted and statistical, can have significant impacts on these strategies and their outcomes.
 
 Unadjusted biases are those that remain uncorrected throughout the data analysis process, leading to distorted interpretations and potentially flawed decisions. For instance, reliance on non-representative samples or limited datasets can predispose models to overfitting, where the trading strategy appears effective historically but performs poorly in real market environments. Such biases give traders false confidence in their strategy's robustness.
 

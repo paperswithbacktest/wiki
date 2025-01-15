@@ -76,7 +76,7 @@ The integration of advanced technologies such as [machine learning](/wiki/machin
 
 ## Interlinking Trilemma Economics and Algorithmic Trading
 
-Algorithmic trading operates within a framework that can be likened to a trilemma, where traders aim to balance speed, accuracy, and risk management. This is a dynamic challenge analogous to the economic trilemma faced by nations. In the realm of trading, high-frequency trades demand extraordinary speed and precision, necessitating algorithms capable of executing transactions in microseconds. However, this rapidity must be balanced with accuracy in market predictions and risk management to mitigate potential losses.
+Algorithmic trading operates within a framework that can be likened to a trilemma, where traders aim to balance speed, accuracy, and risk management. This is a dynamic challenge analogous to the economic trilemma faced by nations. In trading, high-frequency trades demand extraordinary speed and precision, necessitating algorithms capable of executing transactions in microseconds. However, this rapidity must be balanced with accuracy in market predictions and risk management to mitigate potential losses.
 
 With complex global markets, algorithmic strategies must adapt to economic policies shaped by the trilemma's influence on monetary policy, exchange rates, and capital flows. Central banks play a pivotal role, as their monetary policy decisions, such as [interest rate](/wiki/interest-rate-trading-strategies) adjustments, impact currency values and market [volatility](/wiki/volatility-trading-strategies). For example, an interest rate hike in one country might attract foreign capital, altering exchange rates and necessitating algorithmic recalibrations to maintain profitability.
 

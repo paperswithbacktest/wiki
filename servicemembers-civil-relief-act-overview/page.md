@@ -1,6 +1,6 @@
 ---
 title: "Servicemembers Civil Relief Act Overview (Algo Trading)"
-description: "Explore the benefits of the Servicemembers Civil Relief Act in the realm of algorithmic trading to help military personnel safeguard their financial interests."
+description: "Explore the benefits of the Servicemembers Civil Relief Act in algorithmic trading to help military personnel safeguard their financial interests."
 ---
 
 The Servicemembers Civil Relief Act (SCRA) is an essential piece of legislation designed to safeguard the legal and financial interests of military personnel. Given the often unpredictable and demanding nature of military deployments, it becomes crucial for servicemembers and their families to understand the financial protections that the SCRA offers. These protections are aimed at reducing the potential for financial distress that can result from periods of active duty, providing a safety net and ensuring that servicemembers can focus on their duties without undue financial worry.

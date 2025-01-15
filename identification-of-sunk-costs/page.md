@@ -78,7 +78,7 @@ Analyzing specific cases where sunk costs influenced algorithmic trading decisio
 
 ### Successful Cases
 
-One notable example in the realm of [forex](/wiki/forex-system) trading involves an algorithm that deliberately ignores sunk costs in its trading decisions. This system, programmed to follow a trend-based strategy, showcased an ability to adjust dynamically to market changes without being tied to prior unrecouped investments. By adhering strictly to future-oriented data and technical indicators, the algorithm could cut losses early and reallocate assets efficiently, exemplifying a clear understanding of sunk cost irrelevance. This strategy increased overall portfolio turnover but ultimately led to enhanced profitability due to disciplined adherence to objective data.
+One notable example in [forex](/wiki/forex-system) trading involves an algorithm that deliberately ignores sunk costs in its trading decisions. This system, programmed to follow a trend-based strategy, showcased an ability to adjust dynamically to market changes without being tied to prior unrecouped investments. By adhering strictly to future-oriented data and technical indicators, the algorithm could cut losses early and reallocate assets efficiently, exemplifying a clear understanding of sunk cost irrelevance. This strategy increased overall portfolio turnover but ultimately led to enhanced profitability due to disciplined adherence to objective data.
 
 ### Unsuccessful Instances
 

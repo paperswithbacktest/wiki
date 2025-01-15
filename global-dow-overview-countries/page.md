@@ -125,7 +125,7 @@ For investors and traders eager to explore international trading strategies, var
 
 For those new to algorithmic trading, starting with user-friendly platforms and tools can be beneficial. Platforms like MetaTrader 4, NinjaTrader, and QuantConnect offer robust environments for developing and testing algorithms. Additionally, Python libraries such as Pandas, NumPy, and TA-Lib are essential for data manipulation and technical analysis, while [backtrader](/wiki/backtrader) is excellent for strategy backtesting.
 
-Historical performance data of the Global Dow can be found on financial websites like Bloomberg and Reuters. These platforms provide comprehensive datasets and analytics tools that enable a detailed analysis of the index's performance over time. For case studies, academic journals and financial news outlets often publish insights and analyses of major trades involving the Global Dow, shedding light on strategies that have historically succeeded. These resources serve as a foundation for both novice and seasoned investors to make informed decisions in the realm of international markets and algorithmic trading.
+Historical performance data of the Global Dow can be found on financial websites like Bloomberg and Reuters. These platforms provide comprehensive datasets and analytics tools that enable a detailed analysis of the index's performance over time. For case studies, academic journals and financial news outlets often publish insights and analyses of major trades involving the Global Dow, shedding light on strategies that have historically succeeded. These resources serve as a foundation for both novice and seasoned investors to make informed decisions in international markets and algorithmic trading.
 
 ## References & Further Reading
 

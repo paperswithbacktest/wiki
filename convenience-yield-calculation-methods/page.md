@@ -15,7 +15,7 @@ This article explores the integration of these elements and provides insights va
 
 ## Understanding Convenience Yield
 
-Convenience yield is a critical concept in the realm of commodity markets, representing the implicit value derived from physically holding a commodity as opposed to holding a future contract on the commodity. This yield is especially critical during conditions where physical availability or immediate access offers strategic advantages, such as protection against supply disruptions or benefiting from immediate sale in high-demand circumstances.
+Convenience yield is a critical concept in commodity markets, representing the implicit value derived from physically holding a commodity as opposed to holding a future contract on the commodity. This yield is especially critical during conditions where physical availability or immediate access offers strategic advantages, such as protection against supply disruptions or benefiting from immediate sale in high-demand circumstances.
 
 The primary significance of convenience yield lies in its application to commodities where physical possession can exert a greater return due to uncertain market conditions. Commodities such as oil, gold, and agricultural products often exhibit scenarios where convenience yield becomes an influential factor. During periods of market stress or increased uncertainty, the advantages of having immediate access to the physical commodity may outweigh the costs of storing and maintaining the asset.
 
@@ -107,7 +107,7 @@ Overall, the role of algorithmic trading extends beyond mere automation; it invo
 
 ## Case Studies and Examples
 
-Case studies within the realm of commodities provide valuable context to understand the application of convenience yield in investment strategies. Consider a classic case involving the oil market, where convenience yield significantly impacts trading decisions. During periods of supply disruptions or heightened geopolitical tensions, the convenience yield of holding physical oil can rise dramatically. This scenario ensures that businesses facing immediate energy needs have access to physical inventories rather than relying solely on futures contracts, which may not meet urgent demand requirements due to delivery time lags.
+Case studies within commodities provide valuable context to understand the application of convenience yield in investment strategies. Consider a classic case involving the oil market, where convenience yield significantly impacts trading decisions. During periods of supply disruptions or heightened geopolitical tensions, the convenience yield of holding physical oil can rise dramatically. This scenario ensures that businesses facing immediate energy needs have access to physical inventories rather than relying solely on futures contracts, which may not meet urgent demand requirements due to delivery time lags.
 
 For instance, during the Gulf War in the early 1990s, there was a substantial spike in oil prices driven by fears of supply shortages. Traders holding physical inventory were at an advantage due to the increased convenience yield as prices surged beyond the costs of storing and insuring these assets. The convenience yield reflects the premium willingly paid by the market to access immediate supplies, hence becoming a critical consideration in volatile markets.
 

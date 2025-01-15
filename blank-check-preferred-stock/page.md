@@ -17,7 +17,7 @@ Understanding these components—blank check preferred stock, traditional prefer
 
 ## Understanding Blank Check Preferred Stock
 
-Blank check preferred stock is a unique financial instrument within the realm of corporate finance, offering distinct advantages for companies seeking to raise capital. This class of preferred shares grants a company’s board of directors the authority to issue stock without obtaining prior approval from shareholders. This flexibility allows corporations to react swiftly to capital needs, strategic opportunities, or changes in the market environment.
+Blank check preferred stock is a unique financial instrument within corporate finance, offering distinct advantages for companies seeking to raise capital. This class of preferred shares grants a company’s board of directors the authority to issue stock without obtaining prior approval from shareholders. This flexibility allows corporations to react swiftly to capital needs, strategic opportunities, or changes in the market environment.
 
 The ability to issue blank check preferred stock is typically embedded within a company's charter or articles of incorporation, where a certain number of shares can be earmarked as "blank check." This provision enables the board to adjust the voting rights, dividend rates, conversion terms, and other characteristics of these shares as needed, aligning them with corporate strategies or market demands.
 

@@ -5,7 +5,7 @@ description: "Explore the intersection of economics and technology through algor
 
 Economics, often dubbed the "dismal science," plays an essential role in shaping financial paradigms and trading systems worldwide. The term was coined by Thomas Carlyle in the 19th century, initially to describe the grim predictions associated with economic analysis, particularly those concerning population growth and resource scarcity posited by Thomas Malthus. Despite its bleak connotations, economics provides a comprehensive framework for understanding and addressing real-world challenges, influencing policy-making, business strategy, and personal financial decisions.
 
-In the modern era, the influence of economics extends into the realm of technology through algorithmic trading, an innovative frontier in financial markets. Algorithmic trading utilizes complex algorithms to execute trades at high speeds, capitalizing on the minute-by-minute fluctuations in various asset prices. This intersection of economics and technology highlights a dynamic evolution from theoretical models to practical application, enabling traders and investors to make informed decisions swiftly and accurately.
+In the modern era, the influence of economics extends into technology through algorithmic trading, an innovative frontier in financial markets. Algorithmic trading utilizes complex algorithms to execute trades at high speeds, capitalizing on the minute-by-minute fluctuations in various asset prices. This intersection of economics and technology highlights a dynamic evolution from theoretical models to practical application, enabling traders and investors to make informed decisions swiftly and accurately.
 
 ![Image](images/1.png)
 

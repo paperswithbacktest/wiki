@@ -31,7 +31,7 @@ The presence of these fees necessitates careful consideration in financial decis
 
 ## What are Guarantee Fees?
 
-Guarantee fees are payments made to a guarantor for providing assurance that they will cover any losses incurred by a lender if the borrower defaults on a financial obligation. These fees play a crucial role in financial transactions involving risk mitigation, particularly in the realm of securitization and structured finance.
+Guarantee fees are payments made to a guarantor for providing assurance that they will cover any losses incurred by a lender if the borrower defaults on a financial obligation. These fees play a crucial role in financial transactions involving risk mitigation, particularly in securitization and structured finance.
 
 In essence, a guarantee fee compensates the guarantor for the risk undertaken. This fee is often calculated as a percentage of the loan or mortgage value and paid either as a one-time upfront fee or periodically over the term of the loan. For instance, if a guarantor charges a guarantee fee of 1% on a $100,000 loan, the fee would amount to $1,000. 
 

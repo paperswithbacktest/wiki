@@ -35,7 +35,7 @@ $$
 
 This formula highlights the role MRP plays in inventory management—striking a balance between satisfying demand and minimizing carrying costs.
 
-By relying on timely and accurate data inputs, MRP systems effectively plan production activities, optimize inventory levels, and enhance manufacturing efficiency. In doing so, they not only support operational objectives but also contribute to broader strategic goals within the realm of supply chain management.
+By relying on timely and accurate data inputs, MRP systems effectively plan production activities, optimize inventory levels, and enhance manufacturing efficiency. In doing so, they not only support operational objectives but also contribute to broader strategic goals within supply chain management.
 
 ## MRP in Supply Chain Management
 

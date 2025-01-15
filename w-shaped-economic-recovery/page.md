@@ -64,7 +64,7 @@ forecast = model_fit.forecast(steps=10)
 print(forecast)
 ```
 
-In the realm of risk management, algorithms must be re-engineered to deal with the frequent market dips and surges indicative of a W-shaped recovery. Volatility forecasting, perhaps using models like GARCH (Generalized Autoregressive Conditional Heteroskedasticity), becomes crucial to dynamically adjust trading positions and safeguard against potential losses. Adjusted stop-loss thresholds and take-profit levels can be incorporated to limit exposure during rapid market changes, balancing between potential gains and the risk of drawdowns.
+In risk management, algorithms must be re-engineered to deal with the frequent market dips and surges indicative of a W-shaped recovery. Volatility forecasting, perhaps using models like GARCH (Generalized Autoregressive Conditional Heteroskedasticity), becomes crucial to dynamically adjust trading positions and safeguard against potential losses. Adjusted stop-loss thresholds and take-profit levels can be incorporated to limit exposure during rapid market changes, balancing between potential gains and the risk of drawdowns.
 
 Moreover, these algorithmic strategies require rigorous [backtesting](/wiki/backtesting) using historical data reflective of similar economic patterns, ensuring that algorithms can react adequately to changes or early signs of fluctuations. This approach not only optimizes performance but also minimizes the risk of algorithmic malfunctions during unpredictable recovery phases.
 

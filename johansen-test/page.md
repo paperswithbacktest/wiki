@@ -15,7 +15,7 @@ The Johansen test was developed by Søren Johansen, a prominent Danish economist
 
 ## Understanding the Johansen Test
 
-The Johansen test is a statistical approach used to determine the presence of cointegration among multiple I(1) time series. Recognized for its robustness in econometric analysis, the Johansen test is particularly valuable in the realm of financial markets, where understanding the long-term equilibrium relationships among assets is crucial.
+The Johansen test is a statistical approach used to determine the presence of cointegration among multiple I(1) time series. Recognized for its robustness in econometric analysis, the Johansen test is particularly valuable in financial markets, where understanding the long-term equilibrium relationships among assets is crucial.
 
 Unlike the Engle-Granger test, which is only applicable to two time series and relies on a single-equation approach, the Johansen test can handle multiple time series simultaneously within a multivariate framework. This ability to simultaneously test for multiple cointegrating relationships is one of the significant improvements over the Engle-Granger test. Moreover, while the Engle-Granger method follows a two-step process that first tests for unit roots and then tests for cointegration, the Johansen method tests these within the same framework, thus potentially offering more accurate results.
 

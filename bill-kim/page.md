@@ -41,7 +41,7 @@ Kim's technical expertise is augmented by his proficiency in Java, C, and System
 
 ## Conclusion
 
-Bill Kim continues to be an influential figure in the world of algorithmic trading. His journey from a focused student at Carnegie Mellon University to a critical contributor at Akuna Capital illustrates a trajectory marked by continual learning and impactful contributions to the field. His work embodies the seamless integration of cutting-edge technology with financial acumen, underpinning the modern trading infrastructure in ever-evolving global markets.
+Bill Kim continues to be an influential figure in algorithmic trading. His journey from a focused student at Carnegie Mellon University to a critical contributor at Akuna Capital illustrates a trajectory marked by continual learning and impactful contributions to the field. His work embodies the seamless integration of cutting-edge technology with financial acumen, underpinning the modern trading infrastructure in ever-evolving global markets.
 
 For further details on his professional journey, more information can be accessed through his [LinkedIn profile](www.linkedin.com/in/bill-kim).
 

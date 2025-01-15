@@ -47,7 +47,7 @@ Udaiy Ogirala is recognized for his proficiency in managing volatility, asset ma
 
 ### Contributions to Algorithmic Trading
 
-Throughout his career, Udaiy has contributed to numerous advancements in the realm of algorithmic trading. His involvement in developing sophisticated tools and strategies to minimize market impact and slippage reflects the latest trends and research in algorithmic trading, aligning with notable scientific literature, such as "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson.
+Throughout his career, Udaiy has contributed to numerous advancements in algorithmic trading. His involvement in developing sophisticated tools and strategies to minimize market impact and slippage reflects the latest trends and research in algorithmic trading, aligning with notable scientific literature, such as "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson.
 
 ### External Links
 

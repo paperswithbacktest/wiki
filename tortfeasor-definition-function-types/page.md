@@ -41,7 +41,7 @@ The adoption of algorithmic trading offers numerous benefits, such as increased 
 
 Just as individuals or corporations can be held liable for negligent or intentional acts, algorithms can inadvertently cause harm, raising unique liability issues. The key challenge lies in determining the extent of responsibility or blame when a trading algorithm behaves unexpectedly or causes financial damage. This is particularly complex given that algorithms can evolve and learn over time, potentially acting outside the scope of their original programming.
 
-To assess algorithmic actions, the 'reasonable algorithm' standard has emerged as a potential legal benchmark, echoing the 'reasonable person' standard used in negligence law. This approach evaluates whether an algorithm's actions, under particular circumstances, were within the realm of what can be expected from a similarly functioning algorithm. Factors considered in this assessment include the algorithm's design, its testing and simulation adequacy, and whether it follows industry standards.
+To assess algorithmic actions, the 'reasonable algorithm' standard has emerged as a potential legal benchmark, echoing the 'reasonable person' standard used in negligence law. This approach evaluates whether an algorithm's actions, under particular circumstances, were within what can be expected from a similarly functioning algorithm. Factors considered in this assessment include the algorithm's design, its testing and simulation adequacy, and whether it follows industry standards.
 
 **Legal Precedents**
 

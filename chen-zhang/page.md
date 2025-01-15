@@ -9,7 +9,7 @@ description: "Discover Chen Zhang's journey from math prodigy to machine learnin
 
 ## Early Life and Education
 
-Chen Zhang, a distinguished figure in the realm of algorithmic trading and machine learning, was born and raised in China. Prodigiously talented in mathematics from an early age, Zhang pursued his academic journey at Wuhan University, admiring the school's robust curriculum and rigorous emphasis on mathematical foundation. He graduated with honors in Mathematics in 2016, part of Wahun's Hongyi Honor program, which recognizes exceptional academic achievement and innovative research capabilities.
+Chen Zhang, a distinguished figure in algorithmic trading and machine learning, was born and raised in China. Prodigiously talented in mathematics from an early age, Zhang pursued his academic journey at Wuhan University, admiring the school's robust curriculum and rigorous emphasis on mathematical foundation. He graduated with honors in Mathematics in 2016, part of Wahun's Hongyi Honor program, which recognizes exceptional academic achievement and innovative research capabilities.
 
 Propelled by an insatiable curiosity and a desire to delve deeper into computational theories and applications, Zhang proceeded to pursue a Doctor of Philosophy (Ph.D.) in Computer Science at University College London (UCL). Spanning from 2016 to 2020, his doctoral research focused on the intersection of machine learning and trading strategies, contributing to significant advances in the field and setting the stage for his future endeavors.
 

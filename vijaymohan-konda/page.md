@@ -27,7 +27,7 @@ In 2003, Konda joined Goldman Sachs as an [FX](/wiki/fx-anomaly) Options Quant i
 
 From July 2007 to January 2014, Konda served as a Vice President in the Risk/Investment Management Fixed Income Quant department in New York. In this capacity, he specialized in the analytics of fixed income securities, designing models for pricing, risk management, and portfolio performance attribution. His leadership in quant development projects significantly contributed to Goldman Sachs’ capabilities in managing fixed income portfolios.
 
-In February 2014, Konda was promoted to Vice President, where he held a strategic role until March 2024. His extensive experience in modeling and analytics was instrumental in refining the bank’s investment strategies, particularly within the realm of fixed income and derivatives.
+In February 2014, Konda was promoted to Vice President, where he held a strategic role until March 2024. His extensive experience in modeling and analytics was instrumental in refining the bank’s investment strategies, particularly within fixed income and derivatives.
 
 ### Fortitude Re
 

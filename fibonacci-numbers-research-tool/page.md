@@ -31,7 +31,7 @@ $$
 
 The golden ratio and Fibonacci numbers are frequently observed in various areas, underscoring their importance beyond mathematics. In architecture, the Parthenon and other ancient structures exhibit proportions that approximate the golden ratio, creating an aesthetically pleasing balance. Artists have also employed the golden ratio to achieve harmony and balance in their compositions, as seen in works by Leonardo da Vinci and others.
 
-Nature showcases Fibonacci numbers through the arrangement of leaves, the branching of trees, and the spirals of shells and galaxies. For example, the arrangement of seeds in a sunflower often follows a Fibonacci pattern, maximizing packing efficiency. In the realm of finance, Fibonacci numbers are instrumental in technical analysis, aiding in predicting trends and price movements.
+Nature showcases Fibonacci numbers through the arrangement of leaves, the branching of trees, and the spirals of shells and galaxies. For example, the arrangement of seeds in a sunflower often follows a Fibonacci pattern, maximizing packing efficiency. In finance, Fibonacci numbers are instrumental in technical analysis, aiding in predicting trends and price movements.
 
 Therefore, Fibonacci numbers and the golden ratio are far more than mathematical curiosities—they serve as key elements in diverse fields, illustrating the inherent connection between mathematics and the world around us.
 

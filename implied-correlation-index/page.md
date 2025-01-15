@@ -9,7 +9,7 @@ Dispersion strategies, for instance, capitalize on the volatility differential b
 
 ![Image](images/1.jpeg)
 
-This article explores the significance of implied correlation indices and their applications within the realm of algorithmic trading. By leveraging these indices, traders are equipped with the tools to optimize their strategies, anticipate market moves, and enhance their decision-making processes in an increasingly complex financial environment. Understanding the nuances of implied correlation is indispensable for practitioners aiming to navigate the fast-evolving world of financial markets and harness the full potential of algorithmic trading strategies.
+This article explores the significance of implied correlation indices and their applications within algorithmic trading. By leveraging these indices, traders are equipped with the tools to optimize their strategies, anticipate market moves, and enhance their decision-making processes in an increasingly complex financial environment. Understanding the nuances of implied correlation is indispensable for practitioners aiming to navigate the fast-evolving world of financial markets and harness the full potential of algorithmic trading strategies.
 
 ## Table of Contents
 

@@ -33,7 +33,7 @@ Sayan Chakraborti joined Renaissance Technologies, one of the most successful qu
 
 ### Publications and Contributions
 
-Chakraborti has made substantial contributions to both astrophysics and finance through his publications. His seminal work, "A New Tolman Test of a Cosmic Distance Duality Relation at 21 cm," exemplifies his ability to address complex theoretical physics questions. In the realm of [algorithmic trading](/wiki/algorithmic-trading), although not explicitly published, his work at Renaissance Technologies contributes to the ongoing discourse and advancement of [quantitative trading](/wiki/quantitative-trading) strategies.
+Chakraborti has made substantial contributions to both astrophysics and finance through his publications. His seminal work, "A New Tolman Test of a Cosmic Distance Duality Relation at 21 cm," exemplifies his ability to address complex theoretical physics questions. In [algorithmic trading](/wiki/algorithmic-trading), although not explicitly published, his work at Renaissance Technologies contributes to the ongoing discourse and advancement of [quantitative trading](/wiki/quantitative-trading) strategies.
 
 ### Personal and Professional Skills
 

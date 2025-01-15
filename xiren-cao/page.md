@@ -25,7 +25,7 @@ Before this, Cao served as a partner at Beijing Anneng Greenhouse Co., Ltd., a r
 
 ## Contribution to Algorithmic Trading
 
-While Xiren Cao's academic and professional background is primarily rooted in environmental biology and agronomy, their analytical skills have prompted them to explore the realm of [algorithmic trading](/wiki/algorithmic-trading). As an interdisciplinary thinker, Cao applies principles of data analysis and systemic optimization learned in the sciences to the financial sector, drawing parallels between ecological systems and market dynamics.
+While Xiren Cao's academic and professional background is primarily rooted in environmental biology and agronomy, their analytical skills have prompted them to explore [algorithmic trading](/wiki/algorithmic-trading). As an interdisciplinary thinker, Cao applies principles of data analysis and systemic optimization learned in the sciences to the financial sector, drawing parallels between ecological systems and market dynamics.
 
 Algorithmic trading, a field where technology and finance converge, has gained popularity due to the ability it provides traders to make high-frequency decisions. Although Cao's direct publications on the topic are limited, their work in applying analytical models to both biological systems and market trends suggests an innovative approach to problem-solving in complex environments. This reflects the growing trend towards integrating scientific methodologies within financial technologies, as discussed in key publications such as "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson.
 

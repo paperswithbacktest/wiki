@@ -124,7 +124,7 @@ Consequently, the comprehensive understanding and application of CAGR are essent
 
 ## Advantages and Disadvantages of Using CAGR
 
-The primary advantage of the compound annual growth rate (CAGR) is its ability to provide a clear, comparative picture of growth over time. By representing growth as a smooth annual rate, it accounts for the compounding effect, which is a critical component in the realm of investment returns. The compounding effect refers to the reinvestment of earnings, leading to exponential growth over time. CAGR simplifies growth calculation by focusing on start and end values, compression of multiple years' performance into a single number, making it easier to compare different investment opportunities or strategies. 
+The primary advantage of the compound annual growth rate (CAGR) is its ability to provide a clear, comparative picture of growth over time. By representing growth as a smooth annual rate, it accounts for the compounding effect, which is a critical component in investment returns. The compounding effect refers to the reinvestment of earnings, leading to exponential growth over time. CAGR simplifies growth calculation by focusing on start and end values, compression of multiple years' performance into a single number, making it easier to compare different investment opportunities or strategies. 
 
 For instance, if an investment grows from a value of $10,000 to $15,000 over three years, the CAGR can be calculated as follows:
 

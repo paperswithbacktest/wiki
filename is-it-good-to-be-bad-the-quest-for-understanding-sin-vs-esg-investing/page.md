@@ -53,7 +53,7 @@ $$
 
 where $w$ is the vector of asset weights, $\Sigma$ represents the covariance matrix of asset returns, and $\mu$ is the expected return vector. This ensures that an investment portfolio maintains a balance between risk and return while incorporating ethical considerations by penalizing or rewarding ESG or sin factors.
 
-Artificial intelligence (AI) continues to evolve within the realm of [algorithmic trading](/wiki/algorithmic-trading). AI systems provide investors with advanced analytics and predictive modeling tools that facilitate balancing financial objectives with personal values. By learning from vast amounts of data, AI systems refine their methodologies over time, improving their ability to [factor](/wiki/factor-investing) in ethical considerations while making profitable investment choices.
+Artificial intelligence (AI) continues to evolve within [algorithmic trading](/wiki/algorithmic-trading). AI systems provide investors with advanced analytics and predictive modeling tools that facilitate balancing financial objectives with personal values. By learning from vast amounts of data, AI systems refine their methodologies over time, improving their ability to [factor](/wiki/factor-investing) in ethical considerations while making profitable investment choices.
 
 As AI integrates deeper into algorithmic trading, it constantly adapts to new ethical challenges and investment paradigms, offering a more nuanced understanding of how market sentiment and ethical cues influence stock performance. This ongoing evolution ensures that investment strategies remain both ethically and financially grounded, catering to the dual demands of modern investors looking to fulfill their moral and monetary aspirations.
 

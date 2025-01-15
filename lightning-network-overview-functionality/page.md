@@ -41,7 +41,7 @@ As the Lightning Network matures, its potential to transform Bitcoin transaction
 
 ## Impact on Cryptocurrency Algorithmic Trading
 
-Algorithmic trading is a cornerstone of modern finance, employing complex algorithms to facilitate swift and efficient decision-making in the financial markets. In the realm of cryptocurrencies, this approach is especially pertinent due to their inherent [volatility](/wiki/volatility-trading-strategies) and the continuous operation of crypto markets, which offer both advantages and hurdles.
+Algorithmic trading is a cornerstone of modern finance, employing complex algorithms to facilitate swift and efficient decision-making in the financial markets. In cryptocurrencies, this approach is especially pertinent due to their inherent [volatility](/wiki/volatility-trading-strategies) and the continuous operation of crypto markets, which offer both advantages and hurdles.
 
 The Lightning Network, a second-layer solution enhancing Bitcoin's scalability, can play a critical role in optimizing [algorithmic trading](/wiki/algorithmic-trading) in the cryptocurrency sector. By significantly reducing transaction costs and accelerating transaction speeds, the Lightning Network addresses two primary concerns faced by algorithmic traders: the cost-efficiency of transactions and the ability to execute trades quickly.
 

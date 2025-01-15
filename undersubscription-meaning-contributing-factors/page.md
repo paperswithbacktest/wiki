@@ -33,7 +33,7 @@ Undersubscription in financial markets occurs when the demand for a particular s
 
 One primary cause of undersubscription is incorrect pricing strategies. When securities are priced too high relative to their perceived value, investors may refrain from purchasing them, resulting in insufficient demand. This is particularly critical in new offerings like Initial Public Offerings (IPOs) where an overpriced security can significantly deter investors.
 
-In the realm of algorithmic trading, market sentiment is a powerful influencer of demand levels. Traders continuously analyze news and social media feeds to gauge public mood and expectations concerning specific securities. This analysis informs buying or selling decisions processed by trading algorithms. News events, whether economic updates or geopolitical developments, can cause rapid shifts in market interest and demand.
+In algorithmic trading, market sentiment is a powerful influencer of demand levels. Traders continuously analyze news and social media feeds to gauge public mood and expectations concerning specific securities. This analysis informs buying or selling decisions processed by trading algorithms. News events, whether economic updates or geopolitical developments, can cause rapid shifts in market interest and demand.
 
 Economic indicators further complicate the demand landscape. Metrics such as inflation rates, unemployment figures, and GDP growth provide context for traders to anticipate market trends. Shifts in these indicators can influence investor behavior, leading to dynamic changes in demand patterns. A volatile economy might reduce investor confidence, causing undersubscription as traders hold back from engaging in the market.
 

@@ -5,7 +5,7 @@ description: "Discover the profound impact of Olivier Guéant on algorithmic tra
 
 
 
-Olivier Guéant is a prominent figure in the realm of applied mathematics and its applications in finance, particularly in the domain of algorithmic trading. His extensive academic and professional career spans teaching, research, and the development of market-based financial strategies. Guéant has made significant contributions to understanding market liquidity, optimal execution, and market making, establishing himself as a thought leader in algorithmic trading.
+Olivier Guéant is a prominent figure in applied mathematics and its applications in finance, particularly in the domain of algorithmic trading. His extensive academic and professional career spans teaching, research, and the development of market-based financial strategies. Guéant has made significant contributions to understanding market liquidity, optimal execution, and market making, establishing himself as a thought leader in algorithmic trading.
 
 ## Table of Contents
 

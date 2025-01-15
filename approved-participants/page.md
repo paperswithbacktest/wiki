@@ -11,7 +11,7 @@ In such a fast-paced environment, participant criteria and eligibility are cruci
 
 This article explores the criteria for becoming an approved participant in algo trading, focusing on two prominent entities: the Montreal Exchange and Eligible Contract Participants (ECPs). The Montreal Exchange, a key player in the derivatives market, provides specific pathways and requirements for market participants to gain direct access to its trading facilities. Eligible Contract Participants, under the framework of the Commodity Exchange Act, are granted access to more sophisticated trading opportunities and strategies.
 
-We will examine the benefits, requirements, and implications of being an approved participant in the world of algorithmic trading. Understanding these aspects is essential for any institution or individual aspiring to engage in algo trading operations at a professional level.
+We will examine the benefits, requirements, and implications of being an approved participant in algorithmic trading. Understanding these aspects is essential for any institution or individual aspiring to engage in algo trading operations at a professional level.
 
 ## Table of Contents
 

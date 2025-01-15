@@ -3,7 +3,7 @@ title: "Junior Debt in Real Estate Investing (Algo Trading)"
 description: "Discover the pivotal role of junior debt in real estate investing and algorithmic trading Explore strategies that maximize returns while balancing risks"
 ---
 
-Junior debt plays a pivotal role in the realm of real estate investing, particularly within the financial hierarchy. It is a type of financing that is subordinate to senior debt, meaning it is ranked lower in priority than secured loans or bonds with respect to claims on assets or earnings. In instances of default or liquidation, junior debt holders are repaid after senior debt holders, which elevates the risk profile associated with this type of debt.
+Junior debt plays a pivotal role in real estate investing, particularly within the financial hierarchy. It is a type of financing that is subordinate to senior debt, meaning it is ranked lower in priority than secured loans or bonds with respect to claims on assets or earnings. In instances of default or liquidation, junior debt holders are repaid after senior debt holders, which elevates the risk profile associated with this type of debt.
 
 However, the increased risk is generally compensated with higher interest rates, offering potentially higher returns for investors willing to accept the elevated risk. Junior debt is usually deployed in scenarios where real estate developers seek financing options that require less aggressive collateral requirements compared to senior debt. This flexibility makes junior debt an attractive alternative for projects that have strong growth potential but lack significant immediate equity or asset backing.
 

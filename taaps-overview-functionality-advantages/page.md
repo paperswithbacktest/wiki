@@ -21,7 +21,7 @@ The introduction of TAAPS into the auction process significantly enhances both s
 
 Furthermore, TAAPS plays a key role in ensuring that the auction mechanism adheres to stringent regulatory standards set forth by financial authorities. By automating and documenting each step of the process, it facilitates thorough auditing and transparency, which are paramount in maintaining the integrity of financial markets. This compliance feature not only bolsters confidence among market participants but also aids in the prevention of fraudulent activities.
 
-In essence, TAAPS represents a pivotal advancement in the realm of Treasury securities auctions. Its electronic submission capabilities, coupled with a robust framework for compliance and efficiency, underscore its importance as a core technology within the financial market infrastructure. As such, TAAPS not only enhances the operational speed of Treasury auctions but also significantly contributes to the overarching goal of achieving a more secure and reliable financial trading environment.
+In essence, TAAPS represents a pivotal advancement in Treasury securities auctions. Its electronic submission capabilities, coupled with a robust framework for compliance and efficiency, underscore its importance as a core technology within the financial market infrastructure. As such, TAAPS not only enhances the operational speed of Treasury auctions but also significantly contributes to the overarching goal of achieving a more secure and reliable financial trading environment.
 
 ## The Intersection of TAAPS and Algorithmic Trading
 

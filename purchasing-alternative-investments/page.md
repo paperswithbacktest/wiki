@@ -9,7 +9,7 @@ The rise of technology has played a pivotal role in making these options more ac
 
 ![Image](images/1.jpeg)
 
-Alternative investments go beyond the realm of conventional stocks and bonds, encompassing assets such as real estate, commodities, hedge funds, and cryptocurrencies. These alternatives often offer diversification benefits due to their low correlation with traditional market indices, serving as a hedge during periods of market volatility. However, they also come with inherent challenges, such as liquidity constraints and complex fee structures, which must be navigated carefully.
+Alternative investments go beyond conventional stocks and bonds, encompassing assets such as real estate, commodities, hedge funds, and cryptocurrencies. These alternatives often offer diversification benefits due to their low correlation with traditional market indices, serving as a hedge during periods of market volatility. However, they also come with inherent challenges, such as liquidity constraints and complex fee structures, which must be navigated carefully.
 
 On the other hand, algorithmic trading utilizes computer algorithms to execute trades based on predefined criteria, often reducing the need for human intervention. This method allows investors to process vast amounts of data rapidly and capitalize on fleeting market opportunities. Despite its potential, algo trading requires a significant initial investment in technology and expertise to craft effective trading algorithms.
 

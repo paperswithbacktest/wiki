@@ -25,7 +25,7 @@ Risk management is another critical aspect where historical futures data proves 
 
 Access to comprehensive historical datasets is crucial for making informed trading decisions. The depth of historical information enhances the decision-making processes by providing context and a broader scope of market behaviors over time. Traders can thus formulate strategies that are not only responsive to recent trends but also resilient against historical precedents that may recur.
 
-To sum up, historical futures data is a cornerstone in the realm of [algorithmic trading](/wiki/algorithmic-trading), underpinning the development and success of trading strategies through [backtesting](/wiki/backtesting), trend analysis, and effective risk management. Such historical insights form the basis of strategic decision-making in the trading environment, enabling traders to optimize their approaches for better performance.
+To sum up, historical futures data is a cornerstone in [algorithmic trading](/wiki/algorithmic-trading), underpinning the development and success of trading strategies through [backtesting](/wiki/backtesting), trend analysis, and effective risk management. Such historical insights form the basis of strategic decision-making in the trading environment, enabling traders to optimize their approaches for better performance.
 
 ## Sources of Free Historical Futures Data
 

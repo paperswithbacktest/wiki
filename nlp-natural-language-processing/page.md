@@ -25,7 +25,7 @@ Enter NLP, which dramatically departs from this numerical paradigm. Instead of f
 
 The introduction of NLP into the trading realm has had a transformative effect. With it, [trading strategies can be more proactive rather than merely reactive](https://paperswithbacktest.com/). For example, an NLP model can alert traders about a negative sentiment surge on social media regarding a particular company, potentially indicating a looming stock price drop. This allows traders to make informed decisions ahead of the actual price movement, capitalizing on opportunities or mitigating risks in real-time.
 
-Another transformative impact of NLP is in the realm of [algorithmic trading](/wiki/algorithmic-trading), where high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) firms use it to get a split-second advantage. By processing [news articles](https://paperswithbacktest.com/datasets) or financial reports at lightning speeds, these algorithms can execute trades faster than human traders could ever manage, often resulting in significant profits.
+Another transformative impact of NLP is in [algorithmic trading](/wiki/algorithmic-trading), where high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) firms use it to get a split-second advantage. By processing [news articles](https://paperswithbacktest.com/datasets) or financial reports at lightning speeds, these algorithms can execute trades faster than human traders could ever manage, often resulting in significant profits.
 
 This combination of quantitative data and qualitative insights has redefined the contours of trading strategies, setting a new gold standard in the financial industry.
 
@@ -104,7 +104,7 @@ Presently, AGI is still largely theoretical but exploring its potential applicat
 
 Imagine a system that learns from every trade it makes, adjusting its strategy not just based on numerical market data, but also on information extracted through NLP from an ever-evolving influx of textual data. This information could range from geopolitical developments to changes in corporate leadership, and from financial policy alterations to fluctuations in economic indicators. With AGI’s wider understanding and learning capability, trading algorithms could understand context, discern between reliable and unreliable information sources, and maybe even predict outcomes based on historical data and pattern recognition across multiple domains.
 
-In the hypothetical scenario where AGI is realized, it’s conceivable that the financial landscape would be drastically reshaped. Automated systems could potentially manage macro-economic parameters, foreseeing and mitigating risks of financial crises with superhuman foresight and precision. While these concepts reside in the realm of speculative sci-fi at present, they offer a fascinating lens through which to view the future of trading and investment in a world where NLP and AGI converge[2].
+In the hypothetical scenario where AGI is realized, it’s conceivable that the financial landscape would be drastically reshaped. Automated systems could potentially manage macro-economic parameters, foreseeing and mitigating risks of financial crises with superhuman foresight and precision. While these concepts reside in speculative sci-fi at present, they offer a fascinating lens through which to view the future of trading and investment in a world where NLP and AGI converge[2].
 
 ## Conclusion
 

@@ -9,7 +9,7 @@ Algorithmic trading, often referred to as algo trading, is the process of utiliz
 
 ![Untitled](images/Untitled.png)
 
-While the realm of algo trading can appear intricate and elusive, especially to those unfamiliar with its nuances, it holds the promise of optimized trading strategies, reduced costs, and potentially increased profits. Whether you're an experienced trader seeking to refine your strategies or a novice curious about the possibilities this domain offers, this article endeavors to illuminate the various algorithmic trading strategies, their real-world applications, the advantages they confer, and the considerations crucial to their successful implementation.
+While algo trading can appear intricate and elusive, especially to those unfamiliar with its nuances, it holds the promise of optimized trading strategies, reduced costs, and potentially increased profits. Whether you're an experienced trader seeking to refine your strategies or a novice curious about the possibilities this domain offers, this article endeavors to illuminate the various algorithmic trading strategies, their real-world applications, the advantages they confer, and the considerations crucial to their successful implementation.
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ Understanding these components is pivotal. Before embarking on the journey of al
 
 ## Popular Algorithmic Trading Strategies
 
-In the realm of algorithmic trading, strategies are predominantly categorized based on their primary objectives: either optimizing trade executions or predicting market movements for profit. Let's deep dive deeper into these classifications:
+In algorithmic trading, strategies are predominantly categorized based on their primary objectives: either optimizing trade executions or predicting market movements for profit. Let's deep dive deeper into these classifications:
 
 **Execution Algorithms (Efficiency-driven)**:
 The main goal of execution algorithms is to ensure orders are optimally executed, given the prevailing market conditions. They don't necessarily predict market trends but focus on achieving the best possible price or minimizing market impact. Some prominent execution algorithms include:
@@ -66,7 +66,7 @@ Execution algorithms are particularly essential for traders who prioritize effic
 
 #### Volume-Weighted Average Price (VWAP)
 
-A cornerstone in the realm of execution strategies, VWAP focuses on achieving an execution price that's in line with the [volume](/wiki/volume-trading-strategy)-weighted average price for a specific time frame. Imagine a trader wants to purchase 1,000 shares of Company X. Instead of buying them all at once, which can drive the price up due to increased demand, the VWAP algorithm will split this order into smaller chunks. These chunks are then executed at various times throughout the day, aiming to match or beat the average volume-weighted price.
+A cornerstone in execution strategies, VWAP focuses on achieving an execution price that's in line with the [volume](/wiki/volume-trading-strategy)-weighted average price for a specific time frame. Imagine a trader wants to purchase 1,000 shares of Company X. Instead of buying them all at once, which can drive the price up due to increased demand, the VWAP algorithm will split this order into smaller chunks. These chunks are then executed at various times throughout the day, aiming to match or beat the average volume-weighted price.
 
 > *For instance, if Company X's stock traded 500 shares at $50 and another 500 shares at $55 during a specific period, the VWAP for that period would be $52.50 [(500*$50 + 500*$55) / 1000]. An algorithm aiming to achieve a VWAP execution would target this $52.50 price or better for its trades[6].*
 > 
@@ -198,7 +198,7 @@ In the world of electronic trading, information travels at lightning speed. Howe
 > *Here's a simplified example: Imagine two traders, Alice and Bob. Alice has invested in high-speed infrastructure that allows her to receive and act on price information from an exchange milliseconds before Bob. If a stock's price starts to move on the exchange Alice is monitoring, she can exploit that information to trade on another exchange before that price change is reflected there. By the time Bob sees the initial price move and reacts, Alice has already made her trade, capitalizing on the transient price discrepancy.*
 > 
 
-Such opportunities exist for only a fraction of a second, but in the realm of high-frequency trading, this is ample time to make profitable trades. The arms race in this area has led to traders seeking ever-faster connections, including the use of microwave towers, dedicated fiber-optic lines, and even satellites to shave microseconds off their transmission times.
+Such opportunities exist for only a fraction of a second, but in high-frequency trading, this is ample time to make profitable trades. The arms race in this area has led to traders seeking ever-faster connections, including the use of microwave towers, dedicated fiber-optic lines, and even satellites to shave microseconds off their transmission times.
 
 However, latency arbitrage is not without its critics. Many argue that it doesn't provide any meaningful liquidity or value to the market. Instead, it simply allows those with the most advanced technology to profit at the expense of other market participants. Some marketplaces have introduced measures like "speed bumps" to level the playing field, introducing tiny delays to order execution to neutralize the advantages of ultra-fast traders.
 
@@ -299,7 +299,7 @@ However, like all strategies, fundamental algorithmic trading is not without cha
 
 Incorporating a combination of qualitative insights and quantitative data can enhance these strategies. Integrating news feeds, management analysis, or industry reports can offer more holistic insights and fine-tune algorithmic decisions.
 
-In the realm of algorithmic trading, where many strategies are driven by rapid data processing and short-term market movements, fundamental algorithmic strategies stand out for their emphasis on depth over speed, and long-term value over fleeting opportunities.
+In algorithmic trading, where many strategies are driven by rapid data processing and short-term market movements, fundamental algorithmic strategies stand out for their emphasis on depth over speed, and long-term value over fleeting opportunities.
 
 👉 You'll see many examples of this strategy in our [trading strategies database](https://edarchimbaud.com/trading-strategies).
 
@@ -365,7 +365,7 @@ For those wanting to deep dive deeper into algorithmic options trading strategie
 
 #### Carry Trade Strategies
 
-In the vast landscape of financial trading, the [carry](/wiki/carry-trading) trade emerges as a prominent strategy in the realm of foreign exchange ([forex](/wiki/forex-system)) markets. This strategy revolves around the concept of capitalizing on the difference or "differential" in [interest rate](/wiki/interest-rate-trading-strategies)s between two currencies.
+In the vast landscape of financial trading, the [carry](/wiki/carry-trading) trade emerges as a prominent strategy in foreign exchange ([forex](/wiki/forex-system)) markets. This strategy revolves around the concept of capitalizing on the difference or "differential" in [interest rate](/wiki/interest-rate-trading-strategies)s between two currencies.
 
 When executed correctly, carry trades can yield substantial returns. Here's a closer look into how this strategy works:
 
@@ -437,7 +437,7 @@ With the explosion of user-generated content on platforms like Twitter, Reddit, 
 **Cyborg Finance and the Future of Trading:**
 Cyborg finance, or “cyborg trading”, is an approach that melds human intuition and machine precision. Rather than completely automating trading decisions, traders leverage algorithms to gather data, analyze trends, and even execute trades, but human judgment remains integral to the decision-making process. This symbiotic relationship capitalizes on the strengths of both man and machine, aiming to mitigate risks and optimize rewards[31].
 
-Navigating through these advancements requires a blend of technical expertise, adaptability, and strategic foresight. The exciting part is that we're merely at the brink of what's possible in the realm of algorithmic trading.
+Navigating through these advancements requires a blend of technical expertise, adaptability, and strategic foresight. The exciting part is that we're merely at the brink of what's possible in algorithmic trading.
 
 ## Building and Implementing Algorithmic Trading Strategies
 
@@ -586,7 +586,7 @@ Navigating the world of algorithmic trading can be daunting, especially when sta
 - **"The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It" by Scott Patterson** - Patterson chronicles the rise of mathematicians and computer scientists in the finance world and how their quantitative approaches shaped modern trading.
 - **"Inside the Black Box: A Simple Guide to Quantitative and High-frequency Trading" by Rishi K. Narang** - A must-read for anyone wanting to understand the intricacies of quantitative and high-frequency trading. Narang demystifies complex concepts with clear explanations.
 
-Tapping into these resources will undoubtedly help you advance in the realm of algorithmic trading. Whether you’re a beginner or seasoned professional, continuous learning remains the cornerstone of success in this ever-evolving field.
+Tapping into these resources will undoubtedly help you advance in algorithmic trading. Whether you’re a beginner or seasoned professional, continuous learning remains the cornerstone of success in this ever-evolving field.
 
 ## Real-world Successes and Failures
 

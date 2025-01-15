@@ -25,7 +25,7 @@ Moreover, understanding the implications of delivery months is critical, as diff
 
 ## Coding Systems for Futures Delivery Months
 
-Coding systems for futures delivery months are pivotal in the realm of futures trading. They utilize a standardized set of letters to succinctly represent various delivery months, streamlining the identification process for traders and brokers alike. This system begins with the letter 'F' for January, progressing sequentially through the alphabet to 'Z' for December. This arrangement allows for quick recognition and efficient communication of contract details.
+Coding systems for futures delivery months are pivotal in futures trading. They utilize a standardized set of letters to succinctly represent various delivery months, streamlining the identification process for traders and brokers alike. This system begins with the letter 'F' for January, progressing sequentially through the alphabet to 'Z' for December. This arrangement allows for quick recognition and efficient communication of contract details.
 
 Understanding these codes is essential for effective contract management. They provide an immediate reference to the contract's expiration month, enabling easy sorting and accessing of contract data. For example, a [crude oil](/wiki/crude-oil) futures contract expiring in March would be represented with the prefix 'CLH', where 'CL' denotes crude oil and 'H' identifies March.
 

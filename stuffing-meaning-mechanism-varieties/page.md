@@ -27,7 +27,7 @@ Key technologies involved in algorithmic trading include high-speed internet and
 
 The advantages of using algorithms for executing trades are manifold. Algorithms enable faster and more accurate trade execution, reduce transaction costs, and strip human emotion out of trading decisions. Additionally, they allow for [backtesting](/wiki/backtesting) of strategies on historical data, which helps refine approaches before their real-world application. This leads to increased market efficiency and [liquidity](/wiki/liquidity-risk-premium).
 
-Current trends in the world of algorithmic trading are shaped by advancements in [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and big data technologies. Machine learning models are increasingly being used to develop more predictive trading algorithms. The future outlook suggests a continual growth in the adoption of algorithmic trading, driven by the need for greater precision, speed, and efficiency. As markets evolve, the role of algorithms is expected to expand, incorporating more sophisticated techniques and broader asset classes.
+Current trends in algorithmic trading are shaped by advancements in [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and big data technologies. Machine learning models are increasingly being used to develop more predictive trading algorithms. The future outlook suggests a continual growth in the adoption of algorithmic trading, driven by the need for greater precision, speed, and efficiency. As markets evolve, the role of algorithms is expected to expand, incorporating more sophisticated techniques and broader asset classes.
 
 ## Understanding Stuffing Mechanisms
 
