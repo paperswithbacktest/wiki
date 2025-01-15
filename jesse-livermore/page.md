@@ -33,7 +33,7 @@ Livermore's methods laid foundational principles that resonate with contemporary
 
 ## Net Worth at His Peak
 
-At the height of his financial prowess in 1929, Jesse Livermore's net worth was estimated to be around $100 million. This staggering sum, during an era when the U.S. economy was far less inflated compared to today, is roughly equivalent to approximately $1.5 billion in contemporary terms when adjusted for inflation. This wealth was not accumulated through the management of external funds, which is typical for many [hedge fund](/wiki/hedge-fund-trading-strategies) managers today. Instead, Livermore's fortune was solely derived from his own capital and the trading system he meticulously developed.
+At the height of his financial prowess in 1929, Jesse Livermore's net worth was estimated to be around \$100 million. This staggering sum, during an era when the U.S. economy was far less inflated compared to today, is roughly equivalent to approximately \$1.5 billion in contemporary terms when adjusted for inflation. This wealth was not accumulated through the management of external funds, which is typical for many [hedge fund](/wiki/hedge-fund-trading-strategies) managers today. Instead, Livermore's fortune was solely derived from his own capital and the trading system he meticulously developed.
 
 Livermore's trading acumen during this period primarily stemmed from his adept handling of market trends and his anticipation of the stock market crash in 1929. His success was largely attributed to his unique trading strategies, which emphasized understanding price actions and volume patterns, akin to focusing on underlying market psychology rather than just [fundamental analysis](/wiki/fundamental-analysis).
 
