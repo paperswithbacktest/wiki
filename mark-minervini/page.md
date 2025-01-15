@@ -158,6 +158,7 @@ Furthermore, adopting a modular code design in Python can facilitate iterative i
 ```python
 import pandas as pd
 import numpy as np
+import pwb_toolbox.datasets as pwb_ds  # see https://paperswithbacktest.com/datasets
 
 # Sample backtesting function to evaluate SEPA strategy applied algorithmically
 def backtest(data, strategy):
@@ -165,21 +166,22 @@ def backtest(data, strategy):
     for i in range(1, len(data)):
         if strategy(data.iloc[i - 1:i + 1]):
             # Example trading logic: if the strategy conditions are met, buy
-            shares = cash // data['Close'].iloc[i]
-            cash -= shares * data['Close'].iloc[i]
+            shares = cash // data['close'].iloc[i]
+            cash -= shares * data['close'].iloc[i]
         else:
             # Sell logic: if conditions are not met, hold or sell
-            cash += shares * data['Close'].iloc[i]
+            cash += shares * data['close'].iloc[i]
             shares = 0
-    return cash + shares * data['Close'].iloc[-1]
+    return cash + shares * data['close'].iloc[-1]
 
 # Strategy function placeholder, to be filled with SEPA logic
 def mock_sepa_strategy(subset):
     return np.random.choice([True, False])
 
 # Example usage
-mock_data = pd.DataFrame({'Close': np.random.rand(100) * 100})
-result = backtest(mock_data, mock_sepa_strategy)
+df = pwb_ds.load_dataset("Stocks-Daily-Price", ["AAPL"])
+df.set_index("date", inplace=True)
+result = backtest(df, mock_sepa_strategy)
 print(f"Final portfolio value: ${result:.2f}")
 ```
 

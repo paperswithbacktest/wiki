@@ -83,10 +83,19 @@ For example, let's visualize using Python code to plot Apple's historical stock 
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
-import yfinance as yf
+import pwb_toolbox.datasets as pwb_ds  # see https://paperswithbacktest.com/datasets
 
 # Download historical stock data for Apple
-aapl = yf.download('AAPL', start='2021-01-01', end='2022-01-01')
+aapl = pwb_ds.load_dataset("Stocks-Daily-Price", ["AAPL"])
+aapl.rename(columns={
+    "date": "Date", 
+    "open": "Open", 
+    "high": "High", 
+    "low": "Low", 
+    "close": "Close", 
+    "volume": "Volume",
+    }, inplace=True)
+aapl.set_index("Date", inplace=True)
 
 # Calculate 50-day EMA
 aapl['50_EMA'] = aapl['Close'].ewm(span=50, adjust=False).mean()

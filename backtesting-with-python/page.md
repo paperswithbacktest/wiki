@@ -103,16 +103,17 @@ Embarking on your journey with Backtesting.py is simple and straightforward. Her
     
 3. **Fetching Historical Data**:
     
-    Backtesting.py operates on historical data, usually in the form of a pandas DataFrame. If you already have data in CSV or Excel formats, you can utilize the pandas library to read and structure this data appropriately. An example using Yahoo Finance data:
+    Backtesting.py operates on historical data, usually in the form of a pandas DataFrame. If you already have data in CSV or Excel formats, you can utilize the pandas library to read and structure this data appropriately. An example using [Papers With Backtest data](https://paperswithbacktest.com/datasets):
     
     ```python
-    import yfinance as yf
-    import pandas as pd
+    import pwb_toolbox.datasets as pwb_ds  # see https://paperswithbacktest.com/datasets
     
-    data = yf.download("AAPL", start="2010-01-01", end="2022-01-01")
+    data = pwb_ds.load_dataset("Stocks-Daily-Price", ["AAPL"])
+    data.rename(columns={"date": "Date", "open": "Open", "high": "High", "low": "Low", "close": "Close", "volume": "Volume"}, inplace=True)
+    data.set_index("Date", inplace=True)
     ```
     
-    Ensure your data columns are appropriately labeled as 'Open', 'High', 'Low', 'Close', and 'Volume'[5].
+    The above code ensures your data columns are appropriately labeled as 'Open', 'High', 'Low', 'Close', and 'Volume'[5].
     
 4. **Defining Your Strategy**:
     
@@ -171,12 +172,14 @@ For the efficacy of any backtest, accurate and comprehensive historical data ser
     
 2. **Fetching Data from Online Sources**:
     
-    Various Python libraries enable real-time fetching of historical market data. For instance, using `yfinance` facilitates access to Yahoo Finance's data troves:
+    Various Python libraries enable real-time fetching of historical market data. For instance, using `pwb_toolbox` facilitates access to [Papers With Backtest's data](https://paperswithbacktest.com/datasets) troves:
     
     ```python
-    import yfinance as yf
+    import pwb_toolbox.datasets as pwb_ds  # see https://paperswithbacktest.com/datasets
     
-    data = yf.download("AAPL", start="2010-01-01", end="2022-01-01")
+    data = pwb_ds.load_dataset("Stocks-Daily-Price", ["AAPL"])
+    data.rename(columns={"date": "Date", "open": "Open", "high": "High", "low": "Low", "close": "Close", "volume": "Volume"}, inplace=True)
+    data.set_index("Date", inplace=True)
     ```
     
 3. **Data Cleaning**:

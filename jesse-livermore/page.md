@@ -53,13 +53,15 @@ In Python, a basic implementation of a trend-following strategy might include us
 
 ```python
 import pandas as pd
+import pwb_toolbox.datasets as pwb_ds  # see https://paperswithbacktest.com/datasets
 
 def calculate_moving_average(prices, window):
     return prices.rolling(window=window).mean()
 
-data = pd.Series([your_price_data_here])
-short_term = calculate_moving_average(data, window=50)
-long_term = calculate_moving_average(data, window=200)
+df = pwb_ds.load_dataset("Stocks-Daily-Price", ["AAPL"])
+df.set_index("date", inplace=True)
+short_term = calculate_moving_average(df.close, window=50)
+long_term = calculate_moving_average(df.close, window=200)
 
 signal = []
 for short, long in zip(short_term, long_term):
@@ -98,6 +100,7 @@ Python code can assist in implementing these lessons. For instance, a simple alg
 ```python
 import numpy as np
 import pandas as pd
+import pwb_toolbox.datasets as pwb_ds  # see https://paperswithbacktest.com/datasets
 
 def backtest_strategy(prices, stop_loss, take_profit):
     initial_balance = 1000
@@ -119,7 +122,9 @@ def backtest_strategy(prices, stop_loss, take_profit):
     return roi
 
 # Example usage:
-prices = np.random.normal(loc=100, scale=10, size=1000)  # random price data
+df = pwb_ds.load_dataset("Stocks-Daily-Price", ["AAPL"])
+df.set_index("date", inplace=True)
+prices = df.close.values
 roi = backtest_strategy(prices, stop_loss=0.05, take_profit=0.1)
 print(f"Return on Investment: {roi:.2f}%")
 ```

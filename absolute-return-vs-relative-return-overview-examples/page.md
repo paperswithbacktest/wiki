@@ -116,20 +116,22 @@ Python is frequently used in algorithmic trading due to its robust libraries and
 Here is a basic Python code snippet illustrating how one might start implementing a simple algorithm focusing on relative returns by comparing asset performances against a benchmark:
 
 ```python
-import yfinance as yf
+import pwb_toolbox.datasets as pwb_ds  # see https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Define a benchmark and a list of assets
-benchmark = yf.Ticker('^GSPC')  # S&P 500 Index
+benchmark = "SPY"
 assets = ['AAPL', 'MSFT', 'GOOGL']
 
 # Download historical data
-benchmark_data = benchmark.history(period='1y')
-asset_data = {asset: yf.Ticker(asset).history(period='1y') for asset in assets}
+benchmark_data = pwb_ds.load_dataset("ETFs-Daily-Price", [benchmark]).set_index("date")
+benchmark_data = benchmark_data[benchmark_data.index >= "2021-01-01"]
+asset_data = {asset: pwb_ds.load_dataset("ETFs-Daily-Price", [asset]).set_index("date") for asset in assets}
+asset_data = {asset: data[data.index >= "2021-01-01"] for asset, data in asset_data.items()}
 
 # Calculate daily returns
-benchmark_returns = benchmark_data['Close'].pct_change().dropna()
-asset_returns = {asset: data['Close'].pct_change().dropna() for asset, data in asset_data.items()}
+benchmark_returns = benchmark_data['close'].pct_change().dropna()
+asset_returns = {asset: data['close'].pct_change().dropna() for asset, data in asset_data.items()}
 
 # Calculate relative returns
 relative_returns = {asset: (asset_returns[asset] - benchmark_returns).cumsum() for asset in assets}
