@@ -3,7 +3,7 @@ title: "Fool in the Shower Effect in Monetary Policy (Algo Trading)"
 description: "Explore the interplay of 'fool in the shower,' monetary policy, and algorithmic trading, highlighting economic theories' role in modern trading and policy-making."
 ---
 
-In the dynamic world of economics and financial markets, a rich tapestry of knowledge is woven from intersecting terms and theories. Among these are the concepts of 'fool in the shower,' monetary policy, economic theory, and algorithmic trading. This article explores the interplay between these concepts, emphasizing how traditional economic theories inform both modern monetary policy and advanced trading technologies.
+In economics and financial markets, a rich tapestry of knowledge is woven from intersecting terms and theories. Among these are the concepts of 'fool in the shower,' monetary policy, economic theory, and algorithmic trading. This article explores the interplay between these concepts, emphasizing how traditional economic theories inform both modern monetary policy and advanced trading technologies.
 
 The metaphor of 'fool in the shower,' introduced by Nobel laureate Milton Friedman, serves as a pivotal point of exploration. It sheds light on potential pitfalls in economic policymaking, a topic still pertinent in today's economic landscape. The metaphor provides a lens through which we can understand the importance of measured reactions to economic indicators, warning against the risks of overcompensation.
 

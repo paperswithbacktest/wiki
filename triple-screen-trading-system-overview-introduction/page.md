@@ -3,7 +3,7 @@ title: "Triple Screen Trading System: Overview and Introduction (Algo Trading)"
 description: "Discover the Triple Screen Trading System by Dr. Alexander Elder, a 3-step strategy that integrates trend, oscillators, and timing for enhanced trading."
 ---
 
-In the dynamic world of financial markets, trading strategies play a crucial role in navigating complex market conditions. Among the numerous strategies available, the Triple Screen Trading Strategy, developed by Dr. Alexander Elder, distinguishes itself as a robust method. Established in 1985, this strategy offers a systematic approach by combining trend-following indicators with oscillators to effectively filter out contradictory signals and provide clearer trading opportunities.
+In financial markets, trading strategies play a crucial role in navigating complex market conditions. Among the numerous strategies available, the Triple Screen Trading Strategy, developed by Dr. Alexander Elder, distinguishes itself as a robust method. Established in 1985, this strategy offers a systematic approach by combining trend-following indicators with oscillators to effectively filter out contradictory signals and provide clearer trading opportunities.
 
 The Triple Screen Trading Strategy's primary objective is to provide a multi-dimensional view of market behavior. It leverages the strengths of different technical indicators through a series of three "screens" or tests, thereby offering a comprehensive framework for making informed trading decisions. This systematic methodology addresses the inherent limitations of relying on a single indicator, allowing traders to assess market trends, identify potential reversals, and determine optimal entry and exit points.
 

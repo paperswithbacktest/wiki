@@ -3,7 +3,7 @@ title: "Comparison of Quote-Driven and Order-Driven Markets (Algo Trading)"
 description: "Explore the differences and benefits of quote-driven and order-driven markets in algo trading and how they influence trading strategies and liquidity."
 ---
 
-In the dynamic world of financial markets, understanding the complexities of different market structures is crucial for traders and investors. Financial markets can be broadly categorized into two main types based on their operational mechanisms: order-driven and quote-driven markets. Each market structure exhibits unique characteristics that affect how trades are executed, priced, and fulfilled. 
+In financial markets, understanding the complexities of different market structures is crucial for traders and investors. Financial markets can be broadly categorized into two main types based on their operational mechanisms: order-driven and quote-driven markets. Each market structure exhibits unique characteristics that affect how trades are executed, priced, and fulfilled. 
 
 Order-driven markets rely on a centralized order book where buy and sell orders are matched based on a price-time priority system. This transparency allows market participants to view existing buy and sell orders, providing a clear picture of market supply and demand. Prominent examples include major stock exchanges such as the New York Stock Exchange (NYSE) and Nasdaq. In contrast, quote-driven markets, often referred to as dealer markets, depend on market makers who provide constant buy and sell quotes. Market makers offer liquidity by ensuring the presence of both buy and sell prices, thus stabilizing the market and aiding in price discovery. Forex markets and various commodity exchanges are typical of quote-driven markets.
 

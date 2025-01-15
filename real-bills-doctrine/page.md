@@ -3,7 +3,7 @@ title: "Real Bills Doctrine (Algo Trading)"
 description: "Explore the intersection of the Real Bills Doctrine and algorithmic trading in modern finance Discover historical insights on monetary policy and economic stability"
 ---
 
-In the dynamic world of economics and finance, understanding core theories is crucial for navigating the complexities of modern marketplaces. Economists and financial strategists have long focused on various theoretical frameworks to grasp how market forces interact and influence economic phenomena. Among the essential theories in this domain are Monetary Theory, the Real Bills Doctrine, and Algorithmic Trading.
+In economics and finance, understanding core theories is crucial for navigating the complexities of modern marketplaces. Economists and financial strategists have long focused on various theoretical frameworks to grasp how market forces interact and influence economic phenomena. Among the essential theories in this domain are Monetary Theory, the Real Bills Doctrine, and Algorithmic Trading.
 
 Monetary Theory is foundational in analyzing how money supply affects inflation, employment, and economic growth. It provides insights into the mechanisms that central banks and governmental bodies utilize to manage economic cycles. Within this theory lies a significant discourse, including approaches like the Real Bills Doctrine, which historically contended that money should be issued in exchange for short-term commercial credit, thereby linking money supply to productive economic activity. This doctrine contrasts with more modern, abstract monetary policies that often separate money creation from direct economic assets.
 

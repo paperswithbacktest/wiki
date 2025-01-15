@@ -214,7 +214,7 @@ Though this exercise provides a glimpse into algorithmic trading, real-world app
 
 Machine learning is now central to modern trading, enhancing strategies and decision-making with its data-driven tools. We've explored how ML impacts trading, studied its algorithms, and discussed its future and ethical considerations. The stock market can benefit from ML, but it requires careful application.
 
-The financial world keeps changing, with new trends like cryptocurrencies emerging. Using machine learning effectively in trading means understanding its potential and limits. In the dynamic world of finance, let data guide you. Embrace machine learning, adapt quickly, and always seek the advantages it offers. Happy trading.
+The financial world keeps changing, with new trends like cryptocurrencies emerging. Using machine learning effectively in trading means understanding its potential and limits. In finance, let data guide you. Embrace machine learning, adapt quickly, and always seek the advantages it offers. Happy trading.
 
 ## References & Further Reading
 

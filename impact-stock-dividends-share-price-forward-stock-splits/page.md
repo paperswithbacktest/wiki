@@ -3,7 +3,7 @@ title: "Impact of Stock Dividends on Share Price Compared to Forward Stock Split
 description: "Discover how stock dividends and forward stock splits impact share prices and investor strategies in the context of algorithmic trading. Learn key insights."
 ---
 
-In the dynamic world of stock markets, understanding the impact of corporate actions such as stock dividends and stock splits on share prices is essential for investors aiming to maximize their returns. Stock dividends and forward stock splits, while both resulting in an increased number of shares outstanding, affect the market and individual portfolios differently, requiring strategic navigation.
+In stock markets, understanding the impact of corporate actions such as stock dividends and stock splits on share prices is essential for investors aiming to maximize their returns. Stock dividends and forward stock splits, while both resulting in an increased number of shares outstanding, affect the market and individual portfolios differently, requiring strategic navigation.
 
 Stock dividends involve the distribution of additional shares to existing shareholders, proportional to their holdings, without a change in the total value of their investment. This action increases the number of shares, leading to a corresponding drop in the share price. The overall equity value for investors remains unchanged, preserving the market capitalization. For example, if a company declares a 10% stock dividend, an investor holding 100 shares would receive 10 additional shares, but the value of each share would decrease, reflecting the increased share count.
 

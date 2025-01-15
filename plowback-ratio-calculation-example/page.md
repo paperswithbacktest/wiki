@@ -9,7 +9,7 @@ The retention ratio and plowback ratio play a vital role for investors and analy
 
 ![Image](images/1.jpeg)
 
-Furthermore, these metrics are not just limited to traditional financial analysis. They are increasingly being integrated into algorithmic trading strategies. In the dynamic world of algorithmic trading, where data-driven decisions are paramount, understanding a company's retention and plowback ratios can help create more sophisticated trading strategies. These ratios are utilized to gauge a company's future performance, enhancing the decision-making process and enabling real-time investment actions.
+Furthermore, these metrics are not just limited to traditional financial analysis. They are increasingly being integrated into algorithmic trading strategies. In algorithmic trading, where data-driven decisions are paramount, understanding a company's retention and plowback ratios can help create more sophisticated trading strategies. These ratios are utilized to gauge a company's future performance, enhancing the decision-making process and enabling real-time investment actions.
 
 As we explore these concepts further, the application of retention and plowback ratios in both classical financial analysis and modern algorithmic trading will be highlighted, showcasing their importance as tools for informed investment decisions.
 

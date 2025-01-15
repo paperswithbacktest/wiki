@@ -3,7 +3,7 @@ title: "Ornstein-Uhlenbeck formula (Algo Trading)"
 description: Explore the Ornstein-Uhlenbeck process and its role in algorithmic trading. Discover how its mean-reverting properties provide traders with a framework for predicting and leveraging market deviations to identify profitable opportunities. Learn about the stochastic calculus origins, practical applications, and Python implementation, enhancing trading strategies in financial markets.
 ---
 
-In the dynamic world of algorithmic trading, the emergence of sophisticated mathematical models has transformed the landscape of financial markets. Among these models, the Ornstein-Uhlenbeck (OU) process is distinguished by its inherent mean-reverting properties. As traders and financial analysts seek to harness these patterns, the OU process provides a mathematical framework for predicting and capitalizing on market behaviors that deviate from their equilibrium points.
+In algorithmic trading, the emergence of sophisticated mathematical models has transformed the landscape of financial markets. Among these models, the Ornstein-Uhlenbeck (OU) process is distinguished by its inherent mean-reverting properties. As traders and financial analysts seek to harness these patterns, the OU process provides a mathematical framework for predicting and capitalizing on market behaviors that deviate from their equilibrium points.
 
 Originating from the field of stochastic calculus, the OU process is a continuous-time stochastic process often described by the stochastic differential equation:
 

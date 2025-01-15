@@ -1,6 +1,6 @@
 ---
 title: "Mindset: the Algo Trader's Psychology"
-description: "Discover the power of trading psychology and behavioral finance in your journey towards successful trading. In the dynamic world of financial markets, understanding how emotions and biases influence decisions is crucial for navigating the complex labyrinth of trading. This comprehensive guide investigates into mastering a trader's mindset, drawing on research, expert insights, and practical experience. Explore key characteristics like flexibility, adaptability, and patience that distinguish winning traders, as well as how behavioral finance concepts such as loss aversion and confirmation bias impact trading decisions."
+description: "Discover the power of trading psychology and behavioral finance in your journey towards successful trading. In financial markets, understanding how emotions and biases influence decisions is crucial for navigating the complex labyrinth of trading. This comprehensive guide investigates into mastering a trader's mindset, drawing on research, expert insights, and practical experience. Explore key characteristics like flexibility, adaptability, and patience that distinguish winning traders, as well as how behavioral finance concepts such as loss aversion and confirmation bias impact trading decisions."
 ---
 
 

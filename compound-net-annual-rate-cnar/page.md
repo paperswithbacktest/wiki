@@ -3,7 +3,7 @@ title: "Compound Net Annual Rate (CNAR) (Algo Trading)"
 description: "Explore the Compound Net Annual Rate (CNAR) as a crucial metric in algorithmic trading that evaluates post-tax investment returns providing investors a realistic profitability view."
 ---
 
-In the dynamic world of finance, investors are constantly seeking methodologies to enhance their returns while managing risk effectively. One such methodology that has gained traction is the Compound Net Annual Rate (CNAR), a financial metric that evaluates investment returns after taxes. Unlike the Compound Annual Growth Rate (CAGR), which provides a gross measure of growth, CNAR offers a more realistic perspective by accounting for tax obligations, thus offering a net view of investment profitability.
+In finance, investors are constantly seeking methodologies to enhance their returns while managing risk effectively. One such methodology that has gained traction is the Compound Net Annual Rate (CNAR), a financial metric that evaluates investment returns after taxes. Unlike the Compound Annual Growth Rate (CAGR), which provides a gross measure of growth, CNAR offers a more realistic perspective by accounting for tax obligations, thus offering a net view of investment profitability.
 
 With the rise of algorithmic trading, understanding and utilizing financial measures like CNAR has become crucial for investors. Algorithmic trading relies heavily on data and quantitative metrics to develop and optimize trading strategies, making financial performance metrics indispensable in fine-tuning these strategies to account for the actual returns an investor can expect post-taxation.
 

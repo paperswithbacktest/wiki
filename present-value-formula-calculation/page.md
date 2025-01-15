@@ -166,7 +166,7 @@ Where $PV$ is the present value, $FV$ is the future value, $r$ is the discount r
 
 ## Conclusion
 
-In the dynamic world of investment and trading, understanding financial formulas like present value is crucial for successful decision-making. The present value concept is essential in evaluating investment opportunities by allowing investors to determine the current worth of future cash flows. This evaluation enables the selection of projects that align with desired risk-return profiles, facilitating informed strategic planning.
+In investment and trading, understanding financial formulas like present value is crucial for successful decision-making. The present value concept is essential in evaluating investment opportunities by allowing investors to determine the current worth of future cash flows. This evaluation enables the selection of projects that align with desired risk-return profiles, facilitating informed strategic planning.
 
 Present value applications extend into algorithmic trading, where mathematical models utilize these calculations to automate trading decisions. Utilizing present value within algorithmic strategies enhances trading efficiency by providing a framework to assess the future value of financial instruments. This process involves calculating present value to identify profitable opportunities, fostering more effective capital allocation and maximizing returns.
 

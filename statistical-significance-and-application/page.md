@@ -3,7 +3,7 @@ title: "Statistical Significance and Its Application (Algo Trading)"
 description: "Explore the role of statistical significance in algorithmic trading and how hypothesis testing is used to validate strategies optimizing trading performance."
 ---
 
-In the dynamic world of algorithmic trading, statistical methods, such as hypothesis testing, are crucial for validating trading strategies and making data-driven decisions. Hypothesis testing helps traders determine whether their strategies are likely to be effective, or if observed patterns in historical data arose by chance. Understanding these statistical tools enables traders to evaluate their strategies rigorously and make informed adjustments to optimize performance.
+In algorithmic trading, statistical methods, such as hypothesis testing, are crucial for validating trading strategies and making data-driven decisions. Hypothesis testing helps traders determine whether their strategies are likely to be effective, or if observed patterns in historical data arose by chance. Understanding these statistical tools enables traders to evaluate their strategies rigorously and make informed adjustments to optimize performance.
 
 Hypothesis testing is a cornerstone of data analysis within trading. It involves formulating a null hypothesis, typically suggesting no effect or no relationship, and an alternative hypothesis, which represents a significant effect or relationship. By testing these hypotheses against historical market data, traders can assert the validity of their strategies and measure their probability of success.
 

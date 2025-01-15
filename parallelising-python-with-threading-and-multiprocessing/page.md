@@ -148,7 +148,7 @@ Implementing multithreading enables better resource utilization by overlapping I
 
 ## Case Study: Multithreading in a Real-world Trading Strategy
 
-In the dynamic world of algorithmic trading, the need for simultaneous handling of multiple tasks can pose a significant challenge, particularly when considering the real-time processing requirements. Multithreading emerges as a solution, facilitating enhanced efficiency and performance. This case study elucidates the practical application of multithreading in a real-world trading strategy, emphasizing the benefits of this approach over a single-threaded execution.
+In algorithmic trading, the need for simultaneous handling of multiple tasks can pose a significant challenge, particularly when considering the real-time processing requirements. Multithreading emerges as a solution, facilitating enhanced efficiency and performance. This case study elucidates the practical application of multithreading in a real-world trading strategy, emphasizing the benefits of this approach over a single-threaded execution.
 
 ### Trading Strategy Setup
 

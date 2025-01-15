@@ -3,7 +3,7 @@ title: "Derived Demand: Calculation and Applications (Algo Trading)"
 description: "Explore how derived demand influences market strategies in algo trading Learn key concepts in demand calculation and its effects on investment decisions"
 ---
 
-In the dynamic world of economics and trading, understanding demand is crucial. Demand refers to the quantity of a good or service that consumers are willing and able to purchase at various price levels over a given period. It is a fundamental concept that influences market dynamics, pricing, and the allocation of resources. The ability to accurately assess and predict demand is vital for developing effective market strategies and optimizing investment decisions.
+In economics and trading, understanding demand is crucial. Demand refers to the quantity of a good or service that consumers are willing and able to purchase at various price levels over a given period. It is a fundamental concept that influences market dynamics, pricing, and the allocation of resources. The ability to accurately assess and predict demand is vital for developing effective market strategies and optimizing investment decisions.
 
 This article explores the intricacies of demand calculation, derived demand, demand applications in business, and how these concepts relate to algorithmic trading. Demand calculation involves evaluating how various factors, such as price levels, consumer income, and the prices of related goods, influence consumer purchasing decisions. Understanding these dynamics helps businesses and traders anticipate changes in demand and adjust their strategies accordingly.
 

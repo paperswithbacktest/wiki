@@ -3,7 +3,7 @@ title: "Defunct: Meaning, Function, and Examples (Algo Trading)"
 description: "Explore the meaning and implications of 'defunct' in business and algo trading. Learn how technological advances render strategies obsolete with real examples."
 ---
 
-In the dynamic world of finance, emerging terminologies and concepts can often lead to confusion, especially for newcomers. One such term that often requires clarification is 'defunct.' The business landscape is rife with instances where companies, once thriving, cease to exist due to various factors like bankruptcies, mergers, or changes in market demands. Understanding this term, therefore, becomes essential for those involved in financial activities.
+In finance, emerging terminologies and concepts can often lead to confusion, especially for newcomers. One such term that often requires clarification is 'defunct.' The business landscape is rife with instances where companies, once thriving, cease to exist due to various factors like bankruptcies, mergers, or changes in market demands. Understanding this term, therefore, becomes essential for those involved in financial activities.
 
 The advent of technology has been a game-changer in numerous sectors, and finance is no exception. One of the most transformative shifts in recent decades has been the rise of algorithmic trading, or 'algo trading.' This method of trading employs computer algorithms to automatically execute trades, based on pre-established criteria such as price, timing, or volume. Its appeal lies in its ability to process vast amounts of market data at speeds unattainable through manual trading, thus enhancing decision-making and execution efficiency.
 

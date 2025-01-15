@@ -3,7 +3,7 @@ title: "Calculating P/E and PEG Ratios (Algo Trading)"
 description: "Learn how to calculate and use P/E and PEG ratios to evaluate stock value and enhance algorithmic trading strategies in dynamic financial markets."
 ---
 
-In the dynamic world of financial markets, understanding stock valuation is crucial for investors looking to make informed decisions. Investors employ various metrics to assess stock value, with the Price-to-Earnings (P/E) ratio and the Price/Earnings-to-Growth (PEG) ratio being particularly significant. The P/E ratio is calculated by dividing the market value per share by the earnings per share (EPS):
+In financial markets, understanding stock valuation is crucial for investors looking to make informed decisions. Investors employ various metrics to assess stock value, with the Price-to-Earnings (P/E) ratio and the Price/Earnings-to-Growth (PEG) ratio being particularly significant. The P/E ratio is calculated by dividing the market value per share by the earnings per share (EPS):
 
 $$
 \text{P/E Ratio} = \frac{\text{Market Value per Share}}{\text{Earnings per Share}}
