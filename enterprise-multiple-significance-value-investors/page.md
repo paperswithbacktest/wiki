@@ -15,7 +15,7 @@ Enterprise Value represents a company's total value, accounting for market capit
 
 This metric is particularly significant in the context of algorithmic trading. As algorithmic trading involves the automated execution of trading decisions based on pre-defined criteria, the integration of the Enterprise Multiple allows algorithms to more accurately identify and act upon market opportunities. Consequently, this integration enhances an investor's ability to analyze market trends swiftly and systematically, offering the potential for a competitive advantage in modern trading arenas.
 
-This article delves further into how Enterprise Multiple integrates with value investing and financial analysis, elucidating its relevance and utility in today's dynamic trading landscape.
+This article investigates further into how Enterprise Multiple integrates with value investing and financial analysis, elucidating its relevance and utility in today's dynamic trading landscape.
 
 ## Table of Contents
 

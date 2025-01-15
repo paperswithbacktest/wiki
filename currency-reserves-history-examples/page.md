@@ -97,5 +97,5 @@ In conclusion, the strategic integration and management of foreign exchange rese
 
 - Lopez de Prado, M. 'Advances in Financial Machine Learning.' Wiley. This book provides a comprehensive overview of how machine learning techniques are being applied in financial markets, focusing on the advancements and challenges in implementing these methods in trading and investment strategies.
 
-- Lyons, R. K. 'The Microstructure Approach to Exchange Rates.' The MIT Press. This work delves into the microstructures that govern foreign exchange markets, offering a detailed examination of how market mechanisms affect currency prices and exchange rate movements.
+- Lyons, R. K. 'The Microstructure Approach to Exchange Rates.' The MIT Press. This work investigates into the microstructures that govern foreign exchange markets, offering a detailed examination of how market mechanisms affect currency prices and exchange rate movements.
 

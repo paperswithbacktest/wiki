@@ -11,7 +11,7 @@ Interactive Brokers, a titan in the brokerage industry, has made significant str
 
 ![Untitled](images/Untitled.png)
 
-As trading continues to evolve, the synergy between brokerage platforms like Interactive Brokers and the world of APIs becomes even more profound. This guide delves into the heart of this relationship, exploring the intricacies of Interactive Brokers' API offerings, and showcasing how they can be the linchpin in your trading journey.
+As trading continues to evolve, the synergy between brokerage platforms like Interactive Brokers and the world of APIs becomes even more profound. This guide investigates into the heart of this relationship, exploring the intricacies of Interactive Brokers' API offerings, and showcasing how they can be the linchpin in your trading journey.
 
 ## Table of Contents
 

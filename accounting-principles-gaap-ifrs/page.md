@@ -11,7 +11,7 @@ Algorithmic trading utilizes sophisticated algorithms to execute trades at light
 
 A significant distinction between GAAP and IFRS lies in their inventory accounting principles, notably GAAP's allowance of the Last-In-First-Out (LIFO) method, contrasting IFRS's prohibition of it. These differences have tangible implications for algorithmic trading, affecting how companies manage and present inventory in financial statements and influencing investor decision-making.
 
-This article delves into these areas, assessing the continuing intersection of accounting standards and technological advancements in trading. By analyzing differences in approaches and implications for the world of algorithmic trading, we aim to highlight the need for adaptability in accounting practices to foster transparency and consistency in financial disclosures.
+This article investigates into these areas, assessing the continuing intersection of accounting standards and technological advancements in trading. By analyzing differences in approaches and implications for the world of algorithmic trading, we aim to highlight the need for adaptability in accounting practices to foster transparency and consistency in financial disclosures.
 
 ## Table of Contents
 

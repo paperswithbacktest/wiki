@@ -21,7 +21,7 @@ In essence, MD&A serves as a communication tool for management to narrate their 
 
 While the MD&A section remains unaudited and primarily narrative, it is subject to certain regulatory guidelines that aim to preserve its integrity and ensure a balanced presentation. Such guidelines are designed to mitigate the risk of misrepresentation and provide a framework within which companies must operate when presenting their financial narratives. However, despite these governance measures, the content can still reflect the biases of management, as it is based on their perspectives and projections. 
 
-This aspect of potential bias underscores the importance for investors to read MD&A with a critical eye, appreciating both the insights it offers and the subjective nature of some of its content. For investors, MD&A is invaluable as it delves into the qualitative factors that quantitatively reported financial results do not capture, such as strategic initiatives, market positioning, and managerial expectations.
+This aspect of potential bias underscores the importance for investors to read MD&A with a critical eye, appreciating both the insights it offers and the subjective nature of some of its content. For investors, MD&A is invaluable as it investigates into the qualitative factors that quantitatively reported financial results do not capture, such as strategic initiatives, market positioning, and managerial expectations.
 
 Overall, the MD&A is vital for investors keen on understanding the qualitative characteristics that drive a company’s financial results, offering a narrative that enhances the transparency and depth of corporate financial communication.
 

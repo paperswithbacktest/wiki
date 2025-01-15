@@ -149,7 +149,7 @@ In conclusion, investors are encouraged to evaluate their trading practices crit
 
 **Academic Papers and Industry Studies on Implementation Shortfall**
 
-1. **"The Measurement of Execution Cost and Their Biases" by Almgren and Chriss:** A seminal paper that delves into the quantification and biases in execution costs, providing a mathematical framework to understand implementation shortfall.
+1. **"The Measurement of Execution Cost and Their Biases" by Almgren and Chriss:** A seminal paper that investigates into the quantification and biases in execution costs, providing a mathematical framework to understand implementation shortfall.
 
 2. **"Implementation Shortfall: Understanding Transaction Costs" by Perold, A.F.:** Available on research databases like JSTOR, this paper provides a detailed analysis of the implementation shortfall and its implications on trading.
 

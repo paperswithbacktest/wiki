@@ -152,7 +152,7 @@ In conclusion, unsystematic risk management requires a multifaceted approach com
 ## References & Further Reading
 
 1. **Marcos López de Prado**
-   - López de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. This book delves into machine learning applications in finance, exploring methodologies that are essential for managing and understanding risks, including unsystematic risk in algorithmic trading.
+   - López de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. This book investigates into machine learning applications in finance, exploring methodologies that are essential for managing and understanding risks, including unsystematic risk in algorithmic trading.
    - López de Prado, M. (2013). *The Mathematics of Pairs Trading: Applications to Statistical Arbitrage*. This paper discusses statistical techniques used to mitigate risks in pairs trading, a strategy used in algorithmic trading.
 
 2. **Ernest P. Chan**

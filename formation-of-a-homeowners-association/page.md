@@ -138,7 +138,7 @@ Moreover, the active involvement of homeowners within HOAs is essential for nurt
    - "The Community Manager's Handbook" - This comprehensive resource outlines best practices for managing residents and facilities within an association. It emphasizes effective communication strategies and financial management skills essential for maintaining community standards.
 
 3. **Financial Management and Budgeting in HOAs**
-   - "Managing Association Finances: From Fees to Reserve Funds" - This guide delves into the intricacies of budgeting, highlighting strategies for maintaining reserve funds and planning for future expenditures in a community setting. [Link: HOALeader.com](https://www.hoaleader.com)
+   - "Managing Association Finances: From Fees to Reserve Funds" - This guide investigates into the intricacies of budgeting, highlighting strategies for maintaining reserve funds and planning for future expenditures in a community setting. [Link: HOALeader.com](https://www.hoaleader.com)
 
 4. **Legal Aspects of HOAs**
    - "HOA Law and You: Navigating Legal Responsibilities and Rights" - This resource offers homeowners and boards an overview of the legal responsibilities of HOAs, covering Covenant Conditions and Restrictions (CC&Rs) and relevant state laws. It outlines how legal frameworks can impact management decisions. [Link: NOLO Legal Encyclopedia](https://www.nolo.com)

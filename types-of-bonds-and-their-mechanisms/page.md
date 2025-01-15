@@ -9,7 +9,7 @@ The advent and integration of algorithmic trading are currently transforming tra
 
 ![Image](images/1.jpeg)
 
-This article examines the various types of bonds available in the market, highlighting their role and importance within financial portfolios. Furthermore, it delves into how algorithmic trading is redefining bond markets, focusing on the improvements in market transparency, liquidity, and reduction in transaction costs that it facilitates. As these technological advancements continue to evolve, understanding their impact on bond trading is essential for optimizing investment strategies.
+This article examines the various types of bonds available in the market, highlighting their role and importance within financial portfolios. Furthermore, it investigates into how algorithmic trading is redefining bond markets, focusing on the improvements in market transparency, liquidity, and reduction in transaction costs that it facilitates. As these technological advancements continue to evolve, understanding their impact on bond trading is essential for optimizing investment strategies.
 
 ## Table of Contents
 

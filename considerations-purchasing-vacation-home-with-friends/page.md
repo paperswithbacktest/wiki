@@ -122,7 +122,7 @@ Given such benefits, investors are encouraged to explore co-ownership and algori
 
 - Chan, E. P. (2009). 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business'. This resource serves as a foundational guide for anyone interested in creating an algorithmic trading enterprise, covering essential strategies and technological implementations.
 
-- Lopez de Prado, M. (2018). 'Advances in Financial Machine Learning'. This book delves into machine learning techniques applied to financial investments, offering a modern approach to algorithmic trading based on rigorous data analysis.
+- Lopez de Prado, M. (2018). 'Advances in Financial Machine Learning'. This book investigates into machine learning techniques applied to financial investments, offering a modern approach to algorithmic trading based on rigorous data analysis.
 
 - Jansen, S. (2020). 'Machine Learning for Algorithmic Trading'. Jansen elaborates on the integration of machine learning algorithms in trading systems, enhancing the precision and effectiveness of investment methodologies through real-world applications and examples.
 

@@ -132,7 +132,7 @@ The Financial Accounting Standards Board (FASB) provides guidelines crucial for 
 
 Lopez de Prado, M. Advances in Financial Machine Learning
 
-Marcos Lopez de Prado's book, "Advances in Financial Machine Learning," is a pivotal resource for understanding how machine learning technologies can transform the financial markets. It delves into the use of algorithms for optimal trading strategies, elucidating the integration of sophisticated financial calculations within trading algorithms. The book is a fundamental reference for professionals aiming to enhance their algorithmic trading skills with advanced machine learning techniques.
+Marcos Lopez de Prado's book, "Advances in Financial Machine Learning," is a pivotal resource for understanding how machine learning technologies can transform the financial markets. It investigates into the use of algorithms for optimal trading strategies, elucidating the integration of sophisticated financial calculations within trading algorithms. The book is a fundamental reference for professionals aiming to enhance their algorithmic trading skills with advanced machine learning techniques.
 
 Aronson, D. R. Evidence-Based Technical Analysis
 

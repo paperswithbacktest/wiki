@@ -166,7 +166,7 @@ As financial technology continues to evolve, the synergy between these strategic
 
 ## References & Further Reading
 
-Lopez de Prado, M. *Advances in Financial Machine Learning*. This work delves into the integration of machine learning within algorithmic trading. It focuses on how financial data can be processed to improve decision-making processes in trading environments. The text is an essential read for understanding how technological advancements can be harnessed in financial markets to refine trading strategies and promote efficient capital management.
+Lopez de Prado, M. *Advances in Financial Machine Learning*. This work investigates into the integration of machine learning within algorithmic trading. It focuses on how financial data can be processed to improve decision-making processes in trading environments. The text is an essential read for understanding how technological advancements can be harnessed in financial markets to refine trading strategies and promote efficient capital management.
 
 Aronson, D. *Evidence-Based Technical Analysis*. This book provides a comprehensive overview of rigorously applying scientific methods to technical analysis in trading. It challenges traditional heuristic methods, encouraging a data-driven approach that leverages statistical evidence to inform trading decisions. Such a perspective is crucial in enhancing algorithmic trading systems by grounding them in empirical data rather than speculative methods.
 

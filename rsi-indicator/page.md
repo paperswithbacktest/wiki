@@ -9,7 +9,7 @@ In the sphere of algorithmic trading, RSI becomes an essential component aiding 
 
 ![Image](images/1.jpeg)
 
-This article delves into the formula for RSI, examining its computational mechanics and application methodologies within algorithmic trading contexts. By exploring strategic implementations and potential drawbacks, the narrative aims to furnish a thorough understanding of how RSI can enhance trading algorithms' efficiency and accuracy. The overarching goal is to empower traders with the knowledge to effectively leverage RSI, thereby refining their trading strategies and decision-making prowess in continually evolving financial markets.
+This article investigates into the formula for RSI, examining its computational mechanics and application methodologies within algorithmic trading contexts. By exploring strategic implementations and potential drawbacks, the narrative aims to furnish a thorough understanding of how RSI can enhance trading algorithms' efficiency and accuracy. The overarching goal is to empower traders with the knowledge to effectively leverage RSI, thereby refining their trading strategies and decision-making prowess in continually evolving financial markets.
 
 ## Table of Contents
 

@@ -115,7 +115,7 @@ Understanding interest rate swaps is crucial for effective risk management, espe
 
 - **Principles of Financial Engineering by Salih N. Neftci**: This book offers a comprehensive overview of financial engineering, covering a variety of derivatives including interest rate swaps. It provides insights into the creation, pricing, and management of financial derivatives, with a focus on real-world applications and risk management strategies.
 
-- **Interest Rate Swaps and Other Derivatives by Howard Corb**: Howard Corb's work serves as an essential guide to understanding the intricacies of interest rate swaps. It delves into various swap structures, market conventions, and practical strategies for managing interest rate risks, making it a vital resource for both students and practitioners in finance.
+- **Interest Rate Swaps and Other Derivatives by Howard Corb**: Howard Corb's work serves as an essential guide to understanding the intricacies of interest rate swaps. It investigates into various swap structures, market conventions, and practical strategies for managing interest rate risks, making it a vital resource for both students and practitioners in finance.
 
 - **Advances in Financial Machine Learning by Marcos Lopez de Prado**: This book explores the intersection of machine learning and finance, providing valuable insights into how advanced algorithms can be used to enhance trading strategies. It discusses algorithmic approaches that can be applied to optimize interest rate swaps, integrating statistical methods with financial data analysis.
 

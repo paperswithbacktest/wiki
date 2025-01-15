@@ -123,7 +123,7 @@ Looking forward, the integration of Arrow's theories with cutting-edge technolog
 
 6. MacKenzie, D. (2019). "Trading at the Speed of Light: How Ultrafast Algorithms Are Transforming Financial Markets." Princeton University Press. This book discusses the integration of economic theories, including those of Arrow, into algorithmic trading systems.
 
-7. Biais, B., & Woolley, P. (2011). "High-Frequency Trading." Scholarpedia. Retrieved from https://www.scholarpedia.org/article/High-frequency_trading. An article that delves into the effects of high-frequency trading on markets, informed by economic theories such as those of Arrow. 
+7. Biais, B., & Woolley, P. (2011). "High-Frequency Trading." Scholarpedia. Retrieved from https://www.scholarpedia.org/article/High-frequency_trading. An article that investigates into the effects of high-frequency trading on markets, informed by economic theories such as those of Arrow. 
 
 8. Gigerenzer, G., & Selten, R. (2002). "Bounded Rationality: The Adaptive Toolbox." MIT Press. An exploration of decision-making processes that echoes Arrow’s investigations into information asymmetry and rational economic behavior.
 

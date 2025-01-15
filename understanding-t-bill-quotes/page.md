@@ -9,7 +9,7 @@ As financial markets evolve, so do the strategies for trading these securities. 
 
 ![Image](images/1.jpeg)
 
-This article aims to provide an in-depth exploration of T-Bill investment. It covers how to accurately interpret T-Bill quotes and delves into the significant role algorithmic trading plays in this domain. By examining these aspects, investors can gain a clearer understanding of the dynamics at play in T-Bill markets and how they can effectively navigate these securities in their investment strategies.
+This article aims to provide an in-depth exploration of T-Bill investment. It covers how to accurately interpret T-Bill quotes and investigates into the significant role algorithmic trading plays in this domain. By examining these aspects, investors can gain a clearer understanding of the dynamics at play in T-Bill markets and how they can effectively navigate these securities in their investment strategies.
 
 ## Table of Contents
 

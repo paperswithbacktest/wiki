@@ -9,7 +9,7 @@ Recessions hold significant implications for both microeconomic and macroeconomi
 
 ![Image](images/1.jpeg)
 
-This article delves into the definition and causes of economic recessions, citing major historical examples that illustrate their impacts and evolution. It also explores modern elements such as algorithmic trading that influence financial markets during these turbulent periods, highlighting their dual capacity to stabilize and destabilize economies. The objective is to provide a comprehensive understanding of economic recessions, enabling informed decision-making and forecasting to cushion economies against future recessions.
+This article investigates into the definition and causes of economic recessions, citing major historical examples that illustrate their impacts and evolution. It also explores modern elements such as algorithmic trading that influence financial markets during these turbulent periods, highlighting their dual capacity to stabilize and destabilize economies. The objective is to provide a comprehensive understanding of economic recessions, enabling informed decision-making and forecasting to cushion economies against future recessions.
 
 ## Table of Contents
 

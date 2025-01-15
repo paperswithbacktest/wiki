@@ -257,7 +257,7 @@ Understanding how vectorization applies to backtesting trading strategies necess
 To mitigate the risks of data snooping and overfitting, awareness of the following resources is beneficial:
 
 1. **"The Evaluation and Optimization of Trading Strategies" by Robert Pardo**  
-   Pardo delves into the pitfalls of overfitting in trading strategies, providing methodologies to ensure the robustness of backtested results.
+   Pardo investigates into the pitfalls of overfitting in trading strategies, providing methodologies to ensure the robustness of backtested results.
 
 2. **Research Paper: "Data Snooping, Technical Trading Rule Performance, and the Bootstrap" by Sullivan, Timmermann, and White**  
    This paper addresses the dangers of data snooping in trading strategies and proposes the bootstrap method for validating strategy performance.

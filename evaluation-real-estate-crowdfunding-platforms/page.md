@@ -267,7 +267,7 @@ In conclusion, the integration of technology in real estate investing provides n
 ### Suggestions for Online Courses or Webinars
 
 - **Coursera:**
-  - Course: "Real Estate Investment: Beyond Basics" – Delves into advanced real estate investment strategies, including platform-based approaches.
+  - Course: "Real Estate Investment: Beyond Basics" – investigates into advanced real estate investment strategies, including platform-based approaches.
 
 - **edX:**
   - Course: "Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training" – A deep dive into algorithmic trading applications across various investment fields, including real estate.

@@ -121,7 +121,7 @@ The sustainable growth of real estate investments using indices like the MBA Pur
 
 [1]: ["Mortgage Bankers Association (MBA) - Research and Economics"](https://www.mba.org/news-and-research/research-and-economics) - Explore comprehensive data on mortgage applications, including the MBA Purchase Index.
 
-[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) - This book delves into machine learning techniques applicable to finance and trading, including real estate markets.
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) - This book investigates into machine learning techniques applicable to finance and trading, including real estate markets.
 
 [3]: Aronson, D. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) - This resource provides insights into technical analysis methods that support data-driven trading strategies.
 

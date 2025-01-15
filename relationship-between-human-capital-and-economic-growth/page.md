@@ -137,7 +137,7 @@ Amid ongoing changes in technology and the economy, maintaining a proactive appr
 
 3. OECD. (2022). *Skills Outlook 2022: The Digital Transformation of Education and Skills*. OECD Publishing. This publication investigates the evolving educational requirements in the digital age and their implications for economic growth and employment.
 
-4. Chan, E. (2017). *Algorithmic Trading: Winning Strategies and Their Rationale*. Wiley. This book delves into various algorithmic trading strategies and discusses the technological and mathematical principles behind them.
+4. Chan, E. (2017). *Algorithmic Trading: Winning Strategies and Their Rationale*. Wiley. This book investigates into various algorithmic trading strategies and discusses the technological and mathematical principles behind them.
 
 5. Narang, R. K. (2013). *Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading* (2nd ed.). Wiley. This book provides insights into the world of quantitative and high-frequency trading, explaining the role of human capital in developing and managing trading algorithms.
 

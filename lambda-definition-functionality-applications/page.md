@@ -277,7 +277,7 @@ In conclusion, the adoption of Lambda technology in algorithmic trading not only
 
 4. **Building Scalable Trading Systems**  
    *By Tom Stark*  
-   Stark's book delves into constructing robust trading systems capable of handling significant data loads, including how serverless functions like AWS Lambda can play a role in achieving scalability and resilience.
+   Stark's book investigates into constructing robust trading systems capable of handling significant data loads, including how serverless functions like AWS Lambda can play a role in achieving scalability and resilience.
 
 5. **Introduction to AWS Lambda for Algorithmic Trading**  
    [Medium Article by Jane Doe](https://medium.com/algorithmic-trading)  

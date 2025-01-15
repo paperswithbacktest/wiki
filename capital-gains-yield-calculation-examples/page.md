@@ -164,7 +164,7 @@ To thrive in the ever-changing market landscape, investors are encouraged to rem
 
 1. **Capital Gains Yield and Investment Performance**  
    - Bodie, Z., Kane, A., & Marcus, A. J. (2014). *Investments*. McGraw-Hill Education. This textbook provides a comprehensive overview of investment principles, including detailed explanations of capital gains yield.
-   - Damodaran, A. (2012). *Investment Valuation: Tools and Techniques for Determining the Value of Any Asset*. Wiley. This book delves into various valuation methods and the role of capital gains in investment analysis.
+   - Damodaran, A. (2012). *Investment Valuation: Tools and Techniques for Determining the Value of Any Asset*. Wiley. This book investigates into various valuation methods and the role of capital gains in investment analysis.
 
 2. **Calculating Capital Gains Yield**  
    - Fabozzi, F. J. (2007). *Fixed Income Analysis*. Wiley. Offers insights into calculating capital gains yield in the context of bonds and fixed income securities.

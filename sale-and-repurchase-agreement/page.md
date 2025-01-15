@@ -83,7 +83,7 @@ Engaging with these trends ensures competitive advantage and informed decision-m
 
 - Irene Aldridge, "High Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems." Aldridge offers a detailed exploration of high-frequency trading systems, emphasizing algorithm development and trading execution. This reading is beneficial for understanding the intersection of technology and finance, especially in the context of high-speed transactions in modern trading environments.
 
-- IMF Working Paper, "Liquidity Risk, Cash Flow Constraints, and Systemic Liquidity." The IMF working paper delves into the intricacies of liquidity risk and the challenges posed by cash flow constraints. It highlights the systemic importance of liquidity management and how SRAs and SPRAs can be utilized to alleviate these risks in the financial system.
+- IMF Working Paper, "Liquidity Risk, Cash Flow Constraints, and Systemic Liquidity." The IMF working paper investigates into the intricacies of liquidity risk and the challenges posed by cash flow constraints. It highlights the systemic importance of liquidity management and how SRAs and SPRAs can be utilized to alleviate these risks in the financial system.
 
 - Robert Kissell, "The Science of Algorithmic Trading and Portfolio Management." Kissell’s book offers a scientific approach to algorithmic trading and its application in portfolio management. Readers gain insights into the quantitative strategies that underpin algorithmic trading, essential for those leveraging technology and data-driven methods in financial decision-making.
 

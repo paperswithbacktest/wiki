@@ -171,7 +171,7 @@ Investors should, therefore, consider incorporating both Series L Securities and
    Aldridge’s book focuses on the algorithms used in high-frequency trading. It covers the intersection of technology and trading, making it essential reading for those interested in the technological aspects of trading Series L Securities.
 
 5. **"Investment Science" by David G. Luenberger**  
-   This book delves into the mathematical and theoretical foundations of investment, providing mathematical models and formulas that are useful for evaluating different types of securities, including Series L Securities.
+   This book investigates into the mathematical and theoretical foundations of investment, providing mathematical models and formulas that are useful for evaluating different types of securities, including Series L Securities.
 
 6. **Journal of Financial Economics**  
    The Journal publishes peer-reviewed articles on various financial concepts, including the impact of algorithmic trading on market efficiency and liquidity. Relevant articles can expand understanding of Series L Securities' behavior in algorithm-driven markets.

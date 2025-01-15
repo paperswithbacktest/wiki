@@ -25,7 +25,7 @@ $$
 \text{Gross Profit Margin} = \left( \frac{\text{Revenue} - \text{Cost of Goods Sold}}{\text{Revenue}} \right) \times 100
 $$
 
-The operating profit margin, on the other hand, delves deeper by considering operational efficiencies, encompassing both cost of goods sold and operating expenses, such as wages and rent. It is expressed as:
+The operating profit margin, on the other hand, investigates deeper by considering operational efficiencies, encompassing both cost of goods sold and operating expenses, such as wages and rent. It is expressed as:
 
 $$
 \text{Operating Profit Margin} = \left( \frac{\text{Operating Income}}{\text{Revenue}} \right) \times 100

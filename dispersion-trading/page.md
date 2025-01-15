@@ -49,7 +49,7 @@ On the other hand, dispersion trading does not focus on price differences but on
 
 To illustrate with a real-world example, consider a hypothetical situation involving the S&P 500 index. Suppose the implied volatility of S&P 500 options is notably high because of market uncertainties, while the implied volatilities of its constituent stocks are comparatively low. A trader who believes that this mispricing stems from an overestimation of future correlation might initiate a dispersion trade. They'd sell options on the S&P 500, predicting its volatility is overpriced, while simultaneously buying options on its individual stocks, betting that their volatilities are underpriced. If the future correlation turns out to be lower than what's implied in the prices, the trader stands to profit.
 
-In essence, while both dispersion trading and index arbitrage exploit market inefficiencies, they focus on different aspects. Index arbitrage revolves around immediate price discrepancies, while dispersion trading delves into the deeper realms of volatility and correlation dynamics.
+In essence, while both dispersion trading and index arbitrage exploit market inefficiencies, they focus on different aspects. Index arbitrage revolves around immediate price discrepancies, while dispersion trading investigates into the deeper realms of volatility and correlation dynamics.
 
 ## Deep Dive into Key Concepts
 

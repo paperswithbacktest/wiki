@@ -267,7 +267,7 @@ In conclusion, the synthesis of economic patterns, seasonality, and algorithmic 
    - Khan Academy Economics and Finance [Khan Academy](https://www.khanacademy.org/economics-finance-domain). A free resource providing a solid grounding in economics and finance principles.
 
 5. **Programming and Analysis Tools:**
-   - *Python for Finance: Analyze Big Financial Data* by Yves Hilpisch (2014). This book delves into the use of Python for financial data analysis, suitable for implementing algorithmic trading strategies.
+   - *Python for Finance: Analyze Big Financial Data* by Yves Hilpisch (2014). This book investigates into the use of Python for financial data analysis, suitable for implementing algorithmic trading strategies.
    - *Quantitative Finance in Python* by Masum Billah (2022). A guide for creating quantitative models and strategies using Python, with applications in seasonal patterns.
 
 These resources are curated to provide a multifaceted understanding of economic patterns, seasonality, and algorithmic trading strategies, catering to both beginners and experienced professionals seeking to enhance their knowledge and applications in financial markets.

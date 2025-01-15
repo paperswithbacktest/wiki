@@ -195,7 +195,7 @@ Ultimately, the foundation of a successful oil trading endeavor lies in the deve
 
 - Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems 24. This paper provides a comprehensive analysis of different algorithms for optimizing hyper-parameters, offering valuable insights for traders employing algorithmic models and machine learning.
 
-- Lopez de Prado, M. "Advances in Financial Machine Learning." This book delves into the application of machine learning techniques in finance, enabling traders to harness sophisticated models for predicting market changes and improving trading accuracy.
+- Lopez de Prado, M. "Advances in Financial Machine Learning." This book investigates into the application of machine learning techniques in finance, enabling traders to harness sophisticated models for predicting market changes and improving trading accuracy.
 
 - Aronson, D. "Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals." This work stresses the importance of a scientific approach to trading, utilizing statistical methods to validate trading strategies and ensure their robustness.
 

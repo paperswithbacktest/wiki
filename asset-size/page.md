@@ -179,7 +179,7 @@ For readers seeking to expand their understanding of the concepts covered in thi
 
 6. **"Market Risk Analysis" by Carol Alexander** – This series offers a detailed examination of market risk measurement and management techniques, crucial for anyone interested in quantitative finance and the strategies underpinning market risk assessment.
 
-7. **"High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems" by Irene Aldridge** – This guide delves into the world of high-frequency trading, examining the intricacies of designing effective trading systems and the computational techniques that support them.
+7. **"High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems" by Irene Aldridge** – This guide investigates into the world of high-frequency trading, examining the intricacies of designing effective trading systems and the computational techniques that support them.
 
 8. **Online Course: "Introduction to Finance and Banking" on Coursera** – Offered by the University of Illinois, this course introduces fundamental concepts in banking and finance, providing a learning pathway for those new to the field or seeking to refresh their knowledge.
 

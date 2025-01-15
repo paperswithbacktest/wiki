@@ -103,7 +103,7 @@ Looking ahead, Sunak's career may evolve towards further pioneering roles at the
 
 [4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
 
-[5]: ["Capital Ideas Evolving"](https://www.amazon.com/Capital-Ideas-Evolving-Peter-Bernstein/dp/0470452498) by Peter L. Bernstein, which delves into the evolution of modern financial markets, including algorithmic trading.
+[5]: ["Capital Ideas Evolving"](https://www.amazon.com/Capital-Ideas-Evolving-Peter-Bernstein/dp/0470452498) by Peter L. Bernstein, which investigates into the evolution of modern financial markets, including algorithmic trading.
 
 [6]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2986459.2986743) Advances in Neural Information Processing Systems 24. 
 

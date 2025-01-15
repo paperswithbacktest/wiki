@@ -9,7 +9,7 @@ Understanding the nuances of Rule 10b5-1 is vital for ensuring compliance with i
 
 ![Image](images/1.png)
 
-This article delves into the details of Rule 10b5-1, examining its operational requirements set by the SEC. We explore how the rule applies to automated trading and assess recent amendments that have been made to enhance transparency and prevent abuse. Additionally, the discussion addresses the impact of Rule 10b5-1 on insider trading practices and its intersection with algorithmic trading strategies. By understanding these elements, insiders and algorithmic traders can effectively navigate the complexities of insider trading regulations and maintain compliance in an evolving financial landscape.
+This article investigates into the details of Rule 10b5-1, examining its operational requirements set by the SEC. We explore how the rule applies to automated trading and assess recent amendments that have been made to enhance transparency and prevent abuse. Additionally, the discussion addresses the impact of Rule 10b5-1 on insider trading practices and its intersection with algorithmic trading strategies. By understanding these elements, insiders and algorithmic traders can effectively navigate the complexities of insider trading regulations and maintain compliance in an evolving financial landscape.
 
 ## Table of Contents
 

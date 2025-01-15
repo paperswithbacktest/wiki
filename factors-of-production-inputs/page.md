@@ -13,7 +13,7 @@ Algorithmic trading is a modern financial practice where computers execute trade
 
 Economic resources and algorithmic trading intersect where capital and technology are utilized for efficient trading processes. Algorithmic trading requires substantial capital investment in computing power and technology (a form of capital), and it benefits from human intellectual capital, which designs and manages trading systems and strategies. The optimization of these resources allows for enhanced market liquidity and improved price discovery mechanisms, benefiting traders and markets alike.
 
-This article explores the fundamental concepts of economic resources, their categorization, and their vital role in production and economic growth. It delves into the evolving practice of algorithmic trading, examining how economic resources underpin this high-tech trading format. The relationships between economic resources, algorithmic trading models, and market dynamics will be analyzed, providing insights into resource optimization within financial markets.
+This article explores the fundamental concepts of economic resources, their categorization, and their vital role in production and economic growth. It investigates into the evolving practice of algorithmic trading, examining how economic resources underpin this high-tech trading format. The relationships between economic resources, algorithmic trading models, and market dynamics will be analyzed, providing insights into resource optimization within financial markets.
 
 ## Table of Contents
 

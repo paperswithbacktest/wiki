@@ -220,7 +220,7 @@ Importantly, maintaining a competitive edge in the evolving financial sector dem
 
 - Bodie, Z., Kane, A., & Marcus, A. J. (2018). _Investments_. McGraw-Hill Education. Offers a comprehensive introduction to investment strategies, including financial calculations and the principles of funds distribution, diversification, and asset allocation.
 
-- Hull, J. C. (2017). _Options, Futures, and Other Derivatives_. Pearson. This text delves into derivatives and their role in optimizing investment income, supporting the understanding of complex financial products.
+- Hull, J. C. (2017). _Options, Futures, and Other Derivatives_. Pearson. This text investigates into derivatives and their role in optimizing investment income, supporting the understanding of complex financial products.
 
 - Kissell, R. (2013). _The Science of Algorithmic Trading and Portfolio Management_. Academic Press. An essential read for understanding the intricacies of algorithmic trading and its impact on investment strategies.
 

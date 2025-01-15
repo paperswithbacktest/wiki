@@ -170,7 +170,7 @@ Finance professionals are encouraged to continue leveraging Excel's capabilities
 
 1. **Books:**
    - *Financial Modeling in Excel For Dummies* by Danielle Stein Fairhurst: This book provides comprehensive guidance on building financial models using Excel, focusing on practical applications and user-friendly explanations.
-   - *Principles of Financial Modelling: Model Design and Best Practices Using Excel and VBA* by Michael Rees: This text delves into advanced techniques for financial modeling, emphasizing Excel and Visual Basic for Applications (VBA).
+   - *Principles of Financial Modelling: Model Design and Best Practices Using Excel and VBA* by Michael Rees: This text investigates into advanced techniques for financial modeling, emphasizing Excel and Visual Basic for Applications (VBA).
    - *Excel Modeling in Investments* by Craig W. Holden: A resource that targets the creation of investment-focused models in Excel, offering detailed examples and scenarios.
 
 2. **Courses:**

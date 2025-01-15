@@ -9,7 +9,7 @@ Hyperledger's architecture centralizes on the development of permissioned blockc
 
 ![Image](images/1.png)
 
-As financial firms increasingly adopt algorithmic trading practices, the integration with blockchain solutions like Hyperledger is gaining traction. This fusion not only resolves existing challenges in trading ecosystems but also facilitates the development of more sophisticated trading strategies through the automation capabilities provided by blockchain technologies. Consequently, the article delves into how Hyperledger's frameworks are redefining the landscape of algorithmic trading in financial markets, offering a glimpse into future prospects where innovative blockchain implementations continue to drive substantial advancements.
+As financial firms increasingly adopt algorithmic trading practices, the integration with blockchain solutions like Hyperledger is gaining traction. This fusion not only resolves existing challenges in trading ecosystems but also facilitates the development of more sophisticated trading strategies through the automation capabilities provided by blockchain technologies. Consequently, the article investigates into how Hyperledger's frameworks are redefining the landscape of algorithmic trading in financial markets, offering a glimpse into future prospects where innovative blockchain implementations continue to drive substantial advancements.
 
 ## Table of Contents
 

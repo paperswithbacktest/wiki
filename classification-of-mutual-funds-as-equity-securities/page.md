@@ -131,7 +131,7 @@ To deepen understanding of mutual funds, equity securities, and algorithmic trad
 
 1. **Books:**
    - *"A Random Walk Down Wall Street" by Burton G. Malkiel*: This book provides insights on market dynamics and investment strategies with a focus on mutual funds and equity investments.
-   - *"The Intelligent Investor" by Benjamin Graham*: This classic work delves into the principles of investing in equities with a foundational approach to value investing.
+   - *"The Intelligent Investor" by Benjamin Graham*: This classic work investigates into the principles of investing in equities with a foundational approach to value investing.
    - *"Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" by Barry Johnson*: This book covers the principles and practical application of algorithmic trading strategies.
 
 2. **Articles:**

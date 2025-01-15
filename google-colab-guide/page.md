@@ -11,7 +11,7 @@ In recent years, collaborative platforms have gained prominence as critical reso
 
 Google Colab is a cloud-based Python development environment that runs on the Jupyter notebook framework. It provides a flexible and accessible solution for coding and data analysis, with seamless integration into Google Cloud, which allows users to exploit powerful computational resources without the need for high-performance local hardware. This makes Colab not only a practical tool for individual developers but also an ideal environment for collaborative team-based projects.
 
-This article delves into the utilization of Google Colab within the context of algo trading, examining its primary benefits, various use cases, and examples of how it is applied in real-world trading scenarios. By understanding the strengths and applications of Google Colab, traders and developers can better harness this tool to innovate and refine their trading strategies, facing the evolving challenges and opportunities in the financial markets.
+This article investigates into the utilization of Google Colab within the context of algo trading, examining its primary benefits, various use cases, and examples of how it is applied in real-world trading scenarios. By understanding the strengths and applications of Google Colab, traders and developers can better harness this tool to innovate and refine their trading strategies, facing the evolving challenges and opportunities in the financial markets.
 
 ## Table of Contents
 

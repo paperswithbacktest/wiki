@@ -110,7 +110,7 @@ This approach ensures that trading algorithms remain not only responsive to curr
 
 ## References & Further Reading
 
-Bergstra, J., et al., Algorithms for Hyper-Parameter Optimization. This publication delves into techniques for optimizing hyper-parameters in machine learning algorithms, which is crucial for enhancing the performance and efficiency of trading algorithms.
+Bergstra, J., et al., Algorithms for Hyper-Parameter Optimization. This publication investigates into techniques for optimizing hyper-parameters in machine learning algorithms, which is crucial for enhancing the performance and efficiency of trading algorithms.
 
 Chan, E., *Algorithmic Trading: Winning Strategies and Their Rationale*. This reference provides a comprehensive overview of different algorithmic trading strategies, explaining the rationale behind them and how financial metrics such as gearing ratios and leverage can be employed to enhance these strategies.
 

@@ -138,7 +138,7 @@ Understanding and strategically navigating these financial instruments and metho
 
 Bergstra, J., et al. 'Algorithms for Hyper-Parameter Optimization,' provides an in-depth analysis of methodologies used in refining algorithmic models to achieve optimal performance, particularly within financial [machine learning](/wiki/machine-learning) applications. This work is particularly relevant for those involved in algorithmic trading where fine-tuning model parameters is crucial.
 
-Lopez de Prado, M.'s 'Advances in Financial Machine Learning' offers a comprehensive guide to employing machine learning techniques in finance. This book delves into key concepts such as backtesting, feature importance, and portfolio optimization, which are pivotal for creating efficient algorithmic trading systems.
+Lopez de Prado, M.'s 'Advances in Financial Machine Learning' offers a comprehensive guide to employing machine learning techniques in finance. This book investigates into key concepts such as backtesting, feature importance, and portfolio optimization, which are pivotal for creating efficient algorithmic trading systems.
 
 Aronson, D. in 'Evidence-Based Technical Analysis' challenges traditional technical analysis techniques, emphasizing a scientific approach to financial market prediction and risk management. The book introduces rigorous statistical methods to evaluate trading strategies, an essential read for investors keen on developing robust and evidence-based trading systems.
 

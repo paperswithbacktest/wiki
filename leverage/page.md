@@ -1,6 +1,6 @@
 ---
 title: "Leverage (Algo Trading)"
-description: Explore the intricacies of leveraging in algorithmic trading, where borrowed funds are utilized to amplify investment gains. Discover the balance between heightened returns and elevated risks, emphasizing strategic risk management. This comprehensive guide delves into types of leverage, their applications, and offers insights on optimizing and managing leveraged trading strategies effectively.
+description: Explore the intricacies of leveraging in algorithmic trading, where borrowed funds are utilized to amplify investment gains. Discover the balance between heightened returns and elevated risks, emphasizing strategic risk management. This comprehensive guide investigates into types of leverage, their applications, and offers insights on optimizing and managing leveraged trading strategies effectively.
 ---
 
 Leverage, often referred to as gearing in financial contexts, is the practice of utilizing borrowed funds to potentially enhance the returns on an investment. Just as a physical lever amplifies a small input force into a larger output, financial leverage amplifies gains from an investment. However, this amplification is not without its caveats, as it also magnifies potential losses, making risk management an essential component of any leveraged strategy.

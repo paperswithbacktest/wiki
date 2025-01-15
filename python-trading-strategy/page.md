@@ -9,7 +9,7 @@ Its rich ecosystem of libraries, such as NumPy, Pandas, and Quandl, empowers tra
 
 ![Image](images/1.jpeg)
 
-This article delves into the application of Python in algorithmic trading, exploring how the language facilitates the entire process from data extraction, through strategy formulation, to performance visualization. By leveraging Python's capabilities, investors can develop efficient, data-driven strategies, enhancing their potential for profitability in the fast-paced financial markets.
+This article investigates into the application of Python in algorithmic trading, exploring how the language facilitates the entire process from data extraction, through strategy formulation, to performance visualization. By leveraging Python's capabilities, investors can develop efficient, data-driven strategies, enhancing their potential for profitability in the fast-paced financial markets.
 
 ## Table of Contents
 

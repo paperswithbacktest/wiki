@@ -9,7 +9,7 @@ Conversely, algorithmic trading has redefined the operations of financial market
 
 ![Image](images/1.jpeg)
 
-This article delves into the intricate relationship between cyclical unemployment and algorithmic trading, emphasizing strategies to mitigate the adverse effects of economic downturns while recognizing the transformative role of technology in finance. Through a comprehensive examination, the article aims to equip policymakers with insights to formulate effective employment strategies that address both conventional economic challenges and new-age technological advancements.
+This article investigates into the intricate relationship between cyclical unemployment and algorithmic trading, emphasizing strategies to mitigate the adverse effects of economic downturns while recognizing the transformative role of technology in finance. Through a comprehensive examination, the article aims to equip policymakers with insights to formulate effective employment strategies that address both conventional economic challenges and new-age technological advancements.
 
 ## Table of Contents
 

@@ -277,7 +277,7 @@ For individuals looking to explore Yuan trading through algorithmic and traditio
 
 2. **Online Courses:**
    - **Coursera's "Algorithmic Trading & Quantitative Analysis Using Python":** Offers video lessons and hands-on projects to build and test trading strategies using Python.
-   - **edX's "International Finance":** Delves into global finance dynamics, including currency exchange markets critical for understanding Yuan trades.
+   - **edX's "International Finance":** investigates into global finance dynamics, including currency exchange markets critical for understanding Yuan trades.
 
 **Professional Associations and Networks:**
 

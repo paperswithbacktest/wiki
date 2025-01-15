@@ -13,7 +13,7 @@ In contrast, algorithmic trading, or algo trading, represents a modern innovatio
 
 The interplay between Adam Smith's 'invisible hand' and algorithmic trading is a fascinating convergence of classical economic principles with cutting-edge technology. This article explores how algo trading, with its automated, self-regulating mechanisms, offers a contemporary illustration of Smith's theory. Readers will gain insights into how these algorithms contribute to market efficiency, mirroring the capitalist ideals endorsed by Smith. However, this relationship is not without complexities, as the ethical implications and potential pitfalls of algo trading challenge the idealized outcomes of the invisible hand.
 
-In exploring these connections, the article illuminates the relevance of Smith's economic philosophy in the context of modern technological advancements. It delves into the implications of algorithmic trading for market dynamics and examines how traditional economic theories align or clash with current innovations.
+In exploring these connections, the article illuminates the relevance of Smith's economic philosophy in the context of modern technological advancements. It investigates into the implications of algorithmic trading for market dynamics and examines how traditional economic theories align or clash with current innovations.
 
 ## Table of Contents
 

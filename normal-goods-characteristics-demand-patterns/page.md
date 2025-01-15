@@ -222,7 +222,7 @@ For those interested in deepening their understanding of demand theory, normal g
    - **"Global Market Insights on Consumer Demand"**, published by the World Economic Forum, highlights recent shifts in consumer behavior and demand influenced by economic factors.
 
 3. **Books and Practical Guides**:
-   - **"Economics: Principles, Problems, and Policies"** by Campbell McConnell, which delves into fundamental economic principles, including demand theory.
+   - **"Economics: Principles, Problems, and Policies"** by Campbell McConnell, which investigates into fundamental economic principles, including demand theory.
    - **"Algorithmic Trading: Winning Strategies and Their Rationale"** by Ernest P. Chan, presents practical insights into designing and implementing algorithmic trading strategies using quantitative analysis.
    - **"Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity"** by Paul Pignataro offers a comprehensive look at financial modeling techniques, including demand forecasting.
 

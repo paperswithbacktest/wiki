@@ -9,7 +9,7 @@ For traders and investors utilizing algorithmic strategies to manage their trade
 
 ![Image](images/1.jpeg)
 
-Moreover, the article delves into the ethical considerations that accompany the use of capping. As capping can border on market manipulation, it attracts significant regulatory scrutiny. Regulatory bodies continuously refine their frameworks to address these ethical and legal challenges, demanding that traders align their strategies with current laws. This balancing act between strategic advantage and ethical trading practices is critical for maintaining market integrity and investor confidence.
+Moreover, the article investigates into the ethical considerations that accompany the use of capping. As capping can border on market manipulation, it attracts significant regulatory scrutiny. Regulatory bodies continuously refine their frameworks to address these ethical and legal challenges, demanding that traders align their strategies with current laws. This balancing act between strategic advantage and ethical trading practices is critical for maintaining market integrity and investor confidence.
 
 Technological advancements play a pivotal role in the evolution of capping strategies. As trading systems become more sophisticated, both the execution and detection of capping practices have become more technologically driven. Innovations in trading algorithms and real-time monitoring systems not only enhance the efficiency of executing trades but also bolster the capacity of regulators to oversee market activities effectively. Thus, there's a continuous interplay between technological development and regulatory adaptation, shaping the contemporary landscape of capping in financial markets.
 

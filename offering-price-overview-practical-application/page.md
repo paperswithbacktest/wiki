@@ -1,6 +1,6 @@
 ---
 title: "Offering Price: Overview and Practical Application (Algo Trading)"
-description: "This guide delves into IPO pricing strategies exploring factors like offering prices, underwriter roles, and market influences to ensure successful public transitions."
+description: "This guide investigates into IPO pricing strategies exploring factors like offering prices, underwriter roles, and market influences to ensure successful public transitions."
 ---
 
 The Initial Public Offering (IPO) represents a critical phase where private companies transition to public ownership, with the primary goal of raising capital by making shares available to a wider investor base. This process marks a significant milestone as it allows companies to leverage public capital markets to fuel growth, enhance credibility, and achieve broader corporate objectives.

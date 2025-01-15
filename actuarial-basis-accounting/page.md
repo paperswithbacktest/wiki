@@ -145,7 +145,7 @@ The integration of these methodologies not only ensures regulatory compliance bu
 
 1. **Books:**
    - "Actuarial Mathematics" by Bowers, Newton L. et al. provides comprehensive coverage of the mathematical theories applied in actuarial practice, which is fundamental for understanding actuarial financial reporting and risk assessment.
-   - "Financial Reporting and Analysis" by Charles H. Gibson delves into the principles of financial reporting, including accrual accounting practices and the interpretation of financial statements.
+   - "Financial Reporting and Analysis" by Charles H. Gibson investigates into the principles of financial reporting, including accrual accounting practices and the interpretation of financial statements.
    - "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan offers insights into the mechanics of algorithmic trading, including strategies that leverage financial reporting data for performance optimization.
 
 2. **Articles:**

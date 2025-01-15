@@ -151,7 +151,7 @@ The collaboration between diverse generational perspectives is not just benefici
 
 - Prensky, M. (2001). *Digital Natives, Digital Immigrants.* On the Horizon, 9(5). Prensky's article introduces the concepts of digital natives and immigrants, exploring the implications of their interaction with technology.
 
-- Lopez de Prado, M. (2018). *Advances in Financial Machine Learning.* Wiley. This work delves into the use of machine learning techniques in finance, providing relevant frameworks and methodologies crucial for modern algorithmic trading.
+- Lopez de Prado, M. (2018). *Advances in Financial Machine Learning.* Wiley. This work investigates into the use of machine learning techniques in finance, providing relevant frameworks and methodologies crucial for modern algorithmic trading.
 
 - Jansen, S. (2018). *Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python.* Packt Publishing. The book offers practical guidance on applying machine learning to develop algorithmic trading strategies, with a focus on predictive models and data analytics.
 

@@ -281,7 +281,7 @@ Comprehensive list of referenced materials and articles:
 
 2. **Research Articles and White Papers**:
    - Fabozzi, F. J., & Markowitz, H. M. (Eds.). (2002). *The Theory and Practice of Investment Management*. This collection of articles discusses modern investment strategies and the application of financial metrics in portfolio management.
-   - Bertsimas, D., & Lo, A. W. (1998). *Optimal Control of Execution Costs*. Published in the *Journal of Financial Markets*, this paper delves into algorithmic trading strategies and execution efficiencies.
+   - Bertsimas, D., & Lo, A. W. (1998). *Optimal Control of Execution Costs*. Published in the *Journal of Financial Markets*, this paper investigates into algorithmic trading strategies and execution efficiencies.
 
 3. **Online Resources and Websites**:
    - [Investopedia](https://www.investopedia.com/): A valuable resource for definitions and practical examples of financial metrics, including NAV and TBVPS.

@@ -122,7 +122,7 @@ To ensure sustainable success, traders should focus on these adaptive approaches
 
 4. Chan, E. (2017). *Machine Trading: Deploying Computer Algorithms to Conquer the Markets*. Wiley. An essential resource for understanding how algorithms can be utilized to optimize trading strategies in forex by analyzing spread-to-pip potentials.
 
-5. Nison, S. (1991). *Japanese Candlestick Charting Techniques: A Contemporary Guide to the Ancient Investment Techniques of the Far East*. Prentice Hall Press. This book delves into candlestick charting techniques, which are useful for analyzing currency pairs and making informed trading decisions.
+5. Nison, S. (1991). *Japanese Candlestick Charting Techniques: A Contemporary Guide to the Ancient Investment Techniques of the Far East*. Prentice Hall Press. This book investigates into candlestick charting techniques, which are useful for analyzing currency pairs and making informed trading decisions.
 
 6. Investopedia. (n.d.). *Forex Trading: A Beginner’s Guide*. Retrieved from https://www.investopedia.com/. This online resource provides foundational knowledge of forex trading concepts, including spreads and pip potential.
 

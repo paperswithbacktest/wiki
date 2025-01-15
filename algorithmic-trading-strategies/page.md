@@ -570,7 +570,7 @@ Navigating the world of algorithmic trading can be daunting, especially when sta
 
 **Courses**:
 
-1. **Coursera's "Algorithmic Trading and Quantitative Analysis Using Python"** - This course delves into the foundational principles of Python programming and its application in trading.
+1. **Coursera's "Algorithmic Trading and Quantitative Analysis Using Python"** - This course investigates into the foundational principles of Python programming and its application in trading.
 2. **Udacity's "Artificial Intelligence for Trading"** - A comprehensive course that offers both quantitative trading strategies and machine learning tools.
 3. **edX's "Algorithmic Trading Strategies"** - Presented by NYIF, it provides a detailed overview of different strategies in the algo trading sphere.
 

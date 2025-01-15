@@ -11,7 +11,7 @@ This article explores the intersection of finance correlation and algorithmic tr
 
 This guide is designed for both novice traders and seasoned financial analysts looking to deepen their understanding of correlation's role in crafting effective trading strategies. New traders will gain insights into how correlation calculations can inform their initial trading decisions, while experienced analysts will appreciate a deeper exploration of its applications in algorithmic frameworks.
 
-Furthermore, the guide delves into the statistical methods used for calculating correlation, primarily focusing on the Pearson correlation coefficient, and its role in developing automated trading strategies. By understanding the significance of correlation, traders can leverage automated systems to execute trades more efficiently, adapting swiftly to market changes. This foundational knowledge sets the stage for more advanced discussions on leveraging modern technologies such as machine learning to refine correlation-based trading strategies, highlighting the evolving nature of algorithmic trading and financial analysis.
+Furthermore, the guide investigates into the statistical methods used for calculating correlation, primarily focusing on the Pearson correlation coefficient, and its role in developing automated trading strategies. By understanding the significance of correlation, traders can leverage automated systems to execute trades more efficiently, adapting swiftly to market changes. This foundational knowledge sets the stage for more advanced discussions on leveraging modern technologies such as machine learning to refine correlation-based trading strategies, highlighting the evolving nature of algorithmic trading and financial analysis.
 
 ## Table of Contents
 

@@ -65,7 +65,7 @@ Furthermore, the emphasis on interdisciplinary collaboration will play a pivotal
 
 - Papers with Backtest: Mainstream Economics Overview and Criticisms is an academic paper that critically assesses mainstream economic theories, focusing on their limitations. This paper explores the discrepancies that arise when traditional models face new economic phenomena, such as those introduced by algorithmic trading.
 
-- GNLU Journal of Law & Economics: Economic Implications of Algorithmic Trading examines the intersection of law, economics, and technology. This journal article delves into how algorithmic trading challenges existing regulatory frameworks and economic theories, offering insight into the complexities of modern financial markets.
+- GNLU Journal of Law & Economics: Economic Implications of Algorithmic Trading examines the intersection of law, economics, and technology. This journal article investigates into how algorithmic trading challenges existing regulatory frameworks and economic theories, offering insight into the complexities of modern financial markets.
 
 - Additional academic literature on behavioral economics and algorithmic trading provides in-depth analysis and empirical studies on integrating psychological aspects into economic models. These works emphasize the necessity of adapting economic theories to account for technological advancements, especially in the context of high-frequency trading environments. Key contributors in this field include Richard H. Thaler and Daniel Kahneman, whose works on behavioral economics have significantly influenced contemporary economic thought.
 

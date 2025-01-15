@@ -170,4 +170,4 @@ Continuous innovation in the field of algorithmic trading promises to increase e
 
 [4]: ["Inside the Yield Book: The Classic That Created the Science of Bond Analysis"](https://www.amazon.com/Inside-Yield-Book-Classic-Analysis/dp/111839013X) by Sidney Homer and Martin L. Leibowitz - A fundamental text for understanding the impact of interest rates and yield curve on bond pricing and strategies.
 
-[5]: ["The Basics of Algorithmic Trading: Concepts and Examples"](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp) - A research foundation publication by the CFA Institute, which delves into the principles and applications of algorithmic trading in modern markets. 
+[5]: ["The Basics of Algorithmic Trading: Concepts and Examples"](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp) - A research foundation publication by the CFA Institute, which investigates into the principles and applications of algorithmic trading in modern markets. 

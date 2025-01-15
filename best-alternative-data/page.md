@@ -140,7 +140,7 @@ Social media sentiment, customer reviews, and employee feedback, obtained from p
 
 Alternative data’s ascent in the realm of algo trading is irrefutable, but its adoption isn't without hurdles. Foremost, the accuracy and reliability of alternative data come into question. While these datasets may provide a wealth of insights, their credibility can be suspect, especially when originating from non-conventional sources. It's crucial for traders to exercise due diligence, ensuring **data quality, consistency, and validity**.
 
-Another pressing concern is the privacy implications of using certain types of alternative data. Geolocation data, for instance, delves deep into user movement patterns, sometimes without explicit user consent. This can pose significant ethical dilemmas, especially when there's potential for misuse or unauthorized access. The fine balance between gleaning insights and upholding privacy is a challenge that data-driven firms must navigate.
+Another pressing concern is the privacy implications of using certain types of alternative data. Geolocation data, for instance, investigates deep into user movement patterns, sometimes without explicit user consent. This can pose significant ethical dilemmas, especially when there's potential for misuse or unauthorized access. The fine balance between gleaning insights and upholding privacy is a challenge that data-driven firms must navigate.
 
 Regulatory considerations further complicate the landscape. Different countries have varying stances on **data privacy, collection, and usage**. The European Union's General Data Protection Regulation (GDPR) and California's Consumer Privacy Act (CCPA) are prime examples of stringent regulations that mandate strict data handling practices. Traders and firms must stay updated on these dynamic regulatory environments, ensuring that their use of alternative data aligns with legal stipulations, not just ethical considerations.
 
@@ -194,7 +194,7 @@ Alternative data refers to non-traditional sources of information that traders u
 
 **How does alternative data differ from traditional data sources?**
 
-Traditional data typically comprises financial statements, stock prices, and macroeconomic indicators. In contrast, alternative data delves into unconventional and often real-time sources, such as geolocation data or web traffic metrics, offering a broader perspective on market-moving factors.
+Traditional data typically comprises financial statements, stock prices, and macroeconomic indicators. In contrast, alternative data investigates into unconventional and often real-time sources, such as geolocation data or web traffic metrics, offering a broader perspective on market-moving factors.
 
 **Are there regulations governing the use of alternative data?**
 

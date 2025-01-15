@@ -9,7 +9,7 @@ Squarepoint's strength lies in its ability to utilize quantitative finance—mel
 
 ![Image](images/1.jpeg)
 
-This article delves into the history, operations, and broader impact of Squarepoint Capital in algorithmic trading. From its inception to its current operations, we will explore how Squarepoint has become a formidable force, continually adapting to the shifting financial landscape while maintaining a commitment to innovation and precision.
+This article investigates into the history, operations, and broader impact of Squarepoint Capital in algorithmic trading. From its inception to its current operations, we will explore how Squarepoint has become a formidable force, continually adapting to the shifting financial landscape while maintaining a commitment to innovation and precision.
 
 ## Table of Contents
 

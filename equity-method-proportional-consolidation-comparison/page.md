@@ -5,7 +5,7 @@ description: "Explore how proportional consolidation and the equity method impac
 
 In today's complex financial landscape, understanding different accounting methods is crucial for investors and companies. As financial markets become increasingly sophisticated, the need for precise and insightful accounting practices is more vital than ever. This article explores the concepts of proportional consolidation and the equity method, two fundamental accounting approaches used in reporting investments in joint ventures. These methods have significant implications on how a company's financial position and performance are reported, thus playing a critical role in both accounting and financial reporting.
 
-In addition to examining these accounting methods, the article delves into the growing role of algorithmic (algo) trading in financial markets. Algo trading, characterized by the use of automated and high-frequency trading strategies, has transformed the way markets operate, enabling trades to be executed at unprecedented speeds. This development underscores the importance of having access to real-time and accurate financial data for strategic decision-making.
+In addition to examining these accounting methods, the article investigates into the growing role of algorithmic (algo) trading in financial markets. Algo trading, characterized by the use of automated and high-frequency trading strategies, has transformed the way markets operate, enabling trades to be executed at unprecedented speeds. This development underscores the importance of having access to real-time and accurate financial data for strategic decision-making.
 
 ![Image](images/1.jpeg)
 

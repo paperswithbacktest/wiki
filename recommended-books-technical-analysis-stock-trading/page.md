@@ -43,7 +43,7 @@ John Murphy's "Technical Analysis of the Financial Markets" is a foundational re
 
 Another essential text is Martin Pring's "Technical Analysis Explained," which is often regarded as the "Bible" of technical analysis. Pring provides an in-depth examination of market mechanics and trading psychology, two crucial components for success in trading. The book emphasizes the importance of understanding the cyclical nature of markets and how psychological factors can influence price movements. Pring's insights into the interrelationship between market sentiment and technical signals help traders refine their analytical skills and develop more nuanced trading strategies.
 
-Steve Nison's "Japanese Candlestick Charting Techniques" is a pioneering work that introduces traders to the world of candlestick charting, a vital tool for market analysis. Nison's book delves into the history and development of candlestick patterns, explaining how these visual representations of price action can be used to anticipate market movements. Candlestick charting combines elements of visualization and technical analysis, providing traders with an effective method for identifying trends, reversals, and continuation patterns.
+Steve Nison's "Japanese Candlestick Charting Techniques" is a pioneering work that introduces traders to the world of candlestick charting, a vital tool for market analysis. Nison's book investigates into the history and development of candlestick patterns, explaining how these visual representations of price action can be used to anticipate market movements. Candlestick charting combines elements of visualization and technical analysis, providing traders with an effective method for identifying trends, reversals, and continuation patterns.
 
 To illustrate the application of technical analysis using Python, consider the example of implementing a simple moving average crossover strategy, a common technique used to signal potential buy or sell actions:
 
@@ -103,7 +103,7 @@ In summary, these resources collectively provide a comprehensive understanding o
 
 ## Advanced Analysis and Quantitative Finance
 
-For investors interested in deeper quantitative analysis and advanced financial strategies, there is a substantial array of literature available that delves into the intricacies of quantitative finance. This involves the application of mathematical models and computational techniques to assess financial instruments and develop trading strategies.
+For investors interested in deeper quantitative analysis and advanced financial strategies, there is a substantial array of literature available that investigates into the intricacies of quantitative finance. This involves the application of mathematical models and computational techniques to assess financial instruments and develop trading strategies.
 
 "Applied Quantitative Methods for Trading and Investment" by Christian L. Dunis et al. is a notable resource that provides practical applications of quantitative methods in trading. It covers a variety of approaches, including statistical arbitrage, machine learning models, and the use of technical indicators in algorithmic strategies. The book emphasizes the implementation of these methods with real-world data, which is crucial for bridging the gap between theory and practice.
 

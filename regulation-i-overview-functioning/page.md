@@ -1,6 +1,6 @@
 ---
 title: "Regulation I: Overview and Functioning (Algo Trading)"
-description: "This article delves into the significance of Regulation I and its role in the Federal Reserve system, focusing on the requirements for banks to maintain stock holdings in Federal Reserve Banks. It also examines the sophisticated world of algorithmic trading, highlighting the regulatory frameworks necessary to manage the risks and opportunities these technologies present in the financial sector. This overview offers insights into how regulation fosters stability and integrity within modern financial markets."
+description: "This article investigates into the significance of Regulation I and its role in the Federal Reserve system, focusing on the requirements for banks to maintain stock holdings in Federal Reserve Banks. It also examines the sophisticated world of algorithmic trading, highlighting the regulatory frameworks necessary to manage the risks and opportunities these technologies present in the financial sector. This overview offers insights into how regulation fosters stability and integrity within modern financial markets."
 ---
 
 In the contemporary financial landscape, regulation plays a crucial role in maintaining market stability and integrity. This article explores financial regulation with a specific focus on Regulation I and the rules governing algorithmic trading in the banking sector.

@@ -206,7 +206,7 @@ In summary, the successful integration of technological innovations with traditi
 
 1. **"The Income Approach to Property Valuation" by Andrew Baum and David Mackmin**: This book offers comprehensive insights into the methods used for property valuation with a focus on income approaches, which are crucial for understanding capitalization rates.
 
-2. **"Real Estate Investments and Portfolio Management" by David M. Geltner**: This text delves into modern real estate investment strategies and highlights the role capitalization rates play within investment evaluations.
+2. **"Real Estate Investments and Portfolio Management" by David M. Geltner**: This text investigates into modern real estate investment strategies and highlights the role capitalization rates play within investment evaluations.
 
 3. **"Principles of Real Estate Management" by the Institute of Real Estate Management**: This resource provides a solid foundation on managing real estate properties and understanding how cap rates impact management decisions.
 

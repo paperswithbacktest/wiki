@@ -9,7 +9,7 @@ Algorithmic trading, the deployment of computers executing pre-set instructions 
 
 ![Image](images/1.jpeg)
 
-This article delves into identifying the most effective indicators for swing trading within the context of algorithmic systems. We will focus on tools and strategies that historically demonstrate robust performance across diverse market conditions, ultimately aiming for strong risk management and return optimization.
+This article investigates into identifying the most effective indicators for swing trading within the context of algorithmic systems. We will focus on tools and strategies that historically demonstrate robust performance across diverse market conditions, ultimately aiming for strong risk management and return optimization.
 
 ## Table of Contents
 

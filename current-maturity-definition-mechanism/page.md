@@ -166,7 +166,7 @@ In conclusion, understanding financial maturity plays a pivotal role in achievin
    This authoritative textbook covers a wide range of financial instruments and techniques, providing insights into the mechanics of derivatives, including the significance of maturity dates in pricing and trading strategies.
 
 5. **Harris, Larry. _Trading and Exchanges: Market Microstructure for Practitioners._**  
-   This text delves into market microstructure and the functionality of different exchanges, including the role of maturity in trading financial instruments, contributing to a better understanding of strategic investment practices.
+   This text investigates into market microstructure and the functionality of different exchanges, including the role of maturity in trading financial instruments, contributing to a better understanding of strategic investment practices.
 
 6. **Website: Investopedia - "Understanding Bond Maturity Dates"**  
    A concise online resource explaining the basics of bond maturity dates and their implications for investors. Available at: [Investopedia](https://www.investopedia.com/terms/m/maturitydate.asp)

@@ -63,7 +63,7 @@ In summary, the Bank of England's regulation of algorithmic trading is crucial f
 
 ## Conclusion
 
-The Bank of England's comprehensive approach to maintaining financial stability within the UK is a cornerstone of its economic health. As one delves into its history, the Bank's inception in 1694 as a response to governmental fiscal challenges through its current role showcases a dynamic evolution responding to diverse economic landscapes. Its independence, established in 1997, underscores its authoritative role in monetary policy, highlighting the crucial balancing act between government relations and autonomous financial governance.
+The Bank of England's comprehensive approach to maintaining financial stability within the UK is a cornerstone of its economic health. As one investigates into its history, the Bank's inception in 1694 as a response to governmental fiscal challenges through its current role showcases a dynamic evolution responding to diverse economic landscapes. Its independence, established in 1997, underscores its authoritative role in monetary policy, highlighting the crucial balancing act between government relations and autonomous financial governance.
 
 Structurally, the Bank's governance model, led by the Court of Directors, features a commitment to strategic oversight through crucial committees focused on financial stability and policy-making. This framework buttresses its ability to preemptively address potential risks while ensuring a resilient economic environment.
 

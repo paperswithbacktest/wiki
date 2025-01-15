@@ -11,7 +11,7 @@ Electronic Communication Networks (ECNs) are electronic systems that match buy a
 
 Algorithmic trading, commonly referred to as algo trading, involves the usage of pre-defined algorithms to analyze large datasets and execute trades at optimal times. This approach provides significant benefits in terms of speed and accuracy and removes emotional biases from trading decisions. Initially dominated by institutional traders, algorithmic trading has become increasingly accessible to individual traders through sophisticated trading platforms. Common strategies employed within algorithmic trading include trend following, market making, arbitrage, and statistical arbitrage, many of which are enhanced through machine learning techniques.
 
-This article delves into the interplay between ECN trading technology and algorithmic trading, examining their contributions to market efficiency and investor engagement. By understanding these technologies, traders can leverage data-driven insights to make informed decisions. We begin by defining ECN and outlining the core principles of algorithmic trading, setting the foundation for exploring their combined impact on the financial ecosystem.
+This article investigates into the interplay between ECN trading technology and algorithmic trading, examining their contributions to market efficiency and investor engagement. By understanding these technologies, traders can leverage data-driven insights to make informed decisions. We begin by defining ECN and outlining the core principles of algorithmic trading, setting the foundation for exploring their combined impact on the financial ecosystem.
 
 ## Table of Contents
 

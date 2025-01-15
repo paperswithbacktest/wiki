@@ -13,7 +13,7 @@ For many individuals interested in tapping into these advanced trading technique
 
 However, the landscape is changing. With the advent of user-friendly interfaces and no-code platforms, even those without any programming background can now engage with trading automation and backtesting processes. These tools have democratized access by providing intuitive mechanisms that simplify strategy development and testing, making it more inclusive for everyone to participate in the financial markets.
 
-This article delves into various methods and tools available today that allow traders to automate and backtest their strategies without the requisite of programming expertise. By exploring these modern solutions, traders can optimize their approaches, reduce the emotional biases often associated with manual trading, and efficiently manage their strategies in a 24/7 market environment.
+This article investigates into various methods and tools available today that allow traders to automate and backtest their strategies without the requisite of programming expertise. By exploring these modern solutions, traders can optimize their approaches, reduce the emotional biases often associated with manual trading, and efficiently manage their strategies in a 24/7 market environment.
 
 
 ## Table of Contents

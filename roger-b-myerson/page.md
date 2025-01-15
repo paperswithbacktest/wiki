@@ -104,7 +104,7 @@ Myerson’s insights into mechanism design and strategic interactions provide es
 
 ## Governance, Political Systems, and Game Theory
 
-Roger Myerson's application of game theory to political and electoral systems has had a substantial impact on understanding how constitutional structures shape political incentives and behaviors. His work delves into the strategic interactions between different political actors and investigates how these interactions influence decisions and outcomes within various governance frameworks. 
+Roger Myerson's application of game theory to political and electoral systems has had a substantial impact on understanding how constitutional structures shape political incentives and behaviors. His work investigates into the strategic interactions between different political actors and investigates how these interactions influence decisions and outcomes within various governance frameworks. 
 
 ### Impact on Constitutional Structures
 

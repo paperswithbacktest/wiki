@@ -29,7 +29,7 @@ The concept of Value Area, typically encompassing around 70% of the total volume
 
 In comparison to traditional volume analysis, Volume Profile offers a more detailed and nuanced view of the market. It aids traders in understanding not just how much was traded, but more importantly, where it was traded, offering a [clearer picture of market sentiment](https://paperswithbacktest.com/paper/market-sentiment-and-an-overnight-anomaly) and potential future movements.
 
-For those seeking a deeper understanding of Volume Profile, "Trading with Market Profile" by Peter Steidlmayer and James Dalton serves as a foundational text. This book delves into the intricacies of market profile and volume analysis, providing valuable insights for traders looking to incorporate these concepts into their trading strategies[1].
+For those seeking a deeper understanding of Volume Profile, "Trading with Market Profile" by Peter Steidlmayer and James Dalton serves as a foundational text. This book investigates into the intricacies of market profile and volume analysis, providing valuable insights for traders looking to incorporate these concepts into their trading strategies[1].
 
 ## Components of Volume Profile
 

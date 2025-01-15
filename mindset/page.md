@@ -1,6 +1,6 @@
 ---
 title: "Mindset: the Algo Trader's Psychology"
-description: "Discover the power of trading psychology and behavioral finance in your journey towards successful trading. In the dynamic world of financial markets, understanding how emotions and biases influence decisions is crucial for navigating the complex labyrinth of trading. This comprehensive guide delves into mastering a trader's mindset, drawing on research, expert insights, and practical experience. Explore key characteristics like flexibility, adaptability, and patience that distinguish winning traders, as well as how behavioral finance concepts such as loss aversion and confirmation bias impact trading decisions."
+description: "Discover the power of trading psychology and behavioral finance in your journey towards successful trading. In the dynamic world of financial markets, understanding how emotions and biases influence decisions is crucial for navigating the complex labyrinth of trading. This comprehensive guide investigates into mastering a trader's mindset, drawing on research, expert insights, and practical experience. Explore key characteristics like flexibility, adaptability, and patience that distinguish winning traders, as well as how behavioral finance concepts such as loss aversion and confirmation bias impact trading decisions."
 ---
 
 
@@ -25,7 +25,7 @@ It's no surprise then that some argue trading psychology is as crucial, if not m
 
 ### Key Characteristics of a Winning Trader
 
-Success in the realm of trading extends beyond just analytical skills or market knowledge; it delves deeply into the psychological traits that a trader embodies. While market conditions are ever-fluctuating and often unpredictable, there are certain characteristics that stand the test of time in identifying successful traders.
+Success in the realm of trading extends beyond just analytical skills or market knowledge; it investigates deeply into the psychological traits that a trader embodies. While market conditions are ever-fluctuating and often unpredictable, there are certain characteristics that stand the test of time in identifying successful traders.
 
 **Flexibility:** The financial markets are like a living organism, constantly evolving and adapting to a myriad of factors. A winning trader doesn't stay rigid in their approach. Instead, they remain flexible, ready to shift strategies based on market feedback. George Soros, a renowned investor, once said, “It’s not whether you’re right or wrong that’s important, but how much money you make when you’re right and how much you lose when you’re wrong.”[2] Soros's capability to swiftly adjust his positions, even if they went against his initial beliefs, made him one of the most successful traders in history.
 
@@ -37,7 +37,7 @@ By embodying these characteristics, traders can navigate the unpredictable water
 
 ### The Role of Behavioral Finance in Trading
 
-Behavioral finance, at its core, is the study of how psychological [factor](/wiki/factor-investing)s influence financial decisions and market outcomes. It challenges the traditional finance view which assumes that all investors are rational and always act in their best interest to maximize wealth. Instead, behavioral finance delves into the irrational behaviors and biases that can steer investors away from their financial goals.
+Behavioral finance, at its core, is the study of how psychological [factor](/wiki/factor-investing)s influence financial decisions and market outcomes. It challenges the traditional finance view which assumes that all investors are rational and always act in their best interest to maximize wealth. Instead, behavioral finance investigates into the irrational behaviors and biases that can steer investors away from their financial goals.
 
 While traditional finance operates under the Efficient Market Hypothesis (EMH), positing that prices reflect all available information and thus always represent an asset's intrinsic value, behavioral finance questions this. It suggests that psychological influences and biases can, and often do, prevent markets from being fully efficient.
 

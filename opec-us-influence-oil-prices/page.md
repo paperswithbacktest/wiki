@@ -11,7 +11,7 @@ Algorithmic trading involves using sophisticated mathematical models and compute
 
 Within the context of evolving oil markets, it is imperative to understand how technological innovations like algorithmic trading intersect with geopolitical strategies. The strategic actions of both OPEC and the United States continue to be central to oil price determination on a global scale. Nevertheless, the introduction of algorithmic mechanisms highlights the changing nature of market influence and control.
 
-This article delves into the influence of algorithmic trading on oil pricing, the pivotal roles that the US and OPEC play in this domain, and the broader implications of these developments on discussions about market control. Through a detailed examination of these elements, the article sheds light on the future of oil price control and the critical intersection of technology and strategy in shaping the energy landscape.
+This article investigates into the influence of algorithmic trading on oil pricing, the pivotal roles that the US and OPEC play in this domain, and the broader implications of these developments on discussions about market control. Through a detailed examination of these elements, the article sheds light on the future of oil price control and the critical intersection of technology and strategy in shaping the energy landscape.
 
 ## Table of Contents
 

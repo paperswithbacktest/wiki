@@ -73,7 +73,7 @@ Navigating through the sea of available algorithmic trading courses can be overw
 
 - **Course Overview**: A blend of finance theory and computational skills, this course imparts knowledge on employing machine learning techniques to manage investment portfolios.
 - **Platform**: [Coursera](https://www.coursera.org/specializations/machine-learning-trading)
-- **Course Curriculum**: Delves into investment strategies, machine learning algorithms, Python, and more.
+- **Course Curriculum**: investigates into investment strategies, machine learning algorithms, Python, and more.
 - **Unique Selling Points**: Convergence of traditional finance principles with modern machine learning applications, with case studies on real financial data.
 - **Duration & Flexibility**: Approximately 3 months, self-paced.
 - **Pricing**: Free access to lectures, paid certification.
@@ -143,7 +143,7 @@ Navigating through the sea of available algorithmic trading courses can be overw
 
 ### Algorithmic Trading with Modern Technologies
 
-Venturing into a more specialized domain, [**Machine learning and Reinforcement Learning in Finance**](https://www.coursera.org/specializations/machine-learning-reinforcement-finance) by **Coursera** extends an intricate exploration of how ML and [reinforcement learning](/wiki/reinforcement-learning) can be harnessed in devising sophisticated trading strategies. The course meticulously traverses through various ML models, ensuring traders understand their underpinning principles and application in trading. Notably, it delves into reinforcement learning, exploring how algorithms can learn optimal actions based on historical data, thereby promising enhanced profitability and risk management in trading ventures.
+Venturing into a more specialized domain, [**Machine learning and Reinforcement Learning in Finance**](https://www.coursera.org/specializations/machine-learning-reinforcement-finance) by **Coursera** extends an intricate exploration of how ML and [reinforcement learning](/wiki/reinforcement-learning) can be harnessed in devising sophisticated trading strategies. The course meticulously traverses through various ML models, ensuring traders understand their underpinning principles and application in trading. Notably, it investigates into reinforcement learning, exploring how algorithms can learn optimal actions based on historical data, thereby promising enhanced profitability and risk management in trading ventures.
 
 For an even deeper dive into AI, [**Artificial Intelligence for Trading**](https://www.udacity.com/course/ai-for-trading--nd880) by **Udacity** propounds extensive insights into how AI can transform trading strategies and decision-making processes. It underscores the utilization of AI in extracting, analyzing, and leveraging vast datasets to formulate predictions and execute trades, providing traders with an edge in navigating through the voluminous data prevalent in today’s digital trading environments. The course further elucidates on crafting AI-driven alpha [factor](/wiki/factor-investing)s, ensuring that trading strategies are not only data-driven but also dynamically adaptive to market oscillations.
 

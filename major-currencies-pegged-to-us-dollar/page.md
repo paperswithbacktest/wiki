@@ -9,7 +9,7 @@ A prevalent practice is pegging a nation's currency to the U.S. dollar, a domina
 
 ![Image](images/1.jpeg)
 
-This article delves into the intricate dynamics of currency pegging, focusing on currencies pegged to the U.S. dollar, and examines how these pegs are relevant in the context of algorithmic (algo) trading. Algo trading involves utilizing computer algorithms to manage trading decisions in the forex markets, benefiting from stable exchange rate environments provided by currency pegs. Understanding the relationship between currency pegging and algo trading strategies offers valuable insights for economic stability and forex trading efficiency.
+This article investigates into the intricate dynamics of currency pegging, focusing on currencies pegged to the U.S. dollar, and examines how these pegs are relevant in the context of algorithmic (algo) trading. Algo trading involves utilizing computer algorithms to manage trading decisions in the forex markets, benefiting from stable exchange rate environments provided by currency pegs. Understanding the relationship between currency pegging and algo trading strategies offers valuable insights for economic stability and forex trading efficiency.
 
 ## Table of Contents
 

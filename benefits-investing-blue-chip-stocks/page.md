@@ -130,7 +130,7 @@ Ultimately, a cohesive investment strategy that harmonizes the dependability of 
 
 Bodie, Z., Kane, A., & Marcus, A. J. (2014). *Investments.* McGraw-Hill Education. This book provides a comprehensive overview of investment fundamentals, incorporating modern portfolio theory and practical advice for investing in various financial instruments.
 
-Fabozzi, F. J., & Focardi, S. M. (2008). *Robust Portfolio Optimization and Management.* Wiley. This text delves into advanced portfolio management strategies, including robust optimization techniques that account for market uncertainties and investor risk preferences.
+Fabozzi, F. J., & Focardi, S. M. (2008). *Robust Portfolio Optimization and Management.* Wiley. This text investigates into advanced portfolio management strategies, including robust optimization techniques that account for market uncertainties and investor risk preferences.
 
 Tsay, R. S. (2010). *Analysis of Financial Time Series.* Wiley. A thorough exploration of statistical methods for analyzing financial data, this resource covers time series analysis techniques crucial for informed investment decisions and model development.
 

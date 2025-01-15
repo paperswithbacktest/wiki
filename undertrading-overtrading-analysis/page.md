@@ -9,7 +9,7 @@ Overtrading, characterized by excessive trading activities, and undertrading, ma
 
 ![Image](images/1.png)
 
-This article delves into the causes behind these behaviors and examines their effects, both on a micro level, affecting individual trader outcomes, and on a macro level, influencing market efficiency and stability. In an era where algorithmic trading plays a pivotal role, the tendency towards overtrading can be exacerbated by automated systems, leading to increased market volatility and potential disruptions.
+This article investigates into the causes behind these behaviors and examines their effects, both on a micro level, affecting individual trader outcomes, and on a macro level, influencing market efficiency and stability. In an era where algorithmic trading plays a pivotal role, the tendency towards overtrading can be exacerbated by automated systems, leading to increased market volatility and potential disruptions.
 
 To foster a more disciplined and profitable trading environment, it is critical to address these imbalances with strategic measures. This involves recognizing the symptoms and causes of overtrading and undertrading, understanding their impact, and implementing strategies to mitigate their effects. The goal is to equip traders with the tools needed to navigate the complexities of modern trading, ultimately contributing to a more stable and efficient market landscape.
 

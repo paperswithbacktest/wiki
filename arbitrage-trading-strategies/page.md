@@ -93,7 +93,7 @@ Market makers also inadvertently create arbitrage opportunities due to the very 
 
 Moreover, the actions of market makers and arbitrageurs are interconnected in a feedback loop that promotes market efficiency. As arbitrageurs take advantage of mispricings, they provide information to the market, which market makers can use to adjust their prices, reducing the likelihood of future mispricings.
 
-For a deeper understanding of the role of market makers in financial markets, including their contribution to arbitrage and market efficiency, "Market Microstructure Theory" by Maureen O'Hara offers comprehensive insights. This book delves into the mechanisms of trading and the role of market makers, providing a detailed analysis of how these elements interact to influence market dynamics[6].
+For a deeper understanding of the role of market makers in financial markets, including their contribution to arbitrage and market efficiency, "Market Microstructure Theory" by Maureen O'Hara offers comprehensive insights. This book investigates into the mechanisms of trading and the role of market makers, providing a detailed analysis of how these elements interact to influence market dynamics[6].
 
 ## Arbitrage in Different Markets
 

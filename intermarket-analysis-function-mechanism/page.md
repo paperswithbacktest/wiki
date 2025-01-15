@@ -9,7 +9,7 @@ Algorithmic trading, or algo trading, employs computer algorithms to automate tr
 
 ![Image](images/1.png)
 
-This article explores the intricate web of financial markets, focusing on the concept of intermarket analysis and its integration with algo trading to develop successful investment strategies. Furthermore, it delves into the reasons why mastering these concepts is crucial for any serious investor or trader operating in today's volatile market environment. As financial markets continue to grow in complexity and interdependence, possessing the ability to effectively analyze and react to these relationships becomes increasingly paramount.
+This article explores the intricate web of financial markets, focusing on the concept of intermarket analysis and its integration with algo trading to develop successful investment strategies. Furthermore, it investigates into the reasons why mastering these concepts is crucial for any serious investor or trader operating in today's volatile market environment. As financial markets continue to grow in complexity and interdependence, possessing the ability to effectively analyze and react to these relationships becomes increasingly paramount.
 
 ## Table of Contents
 

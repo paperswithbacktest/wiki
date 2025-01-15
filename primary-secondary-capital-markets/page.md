@@ -152,7 +152,7 @@ A comprehensive understanding of the dynamics between primary and secondary mark
   This survey article provides a thorough overview of market microstructure, examining how particular trading mechanisms influence the process of discovering prices and affect liquidity. Madhavan's work is particularly useful in grasping how micro-level elements interact with macroeconomic factors in trading environments.
 
 - **Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading by Hasbrouck, J.**  
-  Hasbrouck delves into empirical methods employed in studying market microstructure, highlighting both theoretical and practical aspects. The book discusses the econometric techniques and institutional practices that shape securities trading, offering a deep dive into price formation processes.
+  Hasbrouck investigates into empirical methods employed in studying market microstructure, highlighting both theoretical and practical aspects. The book discusses the econometric techniques and institutional practices that shape securities trading, offering a deep dive into price formation processes.
 
 - **Algorithmic Trading: Winning Strategies and Their Rationale by Ernest P. Chan**  
   Ernest P. Chan's book articulates the strategies behind successful algorithmic trading. By explaining the rationale behind different strategies, this text serves as a practical guide for traders aiming to leverage algorithmic methods for improving trading performance.

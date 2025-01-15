@@ -234,7 +234,7 @@ The article underscores the need for further exploration and wider adoption of M
 
 2. Pacheco, P. S. (2011). *An Introduction to Parallel Programming*. Morgan Kaufmann. This source gives an overview of parallel computing principles, including an exploration of MPI's effectiveness in facilitating communication among processors. [Link](https://www.elsevier.com/books/an-introduction-to-parallel-programming/pacheco/978-0-12-374260-5)
 
-3. Börger, E., & Staerk, R. (2012). *Abstract State Machines: A Method for High-Level System Design and Analysis*. Springer. This text delves into the technical aspects of system design leveraging parallel computing architectures like MPI. [Link](https://www.springer.com/gp/book/9783642073477)
+3. Börger, E., & Staerk, R. (2012). *Abstract State Machines: A Method for High-Level System Design and Analysis*. Springer. This text investigates into the technical aspects of system design leveraging parallel computing architectures like MPI. [Link](https://www.springer.com/gp/book/9783642073477)
 
 4. Li, M., & Wu, D. (2014). *High-Performance Parallel Algorithms*. Springer. This book discusses various parallel algorithms, including those utilizing MPI, offering insights on their application in computing tasks. [Link](https://www.springer.com/gp/book/9783642430034)
 

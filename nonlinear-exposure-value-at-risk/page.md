@@ -173,7 +173,7 @@ Understanding these limitations is imperative for incorporating VaR into a broad
 
 ## Advanced VaR Techniques and Considerations
 
-Conditional Value at Risk (CVaR), also known as Expected Shortfall, extends the utility of traditional Value at Risk (VaR) by addressing its limitations in representing the tail risk. Unlike VaR, which provides a threshold value such that the probability of a loss exceeding this threshold over a given time frame is at a certain confidence level, CVaR delves deeper into the tail by estimating the expected losses that occur beyond the VaR threshold. This approach ensures a more comprehensive assessment of risk, particularly in volatile market conditions where extreme outcomes are more probable.
+Conditional Value at Risk (CVaR), also known as Expected Shortfall, extends the utility of traditional Value at Risk (VaR) by addressing its limitations in representing the tail risk. Unlike VaR, which provides a threshold value such that the probability of a loss exceeding this threshold over a given time frame is at a certain confidence level, CVaR investigates deeper into the tail by estimating the expected losses that occur beyond the VaR threshold. This approach ensures a more comprehensive assessment of risk, particularly in volatile market conditions where extreme outcomes are more probable.
 
 Mathematically, CVaR is defined as the expected loss given that the loss is beyond the VaR level at a specific confidence level $\alpha$. If $L$ represents the loss variable, and $\mathrm{VaR}_{\alpha}(L)$ is the VaR at the confidence level $\alpha$, then CVaR is expressed as:
 

@@ -134,7 +134,7 @@ In conclusion, algorithmic trading represents a dynamic force in NYMEX commodity
 
 2. **Research Papers:**
    - Hasbrouck, J., & Saar, G. (2013). *Low-latency trading*. Journal of Financial Markets. This paper examines the implications of low-latency trading on market efficiency and investor strategies.
-   - Aldridge, I. (2013). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. This paper delves into the technical and quantitative aspects of designing high-frequency trading strategies.
+   - Aldridge, I. (2013). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. This paper investigates into the technical and quantitative aspects of designing high-frequency trading strategies.
 
 3. **Articles from Financial Publications:**
    - "The Impact of Algorithmic Trading on the Commodity Markets," published by the Financial Times. This article provides an overview of how technological advancements have reshaped trading practices.

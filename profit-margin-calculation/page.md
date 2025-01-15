@@ -29,7 +29,7 @@ This metric is instrumental in assessing the production processes and pricing st
 
 **Operating Profit Margin**
 
-Operating profit margin delves deeper by examining a company's earnings before interest and taxes (EBIT). It accounts for operational productivity, incorporating overhead costs and other operational expenses, providing a broader perspective on a company's profitability. The formula is:
+Operating profit margin investigates deeper by examining a company's earnings before interest and taxes (EBIT). It accounts for operational productivity, incorporating overhead costs and other operational expenses, providing a broader perspective on a company's profitability. The formula is:
 
 $$
 \text{Operating Profit Margin} = \left( \frac{\text{EBIT}}{\text{Revenue}} \right) \times 100

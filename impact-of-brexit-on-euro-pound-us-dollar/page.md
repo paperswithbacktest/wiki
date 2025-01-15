@@ -11,7 +11,7 @@ The immediate aftermath of Brexit was characterized by heightened volatility, pa
 
 In recent years, algorithmic trading has emerged as a pivotal tool in foreign exchange, enabling market participants to efficiently respond to these fluctuations. Algorithms, leveraging speed and precision, facilitate real-time analysis and execution of trades, responding to market anomalies that may arise from geopolitical events like Brexit.
 
-This article delves into the Brexit-induced transformations affecting the aforementioned major currencies and discusses how algorithmic trading serves as a means to address the challenges posed by such uncertainties. By exploring these dynamics, the article aims to equip traders and investors with insights essential for making informed decisions in a landscape where political and economic factors are inextricably linked.
+This article investigates into the Brexit-induced transformations affecting the aforementioned major currencies and discusses how algorithmic trading serves as a means to address the challenges posed by such uncertainties. By exploring these dynamics, the article aims to equip traders and investors with insights essential for making informed decisions in a landscape where political and economic factors are inextricably linked.
 
 ## Table of Contents
 

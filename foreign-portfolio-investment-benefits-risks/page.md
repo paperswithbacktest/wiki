@@ -9,7 +9,7 @@ Unlike Foreign Direct Investment (FDI), where investors gain management control 
 
 ![Image](images/1.png)
 
-This article delves into the multifaceted world of FPI by examining its benefits, such as liquidity and diversification, and its associated risks, including market volatility and foreign exchange fluctuations. Additionally, we explore how algorithmic trading can be utilized to manage FPIs effectively, offering investors a strategic edge in navigating complex market dynamics. By comparing FPI to FDI, we aim to highlight the unique opportunities FPIs present and guide investors on how to capitalize on this form of investment to enhance their global asset portfolios.
+This article investigates into the multifaceted world of FPI by examining its benefits, such as liquidity and diversification, and its associated risks, including market volatility and foreign exchange fluctuations. Additionally, we explore how algorithmic trading can be utilized to manage FPIs effectively, offering investors a strategic edge in navigating complex market dynamics. By comparing FPI to FDI, we aim to highlight the unique opportunities FPIs present and guide investors on how to capitalize on this form of investment to enhance their global asset portfolios.
 
 ## Table of Contents
 

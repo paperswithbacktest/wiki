@@ -9,7 +9,7 @@ The effectiveness of trading strategies relies not only on technical algorithms 
 
 ![Image](images/1.jpeg)
 
-Combining these psychological attributes with algorithmic trading offers a holistic approach that enhances trading capabilities. The synergy between cognitive attributes and technology provides traders with a comprehensive toolkit to tackle market challenges and optimize performance. As we explore further, the article delves into how these psychological aspects can be harnessed to refine trading strategies and drive personal development in this high-stakes arena.
+Combining these psychological attributes with algorithmic trading offers a holistic approach that enhances trading capabilities. The synergy between cognitive attributes and technology provides traders with a comprehensive toolkit to tackle market challenges and optimize performance. As we explore further, the article investigates into how these psychological aspects can be harnessed to refine trading strategies and drive personal development in this high-stakes arena.
 
 ## Table of Contents
 

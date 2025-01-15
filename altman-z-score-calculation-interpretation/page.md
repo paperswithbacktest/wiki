@@ -11,7 +11,7 @@ The Altman Z-Score is a notable tool utilized in such evaluations. Developed by 
 
 Furthermore, the Altman Z-Score's applicability has extended into modern investment strategies, particularly in algorithmic trading. Algorithmic traders seek to refine their tactics by integrating various quantitative measures to bolster portfolio performance. The Z-Score offers an additional layer of risk assessment, aiding in the identification of potentially unstable investments and allowing traders to make more informed decisions to enhance their returns.
 
-This article delves into a comprehensive analysis of the Altman Z-Score, examining its creation, methodology, and the multifaceted benefits it offers in evaluating the fiscal robustness of a company. It also explores how integrating this tool with algorithmic trading strategies can provide substantial advantages in crafting effective investment strategies. Through this analysis, we aim to uncover the continued relevance of the Altman Z-Score and its efficacy in current and evolving financial environments.
+This article investigates into a comprehensive analysis of the Altman Z-Score, examining its creation, methodology, and the multifaceted benefits it offers in evaluating the fiscal robustness of a company. It also explores how integrating this tool with algorithmic trading strategies can provide substantial advantages in crafting effective investment strategies. Through this analysis, we aim to uncover the continued relevance of the Altman Z-Score and its efficacy in current and evolving financial environments.
 
 ## Table of Contents
 

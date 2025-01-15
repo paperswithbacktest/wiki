@@ -89,7 +89,7 @@ In conclusion, the thoughtful selection and implementation of accounting methods
 
 1. **Books:**
    - "Financial Accounting: An Introduction" by Pauline Weetman provides a comprehensive overview of the principles that underpin accounting practices, making it a great read for understanding the various methods and their applications.
-   - "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan delves into the intricacies of algorithmic trading, exploring both the technical and strategic elements involved.
+   - "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan investigates into the intricacies of algorithmic trading, exploring both the technical and strategic elements involved.
 
 2. **Online Articles:**
    - Investopedia is an excellent resource for understanding the different accounting methods such as FIFO (First-In, First-Out), LIFO (Last-In, First-Out), and Weighted Average Cost. Articles on Investopedia provide easy-to-understand explanations and practical examples. 

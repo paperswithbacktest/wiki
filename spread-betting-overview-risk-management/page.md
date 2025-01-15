@@ -170,7 +170,7 @@ Explore additional materials and references for a comprehensive exploration of r
    This book offers insights into the latest machine learning techniques tailored for financial markets, covering both theoretical foundations and practical implementations. Key areas include portfolio management, trading strategies, and backtesting methodologies. The text is particularly useful for understanding how machine learning can enhance risk management and decision-making processes in trading.
 
 2. **Options, Futures, and Other Derivatives by John C. Hull**
-   John Hull's comprehensive guide to derivatives markets is an essential resource for anyone looking to understand the intricacies of various financial instruments. The book delves into options, futures, swaps, and more, with emphasis on practical applications and risk management strategies. It effectively bridges the gap between theoretical finance and real-world applications, making it valuable for traders and risk managers alike.
+   John Hull's comprehensive guide to derivatives markets is an essential resource for anyone looking to understand the intricacies of various financial instruments. The book investigates into options, futures, swaps, and more, with emphasis on practical applications and risk management strategies. It effectively bridges the gap between theoretical finance and real-world applications, making it valuable for traders and risk managers alike.
 
 ### Research Papers and Articles
 

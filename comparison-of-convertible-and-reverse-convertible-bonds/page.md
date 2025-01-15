@@ -11,7 +11,7 @@ Algorithmic trading, commonly known as algo trading, refers to the use of comput
 
 The significance of these financial instruments in modern finance is profound. Convertible bonds are particularly attractive in volatile markets, offering issuers a lower cost of capital while providing investors with diversified investment opportunities. Reverse convertible bonds, meanwhile, offer potentially higher yields but require careful risk assessment. The rise of algorithmic trading in bond markets further emphasizes the need for sophisticated trading strategies and infrastructure to optimize outcomes and manage associated risks.
 
-This article aims to provide a comprehensive overview of convertible bonds, reverse convertible bonds, and the role of algorithmic trading in bond markets. It delves into the mechanics, benefits, and risks of each bond type, and contrasts their features. Subsequent sections will explore the strategic utility of these financial instruments and examine how algorithmic trading is reshaping market dynamics. Understanding these elements is crucial for investors and companies aiming to harness their potential effectively in today's rapidly evolving financial environment.
+This article aims to provide a comprehensive overview of convertible bonds, reverse convertible bonds, and the role of algorithmic trading in bond markets. It investigates into the mechanics, benefits, and risks of each bond type, and contrasts their features. Subsequent sections will explore the strategic utility of these financial instruments and examine how algorithmic trading is reshaping market dynamics. Understanding these elements is crucial for investors and companies aiming to harness their potential effectively in today's rapidly evolving financial environment.
 
 ## Table of Contents
 
@@ -173,7 +173,7 @@ For those interested in understanding more, a wealth of literature exists on the
 
 2. **Academic Papers:**
    - Ammann, M., Kind, A., & Wilde, C. (2003). *Are convertible bonds useful for financing? An empirical analysis of the international market*. Journal of Banking & Finance, 27(4), 635-638. This paper evaluates different motives for firms issuing convertible bonds and the impact on market performance.
-   - De Jong, F., & Driessen, J. (2012). *Liquidity risk premia in corporate bond markets*. Quarterly Journal of Finance, 2(02), 1250011. This paper delves into the impact of liquidity risk on corporate bond markets, suitable for understanding nuances in bond trading.
+   - De Jong, F., & Driessen, J. (2012). *Liquidity risk premia in corporate bond markets*. Quarterly Journal of Finance, 2(02), 1250011. This paper investigates into the impact of liquidity risk on corporate bond markets, suitable for understanding nuances in bond trading.
 
 3. **Online Articles:**
    - Investopedia. *Convertible Bond Definition and Examples*. Available at: [https://www.investopedia.com/terms/c/convertiblebond.asp](https://www.investopedia.com/terms/c/convertiblebond.asp). An introductory resource for understanding the basic mechanics and benefits of convertible bonds.

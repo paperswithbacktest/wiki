@@ -9,7 +9,7 @@ Since its inception, DGCX has consistently broadened its offerings, which now en
 
 ![Image](images/1.jpeg)
 
-This article provides a detailed exploration of commodities trading on the DGCX. Furthermore, it delves into the rising prominence of algorithmic trading within this dynamic exchange. Through cutting-edge technology and strategic innovation, DGCX has significantly influenced the trading paradigm in the Middle East, bridging regional markets with global financial centers and establishing a robust platform for future growth and development.
+This article provides a detailed exploration of commodities trading on the DGCX. Furthermore, it investigates into the rising prominence of algorithmic trading within this dynamic exchange. Through cutting-edge technology and strategic innovation, DGCX has significantly influenced the trading paradigm in the Middle East, bridging regional markets with global financial centers and establishing a robust platform for future growth and development.
 
 ## Table of Contents
 

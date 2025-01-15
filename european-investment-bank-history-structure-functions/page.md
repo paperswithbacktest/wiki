@@ -5,7 +5,7 @@ description: "Explore the European Investment Bank's history, structure, and fun
 
 The European Investment Bank (EIB) is a cornerstone institution within the European Union, established to support its policy objectives through the financing of large-scale projects. Founded in 1958 under the Treaty of Rome, the EIB has since become one of the world's largest multilateral financial institutions, playing a critical role in fostering economic growth, promoting social cohesion, and addressing environmental challenges across the EU and beyond. 
 
-This article provides an overview of the EIB's transformation over the decades, highlighting its historical milestones and strategic shifts. It delves into the services offered by the bank, such as loans, guarantees, and equity investments, which are designed to support projects that align with the EU's policy priorities. In particular, the EIB has become a leader in climate finance, committing substantial resources to combat climate change and support sustainable development.
+This article provides an overview of the EIB's transformation over the decades, highlighting its historical milestones and strategic shifts. It investigates into the services offered by the bank, such as loans, guarantees, and equity investments, which are designed to support projects that align with the EU's policy priorities. In particular, the EIB has become a leader in climate finance, committing substantial resources to combat climate change and support sustainable development.
 
 ![Image](images/1.png)
 

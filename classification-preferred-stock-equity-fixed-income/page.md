@@ -100,7 +100,7 @@ By strategically combining these financial instruments, investors can construct 
   Ernest P. Chan offers practical insights into the world of algorithmic trading. By detailing the development and deployment of trading algorithms, this book serves as a guide for leveraging technology to enhance trading efficiency and exploit market opportunities.
 
 - **“Machine Learning for Algorithmic Trading” by Stefan Jansen**  
-  This work delves into the implementation of machine learning techniques for developing robust and adaptive trading strategies. Stefan Jansen covers concepts such as data-driven trading, automation, and performance improvement, crucial for integrating algorithmic trading within financial markets.
+  This work investigates into the implementation of machine learning techniques for developing robust and adaptive trading strategies. Stefan Jansen covers concepts such as data-driven trading, automation, and performance improvement, crucial for integrating algorithmic trading within financial markets.
 
 These references provide additional context and depth for investors and financial professionals interested in preferred stocks, fixed-income securities, and the transformative role of algorithmic trading strategies.
 

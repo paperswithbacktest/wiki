@@ -11,7 +11,7 @@ On the other hand, non-factor income encompasses flows that do not directly stem
 
 In parallel, algorithmic trading has revolutionized financial markets, enabling traders to execute high-frequency trades with exceptional precision. By employing complex algorithms, traders can automate the buying and selling process, minimizing human error and neutralizing emotional biases. This transformation enhances trading efficiency, reduces costs, and exploits market inefficiencies through strategies like trend-following and arbitrage.
 
-This article delves into the definitions, uses, and implications of both factor and non-factor income, alongside the mechanics and advantages of algorithmic trading. Through these discussions, readers will gain insights into how income types shape economic strategies within a nation's economy and how algorithmic trading influences market behavior, equipping investors and economists with a comprehensive understanding of these crucial financial dynamics.
+This article investigates into the definitions, uses, and implications of both factor and non-factor income, alongside the mechanics and advantages of algorithmic trading. Through these discussions, readers will gain insights into how income types shape economic strategies within a nation's economy and how algorithmic trading influences market behavior, equipping investors and economists with a comprehensive understanding of these crucial financial dynamics.
 
 ## Table of Contents
 

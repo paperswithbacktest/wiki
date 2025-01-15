@@ -183,7 +183,7 @@ Overall, excelling in the understanding of depreciated cost calculation translat
 
 Books, articles, and online resources provide valuable insights into understanding and applying depreciation in financial contexts. For a comprehensive understanding of financial accounting concepts, including depreciation, "Financial Accounting: Tools for Business Decision Making" by Paul D. Kimmel and colleagues offers a detailed exploration. This resource is instrumental for anyone seeking to grasp how depreciation affects financial statements and reporting. 
 
-On the other hand, "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan delves into the nuances of algorithmic trading. This text discusses the integration of financial concepts like depreciation into trading algorithms, providing strategies that leverage data effectively for trading success. Chan’s book serves as a guide for developing trading models that incorporate real-time changes in asset values, enhancing decision-making accuracy and robustness.
+On the other hand, "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan investigates into the nuances of algorithmic trading. This text discusses the integration of financial concepts like depreciation into trading algorithms, providing strategies that leverage data effectively for trading success. Chan’s book serves as a guide for developing trading models that incorporate real-time changes in asset values, enhancing decision-making accuracy and robustness.
 
 These publications provide foundational knowledge and strategies for professionals in accounting and trading, offering clarity on the complexities of depreciation and its influence on financial decision-making.
 

@@ -249,5 +249,5 @@ AI is transforming stock trading but not making traditional methods obsolete. In
 ## References & Further Reading
 
 - ["Artificial Intelligence in Finance: A Python-Based Guide"](https://www.amazon.com/Artificial-Intelligence-Finance-Python-Based-Guide/dp/1492055433) by Yves Hilpisch - A comprehensive guide exploring AI applications in finance, including stock trading.
-- ["Trading Evolved: Anyone Can Build Killer Trading Strategies in Python"](https://www.amazon.com/Trading-Evolved-Anyone-Killer-Strategies-ebook/dp/B07VDLX55H) by Andreas Clenow - This book delves into how to use Python for developing sophisticated trading strategies, incorporating AI elements.
+- ["Trading Evolved: Anyone Can Build Killer Trading Strategies in Python"](https://www.amazon.com/Trading-Evolved-Anyone-Killer-Strategies-ebook/dp/B07VDLX55H) by Andreas Clenow - This book investigates into how to use Python for developing sophisticated trading strategies, incorporating AI elements.
 - ["Machine Learning for Algorithmic Trading"](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) by Stefan Jansen - A resourceful book for understanding how machine learning can be applied in algorithmic trading.

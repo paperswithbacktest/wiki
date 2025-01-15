@@ -9,7 +9,7 @@ The three primary types of moving averages—Weighted Moving Average (WMA), Expo
 
 ![Image](images/1.png)
 
-This article delves into WMAs and EMAs, exploring the reasons these particular averages are favored in algorithmic trading strategies. With their ability to reduce lag and effectively capture trends, WMAs and EMAs are particularly well-suited for dynamic market environments where rapid adaptability and precise execution are crucial.
+This article investigates into WMAs and EMAs, exploring the reasons these particular averages are favored in algorithmic trading strategies. With their ability to reduce lag and effectively capture trends, WMAs and EMAs are particularly well-suited for dynamic market environments where rapid adaptability and precise execution are crucial.
 
 By integrating moving averages into algorithms, traders can automate decisions based on historical and real-time data, participating in the market with precision and speed. These methods empower traders to spot potential entry and exit points while minimizing the impact of emotional decision-making. Understanding these concepts is essential for anyone engaged in algo trading, as it enables the construction of systems that can withstand the inherent uncertainties and fluctuations of financial markets.
 

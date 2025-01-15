@@ -9,7 +9,7 @@ Among the many changes influencing financial markets, algorithmic trading has em
 
 ![Image](images/1.png)
 
-This article explores the interconnection between securities regulation, financial markets, and algorithmic trading on U.S. stock exchanges. It delves into how these regulations are crafted to keep pace with technological advancements while ensuring that the markets remain fair and competitive. Understanding these dynamics is crucial for the continued leadership of the U.S. in the global financial market space.
+This article explores the interconnection between securities regulation, financial markets, and algorithmic trading on U.S. stock exchanges. It investigates into how these regulations are crafted to keep pace with technological advancements while ensuring that the markets remain fair and competitive. Understanding these dynamics is crucial for the continued leadership of the U.S. in the global financial market space.
 
 ## Table of Contents
 

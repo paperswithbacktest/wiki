@@ -11,7 +11,7 @@ Managing risks in algorithmic trading is crucial to mitigate potential financial
 
 Monte Carlo analysis emerges as a powerful statistical tool within this landscape, facilitating an understanding of possible outcomes and risks associated with trading strategies. By employing random sampling to project the impact of risk and uncertainty within predictive models, Monte Carlo simulations provide traders with critical insights into the probability of different outcomes. This allows for a comprehensive examination of trading strategies before deploying them in real markets, thus enhancing the robustness and viability of these strategies.
 
-This article delves into the interplay between risk assessment, risk estimation, Monte Carlo analysis, and algorithmic trading, highlighting how these elements converge to shape effective risk management and strategy formulation within the dynamic field of algo trading.
+This article investigates into the interplay between risk assessment, risk estimation, Monte Carlo analysis, and algorithmic trading, highlighting how these elements converge to shape effective risk management and strategy formulation within the dynamic field of algo trading.
 
 ## Table of Contents
 

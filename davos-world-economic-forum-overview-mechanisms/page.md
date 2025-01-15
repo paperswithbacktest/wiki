@@ -1,6 +1,6 @@
 ---
 title: "Davos World Economic Forum: Overview and Mechanisms (Algo Trading)"
-description: "Explore how the Davos World Economic Forum delves into the role of algorithmic trading and its profound impact on global markets and economic policies."
+description: "Explore how the Davos World Economic Forum investigates into the role of algorithmic trading and its profound impact on global markets and economic policies."
 ---
 
 The World Economic Forum (WEF), held annually in the picturesque town of Davos, Switzerland, serves as a critical gathering spot for the world's political and economic leaders. Each year, this prestigious event draws attention to pressing issues that shape the global economy. Among these topics is the integration of algorithmic trading, a subject that has gained prominence given its transformative impact on global markets. 

@@ -98,7 +98,7 @@ Johnson, H., & Kwok, C. (2010). *Re-examining the Causes of the Flash Crash of 2
 
 MacKenzie, D. A., & Spears, T. (2018). *The Invention of Credit Default Swaps*. This publication explores the development and impact of credit default swaps (CDS) on financial markets, which played a significant role in the 2008 financial meltdown. It highlights the systemic risks introduced by CDS and the regulatory challenges they pose.
 
-Pasquariello, P. (2019). *Financial Market Dislocations*. This book delves into the phenomenon of market dislocations, where asset prices are significantly detached from fundamental values due to liquidity crises and other factors. It provides an analytical framework for understanding these dislocations and their implications for financial stability.
+Pasquariello, P. (2019). *Financial Market Dislocations*. This book investigates into the phenomenon of market dislocations, where asset prices are significantly detached from fundamental values due to liquidity crises and other factors. It provides an analytical framework for understanding these dislocations and their implications for financial stability.
 
 Aldridge, I. (2013). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. This guide covers the mechanics of high-frequency trading and its impact on market dynamics. It discusses both the benefits, such as enhanced market liquidity, and the risks, including potential for increased volatility and systemic instability, associated with algorithmic trading practices.
 

@@ -9,7 +9,7 @@ By dedicating investment capital towards both extremes of the risk spectrum, inv
 
 ![Image](images/1.jpeg)
 
-Potential applications of the Barbell Strategy are diverse and can be particularly advantageous in navigating volatile markets. This article delves into the structure and implementation of the Barbell Strategy across various asset classes, from fixed-income securities to equities, and examines its effectiveness within the realm of algorithmic trading. By evaluating the benefits and limitations inherent in this strategic approach, the article aims to equip investors with the insights necessary to judge its suitability for their individual risk tolerance and investment goals.
+Potential applications of the Barbell Strategy are diverse and can be particularly advantageous in navigating volatile markets. This article investigates into the structure and implementation of the Barbell Strategy across various asset classes, from fixed-income securities to equities, and examines its effectiveness within the realm of algorithmic trading. By evaluating the benefits and limitations inherent in this strategic approach, the article aims to equip investors with the insights necessary to judge its suitability for their individual risk tolerance and investment goals.
 
 ## Table of Contents
 

@@ -137,7 +137,7 @@ To maximize returns and minimize risks, a comprehensive approach is advisable. I
 
 [2]: The Role of Dividends in Stock Performance in Market Studies: This source discusses the influence of dividends on stock performance, supported by empirical data from various market studies. It highlights the correlation between consistent dividend payments and share price stability, as well as the potential for dividends to serve as indicators of a company's long-term financial health.
 
-[3]: Algorithmic Trading and the Benefits of Tailored Strategies: This reference offers insights into how algorithmic trading can be customized to optimize dividend-focused investment strategies. It delves into the use of quantitative analysis and machine learning to develop algorithms capable of processing large volumes of financial data, identifying profitable patterns, and executing trades with precision.
+[3]: Algorithmic Trading and the Benefits of Tailored Strategies: This reference offers insights into how algorithmic trading can be customized to optimize dividend-focused investment strategies. It investigates into the use of quantitative analysis and machine learning to develop algorithms capable of processing large volumes of financial data, identifying profitable patterns, and executing trades with precision.
 
 [4]: Case Studies on Dividend Strategies in Various Industries: This source provides a collection of case studies examining dividend strategies across different sectors. It analyzes how companies tailor their dividend policies based on industry characteristics and market conditions, offering lessons on the adaptability and effectiveness of various approaches.
 

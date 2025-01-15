@@ -182,7 +182,7 @@ Wall Street Mojo's article on "Return on Invested Capital (ROIC): Meaning, Formu
 
 "The Intelligent Investor: The Definitive Book on Value Investing" by Benjamin Graham emphasizes the importance of analyzing financial ratios, including ROIC, as part of a comprehensive strategy for value investing. Graham's work remains influential, stressing disciplined and rational approaches to investing.
 
-"Investment Valuation: Tools and Techniques for Determining the Value of Any Asset" by Aswath Damodaran, part of the Wiley Finance series, delves into various methods for asset valuation. Damodaran's book serves as a critical reference for understanding how ROIC fits within broader valuation techniques, offering methodologies and tools essential for thorough financial analysis.
+"Investment Valuation: Tools and Techniques for Determining the Value of Any Asset" by Aswath Damodaran, part of the Wiley Finance series, investigates into various methods for asset valuation. Damodaran's book serves as a critical reference for understanding how ROIC fits within broader valuation techniques, offering methodologies and tools essential for thorough financial analysis.
 
 "Quality Minus Junk," a study by Asness, C. S., Frazzini, A., & Pedersen, L. H., explores the performance of high-quality companies over lower-quality ones. The research highlights ROIC as a measure of quality, examining its role in identifying companies capable of generating superior returns, thereby informing investment strategy development.
 

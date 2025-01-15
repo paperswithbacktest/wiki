@@ -101,7 +101,7 @@ As the financial landscape undergoes technological and regulatory transformation
 
 - International Swaps and Derivatives Association, Inc. (2003). *ISDA Master Agreement.* An essential document for professionals in the derivatives market, this agreement provides the foundational legal framework facilitating secure and standardized transactions in the over-the-counter derivatives markets. For more information, visit [ISDA's official site](https://www.isda.org/).
 
-- Cartea, Á., Jaimungal, S., & Penalva, J. (2015). *Algorithmic and High-Frequency Trading.* Cambridge University Press. This book delves into the technical and quantitative aspects of algorithmic trading, providing a detailed analysis of the strategies and algorithms employed in high-frequency trading environments.
+- Cartea, Á., Jaimungal, S., & Penalva, J. (2015). *Algorithmic and High-Frequency Trading.* Cambridge University Press. This book investigates into the technical and quantitative aspects of algorithmic trading, providing a detailed analysis of the strategies and algorithms employed in high-frequency trading environments.
 
 - Pirrong, C. (2011). *The Economics of Central Clearing: Theory and Practice.* ISDA. This paper discusses the significance and complexities of central clearing in derivatives markets, exploring the theoretical framework and practical implications of clearinghouses' roles in minimizing counterparty risk.
 

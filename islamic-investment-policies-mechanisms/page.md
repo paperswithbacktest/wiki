@@ -129,7 +129,7 @@ The trajectory for Islamic finance is promising, as the sector is poised for con
 
 5. **Usmani, Taqi. "An Introduction to Islamic Finance."** Written by a renowned scholar, this book is an essential reference for understanding the core concepts of Islamic finance and the economic rationale behind Shariah-compliant investing.
 
-6. **Ayub, Muhammad. "Understanding Islamic Finance."** This text delves into the structure and functioning of Islamic financial systems, outlining the ethical guidelines that govern investment decisions under Shariah law.
+6. **Ayub, Muhammad. "Understanding Islamic Finance."** This text investigates into the structure and functioning of Islamic financial systems, outlining the ethical guidelines that govern investment decisions under Shariah law.
 
 7. **Hassan, Kabir and Lewis, Mervyn K. "Handbook of Islamic Banking."** This comprehensive guide examines various aspects of Islamic banking and finance, providing a scholarly resource for understanding investment mechanisms within Shariah frameworks.
 

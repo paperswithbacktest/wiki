@@ -123,7 +123,7 @@ Given the interdependencies among these elements, financial strategies should in
 
 **Further Reading Suggestions:**
 
-- Acemoglu, Daron, and James A. Robinson. "Why Nations Fail: The Origins of Power, Prosperity, and Poverty." Crown Business, 2012. This work delves into the political and economic factors influencing the success of nations.
+- Acemoglu, Daron, and James A. Robinson. "Why Nations Fail: The Origins of Power, Prosperity, and Poverty." Crown Business, 2012. This work investigates into the political and economic factors influencing the success of nations.
 - Piketty, Thomas. "Capital in the Twenty-First Century." Harvard University Press, 2014. Piketty's analysis of wealth concentration and distribution over the past few centuries.
 - UNDP Human Development Reports. Available at: [hdr.undp.org/en/reports](http://hdr.undp.org/en/reports) for the latest insights and in-depth analysis on human development indices and their implications.
 

@@ -125,7 +125,7 @@ Investing in these advanced systems not only empowers companies to make more inf
 
 ## References & Further Reading
 
-Prado, M. L. (2018). *Advances in Financial Machine Learning*. Wiley. This book explores the intersection of machine learning and finance, providing insights into how machine learning algorithms can be applied to enhance financial strategies. Prado delves into topics such as financial data structures, labeling for financial machine learning, and the intricacies of [backtesting](/wiki/backtesting).
+Prado, M. L. (2018). *Advances in Financial Machine Learning*. Wiley. This book explores the intersection of machine learning and finance, providing insights into how machine learning algorithms can be applied to enhance financial strategies. Prado investigates into topics such as financial data structures, labeling for financial machine learning, and the intricacies of [backtesting](/wiki/backtesting).
 
 Jansen, S. *Machine Learning for Algorithmic Trading*. Github. This resource provides an extensive take on applying machine learning techniques within algorithmic trading. It serves as a practical guide for traders who want to integrate Python programming and machine learning into trading strategies, offering hands-on tutorials and code examples.
 

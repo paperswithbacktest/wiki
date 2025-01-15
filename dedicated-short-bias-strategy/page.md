@@ -181,7 +181,7 @@ For further insights into the topics of financial markets, algorithmic trading, 
   - *Research Papers*: IEEE Xplore and ACM Digital Library contain papers on the latest technological advancements in algorithmic trading.
 
 - **Advanced Investment Strategies:**
-  - *Books*: "Dynamic Hedging" by Nassim Nicholas Taleb delves into risk management and derivative trading strategies. "The Intelligent Investor" by Benjamin Graham provides foundational principles for intelligent investing.
+  - *Books*: "Dynamic Hedging" by Nassim Nicholas Taleb investigates into risk management and derivative trading strategies. "The Intelligent Investor" by Benjamin Graham provides foundational principles for intelligent investing.
   - *Journals*: The Journal of Portfolio Management and the Journal of Investment Strategies publish comprehensive studies on complex investment approaches.
 
 Engaging with these resources will deepen your understanding of the nuanced landscape of financial strategies, offering both foundational knowledge and insights into cutting-edge techniques.

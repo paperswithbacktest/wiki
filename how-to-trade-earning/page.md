@@ -24,7 +24,7 @@ The impact of earnings on stock prices can be immediate and dramatic. Stocks can
 
 Market sentiment during earnings season can be highly reactive. Even anticipation of how a company will report can cause fluctuations in its stock price. A phenomenon known as the "earnings surprise" occurs when a company reports figures significantly above or below analysts' expectations, which can lead to rapid re-pricing of stocks.
 
-For a comprehensive understanding of the relationship between earnings reports and market dynamics, "Financial Statement Analysis: A Practitioner's Guide" by Martin Fridson and Fernando Alvarez offers detailed insights. The book delves into how to interpret financial statements, analyze earnings, and understand their impact on investment decisions and stock valuations[1].
+For a comprehensive understanding of the relationship between earnings reports and market dynamics, "Financial Statement Analysis: A Practitioner's Guide" by Martin Fridson and Fernando Alvarez offers detailed insights. The book investigates into how to interpret financial statements, analyze earnings, and understand their impact on investment decisions and stock valuations[1].
 
 ## Preparation for Earnings Trading
 

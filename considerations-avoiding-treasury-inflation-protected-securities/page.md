@@ -220,7 +220,7 @@ To gain a deeper understanding of Treasury Inflation-Protected Securities (TIPS)
 
 3. **Algorithmic Trading Literature**: The book "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan offers an excellent introduction to the strategies used in algorithmic trading. This resource explores how algorithms can be tailored to optimize investment decisions in the TIPS market using historical data and real-time analytics.
 
-4. **Research Articles on Quantitative Finance and Algorithm Design**: For a technical perspective, consider reviewing journal articles such as "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernie Chan, which delves into the construction and testing of algorithmic trading systems.
+4. **Research Articles on Quantitative Finance and Algorithm Design**: For a technical perspective, consider reviewing journal articles such as "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernie Chan, which investigates into the construction and testing of algorithmic trading systems.
 
 5. **Regulatory and Market Analysis Reports**: Publications from financial institutions and regulatory bodies offer insights into the market’s conditions impacting TIPS and algorithmic trading. Organizations like the U.S. Treasury and Securities Exchange Commission (SEC) routinely publish findings and guidelines pertinent to these investments.
 

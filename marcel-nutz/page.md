@@ -21,7 +21,7 @@ His work is characterized by the integration of complex mathematical theory with
 
 Marcel Nutz has made significant contributions to the theory and practice of algorithmic trading. Algorithmic trading, a highly specialized area within finance, utilizes complex mathematical models and algorithms to make trading decisions at speeds and frequencies beyond human capability. This area has grown exponentially with advancements in technology and computational power.
 
-Nutz's research often delves into stochastic processes, which are essential for modeling the random behavior of asset prices. His insights into these processes have provided a deeper understanding of market dynamics and have influenced the development of more sophisticated trading algorithms.
+Nutz's research often investigates into stochastic processes, which are essential for modeling the random behavior of asset prices. His insights into these processes have provided a deeper understanding of market dynamics and have influenced the development of more sophisticated trading algorithms.
 
 His work aligns with influential scientific publications in the field, such as "The Statistical Arbitrage Performance of Algorithmic Trading Strategies" and "High-Frequency Trading: New Realities for Traders, Markets, and Regulators," which explore the impact of [algorithmic trading](/wiki/algorithmic-trading) on the market landscape, highlighting both opportunities and challenges.
 

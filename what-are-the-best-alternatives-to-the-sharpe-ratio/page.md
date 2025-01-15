@@ -185,7 +185,7 @@ Continued education and awareness about these financial metrics enhance decision
    - Sharpe, W. F. (1966). "Mutual Fund Performance." *Journal of Business*, 39(1): 119-138. This foundational paper introduces the Sharpe Ratio and discusses its application in evaluating mutual fund performance.
    - Sortino, F. A., & Van der Meer, R. (1991). "Downside Risk." *Journal of Portfolio Management*, 17(4): 27-31. This paper introduces the Sortino Ratio, emphasizing downside risk.
    - Treynor, J. L. (1965). "How to Rate Management of Investment Funds." *Harvard Business Review*, 43(1): 63-75. Treynor's work focuses on the principles behind the Treynor Ratio.
-   - Young, T. W. (1991). "Calmar Ratio: A Smoother Tool." *Futures*, 20(12): 87-89. This article delves into the Calmar Ratio, particularly in the context of managed futures.
+   - Young, T. W. (1991). "Calmar Ratio: A Smoother Tool." *Futures*, 20(12): 87-89. This article investigates into the Calmar Ratio, particularly in the context of managed futures.
    - Kazemi, H., Schneeweis, T., & Gupta, B. (2003). "Omega as a Performance Measure." *Journal of Performance Measurement*, 8(1): 16-25. This paper provides insights on the Omega Ratio, offering a different approach to risk and return.
    - Kestner, L. N. (1996). "Getting a Handle on True Performance." *Futures*, 25(1): 44-46. This work discusses the Sterling Ratio, particularly in hedge fund evaluation.
 

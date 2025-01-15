@@ -1,6 +1,6 @@
 ---
 title: "Time bars (Algo Trading)"
-description: Explore the importance of time bars in algorithmic trading to gain a competitive edge. Time bars aggregate market data over fixed periods such as minutes or hours, aiding trend analysis and decision-making. This article delves into their role in trading strategies, highlights their advantages in simplifying data analysis, and discusses limitations in volatile markets. Understand how time bars contribute to precise and consistent market evaluation for sound strategic decisions.
+description: Explore the importance of time bars in algorithmic trading to gain a competitive edge. Time bars aggregate market data over fixed periods such as minutes or hours, aiding trend analysis and decision-making. This article investigates into their role in trading strategies, highlights their advantages in simplifying data analysis, and discusses limitations in volatile markets. Understand how time bars contribute to precise and consistent market evaluation for sound strategic decisions.
 ---
 
 In the fast-paced world of algorithmic trading, achieving a competitive advantage relies heavily on the implementation of sophisticated strategies and tools. One of the fundamental tools utilized by traders is time bars. These time bars serve as a crucial element by representing the aggregation of market data over a fixed period, such as minutes, hours, or days. This fixed-period representation aids traders in analyzing trends and making informed decisions based on standardized data intervals.

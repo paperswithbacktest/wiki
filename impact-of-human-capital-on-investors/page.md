@@ -144,7 +144,7 @@ Continuous professional development is vital for individuals to remain competiti
 
 9. **Aitken, M., & Harris, F.H. (2011). "Algorithmic Trading: Pros and Cons". CFA Institute Conference Proceedings Quarterly.** The authors analyze the benefits and drawbacks of algorithmic trading, highlighting the essential knowledge areas for professionals in the field.
 
-10. **Nash, R., & Behn, R. (2020). "Algorithmic Trading and Information". Journal of Economic Perspectives.** This article delves into how information is processed and utilized in algorithmic trading, emphasizing the importance of continual learning and adaptation to stay competitive. 
+10. **Nash, R., & Behn, R. (2020). "Algorithmic Trading and Information". Journal of Economic Perspectives.** This article investigates into how information is processed and utilized in algorithmic trading, emphasizing the importance of continual learning and adaptation to stay competitive. 
 
 These resources provide a comprehensive foundation for understanding the critical role of human capital in algorithmic trading, as well as the economic implications of this intersection. They are essential for anyone seeking to further investigate the dynamic relationship between technological innovations and human skills in financial markets.
 

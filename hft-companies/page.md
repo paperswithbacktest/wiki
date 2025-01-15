@@ -256,7 +256,7 @@ Originating from Australia, Tibra Capital, founded in 2006, has emerged as a glo
 
 **Epoch Capital**
 
-Epoch Capital, with roots in Sydney, is a trailblazer in the HFT world, particularly in the Asia-Pacific region. Known for its prowess in algorithmic trading, Epoch Capital delves deep into data analytics, deriving insights that drive their trading decisions. The company places a heavy emphasis on research and development, consistently refining its algorithms to keep pace with ever-evolving markets. Epoch's influence is particularly notable in Asian markets, where they've played a role in improving market depth and enhancing liquidity. Their relentless pursuit of efficiency has not only benefited their bottom line but has also introduced more streamlined and transparent trading mechanisms in markets they operate in.
+Epoch Capital, with roots in Sydney, is a trailblazer in the HFT world, particularly in the Asia-Pacific region. Known for its prowess in algorithmic trading, Epoch Capital investigates deep into data analytics, deriving insights that drive their trading decisions. The company places a heavy emphasis on research and development, consistently refining its algorithms to keep pace with ever-evolving markets. Epoch's influence is particularly notable in Asian markets, where they've played a role in improving market depth and enhancing liquidity. Their relentless pursuit of efficiency has not only benefited their bottom line but has also introduced more streamlined and transparent trading mechanisms in markets they operate in.
 
 **Zomojo**
 

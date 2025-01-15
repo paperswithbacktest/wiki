@@ -267,7 +267,7 @@ Investopedia provides a comprehensive historical guide to the gold-silver ratio 
    Kovacic's paper provides an innovative outlook on backtesting, offering insights into how historical data analysis can enhance performance, particularly in trading commodities such as gold and silver.
 
 3. **"Mean Reversion Strategies for Financial Markets" by Carol Alexander and Anca Bornholt**  
-   This paper delves into mean-reversion trading strategies, which are frequently employed in trading based on the gold-silver ratio. It outlines the statistical rationale and practical implementation of these strategies.
+   This paper investigates into mean-reversion trading strategies, which are frequently employed in trading based on the gold-silver ratio. It outlines the statistical rationale and practical implementation of these strategies.
 
 These resources provide foundational insights into both the historical and practical applications of the gold-silver ratio, offering valuable perspectives for both novice and experienced traders interested in its use within algorithmic trading frameworks.
 

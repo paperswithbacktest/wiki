@@ -179,7 +179,7 @@ Embracing these integrated strategies allows businesses to harness technology-dr
    This handbook explores credit risk management strategies, including those that leverage predictive models and algorithmic approaches to optimize accounts receivable processes.
 
 4. **"Machine Learning for Financial Engineering" by Marcos Lopez de Prado (2018)**  
-   Lopez de Prado's book delves into the use of machine learning algorithms for financial engineering, offering insights into improving cash flow forecasting and enhancing decision-making in business finance.
+   Lopez de Prado's book investigates into the use of machine learning algorithms for financial engineering, offering insights into improving cash flow forecasting and enhancing decision-making in business finance.
 
 5. **"Journal of Corporate Finance"**  
    This journal frequently features articles on innovative financing strategies and the use of technology in corporate finance. It is a valuable resource for understanding how accounts receivable management integrates with algorithmic trading.

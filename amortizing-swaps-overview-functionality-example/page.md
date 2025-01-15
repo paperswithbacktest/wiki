@@ -190,7 +190,7 @@ The evolving landscape of financial markets continues to highlight the relevance
 
 4. Choudhry, Moorad. *The Money Markets Handbook: A Practitioner’s Guide*. Wiley, 2011. Choudhry provides insights into money markets and interest rate derivatives, including swaps, as critical components of financial market operations.
 
-5. Stulz, René M. *Risk Management and Derivatives*. Thomson South-Western, 2003. Stulz delves into risk management strategies using derivatives, with detailed sections on interest rate swaps and their role in hedging against financial uncertainties.
+5. Stulz, René M. *Risk Management and Derivatives*. Thomson South-Western, 2003. Stulz investigates into risk management strategies using derivatives, with detailed sections on interest rate swaps and their role in hedging against financial uncertainties.
 
 6. *Office of Financial Research Working Papers.* U.S. Department of the Treasury. https://www.financialresearch.gov/working-papers/. This collection contains extensive research papers on financial derivatives and offers regulatory insights into interest rate swaps.
 

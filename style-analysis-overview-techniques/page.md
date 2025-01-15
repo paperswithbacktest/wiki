@@ -49,7 +49,7 @@ By tailoring investment strategies through careful risk assessment and leveragin
 
 ## Style Analysis
 
-Style analysis serves as a vital tool in understanding the investment philosophy and decision-making processes of investors and fund managers. It delves into the categorization of investment approaches to better align investor expectations with their financial objectives. At its core, style analysis identifies and evaluates various investment styles such as growth, value, and active trading, each distinguished by its unique characteristics and inherent risk profiles.
+Style analysis serves as a vital tool in understanding the investment philosophy and decision-making processes of investors and fund managers. It investigates into the categorization of investment approaches to better align investor expectations with their financial objectives. At its core, style analysis identifies and evaluates various investment styles such as growth, value, and active trading, each distinguished by its unique characteristics and inherent risk profiles.
 
 The growth investment style is characterized by the selection of stocks expected to grow at an above-average rate compared to their industry or the overall market. These stocks often reinvest earnings to fuel further growth, making them appealing to investors seeking capital appreciation. However, [growth stocks](/wiki/growth-stocks) typically come with higher [volatility](/wiki/volatility-trading-strategies) and risk, as high expectations may not always materialize in terms of company performance.
 

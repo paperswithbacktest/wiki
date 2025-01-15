@@ -11,7 +11,7 @@ The significance of the Marshall Plan extends beyond mere economic rebuilding. I
 
 In the contemporary era, the lessons derived from the Marshall Plan are pertinent to crafting modern economic strategies, including the domain of algorithmic trading. Algorithmic trading represents a paradigm shift in financial markets, characterized by data-driven decision-making and strategic resource allocation, evoking parallels to the systematic approach of the Marshall Plan. By examining the principles and structures that underscored the Marshall Plan's success, contemporary economists and policymakers can extract valuable insights applicable to today's global economic challenges.
 
-This article delves into the multifaceted impact of the Marshall Plan, highlighting its historical economic and geopolitical significance. Furthermore, it investigates how the principles underlying this transformative initiative can inform current technological advancements and economic strategies, particularly in the context of algorithmic trading.
+This article investigates into the multifaceted impact of the Marshall Plan, highlighting its historical economic and geopolitical significance. Furthermore, it investigates how the principles underlying this transformative initiative can inform current technological advancements and economic strategies, particularly in the context of algorithmic trading.
 
 ## Table of Contents
 

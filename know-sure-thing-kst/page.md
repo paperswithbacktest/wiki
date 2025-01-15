@@ -164,7 +164,7 @@ Incorporating these additional components aids in filtering out false signals th
 
 The Know Sure Thing (KST) is a versatile tool in technical analysis, offering multi-timeframe insights into market momentum. Its structure allows traders to analyze multiple rate-of-change periods, effectively smoothing out market noise and highlighting significant momentum trends. By providing an aggregated view of the market's momentum over different timeframes, the KST helps traders identify potential turning points, thus facilitating informed decision-making.
 
-For traders looking to broaden their understanding and application of technical indicators, resources such as Martin Pring's "Technical Analysis Explained" serve as invaluable guides. This book delves deeper into the principles and applications of various technical analysis tools, including the KST. Gaining a comprehensive understanding of such indicators can significantly empower traders to optimize their strategies.
+For traders looking to broaden their understanding and application of technical indicators, resources such as Martin Pring's "Technical Analysis Explained" serve as invaluable guides. This book investigates deeper into the principles and applications of various technical analysis tools, including the KST. Gaining a comprehensive understanding of such indicators can significantly empower traders to optimize their strategies.
 
 When used in conjunction with other analytical methods, like volume analysis or chart patterns, the KST becomes an even more potent component of a trader's strategy. Integrating KST insights with non-momentum indicators can help confirm signals and ensure comprehensive analysis, reducing the risk of false entries and exits.
 

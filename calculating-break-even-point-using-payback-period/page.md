@@ -118,7 +118,7 @@ Investors and traders can greatly benefit from marrying the agility and precisio
 
 ## References & Further Reading
 
-Books such as "Principles of Corporate Finance" by Richard A. Brealey, Stewart C. Myers, and Franklin Allen provide a fundamental framework for understanding financial metrics, including the payback period and break-even analysis. The text delves into the various dimensions of corporate finance, offering methodologies for evaluating investment decisions and highlighting the limitations of basic financial metrics.
+Books such as "Principles of Corporate Finance" by Richard A. Brealey, Stewart C. Myers, and Franklin Allen provide a fundamental framework for understanding financial metrics, including the payback period and break-even analysis. The text investigates into the various dimensions of corporate finance, offering methodologies for evaluating investment decisions and highlighting the limitations of basic financial metrics.
 
 "Algorithmic and High-Frequency Trading" by Álvaro Cartea, Sebastian Jaimungal, and José Penalva provides insights into the intricacies of algorithmic trading. This resource is essential for comprehending how financial metrics are integrated into trading algorithms, especially concerning optimizing strategies for faster payback periods or achieving immediate break-even points.
 

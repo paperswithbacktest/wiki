@@ -98,5 +98,5 @@ For foundational concepts, David Aronson’s “Evidence-Based Technical Analysi
 
 Stefan Jansen’s “Machine Learning for Algorithmic Trading” provides practical strategies and coding insights. The book offers examples in Python, demonstrating algorithm implementation for tasks like signal generation and portfolio optimization.
 
-Ernest P. Chan's “Quantitative Trading” outlines steps for building effective algorithmic trading businesses. It delves into execution strategies, risk management, and the application of quantitative models to generate alpha in trading operations.
+Ernest P. Chan's “Quantitative Trading” outlines steps for building effective algorithmic trading businesses. It investigates into execution strategies, risk management, and the application of quantitative models to generate alpha in trading operations.
 

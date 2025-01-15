@@ -214,4 +214,4 @@ Despite the rapid advancement of technology, the fundamental concept of investme
 
 [4]: Burton G. Malkiel. ["A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing"](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393358380) (1973). A comprehensive guide to understanding different types of investment strategies, including mutual funds and ETFs.
 
-[5]: Michael Lewis. ["Flash Boys: A Wall Street Revolt"](https://en.wikipedia.org/wiki/Flash_Boys) (2014). This book delves into high-frequency trading and its impact on financial markets.
+[5]: Michael Lewis. ["Flash Boys: A Wall Street Revolt"](https://en.wikipedia.org/wiki/Flash_Boys) (2014). This book investigates into high-frequency trading and its impact on financial markets.

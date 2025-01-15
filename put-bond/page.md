@@ -224,5 +224,5 @@ In conclusion, the interplay of bond mechanisms, types, and algorithmic trading 
 
 - The International Capital Market Association’s *Guide to Best Practice in the European Fixed Income Markets* offers insights into the regulatory framework and best practices in bond trading.
 
-- *Blockchain and the Future of Financial Markets* by C. Parknotts delves into the impact of emerging technologies on financial trading systems, including bond markets.
+- *Blockchain and the Future of Financial Markets* by C. Parknotts investigates into the impact of emerging technologies on financial trading systems, including bond markets.
 

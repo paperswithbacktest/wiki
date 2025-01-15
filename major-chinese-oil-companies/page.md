@@ -9,7 +9,7 @@ In recent years, Chinese oil companies have demonstrated a commitment to innovat
 
 ![Image](images/1.jpeg)
 
-This article provides insights into the leading Chinese oil firms and their positions in the market. It also delves into the burgeoning application of algorithmic trading in the industry, highlighting how these developments are transforming operational efficiencies and market strategies. By examining each of these key players and their respective technological advancements, we aim to illustrate how China's oil sector is adapting to contemporary challenges and what this means for its future trajectory.
+This article provides insights into the leading Chinese oil firms and their positions in the market. It also investigates into the burgeoning application of algorithmic trading in the industry, highlighting how these developments are transforming operational efficiencies and market strategies. By examining each of these key players and their respective technological advancements, we aim to illustrate how China's oil sector is adapting to contemporary challenges and what this means for its future trajectory.
 
 ## Table of Contents
 

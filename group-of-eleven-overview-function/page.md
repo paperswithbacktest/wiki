@@ -9,7 +9,7 @@ Amidst these technological strides, the Group of Eleven (G11) has emerged as a s
 
 ![Image](images/1.jpeg)
 
-This article delves into the formation of the G11, investigating its influence on global trading practices and assessing how member countries utilize shared resources and expertise to advance their economic objectives. By understanding the mechanisms behind the G11’s cooperative efforts, we gain insight into the potential for international collaboration to drive technological and economic progress in the field of trading.
+This article investigates into the formation of the G11, investigating its influence on global trading practices and assessing how member countries utilize shared resources and expertise to advance their economic objectives. By understanding the mechanisms behind the G11’s cooperative efforts, we gain insight into the potential for international collaboration to drive technological and economic progress in the field of trading.
 
 ## Table of Contents
 

@@ -5,7 +5,7 @@ description: "This page explores the concept of stock market indices focusing on
 
 The stock market is a multifaceted ecosystem comprised of numerous moving parts, all of which require intricate understanding for effective navigation. One fundamental component of this system is the stock market index. Stock market indices serve as benchmarks representing the performance of specific market sectors or the market as a whole. These indices offer a snapshot of market trends, providing investors with essential insights into economic performance.
 
-This article delves into the core concepts of stock market indices, focusing on financial index calculations and the role of index divisors, with particular emphasis on their significance in algorithmic trading. An index divisor plays a crucial role in maintaining the integrity and consistency of an index's value over time, particularly during corporate actions such as stock splits or dividend distributions. By understanding these elements, traders and investors can extract valuable insights, aiding in the optimization of their strategies.
+This article investigates into the core concepts of stock market indices, focusing on financial index calculations and the role of index divisors, with particular emphasis on their significance in algorithmic trading. An index divisor plays a crucial role in maintaining the integrity and consistency of an index's value over time, particularly during corporate actions such as stock splits or dividend distributions. By understanding these elements, traders and investors can extract valuable insights, aiding in the optimization of their strategies.
 
 ![Image](images/1.png)
 

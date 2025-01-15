@@ -23,7 +23,7 @@ For beginners, "Options, Futures, and Other Derivatives" by John Hull lays a com
 
 ### "The Concepts and Practice of Mathematical Finance" by Mark Joshi
 
-Intermediate readers can progress to "The Concepts and Practice of Mathematical Finance" by Mark Joshi, which delves deeper into mathematical finance theory while remaining accessible to those who have grasped the basics. Joshi's practical approach helps bridge the gap between theoretical mathematics and real-world financial strategy design[2].
+Intermediate readers can progress to "The Concepts and Practice of Mathematical Finance" by Mark Joshi, which investigates deeper into mathematical finance theory while remaining accessible to those who have grasped the basics. Joshi's practical approach helps bridge the gap between theoretical mathematics and real-world financial strategy design[2].
 
 ### "Paul Wilmott on Quantitative Finance" by Paul Wilmott
 
@@ -71,7 +71,7 @@ Incorporating these texts into a quant's reading list provides the theoretical u
 
 ## Advanced Quantitative Finance
 
-Advanced quantitative finance is a field that delves into the most complex and sophisticated theories and models used in financial markets. To truly excel as a quant, it is critical to understand and apply concepts from stochastic calculus, time series analysis, and [machine learning](/wiki/machine-learning). These areas form the backbone of modern quantitative finance and are essential for creating robust financial models and algorithms.
+Advanced quantitative finance is a field that investigates into the most complex and sophisticated theories and models used in financial markets. To truly excel as a quant, it is critical to understand and apply concepts from stochastic calculus, time series analysis, and [machine learning](/wiki/machine-learning). These areas form the backbone of modern quantitative finance and are essential for creating robust financial models and algorithms.
 
 ### "Stochastic Calculus for Finance II: Continuous-Time Models" by Steven Shreve
 
@@ -240,7 +240,7 @@ Risk management and regulation are critical components of quantitative finance, 
 
 ### "Quantitative Risk Management: Concepts, Techniques, and Tools" by Alexander J. McNeil, Rüdiger Frey, and Paul Embrechts
 
-Another pivotal work is "Quantitative Risk Management: Concepts, Techniques, and Tools" by Alexander J. McNeil, Rüdiger Frey, and Paul Embrechts. This book delves into the quantitative methods used to measure and manage risk, with a strong emphasis on the practical application of these techniques. The authors provide a rigorous treatment of the subject, from VaR models to extreme value theory, essential for quants tasked with risk assessment[20].
+Another pivotal work is "Quantitative Risk Management: Concepts, Techniques, and Tools" by Alexander J. McNeil, Rüdiger Frey, and Paul Embrechts. This book investigates into the quantitative methods used to measure and manage risk, with a strong emphasis on the practical application of these techniques. The authors provide a rigorous treatment of the subject, from VaR models to extreme value theory, essential for quants tasked with risk assessment[20].
 
 ### "Value at Risk: The New Benchmark for Managing Financial Risk" by Philippe Jorion
 

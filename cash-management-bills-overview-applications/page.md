@@ -9,7 +9,7 @@ Unlike the regularly scheduled Treasury Bills, which are openly advertised and s
 
 ![Image](images/1.jpeg)
 
-This article delves into the diverse use cases for CMBs, providing concrete examples of their application, particularly underscoring their increased usage during critical financial periods. Additionally, the incorporation of CMBs into algorithmic trading serves as a burgeoning area of interest, offering further insights into how these bills can be leveraged within advanced financial strategies. Through this exploration, we seek to elucidate the nuanced role of Cash Management Bills in modern financial management and trading landscapes.
+This article investigates into the diverse use cases for CMBs, providing concrete examples of their application, particularly underscoring their increased usage during critical financial periods. Additionally, the incorporation of CMBs into algorithmic trading serves as a burgeoning area of interest, offering further insights into how these bills can be leveraged within advanced financial strategies. Through this exploration, we seek to elucidate the nuanced role of Cash Management Bills in modern financial management and trading landscapes.
 
 ## Table of Contents
 

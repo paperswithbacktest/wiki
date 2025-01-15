@@ -107,7 +107,7 @@ Investors are encouraged to expand their investment knowledge, particularly in t
 
 3. Fabozzi, Frank J. "Bond Markets, Analysis, and Strategies." 9th ed., Pearson, 2020. A comprehensive textbook on bond markets, providing foundational concepts and detailed analysis relevant to understanding fixed-income securities and investment strategies.
 
-4. Hendershott, Terrence, et al. "Algorithmic Trading and Information." Journal of Finance 66.1 (2011): 1-33. This academic paper delves into the dynamics of algorithmic trading and its impact on market efficiency and liquidity.
+4. Hendershott, Terrence, et al. "Algorithmic Trading and Information." Journal of Finance 66.1 (2011): 1-33. This academic paper investigates into the dynamics of algorithmic trading and its impact on market efficiency and liquidity.
 
 5. International Organization of Securities Commissions. "The Impact of Technological Changes on Market Integrity and Efficiency." IOSCO, 2011. This report explores the influence of technological advancements, including algorithmic trading, on financial markets.
 

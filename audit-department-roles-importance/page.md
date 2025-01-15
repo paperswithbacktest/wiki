@@ -97,7 +97,7 @@ As such, organizations must prioritize robust audit practices. This priority wil
 
 - Spencer Pickett, K. H. (2011). *The Internal Auditing Handbook*. This book elaborates on the roles and responsibilities of internal auditors, offering insights into audit department functionalities and best practices, specifically in corporate governance and risk management.
 
-- Aldridge, I., & Krawciw, S. (2017). *Real-Time Risk: What Investors Should Know About Fintech, High-Frequency Trading, and Flash Crashes*. The book delves into the specifics of the technological advancements in financial markets and the associated audit imperatives, predominantly focusing on fintech and high-frequency trading.
+- Aldridge, I., & Krawciw, S. (2017). *Real-Time Risk: What Investors Should Know About Fintech, High-Frequency Trading, and Flash Crashes*. The book investigates into the specifics of the technological advancements in financial markets and the associated audit imperatives, predominantly focusing on fintech and high-frequency trading.
 
 - Fama, E. F., & French, K. R. (1993). "Common risk factors in the returns on stocks and bonds." *Journal of Financial Economics*, 33(1), 3-56. This seminal paper outlines a framework for understanding risk factors, providing crucial context for auditors assessing risk management strategies in finances.
 

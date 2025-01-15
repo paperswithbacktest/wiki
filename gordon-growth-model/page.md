@@ -138,7 +138,7 @@ Brealey, Richard A., Myers, Stewart C., and Allen, Franklin. "Principles of Corp
 
 Fabozzi, Frank. "Bond Markets, Analysis, and Strategies." Although primarily focused on bond markets, this book gives invaluable insights into financial market dynamics. It includes comparative analyses of investment vehicles, which can enhance understanding of dividend strategies in equity markets.
 
-Liu, Eric. "Equity Valuation and Portfolio Management." This book delves into methodologies for valuing equities and managing portfolios effectively. It provides practical applications of valuation models, including the Gordon Growth Model, offering strategies that integrate market data for optimal investment decision-making.
+Liu, Eric. "Equity Valuation and Portfolio Management." This book investigates into methodologies for valuing equities and managing portfolios effectively. It provides practical applications of valuation models, including the Gordon Growth Model, offering strategies that integrate market data for optimal investment decision-making.
 
 ## References & Further Reading
 

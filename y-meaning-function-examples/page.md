@@ -240,7 +240,7 @@ For readers aspiring to deepen their understanding of algorithmic trading, a wid
 
 - **yfinance**: The library's documentation provides insights on easily accessing market data within Python for developing trading algorithms. [yfinance Documentation](https://pypi.org/project/yfinance/).
 
-- **TA-Lib**: Documentation that delves into technical analysis library features, crucial for creating indicators and signals. [TA-Lib Documentation](https://mrjbq7.github.io/ta-lib/).
+- **TA-Lib**: Documentation that investigates into technical analysis library features, crucial for creating indicators and signals. [TA-Lib Documentation](https://mrjbq7.github.io/ta-lib/).
 
 ### Books and Courses
 

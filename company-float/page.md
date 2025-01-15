@@ -171,7 +171,7 @@ In conclusion, leveraging float and outstanding shares in algorithmic trading pr
 
 ### Case Studies and Real-World Applications
 
-Company float, representing the number of shares available for trading by the public, is a crucial determinant of a stock's market performance. This section delves into case studies where float has significantly impacted stock behavior and analyses how algorithmic trading leverages float data to optimize trading strategies.
+Company float, representing the number of shares available for trading by the public, is a crucial determinant of a stock's market performance. This section investigates into case studies where float has significantly impacted stock behavior and analyses how algorithmic trading leverages float data to optimize trading strategies.
 
 #### Impact of Float on Stock Performance
 

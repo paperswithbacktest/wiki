@@ -136,7 +136,7 @@ Sustained productivity growth is essential for achieving long-term economic succ
 
 - Brynjolfsson, E., & McAfee, A. (2014). *The Second Machine Age*. This book discusses the implications of digital technology on productivity and the economy, highlighting how automation and artificial intelligence are revolutionizing traditional economic models.
 
-- Jorgenson, D. W., et al. (2005). *Productivity, Volume 3: Information Technology*. This volume delves into the impact of information technology on productivity improvements, offering empirical analysis on how IT investments contribute to economic growth.
+- Jorgenson, D. W., et al. (2005). *Productivity, Volume 3: Information Technology*. This volume investigates into the impact of information technology on productivity improvements, offering empirical analysis on how IT investments contribute to economic growth.
 
 - Autor, D. H., et al. (1998). Computing Inequality: Have Computers Changed the Labor Market? This study investigates the effects of computerization on labor markets, addressing issues of inequality and shifts in labor demand due to technological advancements.
 

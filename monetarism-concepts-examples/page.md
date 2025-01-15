@@ -1,6 +1,6 @@
 ---
 title: "Monetarism: Concepts and Examples (Algo Trading)"
-description: "Explore the relationship between monetarism and algorithmic trading as this page delves into how economic theory shapes modern financial practices and policy impacts."
+description: "Explore the relationship between monetarism and algorithmic trading as this page investigates into how economic theory shapes modern financial practices and policy impacts."
 ---
 
 The dynamic interplay between economic policies and financial markets has long captivated economists, policymakers, and financial practitioners. This interplay not only influences national and global economies but also shapes how these entities navigate economic challenges. Monetarism, a prominent economic theory, underscores the importance of the money supply as a critical factor in achieving economic stability and growth. Its foundational principle is that variations in the money supply have direct and profound effects on output levels and price stability. Central to monetarist philosophy is the Quantity Theory of Money, articulated in the equation MV = PQ, where M represents the money supply, V is the velocity of money, P stands for the price level, and Q denotes the quantity of goods and services produced. This equation posits a strong link between money supply and macroeconomic outcomes.

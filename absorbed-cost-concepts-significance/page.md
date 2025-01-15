@@ -180,7 +180,7 @@ The use of absorbed cost analysis within financial systems not only aids in refi
 
 3. **Brigham, E. F., & Ehrhardt, M. C. (2019). "Financial Management: Theory & Practice."** Covering a wide array of financial management topics, this book provides insight into financial analysis and decision-making, with sections on cost implications in financial reporting. [Link](https://www.cengage.com)
 
-4. **Gaubert, C., & Itskhoki, O. (2021). "Granular Comparative Advantage."** This paper delves into cost structures in production and their implications for economic advantage on a granular level, aligning well with absorbed cost's comprehensive approach to expense analysis. [Link](https://nber.org)
+4. **Gaubert, C., & Itskhoki, O. (2021). "Granular Comparative Advantage."** This paper investigates into cost structures in production and their implications for economic advantage on a granular level, aligning well with absorbed cost's comprehensive approach to expense analysis. [Link](https://nber.org)
 
 5. **Pindyck, R. S., & Rubinfeld, D. L. (2018). "Microeconomics."** A book that provides core economic principles, including cost structures and their impact on decision-making in firms. Perfect for those who want to understand the economic theories underpinning cost accounting methods. [Link](https://www.pearson.com)
 

@@ -37,7 +37,7 @@ This curated list ahead is a testament to the vastness and richness of the field
 
 ### Market Microstructure and Basics
 
-Grasping the essentials of market microstructure is foundational to succeeding in algorithmic trading. This realm delves deep into the intricacies of how orders are placed, executed, and cleared in financial markets. It uncovers the very heartbeat of trading and, thus, equips traders to design better, more informed strategies. To navigate this intricate domain, a couple of books stand out as premier resources.
+Grasping the essentials of market microstructure is foundational to succeeding in algorithmic trading. This realm investigates deep into the intricacies of how orders are placed, executed, and cleared in financial markets. It uncovers the very heartbeat of trading and, thus, equips traders to design better, more informed strategies. To navigate this intricate domain, a couple of books stand out as premier resources.
 
 **"Trading and Exchanges" by Larry Harris**
 
@@ -81,7 +81,7 @@ Machine learning (ML) has been at the forefront of many industries, and algorith
 
 **"Advances in Financial Machine Learning" by Marcos Lopez de Prado**
 
-- **Description**: De Prado offers a blend of financial theory and advanced ML methods. The book delves into topics like meta-labeling, ensemble methods, and feature engineering specifically tailored for the financial domain.
+- **Description**: De Prado offers a blend of financial theory and advanced ML methods. The book investigates into topics like meta-labeling, ensemble methods, and feature engineering specifically tailored for the financial domain.
 - **Best Suited For**: Intermediate to expert traders who already possess a foundational understanding of ML and want to adapt advanced techniques for trading.
 - **Unique Aspects**: Unlike traditional ML books, this resource provides a deep dive into the intricacies of applying ML to financial data, ensuring techniques are both theoretically sound and practically applicable.
 - 👉 [Amazon.com](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
@@ -135,7 +135,7 @@ In the swiftly evolving world of algorithmic trading, staying updated on the lat
 
 **"Trading at the Speed of Light" by Donald MacKenzie**
 
-- **Description**: MacKenzie uncovers the intricate relationship between high-frequency trading and cutting-edge technologies. The book delves into how trading firms utilize advanced tech, from microwave transmissions to undersea cables, to gain minute advantages in speed.
+- **Description**: MacKenzie uncovers the intricate relationship between high-frequency trading and cutting-edge technologies. The book investigates into how trading firms utilize advanced tech, from microwave transmissions to undersea cables, to gain minute advantages in speed.
 - **Best Suited For**: Intermediate to expert traders who wish to understand the implications of technology in high-frequency trading.
 - **Unique Aspects**: The profound research into the socio-technical networks surrounding high-frequency trading and how minute speed advantages can yield significant results.
 - 👉 [Amazon.com](https://www.amazon.com/Trading-Speed-Light-Algorithms-Transforming/dp/0691211388)

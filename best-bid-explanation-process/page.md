@@ -251,7 +251,7 @@ Investors and traders must stay informed and adaptable in this constantly evolvi
 
 1. **Hasbrouck, J. (2003).** "Trading and Exchanges: Market Microstructure for Practitioners," Oxford University Press. This book provides a comprehensive overview of market microstructure and examines the intricacies of order types and liquidity, which are essential for understanding bidding strategies in financial markets.
 
-2. **O’Hara, M. (1995).** "Market Microstructure Theory," Blackwell Publishers. O'Hara's work delves into the behaviors of participants in auctions and the dynamics of order executions, which help to explain the theoretical framework behind different auction types and their impact on bidding processes.
+2. **O’Hara, M. (1995).** "Market Microstructure Theory," Blackwell Publishers. O'Hara's work investigates into the behaviors of participants in auctions and the dynamics of order executions, which help to explain the theoretical framework behind different auction types and their impact on bidding processes.
 
 3. **Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011).** "High-Frequency Trading," Goethe University, Research Papers. This paper provides insights into high-frequency trading practices and their implications in financial markets, offering context about how algorithmic trading enhances the bidding process through speed and precision.
 

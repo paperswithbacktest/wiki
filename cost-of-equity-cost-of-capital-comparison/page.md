@@ -205,7 +205,7 @@ In conclusion, the integration of cost of capital calculations within algorithmi
 
 2. **Investment Valuation: Tools and Techniques for Determining the Value of Any Asset** by Aswath Damodaran - This text is invaluable for understanding the nuances of valuation models, such as the discounted cash flow (DCF) model, which utilize the cost of capital as a critical component. It includes case studies and real-world examples that highlight the role of cost of capital in investment decisions.
 
-3. **Algorithmic Trading and DMA**: A guide to its practical applications and insights is provided by Barry Johnson. The text covers the practical aspects of algorithmic trading, including capital calculations, market microstructure, and programming strategies. It delves into the complexities of building and deploying algorithmic trading systems.
+3. **Algorithmic Trading and DMA**: A guide to its practical applications and insights is provided by Barry Johnson. The text covers the practical aspects of algorithmic trading, including capital calculations, market microstructure, and programming strategies. It investigates into the complexities of building and deploying algorithmic trading systems.
 
 4. **Automated Options Trading: Create, Optimize, and Test Automated Trading Systems** by Sergey Izraylevich Ph.D. and Vadim Tsudikman - This book explores advanced strategies for algorithmic trading with a focus on options, incorporating programming examples using Python to demonstrate how cost of capital can be integrated into robust trading systems.
 

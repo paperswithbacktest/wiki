@@ -9,7 +9,7 @@ High-low volatility estimators are a subset of methodologies that leverage the p
 
 ![Image](images/1.png)
 
-This article delves into the significance of high-low volatility estimators in algorithmic trading, examining the key methodologies employed. Through an exploration of these estimators, traders can gain a better understanding of how to effectively integrate them into their trading systems, ultimately improving their strategy calibration and execution.
+This article investigates into the significance of high-low volatility estimators in algorithmic trading, examining the key methodologies employed. Through an exploration of these estimators, traders can gain a better understanding of how to effectively integrate them into their trading systems, ultimately improving their strategy calibration and execution.
 
 ## Table of Contents
 

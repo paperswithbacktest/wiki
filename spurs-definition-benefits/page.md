@@ -97,7 +97,7 @@ For readers seeking further exploration into Standard & Poor's Underlying Rating
 
 2. **Municipal Bonds: A Beginner's Guide**: This guide by Investopedia offers an overview of municipal bonds, their characteristics, and their market dynamics, assisting readers in understanding the context within which SPURs operate. You can access it [here](https://www.investopedia.com/articles/bonds/08/municipal-bonds.asp).
 
-3. **Algorithmic Trading by Narang, R.**: For those interested in the intersection of algorithmic trading and financial markets, "Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading" by Rishi K. Narang provides insights into the implementation of algorithmic systems in various trading environments. This book outlines strategic considerations and delves into the mechanics of algorithmic trading.
+3. **Algorithmic Trading by Narang, R.**: For those interested in the intersection of algorithmic trading and financial markets, "Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading" by Rishi K. Narang provides insights into the implementation of algorithmic systems in various trading environments. This book outlines strategic considerations and investigates into the mechanics of algorithmic trading.
 
 4. **Algorithmic Trading Resources by QuantInsti**: QuantInsti offers [online courses](https://www.quantinsti.com/) and [blog articles](https://blog.quantinsti.com/) dedicated to algorithmic trading and quantitative finance. These resources are suitable for individuals seeking to enhance their understanding of trading algorithms and their applications in bond markets.
 

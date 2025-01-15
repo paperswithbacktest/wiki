@@ -9,7 +9,7 @@ At the heart of audit risk management lies the concept of inherent risk. This re
 
 ![Image](images/1.jpeg)
 
-Algorithmic trading introduces additional layers of complexity with its reliance on sophisticated quantitative models and high-speed executions. These models, if not correctly managed, can lead to substantial financial and reputational consequences. As such, understanding and mitigating inherent risks is paramount for organizations employing algorithmic trading strategies. By adopting structured model risk management processes, companies can enhance the accuracy and reliability of their financial statements, thereby aligning with regulatory standards and safeguarding their operational integrity. This article delves into the intricacies of audit risks, inherent risks in financial reporting, and effective model risk management in the context of algorithmic trading.
+Algorithmic trading introduces additional layers of complexity with its reliance on sophisticated quantitative models and high-speed executions. These models, if not correctly managed, can lead to substantial financial and reputational consequences. As such, understanding and mitigating inherent risks is paramount for organizations employing algorithmic trading strategies. By adopting structured model risk management processes, companies can enhance the accuracy and reliability of their financial statements, thereby aligning with regulatory standards and safeguarding their operational integrity. This article investigates into the intricacies of audit risks, inherent risks in financial reporting, and effective model risk management in the context of algorithmic trading.
 
 ## Table of Contents
 

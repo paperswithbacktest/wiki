@@ -132,7 +132,7 @@ The evolution of financial markets is further characterized by the ongoing integ
 
 [4]: Free to Choose: A Personal Statement by Milton and Rose Friedman. In this volume, the Friedmans expand on their economic philosophies, addressing the intersections between personal freedom, government policy, and economic efficiency, relevant to comprehending the broader implications of economic theories like monetarism.
 
-[5]: Algorithmic Trading: Winning Strategies and Their Rationale by Ernie Chan. This book delves into the techniques and strategies involved in algorithmic trading, offering insights into how economic theories can be incorporated into algorithm design to enhance trading efficiency and effectiveness.
+[5]: Algorithmic Trading: Winning Strategies and Their Rationale by Ernie Chan. This book investigates into the techniques and strategies involved in algorithmic trading, offering insights into how economic theories can be incorporated into algorithm design to enhance trading efficiency and effectiveness.
 
 [6]: Monetary History of the United States, 1867-1960 by Milton Friedman and Anna J. Schwartz. This comprehensive work examines the role of monetary policy throughout American history, illustrating key trends and lessons that inform current economic theory and practice, particularly for algorithmic trading frameworks.
 

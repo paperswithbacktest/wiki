@@ -171,7 +171,7 @@ Looking forward, algorithmic trading is expected to continue expanding. Advances
    This book provides an insightful exploration into the mechanics of algorithmic trading, offering guidelines on forming strategies, understanding risks, and implementing them effectively in real-world trading.
 
 2. **"Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernie Chan**  
-   A comprehensive guide for those interested in building their own algorithmic trading systems. Chan delves into the nuts and bolts of strategy development, [backtesting](/wiki/backtesting), risk management, and implementation.
+   A comprehensive guide for those interested in building their own algorithmic trading systems. Chan investigates into the nuts and bolts of strategy development, [backtesting](/wiki/backtesting), risk management, and implementation.
 
 3. **"Market Microstructure in Practice" by Laruelle S., et al.**  
    This article offers a foundational understanding of market microstructure, focusing particularly on how algorithmic trading operates within financial markets. It explains the dynamics at an intraday scale, providing valuable insights for traders using at-the-opening orders.

@@ -89,7 +89,7 @@ In conclusion, the current financial landscape underscores the critical need for
 
 - Fabozzi, F. J., & Peterson Drake, P. Finance: Capital Markets, Financial Management, and Investment Management: This book provides an extensive overview of financial markets, instruments, and management strategies. It serves as a valuable resource for understanding the complex interactions between capital markets, financial management practices, and investment decisions.
 
-- Chan, E. P. Algorithmic Trading: Winning Strategies and Their Rationale: Edward Chan's work delves into the mechanisms and strategies of algorithmic trading. It details the use of quantitative models and computer algorithms to execute trades efficiently, highlighting the impact of these technologies on market dynamics and financial strategies.
+- Chan, E. P. Algorithmic Trading: Winning Strategies and Their Rationale: Edward Chan's work investigates into the mechanisms and strategies of algorithmic trading. It details the use of quantitative models and computer algorithms to execute trades efficiently, highlighting the impact of these technologies on market dynamics and financial strategies.
 
 - Hull, J. C. Options, Futures, and Other Derivatives: John Hull's book is a key resource for understanding derivatives markets and their role in modern finance. It explores the pricing and use of various derivative instruments, providing insights into risk management and the strategic application of derivatives in financial management.
 

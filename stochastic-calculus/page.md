@@ -36,7 +36,7 @@ Mathematically, Brownian motion $W_t$ is defined by the following properties:
 
 The concept of nowhere differentiability is significant in finance as it mirrors the unpredictable nature of markets. Asset prices do not change in smooth, predictable ways but rather in a fashion that seems erratic and is influenced by a myriad of unforeseeable factors. Stochastic calculus allows financial analysts to model this randomness and incorporate it into the pricing of financial instruments and the assessment of risk.
 
-For an authoritative guide to these concepts, the book "Brownian Motion and Stochastic Calculus" by Ioannis Karatzas and Steven E. Shreve delves deeply into the theory and application of Brownian motion and stochastic processes in financial mathematics. This work is considered one of the most comprehensive resources for understanding the mathematical underpinnings of financial models based on stochastic processes[1].
+For an authoritative guide to these concepts, the book "Brownian Motion and Stochastic Calculus" by Ioannis Karatzas and Steven E. Shreve investigates deeply into the theory and application of Brownian motion and stochastic processes in financial mathematics. This work is considered one of the most comprehensive resources for understanding the mathematical underpinnings of financial models based on stochastic processes[1].
 
 ## Stochastic Differential Equations (SDEs)
 

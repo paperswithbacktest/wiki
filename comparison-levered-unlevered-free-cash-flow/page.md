@@ -198,7 +198,7 @@ Gaining a comprehensive understanding and application of LFCF and UFCF can lead 
 
 To enhance your understanding of cash flow analysis, financial modeling, and algorithmic trading, various educational resources can provide in-depth insights. Books such as "Financial Modeling" by Simon Benninga and "Investment Valuation" by Aswath Damodaran offer comprehensive guides on creating and understanding financial models, including the calculation of Levered and Unlevered Free Cash Flows.
 
-Online courses like those available from Coursera or edX often cover financial modeling and algorithmic trading. Platforms like Khan Academy and Investopedia provide accessible resources on fundamental concepts in cash flows and valuation techniques. For those interested in the programming side of algorithmic trading, "Algorithmic Trading" by Ernest P. Chan delves into practical strategies implemented using Python.
+Online courses like those available from Coursera or edX often cover financial modeling and algorithmic trading. Platforms like Khan Academy and Investopedia provide accessible resources on fundamental concepts in cash flows and valuation techniques. For those interested in the programming side of algorithmic trading, "Algorithmic Trading" by Ernest P. Chan investigates into practical strategies implemented using Python.
 
 For academic perspectives, papers available through platforms like JSTOR or SSRN offer research articles on advanced cash flow analysis techniques. Websites such as Quantitative Finance offer forums and articles where financial professionals discuss recent trends and strategies in algorithmic trading.
 

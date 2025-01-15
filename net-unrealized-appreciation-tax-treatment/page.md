@@ -1,6 +1,6 @@
 ---
 title: "Net Unrealized Appreciation and Tax Treatment (Algo Trading)"
-description: "Explore the tax advantages of Net Unrealized Appreciation (NUA) for employer stock within retirement plans to reduce tax liabilities. This piece delves into NUA's tax treatment, its benefits over ordinary income taxation, and the strategic use of algorithmic trading to maximize after-tax returns. Learn how leveraging NUA can facilitate enhanced retirement planning by optimizing stock sale timing in alignment with favorable tax scenarios."
+description: "Explore the tax advantages of Net Unrealized Appreciation (NUA) for employer stock within retirement plans to reduce tax liabilities. This piece investigates into NUA's tax treatment, its benefits over ordinary income taxation, and the strategic use of algorithmic trading to maximize after-tax returns. Learn how leveraging NUA can facilitate enhanced retirement planning by optimizing stock sale timing in alignment with favorable tax scenarios."
 ---
 
 Understanding Net Unrealized Appreciation (NUA) is essential for optimizing the tax implications of selling appreciated employer stock. NUA represents the growth in value from the cost basis of employer securities acquired within a tax-deferred retirement plan to their fair market value at the time of distribution. For individuals holding significant employer stock in such accounts, navigating NUA can yield substantial tax savings and significantly enhance retirement portfolios.

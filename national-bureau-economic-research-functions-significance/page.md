@@ -70,7 +70,7 @@ The synergy between economic research and technological development is exemplifi
 
 ## Case Study: AI-Powered Trading and Economic Research
 
-A study conducted by Winston Wei Dou, Itay Goldstein, and Yan Ji delves into the dynamics of AI-driven algorithmic collusion and its implications on market power. The research provides a practical application of the National Bureau of Economic Research's (NBER) findings to address modern challenges in trading systems. By leveraging AI technology, the study illustrates how algorithms may autonomously develop collusive strategies without explicit communication, thereby influencing market competition and power dynamics.
+A study conducted by Winston Wei Dou, Itay Goldstein, and Yan Ji investigates into the dynamics of AI-driven algorithmic collusion and its implications on market power. The research provides a practical application of the National Bureau of Economic Research's (NBER) findings to address modern challenges in trading systems. By leveraging AI technology, the study illustrates how algorithms may autonomously develop collusive strategies without explicit communication, thereby influencing market competition and power dynamics.
 
 The investigation explores the conceptual framework within which AI algorithms operate, showing that machine learning models, particularly [reinforcement learning](/wiki/reinforcement-learning), can inadvertently learn to cooperate with other algorithms, leading to forms of implicit collusion. This phenomenon raises concerns similar to traditional economic models of collusion, where firms might implicitly coordinate to sustain higher prices.
 

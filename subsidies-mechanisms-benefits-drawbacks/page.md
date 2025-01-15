@@ -117,7 +117,7 @@ The future implications for economic policy and industrial strategy are profound
 ## References & Further Reading
 
 1. **Books:**
-   - **"Economics of the Public Sector" by Joseph E. Stiglitz:** This comprehensive book delves into the role of government in the economy, providing insights into various economic policies, including subsidies, and their impact on markets.
+   - **"Economics of the Public Sector" by Joseph E. Stiglitz:** This comprehensive book investigates into the role of government in the economy, providing insights into various economic policies, including subsidies, and their impact on markets.
    - **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan:** This book explores the mechanics and strategies of algorithmic trading, offering a detailed look at the technological advancements and market effects involved.
 
 2. **Academic Papers:**

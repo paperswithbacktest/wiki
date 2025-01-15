@@ -11,7 +11,7 @@ The significance of airline hedging cannot be overstated, as it provides a buffe
 
 In recent years, the integration of algorithmic trading into hedging strategies has presented new opportunities for enhancing risk management. Algorithmic trading, with its precision and speed, enables airlines to make data-driven decisions in real-time, optimizing their hedging positions to minimize exposure to adverse price movements. This synergy between traditional hedging methods and advanced trading technologies offers a more robust approach to managing fuel price volatility.
 
-This article delves into the intricacies of airline hedging strategies, examining how these methods provide stability in a fluctuating market. It also explores the transformative role of algorithmic trading in enhancing these strategies, highlighting the potential for improved financial outcomes and market positioning for airlines that effectively harness this combination.
+This article investigates into the intricacies of airline hedging strategies, examining how these methods provide stability in a fluctuating market. It also explores the transformative role of algorithmic trading in enhancing these strategies, highlighting the potential for improved financial outcomes and market positioning for airlines that effectively harness this combination.
 
 ## Table of Contents
 

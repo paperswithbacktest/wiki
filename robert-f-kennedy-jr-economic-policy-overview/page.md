@@ -81,7 +81,7 @@ In summary, the proposed divestment from military funding to public infrastructu
 
 ## Education and Workforce Development
 
-Robert F. Kennedy Jr.'s economic plan delves into the crucial domain of education and workforce development, with a pronounced focus on alleviating student debt burdens and abolishing interest on such debts. Addressing the escalating concerns surrounding student debt, Kennedy proposed implementing strategies to significantly reduce or eliminate interest charges on student loans, thereby easing the financial stress on graduates and contributing to long-term economic stability.
+Robert F. Kennedy Jr.'s economic plan investigates into the crucial domain of education and workforce development, with a pronounced focus on alleviating student debt burdens and abolishing interest on such debts. Addressing the escalating concerns surrounding student debt, Kennedy proposed implementing strategies to significantly reduce or eliminate interest charges on student loans, thereby easing the financial stress on graduates and contributing to long-term economic stability.
 
 To bolster workforce development, Kennedy's plan emphasized the expansion of AmeriCorps, a program designed to engage individuals in public service work, thereby fostering civic engagement and skill development. By expanding AmeriCorps, the proposal aimed to provide more opportunities for young people to gain valuable experience and contribute positively to communities, giving them a pathway to employment and civic responsibility.
 

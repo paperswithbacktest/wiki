@@ -111,7 +111,7 @@ The strategic integration of accounting standards with algorithmic trading techn
 
 1. **Generally Accepted Accounting Principles (GAAP)** by Financial Accounting Standards Board - This resource provides comprehensive guidelines on financial accounting and reporting standards in the U.S., crucial for ensuring transparency, consistency, and accuracy in financial documentation. Access it at the [Financial Accounting Standards Board (FASB) website](https://www.fasb.org/).
 
-2. **Advances in Financial Machine Learning** by Marcos Lopez de Prado - This book delves into the application of machine learning techniques in finance, offering insights into algorithmic trading strategies and predictive analytics. Available on [Wiley Online Library](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086).
+2. **Advances in Financial Machine Learning** by Marcos Lopez de Prado - This book investigates into the application of machine learning techniques in finance, offering insights into algorithmic trading strategies and predictive analytics. Available on [Wiley Online Library](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086).
 
 3. **Quantitative Trading: How to Build Your Own Algorithmic Trading Business** by Ernest P. Chan - A practical guide for those interested in creating algorithmic trading systems, covering strategy development and implementation. Find it on [Amazon](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800069).
 

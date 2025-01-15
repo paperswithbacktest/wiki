@@ -179,7 +179,7 @@ As algorithmic trading progresses, leveraging these advanced technologies and ad
 - **Books and Resources:**
 
 5. **Chan, Ernest. (2013). "Algorithmic Trading: Winning Strategies and Their Rationale". Wiley.**  
-   This book delves into practical algorithmic trading strategies, discussing efficiency and productivity improvement through quantitative approaches.
+   This book investigates into practical algorithmic trading strategies, discussing efficiency and productivity improvement through quantitative approaches.
 
 6. **Narang, Rishi K. (2009). "Inside the Black Box: The Simple Truth About Quantitative Trading". Wiley.**  
    Narang's book offers a detailed description of [quantitative trading](/wiki/quantitative-trading) techniques, valuable for understanding algorithmic trading's productivity aspects.

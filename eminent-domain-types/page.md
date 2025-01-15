@@ -1,6 +1,6 @@
 ---
 title: "Eminent Domain and Its Types (Algo Trading)"
-description: "Explore eminent domain's impact on property law and its intersection with algo trading This article delves into legal complexities of public use and digital asset rights"
+description: "Explore eminent domain's impact on property law and its intersection with algo trading This article investigates into legal complexities of public use and digital asset rights"
 ---
 
 Property law is an essential pillar of legal systems worldwide, providing the framework for the ownership, use, and transfer of both tangible and intangible assets. Its significance extends beyond individual property rights, influencing economic policies, urban development, and societal structures. At its core, property law governs real property (land and buildings), personal property (movable objects), and intellectual property (creations of the mind), each governed by distinct legal principles and regulatory requirements.

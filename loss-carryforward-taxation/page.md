@@ -161,7 +161,7 @@ Equipped with the right knowledge and tools, algo traders can turn tax rules to 
 ### Articles and Whitepapers Providing Deeper Insights Into Trade-Specific Tax Rules
 
 - **"Algorithmic Trading: The FINE Initiative and Tax Reporting"** - A whitepaper discussing the intricacies of tax compliance for algo traders, including potential pitfalls and best practices.
-- **"Wash Sales for Algorithmic Traders: Challenges and Solutions"** - An article that delves into the application of wash sale rules in high-frequency trading environments.
+- **"Wash Sales for Algorithmic Traders: Challenges and Solutions"** - An article that investigates into the application of wash sale rules in high-frequency trading environments.
 
 ### Government Resources for the Latest Tax Regulations and Guidelines
 

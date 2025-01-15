@@ -5,7 +5,7 @@ description: "Mastering concepts like ask price, ask spread, and bid-ask spread 
 
 In the fast-paced world of financial trading, mastering key concepts such as ask price, ask spread, and bid-ask spread is fundamental for achieving success. These terms encapsulate essential elements of market dynamics, crucial for traders who seek to navigate the complexities of buying and selling financial instruments. The ask price, for instance, represents the lowest price a seller is willing to accept for a specific security, while the bid price is what a buyer is prepared to pay. The difference between these two prices is known as the bid-ask spread, which serves as a critical indicator of a market's liquidity and transaction cost metrics.
 
-This article delves into these fundamental terms, detailing their relevance and functions within financial markets. Furthermore, it examines the transformative impact of algorithmic trading, or algo trading, on trade execution. Algo trading employs algorithms to automate and optimize trading processes, capitalizing on innovative technologies to enhance efficiency and exploit market spreads.
+This article investigates into these fundamental terms, detailing their relevance and functions within financial markets. Furthermore, it examines the transformative impact of algorithmic trading, or algo trading, on trade execution. Algo trading employs algorithms to automate and optimize trading processes, capitalizing on innovative technologies to enhance efficiency and exploit market spreads.
 
 ![Image](images/1.jpeg)
 

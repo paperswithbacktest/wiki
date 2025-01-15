@@ -11,7 +11,7 @@ By discretizing bet sizes, traders effectively enhance strategy performance, all
 
 One of the central aspects is the use of popular bet sizing strategies like Fixed Fractional and the Kelly Criterion. Fixed Fractional Sizing involves allocating a fixed percentage of trading capital to each trade, which helps in managing exposure and minimizing risk. The Kelly Criterion, rooted in probability theory, seeks to define an optimal bet size by considering both the probability of winning trades and their respective payout ratios. These strategies, among others, can be systematically applied within algorithmic frameworks to refine trade execution and enhance overall portfolio growth.
 
-Effective discretization of bet sizes aligns trading activities with risk management principles, promoting long-term trading success and consistent performance. This article delves into the mechanics of implementing such strategies in algorithmic trading systems, demonstrating the tangible benefits of adopting discrete bet-sizing methods.
+Effective discretization of bet sizes aligns trading activities with risk management principles, promoting long-term trading success and consistent performance. This article investigates into the mechanics of implementing such strategies in algorithmic trading systems, demonstrating the tangible benefits of adopting discrete bet-sizing methods.
 
 ## Table of Contents
 

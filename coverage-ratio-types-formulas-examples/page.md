@@ -177,7 +177,7 @@ The synergy between these elements enhances investment decision-making significa
    Ernest Chan offers a practical guide to starting a [quantitative trading](/wiki/quantitative-trading) business, delving into strategies that can be employed to exploit the inefficiencies in markets. The book covers back-testing strategies, implementing trading algorithms, and managing the operational aspects of a trading business. It's an invaluable resource for traders aspiring to harness algorithmic trading for sustained success.
 
 4. **Damodaran, A. (2012). Investment Valuation: Tools and Techniques for Determining the Value of any Asset**  
-   Damodaran's work is fundamental in understanding valuation techniques across various asset classes. The book delves into the quantitative aspects of valuation and equips investors with tools to assess the intrinsic value of assets, complementing the use of financial ratios and metrics in formulating investment strategies.
+   Damodaran's work is fundamental in understanding valuation techniques across various asset classes. The book investigates into the quantitative aspects of valuation and equips investors with tools to assess the intrinsic value of assets, complementing the use of financial ratios and metrics in formulating investment strategies.
 
 5. **Fabozzi, F. J., & Focardi, S. M. (2007). The Mathematics of Financial Modeling and Investment Management**  
    This book integrates mathematical finance methods with investment management practices, offering a deep dive into financial modeling. It is particularly relevant for those looking to engage with quantitative approaches in portfolio construction and risk management, areas that are crucial in algorithmic trading and investment analysis.

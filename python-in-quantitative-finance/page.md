@@ -81,7 +81,7 @@ moving_average = calculate_moving_average(data, 20)
 
 This example highlights Python's ability to implement financial algorithms succinctly and efficiently. Pandas' rolling function, combined with mean, demonstrates how a few lines of Python can execute an operation that is fundamental to financial analysis.
 
-For an in-depth understanding of algorithms in Python for financial engineering, "Algorithmic Trading with Python" by Chris Conlan is a valuable resource. This book delves into Python's capabilities in financial algorithms, offering practical examples and insights into building and testing [algorithmic trading](/wiki/algorithmic-trading) strategies[2].
+For an in-depth understanding of algorithms in Python for financial engineering, "Algorithmic Trading with Python" by Chris Conlan is a valuable resource. This book investigates into Python's capabilities in financial algorithms, offering practical examples and insights into building and testing [algorithmic trading](/wiki/algorithmic-trading) strategies[2].
 
 The book also touches upon the importance of algorithmic efficiency, which can be the difference between a profitable and a losing financial strategy, especially in high-frequency trading scenarios where milliseconds can have significant monetary implications. It's an essential read for those looking to master the intersection of algorithm design and financial analysis using Python.
 

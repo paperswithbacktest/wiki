@@ -143,7 +143,7 @@ For finance professionals, staying abreast of foundational theories like the Mod
 
 6. **Harris, L. (2002). "Trading and Exchanges: Market Microstructure for Practitioners."** This book is a practical resource for understanding market mechanics, including algorithmic trading. It examines how efficient market hypotheses, aligned with parts of the Modigliani-Miller theorem, influence trading strategies.
 
-7. **Ross, S. A., Westerfield, R., & Jaffe, J. (2019). "Corporate Finance."** A recommended textbook that delves into the intricacies of corporate finance, examining the practical applications of the Modigliani-Miller theorem in real-world scenarios involving capital budgeting and corporate strategy.
+7. **Ross, S. A., Westerfield, R., & Jaffe, J. (2019). "Corporate Finance."** A recommended textbook that investigates into the intricacies of corporate finance, examining the practical applications of the Modigliani-Miller theorem in real-world scenarios involving capital budgeting and corporate strategy.
 
 8. **Fama, E. F., & French, K. R. (1992). "The Cross-Section of Expected Stock Returns."** This influential paper builds on the efficient market hypothesis, closely related to the Modigliani-Miller theorem. It investigates the factors influencing stock returns and highlights the role of market efficiency in financial valuations.
 

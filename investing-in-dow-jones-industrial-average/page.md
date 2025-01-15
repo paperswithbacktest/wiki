@@ -11,7 +11,7 @@ Investing in the DJIA can be a strategic move for individuals seeking to diversi
 
 This article is structured to guide investors on acquiring DJIA exposure. The discussion encompasses various investment vehicles available to individuals, such as shares in the index's component stocks, exchange-traded funds (ETFs), and index funds that aim to replicate the DJIA's performance. Additionally, algorithmic trading, a modern advancement in asset management, is crucial in optimizing investment strategies, offering precision in trade executions by leveraging historical data and analytical tools.
 
-Moreover, the article not only delves into the traditional investment strategies associated with the DJIA but also examines how contemporary approaches, such as algorithmic trading, are redefining how investors engage with the index. By understanding both foundational and cutting-edge methods, investors can better leverage the DJIA's performance to achieve their financial objectives.
+Moreover, the article not only investigates into the traditional investment strategies associated with the DJIA but also examines how contemporary approaches, such as algorithmic trading, are redefining how investors engage with the index. By understanding both foundational and cutting-edge methods, investors can better leverage the DJIA's performance to achieve their financial objectives.
 
 [1] CNN Business - https://www.cnn.com/business
 

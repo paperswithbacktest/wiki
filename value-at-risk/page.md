@@ -9,7 +9,7 @@ Algorithmic trading, characterized by speed and precision, is inherently risk-la
 
 ![Image](images/1.png)
 
-As the financial industry continues to evolve with technological advancements, the integration of VaR into financial risk management frameworks, particularly algorithmic trading, becomes increasingly vital. This article focuses on how VaR is implemented to manage financial risks and optimize algorithmic trading systems. It delves into methodologies for calculating VaR, its application in setting risk limits, and strategies to enhance predictive accuracy. The discussion will also touch upon advanced techniques and ongoing developments in VaR, underscoring its enduring importance in maintaining financial stability.
+As the financial industry continues to evolve with technological advancements, the integration of VaR into financial risk management frameworks, particularly algorithmic trading, becomes increasingly vital. This article focuses on how VaR is implemented to manage financial risks and optimize algorithmic trading systems. It investigates into methodologies for calculating VaR, its application in setting risk limits, and strategies to enhance predictive accuracy. The discussion will also touch upon advanced techniques and ongoing developments in VaR, underscoring its enduring importance in maintaining financial stability.
 
 ## Table of Contents
 

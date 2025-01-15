@@ -47,7 +47,7 @@ The High-Low Index measures the number of stocks hitting 52-week highs against t
 
 The Bullish Percent Index (BPI) reflects the percentage of stocks in a market index that have bullish patterns based on point and figure charts. It's a breadth indicator that shows overbought or oversold conditions for a given index.
 
-For a scholarly exploration of these core sentiment indicators, the work of Nobel Laureate Robert Shiller, particularly in "Market Volatility", provides an academic foundation for understanding the implications of these metrics. Shiller's research delves into the behavioral psychology behind market volatility and sentiment, offering key insights into the interpretation of these indicators. Further, the methodologies behind each of these indicators are documented and validated through various research papers and financial texts that detail their construction and utility in financial markets analysis.
+For a scholarly exploration of these core sentiment indicators, the work of Nobel Laureate Robert Shiller, particularly in "Market Volatility", provides an academic foundation for understanding the implications of these metrics. Shiller's research investigates into the behavioral psychology behind market volatility and sentiment, offering key insights into the interpretation of these indicators. Further, the methodologies behind each of these indicators are documented and validated through various research papers and financial texts that detail their construction and utility in financial markets analysis.
 
 ### Arms Index (TRIN)
 
@@ -129,7 +129,7 @@ Algorithmic Sentiment Scoring combines various data inputs including market data
 
 Machine Learning Models in sentiment analysis are increasingly sophisticated and can ingest historical market data, news sentiment, and economic indicators to identify market sentiment patterns. They employ predictive analytics to forecast sentiment trends, which can be particularly useful in [algorithmic trading](/wiki/algorithmic-trading). These models are trained on large datasets and can adapt to new information, potentially offering more accurate market sentiment predictions.
 
-For more detailed insights and methodologies on sentiment analysis in trading, "Trading on Sentiment: The Power of Minds Over Markets" by Richard L. Peterson is a comprehensive resource that delves into the use of NLP and [machine learning](/wiki/machine-learning) in the interpretation of market sentiment data[2].
+For more detailed insights and methodologies on sentiment analysis in trading, "Trading on Sentiment: The Power of Minds Over Markets" by Richard L. Peterson is a comprehensive resource that investigates into the use of NLP and [machine learning](/wiki/machine-learning) in the interpretation of market sentiment data[2].
 
 ### Sentiment Indicators from Brokerages and Trading Platforms
 

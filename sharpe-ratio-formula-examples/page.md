@@ -1,6 +1,6 @@
 ---
 title: "Sharpe Ratio: Formula and Examples (Algo Trading)"
-description: "Explore the significance of the Sharpe Ratio in algorithmic trading and investment performance. This article delves into the calculation and application of this essential metric, offering insights into its role in assessing risk-adjusted returns. Understand how the Sharpe Ratio aids financial analysts and traders in making informed decisions to manage risk and optimize portfolios in dynamic markets."
+description: "Explore the significance of the Sharpe Ratio in algorithmic trading and investment performance. This article investigates into the calculation and application of this essential metric, offering insights into its role in assessing risk-adjusted returns. Understand how the Sharpe Ratio aids financial analysts and traders in making informed decisions to manage risk and optimize portfolios in dynamic markets."
 ---
 
 Investment and finance are inherently tied to risk, making performance measurement crucial for success. Among the array of tools that financial analysts and investors use to evaluate risk and return, the Sharpe Ratio stands out as one of the most prevalent. Developed by Nobel laureate William F. Sharpe, this metric assesses the risk-adjusted return of an investment, offering a clearer view of its performance potential.

@@ -91,7 +91,7 @@ Looking forward, the dynamic nature of financial markets and technologies necess
 
 4. Lewis, M. (2014). *Flash Boys: A Wall Street Revolt*. W. W. Norton & Company. Lewis's book provides a narrative on the dynamics of high-frequency and algorithmic trading, examining the impact of technological innovation in financial markets within a regulatory framework.
 
-5. Lo, A.W., & MacKinlay, A.C. (1999). *A Non-Random Walk Down Wall Street*. Princeton University Press. This text delves into various quantitative methods in finance, illustrating the significance of algorithmic trading strategies in modern markets.
+5. Lo, A.W., & MacKinlay, A.C. (1999). *A Non-Random Walk Down Wall Street*. Princeton University Press. This text investigates into various quantitative methods in finance, illustrating the significance of algorithmic trading strategies in modern markets.
 
 6. Shiller, R.J. (2000). *Irrational Exuberance*. Princeton University Press. Shiller explores market volatility and the potential risks of limited regulation, offering a critical perspective on limited government frameworks in managing financial stability.
 

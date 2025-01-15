@@ -141,7 +141,7 @@ Traders are encouraged to explore and adapt these methodologies, using them as f
 ## References
 
 1. **Gann Analysis**: 
-   - *Gann, W. D. (1927). "The Tunnel Thru the Air or Looking Back from 1940".* This book delves into Gann's philosophy and introduces theories behind his methodologies. 
+   - *Gann, W. D. (1927). "The Tunnel Thru the Air or Looking Back from 1940".* This book investigates into Gann's philosophy and introduces theories behind his methodologies. 
    - *Drummond, S. (1978). "Gann Simplified: A Complete Guide to Trading with Gann".* A comprehensive guide for beginners interested in Gann strategies.
 
 2. **Technical Analysis**:

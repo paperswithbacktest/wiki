@@ -9,7 +9,7 @@ This article examines the chronological events leading to Bear Stearns' downfall
 
 ![Image](images/1.jpeg)
 
-Furthermore, the article delves into the role of algorithmic trading and risk management, which have become integral components of modern financial operations. Algorithmic trading, characterized by high-frequency transactions and complex algorithms, contributed to the rapid market fluctuations during the crisis, underscoring the need for robust oversight mechanisms to manage associated risks. The lack of transparency in these trading practices revealed vulnerabilities that exacerbated the crisis, prompting regulators to reassess the regulatory frameworks governing the financial industry.
+Furthermore, the article investigates into the role of algorithmic trading and risk management, which have become integral components of modern financial operations. Algorithmic trading, characterized by high-frequency transactions and complex algorithms, contributed to the rapid market fluctuations during the crisis, underscoring the need for robust oversight mechanisms to manage associated risks. The lack of transparency in these trading practices revealed vulnerabilities that exacerbated the crisis, prompting regulators to reassess the regulatory frameworks governing the financial industry.
 
 The lessons learned from the Bear Stearns episode remain pertinent today. They underscore the necessity for financial institutions to adopt sound risk management strategies and for regulators to ensure adequate oversight to prevent the recurrence of similar crises. As financial systems continue to evolve, the insights gained from Bear Stearns' experience serve as a cautionary tale and guide the development of more resilient and sustainable financial markets.
 

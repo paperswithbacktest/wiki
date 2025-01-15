@@ -15,7 +15,7 @@ Algorithmic trading, or algo trading, employs computer algorithms to execute tra
 
 Understanding these core elements is vital for both novice and experienced investors. Grasping the dynamics of floating stock can help investors assess stock volatility and liquidity, aiding in more informed investment decisions. Familiarity with algorithmic trading can enable investors to leverage technological advancements for enhanced trading strategies.
 
-This article delves into the interplay between floating stock and algorithmic trading strategies. It explores the nuances of floating stock, demystifies the intricacies of algorithmic trading, and analyzes how these elements interact to influence trading strategies and market behavior. The intention is to equip investors with an informed perspective, enabling them to navigate and thrive in the ever-evolving landscape of stock market trading.
+This article investigates into the interplay between floating stock and algorithmic trading strategies. It explores the nuances of floating stock, demystifies the intricacies of algorithmic trading, and analyzes how these elements interact to influence trading strategies and market behavior. The intention is to equip investors with an informed perspective, enabling them to navigate and thrive in the ever-evolving landscape of stock market trading.
 
 ## Table of Contents
 

@@ -15,7 +15,7 @@ Throughout its journey, GETCO's strategic growth and innovative approach culmina
 
 GETCO's trading algorithms were significant in promoting market efficiency and transparency. The firm's commitment to innovation and collaboration with exchanges and regulatory bodies has helped address concerns associated with high-frequency trading, establishing a balance between speed and market stability.
 
-This article delves into GETCO's journey, outlining its founding principles, pivotal milestones, and strategic decisions. It further explores how GETCO shaped the algorithmic trading landscape and continues to leave a lasting legacy on technology-driven trading solutions worldwide.
+This article investigates into GETCO's journey, outlining its founding principles, pivotal milestones, and strategic decisions. It further explores how GETCO shaped the algorithmic trading landscape and continues to leave a lasting legacy on technology-driven trading solutions worldwide.
 
 ## Table of Contents
 

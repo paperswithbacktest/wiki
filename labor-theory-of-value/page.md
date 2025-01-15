@@ -11,7 +11,7 @@ The labor theory of value has had a profound impact on economic thought, influen
 
 Algorithmic trading, which employs complex algorithms to conduct trading at speeds and scales not achievable by traditional methods, represents a transformative force in financial markets. By automating trading strategies, these algorithms are able to analyze vast datasets to optimize decision-making processes in real-time. Understanding how classical economic theories, such as the labor theory of value, integrate with these advanced trading technologies, sheds light on the evolution of modern markets.
 
-This article delves into how classical economic theories continue to underpin automated trading strategies. By examining the evolution and current relevance of LTV, we gain deeper insights into the functioning of today's financial markets and the foundational economic theories that guide contemporary trading algorithms. The integration of these classical insights with technological advancements presents a compelling narrative of how economic principles continue to shape and enhance algorithmic trading practices.
+This article investigates into how classical economic theories continue to underpin automated trading strategies. By examining the evolution and current relevance of LTV, we gain deeper insights into the functioning of today's financial markets and the foundational economic theories that guide contemporary trading algorithms. The integration of these classical insights with technological advancements presents a compelling narrative of how economic principles continue to shape and enhance algorithmic trading practices.
 
 ## Table of Contents
 

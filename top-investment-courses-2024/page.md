@@ -35,7 +35,7 @@ In 2024, individuals seeking to enhance their investment acumen are presented wi
 
 **1. Prestigious University Offerings:**
 
-Institutions such as the Massachusetts Institute of Technology (MIT) and Harvard University continue to lead in the provision of advanced finance courses. MIT's "Finance and Investment Management" [course](/wiki/best-algorithmic-trading-courses) is celebrated for its comprehensive curriculum, which encompasses both fundamental and technical analyses. This course typically spans a duration of 12 weeks and delves into investment strategies, financial instruments, and market analysis. The tuition is approximately $3,000, and the course offers accreditation that is recognized globally.
+Institutions such as the Massachusetts Institute of Technology (MIT) and Harvard University continue to lead in the provision of advanced finance courses. MIT's "Finance and Investment Management" [course](/wiki/best-algorithmic-trading-courses) is celebrated for its comprehensive curriculum, which encompasses both fundamental and technical analyses. This course typically spans a duration of 12 weeks and investigates into investment strategies, financial instruments, and market analysis. The tuition is approximately $3,000, and the course offers accreditation that is recognized globally.
 
 Similarly, Harvard's "Foundations of Investment" emphasizes the core principles of investing, focusing on asset valuation, portfolio diversification, and risk management. This course, which extends over 10 weeks, is priced at around $2,500 and includes access to proprietary case studies and interactive assignments.
 

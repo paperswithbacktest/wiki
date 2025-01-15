@@ -146,5 +146,5 @@ In conclusion, the strategic integration and adaptation of contracts in algorith
    B.G. Malkiel's classic offers an examination of investment strategies with a focus on the efficient market hypothesis. Although not exclusively about algorithmic trading, the book provides foundational knowledge on market behavior, which can be beneficial when developing robust algo trading strategies.
 
 4. **High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems** by Irene Aldridge  
-   This guide delves into the intricacies of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), presenting actionable insights on the development and deployment of algorithmic trading systems. It covers the technical and operational aspects of HFT, making it an essential read for traders interested in high-speed markets and complex trading infrastructures.
+   This guide investigates into the intricacies of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), presenting actionable insights on the development and deployment of algorithmic trading systems. It covers the technical and operational aspects of HFT, making it an essential read for traders interested in high-speed markets and complex trading infrastructures.
 

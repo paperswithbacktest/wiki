@@ -171,7 +171,7 @@ Adopting this innovative strategy holds the potential to elevate sustainable inc
 1. **Scholarly Articles and Books:**
    - Jones, C.M., & Kaul, G. (1996). "The Dynamics of Stock Returns Volatility". _The Journal of Financial Economics_, which discusses the factors influencing stock returns and volatility, essential for understanding dividend stability.
    - Treynor, J.L., & Black, F. (1973). "How to Use Security Analysis to Improve Portfolio Selection". _Journal of Business_, provides insights into quantitative analysis crucial for algorithmic trading and decision-making in dividend stocks.
-   - Engle, R.F., & Granger, C.W.J. (1987). "Co-integration and Error Correction: Representation, Estimation, and Testing". _Econometrica_, delves into time series analysis, beneficial for modeling and predicting financial data in algorithmic trading.
+   - Engle, R.F., & Granger, C.W.J. (1987). "Co-integration and Error Correction: Representation, Estimation, and Testing". _Econometrica_, investigates into time series analysis, beneficial for modeling and predicting financial data in algorithmic trading.
 
 2. **Multi-Disciplinary Resources:**
    - James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). _An Introduction to Statistical Learning with Applications in R_. Springer. This book provides an introduction to machine learning concepts, applicable for enhancing algorithmic trading models.

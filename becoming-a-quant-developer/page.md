@@ -310,7 +310,7 @@ Dedicated self-study, aided by a selection of high-quality resources, is pivotal
 **Courses**:
 
 - **"Introduction to Computational Finance and Financial Econometrics" on Coursera**: Offers a blend of theory and practical computation, introducing students to risk management and asset pricing.
-- **"Python for Finance" on Udemy**: Tailored specifically for finance professionals and students, this course delves into using Python for trading, investment, and risk management.
+- **"Python for Finance" on Udemy**: Tailored specifically for finance professionals and students, this course investigates into using Python for trading, investment, and risk management.
 - **MIT OpenCourseWare’s "Financial Derivatives"**: A free course that provides an in-depth study of financial derivatives in continuous-time models.
 
 While these resources can immensely aid your learning, remember that the field of quantitative finance is vast and constantly evolving. Regularly updating your knowledge, participating in online communities, and tackling real-world projects will help ensure that you remain at the forefront of quant development.

@@ -155,7 +155,7 @@ Investopedia provides a comprehensive guide on the basics of Earnings Per Share 
 
 Barry Johnson’s work, "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies," offers insight into the implementation of direct access trading strategies and their relationship with metrics like EPS. This book is useful for those looking to integrate financial indicators into algorithmic trading frameworks.
 
-For a more advanced exploration of the intersection between financial metrics and machine learning, "Advances in Financial Machine Learning" by Marcos Lopez de Prado is highly recommended. This text delves into the application of machine learning techniques to financial datasets, including the use of EPS data, to enhance predictive modeling and trading strategies.
+For a more advanced exploration of the intersection between financial metrics and machine learning, "Advances in Financial Machine Learning" by Marcos Lopez de Prado is highly recommended. This text investigates into the application of machine learning techniques to financial datasets, including the use of EPS data, to enhance predictive modeling and trading strategies.
 
 McKinsey & Company’s publication, "Valuation: Measuring and Managing the Value of Companies," provides a broader perspective on evaluating company performance. This resource discusses how EPS contributes to overall company valuation and decision-making processes, which are crucial for both investors and trading algorithms.
 

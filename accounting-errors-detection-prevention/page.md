@@ -9,7 +9,7 @@ Algorithmic trading requires precise data inputs to execute trades effectively a
 
 ![Image](images/1.png)
 
-This article delves into several critical areas. It begins with defining accounting errors, exploring their types and how they differ from fraudulent activities. It then examines the extensive impact of these errors within the context of algorithmic trading. Following this, various methodologies for detecting such errors are discussed, from traditional audits to cutting-edge technologies like artificial intelligence (AI) and machine learning (ML).
+This article investigates into several critical areas. It begins with defining accounting errors, exploring their types and how they differ from fraudulent activities. It then examines the extensive impact of these errors within the context of algorithmic trading. Following this, various methodologies for detecting such errors are discussed, from traditional audits to cutting-edge technologies like artificial intelligence (AI) and machine learning (ML).
 
 Preventative measures are equally crucial, and the article outlines best practices for avoiding these mistakes. This includes robust internal controls and staff training. Real-world case studies further illustrate the considerable effects and potential lessons learned from past incidents involving accounting errors. Lastly, the role of emerging technologies like blockchain and robotic process automation (RPA) in reducing the incidence of errors will be considered, offering insights into future directions for ensuring data accuracy and integrity.
 
@@ -198,7 +198,7 @@ By embracing these strategies, firms can not only reduce the likelihood of error
 
 1. Christensen, J., & Demski, J. S. (2003). *Accounting Theory: An Information Content Perspective*. This book provides a comprehensive exploration of accounting information systems and error implications, offering insights into theoretical foundations and practical applications.
 
-2. Lybrand, W., & Ross Bros. & Montgomery. (1998). *Algorithmic Trading: Winning Strategies and Their Rationale*. This source delves into algorithmic trading strategies, with particular sections dedicated to understanding the impacts of errors and how they affect financial outcomes.
+2. Lybrand, W., & Ross Bros. & Montgomery. (1998). *Algorithmic Trading: Winning Strategies and Their Rationale*. This source investigates into algorithmic trading strategies, with particular sections dedicated to understanding the impacts of errors and how they affect financial outcomes.
 
 3. PWC. (2014). *Accounting Fraud & Error: Detection, Prevention & Analysis*. Available at: [PWC Report](https://www.pwc.com/gx/en/services/forensics.html). This report outlines the methodologies for detecting and preventing accounting errors and fraud within financial institutions.
 

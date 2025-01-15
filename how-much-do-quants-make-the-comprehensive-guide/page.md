@@ -1,6 +1,6 @@
 ---
 title: "How Much Do Quants Make? The Comprehensive Guide"
-description: "This comprehensive guide delves into the world of quants - the financial professionals at the intersection of mathematics, finance, and technology. Their role has grown increasingly significant as markets become more complex, with quants responsible for designing models, optimizing trading strategies, managing risk, and identifying market inefficiencies."
+description: "This comprehensive guide investigates into the world of quants - the financial professionals at the intersection of mathematics, finance, and technology. Their role has grown increasingly significant as markets become more complex, with quants responsible for designing models, optimizing trading strategies, managing risk, and identifying market inefficiencies."
 ---
 
 

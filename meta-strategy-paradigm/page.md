@@ -93,7 +93,7 @@ Traders and investors who adopt the meta-strategy paradigm are likely to gain a 
 
 ## Further Readings
 
-"Advances in Financial Machine Learning" by Marcos Lopez de Prado is a pivotal resource for foundational concepts related to the meta-strategy paradigm in algorithmic trading. The book delves into advanced statistical and machine learning techniques that enhance trading strategies by emphasizing the automation and accuracy of predictive models. [Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley.]
+"Advances in Financial Machine Learning" by Marcos Lopez de Prado is a pivotal resource for foundational concepts related to the meta-strategy paradigm in algorithmic trading. The book investigates into advanced statistical and machine learning techniques that enhance trading strategies by emphasizing the automation and accuracy of predictive models. [Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley.]
 
 Studies focusing on algorithmic trading strategies using technical indicators and machine learning approaches are increasingly significant. These studies explore the integration of traditional indicators, such as the Relative Strength Index (RSI), Exponential Moving Averages (EMAs), and the Moving Average Convergence Divergence (MACD), with machine learning algorithms to optimize signal generation and decision-making processes.
 

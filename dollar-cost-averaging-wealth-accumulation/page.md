@@ -222,7 +222,7 @@ For those interested in expanding their knowledge about Dollar-Cost Averaging (D
 
 2. **"A Random Walk Down Wall Street" by Burton G. Malkiel**: Malkiel's book explores efficient market theories and offers guidance on utilizing strategies like DCA for effective investment.
 
-3. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan**: Chan’s book delves into the specifics of algorithmic trading, offering insights into creating and optimizing automated trading strategies, including DCA.
+3. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan**: Chan’s book investigates into the specifics of algorithmic trading, offering insights into creating and optimizing automated trading strategies, including DCA.
 
 4. **Academic Papers**:
     - "Does Dollar-Cost Averaging Work? Analyzing Returns, Fluctuations, and Investor Behavior": This paper examines the performance and risks associated with DCA in various market conditions.

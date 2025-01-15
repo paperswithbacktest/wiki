@@ -11,7 +11,7 @@ Decision analysis provides a systematic framework for evaluating the potential o
 
 With the rise of big data analytics, decision analysis in algorithmic trading has gained further prominence due to its ability to process and synthesize vast amounts of market data. This capability enhances the precision and reliability of trading strategies, allowing for real-time adjustments that capitalize on market opportunities. By integrating decision analysis into their trading models, traders can refine their strategies to achieve better consistency and effectiveness, ultimately improving their financial outcomes.
 
-This article delves into the methodologies and detailed examples of how decision analysis can be integrated into algorithmic trading decision-making processes. It discusses the key concepts involved, the various tools available to traders, and the practical applications that stand to benefit from this analytical approach.
+This article investigates into the methodologies and detailed examples of how decision analysis can be integrated into algorithmic trading decision-making processes. It discusses the key concepts involved, the various tools available to traders, and the practical applications that stand to benefit from this analytical approach.
 
 ## Table of Contents
 

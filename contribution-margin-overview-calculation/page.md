@@ -253,4 +253,4 @@ Integrating contribution margin analysis into trading and business strategies is
 
 [4]: ["Financial Trading and Investing"](https://www.investopedia.com/ask/answers/12/difference-investing-trading.asp) by John R. Teall. Covers aspects of trading, including financial metrics for assessing trading strategies.
 
-[5]: ["The Essentials of Cost Accounting for Health Care Organizations"](https://books.google.com/books/about/Essentials_of_Cost_Accounting_for_Health.html?id=QbPDO1HkxwIC) by Steven A. Finkler and David M. Ward. Delves into cost accounting practices applicable to various sectors.
+[5]: ["The Essentials of Cost Accounting for Health Care Organizations"](https://books.google.com/books/about/Essentials_of_Cost_Accounting_for_Health.html?id=QbPDO1HkxwIC) by Steven A. Finkler and David M. Ward. investigates into cost accounting practices applicable to various sectors.

@@ -129,7 +129,7 @@ Stulz, R. M., in "Credit Default Swaps and the Credit Crisis," analyzes the role
 
 Duffie, D.'s "Credit Swap Valuation" offers an in-depth examination of valuation methods for credit derivatives, focusing on mathematical models and market practices. This work is a valuable resource for professionals engaged in credit risk assessment and management.
 
-Lopez de Prado, M., in "Advances in Financial Machine Learning," delves into machine learning techniques applied to financial markets. The book emphasizes quantitative strategies and provides practical examples of algorithmic trading enhancements through machine learning.
+Lopez de Prado, M., in "Advances in Financial Machine Learning," investigates into machine learning techniques applied to financial markets. The book emphasizes quantitative strategies and provides practical examples of algorithmic trading enhancements through machine learning.
 
 Durbin, M.'s "All About Derivatives" serves as a primer on derivatives, explaining the different types and their uses in risk management and speculation. It is suitable for beginners and those seeking to solidify their foundational knowledge of financial derivatives.
 

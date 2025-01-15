@@ -197,7 +197,7 @@ In conclusion, mastering the balance between effective margin account use and al
 
 [2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). Wiley. This text explores the application of machine learning techniques to financial strategies and risk management.
 
-[3]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley. This guide delves into the principles of developing algorithmic trading systems, including backtesting and risk management.
+[3]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley. This guide investigates into the principles of developing algorithmic trading systems, including backtesting and risk management.
 
 [4]: Aronson, D. R. (2007). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315). Wiley. This book examines the scientific approach to technical analysis in trading.
 

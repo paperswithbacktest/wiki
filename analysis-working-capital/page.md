@@ -144,7 +144,7 @@ Embracing the synergy between these elements will position businesses to capital
 
 ## References & Further Reading
 
-"Advances in Financial Machine Learning" by Marcos Lopez de Prado explores the integration of machine learning techniques in financial markets. This book delves into advanced statistical methods and algorithms tailored to the financial domain, offering insights into developing predictive models and optimizing trading strategies. Lopez de Prado's work is essential for understanding how data-driven approaches can address the complexity of market behaviors and enhance decision-making processes.
+"Advances in Financial Machine Learning" by Marcos Lopez de Prado explores the integration of machine learning techniques in financial markets. This book investigates into advanced statistical methods and algorithms tailored to the financial domain, offering insights into developing predictive models and optimizing trading strategies. Lopez de Prado's work is essential for understanding how data-driven approaches can address the complexity of market behaviors and enhance decision-making processes.
 
 "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan serves as a comprehensive guide for aspiring quant traders. Chan details the step-by-step process of constructing a profitable trading business using algorithmic techniques. The book covers essential topics such as strategy development, risk management, and the implementation of algorithms in live markets, making it a valuable resource for both beginners and seasoned professionals.
 

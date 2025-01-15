@@ -198,7 +198,7 @@ Market participants who understand and adapt to these innovations will be well-p
    This report provides an in-depth analysis of current trends in algorithmic trading, focusing on technological advancements and strategic approaches that enhance trading efficiency and market impact.
 
 5. **"Financial Markets and Corporate Strategy" by David Hillier, Mark Grinblatt, and Sheridan Titman**  
-   This textbook covers the integration of various financial instruments, including preferred stock, within corporate strategies. It delves into how these instruments influence corporate decision-making and market behavior.
+   This textbook covers the integration of various financial instruments, including preferred stock, within corporate strategies. It investigates into how these instruments influence corporate decision-making and market behavior.
 
 6. **"Quantitative Finance: A Python-Based Introduction" by Robert Sedgewick, Kevin Wayne, and Robert Dondero**  
    This work introduces algorithmic trading and financial modeling using Python, providing practical code examples and strategies for implementing quantitative finance models.

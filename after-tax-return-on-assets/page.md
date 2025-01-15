@@ -194,7 +194,7 @@ In conclusion, while ROA and After-Tax ROA alone provide significant insights in
 
 - "Principles of Corporate Finance" by Brealey, Myers, and Allen - This book explains various financial metrics and their application in evaluating company performance and investment strategies.
 
-- "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan - This text delves into the use of financial metrics in algorithmic trading, offering practical guidance and strategy development insights.
+- "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan - This text investigates into the use of financial metrics in algorithmic trading, offering practical guidance and strategy development insights.
 
 - "Modern Portfolio Theory and Investment Analysis" by Elton, Gruber, Brown, and Goetzmann - This book covers a wide array of financial metrics, including ROA, and discusses their applications in portfolio management and investment decision-making.
 

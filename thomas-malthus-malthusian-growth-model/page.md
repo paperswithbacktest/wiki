@@ -1,6 +1,6 @@
 ---
 title: "Thomas Malthus and the Malthusian Growth Model (Algo Trading)"
-description: "Explore the intersection of Malthusian theory and algorithmic trading in this insightful article that delves into population growth models and trading strategies."
+description: "Explore the intersection of Malthusian theory and algorithmic trading in this insightful article that investigates into population growth models and trading strategies."
 ---
 
 The Malthusian Theory, proposed by Thomas Malthus in 1798, continues to be a significant framework for understanding the dynamics of population growth. His theory postulates that while populations grow geometrically, the resources necessary for sustenance, like food, increase arithmetically. This predicted imbalance, according to Malthus, would inevitably lead to overpopulation and societal challenges such as famine, disease, and poverty. Despite its age, Malthus' theory still stimulates debates across various fields, notably in economics and modern technological contexts. 

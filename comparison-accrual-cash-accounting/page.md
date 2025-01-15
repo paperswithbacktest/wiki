@@ -125,7 +125,7 @@ In conclusion, adopting accrual accounting is not merely about compliance or sta
 
 ## References & Further Reading
 
-Gibson, C. H. "Financial Reporting and Analysis: Using Financial Accounting Information" is a comprehensive guide that delves into the principles of financial reporting and the interpretation of financial statements. This text is particularly useful for understanding the essential aspects of both accrual and cash accounting methods, offering insights into how these accounting practices impact financial decision-making and reporting.
+Gibson, C. H. "Financial Reporting and Analysis: Using Financial Accounting Information" is a comprehensive guide that investigates into the principles of financial reporting and the interpretation of financial statements. This text is particularly useful for understanding the essential aspects of both accrual and cash accounting methods, offering insights into how these accounting practices impact financial decision-making and reporting.
 
 Penman, S. H. "Financial Statement Analysis and Security Valuation" offers an in-depth exploration of the techniques used in analyzing financial statements to assess a company's value. The book is a valuable resource for those interested in understanding how financial data, especially under accrual accounting, informs valuation models and investment strategies.
 

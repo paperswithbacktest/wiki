@@ -145,7 +145,7 @@ Damodaran, A. (1999). *Valuing young, start-up and growth companies: Estimation 
 
 Vernimmen, P., Quiry, P., Dallocchio, M., & Le Fur, Y. (2021). *Corporate Finance: Theory and Practice*. This comprehensive guide covers corporate finance principles and offers insights into practical applications. It includes detailed discussions on the valuation techniques, including those using free cash flows, providing a foundational understanding crucial for assessing firm value.
 
-Tvede, L. (1998). *The Psychology of Finance: Understanding the Behavioral Dynamics of Markets*. This book delves into the psychological factors that influence market dynamics and investor behavior. Understanding these aspects is critical for evaluating how market sentiments can affect firm valuation and trading strategies.
+Tvede, L. (1998). *The Psychology of Finance: Understanding the Behavioral Dynamics of Markets*. This book investigates into the psychological factors that influence market dynamics and investor behavior. Understanding these aspects is critical for evaluating how market sentiments can affect firm valuation and trading strategies.
 
 Brealey, R. A., Myers, S. C., & Allen, F. *Principles of Corporate Finance*. This authoritative text presents fundamental corporate finance concepts, with emphasis on methodologies such as discounted cash flow analysis for valuating firms. It provides a rigorous treatment of financial principles necessary for sound investment decision-making.
 

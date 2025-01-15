@@ -11,7 +11,7 @@ Joint demand refers to the phenomenon where the demand for one product is direct
 
 In recent years, algorithmic trading has revolutionized financial markets by employing these economic principles. Algorithms systematically analyze vast datasets, identifying patterns and executing trades with precision that human traders might miss. Understanding the dynamics of joint demand and supply empowers algorithms to make informed predictions and execute trades that leverage interrelated market movements efficiently. 
 
-This article delves into the synergy between economics and algorithmic trading, scrutinizing how joint demand and supply impact market interactions and trading strategies. As the economic landscape becomes increasingly digital, these relationships will play a crucial role in shaping the future of financial markets and enhancing the efficiency of trading strategies.
+This article investigates into the synergy between economics and algorithmic trading, scrutinizing how joint demand and supply impact market interactions and trading strategies. As the economic landscape becomes increasingly digital, these relationships will play a crucial role in shaping the future of financial markets and enhancing the efficiency of trading strategies.
 
 ## Table of Contents
 

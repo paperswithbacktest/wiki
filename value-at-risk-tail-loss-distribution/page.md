@@ -67,7 +67,7 @@ By incorporating these advanced risk management strategies, algorithmic trading 
 
 ## Tail Value at Risk (TVaR): A Deeper Insight
 
-Tail Value at Risk (TVaR), also known as Conditional Value at Risk (CVaR), is an advanced risk assessment measure focused on the expected loss occurring in the tail of a loss distribution, beyond the Value at Risk (VaR) threshold. Unlike VaR, which provides a cutoff point for the worst-case scenario at a specific confidence level, TVaR delves deeper by calculating the average of losses that exceed the VaR mark. This approach offers a more comprehensive understanding of potential financial risk, particularly under extreme market conditions where large losses are possible.
+Tail Value at Risk (TVaR), also known as Conditional Value at Risk (CVaR), is an advanced risk assessment measure focused on the expected loss occurring in the tail of a loss distribution, beyond the Value at Risk (VaR) threshold. Unlike VaR, which provides a cutoff point for the worst-case scenario at a specific confidence level, TVaR investigates deeper by calculating the average of losses that exceed the VaR mark. This approach offers a more comprehensive understanding of potential financial risk, particularly under extreme market conditions where large losses are possible.
 
 Mathematically, TVaR can be described as follows. Let $X$ represent the portfolio loss, and $\alpha$ the confidence level. If $\text{VaR}_{\alpha}(X)$ is the VaR at the confidence level $\alpha$, then TVaR is defined as:
 

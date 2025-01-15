@@ -11,7 +11,7 @@ ROI, a commonly used measure, calculates the gain or loss made on an investment 
 
 The advent of algorithmic trading, more commonly known as algo trading, has transformed how traders and investors operate within financial markets. By leveraging advanced computational power and algorithms, traders can execute strategies that optimize ROI and ROIC. Algo trading capitalizes on speed and precision, allowing for the systematic execution of trades, which enhances decision-making processes and reduces human emotional bias.
 
-This article provides a comprehensive exploration of the intersection between ROIC and algorithmic trading. It delves into the nuances of ROIC, how it differs from ROI, and the significant role that algorithmic trading plays in optimizing these metrics. Through automated strategies, traders and investors can potentially maximize returns and make more efficient use of their capital investments.
+This article provides a comprehensive exploration of the intersection between ROIC and algorithmic trading. It investigates into the nuances of ROIC, how it differs from ROI, and the significant role that algorithmic trading plays in optimizing these metrics. Through automated strategies, traders and investors can potentially maximize returns and make more efficient use of their capital investments.
 
 By the conclusion of this article, readers will gain a thorough understanding of how to incorporate ROIC effectively into their algorithmic trading strategies. This knowledge will empower traders to make informed decisions and improve their investment outcomes, pushing the boundaries of traditional financial strategies through the integration of technology and financial metrics.
 

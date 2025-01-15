@@ -71,7 +71,7 @@ This landscape necessitates a careful navigation of compliance requirements with
 
 ## Balancing Compliance and Strategic Growth
 
-Banks today face the dual challenge of adhering to stringent regulatory requirements set forth by Basel III while simultaneously striving to achieve strategic growth. Compliance with Basel III compels banks to strike a balance between short-term profitability and long-term stability. This section delves into how banks can leverage technology and innovation to optimize their capital usage and improve operational efficiency.
+Banks today face the dual challenge of adhering to stringent regulatory requirements set forth by Basel III while simultaneously striving to achieve strategic growth. Compliance with Basel III compels banks to strike a balance between short-term profitability and long-term stability. This section investigates into how banks can leverage technology and innovation to optimize their capital usage and improve operational efficiency.
 
 ### Leveraging Technology and Innovation
 

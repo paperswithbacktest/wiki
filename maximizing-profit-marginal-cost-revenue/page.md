@@ -209,7 +209,7 @@ Effective application of marginal cost principles is crucial for achieving long-
    Mankiw's work provides a thorough introduction to economic concepts, focusing on how marginal analysis informs decision-making processes in businesses. It covers the basics and more advanced topics, making it suitable for both beginners and seasoned economists.
 
 3. **Harris, John. "Algorithmic Trading: Winning Strategies and Their Rationale."**  
-   This book delves into the world of automated trading systems, explaining how algorithms leverage marginal cost analysis to optimize trading strategies. It is particularly valuable for those interested in the intersection of economics and technology.
+   This book investigates into the world of automated trading systems, explaining how algorithms leverage marginal cost analysis to optimize trading strategies. It is particularly valuable for those interested in the intersection of economics and technology.
 
 4. **Varian, Hal R. "Intermediate Microeconomics: A Modern Approach."**  
    Varian's text is well-regarded for its rigorous treatment of microeconomic theory, including the mathematical models that underpin marginal cost analysis. It is a useful resource for understanding the applications of these models in real-world economic problems.
@@ -218,7 +218,7 @@ Effective application of marginal cost principles is crucial for achieving long-
    This book provides a detailed exploration of microeconomic principles, including those related to marginal cost and revenue. It is particularly relevant for those looking to understand the strategic implications of these concepts in business settings.
 
 6. **Donnelly, Russell J., ed. "Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies."**  
-   This resource delves into the specifics of direct market access and algorithmic trading strategies, providing insights into how traders use marginal cost principles to enhance profitability.
+   This resource investigates into the specifics of direct market access and algorithmic trading strategies, providing insights into how traders use marginal cost principles to enhance profitability.
 
 7. **Hill, Charles W. L., and Gareth R. Jones. "Strategic Management: An Integrated Approach."**  
    While focusing more broadly on strategic management, this book discusses how marginal analysis can inform strategic decisions, offering practical insights for managers and business leaders.

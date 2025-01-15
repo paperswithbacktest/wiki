@@ -11,7 +11,7 @@ Enter ChatGPT. Originally designed as a conversational AI by OpenAI, ChatGPT's p
 
 ![Untitled](images/Untitled.png)
 
-This article delves deep into ChatGPT's world, exploring its capabilities, advantages, and how it's revolutionizing the very fabric of algorithmic trading. We aim to provide a comprehensive guide for those curious about or actively looking to integrate ChatGPT into their trading arsenal.
+This article investigates deep into ChatGPT's world, exploring its capabilities, advantages, and how it's revolutionizing the very fabric of algorithmic trading. We aim to provide a comprehensive guide for those curious about or actively looking to integrate ChatGPT into their trading arsenal.
 
 ## Table of Contents
 

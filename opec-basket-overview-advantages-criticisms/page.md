@@ -9,7 +9,7 @@ A key development in recent times within this market is the advent of algorithmi
 
 ![Image](images/1.jpeg)
 
-This article examines the economic implications of the OPEC Basket — a weighted average of crude oil prices from OPEC members — and its role in oil pricing. The OPEC Basket is vital in understanding how OPEC sets and achieves its price targets, impacting global oil markets and, by extension, global economies. Alongside, the article delves into the impacts of algorithmic trading on this landscape, probing its potential to affect economic strategies and market controls traditionally held by major entities like OPEC.
+This article examines the economic implications of the OPEC Basket — a weighted average of crude oil prices from OPEC members — and its role in oil pricing. The OPEC Basket is vital in understanding how OPEC sets and achieves its price targets, impacting global oil markets and, by extension, global economies. Alongside, the article investigates into the impacts of algorithmic trading on this landscape, probing its potential to affect economic strategies and market controls traditionally held by major entities like OPEC.
 
 By exploring these elements, we aim to provide a comprehensive understanding of how the convergence of traditional and modern forces shapes the current and future economic strategies within the global oil markets. This understanding is crucial for stakeholders who must adapt to maintain market stability and control in a rapidly evolving trading environment.
 

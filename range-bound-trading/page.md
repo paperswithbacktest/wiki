@@ -145,7 +145,7 @@ Maximizing profitability in range-bound markets through algorithmic trading requ
 
 - For readers eager to deepen their understanding of range-bound trading and algorithmic trading, several foundational texts and academic works provide rich insights.
 
-- "Advances in Financial Machine Learning" by Marcos Lopez de Prado is indispensable for exploring the intersection of financial markets and machine learning. The book discusses sophisticated strategies for developing machine learning frameworks to navigate varying market conditions, including range-bound scenarios. Lopez de Prado delves into the applications of machine learning algorithms in finance, offering practical techniques that can enhance the profitability and efficiency of trading strategies.
+- "Advances in Financial Machine Learning" by Marcos Lopez de Prado is indispensable for exploring the intersection of financial markets and machine learning. The book discusses sophisticated strategies for developing machine learning frameworks to navigate varying market conditions, including range-bound scenarios. Lopez de Prado investigates into the applications of machine learning algorithms in finance, offering practical techniques that can enhance the profitability and efficiency of trading strategies.
 
 - "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan serves as a practical guide for traders interested in creating and managing algorithmic trading operations. Chan provides a step-by-step approach to develop trading strategies, emphasizing the importance of backtesting, optimization, and risk management. By bridging theoretical concepts with real-world applications, this book is invaluable for those embarking on algorithmic trading ventures.
 

@@ -9,7 +9,7 @@ Simultaneously, algorithmic trading is transforming financial markets, offering 
 
 ![Image](images/1.jpeg)
 
-This article delves into the intersections of oil reserves classification and the impacts of algorithmic trading within the energy sector, highlighting the dual influence these elements have on current and future market dynamics. As oil reserves affect global economic strategies, algorithmic trading continues to push the boundaries of market operations, creating a complex interplay that shapes the industry's landscape. Understanding this relationship is essential for navigating the evolving challenges and opportunities within the global energy market.
+This article investigates into the intersections of oil reserves classification and the impacts of algorithmic trading within the energy sector, highlighting the dual influence these elements have on current and future market dynamics. As oil reserves affect global economic strategies, algorithmic trading continues to push the boundaries of market operations, creating a complex interplay that shapes the industry's landscape. Understanding this relationship is essential for navigating the evolving challenges and opportunities within the global energy market.
 
 ## Table of Contents
 

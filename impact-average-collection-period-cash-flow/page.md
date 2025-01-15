@@ -158,7 +158,7 @@ By harmonizing these strategies, businesses can not only boost their financial s
    A classic resource outlining key financial concepts and practices, from corporate capital structure to the intricacies of financial performance, essential for understanding credit management and cash flow efficiencies.
 
 3. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan**  
-   This work delves into the design, testing, and implementation of automated trading systems, offering practical strategies that align with modern financial technologies.
+   This work investigates into the design, testing, and implementation of automated trading systems, offering practical strategies that align with modern financial technologies.
 
 4. **"The Mathematics of Financial Modeling and Investment Management" by Sergio M. Focardi and Frank J. Fabozzi**  
    An essential resource for understanding the quantitative frameworks behind financial modeling, risk management, and the integration of trading and investment strategies.

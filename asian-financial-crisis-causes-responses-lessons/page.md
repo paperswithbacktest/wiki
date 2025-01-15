@@ -5,7 +5,7 @@ description: "Explore the Asian Financial Crisis of 1997 its causes economic res
 
 The Asian Financial Crisis marked a significant turning point in global economic history, demonstrating the volatility and interconnectedness of financial markets. Occurring in July 1997, the crisis initially erupted in Thailand with the dramatic collapse of the Thai baht, setting off a chain reaction across Southeast Asia. This period of financial turmoil had profound implications, not only for the affected countries but also for the entire global economy, highlighting the fragility of rapidly expanding markets.
 
-This article provides a comprehensive exploration of the crisis, examining the economic responses that were undertaken to stabilize the affected economies and mitigate further damage. It delves into the lessons learned from this critical juncture, emphasizing the need for robust economic policies and international collaborations to safeguard against future crises. Additionally, the article navigates through the evolution and impact of algorithmic trading in contemporary financial markets, a sphere that has gained prominence since the crisis.
+This article provides a comprehensive exploration of the crisis, examining the economic responses that were undertaken to stabilize the affected economies and mitigate further damage. It investigates into the lessons learned from this critical juncture, emphasizing the need for robust economic policies and international collaborations to safeguard against future crises. Additionally, the article navigates through the evolution and impact of algorithmic trading in contemporary financial markets, a sphere that has gained prominence since the crisis.
 
 ![Image](images/1.png)
 

@@ -11,7 +11,7 @@ The Canadian money market serves as a fundamental mechanism for short-term borro
 
 Algorithmic trading, a method of executing orders using automated pre-programmed trading instructions, has revolutionized engagement with financial markets. It offers rapid execution speeds and the ability to manage complex data sets, making it a vital tool in the high-frequency nature of modern money markets. This integration of technology facilitates the handling of vast marketplaces with precision and speed unachievable through traditional means.
 
-By exploring the dynamic interplay between financial technologies and traditional market components, one can gain insight into the broader landscape of the Canadian financial ecosystem. This article delves into the roles and interactions of the Canadian overnight market rate, the encompassing money market, and the transformative powers of algorithmic trading, highlighting their interconnectedness and impact on the financial framework in Canada and beyond.
+By exploring the dynamic interplay between financial technologies and traditional market components, one can gain insight into the broader landscape of the Canadian financial ecosystem. This article investigates into the roles and interactions of the Canadian overnight market rate, the encompassing money market, and the transformative powers of algorithmic trading, highlighting their interconnectedness and impact on the financial framework in Canada and beyond.
 
 ## Table of Contents
 

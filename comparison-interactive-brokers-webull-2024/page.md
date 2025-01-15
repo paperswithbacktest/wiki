@@ -41,7 +41,7 @@ Overall, Webull has carved out a notable position in the online brokerage market
 
 ## Algorithmic Trading Features Comparison
 
-Interactive Brokers and Webull both offer distinct sets of features for algorithmic trading, each catering to different types of traders. This section delves into a detailed comparison of their capabilities.
+Interactive Brokers and Webull both offer distinct sets of features for algorithmic trading, each catering to different types of traders. This section investigates into a detailed comparison of their capabilities.
 
 Interactive Brokers provides a more advanced suite of algorithmic trading tools and customization options. Their platform supports a wide range of algorithms, including execution algorithms, direct market access, and the ability to develop proprietary strategies using the Trader Workstation (TWS) API. This flexibility is particularly beneficial for experienced traders who wish to adjust parameters to fit specific trading strategies. Users can code in multiple languages, including Python, Java, and C++, which provides further customizability. For instance, using Python, traders can leverage libraries like `pandas` and `numpy` to develop and test trading algorithms efficiently. An example of a simple moving average crossover strategy can be implemented using Python as follows:
 

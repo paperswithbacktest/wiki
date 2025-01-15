@@ -27,7 +27,7 @@ However, the essence of VaR often prompts the question: How bad can it really ge
 
 It's also worth noting that VaR is fundamentally a 'point estimate'. It gives one number to summarize potential future losses, and while this simplicity is one of its strengths, it's also a limitation. Real-world events, especially in finance, are often more complex than a single number can represent. This underlines the importance of using VaR alongside other risk metrics and not treating it as the ultimate answer to risk assessment questions.
 
-For further exploration on this topic, Jorion's "Value at Risk: The New Benchmark for Managing Financial Risk" is an excellent resource that delves deeper into the concepts and methodologies of VaR[1].
+For further exploration on this topic, Jorion's "Value at Risk: The New Benchmark for Managing Financial Risk" is an excellent resource that investigates deeper into the concepts and methodologies of VaR[1].
 
 ### Pros of using VaR
 

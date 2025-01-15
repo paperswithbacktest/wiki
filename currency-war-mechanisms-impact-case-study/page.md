@@ -11,7 +11,7 @@ Currency wars have historically caused significant disruptions in international 
 
 The rise of algorithmic trading has added complexity and speed to the dynamics of currency wars. These algorithm-driven systems can execute trades and analyze market data at high speeds, amplifying market movements. Algorithmic trading presents opportunities to exploit the rapid changes resulting from currency devaluations. However, it also introduces new risks of market manipulation and necessitates regulatory oversight to ensure fair and stable markets.
 
-This article explores the economic impacts of currency wars and the strategic responses employed by nations. In doing so, it delves into the role of algorithmic trading in managing the challenges and exploiting opportunities presented by these turbulent financial waters. By examining these aspects, we aim to uncover how nations navigate this continually evolving landscape, striving for economic stability while leveraging technological advancements.
+This article explores the economic impacts of currency wars and the strategic responses employed by nations. In doing so, it investigates into the role of algorithmic trading in managing the challenges and exploiting opportunities presented by these turbulent financial waters. By examining these aspects, we aim to uncover how nations navigate this continually evolving landscape, striving for economic stability while leveraging technological advancements.
 
 ## Table of Contents
 

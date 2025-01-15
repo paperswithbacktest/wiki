@@ -98,7 +98,7 @@ In conclusion, the interplay of treasury yields, interest rates, and algorithmic
 3. **Algorithmic Trading Resources**:
    - *Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies* by Barry Johnson. A pivotal resource on algorithmic trading, focusing on the strategic use of algorithms in navigating complex financial markets, including fixed income trading.
 
-   - *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems* by Irene Aldridge. This book delves into the intricacies of algorithmic trading, offering strategies that heavily rely on analyzing yield data for quick decision-making.
+   - *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems* by Irene Aldridge. This book investigates into the intricacies of algorithmic trading, offering strategies that heavily rely on analyzing yield data for quick decision-making.
 
 4. **Online Resources and Databases**:
    - [U.S. Department of the Treasury: Resource Center](https://home.treasury.gov/policy-issues/economic-policy) provides a comprehensive database of treasury management practices, auction methods, and yield data.

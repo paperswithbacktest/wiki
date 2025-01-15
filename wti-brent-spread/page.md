@@ -35,7 +35,7 @@ Conversely, in the mid-2010s, the spread narrowed again as U.S. export restricti
 
 The historical analysis is not just a reflection of past price movements but also a contextual study that incorporates the impact of events such as wars, natural disasters, and policy changes. Each peak and trough tells a story of disruption and adaptation within the oil markets.
 
-For a comprehensive understanding, traders often refer to seminal works such as "The Pricing of Crude Oil" by Bassam Fattouh, which delves into the complexities of oil benchmarks and their pricing mechanisms, offering insights into the intricacies of the WTI-Brent spread over time[1].
+For a comprehensive understanding, traders often refer to seminal works such as "The Pricing of Crude Oil" by Bassam Fattouh, which investigates into the complexities of oil benchmarks and their pricing mechanisms, offering insights into the intricacies of the WTI-Brent spread over time[1].
 
 ## Factors Influencing the WTI-Brent Spread
 

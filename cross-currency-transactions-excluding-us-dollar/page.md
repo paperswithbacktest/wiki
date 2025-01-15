@@ -11,7 +11,7 @@ Central to the functioning of the forex market is the concept of cross-currency 
 
 Concurrently, the adoption of algorithmic trading is on the rise within forex markets. These algorithms enable the automatic execution of trade orders, contingent on predefined criteria such as price movements and volume thresholds. Algorithmic trading is particularly promising for optimizing trades in non-USD currency pairs, given its capacity for rapid data analysis and precision. The utilization of these algorithms facilitates faster, more efficient trades and helps mitigate human error, a significant advantage in the fast-paced forex environment.
 
-This article delves deeper into these themes, examining the nuanced landscape of non-USD cross-currency transactions and the transformative role of algorithmic trading in the forex market. As the sector continues to innovate and evolve, understanding these components will be essential for navigating the global forex markets effectively.
+This article investigates deeper into these themes, examining the nuanced landscape of non-USD cross-currency transactions and the transformative role of algorithmic trading in the forex market. As the sector continues to innovate and evolve, understanding these components will be essential for navigating the global forex markets effectively.
 
 ## Table of Contents
 

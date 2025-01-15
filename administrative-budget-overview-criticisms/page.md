@@ -125,7 +125,7 @@ For additional insights into the mechanisms and regulatory frameworks surroundin
 
 - O'Hara, M. (2015). *High-Frequency Trading: Its Impact on Markets and Investors*. This publication examines how high-frequency trading affects market dynamics and investor behavior, providing a balanced perspective on its pros and cons.
 
-- Cartea, Á., Jaimungal, S., & Penalva, J. (2015). *Algorithmic and High-Frequency Trading*. This book delves into the strategic tools and risk management techniques employed in high-frequency trading, offering a comprehensive overview of the quantitative methods used in this field.
+- Cartea, Á., Jaimungal, S., & Penalva, J. (2015). *Algorithmic and High-Frequency Trading*. This book investigates into the strategic tools and risk management techniques employed in high-frequency trading, offering a comprehensive overview of the quantitative methods used in this field.
 
 - U.S. Securities and Exchange Commission (SEC). *Rulemaking and Regulations on Algorithmic Trading*. The SEC's official resources outline the regulatory framework designed to ensure market integrity and protect investors amid the rapid advancements in trading technology.
 

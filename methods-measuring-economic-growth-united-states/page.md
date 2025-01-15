@@ -127,7 +127,7 @@ The interplay between government policies and algorithmic trading highlights the
 
 4. Hull, J. C. "Options, Futures, and Other Derivatives." This book offers insights into derivative markets and explores algorithmic strategies that are prevalent in financial markets today, including high-frequency trading.
 
-5. Aldridge, I. "High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems." This resource delves into the mechanics of algorithmic trading and its implications for market structures.
+5. Aldridge, I. "High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems." This resource investigates into the mechanics of algorithmic trading and its implications for market structures.
 
 6. Stiglitz, J. E. "The Price of Inequality: How Today's Divided Society Endangers Our Future." This book explores the broader implications of economic measurements and policies, offering critiques relevant to contemporary economic practice.
 

@@ -64,7 +64,7 @@ Furthermore, setting financial goals is a critical aspect of budget planning. Th
 
 In addition to predictive models, various budgeting techniques are utilized to enhance the budgeting process. Zero-based budgeting, for instance, starts from a "zero base," meaning that every expense must be justified for each new period. This technique can lead to more effective cost management as it prompts a detailed examination of each expense.
 
-Activity-based budgeting (ABB) is another technique that delves into the costs associated with specific business activities, offering insights into where efficiencies can be found. Through ABB, companies can allocate resources based on the activities that generate the most value.
+Activity-based budgeting (ABB) is another technique that investigates into the costs associated with specific business activities, offering insights into where efficiencies can be found. Through ABB, companies can allocate resources based on the activities that generate the most value.
 
 Proper budgeting ensures a company maintains financial health and stability, even amidst economic uncertainties. By leveraging analytical tools and strategic planning methods, businesses can create robust financial plans that support their overall strategic objectives. Furthermore, effective budgeting not only stabilizes financial health but also enhances decision-making capabilities, allowing companies to remain agile and resilient in responding to market changes.
 

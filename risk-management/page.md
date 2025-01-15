@@ -9,7 +9,7 @@ However, the benefits of algorithmic trading are accompanied by a range of risks
 
 ![Image](images/1.jpeg)
 
-This article examines the risk management aspects integral to algorithmic trading. It delves into strategies for managing systemic and operational risks, highlights tools for mitigating volatility risks, and discusses the importance of regulatory compliance and ethical practices. By understanding and addressing these core challenges, traders and firms can better safeguard their operations and maintain confidence in an increasingly automated trading environment.
+This article examines the risk management aspects integral to algorithmic trading. It investigates into strategies for managing systemic and operational risks, highlights tools for mitigating volatility risks, and discusses the importance of regulatory compliance and ethical practices. By understanding and addressing these core challenges, traders and firms can better safeguard their operations and maintain confidence in an increasingly automated trading environment.
 
 ## Table of Contents
 

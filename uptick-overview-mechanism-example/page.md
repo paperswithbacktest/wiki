@@ -183,7 +183,7 @@ For those interested in expanding their understanding of algorithmic trading and
 
 1. **Coursera: "Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training":** An online course that provides practical training in using programming tools for algorithmic trading. Offered by Duke University, it covers key financial models and their application through coding exercises.
 
-2. **edX: "Algorithmic Trading" by Columbia University:** This course delves into the technical and quantitative aspects of developing algorithmic trading strategies, providing learners with hands-on experience in creating and testing their own models.
+2. **edX: "Algorithmic Trading" by Columbia University:** This course investigates into the technical and quantitative aspects of developing algorithmic trading strategies, providing learners with hands-on experience in creating and testing their own models.
 
 **Online Platforms and Tools:**
 

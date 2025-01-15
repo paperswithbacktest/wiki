@@ -9,7 +9,7 @@ Algorithmic trading, or algo trading, harnesses technical indicators, including 
 
 ![Image](images/1.png)
 
-This article delves into the characteristics of the dragonfly doji candlestick, its significance within mercado technical analysis, and its integration into algorithmic trading practices. In subsequent sections, the formation and interpretation of the dragonfly doji will be examined, alongside methods for incorporating it into automated trading systems, ultimately presenting strategies to maximize trading efficiency and minimize risk.
+This article investigates into the characteristics of the dragonfly doji candlestick, its significance within mercado technical analysis, and its integration into algorithmic trading practices. In subsequent sections, the formation and interpretation of the dragonfly doji will be examined, alongside methods for incorporating it into automated trading systems, ultimately presenting strategies to maximize trading efficiency and minimize risk.
 
 ## Table of Contents
 

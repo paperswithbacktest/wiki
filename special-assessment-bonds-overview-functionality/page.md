@@ -11,7 +11,7 @@ Special assessment bonds represent a targeted strategy for financing projects th
 
 Algorithmic trading, on the other hand, is reshaping the landscape by using automated systems to execute trades based on set algorithms. Its application within municipal finance, particularly in the trading of bonds, offers enhanced efficiency and accuracy. This technology facilitates better liquidity management, market access, and cost reduction, crucially impacting how municipal bonds, including special assessment bonds, are traded and valued.
 
-This article delves into the complexities of municipal finance, exploring how these tools—special assessment bonds and algorithmic trading—are shaping current and future funding and investment strategies for public projects. By examining these developments, we aim to shed light on their significance and implications within the evolving financial ecosystem.
+This article investigates into the complexities of municipal finance, exploring how these tools—special assessment bonds and algorithmic trading—are shaping current and future funding and investment strategies for public projects. By examining these developments, we aim to shed light on their significance and implications within the evolving financial ecosystem.
 
 ## Table of Contents
 

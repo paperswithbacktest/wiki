@@ -141,7 +141,7 @@ As innovations continue in econometric methodologies and technologies, the role 
 
 - Tsay, R. S. (2010). *Analysis of Financial Time Series*. Wiley. Tsay's work is a crucial resource for understanding financial econometrics, offering insights into various time-series models and their use in analyzing financial data. It covers topics pertinent to econometricians involved in developing trading algorithms and risk management strategies.
 
-- Hamilton, J. D. (1994). *Time Series Analysis*. Princeton University Press. A fundamental text on time series analysis, Hamilton’s book is essential for those engaged in econometrics. It delves extensively into statistical methods for analyzing economic time series, which form the bedrock of many algorithmic trading models.
+- Hamilton, J. D. (1994). *Time Series Analysis*. Princeton University Press. A fundamental text on time series analysis, Hamilton’s book is essential for those engaged in econometrics. It investigates extensively into statistical methods for analyzing economic time series, which form the bedrock of many algorithmic trading models.
 
 - Engle, R. F., & Granger, C. W. J. (1987). "Co-Integration and Error Correction: Representation, Estimation, and Testing." Econometrica, 55(2), 251–276. Engle and Granger's groundbreaking paper introduced concepts of co-integration and error correction, vital for ensuring model robustness in economic time series analysis, a critical factor in econometrics and trading strategies.
 

@@ -9,7 +9,7 @@ Understanding the intricacies of Rule 2a-7 is crucial for investors, fund manage
 
 ![Image](images/1.jpeg)
 
-This article aims to explore Rule 2a-7's impact on money market funds and delves into the integration of algorithmic trading in enhancing compliance and operational efficiency. Algorithmic trading, with its capacity to analyze enormous datasets and execute trades at optimal times, plays a transformative role in fund management under this regulation. By offering a comprehensive overview of Rule 2a-7, this article aims to equip stakeholders with the necessary insights to navigate the domain of modern financial regulations.
+This article aims to explore Rule 2a-7's impact on money market funds and investigates into the integration of algorithmic trading in enhancing compliance and operational efficiency. Algorithmic trading, with its capacity to analyze enormous datasets and execute trades at optimal times, plays a transformative role in fund management under this regulation. By offering a comprehensive overview of Rule 2a-7, this article aims to equip stakeholders with the necessary insights to navigate the domain of modern financial regulations.
 
 ## Table of Contents
 

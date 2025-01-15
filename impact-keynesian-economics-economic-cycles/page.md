@@ -151,7 +151,7 @@ In conclusion, the synergy between Keynesian economics and algorithmic trading r
    A practical guide for those interested in understanding and developing [quantitative trading](/wiki/quantitative-trading) strategies, highlighting statistical models and programming skills necessary for building trading algorithms.
 
 3. **"Advances in Financial Machine Learning" by Marcos Lopez de Prado**  
-   This text delves into the application of machine learning in the financial sector, emphasizing the importance of advanced data analysis and algorithm development in modern trading.
+   This text investigates into the application of machine learning in the financial sector, emphasizing the importance of advanced data analysis and algorithm development in modern trading.
 
 #### Intersection of Economics and Trading Technology
 

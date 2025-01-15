@@ -31,7 +31,7 @@ In February 2022, Kim was promoted to FPGA Developer and, by July 2023, ascended
 
 Bill Kim’s work in algorithmic trading, particularly his contributions to FPGA development, aligns with a broader trend in the industry towards leveraging hardware acceleration to gain a competitive edge. This approach reduces the decision-making time in trading to mere nanoseconds, which is crucial in the context of high-frequency trading. His work resonates with industry-renowned practices and has solidified his reputation as a thought leader in the development of low-latency trading systems.
 
-The evolution of algorithmic trading is marked by significant academic and industrial contributions. Kim’s practical implementations in hardware optimization and trading algorithms have echoed the findings of landmark studies, such as those in "The Science of Algorithmic Trading and Portfolio Management" by Robert Kissell, which delves into optimizing trading strategies through quantitative models.
+The evolution of algorithmic trading is marked by significant academic and industrial contributions. Kim’s practical implementations in hardware optimization and trading algorithms have echoed the findings of landmark studies, such as those in "The Science of Algorithmic Trading and Portfolio Management" by Robert Kissell, which investigates into optimizing trading strategies through quantitative models.
 
 ## Personal Life and Skills
 

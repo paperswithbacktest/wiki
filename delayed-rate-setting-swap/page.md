@@ -139,7 +139,7 @@ For participants in modern financial markets, understanding and leveraging the b
 
 - Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. This text covers advanced machine learning techniques and their application in financial markets, which is beneficial for grasping how algorithmic strategies incorporate derivatives for enhanced trading performance.
 
-- Fabozzi, F. J. (2021). *The Handbook of Fixed Income Securities*. Widely regarded as an authoritative guide, this handbook delves into the nuances of fixed income instruments, including interest rate swaps. It is an essential reference for understanding the complexities of bonds and derivatives markets.
+- Fabozzi, F. J. (2021). *The Handbook of Fixed Income Securities*. Widely regarded as an authoritative guide, this handbook investigates into the nuances of fixed income instruments, including interest rate swaps. It is an essential reference for understanding the complexities of bonds and derivatives markets.
 
 - Hull, J. C. (2018). *Options, Futures, and Other Derivatives*. This book is a definitive resource in the study of derivatives, blending fundamental concepts with advanced strategies. Hull's work is indispensable for those looking to deepen their understanding of the derivatives landscape and their practical applications in finance.
 

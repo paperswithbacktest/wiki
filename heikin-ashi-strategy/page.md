@@ -9,7 +9,7 @@ The Heikin Ashi technique offers a distinct approach by utilizing modified candl
 
 ![Image](images/1.gif)
 
-This article delves into the application of the Heikin Ashi strategy within the paradigm of algorithmic trading, where automated systems leverage its potential for trend-following strategies. The advantages and limitations of this approach will be explored, along with its potential integration with other technical indicators to optimize trading algorithms. As traders seek refined methods to interpret market movements, the Heikin Ashi strategy presents a compelling option, meriting consideration within the broader context of trading tools and technologies.
+This article investigates into the application of the Heikin Ashi strategy within the paradigm of algorithmic trading, where automated systems leverage its potential for trend-following strategies. The advantages and limitations of this approach will be explored, along with its potential integration with other technical indicators to optimize trading algorithms. As traders seek refined methods to interpret market movements, the Heikin Ashi strategy presents a compelling option, meriting consideration within the broader context of trading tools and technologies.
 
 ## Table of Contents
 

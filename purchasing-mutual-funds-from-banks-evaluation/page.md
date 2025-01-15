@@ -11,7 +11,7 @@ In recent years, a significant convergence between banks and algorithmic trading
 
 Algorithmic trading, often termed algo trading, has also carved a niche, especially in the way trading operations are executed within mutual funds. Initially prevalent in stock trading, the application of sophisticated algorithms is now influencing mutual fund dynamics, promising improved efficiency but also introducing new challenges such as market volatility.
 
-This article delves into the intricate relationships between mutual funds, banks, and algorithmic trading, illustrating their significance in today's investment landscape. Through an exploration of these elements, we aim to clarify their meanings and dissect their impacts on both banking and investments. In doing so, we seek to provide a comprehensive understanding of how these components are interwoven, shaping the strategies and decisions of investors and financial institutions alike.
+This article investigates into the intricate relationships between mutual funds, banks, and algorithmic trading, illustrating their significance in today's investment landscape. Through an exploration of these elements, we aim to clarify their meanings and dissect their impacts on both banking and investments. In doing so, we seek to provide a comprehensive understanding of how these components are interwoven, shaping the strategies and decisions of investors and financial institutions alike.
 
 ## Table of Contents
 

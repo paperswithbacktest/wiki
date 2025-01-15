@@ -9,7 +9,7 @@ NPV stands out in its importance due to its ability to quantify an investment's 
 
 ![Image](images/1.jpeg)
 
-This article delves into understanding the XNPV function's application in calculating NPV, targeting Excel users and finance professionals who are applying these methodologies within the scope of algorithmic trading. By mastering the nuances of Excel's robust functionalities like XNPV, you can evaluate the profitability of investments with greater precision, a crucial skill needed to stay competitive in financial markets where margins are often defined by the accuracy of such analyses. The insights provided here aim to empower you with the skills needed to leverage Excel for high-stakes investment appraisals and strategic financial decisions in algorithmic trading frameworks.
+This article investigates into understanding the XNPV function's application in calculating NPV, targeting Excel users and finance professionals who are applying these methodologies within the scope of algorithmic trading. By mastering the nuances of Excel's robust functionalities like XNPV, you can evaluate the profitability of investments with greater precision, a crucial skill needed to stay competitive in financial markets where margins are often defined by the accuracy of such analyses. The insights provided here aim to empower you with the skills needed to leverage Excel for high-stakes investment appraisals and strategic financial decisions in algorithmic trading frameworks.
 
 ## Table of Contents
 

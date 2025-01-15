@@ -140,7 +140,7 @@ By embracing these techniques, students can not only improve their efficiency an
 
 ## Further Readings and Resources
 
-Explore additional resources on study habits, educational strategies, and algorithmic thinking to broaden understanding and applicability. To enhance active learning techniques, 'The Feynman Lectures on Physics' provide valuable insights and examples on how to effectively engage with complex subjects. For understanding probabilistic thinking and uncertainty in decision-making, 'The Black Swan' by Nassim Taleb is an excellent resource. It delves into the impact of rare and unpredictable events, offering a unique perspective on dealing with uncertainty and complexity in learning processes.
+Explore additional resources on study habits, educational strategies, and algorithmic thinking to broaden understanding and applicability. To enhance active learning techniques, 'The Feynman Lectures on Physics' provide valuable insights and examples on how to effectively engage with complex subjects. For understanding probabilistic thinking and uncertainty in decision-making, 'The Black Swan' by Nassim Taleb is an excellent resource. It investigates into the impact of rare and unpredictable events, offering a unique perspective on dealing with uncertainty and complexity in learning processes.
 
 Online learning platforms such as Coursera and Khan Academy offer a plethora of courses that cater to diverse educational strategies. These platforms provide structured learning paths on subjects ranging from mathematics to data science and algorithmic thinking, facilitating self-paced learning.
 

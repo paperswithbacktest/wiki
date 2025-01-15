@@ -11,7 +11,7 @@ For risk-averse investors, the primary objective is capital preservation, which 
 
 In addressing these concerns, various strategies can be adopted. Diversification, for instance, plays a critical role in mitigating risk by spreading investments across multiple low-risk asset classes. Additionally, the advent of algorithmic trading presents new opportunities for risk management. Through the use of automated trading systems, risk-averse investors can execute trades based on predefined criteria, minimizing emotional biases and adhering strictly to risk parameters.
 
-This article explores several investment strategies suitable for risk-averse investors, including a focus on safe securities such as bank products, government securities, corporate bonds, and preferred stocks. It also delves into the role of algorithmic trading in managing risk and ensuring disciplined investment practices. By understanding these strategies, risk-averse individuals can make informed decisions that align with their financial objectives and risk tolerance.
+This article explores several investment strategies suitable for risk-averse investors, including a focus on safe securities such as bank products, government securities, corporate bonds, and preferred stocks. It also investigates into the role of algorithmic trading in managing risk and ensuring disciplined investment practices. By understanding these strategies, risk-averse individuals can make informed decisions that align with their financial objectives and risk tolerance.
 
 ## Table of Contents
 

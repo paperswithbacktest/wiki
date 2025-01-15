@@ -9,7 +9,7 @@ Algorithmic trading enhances the sophistication of momentum strategies by employ
 
 ![Image](images/1.jpeg)
 
-This article offers a comprehensive examination of how momentum funds operate and the pivotal role of algorithmic trading in their success. It delves into the mechanics of momentum fund investments, explores how algorithmic systems refine these strategies, and provides insights on leveraging these tools to improve investment outcomes. By the end, readers will better understand the potential advantages and challenges of employing these sophisticated investment strategies.
+This article offers a comprehensive examination of how momentum funds operate and the pivotal role of algorithmic trading in their success. It investigates into the mechanics of momentum fund investments, explores how algorithmic systems refine these strategies, and provides insights on leveraging these tools to improve investment outcomes. By the end, readers will better understand the potential advantages and challenges of employing these sophisticated investment strategies.
 
 ## Table of Contents
 

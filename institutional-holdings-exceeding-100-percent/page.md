@@ -150,5 +150,5 @@ As the landscape of stock ownership and trading continues to evolve, investors a
    - An authoritative source for articles, news, and insights related to institutional investment trends and strategies.
 
 10. **"Quantitative Equity Portfolio Management: Modern Techniques and Applications"** by Ludwig B. Chincarini and Daehwan Kim
-    - Delves into the quantitative techniques used in portfolio management, relevant for institutional investors utilizing algorithmic strategies.
+    - investigates into the quantitative techniques used in portfolio management, relevant for institutional investors utilizing algorithmic strategies.
 

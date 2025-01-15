@@ -124,7 +124,7 @@ Moving forward, the focus should be on creating a balanced and resilient financi
 
 ## References & Further Reading
 
-- Bergstra, J., et al. The work on Algorithms for Hyper-Parameter Optimization delves into methodologies that optimize trading systems, crucial for algorithmic trading where parameter tuning can dramatically affect outcomes. Hyper-parameter tuning enhances model performance by selecting the best parameters from a predefined space, offering improved trading strategy execution.
+- Bergstra, J., et al. The work on Algorithms for Hyper-Parameter Optimization investigates into methodologies that optimize trading systems, crucial for algorithmic trading where parameter tuning can dramatically affect outcomes. Hyper-parameter tuning enhances model performance by selecting the best parameters from a predefined space, offering improved trading strategy execution.
 
 - Advances in Financial Machine Learning by Marcos Lopez de Prado offers insights into novel machine learning techniques that can be applied in financial contexts, including algorithmic trading. The book emphasizes the use of machine learning algorithms for predictive accuracy and their capability to process large financial datasets efficiently.
 

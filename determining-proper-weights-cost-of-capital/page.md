@@ -171,7 +171,7 @@ Adapting to evolving markets necessitates continual strategic planning. The inte
 
 3. Damodaran, A. *Investment Valuation: Tools and Techniques for Determining the Value of Any Asset.* Damodaran's work is a fundamental resource for understanding valuation techniques. The text provides a thorough explanation of how to appraise various asset classes, dovetailing well with considerations of cost of capital in investment valuation.
 
-4. Brealey, R. A., Myers, S. C., & Allen, F. *Principles of Corporate Finance.* This book is a cornerstone for learning the foundations of corporate finance. It delves into theories and practical applications, including extensive discussions on calculating and applying the cost of capital, WACC, and their strategic importance in corporate activities.
+4. Brealey, R. A., Myers, S. C., & Allen, F. *Principles of Corporate Finance.* This book is a cornerstone for learning the foundations of corporate finance. It investigates into theories and practical applications, including extensive discussions on calculating and applying the cost of capital, WACC, and their strategic importance in corporate activities.
 
 5. Lopez de Prado, M. *Machine Learning for Asset Managers.* This text offers a progressive approach to integrating machine learning techniques within asset management. Given the increasing role of algorithmic trading in today's markets, this resource is pivotal for understanding how advanced analytics can augment trading strategies and decision-making processes.
 

@@ -187,7 +187,7 @@ In summary, mastering the intricacies of the bid-ask spread is essential for tra
    This book provides a comprehensive examination of market microstructure, including topics such as bid-ask spreads, liquidity, and price formation. It is an essential resource for understanding the intricacies of trading processes and the factors affecting spread dynamics.
 
 2. **"Algorithmic and High-Frequency Trading" by Álvaro Cartea, Sebastian Jaimungal, and José Penalva**  
-   This text delves into the strategies and mathematical models behind algorithmic and high-frequency trading. It emphasizes the role of these methods in interpreting and capitalizing on bid-ask spreads.
+   This text investigates into the strategies and mathematical models behind algorithmic and high-frequency trading. It emphasizes the role of these methods in interpreting and capitalizing on bid-ask spreads.
 
 3. **"Advances in Financial Machine Learning" by Marcos López de Prado**  
    López de Prado's work focuses on the machine learning techniques used in quantitative finance, with particular attention to algorithmic trading strategies that can influence bid-ask spreads.

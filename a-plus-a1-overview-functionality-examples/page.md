@@ -131,7 +131,7 @@ For more insights, explore works such as 'Advances in Financial Machine Learning
 
 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business' by Ernest P. Chan offers valuable information on designing, identifying, and implementing trading strategies. The book emphasizes practical aspects such as strategy development and risk management, making it a critical resource for both beginners and experienced traders.
 
-Engage with practical resources like 'Machine Learning for Algorithmic Trading' by Stefan Jansen. This publication explores the use of Python for developing sophisticated trading algorithms. It delves into various machine learning techniques and how they can be effectively applied to market data for predictive modeling and strategy enhancement.
+Engage with practical resources like 'Machine Learning for Algorithmic Trading' by Stefan Jansen. This publication explores the use of Python for developing sophisticated trading algorithms. It investigates into various machine learning techniques and how they can be effectively applied to market data for predictive modeling and strategy enhancement.
 
 S&P and Moody's provide comprehensive methodologies on understanding and using credit ratings. These methodologies are essential for interpreting the implications of credit ratings like A+/A1, which signify high creditworthiness. Understanding the frameworks used by these agencies helps investors and technologists align their strategies with market perceptions of stability and risk.
 

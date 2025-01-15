@@ -9,7 +9,7 @@ In recent years, algorithmic trading has increasingly capitalized on the double 
 
 ![Image](images/1.jpeg)
 
-This article delves into the complexities of the double top pattern, examining its pivotal role in technical analysis. We will discuss its structure, identification methods, and how it can be harnessed within algorithmic trading strategies to optimize trading outcomes. Readers will be equipped with the knowledge to identify and trade this pattern effectively, as well as learn how to combine it with other indicators to enhance predictive accuracy and mitigate risks associated with market volatility.
+This article investigates into the complexities of the double top pattern, examining its pivotal role in technical analysis. We will discuss its structure, identification methods, and how it can be harnessed within algorithmic trading strategies to optimize trading outcomes. Readers will be equipped with the knowledge to identify and trade this pattern effectively, as well as learn how to combine it with other indicators to enhance predictive accuracy and mitigate risks associated with market volatility.
 
 ## Table of Contents
 

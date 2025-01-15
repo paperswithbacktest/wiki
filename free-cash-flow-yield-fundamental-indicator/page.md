@@ -5,7 +5,7 @@ description: "Free cash flow yield serves as a vital indicator in investment ana
 
 Investment indicators are vital tools in modern trading, offering insights that drive informed decision-making. Among these, free cash flow yield has emerged as a significant metric, providing investors with a measure of a company's ability to generate cash relative to its market value. This is calculated by dividing the free cash flow by the market capitalization, usually expressed as a percentage. Essentially, a higher free cash flow yield indicates a potentially undervalued company, offering investors a glimpse into the firm’s profitability and efficiency in generating cash flow after accounting for capital expenditures.
 
-Fundamental analysis plays a crucial role in assessing investment opportunities by evaluating a company's intrinsic value. This method delves into financial statements, economic indicators, and market conditions, focusing on metrics like free cash flow yield to gauge a firm's financial health and growth prospects. By understanding these metrics, investors can make more informed decisions, distinguishing between potentially lucrative investments and high-risk ventures.
+Fundamental analysis plays a crucial role in assessing investment opportunities by evaluating a company's intrinsic value. This method investigates into financial statements, economic indicators, and market conditions, focusing on metrics like free cash flow yield to gauge a firm's financial health and growth prospects. By understanding these metrics, investors can make more informed decisions, distinguishing between potentially lucrative investments and high-risk ventures.
 
 ![Image](images/1.jpeg)
 

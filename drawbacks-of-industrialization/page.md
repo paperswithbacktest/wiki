@@ -97,7 +97,7 @@ A comprehensive understanding of historical industrial and urban transitions inf
 
 ## References & Further Reading
 
-Allen, R.C. (2009). 'The British Industrial Revolution in Global Perspective.' Cambridge University Press. This book provides a comprehensive analysis of the British Industrial Revolution, highlighting its global significance and transformations. It delves into the economic and technological advancements that defined the era, providing context for understanding the broader implications of industrialization.
+Allen, R.C. (2009). 'The British Industrial Revolution in Global Perspective.' Cambridge University Press. This book provides a comprehensive analysis of the British Industrial Revolution, highlighting its global significance and transformations. It investigates into the economic and technological advancements that defined the era, providing context for understanding the broader implications of industrialization.
 
 Glaeser, E. (2012). 'Triumph of the City.' Penguin Books. Glaeser's work examines the powerful role cities play in fostering economic innovation, cultural exchange, and technological advancements. It details the benefits of urbanization, while also addressing the challenges associated with rapid city growth, such as socio-economic divides and environmental sustainability.
 

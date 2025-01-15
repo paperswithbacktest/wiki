@@ -5,7 +5,7 @@ description: "Explore how on-chain transactions and algorithmic trading redefine
 
 The digital transformation of financial markets has been significantly shaped by the advent of blockchain technology and cryptocurrencies, ushering in a new era of decentralized financial systems. Blockchain, a distributed ledger technology, underpins cryptocurrencies by providing a secure, transparent means of recording transactions, free from the control of any single authority. Cryptocurrencies, digital assets based on this technology, have facilitated the rise of a global, borderless financial ecosystem.
 
-This article delves into two critical components of this ecosystem: on-chain transactions and algorithmic trading. On-chain transactions, which are executed and recorded directly on the blockchain, form the backbone of cryptocurrency exchanges, offering unparalleled security due to the immutable nature of blockchain technology. However, they often come with trade-offs in terms of speed and cost.
+This article investigates into two critical components of this ecosystem: on-chain transactions and algorithmic trading. On-chain transactions, which are executed and recorded directly on the blockchain, form the backbone of cryptocurrency exchanges, offering unparalleled security due to the immutable nature of blockchain technology. However, they often come with trade-offs in terms of speed and cost.
 
 ![Image](images/1.jpeg)
 

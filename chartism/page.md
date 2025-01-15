@@ -1,6 +1,6 @@
 ---
 title: "Chartism (Algo Trading)"
-description: "Explore the unexpected connection between 19th-century Chartism, a movement advocating for political reforms and greater democracy, and modern algorithmic trading, characterized by data-driven financial strategies. This article delves into the systematic approaches both entities employ to achieve their respective goals of social reform and financial gain, highlighting how historical movements influence today's technological and financial practices."
+description: "Explore the unexpected connection between 19th-century Chartism, a movement advocating for political reforms and greater democracy, and modern algorithmic trading, characterized by data-driven financial strategies. This article investigates into the systematic approaches both entities employ to achieve their respective goals of social reform and financial gain, highlighting how historical movements influence today's technological and financial practices."
 ---
 
 Chartism was a pivotal political movement in 19th century Britain that emerged as a response to the stark economic inequalities faced by the working class. Chartists championed for political reforms that promised greater democracy and representation, with key demands including universal male suffrage, secret ballots, and the establishment of annual parliaments. The movement gained traction through a series of organized meetings, mass petitions, and public demonstrations, serving as a powerful voice against the entrenched systems of power.

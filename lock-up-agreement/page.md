@@ -150,5 +150,5 @@ In conclusion, mastery over the nuances of lock-up agreements and the use of tec
 
 7. Zhu, Y., & Huang, G. (2020). "Algorithmic Trading and Its Impact on Stock Market Volatility." International Journal of Financial Studies, 8(2), 32. This article discusses the role of algorithmic trading in handling volatility, particularly during sensitive periods like lock-up expirations, and the strategies used to optimize investment decisions.
 
-8. Patel, J., & Tadross, M. (2017). "Exceptions and Exemptions in IPO Lock-Up Agreements." Journal of Corporate Finance, 45, 50-68. This research delves into the circumstances under which lock-up agreements might be amended, focusing on the implications for stock prices and investor confidence.
+8. Patel, J., & Tadross, M. (2017). "Exceptions and Exemptions in IPO Lock-Up Agreements." Journal of Corporate Finance, 45, 50-68. This research investigates into the circumstances under which lock-up agreements might be amended, focusing on the implications for stock prices and investor confidence.
 

@@ -206,7 +206,7 @@ Risk management is crucial in long-term trading, requiring diversification of in
 ## References & Further Reading
 
 - ["The Intelligent Investor"](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) by Benjamin Graham - Often referred to as the bible of value investing, this book offers timeless wisdom on investing with a long-term perspective.
-- ["Common Stocks and Uncommon Profits"](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509) by Philip Fisher - This classic work delves into growth investing and how to identify companies with potential for significant long-term growth.
+- ["Common Stocks and Uncommon Profits"](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509) by Philip Fisher - This classic work investigates into growth investing and how to identify companies with potential for significant long-term growth.
 - ["One Up On Wall Street"](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street) by Peter Lynch - Lynch shares his philosophy of “invest in what you know,” making the case for personal experience as a critical tool in choosing stocks.
 - ["The Little Book That Still Beats the Market"](https://www.goodreads.com/book/show/8247775-the-little-book-that-still-beats-the-market) by Joel Greenblatt - A concise guide on long-term investing strategies, particularly focusing on a formulaic approach to beating the market.
 - ["A Random Walk Down Wall Street"](https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street) by Burton Malkiel - This book covers various investment strategies, including buy-and-hold, and emphasizes efficient market hypothesis.

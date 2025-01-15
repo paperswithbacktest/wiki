@@ -155,7 +155,7 @@ For those interested in gaining deeper insights into DE Shaw and algorithmic tra
    - [Financial Times: Quantitative Trading Techniques](https://www.ft.com/): The Financial Times offers a broad range of articles discussing the evolution and significance of algorithmic trading, with specific sections focusing on prominent firms like DE Shaw.
 
 2. **Books and Academic Journals:**
-   - **"Algorithmic Trading and DMA" by Barry Johnson**: This book provides a comprehensive guide on the mechanics of algorithmic trading and the role of direct market access (DMA). It delves into strategies similar to those employed by top firms such as DE Shaw.
+   - **"Algorithmic Trading and DMA" by Barry Johnson**: This book provides a comprehensive guide on the mechanics of algorithmic trading and the role of direct market access (DMA). It investigates into strategies similar to those employed by top firms such as DE Shaw.
    - **"Advances in Financial Machine Learning" by Marcos López de Prado**: This book is a critical resource for understanding machine learning's intersection with finance, a cornerstone of DE Shaw's trading models. It presents statistical methods and insights into practical algorithmic strategies.
    - Academic Journals like the *Journal of Financial Economics* often publish papers on quantitative finance methods and their applications in real-world trading environments. Articles from these journals can provide theoretical underpinnings and empirical evidence related to topics discussed above.
 

@@ -133,7 +133,7 @@ For an in-depth understanding of financial derivatives, including interest rate 
 
 1. **"Principles of Financial Engineering" by Salih N. Neftci**: This book provides comprehensive coverage of financial engineering principles, including the intricate structures and functions of derivatives such as interest rate swaps. It is an essential resource for understanding how derivatives are structured and utilized in different financial contexts.
 
-2. **"Interest Rate Swaps and Other Derivatives" by Howard Corb**: Corb's work delves into the specifics of interest rate swaps and related derivatives, offering insights into their pricing, economic rationale, and practical applications. This book is particularly useful for those looking to grasp the complexities of interest rate risks and swap strategies.
+2. **"Interest Rate Swaps and Other Derivatives" by Howard Corb**: Corb's work investigates into the specifics of interest rate swaps and related derivatives, offering insights into their pricing, economic rationale, and practical applications. This book is particularly useful for those looking to grasp the complexities of interest rate risks and swap strategies.
 
 3. **"Advances in Financial Machine Learning" by Marcos Lopez de Prado**: This book is instrumental for anyone interested in the intersection of finance, technology, and data science. It explores how machine learning techniques can optimize trading strategies, including the use of interest rate swaps. The integration of advanced algorithms in trading scenarios is discussed with practical examples and Python code snippets.
 

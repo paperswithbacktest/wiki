@@ -11,7 +11,7 @@ Economic convergence supports this theory by explaining how and why income level
 
 In this dynamic context, algorithmic trading (algo trading) plays a pivotal role in financial markets. As a mechanism that uses complex algorithms to execute trades at high speeds, algo trading impacts market liquidity and efficiency. It offers emerging markets an opportunity to leverage advanced financial techniques, potentially promoting economic convergence. The integration of such modern trading technologies into the global economic framework is a testament to their growing significance.
 
-This article delves into these interrelated concepts, providing a comprehensive overview of modern economic development. By understanding the forces driving the catch-up effect, economic convergence, and the role of algorithmic trading, readers can gain insight into the multifaceted nature of global economic growth.
+This article investigates into these interrelated concepts, providing a comprehensive overview of modern economic development. By understanding the forces driving the catch-up effect, economic convergence, and the role of algorithmic trading, readers can gain insight into the multifaceted nature of global economic growth.
 
 ## Table of Contents
 

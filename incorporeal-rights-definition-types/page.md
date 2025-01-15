@@ -91,7 +91,7 @@ Encouraging further research and discourse is essential. As economic landscapes 
 
 ## References & Further Reading
 
-De Soto, H. highlights the critical factors that differentiate successful capitalist economies from others in "The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else." The book delves into the pivotal role of property rights and their systemic impact on the economic landscape, offering insights into the socio-economic structures that support or hinder economic success.
+De Soto, H. highlights the critical factors that differentiate successful capitalist economies from others in "The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else." The book investigates into the pivotal role of property rights and their systemic impact on the economic landscape, offering insights into the socio-economic structures that support or hinder economic success.
 
 Coase, R. H., in "The Problem of Social Cost," published in the Journal of Law and Economics, presents foundational concepts in understanding the allocation of resources. Coase discusses the nature of transaction costs and their effects on economic systems, forming the basis for further explorations of property rights and legal frameworks in economic theory.
 

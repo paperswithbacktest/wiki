@@ -1,6 +1,6 @@
 ---
 title: "Counterparty Risk (Algo Trading)"
-description: "Explore the complexities of counterparty risk and algorithmic trading in modern finance This page delves into risk management strategies for financial stability"
+description: "Explore the complexities of counterparty risk and algorithmic trading in modern finance This page investigates into risk management strategies for financial stability"
 ---
 
 Financial risk refers to the possibility of losing money on an investment or business venture. It is a critical element of financial markets, influencing decision-making and the valuation of assets. Financial risk encompasses various types such as market risk, credit risk, liquidity risk, and operational risk. Market risk involves the potential for losses due to changes in market conditions, whereas credit risk pertains to the loss arising from a borrower failing to meet its obligations. Liquidity risk relates to the inability to buy or sell assets in a timely manner, and operational risk involves losses stemming from internal process failures.

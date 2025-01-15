@@ -99,7 +99,7 @@ Markets are inherently dynamic, affected by variables like technological progres
 
 1. **Academic Papers and Books:**
    - Aldridge, I. (2013). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. John Wiley & Sons. This book provides a comprehensive view of algorithmic trading, focusing on the practical aspects of developing and implementing trading systems.
-   - Bouchaud, J.-P., & Potters, M. (2009). *Theory of Financial Risk and Derivative Pricing: From Statistical Physics to Risk Management*. Cambridge University Press. This work delves into the statistical physics approach to understanding market dynamics, with insights applicable to algorithmic trading.
+   - Bouchaud, J.-P., & Potters, M. (2009). *Theory of Financial Risk and Derivative Pricing: From Statistical Physics to Risk Management*. Cambridge University Press. This work investigates into the statistical physics approach to understanding market dynamics, with insights applicable to algorithmic trading.
    - Cartea, Á., Jaimungal, S., & Penalva, J. (2015). *Algorithmic and High-Frequency Trading*. Cambridge University Press. This book offers an exploration of high-frequency trading, with thorough analysis on algorithmic strategies and their market impacts.
 
 2. **Articles:**

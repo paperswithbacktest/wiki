@@ -11,7 +11,7 @@ This change has brought both challenges and opportunities to the forefront, espe
 
 The transition from the Christmas Island Dollar to the Australian Dollar has implications for algorithmic trading strategies. Understanding this shift is essential for grasping how trading methodologies have developed and continue to evolve. Traders need to adapt and devise strategies that align with the stability and market conditions of the Australian Dollar, which contrasts with the economic scenarios when the island had its own currency.
 
-This article delves into the complexities of algorithmic trading concerning Christmas Island's monetary history and explores ongoing opportunities and barriers in today's market. By examining these dynamics, we aim to provide insight into how algorithmic trading can be leveraged on Christmas Island following its currency transformation.
+This article investigates into the complexities of algorithmic trading concerning Christmas Island's monetary history and explores ongoing opportunities and barriers in today's market. By examining these dynamics, we aim to provide insight into how algorithmic trading can be leveraged on Christmas Island following its currency transformation.
 
 ## Table of Contents
 

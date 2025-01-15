@@ -171,7 +171,7 @@ As technology continues to evolve, these financial concepts are expected to furt
    - edX's "Algorithmic Trading and Stocks Essentials" by Harvard University: This course covers essential concepts in algorithmic trading and financial analytics.
 
 5. **Reports and White Papers**:
-   - "The Role of Yield in Investment Returns: An Analysis" by Thomson Reuters: This white paper delves into the significance of various yield types, providing crucial insights for investors.
+   - "The Role of Yield in Investment Returns: An Analysis" by Thomson Reuters: This white paper investigates into the significance of various yield types, providing crucial insights for investors.
    - "Algorithmic Trading Models: Approaches and Strategies" by Deloitte: A report exploring different models and strategies in algorithmic trading, emphasizing the use of financial metrics like running yield.
 
 6. **Further Reading Suggestions**:

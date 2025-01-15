@@ -155,7 +155,7 @@ Understanding the intricate dynamics between corporate bonds and algo trading is
 
 7. **IOSCO (International Organization of Securities Commissions) (2010).** *Regulatory Issues Raised by the Impact of Technological Changes on Market Integrity and Efficiency*. A report on the implications of technological advances in trading, including algorithmic trading.
 
-8. **Brigo, D., & Mercurio, F. (2006).** *Interest Rate Models – Theory and Practice: With Smile, Inflation and Credit*. This book delves into mathematical models used to price interest rate derivatives and bonds.
+8. **Brigo, D., & Mercurio, F. (2006).** *Interest Rate Models – Theory and Practice: With Smile, Inflation and Credit*. This book investigates into mathematical models used to price interest rate derivatives and bonds.
 
 9. **Li, B., & Hu, Y. (2017).** “Machine Learning in Bond Trading: A Case Study”, Journal of Financial Markets. A study on how machine learning techniques are being applied to assess bond pricing and enhance trading strategies.
 

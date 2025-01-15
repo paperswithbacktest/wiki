@@ -113,7 +113,7 @@ Investors must embrace these technological advancements to remain competitive. D
 
 4. **Hasbrouck, J. (2007). Empirical Market Microstructure.** This resource examines the empirical aspects of trading, including the intricacies of algorithmic and high-frequency trading. It sheds light on how basis points act as decision thresholds in algorithmic systems. ISBN: 978-0195301649.
 
-5. **Bodie, Z., Kane, A., & Marcus, A. J. (2017). Investments.** This book offers a broad overview of investment principles, covering interest rate impacts on various asset classes. It delves into how these impacts can be systematically approached within trading algorithms. ISBN: 978-0077861671.
+5. **Bodie, Z., Kane, A., & Marcus, A. J. (2017). Investments.** This book offers a broad overview of investment principles, covering interest rate impacts on various asset classes. It investigates into how these impacts can be systematically approached within trading algorithms. ISBN: 978-0077861671.
 
 6. **Jones, C. M. (2013). What do we know about high-frequency trading? Columbia Business School Research Paper.** This paper provides an in-depth analysis of high-frequency trading, highlighting the role of algorithmic strategies in processing real-time financial data, including interest rates and basis point changes. Available at SSRN: https://ssrn.com/abstract=2236201.
 

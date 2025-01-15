@@ -31,7 +31,7 @@ In September 2022, Zhang transitioned to become a Junior Crypto Trader at Akuna 
 
 Chen Zhang's contributions to the field of algorithmic trading and machine learning are encapsulated in several heralded scientific publications, notably among them:
 
-- **Algorithmic Trading and Direct Market Access**: A foundational text that delves into trading strategies and the influence of direct market access on algorithmic methodologies.
+- **Algorithmic Trading and Direct Market Access**: A foundational text that investigates into trading strategies and the influence of direct market access on algorithmic methodologies.
 - **Advances in Financial Machine Learning** by Marcos López de Prado: Although not directly authored by Zhang, his work reflects much of the paradigms shared within this publication, emphasizing the role of adaptive machine learning models in finance.
   
 ## Skills and Certification

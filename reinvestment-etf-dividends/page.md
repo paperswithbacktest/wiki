@@ -338,7 +338,7 @@ In conclusion, the combination of ETF dividend investing with algorithmic strate
 
 1. **Coursera - "Financial Engineering and Risk Management"**: Offered by Columbia University, this course offers insight into quantitative finance and algorithmic trading strategies, including content applicable to ETFs.
 
-2. **edX - "Algorithmic Trading and Finance Models with Python, R, and Stata"**: A course that delves into programming and implementing algorithmic strategies using Python and other tools.
+2. **edX - "Algorithmic Trading and Finance Models with Python, R, and Stata"**: A course that investigates into programming and implementing algorithmic strategies using Python and other tools.
 
 3. **Investopedia Academy - "Algorithmic Trading for Rookies"**: This course is designed for beginners and covers the fundamentals of developing algorithmic trading strategies, including those applicable to ETF dividends.
 

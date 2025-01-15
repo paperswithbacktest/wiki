@@ -193,7 +193,7 @@ In conclusion, mastering the interaction between algorithmic trading and interes
 
 2. Fabozzi, F.J., Focardi, S.M., & Kolm, P.N. (2010). *Institutional Investment Management: Equity and Bond Portfolio Strategies and Applications*. John Wiley & Sons. This book outlines critical investment strategies and discusses the impact of interest rates on various asset classes, alongside integrating quantitative methods like algorithmic trading.
 
-3. Aldridge, I. (2013). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. John Wiley & Sons. This guide delves into algorithmic trading strategies, explaining how they have evolved and how interest rates can be integrated into these algorithms to optimize trading decisions.
+3. Aldridge, I. (2013). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. John Wiley & Sons. This guide investigates into algorithmic trading strategies, explaining how they have evolved and how interest rates can be integrated into these algorithms to optimize trading decisions.
 
 4. MacKenzie, D., & Spears, T. (2014). "The Formula that Killed Wall Street: The Gaussian Copula and the Material Cultures of Modelling," *Social Studies of Science*, Vol. 44(3), pp. 393-417. Insightful paper on the complexities of financial modeling and the interplay between mathematical models and market variables like interest rates.
 

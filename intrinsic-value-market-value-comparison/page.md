@@ -186,7 +186,7 @@ Investors who master these tools can effectively align their strategies with evo
    This classic text is foundational for understanding intrinsic value analysis. It explores security evaluation methods and investment principles that remain relevant, despite being first published over eight decades ago. The foreword by Warren Buffett underscores its significance to investors worldwide.
 
 4. **'The Science of Algorithmic Trading and Portfolio Management' by Robert Kissell**  
-   Robert Kissell's work highlights the technical and analytical aspects of algorithmic trading. It delves into the algorithms underpinning automated trading systems and portfolio management, illustrating the fusion of finance and technology in modern trading strategies.
+   Robert Kissell's work highlights the technical and analytical aspects of algorithmic trading. It investigates into the algorithms underpinning automated trading systems and portfolio management, illustrating the fusion of finance and technology in modern trading strategies.
 
 5. **Exploring further readings on financial methodologies and trading innovations**  
    It is advisable to continue exploring contemporary literature and research articles that cover emerging trends and technological advancements in financial methodologies and trading strategies. Journals, academic papers, and industry case studies provide ongoing insights into new innovations and practical applications.

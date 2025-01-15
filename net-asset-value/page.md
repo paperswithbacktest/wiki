@@ -9,7 +9,7 @@ Investment valuation is a multi-faceted process involving various financial meas
 
 ![Image](images/1.jpeg)
 
-Algorithmic trading, a rapidly growing field within finance, leverages these valuation metrics to optimize trading strategies. By integrating real-time NAV data, algorithms can improve decision-making processes, identify arbitrage opportunities, and ensure efficient portfolio management. This article explores the various facets of investment valuation and highlights the role of NAV. Then, it delves into the intricacies of its calculation and elucidates how algorithmic trading adopts NAV to enhance trading strategies and performance.
+Algorithmic trading, a rapidly growing field within finance, leverages these valuation metrics to optimize trading strategies. By integrating real-time NAV data, algorithms can improve decision-making processes, identify arbitrage opportunities, and ensure efficient portfolio management. This article explores the various facets of investment valuation and highlights the role of NAV. Then, it investigates into the intricacies of its calculation and elucidates how algorithmic trading adopts NAV to enhance trading strategies and performance.
 
 ## Table of Contents
 

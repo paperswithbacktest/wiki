@@ -9,7 +9,7 @@ Moreover, with the rise of algorithmic trading in the financial markets, underst
 
 ![Image](images/1.jpeg)
 
-This article explores the intersection of SIC codes, business classification, and their implications for algorithmic trading. It delves into the relevance of SIC codes in contemporary business practices, their comparison with alternative classification systems like the North American Industry Classification System (NAICS), and their role in strategic business and trading decisions. Through this analysis, the enduring significance of SIC codes in a digitally-driven economic framework is underscored, providing insights into their continuing utility and potential evolution in the future.
+This article explores the intersection of SIC codes, business classification, and their implications for algorithmic trading. It investigates into the relevance of SIC codes in contemporary business practices, their comparison with alternative classification systems like the North American Industry Classification System (NAICS), and their role in strategic business and trading decisions. Through this analysis, the enduring significance of SIC codes in a digitally-driven economic framework is underscored, providing insights into their continuing utility and potential evolution in the future.
 
 ## Table of Contents
 

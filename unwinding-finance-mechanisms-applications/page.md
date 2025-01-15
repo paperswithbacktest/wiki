@@ -158,7 +158,7 @@ In conclusion, closing positions should be seen as a dynamic process within any 
    This book provides a comprehensive guide on developing and implementing algorithmic trading strategies. It offers insights into the practical aspects of starting an algorithmic trading business, covering topics such as [backtesting](/wiki/backtesting), execution, and risk management.
 
 2. **"Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan**  
-   A follow-up to Chan's first book, this text delves deeper into specific strategies used in algorithmic trading. It offers a rigorous overview of statistical [arbitrage](/wiki/arbitrage), market-making, and other advanced strategies.
+   A follow-up to Chan's first book, this text investigates deeper into specific strategies used in algorithmic trading. It offers a rigorous overview of statistical [arbitrage](/wiki/arbitrage), market-making, and other advanced strategies.
 
 3. **"Trading and Exchanges: Market Microstructure for Practitioners" by Larry Harris**  
    Focused on the microstructure of financial markets, this book details how different trading venues operate and how this affects price discovery and market behavior—an essential read for understanding the environment in which algorithmic trading occurs.

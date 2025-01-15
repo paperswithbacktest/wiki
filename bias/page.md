@@ -1,6 +1,6 @@
 ---
 title: "Bias (Algo Trading)"
-description: Explore the intricacies of bias in algorithmic trading to understand its challenges and learn strategies for mitigation. Discover how subtle human biases can infiltrate data-driven trading models, affecting decisions and performance. This article delves into cognitive biases and offers actionable insights for traders to enhance their algorithmic systems, ensuring precision and market adaptability while maintaining financial integrity.
+description: Explore the intricacies of bias in algorithmic trading to understand its challenges and learn strategies for mitigation. Discover how subtle human biases can infiltrate data-driven trading models, affecting decisions and performance. This article investigates into cognitive biases and offers actionable insights for traders to enhance their algorithmic systems, ensuring precision and market adaptability while maintaining financial integrity.
 ---
 
 Algorithmic trading, renowned for its unparalleled precision and velocity, is not exempt from the inherent pitfalls of human bias. These biases, often subtle and unintentional, can permeate the very fabric of trading algorithms, affecting their efficiency and decision-making capabilities. Despite the reliance on data-driven strategies, the reality is that these systems are conceived, constructed, and maintained by humans, who may subconsciously impose their cognitive predispositions onto the trading models.

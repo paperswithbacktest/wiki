@@ -180,5 +180,5 @@ Hull, J. C. (2017). "Options, Futures, and Other Derivatives" is a foundational 
 
 Taleb, N. N. (1997). "Dynamic Hedging: Managing Vanilla and Exotic Options" explores advanced hedging techniques that traders can use to manage carrying charges effectively. Taleb's book incorporates real-world scenarios and complex strategies to mitigate risk, making it a valuable reference for traders looking to optimize their cost management processes.
 
-de Prado, M. L. (2018). "Advances in Financial Machine Learning" delves into the integration of machine learning techniques in financial trading. De Prado emphasizes the role of carrying charges in algorithmic trading, highlighting how sophisticated algorithms can incorporate these costs to improve trading efficiencies and outcomes. This resource bridges the gap between traditional financial concepts and cutting-edge technological applications in finance.
+de Prado, M. L. (2018). "Advances in Financial Machine Learning" investigates into the integration of machine learning techniques in financial trading. De Prado emphasizes the role of carrying charges in algorithmic trading, highlighting how sophisticated algorithms can incorporate these costs to improve trading efficiencies and outcomes. This resource bridges the gap between traditional financial concepts and cutting-edge technological applications in finance.
 

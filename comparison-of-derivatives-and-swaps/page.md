@@ -135,7 +135,7 @@ For those interested in deepening their understanding of the role of derivatives
 
 - **Options, Futures, and Other Derivatives by John C. Hull**: A classic in the field, this book offers an in-depth exploration of derivative instruments, including swaps. Hull provides analytical frameworks and real-world applications, making it a vital resource for understanding the mechanics and strategies behind derivatives.
 
-- **Swaps and Other Derivatives by Richard Flavell**: Focused on swaps, this book delves into the specifics of these instruments. It discusses their structure, valuation, and practical use cases in risk management and financial strategy.
+- **Swaps and Other Derivatives by Richard Flavell**: Focused on swaps, this book investigates into the specifics of these instruments. It discusses their structure, valuation, and practical use cases in risk management and financial strategy.
 
 These resources collectively provide a robust foundation for mastering the complexities of modern financial instruments and their strategic applications through algorithmic trading.
 

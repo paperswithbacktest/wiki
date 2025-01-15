@@ -1,6 +1,6 @@
 ---
 title: "K-Ratio Explained (Algo Trading)"
-description: Explore the K-ratio, a key performance metric in algorithmic trading, which assesses the growth and consistency of returns to help evaluate trading strategies. This comprehensive guide delves into its calculation and significance, revealing insights into risk-adjusted performance and aiding traders in strategy enhancement by balancing risk and reward effectively.
+description: Explore the K-ratio, a key performance metric in algorithmic trading, which assesses the growth and consistency of returns to help evaluate trading strategies. This comprehensive guide investigates into its calculation and significance, revealing insights into risk-adjusted performance and aiding traders in strategy enhancement by balancing risk and reward effectively.
 ---
 
 Algorithmic trading, commonly referred to as algo trading, involves the utilization of automated algorithms to execute trades, minimizing the need for human intervention. It has become a cornerstone of modern financial markets, allowing for fast-paced and efficient transactions based on predefined criteria. A critical aspect of algorithmic trading is evaluating the performance of these strategies to ensure they meet investment goals while managing risks effectively. Among the key performance metrics employed for this purpose is the K-ratio, introduced by Lars Kestner.

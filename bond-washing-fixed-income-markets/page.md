@@ -9,7 +9,7 @@ In parallel with the tried-and-true strategies of bond investment, trading pract
 
 ![Image](images/1.jpeg)
 
-This article delves into these strategic developments with a concentrated focus on fixed income investments and the transformative role of algorithmic trading within bond markets. By gaining insights into both traditional and contemporary strategies, investors can better understand the potential benefits and inherent risks associated with each, thus refining their portfolio management techniques. Emphasizing a well-informed approach allows investors to align their investment practices with their financial objectives, optimizing returns while mitigating risks in a dynamic financial environment.
+This article investigates into these strategic developments with a concentrated focus on fixed income investments and the transformative role of algorithmic trading within bond markets. By gaining insights into both traditional and contemporary strategies, investors can better understand the potential benefits and inherent risks associated with each, thus refining their portfolio management techniques. Emphasizing a well-informed approach allows investors to align their investment practices with their financial objectives, optimizing returns while mitigating risks in a dynamic financial environment.
 
 ## Table of Contents
 
@@ -164,7 +164,7 @@ Annette Thau's "The Bond Book: Everything Investors Need to Know" offers a begin
 
 Ernest P. Chan's "Algorithmic Trading: Winning Strategies" examines the transformative role of algorithmic trading in modern financial markets. Chan explores various algorithmic strategies, discussing their implementation using quantitative models and programming languages like Python. This resource is invaluable for individuals looking to harness computational techniques for enhanced trading decision-making.
 
-Marcos Lopez de Prado's "Advances in Financial Machine Learning" delves into the intersection of machine learning and finance. The work provides insights into how machine learning can be applied for analyzing financial data, optimizing trading strategies, and improving market predictions, highlighting the sophisticated tools driving contemporary algorithmic trading.
+Marcos Lopez de Prado's "Advances in Financial Machine Learning" investigates into the intersection of machine learning and finance. The work provides insights into how machine learning can be applied for analyzing financial data, optimizing trading strategies, and improving market predictions, highlighting the sophisticated tools driving contemporary algorithmic trading.
 
 Salih N. Neftci's "Principles of Financial Engineering" serves as an authoritative text on the design and application of financial instruments and derivatives. It covers mathematical models and practical strategies to manage financial risks and create innovative trading solutions, making it a crucial reference for financial engineers and investors alike.
 

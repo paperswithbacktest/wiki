@@ -11,7 +11,7 @@ Initially launched as a venue for trading government bonds in Japan's Meiji era,
 
 In recent decades, technological advancements have played a pivotal role in redefining the TSE’s operational mechanisms. The introduction of algorithmic trading has revolutionized the way transactions are conducted, minimizing human intervention and enhancing both the speed and efficiency of market operations. This modernization has also positioned the TSE as a crucial entity in the global high-frequency trading landscape, where milliseconds can determine competitive advantage.
 
-This article provides an in-depth exploration of the Tokyo Stock Exchange, examining its rich history and the structural organization that accommodates companies of varying sizes and growth stages. Additionally, the piece delves into the technological frameworks that have been implemented, highlighting the substantial impact of algorithmic trading on the TSE’s function and integrity within the financial markets.
+This article provides an in-depth exploration of the Tokyo Stock Exchange, examining its rich history and the structural organization that accommodates companies of varying sizes and growth stages. Additionally, the piece investigates into the technological frameworks that have been implemented, highlighting the substantial impact of algorithmic trading on the TSE’s function and integrity within the financial markets.
 
 ## Table of Contents
 

@@ -106,7 +106,7 @@ Investopedia provides an excellent overview of the Debt-to-Equity (D/E) Ratio an
 
 "Corporate Finance: Theory and Practice" by Aswath Damodaran presents a comprehensive exploration of financial metrics, including the D/E ratio, providing detailed analysis and methodologies to evaluate corporate financial structures [Damodaran, Aswath. Corporate Finance: Theory and Practice]. Damodaran's work is instrumental for those seeking to gain a thorough understanding of corporate finance theories and their application in real-world scenarios.
 
-The CFA Institute delves deeply into financial leverage and the Debt-to-Equity Ratio as crucial aspects of evaluating capital structures. Their materials are well-regarded in the finance community for offering foundational and advanced knowledge on how these ratios inform investment decisions and corporate strategies [CFA Institute, Corporate Finance Material].
+The CFA Institute investigates deeply into financial leverage and the Debt-to-Equity Ratio as crucial aspects of evaluating capital structures. Their materials are well-regarded in the finance community for offering foundational and advanced knowledge on how these ratios inform investment decisions and corporate strategies [CFA Institute, Corporate Finance Material].
 
 John C. Hull's works examine the integration of financial derivatives with corporate financial metrics, including the influences of leverage and risk management [Hull, John C. Options, Futures, and Other Derivatives]. Hull's comprehensive analysis is valuable for professionals seeking to connect derivative markets with broader financial and corporate strategies, enhancing understanding of leverage effects.
 

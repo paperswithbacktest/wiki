@@ -163,7 +163,7 @@ In closing, the intricate relationship between supply concepts and trading techn
 1. **Academic Papers and Books on Supply Economics:**
 
    - Pindyck, R. S., & Rubinfeld, D. L. (2012). *Microeconomics* (8th ed.). Pearson Education. This book provides foundational knowledge on various microeconomic concepts, including the law of supply and demand, market mechanisms, and equilibrium.
-   - Varian, H. R. (2014). *Intermediate Microeconomics: A Modern Approach*. W.W. Norton & Company. This text delves into the principles of microeconomics with a clear focus on supply and demand dynamics across different market structures.
+   - Varian, H. R. (2014). *Intermediate Microeconomics: A Modern Approach*. W.W. Norton & Company. This text investigates into the principles of microeconomics with a clear focus on supply and demand dynamics across different market structures.
    - Marshall, A. (1890). *Principles of Economics*. Macmillan. A classical reference that details the original conceptualization of supply and demand principles.
 
 2. **Citations of Industry Reports and Case Studies on Algorithmic Trading:**

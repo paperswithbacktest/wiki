@@ -9,7 +9,7 @@ Parallel to the utility of commercial paper is the transformative impact of adva
 
 ![Image](images/1.jpeg)
 
-This article explores the synergistic relationship between commercial paper as a fundamental tool for short-term corporate financing and the dynamics introduced by algorithmic trading. It delves into how these two facets collectively contribute to the evolving landscape of modern finance, emphasizing efficiency, liquidity, and risk management in today’s dynamic financial environment.
+This article explores the synergistic relationship between commercial paper as a fundamental tool for short-term corporate financing and the dynamics introduced by algorithmic trading. It investigates into how these two facets collectively contribute to the evolving landscape of modern finance, emphasizing efficiency, liquidity, and risk management in today’s dynamic financial environment.
 
 ## Table of Contents
 

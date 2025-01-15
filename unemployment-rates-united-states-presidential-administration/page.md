@@ -72,7 +72,7 @@ In sum, algorithmic trading melds mathematical precision with economic analysis.
 
 ## Case Studies: Presidential Impact on Unemployment
 
-From Harry S. Truman to Joe Biden, U.S. presidents have often faced the formidable challenge of managing unemployment through various policy decisions. Each administration, confronted with its own set of unique economic circumstances, has implemented strategies to either stimulate job growth or mitigate job losses. This section delves into specific case studies illustrating how presidential decisions have significantly impacted the U.S. job market.
+From Harry S. Truman to Joe Biden, U.S. presidents have often faced the formidable challenge of managing unemployment through various policy decisions. Each administration, confronted with its own set of unique economic circumstances, has implemented strategies to either stimulate job growth or mitigate job losses. This section investigates into specific case studies illustrating how presidential decisions have significantly impacted the U.S. job market.
 
 ### Truman to Nixon: Post-War Adjustments and Economic Growth
 

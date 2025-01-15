@@ -9,7 +9,7 @@ The integration of FRNs into algorithmic trading strategies has marked a signifi
 
 ![Image](images/1.png)
 
-In modern financial markets, the strategic utilization of FRNs in conjunction with algorithmic trading offers profound implications for both investors and financial institutions. As market dynamics continue to evolve, understanding and leveraging the synergistic potential of technology and variable-rate instruments like FRNs becomes crucial for optimizing investment returns and managing interest rate exposures. This article delves into the complex nature of floating-rate notes, their pivotal role in financial markets, and the transformative effect of algorithmic trading on these instruments.
+In modern financial markets, the strategic utilization of FRNs in conjunction with algorithmic trading offers profound implications for both investors and financial institutions. As market dynamics continue to evolve, understanding and leveraging the synergistic potential of technology and variable-rate instruments like FRNs becomes crucial for optimizing investment returns and managing interest rate exposures. This article investigates into the complex nature of floating-rate notes, their pivotal role in financial markets, and the transformative effect of algorithmic trading on these instruments.
 
 ## Table of Contents
 

@@ -9,7 +9,7 @@ Unlike cyclical unemployment, which fluctuates with the economic cycle, structur
 
 ![Image](images/1.jpeg)
 
-This article examines the intricate relationship between structural unemployment and its economic impact during the Great Recession. It also delves into how algorithmic trading—an automated method using complex algorithms to execute financial trades—rose to prominence in the post-recession economy. The interplay of these factors plays a crucial role in shaping employment trends and market dynamics, making it imperative for policymakers, economists, and investors to grasp these complexities to effectively navigate the evolving economic environment. Understanding these dynamics is vital in addressing the long-term consequences of structural shifts and ensuring economic resilience in future downturns.
+This article examines the intricate relationship between structural unemployment and its economic impact during the Great Recession. It also investigates into how algorithmic trading—an automated method using complex algorithms to execute financial trades—rose to prominence in the post-recession economy. The interplay of these factors plays a crucial role in shaping employment trends and market dynamics, making it imperative for policymakers, economists, and investors to grasp these complexities to effectively navigate the evolving economic environment. Understanding these dynamics is vital in addressing the long-term consequences of structural shifts and ensuring economic resilience in future downturns.
 
 ## Table of Contents
 

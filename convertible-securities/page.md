@@ -134,7 +134,7 @@ However, the introduction of algorithmic trading also necessitates sophisticated
 
 4. **Advanced Trading Strategies and Techniques:**
    - "Quantitative Strategies for Convertible Arbitrage" by R. A. Strenk, found in the *Journal of Portfolio Management*. This paper focuses on the complex strategies used by hedge funds and institutional investors to exploit pricing inefficiencies in the convertible securities market.
-   - "Python for Finance: Analyze Big Financial Data" by Yves Hilpisch. This book delves into the application of Python programming for financial data analysis and trading strategy development, particularly useful for those interested in algorithmic trading of convertible securities.
+   - "Python for Finance: Analyze Big Financial Data" by Yves Hilpisch. This book investigates into the application of Python programming for financial data analysis and trading strategy development, particularly useful for those interested in algorithmic trading of convertible securities.
 
 These resources provide comprehensive reading material that spans foundational theories, market operations, and advanced trading techniques relevant to convertible securities and their interaction with modern financial markets.
 

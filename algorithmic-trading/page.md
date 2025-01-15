@@ -253,7 +253,7 @@ Stepping into the realm of algorithmic trading requires dedication, curiosity, a
 
 For beginners and professionals alike, a range of online platforms offer [course](/wiki/best-algorithmic-trading-courses)s on algorithmic trading. Renowned institutions like MIT, Harvard, and Stanford have partnered with platforms such as Coursera and edX, providing comprehensive courses on the subject[62]. Additionally, specialized platforms like QuantInsti and Udemy offer dedicated programs on algorithmic and [quantitative trading](/wiki/quantitative-trading), ranging from basics to advanced strategy formulation.
 
-Certifications, too, have grown in prominence. The Chartered Market Technician (CMT) and Certificate in Quantitative Finance (CQF) are noteworthy credentials for individuals aiming to solidify their standing in the world of algorithmic trading[63]. While the former focuses on technical analysis, the latter delves into the quantitative aspect, underpinning many algorithmic strategies.
+Certifications, too, have grown in prominence. The Chartered Market Technician (CMT) and Certificate in Quantitative Finance (CQF) are noteworthy credentials for individuals aiming to solidify their standing in the world of algorithmic trading[63]. While the former focuses on technical analysis, the latter investigates into the quantitative aspect, underpinning many algorithmic strategies.
 
 Workshops are invaluable for hands-on experience. Many global trading conferences host workshops where industry experts guide participants through real-world trading scenarios, ensuring theoretical knowledge meets practical application.
 

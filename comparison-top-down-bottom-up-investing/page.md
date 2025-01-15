@@ -9,7 +9,7 @@ The top-down approach is fundamentally macroeconomic in nature, orienting itself
 
 ![Image](images/1.png)
 
-Conversely, the bottom-up strategy prioritizes microeconomic fundamentals by concentrating on the intrinsic value of individual companies, irrespective of overarching economic conditions. This approach emphasizes detailed analyses of company-specific data, such as financial statements, management efficiency, and business models, aiming to unearth undervalued stocks with robust growth prospects. The bottom-up investor delves deep into the granular details of a company's potential, seeking to capitalize on stocks that might not yet be recognized by the broader market.
+Conversely, the bottom-up strategy prioritizes microeconomic fundamentals by concentrating on the intrinsic value of individual companies, irrespective of overarching economic conditions. This approach emphasizes detailed analyses of company-specific data, such as financial statements, management efficiency, and business models, aiming to unearth undervalued stocks with robust growth prospects. The bottom-up investor investigates deep into the granular details of a company's potential, seeking to capitalize on stocks that might not yet be recognized by the broader market.
 
 In addition to traditional investment strategies, the advancement of technology has ushered in a new era of investing through algorithmic trading. This modern approach combines computational algorithms with trading strategies to execute trades based on pre-established criteria, providing an edge in precision and execution speed.
 

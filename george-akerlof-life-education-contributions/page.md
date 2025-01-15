@@ -15,7 +15,7 @@ The insights derived from Akerlof's work are particularly pertinent to modern fi
 
 ## Understanding 'The Market for Lemons'
 
-George Akerlof's seminal paper, "The Market for Lemons: Quality Uncertainty and the Market Mechanism," published in 1970, delves into the concept of asymmetric information, a situation in which one party in a transaction has more or superior information compared to the other. This disparity can lead to market inefficiencies and failures. Akerlof illustrates this phenomenon through the used car market, where the disparity in information between sellers and buyers significantly impacts the market's function.
+George Akerlof's seminal paper, "The Market for Lemons: Quality Uncertainty and the Market Mechanism," published in 1970, investigates into the concept of asymmetric information, a situation in which one party in a transaction has more or superior information compared to the other. This disparity can lead to market inefficiencies and failures. Akerlof illustrates this phenomenon through the used car market, where the disparity in information between sellers and buyers significantly impacts the market's function.
 
 In the used car market, sellers often possess more information about the vehicle's condition than potential buyers. This imbalance creates a situation where sellers with low-quality vehicles, or "lemons," are incentivized to sell their cars at the price of higher-quality vehicles, or "peaches." As buyers cannot distinguish between lemons and peaches, they are unwilling to pay a premium price, forcing the market price down to a level closer to that of the lemons, effectively driving the higher-quality vehicles out of the market.
 

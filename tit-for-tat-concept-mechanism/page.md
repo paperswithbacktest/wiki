@@ -9,7 +9,7 @@ Anatol Rapoport's formulation of tit for tat offered a clear demonstration of it
 
 ![Image](images/1.jpeg)
 
-Understanding tit for tat is critical not only for grasping fundamental game theory principles but also for appreciating its practical utility in various fields. The strategy's theoretical underpinnings lie in its ability to engender mutual cooperation, relying on the expectation of future interactions to maintain a balance of trust and retaliation. This article delves into these theoretical aspects, highlighting how tit for tat is employed in algorithmic trading. Here, its principles mitigate risks and enhance strategic decision-making, adapting dynamically to competitor behavior to secure optimal trading outcomes. 
+Understanding tit for tat is critical not only for grasping fundamental game theory principles but also for appreciating its practical utility in various fields. The strategy's theoretical underpinnings lie in its ability to engender mutual cooperation, relying on the expectation of future interactions to maintain a balance of trust and retaliation. This article investigates into these theoretical aspects, highlighting how tit for tat is employed in algorithmic trading. Here, its principles mitigate risks and enhance strategic decision-making, adapting dynamically to competitor behavior to secure optimal trading outcomes. 
 
 By exploring the theoretical foundation and versatile applications of tit for tat, we gain insight into how game-theoretical approaches can inform and improve modern strategic interactions across multiple disciplines.
 

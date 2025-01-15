@@ -33,7 +33,7 @@ The Alea Blog serves as a comprehensive resource for traders seeking to enhance 
 
 For beginners, the Alea Blog provides foundational guides that aim to introduce the basic concepts and mechanics of algorithmic trading. These guides cover essential topics such as understanding trading algorithms, the importance of [backtesting](/wiki/backtesting), and essential programming languages like Python utilized in strategy development.
 
-For those with advanced knowledge, the blog delves deeper into sophisticated trading strategies, offering insights into complex quantitative models and techniques. This includes discussions on statistical [arbitrage](/wiki/arbitrage), high-frequency trading, machine learning applications, and real-time data analysis, presenting traders with opportunities to refine their strategies and grasp cutting-edge methods.
+For those with advanced knowledge, the blog investigates deeper into sophisticated trading strategies, offering insights into complex quantitative models and techniques. This includes discussions on statistical [arbitrage](/wiki/arbitrage), high-frequency trading, machine learning applications, and real-time data analysis, presenting traders with opportunities to refine their strategies and grasp cutting-edge methods.
 
 In addition to educational content, the Alea Blog provides thorough market analysis, offering readers in-depth evaluations of current market trends and predictions. This analysis is crucial for traders aiming to make informed decisions based on quantitative data and market sentiment.
 

@@ -146,7 +146,7 @@ This convergence between accounting and technology is an opportunity for market 
 
 3. **Algorithmic Trading Literature**:
    - "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan. This book explores how algorithmic trading models use financial data, including asset valuations, to make investment decisions.
-   - "The Science of Algorithmic Trading and Portfolio Management" by Robert Kissell. This comprehensive guide delves into strategies, algorithm development, and implementation, crucial for those integrating asset data into trading systems.
+   - "The Science of Algorithmic Trading and Portfolio Management" by Robert Kissell. This comprehensive guide investigates into strategies, algorithm development, and implementation, crucial for those integrating asset data into trading systems.
 
 4. **Online Resources and Courses**:
    - Coursera’s "Introduction to Financial Accounting" course, which covers essential financial accounting concepts, including asset valuation and depreciation methods.

@@ -245,7 +245,7 @@ The future implications for economic policy and financial market strategies are 
    - This guide provides an introduction to algorithmic trading techniques, highlighting the potential to incorporate various economic factors, such as multiplier effects, into trading strategies.
 
 10. **Romer, D. (2012)**. *Advanced Macroeconomics*. McGraw-Hill/Irwin.
-    - Romer’s advanced text delves into dynamic macroeconomic frameworks, focusing on policy effects and the empirical quantification of economic multipliers.
+    - Romer’s advanced text investigates into dynamic macroeconomic frameworks, focusing on policy effects and the empirical quantification of economic multipliers.
 
 11. **Shreve, S. E. (2004)**. *Stochastic Calculus for Finance*. Springer.
     - For those interested in the mathematical underpinnings of financial models, this book covers stochastic calculus techniques that can be utilized in developing sophisticated algorithmic trading systems.

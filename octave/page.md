@@ -9,7 +9,7 @@ Among the various tools employed in algorithmic trading, Octave is increasingly 
 
 ![Image](images/1.png)
 
-This article delves into how Octave can be effectively integrated into algorithmic trading, highlighting the strengths and potential applications of the tool. By understanding its advantages, traders can leverage Octave to develop sophisticated trading algorithms that may enhance efficiency and profitability in today's dynamic financial markets.
+This article investigates into how Octave can be effectively integrated into algorithmic trading, highlighting the strengths and potential applications of the tool. By understanding its advantages, traders can leverage Octave to develop sophisticated trading algorithms that may enhance efficiency and profitability in today's dynamic financial markets.
 
 ## Table of Contents
 

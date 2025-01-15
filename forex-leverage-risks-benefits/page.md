@@ -103,7 +103,7 @@ Further exploration of educational resources is advocated to deepen traders' und
 
 6. **TradingWithRayner - Forex Trading for Beginners**: This platform offers video guides and articles that break down forex trading strategies, risk management, and how leverage works. Website: [www.tradingwithrayner.com](https://www.tradingwithrayner.com).
 
-7. **"Artificial Intelligence in Finance" by Yves Hilpisch**: This book delves into the application of AI in finance, including algorithmic trading. It explores both the opportunities and risks, including those from the use of leverage. Available via major book retailers.
+7. **"Artificial Intelligence in Finance" by Yves Hilpisch**: This book investigates into the application of AI in finance, including algorithmic trading. It explores both the opportunities and risks, including those from the use of leverage. Available via major book retailers.
 
 8. **ForexFactory Forums**: An online community where traders discuss various aspects of forex trading, including algorithmic strategies and leverage. This forum is a great resource for shared experiences and advice from other traders. Website: [www.forexfactory.com](https://www.forexfactory.com).
 

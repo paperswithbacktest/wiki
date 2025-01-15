@@ -9,7 +9,7 @@ Algorithmic trading, characterized by its use of complex algorithms to execute t
 
 ![Image](images/1.jpeg)
 
-In exploring the integrated operations of clearing houses, the article delves into the notable role of the Depository Trust & Clearing Corporation (DTCC), which exemplifies how clearing entities adapt to meet the demands of an increasingly fast-paced trading environment. Furthermore, the rise of algorithmic trading embodies a paradigm shift, pushing traditional boundaries and prompting developments in both regulatory and technological frameworks to maintain a balance between innovation and risk management.
+In exploring the integrated operations of clearing houses, the article investigates into the notable role of the Depository Trust & Clearing Corporation (DTCC), which exemplifies how clearing entities adapt to meet the demands of an increasingly fast-paced trading environment. Furthermore, the rise of algorithmic trading embodies a paradigm shift, pushing traditional boundaries and prompting developments in both regulatory and technological frameworks to maintain a balance between innovation and risk management.
 
 This article aims to provide a comprehensive overview of these intertwined elements in the financial services sector, highlighting how they collectively contribute to the sophistication and functionality of contemporary trading systems.
 

@@ -11,7 +11,7 @@ The Volume Rate of Change (V-ROC) is a technical indicator that measures the per
 
 Proper analysis of trading volume is integral to technical analysis because it reflects the intensity behind market moves. A significant change in volume can confirm trends and signal substantial market activity, acting as a validating factor for price movements. For example, a rising price accompanied by increasing volume suggests strong interest and potential for trend continuance, whereas a rising price on declining volume might indicate a weakening trend.
 
-Incorporating V-ROC into a broader trading strategy can enhance trend confirmation and foresight in algorithmic trading systems. This article delves into how V-ROC can be utilized to confirm market trends and inform algorithmic trading strategies. Additionally, it underscores the importance of understanding trading volume and its vital role in technical analysis, providing traders with a comprehensive toolkit to navigate diverse market conditions.
+Incorporating V-ROC into a broader trading strategy can enhance trend confirmation and foresight in algorithmic trading systems. This article investigates into how V-ROC can be utilized to confirm market trends and inform algorithmic trading strategies. Additionally, it underscores the importance of understanding trading volume and its vital role in technical analysis, providing traders with a comprehensive toolkit to navigate diverse market conditions.
 
 ## Table of Contents
 

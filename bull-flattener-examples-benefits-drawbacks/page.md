@@ -9,7 +9,7 @@ The advent of algorithmic trading has fundamentally transformed the implementati
 
 ![Image](images/1.jpeg)
 
-This article delves into the intricacies of the bull flattener strategy and its effects on the yield curve. It further examines the role of algorithmic trading in optimizing the execution of this strategy, providing insights on how technology can enhance decision-making and profitability in fixed income markets.
+This article investigates into the intricacies of the bull flattener strategy and its effects on the yield curve. It further examines the role of algorithmic trading in optimizing the execution of this strategy, providing insights on how technology can enhance decision-making and profitability in fixed income markets.
 
 ## Table of Contents
 

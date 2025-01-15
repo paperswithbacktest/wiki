@@ -9,7 +9,7 @@ One of the significant obstacles that traders encounter in this domain is slippa
 
 ![Image](images/1.png)
 
-In order to quantify and manage this phenomenon, traders have developed the concept of average slippage per turnover. This metric provides insights into how slippage affects trading performance, allowing traders to adjust and refine their strategies for optimal execution. By understanding and effectively managing slippage, traders can significantly enhance the efficiency and effectiveness of their algorithmic trading operations. This article delves into the intricacies of average slippage per turnover, examining its implications for trading strategies and overall performance in the market.
+In order to quantify and manage this phenomenon, traders have developed the concept of average slippage per turnover. This metric provides insights into how slippage affects trading performance, allowing traders to adjust and refine their strategies for optimal execution. By understanding and effectively managing slippage, traders can significantly enhance the efficiency and effectiveness of their algorithmic trading operations. This article investigates into the intricacies of average slippage per turnover, examining its implications for trading strategies and overall performance in the market.
 
 ## Table of Contents
 

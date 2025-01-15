@@ -138,7 +138,7 @@ Looking ahead, the fusion of economic insights with algorithmic precision is set
 ## References & Further Reading
 
 Fabozzi, F. J. (2005). Fixed Income Analysis. John Wiley & Sons.  
-This comprehensive guide delves into the complexities of fixed income markets, offering insights into pricing, risk management, and the various instruments involved. It is an essential resource for understanding the mechanics underlying the yield curve and its applications in algorithmic trading.
+This comprehensive guide investigates into the complexities of fixed income markets, offering insights into pricing, risk management, and the various instruments involved. It is an essential resource for understanding the mechanics underlying the yield curve and its applications in algorithmic trading.
 
 Campbell, J. Y., Lo, A. W., & MacKinlay, A. C. (1996). The Econometrics of Financial Markets. Princeton University Press.  
 This book provides an in-depth examination of econometric models applied to financial data, including the analysis of yield curves. It equips readers with the statistical tools necessary to interpret market trends and optimize trading strategies based on quantitative insights.

@@ -200,7 +200,7 @@ In conclusion, while IRR is a valuable indicator for assessing investment opport
 
 For further insights on the Internal Rate of Return (IRR), several authoritative texts provide comprehensive coverage. "Principles of Corporate Finance" is a widely recognized text that discusses IRR in the broader context of corporate finance decision-making. It explores both theoretical foundations and practical applications, making it a valuable resource for understanding how IRR fits into various financial analyses.
 
-Another essential resource is "Investment Valuation" by Aswath Damodaran, a leading authority on investment appraisal. Damodaran's work delves into valuation techniques, including IRR, offering nuanced perspectives on its application in different investment settings. His approach combines practical examples with theoretical insights, making complex concepts readily accessible.
+Another essential resource is "Investment Valuation" by Aswath Damodaran, a leading authority on investment appraisal. Damodaran's work investigates into valuation techniques, including IRR, offering nuanced perspectives on its application in different investment settings. His approach combines practical examples with theoretical insights, making complex concepts readily accessible.
 
 For those seeking to expand their understanding through online resources, Investopedia offers a variety of articles and tutorials on IRR. This platform provides clear explanations and examples, catering to both beginners and seasoned professionals. It covers the calculation of IRR using Excel and Python, explaining iterative methods such as those involving the use of Python's NumPy library, specifically the `np.irr()` function:
 

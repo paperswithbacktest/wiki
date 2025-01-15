@@ -15,7 +15,7 @@ The evolving sports card market is characterized by an increasing number of part
 
 In this context, algo trading emerges as a valuable tool to optimize investments in sports cards. Algorithms can analyze vast amounts of data, identifying emerging trends and pricing inefficiencies in the market. By leveraging such technology, investors can make informed decisions, maximizing their returns while minimizing risks.
 
-This article delves into the investment potential of sports cards, examines the changing dynamics of the market, and explores how algo trading can be employed to enhance returns on card investments.
+This article investigates into the investment potential of sports cards, examines the changing dynamics of the market, and explores how algo trading can be employed to enhance returns on card investments.
 
 ## Table of Contents
 

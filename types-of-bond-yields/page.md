@@ -114,7 +114,7 @@ As technological innovation continues to transform financial markets, the synerg
 
 5. **Treynor, Jack L. "Treynor on Institutional Investing."** This collection of essays covers a range of topics relevant to yield management and trading dynamics, offering insights into market behaviors and the strategic approach to fixed income securities.
 
-6. **Duffie, Darrell. "Dynamic Asset Pricing Theory."** Duffie's book explores the mathematical foundation of asset pricing, which is essential for understanding the complex interactions within bond markets. The text delves into the models and theories that determine pricing and yields.
+6. **Duffie, Darrell. "Dynamic Asset Pricing Theory."** Duffie's book explores the mathematical foundation of asset pricing, which is essential for understanding the complex interactions within bond markets. The text investigates into the models and theories that determine pricing and yields.
 
 7. **O’Hara, Maureen. "Market Microstructure Theory."** This foundational text explores the structure of financial markets, including bond markets, and examines the impact of technology and algorithms on trading environments.
 

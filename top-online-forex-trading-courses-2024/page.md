@@ -84,7 +84,7 @@ Udemy offers a course called "Algorithmic Trading in Forex: Create Your First Tr
 **Registration**: Interested learners can sign up via the [Udemy Course Page](https://www.udemy.com/course/forex-algorithmic-course/).
 
 **3. edX: Professional Certificate in Algorithmic Trading**
-The University of Oxford through edX provides a Professional Certificate in Algorithmic Trading. This comprehensive course, which lasts approximately six weeks, delves into the intricacies of algorithmic trading strategies, market microstructures, and trading infrastructure. It is aimed at professionals seeking to deepen their understanding of financial technologies.
+The University of Oxford through edX provides a Professional Certificate in Algorithmic Trading. This comprehensive course, which lasts approximately six weeks, investigates into the intricacies of algorithmic trading strategies, market microstructures, and trading infrastructure. It is aimed at professionals seeking to deepen their understanding of financial technologies.
 
 **Course Fee and Delivery**: The course fee is approximately $2,500. It offers a blend of live virtual classes and self-paced assignments, requiring learners to dedicate around 8-10 hours per week.
 

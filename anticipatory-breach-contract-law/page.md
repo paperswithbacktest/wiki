@@ -9,7 +9,7 @@ Algorithmic trading operates at high speeds, executing trades based on programme
 
 ![Image](images/1.png)
 
-This exploration is structured to offer legal examples and articulate the implications of anticipatory breaches within the scope of algorithmic trading. Additionally, it delves into strategies to manage and mitigate such breaches. This involves proactive contract management, monitoring indicators of potential breach, and employing legal remedies to protect interests. By laying out these considerations, the article seeks to equip traders and financial professionals with the knowledge required to safeguard their operations against the risks posed by anticipatory breaches. Understanding these elements is crucial for maintaining the integrity and efficiency of financial transactions in the fast-paced landscape of algorithmic trading.
+This exploration is structured to offer legal examples and articulate the implications of anticipatory breaches within the scope of algorithmic trading. Additionally, it investigates into strategies to manage and mitigate such breaches. This involves proactive contract management, monitoring indicators of potential breach, and employing legal remedies to protect interests. By laying out these considerations, the article seeks to equip traders and financial professionals with the knowledge required to safeguard their operations against the risks posed by anticipatory breaches. Understanding these elements is crucial for maintaining the integrity and efficiency of financial transactions in the fast-paced landscape of algorithmic trading.
 
 ## Table of Contents
 

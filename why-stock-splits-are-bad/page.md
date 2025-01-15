@@ -11,7 +11,7 @@ A stock split typically alters a company's share price and the number of shares 
 
 In algorithmic trading, precision is key, and stock splits can lead to undesirable anomalies. For instance, existing algorithms might interpret the reduced share price following a stock split as a signal to buy, potentially skewing trading strategies. Furthermore, historical data, which is crucial for backtesting algorithmic strategies, becomes distorted due to splits, leading to inaccuracies in evaluating and optimizing trading models. 
 
-Understanding these challenges is imperative for algorithmic traders aiming to sustain optimal performance. Although stock splits do not reflect a tangible gain or loss, the resulting adjustments can induce volatility and create execution difficulties. Therefore, it is crucial for traders to develop robust systems capable of adapting to these market changes efficiently. This article delves into the specific disadvantages of stock splits in algorithmic trading, providing insights necessary for traders to align their strategies with these dynamic market conditions.
+Understanding these challenges is imperative for algorithmic traders aiming to sustain optimal performance. Although stock splits do not reflect a tangible gain or loss, the resulting adjustments can induce volatility and create execution difficulties. Therefore, it is crucial for traders to develop robust systems capable of adapting to these market changes efficiently. This article investigates into the specific disadvantages of stock splits in algorithmic trading, providing insights necessary for traders to align their strategies with these dynamic market conditions.
 
 ## Table of Contents
 
