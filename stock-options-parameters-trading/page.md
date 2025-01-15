@@ -54,7 +54,7 @@ The selection of **strike prices** is fundamental, as it determines the intrinsi
 Utilizing these parameters effectively can significantly enhance trading decisions and align one's financial goals. For those employing algorithmic trading strategies, these parameters must be quantified and incorporated into trading algorithms to optimize performance. Here is a simple Python snippet illustrating how one might obtain and analyze historical volatility data using the `yfinance` library, which can be integrated into more comprehensive trading strategies:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 def calculate_historical_volatility(ticker, start_date, end_date):

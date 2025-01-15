@@ -192,7 +192,7 @@ Investment success greatly depends on the careful alignment of strategies with c
 The integration of algorithmic trading into investment practices presents exciting opportunities for enhancing efficiency. Algorithms can process market data and execute trades at speeds and frequencies beyond human capability. This can lead to optimized timing and precision of trades, potentially increasing returns and reducing the cognitive biases that often accompany human-driven investment decisions. For example, a simple Python algorithm might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define parameters
 ticker = "AAPL"

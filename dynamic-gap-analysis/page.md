@@ -121,7 +121,7 @@ The collection of comprehensive data is essential for an accurate gap analysis. 
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Example of collecting historical price data
 ticker = "AAPL"

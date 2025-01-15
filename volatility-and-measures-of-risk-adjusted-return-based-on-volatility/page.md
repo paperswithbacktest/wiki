@@ -177,7 +177,7 @@ Visualization of data is equally critical, and Matplotlib is a preferred library
 Furthermore, Python scripts can be developed to automate various aspects of trading strategies. Automation includes the retrieval of real-time market data, calculation of volatility metrics, and [backtesting](/wiki/backtesting) of strategies under varied market conditions. Libraries such as yfinance can fetch market data directly into Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical market data
 stock_data = yf.download('AAPL', start='2020-01-01', end='2021-01-01')
@@ -207,7 +207,7 @@ In this case study, we demonstrate how Python can be utilized to extract market 
 To start, we use the `yfinance` library to collect historical market data. This library provides a convenient interface to retrieve historical stock data from Yahoo Finance, making it a popular choice for financial data analysis in Python.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Load historical data for a specific stock, e.g., Apple Inc. (AAPL)
 ticker = 'AAPL'

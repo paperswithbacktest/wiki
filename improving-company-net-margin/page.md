@@ -71,7 +71,7 @@ In practice, algorithmic trading systems may include the following Python code s
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Function to calculate revenue growth rate
 def calculate_revenue_growth(ticker, start_date, end_date):

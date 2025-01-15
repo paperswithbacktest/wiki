@@ -116,7 +116,7 @@ Python, a powerful tool in algorithmic trading, was used to implement strategies
 ```python
 import pandas as pd
 import numpy as np
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch VIX data
 vix_data = yf.download('^VIX', start='2020-01-01', end='2020-12-31')

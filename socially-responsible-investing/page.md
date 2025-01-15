@@ -89,7 +89,7 @@ Below is a basic Python framework demonstrating how ESG criteria can be integrat
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Load ESG data
 esg_data = pd.read_csv('esg_scores.csv')  # Sample ESG scores dataset

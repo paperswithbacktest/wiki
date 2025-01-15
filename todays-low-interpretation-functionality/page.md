@@ -45,7 +45,7 @@ For example, a simple algorithm in Python might look for a stock achieving its l
 
 ```python
 # Example Python code to identify today's low and trigger trades
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def trade_on_low(ticker, low_price_threshold):
     stock_data = yf.download(ticker, period='1d', interval='1m')

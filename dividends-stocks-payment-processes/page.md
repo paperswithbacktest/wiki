@@ -123,7 +123,7 @@ The dividend payment process involves several key dates: the record date, the ex
 Algorithmic trading strategies can optimize dividend capture by strategically buying and selling stocks around these key dates. For example, algorithms might be designed to purchase stocks just before the ex-dividend date and sell them shortly after to secure the dividend, a strategy known as "dividend stripping". Here is a basic example of what such an algorithm could look like:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import datetime
 
 def dividend_strategy(stock, start_date, end_date):

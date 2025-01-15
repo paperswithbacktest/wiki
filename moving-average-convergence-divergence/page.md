@@ -95,7 +95,7 @@ A key [factor](/wiki/factor-investing) in implementing the MACD for [algorithmic
 
 Example in Python using yfinance:
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Downloading historical price data
 data = yf.download('AAPL', start='2020-01-01', end='2021-01-01')
@@ -111,7 +111,7 @@ To begin visualizing the MACD in Python, Plotly offers straightforward methods t
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas_ta as ta
 import plotly.graph_objs as go
 

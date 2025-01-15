@@ -86,7 +86,7 @@ One common algorithmic trading strategy is statistical [arbitrage](/wiki/arbitra
 To illustrate a basic algorithmic trading implementation, consider this Python code snippet using a simple moving average crossover strategy, which is a common technique to automate trading signals:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Download historical data for Primerica stock

@@ -62,7 +62,7 @@ Algorithmic trading is particularly advantageous for high-frequency trading ([HF
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data
 def get_data(ticker, start, end):

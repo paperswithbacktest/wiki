@@ -68,7 +68,7 @@ Python is a favorite among algorithmic traders due to its simplicity and the ext
 'yfinance' is a Python library used for accessing historical market data from Yahoo Finance. It simplifies data collection, allowing traders to easily implement their strategies:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for Microsoft
 msft_data = yf.download('MSFT', start='2020-01-01', end='2023-01-01')
@@ -95,7 +95,7 @@ The 'Y' functions, particularly with the advent of 'yfinance', play a critical r
 'Y' functions contribute to the automation of trading strategies by allowing traders to programmatically access vast amounts of data with minimal manual intervention. This capability is invaluable for executing complex algorithms that can react to market conditions instantaneously. By leveraging libraries such as 'yfinance', traders can fetch historical price data, financial indicators, and other relevant metrics essential for data-driven decision-making. Here's a basic example of how to use 'yfinance' in Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a specific stock
 data = yf.download("AAPL", start="2020-01-01", end="2023-01-01")
@@ -145,7 +145,7 @@ pip install yfinance
 Once installed, 'yfinance' can be utilized to fetch real-time data. Consider the example of retrieving stock data for a specific ticker symbol, such as "AAPL" for Apple Inc.:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical stock data
 data = yf.download("AAPL", start="2022-01-01", end="2023-01-01")

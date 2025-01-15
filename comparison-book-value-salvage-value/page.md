@@ -88,7 +88,7 @@ Beyond book value, salvage value also plays a role in algorithmic strategies, pa
 Python is a commonly used language in algorithmic trading due to its libraries like Pandas and NumPy for handling large datasets, and libraries like QuantLib and TA-Lib for financial analyses. Here is a simple example illustrating the concept in Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def identify_undervalued_stocks(ticker_list):
     undervalued_stocks = []

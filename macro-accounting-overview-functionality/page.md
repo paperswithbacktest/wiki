@@ -120,7 +120,7 @@ Economic indicators, such as GDP growth rates, inflation figures, and employment
 Consider the following Python example, illustrating a simplistic approach to incorporating economic indicators into an algorithmic trading strategy:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from datetime import datetime, timedelta
 import numpy as np
 

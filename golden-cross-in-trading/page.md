@@ -79,7 +79,7 @@ Python's popular libraries such as pandas and numpy can assist in backtesting th
 ```python
 import pandas as pd
 import numpy as np
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for S&P 500
 symbol = '^GSPC'

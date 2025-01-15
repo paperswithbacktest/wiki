@@ -122,7 +122,7 @@ Here is a simple example of how Python can be used to implement a mean reversion
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for VOO
 data = yf.download('VOO', start='2020-01-01', end='2023-01-01')

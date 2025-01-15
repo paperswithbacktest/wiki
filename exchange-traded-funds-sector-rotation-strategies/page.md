@@ -44,7 +44,7 @@ When selecting ETFs for sector rotation, several critical factors require attent
 The implementation of sector rotation using ETFs can be illustrated with Python code that automates the process of identifying and investing in the top-performing sectors. For example:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # List of sector ETFs

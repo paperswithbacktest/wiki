@@ -65,7 +65,7 @@ For example, consider a Python script designed for an algorithmic trading strate
 
 ```python
 # Example of a basic automated trading strategy using Python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define a function to fetch stock data and make trading decisions
 def automated_trading_strategy(ticker):

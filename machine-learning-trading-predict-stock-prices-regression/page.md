@@ -140,7 +140,7 @@ The foundation of any effective regression model is high-quality data. For stock
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Example of fetching historical data using yfinance
 ticker = "AAPL"

@@ -151,7 +151,7 @@ A practical Python example demonstrates how covariance analysis can be integrate
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def calculate_covariance_matrix(asset_list, period='1y'):
     # Fetch historical price data

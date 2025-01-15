@@ -135,7 +135,7 @@ To effectively utilize this strategy, traders should consider incrementally incr
 For a practical implementation, traders can use Python to automate the detection and response to follow-through days. The following script provides a basic framework for evaluating follow-through conditions and executing trades accordingly:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch historical data for a major index

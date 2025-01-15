@@ -62,7 +62,7 @@ The significance of underlying assets in algorithmic trading is profound, as the
 Algorithms incorporate underlying assets into their strategies by continuously monitoring market data related to these assets. For example, an algorithm trading in forex might utilize real-time currency exchange rates to make split-second trading decisions. Trading strategies may involve statistical [arbitrage](/wiki/arbitrage), where an algorithm might exploit price discrepancies between an underlying asset and its derivative. Python, a frequently used programming language in algorithmic trading, allows for the development of models that can process vast amounts of data efficiently. A simple example of code that might be used in algorithmic trading to track the price of an underlying asset is:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def get_asset_price(ticker):
     asset = yf.Ticker(ticker)

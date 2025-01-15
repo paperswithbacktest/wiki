@@ -69,7 +69,7 @@ For investors, algorithmic trading provides a data-driven approach to decision-m
 Here's a simple illustration of how a basic trading algorithm might be structured in Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch historical data for a particular stock

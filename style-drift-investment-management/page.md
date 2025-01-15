@@ -67,7 +67,7 @@ In programming terms, leveraging Python for investment management can streamline
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a given stock
 def get_historical_data(ticker, start_date, end_date):

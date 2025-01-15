@@ -96,7 +96,7 @@ A pivotal aspect of developing robust VIX-based trading strategies is [backtesti
 A basic algorithmic trading example using Python could resemble the following pseudocode:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch VIX data

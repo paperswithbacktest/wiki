@@ -101,7 +101,7 @@ Moreover, the efficiency of algorithmic trading provides an advantage in terms o
 Python, a preferred programming language in financial markets, is often used to develop trading algorithms due to its simplicity and the availability of libraries tailored for financial data analysis. Here is a basic example of how a Python script might be structured to automate a strap options strategy:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 def fetch_option_data(ticker, expiry, strike, option_type):

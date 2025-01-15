@@ -62,7 +62,7 @@ To illustrate, consider a Python implementation for a simple moving average cros
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a stock
 data = yf.download('AAPL', start='2020-01-01', end='2023-01-01')

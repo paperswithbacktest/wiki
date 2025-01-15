@@ -34,7 +34,7 @@ The speed of [algorithmic trading](/wiki/algorithmic-trading) allows investors t
 Here's a simple example of how an algorithm might be programmed in Python to identify potential bottom fishing stocks:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Define criteria for bottom fishing

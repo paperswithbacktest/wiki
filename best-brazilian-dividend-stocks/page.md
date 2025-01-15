@@ -61,7 +61,7 @@ Python code example for [backtesting](/wiki/backtesting) a simple moving average
 
 ```python
 import backtrader as bt
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 class SmaCross(bt.SignalStrategy):
     def __init__(self):

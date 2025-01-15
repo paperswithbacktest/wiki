@@ -76,7 +76,7 @@ In the context of Dividend ETFs, algorithmic trading can automate the processes 
 A simplified example of how algorithmic trading might function in a Python script is shown below:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Define the criteria for buying stocks

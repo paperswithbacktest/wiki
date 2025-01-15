@@ -119,7 +119,7 @@ To implement volume and open interest strategies in algorithmic trading, traders
 **Data Acquisition**: Effective algorithmic trading begins with the acquisition of reliable, real-time data. This includes market data such as price, volume, and open interest. Traders can obtain this data from financial market data providers, often through APIs that deliver streaming updates. For instance, Python libraries like `pandas` and `numpy` can be employed to manage and manipulate this data efficiently. An example code snippet for retrieving data might include using a library like `yfinance` to collect historical options data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download option chain data
 ticker = 'AAPL'

@@ -86,7 +86,7 @@ Here is a simple Python example to demonstrate mean reversion applied to Under A
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for Under Armour
 data = yf.download("UAA", start="2023-01-01", end="2023-10-01")

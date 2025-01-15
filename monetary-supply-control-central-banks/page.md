@@ -156,7 +156,7 @@ Another vital element is understanding algorithmic trading systems, which respon
 To illustrate how traders can synthesize this information effectively, consider Python as a tool for data analysis and strategy development. By using Python libraries such as pandas for data manipulation and the yfinance library for acquiring financial data, traders can automate the collection and analysis of relevant market data. For example, a simple script could automatically retrieve the latest Treasury yield data and perform an analysis to predict interest rate changes:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch historical data for US Treasury yields

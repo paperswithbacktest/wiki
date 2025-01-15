@@ -180,7 +180,7 @@ For investors looking to incorporate these insights into their portfolio, divers
 To foster a more informed investment decision-making process, potential investors should engage in continuous research. Useful resources might include financial news platforms, investment analysis tools, and software that facilitates algorithmic trading. For those inclined towards algorithmic trading, developing a basic understanding of programming languages such as Python could be beneficial. Below is a simple example of a Python code to fetch historical stock data using Python's `yfinance` library:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Get historical market data for Johnson & Johnson (JNJ)
 ticker = 'JNJ'

@@ -100,7 +100,7 @@ Macy's, on the other hand, demonstrates a high ROE through a differentiated stra
 For algorithmic trading models, the success of Walmart and Macy's can serve as a benchmark. Algo trading can incorporate these insights by developing algorithms that identify retail stocks exhibiting similar operational efficiencies or strategic initiatives. For example, a Python-based algorithm could analyze trends in inventory turnover rates and digital integration efforts, comparing these metrics against historical data to predict stock performance.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Define function to calculate ROE

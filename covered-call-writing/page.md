@@ -117,7 +117,7 @@ Implementing covered call strategies through algorithmic trading requires meticu
 1. **Stock Selection Automation**: Identify a universe of stocks that align with the covered call strategy. This involves evaluating stocks based on criteria such as volatility, liquidity, and historical performance. The following Python snippet demonstrates filtering stocks based on volatility and volume:
 
     ```python
-    import yfinance as yf
+    import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
     def filter_stocks_by_volatility_and_volume(tickers, vol_threshold, volume_threshold):
         selected_stocks = []
         for ticker in tickers:

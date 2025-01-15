@@ -114,7 +114,7 @@ Combining ex-dividend investing with algorithmic trading offers a sophisticated 
 Algorithmic strategies are well-suited for accommodating the intricacies of ex-dividend investing. For instance, algorithms can be programmed to execute trades based on specific triggers, such as the announcement of an ex-dividend date. This ensures that trades are consistently made at optimal times. The integration of algorithmic trading can be exemplified with a simple Python script that such an investor might employ:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from datetime import datetime, timedelta
 
 # Define the stock symbol and date of interest

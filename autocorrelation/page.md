@@ -175,7 +175,7 @@ pip install numpy pandas matplotlib seaborn statsmodels
 Financial market data can be sourced from various APIs or downloaded from websites offering historical data. One popular API for obtaining financial data is provided by Yahoo Finance, which can be accessed through the `yfinance` library. Here’s how to fetch and prepare data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch historical data for a given stock

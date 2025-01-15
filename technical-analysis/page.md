@@ -87,7 +87,7 @@ The integration of these methods can be illustrated through a Python script to a
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import statsmodels.api as sm
 
 # Fetch historical data for a stock

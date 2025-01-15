@@ -74,7 +74,7 @@ Machine learning significantly elevates the predictive capabilities of algorithm
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical stock prices
 data = yf.download('AAPL', start='2020-01-01', end='2021-01-01')

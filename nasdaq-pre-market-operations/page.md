@@ -34,7 +34,7 @@ One clear advantage of algorithms in pre-market trading is their ability to hand
 For instance, consider an algorithm designed to trade based on a stock's price [momentum](/wiki/momentum). If a company releases positive earnings news, the algorithm can detect the ensuing upward price movement, execute a buy order swiftly, and potentially secure a position before the price peaks once the market opens. A Python example for a simple momentum-based algorithm might look like:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 def momentum_algo(stock_symbol, short_window=10, long_window=40):

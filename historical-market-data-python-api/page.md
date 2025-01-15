@@ -70,7 +70,7 @@ Here is a simple example of how Python can be used to analyze Sensex data:
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetching historical data for Sensex
 sensex_data = yf.download("^BSESN", start="2020-01-01", end="2023-01-01")
@@ -106,7 +106,7 @@ One of the notable features of Yahoo Finance is its provision of historical fina
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a specific stock
 ticker = "AAPL"
@@ -134,7 +134,7 @@ In another success story, an individual trader employed insights from Moneycontr
 Yahoo Finance also played a crucial role for a [hedge fund](/wiki/hedge-fund-trading-strategies) that specialized in options trading. The fund leveraged Yahoo Finance's comprehensive APIs to access vast datasets that included historical prices, options chains, and company financials. With this data, the hedge fund employed a delta-neutral strategy, which involved purchasing and selling options to hedge against the direction of the stock market. By using Python and Yahoo Finance APIs, the fund continuously adjusted its portfolio’s delta to remain neutral, thus minimizing exposure to market [volatility](/wiki/volatility-trading-strategies). Here's a simplified Python example that could represent a small part of this strategy:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetching options data
 stock_ticker = "AAPL"

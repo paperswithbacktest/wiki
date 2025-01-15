@@ -136,7 +136,7 @@ This code snippet demonstrates how traders can leverage pandas to calculate cash
 Automation and real-time data analysis also play pivotal roles in maintaining the relevancy and accuracy of trading algorithms under fluctuating market conditions. Automated systems can continuously retrieve and process new financial data, ensuring that trading models remain responsive to the latest market information. For instance, using APIs and libraries such as `yfinance` allows traders to automate the data retrieval process:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetching historical data for a specific stock
 stock_data = yf.download('AAPL', start='2023-01-01', end='2023-10-01')

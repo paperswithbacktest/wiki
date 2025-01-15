@@ -92,7 +92,7 @@ Algorithmic trading has dramatically shifted the landscape of trading strategies
 Algorithms employed in trading are designed to scan vast datasets, leveraging historical data and identifying trends that became pivotal in optimizing trades. These systems enable the continuous monitoring of market conditions, allowing for the swift identification of arbitrage opportunities that are fundamental to implementing a reverse conversion effectively. Consider the following Python pseudocode for a basic algorithm that might scan option markets for reverse conversion opportunities:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 def fetch_option_data(ticker, expiry):

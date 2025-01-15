@@ -117,7 +117,7 @@ Algorithmic trading can significantly enhance traditional investing strategies b
 Below is a simple example of a Python code that might be used to identify potentially undervalued stocks based on their P/E ratio:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def find_undervalued_stocks(stock_list, industry_avg_pe):
     undervalued_stocks = []

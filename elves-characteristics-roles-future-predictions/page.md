@@ -65,7 +65,7 @@ The efficiency of algo trading has led to its widespread adoption across various
 To illustrate, a basic Python script for algorithmic trading might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a stock
 stock_data = yf.download("AAPL", start="2023-01-01", end="2023-10-01")

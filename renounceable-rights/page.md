@@ -76,7 +76,7 @@ Algorithmic trading significantly impacts market dynamics by facilitating price 
 Moreover, algorithmic trading is capable of exploiting minute price discrepancies across different markets or securities, termed as [arbitrage](/wiki/arbitrage) opportunities. These small price movements, although individually minimal, can be aggregated to generate substantial profits. Python programs, for example, are often utilized to scan and react to these opportunities in real-time, showcasing the agility and adaptability of algorithmic trading:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def check_arbitrage():
     stock1 = yf.Ticker("AAPL")

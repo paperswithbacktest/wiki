@@ -122,7 +122,7 @@ Contrarian indicators and news headlines also provide valuable market insights. 
 Consider the following Python code snippet for monitoring inflation rates and predicting stock trend directions:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch data for a stock index

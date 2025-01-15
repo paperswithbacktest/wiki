@@ -73,7 +73,7 @@ Risk management plays a crucial role in the successful integration of contrarian
 To encapsulate the process of generating and executing contrarian trades within an algorithmic framework, a simple Python example of a mean reversion strategy might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 def mean_reversion_strategy(ticker, start, end, short_window, long_window):

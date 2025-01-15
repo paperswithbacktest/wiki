@@ -59,7 +59,7 @@ Python, a versatile language for algorithmic trading, provides libraries such as
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a real estate stock
 data = yf.download('RealEstateStock', start='2020-01-01', end='2023-01-01')

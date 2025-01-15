@@ -94,7 +94,7 @@ In exploring the intersection of share purchase rights and algorithmic trading s
 To capitalize on this opportunity, investors can utilize algorithmic trading strategies. An algorithm could be designed to automatically execute trades based on real-time market data and the attractive price gap between the discounted and market price. Here is a simplified example of how such an algorithmic strategy might look in Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def check_market_price(ticker):
     stock = yf.Ticker(ticker)

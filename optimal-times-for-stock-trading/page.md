@@ -113,7 +113,7 @@ Technical analysis can be performed using libraries such as Pandas and TA-Lib. H
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a stock
 data = yf.download('AAPL', start='2023-01-01', end='2023-10-01')

@@ -183,7 +183,7 @@ Balancing risk and reward is essential when employing covered calls and algorith
 Market conditions can change rapidly, necessitating continuous monitoring and adjustments to trading strategies. Algorithms should be dynamic, incorporating real-time data to adapt to market shifts. Re-evaluation of covered call positions should occur regularly, especially as expiration dates approach or if volatility decreases. Automated alerts and performance reports can assist in tracking strategy efficacy. For instance, using a Python script, investors can implement periodic checks on the implied volatility of options to adjust call strike prices accordingly:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def monitor_volatility(ticker):
     stock = yf.Ticker(ticker)

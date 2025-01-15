@@ -72,7 +72,7 @@ One effective strategy is utilizing hard money assets, such as gold and cryptocu
 Python can be used to design a simple algorithm for hedging based on inflation indicators:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch data for a hard money asset like gold

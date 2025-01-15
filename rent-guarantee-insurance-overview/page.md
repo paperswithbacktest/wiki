@@ -107,7 +107,7 @@ A diversified risk management portfolio offers several advantages:
 Python code can facilitate this integration. For instance, a simple algorithmic trading strategy might be written as follows:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Download historical data for REIT

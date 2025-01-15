@@ -112,7 +112,7 @@ $$
    To illustrate, consider the following Python code snippet that uses `yfinance`:
 
    ```python
-   import yfinance as yf
+   import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
    # Define the stock ticker
    ticker = "AAPL"

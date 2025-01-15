@@ -83,7 +83,7 @@ Consider a simple Python implementation for a momentum strategy targeting divide
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def fetch_data(ticker, start, end):
     return yf.download(ticker, start=start, end=end)

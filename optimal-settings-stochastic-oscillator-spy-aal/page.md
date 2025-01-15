@@ -65,7 +65,7 @@ In the context of AAL stock, traders utilize stochastic oscillator patterns to i
 Here is a simple example of how one might implement the stochastic oscillator in Python using the `pandas_ta` library:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas_ta as ta
 
 # Fetch historical data for SPY
@@ -94,7 +94,7 @@ Python is a widely-used language in algorithmic trading due to its versatility a
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas_ta as ta
 
 # Retrieve historical data for a stock
@@ -124,7 +124,7 @@ In addition to these oscillators, Fibonacci retracement levels help identify pot
 The use of multiple indicators ensures a more comprehensive view of the market, mitigating the risk of relying on a single source which might give misleading signals. Here’s a simplified Python code snippet demonstrating how these indicators can be implemented together in an analysis strategy using libraries such as `pandas_ta` and `matplotlib`:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas_ta as ta
 import matplotlib.pyplot as plt
 
@@ -179,7 +179,7 @@ Practically applying these strategies can be further explored through algorithmi
 
 Python Example:
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 import pandas_ta as ta
 

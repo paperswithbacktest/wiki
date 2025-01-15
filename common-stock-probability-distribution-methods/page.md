@@ -135,7 +135,7 @@ In implementing [algorithmic trading](/wiki/algorithmic-trading) strategies, tra
 Here is an example of how Python can be utilized to retrieve stock data and apply a normal distribution model:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 from scipy.stats import norm
 import matplotlib.pyplot as plt
@@ -180,7 +180,7 @@ Calculating the probability distribution of stock returns involves several key s
 To calculate stock return distributions, you first need to collect historical stock price data. Python's `yfinance` library is a convenient tool for downloading this data.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the stock symbol and time period
 stock_symbol = 'AAPL'

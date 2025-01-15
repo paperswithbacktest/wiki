@@ -187,7 +187,7 @@ The long-short strategy in algorithmic trading is often surrounded by several my
 The perception that long-short strategies necessitate complex models can also deter potential users. While advanced models leveraging machine learning and extensive data analytics can enhance strategy efficiency, basic versions of long-short strategies can be implemented using simple criteria such as moving averages or fundamental analyses like the price-to-earnings ratio. For instance, a straightforward algorithm might involve buying stocks with a price-to-earnings ratio below a certain threshold while shorting those above another threshold, as shown in the Python code snippet below:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define criteria
 pe_low = 15

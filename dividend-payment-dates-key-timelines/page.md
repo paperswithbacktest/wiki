@@ -111,7 +111,7 @@ $$
 Python, a popular language used in algorithmic trading, allows for the development of flexible and sophisticated algorithms. A simplistic example of a dividend capture strategy algorithm may involve setting up a trigger for stocks with upcoming ex-dividend dates:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from datetime import datetime, timedelta
 
 # Define the lookahead period for ex-dividend dates

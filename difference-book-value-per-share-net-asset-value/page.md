@@ -70,7 +70,7 @@ Once the P/B ratio is integrated within an algorithmic framework, the strategy c
 Here is an example of how Python can be employed to build a basic algorithm incorporating book value:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def calculate_pb_ratio(ticker):
     stock = yf.Ticker(ticker)

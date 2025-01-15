@@ -140,7 +140,7 @@ The rationale behind these strategies is rooted in the expectation that market p
 Automated trading systems can be programmed to continuously monitor the BVPS and compare it with real-time market data. Here is a simplistic example of how this can be implemented in Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def fetch_data(ticker):
     stock = yf.Ticker(ticker)

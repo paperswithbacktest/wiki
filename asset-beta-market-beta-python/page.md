@@ -118,7 +118,7 @@ Python is a powerful tool for conducting statistical calculations, including bet
 ```python
 import pandas as pd
 import numpy as np
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import statsmodels.api as sm
 
 # Fetching historical data from Yahoo Finance
@@ -164,7 +164,7 @@ Here is a sample Python code to calculate beta using the numpy, pandas, and stat
 import numpy as np
 import pandas as pd
 import statsmodels.api as sm
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetching historical data for the stock and the benchmark index
 stock_data = yf.download('GOOGL', start='2020-01-01', end='2022-01-01')

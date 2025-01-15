@@ -218,7 +218,7 @@ In this case study, we demonstrate how to create a simple neural network trading
 To begin, we gather historical price data for a selected asset. This data is usually obtained from financial data providers or public APIs. In this example, we use the popular `yfinance` library in Python to download historical price data for a stock, such as Apple Inc. (AAPL).
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Download historical data for Apple

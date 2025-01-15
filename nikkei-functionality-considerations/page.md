@@ -35,7 +35,7 @@ Below is a simple Python example using a moving average crossover strategy, whic
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Downloading historical data
 data = yf.download('^N225', start='2020-01-01', end='2023-01-01')

@@ -102,7 +102,7 @@ The core advantage of using algorithms in financial analysis is the ability to c
 ```python
 import pandas as pd
 from datetime import datetime
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Criteria: ROE > 15%, P/E < 20
 def fetch_financial_data(ticker):

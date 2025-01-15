@@ -78,7 +78,7 @@ Despite these challenges, when implemented correctly, algorithmic trading can su
 Algorithms in Python, a popular choice for many quantitative analysts, showcase the simplicity and flexibility needed for developing trading strategies. For instance, a basic Python snippet to identify dividend capture opportunities might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define your stock and download historical data
 ticker = 'AAPL'

@@ -105,7 +105,7 @@ Implementing this integrated approach necessitates systems capable of processing
 To implement a basic strategy using dividends, traders can use Python to analyze and respond to dividend announcements. The script below demonstrates how dividends can be factored into a trading decision:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def fetch_dividends(symbol):
     stock = yf.Ticker(symbol)

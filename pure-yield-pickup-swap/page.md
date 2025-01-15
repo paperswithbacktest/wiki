@@ -65,7 +65,7 @@ import pandas as pd
 import datetime as dt
 
 from pandas_datareader import data as pdr
-import yfinance as yfin
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasetsin
 yfin.pdr_override()
 
 # Parameters

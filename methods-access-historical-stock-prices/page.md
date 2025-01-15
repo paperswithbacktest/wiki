@@ -40,7 +40,7 @@ Technology plays an increasingly crucial role in capturing and maintaining finan
 To further illustrate with Python, consider the process of retrieving stock price data from a credible source using a tool such as the Yahoo Finance API, which provides access to historical price data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a specific stock
 stock = yf.Ticker("AAPL")

@@ -103,7 +103,7 @@ Algorithmic trading's precise nature lends itself well to inflation-related inve
 An example of a simple algorithm in Python might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch data for CPI (an inflation indicator)
 cpi_data = yf.download('^CPI', start='2020-01-01', end='2023-01-01')

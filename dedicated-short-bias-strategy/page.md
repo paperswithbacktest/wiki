@@ -76,7 +76,7 @@ Pairs trading is an arbitrage strategy that involves identifying two correlated 
 Technical analysis is integral to timing short sell positions. One prominent tool used is the Relative Strength Index (RSI), an oscillator that measures the speed and change of price movements. RSI values above 70 often indicate an overbought condition, while values below 30 suggest an oversold scenario. These indicators help traders anticipate potential reversal points, allowing for more precise short selling decisions. For example, a trader might employ a Python script to track RSI values and execute trades when specific thresholds are exceeded:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 def calculate_rsi(data, period=14):

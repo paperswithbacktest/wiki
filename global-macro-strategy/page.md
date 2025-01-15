@@ -29,7 +29,7 @@ One prevalent algorithm within the macro strategies domain involves employing Mo
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 ## Fetching historical data
 data = yf.download('AAPL', start='2020-01-01', end='2021-01-01')

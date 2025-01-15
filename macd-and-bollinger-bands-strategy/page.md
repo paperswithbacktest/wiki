@@ -239,7 +239,7 @@ def calculate_macd(data, short_window=12, long_window=26, signal_window=9):
 Python libraries such as `pandas` for data manipulation and APIs like `yfinance` or brokerage APIs can be used to fetch historical and real-time market data. For example, using `yfinance`:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 data = yf.download('AAPL', start='2022-01-01', end='2022-12-31')
 ```

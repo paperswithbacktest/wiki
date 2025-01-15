@@ -72,7 +72,7 @@ Algorithmic trading systems can effectively utilize WAVE XXL derivatives by inte
 To implement such a strategy in Python, a simple pseudo-code example might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from datetime import datetime
 import numpy as np
 

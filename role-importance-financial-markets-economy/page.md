@@ -141,7 +141,7 @@ Algorithmic trading is evolving rapidly due to advancements in artificial intell
 # Example of a simple moving average crossover strategy using a Python library
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a particular stock
 data = yf.download('AAPL', start='2020-01-01', end='2023-01-01')

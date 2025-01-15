@@ -70,7 +70,7 @@ Python code can be employed for building such a trading algorithm, utilizing lib
 ```python
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Example: Fetching news and analyzing sentiment
 def fetch_news_and_trade(ticker):

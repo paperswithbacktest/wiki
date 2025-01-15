@@ -62,7 +62,7 @@ Stock screeners are increasingly vital tools for investors seeking to diversify 
 For example, a Python script using popular libraries like `pandas` and `yfinance` can automate the process of retrieving and analyzing stock data. Here is a simple script illustrating how to use a stock screener:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Define a list of stock tickers

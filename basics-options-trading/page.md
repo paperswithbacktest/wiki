@@ -96,7 +96,7 @@ The Long Straddle strategy utilizes market volatility by purchasing both a call 
 Here's a practical example of implementing a Long Straddle strategy using Python and a trading library such as `yfinance`:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetching the options data for a given stock
 stock = 'AAPL'

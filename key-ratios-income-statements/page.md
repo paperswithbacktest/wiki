@@ -154,7 +154,7 @@ Similarly, the current ratio, a liquidity measure, evaluates a company's ability
 To effectively utilize these ratios in [algorithmic trading](/wiki/algorithmic-trading) models, one must transform qualitative assessments into quantifiable algorithms. For example, traders can write Python code to automate trading decisions based on specific ratio thresholds:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch data using yFinance
 stocks = ['AAPL', 'GOOGL', 'MSFT']  # Example stock tickers
@@ -199,7 +199,7 @@ Tesla, known for its innovation in the automotive industry, heavily leans on rat
 To demonstrate the practical application of financial ratios in trading decisions, consider a simple Python script that analyzes a company's P/E ratio to identify potential investment opportunities. The following Python code can be used to retrieve and analyze P/E ratios:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the target company, e.g., Tesla
 company = "TSLA"

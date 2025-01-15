@@ -34,7 +34,7 @@ ChatGPT also provides traders with real-time insights and personalized recommend
 Moreover, traders can leverage ChatGPT to automate specific parts of their trading process through script generation. ChatGPT-enabled scripts can be employed to execute trades automatically based on predefined criteria, increasing the efficiency and precision of trading operations. For example, a trader may utilize a Python script powered by ChatGPT to monitor certain stock price thresholds and execute trades when these conditions are met. Here is a simple Python code snippet illustrating how a trader might automate a buy action when certain price criteria are met:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def check_price_and_buy(stock_symbol, target_price):
     stock_data = yf.Ticker(stock_symbol)

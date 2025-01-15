@@ -50,7 +50,7 @@ Integrating third-party solutions is a significant advantage in algorithmic trad
 For instance, Python, a popular programming language in finance due to its comprehensive libraries for data analysis and manipulation, is frequently used to develop and test algorithmic trading strategies. Below is a simple example of a Python code snippet using a third-party data service to retrieve and analyze stock price data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Retrieve data for a specific stock

@@ -88,7 +88,7 @@ Below is a basic Python simulation outline that could be utilized for backtestin
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch SPY ETF data
 data = yf.download('SPY', start='2010-01-01', end='2023-10-01')
@@ -165,7 +165,7 @@ Selecting an appropriate trading platform is crucial. Platforms such as Amibroke
 Automation plays a vital role in minimizing human error and ensuring timely trade execution. By scripting the strategy, traders can automate market scanning, entry, and exit points, ensuring that trades are executed based on predetermined conditions without manual intervention. For example, a simple Python script might look as follows:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 from datetime import datetime
 

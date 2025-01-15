@@ -63,7 +63,7 @@ Excel serves as a pivotal tool for automating the retrieval and analysis of EPS 
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data
 ticker = 'AAPL'

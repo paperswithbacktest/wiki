@@ -153,7 +153,7 @@ Algorithmic trading can enhance dividend strategies through automation and data-
 Example in Python:
 ```python
 # Example algorithm selecting stocks with high dividend yields
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 def screen_high_yield_stocks(tickers, yield_threshold):

@@ -123,7 +123,7 @@ Traditional investment strategies often emphasize diversification, which reduces
 Algorithmic trading, for example, leverages data-driven insights and executes trades at speeds unachievable by humans. This technology allows for real-time adjustments to investment portfolios, which is invaluable in volatile markets. An algorithm can be programmed to execute buy or sell orders based on predefined conditions, such as price thresholds or technical indicators. A Python implementation could look like:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Example of a moving average crossover strategy using yFinance
 ticker = 'AAPL'

@@ -70,7 +70,7 @@ Algorithmic trading plays a critical role in maintaining market liquidity by ena
 Here is a simple Python example of how an algorithm might be structured to execute a basic trading strategy:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch historical data

@@ -72,7 +72,7 @@ Python, a widely-used programming language in algorithmic trading due to its sim
 ```python
 import pandas as pd
 import numpy as np
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a given stock
 data = yf.download('AAPL', start='2022-01-01', end='2023-01-01')

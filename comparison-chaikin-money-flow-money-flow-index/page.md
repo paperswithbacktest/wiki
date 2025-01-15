@@ -596,7 +596,7 @@ import numpy as np
 import talib as ta
 
 # Importing financial data using yfinance module
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from datetime import datetime
 
 def get_symbol_ohlcv(symbol, start, end=None):

@@ -103,7 +103,7 @@ In addition, [machine learning](/wiki/machine-learning) techniques are progressi
 Below is a basic example of a mean-reversion strategy implemented in Python using a simplistic approach:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch historical data for a stock

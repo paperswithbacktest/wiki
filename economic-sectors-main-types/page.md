@@ -56,7 +56,7 @@ Different economic sectors exhibit varying attributes such as [volatility](/wiki
 Here is an example of how an algorithm might be structured to focus on the tech sector using Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 def tech_sector_trading_strategy(stock_symbols, start_date, end_date):

@@ -137,7 +137,7 @@ The Moving Average Convergence Divergence (MACD) indicator is widely used by tra
    ```python
    import pandas as pd
    import talib
-   import yfinance as yf
+   import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
    # Download historical data
    df = yf.download('AAPL', start='2020-01-01', end='2022-01-01')

@@ -81,7 +81,7 @@ The implementation of momentum strategies has yielded appreciable results in var
 To illustrate a simplistic implementation of momentum-based sector rotation in Python, consider the following example which utilizes the `pandas` and `yfinance` libraries (ensure they are installed in your Python environment):
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 ## Define the sectors using representative ETFs

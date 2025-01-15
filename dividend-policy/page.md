@@ -90,7 +90,7 @@ A notable advantage of using algorithmic trading in dividend strategies is the i
 For example, consider a Python-based algorithm designed to implement a simple dividend capture strategy:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import datetime
 import numpy as np
 

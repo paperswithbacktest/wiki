@@ -92,7 +92,7 @@ Share repurchases, or buybacks, can influence a company's stock price by reducin
 Advanced algorithms may utilize natural language processing (NLP) to analyze corporate communications or scheduled filings to predict or confirm buyback actions. For example, analyzing quarterly reports or press releases could reveal management's intentions regarding share repurchases, providing a basis for anticipatory trading strategies.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def detect_buyback_patterns(ticker):
     stock = yf.Ticker(ticker)

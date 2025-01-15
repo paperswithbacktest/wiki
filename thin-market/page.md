@@ -56,7 +56,7 @@ In terms of enhancing market liquidity, algorithmic trading plays a pivotal role
 Here is a simplified example of a basic trading algorithm using Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def simple_moving_average(asset, period=20):
     data = yf.download(asset, period='30d', interval='1d')

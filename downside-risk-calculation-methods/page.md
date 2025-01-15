@@ -90,7 +90,7 @@ A notable case study highlighting the successful use of algorithmic trading in m
 To implement these strategies programmatically, traders often use languages such as Python due to its extensive libraries for data analysis and its ease of integrating with various trading platforms. Here's a simplified example of how one might use Python to implement a basic strategy involving stop-loss orders:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a given stock
 data = yf.download('AAPL', start='2022-01-01', end='2023-01-01')

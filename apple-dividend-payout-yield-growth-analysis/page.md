@@ -93,7 +93,7 @@ For those interested in a quantitative approach, algorithmic trading can offer a
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch stock data
 tickers = ['AAPL', 'MSFT', 'GOOGL']

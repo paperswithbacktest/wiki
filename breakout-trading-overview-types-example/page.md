@@ -56,7 +56,7 @@ Algorithms improve the efficiency of breakout trading by continuously monitoring
 For instance, traders can employ algorithms to automate breakout strategies by setting parameters such as price levels that signify a breakout, alongside volume thresholds that confirm the movement. Python, a popular language among quantitative traders, can be used to develop these algorithms. Below is an example of a simple Python script that monitors stock prices and executes a buy order once a specified breakout level is surpassed:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def breakout_trade(stock_symbol, breakout_level, volume_threshold):
     data = yf.download(stock_symbol, period='1d', interval='1m')

@@ -126,7 +126,7 @@ Practical tips for staying informed include:
 Using Python, one can automate certain analytical processes. For instance, the `yfinance` library allows retrieval of historical market data to analyze stock trends:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Retrieve historical data for a specific asset
 stock = yf.Ticker("AAPL")

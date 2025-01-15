@@ -161,7 +161,7 @@ Understanding correlations between stocks is essential for effective portfolio d
 To analyze stock price correlations, we first need to gather historical stock price data. This can typically be obtained from financial data APIs such as **Yahoo Finance** or **Alpha Vantage**. For illustration purposes, we will use the `yfinance` library, a Python package that simplifies data retrieval from Yahoo Finance.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Define the stock symbols to analyze

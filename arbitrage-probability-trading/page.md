@@ -79,7 +79,7 @@ Moreover, automated trading minimizes the emotional bias often present in human 
 A simplified Python example of an algorithmic trading strategy could be:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def check_arbitrage_opportunity():
     stock_a = yf.Ticker("AAPL")

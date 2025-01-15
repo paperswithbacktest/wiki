@@ -126,7 +126,7 @@ For algorithm-based stock selection, speed and accuracy are paramount. Algorithm
 Here is a basic example of a P/E ratio-based algorithmic trading strategy using Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 def fetch_stock_data(ticker):

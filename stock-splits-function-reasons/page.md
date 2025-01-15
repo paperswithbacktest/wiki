@@ -44,7 +44,7 @@ Additionally, technical analysis and historical performance can provide insights
 ```python
 import pandas as pd
 import numpy as np
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical stock data for a company
 def fetch_stock_data(ticker, start, end):

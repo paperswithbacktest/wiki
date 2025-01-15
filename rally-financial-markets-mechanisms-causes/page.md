@@ -47,7 +47,7 @@ Moving averages, particularly the simple moving average (SMA) and exponential mo
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import matplotlib.pyplot as plt
 
 # Fetch stock data

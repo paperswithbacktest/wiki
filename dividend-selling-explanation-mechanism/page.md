@@ -104,7 +104,7 @@ For instance, a basic Python script can be designed to track moving averages or 
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch data for a given stock
 data = yf.download('AAPL', start='2020-01-01', end='2023-01-01')

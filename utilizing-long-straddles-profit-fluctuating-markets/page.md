@@ -161,7 +161,7 @@ Algorithms systematically scan financial markets, leveraging statistical models 
 Consider a Python-based example where a simple algorithm identifies potential long straddle scenarios. This script uses historical volatility data and real-time news sentiment analysis:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 from nlp_module import analyze_news_sentiment  # Hypothetical module
 

@@ -101,7 +101,7 @@ In the complex landscape of algorithmic trading, a strategic approach to Ba1/BB+
 Traders utilizing algorithmic systems focus on responsiveness to market fluctuations, which is crucial when dealing with Ba1/BB+ rated investments. For instance, during periods of economic uncertainty, the creditworthiness of issuers with Ba1/BB+ ratings can fluctuate, impacting bond prices and yields. Algorithmic strategies enable traders to rapidly adjust their portfolios based on these shifts. A hypothetical Python-based strategy might involve real-time monitoring of credit rating updates and bond price movements:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch data
 bond_data = yf.download('JNK', period='1y')

@@ -96,7 +96,7 @@ Here is a simple Python example of how these indicators can be implemented for b
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import talib
 
 # Fetch historical data for a non-dividend stock
@@ -143,7 +143,7 @@ Analyzing performance data from these companies illustrates the capacity of non-
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data
 stock_data = yf.download('AMZN', start='2020-01-01', end='2023-01-01')

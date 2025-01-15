@@ -125,7 +125,7 @@ The use of algorithms in dividend strategies is exemplified by certain quantitat
 For instance, consider a [hedge fund](/wiki/hedge-fund-trading-strategies) utilizing an algorithm that analyzes patterns in dividend announcements. The fund may employ a Python-based trading model that captures market data, processes it to identify undervalued opportunities before and after dividend dates, and automatically executes trades. A simple example of such an algorithm could be:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def dividend_capture_strategy(ticker, ex_dividend_date):
     stock = yf.Ticker(ticker)

@@ -127,7 +127,7 @@ In financial trading, algorithmic trading firms focus on minimizing direct tradi
 For example, algorithmic trading scripts written in Python can automate the process of calculating transaction costs by retrieving market data and executing trades based on predefined criteria. Here is a simplified example of a Python script that estimates trading costs:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the stock and period for analysis
 stock = 'AAPL'

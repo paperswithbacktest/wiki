@@ -88,7 +88,7 @@ Algorithmic trading can be integrated with investments that have dividend prefer
 These algorithms might incorporate dividend payout dates and historical trends to optimize entry and exit points. By adjusting the algorithm's focus to include dividends, traders can enhance their portfolio’s income-generating potential. A sample Python code for selecting stocks based on their dividend yields and executing trades might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def select_dividend_stocks(tickers, threshold):
     selected_stocks = []
@@ -146,7 +146,7 @@ Algorithmic trading strategies often revolve around quantifiable patterns and hi
 Here is a basic Python pseudocode algorithm for screening dividend stocks:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 def get_dividend_stocks(tickers):

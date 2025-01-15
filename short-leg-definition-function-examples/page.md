@@ -105,7 +105,7 @@ Moreover, automated trading systems provide real-time updates on key pricing det
 In addition, automation can incorporate risk management protocols that monitor market [volatility](/wiki/volatility-trading-strategies) and automatically adjust positions to mitigate potential risks. For example, a Python script can be used to modify or close positions based on predefined thresholds:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the asset and thresholds
 ticker = 'AAPL'

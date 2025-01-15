@@ -101,7 +101,7 @@ In this code snippet, `spread` is the difference between the prices of two coint
 Efficiently identifying tradable pairs is pivotal to pairs trading, and this involves discerning assets that demonstrate statistical convergence, traditionally assessed through correlation and cointegration. Employ tools such as the Augmented Dickey-Fuller (ADF) test or Johansen test to affirm statistical significance in the cointegration between pairs. For preliminary sieving, you can use Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 from statsmodels.tsa.stattools import adfuller
 from statsmodels.tsa.vector_ar.vecm import coint_johansen

@@ -28,7 +28,7 @@ Yfinance enables traders to gather data across various asset classes, encompassi
 The library operates by allowing users to specify the financial instruments and timeframes they are interested in, retrieving the data accordingly. The following Python code example demonstrates how to use yfinance to download historical price data for a specific stock:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the ticker symbol
 ticker_symbol = 'AAPL'
@@ -51,7 +51,7 @@ Yfinance offers several features that make it particularly valuable for algorith
 1. **Historical Market Data**: One of the most fundamental aspects of algorithmic trading is the ability to backtest strategies against historical market data. Yfinance enables users to download historical price data at daily, weekly, and monthly intervals. This extensive range of data allows traders to simulate how their strategies would have performed in past market conditions, aiding in refining and optimizing trading algorithms. This data can be accessed using the `yf.download()` function, where users can specify the ticker, start and end dates, and the interval of the data required.
 
     ```python
-    import yfinance as yf
+    import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
     # Example of downloading historical data
     data = yf.download("AAPL", start="2020-01-01", end="2021-01-01", interval="1d")
@@ -112,7 +112,7 @@ pip install yfinance
 Once yfinance is installed, the next step is to utilize its functions for data retrieval. The `yf.download()` function is commonly used to obtain historical market data, which is critical for the development and backtesting of trading algorithms. An example of using `yf.download()` to fetch historical data for a specific stock is shown below:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a given ticker
 data = yf.download('AAPL', start='2020-01-01', end='2023-10-01', interval='1d')
@@ -185,7 +185,7 @@ While yfinance is a powerful tool for extracting financial data, effective utili
 A critical first step is ensuring the integrity of the data acquired. Data preprocessing involves cleansing the downloaded information and checking for anomalies. This is vital for accurate predictions in modeling and algorithmic trading. Anomalies can include missing values, outliers, or incorrect data entries, which can be detected using statistical methods such as standard deviation checks or visual inspections like plotting.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Example of downloading data

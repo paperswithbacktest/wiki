@@ -78,7 +78,7 @@ Practical guides in algorithmic trading serve as a bridge between theoretical un
 These practical books often begin with code examples that are essential for building trading algorithms. For instance, Python is widely favored due to its extensive libraries and simplicity in syntax. It enables the development of algorithms that can efficiently analyze large data sets. Below is a simple Python snippet that demonstrates how to fetch stock price data using the `yfinance` package:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical market data for Apple
 data = yf.download('AAPL', start='2022-01-01', end='2022-12-31')

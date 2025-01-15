@@ -98,7 +98,7 @@ Algorithmic trading works by employing a set of predetermined criteria to make t
 ```python
 # Example of a simple moving average crossover algorithm in Python
 
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch historical data for stock

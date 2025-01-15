@@ -44,7 +44,7 @@ Algorithmic trading leverages computer algorithms to execute trades based on pre
 One viable algorithmic strategy for Dividend Aristocrats is dividend yield optimization. This approach focuses on maximizing the yield from dividend payments relative to the stock price. Algorithms can be designed to scan the market for optimal buying opportunities based on historical yield data and set thresholds. For example, a simple Python script could be employed to monitor dividend yield fluctuations and automate transactions when a stock's yield surpasses a pre-set target:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def monitor_dividend_yield(ticker, target_yield):
     stock = yf.Ticker(ticker)

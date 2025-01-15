@@ -60,7 +60,7 @@ By integrating PTBV into trading algorithms, traders can enhance their strategie
 Incorporating PTBV into an algorithm involves programming the system to monitor market data in real-time and compare PTBV ratios across different companies and industries. A basic approach in Python could involve fetching data from financial databases, calculating PTBV ratios, and flagging stocks that meet specific criteria for target PTBV levels, indicating potential mispricing. Here's a simple example of how this might be implemented:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def calculate_ptbv(ticker):
     stock = yf.Ticker(ticker)

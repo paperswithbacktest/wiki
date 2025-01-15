@@ -34,7 +34,7 @@ One of the enticing aspects of using Yahoo Finance for algorithmic trading is th
 Additionally, the convenience of the Yahoo Finance API plays a significant role in its appeal for quick data retrieval. Although the official API was discontinued in 2017, unofficial alternatives, such as the `yfinance` Python library, have filled the gap, offering seamless access to Yahoo Finance data. By using the `yfinance` library, traders can effortlessly fetch financial data with minimal programming knowledge. Here is a brief example of how to use `yfinance` in Python to retrieve historical stock data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a specific ticker
 ticker = "AAPL"
@@ -103,7 +103,7 @@ The `yfinance` library is a popular Python module that acts as a wrapper around 
 2. **Retrieve Historical Data:** Use yfinance to download historical data easily:
 
    ```python
-   import yfinance as yf
+   import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
    # Download historical data for Apple (AAPL)
    aapl = yf.Ticker("AAPL")
@@ -160,7 +160,7 @@ Yahoo Finance provides access to a broad array of financial indicators such as m
 Python, a popular language for algorithmic trading, offers libraries such as `pandas` and `numpy` to facilitate data manipulation and analysis. The following Python snippet demonstrates how to calculate a 50-day and 200-day SMA using Yahoo Finance data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data
 data = yf.download('AAPL', start='2022-01-01', end='2023-01-01')

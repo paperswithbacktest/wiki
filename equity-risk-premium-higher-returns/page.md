@@ -110,7 +110,7 @@ A key component of this integration involves using live data feeds to update the
 To illustrate, consider a simplified Python script that calculates the equity risk premium using real-time market data. This example assumes access to a data stream providing the current market return and the risk-free rate.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def calculate_equity_risk_premium(market_return, risk_free_rate):
     return market_return - risk_free_rate

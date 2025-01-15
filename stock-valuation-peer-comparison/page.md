@@ -181,7 +181,7 @@ Investors should aim for a balanced approach that mitigates risks while enhancin
 An illustrative example would be an investor employing a Python script to automate initial stock screening based on set criteria, such as low P/E ratios and high free cash flow yields. Below is a simplistic representation of such an approach:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # List of stock symbols for analysis
 symbols = ["AAPL", "MSFT", "GOOGL"]

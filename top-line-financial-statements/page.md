@@ -88,7 +88,7 @@ Financial metrics are not only about historical assessment but also play a pivot
 For example, a Python script might pull real-time financial data and compute financial ratios to trigger buy/sell indicators based on pre-set thresholds:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Get data on a stock
 data = yf.download('AAPL', start='2022-01-01', end='2023-01-01')

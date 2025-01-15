@@ -60,7 +60,7 @@ For instance, consider a simple Python script implementing the "mean reversion" 
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch ETF data
 etf = yf.Ticker("SPY")

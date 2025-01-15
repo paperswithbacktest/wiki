@@ -117,7 +117,7 @@ Looking ahead, ICE is expected to continue its critical role in the landscape of
 - For those interested in the statistical analysis of trading data, the Python library `pandas` can be instrumental in organizing and analyzing time series data. Here's a simple Python snippet to fetch and analyze Brent Crude historical prices using the `yfinance` library:
 
   ```python
-  import yfinance as yf
+  import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
   import pandas as pd
   import matplotlib.pyplot as plt
 

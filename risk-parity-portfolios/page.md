@@ -87,7 +87,7 @@ Risk parity portfolios can be constructed and managed effectively using Python, 
 To create a risk parity portfolio, the first step involves obtaining historical financial data. The `yfinance` library enables retrieving data from Yahoo Finance, while `pandas` facilitates data manipulation and analysis.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Retrieve historical data for a list of tickers

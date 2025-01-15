@@ -198,7 +198,7 @@ Calculating total return for a stock portfolio using Python provides a practical
 First, gather historical price data and dividend information for the stocks in the portfolio. This data can typically be acquired from financial data providers such as Yahoo Finance, which allows for easy data extraction using Python libraries like `yfinance`.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the stock ticker and download historical data
 ticker = 'AAPL'

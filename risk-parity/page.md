@@ -113,7 +113,7 @@ Python serves as an effective tool for implementing risk parity strategies, main
 The process begins with obtaining historical data for the assets in the portfolio. This data typically includes prices, yields, or returns, which can be accessed through financial data providers or APIs like Alpha Vantage or Yahoo Finance. Below is an example of how to fetch data using the `yfinance` library:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 tickers = ['AAPL', 'MSFT', 'GOOGL']
 data = yf.download(tickers, start='2020-01-01', end='2023-01-01')['Adj Close']
 ```

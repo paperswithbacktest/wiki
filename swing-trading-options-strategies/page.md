@@ -152,7 +152,7 @@ Developing an algorithm-based swing trading strategy with options involves a str
 2. **Data Collection**: Gather historical price data and options chain data. Python's `yfinance` or `pandas_datareader` can be useful for this task.
 
    ```python
-   import yfinance as yf
+   import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
    data = yf.download('AAPL', start='2020-01-01', end='2021-01-01')
    ```
 

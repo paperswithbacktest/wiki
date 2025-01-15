@@ -60,7 +60,7 @@ Investors utilize these historical returns to develop and refine their portfolio
 Python can be used to aid in these calculations. For example, investors can programmatically assess historical index data to calculate average returns:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Download historical data for S&P 500

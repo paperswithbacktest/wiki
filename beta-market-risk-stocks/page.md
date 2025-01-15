@@ -75,7 +75,7 @@ Moreover, this approach allows trading systems to quickly adapt to market fluctu
 Below is a basic illustration of how Python can be used to integrate beta into an algorithmic trading strategy. This simple example focuses on adjusting position size based on beta:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 from statsmodels.api import OLS
 

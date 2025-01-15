@@ -246,7 +246,7 @@ Choose a data provider that offers historical and real-time data, such as Yahoo 
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 data = yf.download('AAPL', start='2021-01-01', end='2022-01-01')
 ```

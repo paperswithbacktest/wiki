@@ -100,7 +100,7 @@ A practical application involves combining VADER sentiment analysis with a Simpl
 2. **SMA Calculation**: Compute the Simple Moving Average for the stock using a chosen period (e.g., 50-day or 200-day SMA).
 
    ```python
-   import yfinance as yf
+   import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
    import pandas as pd
 
    # Fetch historical stock data
@@ -139,7 +139,7 @@ Our case study demonstrates the integration of VADER sentiment analysis with a S
 Firstly, we gather historical stock price data using Python libraries such as `yfinance` or `pandas_datareader`. This involves retrieving daily closing prices for a selected stock, which forms the basis for our SMA calculations. The SMA is a widely used technical indicator that smooths price data by creating an average price over a specified time frame. We implement the SMA as follows in Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Download historical stock data

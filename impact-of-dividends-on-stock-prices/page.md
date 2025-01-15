@@ -81,7 +81,7 @@ The automation inherent in [algorithmic trading](/wiki/algorithmic-trading) also
 Consider an example of a simple dividend capture algorithm:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Define the symbol and period for the stock data

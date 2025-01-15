@@ -42,7 +42,7 @@ Despite its advantages, algorithmic trading entails specific risks. The absence 
 In terms of development, crafting an efficient trading algorithm requires a deep understanding of financial markets and strong programming skills. Here's a basic illustration using Python, which can serve as a foundation for an algorithmic trading strategy:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Download historical data for the chosen financial instrument

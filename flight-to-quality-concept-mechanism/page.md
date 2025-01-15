@@ -90,7 +90,7 @@ Integrating a flight to quality approach into an investment strategy is vital fo
 Algorithmic trading significantly enhances the execution of a flight to quality strategy. By employing algorithms, investors can swiftly and precisely execute trades, reducing latency and minimizing the influence of human emotion. These automated systems can identify market trends and execute orders rapidly, ensuring that investors capitalize on opportune moments for shifting asset allocations. A basic Python snippet for an algorithmic trade execution might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def execute_trade(symbol, target_price):
     data = yf.download(symbol, period="1d")

@@ -77,7 +77,7 @@ The integration process involves selecting mutual funds that align with clients'
 Python, as a powerful tool for algorithmic trading, allows financial advisors to create scripts for [backtesting](/wiki/backtesting) strategies and automating trades. Below is a simple Python code snippet demonstrating how an advisor might use a moving average crossover strategy in conjunction with mutual fund investments:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch historical data for a mutual fund

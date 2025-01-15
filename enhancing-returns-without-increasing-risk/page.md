@@ -169,7 +169,7 @@ A simple Python script to calculate the volatility of a portfolio and monitor le
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Function to compute portfolio volatility
 def compute_volatility(prices):

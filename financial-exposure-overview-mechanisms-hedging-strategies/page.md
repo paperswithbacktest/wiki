@@ -76,7 +76,7 @@ By automating hedging strategies, algorithmic trading ensures consistent applica
 Consider a Python script for a basic algorithmic hedging strategy, where an algorithm monitors asset prices and executes trades to hedge a particular financial exposure when a price threshold is breached:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the asset to be monitored
 asset = 'AAPL'

@@ -138,7 +138,7 @@ Cutting-edge computational resources are equally critical, as they provide the n
 Proficiency in programming is indispensable for designing and maintaining effective trading algorithms. Languages like Python, C++, and Java are commonly used due to their ability to handle large data volumes and offer extensive libraries for statistical analysis and [machine learning](/wiki/machine-learning). Here's a simple Python code snippet illustrating a basic framework for live data acquisition using a popular library:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a specific ticker
 ticker = yf.Ticker("AAPL")

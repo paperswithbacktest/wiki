@@ -83,7 +83,7 @@ Case studies from high-frequency trading ([HFT](/wiki/high-frequency-trading-str
 A practical example can be illustrated with algorithmic strategies in options markets. Consider a Python script that triggers buy/sell orders based on a comparison between the option's current market price and its projected settlement price:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch option data
 data = yf.Ticker("AAPL").option_chain("2023-12-15")

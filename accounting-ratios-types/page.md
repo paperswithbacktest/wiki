@@ -159,7 +159,7 @@ In algorithmic trading, financial ratios serve as essential inputs in model deve
 Consider a scenario where an algorithm uses Python to make trading decisions based on financial ratios. Here is a simplified code snippet demonstrating how an algorithm might leverage the Price to Earnings (P/E) ratio:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def get_pe_ratio(ticker):
     stock = yf.Ticker(ticker)

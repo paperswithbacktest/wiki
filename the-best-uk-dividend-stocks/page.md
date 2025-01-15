@@ -72,7 +72,7 @@ A higher dividend yield implies that a company is returning a significant portio
 Algorithms play a crucial role in automating the investment process. They can be programmed to monitor changes in dividend yields, company announcements, and indicators of financial health such as EBITDA (earnings before interest, taxes, depreciation, and amortization) and cash flow. Here is an example of a simple Python script snippet that could be used to select stocks with a dividend yield above a certain threshold:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the stock tickers and the yield threshold
 tickers = ['BP.L', 'SJP.L', 'DRX.L']

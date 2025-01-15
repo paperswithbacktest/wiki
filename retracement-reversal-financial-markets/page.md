@@ -69,7 +69,7 @@ The advent of [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) a
 Below is a simple Python script that demonstrates the use of a moving average crossover strategy, a common technique in algorithmic trading:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch historical stock data

@@ -68,7 +68,7 @@ Additionally, algorithmic trading can reduce human error in decision-making and 
 To illustrate a simple algorithmic trading strategy in Python for REIT investments, consider the following pseudo-code snippet:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Define a simple moving average strategy

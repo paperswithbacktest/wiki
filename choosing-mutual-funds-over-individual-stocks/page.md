@@ -29,7 +29,7 @@ Python can be an invaluable tool for analyzing stocks, enabling the automation o
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import matplotlib.pyplot as plt
 
 # Define the stock symbol and period

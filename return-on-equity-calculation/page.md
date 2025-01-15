@@ -107,7 +107,7 @@ The integration of ROE into algorithmic trading strategies can be illustrated th
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetching stock data
 tickers = ['AAPL', 'MSFT', 'GOOGL']  # Sample stock tickers

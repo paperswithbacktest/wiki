@@ -163,7 +163,7 @@ In financial markets, Fourier analysis is applied to identify cycles and trends 
 A study in the stock market might involve using Fourier analysis to identify cyclical behavior in stock prices. By applying a Fourier transform to historical stock data, traders can extrapolate significant frequency components, suggesting potential buy or sell signals. Below is a conceptual Python implementation of this technique:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetching historical price data
 stock_data = yf.download('AAPL', start='2022-01-01', end='2023-01-01')['Close']

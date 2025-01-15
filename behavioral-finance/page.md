@@ -40,7 +40,7 @@ Algorithmic trading is widely used across various financial instruments, includi
 The development of algorithms involves sophisticated programming and an understanding of financial markets. Python is a popular programming language used in this field, equipped with libraries such as 'numpy' and 'pandas' for data analysis, and 'scikit-learn' for implementing [machine learning](/wiki/machine-learning) models. Here is a simple example of a moving average crossover strategy in Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Load historical data for a stock
@@ -103,7 +103,7 @@ The successful integration of behavioral finance into algorithmic trading necess
 Python, a versatile programming language, plays a pivotal role in the implementation of behavioral finance models within algorithmic trading. The library 'yfinance' is particularly valuable as it facilitates the downloading of historical market data, which serves as the foundation for constructing and testing trading models. For instance, a Python snippet using 'yfinance' to download stock data might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a particular stock
 data = yf.download('AAPL', start='2020-01-01', end='2023-01-01')

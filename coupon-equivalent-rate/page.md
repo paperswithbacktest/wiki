@@ -95,7 +95,7 @@ Risk management is another critical benefit. Algorithmic trading systems are equ
 To illustrate the application of algorithmic trading in bond markets, consider a basic strategy implemented using Python. Assume a scenario where the goal is to exploit price discrepancies between two similar bond securities. A Python script can be written to monitor bond prices in real-time and execute trades based on predefined criteria. Below is a simplified example of how a [pair trading](/wiki/pair-trading) strategy might be structured:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Define bonds

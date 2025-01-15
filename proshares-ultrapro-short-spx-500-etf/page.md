@@ -48,7 +48,7 @@ The UltraPro ProShares ETF's design, aiming to deliver three times (3x) the dail
 The following is a simplified example of how an algorithm might be structured in Python to execute trades based on moving average crossovers, a common strategy used in algorithmic trading:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Load data

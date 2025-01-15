@@ -131,7 +131,7 @@ The development of your algorithm should prioritize stable dividend stock select
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define criteria for screening dividend stocks
 dividend_yield_threshold = 0.03

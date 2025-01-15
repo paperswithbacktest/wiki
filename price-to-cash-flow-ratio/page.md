@@ -97,7 +97,7 @@ The P/CF ratio is particularly valuable in [algorithmic trading](/wiki/algorithm
 Python is a preferred language for algorithmic trading due to its robust libraries like NumPy, pandas, and Scikit-learn, which facilitate mathematical operations and [machine learning](/wiki/machine-learning). The use of Python allows traders to construct models that can automatically adjust trading strategies based on market conditions reflected by ratios like the P/CF. Below is a simple Python snippet showcasing how one might fetch and calculate the P/CF ratio using financial data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch company financial data
 ticker = 'AAPL'

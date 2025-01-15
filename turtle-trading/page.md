@@ -227,7 +227,7 @@ Setting up a Turtle Trading strategy in Python requires a systematic approach to
 4. **Get Historical Data:** Fetch historical price data for the asset you wish to trade. You can use libraries like `yfinance` to download data directly into Python:
     
     ```python
-    import yfinance as yf
+    import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
     data = yf.download('AAPL', start='2010-01-01', end='2023-01-01')
     ```
     

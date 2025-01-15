@@ -54,7 +54,7 @@ However, this latitude introduces potential downsides. The reliance on personal 
 Integrating algorithmic support can offset some of these challenges by injecting objectivity into the decision-making process. Algorithms can analyze vast amounts of data and simplify complex market trends into actionable insights, thereby aiding traders in making informed decisions. A typical algorithmic solution might involve the use of Python to retrieve and analyze real-time market data, providing traders with notifications when specific soft stop conditions are met. Here is an example of a simple Python script that could be used in such a scenario:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the stock and the soft stop condition
 symbol = 'XYZ'

@@ -107,7 +107,7 @@ To truly maximize the potential of the Bearish Harami in algo trading, it should
 Utilizing Python, traders can implement such strategies effectively. Libraries like `pandas` and `numpy` facilitate robust data manipulation and analysis. Technical analysis libraries, such as `TA-Lib` or `pandas_ta`, can be used to incorporate the Bearish Harami and other indicators into complex trading algorithms. Below is an example snippet that retrieves historical stock data and identifies the Bearish Harami pattern:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 import talib
 

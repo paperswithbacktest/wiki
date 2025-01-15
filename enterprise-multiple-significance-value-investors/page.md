@@ -72,7 +72,7 @@ Algorithmic trading utilizes sophisticated technology to automate trading strate
 Integration of the Enterprise Multiple into algorithmic trading models involves programming languages like Python, which streamline the calculation processes. This language's robust libraries and computational capabilities enable the automation of EV/EBITDA calculation, optimizing both speed and accuracy in decision-making. A typical Python implementation for calculating Enterprise Multiple might involve fetching enterprise value and EBITDA data using financial data APIs such as Yahoo Finance.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def calculate_ev_ebitda(ticker):
     stock = yf.Ticker(ticker)

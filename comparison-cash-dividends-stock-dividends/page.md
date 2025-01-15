@@ -78,7 +78,7 @@ The successful implementation of algo-trading integrated with dividend approache
 Considerations for integrating these systems also encompass programming expertise and risk management. Python is a common language choice for developing trading algorithms due to its extensive libraries and tools for financial analysis. For example, a basic algorithm for identifying high yield dividend stocks might be implemented as follows:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # List of stock tickers to analyze

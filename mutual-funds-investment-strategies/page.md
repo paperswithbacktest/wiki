@@ -94,7 +94,7 @@ The integration of algorithmic trading into mutual fund management marks the con
 To efficiently implement algorithmic trading systems, fund managers can employ programming languages such as Python to develop and backtest trading algorithms. For example, a simple algorithm designed to execute trades when certain market conditions are met could be:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def simple_moving_average(stock_symbol, window_size):
     stock_data = yf.download(stock_symbol, period="1y")

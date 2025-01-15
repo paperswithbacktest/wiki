@@ -65,7 +65,7 @@ Additionally, financial reporting remains a fundamental component of evaluating 
 Moreover, quantitative models can also be developed to enhance the decision-making process. For instance, a Python script could be constructed to pull financial data and compute key metrics for stock evaluation:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the stock ticker for Apple
 ticker = "AAPL"

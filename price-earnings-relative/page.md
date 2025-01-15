@@ -58,7 +58,7 @@ The democratization of algorithmic trading has been accelerated by advances in f
 To illustrate the implementation of algorithmic trading with P/E ratios, consider a simple Python script that screens stocks based on their P/E ratio and executes trades when specified conditions are met. The following example highlights the basic steps:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define a list of stock symbols to analyze
 stocks = ['AAPL', 'MSFT', 'GOOG']
@@ -92,7 +92,7 @@ Here's a sample Python script using the `pandas` and `yfinance` libraries to col
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define a list of stock tickers
 tickers = ["AAPL", "MSFT", "GOOGL", "AMZN", "TSLA"]

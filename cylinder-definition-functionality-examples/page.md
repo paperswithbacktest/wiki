@@ -106,7 +106,7 @@ In the forex market, traders leverage similar principles in currency hedging str
 Python, a favored language among traders for its robust libraries and easy syntax, is commonly employed for these tasks. Below is a simplified example of a Python code snippet that might be used to automate a part of this process:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from datetime import datetime
 import numpy as np
 

@@ -40,7 +40,7 @@ Incorporating alert notifications into algorithmic trading systems requires a ro
 Python, a popular programming language in the financial technology community, can be used to implement these systems effectively. Python libraries like NumPy for numerical computations, pandas for data manipulation, and libraries such as APScheduler for scheduling regular notifications or tasks, offer comprehensive tools to build responsive alert systems. For instance, a simple Python script using the yfinance library can monitor stock prices and trigger alerts:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import time
 
 def check_stock_price(ticker, threshold_price):

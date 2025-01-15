@@ -970,7 +970,7 @@ Pybacktest is a Python library streamlined for simplicity and quick prototyping.
 ```python
 import pandas as pd
 import pybacktest as pb
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 ## Fetching data for sample
 data = yf.download('AAPL', start='2020-01-01', end='2022-01-01')

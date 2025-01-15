@@ -80,7 +80,7 @@ Acquiring quality financial data is pivotal. Utilize APIs, like Alpha Vantage or
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 ## Fetch historical data
 data = yf.download('AAPL', start='2020-01-01', end='2023-01-01')

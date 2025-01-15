@@ -169,7 +169,7 @@ Another instance occurred with ABC Tech in September 2022. The stock's price gap
 Incorporating algorithmic trading strategies significantly enhances the effectiveness of spotting these patterns. Consider a Python-based algorithm designed to identify island reversals by scanning candlestick charts for characteristic gaps. The following simplified code snippet exemplifies how such an algorithm might be structured:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import talib as ta
 
 def identify_island_reversal(data):

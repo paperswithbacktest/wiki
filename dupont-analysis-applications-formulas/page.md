@@ -88,7 +88,7 @@ Algorithmic trading systems can be programmed to identify opportunities where th
 In practice, a Python-based algorithm could be constructed to scrape necessary financial data, calculate DuPont metrics, and implement a trading strategy. Here's an illustrative example:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def calculate_dupont_metrics(ticker):
     data = yf.Ticker(ticker)

@@ -96,7 +96,7 @@ A retail investor developed a Python-based trading model that automated stock se
 Here's a simplified version of the algorithm using Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Function to get current P/E ratio
 def get_pe_ratio(ticker):

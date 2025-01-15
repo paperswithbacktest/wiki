@@ -142,7 +142,7 @@ Another aspect to consider is Excel's computational limits. The software is capa
 These constraints necessitate a thoughtful approach to using Excel for cost analysis in algo trading. By understanding these limitations, traders can decide when Excel is adequate or when it may be necessary to integrate more robust data processing tools or programming languages like Python. Python, for example, can handle larger datasets using libraries such as Pandas and NumPy, and can efficiently manage real-time data streams with libraries such as AsyncIO. Here is a simple Python snippet demonstrating the retrieval of live stock data using the yfinance library:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Get the live data of a stock
 ticker = yf.Ticker("AAPL")

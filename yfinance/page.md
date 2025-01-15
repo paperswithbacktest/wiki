@@ -73,7 +73,7 @@ conda install -c conda-forge yfinance
 After installation, it's a good practice to verify that everything was set up correctly. Open your Python environment (this can be the Python REPL, Jupyter notebook, or any other IDE you use for Python scripting) and run the following:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 print(yf.__version__)
 ```
 
@@ -105,7 +105,7 @@ Understanding how to fetch historical data is foundational when using yfinance. 
 To extract data for a single ticker, you'll use the `Ticker` object. This object provides an interface to query data about the particular stock or asset:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 ## Define the ticker symbol
 ticker_symbol = "AAPL"
@@ -155,7 +155,7 @@ print(data)
 Here's a consolidated example that extracts historical data for three tickers over a specified date range with daily granularity:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 ## List of tickers
 tickers_list = ["AAPL", "MSFT", "GOOGL"]
@@ -180,7 +180,7 @@ When we speak of "fundamental data", it encapsulates the core financial metrics 
 These are numerical values derived from a company's financial statements. They help analyze the company's performance and financial stability. With `yfinance`, you can retrieve ratios such as Price-to-Earnings (P/E), Debt-to-Equity, and more.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 ticker = yf.Ticker("AAPL")
 ratios = ticker.info
@@ -235,7 +235,7 @@ print(data)
 For a quick insight, let's fetch the P/E Ratio and Debt-to-Equity Ratio for Apple Inc., Microsoft, and Alphabet.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 tickers_list = ["AAPL", "MSFT", "GOOGL"]
 fundamentals = {}
@@ -268,7 +268,7 @@ Trading data is the lifeblood for traders, giving them essential insights into m
 Using `yfinance`, these metrics can be accessed as follows:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 ticker = yf.Ticker("AAPL")
 info = ticker.info
@@ -323,7 +323,7 @@ For each type of option, there are expiration dates. The expiration date is the 
 To retrieve options data for Apple Inc. (`AAPL`):
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 ## Define the ticker
 ticker = yf.Ticker("AAPL")
@@ -363,7 +363,7 @@ With `yfinance`, you can fetch data regarding these institutional holders for a 
 To retrieve institutional holders data for Apple Inc. (`AAPL`):
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 ## Define the ticker
 ticker = yf.Ticker("AAPL")
@@ -399,7 +399,7 @@ While `yfinance` fetches the data, `matplotlib` and `finplot` transform it into 
 To draw a candlestick chart for Apple Inc. (`AAPL`) over the last month:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import mplfinance as mpf
 
 ## Fetch data
@@ -445,7 +445,7 @@ Financial analysis goes beyond mere data extraction. To extract value and insigh
 To calculate the 50-day Simple Moving Average and the Relative Strength Index for Apple Inc. (`AAPL`) over the last six months using `yfinance` and `pandas`:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import mplfinance as mpf
 
 ## Fetching data

@@ -72,7 +72,7 @@ pip install yfinance
 Once installed, you can start retrieving stock data with just a few lines of code. Below is a simple example using the `yfinance` library to retrieve stock quotes:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Retrieve data for a specific stock, e.g., Apple Inc.
 stock = yf.Ticker("AAPL")
@@ -97,7 +97,7 @@ To effectively utilize the Yahoo Finance API in algorithmic trading, it is impor
 One critical consideration is optimizing data requests to avoid exceeding the API's rate limits. Various APIs impose restrictions on the number of requests allowed within a certain timeframe to prevent server overload. To manage this, traders should implement strategies such as request batching, which involves grouping multiple data requests into a single larger request where possible. This reduces the number of individual requests made, thus minimizing the likelihood of hitting rate caps. Here's an example in Python for batching stock symbol requests:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # List of stock symbols
 symbols = ["AAPL", "GOOGL", "MSFT"]

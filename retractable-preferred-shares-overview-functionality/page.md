@@ -26,7 +26,7 @@ Preferred shares, particularly retractable preferred shares, are a notable type 
 Algorithmic trading represents another significant advancement in financial instruments, leveraging technology to automate and optimize trading processes. By using complex mathematical models and extensive data analysis, [algorithmic trading](/wiki/algorithmic-trading) enables the execution of trades based on predefined criteria such as time, price, or [volume](/wiki/volume-trading-strategy), thus enhancing trading efficiency. Algorithms are programmed to exploit market inefficiencies and adjust to changing market conditions in real-time, thereby minimizing human error and emotional bias in trading decisions. For instance, a basic algorithm to execute trades when stock prices cross a moving average could be implemented in Python as follows:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch historical stock data

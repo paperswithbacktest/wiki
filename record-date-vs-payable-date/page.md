@@ -52,7 +52,7 @@ One effective strategy implemented through [algorithmic trading](/wiki/algorithm
 A typical algorithm for dividend capture will involve searching for stocks that meet certain criteria, such as a minimum dividend yield and a historical pattern of positive price recovery post-dividend. Here’s a simplified example of a Python algorithm conceptualizing a dividend capture strategy:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 def dividend_capture_strategy(ticker, min_yield):

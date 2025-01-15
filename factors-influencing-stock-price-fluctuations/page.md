@@ -124,7 +124,7 @@ Technical analysis and trend tracking are useful tools for understanding and pre
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Example of calculating a simple moving average
 def moving_average(stock_symbol, start, end, window=20):

@@ -127,7 +127,7 @@ The use of mathematical models in algorithmic trading provides a predictive fram
 Real-time portfolio monitoring and adjustments are crucial as they allow traders to promptly respond to changes in market conditions. This dynamic approach ensures that trading strategies remain aligned with current market realities, minimizing losses and maximizing profit potential. Programming techniques, such as event-driven [backtesting](/wiki/backtesting) and live trading assessments, can be articulated through Python code. For example:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 def calculate_garch_forecast(data, periods=252):

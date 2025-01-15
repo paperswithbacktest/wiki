@@ -42,7 +42,7 @@ Algorithmic trading systems can be designed to automatically respond to fundamen
 An illustrative example of such a strategy could involve coding an algorithm in Python to react to earnings announcements. Using Python libraries such as `pandas` and `yfinance`, one could write a script to fetch the latest earnings data, compare it against analyst forecasts, and execute buy or sell orders accordingly. Here's a simplified pseudo-code example:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define stocks and threshold for earnings surprise
 stocks = ['AAPL', 'MSFT']

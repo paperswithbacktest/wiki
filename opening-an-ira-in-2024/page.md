@@ -85,7 +85,7 @@ For instance, consider the use of Python for developing a simple algorithmic tra
 ```python
 import pandas as pd
 import numpy as np
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data
 data = yf.download("SPY", start="2022-01-01", end="2022-12-31")

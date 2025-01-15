@@ -42,7 +42,7 @@ Data serves as the foundational element for classification models in [algorithmi
 Here's an example of how to use 'yfinance' to gather stock data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the ticker symbol
 tickerSymbol = 'AAPL'

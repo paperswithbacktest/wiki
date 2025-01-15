@@ -114,7 +114,7 @@ Here is a basic Python example implementing an SMA crossover strategy:
 ```python
 import pandas as pd
 import numpy as np
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data
 data = yf.download('AAPL', start='2020-01-01', end='2021-01-01')

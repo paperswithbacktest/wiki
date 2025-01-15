@@ -202,7 +202,7 @@ To start, you'll need a set of Python libraries that will facilitate data manipu
 Data collection is crucial. You can obtain price data for equities using APIs like Yahoo Finance through libraries such as `yfinance` or paid services providing premium datasets.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 data = yf.download(['AAPL', 'MSFT', 'GOOGL'], start='2020-01-01', end='2023-01-01')
 prices = data['Adj Close']

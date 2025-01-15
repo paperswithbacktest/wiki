@@ -155,7 +155,7 @@ Successful navigation of deflationary markets fundamentally relies on thorough m
 With the right approach, deflationary periods need not pose a threat. Instead, they can present a promising landscape for strategic investments. By harnessing advanced trading algorithms, traders can effectively manage risks, seize growth opportunities, and maintain balanced portfolios in volatile conditions. Consider, for example, a Python-based algorithm that monitors variables like inflation rates and central bank announcements:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 def monitor_market(assets):

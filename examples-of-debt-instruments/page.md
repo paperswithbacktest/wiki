@@ -66,7 +66,7 @@ Furthermore, the integration of [artificial intelligence](/wiki/ai-artificial-in
 Consider a simple Python algorithm to demonstrate a basic framework for algorithmic trading:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def simple_moving_average_strategy(stock_symbol, short_window=40, long_window=100):
     # Download historical data for the stock

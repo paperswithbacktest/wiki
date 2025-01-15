@@ -60,7 +60,7 @@ Dividend capture strategy involves buying a stock before its ex-dividend date an
 Example of Python code for a simple dividend capture strategy:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def get_dividend_capture_opportunities(ticker, start_date, end_date):
     stock = yf.Ticker(ticker)

@@ -126,7 +126,7 @@ Algorithmic trading systems are particularly well-suited to these strategies, as
 Below is a simple Python example illustrating how an algorithm might be structured to evaluate and execute trades around ex-dividend dates:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from datetime import datetime, timedelta
 
 def dividend_capture_strategy(ticker, days_before=1, days_after=1):

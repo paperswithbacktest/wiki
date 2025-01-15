@@ -54,7 +54,7 @@ A practical approach in adopting the Bullish Harami in trading could involve set
 Incorporating algorithmic decision-making, the following Python script offers a basic framework to identify and trade the Bullish Harami pattern. Leveraging libraries such as `pandas` and `numpy`, along with an API like `yfinance` for market data, traders can automate the spotting and trading process.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Download historical data for a given stock

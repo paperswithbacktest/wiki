@@ -72,7 +72,7 @@ Selecting the right trading platform is a pivotal decision for anyone engaging i
 Support for automated strategies is a critical [factor](/wiki/factor-investing). Some trading platforms come equipped with proprietary scripting languages that may offer specific advantages or limitations relative to flexibility and integration. For instance, MetaTrader 4 and 5 use MQL4 and MQL5 respectively, which are suited for developing trading robots, indicators, scripts, and libraries. However, other platforms, such as cTrader, offer compatibility with popular general-purpose programming languages like Python, which provides traders the advantage of leveraging a broader ecosystem of libraries for data analysis, [machine learning](/wiki/machine-learning), and statistical modeling. The Python script below exemplifies a basic algorithm structure for fetching Forex data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def fetch_data(currency_pair, start_date, end_date):
     data = yf.download(currency_pair, start=start_date, end=end_date)

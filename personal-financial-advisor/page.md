@@ -68,7 +68,7 @@ For successful implementation, retail investors can consider utilizing simpler a
 ```python
 # Simple Moving Average Crossover Strategy in Python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a particular stock
 data = yf.download('AAPL', start='2020-01-01', end='2023-01-01')

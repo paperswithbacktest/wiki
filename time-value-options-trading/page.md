@@ -89,7 +89,7 @@ Algorithms can be effectively programmed to take advantage of time value decay, 
 For instance, a credit spread involves selling one option and buying another with a different strike price, usually within the same expiration period. The goal is to capture the premium assuming time decay will erode the value of the options sold faster than those bought. In this case, algorithms can monitor market conditions using real-time data, adjusting spreads as needed to maximize the decay benefit. A simple Python snippet illustrating an automated monitoring system for credit spreads might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from datetime import datetime, timedelta
 
 def monitor_credit_spread(symbol, expiry_date, lower_strike, upper_strike):

@@ -87,7 +87,7 @@ Here's an example of a simple algorithmic trading strategy using Python, integra
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from scipy.optimize import minimize
 
 # Fetch historical data

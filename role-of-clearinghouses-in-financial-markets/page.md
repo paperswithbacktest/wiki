@@ -48,7 +48,7 @@ The infrastructure offered by clearinghouses is pivotal for algorithmic trading.
 One key feature of algorithmic trading is its reliance on predefined instructions, which are expressed mathematically. These instructions can be translated into code using languages such as Python, known for its flexibility and extensive libraries suited for financial analysis. Here is a simple example demonstrating how a basic trading algorithm might look in Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define criteria for buying or selling
 def simple_moving_average(ticker, short_window, long_window):

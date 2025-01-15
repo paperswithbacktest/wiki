@@ -129,7 +129,7 @@ The foundation of any algorithmic trading strategy based on machine learning is 
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a given ticker
 data = yf.download('AAPL', start='2022-01-01', end='2023-01-01')

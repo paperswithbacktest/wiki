@@ -100,7 +100,7 @@ Return on Equity (ROE) is a fundamental metric within [algorithmic trading](/wik
 Algorithmic trading strategies often use ROE as a key variable in screening algorithms. A basic Python implementation for stock screening using ROE might involve fetching financial data from APIs, such as Yahoo Finance, and then filtering stocks based on threshold ROE values. Here's an example script demonstrating this process:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def get_stock_data(ticker):
     stock = yf.Ticker(ticker)

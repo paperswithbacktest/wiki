@@ -139,7 +139,7 @@ In Python, libraries such as `pandas`, `numpy`, and `scipy` can streamline this 
 ```python
 import pandas as pd
 import numpy as np
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download stock price data
 stock_data = yf.download('AAPL', start='2020-01-01', end='2021-01-01')

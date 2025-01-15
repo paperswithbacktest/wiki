@@ -100,7 +100,7 @@ Algorithmic trading, which utilizes automated systems to execute trades, can ana
 Consider an investor interested in a company that regularly offers valuable shareholder perks. By employing algo trading strategies, they can set predefined parameters within their trading systems. For example, they might write a Python script to trigger purchases when the stock hits a certain price point just before the perks are announced or distributed. A basic structure for such a script could be:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import datetime
 
 # Define the stock and the desired price point

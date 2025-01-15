@@ -62,7 +62,7 @@ To implement a basic algorithmic trading strategy in Python, traders might use l
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from datetime import datetime
 
 # Fetch historical crude oil price data

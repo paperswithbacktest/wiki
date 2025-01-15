@@ -99,7 +99,7 @@ Case studies highlight how combining these tools can lead to superior portfolio 
 The convergence of these technologies accelerates decision-making and minimizes human error, significantly improving investment outcomes. For example, Python is widely used to automate data retrieval from stock screeners, analyze financial metrics, and deploy trading algorithms. Below is a basic Python script that illustrates these concepts:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from sklearn.linear_model import LinearRegression
 import numpy as np
 

@@ -111,7 +111,7 @@ Traders can automate the process of calculating these ratios across different ti
 The real-time signal generation aspect of algorithmic trading can be powered by Excel through integration with live data sources such as Yahoo Finance or other financial data providers. By setting up data feeds that update continuously in Excel, traders can create models that react instantly to market changes. This involves connecting Excel to an API that fetches real-time financial data. Here's a simple example in Python, which shows how live data can be imported into an Excel sheet:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetching data for a financial asset

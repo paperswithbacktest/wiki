@@ -26,7 +26,7 @@ One of the key roles of financial markets is to optimize the allocation of resou
 To illustrate the efficiency of price discovery and [liquidity](/wiki/liquidity-risk-premium) in markets, we can consider an example using Python to analyze stock prices:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import matplotlib.pyplot as plt
 
 # Download historical market data for a stock

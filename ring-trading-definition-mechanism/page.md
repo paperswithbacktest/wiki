@@ -48,7 +48,7 @@ One of the hallmark characteristics of algorithmic trading is its shift from phy
 For instance, a simple algorithmic trading strategy in Python could be implemented as follows:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch historical data for a given stock

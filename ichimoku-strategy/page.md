@@ -148,7 +148,7 @@ Implementing the Ichimoku Cloud strategy in Python involves utilizing various li
 The first step is to obtain historical financial data, which can be accessed using libraries like `yfinance`. This library allows for easy download of historical stock data from Yahoo Finance.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a given stock
 symbol = 'AAPL'

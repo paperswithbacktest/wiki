@@ -127,7 +127,7 @@ To illustrate, let’s consider a Python-based algorithm that evaluates stocks f
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from sklearn.ensemble import RandomForestRegressor
 
 # Download historical stock data

@@ -40,7 +40,7 @@ This command downloads the yfinance library and its dependencies, making it read
 Once installed, yfinance can be easily integrated into a Python script. To get started, you must import the library:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 ```
 
 This import statement allows you to access yfinance's functionalities using the alias `yf`. Configuring yfinance typically involves setting specific parameters for data retrieval, such as the ticker symbol of the desired stock, the data interval, and the time frame for which data is needed. These configurations are frequently used in the key components of yfinance, namely `yf.Ticker`, `yf.download`, and `yf.pandas_datareader`.
@@ -108,7 +108,7 @@ The `yf.download` function in the yfinance library is a powerful tool for obtain
 Here's a basic example of using `yf.download` to retrieve daily data for a single stock ticker, "AAPL", for a specified period:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for Apple from January 1, 2020 to December 31, 2020
 data = yf.download('AAPL', start='2020-01-01', end='2020-12-31', interval='1d')
@@ -147,7 +147,7 @@ Algorithmic trading involves creating rules that determine the precise moment to
 Using Python and the yfinance library, you can easily retrieve the necessary data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Retrieve historical data for a specific ticker
 data = yf.download("AAPL", start="2020-01-01", end="2023-01-01")
@@ -195,7 +195,7 @@ The yfinance library offers a robust set of advanced features, allowing users to
 In addition to handling individual securities, yfinance also supports multi-ticker operations, which are crucial for analyzing multiple securities concurrently or developing strategies that require data from various assets. The function `yf.download` is particularly adept at managing these operations by enabling users to download market data for several tickers at once. The syntax is straightforward:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download data for multiple tickers
 data = yf.download(['AAPL', 'MSFT', 'GOOGL'], start='2021-01-01', end='2023-01-01')

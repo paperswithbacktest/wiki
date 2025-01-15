@@ -64,7 +64,7 @@ Algorithmic trading, commonly referred to as 'algo trading', represents a transf
 The core principle of algorithmic trading involves setting predetermined criteria, such as price, timing, and [volume](/wiki/volume-trading-strategy), for trade execution. For example, a simple algorithmic trading strategy might involve executing a buy order when a stock price falls below a specified threshold and selling when it rises above another. More complex strategies can incorporate [machine learning](/wiki/machine-learning) and statistical models to predict price movements and execute trades accordingly. Here is an example of a simple trading algorithm using Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the trading strategy
 def moving_average_strategy(stock, short_window=40, long_window=100):

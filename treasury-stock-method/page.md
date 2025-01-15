@@ -159,7 +159,7 @@ The role of machine learning in algorithmic trading is expanding, with technique
 One simple example of integrating stock valuation in algorithmic trading could be implemented using Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 def intrinsic_value(earnings, growth_rate, discount_rate):

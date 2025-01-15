@@ -50,7 +50,7 @@ Python, a versatile programming language, is often used to implement such strate
 ```python
 import pandas as pd
 import numpy as np
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data
 data = yf.download("AAPL", start="2023-01-01", end="2023-10-01")

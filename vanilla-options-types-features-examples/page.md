@@ -166,7 +166,7 @@ Selecting a reliable trading platform is crucial for effective algorithmic tradi
 Here is a basic Python example using the `yfinance` library to fetch historical data for backtesting a simple moving average crossover strategy:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch historical data

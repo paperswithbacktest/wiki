@@ -68,7 +68,7 @@ Algorithmic strategies can impact stock dividends and yields in several ways. By
 The use of algorithms in evaluating and selecting stocks is particularly relevant when focusing on dividend yields. Algorithms can process vast datasets to identify stocks with favorable yield characteristics, such as consistent payout histories or attractive yield ratios relative to industry benchmarks. For instance, a filter might be designed to select stocks where the dividend yield exceeds a certain threshold, using Python as follows:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def filter_high_dividend_yield(stocks, yield_threshold):
     selected_stocks = []

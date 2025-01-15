@@ -76,7 +76,7 @@ The technical framework of an [algorithmic trading](/wiki/algorithmic-trading) s
 For example, a simple algorithmic strategy in Python might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Load historical price data for a stock

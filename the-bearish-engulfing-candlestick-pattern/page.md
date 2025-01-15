@@ -99,7 +99,7 @@ To mitigate the risk of false signals, traders typically rely on this pattern in
 In practice, a combined approach could involve using a Python script to automate the detection of bearish engulfing patterns and cross-reference them with RSI and MACD values. Here is a simple example:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Load historical data for a stock

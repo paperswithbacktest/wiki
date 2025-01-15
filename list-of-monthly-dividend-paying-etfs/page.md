@@ -55,7 +55,7 @@ Here is an example of a simple algorithm in Python, demonstrating how an algorit
 
 ```python
 from datetime import datetime
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define criteria for rebalancing
 def should_rebalance(portfolio, target_allocation):

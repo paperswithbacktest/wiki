@@ -36,7 +36,7 @@ One primary aspect of [algorithmic trading](/wiki/algorithmic-trading) is high-f
 The mechanics of algorithmic trading involve the use of sophisticated software and algorithms that adhere to predefined criteria such as timing, price, and quantity. These rules can incorporate various types of data inputs, including technical indicators, [fundamental analysis](/wiki/fundamental-analysis), and even news sentiment analysis. An example of a simple algorithmic trading strategy in Python might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch historical stock data

@@ -74,7 +74,7 @@ In practice, a trader might implement a Python algorithm to automate the call ra
 ```python
 import numpy as np
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a given stock
 data = yf.download('AAPL', start='2022-01-01', end='2022-12-31')['Close']

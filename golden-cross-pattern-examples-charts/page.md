@@ -174,7 +174,7 @@ Despite numerous successful signals, not all Golden Crosses lead to sustained ra
 To visualize the Golden Cross, consider the following Python code which utilizes historical stock data and plots moving averages:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import matplotlib.pyplot as plt
 
 # Download historical data for a stock (e.g., Apple)

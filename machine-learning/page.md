@@ -146,7 +146,7 @@ Starting with a straightforward premise: predict stock prices using a linear reg
 Download historical stock price data. For simplicity, we'll use Yahoo Finance's API. You can utilize libraries like `yfinance` for this purpose.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 data = yf.download("AAPL", start="2020-01-01", end="2022-01-01")
 ```

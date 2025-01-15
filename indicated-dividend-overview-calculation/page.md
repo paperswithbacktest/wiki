@@ -141,7 +141,7 @@ For example, consider a Python algorithm that scrapes dividend announcement data
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def fetch_dividend_data(ticker):
     stock = yf.Ticker(ticker)

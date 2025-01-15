@@ -76,7 +76,7 @@ One prevalent strategy is the 'dividend capture' approach, where algorithms are 
 Here is a simple illustration of a dividend capture strategy using Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import datetime
 
 def dividend_capture_strategy(ticker, start_date, end_date):

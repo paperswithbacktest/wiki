@@ -84,7 +84,7 @@ In another illustrative case, two business partners set up a joint brokerage acc
 The partners focused on a [momentum](/wiki/momentum) trading strategy, utilizing a Python-based framework to implement and back-test their algorithms. Here's a simplified version of such a strategy in Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Download historical data for a stock

@@ -40,7 +40,7 @@ To implement this, algorithms are designed to monitor and react to market condit
 Range-based strategies often involve calculations that can be automated with programming languages like Python. Python's rich ecosystem of financial libraries allows traders to derive range calculations and model their algorithms with precision. Here's a simple Python script that demonstrates how one might set up an algorithm to execute trades based on range thresholds:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data
 data = yf.download('AAPL', period='1mo', interval='1d')
@@ -152,7 +152,7 @@ In trading, range analysis can be significantly enhanced through the use of math
 The calculation of range in a dataset, such as daily stock prices, involves determining the difference between the highest and lowest values. In Python, this can be accomplished efficiently using a simple script. For instance:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data
 data = yf.download("AAPL", start="2022-01-01", end="2022-01-31")
@@ -256,7 +256,7 @@ QuantInsti offers comprehensive courses on algorithmic trading and can be an inv
 Historical market data is fundamental for backtesting trading strategies. Platforms like Yahoo Finance offer APIs that allow traders to download and work with historical data seamlessly. The `yfinance` library in Python can be used to access this data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a stock, e.g., Apple Inc.
 data = yf.download("AAPL", start="2022-01-01", end="2023-01-01")

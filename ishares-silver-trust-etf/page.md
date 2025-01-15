@@ -77,7 +77,7 @@ To develop an algorithmic trading strategy for the iShares Silver Trust (SLV), s
 The first step is gathering historical and real-time data. This includes price data for SLV, relevant indicators, and external variables like interest rates and economic indicators affecting silver prices. Effective data collection should ensure high quality and low latency to provide a comprehensive view of the market. Providers such as Bloomberg, Reuters, or financial APIs like Alpha Vantage or Yahoo Finance can supply this data. A sample Python code to fetch historical data could look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for SLV
 data = yf.download('SLV', start='2010-01-01', end='2023-10-01')

@@ -44,7 +44,7 @@ where $Z$ is the z-score corresponding to the confidence level, $\sigma$ is the 
 Backtesting is crucial in validating [algorithmic trading](/wiki/algorithmic-trading) strategies prior to live deployment. By simulating trades using historical price data, traders can evaluate the practical application of their strategies. The [backtesting](/wiki/backtesting) process involves computing metrics such as Sharpe ratio, maximum drawdown, and total return to determine a strategy's past effectiveness. Any trading strategy must be rigorously backtested to assess its historical performance and potential profitability, which can help in refining and optimizing it for actual market use.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch historical data
@@ -78,7 +78,7 @@ For individuals focused on the Dow Jones, Yahoo Finance offers access to histori
 Accessing this data is straightforward and can be done directly via the Yahoo Finance website, which provides historical data in a user-friendly format. Alternatively, traders who prefer automation and more advanced data manipulation can utilize Python libraries such as `yfinance` and `pandas_datareader`. These libraries allow users to programmatically download and handle large sets of data efficiently. Here's an example of how one might use Python to retrieve historical DJIA data using the `yfinance` library:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the stock symbol for Dow Jones Industrial Average
 symbol = "^DJI"
@@ -107,7 +107,7 @@ pip install yfinance
 Once yfinance is installed, traders can use Python scripts to download the desired data. The process is straightforward and involves specifying parameters such as the stock ticker symbol, start date, and end date. For the Dow Jones, the ticker symbol is usually '^DJI':
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the ticker symbol
 ticker_symbol = '^DJI'
@@ -143,7 +143,7 @@ Visualizing the data is crucial to understanding and interpreting trends. Using 
 
 ```python
 import matplotlib.pyplot as plt
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download Dow Jones data
 djia = yf.download('^DJI', start='2020-01-01', end='2023-10-01')
@@ -171,7 +171,7 @@ To perform backtesting, traders first gather historical price data for the Dow J
 The accuracy of backtesting hinges on meticulous simulation of trades. It is crucial to replicate all aspects of the trading strategy, including timing, order types, and transaction costs. Python, with its rich ecosystem of financial libraries such as pandas and NumPy, provides a suitable platform for scripting backtests. An illustrative Python snippet for backtesting a simple moving average crossover strategy might look as follows:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch historical data for the Dow Jones Industrial Average
@@ -216,7 +216,7 @@ Dow Jones historical data from Yahoo Finance is an invaluable resource for anyon
 Python libraries, such as `yfinance`, significantly simplify the process of accessing and manipulating this data, enabling robust analysis and backtesting. With just a few lines of code, traders can download historical data, perform analytics, and execute backtests. Here's a brief example of how to fetch data using `yfinance`:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the ticker symbol
 ticker_symbol = '^DJI'  # Dow Jones Industrial Average

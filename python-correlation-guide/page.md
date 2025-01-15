@@ -70,7 +70,7 @@ For acquiring financial data, APIs such as Yahoo Finance provide a reliable sour
 
 ```python
 # Importing financial data
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch data for two assets
 data = yf.download(['AAPL', 'MSFT'], start='2022-01-01', end='2022-12-31')

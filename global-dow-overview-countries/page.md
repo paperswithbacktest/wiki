@@ -47,7 +47,7 @@ When applied to international markets and indices like the Global Dow, algorithm
 
 Python Example:
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define an algorithmic trading strategy
 def moving_average_strategy(ticker, short_window=10, long_window=50):

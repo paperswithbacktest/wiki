@@ -112,7 +112,7 @@ Traders successfully integrating algorithmic trading with dividend strategies of
 An example of a Python implementation might include a script that retrieves and processes dividend data, identifies stocks with yields above a dynamic threshold, and automatically updates the portfolio based on dividend payment schedules:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 stocks = ['AAPL', 'JPM', 'T', 'PG']

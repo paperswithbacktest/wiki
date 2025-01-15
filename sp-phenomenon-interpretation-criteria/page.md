@@ -120,7 +120,7 @@ Algorithmic trading introduces precision and speed, automating the execution of 
 To illustrate the practical application of these integrated elements, consider a scenario where an algorithm is designed to monitor stocks approaching potential inclusion in the S&P 500. By analyzing economic criteria such as improving earnings and expanding market capitalization, the algorithm can anticipate which stocks might be considered for inclusion. Once a stock is added to the S&P 500, the algorithm executes trades to capitalize on the ensuing price increase, while accounting for liquidity and volatility risks. Here is a simplified Python code example that demonstrates this concept:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def analyze_stock(stock_symbol):
     stock = yf.Ticker(stock_symbol)

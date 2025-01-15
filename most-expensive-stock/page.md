@@ -26,7 +26,7 @@ Investors rely on various tools and indices to track historical stock prices. Co
 For those interested in coding their own analyses, Python offers numerous libraries, such as `pandas` and `numpy`, which can be used to retrieve and analyze historical stock data. The `yfinance` package, for example, makes it easy to download historical prices directly from Yahoo Finance. Here’s a simple example of how to fetch historical stock prices using Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Retrieve historical data for a specific stock, e.g., Apple
 data = yf.download('AAPL', start='2010-01-01', end='2023-01-01')

@@ -53,7 +53,7 @@ Here's a basic outline of how to implement the stochastic oscillator strategy in
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import matplotlib.pyplot as plt
 
 # Fetch historical data
@@ -104,7 +104,7 @@ To set up a backtesting environment using Python, key libraries such as `pandas`
 2. **Import Libraries and Retrieve Data:**
    Use `yfinance` for fetching historical stock data:
    ```python
-   import yfinance as yf
+   import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
    import pandas as pd
 
    data = yf.download('AAPL', start='2020-01-01', end='2023-01-01')

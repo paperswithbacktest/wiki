@@ -98,7 +98,7 @@ The backbone of [algorithmic trading](/wiki/algorithmic-trading) is robust softw
 Python is frequently used in developing these algorithms due to its comprehensive libraries for data analysis and [machine learning](/wiki/machine-learning), such as NumPy, Pandas, and Scikit-learn. A simple example to retrieve historical price data might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a specific stock
 data = yf.download("AAPL", start="2022-01-01", end="2022-12-31")

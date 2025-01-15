@@ -40,7 +40,7 @@ An actionable example of this strategy involves a simple execution plan using Py
 ```python
 from datetime import datetime, timedelta
 from pandas_datareader import data as pdr
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Set up the environment
 yf.pdr_override()

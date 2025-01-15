@@ -109,7 +109,7 @@ To effectively harness these opportunities, algorithms can be programmed to inco
 Python, a popular language for developing trading algorithms, can be used to set up these strategies. Below is a basic example of a Python script that reacts to market announcements:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Function to fetch stock data

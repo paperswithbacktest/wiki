@@ -57,7 +57,7 @@ To aid investors in this process, Python scripts can automate data retrieval and
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data for a stock
 stock = yf.Ticker("AAPL")

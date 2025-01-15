@@ -128,7 +128,7 @@ For instance, moving averages can be calculated over a weekly period to recogniz
 Python, being a versatile and widely-used programming language in the domain of [algorithmic trading](/wiki/algorithmic-trading), provides excellent tools for implementing such strategies. Libraries like Pandas for data manipulation, NumPy for numerical calculations, and TA-Lib for technical analysis offer robust frameworks for developing trading algorithms. Here's an example of a simple Python script for implementing a moving average crossover strategy using weekly data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Fetch historical data

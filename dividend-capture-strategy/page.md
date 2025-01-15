@@ -84,7 +84,7 @@ The primary advantage of employing algorithms in trading lies in their capacity 
 Algorithms can be devised to consider various financial indicators and market conditions, executing trades only when specific conditions are met. A simple example in Python might involve using libraries like `pandas` and `numpy` for data analysis and `yfinance` to retrieve stock data. Here’s a concise illustration of how an algorithmic strategy might be scripted:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import pandas as pd
 
 # Function to implement a basic dividend capture algorithm

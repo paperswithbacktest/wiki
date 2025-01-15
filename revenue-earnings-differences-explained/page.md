@@ -54,7 +54,7 @@ Incorporating earnings and revenue data into algorithms facilitates predicting p
 A basic example involves using Python to fetch financial data and apply a simple trading strategy. Consider the following hypothetical implementation using the `yfinance` library to fetch data:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetching historical market data
 ticker = "AAPL"

@@ -38,7 +38,7 @@ Additionally, a well-maintained watchlist contributes to a disciplined trading s
 For instance, traders can create watchlists based on technical indicators such as moving averages, Relative Strength Index (RSI), or other custom criteria. Python, a popular programming language in trading, allows for the automation of watchlist management, ensuring that securities meeting the defined criteria are automatically added, updated, or removed. Here's a basic example of using Python to filter stocks into a watchlist based on their moving average:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def add_to_watchlist(tickers, short_window, long_window):
     watchlist = []

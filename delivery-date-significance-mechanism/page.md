@@ -117,7 +117,7 @@ Both algorithmic trading and logistics must be equipped with strong systems to m
 For instance, a basic Python implementation to monitor algorithmic trading risks could involve setting up alerts for significant price changes:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 def monitor_stock(symbol, threshold):

@@ -156,7 +156,7 @@ The next step involves using code to automate the analysis. Python, with its rob
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def get_book_value_data(ticker):
     stock = yf.Ticker(ticker)

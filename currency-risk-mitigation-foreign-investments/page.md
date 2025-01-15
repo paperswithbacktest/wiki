@@ -113,7 +113,7 @@ Technical analysis is another strategy widely employed in the forex market. This
 Furthermore, leveraging algorithmic trading systems can enhance trading efficiency and accuracy. Algorithms execute trades based on predefined criteria, minimizing human error and emotional bias. Python, a popular programming language, is often used to develop automated trading scripts. Here is an example of a basic trading algorithm using Python:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import talib
 
 # Download historical data for a currency pair

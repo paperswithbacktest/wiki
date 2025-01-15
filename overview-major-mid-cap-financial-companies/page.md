@@ -50,7 +50,7 @@ Algorithmic trading addresses the liquidity issue by allowing for rapid executio
 For example, a Python implementation of a basic algorithmic trading strategy might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the stock and time period
 ticker = 'EWBC'  # Example mid-cap stock: East West Bancorp, Inc.

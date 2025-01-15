@@ -59,7 +59,7 @@ Once installed, these libraries must be imported into your Python script. Includ
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 ```
 
 ### Overview of the Coding Environment and Tools Used for Algorithmic Trading
@@ -85,7 +85,7 @@ To retrieve historical stock or [ETF](/wiki/etf-trading-strategies) data necessa
 2. **Importing the Library**:
    After installation, import `yfinance` into your Python script or notebook:
    ```python
-   import yfinance as yf
+   import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
    ```
 
 3. **Downloading Stock/ETF Data**:
@@ -261,7 +261,7 @@ Here is a simplified Python snippet to demonstrate the evaluation:
 
 ```python
 import pandas as pd
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical data
 data = yf.download('AAPL', start='2020-01-01', end='2023-10-01')

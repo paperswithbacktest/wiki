@@ -79,7 +79,7 @@ Algorithmic strategies can be employed to optimize UNG trades in several ways. F
 
 ```python
 import numpy as np
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 from scipy.stats import linregress
 
 # Download UNG historical data

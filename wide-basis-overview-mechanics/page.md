@@ -133,7 +133,7 @@ Real-time data feeds are crucial for algorithmic trading, providing the latest m
 An example setup in Python to access real-time financial data might use an API like `yfinance` or `alpaca-trade-api`:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch real-time data for a financial instrument
 ticker = yf.Ticker("AAPL")

@@ -42,7 +42,7 @@ Programming is a critical aspect, as it translates trading strategies into execu
 For instance, a basic trading algorithm implemented in Python might look as follows:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 class SimpleMovingAverage:
     def __init__(self, symbol, short_window, long_window):

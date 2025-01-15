@@ -101,7 +101,7 @@ Furthermore, the `pandas_datareader` library provides tools to read data from ma
 Here is a simple Python example using `yfinance` to download historical stock data for a given company:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define the stock ticker and the period for which data is required
 ticker = "AAPL"

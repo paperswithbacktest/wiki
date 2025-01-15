@@ -60,7 +60,7 @@ In practical terms, investors can use financial modeling and data analysis tools
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a stock, e.g., Apple Inc.
 data = yf.download('AAPL', start='2010-01-01', end='2023-01-01')

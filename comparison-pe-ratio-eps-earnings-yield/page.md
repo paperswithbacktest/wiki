@@ -110,7 +110,7 @@ Algorithmic trading systems can employ Earnings Yield to filter stocks based on 
 Furthermore, Earnings Yield can be integrated into multifactor models, where it serves as one of several indicators used to predict stock price trajectories. These models commonly utilize [machine learning](/wiki/machine-learning) techniques to enhance predictive accuracy. A basic implementation might begin with retrieving stock data, calculating Earnings Yield, and establishing a decision rule. Here’s a simple Python example illustrating this concept:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Define a function to calculate Earnings Yield
 def calculate_earnings_yield(stock_ticker):

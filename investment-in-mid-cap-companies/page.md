@@ -82,7 +82,7 @@ In addition to these, [statistical arbitrage](/wiki/statistical-arbitrage) strat
 Here is a simple Python example to illustrate a mean reversion algorithm for a mid-cap stock:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Download historical data for a mid-cap stock

@@ -65,7 +65,7 @@ Back-testing is an integral part of algorithmic trading that further enhances st
 ```python
 from backtesting import Backtest, Strategy
 import backtesting as bt
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 class MyStrategy(Strategy):
     ... # Define entry and exit rules

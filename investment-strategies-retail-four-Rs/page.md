@@ -123,7 +123,7 @@ The democratization of sophisticated trading tools has allowed retail investors 
 Python, a popular programming language, facilitates the development and implementation of these strategies. Below is a simple example of a moving average crossover strategy, a common algorithmic trading technique:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch historical data

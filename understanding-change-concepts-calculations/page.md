@@ -72,7 +72,7 @@ Implementing change calculations in trading strategies necessitates an active en
 One practical application is automating stock purchases based on percentage change. By coding a strategy that initiates stock purchases during significant price drops, traders can capitalize on potential undervaluation. For instance, the following Python code snippet demonstrates how percentage change can be calculated to trigger an automated buy signal when a stock's price falls by more than 5% in a day:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Fetch historical price data
 data = yf.download('AAPL', period='5d', interval='1d')

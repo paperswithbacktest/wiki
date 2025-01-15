@@ -148,7 +148,7 @@ Combining both strategies can form a solid framework for achieving consistent an
 For example, a Python script can be employed to automate the process of identifying dividend stocks with upcoming ex-dividend dates and executing trades accordingly. Here’s a simplistic illustration of such a script:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def select_dividend_stocks(ticker_list):
     selected_stocks = []

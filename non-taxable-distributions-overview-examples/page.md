@@ -129,7 +129,7 @@ A strategic approach to investment can undeniably enhance the benefits obtained 
 To illustrate, consider a Python algorithm capable of tracking corporate announcements and adjusting portfolios based on expected changes in non-taxable distributions:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def monitor_corporate_actions(ticker):
     stock = yf.Ticker(ticker)

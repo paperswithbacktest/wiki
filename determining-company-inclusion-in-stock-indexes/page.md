@@ -125,7 +125,7 @@ Understanding the criteria for index inclusion is also pivotal for investors see
 Moreover, investors may benefit from using algorithmic tools to track and predict index changes. For example, a Python script could be developed to scrape data from financial news websites, monitoring for announcements of index rebalances or potential inclusions/exclusions. An example of a simple Python script to track company stock data from Yahoo Finance APIs might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download data for a specific company
 ticker = "AAPL"

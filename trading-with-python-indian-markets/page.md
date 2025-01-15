@@ -95,7 +95,7 @@ Utilizing Python to implement algorithmic trading strategies can significantly e
 To begin, traders need to access historical price data. This is crucial for calculating moving averages and backtesting the strategy. In Python, libraries such as `pandas` and `yfinance`, a financial library to extract data from Yahoo Finance, make data retrieval straightforward.
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 # Download historical data for a specified stock
 data = yf.download('AAPL', start='2022-01-01', end='2023-01-01')

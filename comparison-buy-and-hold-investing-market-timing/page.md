@@ -76,7 +76,7 @@ Integrating algorithmic mechanisms with traditional strategies enhances decision
 Python code for a simplistic strategy that combines buy-and-hold with a basic algorithmic timing signal might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch historical data

@@ -30,7 +30,7 @@ Incorporating accurate market metrics into trading strategies ensures better ris
 Here is a simple Python example showing how these metrics might be used in an [algorithmic trading](/wiki/algorithmic-trading) scenario:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Download historical data for a stock

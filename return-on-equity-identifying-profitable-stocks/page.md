@@ -71,7 +71,7 @@ Algorithmic trading also offers the advantage of real-time market monitoring. By
 To illustrate, consider a basic Python snippet for identifying stocks with high ROE:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def get_high_roe_stocks(tickers, roe_threshold):
     high_roe_stocks = []

@@ -54,7 +54,7 @@ Algorithmic trading also has a substantial impact on transaction costs. By autom
 Here is a simple example of an algorithmic trading strategy using Python, which illustrates the basic structure of rapid execution and decision-making:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch historical data

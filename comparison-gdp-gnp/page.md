@@ -81,7 +81,7 @@ Moreover, algorithmic systems can react swiftly to GDP and GNP releases, parsing
 To implement such systems, traders might use Python, a preferred language for its extensive libraries and ease of use. A simple Python snippet for fetching GDP data and making a trading decision might look like this:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 
 def fetch_gdp_data(country_code):
     # Hypothetical function to get GDP data

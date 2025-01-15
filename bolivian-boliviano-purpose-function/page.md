@@ -58,7 +58,7 @@ Several types of algorithms are employed in trading currencies such as the Boliv
 One example of a basic trading algorithm in Python for a mean reversion strategy could be:
 
 ```python
-import yfinance as yf
+import yfinance as yf  # For more datasets, visit: https://paperswithbacktest.com/datasets
 import numpy as np
 
 # Fetch historical data for BOB/USD
