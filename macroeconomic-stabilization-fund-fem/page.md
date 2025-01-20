@@ -94,3 +94,5 @@ Policymakers should consider a strategic integration of algorithmic trading and 
 [6]: []() **Truby, J.** (2020). ["Governance networks in financial stability: The EU, Norway and Russia."](https://www.mathsisfun.com/numbers/factorial.html) *Journal of Banking Regulation.*
 
 [7]: []() **Zhu, Y.** (2003). ["Algorithmic trading: The basics."](https://sprunki.org/sprunki-phase-7) *MIT Press.*
+[8]: []() **Michael, Wu.** (2021). ["Quantitive Strategies"](https://a1ccalculator.app/) *WebPage.*
+
