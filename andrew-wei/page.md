@@ -19,7 +19,7 @@ While at Yale University, Wei was actively involved in both teaching and researc
 
 Wei's professional experience was equally distinguished. During the summer of 2020, he worked as a Research Analyst at Voloridge Investment Management, LLC, where he further honed his analytical skills. This was followed by a brief externship in business development at CertiK, a blockchain security company, where he expanded his insight into financial technologies.
 
-In 2021, Wei seized the opportunity to intern at IMC Trading as a Quantitative Trading Intern, focusing on US Index D1. The experience equipped him with practical skills in quantitative trading, paving the way for his future endeavors in the financial industry.
+In 2021, Wei seized the opportunity to intern at IMC Trading as a Quantitative Trading Intern, focusing on US Index D1. The experience equipped him with practical skills in [quantitative trading](/wiki/quantitative-trading), paving the way for his future endeavors in the financial industry.
 
 ## Career in Algorithmic Trading
 

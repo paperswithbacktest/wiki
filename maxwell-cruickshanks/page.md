@@ -21,7 +21,7 @@ Throughout his academic career, Maxwell Cruickshanks has actively sought out opp
 
 ### Untether AI (May 2023 - August 2023)
 
-Cruickshanks embarked on his professional journey with an internship at Untether AI, a company based in Toronto, Ontario, that specializes in artificial intelligence. As a Compute Kernel Software Engineering Intern, he contributed to the development of efficient computing solutions for AI applications. This role allowed him to work with cutting-edge technology and deepen his understanding of how software and hardware interact to power AI systems.
+Cruickshanks embarked on his professional journey with an internship at Untether AI, a company based in Toronto, Ontario, that specializes in [artificial intelligence](/wiki/ai-artificial-intelligence). As a Compute Kernel Software Engineering Intern, he contributed to the development of efficient computing solutions for AI applications. This role allowed him to work with cutting-edge technology and deepen his understanding of how software and hardware interact to power AI systems.
 
 ### LispLogics (May 2024 - August 2024)
 

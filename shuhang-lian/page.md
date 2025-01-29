@@ -19,7 +19,7 @@ His transition into finance was marked by his enrollment in the Questrom School 
 
 Shuhang Lian's career trajectory took him through various roles that honed his skills in quantitative analysis and algorithmic trading. His initial foray into the finance industry began in 2019 as a part-time assistant at Roland Berger in Shanghai, China. During this period, Shuhang gained valuable experience by assisting in desk research and analyzing internal and external market factors to guide clients' strategic directions.
 
-In the summer of 2020, he interned at Xiangcai Fund Management Co., Ltd in Shanghai, where he dabbled in market simulations and stock portfolio generation. Notably, Shuhang successfully simulated the CSI 800 index from January 2019 to July 2020 to prepare for historical market analysis using Python. His work on simulating industry timing trade strategies based on return dispersion further underscored his proficiency in developing algorithmic solutions.
+In the summer of 2020, he interned at Xiangcai Fund Management Co., Ltd in Shanghai, where he dabbled in market simulations and stock portfolio generation. Notably, Shuhang successfully simulated the CSI 800 index from January 2019 to July 2020 to prepare for historical market analysis using Python. His work on simulating industry timing trade strategies based on return [dispersion](/wiki/dispersion-trading) further underscored his proficiency in developing algorithmic solutions.
 
 ### Developing Multi-Factor Trading Strategy
 

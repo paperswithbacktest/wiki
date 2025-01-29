@@ -19,7 +19,7 @@ Following MSCI, Jianing transitioned into a senior role at Baidu, Inc., a major 
 
 In 2020, Jianing gained exposure to the Boston financial scene via an internship at PanAgora Asset Management. This brief yet impactful experience in the summer of 2020 enhanced his skills in alpha research, machine learning, and NLP. His success in these roles can be attributed to his solid programming capabilities in languages such as Python, Matlab, C++, R, and SQL.
 
-Since August 2021, Jianing has been a pivotal member of the team at Acadian Asset Management in Boston, Massachusetts, where he serves as a Quantitative Research Analyst. This role leverages his extensive expertise in systematic alpha research and global equities. Jianing combines his skills in quantitative research, machine learning, and portfolio management to drive success in active equity strategies and alternative data analysis.
+Since August 2021, Jianing has been a pivotal member of the team at Acadian Asset Management in Boston, Massachusetts, where he serves as a Quantitative Research Analyst. This role leverages his extensive expertise in systematic alpha research and global equities. Jianing combines his skills in quantitative research, machine learning, and portfolio management to drive success in active equity strategies and [alternative data](/wiki/best-alternative-data) analysis.
 
 ## Research and Contributions
 

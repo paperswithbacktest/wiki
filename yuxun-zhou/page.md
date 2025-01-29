@@ -19,7 +19,7 @@ Zhou's educational path culminated at the University of California, Berkeley, wh
 
 As a Graduate Student Researcher at UC Berkeley, Zhou made significant contributions to the field of machine learning and statistical analysis. His research was centered on the intersection of theoretical development and practical application, with a focus on how learning algorithms can be structured to make accurate predictions from incomplete data.
 
-Among his notable academic endeavors, Zhou was a Graduate Student Instructor for the course CS281A/Stat241a: Statistical Learning Theory, a graduate-level class that delved into machine learning and graphical models. His involvement in teaching broadened his understanding of these subjects while simultaneously impacting budding researchers by guiding them through complex theoretical concepts.
+Among his notable academic endeavors, Zhou was a Graduate Student Instructor for the [course](/wiki/best-algorithmic-trading-courses) CS281A/Stat241a: Statistical Learning Theory, a graduate-level class that delved into machine learning and graphical models. His involvement in teaching broadened his understanding of these subjects while simultaneously impacting budding researchers by guiding them through complex theoretical concepts.
 
 Zhou’s work resulted in several key publications that include:
 - "Data-driven event detection with partial knowledge: A hidden structure semi-supervised learning method"

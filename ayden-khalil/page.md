@@ -21,7 +21,7 @@ Khalil embarked on his professional journey while still at university by joining
 
 ### Career at NAB
 
-In January 2021, Khalil joined National Australia Bank (NAB) as a Software Engineer Intern. Over six months, he gained practical experience in software development and engineering principles vital for building scalable systems. From July 2021 to December 2021, Khalil transitioned to a Data Science Intern role, where he applied machine learning algorithms to financial services, significantly contributing to predictive analytics models that enhanced data-driven decision-making at the bank.
+In January 2021, Khalil joined National Australia Bank (NAB) as a Software Engineer Intern. Over six months, he gained practical experience in software development and engineering principles vital for building scalable systems. From July 2021 to December 2021, Khalil transitioned to a Data Science Intern role, where he applied [machine learning](/wiki/machine-learning) algorithms to financial services, significantly contributing to predictive analytics models that enhanced data-driven decision-making at the bank.
 
 In January 2022, Khalil secured a full-time position as a Data Scientist at NAB. Over the subsequent year, he demonstrated proficiency in structuring and analyzing voluminous datasets, refining algorithmic models instrumental in optimizing operational strategies. His contributions were pivotal in the development of NAB’s advanced analytics infrastructure, further preparing him for the quantitative challenges in [algorithmic trading](/wiki/algorithmic-trading).
 

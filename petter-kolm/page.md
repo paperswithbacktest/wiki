@@ -21,7 +21,7 @@ Petter Kolm is a Full Clinical Professor of Mathematics at the Courant Institute
 
 Kolm's contributions to quantitative finance are extensive; he was recognized as the "Quant of the Year" in 2021 by Portfolio Management Research (PMR) and the Journal of Portfolio Management (JPM) for his pioneering work in quantitative portfolio theory. His expertise encompasses data science, econometrics, financial mathematics, and the development of forecasting models. He has been instrumental in advancing high-frequency trading, machine learning applications in finance, and portfolio optimization techniques that consider transaction costs and taxes.
 
-His research interests further extend to risk management, robo-advisory, reinforcement learning, and stochastic optimal control. Through his scholarship and research, Kolm has significantly influenced the development of tax-aware investing and optimal trading strategies.
+His research interests further extend to risk management, robo-advisory, [reinforcement learning](/wiki/reinforcement-learning), and stochastic optimal control. Through his scholarship and research, Kolm has significantly influenced the development of tax-aware investing and optimal trading strategies.
 
 ### Industry Engagements and Advisory Roles
 

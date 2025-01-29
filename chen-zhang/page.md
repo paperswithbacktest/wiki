@@ -21,7 +21,7 @@ Chen Zhang commenced his professional career in March 2020 at Huawei Technologie
 
 From September 2020 to January 2022, Zhang held the position of Machine Learning Research Associate. During this period, he worked on pioneering projects that harnessed the cutting-edge capabilities of machine learning to address complex industrial challenges. His efforts were integral to the conceptualization and execution of algorithms designed to optimize operational efficiencies and problem-solving methodologies.
 
-In January 2022, Chen advanced to the role of Machine Learning Research Scientist, a position he held until August of the same year. Here, Zhang's work centered around enhancing deep learning architectures, introducing innovative hyperparameter tuning methods and optimizing regularization techniques. His contributions have been noted within the industry and serve as references for contemporary research and applications in machine learning and finance.
+In January 2022, Chen advanced to the role of Machine Learning Research Scientist, a position he held until August of the same year. Here, Zhang's work centered around enhancing [deep learning](/wiki/deep-learning) architectures, introducing innovative hyperparameter tuning methods and optimizing regularization techniques. His contributions have been noted within the industry and serve as references for contemporary research and applications in machine learning and finance.
 
 ### Akuna Capital
 

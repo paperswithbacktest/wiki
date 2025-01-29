@@ -19,7 +19,7 @@ Furthering his education, Boroditsky moved to the United States to attend the Un
 
 ### AT&T Labs
 
-Boroditsky began his professional career as a researcher at AT&T Labs, where he spent nearly seven years advancing telecommunication technologies. Serving first as a Senior Technical Staff Member and then as a Principal Technical Staff Member, he was instrumental in inventing new methods for the measurement and mitigation of polarization mode dispersion. His work in wavelength-division multiplexing (WDM) and optical packet switching was pivotal in optimizing power management in local area networks, contributing significantly to the development of modern high-speed internet infrastructure.
+Boroditsky began his professional career as a researcher at AT&T Labs, where he spent nearly seven years advancing telecommunication technologies. Serving first as a Senior Technical Staff Member and then as a Principal Technical Staff Member, he was instrumental in inventing new methods for the measurement and mitigation of polarization mode [dispersion](/wiki/dispersion-trading). His work in wavelength-division multiplexing (WDM) and optical packet switching was pivotal in optimizing power management in local area networks, contributing significantly to the development of modern high-speed internet infrastructure.
 
 ### Transition to Finance: KCG Holdings, Inc.
 

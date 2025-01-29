@@ -21,7 +21,7 @@ In September 2005, Bernard transitioned to a role as a Senior Portfolio Analyst 
 
 ### Rise in Algorithmic Trading
 
-In July 2007, Bernard joined Acadian Asset Management as the Vice President and Regional Lead Analyst for Investment Analytics and Data. His role involves overseeing algorithmic trading strategies, utilizing multi-factor equity stock model algorithms to enhance investment selections. Bernard’s main focus is on researching and optimizing these algorithms to provide accurate and efficient signals for alpha generation.
+In July 2007, Bernard joined Acadian Asset Management as the Vice President and Regional Lead Analyst for Investment Analytics and Data. His role involves overseeing algorithmic trading strategies, utilizing multi-[factor](/wiki/factor-investing) equity stock model algorithms to enhance investment selections. Bernard’s main focus is on researching and optimizing these algorithms to provide accurate and efficient signals for alpha generation.
 
 His proficiency in various programming and data analytics tools, such as Python, TensorFlow, and SQL, sets him apart in the field of [algorithmic trading](/wiki/algorithmic-trading). Bernard’s technical expertise is instrumental in developing portfolio analytics dashboards and robust data pipelines, which ensure the high quality of both fundamental and market data for global equities.
 

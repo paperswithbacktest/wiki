@@ -21,7 +21,7 @@ During his time at university, Shead also worked as a mathematics tutor from Dec
 
 ## Transition to Algorithmic Trading
 
-David Shead's transition into the world of algorithmic trading began with internships that would set the stage for his future career. In December 2019, he joined Tibra Capital as a quantitative trading intern. During this two-month internship in Austinmer, he gained valuable experience in trading strategies and quantitative analysis. Despite being offered a graduate role, Shead chose to decline, seeking opportunities that more closely aligned with his aspirations.
+David Shead's transition into the world of algorithmic trading began with internships that would set the stage for his future career. In December 2019, he joined Tibra Capital as a [quantitative trading](/wiki/quantitative-trading) intern. During this two-month internship in Austinmer, he gained valuable experience in trading strategies and quantitative analysis. Despite being offered a graduate role, Shead chose to decline, seeking opportunities that more closely aligned with his aspirations.
 
 In January 2021, Shead interned at Akuna Capital, a renowned trading firm known for its innovation in derivative and [algorithmic trading](/wiki/algorithmic-trading). His performance during this two-month internship was impressive enough to earn him a graduate role offer, which he accepted. Akuna Capital, headquartered in Sydney, provided Shead with an environment to apply his engineering and mathematical prowess to real-world trading challenges.
 

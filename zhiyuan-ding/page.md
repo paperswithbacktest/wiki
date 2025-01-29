@@ -19,7 +19,7 @@ His academic journey culminated at University College London (UCL), where he ear
 
 ## Professional Career
 
-Zhiyuan Ding began his professional career at Akuna Capital, a prominent trading firm known for its advanced quantitative trading strategies and proprietary technology. Since October 2022, he has served as a Quantitative Researcher at their London office. In this role, Ding participates in the development and optimization of algorithmic trading strategies that leverage his extensive knowledge in mathematics, programming, and machine learning.
+Zhiyuan Ding began his professional career at Akuna Capital, a prominent trading firm known for its advanced [quantitative trading](/wiki/quantitative-trading) strategies and proprietary technology. Since October 2022, he has served as a Quantitative Researcher at their London office. In this role, Ding participates in the development and optimization of algorithmic trading strategies that leverage his extensive knowledge in mathematics, programming, and machine learning.
 
 His work at Akuna Capital involves rigorous quantitative analysis to model market behaviors and identify trading opportunities, integral to the firm's success in the highly competitive world of financial trading. Ding's analytical prowess and adeptness with programming languages, notably Python, enable him to design and implement complex algorithms that enhance trading performance.
 

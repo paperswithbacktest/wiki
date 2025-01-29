@@ -21,7 +21,7 @@ Before these positions, Ranaldo contributed to academia as a Lecture and Adjunct
 
 ### Research Contributions
 
-Ranaldo's research interests span several crucial areas in finance, with significant input in systemic risk and market regulation. His work on “Money Market Disconnect” explores the fragmentation within monetary markets, while “Liquidity Risk and Funding Cost” addresses the intricacies of liquidity measures and their implications for financial stability. His paper “Safe Asset Carry Trade” provides insights into trading safe-haven assets, and "Segmentation & Time-of-Day Patterns in Foreign Exchange Markets" elucidates on temporal variations in currency trading.
+Ranaldo's research interests span several crucial areas in finance, with significant input in systemic risk and market regulation. His work on “Money Market Disconnect” explores the fragmentation within monetary markets, while “Liquidity Risk and Funding Cost” addresses the intricacies of [liquidity](/wiki/liquidity-risk-premium) measures and their implications for financial stability. His paper “Safe Asset Carry Trade” provides insights into trading safe-haven assets, and "Segmentation & Time-of-Day Patterns in Foreign Exchange Markets" elucidates on temporal variations in currency trading.
 
 He is also known for investigating transaction costs on the Swiss Stock Exchange, identifying the intricate cost structures that traders face. Ranaldo's research often intersects with real-world applications, informing public policy and financial market regulation.
 

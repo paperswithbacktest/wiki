@@ -21,7 +21,7 @@ Upon completing his formal education, Meucci continued to refine his skills and 
 
 Attilio Meucci began his professional journey as a Vice President at Bain & Company, where he worked from 1999 to 2002. In this role, he designed quantitative financial models for major banks, asset managers, and insurance companies, leveraging his expertise to address complex financial challenges. Projects ranged from market and credit risk management to strategic allocation and personal financial planning.
 
-Moving on to Relative Value International between 2002 and 2004, Meucci served as a Quantitative Analyst and Trader. He was responsible for creating quantitative trading signals based on advanced modeling techniques for assets such as equities and government futures, contributing to the firm's strategic trading initiatives.
+Moving on to Relative Value International between 2002 and 2004, Meucci served as a Quantitative Analyst and Trader. He was responsible for creating [quantitative trading](/wiki/quantitative-trading) signals based on advanced modeling techniques for assets such as equities and government futures, contributing to the firm's strategic trading initiatives.
 
 ### Lehman Brothers and Bloomberg
 
