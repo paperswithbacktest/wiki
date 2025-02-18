@@ -15,7 +15,7 @@ This analysis not only presents an in-depth understanding of Crypto.com's resour
 
 ## Table of Contents
 
-## Overview of Crypto.com in 2024
+## Overview of Crypto.com in 2025
 
 Crypto.com, founded in 2016 by Kris Marszalek, has grown significantly over the years to establish itself as a prominent entity within the cryptocurrency ecosystem. Initially launched as Monaco Technologies GmbH, the company rebranded to Crypto.com in 2018 following the acquisition of the domain name. This strategic branding shift mirrored an evolving focus towards providing a comprehensive range of financial services in the cryptocurrency sector. By 2024, Crypto.com had expanded its global footprint, serving millions of users across over 90 countries, showcasing its extensive market presence and diverse user base.
 

@@ -1,6 +1,6 @@
 ---
-title: "2024 Coinbase Platform Evaluation (Algo Trading)"
-description: "Explore Coinbase's features for algorithmic trading with a focus on user-centric design and tools for both beginner and advanced traders in 2024."
+title: "2025 Coinbase Platform Evaluation (Algo Trading)"
+description: "Explore Coinbase's features for algorithmic trading with a focus on user-centric design and tools for both beginner and advanced traders in 2025."
 ---
 
 Coinbase is a prominent cryptocurrency exchange platform, established in 2012, which has significantly streamlined the processes of buying, selling, and trading digital currencies. Its intuitive design and comprehensive services have made it accessible to a broad range of users, from newcomers to seasoned traders. Over the years, Coinbase has become one of the largest and most respected exchanges in the cryptocurrency ecosystem, providing secure and reliable transactions in a rapidly evolving digital market.

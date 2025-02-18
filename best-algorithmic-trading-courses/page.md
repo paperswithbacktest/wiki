@@ -1,6 +1,6 @@
 ---
-title: "Best Algorithmic Trading Courses in 2024"
-description: Discover the best algorithmic trading courses in 2024 and equip yourself with the knowledge and practical skills necessary to succeed in this dynamic and lucrative field. Learn about key components of an ideal course, including hands-on learning, expert instruction, up-to-date curriculum, and more. Explore roadmaps and modules for in-depth study of Python, financial libraries, statistics, AI, and data sources. Dive into the world of algorithmic trading with comprehensive courses from trusted educators. Start your journey today!
+title: "Best Algorithmic Trading Courses in 2025"
+description: Discover the best algorithmic trading courses in 2025 and equip yourself with the knowledge and practical skills necessary to succeed in this dynamic and lucrative field. Learn about key components of an ideal course, including hands-on learning, expert instruction, up-to-date curriculum, and more. Explore roadmaps and modules for in-depth study of Python, financial libraries, statistics, AI, and data sources. Dive into the world of algorithmic trading with comprehensive courses from trusted educators. Start your journey today!
 ---
 
 
