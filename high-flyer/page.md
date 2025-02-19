@@ -24,7 +24,7 @@ We invite you to join us in exploring the historical development, current status
 
 **High-Flyer (Chinese: 幻方; pinyin: Huàn Fāng)** is a Chinese hedge fund company known for its deep integration of **artificial intelligence** in **quantitative investment**. Officially incorporated in **February 2016** in Ningbo, Zhejiang Province, High-Flyer has grown into one of China’s notable hedge funds, backed by a robust AI-driven trading platform. Its headquarters is located in **Hangzhou, Zhejiang**, and it is also recognized as the founder and chief supporter of the AI research firm **DeepSeek**.
 
-High-Flyer’s activities encompass algorithmic trading, AI-driven stock selection, and broader investment strategies that have drawn comparisons to international quantitative powerhouses. At its peak in **October 2024**, the hedge fund reportedly oversaw **US\$7 billion** in assets under management (AUM). High-Flyer prides itself on using **machine learning** and **deep learning** architectures for building trading models, drawing both praise and scrutiny from the investment community.
+High-Flyer’s activities encompass [algorithmic trading](/wiki/algorithmic-trading), AI-driven stock selection, and broader investment strategies that have drawn comparisons to international quantitative powerhouses. At its peak in **October 2024**, the hedge fund reportedly oversaw **US\$7 billion** in assets under management (AUM). High-Flyer prides itself on using **machine learning** and **[deep learning](/wiki/deep-learning)** architectures for building trading models, drawing both praise and scrutiny from the investment community.
 
 From its inception, High-Flyer focused on refining its quantitative models, initially emphasizing strategies that harnessed market and price-[volume](/wiki/volume-trading-strategy) data. These methods have proved particularly effective within China’s dynamic market conditions, characterized by its retail-dominated A-share market and unique regulatory landscape. The firm's adaptability and commitment to continuous improvement in model accuracy and predictive capabilities set it apart as a leader in quantitative finance.
 
@@ -40,7 +40,7 @@ High-Flyer traces its origins to **2015–2016**, when the founding team—which
 - **Zhejiang High-Flyer Asset Management Co., Ltd.** (est. 2015)  
 - **Ningbo High-Flyer Quantitative Investment Management Partnership LLP** (est. 2016)
 
-These entities, regulated by the Asset Management Association of China (AMAC), collectively manage over 450 investment products. The founding generation initially tested a multi-factor model driven by **price-volume signals**; by 2017, they started pivoting to **machine-learning-based** strategies to handle large-scale data and adapt to dynamic market conditions.
+These entities, regulated by the Asset Management Association of China (AMAC), collectively manage over 450 investment products. The founding generation initially tested a multi-[factor](/wiki/factor-investing) model driven by **price-volume signals**; by 2017, they started pivoting to **machine-learning-based** strategies to handle large-scale data and adapt to dynamic market conditions.
 
 ### Expansion and Hong Kong Subsidiary (2018–2019)  
 As the company’s trading algorithms evolved, High-Flyer ventured beyond mainland China. In 2019, it established **High-Flyer Capital Management (Hong Kong) Limited**, regulated by Hong Kong’s Securities and Futures Commission (SFC). By 2020, High-Flyer had earned a **Qualified Foreign Institutional Investor (QFII)** status, enabling broader cross-border asset allocations.
@@ -56,7 +56,7 @@ By 2021, the hedge fund had fully integrated AI in every component of its invest
 Following the challenging period in late 2021, High-Flyer publicly apologized to investors via WeChat, explaining that AI models had “poor timing” on trades and took on higher levels of risk during peak volatility. The company also acknowledged overly fast expansion. In **March 2022**, High-Flyer advised certain volatility-sensitive clients to retrieve their funds, anticipating further market declines.
 
 ### Founding DeepSeek (2023)  
-In **April 2023**, High-Flyer announced the creation of **DeepSeek**, aimed at exploring the “essence of artificial general intelligence (AGI).” While DeepSeek carries forward High-Flyer’s AI legacy, executives stated that DeepSeek’s AGI research would not be directly used to trade equities. By 2024, DeepSeek had garnered international media attention for developing cutting-edge AI models at costs significantly lower than established U.S. tech firms.
+In **April 2023**, High-Flyer announced the creation of **DeepSeek**, aimed at exploring the “essence of [artificial general intelligence](/wiki/agi-artificial-general-intelligence) (AGI).” While DeepSeek carries forward High-Flyer’s AI legacy, executives stated that DeepSeek’s AGI research would not be directly used to trade equities. By 2024, DeepSeek had garnered international media attention for developing cutting-edge AI models at costs significantly lower than established U.S. tech firms.
 
 ## Corporate Structure and Key Personalities
 
@@ -75,7 +75,7 @@ In **April 2023**, High-Flyer announced the creation of **DeepSeek**, aimed at e
   - **DeepSeek** – Specialized in **AI research** and AGI.  
   - **High-Flyer AI** – Responsible for in-house AI model development and Big Data analytics.
 
-High-Flyer’s reliance on AI permeates all levels—from data gathering, neural network modeling, and risk management, to automated trade execution. This approach has garnered attention from both domestic and international investors seeking innovative strategies in an increasingly competitive field.
+High-Flyer’s reliance on AI permeates all levels—from data gathering, [neural network](/wiki/neural-network) modeling, and risk management, to automated trade execution. This approach has garnered attention from both domestic and international investors seeking innovative strategies in an increasingly competitive field.
 
 
 ## AI Infrastructure and Research
