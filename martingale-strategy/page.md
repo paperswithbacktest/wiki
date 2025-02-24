@@ -3,7 +3,7 @@ title: "Martingale strategy"
 description: Learn about the Martingale Strategy, a popular betting system used in gambling and trading. This progressive strategy involves doubling the stake after each loss with the belief that an eventual win will recover all losses. Discover its mathematical foundation, risks, and practical implementation.
 ---
 
-![Image](images/1.jpg)
+![Image](images/3.png)
 
 ## Table of Contents
 
@@ -21,6 +21,8 @@ The martingale strategy traces its roots back to 18th-century France, emerging f
 The concept gained traction in the 1700s among mathematicians and gamblers in European salons, especially as probability theory was developing. Figures like mathematician Jean le Rond d’Alembert indirectly influenced its popularity by exploring betting systems, though the martingale itself wasn’t rigorously studied until later. By the 19th century, it had become a well-known (and often criticized) approach in casinos, eventually spreading to other fields like finance as people saw parallels in risk-taking behavior. Despite its origins in gambling folklore, it’s now a textbook example in probability and economic discussions.
 
 ## How does the martingale strategy work in betting or gambling?
+
+![Image](images/4.png)
 
 In betting or gambling, the martingale strategy is a straightforward system designed to recover losses and secure a profit by doubling your bet after each loss until you win. Here’s how it works step-by-step:
 
@@ -79,6 +81,8 @@ The strategy shines in games with short-term, binary outcomes—win or lose—an
 
 ## Is the martingale strategy legal to use in casinos or trading platforms?
 
+![Image](images/1.jpg)
+
 Yes, the martingale strategy is perfectly legal to use in both casinos and trading platforms—it’s just a betting or investment method, not a form of cheating or manipulation. However, there are practical hurdles that can limit its use, and some places might frown on it without banning it outright.
 
 ### In Casinos
@@ -90,6 +94,8 @@ In financial markets—like forex, stocks, or crypto—the martingale strategy i
 So, it’s legal everywhere it’s applied, but its effectiveness is curbed by built-in restrictions like betting caps or account limits. No one’s going to arrest you for trying it—just don’t expect the house or the market to let you double forever!
 
 ## What are the potential rewards of using the martingale strategy?
+
+![Image](images/5.png)
 
 The martingale strategy is a betting system where you double your wager after every loss, with the idea that when you eventually win, you’ll recover all previous losses and make a profit equal to your original stake. It’s most commonly associated with games like roulette, where you might bet on red or black, which offers roughly a 50/50 shot (ignoring the house edge for a moment). Let’s break down the potential rewards.
 
@@ -221,6 +227,8 @@ Modifying the martingale strategy to reduce risk means tweaking its core doublin
 
 The **anti-martingale** (or reverse martingale) flips the script: you double your bet after a *win*, not a loss, and reset to your base bet after a loss. Say you start with \$10 on a 50/50 game. Win, you get \$20, then bet \$20. Win again, \$40, bet \$40. Lose, drop back to \$10. The idea is to ride hot streaks—variance’s upside—while capping losses during slumps. If you hit three wins (\$10 → \$20 → \$40), you’re up \$70 total, way more than martingale’s fixed \$10 profit. Risk shrinks because you’re not chasing losses with bigger bets; a losing streak just costs your base unit each time. Downside? No recovery mechanism—losses pile up steadily if luck sours, and you need to know when to cash out a streak.
 
+![Image](images/6.png)
+
 The **partial martingale** dials back the doubling. Instead of 2x after a loss, you increase by a smaller factor—say, 1.5x—or a fixed amount, like \$5. Start with \$10, lose, bet \$15. Lose, \$22.50. Win, you get \$45, covering \$47.50 wagered, so you’re down \$2.50, not wiped out. Or with a +\$5 step: \$10, \$15, \$20—third win nets \$40 against \$45 spent, a \$5 loss. It’s slower, so your bankroll lasts longer against streaks—\$1,000 survives 10 losses at +\$5 (\$10 → \$55, \$595 total) versus martingale’s \$1,230 bust. Risk drops because bet growth isn’t exponential, but recovery’s partial too; you might not claw back all losses in one win.
 
 Other tweaks exist. A **capped martingale** sets a max bet—say, stop doubling at \$100. Lose \$10, \$20, \$40, \$80, then stick at \$100. Five losses cost \$350; a \$100 win nets \$200, cutting your hole to \$150. It avoids table limits or total ruin but sacrifices full recovery. A **stop-loss martingale** quits after a set loss—like \$500—preserving capital for another day. Both trade the “inevitable win” for damage control.
@@ -230,6 +238,8 @@ These mods reduce risk by dodging martingale’s all-in spiral. Anti-martingale 
 ## What mathematical models or simulations can test the effectiveness of the martingale strategy?
 
 Testing the martingale strategy’s effectiveness with mathematical models or simulations means leaning on tools that mimic its mechanics—bet doubling, win/loss streaks, and bankroll limits—while letting probability play out. Here are some solid approaches to crunch the numbers and see where it holds or folds.
+
+![Image](images/7.png)
 
 ### Mathematical Models
 1. **Expected Value (EV) Analysis**  
