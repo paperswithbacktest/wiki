@@ -19,7 +19,7 @@ These algorithms are designed to analyze vast amounts of market data, identifyin
 
 In practical application, algorithmic trading leverages quantitative models and mathematical computations, often integrating indicators and trading signals that determine the optimal timing and volume for executing trades. This automation ensures that trades are carried out based on predefined criteria, aligned with the trader's strategy, without the interference of emotional decision-making.
 
-Furthermore, algorithmic trading allows for high-frequency trading (HFT), a subset where algorithms execute a large number of orders at extremely rapid speeds. This can include strategies like arbitrage, where traders exploit price discrepancies between different markets or instruments, or market making, delivering liquidity and profiting from bid-ask spreads.
+Furthermore, algorithmic trading allows for high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), a subset where algorithms execute a large number of orders at extremely rapid speeds. This can include strategies like [arbitrage](/wiki/arbitrage), where traders exploit price discrepancies between different markets or instruments, or [market making](/wiki/market-making), delivering [liquidity](/wiki/liquidity-risk-premium) and profiting from bid-ask spreads.
 
 Overall, the implementation of [algorithmic trading](/wiki/algorithmic-trading) has revolutionized the financial markets by providing high-speed, high-frequency, and emotion-free trading solutions, contributing to more efficient and dynamic market operations.
 

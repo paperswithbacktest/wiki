@@ -19,7 +19,7 @@ Transformers were initially designed for natural language processing (NLP) and h
 
 In finance, transformers have been adapted to analyze complex dependencies inherent in market data. Financial markets are characterized by a multitude of interconnected events and variables that traditional models struggle to capture simultaneously. Transformers, with their self-attention capacity, can identify and weigh relevant information from a broad set of data points, capturing intricate patterns across varied time scales. This ability to link disparate market events enables more insightful analysis and informed trading decisions.
 
-Transformers also excel at capturing temporal and spatial relationships within data, which is crucial for financial forecasting. By identifying how different financial instruments interact and influence one another, transformers can provide a more holistic view of market dynamics. For example, they can associate an interest rate change in one region with currency fluctuations in another, offering traders a comprehensive perspective for decision-making.
+Transformers also excel at capturing temporal and spatial relationships within data, which is crucial for financial forecasting. By identifying how different financial instruments interact and influence one another, transformers can provide a more holistic view of market dynamics. For example, they can associate an [interest rate](/wiki/interest-rate-trading-strategies) change in one region with currency fluctuations in another, offering traders a comprehensive perspective for decision-making.
 
 The self-attention mechanism is mathematically expressed as:
 

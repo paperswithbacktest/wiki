@@ -19,7 +19,7 @@ Effective utilization of machine learning in trading demands a comprehensive und
 
 Market data is a fundamental component of algorithmic trading, acting as the lifeblood that informs decisions and strategy executions. Understanding its procurement and utilization is paramount to building robust trading algorithms.
 
-Market data encompasses real-time and historical information on financial instruments, such as stocks, commodities, and currencies. This data is critical for identifying price trends, volatility, and liquidity, providing the necessary context to make informed trading decisions. Traders often rely on well-established channels, such as stock exchanges and financial data providers, to source this data.
+Market data encompasses real-time and historical information on financial instruments, such as stocks, commodities, and currencies. This data is critical for identifying price trends, volatility, and [liquidity](/wiki/liquidity-risk-premium), providing the necessary context to make informed trading decisions. Traders often rely on well-established channels, such as stock exchanges and financial data providers, to source this data.
 
 In contrast, fundamental data offers insight into a company’s intrinsic value by evaluating its financial statements, management quality, and market position. Metrics such as earnings, revenue, and profit margins form the bedrock of [fundamental analysis](/wiki/fundamental-analysis). Incorporating this data enables traders to assess the financial health and growth prospects of firms, complementing market data for a more holistic trading strategy.
 

@@ -19,7 +19,7 @@ Despite these challenges, advancements in computational power and algorithm desi
 
 ## Understanding Reinforcement Learning
 
-Reinforcement Learning (RL) is a subset of machine learning where an agent learns to make decisions through trial and error interactions with an environment. The fundamental aim is to discover a policy that maximizes cumulative rewards over time. RL is characterized by several key components: agents, environments, actions, and rewards.
+Reinforcement Learning (RL) is a subset of [machine learning](/wiki/machine-learning) where an agent learns to make decisions through trial and error interactions with an environment. The fundamental aim is to discover a policy that maximizes cumulative rewards over time. RL is characterized by several key components: agents, environments, actions, and rewards.
 
 The agent is the decision-maker that interacts with the environment by taking actions. The environment encompasses everything the agent interacts with, which can change in response to the agent's actions. Actions are the set of all possible moves the agent can make, which affect the state of the environment. The reward is the feedback from the environment, indicating the immediate benefit of an action.
 

@@ -19,7 +19,7 @@ Market regimes represent distinct phases of the financial market, each exhibitin
 
 Market regimes can be seen as market states that are not directly observable but can be inferred from market data. These regimes influence the performance of assets and can be categorized based on key indicators. Volatility, for instance, is a primary indicator, reflecting the degree of price fluctuation over a specified period. High volatility might indicate a turbulent market regime, whereas low volatility often corresponds to stable market conditions.
 
-Trading volume serves as another significant indicator. Changes in trading volume can signal shifts in trader sentiment and market momentum, thus affecting regime identification. For example, an increase in trading volume might accompany the onset of a new trend, indicative of a regime change.
+Trading volume serves as another significant indicator. Changes in trading volume can signal shifts in trader sentiment and market [momentum](/wiki/momentum), thus affecting regime identification. For example, an increase in trading volume might accompany the onset of a new trend, indicative of a regime change.
 
 Asset correlation patterns also aid in determining market regimes. During specific market conditions, assets may exhibit stronger correlations; for instance, in times of market stress, a higher correlation might occur as investors react similarly across asset classes. Conversely, a decrease in correlation could suggest a divergence in market behavior, hinting at a regime transition.
 

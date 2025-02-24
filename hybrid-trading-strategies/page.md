@@ -19,7 +19,7 @@ Hybrid trading strategies are an innovative approach that combines multiple trad
 
 For instance, a trader might combine a trend-following strategy with a market-neutral strategy to achieve a balance that is less sensitive to market fluctuations. Trend-following strategies rely heavily on momentum indicators and risk management rules to open positions in the direction of a trend. In contrast, market-neutral strategies aim to profit from the relative performance of different securities, reducing directional risk.
 
-The primary advantage of hybrid strategies lies in their adaptability. In trending markets, a trader can benefit from directional trades that harness price momentum. Simultaneously, during periods of market consolidation, non-directional strategies ensure steady income through volatility trading. This dual approach allows for consistent performance across varying market phases.
+The primary advantage of hybrid strategies lies in their adaptability. In trending markets, a trader can benefit from directional trades that harness price [momentum](/wiki/momentum). Simultaneously, during periods of market consolidation, non-directional strategies ensure steady income through volatility trading. This dual approach allows for consistent performance across varying market phases.
 
 Moreover, hybrid strategies enable optimized returns through strategic risk management. By distributing exposure across different strategies, traders can mitigate adverse impacts from isolated market events. This balanced approach results in a more stable equity curve and enhances the potential for long-term profitability.
 

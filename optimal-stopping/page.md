@@ -19,7 +19,7 @@ This article will explore the significance, key concepts, and practical applicat
 
 Optimal stopping theory is a mathematical discipline that focuses on determining the optimal time to take a specific action to maximize rewards or minimize costs. This branch of mathematics is pivotal in areas such as finance and trading, where strategic timing can significantly influence outcomes.
 
-Central to the theory is the integration of statistics and probability, which provides the foundation for making informed decisions in trading environments. By applying statistical methods, traders can assess the likelihood of various outcomes, thereby optimizing decision-making processes. Through probability theory, traders evaluate different scenarios and potential payoffs, allowing for a structured approach to forecasting and managing risks.
+Central to the theory is the integration of [statistics](/wiki/bayesian-statistics) and probability, which provides the foundation for making informed decisions in trading environments. By applying statistical methods, traders can assess the likelihood of various outcomes, thereby optimizing decision-making processes. Through probability theory, traders evaluate different scenarios and potential payoffs, allowing for a structured approach to forecasting and managing risks.
 
 A fundamental aspect of optimal stopping theory is addressing the question of when to execute a trade to achieve the best possible financial result. This involves the critical concepts of stopping rules and optimal stopping times. A stopping rule is a predefined set of criteria that determines when an action should be taken. This rule is integral for guiding trading decisions, ensuring actions are taken at the most opportune moments.
 

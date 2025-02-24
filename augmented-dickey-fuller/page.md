@@ -19,7 +19,7 @@ By confirming the stationarity of financial time series data, traders and analys
 
 The Augmented Dickey-Fuller (ADF) test is a vital tool in time series analysis, serving as an extension of the classical Dickey-Fuller test. Its primary purpose is to test for the presence of a unit root in a time series dataset, which helps to confirm or deny the stationarity of the series. Stationarity is essential because non-stationary data can lead to unreliable statistical inferences and model predictions.
 
-The ADF test incorporates lagged difference terms to address the issue of autocorrelation that might be present in the data. This inclusion enables a more robust assessment compared to the standard Dickey-Fuller test. The presence of autocorrelation can otherwise result in inaccurate test statistics, leading to incorrect conclusions about the stationarity or non-stationarity of the data.
+The ADF test incorporates lagged difference terms to address the issue of autocorrelation that might be present in the data. This inclusion enables a more robust assessment compared to the standard Dickey-Fuller test. The presence of autocorrelation can otherwise result in inaccurate test [statistics](/wiki/bayesian-statistics), leading to incorrect conclusions about the stationarity or non-stationarity of the data.
 
 The mathematical formulation of the ADF test begins with the regression equation:
 

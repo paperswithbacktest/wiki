@@ -19,7 +19,7 @@ Request for Quote (RFQ) trading is a mechanism primarily used in over-the-counte
 
 RFQ trading is particularly advantageous for trades involving substantial volumes, as it allows traders to secure the best possible pricing by comparing different offers from various liquidity providers. The RFQ mechanism enhances the ability of traders to make informed decisions by offering them a snapshot of current market conditions, enabling them to assess competitive prices before executing a trade.
 
-The flexibility inherent in an RFQ system is a key benefit that differentiates it from traditional order book systems. While order books require traders to adhere to the current bid and ask prices listed, RFQ trading offers a more tailored approach. By engaging directly with multiple liquidity providers, traders can negotiate and potentially achieve more favorable terms, leading to more efficient trade executions.
+The flexibility inherent in an RFQ system is a key benefit that differentiates it from traditional order book systems. While order [books](/wiki/algo-trading-books) require traders to adhere to the current bid and ask prices listed, RFQ trading offers a more tailored approach. By engaging directly with multiple liquidity providers, traders can negotiate and potentially achieve more favorable terms, leading to more efficient trade executions.
 
 In essence, RFQ trading facilitates a more dynamic and interactive method of trading that aligns well with the requirements of modern financial markets, especially within the OTC space. It empowers traders by providing them with multiple pricing options and the ability to execute large trades with reduced market impact and increased confidence.
 

@@ -19,7 +19,7 @@ Machine learning risk models encompass a spectrum of methodologies, ranging from
 
 Decision trees, on the other hand, employ a branching method to model decisions and their potential consequences, making them particularly useful for handling categorical data and complex interactions within datasets. However, to enhance performance, decision trees are often integrated into ensemble methods like random forests or gradient boosting machines, which aggregate predictions from multiple models to improve accuracy and robustness.
 
-Neural networks, inspired by the human brain, allow for more intricate modeling by processing information through interconnected layers of neurons. These models are particularly well-suited for capturing non-linear dynamics and interactions within financial markets. When expanded into deep learning architectures, they can analyze vast amounts of unstructured data, offering insights that were previously unattainable. A basic neural network for risk modeling could be coded in Python as follows:
+Neural networks, inspired by the human brain, allow for more intricate modeling by processing information through interconnected layers of neurons. These models are particularly well-suited for capturing non-linear dynamics and interactions within financial markets. When expanded into [deep learning](/wiki/deep-learning) architectures, they can analyze vast amounts of unstructured data, offering insights that were previously unattainable. A basic [neural network](/wiki/neural-network) for risk modeling could be coded in Python as follows:
 
 ```python
 from keras.models import Sequential

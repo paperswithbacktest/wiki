@@ -19,7 +19,7 @@ Overall, the significance of explainable AI in algorithmic trading extends beyon
 
 ## What is Explainable AI in Trading?
 
-Explainability in AI-driven trading refers to the capacity to understand, interpret, and elucidate the decision-making processes of artificial intelligence systems employed in financial markets. This aspect of AI is paramount as it enables trading firms to provide a clear understanding of how AI-driven strategies arrive at decisions. Such transparency is crucial for satisfying the scrutiny of regulators, gaining the confidence of clients, and equipping internal risk managers with a comprehensive view of trading activities.
+Explainability in AI-driven trading refers to the capacity to understand, interpret, and elucidate the decision-making processes of [artificial intelligence](/wiki/ai-artificial-intelligence) systems employed in financial markets. This aspect of AI is paramount as it enables trading firms to provide a clear understanding of how AI-driven strategies arrive at decisions. Such transparency is crucial for satisfying the scrutiny of regulators, gaining the confidence of clients, and equipping internal risk managers with a comprehensive view of trading activities.
 
 A fundamental component of explainable AI in trading is decision transparency. This involves making the logic behind AI decisions accessible and clear. It ensures that stakeholders can see the entire decision path taken by the AI, from initial data input to the final trading action. Without transparency, firms cannot effectively communicate the rationale behind trading decisions, potentially eroding trust and fostering regulatory non-compliance.
 

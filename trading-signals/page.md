@@ -19,7 +19,7 @@ Trading signals serve as crucial indicators or prompts for executing buy or sell
 
 Market trends refer to the general movement of the market, which can be identified through different technical analysis tools like moving averages or relative strength indices. These tools help traders understand the prevailing direction of market movements, such as bullish or bearish trends, and make informed predictions about future market behavior.
 
-Economic announcements also significantly impact trading signals. Key economic indicators, such as employment reports, gross domestic product (GDP) figures, or interest rate statements from central banks, can create volatility in the markets. Traders take these announcements into consideration, as they often lead to shifts in asset prices.
+Economic announcements also significantly impact trading signals. Key economic indicators, such as employment reports, gross domestic product (GDP) figures, or [interest rate](/wiki/interest-rate-trading-strategies) statements from central banks, can create [volatility](/wiki/volatility-trading-strategies) in the markets. Traders take these announcements into consideration, as they often lead to shifts in asset prices.
 
 Technical analysis algorithms, meanwhile, play a vital role in the generation of trading signals. These algorithms apply statistical techniques to historical market data to forecast future price movements. For example, a simple moving average (SMA) can be calculated using the formula:
 

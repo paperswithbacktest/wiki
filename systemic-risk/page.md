@@ -19,7 +19,7 @@ One of the primary benefits of algorithmic trading is its ability to minimize th
 
 Common algo trading strategies have emerged as dominant forces within the financial markets. Among these, statistical arbitrage represents a popular method. It involves the simultaneous buying and selling of related financial instruments to profit from price differentials expected to revert to a mean value. This approach often requires analyzing vast data sets to identify relationships and potential opportunities.
 
-Another widely utilized strategy is trend following, which focuses on identifying and capitalizing on the momentum of asset prices. Algorithms designed for trend following typically analyze historical price data to detect patterns and predict future price movements, enabling traders to align their positions with prevailing market trends.
+Another widely utilized strategy is [trend following](/wiki/trend-following), which focuses on identifying and capitalizing on the [momentum](/wiki/momentum) of asset prices. Algorithms designed for trend following typically analyze historical price data to detect patterns and predict future price movements, enabling traders to align their positions with prevailing market trends.
 
 Market making, an additional strategy employed in [algorithmic trading](/wiki/algorithmic-trading), involves providing [liquidity](/wiki/liquidity-risk-premium) to financial markets by simultaneously offering to buy and sell a particular asset. Algorithms engaged in [market making](/wiki/market-making) maintain a balance between supply and demand, narrowing bid-ask spreads and enhancing overall market liquidity.
 
