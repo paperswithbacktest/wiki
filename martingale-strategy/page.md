@@ -315,13 +315,41 @@ The gambler's fallacy often lures individuals into believing that a win is "due"
 
 The mathematical dissection of multiple rounds of the Martingale Strategy reveals an increasing risk with each bet. Even with an infinite bankroll, the imposition of betting limits by casinos ensures the impracticality of the Martingale Strategy as a sustainable approach.
 
-For a mathematical exploration of the Martingale Strategy's underpinnings, including formulas and proofs, "Beat the Odds in Forex Trading: How to Identify and Profit from High Percentage Market Patterns" by I. R. Toshchakov provides detailed analysis and discussion on the application and limitations of the strategy in financial markets[1].
+For a mathematical exploration of the Martingale Strategy's underpinnings, including formulas and proofs, "Beat the Odds in Forex Trading: How to Identify and Profit from High Percentage Market Patterns" by I. R. Toshchakov provides detailed analysis and discussion on the application and limitations of the strategy in financial markets.
 
 
 ## References & Further Reading
 
-[1]: ["Beat the Odds in Forex Trading: How to Identify and Profit from High Percentage Market Patterns"](https://books.google.fr/books/about/Beat_the_Odds_in_Forex_Trading.html?id=svN55eok63kC&redir_esc=y) by I. R. Toshchakov
+[1]: [Martingale (betting system) Wikipedia](https://en.wikipedia.org/wiki/Martingale_%28betting_system%29)
 
-[2]: ["The Mathematics of Gambling"](https://www.amazon.com/Mathematics-Gambling-Edward-Thorp/dp/0897460197) by Dr. Edward O. Thorp
+[2]: [Forex Trading the Martingale Way Investopedia](https://www.investopedia.com/articles/forex/06/martingale.asp)
 
-[3]:  ["Beat the Dealer"](https://www.goodreads.com/book/show/891883.Beat_the_Dealer) by Edward O. Thorp
+[3]: [Martingale Strategy Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/martingale-strategy/)
+
+[4]: [Martingale System Investopedia](https://www.investopedia.com/terms/m/martingalesystem.asp)
+
+[5]: [Martingale (probability theory) Wikipedia](https://en.wikipedia.org/wiki/Martingale_%28probability_theory%29)
+
+[6]: [The Martingale Strategy OFP Funding](https://ofpfunding.com/the-martingale-strategy/)
+
+[7]: [Martingale Strategy for Roulette Explained Casino.org](https://www.casino.org/roulette/strategy/martingale/)
+
+[8]: [Martingale System Explained ReadWrite](https://readwrite.com/gambling/guides/martingale-system/)
+
+[9]: [Martingale Betting System Explained Techopedia](https://www.techopedia.com/gambling-guides/martingale-betting-system)
+
+[10]: [Martingale Trading Strategy Real Trading](https://realtrading.com/trading-blog/an-introduction-to-the-martingale-trading-strategy/)
+
+[11]: [Mathematical analysis of martingale strategy The Casinologist](http://www.thecasinologist.com/content/article/math-analysis-martingale)
+
+[12]: [On Martingale betting system Mathematics Stack Exchange](https://math.stackexchange.com/questions/83904/on-martingale-betting-system)
+
+[13]: [Game Theory and the Martingale System FasterCapital](https://fastercapital.com/content/Game-theory--Game-Theory-and-the-Martingale-System--A-Winning-Combination.html)
+
+[14]: [Martingales Concepts & Applications StudySmarter](https://www.studysmarter.co.uk/explanations/math/probability-and-statistics/martingales/)
+
+[15]: [The Martingale Strategy GeeksforGeeks](https://www.geeksforgeeks.org/the-martingale-strategy/)
+
+[16]: [Modified Martingale system Wizard of Vegas](https://wizardofvegas.com/forum/gambling/betting-systems/25125-modified-martingale-system-for-even-money-betting-on-roulette/)
+
+[17]: [Martingale System in Financial Markets DayTrading.com](https://www.daytrading.com/martingale-system)
