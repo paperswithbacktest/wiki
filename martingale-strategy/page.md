@@ -320,36 +320,36 @@ For a mathematical exploration of the Martingale Strategy's underpinnings, inclu
 
 ## References & Further Reading
 
-[1]: [Martingale (betting system) - Wikipedia](https://en.wikipedia.org/wiki/Martingale_%28betting_system%29)
+[1]: [Martingale (betting system)](https://en.wikipedia.org/wiki/Martingale_%28betting_system%29) - Wikipedia
 
-[2]: [Forex Trading the Martingale Way - Investopedia](https://www.investopedia.com/articles/forex/06/martingale.asp)
+[2]: [Forex Trading the Martingale Way](https://www.investopedia.com/articles/forex/06/martingale.asp) - Investopedia
 
-[3]: [Martingale Strategy - Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/martingale-strategy/)
+[3]: [Martingale Strategy](https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/martingale-strategy/) - Corporate Finance Institute
 
-[4]: [Martingale System - Investopedia](https://www.investopedia.com/terms/m/martingalesystem.asp)
+[4]: [Martingale System](https://www.investopedia.com/terms/m/martingalesystem.asp) - Investopedia
 
-[5]: [Martingale (probability theory) - Wikipedia](https://en.wikipedia.org/wiki/Martingale_%28probability_theory%29)
+[5]: [Martingale (probability theory)](https://en.wikipedia.org/wiki/Martingale_%28probability_theory%29) - Wikipedia
 
-[6]: [The Martingale Strategy - OFP Funding](https://ofpfunding.com/the-martingale-strategy/)
+[6]: [The Martingale Strategy](https://ofpfunding.com/the-martingale-strategy/) - OFP Funding
 
-[7]: [Martingale Strategy for Roulette Explained - Casino.org](https://www.casino.org/roulette/strategy/martingale/)
+[7]: [Martingale Strategy for Roulette Explained](https://www.casino.org/roulette/strategy/martingale/) - Casino.org
 
-[8]: [Martingale System Explained - ReadWrite](https://readwrite.com/gambling/guides/martingale-system/)
+[8]: [Martingale System Explained](https://readwrite.com/gambling/guides/martingale-system/) - ReadWrite
 
-[9]: [Martingale Betting System Explained - Techopedia](https://www.techopedia.com/gambling-guides/martingale-betting-system)
+[9]: [Martingale Betting System Explained](https://www.techopedia.com/gambling-guides/martingale-betting-system) - Techopedia
 
-[10]: [Martingale Trading Strategy - Real Trading](https://realtrading.com/trading-blog/an-introduction-to-the-martingale-trading-strategy/)
+[10]: [Martingale Trading Strategy](https://realtrading.com/trading-blog/an-introduction-to-the-martingale-trading-strategy/) - Real Trading
 
-[11]: [Mathematical analysis of martingale strategy - The Casinologist](http://www.thecasinologist.com/content/article/math-analysis-martingale)
+[11]: [Mathematical analysis of martingale strategy](http://www.thecasinologist.com/content/article/math-analysis-martingale) - The Casinologist
 
-[12]: [On Martingale betting system - Mathematics Stack Exchange](https://math.stackexchange.com/questions/83904/on-martingale-betting-system)
+[12]: [On Martingale betting system](https://math.stackexchange.com/questions/83904/on-martingale-betting-system) - Mathematics Stack Exchange
 
-[13]: [Game Theory and the Martingale System - FasterCapital](https://fastercapital.com/content/Game-theory--Game-Theory-and-the-Martingale-System--A-Winning-Combination.html)
+[13]: [Game Theory and the Martingale System](https://fastercapital.com/content/Game-theory--Game-Theory-and-the-Martingale-System--A-Winning-Combination.html) - FasterCapital
 
-[14]: [Martingales Concepts & Applications - StudySmarter](https://www.studysmarter.co.uk/explanations/math/probability-and-statistics/martingales/)
+[14]: [Martingales Concepts & Applications](https://www.studysmarter.co.uk/explanations/math/probability-and-statistics/martingales/) - StudySmarter
 
-[15]: [The Martingale Strategy - GeeksforGeeks](https://www.geeksforgeeks.org/the-martingale-strategy/)
+[15]: [The Martingale Strategy](https://www.geeksforgeeks.org/the-martingale-strategy/) - GeeksforGeeks
 
-[16]: [Modified Martingale system - Wizard of Vegas](https://wizardofvegas.com/forum/gambling/betting-systems/25125-modified-martingale-system-for-even-money-betting-on-roulette/)
+[16]: [Modified Martingale system](https://wizardofvegas.com/forum/gambling/betting-systems/25125-modified-martingale-system-for-even-money-betting-on-roulette/) - Wizard of Vegas
 
-[17]: [Martingale System in Financial Markets - DayTrading.com](https://www.daytrading.com/martingale-system)
+[17]: [Martingale System in Financial Markets](https://www.daytrading.com/martingale-system) - DayTrading.com
