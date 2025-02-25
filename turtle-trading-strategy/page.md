@@ -25,7 +25,7 @@ The strategy’s origin stems from a bet between them. Dennis believed trading c
 
 ## What is the main philosophy behind the Turtle Trading approach?
 
-The main philosophy behind the Turtle Trading approach is that markets move in trends—sustained periods of upward or downward price movement—and that these trends can be systematically exploited for profit. It’s built on the idea that price action, not predictions or fundamentals, should drive trading decisions. The Turtles were taught to "trade what they see," reacting to breakouts and momentum rather than guessing where the market might go next.
+The main philosophy behind the Turtle Trading approach is that markets move in trends—sustained periods of upward or downward price movement—and that these trends can be systematically exploited for profit. It’s built on the idea that price action, not predictions or fundamentals, should drive trading decisions. The Turtles were taught to "trade what they see," reacting to breakouts and [momentum](/wiki/momentum) rather than guessing where the market might go next.
 
 This philosophy hinges on a few key beliefs. First, trends are rare but powerful, so you have to catch the big moves to offset smaller, frequent losses. Second, human emotions like fear and greed derail success, so a rigid, mechanical set of rules is essential to enforce discipline. Third, trading is a numbers game—consistency and probability matter more than being right every time. The Turtles didn’t aim to outsmart the market; they aimed to ride its waves, letting winners run while ruthlessly cutting losers. It’s a patient, reactive approach that prioritizes sticking to the system over intuition or ego.
 
@@ -54,7 +54,7 @@ $\text{Donchian Channel} = \text{Max/Min}(\text{High/Low over last N periods})$
 
 **Position Sizing and Risk Management**
 
-Central to the Turtles' success was rigorous risk management, particularly their rule on position sizing. The Turtles used the Average True Range (ATR), a measure of market volatility, to determine the size of their trading units. A single unit would be the amount they could trade based on a 1% ATR of the market price. For a given market with price $P$ and ATR $A$, a unit size $U$ could be calculated as:
+Central to the Turtles' success was rigorous risk management, particularly their rule on position sizing. The Turtles used the Average True Range (ATR), a measure of market [volatility](/wiki/volatility-trading-strategies), to determine the size of their trading units. A single unit would be the amount they could trade based on a 1% ATR of the market price. For a given market with price $P$ and ATR $A$, a unit size $U$ could be calculated as:
 
 $U = \frac{Account Equity \times Risk Percentage}{A \times Dollar Volatility}$
 
@@ -121,9 +121,9 @@ They also diversified across uncorrelated markets—like oil, bonds, or currenci
 
 ![Trend-following-pnl-1024x658.png](images/Trend-following-pnl-1024x658.png)
 
-The Turtle Trading Strategy can be applied to virtually any liquid market that exhibits trends, thanks to its focus on price action and adaptability. Originally, the Turtles traded commodities—think crude oil, gold, silver, coffee, sugar, and cotton—since those were the markets Richard Dennis and William Eckhardt thrived in during the 1980s. They also tackled futures contracts like currencies (e.g., Japanese yen, Swiss franc) and bonds (e.g., U.S. Treasuries), which offered the volatility and volume needed for trend-following.
+The Turtle Trading Strategy can be applied to virtually any liquid market that exhibits trends, thanks to its focus on price action and adaptability. Originally, the Turtles traded commodities—think [crude oil](/wiki/crude-oil), gold, silver, coffee, sugar, and cotton—since those were the markets Richard Dennis and William Eckhardt thrived in during the 1980s. They also tackled futures contracts like currencies (e.g., Japanese yen, Swiss franc) and bonds (e.g., U.S. Treasuries), which offered the volatility and [volume](/wiki/volume-trading-strategy) needed for trend-following.
 
-Today, the strategy’s principles extend beyond its roots. You can use it in stocks, especially large-cap or index funds with clear momentum, though individual equities can be trickier due to less consistent trends. Forex markets, with pairs like EUR/USD or USD/JPY, are a natural fit given their liquidity and tendency to trend. Even newer arenas like cryptocurrencies—Bitcoin or Ethereum—work, as their wild swings often produce breakout opportunities.
+Today, the strategy’s principles extend beyond its roots. You can use it in stocks, especially large-cap or index funds with clear momentum, though individual equities can be trickier due to less consistent trends. Forex markets, with pairs like EUR/USD or USD/JPY, are a natural fit given their [liquidity](/wiki/liquidity-risk-premium) and tendency to trend. Even newer arenas like cryptocurrencies—Bitcoin or Ethereum—work, as their wild swings often produce breakout opportunities.
 
 The catch? It thrives best in markets with enough movement and depth. Illiquid or range-bound markets—like penny stocks or obscure assets—can choke it, since the strategy needs trends to breathe. As long as there’s price data and a pulse, the Turtle system can theoretically strap in and ride.
 
@@ -151,7 +151,7 @@ It’s a trade-off: you get a shot at home runs, but you’ve got to stomach a l
 
 A beginner can start implementing the Turtle Trading Strategy by breaking it down into manageable steps, keeping it simple while building confidence. Here’s how to get rolling:
 
-First, **learn the basics**. Understand the core idea: you’re buying breakouts (like a 20-day high) and selling short on breakdowns (like a 20-day low) to catch trends. Grab a free charting tool—think TradingView or a broker’s platform—and pick a market with decent movement, like a major forex pair (EUR/USD) or an ETF (SPY). No need to overcomplicate it with obscure stuff early on.
+First, **learn the basics**. Understand the core idea: you’re buying breakouts (like a 20-day high) and selling short on breakdowns (like a 20-day low) to catch trends. Grab a free charting tool—think TradingView or a broker’s platform—and pick a market with decent movement, like a major [forex](/wiki/forex-system) pair (EUR/USD) or an [ETF](/wiki/etf-trading-strategies) (SPY). No need to overcomplicate it with obscure stuff early on.
 
 Next, **set up your rules**. Use the original Turtle framework as a guide: enter a trade when the price breaks a 20-day high/low, place a stop-loss at 2 times the 20-day average true range (ATR) below/above your entry, and exit on a 10-day low/high for longs/shorts. You can test this manually or with a demo account. For position sizing, keep it tiny—risk just 1% of a small practice account (say, $10 on a $1,000 balance) per trade, using ATR to scale your position.
 
@@ -224,7 +224,7 @@ Setting up a Turtle Trading strategy in Python requires a systematic approach to
 - **Continuous Learning:** Stay up to date with market conditions as they can affect the performance of your turtle trading strategy.
 </aside>
 
-Remember, while backtesting can provide insights into how a strategy might perform, it is not a guarantee of future results. Markets evolve, and strategies need to be adaptable. Always ensure that any trading strategy is well-tested and that you're prepared for the possibility of loss as well as gain.
+Remember, while [backtesting](/wiki/backtesting) can provide insights into how a strategy might perform, it is not a guarantee of future results. Markets evolve, and strategies need to be adaptable. Always ensure that any trading strategy is well-tested and that you're prepared for the possibility of loss as well as gain.
 
 ## What advanced techniques can experienced traders use to optimize Turtle Trading?
 
@@ -248,7 +248,7 @@ Experienced traders can optimize the Turtle Trading Strategy by fine-tuning its 
 
 Backtesting is non-negotiable—run these tweaks through historical data (or a platform like MetaTrader) to quantify edge before going live. The catch: over-optimization can kill the system’s simplicity, so keep changes incremental and stress-test them in real-time with small positions. The goal is to sharpen the blade, not reinvent it—stay disciplined, and let the trends do the heavy lifting.
 
-Quantitative turtle trading strategies introduce a new dimension to the classic Turtle Trading system, incorporating data analysis and computational algorithms to identify trends and generate signals. These strategies use historical data and statistical methods to optimize the trading rules and parameters, such as entry/exit points and position sizing. The quantitative approach can also integrate machine learning models to adapt to changing market conditions, attempting to improve upon the profitability and robustness of the traditional trend-following systems.
+Quantitative [turtle](/wiki/turtle-trading) trading strategies introduce a new dimension to the classic Turtle Trading system, incorporating data analysis and computational algorithms to identify trends and generate signals. These strategies use historical data and statistical methods to optimize the trading rules and parameters, such as entry/exit points and position sizing. The quantitative approach can also integrate [machine learning](/wiki/machine-learning) models to adapt to changing market conditions, attempting to improve upon the profitability and robustness of the traditional trend-following systems.
 
 Research in quantitative finance, such as papers published in the "Journal of Portfolio Management," suggests that applying machine learning techniques can enhance the performance of trend-following strategies. Quantitative models can digest a vast array of market data at high speed, enabling traders to capture trends that may not be immediately apparent to the human eye.
 

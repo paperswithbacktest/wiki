@@ -19,9 +19,9 @@ It’s typically displayed in real-time through tools like Level 2 screens or de
 
 Market Depth is important in trading because it gives you a clearer picture of how a market might react to your moves—or anyone else’s. It’s like a gauge of stability and opportunity, showing how much buying or selling pressure a market can handle before prices shift. Without it, you’re trading half-blind, relying only on surface-level prices instead of the underlying dynamics.
 
-For one, it reveals liquidity. A deep market with lots of orders at various price levels means you can enter or exit positions—especially large ones—without causing wild price swings. That’s crucial if you’re moving serious volume or need a quick getaway. Shallow depth, on the other hand, warns you that even a modest trade could spike or crash the price, exposing you to slippage or worse.
+For one, it reveals [liquidity](/wiki/liquidity-risk-premium). A deep market with lots of orders at various price levels means you can enter or exit positions—especially large ones—without causing wild price swings. That’s crucial if you’re moving serious [volume](/wiki/volume-trading-strategy) or need a quick getaway. Shallow depth, on the other hand, warns you that even a modest trade could spike or crash the price, exposing you to slippage or worse.
 
-It also hints at volatility. Thin depth often signals choppy waters ahead—prices can gap up or down fast if orders dry up. Deep markets tend to be smoother, buffering against sudden jolts. Plus, it’s a window into intent: big clusters of buy or sell orders can show where support or resistance might kick in, tipping you off to potential breakouts or reversals.
+It also hints at [volatility](/wiki/volatility-trading-strategies). Thin depth often signals choppy waters ahead—prices can gap up or down fast if orders dry up. Deep markets tend to be smoother, buffering against sudden jolts. Plus, it’s a window into intent: big clusters of buy or sell orders can show where support or resistance might kick in, tipping you off to potential breakouts or reversals.
 
 For day traders, scalpers, or anyone working tight margins, Market Depth is a lifeline—it helps you time entries and exits with precision. Even for longer-term players, it’s a check on execution risk. In short, it’s about control: knowing the market’s capacity lets you trade smarter, not just harder.
 
@@ -29,7 +29,7 @@ For day traders, scalpers, or anyone working tight margins, Market Depth is a li
 
 ![Image](images/image.png)
 
-Market Depth is displayed through tools that show the live order book—essentially a real-time list of buy and sell orders waiting to be filled at different price levels. The most common way traders see it is via a **Level 2 screen** or a **depth-of-book interface**, which you’ll find on platforms like Thinkorswim, Interactive Brokers, or crypto exchanges like Binance.
+Market Depth is displayed through tools that show the live [order book](/wiki/order-book-trading-strategies)—essentially a real-time list of buy and sell orders waiting to be filled at different price levels. The most common way traders see it is via a **Level 2 screen** or a **depth-of-book interface**, which you’ll find on platforms like Thinkorswim, [Interactive Brokers](/wiki/interactive-brokers-api), or crypto exchanges like Binance.
 
 Picture a two-column setup. On the left, you’ve got the **bids**—buy orders stacked from the highest price someone’s willing to pay down to lower levels. On the right, the **asks**—sell orders listed from the lowest price someone’s offering up to higher ones. Each row shows the price and the volume (shares, contracts, or coins) queued there. For example, in a stock, you might see 500 shares bid at $99.95 and 300 offered at $100.05, with more orders fanning out in both directions.
 
@@ -79,7 +79,7 @@ A **deep market** has thick stacks of orders—lots of bids and asks close to th
 
 A **shallow market** is the opposite—thin orders, sparse levels. If the same stock has just 50 shares bid at $99.95 and 100 offered at $100.05, a 500-share order could blow through the book, jumping the price to $101 or crashing it to $99. Liquidity’s low; the market can’t handle volume without lurching.
 
-Depth also ties to the **spread**. Tight spreads with deep orders signal strong liquidity—trades execute fast and cheap. Wide spreads with thin depth scream illiquidity—big moves lurk if someone leans in. It’s why forex pairs like EUR/USD (deep) trade smoother than a penny stock (shallow).
+Depth also ties to the **spread**. Tight spreads with deep orders signal strong liquidity—trades execute fast and cheap. Wide spreads with thin depth scream illiquidity—big moves lurk if someone leans in. It’s why [forex](/wiki/forex-system) pairs like EUR/USD (deep) trade smoother than a penny stock (shallow).
 
 In short, Market Depth *is* liquidity’s blueprint. More orders, more buffer—less depth, more brittleness. It’s what keeps the market flowing or leaves it gasping.
 
@@ -91,7 +91,7 @@ In a **deep market**, with lots of bids and asks stacked at tight intervals, pri
 
 In a **shallow market**, thin depth amplifies moves. Same stock, but now it’s just 50 shares bid at $49.95 and 100 offered at $50.05. That same 500-share sell crashes through the bids, potentially dropping the price to $49.50 or lower as it hunts for buyers. Thin depth means no cushion—prices lurch when orders outweigh what’s there.
 
-Depth also flags **support and resistance**. A fat stack of bids (like 5,000 shares at $49.90) can halt a decline—sellers hit a wall. A big ask wall (say, 4,000 at $50.10) can cap an upmove—buyers get stalled. But if a huge order—like a 10,000-share buy—blows through shallow depth, it triggers a breakout, spiking the price as it clears the book.
+Depth also flags **support and resistance**. A fat stack of bids (like 5,000 shares at $49.90) can halt a decline—sellers hit a wall. A big ask wall (say, 4,000 at $50.10) can cap an upmove—buyers get stalled. But if a huge order—like a 10,000-share buy—blows through shallow depth, it triggers a [breakout](/wiki/breakout-trading), spiking the price as it clears the book.
 
 It’s a tug-of-war: depth dictates how far and fast prices bend under pressure. More orders dampen swings; less depth unleashes them. Traders watch it to gauge where the market might hold or fold.
 
@@ -127,7 +127,7 @@ Some platforms or APIs (like Bloomberg) spit out “depth scores,” but you can
 Look at past trades via **time-and-sales** data. If a 5,000-share order last week moved the price 2% in a thin market, expect similar fragility. Deep markets shrug off big trades—check volume spikes against price charts to calibrate your estimate.
 
 ### 7. Adjust for Market Context
-Depth varies by time and asset. A stock might have 10,000 shares of depth during the open but 1,000 at lunch. Forex pairs like EUR/USD stay deep; altcoins thin out off-hours. Cross-check with average daily volume—high-volume assets tend to have deeper books.
+Depth varies by time and asset. A stock might have 10,000 shares of depth during the open but 1,000 at lunch. Forex pairs like EUR/USD stay deep; altcoins thin out off-hours. Cross-check with average daily volume—high-volume assets tend to have deeper [books](/wiki/algo-trading-books).
 
 ### Practical Tips
 - **Start Small**: Practice on a liquid asset (SPY, BTC/USD) with a demo account. Watch how depth reacts to your test orders.
@@ -262,7 +262,7 @@ Beginners can interpret Market Depth data by starting with the basics and focusi
 
 First, **look at the bid and ask layout**. Open a Level 2 screen or depth chart on your trading platform (like TradingView or a broker’s app). You’ll see bids (buy orders) on the left or bottom, descending from the highest price, and asks (sell orders) on the right or top, ascending from the lowest. For a stock at $50, you might see 200 shares bid at $49.95 and 300 offered at $50.05. More volume near the current price means the market’s “thicker”—harder to push around.
 
-Next, **check the spread**. The gap between the best bid and best ask—like $49.95 to $50.05—is your first clue. A tight spread (a few cents) with decent volume suggests stability; a wide spread (say, $1) with thin orders warns of jumpy prices. Practice spotting this on something liquid, like an S&P 500 ETF (SPY).
+Next, **check the spread**. The gap between the best bid and best ask—like $49.95 to $50.05—is your first clue. A tight spread (a few cents) with decent volume suggests stability; a wide spread (say, $1) with thin orders warns of jumpy prices. Practice spotting this on something liquid, like an S&P 500 [ETF](/wiki/etf-trading-strategies) (SPY).
 
 Then, **watch for walls**. A big stack of orders—like 1,000 shares bid at $49.90—can act as a floor, slowing a drop. A fat ask—like 800 at $50.10—might cap a rise. These are support and resistance in real time. Compare the sizes: if bids outnumber asks near the price, buying pressure might lift it; if asks dominate, selling could weigh it down.
 
@@ -332,7 +332,7 @@ In summary, the interplay between tick size, price movement restrictions, and tr
 
 ## How do algorithms leverage Market Depth in trading?
 
-Market depth data plays a crucial role in developing algorithmic trading strategies as it provides a detailed snapshot of buy and sell orders at various price levels in the market. This granularity enables algorithms to optimize trade execution by analyzing supply and demand nuances. By leveraging market depth data, algorithms can identify liquidity pools, detect potential price movements, and adapt their strategies dynamically.
+Market depth data plays a crucial role in developing [algorithmic trading](/wiki/algorithmic-trading) strategies as it provides a detailed snapshot of buy and sell orders at various price levels in the market. This granularity enables algorithms to optimize trade execution by analyzing supply and demand nuances. By leveraging market depth data, algorithms can identify liquidity pools, detect potential price movements, and adapt their strategies dynamically.
 
 Algorithms utilize market depth to execute trades efficiently primarily through order book analysis. For instance, if the order book displays a substantial number of buy orders at a specific price level, the algorithm might infer strong support at that level and strategically place buy orders just above it. Conversely, a large cluster of sell orders might indicate resistance, prompting selling activities before reaching that threshold.
 

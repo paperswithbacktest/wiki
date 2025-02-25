@@ -36,7 +36,7 @@ On the chart, the pattern resembles a zigzag:
 - In a bullish setup, it looks like a shallow "W" shape, with Point 1 at the bottom, Point 2 as a peak, and Point 3 as a higher dip before the breakout above Point 2.
 - In a bearish setup, it’s an inverted "M" shape, with Point 1 at the top, Point 2 as a trough, and Point 3 as a lower peak before the breakdown below Point 2.
 
-The formation relies on price action testing key levels: Point 1 as the trend’s extreme, Point 2 as a counter-move, and Point 3 as a confirmation zone. The breakout (or breakdown) past Point 2 is the critical trigger, showing the market has committed to the new direction. It’s a organic process driven by buyers and sellers battling for dominance, making it a universal pattern across assets and timeframes.
+The formation relies on price action testing key levels: Point 1 as the trend’s extreme, Point 2 as a counter-move, and Point 3 as a confirmation zone. The [breakout](/wiki/breakout-trading) (or breakdown) past Point 2 is the critical trigger, showing the market has committed to the new direction. It’s a organic process driven by buyers and sellers battling for dominance, making it a universal pattern across assets and timeframes.
 
 ## What are the key components of the 1-2-3 pattern?
 
@@ -58,7 +58,7 @@ These four components—Points 1, 2, 3, and the breakout/breakdown level—form 
 
 ## Why is the 1-2-3 pattern considered a reversal signal?
 
-The 1-2-3 pattern is considered a reversal signal in technical analysis because it reflects a shift in market momentum and sentiment, often indicating that a trend is losing strength and about to change direction. This pattern typically appears after a prolonged uptrend or downtrend and consists of three key points:
+The 1-2-3 pattern is considered a reversal signal in technical analysis because it reflects a shift in market [momentum](/wiki/momentum) and sentiment, often indicating that a trend is losing strength and about to change direction. This pattern typically appears after a prolonged uptrend or downtrend and consists of three key points:
 
 1. **Point 1**: The peak (in an uptrend) or trough (in a downtrend) that marks the end of the existing trend. It’s the highest or lowest point before the reversal begins.
 2. **Point 2**: A pullback or correction against the prevailing trend, showing the first sign of weakening momentum. In an uptrend, this is a lower low; in a downtrend, it’s a higher high.

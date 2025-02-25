@@ -65,7 +65,7 @@ These features combine to make 0x a robust, flexible tool for decentralized exch
 
 ## What is the ZRX token and its role in the protocol?
 
-The ZRX token is the native cryptocurrency of the 0x Protocol, built as an ERC-20 token on the Ethereum blockchain. It serves two main roles that keep the ecosystem ticking.
+The ZRX token is the native [cryptocurrency](/wiki/cryptocurrency) of the 0x Protocol, built as an ERC-20 token on the Ethereum blockchain. It serves two main roles that keep the ecosystem ticking.
 
 First, it’s a governance token. Holders of ZRX can vote on changes or upgrades to the protocol, like tweaking smart contracts or adjusting parameters. This decentralized decision-making ensures the community has a say in how 0x evolves, aligning it with users’ and developers’ needs over time.
 
@@ -99,7 +99,7 @@ In essence, 0x flips the script: it’s about user empowerment, decentralization
 
 In the context of 0x Protocol, relayers are decentralized services or entities that help facilitate trading by managing the off-chain side of the process. They act like matchmakers for buyers and sellers, bridging the gap between creating a trade and executing it on Ethereum.
 
-Here’s what they do: Relayers host and broadcast order books—lists of buy and sell offers (called orders) that users create off-chain. These orders specify what tokens someone wants to trade, how much, and at what price. Since this happens off-chain, it doesn’t clog up Ethereum or rack up gas fees until the trade is ready to settle. Relayers share these orders with the network, often through APIs or user-friendly interfaces like trading apps or websites, so others can browse and pick a deal that works for them.
+Here’s what they do: Relayers host and broadcast order [books](/wiki/algo-trading-books)—lists of buy and sell offers (called orders) that users create off-chain. These orders specify what tokens someone wants to trade, how much, and at what price. Since this happens off-chain, it doesn’t clog up Ethereum or rack up gas fees until the trade is ready to settle. Relayers share these orders with the network, often through APIs or user-friendly interfaces like trading apps or websites, so others can browse and pick a deal that works for them.
 
 When a match is found—say, a buyer agrees to a seller’s terms—the relayer doesn’t execute the trade itself. Instead, it hands the baton to Ethereum’s smart contracts, where the swap is finalized on-chain, directly between the users’ wallets. Relayers can charge a fee for their service, often in ZRX or another token, which they set themselves. This makes them a bit like decentralized mini-exchanges, but without holding anyone’s funds.
 

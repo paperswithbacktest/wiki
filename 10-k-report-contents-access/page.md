@@ -23,7 +23,7 @@ For starters, it gives investors a deep dive into the numbers—revenue, profits
 
 Beyond the finances, the 10-K spells out the company’s business strategy, competitors, and industry challenges. This context helps investors figure out if the company’s positioned to grow or if it’s facing headwinds that could tank the stock. It also lists things like executive pay and insider stock ownership, which can signal how aligned leadership is with shareholders.
 
-Since it’s filed annually and consistent across companies, investors can compare apples to apples—say, how one tech giant’s margins stack up against another’s. For anyone serious about picking stocks or managing risk, skipping the 10-K is like trying to navigate without a map. It’s not sexy, but it’s where the real story lives.
+Since it’s filed annually and consistent across companies, investors can compare apples to apples—say, how one tech giant’s margins stack up against another’s. For anyone serious about [picking](/wiki/asset-class-picking) stocks or managing risk, skipping the 10-K is like trying to navigate without a map. It’s not sexy, but it’s where the real story lives.
 
 ## Who is required to file a 10-K report? 
 
@@ -56,7 +56,7 @@ A 10-K report is broken down into several key sections, each serving a specific 
    Here’s where they spill the beans on what could go wrong—economic downturns, lawsuits, regulatory changes, cyberattacks, you name it. It’s a laundry list of potential headaches, written to warn investors (and cover the company’s legal bases). Some risks are generic, others are specific to the business.
 
 3. **Selected Financial Data (Item 6)**  
-   This is a snapshot of five years’ worth of key financial stats—like revenue, net income, and total assets. It’s a quick way to spot trends or red flags without diving into the full books. Smaller companies might skip this under certain exemptions, though.
+   This is a snapshot of five years’ worth of key financial stats—like revenue, net income, and total assets. It’s a quick way to spot trends or red flags without diving into the full [books](/wiki/algo-trading-books). Smaller companies might skip this under certain exemptions, though.
 
 4. **Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A, Item 7)**  
    The MD&A is the heart of the 10-K for many investors. Management explains the numbers—what drove revenue up or down, how they’re handling costs, and whether they’ve got enough cash to keep the lights on. It’s their chance to narrate the story behind the data and flag future risks or opportunities.
@@ -144,7 +144,7 @@ First, find the 10-K. You can get it from the company’s investor relations web
 
 A 10-K report, filed annually with the U.S. Securities and Exchange Commission (SEC), includes a section where companies disclose risks that could materially affect their business, financial condition, or stock performance. These risks vary by company and industry, but they generally fall into several common categories. 
 
-Companies typically outline operational risks, like supply chain disruptions, labor shortages, or reliance on key customers or suppliers. Financial risks might include debt levels, liquidity concerns, or exposure to interest rate fluctuations. Legal and regulatory risks often cover potential lawsuits, compliance with environmental laws, or changes in government policy. Market risks could involve competition, shifts in consumer demand, or economic downturns. Many also highlight cybersecurity threats, such as data breaches or system failures, and external factors like natural disasters or geopolitical instability. If the company operates globally, currency exchange rates or trade restrictions might get a mention too.
+Companies typically outline operational risks, like supply chain disruptions, labor shortages, or reliance on key customers or suppliers. Financial risks might include debt levels, [liquidity](/wiki/liquidity-risk-premium) concerns, or exposure to [interest rate](/wiki/interest-rate-trading-strategies) fluctuations. Legal and regulatory risks often cover potential lawsuits, compliance with environmental laws, or changes in government policy. Market risks could involve competition, shifts in consumer demand, or economic downturns. Many also highlight cybersecurity threats, such as data breaches or system failures, and external factors like natural disasters or geopolitical instability. If the company operates globally, currency exchange rates or trade restrictions might get a mention too.
 
 The idea is to give investors a heads-up about anything that could derail the company’s plans or profitability. These disclosures are usually written in cautious, broad language to cover all bases—think of it as a corporate "things could go wrong" list. For a specific company’s 10-K, you’d see risks tailored to its situation, like a tech firm warning about R&D setbacks or a manufacturer flagging raw material costs.
 
@@ -168,7 +168,7 @@ Finally, skim past reports if you can get them. Has their story shifted? A sudde
 
 Yes, you can absolutely use 10-K reports to compare companies in the same industry—it’s one of the best ways to see how they stack up. Since 10-Ks follow a standardized format, you’ve got a consistent baseline to look at financials, strategies, and risks side-by-side. Here’s how to make it work:
 
-Start with the financial statements—Income Statement, Balance Sheet, and Cash Flow Statement. Compare revenue growth, profit margins, and expenses like cost of goods sold or R&D spending. A retailer might show tight margins but high volume, while a competitor leans on premium pricing. Check debt levels and cash reserves too; one company drowning in loans while another’s flush with cash tells you about resilience.
+Start with the financial statements—Income Statement, Balance Sheet, and Cash Flow Statement. Compare revenue growth, profit margins, and expenses like cost of goods sold or R&D spending. A retailer might show tight margins but high [volume](/wiki/volume-trading-strategy), while a competitor leans on premium pricing. Check debt levels and cash reserves too; one company drowning in loans while another’s flush with cash tells you about resilience.
 
 The Management’s Discussion and Analysis (MD&A) is gold for comparison. See how each explains their performance—say, two tech firms facing chip shortages. One might brag about securing supply chains, the other might dodge the issue. Look at their outlooks too; if one predicts a sales boom and the other’s cautious, that’s a clue to their positioning.
 
