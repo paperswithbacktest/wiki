@@ -1,5 +1,5 @@
 ---
-title: "0x Protocol: Meaning and Functionality (Algo Trading)"
+title: "0x Protocol"
 description: "Explore the functionality and significance of the 0x Protocol in decentralized asset trading and algorithmic trading within blockchain environments."
 ---
 
