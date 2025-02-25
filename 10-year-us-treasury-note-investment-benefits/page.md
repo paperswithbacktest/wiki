@@ -1,41 +1,76 @@
 ---
-title: "10-Year US Treasury Note and Investment Benefits (Algo Trading)"
+title: "10-Year US Treasury Note and Investment Benefits"
 description: "Explore the benefits of investing in 10-year U.S. Treasury Notes Their government-backed security, fixed returns, and algorithmic trading potential make them a key asset"
 ---
 
-The 10-year U.S. Treasury Note holds a pivotal role in the financial sector, acting as a benchmark for assessing economic stability and influencing the pricing of various financial instruments. As a key component of the fixed-income securities market, these notes, often referred to as "T-notes," represent a promise by the U.S. government to pay back the borrowed amount with interest over a set period, in this case, ten years. Understanding these terms is crucial for investors attempting to navigate the complexities of financial markets.
-
-Investment in 10-year Treasury Notes presents numerous advantages, with a primary focus on their fixed returns and government-backed security. However, with technological advancements, particularly in algorithmic trading, the strategies to maximize returns from these bonds have become more advanced and potentially lucrative. Algorithmic trading utilizes computer algorithms to execute trades at optimal speeds and precision, thereby enhancing the potential benefits of investing in T-notes.
 
 ![Image](images/1.jpeg)
 
-The sophistication of algorithmic trading allows investors to leverage the relatively stable nature of T-notes while optimizing trade execution and risk management. This article explores these investment benefits, emphasizing how algorithms can be harnessed to optimize T-note returns. By examining the specific features and advantages of these bonds, along with the impact of automated trading systems, this article aims to elucidate why 10-year Treasury Notes remain a sound investment decision amidst evolving financial landscapes.
-
 ## Table of Contents
 
-## What is a 10-Year Treasury Note?
+## What is a 10-Year US Treasury Note?  
 
-A 10-year Treasury Note is a debt security issued by the U.S. government, representing a 'loan' made by investors to the government. Investors choose these notes for their relatively secure and predictable returns, which are guaranteed by the full faith and credit of the U.S. government. 
+A 10-Year US Treasury Note is a debt security issued by the U.S. Department of the Treasury with a 10-year maturity. It’s basically the government borrowing money from investors, promising to pay it back in a decade with interest along the way. These notes pay a fixed interest rate, called the coupon, every six months until maturity, when you get the full principal (or face value) back. They’re sold in increments of $100, with a minimum buy-in typically around $1,000 if you’re going through TreasuryDirect, though auction minimums can vary. Backed by the U.S. government’s credit, they’re considered one of the safest investments out there, making them a go-to for banks, pension funds, and anyone wanting steady returns without much risk. The “10-year yield” you hear about? That’s tied to these notes, reflecting what they return if held to maturity, and it’s a big deal in finance.
 
-The maturity period for a 10-year Treasury Note is precisely ten years from the date of issuance. During this period, investors receive interest payments semi-annually. The interest, also known as the coupon rate, is fixed and determined at the time of the auction, reflecting factors like prevailing interest rates and market demand. This coupon payment provides a steady income stream for investors seeking stability amidst volatile market conditions.
+## How does the 10-Year Treasury Note differ from other Treasury securities?  
 
-Upon maturity, the holder of the note receives the face value of the note, which is the principal amount initially invested. This return of principal, combined with interest payments, constitutes the total yield of the investment. The simplicity of this structure makes Treasury Notes an integral tool for the government to finance its spending on various programs, infrastructure projects, and other necessary expenditures.
+The 10-Year Treasury Note stands apart from other Treasury securities mainly by its maturity and purpose, fitting snugly between short- and long-term options. The U.S. Treasury issues three main types: Treasury bills (T-bills), Treasury notes (T-notes), and Treasury bonds (T-bonds). T-bills are short-term, maturing in a year or less—think 4 weeks, 13 weeks, up to 52 weeks—with no coupon payments; you buy them at a discount and get the face value at maturity. T-bonds stretch long-term, typically 20 or 30 years, paying semi-annual interest like notes but locking your money up longer.
 
-Treasury Notes play a critical role in the broader financial ecosystem. They act as a benchmark for longer-term interest rates, influencing financial products such as mortgages, corporate bonds, and bank loans. The 10-year Treasury yield is often viewed as an indicator of investor sentiment and economic conditions, with changes in its rate reflecting varying expectations regarding economic growth, inflation, and Federal Reserve policies.
+The 10-Year T-Note, though, hits that mid-range sweet spot: 10 years to maturity, with fixed semi-annual coupon payments, offering a balance of decent yield and manageable time commitment. Unlike T-bills, it pays interest along the way, not just at the end. Compared to T-bonds, it’s less exposed to decades of rate swings or inflation erosion, making it more liquid and popular for trading. All are backed by the U.S. government, but the 10-year’s versatility—used as a benchmark for everything from mortgages to corporate bonds—gives it a starring role the others don’t quite match.
 
-## Investing in 10-Year Treasury Notes: Key Benefits
+## What determines the price of a 10-Year Treasury Note?  
 
-Investing in 10-year Treasury Notes presents numerous advantages that make them a preferred choice for diversified portfolios. These securities offer fixed returns, creating a reliable income stream that is not directly correlated with stock market performance. This independence from equities can help stabilize a portfolio against the [volatility](/wiki/volatility-trading-strategies) of stocks.
+The price of a 10-Year Treasury Note is driven by supply, demand, and a tug-of-war between interest rates and investor sentiment in the open market. It’s issued at auctions by the Treasury with a set face value (say, $1,000) and a fixed coupon rate—determined by bidding from big players like banks and funds. After that, it trades on the secondary market, where its price bounces around daily.
 
-One of the most compelling reasons to invest in 10-year Treasury Notes (T-notes) is their status as one of the safest investment options available. This safety is assured by the full faith and credit of the U.S. government. Unlike corporate bonds, where the risk is tied to a company’s performance and financial health, T-notes are obligations of the federal government. Thus, they [carry](/wiki/carry-trading) minimal default risk, often rendering them a safe haven during times of financial uncertainty.
+Here’s the kicker: price and yield move opposite. When interest rates rise—say, from Fed hikes or inflation fears—newer notes offer higher coupons, so older ones with lower rates lose appeal. Their prices drop to make their effective yield competitive. If rates fall, those older, higher-coupon notes get pricier since they beat new issues. Market vibes matter too: economic uncertainty or stock sell-offs boost demand for safe Treasuries, pushing prices up (and yields down). Supply tweaks—like the Treasury issuing more debt—can nudge prices down if the market’s flooded. It’s a dance of expectations, policy, and safety-seeking cash.
 
-Moreover, T-notes provide tax benefits that can enhance their appeal. Interest income from these notes is exempt from state and local taxes, though it remains subject to federal taxes. This exemption can result in a more favorable after-tax return for certain investors, particularly those residing in states with high income tax rates.
+## Why do investors buy 10-Year Treasury Notes?  
 
-Liquidity is another standout feature of 10-year Treasury Notes. They are highly tradable instruments, allowing investors to buy and sell them with ease in the secondary market. This [liquidity](/wiki/liquidity-risk-premium) ensures that investors can adjust their portfolios according to changing financial goals or market conditions without significant delay or loss.
+Investors buy 10-Year Treasury Notes for a mix of safety, steady income, and strategic plays. First off, they’re backed by the U.S. government, which has a flawless track record of paying up—default risk is basically zero. That makes them a rock-solid haven when stocks tank or global chaos hits. They also pay a fixed coupon every six months, giving predictable cash flow—great for retirees, pension funds, or anyone wanting reliable returns without sweating market swings.
 
-In summary, 10-year Treasury Notes offer secure, predictable, and tax-advantaged returns. They play a crucial role in diversifying investment portfolios, safeguarding against the volatility of other asset classes while maintaining the flexibility to adjust holdings as needed.
+The 10-year term strikes a balance: long enough to lock in a decent yield, short enough to dodge the wilder risks of 30-year bonds, like inflation eating returns. Plus, they’re super liquid—you can sell them fast on the secondary market. Banks and institutions grab them to meet regulatory needs or hedge other bets, while traders watch the yield as an economic pulse. Some even play the price game, buying low when rates spike, hoping to sell high if rates drop. It’s a go-to for stability with a side of flexibility.
 
-## Risks Associated with 10-Year Treasury Notes
+## How is the yield on a 10-Year Treasury Note calculated?  
+
+The yield on a 10-Year Treasury Note is calculated based on its price, coupon rate, and time to maturity, reflecting the total return you’d get if you held it until it matures. At its simplest, it’s the annualized return, factoring in the semi-annual interest payments (the coupon) and any gain or loss from the price you paid versus its $1,000 face value at maturity.
+
+Here’s how it works: the coupon rate—set at issuance—determines the fixed interest (say, 3% on $1,000 = $30 yearly, or $15 every six months). If you buy the note at par ($1,000), the yield equals the coupon rate, 3%. But in the secondary market, the price shifts. If you pay $950, you still get $30 yearly plus $50 back at maturity (the difference to $1,000), spread over 10 years. That bumps your yield above 3%—closer to 3.4%—since you’re earning more relative to your cost. If you pay $1,050, your yield drops below 3%—maybe 2.7%—because you’re losing $50 at maturity.
+
+The exact math uses a formula called yield to maturity (YTM), solving for the rate that equates the present value of all future cash flows (coupons plus principal) to the current price. It’s a bit of algebra, often crunched by financial calculators or apps, but the gist is: lower price, higher yield; higher price, lower yield. Market quotes—like the “10-year yield” you see—typically reflect this YTM for notes trading that day.
+
+## Where can I buy a 10-Year Treasury Note?  
+
+You can buy a 10-Year Treasury Note in a few straightforward ways, depending on whether you want it fresh or pre-owned. For brand-new notes, head to TreasuryDirect.gov, the U.S. Treasury’s online platform. You set up an account, link a bank, and bid at auctions—non-competitive bids guarantee you some at the going rate, with a $100 minimum. Auctions happen several times a year, often in February, May, August, and November, with reopenings in between.
+
+Want one right now? Hit the secondary market through a broker—think Fidelity, Vanguard, Charles Schwab, or any major bank with a trading arm. You’ll buy existing notes from other investors, priced by market conditions, with minimums as low as $1,000 (sometimes less, depending on the broker). Fees vary, so check that fine print. Banks occasionally offer them too, though usually through their investment desks.
+
+For big players or indirect exposure, Treasury-focused mutual funds or ETFs (like iShares’ IEF) bundle 10-year notes, tradable on exchanges like stocks. Pick your path—direct from the source, via a broker, or bundled—based on how hands-on you want to be. As of February 25, 2025, those options are all live; TreasuryDirect or a quick broker search will show current auctions or prices.
+
+## What role does the 10-Year Treasury Note play in the economy?  
+
+The 10-Year Treasury Note is a heavyweight in the economy, acting as both a financial anchor and a signal flare. Its yield is the go-to benchmark for setting borrowing costs across the board—think mortgage rates, car loans, and corporate bonds—which ripple out to affect how much people and businesses spend or invest. When its yield climbs, borrowing gets pricier, cooling off housing or expansion plans; when it drops, cheap credit can spark action, like homebuying or company growth.
+
+It’s also a pulse-check for investor confidence. Since it’s ultra-safe, a rush to buy notes (pushing yields down) often screams economic worry—think recessions or market crashes. A sell-off (yields up) can signal optimism or inflation bets. The Fed watches it too, using its moves to gauge how policy—like rate hikes or bond-buying—lands in the real world. Plus, banks and insurers lean on it to balance their books, while its spot on the yield curve (compared to shorter or longer terms) hints at growth or slowdowns ahead. It’s less a player, more a mirror and a mover rolled into one.
+
+## How does the Federal Reserve affect the 10-Year Treasury Note?  
+
+The Federal Reserve shapes the 10-Year Treasury Note’s fate indirectly through its policy toolkit, even though it doesn’t set the yield—the market does that. When the Fed tweaks the federal funds rate (what banks charge each other overnight), it ripples out. Rate hikes lift short-term yields, making investors demand more from the 10-year to stay competitive, pushing its yield up. Rate cuts do the opposite, easing short-term rates and often dragging the 10-year yield down as borrowing looks cheaper.
+
+Then there’s the Fed’s bond playbook: quantitative easing (QE) or tightening. In QE, it buys heaps of Treasuries, including 10-year notes, pumping demand and driving prices up (yields down). When it unwinds—like in 2018 or 2022—selling or letting bonds mature floods supply, nudging prices down and yields up. The Fed’s jawboning matters too: hints of future hikes or easing shift expectations, moving the 10-year yield before any action hits. Say the Fed signals inflation-fighting in 2025; yields might jump as markets brace. It’s a chain reaction—policy sets the vibe, markets price the note.
+
+## What’s the relationship between the 10-Year Treasury Note and mortgage rates?  
+
+The 10-Year Treasury Note and mortgage rates are tight-knit, moving together like shadows thanks to their shared roots in long-term borrowing costs. The note’s yield is a benchmark for lenders setting rates, especially for 30-year fixed mortgages. Why? Both reflect investor views on interest rates and inflation over a decade-plus horizon, and the 10-year’s safety makes it a baseline—mortgage rates typically sit a couple percentage points higher to cover risk and profit.
+
+When the 10-year yield rises—say, from Fed hikes or growth optimism—banks bump up mortgage rates to match, since their funding costs climb and they need to keep returns attractive. If the yield drops—like during a flight to safety or Fed easing—mortgage rates tend to fall, making loans cheaper. It’s not a perfect lockstep; housing demand, credit risk, or mortgage-backed securities can tweak the spread (usually 1.5-2% above the 10-year). But check any chart: when the 10-year yield spiked to 4% in 2022, 30-year mortgages topped 6%. It’s the starting line lenders eye before adding their own sauce.
+
+## How does the 10-Year Treasury Note fit into the yield curve?  
+
+The 10-Year Treasury Note is a linchpin in the yield curve, anchoring the middle of the maturity spectrum and serving as a key reference point. The yield curve plots yields of Treasury securities—like bills (under a year), notes (1-10 years), and bonds (over 10 years)—against their time to maturity. Typically, it slopes upward, with longer terms offering higher yields to compensate for added risk and uncertainty over time.
+
+The 10-year note sits at the 10-year mark, bridging short-term vibes (like the 2-year note) and long-term bets (like the 30-year bond). Its yield is a go-to for sizing up economic health. A steep curve—where the 10-year yield towers over the 2-year—hints at growth ahead, as investors expect rising rates. A flat or inverted curve, where the 10-year dips near or below the 2-year, flags recession risks, signaling expectations of rate cuts. It’s watched obsessively: the 2-year/10-year spread inverting in 2022 spooked markets for a reason. The 10-year’s mid-range perch makes it a crystal ball for balancing now versus later.
+
+## What are the risks of investing in a 10-Year Treasury Note?  
 
 The 10-year U.S. Treasury Note, while often considered a pillar of safety in investment portfolios, is not without its risks. Understanding these risks is essential for investors looking to balance their portfolios effectively.
 
@@ -49,95 +84,15 @@ $$
 
 Interest rate risk is another critical [factor](/wiki/factor-investing) to consider. Treasury Notes have a fixed interest rate, and their prices are inversely related to market interest rates. Therefore, if market interest rates rise, the value of existing 10-year Treasury Notes will typically decline, because newer issues will offer higher yields. This price sensitivity to interest rate changes is often measured using duration, a calculation that approximates the percentage change in price for a 1% change in yield. Longer maturities tend to have higher durations, thus being more sensitive to interest rate fluctuations.
 
-In summary, while the 10-year Treasury Note is a stable and reliable investment, potential investors must weigh these risks, which include lower returns, the impact of inflation, and interest rate sensitivity. Understanding these factors can aid in creating more resilient investment strategies that account for varying economic conditions.
+## How have historical events impacted the 10-Year Treasury Note’s yield?
 
-## Algorithmic Trading and 10-Year Treasury Notes
+Historical events have sent the 10-Year Treasury Note’s yield on a rollercoaster, reflecting economic shocks, policy shifts, and investor panic. In the late 1970s, the oil crises—OPEC’s 1973 embargo and Iran’s 1979 revolution—fueled stagflation, driving inflation sky-high. The yield soared past 15% by 1981 as investors demanded more to offset price spikes, amplified by Fed Chair Volcker’s rate hikes to choke inflation.
 
-Algorithmic trading has transformed the landscape of trading 10-year U.S. Treasury Notes by enhancing the precision, timing, and efficiency of transactions. These systems employ complex algorithms to analyze vast datasets, enabling traders to identify patterns and trends that would be challenging to discern manually.
+The 1987 Black Monday crash flipped the script. Stocks tanked 22% in a day, and investors rushed to Treasuries, dropping the 10-year yield from 10% to under 9% fast as prices surged. The Dot-Com Bust in 2000 saw it slide from 6.7% to 5% by year-end, with tech wreckage pushing cash to safety. Post-9/11 in 2001, uncertainty and Fed rate cuts sank it further, hitting 3.5% by 2002.
 
-One of the primary advantages of [algorithmic trading](/wiki/algorithmic-trading) in the bond market is the significant increase in liquidity. Algorithms facilitate the rapid buying and selling of Treasury Notes, allowing both individual and institutional investors to execute large volumes of transactions without significantly impacting the market. This increased liquidity ensures that investors can enter and [exit](/wiki/exit-strategy) positions more easily, enhancing their ability to manage risk.
+The 2008 Financial Crisis was a gut punch—yields crashed from 4% to 2.1% by December as Lehman collapsed and the Fed unleashed QE, gobbling notes to prop up markets. Brexit’s 2016 shockwave sent it to a record low of 1.37% in July, with global jitters piling into U.S. debt. The 2020 COVID-19 pandemic cratered it to 0.5% in August, as lockdowns and Fed stimulus drowned yields in safe-haven demand.
 
-Algorithmic trading systems are designed to predict yield fluctuations and make timely buy or sell decisions. They do this by processing various market indicators, such as interest rates, economic data releases, and other financial variables, to forecast future price movements. The algorithms can execute trades in milliseconds, which is crucial in a market where timely decisions can mean the difference between profit and loss.
-
-The complexity of T-notes' price movements stems from various factors, including interest rate changes and macroeconomic conditions. Algorithmic systems are equipped to navigate these complexities by employing [machine learning](/wiki/machine-learning) techniques to improve prediction accuracy. For example, a simple moving average crossover strategy can be implemented in Python as follows:
-
-```python
-def moving_average(prices, window_size):
-    return [sum(prices[i:i+window_size]) / window_size for i in range(len(prices) - window_size + 1)]
-
-def generate_signals(prices, short_window, long_window):
-    short_mavg = moving_average(prices, short_window)
-    long_mavg = moving_average(prices, long_window)
-
-    signals = []
-    for i in range(1, len(short_mavg)):
-        if short_mavg[i] > long_mavg[i] and short_mavg[i-1] <= long_mavg[i-1]:
-            signals.append("BUY")
-        elif short_mavg[i] < long_mavg[i] and short_mavg[i-1] >= long_mavg[i-1]:
-            signals.append("SELL")
-        else:
-            signals.append("HOLD")
-
-    return signals
-
-prices = [105, 106, 108, 109, 107, 110, 111, 112, 110]
-signals = generate_signals(prices, short_window=2, long_window=3)
-print(signals)
-```
-
-This code demonstrates how simple algorithms can be used to generate buy or sell signals based on moving averages, which could then be adapted for more sophisticated models incorporating additional financial indicators.
-
-In essence, algorithmic trading systems exploit the inherently low-risk nature of Treasury Notes while effectively managing the complexities associated with their price movements. These algorithms provide a significant advantage for traders by ensuring more accurate, efficient, and timely trade executions, thereby optimizing investment returns.
-
-## Practical Steps to Begin Trading 10-Year Treasury Notes Algorithmically
-
-To begin trading 10-year Treasury Notes algorithmically, it is essential to have a thorough understanding of the trading infrastructure, combined with the selection of appropriate technology platforms and strategies. Here are the practical steps:
-
-1. **Understanding Market Infrastructure**: Familiarize yourself with the structure and functioning of bond markets, including primary and secondary markets. Recognize the role of various market participants, such as brokers, dealers, and institutional investors. Understanding how these players interact will provide insights into market liquidity and price formation.
-
-2. **Accessing Platforms for Algorithmic Trading**: Utilize platforms that support algorithmic trading. TreasuryDirect is the U.S. Department of the Treasury’s online system for direct purchases of government securities. While it allows direct participation in auctions, TreasuryDirect is primarily designed for retail investment, and direct algorithmic interaction is limited. Therefore, engaging with more sophisticated trading platforms for the secondary market is advisable. These platforms often provide APIs for algorithm development and back-testing, furnishing traders with the appropriate tools and data analytics required for efficient market participation.
-
-3. **Education on Federal Reserve Policies and Market Indicators**: An understanding of the Federal Reserve's monetary policy, including interest rate adjustments and quantitative easing measures, is crucial for predicting movements in bond yields. Monitoring economic indicators such as GDP growth rates, inflation statistics, and employment figures can help anticipate market reactions and inform trading algorithms. Algorithmic trading systems should integrate real-time data feeds for these indicators to optimize decision-making processes.
-
-4. **Developing Algorithmic Models**: Designing trading algorithms tailored to bond markets involves a combination of statistical methods and machine learning techniques. Common strategies include mean reversion, trend following, and statistical arbitrage. Machine learning models, such as recurrent neural networks (RNNs) or support vector machines (SVMs), can be particularly effective for identifying patterns in yield movements and price trends.
-
-   Here's a basic Python example using a simple moving average crossover strategy:
-
-   ```python
-   import pandas as pd
-   import numpy as np
-
-   # Load historical yield data
-   data = pd.read_csv('10_year_treasury_yield.csv')
-   prices = data['Yield']
-
-   # Calculate moving averages
-   short_window = 5
-   long_window = 20
-   data['short_mavg'] = prices.rolling(window=short_window, min_periods=1).mean()
-   data['long_mavg'] = prices.rolling(window=long_window, min_periods=1).mean()
-
-   # Generate signals
-   data['signal'] = 0.0
-   data['signal'][short_window:] = np.where(data['short_mavg'][short_window:] 
-                                            > data['long_mavg'][short_window:], 1.0, 0.0)
-   data['positions'] = data['signal'].diff()
-
-   # Display signals and positions
-   print(data[['Yield', 'short_mavg', 'long_mavg', 'signal', 'positions']])
-   ```
-
-5. **Model Improvement through Machine Learning**: Develop predictive models using machine learning to enhance algorithm performance. Training algorithms on historical yield data enables them to recognize patterns and forecast future price movements. Integrating adaptive learning systems ensures the algorithms evolve with changing market conditions, offering robust performance in various economic environments.
-
-By understanding the intricacies of mortgage trading platforms, educating oneself on economic fundamentals, and employing advanced algorithmic models, investors can effectively engage in trading 10-year Treasury Notes, thus optimizing returns in a highly structured and stable segment of the financial markets.
-
-## Conclusion
-
-10-year U.S. Treasury Notes are considered a reliable investment option that contributes to a stable financial strategy. They offer investors low-risk returns due to their backing by the U.S. government, making them a fundamental component in diversifying investment portfolios. This is particularly crucial in mitigating risk across various asset classes, especially when market volatility impacts more risky investments.
-
-The advent of algorithmic trading introduces a new dimension to investing in 10-year Treasury Notes. By enhancing the precision and timing of trades, algorithmic systems enable investors to capitalize on favorable market conditions while managing risk effectively. Algorithms can analyze vast amounts of data, identify patterns, and execute trades at speeds unattainable by traditional methods. This means that they can adapt quickly to changes in interest rates and other market dynamics, optimizing returns for both individual and institutional investors.
-
-It is imperative for investors to continuously reassess their investment strategies. As economic landscapes change, staying informed about fiscal policies, market trends, and technological advancements in trading can provide a significant advantage. The stability and predictability of 10-year U.S. Treasury Notes, combined with the efficiency of algorithmic trading, offer a robust foundation for building a secure financial future.
+Then, 2022’s inflation surge—worst since the ‘80s—flipped it again. Yields jumped from 1.5% to over 4% as the Fed hiked rates to tame prices. Each lurch tied to fear, policy, or economic upheaval, making the 10-year yield a live wire for history’s big moments.
 
 ## References & Further Reading
 
@@ -150,3 +105,23 @@ It is imperative for investors to continuously reassess their investment strateg
 [4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
 
 [5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
+
+[6]: [10-Year US Treasury Note: What It Is and Investment Advantages](https://www.investopedia.com/terms/1/10-yeartreasury.asp)
+
+[7]: [Treasury Notes](https://treasurydirect.gov/marketable-securities/treasury-notes/) — TreasuryDirect
+
+[8]: [10-Year US Treasury Note](https://corporatefinanceinstitute.com/resources/fixed-income/10-year-us-treasury-note/) - Definition and Examples
+
+[9]: [TMUBMUSD10Y | U.S. 10 Year Treasury Note Overview | MarketWatch](https://www.marketwatch.com/investing/bond/tmubmusd10y?countrycode=bx)
+
+[10]: [US10Y: U.S. 10 Year Treasury - Stock Price, Quote and News](https://www.cnbc.com/quotes/US10Y) - CNBC
+
+[11]: [10-Year T-Note Overview - CME Group](https://www.cmegroup.com/markets/interest-rates/us-treasury/10-year-us-treasury-note.html)
+
+[12]: [10-Year US Treasury Note: What It Is And How To Buy | Bankrate](https://www.bankrate.com/investing/how-to-buy-10-year-us-treasury-note/)
+
+[13]: [10-Year Treasury Bond Yield: What It Is and Why It Matters](https://www.investopedia.com/articles/investing/100814/why-10-year-us-treasury-rates-matter.asp)
+
+[14]: [US 10 Year Treasury Yield](https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield) - Investing.com
+
+[15]: [Ultra 10-Year U.S. Treasury Note Overview](https://www.cmegroup.com/markets/interest-rates/us-treasury/ultra-10-year-us-treasury-note.html) - CME Group
