@@ -1,125 +1,78 @@
 ---
-title: "Small Order Execution System (Algo Trading)"
+title: "Small Order Execution System"
 description: "Explore the history and impact of the Small Order Execution System a key innovation that revolutionized retail trading by enabling automated small trade execution."
 ---
 
-In the intricate world of stock trading, speed and precision are essential components of success. One notable innovation that significantly influenced the evolution of trading technology is the Small Order Execution System (SOES). Developed in the 1980s by Nasdaq, SOES played a crucial role in reshaping retail investor access to equity markets by enabling the automatic execution of smaller trades. Before SOES, retail traders often struggled with executing orders swiftly, typically being outpaced by institutional investors who had access to faster market data and execution capabilities.
-
-SOES facilitated the execution of small orders, generally 1,000 shares or less, by leveling the playing field for retail investors. This automation improved market liquidity and allowed a broader segment of participants to engage in trading activities, which was previously dominated by larger entities. The impact of SOES was profound, setting the stage for advancements in trading technologies that followed.
-
 ![Image](images/1.jpeg)
-
-This article examines the history and mechanics of SOES, focusing on its influence on stock trading. We will explore the challenges of the time and how they prompted the creation of more sophisticated systems. Additionally, we will discuss the transition to advanced systems that are more aligned with today's market demands. Moreover, modern algorithmic trading systems have roots in the principles established by SOES, reflecting the ongoing evolution and adaptation of trading technology to meet the increasing demands for speed and efficiency in the markets.
 
 ## Table of Contents
 
+## What is the Small Order Execution System (SOES)?  
+
+The Small Order Execution System (SOES) was an automated trading platform introduced by NASDAQ in 1984 to facilitate the execution of small stock orders. It was designed to provide individual investors and small traders with faster and more direct access to the stock market, bypassing traditional manual processes. SOES allowed users to submit orders electronically, which were then matched and executed against market makers' quotes in real time. Initially created to improve liquidity and efficiency, it gained significant attention after the 1987 stock market crash, when it became mandatory for market makers to honor their posted quotes for small orders. This system played a key role in leveling the playing field for retail traders before evolving into more advanced electronic trading platforms.
+
+## How did the Small Order Execution System come to be?  
+
+The Small Order Execution System (SOES) was developed as part of an effort to modernize and streamline stock trading. Back then, trading on NASDAQ relied heavily on manual processes—brokers would call market makers to execute trades, which was time-consuming and often inefficient, especially for smaller retail investors. Building on NASDAQ’s foundation as the first electronic stock exchange (established in 1971), SOES was introduced to automate the execution of small orders, typically those up to 1,000 shares, giving individual traders a quicker way to participate in the market. It started as an optional tool, designed to boost liquidity and make trading more accessible to non-institutional players. Its role solidified after the 1987 Black Monday crash, when the system’s ability to execute trades rapidly highlighted its value. In response, regulators stepped in, mandating that market makers honor their posted quotes for SOES orders, transforming it into a critical piece of market infrastructure aimed at fairness and efficiency.
+
+## What was the purpose of SOES when it was introduced?  
+
+Its primary purpose was to enhance the efficiency and accessibility of stock trading for small orders. It aimed to provide individual investors and smaller traders with a faster, automated way to execute trades, typically for orders of 1,000 shares or fewer, without relying on the slower, manual processes that dominated the market at the time. By automating these transactions and matching them directly with market makers' quotes, SOES sought to improve liquidity, reduce delays, and make the trading process more equitable. Essentially, it was designed to level the playing field, giving retail traders a better shot at competing in a market that often favored larger institutional players, while also supporting NASDAQ’s broader mission to advance electronic trading.
+
+## How does SOES work in practice?  
+
+In practice, the Small Order Execution System (SOES) functioned as an automated platform that connected small traders directly to the NASDAQ market. Here’s how it worked: a retail investor or small trader would place an order—typically for 1,000 shares or fewer—through a broker using a SOES-enabled terminal. The system would then instantly scan the market for the best available quotes posted by market makers, who were obligated to buy or sell at those prices. Once a match was found, SOES executed the trade electronically in real time, bypassing the need for phone calls or manual negotiation. Market makers had to honor their quoted prices for these small orders, a rule reinforced after 1987, ensuring immediate execution without haggling. The process was fast, often taking seconds, and provided confirmation back to the trader via the broker. This automation made trading smoother, more transparent, and accessible, especially for individuals looking to act quickly on market moves.
+
+## Who could use the Small Order Execution System?  
+
+The Small Order Execution System (SOES) was primarily designed for individual retail investors and small traders, though its use extended to anyone with access through a broker. To use SOES, you needed a brokerage account with a firm that offered the system, as it was integrated into NASDAQ’s trading infrastructure and accessed via specific terminals or software provided by those brokers. Initially, it catered to small-scale market participants—think day traders, casual investors, or small firms—looking to execute orders of 1,000 shares or fewer. After the 1987 crash, when its use became mandatory for market makers to honor small orders, it also attracted a wave of active traders, including some who exploited its speed for quick profits (often called "SOES bandits"). While institutional investors could technically use it, they rarely did, as their larger orders exceeded SOES size limits and required different systems. In short, it was built for the little guy with the right tools and a broker’s hookup.
+
+## What types of trades were eligible for SOES execution?  
+
+The Small Order Execution System (SOES) was built to handle specific types of trades, focusing on small, straightforward transactions. Eligible trades were limited to market orders—buying or selling at the current market price—for NASDAQ-listed stocks, with a cap on size, typically 1,000 shares or fewer, though this varied slightly by stock (e.g., 500 or 200 shares for less liquid ones). These had to be standard equity trades, not options, futures, or complex strategies like limit orders, which SOES didn’t support. The system targeted stocks where market makers posted firm quotes, meaning they were obligated to execute at those prices. After 1987, rules tightened to ensure only small, retail-driven orders qualified, excluding bulk trades from institutions. Essentially, SOES was for quick, simple buys and sells by individuals looking to jump in or out of the market without fuss.
+
+## How did SOES impact stock market trading in its early years?  
+
+In its early years, the Small Order Execution System (SOES) shook up stock market trading by injecting speed, accessibility, and a bit of chaos into the NASDAQ ecosystem. Launched in 1984, it gave small investors a way to bypass the slow, broker-heavy process, executing trades in seconds rather than minutes or hours. This boosted liquidity, as more retail orders flowed in, and forced market makers to sharpen their quotes since SOES held them accountable to what they posted. After the 1987 crash, when its use became mandatory for honoring small orders, the impact amplified—market makers couldn’t dodge trades anymore, which narrowed spreads and made pricing more competitive. But it wasn’t all smooth sailing: savvy traders, dubbed “SOES bandits,” exploited the system’s speed to pick off outdated quotes, riling up market makers and sparking debates about fairness. Overall, SOES democratized trading a bit, rattled the old guard, and laid groundwork for the electronic trading boom that followed.
+
+## What are the advantages of using SOES for small investors?  
+
+For small investors, the Small Order Execution System (SOES) offered some clear advantages when it was active. First, it delivered speed—trades executed in seconds, letting individuals act on market moves without delay, a big deal in a pre-internet era where timing was everything. Second, it provided direct access; you didn’t need a big broker or deep pockets to get into the game, just a SOES-enabled account. Third, it guaranteed execution—market makers had to honor their posted quotes for small orders (up to 1,000 shares), so you weren’t left hanging like with manual trades. This also meant better pricing, as you locked in the best available quote without negotiation. Plus, it leveled the field a bit—small fry could compete with bigger players, at least for modest trades. Lower costs were another perk, as automation cut out middlemen fees. For a retail trader, SOES was a ticket to a faster, fairer market.
+
+## What limitations or criticisms did SOES face?  
+
+The Small Order Execution System (SOES) had its share of limitations and drew plenty of criticism during its run. For starters, it was restrictive—only handling market orders up to 1,000 shares (sometimes less), which boxed out limit orders or larger trades, frustrating investors needing flexibility. Its speed, while a boon for users, became a double-edged sword: fast-moving “SOES bandits” exploited lagging market maker quotes, sniping profits and leaving dealers fuming over losses they couldn’t dodge. This led to accusations of unfairness, with market makers arguing it turned them into sitting ducks. Liquidity took a hit too—some dealers widened spreads or pulled quotes to avoid getting picked off, which clashed with SOES’s goal of tightening markets. Critics also pointed out its tech was clunky by later standards, unable to keep pace with growing trade volumes. Plus, it wasn’t built for the institutional crowd, limiting its scope. In short, SOES was hailed for access but knocked for rigidity, exploitation, and unintended market stress.
+
+## How did SOES influence the evolution of electronic trading?  
+
+The Small Order Execution System (SOES) left a lasting mark on the evolution of electronic trading by proving automation could work—and scale—in real-world markets. Launched in 1984, it was one of the first systems to let small investors trade directly and instantly, setting a precedent for cutting out human middlemen. Its post-1987 mandate—that market makers honor quotes for small orders—pushed the industry toward tighter accountability and real-time execution, concepts that became cornerstones of modern platforms. SOES also exposed the power of speed, as “bandits” showed how fast trades could shift dynamics, nudging firms to invest in quicker tech and better quote systems. It bridged NASDAQ’s early electronic roots to the fully digital future, inspiring successors like the SuperSOES and ECNs (Electronic Communication Networks) that handled bigger, more complex trades. By forcing market makers to adapt—think narrower spreads, faster updates—it helped pave the way for today’s high-frequency, algorithmic trading world. SOES wasn’t perfect, but it lit the fuse for the electronic revolution.
+
+## Why was the Small Order Execution System eventually phased out?  
+
+The Small Order Execution System (SOES) was phased out because it couldn’t keep up with the evolving demands of the stock market and got eclipsed by more advanced tech. By the late 1990s, its limitations—capped at small market orders (usually 1,000 shares or less), no support for limit orders, and a rigid structure—felt outdated as trading volumes soared and investors wanted more flexibility. The rise of “SOES bandits” exploiting slow market maker quotes had also soured its reputation, prompting pushback from dealers who hated being locked into trades. Meanwhile, newer systems like SuperSOES (introduced in 1994) and Electronic Communication Networks (ECNs) emerged, offering faster execution, bigger order sizes, and broader functionality, including direct trader-to-trader matching. Regulatory shifts, like the SEC’s Order Handling Rules in 1997, further nudged the market toward these alternatives by reshaping how quotes and trades were managed. By 2001, NASDAQ fully retired SOES, folding its lessons into the modern, high-speed, all-electronic framework that dominates today—it was simply outgrown.
+
+## What modern systems or technologies replaced SOES?
+
+The Small Order Execution System (SOES) was replaced by a wave of more advanced trading technologies that took its core ideas and supercharged them for the modern market. First came SuperSOES, rolled out by NASDAQ in 1994, which expanded order sizes, added limit order support, and sped things up while keeping the automated spirit of SOES alive. Around the same time, Electronic Communication Networks (ECNs) like Instinet, Island, and Archipelago burst onto the scene, letting traders—retail and institutional—match orders directly without market makers, boosting speed and transparency. By the early 2000s, NASDAQ’s Market Center and later the NASDAQ Matching Engine integrated these concepts, handling massive volumes with precision. Today’s heavy hitters, like high-frequency trading (HFT) platforms and algorithmic systems from firms like Citadel or Virtu, owe a nod to SOES—they thrive on millisecond execution and liquidity pools SOES could only dream of. Add in dark pool trading and smart order routing, and you’ve got a digital ecosystem that left SOES in the dust, built for a faster, broader, more connected market.
+
 ## Understanding Small Order Execution Systems
 
-The Small Order Execution System (SOES) was an automated trading innovation introduced by Nasdaq in the 1980s to streamline the process of executing small orders, typically involving 1,000 shares or less. This system emerged during a time when small traders faced significant challenges in executing trades efficiently. Institutional investors had the upper hand, enjoying faster access to market data and execution capabilities, which often left retail investors at a disadvantage. 
+It seems like you might want a summary or deeper dive into the Small Order Execution System (SOES) based on your heading. Since you’ve already asked all 12 questions I suggested, I’ll assume you’re looking for a concise wrap-up to tie it all together. If you meant something else, just let me know!
 
-SOES addressed these disparities by providing an automated mechanism that allowed for the swift and reliable execution of small trades. By doing so, it created a more level playing field for individual traders. The automation inherent in SOES enabled these smaller participants to execute trades with a degree of speed and precision that was previously unattainable. This not only improved market liquidity by ensuring that more buy and sell orders were matched quickly, but also encouraged a surge in participation from retail investors who now had a viable means to compete.
+SOES was a groundbreaking NASDAQ tool launched in 1984 to automate small stock trades—think 1,000 shares or less—for retail investors. It sprang from the need to ditch slow, manual trading, giving small players faster market access. Its purpose? Boost efficiency, liquidity, and fairness, especially after the 1987 crash made it mandatory for market makers to honor quotes. In practice, it matched small market orders to posted prices instantly, open to anyone with a SOES-enabled broker account.
 
-The broader effect of SOES's implementation was a democratization of the trading landscape, facilitating greater inclusivity and participation in the equity markets by retail traders. The enhanced liquidity and accessibility it provided laid the groundwork for the evolution of trading platforms and systems that would continue to refine participation in financial markets.
-
-## The Rise and Fall of SOES
-
-In 1984, the Small Order Execution System (SOES) was introduced by Nasdaq with the purpose of facilitating the automatic execution of small retail trades, typically consisting of 1,000 shares or fewer. The development of SOES was part of a broader effort to enhance market access for individual traders who previously faced significant obstacles when competing with institutional investors. Institutional traders benefited from faster access to market information and superior trade execution capabilities, leaving smaller retail participants at a disadvantage.
-
-In response to the 1987 Black Monday stock market crash, regulators identified the need to improve market robustness and investor confidence. This led to the mandatory implementation of SOES for all market makers as a measure to bolster market efficiency and [liquidity](/wiki/liquidity-risk-premium). The system enabled retail investors to have their trades executed more swiftly and at better prices, effectively leveling the playing field.
-
-However, as with many technological solutions, SOES was not without its challenges. As the system provided an automatic execution mechanism, it inadvertently gave rise to a group of aggressive traders known as "SOES bandits." These traders capitalized on the system by executing rapid trades to exploit price discrepancies, often ahead of market makers who were unable to update their quotes as quickly. The actions of SOES bandits highlighted inherent tensions within the system, as their strategies sometimes led to market distortions and dissatisfaction among traditional market makers.
-
-By the early 2000s, Nasdaq's trading landscape had evolved, driven by advancements in technology and the growing complexity of financial markets. The introduction of more sophisticated platforms, such as SuperMontage, offered enhanced functionalities, including integrated order [books](/wiki/algo-trading-books) and improved transparency. High-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) systems also began to emerge, leveraging cutting-edge technology to execute trades at speeds far surpassing human capabilities.
-
-These newer systems gradually made SOES obsolete, as traders favored the advanced features and speed offered by the latest trading technologies. Moreover, the financial ecosystem demands continued to evolve, necessitating trading platforms that could keep pace with the rapidly changing market dynamics.
-
-The transition from SOES to more contemporary systems marked a pivotal point in the evolution of market infrastructure. This shift underscores the continuous drive for innovation in trading technology, balancing the need for efficiency with the imperative to maintain market integrity.
-
-## SOES Bandits and Market Impact
-
-'SOES bandits' refers to a group of professional traders who capitalized on the inherent latency and specific rules of the Small Order Execution System (SOES) to generate profits. This system's design, intended to bolster the efficiency and fairness of small order executions for retail investors, inadvertently presented opportunities for savvy traders. These traders would exploit the delay in market makers' quote updates to identify and act upon price discrepancies swiftly. 
-
-The operation of SOES bandits hinged on their ability to execute trades at a speed unmatched by the manual processes market makers used at the time. They accomplished this by constantly monitoring price movements and employing algorithmic strategies to pinpoint minor discrepancies that could be exploited for [arbitrage](/wiki/arbitrage) opportunities. For example, if a SOES bandit observed a temporary mispricing between the bid and ask prices, they could rapidly buy at the lower price and sell at the higher price, pocketing the difference.
-
-Such practices raised controversies within the trading community and among regulators. The activities of SOES bandits often placed market makers at a disadvantage, as they were obligated to fulfill trades even when it was not profitable due to the time lag in updating their quotes. This scenario fostered a trading environment where market makers faced potential financial losses due to their inability to react as quickly as these professional traders.
-
-As a response, regulatory bodies were compelled to introduce interventions designed to inhibit such practices and preserve the market's integrity. These measures included revisions to the rules governing SOES operations, such as reducing the latency gap, enhancing transparency, and instituting limitations on how frequently traders could exploit such discrepancies. The eventual aim was to create a level playing field that would sustain fair trading practices across all categories of market participants, deterring manipulative strategies that could destabilize market dynamics.
-
-The impact of SOES bandits offers essential insights into how automated trading systems can be both beneficial and susceptible to exploitation. It also underscored the need for constant evolution in market regulation, especially as new technologies emerge and as trading systems continue to advance in complexity and capability. The legacy of SOES bandits set the stage for a more robust oversight framework and the development of countermeasures that anticipate and curb similar challenges in future trading systems.
-
-## Transition to Advanced Trading Systems
-
-With the progression of technology and the ever-increasing demands of modern financial markets, the Nasdaq Stock Market introduced more sophisticated trading systems to address the limitations present in the Small Order Execution System (SOES). The SuperMontage, launched in December 2002, was one of these advancements that offered numerous enhancements over its predecessors.
-
-SuperMontage was designed to increase market transparency and efficiency by introducing an integrated [order book](/wiki/order-book-trading-strategies) system. Unlike SOES, which primarily facilitated small investor trades without providing extensive market data, SuperMontage allowed for multiple levels of price and order visibility. This feature enabled traders to view the depth of the market, understanding not only the best available prices but also the quantity of shares available at consecutive levels. This enhancement provided a more comprehensive view of market sentiment and liquidity.
-
-The platform offered various functionalities, such as the capability to post anonymous orders and the integration of both bidding and asking prices into a single view. This integration reduced market fragmentation and allowed for smoother execution of trades, thus minimizing the price impact of large orders and enhancing overall market liquidity.
-
-Following the foundational shift introduced by SuperMontage, [algorithmic trading](/wiki/algorithmic-trading) systems emerged, significantly transforming trading dynamics. These systems utilize advanced computational algorithms to execute trades based on pre-defined criteria and complex mathematical models. With the ability to process vast amounts of market data in real time, algorithmic trading systems allowed traders to execute strategies at unprecedented speeds, maximizing market opportunities and reducing transaction costs.
-
-Algorithmic trading relies heavily on data-driven strategies, employing techniques like [statistical arbitrage](/wiki/statistical-arbitrage), [trend following](/wiki/trend-following), and [machine learning](/wiki/machine-learning) to forecast market movements and optimize trading outcomes. For instance, a basic [momentum](/wiki/momentum) trading strategy could be expressed as:
-
-```python
-def momentum_strategy(prices, window):
-    """ Simple momentum strategy example """
-    # Calculate moving average
-    moving_average = prices.rolling(window=window).mean()
-    signal = np.where(prices > moving_average, 1, -1)  # Buy above average, sell below
-    return signal
-```
-
-Given the vast computational capacity required for these operations, advancements in computing power and data analytics technologies have been instrumental. Algorithmic trading systems today not only empower institutional players with complex trading strategies but also extend these capabilities to individual traders through user-friendly algorithms and automated platforms.
-
-As technology continues to evolve, trading systems will likely become even more sophisticated, integrating revolutionary technologies such as quantum computing and [artificial intelligence](/wiki/ai-artificial-intelligence), further changing the financial landscape.
-
-## Algorithmic Trading Today
-
-Algorithmic trading has revolutionized the trading industry by automating the process of executing orders through sophisticated algorithms and advanced machine learning models. This paradigm shift is marked by remarkable speed and efficiency, enabling traders to capitalize on fleeting market opportunities that would otherwise be missed using manual methods. Traders utilize algorithmic trading to develop, back-test, and execute complex strategies that can operate across a diverse range of asset classes, from equities to currencies and derivatives.
-
-The backbone of this revolution is the significant advancement in computational power coupled with data analytics. These technologies allow traders to process vast amounts of market data in real-time, making split-second decisions based on quantitative models. With the increased availability of high-frequency data and the application of machine learning techniques, traders create models that predict price movements, detect arbitrage opportunities, and optimize the timing of trades. 
-
-For example, a simple moving average crossover strategy, a common algorithmic technique, might be implemented in Python as follows:
-
-```python
-import pandas as pd
-
-def moving_average_strategy(data, short_window=40, long_window=100):
-    signals = pd.DataFrame(index=data.index)
-    signals['price'] = data['price']
-    signals['short_mavg'] = data['price'].rolling(window=short_window, min_periods=1, center=False).mean()
-    signals['long_mavg'] = data['price'].rolling(window=long_window, min_periods=1, center=False).mean()
-
-    signals['signal'] = 0.0
-    signals['signal'][short_window:] = np.where(signals['short_mavg'][short_window:] > signals['long_mavg'][short_window:], 1.0, 0.0)   
-    signals['positions'] = signals['signal'].diff()
-
-    return signals
-```
-
-In contemporary markets, both retail and institutional investors leverage advanced trading platforms to deploy these algorithmic strategies, much like the initial aims of SOES to equalize trading opportunities. These platforms are equipped with diverse functionalities, such as API integrations, for faster order execution, risk management tools, and real-time data analytics. The competitive edge obtained through technology is paramount, as traders seek algorithms capable of adapting to market complexities and unpredictable conditions.
-
-As technology continues to evolve, the trading landscape is likely to witness further transformations. Algorithms will become more sophisticated, incorporating artificial intelligence to enhance decision-making processes and perhaps conduct trades autonomously. This evolution is fueled by the quest for efficiency, echoing the foundational motivations behind the development of systems like SOES, and signifies the ongoing journey toward an optimized trading environment.
-
-## Conclusion
-
-The Small Order Execution System (SOES) marked a significant shift for retail investors in the latter part of the 20th century, democratizing access to stock markets. By enabling the automatic execution of small orders, SOES allowed individual traders to compete on a more even footing with institutional investors, delivering improved market liquidity and participation. Nonetheless, the wave of technological advancement that followed quickly rendered SOES obsolete, as newer, more sophisticated trading platforms emerged.
-
-Today's algorithmic trading systems have learned from the SOES era, evolving to encompass enhanced features that rely on real-time data and complex algorithms. These advancements have been propelled by greater computational power and access to vast amounts of market data, allowing for precise and rapid trade execution. The ability to design and implement complex trading strategies has transformed both retail and institutional trading, moving towards a highly efficient, technology-driven market environment.
-
-As we plan the trajectory of future trading systems, it's evident that technology remains a catalyst for change. Trading platforms continue to build upon the foundational lessons of systems like SOES, striving for agility and efficiency. Machine learning models, artificial intelligence, and even blockchain technology present new possibilities for further transformation. This ongoing evolution promises to refine trading further, ensuring markets remain accessible and effective for all participants.
+The impact was big: it sped up trading, tightened spreads, and empowered individuals, though it had downsides—limited order types, exploitation by “SOES bandits,” and market maker gripes. It shaped electronic trading’s future by proving automation worked, paving the way for ECNs, SuperSOES, and today’s high-frequency platforms. SOES faded by 2001, outpaced by these slicker, more versatile systems, but its legacy lives in the digital market we know now. Anything specific you’d like to expand on?
 
 ## References & Further Reading
 
-[1]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners."](https://academic.oup.com/book/52292) Oxford University Press.
+[1]: [Wikipedia Small-order execution system overview](https://en.wikipedia.org/wiki/Small-order_execution_system)
 
-[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+[2]: [Investopedia Small Order Execution System definition and history](https://www.investopedia.com/terms/s/soes.asp)
 
-[3]: Chan, E. (2013). ["Algorithmic Trading: Winning Strategies and Their Rationale."](https://github.com/ftvision/quant_trading_echan_book) Wiley.
+[3]: [Financial Industry Regulatory Authority SOES rules and notices](https://www.finra.org/sites/default/files/NoticeDocument/p004112.pdf)
 
-[4]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.
+[4]: [Government Accountability Office Securities Market Operations report](https://www.govinfo.gov/content/pkg/GAOREPORTS-GGD-98-194/html/GAOREPORTS-GGD-98-194.htm)
 
-[5]: Ulph, D. (1989). ["Automated Trading: An Examination of the Systematic Trader."](https://books.google.com/books/about/Professional_Automated_Trading.html?id=xWo5AQAAQBAJ) Palgrave Macmillan.
+[5]: [Scott Paterson Dark Pools book reference](https://en.wikipedia.org/wiki/Dark_Pools)
 
-[6]: ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python."](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen. 
-
-[7]: McMillan, L. G. (2004). ["Options as a Strategic Investment."](https://www.amazon.com/Options-Strategic-Investment-Lawrence-McMillan/dp/0735201978) Prentice Hall Press.
+[6]: [Nasdaq Launch of SuperSOES article](https://www.computerworld.com/article/2582041/nasdaq-launches---revised-order-system.html)

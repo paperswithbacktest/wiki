@@ -1,27 +1,27 @@
 ---
-title: "Wall Street Cheat Sheet: Market Psychology for Algo Trading"
+title: "Wall Street Cheat Sheet: Market Psychology for Trading"
 description: Unravel the emotional journey of traders and investors through the Wall Street Cheat Sheet - a visual representation of market psychology for Algo Trading. From disbelief to optimism, grasp recurring patterns of human behavior during bull and bear markets, making informed decisions with greater acuity.
 ---
 
 
 
-The Wall Street Cheat Sheet is an iconic representation that encapsulates the rollercoaster of emotions and psychological states traders and investors undergo during market cycles. From the peaks of euphoria to the troughs of despair, it captures the progression of sentiments as market conditions evolve. Conceived as a way to chart human reactions during a typical market cycle, it delineates both the bullish ascent of optimism and confidence and the bearish descent into doubt and pessimism.
-
 ![Untitled](images/Untitled.png)
-
-At its core, the Wall Street Cheat Sheet isn't just a reflection of price movements; it offers a profound insight into the collective psyche of the market participants. By tracing the emotional journey of traders, the cheat sheet aids in recognizing recurring patterns of human behavior in response to financial ebbs and flows. Grasping the essence of these patterns is pivotal. It allows traders to not only predict potential market moves with greater acuity but also to manage their emotional responses, thereby making more informed and less impulsive decisions.
 
 ## Table of Contents
 
-## Historical Perspective
+## What is the Wall Street Psychology Chart?
 
-The Wall Street Cheat Sheet emerged as a response to the recurring emotional cycles observed in financial markets. Its origins can be traced back to the early days of stock trading, though its conceptualization and popularization came much later. Observers of the market noticed that, irrespective of time periods and distinct market events, human reactions to profit and loss appeared to follow a predictable pattern. These observations eventually coalesced into the cheat sheet we recognize today, presenting a visual journey through the peaks and troughs of trader emotions.
+The Wall Street Psychology Chart, often referred to as the "Wall Street Cheat Sheet" or "Market Cycle of Emotions," is a visual representation that maps out the emotional journey investors go through during a typical market cycle. It illustrates how human psychology—emotions like fear, greed, hope, and despair—drives buying and selling behavior, which in turn influences stock prices and market trends. The chart typically follows a curved path with stages labeled to reflect shifting sentiments, starting from optimism at the beginning of a rally, peaking with euphoria, then descending through anxiety, panic, and capitulation during a downturn, before looping back to hope as the cycle restarts.
 
-The essence of the cheat sheet lies in its ability to capture universal human responses to change, uncertainty, and risk. While the cheat sheet specifically addresses the financial realm, the emotions it charts – from disbelief to euphoria and from anxiety to depression – resonate across various human experiences, especially in situations that involve high stakes and unpredictability. These are emotions rooted deeply in our evolutionary history, crafted from millennia of facing challenges, weighing risks, and adapting to ever-changing circumstances.
+It’s not a predictive tool in the mathematical sense but a conceptual framework that highlights the recurring emotional patterns seen in markets. Think of it as a guide to understanding why people might buy high out of excitement or sell low in a panic, often against their own best interests. It’s widely used to remind investors that markets aren’t just about numbers—they’re about human nature too.
 
-One of the most vivid demonstrations of the Wall Street Cheat Sheet's stages in action was during the Dot-com Bubble of the late 1990s and early 2000s. As technology stocks soared, traders transitioned from disbelief to euphoria, convinced that traditional valuation metrics no longer applied to these "new economy" companies[1]. However, as the bubble burst, the market plunged into the stages of anxiety, denial, and ultimately, capitulation. Investors who had once believed in endless growth were left grappling with anger and depression as they witnessed the evaporation of their investments.
+## How does the Wall Street Psychology Chart illustrate market cycles?
 
-## Detailed Exploration of Each Phase
+The Wall Street Psychology Chart illustrates market cycles by plotting investor emotions alongside the rise and fall of market prices, showing how feelings drive the ups and downs. It starts with a quiet upward trend—optimism kicks in as prices climb, followed by excitement and thrill as gains accelerate. At the peak, euphoria takes over, where everyone’s convinced the good times will never end. Then, as prices slip, the mood shifts—complacency gives way to anxiety, then denial as losses mount. The descent steepens with fear, desperation, and panic, hitting a low point of capitulation and depression where people give up. Finally, as prices stabilize and start creeping up, hope and relief emerge, setting the stage for the cycle to repeat.
+
+The chart ties these emotional stages to market phases—like accumulation (early optimism), markup (excitement to euphoria), distribution (anxiety to denial), and markdown (fear to depression)—mirroring the classic boom-and-bust pattern. It’s a simplified arc, but it shows how collective psychology swings from greed to fear, pushing prices through predictable waves.
+
+## What are the key emotional stages in the Wall Street Psychology Chart?
 
 ### Disbelief
 
@@ -134,66 +134,118 @@ For traders and investors:
 
 The tumultuous journey from capitulation to depression underlines the intertwined relationship between finances and emotions. While market movements are inevitable, how one responds can influence both financial outcomes and mental well-being.
 
-## Beyond the Cheat Sheet: Additional Phases to Consider
+## Why do investors’ emotions influence stock prices according to the chart?
 
-**Greed** often takes center stage during market rallies. While optimism and hope are rooted in genuine positive sentiment, greed is driven by an insatiable desire for more, often causing traders to make impulsive decisions without evaluating underlying risks. This emotion played a pivotal role in the lead-up to the 2008 financial crisis. Many investors, lured by the seemingly endless upward trajectory of housing prices, purchased properties on leverage, often without due diligence.
+According to the Wall Street Psychology Chart, investors’ emotions influence stock prices because markets are fundamentally driven by human behavior, not just cold data. When optimism and excitement take hold, people buy more, pushing demand and prices up—everyone wants in on the action. At the euphoria peak, irrational exuberance inflates prices beyond fundamentals as greed overrides caution. Then, as the tide turns, anxiety and fear kick in—selling starts, supply increases, and prices drop. Panic and capitulation amplify this, with mass sell-offs crashing prices as despair spreads. Even hope and relief later nudge prices back up as confidence creeps in.
 
-On the flip side, the **Adaptive** phase represents the market's resilience and traders' agility in evolving scenarios. Traders in this phase are keen observers, quickly learning from both their triumphs and missteps. They modify their strategies, hedging against known risks and seeking new opportunities in changing market conditions. A remarkable instance of adaptability was the swift embrace of tech stocks after the initial shock of the COVID-19 pandemic. Investors, recognizing the accelerated digital transformation, pivoted towards companies poised to benefit from this paradigm shift.
+The chart shows this emotional feedback loop: collective sentiment shifts buying and selling patterns, creating waves of demand and supply that move the market. It’s not about earnings reports alone—it’s how people *feel* about them, amplifying trends into booms and busts. Human nature turns perception into price.
 
-Lastly, **Regret** is an emotion every trader faces at some point. Whether it's the sorrow of selling a stock too early only to see its price skyrocket or the anguish of holding onto a plummeting asset for too long, the weight of "what could have been" is a heavy burden. The aftermath of the Dot-com bubble saw widespread regret as investors ruminated on missed signs and overexposure to tech stocks without solid fundamentals. While hindsight is 20/20, the feeling of regret can serve as a powerful lesson, teaching traders the value of thorough research and measured decision-making.
+## How can beginners use the Wall Street Psychology Chart to understand market trends?
 
-## Applying the Cheat Sheet in Real-time Trading
+Beginners can use the Wall Street Psychology Chart as a roadmap to spot where the market might be in its emotional cycle, helping them make sense of price swings and crowd behavior. Start by watching the vibe—when everyone’s buzzing with excitement and piling into stocks, the chart suggests you’re nearing a peak, like the thrill or euphoria stages, where prices might soon stall. If news is grim and people are dumping shares in a panic, it could signal a bottom—like capitulation or depression—hinting at a potential turnaround.
 
-The Wall Street Cheat Sheet isn't just a theoretical framework; it's an actionable tool that, when wielded correctly, can significantly augment a trader's decision-making process. Here's how traders can harness its power in real-time trading scenarios:
+It’s less about timing the market perfectly and more about recognizing patterns. Beginners can compare what they see—social media hype, headlines, or friends’ hot stock tips—to the chart’s stages. If greed seems to rule, caution might be smart; if fear dominates, it could be a chance to look for bargains. The chart teaches them to step back, see the emotional tide, and avoid chasing highs or fleeing lows blindly. It’s a simple lens to cut through the noise and grasp why trends happen.
 
-1. **Stay Informed, Not Influenced**: Use the cheat sheet as a compass to gauge market sentiment, but always couple it with sound technical and fundamental analysis. For instance, if the market appears to be in the 'Euphoria' phase, it might be tempting to join the buying frenzy. However, diligent research might reveal overvaluation, advising caution.
-2. **Regularly Reassess Your Emotional State**: Periodically check in with your emotions and assess which phase of the cheat sheet you personally resonate with. If you find yourself feeling 'Thrilled' every time your stock ticks up, it might be time to re-evaluate whether you're basing decisions on objective analysis or emotional whims.
-3. **Set Clear Entry and Exit Strategies**: Establishing predefined entry and exit points helps mitigate emotional decision-making. If the market enters the 'Panic' phase, having a predetermined exit point can prevent unnecessary losses or the pitfalls of trying to 'catch a falling knife'.
-4. **Diversify and Hedge**: In phases like 'Complacency' or 'Anxiety', consider diversifying your portfolio to spread risk or using hedging techniques. This can act as a safety net, ensuring not all your investments are impacted by a sudden downturn.
-5. **Maintain a Trading Journal**: Documenting trades, rationales, and emotional states can provide invaluable insights over time. By reflecting on past behaviors during specific market phases, traders can pinpoint emotional triggers and strategize better for future scenarios.
-6. **Continuous Learning and Emotional Intelligence**: Emotional intelligence – the ability to recognize, understand, and manage our emotions and influence the emotions of others – is crucial in trading. Engage in mindfulness practices or consider reading up on emotional intelligence to bolster resilience against market volatility.
-7. **Seek Peer Review**: Regularly discuss your trading strategies with trusted peers or mentors. They might offer a perspective you haven't considered, especially if their assessment of the current market phase differs from yours.
+## What historical examples align with the Wall Street Psychology Chart?
 
-In the volatile world of trading, it's easy to get swayed by emotions. The Wall Street Cheat Sheet provides a structured lens to view these emotions, but cultivating emotional intelligence ensures that traders navigate these phases with both clarity and strategy.
+Historical market events often mirror the emotional stages of the Wall Street Psychology Chart, showing how psychology drives cycles. Here are a few standout examples:
 
-## The Modern-Day Relevance of the Cheat Sheet
+- **Dot-Com Bubble (1995-2000)**: Optimism grew as internet stocks rose, turning to excitement with companies like Pets.com soaring despite no profits. Euphoria hit in 1999—everyone wanted in, pushing the Nasdaq to insane heights. Then, complacency set in as cracks showed, followed by anxiety and denial in early 2000 when stocks dipped. Panic and capitulation crashed the market by late 2000, with depression lingering into 2002—only for hope to spark recovery later.
 
-The Wall Street Cheat Sheet, despite being conceptualized years ago, remains remarkably pertinent in today's ever-evolving financial world. Its portrayal of human emotional cycles in response to market fluctuations proves time and time again that while technology and markets change, human psychology remains consistent.
+- **2008 Financial Crisis**: Hope and relief from the early 2000s housing boom fed optimism as home prices climbed. Excitement turned to euphoria by 2006, with reckless lending and mortgage-backed securities hyped up. Anxiety hit in 2007 as subprime defaults rose, denial delayed the reckoning, then fear and panic tanked markets in 2008 after Lehman’s collapse. Capitulation and depression followed into 2009, with the S&P bottoming out—until hope returned with the recovery.
 
-One might argue that with the advent of technological marvels like [algorithmic trading](/wiki/algorithmic-trading), the emotional roller coaster depicted by the cheat sheet should be less influential. Algorithmic trading, using pre-set instructions for placing trades based on timing, price, or quantity, theoretically minimizes human emotional interference[7]. However, while algorithms can trade without emotion, they are designed by humans who inherently [carry](/wiki/carry-trading) biases and emotions into their coding decisions[8].
+- **Tulip Mania (1636-1637)**: One of the earliest bubbles, optimism started as tulip bulbs gained value in Holland. Excitement and thrill drove prices sky-high—bulbs cost more than houses by late 1636, pure euphoria. When prices wobbled, anxiety and denial set in, then panic and capitulation crashed the market in 1637, leaving depression as traders lost everything. Hope eventually rebuilt trust in other markets.
 
-Moreover, these algorithms often rely on historical data. Past performance and trends can predict future market movements to a certain extent, but they cannot entirely account for sudden market shifts driven by collective human emotion. During times of global uncertainty or unprecedented news, the markets can still show patterns of panic, euphoria, or complacency that the cheat sheet aptly captures.
+- **Bitcoin Boom (2017)**: Optimism in crypto grew through 2016, exploding into excitement and euphoria as Bitcoin hit $19,000 in December 2017—newbies bought in droves. Complacency ignored warnings, but anxiety and fear struck as it dropped in 2018. Panic and capitulation saw it bottom near $3,000, with depression settling in—until hope fueled later rallies.
 
-The introduction of AI in trading presents another layer of complexity. Advanced as they might be, AI systems are still trained on data generated by human actions and reactions in the market. While they can analyze vast amounts of information at speeds incomprehensible to humans, they still operate within the confines of their training data. Thus, even in an AI-driven market, the cyclical nature of human emotions, as represented by the cheat sheet, can find its way into AI predictions and actions[9].
+These cases show the chart’s stages playing out: greed inflates bubbles, fear pops them, and the cycle resets. Emotions, not just fundamentals, write market history.
 
-Furthermore, as retail trading platforms become more accessible and popular, a new wave of individual traders is entering the market. These traders, many of whom might lack the experience or resources of institutional traders, can be particularly susceptible to the emotional pitfalls highlighted in the cheat sheet. Their collective actions can lead to market movements that resonate with the cheat sheet's phases, reinforcing its relevance.
+## How does the chart differentiate between bull and bear market phases?
 
-## Conclusion
+The Wall Street Psychology Chart differentiates bull and bear market phases by mapping emotional stages to the direction of price movements, showing how sentiment fuels each trend. In a **bull market**, where prices rise, it starts with hope and relief—quiet belief after a low point—then builds into optimism as gains appear. Excitement and thrill follow as momentum grows, drawing more buyers, and peaks at euphoria, where irrational exuberance pushes prices to unsustainable highs. This upward arc reflects growing confidence and greed driving a rally.
 
-Understanding market psychology isn't just an academic endeavor; it's an essential facet of successful trading and investment strategies. By recognizing the collective emotions and behavioral patterns that drive market movements, traders can gain insights that mere quantitative data might not reveal.
+In a **bear market**, where prices fall, the shift begins with complacency—people assuming the good times will last—then slides into anxiety as prices dip. Denial keeps some holding on, but fear takes over as losses mount, escalating to desperation and panic with heavy selling. It bottoms out at capitulation and depression, where despair rules and prices hit their nadir. This downward spiral tracks fear and hopelessness dragging the market down.
 
-The Wall Street Cheat Sheet stands as a testament to the cyclical nature of human emotions in finance. Whether one is a novice taking their first tentative steps into the world of trading or a seasoned veteran with years of experience, the cheat sheet serves as a mirror, reflecting the timeless dance of hope, euphoria, despair, and everything in between. It is a reminder that markets, no matter how sophisticated or technologically advanced, are driven at their core by human actors with all their inherent emotional complexities.
+The chart splits the cycle: bull phases (hope to euphoria) show rising prices tied to positive emotions, while bear phases (complacency to depression) link falling prices to negative ones. The transition—euphoria to complacency or depression to hope—marks the pivot between the two. It’s a pendulum swing of crowd psychology shaping the trend’s direction.
 
-Every phase, from the early whispers of disbelief to the crushing weight of capitulation, offers lessons. By being aware of these stages, traders can make informed decisions, sidestep potential pitfalls, and capitalize on opportunities that others might miss.
+## What role does fear and greed play in the Wall Street Psychology Chart?
 
-In an era where information is abundant, and the pace of market changes can be dizzying, tools like the Wall Street Cheat Sheet are invaluable. They ground us, provide perspective, and remind us that while markets evolve, the human psyche, with all its triumphs and frailties, remains a constant.
+Fear and greed are the twin engines powering the Wall Street Psychology Chart, driving the emotional extremes that shape market cycles. **Greed** fuels the upward swing—starting with optimism, it ramps up through excitement and thrill, peaking at euphoria. Here, the lust for quick profits blinds investors, pushing them to buy at inflated prices, convinced the rally will never end. It’s the rocket fuel behind bull markets, inflating bubbles as people chase gains and ignore risks.
+
+**Fear**, on the flip side, drives the downward plunge. It kicks in after the peak—anxiety and denial morph into full-blown fear as prices drop, sparking desperation and panic. At capitulation, fear hits its max, forcing mass sell-offs at any cost just to escape the pain. It’s the gravity pulling bear markets lower, turning reasonable caution into irrational flight as losses pile up.
+
+Together, they’re the emotional poles: greed lifts the chart’s left side (rising prices), fear drags down the right (falling prices). The middle stages—like complacency or hope—act as hinges, but fear and greed are the raw forces swinging the pendulum, showing how human impulses, not just logic, dictate market waves.
+
+## How can intermediate investors apply the chart to improve decision-making?
+
+Intermediate investors can apply the Wall Street Psychology Chart to sharpen their decision-making by using it as a lens to gauge market sentiment and avoid emotional traps. First, they can pinpoint where the market sits emotionally—say, if hype is everywhere and stocks are soaring (euphoria), it’s a signal to get cautious, maybe trim positions rather than pile in. If panic’s gripping the news and everyone’s selling (capitulation), it might be a chance to scoop up undervalued assets, provided fundamentals check out.
+
+The chart helps them counter their own biases too. When greed tempts them to chase a hot streak during excitement or thrill, they can step back, assess if prices are overstretched, and lock in gains instead. When fear hits during a downturn—say, desperation or panic—they can resist dumping everything at a loss, waiting for the dust to settle. It’s about playing contrarian to the crowd: buying when others are fearful, selling when they’re greedy, as the saying goes.
+
+They can also pair it with basic tools—moving averages or volume spikes—to confirm what the chart suggests. Like, heavy buying in euphoria with weakening momentum might scream a top. It’s not foolproof, but it gives them a framework to stay level-headed, dodge herd mentality, and act when emotions misprice the market.
+
+## What are the limitations of relying on the Wall Street Psychology Chart?
+
+Relying on the Wall Street Psychology Chart has its limits because it’s more of a conceptual guide than a precise tool. For one, it’s subjective—pinpointing whether the market’s in “euphoria” or “panic” depends on interpretation, and different people might read the same moment differently. There’s no hard data or metric to confirm a stage, so it’s easy to misjudge where things stand.
+
+It also oversimplifies reality. Markets aren’t always a neat emotional loop—external shocks like policy changes, wars, or tech breakthroughs can disrupt the cycle unpredictably, skipping or scrambling stages. Plus, it assumes collective psychology drives everything, but institutional players, algorithms, and fundamentals often outweigh retail sentiment, muddying the chart’s fit.
+
+Timing’s another snag. Even if you nail the stage, like spotting capitulation, it doesn’t tell you *when* the turn happens—markets can stay irrational longer than expected, burning impatient investors. And it’s backward-looking—great for explaining past bubbles, less so for forecasting specifics.
+
+Lastly, it risks bias. Leaning too hard on it might make you overthink emotions and miss concrete signals like earnings or trends. It’s a vibe check, not a crystal ball—useful for context, but shaky as a standalone strategy.
+
+## How do expert traders integrate the chart with technical analysis?
+
+Expert traders integrate the Wall Street Psychology Chart with technical analysis by using it as a behavioral overlay to interpret and time their indicators, blending crowd sentiment with hard data. The chart gives them a sense of where the market’s emotional pulse might be—like euphoria or capitulation—while technical tools pinpoint entry and exit points.
+
+For instance, in a suspected euphoria phase (prices soaring, greed rampant), they might watch for overbought signals like an RSI above 70 or a parabolic spike in moving averages. Volume surging with candlestick reversal patterns—like a shooting star—could confirm a top, aligning with the chart’s peak. They’d sell or short, expecting the shift to complacency or anxiety.
+
+In a bearish panic or capitulation stage (mass selling, despair), they’d look for oversold conditions—RSI below 30, or a hammer candle on high volume at support levels. This could signal the chart’s bottoming out, prompting buys as hope emerges. Bollinger Bands tightening after a big drop might hint at a reversal too.
+
+They also track momentum oscillators (MACD, Stochastic) to see if emotional extremes match trend exhaustion—like a divergence in euphoria where prices rise but momentum fades. Volume analysis ties in: low volume in denial or depression suggests fading conviction, a cue for a shift.
+
+The chart’s not the trigger—it’s the vibe check. Experts use it to hypothesize sentiment, then lean on technicals to validate and act, marrying human psychology with market mechanics for sharper trades.
+
+## Can the Wall Street Psychology Chart predict future market movements?
+
+The Wall Street Psychology Chart can’t predict future market movements with precision—it’s not a crystal ball. It’s built to describe recurring emotional patterns, not to forecast specific prices or dates. It shows how investor sentiment *tends* to flow—optimism to euphoria, then fear to capitulation—but it doesn’t guarantee when or how those shifts will play out. Markets can stretch longer in any stage, like euphoria or panic, than seems logical, driven by unpredictable forces like news, policy, or tech shifts.
+
+That said, it offers a loose predictive edge by highlighting probabilities. If you see euphoria—say, wild hype and overvalued stocks—it suggests a correction might loom, as greed often precedes a fall. Spot capitulation—mass despair, heavy selling—and a rebound could be near, as fear bottoms out. But these are vibes, not certainties. External shocks or fundamentals can derail the cycle entirely.
+
+It’s best as a context tool, not a standalone oracle. Pair it with data like technicals or earnings, and it might clue you into tipping points. On its own, it’s too vague and subjective to call the future—it reflects human nature, not a market clock.
 
 ## References & Further Reading
 
-[1]: Shiller, R. J. (2005). [Irrational exuberance](https://www.amazon.fr/Irrational-Exuberance-Robert-J-Shiller/dp/0767923634). Princeton university press.
+[1]: [Wall Street Cheat Sheet: The Psychology Of Market Cycles](https://priceactionninja.com/wall-street-cheat-sheet-the-psychology-of-market-cycles/)
 
-[2]: Gorton, G., & Metrick, A. (2012). [Getting up to Speed on the Financial Crisis: A One-Weekend-Reader's Guide](https://www.aeaweb.org/articles?id=10.1257/jel.50.1.128). Journal of Economic Literature, 50(1), 128-150.
+[2]: [Market Psychology: Why the Wall St. Cheat Sheet Still Works for CBOE:SPX](https://www.tradingview.com/chart/SPX/NglfOraO-Market-Psychology-Why-the-Wall-St-Cheat-Sheet-Still-Works/)
 
-[3]: [Cassidy, J. (2002). [Dot.con: How America lost its mind and money in the internet era](https://www.amazon.com/Dot-America-Lost-Money-Internet/dp/0060008814). Harper Collins.]
+[3]: [Wall Street Cheat Sheet Explained: How to Spot Market Cycles](https://www.morpher.com/blog/decoding-the-wall-street-cheat-sheet)
 
-[4]: Goldgar, A. (2007). [Tulipmania: Money, Honor, and Knowledge in the Dutch Golden Age](https://www.amazon.com/Tulipmania-Money-Honor-Knowledge-Golden/dp/0226301265). University of Chicago Press.
+[4]: [Wallstreet Cheat Sheet: Psychology of a Market Cycle](https://steemit.com/money/%40naturaltrading/wallstreet-cheat-sheet-psychology-of-a-market-cycle)
 
-[5]: Sorkin, A. R. (2009). [Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System—and Themselves](https://www.amazon.com/Too-Big-Fail-Washington-System/dp/0143118242). Viking.
+[5]: [Wall Street Cheat Sheet - QuantifiedStrategies.com](https://www.quantifiedstrategies.com/wall-street-cheat-sheet/)
 
-[6]: [Lowenstein, R. (2004). [Origins of the Crash: The Great Bubble and Its Undoing](https://www.goodreads.com/book/show/96578.Origins_of_the_Crash). Penguin Books.]
+[6]: [Here are the 14 stages of the psychology of a market cycle from beginning to end](https://medium.com/%40KayodeOla/here-are-the-14-stages-of-the-psychology-of-a-market-cycle-from-beginning-to-end-66a832a0aa06)
 
-[7]: Kissell, R. (2013). [The Science of Algorithmic Trading and Portfolio Management](https://www.amazon.com/Science-Algorithmic-Trading-Portfolio-Management/dp/0124016898). Academic Press.
+[7]: [What The Wall Street Cheat Sheet Says About Stocks Now](https://finimize.com/content/what-the-wall-street-cheat-sheet-says-about-stocks-now)
 
-[8]: Chaboud, A. P., Chiquoine, B., Hjalmarsson, E., & Vega, C. (2014). [Rise of the machines: Algorithmic trading in the foreign exchange market](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12186). The Journal of Finance, 69(5), 2045-2084.
+[8]: [How to Read the Psychological State of the Market with Technical Indicators](https://www.investopedia.com/articles/trading/03/010603.asp)
 
-[9]: Treleaven, P., Galas, M., & Lalchand, V. (2013). [Algorithmic trading review](https://www.researchgate.net/publication/262239006_Algorithmic_Trading_Review). Communications of the ACM, 56(11), 76-85.
+[9]: [Understanding the Psychology of Market Cycle](https://www.wallstreetinsiderreport.com/p/understanding-the-psychology-of-market)
+
+[10]: [Market Psychology Chart: Tips for Informed Investment Decisions](https://tacticalinvestor.com/market-psychology-chart-tips/)
+
+[11]: [Fear and Greed Index - Investor Sentiment](https://www.cnn.com/markets/fear-and-greed)
+
+[12]: [Financial Markets: When Fear and Greed Take Over](https://www.investopedia.com/articles/01/030701.asp)
+
+[13]: [Greed and fear - Wikipedia](https://en.wikipedia.org/wiki/Greed_and_fear)
+
+[14]: [The Fear & Greed Index: What It Is and How It Works](https://www.investopedia.com/terms/f/fear-and-greed-index.asp)
+
+[15]: [Market Psychology: The 14 Stages of Investor Emotions](https://www.stockbrokers.com/education/trading-psychology-stages-investor-emotions)
+
+[16]: [Technical Analysis That Indicates Market Psychology](https://www.investopedia.com/articles/trading/02/121602.asp)
+
+[17]: [Market Cycle Investing Guide: 4 Stages & 13 Emotions](https://www.stopsaving.com/market-cycle-investing-guide/)
