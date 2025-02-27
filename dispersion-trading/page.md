@@ -20,11 +20,11 @@ It’s a sophisticated arbitrage play, rooted in the idea that stock movements d
 
 ## How does Dispersion Trading differ from other trading strategies?
 
-Dispersion Trading stands apart from other trading strategies because it’s specifically focused on exploiting the relationship between the volatility of an index and the volatilities of its individual stocks, rather than betting on price direction alone. Unlike directional strategies—like buying stocks or options to profit from an up or down move—Dispersion Trading is more about arbitrage and statistical mispricing. It’s less concerned with whether the market rises or falls and more about how the pieces of the puzzle (the stocks) move relative to the whole (the index).
+Dispersion Trading stands apart from other trading strategies because it’s specifically focused on exploiting the relationship between the [volatility](/wiki/volatility-trading-strategies) of an index and the volatilities of its individual stocks, rather than betting on price direction alone. Unlike directional strategies—like buying stocks or options to profit from an up or down move—Dispersion Trading is more about [arbitrage](/wiki/arbitrage) and statistical mispricing. It’s less concerned with whether the market rises or falls and more about how the pieces of the puzzle (the stocks) move relative to the whole (the index).
 
-For example, compare it to a classic momentum strategy, where you ride a stock’s upward trend based on past price action. Dispersion Trading doesn’t care about trends—it hinges on volatility spreads and correlation. Or take a value investing approach, where you buy undervalued stocks for the long haul; Dispersion Trading is typically shorter-term and options-driven, not about intrinsic company value.
+For example, compare it to a classic [momentum](/wiki/momentum) strategy, where you ride a stock’s upward trend based on past price action. Dispersion Trading doesn’t care about trends—it hinges on volatility spreads and correlation. Or take a value investing approach, where you buy undervalued stocks for the long haul; Dispersion Trading is typically shorter-term and options-driven, not about intrinsic company value.
 
-It also differs from pure volatility trading, like a straddle or strangle, where you’re betting on big price swings regardless of direction. In those cases, you’re focused on a single asset’s volatility. Dispersion Trading, though, thrives on the interplay between an index and its components, often using a mix of selling and buying options to capture the “dispersion” in implied volatilities. It’s a niche play—less about gut calls and more about mathematical precision, setting it apart from strategies that rely on broader market sentiment or fundamentals.
+It also differs from pure volatility trading, like a straddle or strangle, where you’re betting on big price swings regardless of direction. In those cases, you’re focused on a single asset’s volatility. Dispersion Trading, though, thrives on the interplay between an index and its components, often using a mix of selling and buying options to capture the “[dispersion](/wiki/dispersion-trading)” in implied volatilities. It’s a niche play—less about gut calls and more about mathematical precision, setting it apart from strategies that rely on broader market sentiment or fundamentals.
 
 ## What are the basic principles behind Dispersion Trading?
 
@@ -80,7 +80,7 @@ Next, simulate a tiny trade. Pretend you’re selling an at-the-money SPY call o
 
 Read up, too. Grab something like "Option Volatility and Pricing" by Sheldon Natenberg to understand implied volatility better—it’s dry but gold for beginners. Watch X posts or YouTube videos from options traders to hear how they think about dispersion, but filter the hype.
 
-Start with a demo account on a broker like Interactive Brokers or Tastytrade once you’re ready to test real strategies. Use their tools to analyze historical volatility spreads and practice with $100 or less per trade. Keep it low-risk—focus on liquid options, avoid earnings seasons, and don’t overleverage. You’re not aiming to get rich; you’re learning how the puzzle fits together. Over time, you’ll spot when the market’s pricing feels off—and that’s where Dispersion Trading clicks.
+Start with a demo account on a broker like [Interactive Brokers](/wiki/interactive-brokers-api) or Tastytrade once you’re ready to test real strategies. Use their tools to analyze historical volatility spreads and practice with $100 or less per trade. Keep it low-risk—focus on liquid options, avoid earnings seasons, and don’t overleverage. You’re not aiming to get rich; you’re learning how the puzzle fits together. Over time, you’ll spot when the market’s pricing feels off—and that’s where Dispersion Trading clicks.
 
 ## What are the key risks involved in Dispersion Trading?
 
@@ -90,7 +90,7 @@ First, correlation can flip on you fast. You might bet on stocks moving independ
 
 Second, volatility misjudgments hurt. If you overestimate how much individual stock volatilities will diverge from the index—or underestimate it—the spread you’re banking on doesn’t materialize. Implied volatility is a guess, not a promise, and the market doesn’t always correct the way you expect.
 
-Third, execution’s a beast. You’re juggling multiple positions—selling index options, buying stock options across a basket—and spreads, commissions, and timing can eat your edge. If you’re not precise, or if liquidity dries up, you’re stuck with slippage that turns a winner into a loser.
+Third, execution’s a beast. You’re juggling multiple positions—selling index options, buying stock options across a basket—and spreads, commissions, and timing can eat your edge. If you’re not precise, or if [liquidity](/wiki/liquidity-risk-premium) dries up, you’re stuck with slippage that turns a winner into a loser.
 
 Then there’s event risk. Earnings reports, Fed announcements, or unexpected news can spike a single stock’s volatility, skewing your basket and throwing off the trade. You can’t predict black swans, but they can sink you.
 
@@ -122,7 +122,7 @@ Delta hedging is another layer. Since Dispersion Trading isn’t purely about vo
 
 They also play with skew and kurtosis. By targeting options with steep volatility skews (like out-of-the-money puts during fear spikes), they exploit overpricing in tail risk. Some even model higher moments like kurtosis to catch fat-tail events that juice dispersion.
 
-Machine learning’s creeping in, too. Traders feed historical options data—implied vols, correlations, realized vols—into algorithms to predict when dispersion’s mispriced. A neural network might flag a trade you’d miss with basic scans.
+Machine learning’s creeping in, too. Traders feed historical options data—implied vols, correlations, realized vols—into algorithms to predict when dispersion’s mispriced. A [neural network](/wiki/neural-network) might flag a trade you’d miss with basic scans.
 
 Finally, multi-asset dispersion adds complexity. Beyond stocks, they mix in ETFs, sector indices, or even cross-asset plays (think equity vs. bond vols) to diversify the bet. It’s trickier but spreads the risk.
 
@@ -138,7 +138,7 @@ Flip that to a crisis—like a 2022-style rate hike panic or the 2020 crash—an
 
 Volatility regimes matter, too. In low-volatility periods, dispersion trades might scrape by on thin margins—mispricings are small, and transaction costs can eat you alive. High-volatility times, like post-earnings or during macro shocks, amplify opportunities but also risks. Big swings can overshoot your models, turning a calculated bet into a gamble.
 
-Liquidity’s another kicker. Choppy markets with tight spreads favor execution—you can enter and exit cleanly. But in illiquid, gappy conditions (say, a flash crash), wide bid-ask spreads and stalled orders shred your edge.
+Liquidity’s another kicker. Choppy markets with tight spreads favor execution—you can enter and [exit](/wiki/exit-strategy) cleanly. But in illiquid, gappy conditions (say, a flash crash), wide bid-ask spreads and stalled orders shred your edge.
 
 Seasonality and events play in, too. Earnings seasons often boost stock-specific volatility, widening dispersion, while Fed announcements or expirations can tighten it. Pros watch the calendar as much as the charts.
 
