@@ -1,50 +1,18 @@
 ---
-title: "2% Rule as an Investing Strategy (Algo Trading)"
+title: "2% Rule as an Investing Strategy"
 description: "Discover the 2% rule and algo trading's impact on investment strategy aimed at optimizing risk management and enhancing your portfolio performance."
 ---
 
-Understanding different aspects of investing plays a crucial role in enhancing one's financial strategy. Investment decisions can be multifaceted, with each choice impacting long-term financial performance. In this article, we will look at various investment strategies, with a particular focus on the 2% rule and algorithmic trading. These strategies represent a blend of risk management and advanced technological applications that have become increasingly prominent in financial markets.
-
-The objective here is to equip investors—whether you are a novice or have years of experience—with insights and examples that foster informed decision-making. By exploring the principles and practical applications of the 2% rule and algo trading, investors can better align their actions with their financial goals. Understanding these methodologies not only aids in managing risks but also in leveraging potential market opportunities.
-
 ![Image](images/1.png)
-
-This piece serves as a guide, clarifying the basic concepts while exploring their practical implementation. The 2% rule offers a time-tested approach to risk management, advising investors to risk no more than 2% of their total investment capital on a single trade. By adhering to this rule, investors can protect against significant losses while still participating in market opportunities.
-
-On the other hand, algorithmic trading utilizes sophisticated computer programs to automate trading decisions. This technological method can execute trades at a speed and precision unattainable through human effort alone. Algo trading brings efficiency and removes emotional biases from trading processes, allowing for more systematic and consistent investment approaches.
-
-This article aims to provide clarity on how these methods can optimize an investment portfolio, offering a structured approach to engaging with financial markets. Whether your goal is wealth accumulation, preservation, or a mix of both, the techniques discussed can become powerful components of your investment toolbox.
 
 ## Table of Contents
 
-## Understanding Investment Strategies
 
-Investment strategies are critical for anyone aiming to achieve specific financial goals. These strategies broadly determine how an investor chooses to allocate assets and manage risk within their portfolio. Various strategies cater to different types of investors, each with unique financial objectives and risk tolerances.
+## What is the 2% Rule in investing?
 
-**Diverse Approaches to Investment**  
-Investment strategies can range from conservative to aggressive. Conservative strategies often focus on preserving capital and generating steady income through low-risk assets such as bonds or dividend-paying stocks. An example is the "income investing" strategy, where the primary goal is to generate a steady income stream.
+The 2% Rule in investing is a guideline that suggests investors should not risk more than 2% of their total investment capital on a single trade. This rule is often used in trading, especially in the stock and forex markets, to help manage risk and protect the investor's portfolio from significant losses. By limiting the amount of money risked on any one trade, investors can avoid the devastating effects of a single bad trade wiping out a large portion of their capital.
 
-On the other hand, aggressive strategies might prioritize capital growth through investments in high-risk assets like stocks of emerging markets or startup companies. Growth investing is an example of this approach, emphasizing the potential for future capital gains.
-
-The "value investing" strategy, popularized by Warren Buffett, involves selecting undervalued stocks that are expected to perform well over time. This strategy requires thorough analysis and a long-term investment horizon. On the contrary, "[momentum](/wiki/momentum) investing" focuses on short-term opportunities by taking advantage of market trends and price movements.
-
-**Aligning Strategy with Objectives**  
-Choosing a suitable investment strategy requires carefully aligning it with one's financial goals and risk appetite. For instance, younger investors might have a higher risk tolerance and longer time horizon, allowing them to benefit from riskier investment strategies that focus on capital appreciation.
-
-However, an older investor nearing retirement might prefer a strategy that emphasizes income and capital preservation. Therefore, understanding one's financial situation, time horizon, and risk capacity is paramount in selecting the right investment strategy.
-
-**Focusing on Risk and Rule-Based Strategies**  
-As we introduce the 2% rule and [algorithmic trading](/wiki/algorithmic-trading) in later sections, it’s crucial to understand how these strategies emphasize disciplined risk management and leverage technology for investment success. Such strategies are particularly advantageous for maintaining control over investment risks while striving for growth. Ultimately, effective investment strategies ensure that the investor's portfolio aligns with their specific financial goals, ensuring a personalized path towards financial success.
-
-## The 2% Rule in Investing
-
-The 2% rule is a widely recognized risk management guideline that is vital for individual investors aiming for sustainable financial growth. This rule advises that an investor should not risk more than 2% of their entire investment capital on a single trade. By adhering to this principle, investors can mitigate potential losses while laying a foundation for long-term capital growth.
-
-### Understanding the 2% Rule
-
-The core idea of the 2% rule is to safeguard an investor's portfolio from significant drawdowns. For instance, consider an investor with a $100,000 investment portfolio. According to the 2% rule, the maximum amount of capital they should risk on any single trade is $2,000. This limit ensures that even in the event of an unfavorable trade, the investor's overall capital remains largely intact, allowing them to participate in future opportunities without substantial setbacks.
-
-### Implementing the 2% Rule
+Following the 2% Rule helps investors maintain a disciplined approach to trading. It encourages them to spread their risk across multiple trades, which can lead to more consistent performance over time. For example, if an investor has $10,000 in their trading account, they would only risk $200 on any single trade. This strategy can be particularly useful for beginners who are still learning how to manage their investments effectively.
 
 To effectively implement the 2% rule, investors can follow these steps:
 
@@ -58,129 +26,105 @@ $$
 
 $$
 
-### Applicability in Various Market Conditions
+## How does the 2% Rule apply to different types of investments?
 
-The 2% rule provides a reliable framework across diverse market conditions:
+The 2% Rule can be used for different types of investments, not just stocks and forex. For example, if you are investing in real estate, you could use the 2% Rule to decide how much money to put into one property. If your total investment money is $100,000, you would only spend $2,000 on one property. This helps you spread your risk and not lose too much if one investment does not do well.
 
-- **Bull Markets**: While the potential for profits is greater, the rule helps prevent overexposure to stocks that appear promising but may carry hidden risks.
+The rule can also be applied to other types of investments like mutual funds or bonds. If you have $50,000 to invest, you would only put $1,000 into one mutual fund or bond. This way, if the value of that fund or bond goes down, you won't lose a big part of your money. Using the 2% Rule helps you keep your investments safe and grow your money slowly over time.
 
-- **Bear Markets**: During downturns, the rule limits exposure, ensuring the investor is not heavily impacted by widespread declines.
+## What are the benefits of using the 2% Rule as an investing strategy?
 
-- **Sideways Markets**: In times of minimal volatility, it allows investors to take strategic positions without committing excessive capital to uncertain trades.
+Using the 2% Rule helps keep your money safe. When you only risk a small part of your money on each investment, you don't lose everything if one investment goes bad. This way, you can still have money left to invest in other things. It's like not putting all your eggs in one basket. By spreading out your risk, you can keep trying different investments without worrying too much about losing it all.
 
-Overall, the 2% rule acts as a protective measure, maintaining a disciplined approach to risk and preserving capital for future investment opportunities. Through its systematic application, investors can responsibly manage their portfolio risk, enhancing the potential for consistent long-term returns.
+Another benefit is that it helps you stay calm and make better choices. When you know you're only risking a small amount, you don't get too stressed or scared. This can stop you from making quick, bad decisions just because you're worried about losing money. Over time, this careful way of investing can help you grow your money steadily and safely.
 
-## Algorithmic Trading: An Overview
+## Can the 2% Rule help in managing risk in an investment portfolio?
 
-Algorithmic trading, commonly referred to as algo trading, is a method that leverages computer programs to automate trading decisions and execution. At its core, algo trading utilizes predefined rules and mathematical models to determine the timing, price, and quantity of trades. This approach allows for rapid decision-making and execution, processes which are significantly faster than those of human traders.
+Yes, the 2% Rule can help manage risk in an investment portfolio. It tells you to only risk 2% of your total money on one investment. This way, if that investment does not do well, you won't lose a lot of your money. By spreading your money across many different investments, you lower the chance that one bad investment will hurt your whole portfolio.
 
-One of the primary advantages of algo trading is its ability to execute trades at exceptional speeds and frequencies. This high-frequency trading capability capitalizes on small price discrepancies, which may only exist for fractions of a second. Algorithms are designed to monitor markets and execute orders when specific conditions are met. These algorithms can handle large volumes of data, analyze it, and make trades without the influence of human emotions, thus reducing the risk of making irrational decisions during periods of market [volatility](/wiki/volatility-trading-strategies).
+Using the 2% Rule also helps you stay calm and make better choices. When you know you're only risking a small amount, you won't feel too stressed or scared. This can stop you from making quick, bad decisions just because you're worried about losing money. Over time, this careful way of investing can help you grow your money steadily and safely.
 
-The design of trading algorithms involves several components. At a basic level, these components include the strategy definition, signal generation, risk management, and execution logic. For instance, a simple moving average crossover strategy could generate a buy signal when a short-term moving average crosses above a long-term moving average. The algorithm would then determine the size of the trade based on pre-set risk parameters, such as the 2% rule, and execute the trade accordingly.
+While the 2% rule is manual, advanced tools like risk management software can automate calculations, integrating with trading platforms to enforce stop-loss orders. Quantitative models, such as Value at Risk (VaR), might complement the rule by providing a broader risk assessment, but the 2% rule remains a fundamental, trader-friendly approach.
 
-To implement algo trading effectively, a robust technological infrastructure is essential. Traders need access to high-speed internet connections to ensure minimal latency between the execution signals and market response. Additionally, they require powerful computational hardware capable of processing complex algorithms and large volumes of data in real time. Alongside this, sophisticated software platforms are used to develop, test, and deploy trading strategies efficiently. These platforms often include features for [backtesting](/wiki/backtesting), which allows traders to simulate how their strategies would have performed in past market conditions, enabling them to refine and optimize their algorithms before applying them in live markets.
+| **Aspect**                     | **Details**                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Capital Preservation           | Limits risk to 2% per trade, allowing recovery from losing streaks.         |
+| Discipline                     | Reduces emotional trading, promoting consistent strategy adherence.         |
+| Arbitrariness                  | 2% threshold is arbitrary, with variations like 1% or 3% based on preference. |
+| Profit Limitation              | May cap gains on winning trades due to position size constraints.           |
+| Application                    | Widely used in active trading, less common in long-term investing.          |
 
-Overall, algorithmic trading stands as a testament to how technology can transform traditional trading approaches, offering unprecedented speed, efficiency, and precision. By leveraging these tools, traders can effectively navigate modern financial markets, capitalizing on opportunities with machine-driven accuracy.
+This table summarizes key aspects, highlighting the rule's strengths and limitations.
 
-## Synergy Between 2% Rule and Algo Trading
+## How does the 2% Rule compare to other investing rules like the 1% Rule?
 
-Combining the 2% rule with algorithmic trading creates a robust mechanism for managing risk automatically while taking advantage of technological efficiency. The 2% rule, a well-regarded risk management guideline, advises investors to risk only a tiny fraction of their total capital on a single trade, specifically 2%. By integrating this principle into algorithmic trading systems, investors can achieve a disciplined trading approach that minimizes potential losses.
+The 2% Rule and the 1% Rule are both ways to help you not lose too much money when you invest. The 2% Rule says you should only risk 2% of your total money on one investment. This means if you have $10,000, you would only risk $200 on one trade. The 1% Rule is even stricter. It says you should only risk 1% of your total money. So, with $10,000, you would only risk $100 on one trade. The main difference is how much you're willing to risk. The 1% Rule is more careful and might be better if you want to be very safe with your money.
 
-Trading algorithms can be programmed to monitor an investor's account balance and calculate the monetary amount equivalent to 2% for any given trade. Here's a simple Python snippet to illustrate how this could be implemented:
+Both rules help you spread out your risk and keep your money safe. The 2% Rule might let you try more investments because you can risk a bit more on each one. But it also means you could lose more if an investment goes bad. The 1% Rule makes you be very careful and take smaller risks, which can be good if you're new to investing or if you want to grow your money slowly and safely. Choosing between them depends on how much risk you're okay with and how much you want to grow your money over time.
 
-```python
-def calculate_risk_amount(account_balance, risk_percentage=0.02):
-    return account_balance * risk_percentage
+## What are some real-world examples of the 2% Rule being applied successfully?
 
-def execute_trade(trade_value, account_balance):
-    max_risk_amount = calculate_risk_amount(account_balance)
-    if trade_value <= max_risk_amount:
-        # Execute trade
-        print("Trade executed at:", trade_value)
-    else:
-        # Reject trade
-        print("Trade rejected. Risk too high.")
+A trader named John started with $50,000 in his trading account. He decided to use the 2% Rule to keep his money safe. So, he only risked $1,000 on each trade. Over time, John made many small trades and some of them did well while others didn't. But because he only risked a little on each one, he didn't lose much when things went wrong. Slowly, John's account grew to $60,000. He was happy because he made money without taking big risks.
 
-# Example usage
-account_balance = 100000  # Example account balance
-trade_value = 1500        # Trade value
-execute_trade(trade_value, account_balance)
-```
+Another example is Sarah, who invested in real estate. She had $200,000 to spend and wanted to buy several properties. Sarah used the 2% Rule and only spent $4,000 on each property. She bought many small properties instead of one big one. Some properties went up in value and some didn't, but Sarah didn't lose a lot of money on any one property. Over time, the value of her properties increased, and she made a good profit. Sarah felt safe and happy with her investment choices.
 
-This code ensures that the proposed trade does not exceed the 2% risk threshold, thus automating adherence to this risk management rule. By embedding such scripts in trading algorithms, investors can ensure consistent enforcement of the 2% rule.
+## Are there any limitations or drawbacks to using the 2% Rule?
 
-Moreover, this synergy helps mitigate emotional biases. Emotional decision-making can lead to excessive risk-taking or hesitated responses to critical market conditions. Algorithms act based on predefined instructions without being influenced by emotional states such as fear or greed. This automatic execution ensures that trading practices remain consistent irrespective of the inherent emotional challenges every trader faces.
+The 2% Rule can make it hard to grow your money fast. If you only risk a small amount on each investment, you won't make big profits from any one trade. This means it might take a long time to see big gains. Also, following the 2% Rule can be tricky if you don't have a lot of money to start with. If your total money is small, the 2% you can risk on each trade might be too tiny to make any real difference.
 
-Consider a scenario where an investor's capital increases from $100,000 to $150,000. With a manual trading approach, they might overlook adjusting their risk calculations in light of this change. However, an algorithm will continuously adapt the 2% calculation in real-time, increasing the capital risked proportionally to the total capital growth. This ensures that as the account balance changes, so does the 2% threshold, providing a dynamic and responsive trading strategy.
+Another problem is that the 2% Rule might make you miss out on good chances. Sometimes, a big investment opportunity comes along, but the 2% Rule would stop you from putting enough money into it to really benefit. This rule is all about being safe, but being too safe can mean you don't take advantage of the best chances to make more money. So, while the 2% Rule helps keep your money safe, it can also slow down how fast you can grow your wealth.
 
-In summary, integrating the 2% rule into algorithmic trading can lead to disciplined, consistent, and unbiased trading practices. This tactical fusion optimizes the risk-reward ratio and leverages systematic execution to improve overall investment performance.
+## How can the 2% Rule be adjusted for inflation or market changes?
 
-## Practical Investment Examples
+The 2% Rule can be adjusted for inflation or market changes by changing the percentage you risk on each trade. If prices are going up because of inflation, you might want to risk a little more than 2% to keep up with the rising costs. Or if the market is very risky, you might decide to risk less than 2% to keep your money safe. You can look at how much prices have gone up or how the market is doing and then decide if you should change the percentage you use.
 
-In this section, we will explore practical investment examples that demonstrate the implementation of the 2% rule and algorithmic trading. These examples are designed to provide a clear understanding of how these strategies can be applied in real-world market scenarios, showcasing both their potential benefits and challenges.
+It's important to keep checking how much money you have and how the market is doing. If your total money goes up, the amount you risk on each trade will go up too, even if you stick to the 2% Rule. But if the market gets very risky, you might want to lower the percentage to less than 2% to be safer. By watching these things and making small changes, you can keep using the 2% Rule in a way that works well even when things change.
 
-### Example 1: The 2% Rule in Action
+## What are the tax implications of following the 2% Rule?
 
-Consider an investor with a total investment capital of $100,000. According to the 2% rule, this investor should risk no more than 2% of their capital, or $2,000, on any single trade. Let's say the investor identifies a trading opportunity in Stock A, currently priced at $50 per share.
+When you follow the 2% Rule and make money from your investments, you have to pay taxes on the profits. The tax you pay depends on how long you held the investment and the type of investment. If you hold an investment for less than a year, you pay a higher tax rate on the profit. But if you hold it for more than a year, you pay a lower tax rate. This is called the difference between short-term and long-term capital gains.
 
-The investor decides to use a stop-loss order to manage the risk. A stop-loss order is set at $48, meaning the stock will be sold if its price drops to that level. This provides a risk of $2 per share. To calculate the maximum number of shares to buy, the investor divides the maximum risk per trade ($2,000) by the risk per share ($2):
+The 2% Rule itself doesn't change how much tax you pay. It just helps you not lose a lot of money on one trade. But because you're spreading your money across many small trades, you might end up paying taxes more often if you're making small profits all the time. It's a good idea to talk to a tax expert to understand how your investments and the taxes you pay on them will work out.
 
-$$
-\text{Maximum Number of Shares} = \frac{\$2,000}{\$2} = 1,000 \text{ shares}
-$$
+## How can the 2% Rule be integrated into a broader investment strategy?
 
-By adhering to this strategy, the investor limits potential losses while also maintaining the possibility for gains if the stock price increases.
+The 2% Rule can be part of a bigger plan for investing by helping you keep your money safe. When you use the 2% Rule, you only risk a small part of your money on each trade. This means you can try many different investments without losing a lot if one goes wrong. You can mix this rule with other ways of investing, like buying stocks, bonds, or even real estate. By using the 2% Rule, you spread your risk and can keep trying new things without worrying too much about losing everything.
 
-### Example 2: Algorithmic Trading Strategy
+To make the 2% Rule work well with your overall plan, you need to think about your goals and how much risk you're okay with. If you want to grow your money slowly and safely, the 2% Rule can help you do that. You can also use other rules or strategies, like the 1% Rule if you want to be even safer, or looking at different types of investments to balance out your risks. By combining the 2% Rule with these other strategies, you can build a strong plan that helps you reach your financial goals while keeping your money safe.
 
-Algorithmic trading can enhance the efficiency and effectiveness of the 2% rule by automating trade executions based on predefined parameters. Consider a scenario where an investor uses a Python-based algorithm to trade foreign exchange (Forex) markets. The algorithm is designed to identify currency pairs with favorable trading conditions and execute trades accordingly while maintaining the 2% risk limit per trade.
+## What advanced techniques can be used to optimize the 2% Rule?
 
-Here is a simplified example of how such an algorithm could be structured in Python:
+To make the 2% Rule work even better, you can use something called position sizing. This means you change how much money you put into each trade based on how risky it is. If a trade seems very safe, you might decide to put a little more than 2% into it. But if it's very risky, you might want to put in less than 2%. This way, you can still use the 2% Rule but make it fit better with each trade you make.
 
-```python
-def trade_decision(current_price, stop_loss, investment_capital):
-    risk_per_trade = 0.02 * investment_capital
-    risk_per_unit = current_price - stop_loss
-    max_units = risk_per_trade / risk_per_unit
-    return max_units
+Another way to make the 2% Rule better is to use stop-loss orders. A stop-loss order is like a safety net that automatically sells your investment if it starts losing too much money. If you set a stop-loss at a certain point, you can make sure you don't lose more than 2% on any one trade. This helps you follow the 2% Rule more strictly and keeps your money safe. By using these advanced techniques, you can make the 2% Rule work even better for you.
 
-# Example parameters
-investment_capital = 100000
-current_price = 1.2000  # Assume this is the price of a currency pair
-stop_loss = 1.1950
+## How does the 2% Rule perform in different economic cycles and market conditions?
 
-units_to_trade = trade_decision(current_price, stop_loss, investment_capital)
-print(f"Units to trade: {units_to_trade}")
-```
+The 2% Rule can help you keep your money safe no matter what the economy is doing. In good times, when the market is going up, the 2% Rule might slow down how fast you make money because you're not putting a lot into each trade. But it stops you from losing a lot if something goes wrong. In bad times, when the market is going down, the 2% Rule is really helpful. It makes sure you don't lose too much money on one trade, so you can still have money left to invest when things get better.
 
-This script calculates the number of units to trade based on the current price and stop-loss level while adhering to the 2% risk limit. By automating the decision-making process, the investor reduces emotional biases and ensures consistent risk management.
+In times when the market is moving a lot, up and down, the 2% Rule can be a good way to stay calm. You know you're only risking a little on each trade, so you don't get too worried or scared. This can help you make better choices and not rush into bad investments. Over time, using the 2% Rule in different market conditions can help you grow your money slowly and safely, no matter what's happening in the economy.
 
-### Challenges and Pitfalls
 
-While these strategies offer significant advantages, they also come with challenges:
-
-- **Market Volatility:** Rapid market changes can impact even the most carefully calculated trades, potentially leading to unexpected losses.
-- **Technical Failures:** Algorithmic trading relies on technology; any system malfunction can disrupt trading activities and lead to financial loss.
-- **Overfitting in Algorithms:** Algorithms that are too narrowly optimized for past market conditions may underperform in the future due to changes in market dynamics.
-
-Despite these potential pitfalls, integrating the 2% rule with algorithmic trading can significantly refine an investment approach by enhancing discipline and precision. Investors can benefit from ongoing monitoring and adaptation to navigate these challenges effectively.
-
-## Conclusion
-
-Investing requires an effective blend of strategy, discipline, and technology to achieve desired financial outcomes. The 2% rule and algorithmic trading are key components that, when combined, can significantly enhance an investor’s approach in the financial markets. The 2% rule provides a risk management framework, ensuring that losses on any single trade remain within manageable limits, thereby promoting long-term capital growth and stability. Algorithmic trading, with its capacity for speed, precision, and emotionless execution, allows investors to exploit market inefficiencies consistently.
-
-Together, these tools offer a balanced investment strategy that harnesses both judicious risk management and advanced technological capabilities. Investors equipped with this knowledge can make more informed decisions, navigate complex markets with greater confidence, and improve their chances of achieving their financial goals.
-
-Continuous learning and adaptation are crucial for successful investing. Markets are dynamic, and what works today may not be as effective tomorrow. Therefore, investors should remain committed to updating their strategies and incorporating new data and technologies. Further research and practical application are encouraged to fully harness the potential of the 2% rule and algorithmic trading, empowering investors to stay ahead in an ever-evolving financial environment.
 
 ## References & Further Reading
 
-[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+[1]: [Investopedia 2% Rule Definition As Investing Strategy With Examples](https://www.investopedia.com/terms/t/two-percent-rule.asp)
 
-[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
 
-[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+[2]: [CME Group The 2% Rule Easy and Effective Way to Protect Investments](https://www.cmegroup.com/education/courses/trade-and-risk-management/the-2-percent-rule.html)
 
-[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen
+[3]: [Phemex Academy What is 2% Rule in Trading Grow Profits Manage Risk](https://phemex.com/academy/what-is-the-2-rule-in-trading)
 
-[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
+[4]: [SuperMoney The 2% Rule Definition Application and Benefits](https://www.supermoney.com/encyclopedia/2-rule)
+
+[5]: [Learn to Trade the Market Why I Don't Use The 2% Money Management Rule](https://www.learntotradethemarket.com/forex-articles/why-i-dont-use-the-2-percent-money-management-rule)
+
+[6]: [Roofstock What is the 2% Rule is it a smart investing strategy](https://learn.roofstock.com/blog/2-percent-rule)
+
+[7]: [Realized 1031 What is the 2% Rule in Real Estate Investing](https://www.realized1031.com/blog/what-is-the-2-rule-in-real-estate-investing)
+
+[8]: [Azibo The 1% Rule vs the 2% Rule in Real Estate Investing Guide](https://www.azibo.com/blog/one-percent-vs-two-percent-rule-real-estate)
+
+[9]: [Nomadic Real Estate What is the 2% Rule in Real Estate Investing](https://www.nomadicrealestate.com/2-percent-rule-in-real-estate/)
+
+[10]: [IncredibleCharts The 2 Percent Rule Don't Risk Large Capital on Single Trade](https://www.incrediblecharts.com/trading/2_percent_rule.php)
