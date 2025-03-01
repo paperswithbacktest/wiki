@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Protection Through Correlation Diversification (Algo Trading)"
+title: "Portfolio Protection Through Correlation Diversification"
 description: "Explore how correlation, diversification, and algorithmic trading combine for effective portfolio protection maximizing returns while minimizing risk in investments."
 ---
 

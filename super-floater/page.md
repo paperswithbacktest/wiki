@@ -1,5 +1,5 @@
 ---
-title: "Super Floater (Algo Trading)"
+title: "Super Floater"
 description: "Explore the intriguing connection between water sports flotation devices, like the Super Floater, and algorithmic trading strategies, enhancing safety and profitability."
 ---
 

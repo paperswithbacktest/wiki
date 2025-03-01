@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Forex Options in Currency Trading (Algo Trading)"
+title: "Utilizing Forex Options in Currency Trading"
 description: "Explore the impact of forex options and algorithmic trading on currency markets. Learn to hedge and speculate effectively with advanced trading strategies."
 ---
 

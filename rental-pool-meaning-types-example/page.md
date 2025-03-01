@@ -1,5 +1,5 @@
 ---
-title: "Rental Pool: Meaning, Types, and Example (Algo Trading)"
+title: "Rental Pool: Meaning, Types, and Example"
 description: "Explore the dynamic world of real estate investment with insights into rental pools and algorithmic trading to enhance portfolio returns and diversification."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Vincent Tang (Algo Trading)"
+title: "Vincent Tang"
 description: "Vincent Tang is a leader in algorithmic trading known for his work in quant investing and research at Acadian Asset Management and AllianceBernstein."
 ---
 

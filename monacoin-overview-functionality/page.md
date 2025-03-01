@@ -1,5 +1,5 @@
 ---
-title: "MonaCoin: Overview and Functionality (Algo Trading)"
+title: "MonaCoin: Overview and Functionality"
 description: "Explore how MonaCoin, Japan's first digital currency, blends meme culture with blockchain efficiency, offering algorithmic trading potential and rapid transactions."
 ---
 

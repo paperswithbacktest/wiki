@@ -1,5 +1,5 @@
 ---
-title: "Theory of the Firm in Economics (Algo Trading)"
+title: "Theory of the Firm in Economics"
 description: "Explore the interplay between Theory of the Firm and algorithmic trading in economics highlighting how tech and economic principles guide strategic business decisions."
 ---
 

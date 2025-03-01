@@ -1,5 +1,5 @@
 ---
-title: "Single Stock Futures: Overview, Risks, and Benefits (Algo Trading)"
+title: "Single Stock Futures: Overview, Risks, and Benefits"
 description: "Explore the advantages and risks of single stock futures and algorithmic trading with insights into their leverage, market volatility, and investment strategies."
 ---
 

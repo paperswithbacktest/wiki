@@ -1,5 +1,5 @@
 ---
-title: "State Banking Departments (Algo Trading)"
+title: "State Banking Departments"
 description: "Explore the role of state banking departments in regulating and overseeing financial institutions with a focus on stability consumer protection and algorithmic trading advancements."
 ---
 

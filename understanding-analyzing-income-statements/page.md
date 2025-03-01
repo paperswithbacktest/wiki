@@ -1,5 +1,5 @@
 ---
-title: "Understanding and Analyzing Income Statements (Algo Trading)"
+title: "Understanding and Analyzing Income Statements"
 description: "Discover how to read and analyze income statements and their importance in financial analysis and algorithmic trading. Uncover insights into revenues, expenses, and profitability to enhance trading strategies and financial decision-making. Explore how algorithmic trading optimizes these analyses for improved investment outcomes."
 ---
 

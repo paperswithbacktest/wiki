@@ -1,5 +1,5 @@
 ---
-title: "Post–earnings-announcement drift (Algo Trading)"
+title: "Post–earnings-announcement drift"
 description: Post–earnings-announcement drift (PEAD) is a notable anomaly in financial markets where stock prices continue to move in the direction of an earnings surprise for an extended period following an announcement. This behavior poses a challenge to the efficient market hypothesis, indicating potential for earning abnormal returns. In algorithmic trading, PEAD offers a strategic opportunity as algorithms can efficiently exploit these prolonged price movements. By automating trades based on earnings surprises, traders can capitalize on this predictable drift, successfully navigating market inefficiencies that human traders might miss, thus highlighting the synergy between PEAD and algorithmic trading.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Unfair Trade Practices and Deceptive Methods (Algo Trading)"
+title: "Unfair Trade Practices and Deceptive Methods"
 description: "Explore the impact of algorithmic trading's unfair practices on business ethics and market integrity Discover how innovations pose challenges in today's trading environment"
 ---
 

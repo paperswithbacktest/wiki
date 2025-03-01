@@ -1,5 +1,5 @@
 ---
-title: "Relative Valuation Models: Steps and Types (Algo Trading)"
+title: "Relative Valuation Models: Steps and Types"
 description: "Explore the steps and types of relative valuation models in algo trading and learn how these tools influence investment strategies and market dynamics."
 ---
 

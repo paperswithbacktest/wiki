@@ -1,5 +1,5 @@
 ---
-title: "Water Quality Improvement Act of 1970 (Algo Trading)"
+title: "Water Quality Improvement Act of 1970"
 description: "Explore how the Water Quality Improvement Act of 1970 influences algorithmic trading, illustrating the impact of environmental laws on data-driven financial markets."
 ---
 

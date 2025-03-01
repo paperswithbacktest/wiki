@@ -1,5 +1,5 @@
 ---
-title: "Tracker Fund Overview and Mechanics (Algo Trading)"
+title: "Tracker Fund Overview and Mechanics"
 description: "Discover the strategies and benefits of tracker funds, index funds, and algorithmic trading to enhance portfolio performance and navigate modern financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Multi-Asset Class: Fund Types and Benefits (Algo Trading)"
+title: "Multi-Asset Class: Fund Types and Benefits"
 description: "Discover the benefits of multi-asset class investing and how algorithmic trading enhances portfolio management. Learn about fund types for diverse investment goals."
 ---
 

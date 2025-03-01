@@ -1,5 +1,5 @@
 ---
-title: "Production Gap Overview and Mechanisms (Algo Trading)"
+title: "Production Gap Overview and Mechanisms"
 description: "Explore the role of algorithmic trading in addressing the fossil fuel production gap and aligning energy policies with climate goals for a sustainable future."
 ---
 

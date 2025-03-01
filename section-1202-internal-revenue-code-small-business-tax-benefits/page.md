@@ -1,5 +1,5 @@
 ---
-title: "Section 1202 Of The Internal Revenue Code And Small Business Tax Benefits (Algo Trading)"
+title: "Section 1202 Of The Internal Revenue Code And Small Business Tax Benefits"
 description: "Explore the intersection of IRC Section 1202 small business tax benefits, and algo trading Discover strategies to optimize tax outcomes and investment returns"
 ---
 

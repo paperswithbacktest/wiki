@@ -1,5 +1,5 @@
 ---
-title: "Transaction Risk (Algo Trading)"
+title: "Transaction Risk"
 description: "Explore the intricacies of transaction risk in algorithmic trading and discover strategies to manage financial uncertainties effectively in global markets."
 ---
 

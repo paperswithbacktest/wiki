@@ -1,5 +1,5 @@
 ---
-title: "Mexican Peso (MXN): Symbols and History (Algo Trading)"
+title: "Mexican Peso (MXN): Symbols and History"
 description: "Explore the evolution of the Mexican Peso MXN from its historical roots to its current role in algorithmic trading and global financial markets."
 ---
 

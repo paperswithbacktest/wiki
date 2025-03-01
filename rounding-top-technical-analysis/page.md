@@ -1,5 +1,5 @@
 ---
-title: "Rounding Top in Technical Analysis (Algo Trading)"
+title: "Rounding Top in Technical Analysis"
 description: "Learn about the rounding top pattern in technical analysis and its role in predicting stock market shifts Gain insights into algorithmic trading integration"
 ---
 

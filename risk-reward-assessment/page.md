@@ -1,5 +1,5 @@
 ---
-title: "Risk and Reward Assessment (Algo Trading)"
+title: "Risk and Reward Assessment"
 description: "Algorithmic trading leverages computer power for speed, efficiency, and data-driven strategies, balancing significant opportunities with formidable risk assessment challenges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Participating Convertible Preferred Shares (Algo Trading)"
+title: "Participating Convertible Preferred Shares"
 description: "Discover how convertible preferred shares offer income stability & growth potential, and how algorithmic trading enhances their management for strategic gains."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Use of Derivatives in Risk Management (Algo Trading)"
+title: "Use of Derivatives in Risk Management"
 description: "Explore the role of derivatives in risk management through advanced algorithmic trading techniques Discover how these financial instruments mitigate market volatility"
 ---
 

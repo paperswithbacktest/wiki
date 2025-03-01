@@ -1,5 +1,5 @@
 ---
-title: "Security Types of Corporate Bonds (Algo Trading)"
+title: "Security Types of Corporate Bonds"
 description: "Explore security types of corporate bonds and how algorithmic trading enhances efficiency Learn about secured vs unsecured bonds seniority features and recovery rates"
 ---
 

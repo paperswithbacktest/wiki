@@ -1,5 +1,5 @@
 ---
-title: "Reset Margin Concept (Algo Trading)"
+title: "Reset Margin Concept"
 description: "Explore the complex interplay between reset margins, interest rates, and algorithmic trading to optimize financial strategies and manage risk effectively."
 ---
 

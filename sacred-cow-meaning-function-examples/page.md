@@ -1,5 +1,5 @@
 ---
-title: "Sacred Cow: Meaning, Function, and Examples (Algo Trading)"
+title: "Sacred Cow: Meaning, Function, and Examples"
 description: "Explore how sacred cows in finance shape algorithmic trading strategies by blending traditional beliefs with technological advancements for innovative outcomes."
 ---
 

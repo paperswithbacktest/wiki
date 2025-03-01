@@ -1,5 +1,5 @@
 ---
-title: "Risk Assessment and Pyramid (Algo Trading)"
+title: "Risk Assessment and Pyramid"
 description: "Explore the importance of risk assessment in algo trading using the risk pyramid to balance investments, ensuring effective risk management and optimizing strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Walk-Through Test in Accounting (Algo Trading)"
+title: "Walk-Through Test in Accounting"
 description: "Explore how algorithmic trading transforms financial markets, enhancing efficiency and reducing costs, while posing unique accounting and auditing challenges."
 ---
 

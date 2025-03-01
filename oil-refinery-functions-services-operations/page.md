@@ -1,5 +1,5 @@
 ---
-title: "Oil Refinery: Functions, Services, and Operations (Algo Trading)"
+title: "Oil Refinery: Functions, Services, and Operations"
 description: "Discover how oil refineries function, offering essential services in the upstream, midstream, and downstream sectors while exploring algo trading innovations."
 ---
 

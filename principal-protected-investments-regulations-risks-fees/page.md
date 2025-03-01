@@ -1,5 +1,5 @@
 ---
-title: "Principal-Protected Investments: Overview of Regulations, Risks, and Fees (Algo Trading)"
+title: "Principal-Protected Investments: Overview of Regulations, Risks, and Fees"
 description: "Explore the world of principal-protected investments with insights on regulations, risks, and fees to effectively balance security and potential gains."
 ---
 

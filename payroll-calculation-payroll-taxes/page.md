@@ -1,5 +1,5 @@
 ---
-title: "Payroll Calculation and Payroll Taxes (Algo Trading)"
+title: "Payroll Calculation and Payroll Taxes"
 description: "Discover how algorithmic trading principles optimize payroll tax calculation offering enhanced accuracy efficiency and compliance in modern payroll management."
 ---
 

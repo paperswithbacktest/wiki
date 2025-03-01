@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Tracking on Yahoo Finance (Algo Trading)"
+title: "Portfolio Tracking on Yahoo Finance"
 description: "Track your portfolio efficiently with Yahoo Finance's integrated platform offering comprehensive tools for portfolio management and algorithmic trading."
 ---
 

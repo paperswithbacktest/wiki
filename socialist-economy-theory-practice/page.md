@@ -1,5 +1,5 @@
 ---
-title: "Socialist Economy: Theory and Practice (Algo Trading)"
+title: "Socialist Economy: Theory and Practice"
 description: "Explore the integration of algorithmic trading within socialist economies its impact on economic growth and equality highlighting contrasts with capitalist systems."
 ---
 

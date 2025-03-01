@@ -1,5 +1,5 @@
 ---
-title: "option market liquidity (Algo Trading)"
+title: "option market liquidity"
 description: "Explore how algorithmic trading enhances options market liquidity by increasing transaction speed, tightening bid-ask spreads, and improving price stability."
 ---
 

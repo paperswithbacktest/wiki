@@ -1,5 +1,5 @@
 ---
-title: "Risks of Buying Stocks on Margin (Algo Trading)"
+title: "Risks of Buying Stocks on Margin"
 description: "Explore the risks and rewards of margin trading and algorithmic trading. Learn effective strategies for risk management in today's volatile financial markets."
 ---
 

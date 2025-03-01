@@ -1,5 +1,5 @@
 ---
-title: "SegWit2x: Mechanism, Functionality, and Concerns (Algo Trading)"
+title: "SegWit2x: Mechanism, Functionality, and Concerns"
 description: "Explore the impact of SegWit2x on blockchain scalability and algorithmic trading. Understand its role in increasing Bitcoin's transaction speed and network capacity."
 ---
 

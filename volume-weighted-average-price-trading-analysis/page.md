@@ -1,5 +1,5 @@
 ---
-title: "Volume Weighted Average Price in Trading and Analysis (Algo Trading)"
+title: "Volume Weighted Average Price in Trading and Analysis"
 description: "Enhance your trading strategies with the Volume Weighted Average Price VWAP a key tool that provides insights into price trends using both price and volume data."
 ---
 

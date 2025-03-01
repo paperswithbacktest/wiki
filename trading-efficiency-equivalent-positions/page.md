@@ -1,5 +1,5 @@
 ---
-title: "Trading Efficiency Through Equivalent Positions (Algo Trading)"
+title: "Trading Efficiency Through Equivalent Positions"
 description: "Boost trading efficiency with equivalent positions and algo trading for superior returns. Master strategies and algorithms to optimize risk and reward."
 ---
 

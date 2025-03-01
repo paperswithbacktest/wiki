@@ -1,5 +1,5 @@
 ---
-title: "Tomorrow Next (Algo Trading)"
+title: "Tomorrow Next"
 description: "Explore the impact of algorithmic trading in forex markets, offering insights on leveraging innovations to enhance strategies, boost efficiency, and minimize errors."
 ---
 

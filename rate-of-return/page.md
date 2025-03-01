@@ -1,5 +1,5 @@
 ---
-title: "Rate of Return (Algo Trading)"
+title: "Rate of Return"
 description: "This page explores the role of rate of return in investment analysis and algorithmic trading highlighting methods for calculating returns and the impact of automated systems on trading strategies. It discusses the integration of traditional financial metrics and modern technologies providing insights on enhancing investment outcomes."
 ---
 

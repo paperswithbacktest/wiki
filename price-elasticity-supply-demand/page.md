@@ -1,5 +1,5 @@
 ---
-title: "Price Elasticity in Relation to Supply and Demand (Algo Trading)"
+title: "Price Elasticity in Relation to Supply and Demand"
 description: "Explore how price elasticity influences supply and demand in algorithmic trading Enhance your trading strategies by understanding market dynamics and predicting trends"
 ---
 

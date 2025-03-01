@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 10-D: Overview, Benefits, and Criticisms (Algo Trading)"
+title: "SEC Form 10-D: Overview, Benefits, and Criticisms"
 description: "SEC Form 10-D is critical for transparency in asset-backed securities reporting essential for investor confidence and regulatory compliance in algorithmic trading."
 ---
 

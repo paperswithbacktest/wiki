@@ -1,5 +1,5 @@
 ---
-title: "Noncallable Bonds: Function and Characteristics (Algo Trading)"
+title: "Noncallable Bonds: Function and Characteristics"
 description: "Explore the benefits of noncallable bonds with fixed interest payments and stability. Discover how algorithmic trading enhances investment strategies for robust returns."
 ---
 

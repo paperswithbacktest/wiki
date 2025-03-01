@@ -1,5 +1,5 @@
 ---
-title: "Special Economic Zones and Their Impact on Foreign Direct Investment (Algo Trading)"
+title: "Special Economic Zones and Their Impact on Foreign Direct Investment"
 description: "Explore the transformative role of Special Economic Zones in boosting Foreign Direct Investment through algorithmic trading and innovative financial strategies."
 ---
 

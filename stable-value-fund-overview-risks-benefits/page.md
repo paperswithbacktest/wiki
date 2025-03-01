@@ -1,5 +1,5 @@
 ---
-title: "Stable Value Fund: Overview, Risks, and Benefits (Algo Trading)"
+title: "Stable Value Fund: Overview, Risks, and Benefits"
 description: "Explore the benefits and risks of Stable Value Funds in the ever-evolving financial landscape Learn how they balance capital preservation with steady returns"
 ---
 

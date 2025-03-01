@@ -1,5 +1,5 @@
 ---
-title: "Wayne Luthringshausen - Financial Services Innovator (Algo Trading)"
+title: "Wayne Luthringshausen - Financial Services Innovator"
 description: "Discover the legacy of Wayne Luthringshausen, a pioneer in financial services who revolutionized options trading and algorithmic trading practices."
 ---
 

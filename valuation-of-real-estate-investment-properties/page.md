@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Real Estate Investment Properties (Algo Trading)"
+title: "Valuation of Real Estate Investment Properties"
 description: "Dive into the impact of algorithmic trading on real estate investments and uncover how technology revolutionizes property valuation and investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Return on Investment: Calculation and Significance (Algo Trading)"
+title: "Return on Investment: Calculation and Significance"
 description: "Discover the significance and calculation of Return on Investment (ROI) within algorithmic trading. This page explores how technology and financial analysis converge to offer investors new opportunities and enhanced decision-making tools. Learn about the advantages and limitations of ROI as a profitability metric and understand its role in optimizing investment strategies for improved financial outcomes."
 ---
 

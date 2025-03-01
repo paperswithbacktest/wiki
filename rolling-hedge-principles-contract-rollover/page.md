@@ -1,5 +1,5 @@
 ---
-title: "Rolling Hedge: Principles and Contract Rollover (Algo Trading)"
+title: "Rolling Hedge: Principles and Contract Rollover"
 description: "Explore the principles of rolling hedges and contract rollover in algo trading to manage risk and optimize returns in dynamic financial markets."
 ---
 

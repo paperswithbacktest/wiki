@@ -1,5 +1,5 @@
 ---
-title: "Search Costs (Algo Trading)"
+title: "Search Costs"
 description: "Explore the impact of search costs and algorithmic trading on consumer behavior and market dynamics in modern economies through economic theories and insights."
 ---
 

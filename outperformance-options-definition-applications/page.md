@@ -1,5 +1,5 @@
 ---
-title: "Outperformance Options: Definition and Applications (Algo Trading)"
+title: "Outperformance Options: Definition and Applications"
 description: "Explore outperformance options and their role in algorithmic trading. Learn how they help traders profit from asset performance and enhance investment strategies."
 ---
 

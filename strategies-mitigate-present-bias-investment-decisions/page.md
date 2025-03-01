@@ -1,5 +1,5 @@
 ---
-title: "Strategies to Mitigate Present Bias in Investment Decisions (Algo Trading)"
+title: "Strategies to Mitigate Present Bias in Investment Decisions"
 description: "Explore strategies to mitigate present bias in algo trading by understanding its impact on investment decisions and implementing long-term focused measures."
 ---
 

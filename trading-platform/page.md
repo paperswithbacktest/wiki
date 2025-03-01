@@ -1,5 +1,5 @@
 ---
-title: "Trading Platform (Algo Trading)"
+title: "Trading Platform"
 description: "Explore the transformative world of algorithmic trading platforms that democratize financial markets with advanced tools designed for traders of all levels."
 ---
 

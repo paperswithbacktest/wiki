@@ -1,5 +1,5 @@
 ---
-title: "Overview of Bittrex Exchange (Algo Trading)"
+title: "Overview of Bittrex Exchange"
 description: "Explore Bittrex Exchange's vast cryptocurrency selection and advanced trading tools designed for both beginners and pros seeking algorithmic trading opportunities."
 ---
 

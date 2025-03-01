@@ -1,5 +1,5 @@
 ---
-title: "Revenue Generation by Mutual Fund Companies (Algo Trading)"
+title: "Revenue Generation by Mutual Fund Companies"
 description: "Explore revenue generation by mutual fund companies through management and performance fees while leveraging algorithmic trading for optimized returns."
 ---
 

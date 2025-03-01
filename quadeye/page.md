@@ -1,5 +1,5 @@
 ---
-title: "Quadeye (Algo Trading)"
+title: "Quadeye"
 description: "Quadeye leverages advanced algorithms and cutting-edge technology to optimize trading strategies offering speed precision and adaptability in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Optimal execution under uncertainty (Algo Trading)"
+title: "Optimal execution under uncertainty"
 description: "Explore optimal execution strategies in algorithmic trading to manage risks and enhance gains amid market volatility and uncertainty. Discover advanced data-driven techniques."
 ---
 

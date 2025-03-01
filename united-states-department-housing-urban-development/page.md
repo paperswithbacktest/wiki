@@ -1,5 +1,5 @@
 ---
-title: "United States Department of Housing and Urban Development (Algo Trading)"
+title: "United States Department of Housing and Urban Development"
 description: "Discover how HUD shapes urban development through housing policies while algorithmic trading transforms housing markets with AI-driven predictions."
 ---
 

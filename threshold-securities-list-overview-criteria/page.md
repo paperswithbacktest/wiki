@@ -1,5 +1,5 @@
 ---
-title: "Threshold Securities List: Overview and Criteria (Algo Trading)"
+title: "Threshold Securities List: Overview and Criteria"
 description: "Explore the significance of threshold securities and finance criteria in algorithmic trading to uncover potential market opportunities and enhance trading strategies."
 ---
 

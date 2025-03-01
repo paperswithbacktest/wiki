@@ -1,5 +1,5 @@
 ---
-title: "Seller-Financed Real Estate Transactions (Algo Trading)"
+title: "Seller-Financed Real Estate Transactions"
 description: "Explore the benefits of seller-financed real estate transactions where sellers offer buyer financing directly allowing for faster deals and flexible terms."
 ---
 

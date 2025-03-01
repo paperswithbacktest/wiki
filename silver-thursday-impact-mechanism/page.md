@@ -1,5 +1,5 @@
 ---
-title: "Silver Thursday Impact and Mechanism (Algo Trading)"
+title: "Silver Thursday Impact and Mechanism"
 description: "Explore the impact and mechanisms of the 1980 Silver Thursday event and its lessons for algorithmic trading highlighting market risks and the need for regulation."
 ---
 

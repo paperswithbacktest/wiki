@@ -1,5 +1,5 @@
 ---
-title: "Omani Rial: Currency of Oman (Algo Trading)"
+title: "Omani Rial: Currency of Oman"
 description: "Explore the economic role of the Omani Rial in global markets and its interaction with algorithmic trading which enhances currency liquidity and market efficiency."
 ---
 

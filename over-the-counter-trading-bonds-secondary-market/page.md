@@ -1,5 +1,5 @@
 ---
-title: "Over-the-Counter Trading of Bonds in the Secondary Market (Algo Trading)"
+title: "Over-the-Counter Trading of Bonds in the Secondary Market"
 description: "Explore the dynamics of over-the-counter bond trading in the secondary market with a focus on algorithmic trading's role in enhancing liquidity and efficiency."
 ---
 

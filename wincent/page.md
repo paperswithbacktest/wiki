@@ -1,5 +1,5 @@
 ---
-title: "Wincent (Algo Trading)"
+title: "Wincent"
 description: "Discover Wincent Algo Trading a cutting-edge platform boosting trading efficiency through customizable algorithms real-time data and advanced risk management."
 ---
 

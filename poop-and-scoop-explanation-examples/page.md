@@ -1,5 +1,5 @@
 ---
-title: "Poop and Scoop: Explanation and Examples (Algo Trading)"
+title: "Poop and Scoop: Explanation and Examples"
 description: "Explore the synergy between pet waste management and technology focusing on how systematic methods can enhance community cleanliness and health through innovative solutions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Turnaround in Business and Finance (Algo Trading)"
+title: "Turnaround in Business and Finance"
 description: "Explore how financial restructuring and algorithmic trading contribute to business turnaround strategies ensuring stability growth and technological advancement."
 ---
 

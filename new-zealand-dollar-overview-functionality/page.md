@@ -1,5 +1,5 @@
 ---
-title: "New Zealand Dollar: Overview and Functionality (Algo Trading)"
+title: "New Zealand Dollar: Overview and Functionality"
 description: "Explore the dynamics of the New Zealand Dollar in forex trading and how algorithmic strategies can optimize trading decisions for better market performance."
 ---
 

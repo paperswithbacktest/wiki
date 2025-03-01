@@ -1,5 +1,5 @@
 ---
-title: "Ringfencing: Overview and Mechanisms (Algo Trading)"
+title: "Ringfencing: Overview and Mechanisms"
 description: "Exploring ringfencing and algorithmic trading in financial regulations ensuring market stability protecting investors and fostering innovation amidst global challenges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Retained Earnings in Corporate Finance (Algo Trading)"
+title: "Retained Earnings in Corporate Finance"
 description: "Explore how retained earnings impact corporate finance and algorithmic trading By understanding retained earnings gain insights into company growth and investment strategies"
 ---
 

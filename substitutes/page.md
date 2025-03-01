@@ -1,5 +1,5 @@
 ---
-title: "Substitutes (Algo Trading)"
+title: "Substitutes"
 description: "Explore the evolving world of algorithmic trading, also known as algo trading, which utilizes computer programs to execute trades with remarkable efficiency and precision. Discover how technological advancements and innovative trading platforms are democratizing access, offering individual investors the chance to enhance their trading strategies. Learn about alternative solutions and substitutes that cater to diverse investment goals and skill levels, empowering investors to customize their trading approaches. Delve into the key features of algorithmic trading software, including backtesting, execution speed, programming language support, and integration, to optimize performance and achieve successful trading outcomes."
 ---
 

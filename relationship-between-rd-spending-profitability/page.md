@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between R&D Spending and Profitability (Algo Trading)"
+title: "Relationship Between R&D Spending and Profitability"
 description: "Explore how R&D spending impacts profitability through innovation and algorithmic trading insights Discover strategies for driving business growth and market success"
 ---
 

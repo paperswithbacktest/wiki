@@ -1,5 +1,5 @@
 ---
-title: "Temasek Holdings Overview and Operations (Algo Trading)"
+title: "Temasek Holdings Overview and Operations"
 description: "Explore Temasek Holdings as a global financial powerhouse leveraging diverse investments and algorithmic trading to bolster Singapore's economy and innovation."
 ---
 

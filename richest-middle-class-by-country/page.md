@@ -1,5 +1,5 @@
 ---
-title: "Richest Middle Class by Country (Algo Trading)"
+title: "Richest Middle Class by Country"
 description: "Discover how middle class wealth distribution intersects with algorithmic trading highlighting impacts on economic growth and wealth disparities globally."
 ---
 

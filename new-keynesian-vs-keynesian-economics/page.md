@@ -1,5 +1,5 @@
 ---
-title: "Comparison of New Keynesian and Keynesian Economics (Algo Trading)"
+title: "Comparison of New Keynesian and Keynesian Economics"
 description: "Explore the distinctions and intersections between Keynesian and New Keynesian economics in algorithmic trading Discover how these theories shape trading strategies"
 ---
 

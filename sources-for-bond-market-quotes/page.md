@@ -1,5 +1,5 @@
 ---
-title: "Sources for Bond Market Quotes (Algo Trading)"
+title: "Sources for Bond Market Quotes"
 description: "Explore the evolving landscape of bond market quotes and algorithmic trading with insights into financial data and real-time pricing for informed investing decisions."
 ---
 

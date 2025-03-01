@@ -1,5 +1,5 @@
 ---
-title: "Rule 48 in Financial Markets (Algo Trading)"
+title: "Rule 48 in Financial Markets"
 description: "Explore Rule 48, a NYSE mechanism for managing market volatility, alongside the impact of algorithmic trading on financial markets and stock exchanges."
 ---
 

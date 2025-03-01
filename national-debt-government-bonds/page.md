@@ -1,5 +1,5 @@
 ---
-title: "National Debt and Government Bonds (Algo Trading)"
+title: "National Debt and Government Bonds"
 description: "Explore the complex interactions of national debt, government bonds, and algorithmic trading in shaping global finance, market efficiency, and fiscal policies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Quality Spread Differential: Definition and Mechanism (Algo Trading)"
+title: "Quality Spread Differential: Definition and Mechanism"
 description: "Explore the vital role of Quality Spread Differential in finance Discover how understanding QSD aids investment decisions and strategic asset allocation"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stan Uryasev (Algo Trading)"
+title: "Stan Uryasev"
 description: "Explore the remarkable journey of Stan Uryasev from Moscow to Stony Brook University as a leader in risk management and algorithmic trading research"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Racial Diversity in United States Judiciary (Algo Trading)"
+title: "Racial Diversity in United States Judiciary"
 description: "Explore the significance of racial diversity in the U.S. judiciary and its impact on fair justice while examining parallels with algorithmic trading practices."
 ---
 

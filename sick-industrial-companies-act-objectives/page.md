@@ -1,5 +1,5 @@
 ---
-title: "Sick Industrial Companies Act (SICA): Objectives (Algo Trading)"
+title: "Sick Industrial Companies Act (SICA): Objectives"
 description: "Explore the objectives of the Sick Industrial Companies Act in India as it aims to identify and revive sick industries for economic stability and job preservation."
 ---
 

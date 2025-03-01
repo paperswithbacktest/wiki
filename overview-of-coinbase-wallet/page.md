@@ -1,5 +1,5 @@
 ---
-title: "Overview of Coinbase Wallet (Algo Trading)"
+title: "Overview of Coinbase Wallet"
 description: "Discover the versatility of Coinbase Wallet for managing digital currencies with secure storage and explore the benefits of algorithmic trading for optimized investments."
 ---
 

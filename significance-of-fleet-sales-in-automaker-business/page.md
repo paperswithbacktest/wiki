@@ -1,5 +1,5 @@
 ---
-title: "Significance of Fleet Sales in Automaker Business (Algo Trading)"
+title: "Significance of Fleet Sales in Automaker Business"
 description: "Discover the crucial role of fleet sales and algorithmic trading in the automotive industry for enhancing efficiency and profitability amidst market changes."
 ---
 

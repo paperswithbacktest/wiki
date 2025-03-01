@@ -1,5 +1,5 @@
 ---
-title: "Share Dilution Risks and Formula (Algo Trading)"
+title: "Share Dilution Risks and Formula"
 description: "Understand the risks and formula associated with share dilution in algo trading Discover how share issuance impacts investments and the role of tech in trading systems"
 ---
 

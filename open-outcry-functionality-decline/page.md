@@ -1,5 +1,5 @@
 ---
-title: "Open Outcry: Functionality and Decline (Algo Trading)"
+title: "Open Outcry: Functionality and Decline"
 description: "Explore the evolution of open outcry to algorithmic trading as financial markets transition to efficiency and speed driven by technology and real-time data analysis."
 ---
 

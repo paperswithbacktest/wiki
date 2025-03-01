@@ -1,5 +1,5 @@
 ---
-title: "Requesting FOIA Information from the EEOC (Algo Trading)"
+title: "Requesting FOIA Information from the EEOC"
 description: "Explore how to request EEOC data through FOIA in the context of algorithmic trading Discover the benefits complexities and ethical considerations involved"
 ---
 

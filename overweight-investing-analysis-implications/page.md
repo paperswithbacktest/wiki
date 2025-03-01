@@ -1,5 +1,5 @@
 ---
-title: "Overweight in Investing: Analysis and Implications (Algo Trading)"
+title: "Overweight in Investing: Analysis and Implications"
 description: "Explore the intersection of overweight investing and algorithmic trading in financial markets. Learn strategies to optimize portfolio performance and navigate market volatility."
 ---
 

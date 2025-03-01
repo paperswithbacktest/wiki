@@ -1,5 +1,5 @@
 ---
-title: "Methods to Overcome Limitations of Black-Scholes Model (Algo Trading)"
+title: "Methods to Overcome Limitations of Black-Scholes Model"
 description: "Explore methods to enhance the Black-Scholes Model in algo trading by overcoming its limitations for improved option pricing and risk management strategies."
 ---
 

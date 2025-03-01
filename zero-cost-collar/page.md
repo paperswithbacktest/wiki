@@ -1,5 +1,5 @@
 ---
-title: "Zero Cost Collar (Algo Trading)"
+title: "Zero Cost Collar"
 description: "Explore the zero cost collar strategy in options trading, a cost-neutral approach for protecting investments using algorithmic solutions for optimized execution."
 ---
 

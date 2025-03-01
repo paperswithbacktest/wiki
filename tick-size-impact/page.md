@@ -1,5 +1,5 @@
 ---
-title: "tick size impact (Algo Trading)"
+title: "tick size impact"
 description: "Explore how tick size influences algorithmic trading, market liquidity, and volatility. Understanding its impact helps in optimizing trading strategies and execution."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Why Arithmetic and Geometric Averages Differ in Trading and Investing (Algo Trading)"
+title: "Why Arithmetic and Geometric Averages Differ in Trading and Investing"
 description: Explore the critical differences between arithmetic and geometric averages in trading and investing within algorithmic trading. This article investigates into how each average measures returns impacting strategy evaluation and decision-making. Learn why the geometric mean is essential for accounting compounding effects over time and how it provides a more accurate measure of long-term performance compared to the arithmetic mean. Understand these concepts to enhance your trading strategy assessments and achieve greater insights into potential risks and effectiveness.
 ---
 

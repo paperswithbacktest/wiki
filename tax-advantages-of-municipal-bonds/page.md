@@ -1,5 +1,5 @@
 ---
-title: "Tax Advantages of Municipal Bonds (Algo Trading)"
+title: "Tax Advantages of Municipal Bonds"
 description: "Discover the tax benefits and investment potential of municipal bonds in the era of algorithmic trading. Learn how munis can diversify portfolios."
 ---
 

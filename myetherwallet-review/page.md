@@ -1,5 +1,5 @@
 ---
-title: "MyEtherWallet Review (Algo Trading)"
+title: "MyEtherWallet Review"
 description: "MyEtherWallet is a popular open-source non-custodial interface for managing Ethereum and ERC-20 tokens offering enhanced security and algorithmic trading integration."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Yield to Maturity and Yield to Call Comparison (Algo Trading)"
+title: "Yield to Maturity and Yield to Call Comparison"
 description: "Explore the key differences between Yield to Maturity and Yield to Call for bonds in algorithmic trading Gain insights to optimize fixed income investments"
 ---
 

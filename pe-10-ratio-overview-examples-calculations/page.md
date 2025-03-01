@@ -1,5 +1,5 @@
 ---
-title: "P/E 10 Ratio: Overview, Examples, and Calculations (Algo Trading)"
+title: "P/E 10 Ratio: Overview, Examples, and Calculations"
 description: "Explore how the P/E 10 ratio, or CAPE, offers investors a stabilized view of stock valuations, aiding strategic decisions in algorithmic trading. Discover its calculations and applications."
 ---
 

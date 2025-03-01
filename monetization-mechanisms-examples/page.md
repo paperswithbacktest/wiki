@@ -1,5 +1,5 @@
 ---
-title: "Monetization: Definition, Mechanisms, and Examples (Algo Trading)"
+title: "Monetization: Definition, Mechanisms, and Examples"
 description: "Explore how businesses leverage algorithmic trading to optimize revenue models and monetize assets effectively, enhancing profitability with advanced financial technology."
 ---
 

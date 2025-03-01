@@ -1,5 +1,5 @@
 ---
-title: "UNCITRAL (Algo Trading)"
+title: "UNCITRAL"
 description: "Explore how UNCITRAL supports algorithmic trading through modernized trade laws to foster innovation, ensure market stability, and promote international cooperation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Order Flow Dynamics (Algo Trading)"
+title: "Order Flow Dynamics"
 description: "Discover the power of order flow dynamics in algorithmic trading and enhance your market insights Gain an edge with real-time analysis of buy and sell orders"
 ---
 

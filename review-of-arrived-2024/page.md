@@ -1,5 +1,5 @@
 ---
-title: "Review of Arrived for 2024 (Algo Trading)"
+title: "Review of Arrived for 2024"
 description: "Explore algorithmic trading in 2024 with insights on AI, machine learning, and the best practices to assess products, ensuring speed, precision, and market adaptability."
 ---
 

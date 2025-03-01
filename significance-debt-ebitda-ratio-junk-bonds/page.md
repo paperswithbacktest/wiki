@@ -1,5 +1,5 @@
 ---
-title: "Significance of the Debt/EBITDA Ratio in Junk Bonds (Algo Trading)"
+title: "Significance of the Debt/EBITDA Ratio in Junk Bonds"
 description: "Explore the importance of the Debt/EBITDA ratio in financial analysis especially regarding junk bonds and algorithmic trading. Understand how this metric aids in evaluating a company's debt management and financial stability helping investors assess high-yield investments' risk. Discover its role in credit ratings and decision-making processes."
 ---
 

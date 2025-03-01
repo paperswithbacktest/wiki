@@ -1,5 +1,5 @@
 ---
-title: "Short Put Options: Mechanism and Risks (Algo Trading)"
+title: "Short Put Options: Mechanism and Risks"
 description: "Explore the workings and risks of trading short put options in the derivative markets and how algorithmic trading revolutionizes this strategy."
 ---
 

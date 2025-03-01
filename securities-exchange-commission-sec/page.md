@@ -1,5 +1,5 @@
 ---
-title: "Securities and Exchange Commission (SEC) (Algo Trading)"
+title: "Securities and Exchange Commission (SEC)"
 description: "Explore the SEC's evolving role in regulating algorithmic trading while balancing innovation, safeguarding investors, and ensuring transparent markets."
 ---
 

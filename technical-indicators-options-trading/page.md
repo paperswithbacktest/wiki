@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators in Options Trading (Algo Trading)"
+title: "Technical Indicators in Options Trading"
 description: "Explore how technical indicators enhance options trading by predicting market trends. Learn how tools like RSI and Bollinger Bands aid in making informed decisions."
 ---
 

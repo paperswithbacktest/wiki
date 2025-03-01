@@ -1,5 +1,5 @@
 ---
-title: "Overview of Mutual Fund Prospectuses (Algo Trading)"
+title: "Overview of Mutual Fund Prospectuses"
 description: "Discover the intricacies of mutual fund prospectuses and explore how algorithmic trading is revolutionizing modern finance for enhanced investment strategies."
 ---
 

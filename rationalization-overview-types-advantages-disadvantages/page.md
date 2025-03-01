@@ -1,5 +1,5 @@
 ---
-title: "Rationalization: Overview, Types, Advantages and Disadvantages (Algo Trading)"
+title: "Rationalization: Overview, Types, Advantages and Disadvantages"
 description: "Discover the essential role of rationalization in business efficiency alongside the rise of algorithmic trading Revolutionize financial strategies with key insights"
 ---
 

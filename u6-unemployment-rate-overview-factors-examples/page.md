@@ -1,5 +1,5 @@
 ---
-title: "U-6 Unemployment Rate: Overview, Factors, and Examples (Algo Trading)"
+title: "U-6 Unemployment Rate: Overview, Factors, and Examples"
 description: "Explore the depth of the U-6 unemployment rate and its role in economic policies and algorithmic trading for a nuanced understanding of the labor market."
 ---
 

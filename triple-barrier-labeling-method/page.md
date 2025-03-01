@@ -1,5 +1,5 @@
 ---
-title: "Triple-barrier labeling method (Algo Trading)"
+title: "Triple-barrier labeling method"
 description: Explore the integration of AI in trading through the Triple Barrier Labeling Method tailored for cryptocurrency markets This approach utilizes three barriers to enhance trading strategies by optimizing the capture of profit and effective risk management Learn about AI's classification strengths and how they are leveraged to adapt to the volatility of cryptocurrencies enhancing pairing trading strategies for stable returns
 ---
 

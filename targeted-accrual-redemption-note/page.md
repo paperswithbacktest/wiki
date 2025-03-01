@@ -1,5 +1,5 @@
 ---
-title: "Targeted Accrual Redemption Note (Algo Trading)"
+title: "Targeted Accrual Redemption Note"
 description: "Explore the benefits of Target Accrual Redemption Notes enhanced by algorithmic trading techniques to boost yields while managing risk in your portfolio."
 ---
 

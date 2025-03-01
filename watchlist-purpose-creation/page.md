@@ -1,5 +1,5 @@
 ---
-title: "Watchlist: Purpose and Creation (Algo Trading)"
+title: "Watchlist: Purpose and Creation"
 description: "Explore the benefits and strategies of watchlists in algorithmic trading to enhance market positioning prioritize securities and improve trading efficiency."
 ---
 

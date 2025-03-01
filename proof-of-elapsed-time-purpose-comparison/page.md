@@ -1,5 +1,5 @@
 ---
-title: "Proof of Elapsed Time: Purpose and Comparison with Proof of Work (Algo Trading)"
+title: "Proof of Elapsed Time: Purpose and Comparison with Proof of Work"
 description: "Explore the advantages of Proof of Elapsed Time over Proof of Work for blockchain consensus highlighting energy efficiency and improved scalability in trading platforms."
 ---
 

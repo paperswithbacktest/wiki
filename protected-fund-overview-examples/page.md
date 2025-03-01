@@ -1,5 +1,5 @@
 ---
-title: "Protected Fund: Overview and Examples (Algo Trading)"
+title: "Protected Fund: Overview and Examples"
 description: "Discover how algorithmic trading and protected funds are reshaping investment strategies by enhancing security offering growth prospects and mitigating risks."
 ---
 

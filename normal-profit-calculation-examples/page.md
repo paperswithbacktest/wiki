@@ -1,5 +1,5 @@
 ---
-title: "Normal Profit: Calculation and Examples (Algo Trading)"
+title: "Normal Profit: Calculation and Examples"
 description: "Explore the fundamentals of normal profit in algo trading Discover calculation methods and examples that aid in informed strategic financial decisions"
 ---
 

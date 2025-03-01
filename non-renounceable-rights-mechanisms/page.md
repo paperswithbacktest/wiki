@@ -1,5 +1,5 @@
 ---
-title: "Non-Renounceable Rights and Their Mechanisms (Algo Trading)"
+title: "Non-Renounceable Rights and Their Mechanisms"
 description: "Explore the impact of non-renounceable rights equity offerings and algorithmic trading on global financial markets Learn how these mechanisms shape strategies and growth"
 ---
 

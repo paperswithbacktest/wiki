@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Stocks Using Price-To-Sales Ratios (Algo Trading)"
+title: "Valuation of Stocks Using Price-To-Sales Ratios"
 description: "Discover the significance of the price-to-sales ratio in algo trading Learn how this metric guides investment decisions and compares to other valuation tools"
 ---
 

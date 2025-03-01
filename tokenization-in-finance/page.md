@@ -1,5 +1,5 @@
 ---
-title: "Tokenization in Finance (Algo Trading)"
+title: "Tokenization in Finance"
 description: "Explore how tokenization and algorithmic trading intersect to innovate finance enhancing liquidity transparency and efficiency through digital assets on blockchain."
 ---
 

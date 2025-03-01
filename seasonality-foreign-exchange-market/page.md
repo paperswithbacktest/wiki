@@ -1,5 +1,5 @@
 ---
-title: "Seasonality in the Foreign Exchange Market (Algo Trading)"
+title: "Seasonality in the Foreign Exchange Market"
 description: "Explore how seasonal trends impact currency trading in the forex market and how algorithmic trading enhances strategy implementation by identifying recurring patterns."
 ---
 

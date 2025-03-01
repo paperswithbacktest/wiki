@@ -1,5 +1,5 @@
 ---
-title: "One-Third Rule: Meaning and Function (Algo Trading)"
+title: "One-Third Rule: Meaning and Function"
 description: "Explore the One-Third Rule in algorithmic trading; a strategic framework for effective risk management that enhances decision-making within volatile markets."
 ---
 

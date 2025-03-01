@@ -1,5 +1,5 @@
 ---
-title: "Relief Rally and Its Triggers (Algo Trading)"
+title: "Relief Rally and Its Triggers"
 description: "Explore how relief rallies and algorithmic trading shape financial markets Gain insights into the triggers and dynamics driving these temporary market upswings"
 ---
 

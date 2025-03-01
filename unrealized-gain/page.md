@@ -1,5 +1,5 @@
 ---
-title: "Unrealized Gain (Algo Trading)"
+title: "Unrealized Gain"
 description: "Explore the complexities of unrealized gain in algorithmic trading in this insightful article. Understand how financial terms like unrealized gain and investment income influence investment strategies and market behavior. Discover the role of algorithmic trading in enhancing market efficiency through rapid trades and minimizing human error. Gain valuable insights into how these elements impact financial outcomes and strategic decisions within the dynamic financial markets."
 ---
 

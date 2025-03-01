@@ -1,5 +1,5 @@
 ---
-title: "Net Debt-to-EBITDA Ratio in Financial Analysis (Algo Trading)"
+title: "Net Debt-to-EBITDA Ratio in Financial Analysis"
 description: "Explore the importance of the Net Debt-to-EBITDA ratio in algorithmic trading highlighting its role in evaluating company leverage financial stability and guiding trading strategies."
 ---
 

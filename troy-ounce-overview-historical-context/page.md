@@ -1,5 +1,5 @@
 ---
-title: "Troy Ounce: Overview and Historical Context (Algo Trading)"
+title: "Troy Ounce: Overview and Historical Context"
 description: "Explore the historical and strategic importance of the troy ounce in gold trading, crucial for algorithmic traders seeking precision in the precious metals market."
 ---
 

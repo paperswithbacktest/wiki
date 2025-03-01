@@ -1,5 +1,5 @@
 ---
-title: "Wholesale Money Overview (Algo Trading)"
+title: "Wholesale Money Overview"
 description: "Explore the crucial role of wholesale money, banking, and algorithmic trading in modern finance. Understand their impact on financial stability and global markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 1-U Overview and Function (Algo Trading)"
+title: "SEC Form 1-U Overview and Function"
 description: "Explore the importance of SEC Form 1-U for algorithmic trading firms ensuring compliance with regulatory disclosure to maintain transparency and investor trust."
 ---
 

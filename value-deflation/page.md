@@ -1,5 +1,5 @@
 ---
-title: "Value Deflation (Algo Trading)"
+title: "Value Deflation"
 description: "Explore how value deflation and algorithmic trading impact market dynamics and economic realities essential for informed investment strategies and policymaking."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Option Writing: Long and Short Strategies (Algo Trading)"
+title: "Option Writing: Long and Short Strategies"
 description: "Discover the benefits of options trading with algorithmic strategies Learn about long and short options strategies and how automation refines trading efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mortgage-Backed Securities and Investment Types (Algo Trading)"
+title: "Mortgage-Backed Securities and Investment Types"
 description: "Explore the world of Mortgage-Backed Securities and their role in finance Learn about algorithmic trading and how it impacts MBS investment strategies"
 ---
 

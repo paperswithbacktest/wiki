@@ -1,5 +1,5 @@
 ---
-title: "Techniques for Emulating High-Stakes Stock Market Investors (Algo Trading)"
+title: "Techniques for Emulating High-Stakes Stock Market Investors"
 description: "Explore high-stakes stock market investing with insights into strategies and the vital role of algorithmic trading to enhance decision-making and optimize returns."
 ---
 

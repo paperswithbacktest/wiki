@@ -1,5 +1,5 @@
 ---
-title: "Return on Revenue: Formula, Calculation, and Use (Algo Trading)"
+title: "Return on Revenue: Formula, Calculation, and Use"
 description: "Explore how return on revenue is calculated and its significance in evaluating company profitability in the context of algorithmic trading strategies."
 ---
 

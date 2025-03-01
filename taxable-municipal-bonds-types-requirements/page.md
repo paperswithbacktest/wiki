@@ -1,5 +1,5 @@
 ---
-title: "Taxable Municipal Bonds: Types and Requirements (Algo Trading)"
+title: "Taxable Municipal Bonds: Types and Requirements"
 description: "Explore the world of municipal and taxable bonds, their types, and investment requirements Discover how algorithmic trading transforms bond markets for optimal outcomes"
 ---
 

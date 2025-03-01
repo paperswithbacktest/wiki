@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Oscillator in Forex Trading Strategy Development (Algo Trading)"
+title: "Stochastic Oscillator in Forex Trading Strategy Development"
 description: "Enhance your forex trading strategy with the Stochastic Oscillator a powerful momentum indicator for identifying overbought and oversold market conditions."
 ---
 

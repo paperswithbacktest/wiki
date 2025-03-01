@@ -1,5 +1,5 @@
 ---
-title: "When Issued Securities (Algo Trading)"
+title: "When Issued Securities"
 description: "Discover the intricate world of when-issued securities and algorithmic trading Learn how these elements shape capital markets and enhance financial strategies"
 ---
 

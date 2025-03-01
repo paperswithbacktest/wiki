@@ -1,5 +1,5 @@
 ---
-title: "Story Stocks: Definition and Mechanism (Algo Trading)"
+title: "Story Stocks: Definition and Mechanism"
 description: "Explore the dynamic world of story stocks and algorithmic trading learn how narratives and technology-driven methods are reshaping modern investment strategies"
 ---
 

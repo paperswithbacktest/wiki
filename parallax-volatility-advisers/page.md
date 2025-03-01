@@ -1,5 +1,5 @@
 ---
-title: "Parallax Volatility Advisers (Algo Trading)"
+title: "Parallax Volatility Advisers"
 description: "Explore Parallax Volatility Advisers to learn their innovative approach to algorithmic trading with a focus on volatility strategies for optimal market performance."
 ---
 

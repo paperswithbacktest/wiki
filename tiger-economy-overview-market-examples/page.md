@@ -1,5 +1,5 @@
 ---
-title: "Tiger Economy: Overview and Market Examples (Algo Trading)"
+title: "Tiger Economy: Overview and Market Examples"
 description: "Explore how Southeast Asia's tiger economies like Singapore and South Korea thrive through industrialization and algorithmic trading in financial markets."
 ---
 

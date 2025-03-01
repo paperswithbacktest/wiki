@@ -1,5 +1,5 @@
 ---
-title: "Special Dividend: Definition and Taxation (Algo Trading)"
+title: "Special Dividend: Definition and Taxation"
 description: "Explore special dividends taxation and algorithmic trading strategies to enhance investment income. Learn to optimize your portfolio and navigate tax laws."
 ---
 

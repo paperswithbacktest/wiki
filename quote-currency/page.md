@@ -1,5 +1,5 @@
 ---
-title: "Quote Currency (Algo Trading)"
+title: "Quote Currency"
 description: "Discover the essentials of quote currencies and algorithmic trading in Forex to enhance your trading success by mastering market dynamics and technology-driven strategies."
 ---
 

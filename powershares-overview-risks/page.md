@@ -1,5 +1,5 @@
 ---
-title: "Powershares Overview and Risks (Algo Trading)"
+title: "Powershares Overview and Risks"
 description: "Explore how PowerShares, now Invesco ETFs, and algorithmic trading blend to create innovative investment strategies revolutionizing financial markets."
 ---
 

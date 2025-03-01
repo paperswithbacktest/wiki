@@ -1,5 +1,5 @@
 ---
-title: "Solvency Ratios in Investment Analysis (Algo Trading)"
+title: "Solvency Ratios in Investment Analysis"
 description: "Explore the integration of solvency ratios in algo trading to enhance financial analysis understand long-term viability and optimize investment strategies."
 ---
 

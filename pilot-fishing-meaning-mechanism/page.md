@@ -1,5 +1,5 @@
 ---
-title: "Pilot Fishing: Meaning and Mechanism (Algo Trading)"
+title: "Pilot Fishing: Meaning and Mechanism"
 description: "Explore the parallels between fishing strategies and algorithmic trading. Discover how precision, data analysis, and technology can enhance success in both fields."
 ---
 

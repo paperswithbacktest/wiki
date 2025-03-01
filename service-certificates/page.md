@@ -1,5 +1,5 @@
 ---
-title: "Service Certificates (Algo Trading)"
+title: "Service Certificates"
 description: "Explore the essential role of digital certificates and service authentication in ensuring security in algorithmic trading, enhancing trust and efficiency."
 ---
 

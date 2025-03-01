@@ -1,5 +1,5 @@
 ---
-title: "True Strength Index: Formula, Calculation and Interpretation (Algo Trading)"
+title: "True Strength Index: Formula, Calculation and Interpretation"
 description: "Explore the True Strength Index for algorithmic trading with insights on its formula calculation and interpretation to optimize trading strategies effectively."
 ---
 

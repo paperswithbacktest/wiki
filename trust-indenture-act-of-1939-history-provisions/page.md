@@ -1,5 +1,5 @@
 ---
-title: "Trust Indenture Act of 1939: History and Provisions (Algo Trading)"
+title: "Trust Indenture Act of 1939: History and Provisions"
 description: "Explore the Trust Indenture Act of 1939, its historical context, key provisions, and its connection with the evolving world of algorithmic trading."
 ---
 

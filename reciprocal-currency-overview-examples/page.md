@@ -1,5 +1,5 @@
 ---
-title: "Reciprocal Currency: Overview and Examples (Algo Trading)"
+title: "Reciprocal Currency: Overview and Examples"
 description: "Explore how reciprocal currency exchange and algorithmic trading intersect to boost efficiency and profitability in global financial markets. Discover key concepts and examples."
 ---
 

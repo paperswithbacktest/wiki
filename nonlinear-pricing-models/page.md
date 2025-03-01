@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear pricing models (Algo Trading)"
+title: "Nonlinear pricing models"
 description: "Discover the power of nonlinear pricing models in algorithmic trading to capture dynamic market interactions, enhance forecast accuracy, and improve decision-making."
 ---
 

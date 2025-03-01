@@ -1,5 +1,5 @@
 ---
-title: "Spot Bitcoin ETFs Overview (Algo Trading)"
+title: "Spot Bitcoin ETFs Overview"
 description: "Explore the landscape of Spot Bitcoin ETFs and algorithmic trading to uncover opportunities and challenges in cryptocurrency investment. Discover their impact on investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Series EE Bond: Functionality and Maturity (Algo Trading)"
+title: "Series EE Bond: Functionality and Maturity"
 description: "Explore the functionality and maturity of Series EE Bonds and their integration with algorithmic trading to maximize returns through a secure investment."
 ---
 

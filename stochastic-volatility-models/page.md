@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Volatility Models (Algo Trading)"
+title: "Stochastic Volatility Models"
 description: "Explore the intricacies of Stochastic Volatility models integral to capturing market dynamics and optimizing trading strategies in algorithmic finance."
 ---
 

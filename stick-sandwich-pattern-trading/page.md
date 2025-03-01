@@ -1,5 +1,5 @@
 ---
-title: "Stick Sandwich Pattern in Trading (Algo Trading)"
+title: "Stick Sandwich Pattern in Trading"
 description: "Learn about the Stick Sandwich candlestick pattern in trading to identify potential trend reversals Enhance your algorithmic trading strategy with this powerful tool"
 ---
 

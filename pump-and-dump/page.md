@@ -1,5 +1,5 @@
 ---
-title: "Pump and dump (Algo Trading)"
+title: "Pump and dump"
 description: "Explore the intricate dynamics of pump and dump schemes in algorithmic trading, uncovering their impact on market integrity and the regulatory challenges they present."
 ---
 

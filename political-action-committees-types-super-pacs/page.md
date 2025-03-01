@@ -1,5 +1,5 @@
 ---
-title: "Political Action Committees: Types and Super PACs (Algo Trading)"
+title: "Political Action Committees: Types and Super PACs"
 description: "Explore the interplay between Political Action Committees and algorithmic trading delving into how Super PACs may use advanced trading strategies to shape political landscapes."
 ---
 

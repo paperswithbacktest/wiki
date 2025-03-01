@@ -1,5 +1,5 @@
 ---
-title: "Term Structure of Interest Rates (Algo Trading)"
+title: "Term Structure of Interest Rates"
 description: "Explore the crucial relationship between the term structure of interest rates and algorithmic trading in modern finance with this insightful article. Learn how the yield curve, a fundamental economic indicator, influences trading strategies and economic forecasts, enhancing decision-making and market navigation. Discover the benefits of integrating yield curve data into algorithmic models for improved trading systems and strategic advantage amidst a complex financial landscape. Ideal for market participants seeking to understand the sophisticated dynamics of finance and algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Project Completion Restrictions (Algo Trading)"
+title: "Project Completion Restrictions"
 description: "Explore the critical role of timely project completion in algorithmic trading Maximize profit by managing deadlines effectively to seize trading opportunities"
 ---
 

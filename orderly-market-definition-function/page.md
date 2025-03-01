@@ -1,5 +1,5 @@
 ---
-title: "Orderly Market: Definition and Function (Algo Trading)"
+title: "Orderly Market: Definition and Function"
 description: "Explore the role of algorithmic trading and market making in maintaining orderly markets to enhance market efficiency, price stability, and economic growth."
 ---
 

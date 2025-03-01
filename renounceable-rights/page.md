@@ -1,5 +1,5 @@
 ---
-title: "Renounceable Rights (Algo Trading)"
+title: "Renounceable Rights"
 description: "Explore the intricate world of renounceable rights and algorithmic trading Understand shareholder rights and optimize your investment strategies effectively"
 ---
 

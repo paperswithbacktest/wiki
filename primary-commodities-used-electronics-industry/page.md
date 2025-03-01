@@ -1,5 +1,5 @@
 ---
-title: "Primary Commodities Used in the Electronics Industry (Algo Trading)"
+title: "Primary Commodities Used in the Electronics Industry"
 description: "Explore how commodities like silicon, copper, and lithium drive electronics manufacturing and how algorithmic trading revolutionizes their procurement for cost-effective innovation."
 ---
 

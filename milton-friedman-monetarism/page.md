@@ -1,5 +1,5 @@
 ---
-title: "Milton Friedman and Monetarism (Algo Trading)"
+title: "Milton Friedman and Monetarism"
 description: "Explore how Milton Friedman's monetarism informs algorithmic trading, linking economic models and advanced technologies to enhance modern financial strategies."
 ---
 

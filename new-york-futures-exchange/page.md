@@ -1,5 +1,5 @@
 ---
-title: "New York Futures Exchange (Algo Trading)"
+title: "New York Futures Exchange"
 description: "Explore the impactful synergy of algorithmic and traditional futures trading at the New York Futures Exchange. Learn about market dynamics and strategic evolution."
 ---
 

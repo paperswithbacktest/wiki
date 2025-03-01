@@ -1,5 +1,5 @@
 ---
-title: "Best Trading Quotes (Algo Trading)"
+title: "Best Trading Quotes"
 description: Explore impactful trading quotes that shape algorithmic trading strategies by merging human wisdom and machine precision. Discover how timeless principles guide the development of effective, disciplined, and risk-aware trade automation. Learn to harness these insights for strategic, robust algorithm design in the dynamic world of financial markets.
 ---
 

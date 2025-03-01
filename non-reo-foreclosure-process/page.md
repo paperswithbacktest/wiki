@@ -1,5 +1,5 @@
 ---
-title: "Non-REO Foreclosure Process (Algo Trading)"
+title: "Non-REO Foreclosure Process"
 description: "Explore how non-REO foreclosure and algorithmic trading are revolutionizing real estate investing offering unique opportunities to acquire discounted properties."
 ---
 

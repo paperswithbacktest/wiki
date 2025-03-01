@@ -1,5 +1,5 @@
 ---
-title: "Variation of Debt-To-Equity Ratios Across Industries (Algo Trading)"
+title: "Variation of Debt-To-Equity Ratios Across Industries"
 description: "Explore how debt-to-equity ratios vary across industries due to different capital needs and business models, impacting financing strategies and algorithmic trading."
 ---
 

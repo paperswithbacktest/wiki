@@ -1,5 +1,5 @@
 ---
-title: "Tariffs and Trade Barriers (Algo Trading)"
+title: "Tariffs and Trade Barriers"
 description: "Explore how trade barriers and tariffs impact algorithmic trading posing both challenges and opportunities in global markets by influencing economic variables."
 ---
 

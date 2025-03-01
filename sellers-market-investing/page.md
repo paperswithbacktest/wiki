@@ -1,5 +1,5 @@
 ---
-title: "Seller's Market in Investing (Algo Trading)"
+title: "Seller's Market in Investing"
 description: "Explore effective strategies for investing in a seller's market and discover the role of algorithmic trading in optimizing portfolio decisions in dynamic financial environments."
 ---
 

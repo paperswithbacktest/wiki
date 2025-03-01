@@ -1,5 +1,5 @@
 ---
-title: "Returns concentration (Algo Trading)"
+title: "Returns concentration"
 description: Discover the essential role of returns concentration in algorithmic trading and how it enhances trading outcomes by focusing on specific strategies or assets with lucrative return potential. This article explores the significant impact of returns concentration on maximizing investment returns, addressing the risks involved, and the crucial performance metrics necessary for evaluating strategy effectiveness in rapidly evolving market conditions.
 ---
 

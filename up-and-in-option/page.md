@@ -1,5 +1,5 @@
 ---
-title: "Up-and-In Option (Algo Trading)"
+title: "Up-and-In Option"
 description: "Explore the benefits of up-and-in options in algorithmic trading These dynamic derivatives offer strategic adaptability with lower premiums and enhanced risk management"
 ---
 

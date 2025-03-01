@@ -1,5 +1,5 @@
 ---
-title: "Standard bars (Algo Trading)"
+title: "Standard bars"
 description: Explore the role of standard bars in algorithmic trading as they provide a structured framework for analyzing market data, facilitating trend analysis, and optimizing trading strategies through fixed time intervals. Understand how these bars enhance trade efficiency, support backtesting, and enable informed decision-making in financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Volume and Open Interest: Differences (Algo Trading)"
+title: "Volume and Open Interest: Differences"
 description: "Discover the key differences between volume and open interest in trading and understand how these metrics help traders gauge market activity sentiment and liquidity. Explore how advancements in algorithmic trading leverage these indicators to optimize performance and manage risk effectively."
 ---
 

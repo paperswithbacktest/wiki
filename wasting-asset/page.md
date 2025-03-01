@@ -1,5 +1,5 @@
 ---
-title: "Wasting Asset (Algo Trading)"
+title: "Wasting Asset"
 description: "Explore the concepts of wasting and depreciating assets, along with algorithmic trading, to enhance your investment strategies and portfolio management skills."
 ---
 

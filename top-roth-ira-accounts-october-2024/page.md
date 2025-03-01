@@ -1,5 +1,5 @@
 ---
-title: "Top Roth IRA Accounts for October 2024 (Algo Trading)"
+title: "Top Roth IRA Accounts for October 2024"
 description: "Discover the benefits of integrating algorithmic trading with Roth IRA accounts. Explore top Roth IRA account options in October 2024 for enhanced retirement savings through tax-free growth and strategic investment diversification."
 ---
 

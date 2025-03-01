@@ -1,5 +1,5 @@
 ---
-title: "State Oil Fund of Azerbaijan (Algo Trading)"
+title: "State Oil Fund of Azerbaijan"
 description: "Explore the State Oil Fund of Azerbaijan's innovative use of algorithmic trading to optimize investment returns and ensure economic stability for future generations."
 ---
 

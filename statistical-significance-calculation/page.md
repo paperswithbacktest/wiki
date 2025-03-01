@@ -1,5 +1,5 @@
 ---
-title: "Statistical Significance and Its Calculation (Algo Trading)"
+title: "Statistical Significance and Its Calculation"
 description: "Discover how statistical significance aids algo traders in validating strategies, distinguishing genuine market trends from noise, and improving trading performance."
 ---
 

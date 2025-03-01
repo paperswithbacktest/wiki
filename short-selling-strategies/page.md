@@ -1,5 +1,5 @@
 ---
-title: "Short-Selling Strategies Explained (Algo Trading)"
+title: "Short-Selling Strategies Explained"
 description: This page provides a comprehensive exploration of short-selling strategies within algorithmic trading highlighting how traders use automated systems to profit from market declines by borrowing and selling securities. It investigates into the mechanics and risks of short-selling such as potential unlimited losses and regulatory challenges while also detailing how data analysis and algorithm development play crucial roles in successfully integrating short-selling into trading systems. Emphasis is placed on creating strategies that adapt to market changes ensuring effective risk management and optimizing profitability in complex financial environments.
 ---
 

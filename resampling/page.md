@@ -1,5 +1,5 @@
 ---
-title: "Resampling (Algo Trading)"
+title: "Resampling"
 description: "Discover the power of resampling in algorithmic trading to transform raw tick data into comprehensive insights for refined strategy development."
 ---
 

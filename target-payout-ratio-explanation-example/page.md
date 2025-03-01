@@ -1,5 +1,5 @@
 ---
-title: "Target Payout Ratio: Explanation and Example (Algo Trading)"
+title: "Target Payout Ratio: Explanation and Example"
 description: "Explore the essential concepts of dividend policy and target payout ratio to grasp their impact on financial strategy for both investors and corporate managers. This article investigates into how these elements affect stock market valuation and provide insights for algorithmic trading. With a focus on resource allocation, stability, and market performance, learn how understanding dividend policies enhances investment strategies and optimizes portfolios. Gain a competitive edge by linking traditional financial analysis with modern trading technologies to predict market trends and influence stock movements effectively."
 ---
 

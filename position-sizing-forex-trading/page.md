@@ -1,5 +1,5 @@
 ---
-title: "Position Sizing in Forex Trading (Algo Trading)"
+title: "Position Sizing in Forex Trading"
 description: "Maximize trading success with optimized position sizing strategies in forex and algorithmic trading. Balance risk and reward to enhance returns and manage volatility."
 ---
 

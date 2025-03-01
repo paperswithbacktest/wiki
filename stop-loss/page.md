@@ -1,5 +1,5 @@
 ---
-title: "Stop-loss (Algo Trading)"
+title: "Stop-loss"
 description: Discover the importance of stop-loss orders in algorithmic trading for effective risk management. These automated tools are crucial for safeguarding investments by setting predetermined exit points to limit losses in volatile markets. By removing emotional decision-making, stop-loss orders ensure consistency and discipline in trading strategies. Learn how implementing this essential technique helps traders minimize risks and maximize profitability, contributing to sustainable and profitable trading in competitive financial markets.
 ---
 

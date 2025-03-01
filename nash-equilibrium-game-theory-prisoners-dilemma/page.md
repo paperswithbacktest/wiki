@@ -1,5 +1,5 @@
 ---
-title: "Nash Equilibrium in Game Theory and the Prisoner's Dilemma (Algo Trading)"
+title: "Nash Equilibrium in Game Theory and the Prisoner's Dilemma"
 description: "Explore the connection between the Prisoner's Dilemma Nash Equilibrium and algorithmic trading in game theory to enhance strategic decision-making in finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "USAA Overview (Algo Trading)"
+title: "USAA Overview"
 description: "Explore USAA's specialized financial services for military families focusing on insurance and algorithmic trading innovations that enhance the trading landscape."
 ---
 

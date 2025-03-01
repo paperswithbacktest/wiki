@@ -1,5 +1,5 @@
 ---
-title: "No-Load Fund: Mechanism and Advantages (Algo Trading)"
+title: "No-Load Fund: Mechanism and Advantages"
 description: "Explore the benefits of no-load funds and algorithmic trading Learn how these cost-effective investment mechanisms can optimize your portfolio with strategic insights"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rectangle: Definition and Applications (Algo Trading)"
+title: "Rectangle: Definition and Applications"
 description: "Explore the role of rectangle patterns in algorithmic trading and how they aid in identifying market trends. Learn to use these geometric insights for strategic trading."
 ---
 

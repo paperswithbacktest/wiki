@@ -1,5 +1,5 @@
 ---
-title: "Non-Taxable Distributions: Overview and Examples (Algo Trading)"
+title: "Non-Taxable Distributions: Overview and Examples"
 description: "Discover the benefits of non-taxable distributions in algorithmic trading to optimize your financial strategies minimize tax burdens and enhance net returns."
 ---
 

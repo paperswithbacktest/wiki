@@ -1,5 +1,5 @@
 ---
-title: "Sushi Bonds (Algo Trading)"
+title: "Sushi Bonds"
 description: "Explore the significance of Sushi Bonds and the impact of algorithmic trading on Japanese bonds, offering insights for savvy investors seeking market advantages."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Spot Trading in Financial Markets (Algo Trading)"
+title: "Spot Trading in Financial Markets"
 description: "Explore the dynamic world of spot trading in financial markets and discover how algorithmic trading transforms speed and efficiency, offering new opportunities."
 ---
 

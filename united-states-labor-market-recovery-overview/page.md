@@ -1,5 +1,5 @@
 ---
-title: "United States Labor Market Recovery Overview (Algo Trading)"
+title: "United States Labor Market Recovery Overview"
 description: "Explore the U.S. labor market's rapid recovery from COVID-19 disruptions, highlighting resilience, sector impacts, algorithmic insights, and demographic trends."
 ---
 

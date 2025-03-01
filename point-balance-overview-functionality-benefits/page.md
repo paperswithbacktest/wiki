@@ -1,5 +1,5 @@
 ---
-title: "Point Balance: Overview, Functionality, and Benefits (Algo Trading)"
+title: "Point Balance: Overview, Functionality, and Benefits"
 description: "Discover the synergy between point balance reward systems, loyalty programs, and algorithmic trading to enhance customer engagement and optimize financial strategies."
 ---
 

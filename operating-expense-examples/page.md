@@ -1,5 +1,5 @@
 ---
-title: "Operating Expense Examples (Algo Trading)"
+title: "Operating Expense Examples"
 description: "Discover the key operating expenses in algorithmic trading including technology, staffing, and compliance costs to optimize strategies and enhance profitability."
 ---
 

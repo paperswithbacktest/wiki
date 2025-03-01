@@ -1,5 +1,5 @@
 ---
-title: "Risk-Adjusted Discount Rate Guide (Algo Trading)"
+title: "Risk-Adjusted Discount Rate Guide"
 description: "Understand how risk-adjusted discount rates like CAPM help evaluate investments in algorithmic trading by factoring in volatility to determine true value."
 ---
 

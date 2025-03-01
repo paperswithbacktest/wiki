@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Alibaba's U.S. Stock Listing (Algo Trading)"
+title: "Reasons for Alibaba's U.S. Stock Listing"
 description: "Explore Alibaba's reasons for listing on the NYSE including strategic advantages of U.S. regulation market visibility and how algorithmic trading impacts its stock performance."
 ---
 

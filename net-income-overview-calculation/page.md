@@ -1,5 +1,5 @@
 ---
-title: "Net Income: Overview and Calculation (Algo Trading)"
+title: "Net Income: Overview and Calculation"
 description: "Discover effective net income calculation methods and profit analysis in algorithmic trading to enhance decision-making by understanding key financial metrics."
 ---
 

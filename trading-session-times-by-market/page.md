@@ -1,5 +1,5 @@
 ---
-title: "Trading Session Times by Market (Algo Trading)"
+title: "Trading Session Times by Market"
 description: "Explore global market trading hours with a focus on algorithmic trading strategies. Maximize trades by aligning with peak activity times across regions."
 ---
 

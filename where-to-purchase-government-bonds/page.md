@@ -1,5 +1,5 @@
 ---
-title: "Where to Purchase Government Bonds (Algo Trading)"
+title: "Where to Purchase Government Bonds"
 description: "Explore where to purchase government bonds and the role of algorithmic trading in the bond market Discover strategies to optimize your investments today"
 ---
 

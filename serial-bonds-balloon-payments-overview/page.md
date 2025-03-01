@@ -1,5 +1,5 @@
 ---
-title: "Serial Bonds with Balloon Payments: Overview, Advantages and Disadvantages (Algo Trading)"
+title: "Serial Bonds with Balloon Payments: Overview, Advantages and Disadvantages"
 description: "Explore the unique structure of serial bonds with balloon payments, their advantages, and the impact of algorithmic trading on bond markets and financing strategies."
 ---
 

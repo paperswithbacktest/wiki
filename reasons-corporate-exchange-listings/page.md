@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Corporate Exchange Listings (Algo Trading)"
+title: "Reasons for Corporate Exchange Listings"
 description: "Explore why companies switch stock exchanges focusing on liquidity, costs, and regulations. Discover the impact of algo trading on market dynamics."
 ---
 

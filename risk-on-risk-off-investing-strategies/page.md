@@ -1,5 +1,5 @@
 ---
-title: "Risk-On Risk-Off Investing Strategies (Algo Trading)"
+title: "Risk-On Risk-Off Investing Strategies"
 description: "Explore risk-on and risk-off investing strategies within the intricate realm of financial markets Discover how algorithmic trading enhances risk management and portfolio efficiency"
 ---
 

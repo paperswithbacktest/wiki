@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Forward Contract (Algo Trading)"
+title: "Synthetic Forward Contract"
 description: "Explore the world of synthetic forward contracts in algorithmic trading Learn how these complex derivatives offer flexibility and efficiency in modern markets"
 ---
 

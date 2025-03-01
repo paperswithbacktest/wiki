@@ -1,5 +1,5 @@
 ---
-title: "Orphan Drug Tax Credit Overview (Algo Trading)"
+title: "Orphan Drug Tax Credit Overview"
 description: "Explore the role of the orphan drug tax credit in stimulating rare disease treatment development and how algorithmic trading optimizes these incentives for pharma."
 ---
 

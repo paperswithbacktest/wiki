@@ -1,5 +1,5 @@
 ---
-title: "Subpoenas: Function, Usage, and Types (Algo Trading)"
+title: "Subpoenas: Function, Usage, and Types"
 description: "Explore the functions and types of subpoenas in algorithmic trading This guide covers legal obligations strategies for compliance and handling investigations"
 ---
 

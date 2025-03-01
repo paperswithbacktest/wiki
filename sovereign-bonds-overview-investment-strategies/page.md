@@ -1,5 +1,5 @@
 ---
-title: "Sovereign Bonds: Overview and Investment Strategies (Algo Trading)"
+title: "Sovereign Bonds: Overview and Investment Strategies"
 description: "Explore sovereign bonds and algorithmic trading strategies in modern bond markets Discover how technology shapes investment approaches in government debt securities"
 ---
 

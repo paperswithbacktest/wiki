@@ -1,5 +1,5 @@
 ---
-title: "Sub-millisecond trading execution (Algo Trading)"
+title: "Sub-millisecond trading execution"
 description: "Achieve lightning-fast trading with sub-millisecond execution Explore how algorithmic trading leverages advanced tech for rapid market reactions ensuring competitive edge"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Speculators' Profit Strategies in Options Trading (Algo Trading)"
+title: "Speculators' Profit Strategies in Options Trading"
 description: "Discover profit strategies in options trading using algorithmic techniques Learn how speculators enhance returns by combining traditional methods with cutting-edge algos"
 ---
 

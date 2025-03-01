@@ -1,5 +1,5 @@
 ---
-title: "Polarized Fractal Efficiency: Concept and Application (Algo Trading)"
+title: "Polarized Fractal Efficiency: Concept and Application"
 description: "Explore the innovative Polarized Fractal Efficiency indicator to enhance your algorithmic trading strategies by analyzing market trends and efficiency dynamics."
 ---
 

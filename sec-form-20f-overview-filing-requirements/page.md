@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 20-F: Overview and Filing Requirements (Algo Trading)"
+title: "SEC Form 20-F: Overview and Filing Requirements"
 description: "Learn about the SEC Form 20-F its role in algorithmic trading and the filing requirements crucial for foreign issuers trading in U.S. financial markets."
 ---
 

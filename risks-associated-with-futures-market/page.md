@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Futures Market (Algo Trading)"
+title: "Risks Associated with Futures Market"
 description: "Explore the risks of futures markets and algo trading Learn how algorithmic strategies can enhance trade execution but also pose challenges and require risk management"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Repatriation of Currency with Example (Algo Trading)"
+title: "Repatriation of Currency with Example"
 description: "Explore the challenges and strategies of currency repatriation in global finance, focusing on algorithmic trading's role in optimizing currency exchange rates."
 ---
 

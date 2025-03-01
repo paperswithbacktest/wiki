@@ -1,5 +1,5 @@
 ---
-title: "The Role of Intermediaries in Blockchain Technology (Algo Trading)"
+title: "The Role of Intermediaries in Blockchain Technology"
 description: "Discover how blockchain and algorithmic trading are reshaping financial markets by challenging traditional intermediaries while exploring possible new roles."
 ---
 

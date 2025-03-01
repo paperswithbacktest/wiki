@@ -1,5 +1,5 @@
 ---
-title: "Packaged Retail and Insurance-Based Investment Products (Algo Trading)"
+title: "Packaged Retail and Insurance-Based Investment Products"
 description: "Discover the intricacies of Packaged Retail and Insurance-Based Investment Products including their regulatory landscape in the EU and the role of algorithmic trading."
 ---
 

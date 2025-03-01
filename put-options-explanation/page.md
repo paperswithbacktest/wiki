@@ -1,5 +1,5 @@
 ---
-title: "Put Options Explanation (Algo Trading)"
+title: "Put Options Explanation"
 description: "Explore the synergy between put options and algorithmic trading to optimize risk management and returns in today's volatile financial markets."
 ---
 

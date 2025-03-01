@@ -1,5 +1,5 @@
 ---
-title: "quantitative portfolio execution (Algo Trading)"
+title: "quantitative portfolio execution"
 description: "Explore the world of quantitative portfolio execution where algorithmic trading harnesses mathematical models and data to refine financial strategies efficiently."
 ---
 

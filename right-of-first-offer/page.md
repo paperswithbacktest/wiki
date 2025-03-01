@@ -1,5 +1,5 @@
 ---
-title: "Right of First Offer (Algo Trading)"
+title: "Right of First Offer"
 description: "Discover how Right of First Offer (ROFO) clauses enhance algorithmic trading strategies by securing preferential terms and optimizing asset transactions."
 ---
 

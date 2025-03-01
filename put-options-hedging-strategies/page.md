@@ -1,5 +1,5 @@
 ---
-title: "Put Options in Hedging Strategies (Algo Trading)"
+title: "Put Options in Hedging Strategies"
 description: "Explore the strategic use of put options in hedging within algorithmic trading. Learn how these financial derivatives offer portfolio protection by establishing floor prices and managing risk effectively. Discover the role of algo trading in enhancing execution speed and precision to capitalize on market trends and optimize risk and return for modern investors."
 ---
 

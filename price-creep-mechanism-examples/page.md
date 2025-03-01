@@ -1,5 +1,5 @@
 ---
-title: "Price Creep: Mechanism and Examples (Algo Trading)"
+title: "Price Creep: Mechanism and Examples"
 description: "Explore how inflation, economic trends, and algorithmic trading interconnect, influencing price creep in modern markets. Optimize strategies to manage risks."
 ---
 

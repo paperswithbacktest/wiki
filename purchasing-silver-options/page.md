@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Silver Options (Algo Trading)"
+title: "Purchasing Silver Options"
 description: "Explore the potential of investing in silver options through algorithmic trading for portfolio diversification and risk management in volatile markets."
 ---
 

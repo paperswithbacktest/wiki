@@ -1,5 +1,5 @@
 ---
-title: "Outbound Cash Flow: Overview and Mechanism (Algo Trading)"
+title: "Outbound Cash Flow: Overview and Mechanism"
 description: "Understand the complexities of outbound cash flow and how it impacts financial health. Learn strategies for effective management and the role of algorithmic trading."
 ---
 

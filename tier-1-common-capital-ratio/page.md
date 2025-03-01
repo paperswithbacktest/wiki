@@ -1,5 +1,5 @@
 ---
-title: "Tier 1 Common Capital Ratio (Algo Trading)"
+title: "Tier 1 Common Capital Ratio"
 description: "Explore the synergy between Tier 1 Common Capital Ratios and algorithmic trading in banking. Understand key regulatory impacts and financial resilience dynamics."
 ---
 

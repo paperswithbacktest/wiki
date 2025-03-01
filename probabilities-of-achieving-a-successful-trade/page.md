@@ -1,5 +1,5 @@
 ---
-title: "Probabilities of Achieving a Successful Trade (Algo Trading)"
+title: "Probabilities of Achieving a Successful Trade"
 description: "Explore the role of probability in algo trading to enhance trade success and manage risks effectively using technology-driven strategies."
 ---
 

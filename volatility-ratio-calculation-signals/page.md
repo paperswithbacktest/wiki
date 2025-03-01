@@ -1,5 +1,5 @@
 ---
-title: "Volatility Ratio: Calculation and Signals (Algo Trading)"
+title: "Volatility Ratio: Calculation and Signals"
 description: "Discover how the volatility ratio can optimize algorithmic trading by analyzing price patterns and market dynamics for better risk management and strategy enhancement."
 ---
 

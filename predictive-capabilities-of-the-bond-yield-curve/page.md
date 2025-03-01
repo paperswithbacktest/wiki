@@ -1,5 +1,5 @@
 ---
-title: "Predictive Capabilities of the Bond Yield Curve (Algo Trading)"
+title: "Predictive Capabilities of the Bond Yield Curve"
 description: "Explore how bond yield curves influence economic forecasting and algorithmic trading with insights on interest rates and market conditions, enhancing investment strategies."
 ---
 

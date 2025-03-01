@@ -1,5 +1,5 @@
 ---
-title: "Regulation X in Real Estate: Overview and Mechanisms (Algo Trading)"
+title: "Regulation X in Real Estate: Overview and Mechanisms"
 description: "Explore how Regulation X influences real estate and algorithmic trading. Understand its impact on market dynamics by ensuring transparency and safeguarding consumers."
 ---
 

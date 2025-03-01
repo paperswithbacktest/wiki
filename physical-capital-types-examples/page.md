@@ -1,5 +1,5 @@
 ---
-title: "Physical Capital: Types and Examples (Algo Trading)"
+title: "Physical Capital: Types and Examples"
 description: "Explore the various types and examples of physical capital and algorithmic trading, illustrating how capital assets promote production and economic growth. Understand the role of tangible assets in industry efficiency and discover how advancements in algorithmic trading optimize financial operations. Gain insights into the evolving applications of capital in today's economy and the importance of strategic capital investment and management."
 ---
 

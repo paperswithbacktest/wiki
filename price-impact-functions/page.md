@@ -1,5 +1,5 @@
 ---
-title: "price impact functions (Algo Trading)"
+title: "price impact functions"
 description: "Explore the significance of price impact functions in algorithmic trading and how they affect trade execution cost efficiency and market stability."
 ---
 

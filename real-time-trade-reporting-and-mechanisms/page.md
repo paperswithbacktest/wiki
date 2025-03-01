@@ -1,5 +1,5 @@
 ---
-title: "Real-Time Trade Reporting and Mechanisms (Algo Trading)"
+title: "Real-Time Trade Reporting and Mechanisms"
 description: "Explore the synergy between algorithmic trading and real-time trade reporting in modern financial markets emphasizing transparency and market efficiency."
 ---
 

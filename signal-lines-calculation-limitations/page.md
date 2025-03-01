@@ -1,5 +1,5 @@
 ---
-title: "Signal Lines: Calculation and Limitations (Algo Trading)"
+title: "Signal Lines: Calculation and Limitations"
 description: "Explore the pivotal role of signal lines in algorithmic trading highlighting their impact on strategic decision-making and market trend analysis for enhanced trade execution."
 ---
 

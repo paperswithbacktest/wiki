@@ -1,5 +1,5 @@
 ---
-title: "Mining Pools: Functionality, Methods, and Advantages (Algo Trading)"
+title: "Mining Pools: Functionality, Methods, and Advantages"
 description: "Discover how mining pools enhance cryptocurrency mining and trading through collaboration and automation Learn the benefits and mechanics of algorithmic trading"
 ---
 

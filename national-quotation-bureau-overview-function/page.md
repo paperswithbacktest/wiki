@@ -1,5 +1,5 @@
 ---
-title: "National Quotation Bureau: Overview and Function (Algo Trading)"
+title: "National Quotation Bureau: Overview and Function"
 description: "Explore the crucial role of the National Quotation Bureau in the OTC market and learn how algorithmic trading is transforming investment opportunities."
 ---
 

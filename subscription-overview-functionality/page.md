@@ -1,5 +1,5 @@
 ---
-title: "Subscription: Overview and Functionality (Algo Trading)"
+title: "Subscription: Overview and Functionality"
 description: "Explore the dynamics of subscription services in algo trading Discover how these services offer access to advanced tools real-time data and algorithm customization"
 ---
 

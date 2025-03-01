@@ -1,5 +1,5 @@
 ---
-title: "National Market System: Overview and Regulation (Algo Trading)"
+title: "National Market System: Overview and Regulation"
 description: "Explore the National Market System's role in transforming financial markets with transparency and efficiency and its impact on algorithmic trading."
 ---
 

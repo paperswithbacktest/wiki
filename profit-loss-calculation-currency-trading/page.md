@@ -1,5 +1,5 @@
 ---
-title: "Profit and Loss Calculation in Currency Trading (Algo Trading)"
+title: "Profit and Loss Calculation in Currency Trading"
 description: "Discover the fundamentals of profit and loss calculation in currency trading and how algorithmic trading revolutionizes financial analysis. Gain insights into maximizing opportunities within the forex market while managing risks effectively through strategic analysis."
 ---
 

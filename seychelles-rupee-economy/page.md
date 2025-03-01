@@ -1,5 +1,5 @@
 ---
-title: "Seychelles Rupee and Economy (Algo Trading)"
+title: "Seychelles Rupee and Economy"
 description: "Explore the Seychelles Rupee's vital role in economic resilience, its history, and impact. Learn how algo trading can transform Seychelles’ financial landscape."
 ---
 

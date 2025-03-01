@@ -1,5 +1,5 @@
 ---
-title: "Sell-Off: Overview, Mechanism, Causes, and Illustrative Example (Algo Trading)"
+title: "Sell-Off: Overview, Mechanism, Causes, and Illustrative Example"
 description: "Explore the dynamics of sell-offs including mechanisms and causes with insights into algorithmic trading in volatile markets to enhance trade strategy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Negative Return on Equity: An Analysis (Algo Trading)"
+title: "Negative Return on Equity: An Analysis"
 description: "Explore the intricacies of negative Return on Equity and its impact on investment strategies in algorithmic trading. Understand the challenges companies face."
 ---
 

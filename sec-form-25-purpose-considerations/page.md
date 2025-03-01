@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 25: Purpose and Considerations (Algo Trading)"
+title: "SEC Form 25: Purpose and Considerations"
 description: "Understanding SEC Form 25 and its implications is crucial for businesses navigating delisting decisions and leveraging algo trading in a dynamic financial environment."
 ---
 

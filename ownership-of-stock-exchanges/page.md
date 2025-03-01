@@ -1,5 +1,5 @@
 ---
-title: "Ownership of Stock Exchanges (Algo Trading)"
+title: "Ownership of Stock Exchanges"
 description: "Explore the impact of stock exchange ownership models on global finance and algorithmic trading Discover how these factors shape market dynamics and governance."
 ---
 

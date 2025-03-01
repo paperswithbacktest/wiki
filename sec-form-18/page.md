@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 18 (Algo Trading)"
+title: "SEC Form 18"
 description: "Discover how SEC Form 18 and algorithmic trading impact U.S. markets Learn about foreign securities disclosure and the SEC's role in regulating trading practices"
 ---
 

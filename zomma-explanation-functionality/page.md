@@ -1,5 +1,5 @@
 ---
-title: "Zomma: Explanation and Functionality (Algo Trading)"
+title: "Zomma: Explanation and Functionality"
 description: "Explore the detailed dynamics of zomma and gamma sensitivity and their implications in algorithmic trading to optimize risk management and enhance trading strategies."
 ---
 

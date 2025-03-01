@@ -1,5 +1,5 @@
 ---
-title: "Profit Center and Cost Center: Characteristics and Examples (Algo Trading)"
+title: "Profit Center and Cost Center: Characteristics and Examples"
 description: "Explore the dynamics of profit and cost centers in financial management learn their roles and examples in algo trading and strategic business growth"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stock Options: Parameters and Trading (Algo Trading)"
+title: "Stock Options: Parameters and Trading"
 description: "Explore essential trading parameters for optimizing stock options algorithmic trading strategies. Enhance precision, manage risk, and maximize returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Wide Basis: Overview and Mechanics (Algo Trading)"
+title: "Wide Basis: Overview and Mechanics"
 description: "Explore the evolution and mechanics of algorithmic trading and understand essential concepts like wide basis in futures trading for informed market decisions."
 ---
 

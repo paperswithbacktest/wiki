@@ -1,5 +1,5 @@
 ---
-title: "National Commodity and Derivatives Exchange (Algo Trading)"
+title: "National Commodity and Derivatives Exchange"
 description: "Explore the impact of algorithmic trading in NCDEX derivatives for enhanced risk management and swift execution within India's leading commodity exchange."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trading Price-Time Priority (Algo Trading)"
+title: "Trading Price-Time Priority"
 description: "Explore the principles of price-time priority in algorithmic trading and its influence on order execution, fairness, and transparency in financial markets."
 ---
 

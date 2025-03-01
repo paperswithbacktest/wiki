@@ -1,5 +1,5 @@
 ---
-title: "United States Natural Gas Fund: Overview and Operation (Algo Trading)"
+title: "United States Natural Gas Fund: Overview and Operation"
 description: "Explore the United States Natural Gas Fund for efficient access to natural gas price movements without the complexities of direct futures trading."
 ---
 

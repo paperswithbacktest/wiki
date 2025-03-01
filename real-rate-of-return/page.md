@@ -1,5 +1,5 @@
 ---
-title: "Real Rate of Return (Algo Trading)"
+title: "Real Rate of Return"
 description: "Discover the impact of inflation on your investments with insights on real rate of return and how algorithmic trading helps optimize inflation-adjusted gains."
 ---
 

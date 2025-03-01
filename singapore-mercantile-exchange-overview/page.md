@@ -1,5 +1,5 @@
 ---
-title: "Singapore Mercantile Exchange Overview (Algo Trading)"
+title: "Singapore Mercantile Exchange Overview"
 description: "Explore the pivotal role of the Singapore Mercantile Exchange in Asian commodity trading with insights into algorithmic trading's impact on market dynamics."
 ---
 

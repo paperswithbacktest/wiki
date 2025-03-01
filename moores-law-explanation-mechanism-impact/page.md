@@ -1,5 +1,5 @@
 ---
-title: "Moore's Law: Explanation, Mechanism, and Impact (Algo Trading)"
+title: "Moore's Law: Explanation, Mechanism, and Impact"
 description: "Explore how Moore's Law impacts technology and finance by examining its role in semiconductor advancements and algorithmic trading's rapid evolution."
 ---
 

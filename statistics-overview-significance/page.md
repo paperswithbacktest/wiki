@@ -1,5 +1,5 @@
 ---
-title: "Statistics Overview and Significance (Algo Trading)"
+title: "Statistics Overview and Significance"
 description: "Explore the essential role of statistics in algorithmic trading to interpret data, optimize strategies, and enhance efficiency for successful trading decisions."
 ---
 

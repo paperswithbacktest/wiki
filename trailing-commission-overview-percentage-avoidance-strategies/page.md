@@ -1,5 +1,5 @@
 ---
-title: "Trailing Commission: Overview, Percentage, and Avoidance Strategies (Algo Trading)"
+title: "Trailing Commission: Overview, Percentage, and Avoidance Strategies"
 description: "Explore trailing commissions in algo trading learn about investor fees impact on returns understand financial strategies and avoid commission pitfalls."
 ---
 

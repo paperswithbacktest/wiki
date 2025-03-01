@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Volume and Emotion in Analyzing Topping Patterns (Algo Trading)"
+title: "Utilizing Volume and Emotion in Analyzing Topping Patterns"
 description: "Explore the impact of volume and emotion on topping patterns in trading strategies. Gain insights into market dynamics with algorithmic solutions."
 ---
 

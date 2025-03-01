@@ -1,5 +1,5 @@
 ---
-title: "Public Key: Definition and Considerations (Algo Trading)"
+title: "Public Key: Definition and Considerations"
 description: "Explore how public key cryptography enhances security in algorithmic trading ensuring data integrity and authenticity in high-speed financial environments."
 ---
 

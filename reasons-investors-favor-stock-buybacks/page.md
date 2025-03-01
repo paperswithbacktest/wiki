@@ -1,5 +1,5 @@
 ---
-title: "Reasons Investors Favor Stock Buybacks (Algo Trading)"
+title: "Reasons Investors Favor Stock Buybacks"
 description: "Discover why investors prefer stock buybacks for enhancing shareholder value and explore the role of algorithmic trading in maximizing investment returns."
 ---
 

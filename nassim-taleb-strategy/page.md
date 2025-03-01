@@ -1,5 +1,5 @@
 ---
-title: "Nassim Taleb’s Strategy Explained (Algo Trading)"
+title: "Nassim Taleb’s Strategy Explained"
 description: "Explore Nassim Taleb's barbell strategy in algorithmic trading to enhance risk management, maximize returns, and foster antifragility in volatile markets."
 ---
 

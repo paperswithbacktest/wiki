@@ -1,5 +1,5 @@
 ---
-title: "Vault Receipt (Algo Trading)"
+title: "Vault Receipt"
 description: "Explore the crucial role of vault and warehouse receipts in enhancing liquidity, security, and efficiency in commodity trading powered by advanced algorithms."
 ---
 

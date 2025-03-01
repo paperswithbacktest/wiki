@@ -1,5 +1,5 @@
 ---
-title: "Tax Anticipation Bill (Algo Trading)"
+title: "Tax Anticipation Bill"
 description: "Explore how Tax Anticipation Bills and Notes bridge municipal finance gaps and the role of algorithmic trading in optimizing these instruments. Discover their impact on liquidity."
 ---
 

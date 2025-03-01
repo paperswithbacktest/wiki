@@ -1,5 +1,5 @@
 ---
-title: "Standard of Living Measurement and Examples (Algo Trading)"
+title: "Standard of Living Measurement and Examples"
 description: "Explore how economic indicators and algorithmic trading impact living standards. Understand the role of GDP, inflation, and unemployment in shaping economic strategies."
 ---
 

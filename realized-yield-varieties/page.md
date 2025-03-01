@@ -1,5 +1,5 @@
 ---
-title: "Realized Yield and Its Varieties (Algo Trading)"
+title: "Realized Yield and Its Varieties"
 description: "Explore the essentials of realized yield and algorithmic trading Learn about yield types like bond and dividend yield and their role in optimizing investment strategies"
 ---
 

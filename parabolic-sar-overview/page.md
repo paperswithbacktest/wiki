@@ -1,5 +1,5 @@
 ---
-title: "Parabolic SAR Overview (Algo Trading)"
+title: "Parabolic SAR Overview"
 description: "Explore the Parabolic SAR to enhance trading strategies by identifying trend directions and reversals Learn how this tool aids in optimizing algorithmic trading decisions"
 ---
 

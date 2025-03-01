@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Turnover: Formula, Interpretation, and Tax Implications (Algo Trading)"
+title: "Portfolio Turnover: Formula, Interpretation, and Tax Implications"
 description: "Explore the significance of portfolio turnover in investment strategies including its impact through algorithmic trading, tax implications, and cost management."
 ---
 

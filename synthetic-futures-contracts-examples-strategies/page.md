@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Futures Contracts: Examples and Strategies (Algo Trading)"
+title: "Synthetic Futures Contracts: Examples and Strategies"
 description: "Discover how synthetic futures contracts and algorithmic trading are reshaping modern finance with examples and strategies to enhance trading flexibility and efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reference Base Period: Definition and Functionality (Algo Trading)"
+title: "Reference Base Period: Definition and Functionality"
 description: "Understand time series analysis and the crucial role of a reference base period in economic indices and algorithmic trading strategies to enhance forecasts."
 ---
 

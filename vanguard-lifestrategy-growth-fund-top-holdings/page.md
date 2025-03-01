@@ -1,5 +1,5 @@
 ---
-title: "Vanguard LifeStrategy Growth Fund: Top Holdings (Algo Trading)"
+title: "Vanguard LifeStrategy Growth Fund: Top Holdings"
 description: "Explore the Vanguard LifeStrategy Growth Fund's top holdings and the role of algorithmic trading in optimizing investment strategies for growth and risk management."
 ---
 

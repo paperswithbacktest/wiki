@@ -1,5 +1,5 @@
 ---
-title: "Positive Correlation Between Inflation and Unemployment (Algo Trading)"
+title: "Positive Correlation Between Inflation and Unemployment"
 description: "Explore the complex link between inflation and unemployment, and see how algorithmic trading offers insights into these key economic indicators for smarter investing."
 ---
 

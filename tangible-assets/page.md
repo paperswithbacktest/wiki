@@ -1,5 +1,5 @@
 ---
-title: "Tangible Assets (Algo Trading)"
+title: "Tangible Assets"
 description: "Explore the dynamics of financial and tangible assets within algorithmic trading strategies in this article. Discover how stocks, bonds, and physical assets like real estate shape investment decisions, and learn about the role of algo trading in modern finance. This resource aims to deepen understanding of asset types and innovative trading strategies for informed investment decisions."
 ---
 

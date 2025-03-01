@@ -1,5 +1,5 @@
 ---
-title: "Understanding K: Mechanisms and Applications (Algo Trading)"
+title: "Understanding K: Mechanisms and Applications"
 description: "Discover the intricacies of K algo trading which focuses on nonvoting K-designated shares offering traders unique opportunities and challenges. Learn about strategic adaptations in algorithmic models and how technology has driven its evolution in financial markets. Understand the mechanisms and applications of K trading for effective risk management and informed decision-making in today's dynamic trading environments."
 ---
 

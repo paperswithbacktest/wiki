@@ -1,5 +1,5 @@
 ---
-title: "Old Lady: Meaning, Function, and History (Algo Trading)"
+title: "Old Lady: Meaning, Function, and History"
 description: "Explore the rich history of the "Old Lady" in finance and its intriguing connection with modern algorithmic trading technology evolution in financial markets."
 ---
 

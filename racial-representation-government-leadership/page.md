@@ -1,5 +1,5 @@
 ---
-title: "Racial Representation in Government Leadership (Algo Trading)"
+title: "Racial Representation in Government Leadership"
 description: "Discover how racial representation in government leadership is reshaping policy and influencing the rapidly evolving world of algorithmic trading for a diverse future."
 ---
 

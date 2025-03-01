@@ -1,5 +1,5 @@
 ---
-title: "Rosetta Analytics (Algo Trading)"
+title: "Rosetta Analytics"
 description: "Discover the power of Rosetta Analytics in the algorithmic trading realm driving efficient trading with cutting-edge technology and real-time data analytics."
 ---
 

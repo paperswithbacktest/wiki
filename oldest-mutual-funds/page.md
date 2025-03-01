@@ -1,5 +1,5 @@
 ---
-title: "Oldest Mutual Funds (Algo Trading)"
+title: "Oldest Mutual Funds"
 description: "Explore the historical evolution of mutual funds, from their 18th-century roots to modern-day strategies, including algorithmic trading and diversification."
 ---
 

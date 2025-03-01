@@ -1,5 +1,5 @@
 ---
-title: "Uptick: Overview, Mechanism, and Example (Algo Trading)"
+title: "Uptick: Overview, Mechanism, and Example"
 description: "Explore how finance and technology converge through uptick analysis, shaping investment strategies and algorithmic trading for optimized market insights."
 ---
 

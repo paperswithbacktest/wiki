@@ -1,5 +1,5 @@
 ---
-title: "Schedule 13G: Purpose and Filing Requirements (Algo Trading)"
+title: "Schedule 13G: Purpose and Filing Requirements"
 description: "Explore the role of Schedule 13G, a key SEC filing, essential for passive investors holding over 5% of a company. Understand its impact on algo trading."
 ---
 

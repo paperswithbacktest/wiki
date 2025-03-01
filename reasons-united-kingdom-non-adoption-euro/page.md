@@ -1,5 +1,5 @@
 ---
-title: "Reasons for the United Kingdom's Non-Adoption of the Euro (Algo Trading)"
+title: "Reasons for the United Kingdom's Non-Adoption of the Euro"
 description: "Explore why the UK maintains the Pound in a post-Brexit world where algo trading impacts Euro and GBP dynamics offering unique trader insights."
 ---
 

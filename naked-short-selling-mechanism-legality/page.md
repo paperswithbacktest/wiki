@@ -1,5 +1,5 @@
 ---
-title: "Naked Short Selling: Mechanism and Legality (Algo Trading)"
+title: "Naked Short Selling: Mechanism and Legality"
 description: "Explore the dynamics of naked short selling and its implications in algo trading Discover how this controversial practice impacts market stability and regulation"
 ---
 

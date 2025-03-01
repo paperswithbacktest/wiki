@@ -1,5 +1,5 @@
 ---
-title: "Preferred Dividend Coverage Ratio (Algo Trading)"
+title: "Preferred Dividend Coverage Ratio"
 description: "Enhance your investment strategies with insights into the Preferred Dividend Coverage Ratio and algorithmic trading to optimize portfolio performance."
 ---
 

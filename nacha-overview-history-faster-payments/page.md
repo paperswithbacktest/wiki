@@ -1,5 +1,5 @@
 ---
-title: "Nacha: Overview, Historical Development, and Role in Faster Payments (Algo Trading)"
+title: "Nacha: Overview, Historical Development, and Role in Faster Payments"
 description: "Explore how Nacha transforms payments and impacts algorithmic trading with efficient transactions enhancing speed and strategy in an evolving financial landscape."
 ---
 

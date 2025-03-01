@@ -1,5 +1,5 @@
 ---
-title: "Trading USD/CAD Currency Pair (Algo Trading)"
+title: "Trading USD/CAD Currency Pair"
 description: "Explore USD/CAD forex trading with insights into liquidity volatility and algorithmic strategies for efficiency Learn key factors driving this currency pair"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Soft Forks in Cryptocurrency (Algo Trading)"
+title: "Soft Forks in Cryptocurrency"
 description: "Explore the impact of blockchain soft forks on cryptocurrency algo trading and understand how these elements influence trading strategies and digital finance innovations."
 ---
 

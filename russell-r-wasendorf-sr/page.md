@@ -1,5 +1,5 @@
 ---
-title: "Russell R. Wasendorf Sr. (Algo Trading)"
+title: "Russell R. Wasendorf Sr."
 description: "Explore the intricacies of financial scandals, investment fraud, and algorithmic trading through notable cases. Learn from past events to protect market integrity."
 ---
 

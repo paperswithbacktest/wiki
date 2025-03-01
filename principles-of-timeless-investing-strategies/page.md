@@ -1,5 +1,5 @@
 ---
-title: "Principles of Timeless Investing Strategies (Algo Trading)"
+title: "Principles of Timeless Investing Strategies"
 description: "Explore timeless investing strategies by understanding core financial principles like diversification and risk management, and embrace the efficiency of algorithmic trading."
 ---
 

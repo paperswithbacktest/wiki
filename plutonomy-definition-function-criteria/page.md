@@ -1,5 +1,5 @@
 ---
-title: "Plutonomy: Definition, Function, and Criteria (Algo Trading)"
+title: "Plutonomy: Definition, Function, and Criteria"
 description: "Explore the impact of plutonomy and algorithmic trading on wealth inequality and economic theories Learn how these concepts shape modern economic landscapes"
 ---
 

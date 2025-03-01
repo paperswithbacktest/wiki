@@ -1,5 +1,5 @@
 ---
-title: "Trinidad and Tobago Dollar: Functions and Overview (Algo Trading)"
+title: "Trinidad and Tobago Dollar: Functions and Overview"
 description: "Explore the role of the Trinidad and Tobago Dollar in both local and international markets. Understand its history, forex implications, and trading benefits."
 ---
 

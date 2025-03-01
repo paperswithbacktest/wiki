@@ -1,5 +1,5 @@
 ---
-title: "Profit/Loss Ratio and Its Application (Algo Trading)"
+title: "Profit/Loss Ratio and Its Application"
 description: "Explore the profit-loss ratio in algorithmic trading. Understand its significance in evaluating trading performance and enhancing investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Socially Responsible Investing for Environmental Sustainability (Algo Trading)"
+title: "Socially Responsible Investing for Environmental Sustainability"
 description: "Explore socially responsible investing and learn how algorithmic trading integrates sustainability into investment decisions aligning profits with ethical values."
 ---
 

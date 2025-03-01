@@ -1,5 +1,5 @@
 ---
-title: "SEC Form F-10: Overview and Requirements (Algo Trading)"
+title: "SEC Form F-10: Overview and Requirements"
 description: "Learn about SEC Form F-10 for Canadian issuers offering securities in the U.S. Explore its role, requirements, and impact on cross-border trading."
 ---
 

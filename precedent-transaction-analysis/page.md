@@ -1,5 +1,5 @@
 ---
-title: "Precedent Transaction Analysis (Algo Trading)"
+title: "Precedent Transaction Analysis"
 description: "Explore precedent transaction analysis in algo trading to derive a company's market value using historical transaction data, enhancing strategic decisions in M&A."
 ---
 

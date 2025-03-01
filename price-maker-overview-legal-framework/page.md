@@ -1,5 +1,5 @@
 ---
-title: "Price Maker: Overview and Legal Framework (Algo Trading)"
+title: "Price Maker: Overview and Legal Framework"
 description: "Explore the intersection of market power, price-making, and algorithmic trading, and understand their influence on economic landscapes and competitive dynamics."
 ---
 

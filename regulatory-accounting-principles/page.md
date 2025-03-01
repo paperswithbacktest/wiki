@@ -1,5 +1,5 @@
 ---
-title: "Regulatory Accounting Principles (Algo Trading)"
+title: "Regulatory Accounting Principles"
 description: "Integrating Regulatory Accounting Principles with algorithmic trading enhances financial compliance and accuracy in trading mechanisms, optimizing modern trading strategies."
 ---
 

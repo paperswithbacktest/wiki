@@ -1,5 +1,5 @@
 ---
-title: "Positive Cash Flow with Negative Net Income (Algo Trading)"
+title: "Positive Cash Flow with Negative Net Income"
 description: "Explore the impact of cash flow and net income on algorithmic trading strategies, enhancing decision-making and optimizing trading performance in financial markets."
 ---
 

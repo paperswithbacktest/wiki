@@ -1,5 +1,5 @@
 ---
-title: "S&P 500 Growth Index: Overview and Functionality (Algo Trading)"
+title: "S&P 500 Growth Index: Overview and Functionality"
 description: "Explore the S&P 500 Growth Index and the role of algorithmic trading in today's market. Discover how these tools aid in optimizing investment strategies."
 ---
 

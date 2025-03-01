@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Inflation and Housing Prices (Algo Trading)"
+title: "Relationship Between Inflation and Housing Prices"
 description: "Explore how inflation impacts housing prices and how algorithmic trading influences real estate investments providing insights into market dynamics and strategies."
 ---
 

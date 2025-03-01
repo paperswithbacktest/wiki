@@ -1,5 +1,5 @@
 ---
-title: "Socially Responsible Investment in Gender Empowerment (Algo Trading)"
+title: "Socially Responsible Investment in Gender Empowerment"
 description: "Explore the fusion of sustainable finance algorithmic trading and gender empowerment to understand how socially responsible investing can drive equality and innovation."
 ---
 

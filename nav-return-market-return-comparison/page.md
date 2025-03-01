@@ -1,5 +1,5 @@
 ---
-title: "NAV Return and Market Return Comparison (Algo Trading)"
+title: "NAV Return and Market Return Comparison"
 description: "Explore the intricacies of calculating NAV and market returns in algorithmic trading Understand the impact on investment strategies and portfolio optimization"
 ---
 

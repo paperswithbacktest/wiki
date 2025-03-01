@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Wrap: Overview and Functionality (Algo Trading)"
+title: "Mutual Fund Wrap: Overview and Functionality"
 description: "Discover how mutual fund wraps integrate algorithmic trading to optimize investment strategies, enhance decision-making, and maximize portfolio performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Retrocession: Types, Examples, and Criticisms (Algo Trading)"
+title: "Retrocession: Types, Examples, and Criticisms"
 description: "Explore the types and examples of retrocession within algo trading and its critiques Discover how this practice impacts risk management and financial stability"
 ---
 

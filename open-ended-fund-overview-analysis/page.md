@@ -1,5 +1,5 @@
 ---
-title: "Open-Ended Fund: Overview and Analysis (Algo Trading)"
+title: "Open-Ended Fund: Overview and Analysis"
 description: "Explore the flexibility and benefits of open-ended funds, including liquidity and professional management, plus the impact of algorithmic trading on fund performance."
 ---
 

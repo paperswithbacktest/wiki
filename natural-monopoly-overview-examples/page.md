@@ -1,5 +1,5 @@
 ---
-title: "Natural Monopoly: Overview and Examples (Algo Trading)"
+title: "Natural Monopoly: Overview and Examples"
 description: "Explore natural monopolies and algorithmic trading in modern markets Learn how unique industry structures impact economic dynamics and consumer choices"
 ---
 

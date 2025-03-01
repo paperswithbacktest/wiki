@@ -1,5 +1,5 @@
 ---
-title: "Mr. Copper in the Commodities Market (Algo Trading)"
+title: "Mr. Copper in the Commodities Market"
 description: "Explore how algorithmic trading revolutionizes the copper market enhancing efficiency and precision for investors seeking profitable opportunities in the commodities sector"
 ---
 

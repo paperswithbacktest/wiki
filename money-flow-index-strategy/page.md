@@ -1,5 +1,5 @@
 ---
-title: "Money Flow Index (MFI) Strategy Explained (Algo Trading)"
+title: "Money Flow Index (MFI) Strategy Explained"
 description: Explore the dynamics of the Money Flow Index (MFI) in algorithmic trading with insights on combining price and volume data to identify overbought or oversold markets. This comprehensive guide discusses calculating the MFI, advantages of its dual-component approach for market sentiment analysis, and comparison with other indicators for strategy optimization. Discover how the MFI can enhance trading strategies, providing reliable entry and exit points for informed decisions in evolving markets.
 ---
 

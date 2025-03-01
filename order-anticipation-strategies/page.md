@@ -1,5 +1,5 @@
 ---
-title: "Order anticipation strategies (Algo Trading)"
+title: "Order anticipation strategies"
 description: "Maximize profits with order anticipation strategies in algorithmic trading by predicting market movements using advanced algorithms and real-time data analysis."
 ---
 

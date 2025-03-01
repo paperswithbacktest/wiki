@@ -1,5 +1,5 @@
 ---
-title: "Revenue Bond Types and Examples (Algo Trading)"
+title: "Revenue Bond Types and Examples"
 description: "Explore the types and features of revenue bonds utilized in financing projects, and discover the role of algorithmic trading in optimizing bond market transactions."
 ---
 

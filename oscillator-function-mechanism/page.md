@@ -1,5 +1,5 @@
 ---
-title: "Oscillator: Function and Mechanism (Algo Trading)"
+title: "Oscillator: Function and Mechanism"
 description: "Discover how oscillators in algorithmic trading offer crucial insights to enhance trade execution and strategy development using technical indicators."
 ---
 

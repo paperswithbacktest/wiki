@@ -1,5 +1,5 @@
 ---
-title: "Underlying Security: Overview and Example (Algo Trading)"
+title: "Underlying Security: Overview and Example"
 description: "Explore the vital role of underlying securities in algorithmic trading including examples like stocks and commodities and see how they drive market dynamics."
 ---
 

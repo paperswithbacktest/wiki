@@ -1,5 +1,5 @@
 ---
-title: "Prohibition of LIFO Under IFRS (Algo Trading)"
+title: "Prohibition of LIFO Under IFRS"
 description: "Explore how the prohibition of LIFO under IFRS impacts financial reporting and compliance. Learn how algorithmic trading is reshaping market strategies."
 ---
 

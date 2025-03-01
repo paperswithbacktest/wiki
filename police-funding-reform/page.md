@@ -1,5 +1,5 @@
 ---
-title: "Police Funding Reform (Algo Trading)"
+title: "Police Funding Reform"
 description: "Explore the multifaceted intersection of law enforcement funding police reform and algorithmic trading with insights into resource optimization and fair policing strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Return on Assets Calculation (Algo Trading)"
+title: "Return on Assets Calculation"
 description: "Explore the significance of Return on Assets in algo trading. Learn how ROA measures a company's efficiency in using assets to generate profits and why it's vital in finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reverse Convertible Note (Algo Trading)"
+title: "Reverse Convertible Note"
 description: "Discover high-yield investment opportunities with Reverse Convertible Notes combining debt and equity features to navigate market volatility and enhance portfolio returns."
 ---
 

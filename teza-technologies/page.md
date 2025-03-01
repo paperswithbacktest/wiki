@@ -1,5 +1,5 @@
 ---
-title: "Teza Technologies (Algo Trading)"
+title: "Teza Technologies"
 description: "Discover how Teza Technologies is revolutionizing algorithmic trading with innovative strategies and cutting-edge technology for enhanced market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "UN Principles for Responsible Investment (Algo Trading)"
+title: "UN Principles for Responsible Investment"
 description: "Explore the integration of UN Principles for Responsible Investment in algorithmic trading emphasizing ESG factors for sustainable and responsible financial strategies."
 ---
 

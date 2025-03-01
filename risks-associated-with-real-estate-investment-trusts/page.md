@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Real Estate Investment Trusts (Algo Trading)"
+title: "Risks Associated with Real Estate Investment Trusts"
 description: "Explore the risks of investing in Real Estate Investment Trusts and discover how algorithmic trading could mitigate these challenges for better returns."
 ---
 

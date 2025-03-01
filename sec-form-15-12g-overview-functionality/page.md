@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 15-12G: Overview and Functionality (Algo Trading)"
+title: "SEC Form 15-12G: Overview and Functionality"
 description: "SEC Form 15-12G allows companies to terminate securities registration, reducing compliance costs and enhancing operational flexibility, impacting market transparency."
 ---
 

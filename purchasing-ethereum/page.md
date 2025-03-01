@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Ethereum (Algo Trading)"
+title: "Purchasing Ethereum"
 description: "Discover the potential of Ethereum in crypto investing and trading. Learn about its acquisition, smart contract technology, and algorithmic trading strategies."
 ---
 

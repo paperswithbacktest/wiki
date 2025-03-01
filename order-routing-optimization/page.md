@@ -1,5 +1,5 @@
 ---
-title: "Order Routing Optimization (Algo Trading)"
+title: "Order Routing Optimization"
 description: "Optimize your algorithmic trading by mastering order routing within alternative trading systems Boost trading efficiency and navigate markets with strategic edge."
 ---
 

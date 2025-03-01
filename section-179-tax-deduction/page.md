@@ -1,5 +1,5 @@
 ---
-title: "Section 179 Tax Deduction (Algo Trading)"
+title: "Section 179 Tax Deduction"
 description: "Discover how Section 179 can help algorithmic trading firms optimize taxes by allowing full deductions on essential assets, enhancing their competitive edge."
 ---
 

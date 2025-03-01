@@ -1,5 +1,5 @@
 ---
-title: "Rho: Usage, Calculation, and Examples (Algo Trading)"
+title: "Rho: Usage, Calculation, and Examples"
 description: "Explore how rho, a crucial metric in financial derivatives, impacts option valuation and trading strategies in algorithmic trading, enhancing risk management."
 ---
 

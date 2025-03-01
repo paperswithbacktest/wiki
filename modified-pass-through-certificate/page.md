@@ -1,5 +1,5 @@
 ---
-title: "Modified Pass-Through Certificate (Algo Trading)"
+title: "Modified Pass-Through Certificate"
 description: "Explore the intersection of modified pass-through certificates and algorithmic trading to enhance investment strategies and manage financial risks effectively."
 ---
 

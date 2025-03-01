@@ -1,5 +1,5 @@
 ---
-title: "Total Return Swap: Definition and Mechanism (Algo Trading)"
+title: "Total Return Swap: Definition and Mechanism"
 description: "Explore Total Return Swaps and their role in algorithmic trading Learn how TRS contracts can enhance returns and manage risks for diverse financial strategies"
 ---
 

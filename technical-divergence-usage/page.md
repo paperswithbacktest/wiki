@@ -1,5 +1,5 @@
 ---
-title: "Technical Divergence Usage (Algo Trading)"
+title: "Technical Divergence Usage"
 description: "Explore the strategic use of technical divergence in algo trading to optimize investment decisions and enhance market timing through automated precision."
 ---
 

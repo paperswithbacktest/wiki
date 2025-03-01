@@ -1,5 +1,5 @@
 ---
-title: "Overview of Sovereign Wealth Funds (Algo Trading)"
+title: "Overview of Sovereign Wealth Funds"
 description: "Explore the intersection of sovereign wealth funds and algorithmic trading Learn how SWFs leverage technology to optimize asset management and drive economic stability"
 ---
 

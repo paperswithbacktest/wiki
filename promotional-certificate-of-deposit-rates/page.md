@@ -1,5 +1,5 @@
 ---
-title: "Promotional Certificate of Deposit Rates (Algo Trading)"
+title: "Promotional Certificate of Deposit Rates"
 description: "Enhance your investment strategy by exploring how promotional CD rates combined with algorithmic trading can maximize returns through tech-empowered efficiency."
 ---
 

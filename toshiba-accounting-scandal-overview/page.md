@@ -1,5 +1,5 @@
 ---
-title: "Toshiba Accounting Scandal Overview (Algo Trading)"
+title: "Toshiba Accounting Scandal Overview"
 description: "Discover the Toshiba accounting scandal revealing corporate governance flaws and the impact of profit overstatement on financial markets and algorithmic trading."
 ---
 

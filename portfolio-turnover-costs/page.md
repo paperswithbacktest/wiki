@@ -1,5 +1,5 @@
 ---
-title: "Portfolio turnover costs (Algo Trading)"
+title: "Portfolio turnover costs"
 description: Explore the complexities of portfolio turnover costs in algorithmic trading and discover their impact on strategy performance. Learn how high turnover rates, influenced by trade frequency, strategy types, and market conditions, can drive up costs and erode profits. This article offers insights into efficient cost management practices for algo traders aiming to maximize net returns by optimizing turnover costs and enhancing trading strategies.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Short-Term Savings Goals (Algo Trading)"
+title: "Strategies for Short-Term Savings Goals"
 description: "Explore effective short-term savings strategies by integrating algorithmic trading to optimize returns and manage risks while achieving financial goals efficiently."
 ---
 

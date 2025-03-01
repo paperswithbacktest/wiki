@@ -1,5 +1,5 @@
 ---
-title: "Roll-Up Merger: Overview and Benefits (Algo Trading)"
+title: "Roll-Up Merger: Overview and Benefits"
 description: "Explore roll-up mergers and their strategic advantages in consolidating companies for growth efficiency and market reach while leveraging algo trading in modern business."
 ---
 

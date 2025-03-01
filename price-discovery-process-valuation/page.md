@@ -1,5 +1,5 @@
 ---
-title: "Price Discovery Process and Comparison with Valuation (Algo Trading)"
+title: "Price Discovery Process and Comparison with Valuation"
 description: "Explore the intricate processes of price discovery and valuation in financial markets while understanding the role of algorithmic trading in enhancing market efficiency."
 ---
 

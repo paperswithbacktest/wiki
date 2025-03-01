@@ -1,5 +1,5 @@
 ---
-title: "Susquehanna International Group Overview (Algo Trading)"
+title: "Susquehanna International Group Overview"
 description: "Explore Susquehanna International Group's pioneering role in algorithmic trading featuring game theory algorithms and global influence in the financial markets."
 ---
 

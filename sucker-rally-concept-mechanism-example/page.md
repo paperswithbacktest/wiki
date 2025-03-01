@@ -1,5 +1,5 @@
 ---
-title: "Sucker Rally: Concept, Mechanism, and Example (Algo Trading)"
+title: "Sucker Rally: Concept, Mechanism, and Example"
 description: "Understand the mechanism behind sucker rallies in algorithmic trading Learn how to identify these deceptive market trends and refine investment strategies for optimal portfolio management."
 ---
 

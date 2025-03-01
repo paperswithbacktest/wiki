@@ -1,5 +1,5 @@
 ---
-title: "Sell: Definition, Mechanism, and Example (Algo Trading)"
+title: "Sell: Definition, Mechanism, and Example"
 description: "Explore how algorithmic trading optimizes trade speed and efficiency, its selling process' intricacies, and strategies for capitalizing on market opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Participating Preferred Stock: Mechanism and Examples (Algo Trading)"
+title: "Participating Preferred Stock: Mechanism and Examples"
 description: "Explore the mechanism of participating preferred stock and discover examples in algorithmic trading Enhance your portfolio with fixed income and profit potential"
 ---
 

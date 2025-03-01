@@ -1,5 +1,5 @@
 ---
-title: "Price Level Targeting: Mechanisms and Implementation (Algo Trading)"
+title: "Price Level Targeting: Mechanisms and Implementation"
 description: "Explore the intricate dynamics of price level targeting and algorithmic trading in today's financial landscape Learn about their mechanisms impact and future implications"
 ---
 

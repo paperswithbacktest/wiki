@@ -1,5 +1,5 @@
 ---
-title: "List of Most Private Cryptocurrencies (Algo Trading)"
+title: "List of Most Private Cryptocurrencies"
 description: "Explore the integration of privacy coins and algo trading showcasing cryptocurrencies like Monero Zcash and Dash offering anonymity in digital transactions"
 ---
 

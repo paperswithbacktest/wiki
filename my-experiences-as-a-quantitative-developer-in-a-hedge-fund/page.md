@@ -1,5 +1,5 @@
 ---
-title: "My Experiences as a Quantitative Developer in a Hedge Fund (Algo Trading)"
+title: "My Experiences as a Quantitative Developer in a Hedge Fund"
 description: Discover the exciting world of algorithmic trading through the experiences of a quantitative developer in a hedge fund. Explore the critical role of software engineers in designing, implementing, and optimizing sophisticated trading algorithms. This article investigates into the necessary skills, innovative tools, and career opportunities within this dynamic field. Uncover how these professionals help hedge funds maintain a competitive edge by automating trading strategies that capitalize on market patterns and anomalies. Gain insights into the integration of finance and technology that drives success in the fast-paced financial markets.
 ---
 

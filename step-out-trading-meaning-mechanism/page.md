@@ -1,5 +1,5 @@
 ---
-title: "Step-Out Trading: Meaning and Mechanism (Algo Trading)"
+title: "Step-Out Trading: Meaning and Mechanism"
 description: "Discover the advantages of step-out and algorithmic trading. Learn how large trades are optimized across multiple brokers using automation for better execution."
 ---
 

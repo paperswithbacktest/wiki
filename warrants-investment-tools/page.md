@@ -1,5 +1,5 @@
 ---
-title: "Warrants as Investment Tools (Algo Trading)"
+title: "Warrants as Investment Tools"
 description: "Discover how integrating warrants with algorithmic trading can optimize investment returns by leveraging technology for high-return opportunities and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Revenue Generation Methods of Amazon's Twitch (Algo Trading)"
+title: "Revenue Generation Methods of Amazon's Twitch"
 description: "Explore how Twitch, an Amazon subsidiary, enables streamers to monetize their content through subscriptions, Bits, ads, and data-driven strategies."
 ---
 

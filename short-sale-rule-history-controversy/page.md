@@ -1,5 +1,5 @@
 ---
-title: "Short Sale Rule: History and Controversy (Algo Trading)"
+title: "Short Sale Rule: History and Controversy"
 description: "Discover the history and controversies of the short sale rule in stock markets. Understand its impact on algorithmic trading, market stability, and investor dynamics."
 ---
 

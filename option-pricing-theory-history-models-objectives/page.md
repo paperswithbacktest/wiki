@@ -1,5 +1,5 @@
 ---
-title: "Option Pricing Theory: History, Models, and Objectives (Algo Trading)"
+title: "Option Pricing Theory: History, Models, and Objectives"
 description: "Explore the history, essential models, and objectives of option pricing theory in algorithmic trading and understand its impact on financial markets today."
 ---
 

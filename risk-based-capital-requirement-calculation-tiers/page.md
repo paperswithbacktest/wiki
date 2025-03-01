@@ -1,5 +1,5 @@
 ---
-title: "Risk-Based Capital Requirement: Calculation and Tiers (Algo Trading)"
+title: "Risk-Based Capital Requirement: Calculation and Tiers"
 description: "Explore the crucial role of risk-based capital requirements and financial tiers in algorithmic trading. Learn how these regulations ensure trading resilience and risk management."
 ---
 

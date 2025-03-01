@@ -1,5 +1,5 @@
 ---
-title: "Monetary Regulation in India (Algo Trading)"
+title: "Monetary Regulation in India"
 description: "Explore the dynamics of India's monetary regulation and its interplay with algorithmic trading enhancing financial transparency while addressing systemic risks."
 ---
 

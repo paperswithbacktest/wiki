@@ -1,5 +1,5 @@
 ---
-title: "Rate Level Risk (Algo Trading)"
+title: "Rate Level Risk"
 description: "Explore the complexities of risk management in algo trading focusing on rate and interest rate risks that affect today's dynamic financial markets."
 ---
 

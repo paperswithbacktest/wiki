@@ -1,5 +1,5 @@
 ---
-title: "Methods of Securing Bitcoin from Theft and Hacking (Algo Trading)"
+title: "Methods of Securing Bitcoin from Theft and Hacking"
 description: "Learn how to secure your Bitcoin from theft and hacking with strategies involving cold wallets, exchange security measures, and algorithmic trading protection."
 ---
 

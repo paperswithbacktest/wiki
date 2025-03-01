@@ -1,5 +1,5 @@
 ---
-title: "Strategies of Hedge Funds (Algo Trading)"
+title: "Strategies of Hedge Funds"
 description: "Explore hedge funds and algorithmic trading strategies which utilize complex techniques for high returns Learn how they capitalize on market inefficiencies"
 ---
 

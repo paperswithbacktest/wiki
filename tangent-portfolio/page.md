@@ -1,5 +1,5 @@
 ---
-title: "Tangent portfolio (Algo Trading)"
+title: "Tangent portfolio"
 description: "Master algorithmic trading concepts with our comprehensive guide on tangent portfolios crucial for optimal investment strategies achieving maximum risk-adjusted returns."
 ---
 

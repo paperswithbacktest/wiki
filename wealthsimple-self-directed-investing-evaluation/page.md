@@ -1,5 +1,5 @@
 ---
-title: "Wealthsimple Self-Directed Investing Evaluation (Algo Trading)"
+title: "Wealthsimple Self-Directed Investing Evaluation"
 description: "Explore Wealthsimple's self-directed investing platform focusing on commission-free trading and innovative features, ideal for beginner to seasoned investors in Canada."
 ---
 

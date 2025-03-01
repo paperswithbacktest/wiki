@@ -1,5 +1,5 @@
 ---
-title: "Tunisian Dinar: Overview and History (Algo Trading)"
+title: "Tunisian Dinar: Overview and History"
 description: "Explore the Tunisian Dinar's history and role in Tunisia's economy Learn about its introduction algorithmic trading and closed currency status"
 ---
 

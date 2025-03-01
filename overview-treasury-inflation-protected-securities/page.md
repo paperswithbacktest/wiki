@@ -1,5 +1,5 @@
 ---
-title: "Overview of Treasury Inflation-Protected Securities (Algo Trading)"
+title: "Overview of Treasury Inflation-Protected Securities"
 description: "Explore Treasury Inflation-Protected Securities TIPS and their integration with algorithmic trading to enhance investment strategies combat inflation and optimize portfolios."
 ---
 

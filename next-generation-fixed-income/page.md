@@ -1,5 +1,5 @@
 ---
-title: "Next Generation Fixed Income (Algo Trading)"
+title: "Next Generation Fixed Income"
 description: "Explore the transformative impact of algorithmic trading on fixed income markets with next-generation finance. Discover how innovation optimizes investment strategies."
 ---
 

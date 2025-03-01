@@ -1,5 +1,5 @@
 ---
-title: "Nifty Fifty: Definition and Mechanism (Algo Trading)"
+title: "Nifty Fifty: Definition and Mechanism"
 description: "Explore the evolution of the Nifty Fifty stocks and algorithmic trading. Enhance your investment strategies by blending historical insights with cutting-edge tech."
 ---
 

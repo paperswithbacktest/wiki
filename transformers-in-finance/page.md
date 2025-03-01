@@ -1,5 +1,5 @@
 ---
-title: "Transformers in Finance (Algo Trading)"
+title: "Transformers in Finance"
 description: "Discover the transformative role of AI and transformer models in finance, enhancing algorithmic trading and forecasting, offering groundbreaking insights."
 ---
 

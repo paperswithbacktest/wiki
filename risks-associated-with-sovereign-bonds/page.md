@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Sovereign Bonds (Algo Trading)"
+title: "Risks Associated with Sovereign Bonds"
 description: "Explore the unique risks of sovereign bonds in algo trading including default currency and political risks Learn how technology reshapes bond markets"
 ---
 

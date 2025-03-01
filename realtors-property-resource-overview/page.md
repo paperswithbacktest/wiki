@@ -1,5 +1,5 @@
 ---
-title: "Realtors Property Resource Overview (Algo Trading)"
+title: "Realtors Property Resource Overview"
 description: "Discover how Realtors Property Resource revolutionizes real estate with its expansive data and analytics empowering professionals and investors in the digital era."
 ---
 

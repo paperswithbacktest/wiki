@@ -1,5 +1,5 @@
 ---
-title: "Sequestration: Definition, Mechanisms, and Exemptions (Algo Trading)"
+title: "Sequestration: Definition, Mechanisms, and Exemptions"
 description: "Explore sequestration mechanisms budget exemptions and the influence of fiscal policies on algorithmic trading in financial markets Discover key insights here"
 ---
 

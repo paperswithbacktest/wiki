@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo Simulation in Betting Strategies (Algo Trading)"
+title: "Monte Carlo Simulation in Betting Strategies"
 description: "Explore the use of Monte Carlo Simulation in betting strategies within algo trading to assess risk, optimize returns, and navigate financial uncertainty effectively."
 ---
 

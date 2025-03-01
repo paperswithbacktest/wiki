@@ -1,5 +1,5 @@
 ---
-title: "Normative Economics (Algo Trading)"
+title: "Normative Economics"
 description: "Explore the intersection of normative economics and algorithmic trading highlighting value-based economic decisions and the role of technology in trading strategies."
 ---
 

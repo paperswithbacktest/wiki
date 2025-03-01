@@ -1,5 +1,5 @@
 ---
-title: "OTC Options Versus Standard Options and Associated Risks (Algo Trading)"
+title: "OTC Options Versus Standard Options and Associated Risks"
 description: "Explore the differences between OTC and standard options in trading Learn about their benefits risks and the impact of algorithmic trading on options markets"
 ---
 

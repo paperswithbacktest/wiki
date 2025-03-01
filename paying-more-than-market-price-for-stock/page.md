@@ -1,5 +1,5 @@
 ---
-title: "Understanding Paying More Than Market Price for a Stock (Algo Trading)"
+title: "Understanding Paying More Than Market Price for a Stock"
 description: "Explore why investors might pay more than the market price for a stock in the context of algorithmic trading and its impact on liquidity and volatility."
 ---
 

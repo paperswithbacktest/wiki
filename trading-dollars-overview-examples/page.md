@@ -1,5 +1,5 @@
 ---
-title: "Trading Dollars: Overview and Examples (Algo Trading)"
+title: "Trading Dollars: Overview and Examples"
 description: "Discover the ins and outs of trading dollars with this comprehensive guide covering currency exchange and algorithmic trading to optimize your strategies."
 ---
 

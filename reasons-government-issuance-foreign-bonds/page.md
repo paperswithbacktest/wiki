@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Government Issuance of Foreign Bonds (Algo Trading)"
+title: "Reasons for Government Issuance of Foreign Bonds"
 description: "Discover why governments issue foreign bonds and how algorithmic trading enhances bond market efficiency. Learn about risk management and funding diversification."
 ---
 

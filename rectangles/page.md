@@ -1,5 +1,5 @@
 ---
-title: "Rectangles (Algo Trading)"
+title: "Rectangles"
 description: "Discover the significance of rectangle patterns in algorithmic trading Learn how these formations help traders identify consolidation phases and potential breakouts"
 ---
 

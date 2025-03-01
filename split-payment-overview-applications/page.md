@@ -1,5 +1,5 @@
 ---
-title: "Split Payment: Overview and Applications (Algo Trading)"
+title: "Split Payment: Overview and Applications"
 description: "Explore how split payments enhance algorithmic trading by streamlining transaction settlements, optimizing trade executions, and boosting liquidity management."
 ---
 

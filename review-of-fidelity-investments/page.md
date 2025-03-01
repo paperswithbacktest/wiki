@@ -1,5 +1,5 @@
 ---
-title: "Review of Fidelity Investments (Algo Trading)"
+title: "Review of Fidelity Investments"
 description: "Explore Fidelity Investments and its robust range of financial services, emphasizing innovative algorithmic trading platforms that enhance investment decision-making. Discover comprehensive offerings including stocks, ETFs, mutual funds, and personalized portfolio management, supported by exceptional customer service and educational resources. Assess the pros and cons of Fidelity's platforms to maximize trading efficiency and optimize your investment strategy."
 ---
 

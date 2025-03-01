@@ -1,5 +1,5 @@
 ---
-title: "Telecom Alternative Data (Algo Trading)"
+title: "Telecom Alternative Data"
 description: Discover the transformative impact of telecom alternative data in algorithmic trading. Learn how data from mobile devices offers unique insights into market trends and consumer behavior, enhancing trading strategies through real-time analysis and informed decision-making. Explore how telecom data is reshaping financial markets with advanced analytics and optimized investment opportunities.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Paradox of Thrift in Economics (Algo Trading)"
+title: "Paradox of Thrift in Economics"
 description: "Explore the paradox of thrift in economics, where individual savings can impact overall demand and economic growth, intertwined with algo trading dynamics."
 ---
 

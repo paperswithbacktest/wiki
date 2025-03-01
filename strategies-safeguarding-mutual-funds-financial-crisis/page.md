@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Safeguarding Mutual Funds During a Financial Crisis (Algo Trading)"
+title: "Strategies for Safeguarding Mutual Funds During a Financial Crisis"
 description: "Discover strategies for protecting mutual funds during financial crises using algo trading to mitigate risks and seize growth prospects in volatile markets."
 ---
 

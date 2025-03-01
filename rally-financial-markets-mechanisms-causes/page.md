@@ -1,5 +1,5 @@
 ---
-title: "Rally in Financial Markets: Mechanisms and Causes (Algo Trading)"
+title: "Rally in Financial Markets: Mechanisms and Causes"
 description: "Explore the dynamics of financial market rallies and their causes including economic indicators corporate earnings and government policies. Understand the role of algorithmic trading."
 ---
 

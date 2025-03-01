@@ -1,5 +1,5 @@
 ---
-title: "Oregon Measure 109: Legalization of Psilocybin Therapy (Algo Trading)"
+title: "Oregon Measure 109: Legalization of Psilocybin Therapy"
 description: "Discover the groundbreaking impact of Oregon Measure 109 which legalizes psilocybin therapy as a pioneering alternative mental health treatment. Explore its implications across healthcare and investment sectors including potential intersections with algorithmic trading strategies. Uncover how this legislative move may influence financial markets and investment trends while navigating complex regulatory landscapes for therapeutic hallucinogenics. Stay informed on the evolving discussions and opportunities within the emerging field of psychedelic stocks amid this paradigm shift in mental health care and market dynamics."
 ---
 

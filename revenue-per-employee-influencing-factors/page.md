@@ -1,5 +1,5 @@
 ---
-title: "Revenue Per Employee and Influencing Factors (Algo Trading)"
+title: "Revenue Per Employee and Influencing Factors"
 description: "Explore how revenue per employee serves as a vital metric in assessing business efficiency and its influence on algorithmic trading within financial sectors."
 ---
 

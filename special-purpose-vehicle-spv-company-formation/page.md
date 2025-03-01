@@ -1,5 +1,5 @@
 ---
-title: "Special Purpose Vehicle (SPV) and Company Formation (Algo Trading)"
+title: "Special Purpose Vehicle (SPV) and Company Formation"
 description: "Explore the role of Special Purpose Vehicles in financial structuring and algorithmic trading Discover how SPVs help manage risk and optimize trading strategies"
 ---
 

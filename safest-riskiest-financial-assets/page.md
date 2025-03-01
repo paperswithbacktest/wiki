@@ -1,5 +1,5 @@
 ---
-title: "Safest and Riskiest Financial Assets (Algo Trading)"
+title: "Safest and Riskiest Financial Assets"
 description: "Explore the relationship between financial assets and algo trading to optimize returns while managing risk. Key insights on asset safety, trading strategies, and market dynamics."
 ---
 

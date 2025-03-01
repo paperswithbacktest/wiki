@@ -1,5 +1,5 @@
 ---
-title: "Prima Facie in Law (Algo Trading)"
+title: "Prima Facie in Law"
 description: "Discover how the principle of prima facie plays a significant role in legal cases, especially within algorithmic trading. Understand its importance in advancing claims."
 ---
 

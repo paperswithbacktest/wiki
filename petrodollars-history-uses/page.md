@@ -1,5 +1,5 @@
 ---
-title: "Petrodollars: History and Uses (Algo Trading)"
+title: "Petrodollars: History and Uses"
 description: "Explore the intricate relationship between petrodollars, currency markets, and algorithmic trading in shaping global economic policies and financial stability."
 ---
 

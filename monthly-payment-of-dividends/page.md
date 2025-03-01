@@ -1,5 +1,5 @@
 ---
-title: "Monthly Payment of Dividends (Algo Trading)"
+title: "Monthly Payment of Dividends"
 description: "Explore the synergy between monthly dividend stocks and algo trading to generate steady investment income Discover benefits and strategies for retirees and investors"
 ---
 

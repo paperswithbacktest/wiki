@@ -1,5 +1,5 @@
 ---
-title: "Prime Costs: Calculation, Formula, and Examples (Algo Trading)"
+title: "Prime Costs: Calculation, Formula, and Examples"
 description: "Understand prime costs in finance and manufacturing to enhance profitability. Learn their role in algorithmic trading for effective cost management and strategy."
 ---
 

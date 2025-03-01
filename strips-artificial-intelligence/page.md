@@ -1,5 +1,5 @@
 ---
-title: "STRIPS in Artificial Intelligence (Algo Trading)"
+title: "STRIPS in Artificial Intelligence"
 description: "Discover how STRIPS enhances automated planning in AI and algorithmic trading by optimizing action sequences for efficient decision-making in complex financial markets."
 ---
 

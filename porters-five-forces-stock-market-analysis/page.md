@@ -1,5 +1,5 @@
 ---
-title: "Porter's Five Forces in Stock Market Analysis (Algo Trading)"
+title: "Porter's Five Forces in Stock Market Analysis"
 description: "Explore how Porter's Five Forces framework enhances algorithmic trading by analyzing competitive market dynamics and strategic positioning in a fast-paced financial environment."
 ---
 

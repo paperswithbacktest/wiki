@@ -1,5 +1,5 @@
 ---
-title: "Python Programming for Finance (Algo Trading)"
+title: "Python Programming for Finance"
 description: Learn Python programming for financial algorithmic trading with this comprehensive guide. Discover why Python is a preferred choice for traders due to its readability and powerful libraries like Pandas, NumPy, and Matplotlib, which enhance data analysis capabilities needed for trading. Explore setting up your Python trading environment with tools like Anaconda and delve into basic programming concepts such as variables, data types, loops, and conditional statements to create and refine trading algorithms efficiently. Ideal for anyone looking to start their journey in quantitative trading with Python.
 ---
 

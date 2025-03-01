@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Tax Lots for Reduced Tax Liability (Algo Trading)"
+title: "Utilizing Tax Lots for Reduced Tax Liability"
 description: "Optimize tax efficiency with algorithmic trading and smart tax lot management. Learn strategies to reduce liabilities and enhance returns using specific methods."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stripped Mortgage-Backed Securities: Definition and Mechanism (Algo Trading)"
+title: "Stripped Mortgage-Backed Securities: Definition and Mechanism"
 description: "Discover the role of stripped mortgage-backed securities in finance and algorithmic trading Learn how these instruments offer investment opportunities and risks"
 ---
 

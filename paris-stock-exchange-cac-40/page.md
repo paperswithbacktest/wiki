@@ -1,5 +1,5 @@
 ---
-title: "Paris Stock Exchange: Overview and CAC 40 Index (Algo Trading)"
+title: "Paris Stock Exchange: Overview and CAC 40 Index"
 description: "Euronext Paris, formerly the Paris Stock Exchange, plays a critical role in global finance with the CAC 40 Index and the impact of algorithmic trading."
 ---
 

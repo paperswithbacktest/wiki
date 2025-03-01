@@ -1,5 +1,5 @@
 ---
-title: "Transaction Cost Analysis (TCA) (Algo Trading)"
+title: "Transaction Cost Analysis (TCA)"
 description: "Explore the crucial role of Transaction Cost Analysis in algorithmic trading to optimize trade execution efficiency and maximize profits in complex markets."
 ---
 

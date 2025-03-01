@@ -1,5 +1,5 @@
 ---
-title: "Variance Swap Versus Volatility Swap (Algo Trading)"
+title: "Variance Swap Versus Volatility Swap"
 description: "Explore the distinctions between variance and volatility swaps in algo trading and understand how these derivatives offer unique opportunities in market volatility management."
 ---
 

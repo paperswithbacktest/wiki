@@ -1,5 +1,5 @@
 ---
-title: "Trillion-Dollar Coin: Concept and Applications (Algo Trading)"
+title: "Trillion-Dollar Coin: Concept and Applications"
 description: "Explore the trillion-dollar coin concept its role in addressing debt ceiling issues and potential impacts on economic strategy and algorithmic trading systems."
 ---
 

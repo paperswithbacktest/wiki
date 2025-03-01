@@ -1,5 +1,5 @@
 ---
-title: "Series L Securities: Overview and Examples (Algo Trading)"
+title: "Series L Securities: Overview and Examples"
 description: "Explore the dynamic interplay between Series L Securities and algorithmic trading in modern finance. Discover how they enhance investment strategies and risk management."
 ---
 

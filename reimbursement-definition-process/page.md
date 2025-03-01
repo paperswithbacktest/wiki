@@ -1,5 +1,5 @@
 ---
-title: "Reimbursement: Definition and Process (Algo Trading)"
+title: "Reimbursement: Definition and Process"
 description: "Discover the essential processes of expense reimbursement in algorithmic trading to enhance financial oversight strategic growth and operational efficiency."
 ---
 

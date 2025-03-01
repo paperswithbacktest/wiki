@@ -1,5 +1,5 @@
 ---
-title: "War Economy: Overview and Examples (Algo Trading)"
+title: "War Economy: Overview and Examples"
 description: "Explore the dynamics of a war economy where military spending reshapes national priorities impacting resource allocation and broader economic strategies. Discover the role of algorithmic trading in financial markets during conflicts influencing market stability and policy adjustments. This article examines the interaction between military needs and economic growth highlighting the strategic balance necessary for sustainable development amidst geopolitical tensions."
 ---
 

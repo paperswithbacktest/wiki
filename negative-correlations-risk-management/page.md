@@ -1,5 +1,5 @@
 ---
-title: "Negative Correlations in Risk Management (Algo Trading)"
+title: "Negative Correlations in Risk Management"
 description: "Explore negative correlations in risk management and algorithmic trading with strategies to optimize portfolios enhance decision-making and manage market volatility."
 ---
 

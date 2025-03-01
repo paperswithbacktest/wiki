@@ -1,5 +1,5 @@
 ---
-title: "Non-Hydraulic Fracturing: Overview and Mechanisms (Algo Trading)"
+title: "Non-Hydraulic Fracturing: Overview and Mechanisms"
 description: "Explore non-hydraulic fracturing methods that minimize environmental impact by eliminating water usage in energy extraction and discover their financial optimization through algorithmic trading."
 ---
 

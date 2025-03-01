@@ -1,5 +1,5 @@
 ---
-title: "Relisting Process and Implications (Algo Trading)"
+title: "Relisting Process and Implications"
 description: "Explore the intricate dynamics of algorithmic trading, focusing on the stock market relisting process. Learn how algos manage risks for better trade decisions."
 ---
 

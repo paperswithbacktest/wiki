@@ -1,5 +1,5 @@
 ---
-title: "Rolling EPS: Overview and Example (Algo Trading)"
+title: "Rolling EPS: Overview and Example"
 description: "Discover how Rolling EPS enhances financial analysis and algorithmic trading by providing a dynamic view of a company's earnings performance. This advanced metric updates continuously, offering timely insights beyond traditional EPS measures. Uncover how rolling EPS elevates trading strategies by integrating real-time data, supporting informed investment decisions in a rapidly evolving market landscape."
 ---
 

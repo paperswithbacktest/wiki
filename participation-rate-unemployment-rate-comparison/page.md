@@ -1,5 +1,5 @@
 ---
-title: "Participation Rate and Unemployment Rate Comparison (Algo Trading)"
+title: "Participation Rate and Unemployment Rate Comparison"
 description: "Explore how participation and unemployment rates impact economic health and algorithmic trading by providing vital insights into workforce dynamics and market trends."
 ---
 

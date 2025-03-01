@@ -1,5 +1,5 @@
 ---
-title: "Turkmenistan Manat: Overview and Functionality (Algo Trading)"
+title: "Turkmenistan Manat: Overview and Functionality"
 description: "Explore the Turkmenistan Manat's growing role in global finance, influenced by the rise of algorithmic trading, boosting market efficiency and liquidity."
 ---
 

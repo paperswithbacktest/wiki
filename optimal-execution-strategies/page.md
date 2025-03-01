@@ -1,5 +1,5 @@
 ---
-title: "Optimal Execution Strategies (Algo Trading)"
+title: "Optimal Execution Strategies"
 description: "Explore optimal execution strategies in algorithmic trading to minimize market impact and costs. Learn about VWAP, TWAP, and the role of AI in enhancing trade efficiency."
 ---
 

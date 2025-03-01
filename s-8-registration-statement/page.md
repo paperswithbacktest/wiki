@@ -1,5 +1,5 @@
 ---
-title: "S-8 Registration Statement (Algo Trading)"
+title: "S-8 Registration Statement"
 description: "Explore the significance of SEC Form S-8 in securities registration, focusing on its critical role in employee benefit plans and implications for algo trading."
 ---
 

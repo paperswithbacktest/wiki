@@ -1,5 +1,5 @@
 ---
-title: "Trading on the Pink Sheets Market (Algo Trading)"
+title: "Trading on the Pink Sheets Market"
 description: "Explore the dynamics of Pink Sheets trading in the OTC market and how algorithmic trading offers insights and strategies to capitalize on high-risk environments."
 ---
 

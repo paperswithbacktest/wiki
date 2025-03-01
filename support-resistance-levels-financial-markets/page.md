@@ -1,5 +1,5 @@
 ---
-title: "Support and Resistance Levels in Financial Markets (Algo Trading)"
+title: "Support and Resistance Levels in Financial Markets"
 description: "Explore the critical role of support and resistance levels in algorithmic trading and how they aid in identifying market reversals for better trading strategies."
 ---
 

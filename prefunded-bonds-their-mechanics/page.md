@@ -1,5 +1,5 @@
 ---
-title: "Prefunded Bonds and Their Mechanics (Algo Trading)"
+title: "Prefunded Bonds and Their Mechanics"
 description: "Explore the mechanics of pre-funded bonds and their appeal due to safety and credit ratings Discover how algorithmic trading enhances bond market efficiency and liquidity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Peak of Business Cycle (Algo Trading)"
+title: "Peak of Business Cycle"
 description: "Explore how economic indicators and algorithmic trading intersect within business cycles particularly at economic peaks Optimize trading strategies with data insights"
 ---
 

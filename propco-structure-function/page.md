@@ -1,5 +1,5 @@
 ---
-title: "Propco: Structure and Function (Algo Trading)"
+title: "Propco: Structure and Function"
 description: "Discover how real estate Propcos integrate algorithmic trading for optimized financial performance in today's evolving market and enhance investment strategies."
 ---
 

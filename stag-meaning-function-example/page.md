@@ -1,5 +1,5 @@
 ---
-title: "Stag: Meaning, Function, and Example (Algo Trading)"
+title: "Stag: Meaning, Function, and Example"
 description: "Discover the role of stag trading in algorithmic strategies focusing on rapid short-term market moves for profit with advanced trading algorithms."
 ---
 

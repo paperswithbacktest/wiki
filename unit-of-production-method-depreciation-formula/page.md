@@ -1,5 +1,5 @@
 ---
-title: "Unit of Production Method and Depreciation Formula (Algo Trading)"
+title: "Unit of Production Method and Depreciation Formula"
 description: "Explore how depreciation methods impact algorithmic trading strategies, enhancing model precision and asset valuation for informed financial decision-making."
 ---
 

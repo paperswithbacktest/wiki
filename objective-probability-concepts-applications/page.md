@@ -1,5 +1,5 @@
 ---
-title: "Objective Probability: Concepts and Applications (Algo Trading)"
+title: "Objective Probability: Concepts and Applications"
 description: "Explore the role of objective probability in algorithmic trading to enhance decision-making by leveraging statistical analysis for effective risk management and strategy development."
 ---
 

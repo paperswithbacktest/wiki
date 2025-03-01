@@ -1,5 +1,5 @@
 ---
-title: "Stock Exchange of Thailand (Algo Trading)"
+title: "Stock Exchange of Thailand"
 description: "Explore the impact of algorithmic trading on the Stock Exchange of Thailand with insights into its advantages challenges and regulatory frameworks shaping its future."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trailer Fees: Mechanism, Advantages, and Disadvantages (Algo Trading)"
+title: "Trailer Fees: Mechanism, Advantages, and Disadvantages"
 description: "Explore the intricacies of trailer fees in algo trading, including their mechanism, advantages, and drawbacks, to make informed investment decisions."
 ---
 

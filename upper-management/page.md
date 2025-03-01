@@ -1,5 +1,5 @@
 ---
-title: "Upper Management (Algo Trading)"
+title: "Upper Management"
 description: "Explore the critical role of corporate leadership in algorithmic trading, ensuring strategic alignment, compliance, and risk management for competitive financial operations."
 ---
 

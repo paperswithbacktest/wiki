@@ -1,5 +1,5 @@
 ---
-title: "Withdrawing From Real Estate Crowdfunding Platforms in 2024 (Algo Trading)"
+title: "Withdrawing From Real Estate Crowdfunding Platforms in 2024"
 description: "Explore effective withdrawal strategies from real estate crowdfunding platforms in 2024 with the integration of algorithmic trading to enhance financial outcomes."
 ---
 

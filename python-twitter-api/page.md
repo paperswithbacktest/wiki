@@ -1,5 +1,5 @@
 ---
-title: "Python Twitter API Guide (Algo Trading)"
+title: "Python Twitter API Guide"
 description: Explore the powerful Python Twitter API guide for algo trading enthusiasts. Learn how to harness Twitter data to enhance trading strategies with sentiment analysis. Discover key tools like Python's Tweepy library to connect with Twitter's API and gain insights from real-time tweets. This guide covers essential steps to set up API access, authenticate with Tweepy, and effectively extract and analyze Twitter data for competitive advantage in algorithmic trading. Dive into techniques that enable informed decision-making by integrating social media insights into your trading strategies for better market understanding.
 ---
 

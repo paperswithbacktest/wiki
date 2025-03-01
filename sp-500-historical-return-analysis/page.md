@@ -1,5 +1,5 @@
 ---
-title: "S&P 500 Historical Return Analysis (Algo Trading)"
+title: "S&P 500 Historical Return Analysis"
 description: "Explore the S&P 500's historical performance and its influence on algorithmic trading strategies to enhance investment decisions and assess market trends."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Netherlands Antillean Guilder (Algo Trading)"
+title: "Netherlands Antillean Guilder"
 description: "Explore the impact of algorithmic trading on the Caribbean market with a focus on the Netherlands Antillean Guilder learn about its benefits challenges and future trends."
 ---
 

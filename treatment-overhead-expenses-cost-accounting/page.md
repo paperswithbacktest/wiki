@@ -1,5 +1,5 @@
 ---
-title: "Treatment of Overhead Expenses in Cost Accounting (Algo Trading)"
+title: "Treatment of Overhead Expenses in Cost Accounting"
 description: "Explore the intersection of overhead expense management, cost accounting, and algo trading to enhance financial performance and gain a competitive edge."
 ---
 

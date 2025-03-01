@@ -1,5 +1,5 @@
 ---
-title: "Pushdown Accounting: Overview and Examples (Algo Trading)"
+title: "Pushdown Accounting: Overview and Examples"
 description: "Explore the intersection of pushdown accounting and algorithmic trading in modern finance, highlighting their impact on financial reporting and transparency."
 ---
 

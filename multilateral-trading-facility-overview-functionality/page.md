@@ -1,5 +1,5 @@
 ---
-title: "Multilateral Trading Facility: Overview and Functionality (Algo Trading)"
+title: "Multilateral Trading Facility: Overview and Functionality"
 description: "Discover the advantages and functionalities of Multilateral Trading Facilities and how they offer enhanced liquidity and diverse trading opportunities in the financial market."
 ---
 

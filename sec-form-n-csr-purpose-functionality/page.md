@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-CSR: Purpose and Functionality (Algo Trading)"
+title: "SEC Form N-CSR: Purpose and Functionality"
 description: "Discover the purpose and functionality of SEC Form N-CSR essential for ensuring transparency and compliance in mutual funds and protecting investors."
 ---
 

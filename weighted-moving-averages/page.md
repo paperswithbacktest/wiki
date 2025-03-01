@@ -1,5 +1,5 @@
 ---
-title: "Weighted Moving Averages (Algo Trading)"
+title: "Weighted Moving Averages"
 description: "Explore the intricacies of weighted moving averages in algo trading Discover their role in technical analysis and how they enhance trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Investment Groups (Algo Trading)"
+title: "Real Estate Investment Groups"
 description: "Explore the potential of Real Estate Investment Groups and algorithmic trading to enhance investment returns and manage risks in real estate portfolios."
 ---
 

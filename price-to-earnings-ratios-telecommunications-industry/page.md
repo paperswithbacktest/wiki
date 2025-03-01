@@ -1,5 +1,5 @@
 ---
-title: "Price-to-Earnings Ratios in the Telecommunications Industry (Algo Trading)"
+title: "Price-to-Earnings Ratios in the Telecommunications Industry"
 description: "Explore the role of Price-to-Earnings ratios in the telecommunications sector and their impact on algorithmic trading for effective investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Remote Disbursement (Algo Trading)"
+title: "Remote Disbursement"
 description: "Discover how remote disbursement and algorithmic trading optimize financial processes by enhancing transaction speed and security while reducing costs."
 ---
 

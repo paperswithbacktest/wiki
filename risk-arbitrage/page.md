@@ -1,5 +1,5 @@
 ---
-title: "Risk arbitrage (Algo Trading)"
+title: "Risk arbitrage"
 description: Risk arbitrage, also known as merger arbitrage, is a strategic investment approach that targets the financial opportunities arising during mergers and acquisitions (M&A). This event-driven investment technique exploits pricing inefficiencies that emerge in significant corporate transactions like mergers, acquisitions, and restructurings. Investors, or arbitrageurs, seek to profit from the spread between the market price of a target company's stock and the proposed acquisition price. Success relies on accurately predicting deal outcomes and understanding the complex legal, financial, and strategic elements involved, often employing active or passive strategies based on resources and risk appetite.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Perfect and Imperfect Competition (Algo Trading)"
+title: "Perfect and Imperfect Competition"
 description: "Explore the dynamics of perfect and imperfect competition in trading markets and the transformative role of algorithmic trading in modern financial landscapes."
 ---
 

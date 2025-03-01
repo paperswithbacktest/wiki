@@ -1,5 +1,5 @@
 ---
-title: "Mutual Funds and Compound Interest (Algo Trading)"
+title: "Mutual Funds and Compound Interest"
 description: "Explore the synergy between mutual funds, compound interest, and algorithmic trading to boost investment returns and optimize portfolio management efficiently."
 ---
 

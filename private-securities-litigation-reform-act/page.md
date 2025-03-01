@@ -1,5 +1,5 @@
 ---
-title: "Private Securities Litigation Reform Act (Algo Trading)"
+title: "Private Securities Litigation Reform Act"
 description: "Explore the impact of the Private Securities Litigation Reform Act and algorithmic trading on securities litigation amidst evolving legal and financial landscapes."
 ---
 

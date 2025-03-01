@@ -1,5 +1,5 @@
 ---
-title: "Squawk Box: Overview and Functionality (Algo Trading)"
+title: "Squawk Box: Overview and Functionality"
 description: "Discover the role of squawk boxes in modern financial trading as they evolve from traditional audio intercoms to digital platforms. Explore their integration with algorithmic trading systems to provide real-time data, enhancing decision-making and efficiency. Learn about their functionalities, benefits, and the challenges faced within today's trading environments."
 ---
 

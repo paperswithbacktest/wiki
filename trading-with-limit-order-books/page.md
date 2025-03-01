@@ -1,5 +1,5 @@
 ---
-title: "Trading with Limit Order Books (Algo Trading)"
+title: "Trading with Limit Order Books"
 description: "Explore the pivotal role of limit order books in algorithmic trading Learn how they facilitate precise trade execution and enhance market transparency and efficiency"
 ---
 

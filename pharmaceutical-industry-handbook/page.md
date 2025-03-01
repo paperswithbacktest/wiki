@@ -1,5 +1,5 @@
 ---
-title: "Pharmaceutical Industry Handbook (Algo Trading)"
+title: "Pharmaceutical Industry Handbook"
 description: "Explore the intersection of pharmaceutical innovation and algorithmic trading and discover how AI is transforming market dynamics and enhancing industry growth."
 ---
 

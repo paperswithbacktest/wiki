@@ -1,5 +1,5 @@
 ---
-title: "Overallotment in Financial Markets (Algo Trading)"
+title: "Overallotment in Financial Markets"
 description: "Explore the interplay between overallotment stock offerings and algorithmic trading in financial markets to understand modern IPO price stabilization and market dynamics."
 ---
 

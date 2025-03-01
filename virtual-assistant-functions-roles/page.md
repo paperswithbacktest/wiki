@@ -1,5 +1,5 @@
 ---
-title: "Virtual Assistant: Functions and Roles (Algo Trading)"
+title: "Virtual Assistant: Functions and Roles"
 description: "Explore the vital role of virtual assistants in algorithmic trading discover how they enhance remote trading operations with technology-driven expertise."
 ---
 

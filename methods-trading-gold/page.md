@@ -1,5 +1,5 @@
 ---
-title: "Methods of Trading Gold (Algo Trading)"
+title: "Methods of Trading Gold"
 description: "Explore the transformative impact of algorithmic trading on gold markets Discover innovative strategies that merge traditional and modern techniques to optimize investments"
 ---
 

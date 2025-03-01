@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Dividend Distribution (Algo Trading)"
+title: "Mutual Fund Dividend Distribution"
 description: "Optimize your investment strategy with insights into mutual fund dividend distribution and algorithmic trading to enhance both income and portfolio growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Top Seven Books on Investing (Algo Trading)"
+title: "Top Seven Books on Investing"
 description: "Explore a selection of top investing books that cover value investing, algorithmic trading, and investment psychology to enhance your financial strategies."
 ---
 

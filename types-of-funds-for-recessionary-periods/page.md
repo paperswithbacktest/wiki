@@ -1,5 +1,5 @@
 ---
-title: "Types of Funds for Recessionary Periods (Algo Trading)"
+title: "Types of Funds for Recessionary Periods"
 description: "Discover effective fund options like government bonds and dividend funds designed to provide stability and growth opportunities during economic recessions."
 ---
 

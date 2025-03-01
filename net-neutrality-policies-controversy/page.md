@@ -1,5 +1,5 @@
 ---
-title: "Net Neutrality: Policies and Controversy (Algo Trading)"
+title: "Net Neutrality: Policies and Controversy"
 description: "Explore the intricate web of internet policy and net neutrality, delving into the contentious debates and policies shaping digital access and telecommunications. Understand the pivotal role of algorithmic trading in modern networks, and how fair internet practices safeguard both innovation and accessibility. Discover insights on balancing regulatory frameworks with technological advancements to foster a competitive, open digital ecosystem."
 ---
 

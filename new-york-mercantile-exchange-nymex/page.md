@@ -1,5 +1,5 @@
 ---
-title: "New York Mercantile Exchange (NYMEX) (Algo Trading)"
+title: "New York Mercantile Exchange (NYMEX)"
 description: Explore the dynamic world of the New York Mercantile Exchange (NYMEX) and the critical role of algorithmic trading in commodities markets. Learn how advanced algorithms enhance trading efficiency and precision, while influencing liquidity and market operations. Understand the strategies and technologies driving modern financial trading at NYMEX, and the evolving landscape shaped by these innovations for investors, traders, and financial professionals.
 ---
 

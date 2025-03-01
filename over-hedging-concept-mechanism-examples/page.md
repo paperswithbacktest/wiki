@@ -1,5 +1,5 @@
 ---
-title: "Over-Hedging: Concept, Mechanism, and Examples (Algo Trading)"
+title: "Over-Hedging: Concept, Mechanism, and Examples"
 description: "Explore the nuances of over-hedging in algorithmic trading, a vital concept in risk management where excessive hedging can inadvertently introduce new risks."
 ---
 

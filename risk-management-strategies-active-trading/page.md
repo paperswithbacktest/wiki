@@ -1,5 +1,5 @@
 ---
-title: "Risk Management Strategies for Active Trading (Algo Trading)"
+title: "Risk Management Strategies for Active Trading"
 description: "Explore essential risk management strategies for active and algorithmic trading to enhance performance and resilience against market volatility. Learn key techniques here."
 ---
 

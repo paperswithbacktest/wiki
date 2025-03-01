@@ -1,5 +1,5 @@
 ---
-title: "Social License to Operate and Industry Standards (Algo Trading)"
+title: "Social License to Operate and Industry Standards"
 description: "Explore the vital role of social license to operate and evolving industry standards in algorithmic trading to maintain trust and ethical practices."
 ---
 

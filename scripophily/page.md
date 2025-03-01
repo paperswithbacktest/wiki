@@ -1,5 +1,5 @@
 ---
-title: "Scripophily (Algo Trading)"
+title: "Scripophily"
 description: "Discover the fascinating world of scripophily where historical financial documents meet modern technology. Uncover the artistry and history of stock certificates."
 ---
 

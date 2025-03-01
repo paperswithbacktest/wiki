@@ -1,5 +1,5 @@
 ---
-title: "Pricing of Derivative Products (Algo Trading)"
+title: "Pricing of Derivative Products"
 description: "Explore the intricacies of derivative pricing in algorithmic trading with insights on models like Black-Scholes and Binomial"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Refunding Escrow Deposits (Algo Trading)"
+title: "Refunding Escrow Deposits"
 description: "Learn about escrow deposits and their refund process in financial and real estate transactions Discover how algorithmic trading enhances market efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Form 10-K for Stock Evaluation (Algo Trading)"
+title: "Utilizing Form 10-K for Stock Evaluation"
 description: "Explore how Form 10-K filings enhance stock evaluation in algorithmic trading by providing key financial insights aiding data-driven investment strategies."
 ---
 

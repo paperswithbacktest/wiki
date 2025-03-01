@@ -1,5 +1,5 @@
 ---
-title: "Sumo (Algo Trading)"
+title: "Sumo"
 description: "Sumo algo trading revolutionizes trade execution with speed and accuracy enhancing success in financial markets by minimizing human error and optimizing strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mirror Trading: Overview, Benefits, and Challenges (Algo Trading)"
+title: "Mirror Trading: Overview, Benefits, and Challenges"
 description: "Mirror trading lets investors replicate seasoned traders' strategies in forex, offering exposure to expert decisions while reducing emotional trade biases."
 ---
 

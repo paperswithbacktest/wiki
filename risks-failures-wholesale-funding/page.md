@@ -1,5 +1,5 @@
 ---
-title: "Risks and Failures of Wholesale Funding (Algo Trading)"
+title: "Risks and Failures of Wholesale Funding"
 description: "Explore the risks and failures associated with wholesale funding and algorithmic trading in banking Uncover key insights into financial risk management strategies"
 ---
 

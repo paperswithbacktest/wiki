@@ -1,5 +1,5 @@
 ---
-title: "Pattern Day Trader Rule (Algo Trading)"
+title: "Pattern Day Trader Rule"
 description: "Understand the Pattern Day Trader rule and its impact on day trading and algorithmic strategies in margin accounts Learn the $25K minimum rule and compliance tips"
 ---
 

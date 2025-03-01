@@ -1,5 +1,5 @@
 ---
-title: "Philippine Peso: History and Exchange Rate Overview (Algo Trading)"
+title: "Philippine Peso: History and Exchange Rate Overview"
 description: "Explore the history and exchange rate dynamics of the Philippine Peso (PHP) in algorithmic trading, offering insights into trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Restatement in Accounting and Legal Requirements (Algo Trading)"
+title: "Restatement in Accounting and Legal Requirements"
 description: "Explore the crucial role of restatements in maintaining accuracy in accounting and legal standards, and their significant impact on algorithmic trading strategies."
 ---
 

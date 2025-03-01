@@ -1,5 +1,5 @@
 ---
-title: "TIPS ETFs: Definition and Functionality (Algo Trading)"
+title: "TIPS ETFs: Definition and Functionality"
 description: "Explore TIPS ETFs to understand how they combine inflation protection with ETF benefits like liquidity and diversification for optimal investment strategies."
 ---
 

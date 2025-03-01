@@ -1,5 +1,5 @@
 ---
-title: "Optimal Asset Allocation Strategies (Algo Trading)"
+title: "Optimal Asset Allocation Strategies"
 description: "Discover optimal asset allocation strategies in algo trading to enhance investment outcomes by balancing risk and reward through portfolio management and technology."
 ---
 

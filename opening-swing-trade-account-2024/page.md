@@ -1,5 +1,5 @@
 ---
-title: "Opening a Swing Trade Account in 2024 (Algo Trading)"
+title: "Opening a Swing Trade Account in 2024"
 description: "Discover the benefits of combining swing trading with algorithmic strategies in 2024. Learn to optimize trading performance while managing risks effectively."
 ---
 

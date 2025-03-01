@@ -1,5 +1,5 @@
 ---
-title: "Vienna Stock Exchange: History and Overview (Algo Trading)"
+title: "Vienna Stock Exchange: History and Overview"
 description: "Explore the historical and modern evolution of the Vienna Stock Exchange from its founding in 1771 to its embrace of algorithmic trading and technological innovation."
 ---
 

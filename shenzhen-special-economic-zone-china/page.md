@@ -1,5 +1,5 @@
 ---
-title: "Shenzhen Special Economic Zone, China (Algo Trading)"
+title: "Shenzhen Special Economic Zone, China"
 description: "Explore Shenzhen’s rise from a fishing village to an innovation-driven financial hub. Discover how its SEZ policies fostered algorithmic trading growth."
 ---
 

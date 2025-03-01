@@ -1,5 +1,5 @@
 ---
-title: "Special Tax Bonds: Overview and Functionality (Algo Trading)"
+title: "Special Tax Bonds: Overview and Functionality"
 description: "Explore the role of special tax bonds in funding municipal projects and the impact of algorithmic trading on their market dynamics and investment strategies."
 ---
 

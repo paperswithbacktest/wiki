@@ -1,5 +1,5 @@
 ---
-title: "United States v. South-Eastern Underwriters Association (Algo Trading)"
+title: "United States v. South-Eastern Underwriters Association"
 description: "Dive into the pivotal United States v South-Eastern Underwriters Association case that reshaped antitrust laws in insurance, intersecting with modern algo trading challenges."
 ---
 

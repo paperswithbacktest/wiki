@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators in Financial Analysis (Algo Trading)"
+title: "Technical Indicators in Financial Analysis"
 description: "Explore the pivotal role of technical indicators in financial analysis and algo trading to understand market trends momentum and potential buy-sell signals."
 ---
 

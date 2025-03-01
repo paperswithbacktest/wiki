@@ -1,5 +1,5 @@
 ---
-title: "MSCI ESG Ratings Overview (Algo Trading)"
+title: "MSCI ESG Ratings Overview"
 description: "Explore MSCI ESG Ratings for insights on sustainable investments aligning ethical values with financial success in algorithmic trading and modern strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "S&P/Case-Shiller Home Price Indices (Algo Trading)"
+title: "S&P/Case-Shiller Home Price Indices"
 description: "Explore the intersection of S&P Case-Shiller Home Price Indices and algorithmic trading for insights into US real estate trends and investment strategies."
 ---
 

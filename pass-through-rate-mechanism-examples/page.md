@@ -1,5 +1,5 @@
 ---
-title: "Pass-Through Rate: Mechanism and Examples (Algo Trading)"
+title: "Pass-Through Rate: Mechanism and Examples"
 description: "Explore the key role of pass-through rates in algorithmic trading with mortgage-backed securities understanding their impact on investor returns in changing economic landscapes."
 ---
 

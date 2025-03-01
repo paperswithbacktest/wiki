@@ -1,5 +1,5 @@
 ---
-title: "Paired Shares: Overview and Examples (Algo Trading)"
+title: "Paired Shares: Overview and Examples"
 description: "Discover the sophistication of paired shares and algorithmic trading as powerful investment strategies to optimize returns and manage risks effectively."
 ---
 

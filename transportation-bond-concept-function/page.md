@@ -1,5 +1,5 @@
 ---
-title: "Transportation Bond: Concept and Function (Algo Trading)"
+title: "Transportation Bond: Concept and Function"
 description: "Explore the crucial role of transportation bonds in finance and the impact of algorithmic trading on their market dynamics, providing insights for investors and traders."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Middle Rate in Foreign Exchange Trading (Algo Trading)"
+title: "Middle Rate in Foreign Exchange Trading"
 description: "Explore the significance of middle rate in forex trading and how algorithmic strategies optimize it to enhance trade efficiency minimize costs and maximize profits."
 ---
 

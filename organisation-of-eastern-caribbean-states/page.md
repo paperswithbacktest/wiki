@@ -1,5 +1,5 @@
 ---
-title: "Organisation of Eastern Caribbean States (Algo Trading)"
+title: "Organisation of Eastern Caribbean States"
 description: "Explore the role of algorithmic trading in the Organisation of Eastern Caribbean States enhancing market efficiency and financial integration while navigating challenges."
 ---
 

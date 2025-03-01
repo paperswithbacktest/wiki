@@ -1,5 +1,5 @@
 ---
-title: "Unchanged: Definition and Examples (Algo Trading)"
+title: "Unchanged: Definition and Examples"
 description: "Explore the concept of 'unchanged' in algo trading where stable prices impact trading strategies Learn how this stability is leveraged in financial markets"
 ---
 

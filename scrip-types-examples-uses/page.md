@@ -1,5 +1,5 @@
 ---
-title: "Scrip: Types, Examples, and Uses (Algo Trading)"
+title: "Scrip: Types, Examples, and Uses"
 description: "Explore the world of algo trading with insights on types and uses of scrip in financial markets Discover how technology reshapes modern trading practices"
 ---
 

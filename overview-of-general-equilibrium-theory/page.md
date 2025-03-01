@@ -1,5 +1,5 @@
 ---
-title: "Overview of General Equilibrium Theory (Algo Trading)"
+title: "Overview of General Equilibrium Theory"
 description: "Explore how General Equilibrium Theory influences modern algorithmic trading by analyzing interconnected markets resource allocation and economic equilibrium models."
 ---
 

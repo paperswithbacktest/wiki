@@ -1,5 +1,5 @@
 ---
-title: "Solow Residual and Total Factor Productivity (Algo Trading)"
+title: "Solow Residual and Total Factor Productivity"
 description: "Explore the synergy between Solow Residual Total Factor Productivity and algorithmic trading to enhance trading strategies using macroeconomic fundamentals."
 ---
 

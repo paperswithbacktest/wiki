@@ -1,5 +1,5 @@
 ---
-title: "Spillover Dividend: Explanation and Examples (Algo Trading)"
+title: "Spillover Dividend: Explanation and Examples"
 description: "Explore the concept of spillover dividends in algo trading understand their impact on tax considerations and investment strategies. Optimize your trading approach."
 ---
 

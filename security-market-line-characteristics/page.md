@@ -1,5 +1,5 @@
 ---
-title: "Security Market Line Characteristics (Algo Trading)"
+title: "Security Market Line Characteristics"
 description: "Explore the Security Market Line as part of the CAPM to evaluate asset pricing and risk in algo trading Gain insights into optimal investment strategies"
 ---
 

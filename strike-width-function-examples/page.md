@@ -1,5 +1,5 @@
 ---
-title: "Strike Width: Function and Examples (Algo Trading)"
+title: "Strike Width: Function and Examples"
 description: "Explore strike width's vital role in options trading and algo strategies Gain insights into optimizing trades managing risk and enhancing market performance"
 ---
 

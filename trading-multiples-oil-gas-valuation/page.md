@@ -1,5 +1,5 @@
 ---
-title: "Trading Multiples in Oil and Gas Valuation (Algo Trading)"
+title: "Trading Multiples in Oil and Gas Valuation"
 description: "Explore the synergy of trading multiples in oil and gas valuation with algorithmic trading to unlock growth opportunities and optimize investment strategies."
 ---
 

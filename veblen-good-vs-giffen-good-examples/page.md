@@ -1,5 +1,5 @@
 ---
-title: "Veblen Good vs. Giffen Good: Concepts and Examples (Algo Trading)"
+title: "Veblen Good vs. Giffen Good: Concepts and Examples"
 description: "Explore the differences between Giffen and Veblen goods in the economic landscape. Understand how their unique demand patterns impact algorithmic trading strategies."
 ---
 

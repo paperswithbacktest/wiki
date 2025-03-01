@@ -1,5 +1,5 @@
 ---
-title: "Weighted: Definition and Mechanism (Algo Trading)"
+title: "Weighted: Definition and Mechanism"
 description: "Discover how weighted mechanisms in algorithmic trading optimize decisions by prioritizing key market indicators and datasets, enhancing strategy precision."
 ---
 

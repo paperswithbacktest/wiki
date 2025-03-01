@@ -1,5 +1,5 @@
 ---
-title: "Preventing Options Closure Below Intrinsic Value (Algo Trading)"
+title: "Preventing Options Closure Below Intrinsic Value"
 description: "Discover key strategies for preventing options from closing below intrinsic value using algorithmic trading techniques. Learn the principles of options trading and intrinsic value."
 ---
 

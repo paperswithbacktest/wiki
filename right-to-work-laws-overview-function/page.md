@@ -1,5 +1,5 @@
 ---
-title: "Right-to-Work Laws: Overview and Function (Algo Trading)"
+title: "Right-to-Work Laws: Overview and Function"
 description: "Explore the impact and function of right-to-work laws in the context of labor policies and their influence on both traditional and algorithmic trading sectors. This article investigates into how these laws affect employment rights, union dynamics, and economic growth, while also addressing the challenges posed by technological advancements in the workforce. Understanding this intersection is crucial for navigating today's complex labor landscape, advocating for fair practices, and ensuring that labor laws keep pace with evolving industries."
 ---
 

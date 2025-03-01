@@ -1,5 +1,5 @@
 ---
-title: "Narrow Basis in Finance (Algo Trading)"
+title: "Narrow Basis in Finance"
 description: "Explore the dynamics of narrow basis and algorithmic trading in finance Understand how these strategies offer efficient trading opportunities and a competitive edge"
 ---
 

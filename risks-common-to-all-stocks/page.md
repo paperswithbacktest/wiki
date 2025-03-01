@@ -1,5 +1,5 @@
 ---
-title: "Risks Common to All Stocks (Algo Trading)"
+title: "Risks Common to All Stocks"
 description: "Explore the risks common to all stocks in algo trading with a focus on managing financial, investment, and market risks to safeguard investments وتسري الكهرباء خلالها لتتحرك وتضيء المصباح."
 ---
 

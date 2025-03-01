@@ -1,5 +1,5 @@
 ---
-title: "Net Acres: Definition and Functionality (Algo Trading)"
+title: "Net Acres: Definition and Functionality"
 description: "Discover how net acres and algorithmic trading intersect to enhance real estate investment strategies and valuations in the evolving financial landscape."
 ---
 

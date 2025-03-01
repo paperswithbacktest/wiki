@@ -1,5 +1,5 @@
 ---
-title: "Private-Purpose Bonds: Functionality and Impact (Algo Trading)"
+title: "Private-Purpose Bonds: Functionality and Impact"
 description: "Explore private-purpose bonds and their impact on municipal finance. Discover how algo trading influences bond markets and optimizes finance strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Return on Equity: Calculation and Interpretation (Algo Trading)"
+title: "Return on Equity: Calculation and Interpretation"
 description: "Understand Return on Equity insights its calculation and role in algorithmic trading to evaluate investment potential enhance strategies and generate profit."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MoneroV: Overview and Functionality (Algo Trading)"
+title: "MoneroV: Overview and Functionality"
 description: "Discover MoneroV a cryptocurrency enhancing privacy and scalability in trades Learn about its features differences from Monero and impact on trading strategies"
 ---
 

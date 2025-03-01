@@ -1,5 +1,5 @@
 ---
-title: "Percentage of Completion and Completed Contract Methods (Algo Trading)"
+title: "Percentage of Completion and Completed Contract Methods"
 description: "Explore the integration of traditional accounting methods with algorithmic trading to enhance financial reporting and trading strategies for long-term projects."
 ---
 

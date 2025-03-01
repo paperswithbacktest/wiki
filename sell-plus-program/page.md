@@ -1,5 +1,5 @@
 ---
-title: "Sell Plus Program (Algo Trading)"
+title: "Sell Plus Program"
 description: "Unlock new levels of business performance with our Sell Plus Program by integrating advanced marketing tools and algorithmic trading strategies for enhanced results."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "State Unemployment Rates in the United States (Algo Trading)"
+title: "State Unemployment Rates in the United States"
 description: "This page explores the critical role of unemployment rates in the U.S. economy, analyzing both national and state-level data to understand economic health and labor market dynamics. It discusses how unemployment impacts macroeconomic policies and trading strategies, emphasizing the significance of diverse economic structures and industry presence in state-specific unemployment variability. Additionally, it highlights the historical fluctuations and influences on unemployment, and how these factors provide essential insights for economic forecasting and decision-making in financial markets."
 ---
 

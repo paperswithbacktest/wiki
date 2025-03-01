@@ -1,5 +1,5 @@
 ---
-title: "Pigou Effect: History and Examples (Algo Trading)"
+title: "Pigou Effect: History and Examples"
 description: "Explore the Pigou Effect in economics and its link to algo trading Learn how real wealth boosts consumer spending amidst deflation, impacting financial markets"
 ---
 

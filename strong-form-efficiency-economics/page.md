@@ -1,5 +1,5 @@
 ---
-title: "Strong Form Efficiency in Economics (Algo Trading)"
+title: "Strong Form Efficiency in Economics"
 description: "Explore the role of strong form efficiency in economic theory and algorithmic trading revealing how asset prices absorb all information impacting investment decisions."
 ---
 

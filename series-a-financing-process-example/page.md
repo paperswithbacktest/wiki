@@ -1,5 +1,5 @@
 ---
-title: "Series A Financing: Process and Example (Algo Trading)"
+title: "Series A Financing: Process and Example"
 description: "Explore the pivotal role of Series A financing in algo trading startups where investors provide crucial funds and strategic support for growth."
 ---
 

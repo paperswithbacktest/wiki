@@ -1,5 +1,5 @@
 ---
-title: "National Best Bid and Offer (NBBO) and Its Function (Algo Trading)"
+title: "National Best Bid and Offer (NBBO) and Its Function"
 description: "Understanding the National Best Bid and Offer is vital for traders as it impacts trade prices and ensures market transparency offering best available prices."
 ---
 

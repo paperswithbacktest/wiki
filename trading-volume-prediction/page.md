@@ -1,5 +1,5 @@
 ---
-title: "trading volume prediction (Algo Trading)"
+title: "trading volume prediction"
 description: "Enhance your algorithmic trading strategies with accurate trading volume predictions to reduce costs and optimize market impact in dynamic financial markets."
 ---
 

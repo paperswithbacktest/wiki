@@ -1,5 +1,5 @@
 ---
-title: "Review of Stockpile Practices (Algo Trading)"
+title: "Review of Stockpile Practices"
 description: "Explore how technology in algorithmic trading improves resource allocation and stockpile management by enhancing efficiency accuracy and strategic advantage."
 ---
 

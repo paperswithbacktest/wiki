@@ -1,5 +1,5 @@
 ---
-title: "World Federation of Stock Exchanges (Algo Trading)"
+title: "World Federation of Stock Exchanges"
 description: "Explore the World Federation of Stock Exchanges' pivotal role in enhancing global market efficiency and transparency through advancements in algorithmic trading."
 ---
 

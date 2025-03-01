@@ -1,5 +1,5 @@
 ---
-title: "Winner-Takes-All Market: Examples and Economic Impact (Algo Trading)"
+title: "Winner-Takes-All Market: Examples and Economic Impact"
 description: "Discover how winner-takes-all markets shape economic landscapes and algorithmic trading dynamics, driving wealth concentration, competition, and innovation."
 ---
 

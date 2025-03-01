@@ -1,5 +1,5 @@
 ---
-title: "Robinson-Patman Act Overview and Criticisms (Algo Trading)"
+title: "Robinson-Patman Act Overview and Criticisms"
 description: "Explore the intricacies of the Robinson-Patman Act and algorithmic trading Discover how price discrimination challenges fair competition amidst evolving antitrust laws"
 ---
 

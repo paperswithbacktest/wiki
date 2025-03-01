@@ -1,5 +1,5 @@
 ---
-title: "Time-Weighted Rate of Return Formula Usage (Algo Trading)"
+title: "Time-Weighted Rate of Return Formula Usage"
 description: "Discover how the Time-Weighted Rate of Return formula evaluates investment performance, eliminates cash flow distortions, and enhances algorithmic trading strategies."
 ---
 

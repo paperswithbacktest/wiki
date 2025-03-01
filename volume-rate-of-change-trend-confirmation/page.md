@@ -1,5 +1,5 @@
 ---
-title: "Volume Rate of Change in Trend Confirmation (Algo Trading)"
+title: "Volume Rate of Change in Trend Confirmation"
 description: "Explore the power of Volume Rate of Change as a technical tool for trend confirmation in algorithmic trading. Learn how V-ROC aids in market analysis."
 ---
 

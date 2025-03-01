@@ -1,5 +1,5 @@
 ---
-title: "Writ of Attachment: Overview and Functionality (Algo Trading)"
+title: "Writ of Attachment: Overview and Functionality"
 description: "Explore the interplay between writs of attachment and algorithmic trading in debt recovery, highlighting legal impact on asset management and operational risks."
 ---
 

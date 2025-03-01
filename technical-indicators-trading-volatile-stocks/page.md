@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators for Trading Volatile Stocks (Algo Trading)"
+title: "Technical Indicators for Trading Volatile Stocks"
 description: "Explore trading volatile stocks using technical indicators and algorithmic strategies to improve decision-making speed and accuracy for better profit potential."
 ---
 

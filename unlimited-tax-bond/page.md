@@ -1,5 +1,5 @@
 ---
-title: "Unlimited Tax Bond (Algo Trading)"
+title: "Unlimited Tax Bond"
 description: "Explore the synergy of unlimited tax bonds municipal bonds and algorithmic trading to maximize tax-optimized returns and enhance investment strategies."
 ---
 

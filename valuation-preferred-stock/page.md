@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Preferred Stock (Algo Trading)"
+title: "Valuation of Preferred Stock"
 description: "Explore the intricacies of preferred stock valuation learn about their unique features and discover how algorithmic trading shapes modern investment strategies"
 ---
 

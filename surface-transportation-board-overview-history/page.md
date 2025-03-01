@@ -1,5 +1,5 @@
 ---
-title: "Surface Transportation Board: Overview and History (Algo Trading)"
+title: "Surface Transportation Board: Overview and History"
 description: "Explore how the Surface Transportation Board's regulatory role in U.S. rail transport impacts economic stability and modern algorithmic trading practices."
 ---
 

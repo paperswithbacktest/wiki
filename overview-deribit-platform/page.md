@@ -1,5 +1,5 @@
 ---
-title: "Overview of Deribit Platform (Algo Trading)"
+title: "Overview of Deribit Platform"
 description: "Explore the Deribit platform for crypto trading with a focus on algorithmic strategies. Benefit from advanced tools and robust API for optimal trading performance."
 ---
 

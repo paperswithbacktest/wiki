@@ -1,5 +1,5 @@
 ---
-title: "Style investing (Algo Trading)"
+title: "Style investing"
 description: "Explore style investing and algorithmic trading to enhance investment strategies with systematic, bias-free decision-making across asset classes for better returns."
 ---
 

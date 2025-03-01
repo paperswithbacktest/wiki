@@ -1,5 +1,5 @@
 ---
-title: "Pushing On A String: Meaning, Mechanism, And Examples (Algo Trading)"
+title: "Pushing On A String: Meaning, Mechanism, And Examples"
 description: "Explore the meaning of 'pushing on a string' in economics, its impact on monetary policy, and its relevance to modern practices like algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Proprietary Trading Firms: Overview and Comparisons (Algo Trading)"
+title: "Proprietary Trading Firms: Overview and Comparisons"
 description: "Discover the benefits of proprietary and algorithmic trading for modern financial markets and learn how these strategies enhance liquidity and market efficiency."
 ---
 

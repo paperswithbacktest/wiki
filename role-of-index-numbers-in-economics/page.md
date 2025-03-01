@@ -1,5 +1,5 @@
 ---
-title: "Role of Index Numbers in Economics (Algo Trading)"
+title: "Role of Index Numbers in Economics"
 description: "Explore how economic indicators and index numbers form the foundation of algorithmic trading enhancing strategies by offering insights into market dynamics."
 ---
 

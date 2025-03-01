@@ -1,5 +1,5 @@
 ---
-title: "Reserves-to-Production Ratio (Algo Trading)"
+title: "Reserves-to-Production Ratio"
 description: "Explore the significance of the Reserves-to-Production Ratio in the energy sector and its role in enhancing algorithmic trading strategies for better market insights."
 ---
 

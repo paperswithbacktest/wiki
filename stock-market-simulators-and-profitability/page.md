@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Simulators and Profitability (Algo Trading)"
+title: "Stock Market Simulators and Profitability"
 description: "Explore the benefits of stock market simulators in enhancing trading skills risk-free and delve into algorithmic strategies to boost real-market financial performance."
 ---
 

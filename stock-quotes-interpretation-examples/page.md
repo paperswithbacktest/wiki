@@ -1,5 +1,5 @@
 ---
-title: "Stock Quotes: Interpretation and Examples (Algo Trading)"
+title: "Stock Quotes: Interpretation and Examples"
 description: "Discover how financial literacy, stock market investments, and algorithmic trading intersect to help you make informed financial decisions and achieve your goals."
 ---
 

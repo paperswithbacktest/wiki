@@ -1,5 +1,5 @@
 ---
-title: "NAV Application in Oil, Gas, and Energy Investments (Algo Trading)"
+title: "NAV Application in Oil, Gas, and Energy Investments"
 description: "Explore how Net Asset Value and algorithmic trading shape oil and gas investments Enhance decision-making and seize opportunities in energy markets"
 ---
 

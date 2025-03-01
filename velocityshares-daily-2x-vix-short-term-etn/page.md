@@ -1,5 +1,5 @@
 ---
-title: "VelocityShares Daily 2x VIX Short-Term ETN (Algo Trading)"
+title: "VelocityShares Daily 2x VIX Short-Term ETN"
 description: "Explore the dynamics of VelocityShares Daily 2X VIX Short-Term ETN TVIX and how algorithmic trading enhanced its appeal by navigating its inherent volatility."
 ---
 

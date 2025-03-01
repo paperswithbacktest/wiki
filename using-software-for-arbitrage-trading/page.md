@@ -1,5 +1,5 @@
 ---
-title: "Using Software for Arbitrage Trading (Algo Trading)"
+title: "Using Software for Arbitrage Trading"
 description: "Explore the benefits of using software for arbitrage trading and discover how advanced tools can help traders capitalize on market inefficiencies efficiently."
 ---
 

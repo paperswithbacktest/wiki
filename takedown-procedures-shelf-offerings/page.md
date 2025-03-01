@@ -1,5 +1,5 @@
 ---
-title: "Takedown Procedures and Shelf Offerings (Algo Trading)"
+title: "Takedown Procedures and Shelf Offerings"
 description: "Explore the key aspects of takedown procedures and shelf offerings in algo trading Discover how these mechanisms enhance capital-raising strategies amid market changes"
 ---
 

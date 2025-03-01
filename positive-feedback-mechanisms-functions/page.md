@@ -1,5 +1,5 @@
 ---
-title: "Positive Feedback Mechanisms and Functions (Algo Trading)"
+title: "Positive Feedback Mechanisms and Functions"
 description: "Explore the importance of positive feedback in algorithmic trading and biological systems Discover how these mechanisms drive changes ensuring efficiency and adaptability"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Securities Act of 1933: Overview and Impact (Algo Trading)"
+title: "Securities Act of 1933: Overview and Impact"
 description: "Explore the impact of the Securities Act of 1933 on modern financial practices, including algorithmic trading, emphasizing transparency and investor protection."
 ---
 

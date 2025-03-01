@@ -1,5 +1,5 @@
 ---
-title: "Pinning the Strike: Explanation and Example (Algo Trading)"
+title: "Pinning the Strike: Explanation and Example"
 description: "Explore the dynamics of 'pinning the strike' in options trading and understand its link with market forces like labor strikes and algorithmic trading strategies."
 ---
 

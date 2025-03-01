@@ -1,5 +1,5 @@
 ---
-title: "Risk-Neutral Probabilities and Their Role in Asset Valuation (Algo Trading)"
+title: "Risk-Neutral Probabilities and Their Role in Asset Valuation"
 description: "Explore the significance of risk-neutral probabilities in asset valuation and algorithmic trading This article examines their role in fair pricing of derivatives"
 ---
 

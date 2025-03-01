@@ -1,5 +1,5 @@
 ---
-title: "Omega in Options Trading (Algo Trading)"
+title: "Omega in Options Trading"
 description: "Explore the synergy of options trading and algorithmic strategies using omega for enhanced decision-making and leverage in volatile markets."
 ---
 

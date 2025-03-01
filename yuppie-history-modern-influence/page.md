@@ -1,5 +1,5 @@
 ---
-title: "Yuppie: History and Modern Influence (Algo Trading)"
+title: "Yuppie: History and Modern Influence"
 description: "Discover the rich history and modern impact of algorithmic trading, tracing its roots back to the ambitious yuppies of the 1980s who shaped today's financial innovations. Explore how this cultural shift enabled the evolution of trading from bustling floors to sophisticated algorithms that drive market efficiency, speed, and data-driven strategies. Unearth the legacy of the yuppie ethos and its lasting influence on contemporary finance, as algorithms continue to transform trading practices across global markets."
 ---
 

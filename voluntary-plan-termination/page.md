@@ -1,5 +1,5 @@
 ---
-title: "Voluntary Plan Termination (Algo Trading)"
+title: "Voluntary Plan Termination"
 description: "Explore the complexities of retirement plan terminations and the impact of algorithmic trading on investments. Discover strategies to navigate financial change."
 ---
 

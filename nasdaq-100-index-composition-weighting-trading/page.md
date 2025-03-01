@@ -1,5 +1,5 @@
 ---
-title: "Nasdaq-100 Index: Composition, Weighting, and Trading (Algo Trading)"
+title: "Nasdaq-100 Index: Composition, Weighting, and Trading"
 description: "Explore the Nasdaq-100 index including its composition and weighting Learn about algorithmic trading strategies and their benefits such as speed and precision"
 ---
 

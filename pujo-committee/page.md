@@ -1,5 +1,5 @@
 ---
-title: "Pujo Committee (Algo Trading)"
+title: "Pujo Committee"
 description: "Explore the intersection of tradition and technology in Durga Puja as we delve into how Pujo committees use algorithmic trading to manage festival funds efficiently."
 ---
 

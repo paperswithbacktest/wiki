@@ -1,5 +1,5 @@
 ---
-title: "Time Arbitrage and Its Mechanisms (Algo Trading)"
+title: "Time Arbitrage and Its Mechanisms"
 description: "Discover the essentials of time arbitrage algorithmic trading and market efficiency Explore how investors capitalize on discrepancies for enhanced financial strategies"
 ---
 

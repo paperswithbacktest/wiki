@@ -1,5 +1,5 @@
 ---
-title: "Premium Bond: Overview, Mechanics, and Yield (Algo Trading)"
+title: "Premium Bond: Overview, Mechanics, and Yield"
 description: "Explore premium bonds, bond yields, and algorithmic trading to optimize your investment strategy. Learn how interest rates and credit ratings impact bond values."
 ---
 

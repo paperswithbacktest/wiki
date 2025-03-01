@@ -1,5 +1,5 @@
 ---
-title: "Oligopsony: Definition, Mechanisms, and Examples (Algo Trading)"
+title: "Oligopsony: Definition, Mechanisms, and Examples"
 description: "Explore the influence of oligopsony on market structures with examples from industries like fast food and cocoa while examining the role of algorithmic trading."
 ---
 

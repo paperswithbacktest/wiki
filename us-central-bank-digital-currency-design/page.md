@@ -1,5 +1,5 @@
 ---
-title: "United States Central Bank Digital Currency Design (Algo Trading)"
+title: "United States Central Bank Digital Currency Design"
 description: "Explore the impact of US Central Bank Digital Currency on algorithmic trading and discover how digital currencies might transform financial markets and strategies."
 ---
 

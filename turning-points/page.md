@@ -1,5 +1,5 @@
 ---
-title: "Turning points (Algo Trading)"
+title: "Turning points"
 description: Explore the transformative world of algorithmic trading where complex algorithms conduct trades with speed and precision far exceeding human capabilities. Discover the history of algo-trading from its beginnings in the 1970s through pivotal changes like high-frequency trading and modern advancements. Learn about the technological innovations that enhance trading strategies and the ongoing regulatory efforts to balance innovation with market stability. Uncover how algorithmic trading continues to redefine financial markets and the potential it holds for the future.
 ---
 

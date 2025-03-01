@@ -1,5 +1,5 @@
 ---
-title: "Stock Ahead: Definition and Functionality (Algo Trading)"
+title: "Stock Ahead: Definition and Functionality"
 description: "Explore the integration of algorithmic trading in supply chains for enhanced efficiency and predictability Discover the benefits of applying algo trading in logistics"
 ---
 

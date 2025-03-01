@@ -1,5 +1,5 @@
 ---
-title: "Net International Investment Position (Algo Trading)"
+title: "Net International Investment Position"
 description: "Explore the dynamic interplay between Net International Investment Position and algorithmic trading to enhance strategic investment decisions in global markets."
 ---
 

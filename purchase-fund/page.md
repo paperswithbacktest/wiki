@@ -1,5 +1,5 @@
 ---
-title: "Purchase Fund (Algo Trading)"
+title: "Purchase Fund"
 description: "Explore the evolving world of investment with a focus on purchase funds enhanced by algorithmic trading Learn how these strategies secure returns in volatile markets"
 ---
 

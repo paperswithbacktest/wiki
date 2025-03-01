@@ -1,5 +1,5 @@
 ---
-title: "Pyramiding in Investing (Algo Trading)"
+title: "Pyramiding in Investing"
 description: "Explore the potential of pyramiding in algorithmic trading with strategies that maximize profits using accrued gains while minimizing risks and human biases."
 ---
 

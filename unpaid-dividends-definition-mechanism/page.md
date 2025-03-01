@@ -1,5 +1,5 @@
 ---
-title: "Unpaid Dividends: Definition and Mechanism (Algo Trading)"
+title: "Unpaid Dividends: Definition and Mechanism"
 description: "Explore the complexities of unpaid dividends, their impact on investment strategies, and how algorithmic trading can optimize returns and manage dividend stocks."
 ---
 

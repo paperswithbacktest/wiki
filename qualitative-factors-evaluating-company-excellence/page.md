@@ -1,5 +1,5 @@
 ---
-title: "Qualitative Factors in Evaluating Company Excellence (Algo Trading)"
+title: "Qualitative Factors in Evaluating Company Excellence"
 description: "Explore the essential role of qualitative analysis in algorithmic trading to evaluate company excellence by considering management, culture, and market conditions."
 ---
 

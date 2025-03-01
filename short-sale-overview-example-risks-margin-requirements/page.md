@@ -1,5 +1,5 @@
 ---
-title: "Short Sale: Overview, Example, Risks, and Margin Requirements (Algo Trading)"
+title: "Short Sale: Overview, Example, Risks, and Margin Requirements"
 description: "Discover the intricacies of short selling including the role of algorithmic trading margin requirements and risks to optimize your trading strategies."
 ---
 

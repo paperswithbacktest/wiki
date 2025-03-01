@@ -1,5 +1,5 @@
 ---
-title: "Vacancy Rate: Meaning and Calculation (Algo Trading)"
+title: "Vacancy Rate: Meaning and Calculation"
 description: "Explore how vacancy rates and algorithmic trading intersect in real estate investments providing insight into market dynamics and informing strategic decisions."
 ---
 

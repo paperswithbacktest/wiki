@@ -1,5 +1,5 @@
 ---
-title: "Zero Layoff Policy (Algo Trading)"
+title: "Zero Layoff Policy"
 description: "Explore the benefits and challenges of zero layoff policies in algorithmic trading Discover innovative strategies to ensure job security and boost employee morale"
 ---
 

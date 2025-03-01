@@ -1,5 +1,5 @@
 ---
-title: "Structured Investment Vehicle: History and Examples (Algo Trading)"
+title: "Structured Investment Vehicle: History and Examples"
 description: "Explore the history and impact of Structured Investment Vehicles and algorithmic trading innovations in finance Learn how these strategies shaped modern investment practices"
 ---
 

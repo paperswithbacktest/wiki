@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Fees and Expenses (Algo Trading)"
+title: "Mutual Fund Fees and Expenses"
 description: "Discover how mutual fund fees and expenses affect your investment returns and explore how algorithmic trading can optimize costs for better performance."
 ---
 

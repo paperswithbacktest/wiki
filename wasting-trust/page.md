@@ -1,5 +1,5 @@
 ---
-title: "Wasting Trust (Algo Trading)"
+title: "Wasting Trust"
 description: "Explore the challenges and opportunities in algorithmic trading including trust ethical standards legal frameworks and financial implications in today's markets"
 ---
 

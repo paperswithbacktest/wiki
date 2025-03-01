@@ -1,5 +1,5 @@
 ---
-title: "Technical Analysis of Stocks for Beginners (Algo Trading)"
+title: "Technical Analysis of Stocks for Beginners"
 description: "Explore technical analysis and algorithmic trading fundamentals to enhance decision-making and potential investment returns for stock market beginners."
 ---
 

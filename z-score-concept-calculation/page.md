@@ -1,5 +1,5 @@
 ---
-title: "Z-Score: Concept and Calculation (Algo Trading)"
+title: "Z-Score: Concept and Calculation"
 description: "Explore the importance of Z-scores in algorithmic trading as a statistical tool for evaluating price deviations and potential trading opportunities."
 ---
 

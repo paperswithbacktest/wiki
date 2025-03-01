@@ -1,5 +1,5 @@
 ---
-title: "Share Turnover: Analysis, Formula, and Examples (Algo Trading)"
+title: "Share Turnover: Analysis, Formula, and Examples"
 description: "Explore the impact of share turnover and algorithmic trading on stock liquidity in financial markets Understand their role in modern trading strategies"
 ---
 

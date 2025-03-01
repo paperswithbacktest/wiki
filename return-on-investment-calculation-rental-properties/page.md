@@ -1,5 +1,5 @@
 ---
-title: "Return On Investment Calculation For Rental Properties (Algo Trading)"
+title: "Return On Investment Calculation For Rental Properties"
 description: "Calculate ROI for rental properties using advanced algorithmic trading strategies. Optimize investments, improve efficiency, and maximize your potential returns."
 ---
 

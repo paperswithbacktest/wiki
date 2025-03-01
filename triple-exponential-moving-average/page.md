@@ -1,5 +1,5 @@
 ---
-title: "Triple Exponential Moving Average (Algo Trading)"
+title: "Triple Exponential Moving Average"
 description: "Explore the Triple Exponential Moving Average (TRIX) indicator, a powerful tool in technical analysis that minimizes market noise, aiding traders in trend identification."
 ---
 

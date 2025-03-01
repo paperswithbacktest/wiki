@@ -1,5 +1,5 @@
 ---
-title: "Win/Loss Ratio in Trading (Algo Trading)"
+title: "Win/Loss Ratio in Trading"
 description: "Explore the significance of the win/loss ratio in trading to measure strategy effectiveness in algorithmic trading for competitive edge and optimized decisions."
 ---
 

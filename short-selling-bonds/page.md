@@ -1,5 +1,5 @@
 ---
-title: "Short Selling Bonds (Algo Trading)"
+title: "Short Selling Bonds"
 description: "Explore short selling bonds with algorithmic trading in investment portfolios. Learn the nuances of bond strategies, risks, and benefits for market diversity."
 ---
 

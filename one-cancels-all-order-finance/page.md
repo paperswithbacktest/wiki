@@ -1,5 +1,5 @@
 ---
-title: "One-Cancels-All Order in Finance (Algo Trading)"
+title: "One-Cancels-All Order in Finance"
 description: "Explore the intricacies of One-Cancels-All orders in algo trading to enhance trading strategies reduce risks and streamline execution for optimal outcomes."
 ---
 

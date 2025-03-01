@@ -1,5 +1,5 @@
 ---
-title: "Potential Recession Indicator from Upcoming Employment Report (Algo Trading)"
+title: "Potential Recession Indicator from Upcoming Employment Report"
 description: "Discover how the upcoming employment report, a crucial economic indicator released by the U.S. Bureau of Labor Statistics, impacts financial markets and predicts economic trends. Understand the significance of key metrics like unemployment rate, job creation, and labor force participation, and explore their role in shaping algorithmic trading strategies. Gain insights into the Sahm Rule, a reliable recession indicator, and its importance in economic forecasting. Analyze how employment data influences economic strategies, policies, and market behaviors in the current economic climate."
 ---
 

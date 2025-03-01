@@ -1,5 +1,5 @@
 ---
-title: "Training Data (Algo Trading)"
+title: "Training Data"
 description: Unravel the significance of Training Data in Algo Trading - the fuel powering AI-driven decisions. Learn how quality data impacts accuracy, adaptability, and model complexity. Discover challenges and essential resources for effective training data collection and management.
 ---
 

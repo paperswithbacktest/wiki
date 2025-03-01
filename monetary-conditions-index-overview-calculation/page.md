@@ -1,5 +1,5 @@
 ---
-title: "Monetary Conditions Index: Overview and Calculation (Algo Trading)"
+title: "Monetary Conditions Index: Overview and Calculation"
 description: "Explore the Monetary Conditions Index MCI a crucial economic measure that assesses monetary policy effects using interest and exchange rates for algorithmic trading."
 ---
 

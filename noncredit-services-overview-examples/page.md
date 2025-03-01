@@ -1,5 +1,5 @@
 ---
-title: "Noncredit Services Overview and Examples (Algo Trading)"
+title: "Noncredit Services Overview and Examples"
 description: "Explore the impact of noncredit services and algorithmic trading in finance uncovering how fee-based services enhance revenue and automation transforms global markets."
 ---
 

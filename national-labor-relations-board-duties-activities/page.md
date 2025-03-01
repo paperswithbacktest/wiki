@@ -1,5 +1,5 @@
 ---
-title: "National Labor Relations Board: Duties and Activities (Algo Trading)"
+title: "National Labor Relations Board: Duties and Activities"
 description: "Explore the critical role of the National Labor Relations Board in safeguarding workers' rights amidst technological advancements like algorithmic trading. This article investigates into how the NLRB navigates labor relations challenges, ensuring fair practices and equitable treatment for the workforce as AI and automation reshape various industries. Discover insights into the evolving responsibilities of this vital agency in maintaining a balanced integration of technology and labor rights."
 ---
 

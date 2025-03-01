@@ -1,5 +1,5 @@
 ---
-title: "Servicing Strip (Algo Trading)"
+title: "Servicing Strip"
 description: "Explore the evolving future of land management and financial markets through servicing strips AI and algorithmic trading and their transformative impacts."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Tape Reading: Historical Use and Modern Applications (Algo Trading)"
+title: "Tape Reading: Historical Use and Modern Applications"
 description: "Explore the evolution of tape reading from physical ticker tapes to modern algorithmic trading techniques and its impact on market analysis today."
 ---
 

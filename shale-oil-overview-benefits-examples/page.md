@@ -1,5 +1,5 @@
 ---
-title: "Shale Oil: Overview, Benefits, and Examples (Algo Trading)"
+title: "Shale Oil: Overview, Benefits, and Examples"
 description: "Explore the dynamic world of shale oil and algorithmic trading as they converge to reshape energy markets offering investment opportunities and risk management."
 ---
 

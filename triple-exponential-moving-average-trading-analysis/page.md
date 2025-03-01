@@ -1,5 +1,5 @@
 ---
-title: "Triple Exponential Moving Average in Trading and Analysis (Algo Trading)"
+title: "Triple Exponential Moving Average in Trading and Analysis"
 description: "Explore the Triple Exponential Moving Average (TEMA) to gain insights into market trends with enhanced accuracy and responsiveness for effective algorithmic trading strategies."
 ---
 

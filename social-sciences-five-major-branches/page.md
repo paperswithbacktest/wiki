@@ -1,5 +1,5 @@
 ---
-title: "Social Sciences and Their Five Major Branches (Algo Trading)"
+title: "Social Sciences and Their Five Major Branches"
 description: "Explore the intersection of social sciences and algorithmic trading Discover how sociology psychology economics political science and anthropology enhance trading strategies"
 ---
 

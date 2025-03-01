@@ -1,5 +1,5 @@
 ---
-title: "New Paradigm: Overview and Implementation (Algo Trading)"
+title: "New Paradigm: Overview and Implementation"
 description: "Explore the impact of new paradigms and algorithmic trading in finance Learn how these innovations redefine markets enhance efficiency and drive future trends"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Equity Calculation (Algo Trading)"
+title: "Shareholder Equity Calculation"
 description: "Explore the synergy between shareholder equity and algorithmic trading to make informed investments. Learn how equity metrics enhance trading strategies and optimize returns."
 ---
 

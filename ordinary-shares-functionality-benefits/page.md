@@ -1,5 +1,5 @@
 ---
-title: "Ordinary Shares: Functionality and Benefits (Algo Trading)"
+title: "Ordinary Shares: Functionality and Benefits"
 description: "Discover the benefits of ordinary shares, key shareholder rights, and the impact of algorithmic trading on the modern financial markets for smarter investing"
 ---
 

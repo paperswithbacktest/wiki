@@ -1,5 +1,5 @@
 ---
-title: "Vice Fund: Overview and Investment Strategy (Algo Trading)"
+title: "Vice Fund: Overview and Investment Strategy"
 description: "Explore Vice Fund investment strategy focusing on sectors like alcohol and tobacco with algorithmic trading insights examining market dynamics and ethical investing nuances."
 ---
 

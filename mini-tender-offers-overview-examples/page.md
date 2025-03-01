@@ -1,5 +1,5 @@
 ---
-title: "Mini-Tender Offers: Overview and Examples (Algo Trading)"
+title: "Mini-Tender Offers: Overview and Examples"
 description: "Explore the intricacies of mini-tender offers and algorithmic trading in modern finance. Understand their strategies, benefits, risks, and investor impact."
 ---
 

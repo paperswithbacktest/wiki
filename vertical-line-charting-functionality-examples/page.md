@@ -1,5 +1,5 @@
 ---
-title: "Vertical Line Charting: Functionality and Examples (Algo Trading)"
+title: "Vertical Line Charting: Functionality and Examples"
 description: "Explore the functionality and benefits of vertical line charts in algorithmic trading Learn how these charts enhance financial analysis and improve decision-making"
 ---
 

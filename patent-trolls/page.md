@@ -1,5 +1,5 @@
 ---
-title: "Patent Trolls (Algo Trading)"
+title: "Patent Trolls"
 description: "Explore the challenges posed by patent trolls in algorithmic trading focusing on litigation tactics and their impact on innovation and resource allocation."
 ---
 

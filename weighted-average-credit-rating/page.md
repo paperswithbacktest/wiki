@@ -1,5 +1,5 @@
 ---
-title: "Weighted Average Credit Rating (Algo Trading)"
+title: "Weighted Average Credit Rating"
 description: "Understand how Weighted Average Credit Rating and algorithmic trading strategies optimize investment returns by assessing bond fund credit risk efficiently."
 ---
 

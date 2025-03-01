@@ -1,5 +1,5 @@
 ---
-title: "Pairoff: Functionality and Comparisons (Algo Trading)"
+title: "Pairoff: Functionality and Comparisons"
 description: "Explore algorithmic trading with a focus on pairoff transactions Learn how these strategies streamline operations mitigate risks and enhance market efficiency"
 ---
 

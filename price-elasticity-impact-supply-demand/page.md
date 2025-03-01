@@ -1,5 +1,5 @@
 ---
-title: "Price Elasticity and Its Impact on Supply and Demand (Algo Trading)"
+title: "Price Elasticity and Its Impact on Supply and Demand"
 description: "Explore how price elasticity impacts supply and demand in algorithmic trading Learn how understanding elasticity can enhance strategic trading decision-making"
 ---
 

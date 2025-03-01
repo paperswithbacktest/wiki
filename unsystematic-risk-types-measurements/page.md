@@ -1,5 +1,5 @@
 ---
-title: "Unsystematic Risk: Types and Measurements (Algo Trading)"
+title: "Unsystematic Risk: Types and Measurements"
 description: "Explore the intricacies of managing unsystematic risk in algorithmic trading by understanding its types and effective mitigation strategies for stable portfolios."
 ---
 

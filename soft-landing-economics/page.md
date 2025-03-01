@@ -1,5 +1,5 @@
 ---
-title: "Soft Landing in Economics (Algo Trading)"
+title: "Soft Landing in Economics"
 description: "Explore the intersection of economic history and algorithmic trading to understand modern markets Discover how past trends inform policy for a stable economy"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pipeline Theory: Overview and Types (Algo Trading)"
+title: "Pipeline Theory: Overview and Types"
 description: "Explore Pipeline Theory in algo trading to boost tax efficiency by using pass-through structures to minimize corporate taxation and enhance investor returns."
 ---
 

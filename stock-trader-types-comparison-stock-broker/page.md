@@ -1,5 +1,5 @@
 ---
-title: "Stock Trader: Types and Comparison with Stock Broker (Algo Trading)"
+title: "Stock Trader: Types and Comparison with Stock Broker"
 description: "Explore various stock trading types and compare them with brokerage roles in our detailed guide Discover insights on algorithmic trading's market influence"
 ---
 

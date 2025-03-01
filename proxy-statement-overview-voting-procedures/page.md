@@ -1,5 +1,5 @@
 ---
-title: "Proxy Statement: Overview and Voting Procedures (Algo Trading)"
+title: "Proxy Statement: Overview and Voting Procedures"
 description: "Explore the role of proxy statements in corporate voting and algorithmic trading. Understand transparency, governance, and their impact on modern investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Bitcoin (Algo Trading)"
+title: "Taxation of Bitcoin"
 description: "Explore the complexities of Bitcoin taxation and regulations on algorithmic trading Discover key insights into managing tax obligations in cryptocurrency trading"
 ---
 

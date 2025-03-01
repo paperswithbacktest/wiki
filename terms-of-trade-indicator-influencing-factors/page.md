@@ -1,5 +1,5 @@
 ---
-title: "Terms of Trade: Indicator and Influencing Factors (Algo Trading)"
+title: "Terms of Trade: Indicator and Influencing Factors"
 description: "Explore the intricate dynamics of international trade through terms of trade indicators and algorithmic trading Discover how these factors shape global markets"
 ---
 

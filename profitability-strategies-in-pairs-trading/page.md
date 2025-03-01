@@ -1,5 +1,5 @@
 ---
-title: "Profitability Strategies in Pairs Trading (Algo Trading)"
+title: "Profitability Strategies in Pairs Trading"
 description: "Discover profitability strategies in pairs trading and how algorithmic trading enhances them. Learn how to capitalize on price discrepancies for steady returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Mutual Funds (Algo Trading)"
+title: "Taxation of Mutual Funds"
 description: "Explore how taxation, mutual funds, and algorithmic trading converge to impact financial strategies. Learn to optimize investments for tax efficiency and returns."
 ---
 

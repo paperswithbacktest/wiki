@@ -1,5 +1,5 @@
 ---
-title: "Writs in Law: Types and Examples (Algo Trading)"
+title: "Writs in Law: Types and Examples"
 description: "Explore the role of writs in addressing legal challenges in algorithmic trading. Understand the types of writs and their use in maintaining fairness and compliance."
 ---
 

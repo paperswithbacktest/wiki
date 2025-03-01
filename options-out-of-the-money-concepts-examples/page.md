@@ -1,5 +1,5 @@
 ---
-title: "Options: Out of the Money Concepts and Examples (Algo Trading)"
+title: "Options: Out of the Money Concepts and Examples"
 description: "Explore algorithms and strategies for Out of the Money options trading to leverage market dynamics in financial portfolios and enhance investment returns."
 ---
 

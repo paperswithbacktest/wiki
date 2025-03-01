@@ -1,5 +1,5 @@
 ---
-title: "Trading Strategies with Andrews' Pitchfork (Algo Trading)"
+title: "Trading Strategies with Andrews' Pitchfork"
 description: "Discover the powerful combination of Andrews' Pitchfork and algorithmic trading to optimize your strategy. Learn about its application, structure, and benefits."
 ---
 

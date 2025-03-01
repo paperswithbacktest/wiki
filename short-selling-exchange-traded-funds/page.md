@@ -1,5 +1,5 @@
 ---
-title: "Short Selling Exchange-Traded Funds (Algo Trading)"
+title: "Short Selling Exchange-Traded Funds"
 description: "Explore short selling ETFs and algorithmic trading to understand dynamic investment strategies. Learn how these tools enhance flexibility and decision-making in the market."
 ---
 

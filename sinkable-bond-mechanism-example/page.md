@@ -1,5 +1,5 @@
 ---
-title: "Sinkable Bond Mechanism and Example (Algo Trading)"
+title: "Sinkable Bond Mechanism and Example"
 description: "Explore the benefits of sinkable bonds in algo trading Learn how their unique structures and sinking funds offer robust options for modern investors and issuers"
 ---
 

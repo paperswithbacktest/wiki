@@ -1,5 +1,5 @@
 ---
-title: "United States Department of Veterans Affairs (Algo Trading)"
+title: "United States Department of Veterans Affairs"
 description: "Discover how the U.S. Department of Veterans Affairs is leveraging algorithmic trading to enhance financial operations and optimize resources for veterans."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Shadow Market: Definition and Mechanisms (Algo Trading)"
+title: "Shadow Market: Definition and Mechanisms"
 description: "Explore the intricacies of shadow markets and algorithmic trading in this guide Learn how these unregulated markets operate and their impact on the economy"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Transformation of Dumb Money into Smart Investments (Algo Trading)"
+title: "Transformation of Dumb Money into Smart Investments"
 description: "Master algorithmic trading to turn dumb money into smart investments. Enhance financial literacy, adopt expert strategies, and boost your portfolio potential."
 ---
 

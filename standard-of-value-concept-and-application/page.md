@@ -1,5 +1,5 @@
 ---
-title: "Standard of Value: Concept and Application (Algo Trading)"
+title: "Standard of Value: Concept and Application"
 description: "Explore the evolution of economic value standards from gold to fiat currencies and their impact on modern algorithmic trading in global financial markets."
 ---
 

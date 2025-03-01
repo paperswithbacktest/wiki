@@ -1,5 +1,5 @@
 ---
-title: "Origins of Bull and Bear Markets (Algo Trading)"
+title: "Origins of Bull and Bear Markets"
 description: "Explore the origins and impacts of bull and bear markets while learning about algorithmic trading This guide covers key market terms and trading strategies"
 ---
 

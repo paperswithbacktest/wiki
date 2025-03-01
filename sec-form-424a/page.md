@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 424A (Algo Trading)"
+title: "SEC Form 424A"
 description: "Explore the crucial role of SEC Form 424A in investment documentation and algorithmic trading ensuring transparency and informed decisions in financial markets."
 ---
 

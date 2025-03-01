@@ -1,5 +1,5 @@
 ---
-title: "Normal Course Issuer Bid (Algo Trading)"
+title: "Normal Course Issuer Bid"
 description: "Explore the intricacies of stock repurchases, focusing on Normal Course Issuer Bids (NCIBs) and algorithmic trading. Understand how companies utilize these mechanisms to optimize capital structures, enhance shareholder value, and influence stock prices. Gain insights into the regulatory frameworks and market impacts of NCIBs, and discover the role of algorithmic trading in executing stock repurchases efficiently. This article investigates into various strategic motivations, benefits, risks, and future trends within these dynamic financial strategies."
 ---
 

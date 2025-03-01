@@ -1,5 +1,5 @@
 ---
-title: "Peer-to-Peer Economy and Capitalism (Algo Trading)"
+title: "Peer-to-Peer Economy and Capitalism"
 description: "Explore the dynamic intersection of capitalism and the Peer-to-Peer economy, highlighting the transformative role of algorithmic trading in reshaping markets."
 ---
 

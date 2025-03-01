@@ -1,5 +1,5 @@
 ---
-title: "Points in Mortgage Rates, Stocks, and Bonds (Algo Trading)"
+title: "Points in Mortgage Rates, Stocks, and Bonds"
 description: "Explore how mortgage rates stocks bonds and algorithmic trading interconnect influencing investment strategies and economic outcomes for informed decision-making."
 ---
 

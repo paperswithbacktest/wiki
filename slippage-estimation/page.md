@@ -1,5 +1,5 @@
 ---
-title: "slippage estimation (Algo Trading)"
+title: "slippage estimation"
 description: "Understand the importance of estimating slippage in algorithmic trading as it affects profitability Discover factors like market liquidity and how to mitigate slippage"
 ---
 

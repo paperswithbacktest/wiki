@@ -1,5 +1,5 @@
 ---
-title: "Net Debt Per Capita: Definition, Mechanism, and Importance (Algo Trading)"
+title: "Net Debt Per Capita: Definition, Mechanism, and Importance"
 description: "Explore the intricacies of net debt and debt per capita, key financial metrics crucial for investors, analysts, and algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Recycle Ratio: Meaning, Function, and Example (Algo Trading)"
+title: "Recycle Ratio: Meaning, Function, and Example"
 description: "Explore the significance of the recycle ratio in oil trading metrics and its application in algorithmic trading for better decision-making and profitability."
 ---
 

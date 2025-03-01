@@ -1,5 +1,5 @@
 ---
-title: "Prisoner's Dilemma (Algo Trading)"
+title: "Prisoner's Dilemma"
 description: "Explore the strategic complexities of the Prisoner's Dilemma in algorithmic trading, where cooperation and competition drive decision-making and influence market outcomes."
 ---
 

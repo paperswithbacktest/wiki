@@ -1,5 +1,5 @@
 ---
-title: "Viability of Real Estate Investment Trusts (Algo Trading)"
+title: "Viability of Real Estate Investment Trusts"
 description: "Explore the synergy of Real Estate Investment Trusts and algorithmic trading to optimize portfolios with data-driven strategies for income and diversification."
 ---
 

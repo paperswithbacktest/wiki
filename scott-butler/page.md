@@ -1,5 +1,5 @@
 ---
-title: "Scott Butler (Algo Trading)"
+title: "Scott Butler"
 description: "Scott Butler a leading risk analyst at Akuna Capital excels in algorithmic trading within the fixed income sector enhancing risk management frameworks."
 ---
 

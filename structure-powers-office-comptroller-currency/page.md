@@ -1,5 +1,5 @@
 ---
-title: "Structure and Powers of the Office of the Comptroller of the Currency (Algo Trading)"
+title: "Structure and Powers of the Office of the Comptroller of the Currency"
 description: "Explore the OCC's role in regulating algorithmic trading ensuring banking sector stability by managing risks and adhering to robust compliance."
 ---
 

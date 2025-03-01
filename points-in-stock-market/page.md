@@ -1,5 +1,5 @@
 ---
-title: "Points in Stock Market (Algo Trading)"
+title: "Points in Stock Market"
 description: "Understanding stock market points is key for traders and investors to analyze market trends and make informed decisions using algorithmic trading efficiently."
 ---
 

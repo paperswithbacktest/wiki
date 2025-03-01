@@ -1,5 +1,5 @@
 ---
-title: "Price-to-Book Ratio and Its Function (Algo Trading)"
+title: "Price-to-Book Ratio and Its Function"
 description: "Explore the critical role of the Price-to-Book (P/B) Ratio in investment analysis and algorithmic trading to uncover potential undervaluation or overvaluation opportunities."
 ---
 

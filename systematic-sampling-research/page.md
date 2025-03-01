@@ -1,5 +1,5 @@
 ---
-title: "Systematic Sampling in Research (Algo Trading)"
+title: "Systematic Sampling in Research"
 description: "Systematic sampling streamlines data analysis by selecting sample elements at regular intervals enhancing efficiency in research and algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Property Management: Roles, Types, and Duties (Algo Trading)"
+title: "Property Management: Roles, Types, and Duties"
 description: "Explore the transformative fusion of property management and algorithmic trading. Discover key roles and tech-driven strategies reshaping real estate investments."
 ---
 

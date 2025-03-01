@@ -1,5 +1,5 @@
 ---
-title: "Trading Arcades: Overview and Mechanics (Algo Trading)"
+title: "Trading Arcades: Overview and Mechanics"
 description: "Explore trading arcades, operations, and algo trading in financial markets Dissect how these elements boost trading efficiency and aid profitability"
 ---
 

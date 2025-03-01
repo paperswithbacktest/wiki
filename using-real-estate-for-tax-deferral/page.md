@@ -1,5 +1,5 @@
 ---
-title: "Using Real Estate for Tax Deferral (Algo Trading)"
+title: "Using Real Estate for Tax Deferral"
 description: "Explore innovative real estate strategies for tax deferral and wealth building Learn how algorithmic trading assists in optimizing timing and enhancing portfolio performance"
 ---
 

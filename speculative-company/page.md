@@ -1,5 +1,5 @@
 ---
-title: "Speculative Company (Algo Trading)"
+title: "Speculative Company"
 description: "Explore the dynamic world of speculative companies and algorithmic trading Discover the risks and rewards of innovative investment strategies in modern finance"
 ---
 

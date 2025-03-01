@@ -1,5 +1,5 @@
 ---
-title: "Understanding Bull Steepeners in Yield Curve Shifts (Algo Trading)"
+title: "Understanding Bull Steepeners in Yield Curve Shifts"
 description: "Explore how bull steepeners affect yield curves in algo trading. Discover strategies to optimize investment portfolios as short-term rates decline faster than long-term rates."
 ---
 

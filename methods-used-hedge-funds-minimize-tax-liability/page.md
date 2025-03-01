@@ -1,5 +1,5 @@
 ---
-title: "Methods Used by Hedge Funds to Minimize Tax Liability (Algo Trading)"
+title: "Methods Used by Hedge Funds to Minimize Tax Liability"
 description: "Explore how hedge funds utilize advanced algorithmic trading and strategic tax techniques to enhance returns and minimize tax liabilities for investors."
 ---
 

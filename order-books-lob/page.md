@@ -1,5 +1,5 @@
 ---
-title: "order books (LOB) (Algo Trading)"
+title: "order books (LOB)"
 description: "Explore the transformative role of Limit Order Books in algorithmic trading enhancing trade execution and strategy through real-time market data insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Minimum Investment: Overview and Examples (Algo Trading)"
+title: "Minimum Investment: Overview and Examples"
 description: "Explore minimum investment strategies and their role in algorithmic trading to optimize portfolios manage risks and achieve financial success in evolving markets."
 ---
 

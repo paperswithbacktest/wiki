@@ -1,5 +1,5 @@
 ---
-title: "Sectoral Currency (Algo Trading)"
+title: "Sectoral Currency"
 description: "Explore the impact of algorithmic trading on the financial sector, examining its role in global markets, sectoral currencies, and economic innovation."
 ---
 

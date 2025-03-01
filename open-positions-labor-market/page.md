@@ -1,5 +1,5 @@
 ---
-title: "Open Positions in Labor Market (Algo Trading)"
+title: "Open Positions in Labor Market"
 description: "Explore the convergence of the labor market and algorithmic trading, highlighting how this intersection influences job vacancies and employment opportunities. Discover insights into how digital technology and data-centric advancements are reshaping employment dynamics, creating new skill demands and opportunities across various sectors. Stay informed on how employers and job seekers can adapt to these evolving trends to remain competitive in today's rapidly changing global economy."
 ---
 

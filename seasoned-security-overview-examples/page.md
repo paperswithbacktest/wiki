@@ -1,5 +1,5 @@
 ---
-title: "Seasoned Security: Overview and Examples (Algo Trading)"
+title: "Seasoned Security: Overview and Examples"
 description: "Explore the dynamic world of seasoned securities and algorithmic trading to understand financial instruments, risk management, and investment strategies today."
 ---
 

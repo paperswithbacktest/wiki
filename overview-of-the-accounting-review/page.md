@@ -1,5 +1,5 @@
 ---
-title: "Overview of The Accounting Review (Algo Trading)"
+title: "Overview of The Accounting Review"
 description: "The Accounting Review, an influential journal by the American Accounting Association, disseminates peer-reviewed research advancing academic and practical accounting practices."
 ---
 

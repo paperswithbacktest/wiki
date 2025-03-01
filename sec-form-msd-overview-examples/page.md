@@ -1,5 +1,5 @@
 ---
-title: "SEC Form MSD: Overview and Examples (Algo Trading)"
+title: "SEC Form MSD: Overview and Examples"
 description: "Explore the regulatory framework of municipal securities dealers with a focus on SEC Form MSD and the impact of algorithmic trading on market dynamics."
 ---
 

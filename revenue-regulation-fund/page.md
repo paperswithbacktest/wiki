@@ -1,5 +1,5 @@
 ---
-title: "Revenue Regulation Fund (Algo Trading)"
+title: "Revenue Regulation Fund"
 description: "Explore the vital role of regulation in fund management and algorithmic trading to ensure financial market stability and safeguard investor interests amidst innovation."
 ---
 

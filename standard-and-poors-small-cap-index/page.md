@@ -1,5 +1,5 @@
 ---
-title: "Standard & Poor’s small-cap index (Algo Trading)"
+title: "Standard & Poor’s small-cap index"
 description: Explore the integration of Standard and Poor’s Small-Cap Index into algorithmic trading, highlighting opportunities and challenges. This article investigates into the distinctive traits of small-cap stocks, their volatility, liquidity issues, and growth potential, alongside the advanced strategies in algorithmic trading. Learn how leveraging algorithms with small-cap stocks can enhance market performance and navigate trading complexities, emphasizing the strategic importance of this synthesis in modern financial markets.
 ---
 

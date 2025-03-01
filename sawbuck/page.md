@@ -1,5 +1,5 @@
 ---
-title: "Sawbuck (Algo Trading)"
+title: "Sawbuck"
 description: "Explore the fascinating intersection of historical money slang and modern algorithmic trading with \"Sawbuck\" which originally referred to a $10 bill symbolizing ten through a carpenter's sawhorse design. Discover how slang like this enhances communication, community, and financial literacy, while algorithmic trading represents today's high-speed, data-driven financial landscape. This page offers an insightful journey into how traditional terms adapt in the digital era, enriching understanding of contemporary financial dynamics."
 ---
 

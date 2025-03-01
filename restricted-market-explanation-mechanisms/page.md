@@ -1,5 +1,5 @@
 ---
-title: "Restricted Market: Explanation and Mechanisms (Algo Trading)"
+title: "Restricted Market: Explanation and Mechanisms"
 description: "Explore how restricted markets interact with algorithmic trading and economic regulations shaping modern financial landscapes. Understand the crucial oversight role in market integrity."
 ---
 

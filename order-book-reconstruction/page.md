@@ -1,5 +1,5 @@
 ---
-title: "Order book reconstruction (Algo Trading)"
+title: "Order book reconstruction"
 description: "Order book reconstruction is vital in algorithmic trading providing insights into market depth and dynamics aiding traders in strategy optimization and informed decisions."
 ---
 

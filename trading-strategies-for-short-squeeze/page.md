@@ -1,5 +1,5 @@
 ---
-title: "Trading Strategies for a Short Squeeze (Algo Trading)"
+title: "Trading Strategies for a Short Squeeze"
 description: "Explore trading strategies at the intersection of short squeezes and algorithmic trading Discover how algorithms can identify and capitalize on market dynamics"
 ---
 

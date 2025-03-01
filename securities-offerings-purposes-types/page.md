@@ -1,5 +1,5 @@
 ---
-title: "Securities Offerings: Purposes and Types (Algo Trading)"
+title: "Securities Offerings: Purposes and Types"
 description: "Discover the synergy between securities offerings and algorithmic trading Explore their significance and impact on modern financial markets and investments"
 ---
 

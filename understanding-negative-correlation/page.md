@@ -1,5 +1,5 @@
 ---
-title: "Understanding Negative Correlation (Algo Trading)"
+title: "Understanding Negative Correlation"
 description: "Explore the critical role of negative correlation in algorithmic trading to devise strategies for optimizing risk and return with real-world examples."
 ---
 

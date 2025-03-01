@@ -1,5 +1,5 @@
 ---
-title: "Sheppard, Kevin (Algo Trading)"
+title: "Sheppard, Kevin"
 description: Explore the transformative world of algorithmic trading with insights from Kevin Davey, a leading expert in the field. This article investigates into his successful trading strategies and educational contributions, providing valuable knowledge for both beginner and seasoned traders. Gain an understanding of the meticulous methods and innovative approaches that set Kevin apart in the algorithmic trading landscape, offering practical perspectives on mastering market complexities.
 ---
 

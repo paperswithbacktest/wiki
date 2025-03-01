@@ -1,5 +1,5 @@
 ---
-title: "Reinvestment Risk and Management Strategies (Algo Trading)"
+title: "Reinvestment Risk and Management Strategies"
 description: "Explore strategies for managing reinvestment risk through investment diversification and algorithmic trading, enhancing financial decision-making and portfolio resilience."
 ---
 

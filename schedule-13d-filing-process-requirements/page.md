@@ -1,5 +1,5 @@
 ---
-title: "Schedule 13D: Filing Process and Requirements (Algo Trading)"
+title: "Schedule 13D: Filing Process and Requirements"
 description: "Discover the significance of Schedule 13D filings with the SEC in transparency and algorithmic trading strategies enhancing market predictability and informed decisions."
 ---
 

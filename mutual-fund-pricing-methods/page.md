@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Pricing Methods (Algo Trading)"
+title: "Mutual Fund Pricing Methods"
 description: "Gain insights into mutual fund pricing methods and explore the impact of algorithmic trading on valuation and risk management for informed investment decisions."
 ---
 

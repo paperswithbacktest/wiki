@@ -1,5 +1,5 @@
 ---
-title: "Negative Volume Index: Overview and Calculations (Algo Trading)"
+title: "Negative Volume Index: Overview and Calculations"
 description: "Explore the Negative Volume Index (NVI) as a distinctive tool in algorithmic trading offering insights into market dynamics during low-volume days to reveal smarter money trends."
 ---
 

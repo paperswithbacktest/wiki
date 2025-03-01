@@ -1,5 +1,5 @@
 ---
-title: "Shrinkflation: Overview and Identification (Algo Trading)"
+title: "Shrinkflation: Overview and Identification"
 description: "Discover how shrinkflation and algorithmic trading influence consumer economics. Explore methods to identify shrinkflation and its impact on market strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Qualitative Data Analysis (Algo Trading)"
+title: "Qualitative Data Analysis"
 description: "Explore the dynamic intersection of qualitative research and algorithmic trading Learn how qualitative insights enhance data-driven strategies for trading decisions"
 ---
 

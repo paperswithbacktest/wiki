@@ -1,5 +1,5 @@
 ---
-title: "Supervised Learning for Trading (Algo Trading)"
+title: "Supervised Learning for Trading"
 description: "Unlock algorithmic trading potential with supervised learning Explore regression and classification methods to enhance market prediction and strategy accuracy"
 ---
 

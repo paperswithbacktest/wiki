@@ -1,5 +1,5 @@
 ---
-title: "Trailing Free Cash Flow: Concept and Calculation (Algo Trading)"
+title: "Trailing Free Cash Flow: Concept and Calculation"
 description: "Learn the importance of trailing Free Cash Flow its calculation and how it enhances algorithmic trading strategies by assessing financial health over time."
 ---
 

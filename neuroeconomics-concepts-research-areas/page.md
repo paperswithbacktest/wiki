@@ -1,5 +1,5 @@
 ---
-title: "Neuroeconomics: Concepts and Research Areas (Algo Trading)"
+title: "Neuroeconomics: Concepts and Research Areas"
 description: "Explore how neuroeconomics combines neuroscience economics and psychology to influence algorithmic trading by understanding cognitive and emotional decision-making processes"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pre-Settlement Risk and Its Mechanisms (Algo Trading)"
+title: "Pre-Settlement Risk and Its Mechanisms"
 description: "Explore the mechanisms of pre-settlement risk in algorithmic trading. Learn how it influences trading strategies and the role of algorithms in mitigating these risks."
 ---
 

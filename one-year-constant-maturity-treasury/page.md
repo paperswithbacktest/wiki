@@ -1,5 +1,5 @@
 ---
-title: "One-Year Constant Maturity Treasury (Algo Trading)"
+title: "One-Year Constant Maturity Treasury"
 description: "Discover how One-Year Constant Maturity Treasury notes and algorithmic trading influence investment strategies enhancing portfolio management and financial success."
 ---
 

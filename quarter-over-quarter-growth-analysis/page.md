@@ -1,5 +1,5 @@
 ---
-title: "Quarter Over Quarter Growth Analysis (Algo Trading)"
+title: "Quarter Over Quarter Growth Analysis"
 description: "Optimize your algorithmic trading strategies with Quarter Over Quarter growth analysis for real-time insights into financial performance and emerging market trends."
 ---
 

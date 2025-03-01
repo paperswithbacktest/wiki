@@ -1,5 +1,5 @@
 ---
-title: "Peter Lynch Strategy Explained (Algo Trading)"
+title: "Peter Lynch Strategy Explained"
 description: Discover how Peter Lynch's renowned investment strategies can be fused with modern algorithmic trading techniques to enhance decision-making in the financial markets. Learn how his principles of investing in familiar businesses and identifying "ten baggers" can be integrated with automated trading systems for improved stock selection and portfolio management. Explore the potential this blend offers in maximizing returns while navigating the complexities of contemporary investing.
 ---
 

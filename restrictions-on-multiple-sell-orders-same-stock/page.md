@@ -1,5 +1,5 @@
 ---
-title: "Restrictions on Multiple Sell Orders for the Same Stock (Algo Trading)"
+title: "Restrictions on Multiple Sell Orders for the Same Stock"
 description: "Explore the complexities of stock trading order restrictions and learn how to navigate challenges with sell orders in algorithmic trading to enhance profitability."
 ---
 

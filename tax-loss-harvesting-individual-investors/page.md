@@ -1,5 +1,5 @@
 ---
-title: "Tax-Loss Harvesting for Individual Investors (Algo Trading)"
+title: "Tax-Loss Harvesting for Individual Investors"
 description: "Explore tax-loss harvesting for individual investors with algorithmic trading strategies enhancing tax efficiency while staying compliant with regulations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Unweighted Index: Functionality and Implications (Algo Trading)"
+title: "Unweighted Index: Functionality and Implications"
 description: "Explore the role and benefits of unweighted indexes in algorithmic trading and their impact on investment strategies, offering balanced market insights."
 ---
 

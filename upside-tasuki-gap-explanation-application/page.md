@@ -1,5 +1,5 @@
 ---
-title: "Upside Tasuki Gap: Explanation and Application (Algo Trading)"
+title: "Upside Tasuki Gap: Explanation and Application"
 description: "Explore the Upside Tasuki Gap candlestick pattern for algorithmic trading Enhance your strategy with insights into trend continuation and market sentiment analysis"
 ---
 

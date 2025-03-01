@@ -1,5 +1,5 @@
 ---
-title: "Random Reinforcement in Trading and Its Impact on Trader Success (Algo Trading)"
+title: "Random Reinforcement in Trading and Its Impact on Trader Success"
 description: "Explore the impact of random reinforcement on trading psychology It discusses how cognitive biases lead traders to misattribute random outcomes to skill and offers strategies to mitigate these effects"
 ---
 

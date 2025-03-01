@@ -1,5 +1,5 @@
 ---
-title: "Sweeteners: Composition, Mechanism, and Examples (Algo Trading)"
+title: "Sweeteners: Composition, Mechanism, and Examples"
 description: "Explore the intersection of sweeteners and algorithmic trading uncovering how innovations in food and finance impact health choices and market dynamics."
 ---
 

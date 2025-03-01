@@ -1,5 +1,5 @@
 ---
-title: "Steps for Verifying Broker Legitimacy (Algo Trading)"
+title: "Steps for Verifying Broker Legitimacy"
 description: "Ensure your broker is reputable and regulated with our guide to verifying legitimacy in algo trading Choose wisely to avoid scams and protect investments"
 ---
 

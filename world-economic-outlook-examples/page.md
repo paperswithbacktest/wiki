@@ -1,5 +1,5 @@
 ---
-title: "World Economic Outlook with Examples (Algo Trading)"
+title: "World Economic Outlook with Examples"
 description: "Explore the intricate global economic outlook and the impact of factors like trade dynamics and algorithmic trading. Discover challenges and opportunities ahead."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Predictive Analytics: Model Types and Applications (Algo Trading)"
+title: "Predictive Analytics: Model Types and Applications"
 description: "Explore the role of predictive analytics in algorithmic trading, highlighting various model types like regression, time series, decision trees and neural networks."
 ---
 

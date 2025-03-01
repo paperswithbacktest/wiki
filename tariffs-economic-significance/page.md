@@ -1,5 +1,5 @@
 ---
-title: "Tariffs and Their Economic Significance (Algo Trading)"
+title: "Tariffs and Their Economic Significance"
 description: "Explore the significance of tariffs and algorithmic trading in global markets understanding their effects on economic stability and strategies to navigate challenges."
 ---
 

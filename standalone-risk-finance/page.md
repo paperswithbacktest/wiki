@@ -1,5 +1,5 @@
 ---
-title: "Standalone Risk in Finance (Algo Trading)"
+title: "Standalone Risk in Finance"
 description: "Explore the distinctions between standalone risk and financial risk in algorithmic trading and gain essential insights for effective risk management in finance."
 ---
 

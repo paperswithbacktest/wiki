@@ -1,5 +1,5 @@
 ---
-title: "Reserve Ratio and Calculation Methodology (Algo Trading)"
+title: "Reserve Ratio and Calculation Methodology"
 description: "Explore the world of finance with insights into reserve ratio calculations, banking regulations, and algorithmic trading. Understand the central banks' strategies affecting money supply and how banking rules ensure stability. Discover how algorithmic trading reshapes markets through speed and automation. Gain vital knowledge to navigate today's complex financial environment."
 ---
 

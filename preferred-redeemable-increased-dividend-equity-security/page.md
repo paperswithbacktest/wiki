@@ -1,5 +1,5 @@
 ---
-title: "Preferred Redeemable Increased Dividend Equity Security (Algo Trading)"
+title: "Preferred Redeemable Increased Dividend Equity Security"
 description: "Explore the innovative Preferred Redeemable Increased Dividend Equity Securities (PRIDES) and their fusion of equity and fixed-income features with algorithmic trading."
 ---
 

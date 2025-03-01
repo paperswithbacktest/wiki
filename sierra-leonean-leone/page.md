@@ -1,5 +1,5 @@
 ---
-title: "Sierra Leonean Leone (Algo Trading)"
+title: "Sierra Leonean Leone"
 description: "Explore the role of the Sierra Leonean Leone in algorithmic trading to understand its impact on emerging markets and how traders can leverage this currency."
 ---
 

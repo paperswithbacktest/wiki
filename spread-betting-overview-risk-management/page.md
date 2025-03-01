@@ -1,5 +1,5 @@
 ---
-title: "Spread Betting: Overview and Risk Management (Algo Trading)"
+title: "Spread Betting: Overview and Risk Management"
 description: "Discover the interplay between spread betting and algorithmic trading with a focus on risk management. Learn strategies to safeguard investments while exploring profit opportunities."
 ---
 

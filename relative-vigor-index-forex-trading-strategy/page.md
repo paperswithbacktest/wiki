@@ -1,5 +1,5 @@
 ---
-title: "Relative Vigor Index in Forex Trading Strategy (Algo Trading)"
+title: "Relative Vigor Index in Forex Trading Strategy"
 description: "Explore how the Relative Vigor Index enhances forex trading strategies with its ability to gauge trend strength and improve decision-making in algorithmic trading."
 ---
 

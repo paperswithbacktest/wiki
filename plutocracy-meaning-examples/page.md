@@ -1,5 +1,5 @@
 ---
-title: "Plutocracy: Meaning and Examples (Algo Trading)"
+title: "Plutocracy: Meaning and Examples"
 description: "Explore the intersection of plutocracy and algorithmic trading to understand how wealth distribution influences financial markets and policy."
 ---
 

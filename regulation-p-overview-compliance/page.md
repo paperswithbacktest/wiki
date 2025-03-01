@@ -1,5 +1,5 @@
 ---
-title: "Regulation P: Overview and Compliance (Algo Trading)"
+title: "Regulation P: Overview and Compliance"
 description: "Explore Regulation P compliance for algorithmic trading Learn how financial institutions handle consumer data under this privacy regulation essential for protecting information"
 ---
 

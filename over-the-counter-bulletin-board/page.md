@@ -1,5 +1,5 @@
 ---
-title: "Over-the-Counter Bulletin Board (Algo Trading)"
+title: "Over-the-Counter Bulletin Board"
 description: "Explore the impact of algorithmic trading on OTC markets, focusing on the legacy of the Over-the-Counter Bulletin Board and its role in shaping today's trading environment."
 ---
 

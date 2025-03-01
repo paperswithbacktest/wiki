@@ -1,5 +1,5 @@
 ---
-title: "Thomas C. Chiang (Algo Trading)"
+title: "Thomas C. Chiang"
 description: "Discover the remarkable journey of Thomas C. Chiang renowned for his impactful contributions to finance academia and algorithmic trading at Drexel University."
 ---
 

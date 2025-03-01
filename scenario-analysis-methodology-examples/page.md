@@ -1,5 +1,5 @@
 ---
-title: "Scenario Analysis: Methodology and Examples (Algo Trading)"
+title: "Scenario Analysis: Methodology and Examples"
 description: "Explore how scenario analysis refines algorithmic trading strategies by simulating market conditions to identify potential risks and opportunities for optimized outcomes."
 ---
 

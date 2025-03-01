@@ -1,5 +1,5 @@
 ---
-title: "Opportunity Zones: Definition, Benefits, and Criticisms (Algo Trading)"
+title: "Opportunity Zones: Definition, Benefits, and Criticisms"
 description: "Explore the benefits and criticisms of Opportunity Zones and algorithmic trading Discover their potential impacts on investment strategies and community development"
 ---
 

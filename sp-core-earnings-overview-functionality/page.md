@@ -1,5 +1,5 @@
 ---
-title: "S&P Core Earnings: Overview and Functionality (Algo Trading)"
+title: "S&P Core Earnings: Overview and Functionality"
 description: "Explore the significance of S&P Core Earnings, highlighting its impact on profitability analysis and synergy with algorithmic trading for optimal strategies."
 ---
 

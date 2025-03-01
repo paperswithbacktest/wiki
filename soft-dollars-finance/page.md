@@ -1,5 +1,5 @@
 ---
-title: "Soft Dollars in Finance (Algo Trading)"
+title: "Soft Dollars in Finance"
 description: "Explore the intersection of soft dollars and algorithmic trading in finance Learn how these strategies shape modern investment landscapes and optimize returns"
 ---
 

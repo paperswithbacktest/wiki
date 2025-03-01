@@ -1,5 +1,5 @@
 ---
-title: "Short Selling and the Implementation of Bans (Algo Trading)"
+title: "Short Selling and the Implementation of Bans"
 description: "Explore the impact of short selling and algorithmic trading in finance. Discover regulations, their motivations, and how they shape market stability and risk."
 ---
 

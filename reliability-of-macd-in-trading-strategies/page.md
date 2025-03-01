@@ -1,5 +1,5 @@
 ---
-title: "Reliability of MACD in Trading Strategies (Algo Trading)"
+title: "Reliability of MACD in Trading Strategies"
 description: "Explore the effectiveness of the MACD indicator in algorithmic trading strategies analyzing its role in identifying momentum shifts and optimizing trade execution."
 ---
 

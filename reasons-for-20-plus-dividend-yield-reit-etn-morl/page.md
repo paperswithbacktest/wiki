@@ -1,5 +1,5 @@
 ---
-title: "Reasons for 20%+ Dividend Yield of REIT ETN MORL (Algo Trading)"
+title: "Reasons for 20%+ Dividend Yield of REIT ETN MORL"
 description: "Explore the reasons behind the 20%+ dividend yield of MORL ETN Discover its leverage impact on returns and risks alongside algorithmic trading insights"
 ---
 

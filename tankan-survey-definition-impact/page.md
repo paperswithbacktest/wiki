@@ -1,5 +1,5 @@
 ---
-title: "Tankan Survey: Definition and Impact (Algo Trading)"
+title: "Tankan Survey: Definition and Impact"
 description: "Explore the Tankan Survey's impact on Japan's economy and how it informs monetary policy and algorithmic trading strategies amidst global economic shifts."
 ---
 

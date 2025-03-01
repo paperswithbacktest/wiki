@@ -1,5 +1,5 @@
 ---
-title: "Transaction costs in quantitative investing (Algo Trading)"
+title: "Transaction costs in quantitative investing"
 description: Explore how algorithmic trading leverages technology for high-speed, precise trade execution while emphasizing the importance of managing transaction costs to maintain profitability. These costs, including explicit fees and implicit expenses like slippage, can erode returns, especially in high-frequency trading. This article investigates into components of transaction costs, their impact on trading, and strategies to minimize them, essential for traders in quantitative investing. Understanding factors like market liquidity, order size, and broker selection aids in reducing costs, enhancing strategy viability and competitiveness in the financial markets.
 ---
 

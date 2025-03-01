@@ -1,5 +1,5 @@
 ---
-title: "How Much Do Quants Really Earn? (Algo Trading)"
+title: "How Much Do Quants Really Earn?"
 description: Discover the potential earnings and career opportunities for quants in algorithmic trading. This article explores the factors affecting quant salaries, such as experience, location, and expertise, highlighting the high demand and lucrative compensation packages in the field. Learn about the essential skills required for success, including mathematical modeling, programming in languages like Python, and financial theory. Understand how the dynamic landscape of algotrading offers diverse career paths and advancement prospects for those equipped with a strategic and analytical mindset.
 ---
 

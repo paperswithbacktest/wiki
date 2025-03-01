@@ -1,5 +1,5 @@
 ---
-title: "Types of Derivatives as Forward Commitments (Algo Trading)"
+title: "Types of Derivatives as Forward Commitments"
 description: "Explore forward commitments and derivatives in algo trading Discover how forward contracts and technology drive modern risk management and trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Revenue Cap Regulation: Overview, Mechanisms, Advantages, and Disadvantages (Algo Trading)"
+title: "Revenue Cap Regulation: Overview, Mechanisms, Advantages, and Disadvantages"
 description: "Explore the dynamics of revenue cap regulation and its implications in monopolistic markets alongside the impact of algorithmic trading in financial markets."
 ---
 

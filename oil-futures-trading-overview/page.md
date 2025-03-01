@@ -1,5 +1,5 @@
 ---
-title: "Oil Futures Trading Overview (Algo Trading)"
+title: "Oil Futures Trading Overview"
 description: "Explore the dynamic world of oil futures trading with a focus on algorithmic trading techniques that enhance speed, efficiency, and market forecasting accuracy."
 ---
 

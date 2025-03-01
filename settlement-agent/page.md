@@ -1,5 +1,5 @@
 ---
-title: "Settlement Agent (Algo Trading)"
+title: "Settlement Agent"
 description: "Explore the pivotal role of settlement agents in real estate transactions and how algorithmic processes enhance efficiency, security, and transparency for buyers and sellers."
 ---
 

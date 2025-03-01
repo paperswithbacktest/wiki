@@ -1,5 +1,5 @@
 ---
-title: "Online Investment Strategies (Algo Trading)"
+title: "Online Investment Strategies"
 description: "Explore the world of digital investing and algorithmic trading and discover how online platforms provide unprecedented access and strategies for modern investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pairs Trading Strategy and Example (Algo Trading)"
+title: "Pairs Trading Strategy and Example"
 description: "Explore the mechanics and benefits of pairs trading within algorithmic frameworks to exploit price anomalies for optimized market-neutral strategies."
 ---
 

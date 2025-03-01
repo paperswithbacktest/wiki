@@ -1,5 +1,5 @@
 ---
-title: "Proprietary Trading Firm Overview (Algo Trading)"
+title: "Proprietary Trading Firm Overview"
 description: "Explore the evolving role of proprietary trading firms emphasizing algo trading's impact on financial markets with speed precision and strategic innovation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Principles and Meaning of Social Justice (Algo Trading)"
+title: "Principles and Meaning of Social Justice"
 description: "Explore how social justice principles can inform algorithmic trading to create ethical financial systems. Discover the link between fairness and technology."
 ---
 

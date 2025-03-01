@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Kishu Inu Cryptocurrency (Algo Trading)"
+title: "Purchasing Kishu Inu Cryptocurrency"
 description: "Learn how to buy Kishu Inu cryptocurrency and integrate algorithmic trading to maximize returns and minimize risks in your investment strategy."
 ---
 

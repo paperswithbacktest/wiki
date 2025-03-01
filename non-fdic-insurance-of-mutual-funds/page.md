@@ -1,5 +1,5 @@
 ---
-title: "Non-FDIC Insurance of Mutual Funds (Algo Trading)"
+title: "Non-FDIC Insurance of Mutual Funds"
 description: "Explore the dynamics of mutual funds and algorithmic trading in investment strategies focusing on the risks without FDIC coverage and the role of diversification."
 ---
 

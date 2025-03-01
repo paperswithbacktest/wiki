@@ -1,5 +1,5 @@
 ---
-title: "SpaCy in Python (Algo Trading)"
+title: "SpaCy in Python"
 description: Explore how leveraging the natural language processing library spaCy in Python can enhance algorithmic trading strategies. Discover spaCy's high-performance capabilities for handling vast amounts of financial text data quickly and accurately. Learn about vital features like tokenization, lemmatization, and sentiment analysis to gain insights from news articles and social media, helping traders better anticipate market trends. Understand how integrating spaCy into trading systems offers a competitive edge by improving decision-making and predicting market movements in a fast-paced financial environment.
 ---
 

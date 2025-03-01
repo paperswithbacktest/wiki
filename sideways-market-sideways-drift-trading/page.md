@@ -1,5 +1,5 @@
 ---
-title: "Sideways Market and Sideways Drift in Trading (Algo Trading)"
+title: "Sideways Market and Sideways Drift in Trading"
 description: "Explore sideways markets in trading where prices move within a range without trend offering unique strategies including algorithmic trading for effective navigation."
 ---
 

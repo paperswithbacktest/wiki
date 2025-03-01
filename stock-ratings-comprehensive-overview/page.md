@@ -1,5 +1,5 @@
 ---
-title: "Stock Ratings: A Comprehensive Overview (Algo Trading)"
+title: "Stock Ratings: A Comprehensive Overview"
 description: "Explore stock ratings and algorithmic trading as vital tools for making informed investment decisions. Gain insights into market evaluation and investment analysis."
 ---
 

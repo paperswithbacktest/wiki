@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Earnings Potential (Algo Trading)"
+title: "Stock Market Earnings Potential"
 description: "Discover how to maximize your investment potential with stock market earnings and algorithmic trading Combine insights from earnings analysis with trading algorithms"
 ---
 

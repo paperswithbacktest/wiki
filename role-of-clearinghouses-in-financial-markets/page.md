@@ -1,5 +1,5 @@
 ---
-title: "Role of Clearinghouses in Financial Markets (Algo Trading)"
+title: "Role of Clearinghouses in Financial Markets"
 description: "Explore the vital role of clearinghouses in financial markets and their synergy with algorithmic trading to ensure secure, efficient, and risk-managed transactions."
 ---
 

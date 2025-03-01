@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Shorting the U.S. Bond Market (Algo Trading)"
+title: "Strategies for Shorting the U.S. Bond Market"
 description: "Discover strategies for shorting the U.S. bond market using algorithmic trading Learn how to profit from falling bond prices and manage associated risks"
 ---
 

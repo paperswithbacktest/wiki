@@ -1,5 +1,5 @@
 ---
-title: "Recognized Loss in Accounting (Algo Trading)"
+title: "Recognized Loss in Accounting"
 description: "Explore the complexities of recognized loss in accounting and its intersection with algorithmic trading to understand its impact on financial reporting and investment strategies."
 ---
 

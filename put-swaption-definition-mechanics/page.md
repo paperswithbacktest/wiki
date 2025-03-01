@@ -1,5 +1,5 @@
 ---
-title: "Put Swaption: Definition and Mechanics (Algo Trading)"
+title: "Put Swaption: Definition and Mechanics"
 description: "Explore the essentials of put swaptions and algorithmic trading, understanding how these sophisticated financial derivatives function for risk management and hedging strategies."
 ---
 

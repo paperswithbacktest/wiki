@@ -1,5 +1,5 @@
 ---
-title: "Ornstein–Uhlenbeck process (Algo Trading)"
+title: "Ornstein–Uhlenbeck process"
 description: The Ornstein–Uhlenbeck process is a pivotal stochastic model in both financial mathematics and physical sciences, known for its mean-reverting behavior. It simulates the velocity of a Brownian particle under friction, providing a framework for modeling financial processes like interest rates and currency exchange rates. The process is defined by a stochastic differential equation, enabling the maintenance of a stationary Gaussian distribution which doesn't alter over time. Its application in algorithmic trading, particularly in pairs trading, highlights its utility in identifying statistical arbitrage opportunities by modeling mean-reverting price spreads.
 ---
 

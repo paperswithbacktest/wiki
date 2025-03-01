@@ -1,5 +1,5 @@
 ---
-title: "Neera Tanden (Algo Trading)"
+title: "Neera Tanden"
 description: "Explore Neera Tanden's influential role in U.S. politics, from shaping national policies to her insights into algorithmic trading's impact on financial markets."
 ---
 

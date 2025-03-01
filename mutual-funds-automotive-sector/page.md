@@ -1,5 +1,5 @@
 ---
-title: "Mutual Funds Focused on the Automotive Sector (Algo Trading)"
+title: "Mutual Funds Focused on the Automotive Sector"
 description: "Explore investment opportunities in automotive mutual funds and algo trading Discover diversified exposure to the evolving auto sector and optimize strategies for better returns"
 ---
 

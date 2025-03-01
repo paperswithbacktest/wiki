@@ -1,5 +1,5 @@
 ---
-title: "Rama Cont (Algo Trading)"
+title: "Rama Cont"
 description: "Discover the pioneering work of Rama Cont, a leading academic in mathematical finance and algorithmic trading, shaping global research and industry practices."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Insurance (Algo Trading)"
+title: "Portfolio Insurance"
 description: "Explore the integration of portfolio insurance and algorithmic trading to maximize returns and mitigate risk in today's complex financial markets."
 ---
 

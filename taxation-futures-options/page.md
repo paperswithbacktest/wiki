@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Futures and Options (Algo Trading)"
+title: "Taxation of Futures and Options"
 description: "Navigate complex tax regulations for futures and options trading including algorithmic strategies to optimize returns ensure compliance and enhance profitability."
 ---
 

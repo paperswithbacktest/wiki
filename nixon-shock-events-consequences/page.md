@@ -1,5 +1,5 @@
 ---
-title: "Nixon Shock: Events and Consequences (Algo Trading)"
+title: "Nixon Shock: Events and Consequences"
 description: "Explore the shift from the Bretton Woods System through the Nixon Shock of 1971 to the rise of algorithmic trading and its impact on modern financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 305B2 (Algo Trading)"
+title: "SEC Form 305B2"
 description: "Understand the essentials of SEC Form 305B2 in algorithmic trading. Learn its importance for transparency and compliance in securities issuance for financial firms."
 ---
 

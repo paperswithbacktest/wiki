@@ -1,5 +1,5 @@
 ---
-title: "Mont Pelerin Society: Overview and History (Algo Trading)"
+title: "Mont Pelerin Society: Overview and History"
 description: "Explore how the Mont Pelerin Society's classical liberal ideals shape contemporary practices like algorithmic trading enhancing modern economic policies."
 ---
 

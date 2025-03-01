@@ -1,5 +1,5 @@
 ---
-title: "Unicameral Legislature: Function and Examples (Algo Trading)"
+title: "Unicameral Legislature: Function and Examples"
 description: "Explore the efficiency and functionality of unicameral legislatures, which streamline legislative processes by consolidating responsibilities within a single legislative chamber. This system is prevalent in countries like Sweden and Denmark, offering a cost-effective solution with fast decision-making capabilities. The article examines the benefits and drawbacks of unicameral systems, compared to bicameral ones, in terms of legislative efficiency and representation. An innovative perspective also explores algorithmic trading principles in optimizing legislative functions, shedding light on potential advancements in governance models."
 ---
 

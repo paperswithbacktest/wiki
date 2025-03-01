@@ -1,5 +1,5 @@
 ---
-title: "Repeat-Sales Method: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Repeat-Sales Method: Overview, Advantages, and Disadvantages"
 description: "Explore the repeat-sales method in real estate valuation its advantages and limitations and how it impacts market perception and trading strategies."
 ---
 

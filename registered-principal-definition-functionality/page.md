@@ -1,5 +1,5 @@
 ---
-title: "Registered Principal: Definition and Functionality (Algo Trading)"
+title: "Registered Principal: Definition and Functionality"
 description: "Explore the roles of registered principal investment firms within the financial industry, their compliance with regulations, and the impact of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sheriff's Sale: Purpose, Procedure, and Outcome (Algo Trading)"
+title: "Sheriff's Sale: Purpose, Procedure, and Outcome"
 description: "Learn about sheriff's sales public auctions offering repossessed properties due to unpaid debts Understand the process and how algo trading impacts investor strategies"
 ---
 

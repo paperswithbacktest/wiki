@@ -1,5 +1,5 @@
 ---
-title: "Prisoner's Dilemma in Business and Economy (Algo Trading)"
+title: "Prisoner's Dilemma in Business and Economy"
 description: "Discover how the Prisoner's Dilemma in game theory influences strategic decision-making in business, especially through the lens of algorithmic trading."
 ---
 

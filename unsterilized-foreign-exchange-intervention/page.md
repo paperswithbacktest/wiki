@@ -1,5 +1,5 @@
 ---
-title: "Unsterilized Foreign Exchange Intervention (Algo Trading)"
+title: "Unsterilized Foreign Exchange Intervention"
 description: "Explore how unsterilized foreign exchange interventions and algorithmic trading influence currency markets and economic stability in today's digital economy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mid-Cap Value Stocks: Overview and Examples (Algo Trading)"
+title: "Mid-Cap Value Stocks: Overview and Examples"
 description: "Discover the potential of mid-cap value stocks with this insightful overview combining growth and stability. Learn how value investing and algo trading maximize returns."
 ---
 

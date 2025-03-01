@@ -1,5 +1,5 @@
 ---
-title: "Skyscraper Effect: Concept, Instances, and Criticisms (Algo Trading)"
+title: "Skyscraper Effect: Concept, Instances, and Criticisms"
 description: "Explore the Skyscraper Effect in algorithmic trading linking skyscraper construction and economic recessions Discover critiques of this economic indicator theory"
 ---
 

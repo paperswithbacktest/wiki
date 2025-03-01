@@ -1,5 +1,5 @@
 ---
-title: "Reserve Bank of New Zealand (Algo Trading)"
+title: "Reserve Bank of New Zealand"
 description: "Explore the Reserve Bank of New Zealand's vital role in economic stability focusing on monetary policy and the impact of algorithmic trading on financial markets."
 ---
 

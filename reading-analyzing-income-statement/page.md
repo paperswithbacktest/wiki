@@ -1,5 +1,5 @@
 ---
-title: "Reading and Analyzing an Income Statement (Algo Trading)"
+title: "Reading and Analyzing an Income Statement"
 description: "Explore how income statement analysis integrates with algorithmic trading to enhance financial insights and trading strategies for better market performance."
 ---
 

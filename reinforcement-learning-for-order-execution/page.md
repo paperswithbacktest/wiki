@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement learning for order execution (Algo Trading)"
+title: "Reinforcement learning for order execution"
 description: "Explore the transformative impact of reinforcement learning on order execution in algorithmic trading. Discover how AI-driven strategies optimize trade efficiency and profitability."
 ---
 

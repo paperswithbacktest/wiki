@@ -1,5 +1,5 @@
 ---
-title: "Reading a Balance Sheet (Algo Trading)"
+title: "Reading a Balance Sheet"
 description: "Discover how balance sheets influence algorithmic trading by providing key insights into financial health assets liabilities and shareholders' equity."
 ---
 

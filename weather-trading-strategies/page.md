@@ -1,5 +1,5 @@
 ---
-title: "Weather Trading Strategies (Algo Trading)"
+title: "Weather Trading Strategies"
 description: "Explore the strategic role of weather derivatives in financial markets and algorithmic trading Learn how these instruments hedge against weather-related risks"
 ---
 

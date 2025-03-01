@@ -1,5 +1,5 @@
 ---
-title: "One-Time Items: Overview and Examples (Algo Trading)"
+title: "One-Time Items: Overview and Examples"
 description: "Explore the pivotal role of one-time items in accounting and their integration with algorithmic trading to enhance financial analysis and trading strategies."
 ---
 

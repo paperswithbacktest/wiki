@@ -1,5 +1,5 @@
 ---
-title: "Products Benefiting from Protective Tariffs (Algo Trading)"
+title: "Products Benefiting from Protective Tariffs"
 description: "Discover how protective tariffs and algorithmic trading shape global trade dynamics and influence domestic industries, consumer prices, and economic policies."
 ---
 

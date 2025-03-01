@@ -1,5 +1,5 @@
 ---
-title: "Money Market Regulation Changes (Algo Trading)"
+title: "Money Market Regulation Changes"
 description: "Stay informed about recent regulatory changes in money markets and algorithmic trading Discover how these updates affect liquidity risk and trading dynamics"
 ---
 

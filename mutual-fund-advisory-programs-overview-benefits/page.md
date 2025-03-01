@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Advisory Programs: Overview and Benefits (Algo Trading)"
+title: "Mutual Fund Advisory Programs: Overview and Benefits"
 description: "Explore the dynamics of mutual fund advisory programs with a focus on algorithmic trading to boost portfolio performance and align with financial goals."
 ---
 

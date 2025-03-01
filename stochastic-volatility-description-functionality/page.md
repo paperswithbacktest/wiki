@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Volatility: Description and Functionality (Algo Trading)"
+title: "Stochastic Volatility: Description and Functionality"
 description: "Explore the role of stochastic volatility in quantitative finance and algorithmic trading Discover key models like Heston GARCH and SABR and their applications"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Take-Out Commitment and Its Mechanism (Algo Trading)"
+title: "Take-Out Commitment and Its Mechanism"
 description: "Explore the synergy of take-out commitment loans and algorithmic trading in real estate financing for seamless transitions from construction to permanent financing."
 ---
 

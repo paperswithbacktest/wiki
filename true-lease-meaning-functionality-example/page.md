@@ -1,5 +1,5 @@
 ---
-title: "True Lease: Meaning, Functionality, and Example (Algo Trading)"
+title: "True Lease: Meaning, Functionality, and Example"
 description: "Explore the intricacies of true leases, their benefits, and role in algorithmic trading. Learn how they enhance financial flexibility and operational efficiency."
 ---
 

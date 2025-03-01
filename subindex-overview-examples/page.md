@@ -1,5 +1,5 @@
 ---
-title: "Subindex: Overview and Examples (Algo Trading)"
+title: "Subindex: Overview and Examples"
 description: "Explore the essential role of subindexes in algorithmic trading and financial markets This article provides insights examples and strategies for targeted investment decisions"
 ---
 

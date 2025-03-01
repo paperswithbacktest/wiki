@@ -1,5 +1,5 @@
 ---
-title: "Toronto Stock Exchange: Overview and Functionality (Algo Trading)"
+title: "Toronto Stock Exchange: Overview and Functionality"
 description: "Explore the Toronto Stock Exchange's role in Canada's economy and the benefits of algorithmic trading, offering speed, efficiency, and market stability."
 ---
 

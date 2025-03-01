@@ -1,5 +1,5 @@
 ---
-title: "Use of Multiple Time Frames in Trading (Algo Trading)"
+title: "Use of Multiple Time Frames in Trading"
 description: "Leverage the power of multiple time frames in trading to gain a competitive edge by analyzing both long-term trends and short-term market movements. This approach enhances strategic decision-making, allowing traders to refine entry and exit points using technical analysis and algorithmic trading. Discover how integrating these methods can improve profitability by adapting to dynamic market conditions and streamlining processes through automation."
 ---
 

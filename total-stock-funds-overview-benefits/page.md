@@ -1,5 +1,5 @@
 ---
-title: "Total Stock Funds: Overview and Benefits (Algo Trading)"
+title: "Total Stock Funds: Overview and Benefits"
 description: "Explore the benefits of total stock funds and algorithmic trading Learn how combining these strategies can enhance portfolio diversification and optimize trading efficiency"
 ---
 

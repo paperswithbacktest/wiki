@@ -1,5 +1,5 @@
 ---
-title: "Registered Security (Algo Trading)"
+title: "Registered Security"
 description: "Explore the complexities of financial instruments, registered securities, and algorithmic trading while understanding regulation's role in ensuring market integrity."
 ---
 

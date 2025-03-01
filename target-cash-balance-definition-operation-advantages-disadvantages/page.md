@@ -1,5 +1,5 @@
 ---
-title: "Target Cash Balance: Definition, Operation, Advantages, and Disadvantages (Algo Trading)"
+title: "Target Cash Balance: Definition, Operation, Advantages, and Disadvantages"
 description: "Explore how target cash balance and algorithmic trading enhance cash management strategies ensuring liquidity, optimizing investments, and minimizing financial risks."
 ---
 

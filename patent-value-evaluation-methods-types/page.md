@@ -1,5 +1,5 @@
 ---
-title: "Patent Value Evaluation Methods and Types (Algo Trading)"
+title: "Patent Value Evaluation Methods and Types"
 description: "Explore patent valuation methods and their role in strategic business decisions and algorithmic trading Discover traditional and AI-driven techniques to maximize patent value."
 ---
 

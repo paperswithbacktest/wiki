@@ -1,5 +1,5 @@
 ---
-title: "Warren Buffett's Investments in Gold (Algo Trading)"
+title: "Warren Buffett's Investments in Gold"
 description: "Explore Warren Buffett's evolving approach to gold investments amid market dynamics Discover how algorithmic trading complements traditional strategies in today's market landscape."
 ---
 

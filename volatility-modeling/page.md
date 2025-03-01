@@ -1,5 +1,5 @@
 ---
-title: "Volatility Modeling (Algo Trading)"
+title: "Volatility Modeling"
 description: "Discover the essentials of volatility modeling in algorithmic trading Learn how advanced models predict price shifts to maximize returns and improve strategies"
 ---
 

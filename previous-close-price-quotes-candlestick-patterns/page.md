@@ -1,5 +1,5 @@
 ---
-title: "Previous Close: Price Quotes and Candlestick Patterns (Algo Trading)"
+title: "Previous Close: Price Quotes and Candlestick Patterns"
 description: "Explore algorithmic trading with insights on candlestick patterns, price quotes, and previous close metrics to craft successful trading strategies."
 ---
 

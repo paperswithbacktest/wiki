@@ -1,5 +1,5 @@
 ---
-title: "Realized Gain and Unrealized Gain Comparison (Algo Trading)"
+title: "Realized Gain and Unrealized Gain Comparison"
 description: "Compare realized and unrealized gains to understand their impact on investments and tax implications, and explore the efficiency of algorithmic trading strategies."
 ---
 

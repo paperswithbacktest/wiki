@@ -1,5 +1,5 @@
 ---
-title: "Third Market Maker (Algo Trading)"
+title: "Third Market Maker"
 description: "Explore the crucial interplay between third market makers and algorithmic trading within financial markets. Understand how these elements synergize to enhance trading efficiency, liquidity, and cost management. Ideal for those seeking to optimize trading strategies amidst evolving market dynamics."
 ---
 

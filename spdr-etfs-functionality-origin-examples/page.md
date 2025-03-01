@@ -1,5 +1,5 @@
 ---
-title: "SPDR ETFs: Functionality, Origin, and Examples (Algo Trading)"
+title: "SPDR ETFs: Functionality, Origin, and Examples"
 description: "Explore how SPDR ETFs and algorithmic trading enhance investment strategies by providing diversification, efficiency, and precision in dynamic financial markets."
 ---
 

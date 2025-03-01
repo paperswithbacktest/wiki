@@ -1,5 +1,5 @@
 ---
-title: "Order Splitting: Overview and Examples (Algo Trading)"
+title: "Order Splitting: Overview and Examples"
 description: "Explore algorithmic trading strategies like VWAP, TWAP, and Implementation Shortfall that optimize order execution by minimizing market impact and enhancing efficiency."
 ---
 

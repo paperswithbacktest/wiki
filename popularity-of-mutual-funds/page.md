@@ -1,5 +1,5 @@
 ---
-title: "Popularity of Mutual Funds (Algo Trading)"
+title: "Popularity of Mutual Funds"
 description: "Explore the rise of mutual funds and algorithmic trading in modern finance Discover how these trends transform investment strategies for diverse investors"
 ---
 

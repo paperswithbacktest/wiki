@@ -1,5 +1,5 @@
 ---
-title: "New York Stock Exchange Euronext (Algo Trading)"
+title: "New York Stock Exchange Euronext"
 description: "Explore the transformative impact of algorithmic trading on NYSE Euronext as technology enhances trading efficiency speed and precision in global markets."
 ---
 

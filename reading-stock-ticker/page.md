@@ -1,5 +1,5 @@
 ---
-title: "Reading A Stock Ticker (Algo Trading)"
+title: "Reading A Stock Ticker"
 description: "Learn to read stock tickers and explore their significance in algorithmic trading. Understand how real-time data fuels strategies for informed investment decisions."
 ---
 

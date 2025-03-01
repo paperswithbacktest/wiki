@@ -1,5 +1,5 @@
 ---
-title: "Trade Deficit: Causes and Examples (Algo Trading)"
+title: "Trade Deficit: Causes and Examples"
 description: "Explore trade deficits and their economic impact through algorithmic trading insights. Learn how imports, exports, and policies shape global trade dynamics."
 ---
 

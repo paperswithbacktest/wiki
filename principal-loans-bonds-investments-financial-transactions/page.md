@@ -1,5 +1,5 @@
 ---
-title: "Principal in Loans, Bonds, Investments, and Financial Transactions (Algo Trading)"
+title: "Principal in Loans, Bonds, Investments, and Financial Transactions"
 description: "Explore the principal's critical role in loans, bonds, investments, and financial transactions with a focus on algorithmic trading and modern market strategies."
 ---
 

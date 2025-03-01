@@ -1,5 +1,5 @@
 ---
-title: "Retail Alternative Data (Algo Trading)"
+title: "Retail Alternative Data"
 description: Explore the transformative role of retail alternative data in algorithmic trading where diverse information like social media activity and geolocation tracking offers unique insights beyond traditional datasets. This article investigates into how such data sources refine trading models enhance decision-making and provide competitive advantages in financial markets. Discover the benefits and challenges of integrating retail alternative data into trading strategies for improved predictive accuracy and market analysis.
 ---
 

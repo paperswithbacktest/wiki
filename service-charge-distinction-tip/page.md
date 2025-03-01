@@ -1,5 +1,5 @@
 ---
-title: "Service Charge and Its Distinction from a Tip (Algo Trading)"
+title: "Service Charge and Its Distinction from a Tip"
 description: "Explore the nuances between service charges and tips in sectors like hospitality and banking, and understand their impact on algorithmic trading and financial transactions."
 ---
 

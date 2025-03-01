@@ -1,5 +1,5 @@
 ---
-title: "Sovereign Credit Rating and Agencies (Algo Trading)"
+title: "Sovereign Credit Rating and Agencies"
 description: "Explore how sovereign credit ratings impact global finance by shaping perceptions of sovereign debt and influencing algorithmic trading strategies."
 ---
 

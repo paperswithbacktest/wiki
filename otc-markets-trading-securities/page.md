@@ -1,5 +1,5 @@
 ---
-title: "OTC Markets: Trading and Securities (Algo Trading)"
+title: "OTC Markets: Trading and Securities"
 description: "Explore how OTC markets and algorithmic trading are transforming securities trading by offering new opportunities for strategy optimization and enhanced returns."
 ---
 

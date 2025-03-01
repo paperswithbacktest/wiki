@@ -1,5 +1,5 @@
 ---
-title: "Shooting Star in Stock Trading: Meaning and Example (Algo Trading)"
+title: "Shooting Star in Stock Trading: Meaning and Example"
 description: "Discover the significance of the shooting star pattern in stock trading and how it can signal potential market reversals. This article investigates into understanding these patterns and the benefits of combining them with algorithmic trading to enhance trading strategies. Learn about the indicators that confirm the shooting star signal and how to automate your trading process for improved speed and reduced emotional bias."
 ---
 

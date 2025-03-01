@@ -1,5 +1,5 @@
 ---
-title: "Unit Investment Trusts and Investment Strategies (Algo Trading)"
+title: "Unit Investment Trusts and Investment Strategies"
 description: "Explore the dynamic world of Unit Investment Trusts (UITs) and algorithmic trading strategies in this comprehensive guide. Discover how UITs, with their fixed portfolios, provide predictability and diversification, while algorithmic trading enhances investment strategies through speed and precision. Learn about the integration of these two methods to potentially boost returns and manage risk effectively. Delve into the benefits and risks, technological tools, and future trends that shape these innovative financial strategies. This article guides investors through the essential aspects and opportunities of combining UITs with algorithmic trading."
 ---
 

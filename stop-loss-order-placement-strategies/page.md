@@ -1,5 +1,5 @@
 ---
-title: "Stop-Loss Order Placement Strategies (Algo Trading)"
+title: "Stop-Loss Order Placement Strategies"
 description: "Explore effective stop-loss order placement strategies in algorithmic trading to manage investment risks safeguard capital and navigate market complexities expertly."
 ---
 

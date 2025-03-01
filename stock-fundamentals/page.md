@@ -1,5 +1,5 @@
 ---
-title: "Stock Fundamentals (Algo Trading)"
+title: "Stock Fundamentals"
 description: "Explore stock market insights by understanding financial metrics and investment fundamentals and how algorithmic trading impacts investment strategies."
 ---
 

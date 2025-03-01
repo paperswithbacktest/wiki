@@ -1,5 +1,5 @@
 ---
-title: "VWAP Cross: Concept, Analysis, and Calculation (Algo Trading)"
+title: "VWAP Cross: Concept, Analysis, and Calculation"
 description: "Explore the VWAP Cross strategy in algo trading, learn its significance as a trading benchmark, discover how it generates signals, and optimize trade decisions."
 ---
 

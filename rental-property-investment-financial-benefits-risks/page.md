@@ -1,5 +1,5 @@
 ---
-title: "Rental Property Investment: Financial Benefits and Risks (Algo Trading)"
+title: "Rental Property Investment: Financial Benefits and Risks"
 description: "Explore the financial benefits and risks of rental property investment and discover how algorithmic trading can enhance decision-making for optimized returns."
 ---
 

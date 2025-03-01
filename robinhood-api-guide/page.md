@@ -1,5 +1,5 @@
 ---
-title: "Robinhood API Guide (Algo Trading)"
+title: "Robinhood API Guide"
 description: Discover how Robinhood's API empowers traders to enhance their algorithmic strategies through automation and seamless integration. This guide explores the API's capabilities, offering tools for market data retrieval, trade execution, and portfolio management. Perfect for both seasoned traders and newcomers, the API facilitates efficient trading operations with minimal human errors, providing a competitive edge in today's automated trading landscape.
 ---
 

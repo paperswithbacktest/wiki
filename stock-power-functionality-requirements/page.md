@@ -1,5 +1,5 @@
 ---
-title: "Stock Power: Functionality and Requirements (Algo Trading)"
+title: "Stock Power: Functionality and Requirements"
 description: "Discover the functionalities and requirements of algo trading with insights into share transfer and stock power for efficient trading strategies in financial markets."
 ---
 

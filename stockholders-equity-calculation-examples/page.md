@@ -1,5 +1,5 @@
 ---
-title: "Stockholders' Equity: Calculation and Examples (Algo Trading)"
+title: "Stockholders' Equity: Calculation and Examples"
 description: "Explore the essentials of stockholders' equity with insights into calculations, examples, and the impact of algorithmic trading on equity metrics."
 ---
 

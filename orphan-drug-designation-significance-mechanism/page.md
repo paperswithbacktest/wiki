@@ -1,5 +1,5 @@
 ---
-title: "Orphan Drug Designation: Significance and Mechanism (Algo Trading)"
+title: "Orphan Drug Designation: Significance and Mechanism"
 description: "Explore the intersection of orphan drug designation and algorithmic trading where investors harness exclusive rights and regulatory incentives for strategic gains."
 ---
 

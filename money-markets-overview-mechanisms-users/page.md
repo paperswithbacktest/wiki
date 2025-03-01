@@ -1,5 +1,5 @@
 ---
-title: "Money Markets: Overview, Mechanisms, and Users (Algo Trading)"
+title: "Money Markets: Overview, Mechanisms, and Users"
 description: "Explore the dynamics of money markets, key users like banks and corporations, and the impact of algorithmic trading on liquidity and interest rate management."
 ---
 

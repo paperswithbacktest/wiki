@@ -1,5 +1,5 @@
 ---
-title: "Offshore Investment: Advantages and Disadvantages (Algo Trading)"
+title: "Offshore Investment: Advantages and Disadvantages"
 description: "Explore the advantages and disadvantages of offshore investment alongside algorithmic trading to optimize your strategy by balancing rewards and risks."
 ---
 

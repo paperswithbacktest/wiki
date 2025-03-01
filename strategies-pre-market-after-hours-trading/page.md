@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Pre-Market and After-Hours Trading (Algo Trading)"
+title: "Strategies for Pre-Market and After-Hours Trading"
 description: "Explore pre-market and after-hours trading strategies to enhance your trading, utilizing algorithmic approaches to navigate volatility and liquidity challenges effectively."
 ---
 

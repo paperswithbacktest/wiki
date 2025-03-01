@@ -1,5 +1,5 @@
 ---
-title: "Occupational Labor Mobility (Algo Trading)"
+title: "Occupational Labor Mobility"
 description: "Explore the transformative impact of occupational labor mobility on career transitions within algorithmic trading Learn how this dynamic fosters economic growth"
 ---
 

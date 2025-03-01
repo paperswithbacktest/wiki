@@ -1,5 +1,5 @@
 ---
-title: "National Defense Authorization Act Overview (Algo Trading)"
+title: "National Defense Authorization Act Overview"
 description: "Explore how the National Defense Authorization Act impacts US defense policy and spending, highlighting the role of algorithmic trading in modern defense strategy."
 ---
 

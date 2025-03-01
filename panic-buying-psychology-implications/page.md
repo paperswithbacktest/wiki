@@ -1,5 +1,5 @@
 ---
-title: "Panic Buying: Psychology and Implications (Algo Trading)"
+title: "Panic Buying: Psychology and Implications"
 description: "Explore the psychological triggers and market impact of panic buying, and understand how algorithmic trading can amplify this consumer behavior during crises."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Northfield Information Services (Algo Trading)"
+title: "Northfield Information Services"
 description: Discover how Northfield Information Services leads the way in algorithmic trading by offering cutting-edge analytical tools and risk management solutions for the financial industry. Founded in 1985, Northfield is recognized for its commitment to innovation, providing sophisticated models that turn vast data into actionable insights for optimized trading strategies. Their signature "Risk Systems That Read®" platform ensures stability amidst market changes. Through strategic collaborations and a dedication to professional education, Northfield empowers traders and financial analysts worldwide to excel in the fast-paced trading environment, making them a trusted partner for refining strategies and improving outcomes.
 ---
 

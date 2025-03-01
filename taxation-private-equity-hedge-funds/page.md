@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Private Equity and Hedge Funds (Algo Trading)"
+title: "Taxation of Private Equity and Hedge Funds"
 description: "Explore the intricate tax implications for private equity, hedge funds, and algorithmic trading to effectively manage investment strategies and optimize returns."
 ---
 

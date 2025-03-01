@@ -1,5 +1,5 @@
 ---
-title: "Net-Net Investment Strategy (Algo Trading)"
+title: "Net-Net Investment Strategy"
 description: "Unlock the potential of net-net investing with algorithmic trading Discover how combining these strategies can optimize stock selection and enhance returns"
 ---
 

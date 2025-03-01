@@ -1,5 +1,5 @@
 ---
-title: "Normal Goods: Characteristics and Demand Patterns (Algo Trading)"
+title: "Normal Goods: Characteristics and Demand Patterns"
 description: "Explore the interplay of normal goods with demand theory and algorithmic trading to enhance strategy development in today's dynamic financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Crowdfunding for Investors (Algo Trading)"
+title: "Real Estate Crowdfunding for Investors"
 description: "Explore the synergy of real estate crowdfunding and algorithmic trading to optimize investments enhance market analysis and offer strategic financial opportunities."
 ---
 

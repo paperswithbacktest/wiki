@@ -1,5 +1,5 @@
 ---
-title: "Paper Money: History, Usage, and Importance (Algo Trading)"
+title: "Paper Money: History, Usage, and Importance"
 description: "Explore the evolution of money from barter to digital, examine paper money's impact, and discover how algorithmic trading transforms financial markets."
 ---
 

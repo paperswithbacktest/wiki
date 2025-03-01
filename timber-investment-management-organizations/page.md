@@ -1,5 +1,5 @@
 ---
-title: "Timber Investment Management Organizations (Algo Trading)"
+title: "Timber Investment Management Organizations"
 description: "Explore the integration of Timber Investment Management Organizations and algorithmic trading to enhance timberland investment strategies for sustainable returns."
 ---
 

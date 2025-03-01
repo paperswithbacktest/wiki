@@ -1,5 +1,5 @@
 ---
-title: "Straw Buyer and Legality (Algo Trading)"
+title: "Straw Buyer and Legality"
 description: "Explore the legal and ethical complexities of straw buyer transactions in real estate and firearm purchases. Uncover the implications on compliance and fraud."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Using Tweezers for Precision in Trend Trading (Algo Trading)"
+title: "Using Tweezers for Precision in Trend Trading"
 description: "Enhance your trading acumen with insights on tweezers, trend, and algorithmic strategies Learn how to tailor approaches for market precision and success"
 ---
 

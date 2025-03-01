@@ -1,5 +1,5 @@
 ---
-title: "Options Pricing Mechanisms (Algo Trading)"
+title: "Options Pricing Mechanisms"
 description: "Explore options pricing mechanisms in algo trading including the Black-Scholes, Binomial, and Trinomial models. Understand their role in optimizing portfolios."
 ---
 

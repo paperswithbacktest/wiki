@@ -1,5 +1,5 @@
 ---
-title: "Options Strategies During Economic Downturns (Algo Trading)"
+title: "Options Strategies During Economic Downturns"
 description: "Navigate economic downturns with strategic options and algorithmic trading to mitigate risks, maximize returns, and enhance financial resilience and growth."
 ---
 

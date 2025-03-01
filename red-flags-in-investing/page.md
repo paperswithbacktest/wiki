@@ -1,5 +1,5 @@
 ---
-title: "Red Flags in Investing (Algo Trading)"
+title: "Red Flags in Investing"
 description: "Navigate the complexities of algorithmic trading with insights on identifying financial red flags Perform due diligence to leverage its benefits while mitigating risks"
 ---
 

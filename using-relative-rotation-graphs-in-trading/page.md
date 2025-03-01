@@ -1,5 +1,5 @@
 ---
-title: "Using Relative Rotation Graphs in Trading (Algo Trading)"
+title: "Using Relative Rotation Graphs in Trading"
 description: "Unlock trading potential with Relative Rotation Graphs (RRG) by visualizing security performance, optimizing asset allocation, and enhancing algorithmic strategies."
 ---
 

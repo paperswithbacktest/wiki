@@ -1,5 +1,5 @@
 ---
-title: "Using Weekly Stochastic Indicators for Market Timing (Algo Trading)"
+title: "Using Weekly Stochastic Indicators for Market Timing"
 description: "Explore how weekly stochastic indicators enhance market timing in algo trading. Learn about their role in technical analysis and optimizing trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "O-Matrix (Algo Trading)"
+title: "O-Matrix"
 description: Discover how O-Matrix revolutionizes algorithmic trading by enabling rapid data processing and complex calculations essential for effective trading strategies. This article investigates into the role of O-Matrix in optimizing trading operations through its matrix manipulation capabilities that enhance decision-making and execution efficiency in fast-paced financial markets.
 ---
 

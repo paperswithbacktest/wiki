@@ -1,5 +1,5 @@
 ---
-title: "Teaser Document (Algo Trading)"
+title: "Teaser Document"
 description: "Explore how teaser documents enhance algorithmic trading by providing concise investment insights that drive informed decisions and optimize market strategies."
 ---
 

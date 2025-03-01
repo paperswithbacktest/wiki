@@ -1,5 +1,5 @@
 ---
-title: "Total Return Index and Price Index Comparison (Algo Trading)"
+title: "Total Return Index and Price Index Comparison"
 description: "Explore the nuances between Total Return Index and Price Index in investment analysis and algorithmic trading strategies for optimal decision-making."
 ---
 

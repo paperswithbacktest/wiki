@@ -1,5 +1,5 @@
 ---
-title: "Multi Commodity Exchange of India Ltd. (Algo Trading)"
+title: "Multi Commodity Exchange of India Ltd."
 description: "Explore the pivotal role of Multi Commodity Exchange of India in algorithmic trading Learn how algo trading revolutionizes commodity markets for traders and investors"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Role of Wirehouse Brokers During the Financial Crisis (Algo Trading)"
+title: "Role of Wirehouse Brokers During the Financial Crisis"
 description: "Explore the pivotal role of wirehouse brokers in financial crises and the impact of algorithmic trading on the industry highlighting past challenges and evolving strategies."
 ---
 

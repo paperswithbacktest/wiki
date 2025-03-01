@@ -1,5 +1,5 @@
 ---
-title: "Securitized Products: Examples and Safety Issues (Algo Trading)"
+title: "Securitized Products: Examples and Safety Issues"
 description: "Explore securitized products and algorithmic trading in modern finance uncovering examples benefits risks and how technology enhances financial safety and investment strategies."
 ---
 

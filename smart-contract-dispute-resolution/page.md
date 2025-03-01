@@ -1,5 +1,5 @@
 ---
-title: "Smart Contract Dispute Resolution (Algo Trading)"
+title: "Smart Contract Dispute Resolution"
 description: "Explore how blockchain and smart contracts intersect with dispute resolution in algo trading Essential insights into managing disagreements in crypto transactions"
 ---
 

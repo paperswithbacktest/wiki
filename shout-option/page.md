@@ -1,5 +1,5 @@
 ---
-title: "Shout Option (Algo Trading)"
+title: "Shout Option"
 description: "Experience the strategic flexibility of shout options in algorithmic trading This unique financial tool allows investors to lock in profits at designated intervals while still capitalizing on future market gains"
 ---
 

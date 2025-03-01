@@ -1,5 +1,5 @@
 ---
-title: "Patsystems PLC Overview (Algo Trading)"
+title: "Patsystems PLC Overview"
 description: "Explore Patsystems Plc's cutting-edge trading platforms and risk management solutions designed for algorithmic and futures trading in global financial markets."
 ---
 

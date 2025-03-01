@@ -1,5 +1,5 @@
 ---
-title: "Paid-In Capital: Calculation and Par Value Excess (Algo Trading)"
+title: "Paid-In Capital: Calculation and Par Value Excess"
 description: "Explore the intricacies of Paid-In Capital and its components with a focus on algorithmic trading. Understand how a company raises funds through par value and excess, and how this relates to financial health and capital structure. Discover how algorith traders use these elements to analyze investment opportunities and predict stock price movements, enhancing the effectiveness of trading strategies and informed decision-making."
 ---
 

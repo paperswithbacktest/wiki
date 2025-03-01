@@ -1,5 +1,5 @@
 ---
-title: "TINA: There Is No Alternative (Algo Trading)"
+title: "TINA: There Is No Alternative"
 description: "Explore the impact of TINA on algorithmic trading as investors navigate limited alternatives in volatile markets Learn how algorithms exploit inefficiencies to boost returns."
 ---
 

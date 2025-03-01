@@ -1,5 +1,5 @@
 ---
-title: "Summit Securities Group (Algo Trading)"
+title: "Summit Securities Group"
 description: "Summit Securities Group excels in algorithmic trading utilizing advanced technology and data to drive market interactions fostering speed precision and innovation in finance."
 ---
 

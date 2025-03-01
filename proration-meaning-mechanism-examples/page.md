@@ -1,5 +1,5 @@
 ---
-title: "Proration: Meaning and Mechanism with Examples (Algo Trading)"
+title: "Proration: Meaning and Mechanism with Examples"
 description: "Explore the significance of proration in algorithmic trading Learn how proration ensures fair distribution during corporate actions and enhances trading strategies"
 ---
 

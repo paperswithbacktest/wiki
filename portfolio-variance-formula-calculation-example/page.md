@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Variance: Formula and Calculation Example (Algo Trading)"
+title: "Portfolio Variance: Formula and Calculation Example"
 description: "Explore portfolio variance and its vital role in assessing investment risk Learn calculation techniques to optimize strategies in algorithmic trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Verition Fund Management (Algo Trading)"
+title: "Verition Fund Management"
 description: "Discover Verition Fund Management's unique blend of algorithmic trading and traditional strategies for superior fund management and performance."
 ---
 

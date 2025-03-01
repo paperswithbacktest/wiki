@@ -1,5 +1,5 @@
 ---
-title: "Understanding and Using a Stochastic Oscillator (Algo Trading)"
+title: "Understanding and Using a Stochastic Oscillator"
 description: "Explore the stochastic oscillator's role in algorithmic trading to identify market trends and reversals Learn calculation methods and practical trading insights"
 ---
 

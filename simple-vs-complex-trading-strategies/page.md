@@ -1,5 +1,5 @@
 ---
-title: "Simple vs. Complex Trading Strategies Explained (Algo Trading)"
+title: "Simple vs. Complex Trading Strategies Explained"
 description: Explore the differences between simple and complex trading strategies in algorithmic trading. This guide highlights the advantages of simplicity such as reduced overfitting and healthier adaptability to market shifts. Suitable for both novices and experts it underscores how embracing simple strategies can enhance performance and manage risk in evolving financial markets.
 ---
 

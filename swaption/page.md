@@ -1,5 +1,5 @@
 ---
-title: "Swaption Basics (Algo Trading)"
+title: "Swaption Basics"
 description: Explore the world of swaptions, a vital financial derivative for managing interest rate exposure and optimizing trading strategies. Learn about their types, pricing models, and strategic uses within algorithmic trading, allowing investors to dynamically hedge risks and capitalize on interest rate volatility.
 ---
 

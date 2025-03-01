@@ -1,5 +1,5 @@
 ---
-title: "Understanding Market Trends and Their Implications (Algo Trading)"
+title: "Understanding Market Trends and Their Implications"
 description: "Explore how market trends influenced by algorithmic trading and AI are altering financial landscapes offering insights into opportunities and challenges for stakeholders."
 ---
 

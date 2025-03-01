@@ -1,5 +1,5 @@
 ---
-title: "Statement Stuffer (Algo Trading)"
+title: "Statement Stuffer"
 description: "Explore the synergy between direct mail marketing and algorithmic trading in this article Learn how traditional methods meet modern tech for innovative business strategies"
 ---
 

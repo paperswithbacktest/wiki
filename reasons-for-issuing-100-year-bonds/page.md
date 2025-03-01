@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Issuing 100-Year Bonds by Companies (Algo Trading)"
+title: "Reasons for Issuing 100-Year Bonds by Companies"
 description: "100-year bonds offer companies innovative long-term financing, while algorithmic trading enhances bond market strategies by automating decisions and executions."
 ---
 

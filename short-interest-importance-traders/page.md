@@ -1,5 +1,5 @@
 ---
-title: "Short Interest and Its Importance to Traders (Algo Trading)"
+title: "Short Interest and Its Importance to Traders"
 description: "Discover how short interest and algorithmic trading transform market strategies by providing unique insights and opportunities for traders. Learn how short interest reveals market sentiment, indicating potential stock price movements and how algorithmic trading enhances execution speed and precision. Explore the integration of these strategies to optimize trading performance and harness market trends with unprecedented efficiency."
 ---
 

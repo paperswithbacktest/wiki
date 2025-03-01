@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Private Company Shares (Algo Trading)"
+title: "Valuation of Private Company Shares"
 description: "Explore the complexities of valuing private company shares with algorithmic trading Learn about financial performance growth potential and management insights"
 ---
 

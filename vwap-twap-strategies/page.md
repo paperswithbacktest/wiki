@@ -1,5 +1,5 @@
 ---
-title: "VWAP/TWAP strategies (Algo Trading)"
+title: "VWAP/TWAP strategies"
 description: "Explore VWAP and TWAP in algo trading for efficient order execution, minimizing market impact, and optimizing large trades in diverse trading scenarios."
 ---
 

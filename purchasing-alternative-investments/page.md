@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Alternative Investments (Algo Trading)"
+title: "Purchasing Alternative Investments"
 description: "Discover the transformative power of alternative investments and algorithmic trading. Explore strategies, benefits, and risks to diversify and enhance returns."
 ---
 

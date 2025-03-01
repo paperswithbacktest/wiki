@@ -1,5 +1,5 @@
 ---
-title: "Registered Representative: Role, Responsibilities, Compensation (Algo Trading)"
+title: "Registered Representative: Role, Responsibilities, Compensation"
 description: "Explore the responsibilities, qualifications, and impact of Registered Representatives, Financial Advisors, and Algo Traders in today's dynamic financial sector."
 ---
 

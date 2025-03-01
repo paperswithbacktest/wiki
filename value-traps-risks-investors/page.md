@@ -1,5 +1,5 @@
 ---
-title: "Value Traps and Risks for Investors (Algo Trading)"
+title: "Value Traps and Risks for Investors"
 description: "Explore the risks and rewards of bargain hunting in algorithmic trading Discover how to avoid value traps and enhance investment strategies in dynamic markets"
 ---
 

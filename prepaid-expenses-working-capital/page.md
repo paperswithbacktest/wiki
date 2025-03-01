@@ -1,5 +1,5 @@
 ---
-title: "Prepaid Expenses in Working Capital (Algo Trading)"
+title: "Prepaid Expenses in Working Capital"
 description: "Discover the dynamics of working capital and prepaid expenses in finance, exploring their impact on algorithmic trading and effective financial management strategies."
 ---
 

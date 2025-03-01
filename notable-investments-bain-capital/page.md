@@ -1,5 +1,5 @@
 ---
-title: "Notable Investments by Bain Capital (Algo Trading)"
+title: "Notable Investments by Bain Capital"
 description: "Explore Bain Capital's notable investments in fintech and algorithmic trading as this global firm embraces technology-driven strategies to redefine investment practices."
 ---
 

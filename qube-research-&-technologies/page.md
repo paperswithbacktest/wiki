@@ -1,5 +1,5 @@
 ---
-title: "Qube Research & Technologies (Algo Trading)"
+title: "Qube Research & Technologies"
 description: "Explore how Qube Research & Technologies excels in algorithmic trading using cutting-edge technology and data-driven strategies for optimized trade execution."
 ---
 

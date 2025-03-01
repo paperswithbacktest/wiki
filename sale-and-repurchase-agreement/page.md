@@ -1,5 +1,5 @@
 ---
-title: "Sale and Repurchase Agreement (Algo Trading)"
+title: "Sale and Repurchase Agreement"
 description: "Explore the synergy between Sale and Repurchase Agreements and algorithmic trading to enhance liquidity management and efficiency in modern financial markets."
 ---
 

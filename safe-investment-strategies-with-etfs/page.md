@@ -1,5 +1,5 @@
 ---
-title: "Safe Investment Strategies with ETFs (Algo Trading)"
+title: "Safe Investment Strategies with ETFs"
 description: "Explore safe investment strategies with ETFs and algo trading Learn to use exchange-traded funds and algorithmic trading to diversify and optimize portfolio management"
 ---
 

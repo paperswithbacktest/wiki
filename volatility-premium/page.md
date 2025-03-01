@@ -1,5 +1,5 @@
 ---
-title: "Volatility Premium (Algo Trading)"
+title: "Volatility Premium"
 description: Discover the importance of Volatility Premium in algo trading and how to exploit it for potential profits. Learn what Volatility Premium is, its implications, causes, and strategies for exploitation. Maximize returns and manage risk with this unique opportunity for quantitative traders. Explore related resources for trading strategies, libraries, and datasets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Outside Days: Analysis and Examples (Algo Trading)"
+title: "Outside Days: Analysis and Examples"
 description: "Explore the significance of outside days in algo trading with this detailed analysis Unveil how these two-bar patterns drive decisions in volatile markets"
 ---
 

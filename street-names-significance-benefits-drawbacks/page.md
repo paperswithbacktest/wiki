@@ -1,5 +1,5 @@
 ---
-title: "Street Names: Significance, Benefits, and Drawbacks (Algo Trading)"
+title: "Street Names: Significance, Benefits, and Drawbacks"
 description: "Explore the significance of street names in algorithmic trading as this article investigates into the benefits and risks of automated strategies in today's financial markets."
 ---
 

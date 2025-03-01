@@ -1,5 +1,5 @@
 ---
-title: "Top Line in Financial Statements (Algo Trading)"
+title: "Top Line in Financial Statements"
 description: "Discover key financial concepts such as financial statements and algorithmic trading to enhance trading strategies and make informed investment decisions."
 ---
 

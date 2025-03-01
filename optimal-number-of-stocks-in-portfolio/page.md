@@ -1,5 +1,5 @@
 ---
-title: "Optimal Number of Stocks in a Portfolio (Algo Trading)"
+title: "Optimal Number of Stocks in a Portfolio"
 description: "Discover how algorithmic trading and portfolio diversification can optimize investment strategies by spreading risk and maximizing returns. Learn the ideal number of stocks for diversification and how algorithms facilitate efficient asset allocation and dynamic portfolio management."
 ---
 

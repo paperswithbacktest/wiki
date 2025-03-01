@@ -1,5 +1,5 @@
 ---
-title: "Smart Contracts on Blockchain (Algo Trading)"
+title: "Smart Contracts on Blockchain"
 description: "Discover how smart contracts revolutionize algorithmic trading by providing automation and security in blockchain transactions for a decentralized financial future."
 ---
 

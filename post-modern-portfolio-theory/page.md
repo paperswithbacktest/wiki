@@ -1,5 +1,5 @@
 ---
-title: "Post-Modern Portfolio Theory (Algo Trading)"
+title: "Post-Modern Portfolio Theory"
 description: "Discover the vital synergy between Post-Modern Portfolio Theory and algorithmic trading that redefines risk management and optimizes investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Transaction Cost Optimization (Algo Trading)"
+title: "Transaction Cost Optimization"
 description: "Optimize your algorithmic trading profits by understanding and managing transaction costs which can impact net returns through brokerage fees, spreads, and slippage."
 ---
 

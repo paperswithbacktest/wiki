@@ -1,5 +1,5 @@
 ---
-title: "Options Clearing Corporation: Overview and History (Algo Trading)"
+title: "Options Clearing Corporation: Overview and History"
 description: "Explore the crucial role of the Options Clearing Corporation in ensuring stability and efficiency in U.S. equity derivatives markets amid evolving algorithmic trading trends."
 ---
 

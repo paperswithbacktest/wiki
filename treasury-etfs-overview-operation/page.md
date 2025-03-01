@@ -1,5 +1,5 @@
 ---
-title: "Treasury ETFs: Overview and Operation (Algo Trading)"
+title: "Treasury ETFs: Overview and Operation"
 description: "Explore the synergy between Treasury ETFs and algo trading to optimize returns through stability and innovation in your investment strategies."
 ---
 

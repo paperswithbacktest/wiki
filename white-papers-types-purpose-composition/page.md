@@ -1,5 +1,5 @@
 ---
-title: "White Papers: Types, Purpose, and Composition (Algo Trading)"
+title: "White Papers: Types, Purpose, and Composition"
 description: "Explore how white papers serve as powerful tools in the evolving world of business communication, particularly in the context of algorithmic trading. This article investigates into the composition and purpose of white papers, highlighting their role in persuading stakeholders, establishing industry authority, and educating audiences on complex topics. By offering solutions through data-driven insights, white papers enhance strategic communication, effectively bridging business writing with the efficiency of algo trading in the financial industry."
 ---
 

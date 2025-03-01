@@ -1,5 +1,5 @@
 ---
-title: "Stabilization Policy in Economics and Future Outlook (Algo Trading)"
+title: "Stabilization Policy in Economics and Future Outlook"
 description: "Explore the complex intersection of stabilization policies and algorithmic trading in today's volatile markets and discover strategies for future economic stability."
 ---
 

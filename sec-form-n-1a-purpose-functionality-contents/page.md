@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-1A: Purpose, Functionality, and Contents (Algo Trading)"
+title: "SEC Form N-1A: Purpose, Functionality, and Contents"
 description: "Explore how SEC Form N-1A guides mutual funds in the era of algorithmic trading highlighting its role in compliance and innovation for investor protection."
 ---
 

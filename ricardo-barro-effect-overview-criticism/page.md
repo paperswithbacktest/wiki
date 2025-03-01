@@ -1,5 +1,5 @@
 ---
-title: "Ricardo-Barro Effect: Overview and Criticism (Algo Trading)"
+title: "Ricardo-Barro Effect: Overview and Criticism"
 description: "Explore the Ricardo-Barro effect and its criticisms in the context of fiscal policy and algorithmic trading Its role in economic debates and impact on market behavior"
 ---
 

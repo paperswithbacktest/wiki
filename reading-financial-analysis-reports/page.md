@@ -1,5 +1,5 @@
 ---
-title: "Reading Financial Analysis Reports (Algo Trading)"
+title: "Reading Financial Analysis Reports"
 description: "Explore the crucial role of financial analysis in investment decision-making with insights on integrating report reading and innovative algo trading techniques."
 ---
 

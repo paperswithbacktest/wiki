@@ -1,5 +1,5 @@
 ---
-title: "Unlimited Risk: Definition, Mechanism, and Example (Algo Trading)"
+title: "Unlimited Risk: Definition, Mechanism, and Example"
 description: "Explore unlimited risk in algorithmic trading learn its implications and discover risk management strategies to guard against potential limitless financial losses."
 ---
 

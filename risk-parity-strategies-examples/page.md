@@ -1,5 +1,5 @@
 ---
-title: "Risk Parity Strategies and Examples (Algo Trading)"
+title: "Risk Parity Strategies and Examples"
 description: "Discover risk parity strategies for algorithmic trading and learn how to balance risk across portfolios. Explore advanced techniques for optimizing investments."
 ---
 

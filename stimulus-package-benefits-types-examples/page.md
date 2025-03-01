@@ -1,5 +1,5 @@
 ---
-title: "Stimulus Package: Benefits, Types, and Examples (Algo Trading)"
+title: "Stimulus Package: Benefits, Types, and Examples"
 description: "Explore the intricacies of economic stimulus packages and their impact on market dynamics in this insightful discussion. Delve into fiscal and monetary policies that stabilize economies during downturns, complemented by the transformative role of algorithmic trading. Understand how government initiatives like tax cuts and spending boost economic activity and how swift market reactions create opportunities for algorithmic traders. This comprehensive examination underscores the importance of timely interventions for economic stability and growth."
 ---
 

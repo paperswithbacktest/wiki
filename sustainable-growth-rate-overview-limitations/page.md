@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Growth Rate: Overview and Limitations (Algo Trading)"
+title: "Sustainable Growth Rate: Overview and Limitations"
 description: "Explore the importance and limitations of the Sustainable Growth Rate (SGR) in algorithmic trading, a key metric for assessing a company's self-sustaining growth."
 ---
 

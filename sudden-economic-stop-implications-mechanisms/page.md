@@ -1,5 +1,5 @@
 ---
-title: "Sudden Economic Stop: Implications and Mechanisms (Algo Trading)"
+title: "Sudden Economic Stop: Implications and Mechanisms"
 description: "Explore the complexities of algorithmic trading during economic crises and sudden stops analyzing impacts on market stability and proposing strategic solutions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ModelStation (Clarifi) (Algo Trading)"
+title: "ModelStation (Clarifi)"
 description: ModelStation Clarifi revolutionizes algorithmic trading by offering a powerful platform for backtesting and optimizing trading strategies. Developed by ClariFI, it supports traders in refining strategies through robust data integration and user-friendly features that eliminate programming barriers. The tool enhances efficiency and decision-making by enabling detailed simulations and portfolio optimizations, making it indispensable for navigating complex trading environments. With capabilities like Visual Query Language and seamless data integration, ModelStation Clarifi is an essential asset for financial professionals looking to gain an edge in quantitative trading.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Top-Down Investment Strategy (Algo Trading)"
+title: "Top-Down Investment Strategy"
 description: "Explore the top-down investment strategy and how it's integrated into algo trading analyzing economic indicators to guide investment decisions effectively."
 ---
 

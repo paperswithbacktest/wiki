@@ -1,5 +1,5 @@
 ---
-title: "Structural Unemployment: Causes and Examples (Algo Trading)"
+title: "Structural Unemployment: Causes and Examples"
 description: "Discover the root causes and examples of structural unemployment including the impacts of technology, globalization, and policy shifts on the job market."
 ---
 

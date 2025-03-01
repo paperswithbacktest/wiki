@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Airline Stocks (Algo Trading)"
+title: "Valuation of Airline Stocks"
 description: "Explore the complex dynamics of airline stock investment valuation and algorithmic trading to optimize returns in a sector demanding meticulous analysis."
 ---
 

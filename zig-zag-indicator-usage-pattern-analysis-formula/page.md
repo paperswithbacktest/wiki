@@ -1,5 +1,5 @@
 ---
-title: "Zig Zag Indicator: Usage, Pattern Analysis, and Formula (Algo Trading)"
+title: "Zig Zag Indicator: Usage, Pattern Analysis, and Formula"
 description: "Discover how the Zig Zag indicator can enhance your trading strategies by filtering noise and highlighting key trends for effective market analysis."
 ---
 

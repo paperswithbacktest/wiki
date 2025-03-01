@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Aggregate Demand and GDP (Algo Trading)"
+title: "Relationship Between Aggregate Demand and GDP"
 description: "Explore the intricate relationship between aggregate demand and GDP and how it informs algorithmic trading strategies to anticipate market shifts in economic cycles."
 ---
 

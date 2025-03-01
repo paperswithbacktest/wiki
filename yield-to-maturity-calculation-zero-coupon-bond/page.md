@@ -1,5 +1,5 @@
 ---
-title: "Yield to Maturity Calculation of a Zero-Coupon Bond (Algo Trading)"
+title: "Yield to Maturity Calculation of a Zero-Coupon Bond"
 description: "Discover the intricacies of yield to maturity calculations for zero-coupon bonds and their strategic application in algorithmic trading for optimized returns."
 ---
 

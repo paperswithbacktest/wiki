@@ -1,5 +1,5 @@
 ---
-title: "Price Continuity in Financial Markets (Algo Trading)"
+title: "Price Continuity in Financial Markets"
 description: "Explore the critical role of price continuity in financial markets understanding its significance in algorithmic trading and stock trading to enhance stability and efficiency."
 ---
 

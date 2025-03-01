@@ -1,5 +1,5 @@
 ---
-title: "SEC Form U-5S Overview (Algo Trading)"
+title: "SEC Form U-5S Overview"
 description: "Discover the history and significance of SEC Form U-5S in utility regulation and algorithmic trading despite its obsolescence post-2005 repeal."
 ---
 

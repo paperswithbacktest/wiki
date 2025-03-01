@@ -1,5 +1,5 @@
 ---
-title: "Zone of Support: Meaning and Functionality (Algo Trading)"
+title: "Zone of Support: Meaning and Functionality"
 description: "Explore the importance of support zones in algorithmic trading and how traders utilize these zones to make informed decisions for optimizing trade strategies."
 ---
 

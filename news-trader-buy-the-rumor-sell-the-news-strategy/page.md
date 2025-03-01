@@ -1,5 +1,5 @@
 ---
-title: "News Trader and the 'Buy the Rumor, Sell the News' Strategy (Algo Trading)"
+title: "News Trader and the 'Buy the Rumor, Sell the News' Strategy"
 description: "Discover how financial rumors and news trading impact market dynamics with insights into algorithmic strategies Explore the 'buy the rumor sell the news' tactic"
 ---
 

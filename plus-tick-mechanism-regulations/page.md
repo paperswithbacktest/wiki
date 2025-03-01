@@ -1,5 +1,5 @@
 ---
-title: "Plus Tick: Mechanism and Regulations (Algo Trading)"
+title: "Plus Tick: Mechanism and Regulations"
 description: "Explore the intricate world of algorithmic trading and the plus tick rule Discover their significance and the evolving regulations ensuring market stability"
 ---
 

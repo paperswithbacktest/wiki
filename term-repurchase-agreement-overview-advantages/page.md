@@ -1,5 +1,5 @@
 ---
-title: "Term Repurchase Agreement: Overview and Advantages (Algo Trading)"
+title: "Term Repurchase Agreement: Overview and Advantages"
 description: "Explore how term repurchase agreements and algorithmic trading enhance financial strategies by optimizing liquidity, managing risk, and improving decision-making efficiency."
 ---
 

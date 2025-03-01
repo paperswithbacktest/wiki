@@ -1,5 +1,5 @@
 ---
-title: "SABR volatility model (Algo Trading)"
+title: "SABR volatility model"
 description: "Explore the SABR volatility model for algo trading to enhance predictive accuracy in options markets by capturing market complexities and volatility dynamics."
 ---
 

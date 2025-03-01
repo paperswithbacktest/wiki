@@ -1,5 +1,5 @@
 ---
-title: "Options for Capital Protected Investment (Algo Trading)"
+title: "Options for Capital Protected Investment"
 description: "Explore capital-protected investment strategies enhanced by algorithmic trading techniques offering insights into safeguarding investments and minimizing risks effectively."
 ---
 

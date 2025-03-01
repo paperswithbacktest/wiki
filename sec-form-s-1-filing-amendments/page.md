@@ -1,5 +1,5 @@
 ---
-title: "SEC Form S-1: Filing and Amendments (Algo Trading)"
+title: "SEC Form S-1: Filing and Amendments"
 description: "The page explores SEC Form S-1 detailing its importance in IPOs for U.S. companies and its implications in algorithmic trading by enhancing investor transparency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Treasury International Capital: Overview and Functionality (Algo Trading)"
+title: "Treasury International Capital: Overview and Functionality"
 description: "Discover the role and impact of Treasury International Capital in cross-border financial transactions and how it intersects with algorithmic trading systems."
 ---
 

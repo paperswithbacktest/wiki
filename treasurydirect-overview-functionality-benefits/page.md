@@ -1,5 +1,5 @@
 ---
-title: "TreasuryDirect: Overview, Functionality, and Benefits (Algo Trading)"
+title: "TreasuryDirect: Overview, Functionality, and Benefits"
 description: "Unlock the potential of TreasuryDirect and algorithmic trading Explore how to efficiently invest in U.S. Treasury securities and enhance bond strategies for better returns"
 ---
 

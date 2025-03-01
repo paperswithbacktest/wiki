@@ -1,5 +1,5 @@
 ---
-title: "Types of Off-Balance Sheet Assets (Algo Trading)"
+title: "Types of Off-Balance Sheet Assets"
 description: "Explore the role of off-balance sheet assets in algorithmic trading and understand their impact on financial reporting transparency and investment strategies."
 ---
 

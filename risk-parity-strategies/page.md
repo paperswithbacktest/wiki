@@ -1,5 +1,5 @@
 ---
-title: "Risk Parity Strategies (Algo Trading)"
+title: "Risk Parity Strategies"
 description: "Explore risk parity strategies and their synergy with algorithmic trading to optimize portfolio diversification and stability through balanced risk allocation."
 ---
 

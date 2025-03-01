@@ -1,5 +1,5 @@
 ---
-title: "Strategies to Mitigate Tax Liability on Real Estate Sales (Algo Trading)"
+title: "Strategies to Mitigate Tax Liability on Real Estate Sales"
 description: "Explore effective strategies to minimize tax liabilities on real estate sales and discover the advantages of integrating algorithmic trading for optimized investment returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Types of Bonds and Their Mechanisms (Algo Trading)"
+title: "Types of Bonds and Their Mechanisms"
 description: "Explore the dynamics of bonds and their evolving trading mechanisms through algorithmic strategies to enhance market efficiency transparency and portfolio optimization."
 ---
 

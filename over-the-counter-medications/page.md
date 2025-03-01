@@ -1,5 +1,5 @@
 ---
-title: "Over-the-Counter Medications (Algo Trading)"
+title: "Over-the-Counter Medications"
 description: "Explore the evolving role of OTC medications in healthcare, their regulatory landscape, and the growth of OTC markets fostered by consumer demand and tech advancements."
 ---
 

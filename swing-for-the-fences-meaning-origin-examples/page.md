@@ -1,5 +1,5 @@
 ---
-title: "Swing for the Fences: Meaning and Origin with Examples (Algo Trading)"
+title: "Swing for the Fences: Meaning and Origin with Examples"
 description: "Explore the idiom "swing for the fences" in trading where high-risk strategies aim for major rewards. Learn about its origins and relevance in algo trading."
 ---
 

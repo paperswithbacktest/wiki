@@ -1,5 +1,5 @@
 ---
-title: "Rebalancing 401(k) Assets (Algo Trading)"
+title: "Rebalancing 401(k) Assets"
 description: "Managing 401(k) assets through rebalancing and algorithmic trading optimizes retirement savings by ensuring risk alignment and enhancing portfolio performance."
 ---
 

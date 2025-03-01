@@ -1,5 +1,5 @@
 ---
-title: "Split-Adjusted Share Price (Algo Trading)"
+title: "Split-Adjusted Share Price"
 description: "Explore the intricacies of stock splits and share price adjustments in algorithmic trading ensuring accurate data for informed investment decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Supply and Demand in the Housing Market (Algo Trading)"
+title: "Supply and Demand in the Housing Market"
 description: "Explore how the dynamics of supply and demand shape the housing market and how algorithmic trading strategies could redefine real estate investments."
 ---
 

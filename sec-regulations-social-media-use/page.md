@@ -1,5 +1,5 @@
 ---
-title: "SEC Regulations on Social Media Use (Algo Trading)"
+title: "SEC Regulations on Social Media Use"
 description: "Explore how the SEC regulates social media use for public companies focusing on compliance, transparency, and the impact of algorithmic trading in the digital age."
 ---
 

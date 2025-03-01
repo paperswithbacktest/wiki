@@ -1,5 +1,5 @@
 ---
-title: "Trade Date Accounting (Algo Trading)"
+title: "Trade Date Accounting"
 description: "Explore the importance of trade date accounting in financial reporting. Learn how this method captures transactions at execution, enhancing financial transparency and accuracy."
 ---
 

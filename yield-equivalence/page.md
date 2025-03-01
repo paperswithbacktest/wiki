@@ -1,5 +1,5 @@
 ---
-title: "Yield Equivalence (Algo Trading)"
+title: "Yield Equivalence"
 description: "Unlock the synergistic potential of yield finance equivalence and algorithmic trading to optimize investment strategies balancing tax benefits and market efficiency."
 ---
 

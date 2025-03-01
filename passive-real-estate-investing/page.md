@@ -1,5 +1,5 @@
 ---
-title: "Passive Real Estate Investing (Algo Trading)"
+title: "Passive Real Estate Investing"
 description: "Discover the world of passive real estate investing with strategies like REITs and algo trading for sustainable income without active management effort."
 ---
 

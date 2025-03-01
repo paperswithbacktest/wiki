@@ -1,5 +1,5 @@
 ---
-title: "Stagflation: Causes and Impacts (Algo Trading)"
+title: "Stagflation: Causes and Impacts"
 description: "Discover how stagflation challenges traditional economic theories and explore the role of algorithmic trading in navigating the complexities of high inflation and stagnation."
 ---
 

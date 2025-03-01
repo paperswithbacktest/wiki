@@ -1,5 +1,5 @@
 ---
-title: "Whitewater Controversy (Algo Trading)"
+title: "Whitewater Controversy"
 description: "Explore the intersection of the Clinton Whitewater scandal and algorithmic trading to gain insights into financial ethics and political accountability in the modern era."
 ---
 

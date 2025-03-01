@@ -1,5 +1,5 @@
 ---
-title: "Trading Range in Financial Markets (Algo Trading)"
+title: "Trading Range in Financial Markets"
 description: "Explore the dynamics of trading ranges in financial markets through technical analysis and algo trading to enhance your trading strategy and decision-making."
 ---
 

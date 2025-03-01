@@ -1,5 +1,5 @@
 ---
-title: "Sum-Of-The-Years’ Digits Method (Algo Trading)"
+title: "Sum-Of-The-Years’ Digits Method"
 description: "Explore the Sum of the Years' Digits method for accelerated asset depreciation to optimize financial strategies and enhance algorithmic trading insights."
 ---
 

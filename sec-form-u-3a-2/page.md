@@ -1,5 +1,5 @@
 ---
-title: "SEC Form U-3A-2 (Algo Trading)"
+title: "SEC Form U-3A-2"
 description: "Discover the significance of SEC Form U-3A-2 in financial regulation tackling insider trading and promoting transparency within the market for fairness and integrity."
 ---
 

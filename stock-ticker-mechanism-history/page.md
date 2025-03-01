@@ -1,5 +1,5 @@
 ---
-title: "Stock Ticker: Mechanism and History (Algo Trading)"
+title: "Stock Ticker: Mechanism and History"
 description: "Explore the history and evolution of stock tickers and algorithmic trading Learn how these innovations revolutionized financial markets and trading strategies"
 ---
 

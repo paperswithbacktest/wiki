@@ -1,5 +1,5 @@
 ---
-title: "Municipal Notes: Overview and Types (Algo Trading)"
+title: "Municipal Notes: Overview and Types"
 description: "Explore the intersection of municipal notes, bonds, and algorithmic trading in public finance. Learn how these elements transform investment strategies and market efficiency."
 ---
 

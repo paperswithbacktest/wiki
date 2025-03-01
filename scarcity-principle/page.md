@@ -1,5 +1,5 @@
 ---
-title: "Scarcity Principle (Algo Trading)"
+title: "Scarcity Principle"
 description: "Explore how the scarcity principle, a cornerstone of economic theory, interplays with algorithmic trading to shape modern financial markets. Understand how limited resources drive value and strategic market behaviors, and how algo trading exploits these opportunities with unparalleled speed and precision. Delve into the intricate dynamics between scarcity economics and technological advancements, offering insights into predicting market trends and optimizing trading strategies. Discover how algorithms identify and react to scarcity-driven changes, providing a roadmap for navigating complex financial landscapes."
 ---
 

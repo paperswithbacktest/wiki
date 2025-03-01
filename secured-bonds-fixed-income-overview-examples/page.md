@@ -1,5 +1,5 @@
 ---
-title: "Secured Bonds in Fixed Income: Overview and Examples (Algo Trading)"
+title: "Secured Bonds in Fixed Income: Overview and Examples"
 description: "Discover the transformative role of algorithmic trading in secured bonds within fixed income Learn about bond types and how they impact market dynamics "
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MIAX Options Exchange (Algo Trading)"
+title: "MIAX Options Exchange"
 description: "Explore the cutting-edge world of options trading with MIAX Exchange Group a leading U.S. options platform known for technology-driven trading solutions."
 ---
 

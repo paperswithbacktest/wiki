@@ -1,5 +1,5 @@
 ---
-title: "Return on Invested Capital (Algo Trading)"
+title: "Return on Invested Capital"
 description: "Explore how Return on Invested Capital (ROIC) optimizes algorithmic trading by enhancing capital efficiency assessment to boost investment decisions and profitability."
 ---
 

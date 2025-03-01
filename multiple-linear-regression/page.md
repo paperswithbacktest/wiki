@@ -1,5 +1,5 @@
 ---
-title: "Multiple Linear Regression (Algo Trading)"
+title: "Multiple Linear Regression"
 description: "Explore the power of Multiple Linear Regression in algorithmic trading for enhanced market predictions using multiple variables and Python implementation."
 ---
 

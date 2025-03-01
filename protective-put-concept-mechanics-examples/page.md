@@ -1,5 +1,5 @@
 ---
-title: "Protective Put: Concept, Mechanics, and Examples (Algo Trading)"
+title: "Protective Put: Concept, Mechanics, and Examples"
 description: "Protective put options help manage trading risks by hedging against market downturns while maintaining upside potential. Essential for today's volatile markets."
 ---
 

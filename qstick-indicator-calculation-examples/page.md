@@ -1,5 +1,5 @@
 ---
-title: "Qstick Indicator: Calculation and Examples (Algo Trading)"
+title: "Qstick Indicator: Calculation and Examples"
 description: "Explore the Qstick indicator a unique tool for assessing market trends and momentum through the average difference in closing and opening prices in algo trading"
 ---
 

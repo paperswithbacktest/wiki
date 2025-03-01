@@ -1,5 +1,5 @@
 ---
-title: "Stock Dividend and Its Mechanism (Algo Trading)"
+title: "Stock Dividend and Its Mechanism"
 description: "Explore the synergy between stock dividends and algorithmic trading in modern finance. Learn how these strategies enhance investment portfolios and yield potential."
 ---
 

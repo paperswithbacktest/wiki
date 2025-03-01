@@ -1,5 +1,5 @@
 ---
-title: "Step Premium Option (Algo Trading)"
+title: "Step Premium Option"
 description: "Discover how premium options and algorithmic trading merge to enhance financial strategies offering speed precision and risk management for modern investors."
 ---
 

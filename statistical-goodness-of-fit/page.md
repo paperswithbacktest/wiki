@@ -1,5 +1,5 @@
 ---
-title: "Statistical Goodness of Fit (Algo Trading)"
+title: "Statistical Goodness of Fit"
 description: "Discover how statistical goodness-of-fit tests enhance algorithmic trading by validating and refining predictive models for more accurate market analysis."
 ---
 

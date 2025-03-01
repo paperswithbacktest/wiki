@@ -1,5 +1,5 @@
 ---
-title: "Mini Lot: Definition, Overview, and Alternatives (Algo Trading)"
+title: "Mini Lot: Definition, Overview, and Alternatives"
 description: "Explore mini lot forex trading to manage risk with reduced financial exposure. Discover how mini lots balance risk and reward with algorithmic strategies."
 ---
 

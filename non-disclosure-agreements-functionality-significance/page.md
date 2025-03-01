@@ -1,5 +1,5 @@
 ---
-title: "Non-Disclosure Agreements: Functionality and Significance (Algo Trading)"
+title: "Non-Disclosure Agreements: Functionality and Significance"
 description: "Non-disclosure agreements are crucial for protecting confidential algorithmic trading strategies by preventing unauthorized disclosure and maintaining competitive advantage."
 ---
 

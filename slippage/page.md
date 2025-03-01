@@ -1,5 +1,5 @@
 ---
-title: "Slippage (Algo Trading)"
+title: "Slippage"
 description: Discover how slippage affects algorithmic trading strategies and financial outcomes. Learn about the factors contributing to slippage, such as market volatility and execution speed, and explore tactics to minimize its financial impact. Understand how algorithmic trading leverages real-time data and backtesting to manage slippage and optimize trade execution, enhancing overall trading effectiveness.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Wyckoff Method: Accumulation and Distribution Rules (Algo Trading)"
+title: "Wyckoff Method: Accumulation and Distribution Rules"
 description: "Explore the Wyckoff Method for insights into accumulation and distribution phases. Enhance your trading strategy by understanding market cycles and price trends."
 ---
 

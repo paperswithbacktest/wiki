@@ -1,5 +1,5 @@
 ---
-title: "Piotroski Score (Algo Trading)"
+title: "Piotroski Score"
 description: "Explore how integrating the Piotroski Score with algorithmic trading can enhance stock selection and boost investment returns by leveraging financial health insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Order Flow Predictability (Algo Trading)"
+title: "Order Flow Predictability"
 description: "Explore order flow predictability in algorithmic trading to gain market insights, improve decision-making, and enhance trade execution and risk management."
 ---
 

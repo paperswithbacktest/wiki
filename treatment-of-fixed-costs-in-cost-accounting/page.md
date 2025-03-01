@@ -1,5 +1,5 @@
 ---
-title: "Treatment of Fixed Costs in Cost Accounting (Algo Trading)"
+title: "Treatment of Fixed Costs in Cost Accounting"
 description: "Understand how managing fixed costs in algorithmic trading impacts profitability and competitive edge Explore cost strategies for financial success."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Algorithmic High-Frequency Trading (Algo Trading)"
+title: "Risks Associated with Algorithmic High-Frequency Trading"
 description: "Explore the complexities of algorithmic and high-frequency trading in financial markets Understand the systemic risks and volatility challenges they present"
 ---
 

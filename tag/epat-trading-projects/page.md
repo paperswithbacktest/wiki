@@ -1,5 +1,5 @@
 ---
-title: "EPAT Trading Projects Tag (Algo Trading)"
+title: "EPAT Trading Projects Tag"
 description: Explore the world of algorithmic trading with EPAT Trading Projects by QuantInsti, offering cutting-edge education in quantitative finance. Our comprehensive program equips learners with essential skills in trading strategies, financial computing, and risk management. Through hands-on experience and real-life projects, participants gain practical expertise in Python and trading technology, preparing them for successful careers in finance. Discover how our industry-focused curriculum can help you become an expert in analyzing market data and implementing sophisticated trading systems. Join EPAT and excel in the dynamic field of algorithmic trading.
 ---
 

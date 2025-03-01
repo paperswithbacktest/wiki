@@ -1,5 +1,5 @@
 ---
-title: "Use of T-Bills in Risk-Free Rate Determination (Algo Trading)"
+title: "Use of T-Bills in Risk-Free Rate Determination"
 description: "Explore the significance of T-Bills in determining the risk-free rate for financial models. Learn how algo trading optimizes T-Bill strategies in today's markets."
 ---
 

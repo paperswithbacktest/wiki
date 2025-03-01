@@ -1,5 +1,5 @@
 ---
-title: "Title (Algo Trading)"
+title: "Title"
 description: "Explore the impact of algorithmic trading and futures contracts on global markets. Discover how NYSE Liffe facilitates risk management and price discovery."
 ---
 

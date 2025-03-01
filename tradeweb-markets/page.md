@@ -1,5 +1,5 @@
 ---
-title: "Tradeweb Markets (Algo Trading)"
+title: "Tradeweb Markets"
 description: "Explore how Tradeweb Markets has revolutionized financial trading through innovative algorithmic and electronic platforms enhancing efficiency and market access."
 ---
 

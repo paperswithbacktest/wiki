@@ -1,5 +1,5 @@
 ---
-title: "Significance of Stock Trade Volume (Algo Trading)"
+title: "Significance of Stock Trade Volume"
 description: "Learn about the significance of stock trade volume in the stock market and its application in algorithmic trading to improve strategy efficiency and decision-making."
 ---
 

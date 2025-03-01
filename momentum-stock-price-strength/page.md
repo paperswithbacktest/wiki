@@ -1,5 +1,5 @@
 ---
-title: "Momentum and Stock Price Strength (Algo Trading)"
+title: "Momentum and Stock Price Strength"
 description: "Explore market strength and stock price momentum in algorithmic trading to gain a competitive edge. Learn about key indicators and strategies for improved insights."
 ---
 

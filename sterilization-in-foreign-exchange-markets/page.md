@@ -1,5 +1,5 @@
 ---
-title: "Sterilization in Foreign Exchange Markets (Algo Trading)"
+title: "Sterilization in Foreign Exchange Markets"
 description: "Discover how foreign exchange sterilization and algorithmic trading impact global forex markets and learn central bank strategies for economic stability."
 ---
 

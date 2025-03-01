@@ -1,5 +1,5 @@
 ---
-title: "Total Bond Fund Overview (Algo Trading)"
+title: "Total Bond Fund Overview"
 description: "Explore the transformative impact of total bond funds and algorithmic trading on modern bond markets Discover how tech-driven strategies redefine bond investing"
 ---
 

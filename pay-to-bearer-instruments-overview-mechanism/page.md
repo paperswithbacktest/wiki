@@ -1,5 +1,5 @@
 ---
-title: "Pay-To-Bearer Instruments: Overview and Mechanism (Algo Trading)"
+title: "Pay-To-Bearer Instruments: Overview and Mechanism"
 description: "Explore the intersection of pay-to-bearer instruments and algorithmic trading including their history benefits and risks in modern financial markets."
 ---
 

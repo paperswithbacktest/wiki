@@ -1,5 +1,5 @@
 ---
-title: "Mid-Cap Stocks Performance in Bull Markets (Algo Trading)"
+title: "Mid-Cap Stocks Performance in Bull Markets"
 description: "Discover how mid-cap stocks perform in bull markets and the role of algorithmic trading in enhancing returns Learn strategies for maximizing market gains"
 ---
 

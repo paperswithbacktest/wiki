@@ -1,5 +1,5 @@
 ---
-title: "Preemptive Rights in Stock Issuance (Algo Trading)"
+title: "Preemptive Rights in Stock Issuance"
 description: "Explore the dynamics of preemptive rights in stock issuance and understand how they protect shareholders from dilution while leveraging algorithmic trading."
 ---
 

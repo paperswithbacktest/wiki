@@ -1,5 +1,5 @@
 ---
-title: "Net Importer: Definition, Examples, Advantages and Disadvantages (Algo Trading)"
+title: "Net Importer: Definition, Examples, Advantages and Disadvantages"
 description: "Explore the concept of net importers and their economic impact This page investigates into trade dynamics examples advantages disadvantages and the role of algo trading"
 ---
 

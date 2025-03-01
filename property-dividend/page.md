@@ -1,5 +1,5 @@
 ---
-title: "Property Dividend (Algo Trading)"
+title: "Property Dividend"
 description: "Discover the benefits of property dividends and how algorithmic trading can enhance investment strategies by optimizing returns and managing resources efficiently."
 ---
 

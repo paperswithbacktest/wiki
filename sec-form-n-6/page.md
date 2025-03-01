@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-6 (Algo Trading)"
+title: "SEC Form N-6"
 description: "Explore the importance of SEC Form N-6 in variable life insurance covering crucial investment insights risks and company financial health to aid informed decisions."
 ---
 

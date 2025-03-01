@@ -1,5 +1,5 @@
 ---
-title: "Peer Review (Algo Trading)"
+title: "Peer Review"
 description: "Peer review is vital in algorithmic trading academia enhancing credibility and innovation by validating research through expert evaluations in a complex landscape."
 ---
 

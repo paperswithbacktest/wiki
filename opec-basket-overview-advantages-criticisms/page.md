@@ -1,5 +1,5 @@
 ---
-title: "OPEC Basket: Overview, Advantages, and Criticisms (Algo Trading)"
+title: "OPEC Basket: Overview, Advantages, and Criticisms"
 description: "Explore the significance of the OPEC Basket in global oil pricing, its impact on economies, and the role of algorithmic trading in modernizing market strategies."
 ---
 

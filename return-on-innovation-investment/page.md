@@ -1,5 +1,5 @@
 ---
-title: "Return on Innovation Investment (Algo Trading)"
+title: "Return on Innovation Investment"
 description: "Discover actionable insights on optimizing return on investment through innovation and algorithmic trading, enhancing profitability in the digital market landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo Simulation in Excel (Algo Trading)"
+title: "Monte Carlo Simulation in Excel"
 description: "Explore the intersection of Monte Carlo simulations and algorithmic trading in Excel to boost financial forecasting and data-driven strategies with this guide."
 ---
 

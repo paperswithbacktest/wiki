@@ -1,5 +1,5 @@
 ---
-title: "Warren Buffett ETF Portfolio (90/10) Explained (Algo Trading)"
+title: "Warren Buffett ETF Portfolio (90/10) Explained"
 description: Explore Warren Buffett's ETF Portfolio strategy which advocates for a simple yet effective 90/10 investment allocation. This involves 90% in a low-cost S&P 500 index fund and 10% in government bonds, emphasizing long-term growth, diversification, and risk management. Discover how this approach embodies Buffett's investment philosophy, leveraging algorithmic trading for potential optimization while maintaining low costs and a disciplined investment path.
 ---
 

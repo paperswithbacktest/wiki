@@ -1,5 +1,5 @@
 ---
-title: "Money-Weighted Rate of Return (Algo Trading)"
+title: "Money-Weighted Rate of Return"
 description: "Discover the benefits of the Money-Weighted Rate of Return MWRR in evaluating investments considering cash flow timing and magnitude for accurate insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Theoretical Dow Jones Index (Algo Trading)"
+title: "Theoretical Dow Jones Index"
 description: "Explore the Theoretical Dow Jones Index as an innovative approach to market analysis using intraday highs and lows for enhanced trading insights and risk management."
 ---
 

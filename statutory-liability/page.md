@@ -1,5 +1,5 @@
 ---
-title: "Statutory Liability (Algo Trading)"
+title: "Statutory Liability"
 description: "Explore statutory liability in algorithmic trading with insights on legal challenges and regulatory oversight to ensure compliance and risk management."
 ---
 

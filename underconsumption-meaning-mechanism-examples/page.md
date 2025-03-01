@@ -1,5 +1,5 @@
 ---
-title: "Underconsumption: Meaning, Mechanism, and Examples (Algo Trading)"
+title: "Underconsumption: Meaning, Mechanism, and Examples"
 description: "Explore the link between economic theories of demand and underconsumption with algorithmic trading to optimize market strategies and boost trading efficacy."
 ---
 

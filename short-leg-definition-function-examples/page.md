@@ -1,5 +1,5 @@
 ---
-title: "Short Leg: Definition, Function, and Examples (Algo Trading)"
+title: "Short Leg: Definition, Function, and Examples"
 description: "Explore the key role of short legs in algorithmic trading, focusing on their impact on risk management and cost efficiency in option spreads for optimized trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Post-Trade Processing Overview (Algo Trading)"
+title: "Post-Trade Processing Overview"
 description: "Explore the essential role of post-trade processing in algorithmic trading with a focus on clearing and settlement, ensuring accurate and efficient trade execution."
 ---
 

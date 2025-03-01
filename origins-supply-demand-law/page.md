@@ -1,5 +1,5 @@
 ---
-title: "Origins of Supply and Demand Law (Algo Trading)"
+title: "Origins of Supply and Demand Law"
 description: "Explore how the fundamental law of supply and demand shapes algorithmic trading strategies by predicting market dynamics and optimizing investment outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Renko Trading Strategy (Algo Trading)"
+title: "Renko Trading Strategy"
 description: Renko trading strategy offers a unique approach to financial charting by focusing exclusively on price movements using bricks to represent fixed changes eliminating minor fluctuations and enhancing trend clarity. Renko charts are instrumental in algorithmic trading due to their ability to simplify trend analysis and identify key price levels boosting trading algorithm performance. While they offer clear visual signals with less market noise than traditional charts traders should be cautious of possible limitations like delayed signal recognition during low volatility periods making them an essential tool yet requiring careful application in broader strategies.
 ---
 

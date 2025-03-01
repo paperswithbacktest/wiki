@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-30B-2 (Algo Trading)"
+title: "SEC Form N-30B-2"
 description: "Ensure compliance in algorithmic trading with SEC Form N-30B-2 Discover how this essential filing enhances transparency and protects investor interests."
 ---
 

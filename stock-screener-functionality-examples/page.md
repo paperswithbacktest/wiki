@@ -1,5 +1,5 @@
 ---
-title: "Stock Screener: Functionality and Examples (Algo Trading)"
+title: "Stock Screener: Functionality and Examples"
 description: "Explore the powerful world of stock screeners and investment tools, enhance your trading strategies and make informed decisions in the evolving finance market."
 ---
 

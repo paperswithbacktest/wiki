@@ -1,5 +1,5 @@
 ---
-title: "Rectangle Formation (Algo Trading)"
+title: "Rectangle Formation"
 description: "Explore how rectangle formations enhance algorithmic trading by predicting price movements and optimizing strategies Learn to integrate these patterns for better results"
 ---
 

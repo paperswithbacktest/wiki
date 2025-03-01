@@ -1,5 +1,5 @@
 ---
-title: "T-model (Algo Trading)"
+title: "T-model"
 description: "Explore the transformative power of the T-model in algo trading as it integrates technical and fundamental analysis for precise and efficient trade execution."
 ---
 

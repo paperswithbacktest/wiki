@@ -1,5 +1,5 @@
 ---
-title: "Oversold Bounce: Meaning and Mechanism with Examples (Algo Trading)"
+title: "Oversold Bounce: Meaning and Mechanism with Examples"
 description: "Explore the concept of oversold bounces in the stock market and learn how algorithmic trading can help identify and capitalize on these profitable opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trailing Earnings Per Share (Algo Trading)"
+title: "Trailing Earnings Per Share"
 description: "Discover the role of Trailing EPS in algorithmic trading how it provides valuable insights into a company's profitability by analyzing earnings trends over the last four quarters"
 ---
 

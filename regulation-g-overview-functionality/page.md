@@ -1,5 +1,5 @@
 ---
-title: "Regulation G: Overview and Functionality (Algo Trading)"
+title: "Regulation G: Overview and Functionality"
 description: "Explore the significance of Regulation G in algorithmic trading, highlighting the importance of transparency, compliance, and ethical trading practices in financial markets."
 ---
 

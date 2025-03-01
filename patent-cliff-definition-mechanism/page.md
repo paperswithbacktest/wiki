@@ -1,5 +1,5 @@
 ---
-title: "Patent Cliff: Definition and Mechanism (Algo Trading)"
+title: "Patent Cliff: Definition and Mechanism"
 description: "Explore the impact of patent cliffs on pharmaceuticals and learn strategies to counter revenue losses post-patent expiration, including algorithmic trading solutions."
 ---
 

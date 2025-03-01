@@ -1,5 +1,5 @@
 ---
-title: "Present Situation Index: Definition and Function (Algo Trading)"
+title: "Present Situation Index: Definition and Function"
 description: "Discover the significance of the Present Situation Index in understanding consumer confidence and its role in shaping economic strategies and algorithmic trading."
 ---
 

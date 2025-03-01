@@ -1,5 +1,5 @@
 ---
-title: "Valuable Papers Insurance (Algo Trading)"
+title: "Valuable Papers Insurance"
 description: "Explore the importance of valuable papers insurance in protecting sensitive documents vital to algorithmic trading firms enhancing stability and operational resilience."
 ---
 

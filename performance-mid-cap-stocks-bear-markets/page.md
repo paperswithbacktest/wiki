@@ -1,5 +1,5 @@
 ---
-title: "Performance of Mid-Cap Stocks During Bear Markets (Algo Trading)"
+title: "Performance of Mid-Cap Stocks During Bear Markets"
 description: "Explore the impact of bear markets on mid-cap stocks with insights on algorithmic trading strategies to navigate volatility and achieve balanced portfolios."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Treasury Index: Meaning and Mechanism (Algo Trading)"
+title: "Treasury Index: Meaning and Mechanism"
 description: "Explore the mechanism and significance of treasury indexes in algorithmic trading. Learn how tech-driven strategies use benchmarks to optimize investment decisions."
 ---
 

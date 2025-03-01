@@ -1,5 +1,5 @@
 ---
-title: "Non-Dividend Quality Stocks (Algo Trading)"
+title: "Non-Dividend Quality Stocks"
 description: "Discover the potential of non-dividend quality stocks in algo trading and explore strategic insights for maximizing growth and navigating market risks"
 ---
 

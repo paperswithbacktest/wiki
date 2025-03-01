@@ -1,5 +1,5 @@
 ---
-title: "World Federation of Exchanges Overview (Algo Trading)"
+title: "World Federation of Exchanges Overview"
 description: "Explore the role of the World Federation of Exchanges in algorithmic trading the impact of AI and the evolution of global stock markets on economic growth."
 ---
 

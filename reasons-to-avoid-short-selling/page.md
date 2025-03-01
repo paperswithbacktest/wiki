@@ -1,5 +1,5 @@
 ---
-title: "Reasons to Avoid Short Selling (Algo Trading)"
+title: "Reasons to Avoid Short Selling"
 description: "Avoid short selling in algo trading due to risks like unlimited losses and timing challenges Explore safer market strategies to optimize trading outcomes"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Short Interest Theory and Application (Algo Trading)"
+title: "Short Interest Theory and Application"
 description: "Explore the synergy between short interest theory and algorithmic trading to uncover market opportunities By leveraging data and technology traders can enhance investment strategies"
 ---
 

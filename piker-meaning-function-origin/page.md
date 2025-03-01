@@ -1,5 +1,5 @@
 ---
-title: "Piker: Meaning, Function, and Origin (Algo Trading)"
+title: "Piker: Meaning, Function, and Origin"
 description: "Explore the intriguing term 'piker' in trading understanding its meaning origin and role in algorithmic trading to enhance your market knowledge."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "National Association Of Investors Corp (Algo Trading)"
+title: "National Association Of Investors Corp"
 description: "Explore the synergy of investor education through BetterInvesting, investment clubs, and algorithmic trading to empower financial growth and strategic investing."
 ---
 

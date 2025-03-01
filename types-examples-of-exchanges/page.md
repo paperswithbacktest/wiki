@@ -1,5 +1,5 @@
 ---
-title: "Types and Examples of Exchanges (Algo Trading)"
+title: "Types and Examples of Exchanges"
 description: "Explore the multifaceted world of trading exchanges including traditional models and algorithmic strategies for optimal trading efficiency and competitive advantage."
 ---
 

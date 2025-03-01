@@ -1,5 +1,5 @@
 ---
-title: "Underapplied and Overapplied Overhead in Budgeting (Algo Trading)"
+title: "Underapplied and Overapplied Overhead in Budgeting"
 description: "Understanding underapplied and overapplied overhead is vital in budgeting for algorithmic trading to ensure precise cost management and optimize financial outcomes."
 ---
 

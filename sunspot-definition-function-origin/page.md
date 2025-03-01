@@ -1,5 +1,5 @@
 ---
-title: "Sunspot: Definition, Function, and Origin (Algo Trading)"
+title: "Sunspot: Definition, Function, and Origin"
 description: "Discover the intriguing connection between sunspots and financial markets Explore how solar activity may influence algorithmic trading strategies in this article"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Understanding Stock Ownership (Algo Trading)"
+title: "Understanding Stock Ownership"
 description: "Explore stock ownership and investing basics, focusing on algorithmic trading's growing role in financial markets for informed investing decisions."
 ---
 

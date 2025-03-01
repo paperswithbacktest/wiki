@@ -1,5 +1,5 @@
 ---
-title: "Regulation of Forex Brokers in the United States (Algo Trading)"
+title: "Regulation of Forex Brokers in the United States"
 description: "Explore the regulation of forex brokers in the U.S. covering compliance, key regulations, and the role of U.S. forex brokers in ensuring market integrity."
 ---
 

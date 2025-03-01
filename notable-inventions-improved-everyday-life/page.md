@@ -1,5 +1,5 @@
 ---
-title: "Notable Inventions That Improved Everyday Life (Algo Trading)"
+title: "Notable Inventions That Improved Everyday Life"
 description: "Discover how algorithmic trading transforms financial markets with speed and precision, leveraging technology to enhance everyday life and global economic systems."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Statistical Arbitrage and Profit Generation (Algo Trading)"
+title: "Statistical Arbitrage and Profit Generation"
 description: "Explore the world of statistical arbitrage in algorithmic trading where quantitative models identify fleeting price discrepancies to generate profit."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Simple Moving Average and Its Formula (Algo Trading)"
+title: "Simple Moving Average and Its Formula"
 description: "Discover how the Simple Moving Average (SMA) aids in algorithmic trading by smoothing price data to reveal market trends. Explore its formula, benefits, and uses."
 ---
 

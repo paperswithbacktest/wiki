@@ -1,5 +1,5 @@
 ---
-title: "World Gold Council: Overview and Function (Algo Trading)"
+title: "World Gold Council: Overview and Function"
 description: "Explore the pivotal role of the World Gold Council in the gold industry and the transformative impact of algorithmic trading on market efficiency and liquidity."
 ---
 

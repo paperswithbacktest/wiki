@@ -1,5 +1,5 @@
 ---
-title: "White Elephant: Origin and Examples (Algo Trading)"
+title: "White Elephant: Origin and Examples"
 description: "Explore the origins and examples of white elephant investments and learn how algorithmic trading offers modern, efficient strategies in financial markets."
 ---
 

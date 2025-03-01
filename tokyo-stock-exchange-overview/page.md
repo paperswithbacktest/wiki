@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Stock Exchange Overview (Algo Trading)"
+title: "Tokyo Stock Exchange Overview"
 description: "Discover the rich history and technological advancements of the Tokyo Stock Exchange focusing on the impact and evolution of algorithmic trading in Japan."
 ---
 

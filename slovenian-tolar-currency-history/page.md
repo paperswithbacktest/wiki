@@ -1,5 +1,5 @@
 ---
-title: "Slovenian Tolar: Currency History (Algo Trading)"
+title: "Slovenian Tolar: Currency History"
 description: "Explore the history of the Slovenian Tolar and its impact on Slovenia's economy, along with the rise of algorithmic trading in modern financial markets."
 ---
 

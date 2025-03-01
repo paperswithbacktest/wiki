@@ -1,5 +1,5 @@
 ---
-title: "Widow Maker Mechanism and Examples (Algo Trading)"
+title: "Widow Maker Mechanism and Examples"
 description: "Explore the concept of widow maker trades in algorithmic trading, known for high risk and potential loss. Understand examples like JGBs and natural gas futures."
 ---
 

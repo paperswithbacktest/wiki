@@ -1,5 +1,5 @@
 ---
-title: "Reverse Convertible Bonds: Overview, Advantages, and Criticisms (Algo Trading)"
+title: "Reverse Convertible Bonds: Overview, Advantages, and Criticisms"
 description: "Explore the world of reverse convertible bonds and understand their advantages and pitfalls. Discover how algorithmic trading influences modern bond investment strategies."
 ---
 

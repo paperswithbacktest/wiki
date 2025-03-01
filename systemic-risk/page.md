@@ -1,5 +1,5 @@
 ---
-title: "systemic risk (Algo Trading)"
+title: "systemic risk"
 description: "Algorithmic trading, while revolutionizing markets with speed and efficiency, also introduces systemic risks. These risks are crucial for institutions and regulators to address."
 ---
 

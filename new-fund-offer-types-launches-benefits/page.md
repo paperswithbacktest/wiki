@@ -1,5 +1,5 @@
 ---
-title: "New Fund Offer: Types, Launches, and Benefits (Algo Trading)"
+title: "New Fund Offer: Types, Launches, and Benefits"
 description: "Explore New Fund Offers NFOs and discover their unique investment opportunities in the mutual fund industry with insights into algorithmic trading benefits"
 ---
 

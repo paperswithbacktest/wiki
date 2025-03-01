@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Crowdfunding: Concepts, Benefits, and Challenges (Algo Trading)"
+title: "Real Estate Crowdfunding: Concepts, Benefits, and Challenges"
 description: "Explore real estate crowdfunding and algorithmic trading benefits and challenges Unlock new investment opportunities with insights into modern strategies risks and rewards"
 ---
 

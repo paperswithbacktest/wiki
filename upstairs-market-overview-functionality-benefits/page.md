@@ -1,5 +1,5 @@
 ---
-title: "Upstairs Market: Overview, Functionality, and Benefits (Algo Trading)"
+title: "Upstairs Market: Overview, Functionality, and Benefits"
 description: "Discover the dynamics of upstairs market and algorithmic trading from execution to benefits Learn how these methods enhance liquidity privacy and market efficiency"
 ---
 

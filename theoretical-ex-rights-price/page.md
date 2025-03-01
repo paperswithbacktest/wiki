@@ -1,5 +1,5 @@
 ---
-title: "Theoretical Ex-Rights Price (Algo Trading)"
+title: "Theoretical Ex-Rights Price"
 description: "Optimize your trading strategy with insights into Theoretical Ex-Rights Price and its impact on rights issues. Gain knowledge to enhance investment decisions."
 ---
 

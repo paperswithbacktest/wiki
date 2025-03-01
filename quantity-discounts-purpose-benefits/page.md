@@ -1,5 +1,5 @@
 ---
-title: "Quantity Discounts: Purpose and Benefits (Algo Trading)"
+title: "Quantity Discounts: Purpose and Benefits"
 description: "Explore the benefits of quantity discount pricing and algorithmic trading in boosting sales and trading efficiency Learn how these strategies enhance competitiveness"
 ---
 

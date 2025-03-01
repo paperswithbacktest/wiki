@@ -1,5 +1,5 @@
 ---
-title: "Moving Average: Applications, Calculation, and Examples (Algo Trading)"
+title: "Moving Average: Applications, Calculation, and Examples"
 description: "Explore the critical role of moving averages in financial analysis and algorithmic trading. This comprehensive guide highlights their function in smoothing price data, identifying trends, and assisting traders with informed decisions. Understand the differences between Simple Moving Average (SMA) and Exponential Moving Average (EMA), and learn how to incorporate these tools into trading strategies to enhance analytical capabilities and forecast market movements effectively."
 ---
 

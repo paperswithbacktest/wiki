@@ -1,5 +1,5 @@
 ---
-title: "Selecting an ETF (Algo Trading)"
+title: "Selecting an ETF"
 description: "Discover the fusion of Exchange-Traded Funds (ETFs) and algorithmic trading in this insightful guide. Learn how ETFs' liquidity and transparency enhance algo-trading strategies, offering unique investment prospects. Explore the advantages and challenges of using sophisticated algorithms for trading ETFs, providing valuable insights for better portfolio management and optimized investment strategies in the evolving financial markets."
 ---
 

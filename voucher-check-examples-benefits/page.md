@@ -1,5 +1,5 @@
 ---
-title: "Voucher Check: Examples and Benefits (Algo Trading)"
+title: "Voucher Check: Examples and Benefits"
 description: "Explore the benefits of using payment verification vouchers in algorithmic trading to ensure transparency, accuracy, and enhanced financial governance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Spontaneous Assets: Overview and Significance (Algo Trading)"
+title: "Spontaneous Assets: Overview and Significance"
 description: "Explore the dynamics of spontaneous assets and their impact on algorithmic trading in financial markets Learn how balance sheets enhance trading strategies"
 ---
 

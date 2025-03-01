@@ -1,5 +1,5 @@
 ---
-title: "Revenue Model of KakaoTalk (Algo Trading)"
+title: "Revenue Model of KakaoTalk"
 description: "Discover how KakaoTalk's innovative revenue model transforms digital communication through diverse streams including advertising in-app purchases and local collaborations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ratio Call Write (Algo Trading)"
+title: "Ratio Call Write"
 description: "Explore the ratio call write strategy in options trading Learn how algorithmic trading optimizes this high-risk approach to maximize income from premiums"
 ---
 

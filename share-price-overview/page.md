@@ -1,5 +1,5 @@
 ---
-title: "Share Price Overview (Algo Trading)"
+title: "Share Price Overview"
 description: "Explore the comprehensive world of stock market investment with insights into share price analysis and algorithmic trading. Delve into stock valuation methods to assess company worth and understand the influence of market sentiment and economic indicators on share prices. Discover how algorithmic trading leverages technology to enhance trading efficiency and decision-making, providing investors with advanced strategies for portfolio optimization. Stay informed about the dynamic market landscape and navigate investment opportunities with informed strategies for favorable financial outcomes."
 ---
 

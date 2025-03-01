@@ -1,5 +1,5 @@
 ---
-title: "On-The-Run Treasury Yield Curve (Algo Trading)"
+title: "On-The-Run Treasury Yield Curve"
 description: "Explore the integration of the on-the-run Treasury yield curve and algorithmic trading in bond markets to optimize strategies and unlock new opportunities."
 ---
 

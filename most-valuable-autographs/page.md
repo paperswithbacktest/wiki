@@ -1,5 +1,5 @@
 ---
-title: "List of Most Valuable Autographs (Algo Trading)"
+title: "List of Most Valuable Autographs"
 description: "Discover the allure of rare autographs, explore algorithmic trading trends in collectibles, and uncover investment opportunities in historical signatures."
 ---
 

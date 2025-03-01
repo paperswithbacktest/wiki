@@ -1,5 +1,5 @@
 ---
-title: "Parallelising Python with Threading and Multiprocessing (Algo Trading)"
+title: "Parallelising Python with Threading and Multiprocessing"
 description: Explore the advantages of using Python multithreading in algorithmic trading as it enables better performance, efficiency, and responsiveness of trading systems. By allowing tasks to execute concurrently, multithreading can significantly reduce latency, ensuring faster trade executions and data processing which are critical in high-speed financial environments. This article investigates into the implementation, challenges like Python's Global Interpreter Lock, and practical applications of multithreading in trading strategies, helping traders maintain a competitive edge.
 ---
 

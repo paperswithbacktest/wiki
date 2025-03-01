@@ -1,5 +1,5 @@
 ---
-title: "order routing (Algo Trading)"
+title: "order routing"
 description: "Discover how order routing in algorithmic trading enhances trade execution by directing orders to optimal venues for lower costs and improved outcomes."
 ---
 

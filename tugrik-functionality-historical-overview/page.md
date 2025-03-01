@@ -1,5 +1,5 @@
 ---
-title: "Tugrik: Functionality and Historical Overview (Algo Trading)"
+title: "Tugrik: Functionality and Historical Overview"
 description: "Explore the Mongolian Tugrik's significance in Mongolia's economy and investments, focusing on its historical context and relevance in algorithmic trading."
 ---
 

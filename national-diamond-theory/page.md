@@ -1,5 +1,5 @@
 ---
-title: "National Diamond Theory (Algo Trading)"
+title: "National Diamond Theory"
 description: "Explore the synergy between Michael Porter's National Diamond Model and algorithmic trading to enhance global business competitiveness in evolving markets."
 ---
 

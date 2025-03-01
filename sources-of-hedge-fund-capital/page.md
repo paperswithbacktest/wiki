@@ -1,5 +1,5 @@
 ---
-title: "Sources of Hedge Fund Capital (Algo Trading)"
+title: "Sources of Hedge Fund Capital"
 description: "Explore how hedge funds leverage algorithmic trading and diverse capital sources for superior investment strategies while navigating fee structures and regulatory challenges."
 ---
 

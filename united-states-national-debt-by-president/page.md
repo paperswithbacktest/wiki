@@ -1,5 +1,5 @@
 ---
-title: "United States National Debt by President (Algo Trading)"
+title: "United States National Debt by President"
 description: "Explore the intricate history of U.S. national debt and how different presidential administrations have influenced it through their fiscal policies and responses to economic challenges. This article investigates into the evolution of debt across various presidencies, the impact of algorithmic trading on modern debt management, and offers insights into the complexities of national debt dynamics. Gain a comprehensive understanding of political, economic, and technological factors shaping national debt, with projections on future trends and challenges."
 ---
 

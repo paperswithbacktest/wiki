@@ -1,5 +1,5 @@
 ---
-title: "SEC MEF Filings (Algo Trading)"
+title: "SEC MEF Filings"
 description: "Explore the significance of SEC MEF filings and algorithmic trading in financial markets Understand how regulatory frameworks impact market transparency and investor protection"
 ---
 

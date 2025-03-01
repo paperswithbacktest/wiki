@@ -1,5 +1,5 @@
 ---
-title: "Short Selling: Advantages, Disadvantages, and Illustrations (Algo Trading)"
+title: "Short Selling: Advantages, Disadvantages, and Illustrations"
 description: "Explore the advantages and disadvantages of short selling and algorithmic trading to make informed investment decisions in volatile financial markets."
 ---
 

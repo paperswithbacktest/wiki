@@ -1,5 +1,5 @@
 ---
-title: "Sentiment-driven trading (Algo Trading)"
+title: "Sentiment-driven trading"
 description: "Explore sentiment-driven trading a strategy using NLP and machine learning to analyze market sentiment and enhance trading decisions through algorithmic models."
 ---
 

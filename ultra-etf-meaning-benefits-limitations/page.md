@@ -1,5 +1,5 @@
 ---
-title: "Ultra ETF: Meaning, Benefits, and Limitations (Algo Trading)"
+title: "Ultra ETF: Meaning, Benefits, and Limitations"
 description: "Explore the powerful synergy of Ultra ETFs and algorithmic trading. Gain amplified performance and precision in navigating modern financial markets with leveraged strategies."
 ---
 

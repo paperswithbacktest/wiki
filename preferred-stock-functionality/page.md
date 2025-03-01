@@ -1,5 +1,5 @@
 ---
-title: "Preferred Stock Functionality (Algo Trading)"
+title: "Preferred Stock Functionality"
 description: "Discover the unique benefits of preferred stock and the efficiency of algorithmic trading in modern investing Learn how these tools can enhance your portfolio strategy"
 ---
 

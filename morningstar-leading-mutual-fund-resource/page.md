@@ -1,5 +1,5 @@
 ---
-title: "Morningstar as a Leading Mutual Fund Resource (Algo Trading)"
+title: "Morningstar as a Leading Mutual Fund Resource"
 description: "Optimize your investment strategies with Morningstar's mutual fund insights and algorithmic trading techniques Learn how to manage risk and maximize returns"
 ---
 

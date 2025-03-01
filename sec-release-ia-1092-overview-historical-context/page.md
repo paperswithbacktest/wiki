@@ -1,5 +1,5 @@
 ---
-title: "SEC Release IA-1092: Overview and Historical Context (Algo Trading)"
+title: "SEC Release IA-1092: Overview and Historical Context"
 description: "Explore SEC Release IA-1092 and its pivotal role in guiding investment advisors through regulatory complexities in the age of algorithmic trading solutions."
 ---
 

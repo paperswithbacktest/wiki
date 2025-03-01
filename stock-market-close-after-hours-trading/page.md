@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Close and After-Hours Trading (Algo Trading)"
+title: "Stock Market Close and After-Hours Trading"
 description: "Explore the intricacies of after-hours trading and algorithmic strategies that optimize post-market decisions. Learn how technology shapes trading beyond closing hours."
 ---
 

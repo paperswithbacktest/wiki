@@ -1,5 +1,5 @@
 ---
-title: "Responsibility for Shareholders' Interests (Algo Trading)"
+title: "Responsibility for Shareholders' Interests"
 description: "Explore the interplay between shareholder interests, corporate responsibility, and algo trading in today's financial markets to gain insights on market dynamics."
 ---
 

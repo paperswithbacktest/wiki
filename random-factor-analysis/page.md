@@ -1,5 +1,5 @@
 ---
-title: "Random Factor Analysis (Algo Trading)"
+title: "Random Factor Analysis"
 description: "Explore how random factor analysis innovations empower algorithmic trading by optimizing strategies and managing risks through advanced data interpretation techniques."
 ---
 

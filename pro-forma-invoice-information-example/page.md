@@ -1,5 +1,5 @@
 ---
-title: "Pro Forma Invoice: Information and Example (Algo Trading)"
+title: "Pro Forma Invoice: Information and Example"
 description: "Explore the critical role of pro forma invoices within algo trading to enhance transaction transparency and efficiency with this detailed guide and example."
 ---
 

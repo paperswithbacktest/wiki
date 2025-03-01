@@ -1,5 +1,5 @@
 ---
-title: "Richard Stone: Biography and Contributions (Algo Trading)"
+title: "Richard Stone: Biography and Contributions"
 description: "Discover Richard Stone's transformative impact on economics, from national income accounting to econometrics, and his influence on algorithmic trading advancements."
 ---
 

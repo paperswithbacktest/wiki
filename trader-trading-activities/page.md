@@ -1,5 +1,5 @@
 ---
-title: "Trader and Trading Activities (Algo Trading)"
+title: "Trader and Trading Activities"
 description: "Explore the role of traders in financial markets and the rise of algorithmic trading. Understand how algo trading optimizes strategies for automated efficiency."
 ---
 

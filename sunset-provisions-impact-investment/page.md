@@ -1,5 +1,5 @@
 ---
-title: "Sunset Provisions and Their Impact on Investment (Algo Trading)"
+title: "Sunset Provisions and Their Impact on Investment"
 description: "Explore how sunset provisions and algorithmic trading impact investments Learn to navigate regulatory changes and leverage technology for strategic gains"
 ---
 

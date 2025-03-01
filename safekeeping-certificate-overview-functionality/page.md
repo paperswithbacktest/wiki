@@ -1,5 +1,5 @@
 ---
-title: "Safekeeping Certificate: Overview and Functionality (Algo Trading)"
+title: "Safekeeping Certificate: Overview and Functionality"
 description: "Discover the security benefits of safekeeping certificates in algorithmic trading Explore how these tools safeguard investments while enhancing trading efficiency"
 ---
 

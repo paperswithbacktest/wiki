@@ -1,5 +1,5 @@
 ---
-title: "Professional Trading Strategies (Algo Trading)"
+title: "Professional Trading Strategies"
 description: Discover the mindset and strategies of professional traders in algo trading. Learn how discipline, consistency, adaptability, and deep market knowledge contribute to successful trading. Explore momentum and mean-reversion strategies and their effectiveness in navigating financial markets.
 ---
 

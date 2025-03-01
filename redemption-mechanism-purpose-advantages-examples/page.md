@@ -1,5 +1,5 @@
 ---
-title: "Redemption Mechanism: Purpose, Advantages, and Examples (Algo Trading)"
+title: "Redemption Mechanism: Purpose, Advantages, and Examples"
 description: "Explore the purpose and benefits of redemption mechanisms in algo trading to optimize ETF market efficiency and investor valuation with real-world examples."
 ---
 

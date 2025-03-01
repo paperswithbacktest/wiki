@@ -1,5 +1,5 @@
 ---
-title: "Profitability of Day Trading and Beginner Guidelines (Algo Trading)"
+title: "Profitability of Day Trading and Beginner Guidelines"
 description: "Explore the potential profitability of day trading and algorithmic trading while understanding their associated risks and complexities in this beginner's guide. Gain insights into various trading strategies tools and risk management techniques essential for navigating the financial markets effectively. Whether you're interested in capturing short-term market movements through day trading or leveraging high-speed algorithmic executions, this article provides the foundational knowledge to embark on a successful trading journey."
 ---
 

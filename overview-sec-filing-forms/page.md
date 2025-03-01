@@ -1,5 +1,5 @@
 ---
-title: "Overview of SEC Filing Forms (Algo Trading)"
+title: "Overview of SEC Filing Forms"
 description: "Explore the importance of SEC filings in investment and algorithmic trading. Learn how forms like 10-K and 10-Q provide vital insights into companies' financial health."
 ---
 

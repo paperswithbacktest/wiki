@@ -1,5 +1,5 @@
 ---
-title: "Stagflation of the 1970s (Algo Trading)"
+title: "Stagflation of the 1970s"
 description: "Explore the stagflation of the 1970s and its impact on economic policies and algorithmic trading evolution offering insights into today's financial landscape."
 ---
 

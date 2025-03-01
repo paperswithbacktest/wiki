@@ -1,5 +1,5 @@
 ---
-title: "Michele Treccani (Algo Trading)"
+title: "Michele Treccani"
 description: "Discover Michele Treccani's journey from theoretical physics to leading roles in algorithmic trading and blockchain analytics at Algorand Foundation."
 ---
 

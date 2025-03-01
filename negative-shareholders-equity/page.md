@@ -1,5 +1,5 @@
 ---
-title: "Negative Shareholders' Equity (Algo Trading)"
+title: "Negative Shareholders' Equity"
 description: "Explore the financial implications of negative shareholders' equity and its interaction with algorithmic trading, revealing insights for investors navigating modern markets. Discover how liabilities exceeding assets might signal distress yet also offer opportunities for strategic decisions, emphasizing the importance of understanding complexities in today's dynamic trading environment."
 ---
 

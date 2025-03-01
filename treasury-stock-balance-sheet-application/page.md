@@ -1,5 +1,5 @@
 ---
-title: "Treasury Stock and Balance Sheet Application (Algo Trading)"
+title: "Treasury Stock and Balance Sheet Application"
 description: "Explore how treasury stock and algorithmic trading shape corporate finance and strategies. Gain insights into financial metrics and decision-making dynamics."
 ---
 

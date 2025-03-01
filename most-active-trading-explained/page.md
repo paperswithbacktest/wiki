@@ -1,5 +1,5 @@
 ---
-title: "Most Active Trading Explained (Algo Trading)"
+title: "Most Active Trading Explained"
 description: "Discover the intricacies of active and algorithmic trading to optimize your investment strategies and maximize returns in the dynamic world of financial markets."
 ---
 

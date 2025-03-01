@@ -1,5 +1,5 @@
 ---
-title: "Regulation B and the Equal Credit Opportunity Act (Algo Trading)"
+title: "Regulation B and the Equal Credit Opportunity Act"
 description: "Explore Regulation B and the Equal Credit Opportunity Act's role in fair lending amidst the rise of algorithmic trading emphasizing compliance and innovation."
 ---
 

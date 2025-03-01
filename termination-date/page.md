@@ -1,5 +1,5 @@
 ---
-title: "Termination Date (Algo Trading)"
+title: "Termination Date"
 description: "Explore the crucial aspects of contract termination in finance and employment and delve into the complexities of algorithmic trading for informed decision-making."
 ---
 

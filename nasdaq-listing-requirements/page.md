@@ -1,5 +1,5 @@
 ---
-title: "NASDAQ Listing Requirements (Algo Trading)"
+title: "NASDAQ Listing Requirements"
 description: "Explore NASDAQ's listing essentials and how algorithmic trading reshapes market dynamics, ensuring efficient, tech-driven, high-speed equity exchanges."
 ---
 

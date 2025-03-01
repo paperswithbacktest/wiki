@@ -1,5 +1,5 @@
 ---
-title: "Proposals for California Secession (Algo Trading)"
+title: "Proposals for California Secession"
 description: "Explore the prospects of California secession and its potential impact on politics, economy, and society Learn about Calexit's feasibility and technological implications"
 ---
 

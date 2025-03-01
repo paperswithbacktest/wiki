@@ -1,5 +1,5 @@
 ---
-title: "Unamortized Bond Discount (Algo Trading)"
+title: "Unamortized Bond Discount"
 description: "Explore the unamortized bond discount and its role in algorithmic trading to optimize investment strategies in modern financial markets for enhanced returns."
 ---
 

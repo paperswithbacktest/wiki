@@ -1,5 +1,5 @@
 ---
-title: "Optimal Currency Area and Its Criteria (Algo Trading)"
+title: "Optimal Currency Area and Its Criteria"
 description: "Explore how the Optimal Currency Area theory and algorithmic trading intersect to benefit monetary unions by enhancing currency stability and economic efficiency."
 ---
 

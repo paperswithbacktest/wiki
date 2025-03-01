@@ -1,5 +1,5 @@
 ---
-title: "Scale In Trading Strategy Overview (Algo Trading)"
+title: "Scale In Trading Strategy Overview"
 description: "Discover the advantages of scale-in trading strategies with algorithmic trading to optimize portfolio returns reduce risk and navigate complex financial markets effectively"
 ---
 

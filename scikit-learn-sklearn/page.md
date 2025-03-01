@@ -1,5 +1,5 @@
 ---
-title: "Scikit-learn (sklearn) (Algo Trading)"
+title: "Scikit-learn (sklearn)"
 description: Explore the integration of machine learning in algo trading using scikit-learn a leading Python library for data analysis. Discover how its tools enhance trading strategies with predictive modeling and backtesting efficiency. Learn about its wide range of algorithms like SVMs and random forests to capture financial data patterns. The ease of use and comprehensive documentation make scikit-learn a preferred choice for developing robust trading models leveraging data-driven strategies and improving trading precision and speed.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Terminal Elevator (Algo Trading)"
+title: "Terminal Elevator"
 description: "Explore how terminal elevators and algorithmic trading innovate the agricultural commodities market enhancing logistics, storage, and trading efficiency in grain markets."
 ---
 

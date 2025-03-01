@@ -1,5 +1,5 @@
 ---
-title: "Vanguard Total Stock Market ETF (Algo Trading)"
+title: "Vanguard Total Stock Market ETF"
 description: "Explore how algorithmic trading enhances investment strategies with Vanguard ETFs offering cost-effective, diversified assets optimizing portfolio performance."
 ---
 

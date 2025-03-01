@@ -1,5 +1,5 @@
 ---
-title: "Recession-Proof Strategies and Examples (Algo Trading)"
+title: "Recession-Proof Strategies and Examples"
 description: "Discover how recession-proof strategies, financial resilience, and algorithmic trading can maintain stability and optimize investments during economic downturns."
 ---
 

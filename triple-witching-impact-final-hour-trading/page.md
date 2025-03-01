@@ -1,5 +1,5 @@
 ---
-title: "Triple Witching and Its Impact on Final Hour Trading (Algo Trading)"
+title: "Triple Witching and Its Impact on Final Hour Trading"
 description: "Understand triple witching's role in escalating market volatility and influencing final hour trading. Explore algorithmic strategies to navigate this quarterly event."
 ---
 

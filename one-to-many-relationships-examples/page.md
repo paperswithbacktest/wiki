@@ -1,5 +1,5 @@
 ---
-title: "One-to-Many Relationships: Definition and Examples (Algo Trading)"
+title: "One-to-Many Relationships: Definition and Examples"
 description: "Explore the importance of one-to-many relationships in algorithmic trading databases to optimize decision-making and enhance trading strategies efficiently."
 ---
 

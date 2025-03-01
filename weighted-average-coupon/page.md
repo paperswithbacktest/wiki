@@ -1,5 +1,5 @@
 ---
-title: "Weighted Average Coupon (Algo Trading)"
+title: "Weighted Average Coupon"
 description: "Explore how Weighted Average Coupon impacts trading strategies in mortgage-backed securities and the role of algorithmic trading in optimizing these transactions."
 ---
 

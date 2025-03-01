@@ -1,5 +1,5 @@
 ---
-title: "Singles' Day: Overview and History (Algo Trading)"
+title: "Singles' Day: Overview and History"
 description: "Discover the transformation of Singles' Day from a celebration of singlehood in China to the world's largest shopping festival enhanced by algorithmic trading technologies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 24F-2: Function and Application (Algo Trading)"
+title: "SEC Form 24F-2: Function and Application"
 description: "Understand SEC Form 24F-2 and its crucial role in algorithmic trading compliance for investment companies ensuring transparent and efficient market operations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Variable Ratio Write (Algo Trading)"
+title: "Variable Ratio Write"
 description: "Explore the synergy between variable ratio data storage and algorithmic trading to optimize data handling for high-frequency trading and profit strategies."
 ---
 

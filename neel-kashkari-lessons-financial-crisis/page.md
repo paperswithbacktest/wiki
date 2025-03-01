@@ -1,5 +1,5 @@
 ---
-title: "Neel Kashkari and Lessons from the Financial Crisis (Algo Trading)"
+title: "Neel Kashkari and Lessons from the Financial Crisis"
 description: "Explore the key lessons from the 2008 financial crisis shared by Neel Kashkari and their influence on modern algorithmic trading practices for improved risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reasons Brokers Request Personal Information (Algo Trading)"
+title: "Reasons Brokers Request Personal Information"
 description: "Explore why brokers request personal information for algorithmic trading and the importance of balancing data use with security to protect personal privacy."
 ---
 

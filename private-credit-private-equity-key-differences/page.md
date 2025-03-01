@@ -1,5 +1,5 @@
 ---
-title: "Private Credit and Private Equity: Key Differences (Algo Trading)"
+title: "Private Credit and Private Equity: Key Differences"
 description: "Explore key differences between private credit private equity and algo trading for informed investment decisions Understand risk returns liquidity and more"
 ---
 

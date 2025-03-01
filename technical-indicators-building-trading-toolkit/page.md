@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators for Building a Trading Toolkit (Algo Trading)"
+title: "Technical Indicators for Building a Trading Toolkit"
 description: "Explore the strategic synergy of technical indicators and algo trading to enhance trading strategies and success by leveraging data-driven insights and automation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Poisson jumps (Algo Trading)"
+title: "Poisson jumps"
 description: "Explore Poisson jumps in algorithmic trading to model abrupt market movements manage risk and enhance strategies revealing deeper financial market insights."
 ---
 

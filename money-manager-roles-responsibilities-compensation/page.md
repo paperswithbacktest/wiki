@@ -1,5 +1,5 @@
 ---
-title: "Money Manager: Roles, Responsibilities, and Compensation (Algo Trading)"
+title: "Money Manager: Roles, Responsibilities, and Compensation"
 description: "Explore the roles and responsibilities of money managers and delve into the world of algo trading, focusing on their impact on modern financial strategies."
 ---
 

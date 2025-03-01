@@ -1,5 +1,5 @@
 ---
-title: "Offshore Operations: Functionality, Advantages, and Disadvantages (Algo Trading)"
+title: "Offshore Operations: Functionality, Advantages, and Disadvantages"
 description: "Explore the benefits and challenges of offshore operations and algorithmic trading in business Learn how these strategies can boost efficiency and profitability"
 ---
 

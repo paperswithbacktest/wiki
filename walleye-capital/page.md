@@ -1,5 +1,5 @@
 ---
-title: "Walleye Capital (Algo Trading)"
+title: "Walleye Capital"
 description: "Explore the forefront of algorithmic trading with Walleye Capital a leader in innovation and technology driving efficient financial market strategies and solutions."
 ---
 

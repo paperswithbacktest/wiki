@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Changes in Stock Ticker Symbols (Algo Trading)"
+title: "Reasons for Changes in Stock Ticker Symbols"
 description: "Discover why stock ticker symbols change and their impact on algorithmic trading Learn about mergers acquisitions rebranding and how traders adapt"
 ---
 

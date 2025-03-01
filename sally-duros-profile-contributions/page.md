@@ -1,5 +1,5 @@
 ---
-title: "Sally Duros: Profile and Contributions (Algo Trading)"
+title: "Sally Duros: Profile and Contributions"
 description: "Explore Sally Duros' impactful contributions in algorithmic trading showcasing her role in finance journalism and ESG integration within capital markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Traded Real Estate Investment Trust (Algo Trading)"
+title: "Non-Traded Real Estate Investment Trust"
 description: "Explore the unique benefits of non-traded REITs in real estate investing, including reduced volatility and consistent income, empowered by algorithmic trading insights."
 ---
 

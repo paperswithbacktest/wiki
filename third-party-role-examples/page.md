@@ -1,5 +1,5 @@
 ---
-title: "Third Party: Role and Examples (Algo Trading)"
+title: "Third Party: Role and Examples"
 description: "Explore the critical roles of intermediaries and third-party algorithmic trading in modern finance Learn how these elements enhance market efficiency and security"
 ---
 

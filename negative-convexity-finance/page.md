@@ -1,5 +1,5 @@
 ---
-title: "Negative Convexity in Finance (Algo Trading)"
+title: "Negative Convexity in Finance"
 description: "Explore the intricacies of negative convexity in bonds and its role in algorithmic trading to enhance your investment strategy and portfolio management."
 ---
 

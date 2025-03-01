@@ -1,5 +1,5 @@
 ---
-title: "Vulnerabilities in Cryptocurrency Security (Algo Trading)"
+title: "Vulnerabilities in Cryptocurrency Security"
 description: "Explore the vulnerabilities in cryptocurrency security and algorithmic trading Discover potential threats and security measures to safeguard digital assets."
 ---
 

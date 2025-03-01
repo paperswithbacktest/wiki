@@ -1,5 +1,5 @@
 ---
-title: "Ziliak Law Firm (Algo Trading)"
+title: "Ziliak Law Firm"
 description: "Ziliak Law offers specialized legal services for the algorithmic trading industry ensuring compliance and addressing challenges in a rapidly evolving sector."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Return on New Invested Capital (Algo Trading)"
+title: "Return on New Invested Capital"
 description: "Explore the significance of RONIC in investment strategies and algorithmic trading to enhance capital efficiency and investment performance analysis."
 ---
 

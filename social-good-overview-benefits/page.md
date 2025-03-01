@@ -1,5 +1,5 @@
 ---
-title: "Social Good: Overview and Benefits (Algo Trading)"
+title: "Social Good: Overview and Benefits"
 description: "Explore the transformative impact of algorithmic trading in financial markets, highlighting its potential to integrate social good by aligning investment strategies with societal objectives like sustainability and equality. Learn how advanced technologies like AI and machine learning enable traders to make informed decisions, enhancing transparency and accountability while promoting socially responsible investing. Discover the growing trend of blending financial returns with ethical considerations to foster community development and sustainable economic growth through innovative trading practices."
 ---
 

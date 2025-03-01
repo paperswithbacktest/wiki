@@ -1,5 +1,5 @@
 ---
-title: "Options: Types, Spreads, Examples, and Risk Metrics (Algo Trading)"
+title: "Options: Types, Spreads, Examples, and Risk Metrics"
 description: "Explore the significance of options spreads and algorithmic trading in modern finance. Understand risk metrics like the Greeks to elevate trading strategies."
 ---
 

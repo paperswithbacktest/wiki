@@ -1,5 +1,5 @@
 ---
-title: "Momentum (Algo Trading)"
+title: "Momentum"
 description: Discover the concept of Momentum in Algorithmic Trading and its significance in capitalizing on existing market trends. Learn about historical context, theoretical explanations, and practical implementations of momentum strategies through technical indicators like Moving Averages (SMA & EMA) and Relative Strength Index (RSI). Explore the evolution of momentum trading from manual to algorithmic practices.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Eurozone European Countries (Algo Trading)"
+title: "Non-Eurozone European Countries"
 description: "Explore how algorithmic trading interacts with the non-Eurozone European countries forex markets amidst evolving economic policies and technological advancements."
 ---
 

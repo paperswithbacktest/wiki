@@ -1,5 +1,5 @@
 ---
-title: "Recommended Stocks for Beginner Swing Traders (Algo Trading)"
+title: "Recommended Stocks for Beginner Swing Traders"
 description: "Discover essential tips for beginner swing traders with a focus on recommended stocks and algorithmic tools to streamline decision-making processes."
 ---
 

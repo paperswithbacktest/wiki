@@ -1,5 +1,5 @@
 ---
-title: "Risk Arbitrage: Overview, Mechanism, and Criticism (Algo Trading)"
+title: "Risk Arbitrage: Overview, Mechanism, and Criticism"
 description: "Explore risk arbitrage: a strategy exploiting price differences during corporate mergers using algorithmic trading for fast precise executions."
 ---
 

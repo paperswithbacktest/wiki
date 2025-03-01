@@ -1,5 +1,5 @@
 ---
-title: "Using Volatility Stops to Enhance Profitability (Algo Trading)"
+title: "Using Volatility Stops to Enhance Profitability"
 description: "Explore the use of volatility stops in algorithmic trading to enhance profitability by adapting to market conditions, optimizing trade exits, and managing risk effectively."
 ---
 

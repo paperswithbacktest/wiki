@@ -1,5 +1,5 @@
 ---
-title: "Operating Cash Flow Margin: Formula and Example (Algo Trading)"
+title: "Operating Cash Flow Margin: Formula and Example"
 description: "Explore the integration of operating cash flow and cash flow margin metrics in algorithmic trading to optimize strategies and assess financial stability."
 ---
 

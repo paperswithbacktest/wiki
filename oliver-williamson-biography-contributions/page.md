@@ -1,5 +1,5 @@
 ---
-title: "Oliver Williamson: Biography and Contributions (Algo Trading)"
+title: "Oliver Williamson: Biography and Contributions"
 description: "Explore the groundbreaking work of Oliver E. Williamson, a pioneer in New Institutional Economics and Transaction Cost Economics, impacting modern economic analysis."
 ---
 

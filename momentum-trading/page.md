@@ -1,5 +1,5 @@
 ---
-title: "Momentum Trading (Algo Trading)"
+title: "Momentum Trading"
 description: "Discover the intricacies of momentum and algorithmic trading in this comprehensive article. Explore how momentum trading capitalizes on short-term market movements using trend indicators, while algorithmic trading employs technology to automate trades based on data-driven parameters. Learn about the benefits, risks, and integration of these strategies to enhance portfolio management and make informed investment decisions amidst volatile markets."
 ---
 

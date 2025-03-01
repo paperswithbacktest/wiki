@@ -1,5 +1,5 @@
 ---
-title: "Price to Free Cash Flow Ratio: Overview and Calculation (Algo Trading)"
+title: "Price to Free Cash Flow Ratio: Overview and Calculation"
 description: "Explore the Price to Free Cash Flow ratio to assess company valuation and cash flow. Discover its role in algorithmic trading and investment analysis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Netflix P/E Ratio Overview (Algo Trading)"
+title: "Netflix P/E Ratio Overview"
 description: "Explore Netflix's P/E ratio and understand its impact on stock valuation and algorithmic trading strategies Learn to assess market position using P/E comparisons"
 ---
 

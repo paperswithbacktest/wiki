@@ -1,5 +1,5 @@
 ---
-title: "Spoofing Techniques (Algo Trading)"
+title: "Spoofing Techniques"
 description: "Explore the challenges spoofing poses to market integrity and cybersecurity. Understand strategies like layering and quote stuffing, and discover how regulations aim to curb abuse."
 ---
 

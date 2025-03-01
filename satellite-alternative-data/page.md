@@ -1,5 +1,5 @@
 ---
-title: "Satellite Alternative Data (Algo Trading)"
+title: "Satellite Alternative Data"
 description: Discover how satellite alternative data is transforming algorithmic trading by providing a unique macroscopic view of economic activities. Explore the integration of satellite imagery into trading models to enhance predictive analytics and market trend discovery. Learn about the role of satellite data in sectors like agriculture and energy while addressing processing challenges and ethical considerations. As technology advances, the increased accessibility of satellite data promises to democratize its use and redefine market analysis, keeping traders at the forefront of innovation in the financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Securities Market Structures (Algo Trading)"
+title: "Securities Market Structures"
 description: "Explore the complexities of securities market structures and algorithmic trading Learn how financial markets operate optimize strategies and aid economic growth"
 ---
 

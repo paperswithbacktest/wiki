@@ -1,5 +1,5 @@
 ---
-title: "Sell-Side in Financial Markets (Algo Trading)"
+title: "Sell-Side in Financial Markets"
 description: "Explore the critical role of sell-side in financial markets focusing on investment banking and algorithmic trading to ensure liquidity and market efficiency."
 ---
 

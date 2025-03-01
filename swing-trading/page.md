@@ -1,5 +1,5 @@
 ---
-title: "Swing Trading Explained (Algo Trading)"
+title: "Swing Trading Explained"
 description: Explore the dynamic intersection of swing trading and algorithmic trading with a focus on technical analysis. Learn how swing trading captures market swings in asset prices over short to medium terms, and how algorithmic trading automates these strategies for precise and swift execution. Discover the crucial role of technical indicators like Moving Averages, MACD, and RSI in trading decisions, and how they are integrated into algorithmic systems to optimize trading outcomes and manage risks effectively. Enhance your trading knowledge with insights into successful methodologies for swing trading in the algorithmic context.
 ---
 

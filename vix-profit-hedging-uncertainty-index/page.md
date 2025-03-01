@@ -1,5 +1,5 @@
 ---
-title: "VIX: Profit and Hedging with the Uncertainty Index (Algo Trading)"
+title: "VIX: Profit and Hedging with the Uncertainty Index"
 description: "Explore how the VIX Index can be leveraged in algorithmic trading to hedge against market volatility and profit from dynamic market movements efficiently."
 ---
 

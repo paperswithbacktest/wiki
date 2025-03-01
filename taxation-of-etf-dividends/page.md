@@ -1,5 +1,5 @@
 ---
-title: "Taxation of ETF Dividends (Algo Trading)"
+title: "Taxation of ETF Dividends"
 description: "Explore the complexities of ETF dividend taxation and discover how algorithmic trading can optimize your investment strategy to enhance returns and reduce risks."
 ---
 

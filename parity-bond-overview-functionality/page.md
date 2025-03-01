@@ -1,5 +1,5 @@
 ---
-title: "Parity Bond: Overview and Functionality (Algo Trading)"
+title: "Parity Bond: Overview and Functionality"
 description: "Explore international bonds and the pivotal role of algorithmic trading in today's markets. Learn how parity bonds stand equal in claims and their implications."
 ---
 

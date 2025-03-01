@@ -1,5 +1,5 @@
 ---
-title: "Universe of Securities: Overview and Mechanism (Algo Trading)"
+title: "Universe of Securities: Overview and Mechanism"
 description: "Explore how investment securities, finance, and algorithmic trading combine to create efficient market transactions with advanced strategies and AI technology."
 ---
 

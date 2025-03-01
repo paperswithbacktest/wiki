@@ -1,5 +1,5 @@
 ---
-title: "Trends Influencing Profitability in the Financial Sector (Algo Trading)"
+title: "Trends Influencing Profitability in the Financial Sector"
 description: "Explore the trends influencing profitability in the financial sector with a focus on algorithmic trading technology and regulatory impacts, shaping market dynamics."
 ---
 

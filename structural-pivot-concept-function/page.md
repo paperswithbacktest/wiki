@@ -1,5 +1,5 @@
 ---
-title: "Structural Pivot: Concept and Function (Algo Trading)"
+title: "Structural Pivot: Concept and Function"
 description: "Explore the dynamic interplay between structural pivots and algorithmic trading to enhance business adaptability and ensure competitive edges in shifting markets."
 ---
 

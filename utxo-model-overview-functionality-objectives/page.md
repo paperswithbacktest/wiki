@@ -1,5 +1,5 @@
 ---
-title: "UTXO Model: Overview, Functionality, and Objectives (Algo Trading)"
+title: "UTXO Model: Overview, Functionality, and Objectives"
 description: "Explore how the UTXO model enhances cryptocurrency transactions by supporting algorithmic trading offering unique advantages in security efficiency and traceability."
 ---
 

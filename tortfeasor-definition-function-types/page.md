@@ -1,5 +1,5 @@
 ---
-title: "Tortfeasor: Definition, Function, and Types (Algo Trading)"
+title: "Tortfeasor: Definition, Function, and Types"
 description: "Explore the complexities of tort law and algorithmic trading, focusing on technological advancements and legal challenges for liability and accountability."
 ---
 

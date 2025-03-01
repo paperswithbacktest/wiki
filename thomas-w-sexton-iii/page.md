@@ -1,5 +1,5 @@
 ---
-title: "Thomas W. Sexton III (Algo Trading)"
+title: "Thomas W. Sexton III"
 description: "Thomas W. Sexton III leads the NFA as President and CEO, enhancing futures market integrity and transparency through strategic oversight and governance."
 ---
 

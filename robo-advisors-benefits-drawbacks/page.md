@@ -1,5 +1,5 @@
 ---
-title: "Robo-Advisors: Benefits and Drawbacks (Algo Trading)"
+title: "Robo-Advisors: Benefits and Drawbacks"
 description: "Explore the advantages and challenges of robo-advisors in financial management Discover how algorithmic trading transforms investment strategies."
 ---
 

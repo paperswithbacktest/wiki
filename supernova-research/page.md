@@ -1,5 +1,5 @@
 ---
-title: "Supernova research (Algo Trading)"
+title: "Supernova research"
 description: Explore how supernova research is revolutionizing algorithmic trading by drawing parallels between astronomical phenomena and market dynamics. Discover innovative strategies that optimize trading decisions by predicting market movements accurately. Uncover how supernova-inspired approaches offer new insights and substantial returns in today's competitive financial environment.
 ---
 

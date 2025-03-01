@@ -1,5 +1,5 @@
 ---
-title: "Size Of The United States Shadow Economy (Algo Trading)"
+title: "Size Of The United States Shadow Economy"
 description: "Explore the influence of the U.S. shadow economy with insights into its size, effects on the formal market, and the role of algorithmic trading within it."
 ---
 

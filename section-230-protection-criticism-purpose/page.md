@@ -1,5 +1,5 @@
 ---
-title: "Section 230: Protection, Criticism, and Purpose (Algo Trading)"
+title: "Section 230: Protection, Criticism, and Purpose"
 description: "Explore Section 230's role in online platform liability and its impact on algorithmic trading. Uncover legal and ethical challenges intersecting tech, law, and finance."
 ---
 

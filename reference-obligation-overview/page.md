@@ -1,5 +1,5 @@
 ---
-title: "Reference Obligation Overview (Algo Trading)"
+title: "Reference Obligation Overview"
 description: "Explore the essential role of reference obligations in credit derivatives and learn how algorithmic trading aids in managing these complex financial tools for optimal risk management."
 ---
 

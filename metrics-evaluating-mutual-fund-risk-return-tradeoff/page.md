@@ -1,5 +1,5 @@
 ---
-title: "Metrics for Evaluating Mutual Fund Risk-Return Tradeoff (Algo Trading)"
+title: "Metrics for Evaluating Mutual Fund Risk-Return Tradeoff"
 description: "Explore metrics to evaluate mutual fund risk-return using algorithmic trading insights combining traditional analysis and technology for optimized portfolios."
 ---
 

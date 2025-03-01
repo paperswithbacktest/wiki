@@ -1,5 +1,5 @@
 ---
-title: "Racial Wealth Gap in the United States (Algo Trading)"
+title: "Racial Wealth Gap in the United States"
 description: "Explore how algorithmic trading impacts the racial wealth gap in the US highlighting economic inequalities and the role of technology in broadening disparities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Not-Held Orders: Types, Benefits, and Limitations (Algo Trading)"
+title: "Not-Held Orders: Types, Benefits, and Limitations"
 description: "Explore the types benefits and limitations of not-held orders in algorithmic trading Analyze how these strategic orders impact market efficiency and trade execution."
 ---
 

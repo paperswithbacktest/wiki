@@ -1,5 +1,5 @@
 ---
-title: "Offset in Finance and Accounting (Algo Trading)"
+title: "Offset in Finance and Accounting"
 description: "Discover how accounting practices enhance algorithmic trading systems in finance Learn the impact of accurate financial data on strategy execution and risk management"
 ---
 

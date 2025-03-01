@@ -1,5 +1,5 @@
 ---
-title: "Risk Management in Futures Trading (Algo Trading)"
+title: "Risk Management in Futures Trading"
 description: "Explore futures trading with algorithmic strategies to maximize rewards while managing risks like volatility and leverage through effective risk management techniques."
 ---
 

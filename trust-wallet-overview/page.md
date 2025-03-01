@@ -1,5 +1,5 @@
 ---
-title: "Trust Wallet Overview (Algo Trading)"
+title: "Trust Wallet Overview"
 description: "Explore the comprehensive features and security measures of Trust Wallet a non-custodial cryptocurrency wallet ideal for enhancing algo trading strategies "
 ---
 

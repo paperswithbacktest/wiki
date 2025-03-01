@@ -1,5 +1,5 @@
 ---
-title: "Oil-to-Natural Gas Price Ratio (Algo Trading)"
+title: "Oil-to-Natural Gas Price Ratio"
 description: "Discover the intricacies of the oil-to-natural gas price ratio and its impact on algorithmic trading in the dynamic and evolving energy market landscape."
 ---
 

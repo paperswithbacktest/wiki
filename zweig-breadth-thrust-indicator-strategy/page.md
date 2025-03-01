@@ -1,5 +1,5 @@
 ---
-title: "Zweig Breadth Thrust Indicator Strategy Explained (Algo Trading)"
+title: "Zweig Breadth Thrust Indicator Strategy Explained"
 description: Explore the intricacies of the Zweig Breadth Thrust Indicator in algorithmic trading. This article provides an in-depth analysis of the Zweig Breadth Ratio, highlighting its role in evaluating market sentiment and predicting market conditions. It explains the indicator's calculation, application, and impact on trading strategies, equipping traders with insights for more informed decisions and effective strategy development. Dive into the mechanics of this crucial trading tool to enhance your market analysis capabilities and optimize trading performance.
 ---
 

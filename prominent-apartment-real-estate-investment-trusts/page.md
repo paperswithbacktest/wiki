@@ -1,5 +1,5 @@
 ---
-title: "Prominent Apartment Real Estate Investment Trusts (Algo Trading)"
+title: "Prominent Apartment Real Estate Investment Trusts"
 description: "Explore how algorithmic trading is transforming apartment REIT investments by improving strategy precision and execution efficiency for better portfolio management."
 ---
 

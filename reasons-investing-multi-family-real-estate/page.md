@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Investing in Multi-Family Real Estate (Algo Trading)"
+title: "Reasons for Investing in Multi-Family Real Estate"
 description: "Explore the lucrative opportunities of investing in multi-family real estate using algorithmic trading to boost your investment strategy and returns."
 ---
 

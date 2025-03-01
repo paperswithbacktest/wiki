@@ -1,5 +1,5 @@
 ---
-title: "Panamanian Balboa: History and Economic Role in Panama (Algo Trading)"
+title: "Panamanian Balboa: History and Economic Role in Panama"
 description: "Discover the unique economic role of the Panamanian Balboa currency and its historical evolution. Explore its synergy with the U.S. dollar and trading innovations."
 ---
 

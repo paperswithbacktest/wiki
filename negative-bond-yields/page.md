@@ -1,5 +1,5 @@
 ---
-title: "Negative Bond Yields (Algo Trading)"
+title: "Negative Bond Yields"
 description: "Explore the complexities of negative bond yields and interest rates, their economic implications, and the role of algorithmic trading in today's financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Money: History, Types, and Creation (Algo Trading)"
+title: "Money: History, Types, and Creation"
 description: "Explore the evolving world of finance through an in-depth look at money, currency, and algorithmic trading. This page investigates into how money supports economic growth by serving as a medium of exchange, as well as the impact of currency in global trade. Discover the transformative power of algorithmic trading and its role in enhancing market efficiency. Gain insights into these interconnected elements to better navigate today's financial landscape with integrated technology and traditional economic principles."
 ---
 

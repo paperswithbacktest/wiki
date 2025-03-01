@@ -1,5 +1,5 @@
 ---
-title: "Share Purchase Rights: Overview and Mechanism (Algo Trading)"
+title: "Share Purchase Rights: Overview and Mechanism"
 description: "Explore the dynamics of share purchase rights and algorithmic trading Learn how these tools empower investors to optimize portfolios and enhance returns"
 ---
 

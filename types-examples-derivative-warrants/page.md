@@ -1,5 +1,5 @@
 ---
-title: "Types and Examples of Derivative Warrants (Algo Trading)"
+title: "Types and Examples of Derivative Warrants"
 description: "Explore derivative warrants and algorithmic trading to enhance investment strategies. Understand types like call, put, covered warrants, and manage risks effectively."
 ---
 

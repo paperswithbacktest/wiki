@@ -1,5 +1,5 @@
 ---
-title: "Rule of 72: Explanation and Applications (Algo Trading)"
+title: "Rule of 72: Explanation and Applications"
 description: "Discover the Rule of 72 and its applications in finance and algorithmic trading to simplify estimating investment doubling time and analyze strategy growth."
 ---
 

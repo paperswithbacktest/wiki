@@ -1,5 +1,5 @@
 ---
-title: "No-Par Value Stock (Algo Trading)"
+title: "No-Par Value Stock"
 description: "Explore the importance of no-par value stocks in finance uncovering their impact on stock valuation and the role of algorithmic trading in today's markets."
 ---
 

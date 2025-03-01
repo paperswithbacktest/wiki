@@ -1,5 +1,5 @@
 ---
-title: "Operating Income in Financial Accounting (Algo Trading)"
+title: "Operating Income in Financial Accounting"
 description: "Understand the critical role of operating income in financial accounting and algorithmic trading Explore how profitability, financial metrics, and automated strategies intersect"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reversal Amount: Overview and Mechanism (Algo Trading)"
+title: "Reversal Amount: Overview and Mechanism"
 description: "Explore the intricacies of reversal amounts and their role in algorithmic trading Essential for understanding market shifts and enhancing trading strategies."
 ---
 

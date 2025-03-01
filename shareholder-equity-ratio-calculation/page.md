@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Equity Ratio Calculation (Algo Trading)"
+title: "Shareholder Equity Ratio Calculation"
 description: "Learn how to calculate the equity ratio for evaluating financial leverage and risk in algo trading, and integrate it with shareholder equity for better decision-making."
 ---
 

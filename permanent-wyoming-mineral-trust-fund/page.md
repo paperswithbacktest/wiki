@@ -1,5 +1,5 @@
 ---
-title: "Permanent Wyoming Mineral Trust Fund (Algo Trading)"
+title: "Permanent Wyoming Mineral Trust Fund"
 description: "Explore the Wyoming Mineral Trust Fund's strategic role in state economy with insights on its history, economic impact, and use of algorithmic trading for asset management."
 ---
 

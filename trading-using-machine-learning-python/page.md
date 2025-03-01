@@ -1,5 +1,5 @@
 ---
-title: "Trading Using Machine Learning in Python (Algo Trading)"
+title: "Trading Using Machine Learning in Python"
 description: Discover how machine learning revolutionizes algorithmic trading by parsing data, identifying patterns, and optimizing strategies for improved returns. Python, with its versatile libraries like NumPy and TensorFlow, is a key tool for developing robust trading models. Embrace the future of trading with machine learning's ability to enhance prediction accuracy and automate decision-making, reflecting its significant role in shaping modern financial markets.
 ---
 

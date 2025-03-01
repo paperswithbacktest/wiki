@@ -1,5 +1,5 @@
 ---
-title: "Tangible Asset and Non-Tangible Asset Comparison (Algo Trading)"
+title: "Tangible Asset and Non-Tangible Asset Comparison"
 description: "Explore the benefits of tangible and intangible asset management in modern algo trading Discover how to leverage both for strategic portfolio optimization"
 ---
 

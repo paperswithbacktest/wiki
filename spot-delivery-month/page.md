@@ -1,5 +1,5 @@
 ---
-title: "Spot Delivery Month (Algo Trading)"
+title: "Spot Delivery Month"
 description: "Spot delivery in algo trading ensures immediate settlement of contracts, enhancing liquidity and market efficiency. Explore its mechanics and role in the financial ecosystem."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Survivorship bias (Algo Trading)"
+title: "Survivorship bias"
 description: Explore the impact of survivorship bias in algorithmic trading, where focusing only on successful outcomes leads to distorted perceptions of market conditions. This bias skews performance evaluations by ignoring delisted or failed stocks, leading to overestimated returns and underestimated risks. The article investigates into the challenges posed by this bias and offers practical solutions to address it, enhancing the accuracy of trading models and strategies. By acknowledging survivorship bias, traders can make more informed investment decisions, gaining a realistic view of strategy profitability and risk.
 ---
 

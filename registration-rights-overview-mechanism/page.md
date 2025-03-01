@@ -1,5 +1,5 @@
 ---
-title: "Registration Rights: Overview and Mechanism (Algo Trading)"
+title: "Registration Rights: Overview and Mechanism"
 description: "Explore the crucial role of registration rights and the impact of algorithmic trading in securities investment to understand market dynamics and investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Requirements for Public Limited Companies (Algo Trading)"
+title: "Requirements for Public Limited Companies"
 description: "Discover how public limited companies structure impacts algorithmic trading success and navigate the dynamic financial markets with enhanced strategic insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Paul Krugman (Algo Trading)"
+title: "Paul Krugman"
 description: "Explore the fascinating link between Paul Krugman's economic theories and algorithmic trading, revealing their potential to enhance modern financial strategies."
 ---
 

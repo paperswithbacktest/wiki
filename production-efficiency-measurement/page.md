@@ -1,5 +1,5 @@
 ---
-title: "Production Efficiency and Measurement (Algo Trading)"
+title: "Production Efficiency and Measurement"
 description: "Explore the importance of maximizing production efficiency and manufacturing productivity to stay competitive in today’s market. Learn how various industries, including finance with algorithmic trading, utilize strategies like Lean Manufacturing and Six Sigma to enhance operational performance. Discover metrics for measuring efficiency, such as output/input ratios and capacity utilization, and understand their application in optimizing processes to boost profitability and maintain competitive advantage."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Personal Income and Disposable Income Differences (Algo Trading)"
+title: "Personal Income and Disposable Income Differences"
 description: "Explore the critical differences between personal and disposable income to better understand their impact on financial stability decision-making and algo trading strategies."
 ---
 

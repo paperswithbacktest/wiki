@@ -1,5 +1,5 @@
 ---
-title: "Stochastic matrix (Algo Trading)"
+title: "Stochastic matrix"
 description: "Explore the pivotal role of stochastic matrices in algorithmic trading Used to model market behaviors these matrices help optimize strategies by predicting future trends"
 ---
 

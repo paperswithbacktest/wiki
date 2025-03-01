@@ -1,5 +1,5 @@
 ---
-title: "Overview of Mini-Sized Dow Options (Algo Trading)"
+title: "Overview of Mini-Sized Dow Options"
 description: "Optimize your trading with insights into Mini-Sized Dow Options and algorithmic strategies to enhance your market engagement using advanced trading techniques."
 ---
 

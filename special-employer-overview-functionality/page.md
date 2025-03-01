@@ -1,5 +1,5 @@
 ---
-title: "Special Employer: Overview and Functionality (Algo Trading)"
+title: "Special Employer: Overview and Functionality"
 description: "Discover how special employer structures and algorithmic trading are reshaping employment models, emphasizing new skills in a technology-driven landscape."
 ---
 

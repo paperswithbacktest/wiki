@@ -1,5 +1,5 @@
 ---
-title: "Trading Technologies International (Algo Trading)"
+title: "Trading Technologies International"
 description: "Explore how Trading Technologies International revolutionizes financial markets with advanced algorithmic trading systems enhancing efficiency and global connectivity."
 ---
 

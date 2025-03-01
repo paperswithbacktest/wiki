@@ -1,5 +1,5 @@
 ---
-title: "SEC Form ADV-W: Overview and Function (Algo Trading)"
+title: "SEC Form ADV-W: Overview and Function"
 description: "Explore SEC Form ADV-W's vital role in regulatory compliance for investment advisers as they navigate withdrawal, aligning tech advancements like algorithmic trading."
 ---
 

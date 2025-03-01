@@ -1,5 +1,5 @@
 ---
-title: "Types of Operating Expenses (Algo Trading)"
+title: "Types of Operating Expenses"
 description: "Discover the key operating expenses in algorithmic trading including technology costs and compensation to optimize financial strategies and maintain competitiveness."
 ---
 

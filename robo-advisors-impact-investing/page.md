@@ -1,5 +1,5 @@
 ---
-title: "Robo-Advisors and Impact Investing (Algo Trading)"
+title: "Robo-Advisors and Impact Investing"
 description: "Explore how robo-advisors, impact investing, and algorithmic trading are transforming modern investing, making finance more accessible, efficient, and value-driven."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Statistical Significance and Its Application (Algo Trading)"
+title: "Statistical Significance and Its Application"
 description: "Explore the role of statistical significance in algorithmic trading and how hypothesis testing is used to validate strategies optimizing trading performance."
 ---
 

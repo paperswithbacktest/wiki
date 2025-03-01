@@ -1,5 +1,5 @@
 ---
-title: "Thai Baht: History and Economic Impact (Algo Trading)"
+title: "Thai Baht: History and Economic Impact"
 description: "Explore the Thai Baht's role in Thailand's economy, its historic journey, and the impact of algorithmic trading in forex markets, showcasing economic insights."
 ---
 

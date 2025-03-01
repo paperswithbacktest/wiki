@@ -1,5 +1,5 @@
 ---
-title: "Organizational Economics (Algo Trading)"
+title: "Organizational Economics"
 description: "Explore how organizational economics and economic theory enhance business strategies, focusing on their pivotal role in algorithmic trading and competitive advantage."
 ---
 

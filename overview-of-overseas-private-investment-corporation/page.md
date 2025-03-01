@@ -1,5 +1,5 @@
 ---
-title: "Overview of the Overseas Private Investment Corporation (Algo Trading)"
+title: "Overview of the Overseas Private Investment Corporation"
 description: "Explore the synergy of the U.S. International Development Finance Corporation and algorithmic trading in enhancing private overseas investments and economic growth."
 ---
 

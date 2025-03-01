@@ -1,5 +1,5 @@
 ---
-title: "Right Hand Side: Definition and Examples (Algo Trading)"
+title: "Right Hand Side: Definition and Examples"
 description: "Explore algorithmic trading and its role in forex with focus on the right-hand side (RHS) price Learn how algo strategies enhance trading efficiency."
 ---
 

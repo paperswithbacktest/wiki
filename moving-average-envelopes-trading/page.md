@@ -1,5 +1,5 @@
 ---
-title: "Moving Average Envelopes in Trading (Algo Trading)"
+title: "Moving Average Envelopes in Trading"
 description: "Optimize trading strategies using moving average envelopes to identify market trends and signals. Enhance algo trading decisions with this powerful analysis tool."
 ---
 

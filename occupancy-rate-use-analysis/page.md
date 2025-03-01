@@ -1,5 +1,5 @@
 ---
-title: "Occupancy Rate and Its Use in Analysis (Algo Trading)"
+title: "Occupancy Rate and Its Use in Analysis"
 description: "Explore how occupancy rates in real estate enrich algorithmic trading with timely data insights boosting accuracy in market predictions and investment strategies."
 ---
 

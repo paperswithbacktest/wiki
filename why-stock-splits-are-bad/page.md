@@ -1,5 +1,5 @@
 ---
-title: "Why Stock Splits Can Be Bad (Algo Trading)"
+title: "Why Stock Splits Can Be Bad"
 description: In algorithmic trading, stock splits can be problematic despite their usual positive perception in traditional investing. These events change key metrics such as share price and volume, disrupting algorithms that require precision. Traders face the challenge of rapidly recalibrating their systems to maintain accuracy. Unadjusted historical data can skew strategy testing, leading to misinformed decisions. While stock splits do not affect a company's market capitalization, they necessitate careful adjustments to avoid execution difficulties and trading inefficiencies. This article discusses the intricacies of stock splits in algorithmic trading and strategies to mitigate these issues.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Q Ticker Symbol: Function and Significance (Algo Trading)"
+title: "Q Ticker Symbol: Function and Significance"
 description: "Explore how ticker symbols serve as vital identifiers in algorithmic trading systems driving precision and efficiency in executing trades in financial markets."
 ---
 

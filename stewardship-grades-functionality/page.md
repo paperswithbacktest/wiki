@@ -1,5 +1,5 @@
 ---
-title: "Stewardship Grades and Their Functionality (Algo Trading)"
+title: "Stewardship Grades and Their Functionality"
 description: "Explore the interplay between stewardship grades and algorithmic trading to enhance investment strategies by optimizing governance insights and trading efficiency."
 ---
 

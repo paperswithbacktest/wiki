@@ -1,5 +1,5 @@
 ---
-title: "Multiple Column Tariff: Overview and Impacts (Algo Trading)"
+title: "Multiple Column Tariff: Overview and Impacts"
 description: "Explore the dynamic intersection of multiple column tariffs and algorithmic trading Discover their profound impacts on global trade and financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Optimal Position Sizing and Risk Mitigation (Algo Trading)"
+title: "Optimal Position Sizing and Risk Mitigation"
 description: "Explore optimal position sizing and risk management techniques in algorithmic trading to enhance returns minimize losses and adapt to market dynamics effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Put Option in Investing (Algo Trading)"
+title: "Put Option in Investing"
 description: "Explore how put options and algorithmic trading shape today's financial markets, enabling traders to effectively manage risks and capitalize on market trends. Learn about the strategic uses of put options for hedging and speculation, and discover how algorithmic trading enhances options trading with precision and speed."
 ---
 

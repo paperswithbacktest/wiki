@@ -1,5 +1,5 @@
 ---
-title: "Overview of the Dow Jones Industrial Average (Algo Trading)"
+title: "Overview of the Dow Jones Industrial Average"
 description: "Explore the impact of algorithmic trading on the Dow Jones Industrial Average and discover how automated trading strategies can enhance investment efficiency."
 ---
 

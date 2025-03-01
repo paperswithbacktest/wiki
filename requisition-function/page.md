@@ -1,5 +1,5 @@
 ---
-title: "Requisition and Its Function (Algo Trading)"
+title: "Requisition and Its Function"
 description: "Discover how automation and algorithms are transforming requisition processes and algorithmic trading to enhance efficiency and give businesses a competitive edge."
 ---
 

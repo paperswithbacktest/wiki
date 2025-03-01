@@ -1,5 +1,5 @@
 ---
-title: "Stock Bashing: Definition and Mechanism (Algo Trading)"
+title: "Stock Bashing: Definition and Mechanism"
 description: "Discover the intricacies of stock bashing and market manipulation with a focus on algorithmic trading's impact on market dynamics and investor protection."
 ---
 

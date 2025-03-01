@@ -1,5 +1,5 @@
 ---
-title: "Timing Considerations for Trading the Mexican Peso (Algo Trading)"
+title: "Timing Considerations for Trading the Mexican Peso"
 description: "Trade the USD/MXN with algorithmic strategies to automate decisions based on historical data and real-time conditions, enhancing trading efficiency and potential."
 ---
 

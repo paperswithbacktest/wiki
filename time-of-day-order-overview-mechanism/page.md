@@ -1,5 +1,5 @@
 ---
-title: "Time-of-Day Order: Overview and Mechanism (Algo Trading)"
+title: "Time-of-Day Order: Overview and Mechanism"
 description: "Learn how time-of-day orders and algorithmic trading strategies can optimize trade execution by capitalizing on predictable trading patterns and market inefficiencies."
 ---
 

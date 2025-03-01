@@ -1,5 +1,5 @@
 ---
-title: "S&P GSCI: Commodity Types and Drawbacks (Algo Trading)"
+title: "S&P GSCI: Commodity Types and Drawbacks"
 description: "Explore the advantages and challenges of investing in the S&P GSCI commodity index through algorithmic trading. Understand risks and manage portfolios effectively."
 ---
 

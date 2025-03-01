@@ -1,5 +1,5 @@
 ---
-title: "Multijurisdictional Disclosure System (Algo Trading)"
+title: "Multijurisdictional Disclosure System"
 description: "Explore the Multijurisdictional Disclosure System a US-Canada initiative simplifying cross-border securities, easing regulations and boosting market efficiency."
 ---
 

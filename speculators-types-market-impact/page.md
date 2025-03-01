@@ -1,5 +1,5 @@
 ---
-title: "Speculators: Types and Market Impact (Algo Trading)"
+title: "Speculators: Types and Market Impact"
 description: "Explore the types and impact of speculators and algorithmic trading in today's financial markets. Understand how these elements shape market dynamics."
 ---
 

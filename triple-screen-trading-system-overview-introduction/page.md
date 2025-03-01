@@ -1,5 +1,5 @@
 ---
-title: "Triple Screen Trading System: Overview and Introduction (Algo Trading)"
+title: "Triple Screen Trading System: Overview and Introduction"
 description: "Discover the Triple Screen Trading System by Dr. Alexander Elder, a 3-step strategy that integrates trend, oscillators, and timing for enhanced trading."
 ---
 

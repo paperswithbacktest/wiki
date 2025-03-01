@@ -1,5 +1,5 @@
 ---
-title: "Richmond Manufacturing Index Overview (Algo Trading)"
+title: "Richmond Manufacturing Index Overview"
 description: "Explore the Richmond Manufacturing Index and its impact on algorithmic trading This key economic indicator informs investment strategies with insights from manufacturing activity"
 ---
 

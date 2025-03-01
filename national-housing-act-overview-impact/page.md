@@ -1,5 +1,5 @@
 ---
-title: "National Housing Act: Overview and Impact (Algo Trading)"
+title: "National Housing Act: Overview and Impact"
 description: "Explore the impact of the National Housing Act on the US housing market and how algorithmic trading reshapes housing finance in this insightful analysis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "TIBOR: Overview and Calculation Methodology (Algo Trading)"
+title: "TIBOR: Overview and Calculation Methodology"
 description: "Explore TIBOR's significance in Japan's financial markets, its calculation methodology, and its role in algorithmic trading, aiding investment decisions."
 ---
 

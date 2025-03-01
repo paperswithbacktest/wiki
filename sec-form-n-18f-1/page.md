@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-18f-1 (Algo Trading)"
+title: "SEC Form N-18f-1"
 description: "Explore SEC Form N-18f-1's role in mutual funds' cash flow management and the rise of algorithmic trading influencing modern investment strategies."
 ---
 

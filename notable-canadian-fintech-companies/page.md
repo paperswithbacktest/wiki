@@ -1,5 +1,5 @@
 ---
-title: "Notable Canadian Fintech Companies (Algo Trading)"
+title: "Notable Canadian Fintech Companies"
 description: "Explore the innovation of Canadian fintech companies driving the evolution of financial services through algo trading technology, transforming the industry landscape."
 ---
 

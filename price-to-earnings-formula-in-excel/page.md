@@ -1,5 +1,5 @@
 ---
-title: "Price-To-Earnings Formula in Excel (Algo Trading)"
+title: "Price-To-Earnings Formula in Excel"
 description: "Learn how to calculate the Price-to-Earnings ratio in Excel for algorithmic trading This guide explains its importance in stock valuation and strategy development"
 ---
 

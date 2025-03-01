@@ -1,5 +1,5 @@
 ---
-title: "Oligarchs: Definition and Mechanisms (Algo Trading)"
+title: "Oligarchs: Definition and Mechanisms"
 description: "Explore the intertwining world of oligarchies and algorithmic trading Learn how modern oligarchs leverage technology to influence markets politics and democratic processes"
 ---
 

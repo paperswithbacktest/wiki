@@ -1,5 +1,5 @@
 ---
-title: "Pivot Point Calculation and Formulas (Algo Trading)"
+title: "Pivot Point Calculation and Formulas"
 description: "Unlock trading success with pivot point calculations in algorithmic trading by identifying key support and resistance levels with precision and automation."
 ---
 

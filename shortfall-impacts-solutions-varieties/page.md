@@ -1,5 +1,5 @@
 ---
-title: "Shortfall: Impacts, Solutions, and Varieties (Algo Trading)"
+title: "Shortfall: Impacts, Solutions, and Varieties"
 description: "Discover how algorithmic trading tackles financial shortfalls by optimizing execution strategies for enhanced stability and profitability in an evolving market."
 ---
 

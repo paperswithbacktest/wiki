@@ -1,5 +1,5 @@
 ---
-title: "Non-Fungible Token: Overview and Functionality (Algo Trading)"
+title: "Non-Fungible Token: Overview and Functionality"
 description: "Explore the innovative intersection of NFTs and algorithmic trading in the evolving digital asset landscape, empowered by blockchain technology for enhanced strategies."
 ---
 

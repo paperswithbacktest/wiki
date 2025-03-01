@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between R-Squared and Beta (Algo Trading)"
+title: "Relationship Between R-Squared and Beta"
 description: "Explore the link between R-Squared and Beta in algo trading Discover how Beta Finance leverages these metrics for optimized trading precision and market engagement"
 ---
 

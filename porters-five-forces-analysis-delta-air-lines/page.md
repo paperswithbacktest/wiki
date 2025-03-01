@@ -1,5 +1,5 @@
 ---
-title: "Porter's Five Forces Analysis of Delta Air Lines (Algo Trading)"
+title: "Porter's Five Forces Analysis of Delta Air Lines"
 description: "Explore Delta Air Lines' strategic use of Porter's Five Forces in combating competition and optimizing operations through innovative technologies like algorithmic trading."
 ---
 

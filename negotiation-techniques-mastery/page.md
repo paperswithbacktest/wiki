@@ -1,5 +1,5 @@
 ---
-title: "Negotiation Techniques and Mastery (Algo Trading)"
+title: "Negotiation Techniques and Mastery"
 description: "Enhance your algorithmic trading edge by mastering key negotiation techniques that improve decision-making and optimize trade execution for better market outcomes."
 ---
 

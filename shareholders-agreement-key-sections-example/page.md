@@ -1,5 +1,5 @@
 ---
-title: "Shareholders' Agreement: Key Sections and Example (Algo Trading)"
+title: "Shareholders' Agreement: Key Sections and Example"
 description: "Explore the critical components of shareholders' agreements in the context of corporate governance and algorithmic trading for stable business operations."
 ---
 

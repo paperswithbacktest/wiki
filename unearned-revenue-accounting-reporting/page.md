@@ -1,5 +1,5 @@
 ---
-title: "Unearned Revenue: Accounting and Reporting (Algo Trading)"
+title: "Unearned Revenue: Accounting and Reporting"
 description: "Explore the intersection of unearned revenue accounting and algorithmic trading, highlighting their impact on financial reporting and advanced trading strategies for market success."
 ---
 

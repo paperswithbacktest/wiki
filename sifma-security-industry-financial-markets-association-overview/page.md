@@ -1,5 +1,5 @@
 ---
-title: "SIFMA: Security Industry and Financial Markets Association Overview (Algo Trading)"
+title: "SIFMA: Security Industry and Financial Markets Association Overview"
 description: "Explore the dynamic role of SIFMA in financial markets and the impact of algorithmic trading on efficiency and transparency within the securities industry."
 ---
 

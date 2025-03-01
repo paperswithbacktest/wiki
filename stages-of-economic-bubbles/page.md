@@ -1,5 +1,5 @@
 ---
-title: "Stages of Economic Bubbles (Algo Trading)"
+title: "Stages of Economic Bubbles"
 description: "Explore the stages of economic bubbles, their impact on trading, and how algorithmic strategies interact with market cycles to enhance investment decisions."
 ---
 

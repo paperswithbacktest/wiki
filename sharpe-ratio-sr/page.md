@@ -1,5 +1,5 @@
 ---
-title: "Sharpe ratio (SR) (Algo Trading)"
+title: "Sharpe ratio (SR)"
 description: Explore the Sharpe Ratio's role in algorithmic trading as a key metric for assessing risk-adjusted performance. Learn about calculating this crucial financial tool, its advantages, and limitations to optimize trading strategies. Discover how understanding the Sharpe Ratio empowers smarter investment decisions and enhances trading efficiency by evaluating returns relative to risk in diverse market conditions.
 ---
 

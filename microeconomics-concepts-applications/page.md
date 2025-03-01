@@ -1,5 +1,5 @@
 ---
-title: "Microeconomics Concepts and Applications (Algo Trading)"
+title: "Microeconomics Concepts and Applications"
 description: "Explore the intersection of microeconomics and algorithmic trading Discover how economic principles enhance trading strategies for better market understanding and performance"
 ---
 

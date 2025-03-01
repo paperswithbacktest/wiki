@@ -1,5 +1,5 @@
 ---
-title: "Usury Laws and Regulations (Algo Trading)"
+title: "Usury Laws and Regulations"
 description: "Explore the interplay of usury laws, interest rates, and algorithmic trading. Understand how regulations protect borrowers while affecting trading strategies."
 ---
 

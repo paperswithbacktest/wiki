@@ -1,5 +1,5 @@
 ---
-title: "Stock Delisting Rules (Algo Trading)"
+title: "Stock Delisting Rules"
 description: "Explore the rules governing stock delisting and their impact on investors and algorithmic trading Adapt strategies to mitigate risks on major exchanges like NYSE and Nasdaq"
 ---
 

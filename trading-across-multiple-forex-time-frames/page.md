@@ -1,5 +1,5 @@
 ---
-title: "Trading Across Multiple Forex Time Frames (Algo Trading)"
+title: "Trading Across Multiple Forex Time Frames"
 description: "Explore the interplay between algorithmic trading and forex time frames to enhance your trading strategies Learn how adapting to various time frames improves outcomes"
 ---
 

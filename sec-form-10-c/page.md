@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 10-C (Algo Trading)"
+title: "SEC Form 10-C"
 description: "Explore the historical impact of SEC Form 10-C on corporate disclosures and its lasting influence on transparency and accountability in algorithmic trading."
 ---
 

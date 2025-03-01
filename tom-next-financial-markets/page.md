@@ -1,5 +1,5 @@
 ---
-title: "Tom-Next in Financial Markets (Algo Trading)"
+title: "Tom-Next in Financial Markets"
 description: "Explore the vital role of Tom-Next in Forex trading, where this mechanism allows traders to roll over positions without physical currency delivery, optimizing placements through interest rate differentials. Delve into the synergy between Tom-Next and algorithmic trading, enhancing efficiency and accuracy for seasoned and new traders aiming to capitalize on market opportunities while seamlessly managing risk."
 ---
 

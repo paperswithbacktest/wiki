@@ -1,5 +1,5 @@
 ---
-title: "Sushi (SUSHI) Cryptocurrency (Algo Trading)"
+title: "Sushi (SUSHI) Cryptocurrency"
 description: "Explore SushiSwap's journey in DeFi featuring the SUSHI token's governance utility and algorithmic trading, offering insights into its innovative ecosystem."
 ---
 

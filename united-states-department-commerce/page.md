@@ -1,5 +1,5 @@
 ---
-title: "United States Department of Commerce: Role and Evolution (Algo Trading)"
+title: "United States Department of Commerce: Role and Evolution"
 description: "Explore the critical role and evolution of the United States Department of Commerce in promoting business growth through innovation and algorithmic trading advancements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stock Loan Fee (Borrow Fee) (Algo Trading)"
+title: "Stock Loan Fee (Borrow Fee)"
 description: "Explore how borrow fees in securities lending impact algorithmic trading strategies in financial markets and learn how to manage costs effectively."
 ---
 

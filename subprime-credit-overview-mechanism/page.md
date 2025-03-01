@@ -1,5 +1,5 @@
 ---
-title: "Subprime Credit Overview and Mechanism (Algo Trading)"
+title: "Subprime Credit Overview and Mechanism"
 description: "Explore how subprime credit, innovative lending mechanisms, and algorithmic trading are transforming the financial industry and shaping new market dynamics."
 ---
 

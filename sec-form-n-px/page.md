@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-PX (Algo Trading)"
+title: "SEC Form N-PX"
 description: "Explore the crucial role of SEC Form N-PX in enhancing investment transparency by mandating annual disclosure of proxy voting records by registered investment funds. Gain insights into how mutual funds and companies vote, aligning investment choices with personal values and governance philosophies. Learn how these disclosures impact algorithmic trading, offering data-driven strategies a competitive edge by understanding voting patterns and market predictions. Dive into the evolving landscape of financial technologies, fostering investor knowledge in navigating transparency and corporate governance effectively."
 ---
 

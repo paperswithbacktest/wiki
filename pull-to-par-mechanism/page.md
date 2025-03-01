@@ -1,5 +1,5 @@
 ---
-title: "Pull-To-Par Mechanism (Algo Trading)"
+title: "Pull-To-Par Mechanism"
 description: "Explore the pull to par effect in bond valuation and how algorithmic trading optimizes investment returns by leveraging market price movements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Uncovered Interest Rate Parity (Algo Trading)"
+title: "Uncovered Interest Rate Parity"
 description: "Explore the intricacies of Uncovered Interest Rate Parity in forex trading and its role in algorithmic strategies. Understand how UIP connects interest rate differentials with exchange rate expectations and serves as a theoretical foundation for traders seeking to navigate the volatile foreign exchange market effectively."
 ---
 

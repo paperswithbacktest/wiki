@@ -1,5 +1,5 @@
 ---
-title: "Option Cycle Overview and Examples (Algo Trading)"
+title: "Option Cycle Overview and Examples"
 description: "Explore investment strategies focusing on financial options and algorithmic trading. Understand option cycles and leverage algo trading for effective portfolio management."
 ---
 

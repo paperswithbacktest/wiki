@@ -1,5 +1,5 @@
 ---
-title: "Regular-Way Trade: Definition and Functionality (Algo Trading)"
+title: "Regular-Way Trade: Definition and Functionality"
 description: "Explore the importance of regular-way trade settlement processes in financial markets highlighting how algorithmic trading enhances efficiency by automating transactions."
 ---
 

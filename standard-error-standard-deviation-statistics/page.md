@@ -1,5 +1,5 @@
 ---
-title: "Standard Error and Standard Deviation in Statistics (Algo Trading)"
+title: "Standard Error and Standard Deviation in Statistics"
 description: "Explore the significance of standard error and standard deviation in statistics and algorithmic trading. Delve into how these measures are crucial for understanding market volatility and managing financial risk. Standard error provides insights into the accuracy of sample means, essential for testing trading algorithms, while standard deviation helps assess risk and volatility, critical for strategy development. This article highlights the application of these statistical concepts in creating robust trading strategies, enhancing prediction accuracy, and optimizing risk management within algorithmic trading."
 ---
 

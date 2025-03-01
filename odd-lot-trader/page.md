@@ -1,5 +1,5 @@
 ---
-title: "Odd Lot Trader (Algo Trading)"
+title: "Odd Lot Trader"
 description: "Explore the intricacies of odd lot and algorithmic trading to maximize stock market strategies and opportunities with advanced, efficient trading technologies."
 ---
 

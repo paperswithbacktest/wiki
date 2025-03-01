@@ -1,5 +1,5 @@
 ---
-title: "Times-Revenue Method for Company Valuation (Algo Trading)"
+title: "Times-Revenue Method for Company Valuation"
 description: "Discover the times-revenue method for company valuation and its impact on algorithmic trading strategies in the evolving finance industry."
 ---
 

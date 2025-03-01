@@ -1,5 +1,5 @@
 ---
-title: "Smoothed Moving Average Explained (Algo Trading)"
+title: "Smoothed Moving Average Explained"
 description: Explore the smoothed moving average (SMMA) and its significance in algorithmic trading where accurate market trend analysis is crucial. This article investigates into how SMMA smooths out market noise to reveal clearer long-term trends thereby boosting trading strategies. Learn the difference between SMMA and other averages and understand its benefits for improved decision-making in both novice and experienced trading pursuits.
 ---
 

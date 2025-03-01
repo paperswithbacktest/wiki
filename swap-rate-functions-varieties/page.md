@@ -1,5 +1,5 @@
 ---
-title: "Swap Rate: Functions and Varieties (Algo Trading)"
+title: "Swap Rate: Functions and Varieties"
 description: "Discover how interest rate swaps play a crucial role in managing interest rate risks for corporations, governments, and financial institutions. Learn the significance of swap rates in determining contract pricing and how algorithmic trading has revolutionized swap execution. Gain insights into the mechanics, purposes, and strategies of swaps, enhancing financial stability and market efficiency."
 ---
 

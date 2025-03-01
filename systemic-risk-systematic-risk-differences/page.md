@@ -1,5 +1,5 @@
 ---
-title: "Systemic Risk and Systematic Risk: Differences (Algo Trading)"
+title: "Systemic Risk and Systematic Risk: Differences"
 description: "Explore the differences between systemic and systematic risk in algo trading Understand how these risks impact financial stability and investment strategies"
 ---
 

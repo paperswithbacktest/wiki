@@ -1,5 +1,5 @@
 ---
-title: "Williams VIX Fix Indicator Explained (Algo Trading)"
+title: "Williams VIX Fix Indicator Explained"
 description: Discover the Williams Vix Fix indicator, a synthetic tool designed to estimate market volatility, developed by Larry Williams as an alternative to the VIX. Learn how this adaptable indicator assists traders in evaluating potential market movements across various securities and its significance in algorithmic trading strategies by capturing the relative distance from recent price highs as a proxy for market shifts.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "U.S. Sanctions on Countries and Their Reasons (Algo Trading)"
+title: "U.S. Sanctions on Countries and Their Reasons"
 description: "Explore the interplay between U.S. sanctions and algorithmic trading on this page Discover how these economic measures impact global finance and trading strategies"
 ---
 

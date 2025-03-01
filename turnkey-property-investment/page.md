@@ -1,5 +1,5 @@
 ---
-title: "Turnkey Property Investment (Algo Trading)"
+title: "Turnkey Property Investment"
 description: "Explore turnkey property investment with algo trading combining hassle-free real estate opportunities and data-driven strategies for optimal returns and minimized risk."
 ---
 

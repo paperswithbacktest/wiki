@@ -1,5 +1,5 @@
 ---
-title: "Policy Mix: Overview, History, and Functionality (Algo Trading)"
+title: "Policy Mix: Overview, History, and Functionality"
 description: "Explore how fiscal and monetary policy coordination impacts economic stability and growth amid evolving financial markets and algorithmic trading dynamics."
 ---
 

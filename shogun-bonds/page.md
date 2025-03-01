@@ -1,5 +1,5 @@
 ---
-title: "Shogun Bonds (Algo Trading)"
+title: "Shogun Bonds"
 description: "Explore the unique world of Shogun Bonds in Japan's vast financial market where foreign entities issue non-yen denominated bonds enhanced by algorithmic trading."
 ---
 

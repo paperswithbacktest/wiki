@@ -1,5 +1,5 @@
 ---
-title: "Types and Examples of Trade Protectionism (Algo Trading)"
+title: "Types and Examples of Trade Protectionism"
 description: "Explore the interplay of trade protectionism and algo trading through examples like tariffs and subsidies Learn how policies shape global markets and strategies"
 ---
 

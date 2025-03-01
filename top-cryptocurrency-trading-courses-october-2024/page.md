@@ -1,5 +1,5 @@
 ---
-title: "Top Cryptocurrency Trading Courses in October 2024 (Algo Trading)"
+title: "Top Cryptocurrency Trading Courses in October 2024"
 description: "Discover the top cryptocurrency trading courses in October 2024 with a focus on algo trading. As the digital assets market evolves, adopting algorithmic strategies becomes essential for better trading outcomes. These courses offer flexible online learning, featuring insights from industry experts and covering the latest techniques. Choose from a variety of options to enhance proficiency and navigate the dynamic crypto market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Protective Stop: Overview and Functionality (Algo Trading)"
+title: "Protective Stop: Overview and Functionality"
 description: "Protective stop strategies in algo trading are vital for managing risk leveraging stop-loss orders to minimize losses and protect profits amid market fluctuations."
 ---
 

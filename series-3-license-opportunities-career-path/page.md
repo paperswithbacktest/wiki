@@ -1,5 +1,5 @@
 ---
-title: "Series 3 License: Opportunities and Career Path (Algo Trading)"
+title: "Series 3 License: Opportunities and Career Path"
 description: "Explore opportunities in futures trading with a Series 3 License, vital for career advancement and credibility in algorithmic trading and financial markets."
 ---
 

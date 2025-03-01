@@ -1,5 +1,5 @@
 ---
-title: "Performance Shift Between Mid-Cap and Large-Cap Stocks (Algo Trading)"
+title: "Performance Shift Between Mid-Cap and Large-Cap Stocks"
 description: "Explore the dynamic shift in performance between mid-cap and large-cap stocks as influenced by algorithmic trading. This discussion investigates into market capitalization's role in defining financial health and valuation, contrasts the stability of large-caps with the growth potential of mid-caps, and examines the impact of algorithmic strategies on trading volumes and market trends. Uncover insights to strategically optimize investment portfolios amidst evolving economic and technological landscapes."
 ---
 

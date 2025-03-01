@@ -1,5 +1,5 @@
 ---
-title: "R: Applications and Financial Formulas (Algo Trading)"
+title: "R: Applications and Financial Formulas"
 description: "Explore how R programming enhances financial data analysis and algorithmic trading Streamline your investment strategies with R's robust statistical tools and visualization capabilities"
 ---
 

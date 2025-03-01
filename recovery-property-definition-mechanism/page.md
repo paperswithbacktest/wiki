@@ -1,5 +1,5 @@
 ---
-title: "Recovery Property: Definition and Mechanism (Algo Trading)"
+title: "Recovery Property: Definition and Mechanism"
 description: "Explore the pivotal role of recovery properties in real estate investments and algorithmic trading Discover strategies to optimize returns and mitigate market risks"
 ---
 

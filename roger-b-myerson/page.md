@@ -1,5 +1,5 @@
 ---
-title: "Roger B. Myerson (Algo Trading)"
+title: "Roger B. Myerson"
 description: "Explore Roger B. Myerson's impact in economics with insights into game theory and mechanism design's role in shaping algorithmic trading strategies."
 ---
 

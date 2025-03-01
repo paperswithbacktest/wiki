@@ -1,5 +1,5 @@
 ---
-title: "Transferor: Functions and Technological Impact (Algo Trading)"
+title: "Transferor: Functions and Technological Impact"
 description: "Explore how technological advancements, especially algo trading, impact financial markets and transferor roles, fostering efficiency, transparency, and market dynamics."
 ---
 

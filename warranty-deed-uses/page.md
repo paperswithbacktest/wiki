@@ -1,5 +1,5 @@
 ---
-title: "Warranty Deed and Its Uses (Algo Trading)"
+title: "Warranty Deed and Its Uses"
 description: "Explore the impact of algorithmic trading on real estate law and warranty deeds ensuring secure property transactions with technology's integration."
 ---
 

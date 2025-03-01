@@ -1,5 +1,5 @@
 ---
-title: "Producer Surplus: Formula and Example (Algo Trading)"
+title: "Producer Surplus: Formula and Example"
 description: "Explore the intricacies of producer surplus with algorithmic trading Learn about market efficiency resource allocation and economic welfare in modern markets"
 ---
 

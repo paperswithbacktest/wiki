@@ -1,5 +1,5 @@
 ---
-title: "MF Global Holdings Group (Algo Trading)"
+title: "MF Global Holdings Group"
 description: "Explore the complexities of brokerage and investment firms through the lens of financial crises and algorithmic trading to understand market dynamics and risks."
 ---
 

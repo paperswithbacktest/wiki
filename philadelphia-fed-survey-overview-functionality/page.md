@@ -1,5 +1,5 @@
 ---
-title: "Philadelphia Fed Survey: Overview and Functionality (Algo Trading)"
+title: "Philadelphia Fed Survey: Overview and Functionality"
 description: "Understand the Philadelphia Fed Survey's role in gauging regional economic health and its impact on algorithmic trading with essential data insights."
 ---
 

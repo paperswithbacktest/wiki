@@ -1,5 +1,5 @@
 ---
-title: "TradeStation Platform Evaluation (Algo Trading)"
+title: "TradeStation Platform Evaluation"
 description: "Discover the advantages and comprehensive features of TradeStation, a leading trading platform ideal for both novice and experienced traders. Explore its robust tools, including advanced charting and algorithmic trading support, designed to enhance market analysis and strategy execution. Learn how TradeStation's innovation and adaptability in various market environments make it a versatile choice for optimizing your trading capabilities."
 ---
 

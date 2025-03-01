@@ -1,5 +1,5 @@
 ---
-title: "Regulation SHO: Overview and Requirements (Algo Trading)"
+title: "Regulation SHO: Overview and Requirements"
 description: "Explore Regulation SHO and its influence on short selling in U.S. markets highlighting its impact on market integrity compliance and the role of algorithmic trading."
 ---
 

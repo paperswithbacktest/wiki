@@ -1,5 +1,5 @@
 ---
-title: "Top Investment Funds for Capital Preservation (Algo Trading)"
+title: "Top Investment Funds for Capital Preservation"
 description: "Explore top investment funds focusing on capital preservation through algorithmic trading to protect and maintain your investments in volatile markets."
 ---
 

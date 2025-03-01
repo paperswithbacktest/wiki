@@ -1,5 +1,5 @@
 ---
-title: "Michael Regan and the Environmental Protection Agency (Algo Trading)"
+title: "Michael Regan and the Environmental Protection Agency"
 description: "Explore the dynamic intersection of environmental policy and technology under the leadership of Michael Regan at the Environmental Protection Agency (EPA). Discover how Regan's focus on environmental justice and sustainability aligns with innovative financial tools like algorithmic trading, promoting sustainable investing and economic growth. Uncover the role of the EPA in shaping a sustainable future through modern technological capabilities and regulatory advancements."
 ---
 

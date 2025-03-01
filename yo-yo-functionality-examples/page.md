@@ -1,5 +1,5 @@
 ---
-title: "Yo-Yo: Functionality and Examples (Algo Trading)"
+title: "Yo-Yo: Functionality and Examples"
 description: "Explore the metaphorical use of the classic yo-yo toy in finance by understanding its mechanics and see how algorithmic trading thrives in volatile markets."
 ---
 

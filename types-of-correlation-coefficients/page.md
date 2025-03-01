@@ -1,5 +1,5 @@
 ---
-title: "Types of Correlation Coefficients (Algo Trading)"
+title: "Types of Correlation Coefficients"
 description: "Explore various types of correlation coefficients crucial for algorithmic trading to predict market movements manage risks and enhance trading strategies effectively"
 ---
 

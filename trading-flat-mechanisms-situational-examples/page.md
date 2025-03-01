@@ -1,5 +1,5 @@
 ---
-title: "Trading Flat: Mechanisms and Situational Examples (Algo Trading)"
+title: "Trading Flat: Mechanisms and Situational Examples"
 description: "Explore the mechanisms and challenges of trading flat markets with algorithmic strategies Understand how to find opportunities in periods of price stagnation"
 ---
 

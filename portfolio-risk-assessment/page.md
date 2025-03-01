@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Risk Assessment (Algo Trading)"
+title: "Portfolio Risk Assessment"
 description: "Explore portfolio risk assessment in algo trading and learn how to manage investment risks effectively to optimize returns while minimizing potential losses."
 ---
 

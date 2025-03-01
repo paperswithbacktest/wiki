@@ -1,5 +1,5 @@
 ---
-title: "Net Interest Rate Spread in Profit Analysis (Algo Trading)"
+title: "Net Interest Rate Spread in Profit Analysis"
 description: "Discover how net interest rate spread and profit analysis enhance profitability in algo trading Explore their impact on strategic decision-making and financial success"
 ---
 

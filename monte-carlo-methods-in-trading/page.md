@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo Methods in Trading (Algo Trading)"
+title: "Monte Carlo Methods in Trading"
 description: "Monte Carlo methods in trading empower algorithmic traders to enhance strategy performance and risk management by simulating numerous market scenarios."
 ---
 

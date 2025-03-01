@@ -1,5 +1,5 @@
 ---
-title: "Reverse Exchange: Overview and Mechanism (Algo Trading)"
+title: "Reverse Exchange: Overview and Mechanism"
 description: "Explore the fusion of reverse exchanges and algorithmic trading in real estate, maximizing transaction efficiency and optimizing investment returns with technology."
 ---
 

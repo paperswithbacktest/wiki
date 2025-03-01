@@ -1,5 +1,5 @@
 ---
-title: "Nepalese Rupee: History and Currency Symbol (Algo Trading)"
+title: "Nepalese Rupee: History and Currency Symbol"
 description: "Explore the fascinating journey of the Nepalese Rupee (NPR) as it transitioned from the silver-based mohar to its current form, influencing Nepal's economic identity. Learn about its symbolic representation and its significant role in algorithmic trading and forex markets, highlighting technological advancements shaping global financial systems. This article investigates into the NPR's history, currency symbol, and its pivotal role in maintaining economic relations with India due to its fixed exchange rate with the Indian Rupee, providing valuable insights into the NPR's impact on Nepal's economy."
 ---
 

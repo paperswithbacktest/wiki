@@ -1,5 +1,5 @@
 ---
-title: "Spoofing (Algo Trading)"
+title: "Spoofing"
 description: Spoofing in algo trading is a deceptive practice where traders place, then cancel orders to create false market demand or supply, influencing asset prices. This can lead to market volatility, distorted price signals, and diminished investor confidence. Regulatory bodies globally, like the Dodd-Frank Act in the US and MiFID II in Europe, have enacted anti-spoofing rules to protect market integrity. High-profile cases, such as Navinder Singh Sarao's involvement in the 2010 Flash Crash, illustrate the serious regulatory efforts to combat spoofing and uphold fair trading practices.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Super-Hedging: Concept and Mechanics (Algo Trading)"
+title: "Super-Hedging: Concept and Mechanics"
 description: "Discover how super-hedging and algorithmic trading merge to optimize risk management strategies in finance offering insights for traders and analysts."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Runner in Exchange Floor Trading (Algo Trading)"
+title: "Runner in Exchange Floor Trading"
 description: "Explore the evolution of trading as algorithmic trading revolutionizes market processes while maintaining the significance of traditional floor trading. Understand how runners play crucial roles in stock exchanges, bridging human interaction with technological advancements to ensure seamless trading operations. This transformation fosters a balanced ecosystem integrating diverse strategies and enhancing market stability in leading exchanges like the NYSE. Discover the future of trading and the enduring value of combining human intuition with algorithmic precision."
 ---
 

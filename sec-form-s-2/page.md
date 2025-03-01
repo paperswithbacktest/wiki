@@ -1,5 +1,5 @@
 ---
-title: "SEC Form S-2 (Algo Trading)"
+title: "SEC Form S-2"
 description: "Explore the historical significance of SEC Form S-2 in streamlining securities registration. Understand its role, requirements, and transition to Form S-1."
 ---
 

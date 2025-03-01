@@ -1,5 +1,5 @@
 ---
-title: "Uniswap (UNI): Overview, Applications, Advantages and Disadvantages (Algo Trading)"
+title: "Uniswap (UNI): Overview, Applications, Advantages and Disadvantages"
 description: "Explore the transformative world of Uniswap, a leading decentralized exchange that revolutionizes cryptocurrency trading through automated market maker technology. Discover the platform's mechanisms, advantages, and the role of algorithmic trading, offering insights for investors and developers navigating the dynamic DeFi landscape. Uniswap enables secure peer-to-peer transactions without intermediaries, fostering innovation and inclusivity in digital finance."
 ---
 

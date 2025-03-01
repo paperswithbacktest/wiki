@@ -1,5 +1,5 @@
 ---
-title: "Regulation O in Banking: Purpose, Applications, and Requirements (Algo Trading)"
+title: "Regulation O in Banking: Purpose, Applications, and Requirements"
 description: "Explore Regulation O in banking and its impact on insider credit regulations and algorithmic trading compliance to ensure financial stability and fairness."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Commercial Traders: Definition and Operations (Algo Trading)"
+title: "Non-Commercial Traders: Definition and Operations"
 description: "Discover the world of non-commercial traders and algorithmic trading Learn how speculative activities and advanced algorithms influence market liquidity and trends"
 ---
 

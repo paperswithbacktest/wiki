@@ -1,5 +1,5 @@
 ---
-title: "Power Distance Index: Concept and Applications (Algo Trading)"
+title: "Power Distance Index: Concept and Applications"
 description: "Explore the impact of cultural factors, like Power Distance Index, on algorithmic trading strategies for enhanced decision-making in diverse market environments."
 ---
 

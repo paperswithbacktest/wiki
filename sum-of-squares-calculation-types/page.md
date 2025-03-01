@@ -1,5 +1,5 @@
 ---
-title: "Sum of Squares: Calculation and Types (Algo Trading)"
+title: "Sum of Squares: Calculation and Types"
 description: "Explore the fundamental concepts of squares and their applications in algorithmic trading to enhance market strategies by understanding data variability and risk assessment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Re-Offer Price (Algo Trading)"
+title: "Re-Offer Price"
 description: "Unlock insights into re-offer pricing and algorithmic trading strategies to optimize investment decisions and capitalize on market fluctuations effectively."
 ---
 

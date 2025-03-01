@@ -1,5 +1,5 @@
 ---
-title: "Sources of Business Risk (Algo Trading)"
+title: "Sources of Business Risk"
 description: "Explore the business risks of algorithmic trading with insights on mitigating potential pitfalls through effective risk management strategies in dynamic markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Short Selling in ETFs vs. Index Funds (Algo Trading)"
+title: "Short Selling in ETFs vs. Index Funds"
 description: "Explore the dynamic interplay between ETFs, index funds, short selling, and algorithmic trading to enhance your investment strategies and optimize returns."
 ---
 

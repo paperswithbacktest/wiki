@@ -1,5 +1,5 @@
 ---
-title: "Print in Finance (Algo Trading)"
+title: "Print in Finance"
 description: "Explore the synergies of printing technology finance and algorithmic trading Discover how they drive innovation economic growth and opportunities for all sectors"
 ---
 

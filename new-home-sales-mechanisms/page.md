@@ -1,5 +1,5 @@
 ---
-title: "New Home Sales and Their Mechanisms (Algo Trading)"
+title: "New Home Sales and Their Mechanisms"
 description: "Explore the impact of new home sales and algorithmic trading on real estate investments Discover how these dynamics shape market trends and investment strategies"
 ---
 

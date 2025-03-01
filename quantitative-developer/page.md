@@ -1,5 +1,5 @@
 ---
-title: "What is a Quantitative Developer? (Algo Trading)"
+title: "What is a Quantitative Developer?"
 description: Discover the pivotal role of quantitative developers in algorithmic trading as they blend finance, mathematics, and computer science to craft advanced trading algorithms. This article explores vital skills, responsibilities, and career paths within this dynamic field, equipping aspiring professionals with essential knowledge to excel. It investigates into technical proficiencies, collaboration with traders and analysts, and diverse career trajectories, offering a comprehensive guide to thriving in the fast-evolving financial markets where finance meets technology.
 ---
 

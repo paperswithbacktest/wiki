@@ -1,5 +1,5 @@
 ---
-title: "Scattergraph Method: Overview and Application (Algo Trading)"
+title: "Scattergraph Method: Overview and Application"
 description: "Explore the scattergraph method for cost analysis in algorithmic trading Understand how visualizing cost behaviors optimizes strategies and enhances profitability"
 ---
 

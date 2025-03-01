@@ -1,5 +1,5 @@
 ---
-title: "Usance in International Trade (Algo Trading)"
+title: "Usance in International Trade"
 description: "Explore the synergy of usance trade finance and algorithmic trading in global commerce Manage cash flow credit risk and enhance trading efficiency efficiently"
 ---
 

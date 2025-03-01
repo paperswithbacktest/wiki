@@ -1,5 +1,5 @@
 ---
-title: "Technocracy: Overview, Functioning, and Criticisms (Algo Trading)"
+title: "Technocracy: Overview, Functioning, and Criticisms"
 description: "Explore technocracy and algorithmic trading highlighting how data-driven decision-making impacts governance and finance examining benefits and challenges involved."
 ---
 

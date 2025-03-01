@@ -1,5 +1,5 @@
 ---
-title: "Options Contract Overview and Types (Algo Trading)"
+title: "Options Contract Overview and Types"
 description: "Discover the intricacies of options contracts and algorithmic trading Learn how financial derivatives like call and put options can enhance trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Miguel Cardona (Algo Trading)"
+title: "Miguel Cardona"
 description: "This article explores how educational policies under Miguel Cardona intersect with the growth of algorithmic trading, impacting education finance and administration."
 ---
 

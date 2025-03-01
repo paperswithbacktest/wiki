@@ -1,5 +1,5 @@
 ---
-title: "SEC Form NT 10-Q: Purpose, Function, and Market Effects (Algo Trading)"
+title: "SEC Form NT 10-Q: Purpose, Function, and Market Effects"
 description: "Discover how SEC Form NT 10-Q impacts corporate transparency investor confidence and algorithmic trading by signaling financial reporting delays and potential market changes."
 ---
 

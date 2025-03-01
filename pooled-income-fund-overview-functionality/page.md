@@ -1,5 +1,5 @@
 ---
-title: "Pooled Income Fund Overview and Functionality (Algo Trading)"
+title: "Pooled Income Fund Overview and Functionality"
 description: "Discover the synergy of pooled income funds and algorithmic trading for optimized investment returns and tax benefits while supporting charitable causes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Time and Sales in Stock Trading (Algo Trading)"
+title: "Time and Sales in Stock Trading"
 description: "Explore the integration of time and sales data with algorithmic trading to enhance your stock market strategies Gain insights to improve trading decisions efficiently"
 ---
 

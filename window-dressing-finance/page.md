@@ -1,5 +1,5 @@
 ---
-title: "Window Dressing in Finance (Algo Trading)"
+title: "Window Dressing in Finance"
 description: "Explore the concept of window dressing in finance its impact on portfolio management and the role of algorithmic trading in modern investment strategies."
 ---
 

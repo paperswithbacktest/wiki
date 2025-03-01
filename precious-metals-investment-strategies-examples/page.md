@@ -1,5 +1,5 @@
 ---
-title: "Precious Metals: Investment Strategies and Examples (Algo Trading)"
+title: "Precious Metals: Investment Strategies and Examples"
 description: "Explore diverse precious metal investment strategies with insights into physical assets, ETFs, mining stocks, and algorithmic trading to optimize portfolio growth."
 ---
 

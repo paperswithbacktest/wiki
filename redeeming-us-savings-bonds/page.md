@@ -1,5 +1,5 @@
 ---
-title: "Redeeming U.S. Savings Bonds (Algo Trading)"
+title: "Redeeming U.S. Savings Bonds"
 description: "Navigate the complexities of U.S. savings bonds and algorithmic trading with our comprehensive guide designed to help investors maximize returns in a volatile market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Underwater: Process and Example (Algo Trading)"
+title: "Underwater: Process and Example"
 description: "Explore the complexities of underwater loans negative equity and algorithmic trading Learn how these financial concepts impact real estate and market dynamics"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Three Black Crows Pattern in Technical Analysis (Algo Trading)"
+title: "Three Black Crows Pattern in Technical Analysis"
 description: "Explore the Three Black Crows candlestick pattern used in technical analysis and algo trading Learn how to identify it and apply it to optimize trades"
 ---
 

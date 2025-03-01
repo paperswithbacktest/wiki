@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Profitability in the Film and Television Industries (Algo Trading)"
+title: "Comparison of Profitability in the Film and Television Industries"
 description: "Explore the evolving profitability of the film and television industries with insights into revenue streams and the impact of algorithmic trading."
 ---
 

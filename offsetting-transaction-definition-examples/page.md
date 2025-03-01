@@ -1,5 +1,5 @@
 ---
-title: "Offsetting Transaction: Definition and Examples (Algo Trading)"
+title: "Offsetting Transaction: Definition and Examples"
 description: "Explore the concept of offsetting transactions in algorithmic trading and discover how these strategies mitigate risk and enhance trading performance."
 ---
 

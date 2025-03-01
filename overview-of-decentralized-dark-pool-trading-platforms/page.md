@@ -1,5 +1,5 @@
 ---
-title: "Overview of Decentralized Dark Pool Trading Platforms (Algo Trading)"
+title: "Overview of Decentralized Dark Pool Trading Platforms"
 description: "Discover the transformative world of decentralized dark pool trading platforms using blockchain and algorithmic trading for secure, anonymous transactions."
 ---
 

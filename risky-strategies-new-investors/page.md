@@ -1,5 +1,5 @@
 ---
-title: "Risky Strategies for New Investors (Algo Trading)"
+title: "Risky Strategies for New Investors"
 description: "Understand risky strategies and key concepts for new investors in algorithmic trading. Gain insights into diversification and risk management to enhance your investment journey."
 ---
 

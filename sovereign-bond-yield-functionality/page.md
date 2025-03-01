@@ -1,5 +1,5 @@
 ---
-title: "Sovereign Bond Yield and Functionality (Algo Trading)"
+title: "Sovereign Bond Yield and Functionality"
 description: "Explore the functionality and impact of sovereign bond yields and algorithmic trading Learn how these elements shape investment strategies and economic trends"
 ---
 

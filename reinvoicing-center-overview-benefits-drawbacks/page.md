@@ -1,5 +1,5 @@
 ---
-title: "Reinvoicing Center: Overview, Benefits, and Drawbacks (Algo Trading)"
+title: "Reinvoicing Center: Overview, Benefits, and Drawbacks"
 description: "Explore the role of reinvoicing centers in global commerce as they manage multi-currency risks and the impact of algorithmic trading on international trade efficiency."
 ---
 

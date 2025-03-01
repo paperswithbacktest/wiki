@@ -1,5 +1,5 @@
 ---
-title: "Myron Scholes: Economist and Nobel Laureate (Algo Trading)"
+title: "Myron Scholes: Economist and Nobel Laureate"
 description: "Discover the accomplishments of economist and Nobel laureate Myron Scholes known for co-developing the Black-Scholes model revolutionizing option pricing."
 ---
 

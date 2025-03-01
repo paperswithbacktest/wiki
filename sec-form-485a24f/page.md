@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 485A24F (Algo Trading)"
+title: "SEC Form 485A24F"
 description: "Discover how SEC Form 485A24F facilitates transparency in algorithmic trading by ensuring compliance with securities laws safeguarding investments in a tech-driven market."
 ---
 

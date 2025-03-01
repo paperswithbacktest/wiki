@@ -1,5 +1,5 @@
 ---
-title: "Wilcoxon Test in Statistics: Types and Calculation (Algo Trading)"
+title: "Wilcoxon Test in Statistics: Types and Calculation"
 description: "Discover the importance of the Wilcoxon test in algo trading for analyzing non-normally distributed data and refining trading strategies effectively."
 ---
 

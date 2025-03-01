@@ -1,5 +1,5 @@
 ---
-title: "Pretax Operating Income: Overview and Functionality (Algo Trading)"
+title: "Pretax Operating Income: Overview and Functionality"
 description: "Explore how Pretax Operating Income (PTOI) enhances algorithmic trading strategies by offering insights into a company's core operational efficiency and financial health."
 ---
 

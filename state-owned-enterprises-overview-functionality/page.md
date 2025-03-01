@@ -1,5 +1,5 @@
 ---
-title: "State-Owned Enterprises: Overview and Functionality (Algo Trading)"
+title: "State-Owned Enterprises: Overview and Functionality"
 description: "Discover how state-owned enterprises are navigating algorithmic trading balancing regulation and innovation in modern financial systems."
 ---
 

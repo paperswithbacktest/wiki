@@ -1,5 +1,5 @@
 ---
-title: "Representative Sample and Random Sample Comparison (Algo Trading)"
+title: "Representative Sample and Random Sample Comparison"
 description: "Explore the essential role of sampling methods in algorithmic trading with a focus on random and representative samples to enhance trading strategies."
 ---
 

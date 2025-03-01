@@ -1,5 +1,5 @@
 ---
-title: "Trade-Or-Fade Rule Overview and Limitations (Algo Trading)"
+title: "Trade-Or-Fade Rule Overview and Limitations"
 description: "Explore the Trade-Or-Fade Rule in algo trading with its origins, operations, and limitations affecting modern trading strategies and market integrity."
 ---
 

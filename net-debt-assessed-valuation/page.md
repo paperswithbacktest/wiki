@@ -1,5 +1,5 @@
 ---
-title: "Net Debt and Assessed Valuation (Algo Trading)"
+title: "Net Debt and Assessed Valuation"
 description: "Discover the key roles of net debt and assessed valuation in finance and their impact on algorithmic trading strategies for investors and analysts."
 ---
 

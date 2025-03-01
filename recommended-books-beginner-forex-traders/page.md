@@ -1,5 +1,5 @@
 ---
-title: "Recommended Books for Beginner Forex Traders (Algo Trading)"
+title: "Recommended Books for Beginner Forex Traders"
 description: "Discover essential resources for beginner forex traders with a focus on algorithmic trading. This guide explores key books and trading strategies, providing foundational market knowledge and insights into leveraging technology for better trading outcomes. Perfect for novices and those interested in advancing their trading skills."
 ---
 

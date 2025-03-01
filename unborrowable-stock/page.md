@@ -1,5 +1,5 @@
 ---
-title: "Unborrowable Stock (Algo Trading)"
+title: "Unborrowable Stock"
 description: "Discover the intricacies of short selling in the stock market, focusing on the challenges posed by unborrowable stocks and the role of algorithmic trading. This article investigates into the hurdles short sellers face, including borrowing limitations due to regulatory factors and high demand, while exploring how technology-driven strategies can optimize trading approaches and navigate market dynamics effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reserve-Replacement Ratio (Algo Trading)"
+title: "Reserve-Replacement Ratio"
 description: "Discover how reserve-replacement ratios and algorithmic trading are revolutionizing the energy industry’s landscape amidst global economic shifts and challenges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Overview of Atomic Wallet (Algo Trading)"
+title: "Overview of Atomic Wallet"
 description: "Atomic Wallet offers a secure platform for managing digital assets with features like atomic swaps and staking ideal for elevating your algo trading strategies."
 ---
 

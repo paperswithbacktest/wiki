@@ -1,5 +1,5 @@
 ---
-title: "Stock Trading (Algo Trading)"
+title: "Stock Trading"
 description: "Navigate the complex world of investing with insights into stock and algorithmic trading Learn strategies for success in today's dynamic financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "TGS Management Company (Algo Trading)"
+title: "TGS Management Company"
 description: "Explore TGS Management Company a leader in algorithmic trading known for pioneering sophisticated strategies enhancing efficiency and innovation globally."
 ---
 

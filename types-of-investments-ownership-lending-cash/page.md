@@ -1,5 +1,5 @@
 ---
-title: "Types of Investments: Ownership, Lending, Cash (Algo Trading)"
+title: "Types of Investments: Ownership, Lending, Cash"
 description: "Explore ownership investments like stocks and real estate lending options such as bonds and savings accounts and the role of algorithmic trading in portfolio management."
 ---
 

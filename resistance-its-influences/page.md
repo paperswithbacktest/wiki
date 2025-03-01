@@ -1,5 +1,5 @@
 ---
-title: "Resistance and Its Influences (Algo Trading)"
+title: "Resistance and Its Influences"
 description: "Explore how resistance influences algorithmic trading strategies Learn to identify key resistance levels and make informed trading decisions with AI insights"
 ---
 

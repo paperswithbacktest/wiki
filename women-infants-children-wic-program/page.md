@@ -1,5 +1,5 @@
 ---
-title: "Women, Infants, and Children (WIC) Program (Algo Trading)"
+title: "Women, Infants, and Children (WIC) Program"
 description: "Explore the transformative synergy between the WIC Program's nutritional aid and algorithmic trading in optimizing resource allocation and improving service delivery."
 ---
 

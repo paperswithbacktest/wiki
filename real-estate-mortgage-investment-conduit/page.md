@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Mortgage Investment Conduit (Algo Trading)"
+title: "Real Estate Mortgage Investment Conduit"
 description: "Discover how Real Estate Mortgage Investment Conduits (REMICs) and algorithmic trading optimize real estate portfolios through structured finance and advanced tech."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Retracement in Investing and Its Comparison to Reversal (Algo Trading)"
+title: "Retracement in Investing and Its Comparison to Reversal"
 description: "Discover how algorithmic trading enhances investing by distinguishing crucial market retracements from reversals, optimizing strategy with precision and speed."
 ---
 

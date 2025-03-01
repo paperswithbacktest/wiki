@@ -1,5 +1,5 @@
 ---
-title: "Zero-Gap Condition (Algo Trading)"
+title: "Zero-Gap Condition"
 description: "Discover how zero-gap mechanics and technical analysis enhance trading strategies by mitigating interest rate risks and providing data-driven insights for algorithmic trading."
 ---
 

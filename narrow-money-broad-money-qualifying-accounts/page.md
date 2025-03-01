@@ -1,5 +1,5 @@
 ---
-title: "Narrow Money and Broad Money: Differences and Qualifying Accounts (Algo Trading)"
+title: "Narrow Money and Broad Money: Differences and Qualifying Accounts"
 description: "Understand the crucial differences between narrow and broad money, along with the impact of algorithmic trading in today's economy. Narrow money includes the most liquid assets like physical currency and demand deposits, while broad money incorporates more diverse financial instruments and deposits for a complete view of a country's money supply. These classifications influence economic policies and investments. The role of algorithmic trading is significant, utilizing advanced technology to efficiently respond to money supply changes, impacting market trends and liquidity. Explore how these elements enhance investment strategies and economic policy evaluation."
 ---
 

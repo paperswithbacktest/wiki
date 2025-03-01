@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators (Algo Trading)"
+title: "Technical Indicators"
 description: Explore the world of algorithmic trading with a focus on technical indicators that provide essential data-driven insights for traders. Delve into how complex algorithms and indicators like Moving Averages, RSI, and Bollinger Bands help in predicting market trends, identifying entry and exit points, and managing risks effectively. This guide offers a deep dive into the significance and application of technical indicators, enhancing trading strategies with improved precision and efficiency. Discover key insights to navigate financial markets confidently in algo trading.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Receivables Turnover Ratio: Formula, Importance, Examples, Limitations (Algo Trading)"
+title: "Receivables Turnover Ratio: Formula, Importance, Examples, Limitations"
 description: "Discover the significance of the receivables turnover ratio in algorithmic trading Explore its formula examples and limitations to optimize financial analysis"
 ---
 

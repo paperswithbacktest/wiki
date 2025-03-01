@@ -1,5 +1,5 @@
 ---
-title: "Ultimate Oscillator: Formula and Strategies (Algo Trading)"
+title: "Ultimate Oscillator: Formula and Strategies"
 description: "Explore the Ultimate Oscillator for algo trading strategies Discover how this multi-timeframe tool enhances market analysis with reduced false signals"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Noon Rate in Financial Markets (Algo Trading)"
+title: "Noon Rate in Financial Markets"
 description: "Explore how algorithmic trading is transforming the forex market by improving efficiency and precision while addressing risks and opportunities in USD/CAD trades."
 ---
 

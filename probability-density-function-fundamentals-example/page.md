@@ -1,5 +1,5 @@
 ---
-title: "Probability Density Function: Fundamentals and Example (Algo Trading)"
+title: "Probability Density Function: Fundamentals and Example"
 description: "Explore the fundamentals of Probability Density Functions (PDFs) in the context of algorithmic trading. Discover their role in modeling market behaviors, assessing risks, and shaping trading strategies. Learn how understanding PDFs enhances the precision of risk management, derivative pricing, and statistical arbitrage, empowering traders to capture opportunities and optimize performance in dynamic financial markets."
 ---
 

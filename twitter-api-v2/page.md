@@ -1,5 +1,5 @@
 ---
-title: "Twitter API v2 Guide (Algo Trading)"
+title: "Twitter API v2 Guide"
 description: Explore how integrating the Twitter API v2 with Python can enhance algorithmic trading strategies by leveraging real-time Twitter data for sentiment analysis. Learn to set up a development environment, utilize Tweepy for Twitter API interactions, and implement sentiment analysis using Python libraries like NLTK. This guide provides step-by-step instructions for traders to harness Twitter data to gain valuable market insights, improve trading accuracy, and stay updated with market sentiment trends.
 ---
 

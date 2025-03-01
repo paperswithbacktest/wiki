@@ -1,5 +1,5 @@
 ---
-title: "Organic Reserve Replacement in Oil and Gas (Algo Trading)"
+title: "Organic Reserve Replacement in Oil and Gas"
 description: "Discover how algorithmic trading influences organic reserve replacement in the oil and gas sector, optimizing exploration and production for sustainable resource management."
 ---
 

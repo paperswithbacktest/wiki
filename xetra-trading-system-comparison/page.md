@@ -1,5 +1,5 @@
 ---
-title: "Xetra Trading System Comparison (Algo Trading)"
+title: "Xetra Trading System Comparison"
 description: "Explore the benefits of combining Xetra's electronic trading platform with algorithmic strategies to enhance trading efficiency and performance in financial markets."
 ---
 

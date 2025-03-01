@@ -1,5 +1,5 @@
 ---
-title: "Outcome Bias and Its Mechanisms (Algo Trading)"
+title: "Outcome Bias and Its Mechanisms"
 description: "Explore outcome bias in algorithmic trading and how cognitive biases affect decision-making processes impacting trading strategies and decisions."
 ---
 

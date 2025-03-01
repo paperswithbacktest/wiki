@@ -1,5 +1,5 @@
 ---
-title: "Par Yield Curve: Calculation and Comparison with Spot Curve (Algo Trading)"
+title: "Par Yield Curve: Calculation and Comparison with Spot Curve"
 description: "Explore how par and spot yield curves are essential for understanding bond markets and algorithmic trading. Learn to use these curves for better investment strategies."
 ---
 

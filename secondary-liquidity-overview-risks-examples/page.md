@@ -1,5 +1,5 @@
 ---
-title: "Secondary Liquidity: Overview, Associated Risks, and Examples (Algo Trading)"
+title: "Secondary Liquidity: Overview, Associated Risks, and Examples"
 description: "Explore secondary liquidity in financial markets its risks and opportunities especially through algorithmic trading to optimize strategies and enhance decision-making."
 ---
 

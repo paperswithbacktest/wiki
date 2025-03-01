@@ -1,5 +1,5 @@
 ---
-title: "Tranches: Overview and Examples (Algo Trading)"
+title: "Tranches: Overview and Examples"
 description: "Explore the concept of tranches in structured finance, their role in algorithmic trading, and how they provide tailored investment opportunities with varied risk levels."
 ---
 

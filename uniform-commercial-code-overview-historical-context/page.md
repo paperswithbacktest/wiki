@@ -1,5 +1,5 @@
 ---
-title: "Uniform Commercial Code: Overview and Historical Context (Algo Trading)"
+title: "Uniform Commercial Code: Overview and Historical Context"
 description: "Explore the intersection of the Uniform Commercial Code and algorithmic trading uncovering how commercial law adapts to tech-driven trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Utilitarianism: Founders and Principles (Algo Trading)"
+title: "Utilitarianism: Founders and Principles"
 description: "Explore the intersection of utilitarian philosophy and algorithmic trading ethics Learn how utilitarianism can guide ethical practices in financial markets"
 ---
 

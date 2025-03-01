@@ -1,5 +1,5 @@
 ---
-title: "Use of Letters of Intent in Business Transactions (Algo Trading)"
+title: "Use of Letters of Intent in Business Transactions"
 description: "Explore the strategic role of Letters of Intent in algorithmic trading to streamline negotiations and establish essential terms for successful business transactions."
 ---
 

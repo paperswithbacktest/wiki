@@ -1,5 +1,5 @@
 ---
-title: "Regulation E and Electronic Fund Transfers (Algo Trading)"
+title: "Regulation E and Electronic Fund Transfers"
 description: "Learn about Regulation E and its role in ensuring secure electronic fund transfers crucial for algorithmic trading while safeguarding consumer rights."
 ---
 

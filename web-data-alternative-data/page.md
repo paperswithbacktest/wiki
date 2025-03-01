@@ -1,5 +1,5 @@
 ---
-title: "Web Data Alternative Data (Algo Trading)"
+title: "Web Data Alternative Data"
 description: Explore the transformative potential of web data in algorithmic trading strategies as it offers real-time insights from online interactions such as social media and ecommerce trends. Uncover how alternative data—encompassing unconventional information like web traffic and social media sentiment—provides competitive advantages by revealing emerging market movements. Discover methodologies for leveraging web data effectively to enhance decision-making and achieve superior financial performance in increasingly competitive markets.
 ---
 

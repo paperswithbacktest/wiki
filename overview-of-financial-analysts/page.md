@@ -1,5 +1,5 @@
 ---
-title: "Overview of Financial Analysts (Algo Trading)"
+title: "Overview of Financial Analysts"
 description: "Explore dynamic finance careers like investment analysis and algo trading Drive growth with key skills optimize strategies using insights and technology"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Optimal Indicators for RSI Utilization (Algo Trading)"
+title: "Optimal Indicators for RSI Utilization"
 description: "Optimize your trading strategies using RSI a popular momentum oscillator. Learn how to combine it with algorithmic systems for enhanced efficiency and precision."
 ---
 

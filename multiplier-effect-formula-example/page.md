@@ -1,5 +1,5 @@
 ---
-title: "Multiplier Effect: Formula and Example (Algo Trading)"
+title: "Multiplier Effect: Formula and Example"
 description: "Explore the multiplier effect in economic theory and its role in algorithmic trading Learn how spending increases amplify economic output and impact trading strategies"
 ---
 

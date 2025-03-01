@@ -1,5 +1,5 @@
 ---
-title: "Multilateral Trading Facility (MTF) (Algo Trading)"
+title: "Multilateral Trading Facility (MTF)"
 description: "Explore Multilateral Trading Facilities and the role of algorithmic trading in modern financial markets Discover the impact of technology on trading efficiency"
 ---
 

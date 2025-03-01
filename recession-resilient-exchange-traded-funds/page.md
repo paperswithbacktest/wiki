@@ -1,5 +1,5 @@
 ---
-title: "Recession-Resilient Exchange-Traded Funds (Algo Trading)"
+title: "Recession-Resilient Exchange-Traded Funds"
 description: "Explore recession-resilient ETFs that leverage algorithmic trading for optimal performance during downturns. Harness economic resilience and strategic advantages."
 ---
 

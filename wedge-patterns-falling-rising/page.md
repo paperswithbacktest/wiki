@@ -1,5 +1,5 @@
 ---
-title: "Wedge Patterns: Falling and Rising Variants (Algo Trading)"
+title: "Wedge Patterns: Falling and Rising Variants"
 description: "Explore the significance of falling and rising wedge patterns in algorithmic trading Learn how these converging trend lines can predict market reversals"
 ---
 

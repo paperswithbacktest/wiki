@@ -1,5 +1,5 @@
 ---
-title: "Retainer Fee: Functions and Applications (Algo Trading)"
+title: "Retainer Fee: Functions and Applications"
 description: "Learn about the role and benefits of retainer fees in algo trading Stay compliant address legal matters swiftly with expert support ensuring smooth operations"
 ---
 

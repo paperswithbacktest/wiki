@@ -1,5 +1,5 @@
 ---
-title: "Overview of SogoTrade (Algo Trading)"
+title: "Overview of SogoTrade"
 description: "Discover SogoTrade's online brokerage services, offering competitive pricing, robust support, and advanced algo trading tools for diverse investor needs."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "NASDAQ Global Market Composite Overview and Tiers (Algo Trading)"
+title: "NASDAQ Global Market Composite Overview and Tiers"
 description: "Explore NASDAQ's dynamic tiers and Global Market Composite in algorithmic trading Learn how this structure shapes investment strategies globally"
 ---
 

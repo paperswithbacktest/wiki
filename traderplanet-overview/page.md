@@ -1,5 +1,5 @@
 ---
-title: "TraderPlanet Overview (Algo Trading)"
+title: "TraderPlanet Overview"
 description: "Explore the evolving world of algo trading and platforms like TraderPlanet essential for navigating modern financial markets and achieving investment success."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Runoff: Definition, Mechanism, and History (Algo Trading)"
+title: "Runoff: Definition, Mechanism, and History"
 description: "Explore the fascinating convergence of hydrology and algorithmic trading where interdisciplinary insights drive innovation for environmental sustainability and financial efficiency."
 ---
 

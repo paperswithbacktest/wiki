@@ -1,5 +1,5 @@
 ---
-title: "Price Channel: Overview and Analysis (Algo Trading)"
+title: "Price Channel: Overview and Analysis"
 description: "Explore the significance of price channels in technical analysis and their integration in algorithmic trading to optimize trade decisions and predict market trends."
 ---
 

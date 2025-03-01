@@ -1,5 +1,5 @@
 ---
-title: "Mozambique New Metical: History and Economic Impact (Algo Trading)"
+title: "Mozambique New Metical: History and Economic Impact"
 description: "Explore the history and impact of Mozambique's currency, the metical, from its inception in 1980 to the influence of algorithmic trading today."
 ---
 

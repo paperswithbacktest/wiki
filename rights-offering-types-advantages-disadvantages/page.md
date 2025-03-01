@@ -1,5 +1,5 @@
 ---
-title: "Rights Offering: Types, Advantages, and Disadvantages (Algo Trading)"
+title: "Rights Offering: Types, Advantages, and Disadvantages"
 description: "Discover the intricacies of rights offerings and their role in equity finance. Explore the advantages and challenges these strategies pose in capital markets."
 ---
 

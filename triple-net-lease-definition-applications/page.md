@@ -1,5 +1,5 @@
 ---
-title: "Triple Net Lease: Definition and Applications (Algo Trading)"
+title: "Triple Net Lease: Definition and Applications"
 description: "Explore the dynamics of Triple Net Leases and how they impact both landlords and tenants. Learn about innovative applications like algorithmic trading in real estate."
 ---
 

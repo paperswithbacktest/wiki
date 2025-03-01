@@ -1,5 +1,5 @@
 ---
-title: "Renko Chart Explanation and Uses (Algo Trading)"
+title: "Renko Chart Explanation and Uses"
 description: "Discover how Renko charts offer a unique way to view market trends by focusing on price changes instead of time create effective trading strategies."
 ---
 

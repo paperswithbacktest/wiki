@@ -1,5 +1,5 @@
 ---
-title: "SEC Form S-4: Overview and Functionality (Algo Trading)"
+title: "SEC Form S-4: Overview and Functionality"
 description: "Explore the vital role SEC Form S-4 plays in M&A, ensuring legal compliance, transparency, and informed investment decisions in today's fast-paced financial markets."
 ---
 

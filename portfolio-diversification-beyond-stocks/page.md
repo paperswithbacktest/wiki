@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Diversification Beyond Stocks (Algo Trading)"
+title: "Portfolio Diversification Beyond Stocks"
 description: "Discover the benefits of portfolio diversification beyond stocks by exploring alternative assets and algorithmic trading to enhance returns and reduce risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Spread Hedging: Principles and Operation (Algo Trading)"
+title: "Spread Hedging: Principles and Operation"
 description: "Explore spread hedging principles in algo trading to manage risk via offsetting positions in related assets safeguarding portfolios from market volatility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Traveler's Dilemma (Algo Trading)"
+title: "Traveler's Dilemma"
 description: "Explore how the Traveler's Dilemma, rooted in game theory, enhances algorithmic trading strategies by balancing rational choices and maximizing payoffs."
 ---
 

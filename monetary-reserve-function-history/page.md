@@ -1,5 +1,5 @@
 ---
-title: "Monetary Reserve: Function and History (Algo Trading)"
+title: "Monetary Reserve: Function and History"
 description: "Explore the function and history of monetary reserves and their impact on global finance alongside insights into algorithmic trading innovations and challenges."
 ---
 

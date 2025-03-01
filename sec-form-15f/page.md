@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 15F (Algo Trading)"
+title: "SEC Form 15F"
 description: "Explore SEC Form 15F and its impact on foreign firms deregistering from U.S. exchanges, alongside the rise of algorithmic trading in modern financial markets."
 ---
 

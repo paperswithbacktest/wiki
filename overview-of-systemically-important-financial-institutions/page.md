@@ -1,5 +1,5 @@
 ---
-title: "Overview of Systemically Important Financial Institutions (Algo Trading)"
+title: "Overview of Systemically Important Financial Institutions"
 description: "Explore how Systemically Important Financial Institutions SIFIs impact global financial stability by blending traditional finance with cutting-edge algorithmic trading."
 ---
 

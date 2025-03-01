@@ -1,5 +1,5 @@
 ---
-title: "Total Debt-to-Assets Ratio: Explanation and Evaluation (Algo Trading)"
+title: "Total Debt-to-Assets Ratio: Explanation and Evaluation"
 description: "Discover how understanding the total debt-to-assets ratio and other key financial metrics can optimize your trading strategies. This comprehensive guide explains the significance of these metrics in algorithmic trading, helping investors make informed decisions. Learn how these tools can assess a company’s financial health, mitigate risks, and identify sustainable investment opportunities."
 ---
 

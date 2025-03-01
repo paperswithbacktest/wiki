@@ -1,5 +1,5 @@
 ---
-title: "Trading Plans: Mechanisms, Rules, and Examples (Algo Trading)"
+title: "Trading Plans: Mechanisms, Rules, and Examples"
 description: "Explore trading plans as critical tools in algorithmic trading with this detailed guide on mechanisms and rules Learn how to optimize your investment strategies"
 ---
 

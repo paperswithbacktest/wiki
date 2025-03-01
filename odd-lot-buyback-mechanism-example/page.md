@@ -1,5 +1,5 @@
 ---
-title: "Odd-Lot Buyback: Mechanism and Example (Algo Trading)"
+title: "Odd-Lot Buyback: Mechanism and Example"
 description: "Explore the mechanism of odd-lot buybacks and their role in algorithmic trading to improve market efficiency maximize shareholder value, and enhance liquidity."
 ---
 

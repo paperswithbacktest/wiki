@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 10-QT (Algo Trading)"
+title: "SEC Form 10-QT"
 description: "Explore SEC Form 10-QT and its role in financial reporting for non-standard periods, while understanding the impact of algo trading on market transparency."
 ---
 

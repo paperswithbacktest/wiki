@@ -1,5 +1,5 @@
 ---
-title: "Schedule II Bank: Definition and Operations (Algo Trading)"
+title: "Schedule II Bank: Definition and Operations"
 description: "Learn about Schedule II banks in Canada their operations as foreign subsidiaries under Canadian regulations and how they leverage algorithmic trading for efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Tactical Trading: Overview and Examples (Algo Trading)"
+title: "Tactical Trading: Overview and Examples"
 description: "Explore tactical and algorithmic trading to understand short-term market strategies and high-frequency trading insights Learn how to maximize returns and reduce risk"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Position Limit: Functions and Determination (Algo Trading)"
+title: "Position Limit: Functions and Determination"
 description: "Explore the complexities of futures trading with a focus on position limits and their role in maintaining market stability within algorithmic trading environments."
 ---
 

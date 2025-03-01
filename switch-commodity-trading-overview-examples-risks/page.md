@@ -1,5 +1,5 @@
 ---
-title: "Switch in Commodity Trading: Overview, Examples, and Risks (Algo Trading)"
+title: "Switch in Commodity Trading: Overview, Examples, and Risks"
 description: "Explore the intricacies of switch trading in commodities including the challenges and risks associated with commodity and algorithmic trading strategies."
 ---
 

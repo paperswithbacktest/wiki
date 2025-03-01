@@ -1,5 +1,5 @@
 ---
-title: "Types of Preference Shares (Algo Trading)"
+title: "Types of Preference Shares"
 description: "Explore the dynamics of preference shares and algorithmic trading in finance Discover how these investment options align with varying risk tolerances and goals"
 ---
 

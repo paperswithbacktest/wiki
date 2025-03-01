@@ -1,5 +1,5 @@
 ---
-title: "Positive Outcomes in Negative Basis Trades (Algo Trading)"
+title: "Positive Outcomes in Negative Basis Trades"
 description: "Explore how algorithmic trading enhances negative basis trades by exploiting pricing differences between bonds and their derivatives for optimized returns."
 ---
 

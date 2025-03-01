@@ -1,5 +1,5 @@
 ---
-title: "Warehousing in Investment Banking (Algo Trading)"
+title: "Warehousing in Investment Banking"
 description: "Discover how warehousing in investment banking and algorithmic trading are transforming asset management and trade execution with cutting-edge technology."
 ---
 

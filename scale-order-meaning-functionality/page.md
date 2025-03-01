@@ -1,5 +1,5 @@
 ---
-title: "Scale Order: Meaning and Functionality (Algo Trading)"
+title: "Scale Order: Meaning and Functionality"
 description: "Explore the role of scale orders in algorithmic trading and their impact on business efficiency Discover how economic scaling enhances trade execution and growth."
 ---
 

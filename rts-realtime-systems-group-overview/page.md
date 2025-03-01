@@ -1,5 +1,5 @@
 ---
-title: "RTS Realtime Systems Group Overview (Algo Trading)"
+title: "RTS Realtime Systems Group Overview"
 description: "RTS Realtime Systems Group, part of Bloomberg LP, revolutionizes algorithmic trading with low latency solutions for faster, precise, and profitable transactions globally."
 ---
 

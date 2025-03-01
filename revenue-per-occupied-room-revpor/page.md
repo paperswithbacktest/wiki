@@ -1,5 +1,5 @@
 ---
-title: "Revenue Per Occupied Room (RevPOR) (Algo Trading)"
+title: "Revenue Per Occupied Room (RevPOR)"
 description: "Master hotel revenue management with a focus on RevPOR to optimize guest spending and ancillary revenues using data-driven strategies for maximum profitability."
 ---
 

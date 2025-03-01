@@ -1,5 +1,5 @@
 ---
-title: "Volatility impact (Algo Trading)"
+title: "Volatility impact"
 description: "Explore the role of volatility in algorithmic trading and how it affects trading strategies risk management and performance optimization in dynamic markets."
 ---
 

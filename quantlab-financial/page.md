@@ -1,5 +1,5 @@
 ---
-title: "Quantlab Financial (Algo Trading)"
+title: "Quantlab Financial"
 description: "Explore Quantlab Financial's leadership in algorithmic trading With innovative technology and high-frequency trading strategies they redefine market dynamics"
 ---
 

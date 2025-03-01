@@ -1,5 +1,5 @@
 ---
-title: "Retail Inventory Method (Algo Trading)"
+title: "Retail Inventory Method"
 description: "Discover how integrating retail inventory management with algorithmic trading can enhance decision-making processes and optimize inventory levels. Explore innovative techniques and best practices for balancing product availability and cost-effectiveness to sustain a competitive edge in the marketplace. Learn about approaches like the Retail Inventory Method and its application alongside advanced trading strategies to achieve operational efficiency and profitability."
 ---
 

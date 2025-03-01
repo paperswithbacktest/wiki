@@ -1,5 +1,5 @@
 ---
-title: "Zillow Stock Split Analysis (Algo Trading)"
+title: "Zillow Stock Split Analysis"
 description: "Explore the dynamics of Zillow's stock split, its impact on the real estate market, and the role of algorithmic trading in shaping investment strategies."
 ---
 

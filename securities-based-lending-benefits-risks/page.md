@@ -1,5 +1,5 @@
 ---
-title: "Securities-Based Lending: Benefits and Risks (Algo Trading)"
+title: "Securities-Based Lending: Benefits and Risks"
 description: "Explore the benefits and risks of securities-based lending and algorithmic trading Learn how these financial tools offer opportunities while posing unique challenges"
 ---
 

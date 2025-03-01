@@ -1,5 +1,5 @@
 ---
-title: "Reconstruction Finance Corporation: Overview and Functionality (Algo Trading)"
+title: "Reconstruction Finance Corporation: Overview and Functionality"
 description: "Explore the impact of the Reconstruction Finance Corporation on the US economy during the Great Depression and its influence on modern financial policies like algorithmic trading."
 ---
 

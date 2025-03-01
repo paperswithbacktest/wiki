@@ -1,5 +1,5 @@
 ---
-title: "WPPSS and Municipal Bond Defaults (Algo Trading)"
+title: "WPPSS and Municipal Bond Defaults"
 description: "Explore the impact of the WPPSS default on municipal finance history and algorithmic trading's role in enhancing risk assessment in municipal bond markets."
 ---
 

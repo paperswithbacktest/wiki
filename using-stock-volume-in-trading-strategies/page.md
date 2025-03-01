@@ -1,5 +1,5 @@
 ---
-title: "Using Stock Volume in Trading Strategies (Algo Trading)"
+title: "Using Stock Volume in Trading Strategies"
 description: "Explore using stock volume in trading strategies to maximize returns with algorithmic methods. Discover how volume trading enhances market analysis and informs profitable decisions."
 ---
 

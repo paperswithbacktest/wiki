@@ -1,5 +1,5 @@
 ---
-title: "Subscription Pricing: Overview and Mechanism (Algo Trading)"
+title: "Subscription Pricing: Overview and Mechanism"
 description: "Explore how subscription pricing models enhance algorithmic trading with flexible plans providing ongoing access to tools, updates, and support for traders."
 ---
 

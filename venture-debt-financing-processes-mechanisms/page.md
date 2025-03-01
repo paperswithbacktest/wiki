@@ -1,5 +1,5 @@
 ---
-title: "Venture Debt Financing Processes and Mechanisms (Algo Trading)"
+title: "Venture Debt Financing Processes and Mechanisms"
 description: "Explore venture debt financing debt mechanisms and algorithmic trading to enhance capital growth. Discover strategies for startups and businesses in today's economy."
 ---
 

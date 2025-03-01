@@ -1,5 +1,5 @@
 ---
-title: "Overcapitalization: Causes and Examples (Algo Trading)"
+title: "Overcapitalization: Causes and Examples"
 description: "Explore the dynamics of overcapitalization and algorithmic trading to understand their impact on business efficiency sustainability and strategic financial management."
 ---
 

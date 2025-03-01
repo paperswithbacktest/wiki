@@ -1,5 +1,5 @@
 ---
-title: "Passive Management: Overview and Mechanism (Algo Trading)"
+title: "Passive Management: Overview and Mechanism"
 description: "Explore passive management and its role in modern investment with insights into asset management and algorithmic trading Learn how they shape financial strategies"
 ---
 

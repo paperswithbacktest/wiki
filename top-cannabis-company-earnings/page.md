@@ -1,5 +1,5 @@
 ---
-title: "Top Cannabis Company Earnings (Algo Trading)"
+title: "Top Cannabis Company Earnings"
 description: "Explore top cannabis company earnings and the role of algorithmic trading in this dynamic sector to gain insights into financial trends and industry strategies."
 ---
 

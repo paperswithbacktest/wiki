@@ -1,5 +1,5 @@
 ---
-title: "New Deal: Significance, Overview, History (Algo Trading)"
+title: "New Deal: Significance, Overview, History"
 description: "Explore the significance and history of the New Deal its impact on economic stability and the evolution of financial systems toward modern practices like algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Order Flow Analysis (Algo Trading)"
+title: "Order Flow Analysis"
 description: "Discover the essentials of order flow analysis in algorithmic trading to understand market dynamics and optimize your trading strategies for better results."
 ---
 

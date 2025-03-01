@@ -1,5 +1,5 @@
 ---
-title: "Theory of Price in Economics (Algo Trading)"
+title: "Theory of Price in Economics"
 description: "Explore how price theory interacts with economic theories and algorithmic trading to understand market dynamics and optimize trading strategies."
 ---
 

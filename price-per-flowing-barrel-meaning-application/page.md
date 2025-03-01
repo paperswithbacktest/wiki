@@ -1,5 +1,5 @@
 ---
-title: "Price Per Flowing Barrel: Meaning and Application (Algo Trading)"
+title: "Price Per Flowing Barrel: Meaning and Application"
 description: "Discover how the Price Per Flowing Barrel metric enhances oil investment decisions and see its role in optimizing algorithmic trading strategies."
 ---
 

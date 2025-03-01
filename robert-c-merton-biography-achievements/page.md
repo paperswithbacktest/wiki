@@ -1,5 +1,5 @@
 ---
-title: "Robert C. Merton: Biography and Achievements (Algo Trading)"
+title: "Robert C. Merton: Biography and Achievements"
 description: "Explore the life and achievements of Robert C. Merton an eminent economist whose work on the Black-Scholes-Merton model reshaped finance and algorithmic trading."
 ---
 

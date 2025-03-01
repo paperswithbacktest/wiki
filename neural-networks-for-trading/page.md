@@ -1,5 +1,5 @@
 ---
-title: "Neural Networks for Trading (Algo Trading)"
+title: "Neural Networks for Trading"
 description: "Discover how neural networks revolutionize algorithmic trading by enhancing accuracy and adaptability in financial markets with advanced data analysis tools."
 ---
 

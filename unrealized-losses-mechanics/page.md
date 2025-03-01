@@ -1,5 +1,5 @@
 ---
-title: "Unrealized Losses and Their Mechanics (Algo Trading)"
+title: "Unrealized Losses and Their Mechanics"
 description: "Explore the mechanics of unrealized losses in algorithmic trading. Learn how they impact investment strategies, risk management, portfolio value, and tax planning."
 ---
 

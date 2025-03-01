@@ -1,5 +1,5 @@
 ---
-title: "Radner Equilibrium in Economic Theory (Algo Trading)"
+title: "Radner Equilibrium in Economic Theory"
 description: "Explore Radner Equilibrium to understand market mechanics under uncertainty. Discover its impact on modern economic paradigms and algorithmic trading strategies."
 ---
 

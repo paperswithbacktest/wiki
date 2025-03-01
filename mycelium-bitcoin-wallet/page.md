@@ -1,5 +1,5 @@
 ---
-title: "Mycelium Bitcoin Wallet (Algo Trading)"
+title: "Mycelium Bitcoin Wallet"
 description: "Explore Mycelium Bitcoin Wallet's strong privacy security features and integrated algo trading to enhance digital asset management and optimize trading strategies."
 ---
 

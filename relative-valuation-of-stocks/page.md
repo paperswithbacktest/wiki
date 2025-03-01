@@ -1,5 +1,5 @@
 ---
-title: "Relative Valuation of Stocks (Algo Trading)"
+title: "Relative Valuation of Stocks"
 description: "Discover the essentials of relative stock valuation and algorithmic trading through equity analysis Dive into financial strategies to boost investment success"
 ---
 

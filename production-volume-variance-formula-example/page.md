@@ -1,5 +1,5 @@
 ---
-title: "Production Volume Variance: Formula and Example (Algo Trading)"
+title: "Production Volume Variance: Formula and Example"
 description: "Explore how production volume variance serves as a crucial metric for optimizing efficiency in accounting and algorithmic trading. Enhance decision-making with insights."
 ---
 

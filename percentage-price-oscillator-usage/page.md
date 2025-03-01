@@ -1,5 +1,5 @@
 ---
-title: "Percentage Price Oscillator Usage (Algo Trading)"
+title: "Percentage Price Oscillator Usage"
 description: "Explore the dynamic role of the Percentage Price Oscillator in algorithmic trading Learn how to use this momentum indicator for strategic market insights and decisions"
 ---
 

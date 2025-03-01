@@ -1,5 +1,5 @@
 ---
-title: "Understanding Financial Footnotes (Algo Trading)"
+title: "Understanding Financial Footnotes"
 description: "Understanding financial footnotes is vital for informed decision-making in finance as they provide essential details revealing insights about a company's financial health beyond standard statements. These notes expand on figures by explaining accounting policies and potential liabilities, offering a nuanced view of financial situations. In algorithmic trading, which relies heavily on quantitative data, integrating qualitative insights from financial footnotes can enhance models and predictions. This article investigates into how financial footnotes and algorithmic trading intertwine, aiding investors in navigating volatile markets more precisely."
 ---
 

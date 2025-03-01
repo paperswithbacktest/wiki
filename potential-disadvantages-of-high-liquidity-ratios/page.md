@@ -1,5 +1,5 @@
 ---
-title: "Potential Disadvantages of High Liquidity Ratios (Algo Trading)"
+title: "Potential Disadvantages of High Liquidity Ratios"
 description: "Explore potential drawbacks of high liquidity ratios in algorithmic trading and understand their impact on market behavior and investment strategies."
 ---
 

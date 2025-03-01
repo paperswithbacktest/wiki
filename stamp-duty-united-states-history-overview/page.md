@@ -1,5 +1,5 @@
 ---
-title: "Stamp Duty in the United States: History and Overview (Algo Trading)"
+title: "Stamp Duty in the United States: History and Overview"
 description: "Explore the intricate relationship between property tax and stamp duty in the U.S. along with the rise of algorithmic trading and their impact on financial markets. Discover the historical evolution of these taxes, their role in U.S. tax history, and how they influence contemporary economic policies and market behavior. Gain insights into the financial landscape shaped by these elements and their significance in the current economic environment."
 ---
 

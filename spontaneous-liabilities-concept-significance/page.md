@@ -1,5 +1,5 @@
 ---
-title: "Spontaneous Liabilities: Concept and Significance (Algo Trading)"
+title: "Spontaneous Liabilities: Concept and Significance"
 description: "Explore the significance of spontaneous liabilities in algo trading and how understanding liabilities can optimize financial strategies and improve business outcomes."
 ---
 

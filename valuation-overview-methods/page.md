@@ -1,5 +1,5 @@
 ---
-title: "Valuation: Overview and Methods (Algo Trading)"
+title: "Valuation: Overview and Methods"
 description: "Explore how valuation techniques intersect with algorithmic trading to enhance profitability and manage risk providing essential market insights for strategic decisions."
 ---
 

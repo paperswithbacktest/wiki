@@ -1,5 +1,5 @@
 ---
-title: "Put Bond (Algo Trading)"
+title: "Put Bond"
 description: "Navigate the intriguing world of bonds and algorithmic trading Discover bond mechanisms and their impact on the financial market with cutting-edge insights"
 ---
 

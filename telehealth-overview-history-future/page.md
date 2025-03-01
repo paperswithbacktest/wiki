@@ -1,5 +1,5 @@
 ---
-title: "Telehealth: Overview, History, and Future (Algo Trading)"
+title: "Telehealth: Overview, History, and Future"
 description: "Explore the dynamic convergence of telehealth and algorithmic trading in healthcare to understand their transformational impact on healthcare delivery and investment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Self-Directed Stock Analysis (Algo Trading)"
+title: "Self-Directed Stock Analysis"
 description: "Explore the synergy of investment strategies, financial education, stock analysis, and algorithmic trading to navigate financial markets and make informed decisions."
 ---
 

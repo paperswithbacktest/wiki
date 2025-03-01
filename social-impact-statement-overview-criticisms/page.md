@@ -1,5 +1,5 @@
 ---
-title: "Social Impact Statement: Overview and Criticisms (Algo Trading)"
+title: "Social Impact Statement: Overview and Criticisms"
 description: "Discover how CSR and social impact statements intersect with algorithmic trading highlighting both the positive impacts and ethical challenges in modern finance."
 ---
 

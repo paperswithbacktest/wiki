@@ -1,5 +1,5 @@
 ---
-title: "SEC Form DEFM14A: Overview and Functionality (Algo Trading)"
+title: "SEC Form DEFM14A: Overview and Functionality"
 description: "SEC Form DEFM14A is crucial in M&A activities ensuring transparent shareholder communications and aiding algorithmic trading insights for market dynamics."
 ---
 

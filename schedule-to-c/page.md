@@ -1,5 +1,5 @@
 ---
-title: "Schedule TO-C (Algo Trading)"
+title: "Schedule TO-C"
 description: "Explore the intersection of Schedule TO-C filings, tender offers, and algorithmic trading in financial markets. Learn how compliance guides transparency and investor protection."
 ---
 

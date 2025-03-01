@@ -1,5 +1,5 @@
 ---
-title: "Wallpaper (Algo Trading)"
+title: "Wallpaper"
 description: "Explore the fascinating intersection of wallpaper interior design and algorithmic trading highlighting how creativity and strategy enhance both fields."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Wealth Tax: Overview, Examples, Advantages and Disadvantages (Algo Trading)"
+title: "Wealth Tax: Overview, Examples, Advantages and Disadvantages"
 description: "Explore the complexities of wealth tax and algorithmic trading, understanding their advantages and drawbacks within the financial landscape to inform policy decisions."
 ---
 

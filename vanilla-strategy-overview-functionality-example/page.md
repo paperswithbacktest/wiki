@@ -1,5 +1,5 @@
 ---
-title: "Vanilla Strategy: Overview and Functionality with Example (Algo Trading)"
+title: "Vanilla Strategy: Overview and Functionality with Example"
 description: "Explore the simplicity and reliability of vanilla strategies in business and algorithmic trading. Learn their benefits and limitations in dynamic market conditions."
 ---
 

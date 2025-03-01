@@ -1,5 +1,5 @@
 ---
-title: "Stock Watcher (Algo Trading)"
+title: "Stock Watcher"
 description: "Discover how technology revolutionizes investing with tools for stock monitoring, financial analysis, investment tracking, and algorithmic trading to refine strategies."
 ---
 

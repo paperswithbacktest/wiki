@@ -1,5 +1,5 @@
 ---
-title: "Obelisk Consensus Algorithm (Algo Trading)"
+title: "Obelisk Consensus Algorithm"
 description: "Explore the innovative Obelisk consensus algorithm within the Skycoin ecosystem. Discover how it enhances blockchain technology and influences algorithmic trading."
 ---
 

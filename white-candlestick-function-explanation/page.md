@@ -1,5 +1,5 @@
 ---
-title: "White Candlestick: Function and Explanation (Algo Trading)"
+title: "White Candlestick: Function and Explanation"
 description: "Explore the significance of white candlesticks in algorithmic trading as they signal bullish trends indicating increased buyer confidence and potential price rises."
 ---
 

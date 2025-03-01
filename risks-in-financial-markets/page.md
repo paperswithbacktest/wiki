@@ -1,5 +1,5 @@
 ---
-title: "Risks in Financial Markets (Algo Trading)"
+title: "Risks in Financial Markets"
 description: "Explore the challenges and strategies of managing market risks in algorithmic trading Learn about systemic non-systemic and operational risks and mitigation tactics"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-GAAP Earnings and Their Role in Financial Analysis (Algo Trading)"
+title: "Non-GAAP Earnings and Their Role in Financial Analysis"
 description: "Explore the pivotal role of Non-GAAP earnings in financial analysis and algorithmic trading. Understand how these metrics impact investment decisions with transparency and precision."
 ---
 

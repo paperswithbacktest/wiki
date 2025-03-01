@@ -1,5 +1,5 @@
 ---
-title: "NASDAQ Global Select Market Composite Overview (Algo Trading)"
+title: "NASDAQ Global Select Market Composite Overview"
 description: "Explore the NASDAQ Global Select Market Composite and its impact on global markets Discover how algo trading reshapes financial dynamics and enhances efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Money Management via the Kelly Criterion Explained (Algo Trading)"
+title: "Money Management via the Kelly Criterion Explained"
 description: Learn how the Kelly Criterion, a respected investment strategy, optimizes bet sizes in algorithmic trading. Discover its balance of risk and reward, enhancing returns while managing market risks. Explore its application, benefits, and challenges within trading strategies for smarter decision-making.
 ---
 

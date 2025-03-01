@@ -1,5 +1,5 @@
 ---
-title: "Weightless Economy: Overview and Examples (Algo Trading)"
+title: "Weightless Economy: Overview and Examples"
 description: "Explore the transformative weightless economy and how intangible assets like IP, software, and data drive growth, with insights into algorithmic trading's impact."
 ---
 

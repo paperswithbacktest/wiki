@@ -1,5 +1,5 @@
 ---
-title: "Minimum Margin Requirements for Equities Short Sales (Algo Trading)"
+title: "Minimum Margin Requirements for Equities Short Sales"
 description: "Understand the essentials of margin requirements in equity short sales and algorithmic trading Explore how these factors impact trading strategies and risk management"
 ---
 

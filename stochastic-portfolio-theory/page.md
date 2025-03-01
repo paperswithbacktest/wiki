@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Portfolio theory (Algo Trading)"
+title: "Stochastic Portfolio theory"
 description: "Explore the synergy between Stochastic Portfolio Theory and algorithmic trading to enhance strategies using probabilistic models in dynamic financial markets."
 ---
 

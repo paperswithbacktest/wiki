@@ -1,5 +1,5 @@
 ---
-title: "Variable-Rate Demand Bonds (Algo Trading)"
+title: "Variable-Rate Demand Bonds"
 description: "Discover the benefits and challenges of variable-rate demand bonds and the transformative role of algorithmic trading in enhancing bond market efficiency."
 ---
 

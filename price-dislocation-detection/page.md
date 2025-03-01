@@ -1,5 +1,5 @@
 ---
-title: "Price Dislocation Detection (Algo Trading)"
+title: "Price Dislocation Detection"
 description: "Discover how algorithmic trading leverages advanced algorithms to detect price dislocation in financial markets enabling traders to capitalize on mispriced assets."
 ---
 

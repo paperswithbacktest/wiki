@@ -1,5 +1,5 @@
 ---
-title: "Steam-Oil Ratio: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Steam-Oil Ratio: Overview, Advantages, and Disadvantages"
 description: "Explore the Steam-Oil Ratio's role in optimizing enhanced oil recovery methods discover its benefits and limitations, and how algorithmic trading influences oil efficiency."
 ---
 

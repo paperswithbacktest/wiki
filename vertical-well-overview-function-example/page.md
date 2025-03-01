@@ -1,5 +1,5 @@
 ---
-title: "Vertical Well: Overview, Function, and Example (Algo Trading)"
+title: "Vertical Well: Overview, Function, and Example"
 description: "Discover how vertical well drilling and algorithmic trading revolutionize petroleum extraction and trading practices, boosting efficiency and profitability."
 ---
 

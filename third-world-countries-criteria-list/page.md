@@ -1,5 +1,5 @@
 ---
-title: "Third World Countries: Criteria and List (Algo Trading)"
+title: "Third World Countries: Criteria and List"
 description: "Explore how developing nations' classification affects global economic policies and trading. Discover the impact of algo trading on their economic prospects."
 ---
 

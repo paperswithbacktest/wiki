@@ -1,5 +1,5 @@
 ---
-title: "Quote-Driven Markets: Functions and Implications (Algo Trading)"
+title: "Quote-Driven Markets: Functions and Implications"
 description: "Explore the functions and implications of quote-driven markets in algorithmic trading Learn how market makers enhance liquidity and efficiency while maintaining price stability"
 ---
 

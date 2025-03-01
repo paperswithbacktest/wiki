@@ -1,5 +1,5 @@
 ---
-title: "Premining: Overview, Mechanism, Advantages and Disadvantages (Algo Trading)"
+title: "Premining: Overview, Mechanism, Advantages and Disadvantages"
 description: "Explore the impact of premining on algorithmic trading in cryptocurrency markets, understanding its influence on liquidity, volatility, and trading strategies."
 ---
 

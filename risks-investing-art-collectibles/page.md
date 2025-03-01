@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Investing in Art and Collectibles (Algo Trading)"
+title: "Risks Associated with Investing in Art and Collectibles"
 description: "Explore the unique risks and potential rewards of investing in art collectibles and algorithmic trading to diversify your portfolio while navigating market challenges."
 ---
 

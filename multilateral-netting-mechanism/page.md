@@ -1,5 +1,5 @@
 ---
-title: "Multilateral Netting and Its Mechanism (Algo Trading)"
+title: "Multilateral Netting and Its Mechanism"
 description: "Discover how multilateral netting and algorithmic trading optimize financial strategies by reducing transaction complexity and enhancing market efficiency."
 ---
 

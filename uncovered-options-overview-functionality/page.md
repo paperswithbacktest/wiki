@@ -1,5 +1,5 @@
 ---
-title: "Uncovered Options: Overview and Functionality (Algo Trading)"
+title: "Uncovered Options: Overview and Functionality"
 description: "Explore the overview and functionality of uncovered options in algo trading. Learn how these financial derivatives aid in risk management and investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 40-F Overview (Algo Trading)"
+title: "SEC Form 40-F Overview"
 description: "Discover the importance of SEC Form 40-F for Canadian firms in U.S. markets and its role in financial reporting and algorithmic trading efficiency."
 ---
 

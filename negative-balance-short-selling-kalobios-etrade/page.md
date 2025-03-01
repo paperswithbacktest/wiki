@@ -1,5 +1,5 @@
 ---
-title: "Negative Balance in Short Selling of KaloBios Pharmaceuticals by E*TRADE Account Holder (Algo Trading)"
+title: "Negative Balance in Short Selling of KaloBios Pharmaceuticals by E*TRADE Account Holder"
 description: "Explore the risks of short selling and algorithmic trading through the KaloBios Pharmaceuticals case that highlights the potential for negative balances."
 ---
 

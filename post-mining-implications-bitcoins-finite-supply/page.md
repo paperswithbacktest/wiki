@@ -1,5 +1,5 @@
 ---
-title: "Post-Mining Implications for Bitcoin's Finite Supply (Algo Trading)"
+title: "Post-Mining Implications for Bitcoin's Finite Supply"
 description: "Explore the impact of Bitcoin's capped supply on demand and market dynamics while assessing algorithmic trading strategies that exploit Bitcoin's scarcity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "The 60/40 Benchmark Portfolio Explained (Algo Trading)"
+title: "The 60/40 Benchmark Portfolio Explained"
 description: Discover how the 60/40 benchmark portfolio guides algorithmic trading, blending traditional asset allocation with modern algo strategies for optimal performance. Learn about the importance of this benchmark in strategy evaluation and decision-making within dynamic financial markets.
 ---
 

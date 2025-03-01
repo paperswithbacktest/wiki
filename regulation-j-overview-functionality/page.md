@@ -1,5 +1,5 @@
 ---
-title: "Regulation J: Overview and Functionality (Algo Trading)"
+title: "Regulation J: Overview and Functionality"
 description: "Explore the critical role of Regulation J in payment processing ensuring security and consistency for banks in handling checks and electronic funds transfers."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "NYSE Liffe US Exchange (Algo Trading)"
+title: "NYSE Liffe US Exchange"
 description: "Explore NYSE Liffe US Exchange's cutting-edge algorithmic trading platforms that drive efficiency and innovation in financial markets and derivatives trading."
 ---
 

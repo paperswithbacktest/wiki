@@ -1,5 +1,5 @@
 ---
-title: "Value at Risk (Algo Trading)"
+title: "Value at Risk"
 description: "Discover how Value at Risk (VaR) enhances risk management in algorithmic trading by quantifying potential portfolio losses. Learn about methodologies for calculating VaR and its integration into trading systems to limit losses, optimize strategies, and enhance predictive accuracy. Explore the significance of VaR in financial risk management frameworks and its impact on maintaining financial stability amidst evolving market conditions."
 ---
 

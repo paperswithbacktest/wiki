@@ -1,5 +1,5 @@
 ---
-title: "Xantium (Algo Trading)"
+title: "Xantium"
 description: "Xantium excels in algorithmic trading by integrating advanced technology, highlighted by strategic collaboration with Tudor Investment Corp to enhance market strategies."
 ---
 

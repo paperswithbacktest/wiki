@@ -1,5 +1,5 @@
 ---
-title: "Trading Authorization (Algo Trading)"
+title: "Trading Authorization"
 description: "Explore the role of trading authorization in the high-speed world of algorithmic trading Learn how authorization levels impact strategy efficiency and investor control"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Prime Cost: Formula, Calculation, and Purpose (Algo Trading)"
+title: "Prime Cost: Formula, Calculation, and Purpose"
 description: "Explore how prime cost calculations bridge accounting and algorithmic trading to optimize business operations in financial sectors. Learn to manage direct and indirect costs for competitive advantage. Discover the formula and calculation methods that enhance profitability in production and trading."
 ---
 

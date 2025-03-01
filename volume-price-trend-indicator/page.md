@@ -1,5 +1,5 @@
 ---
-title: "Volume Price Trend Indicator (Algo Trading)"
+title: "Volume Price Trend Indicator"
 description: "Explore the Volume Price Trend indicator's role in algorithmic trading and how it integrates price and volume data to inform market trend analysis."
 ---
 

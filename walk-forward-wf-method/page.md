@@ -1,5 +1,5 @@
 ---
-title: "Walk-forward (WF) method (Algo Trading)"
+title: "Walk-forward (WF) method"
 description: Walk-forward analysis is a crucial methodology in algorithmic trading designed to enhance the reliability of trading strategies by simulating real-world trading conditions. Unlike traditional backtesting, this method uses distinct in-sample and out-of-sample data segments to continuously optimize and evaluate strategies, reducing overfitting and improving predictive accuracy. By testing strategies on unseen data, walk-forward analysis provides insights into long-term performance under changing market scenarios. This article investigates into the walk-forward process, detailing its execution, benefits, and potential challenges, and explores the differences between Anchored and Rolling Walk-Forward Testing.
 ---
 

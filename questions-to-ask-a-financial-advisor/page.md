@@ -1,5 +1,5 @@
 ---
-title: "Questions to Ask a Financial Advisor (Algo Trading)"
+title: "Questions to Ask a Financial Advisor"
 description: "Explore essential questions to ask a financial advisor about investment strategies, financial planning fundamentals, and the impact of algorithmic trading to make informed decisions. Learn how technology like robo-advisors is reshaping investment management and discover how to align your financial goals with targeted financial strategies."
 ---
 

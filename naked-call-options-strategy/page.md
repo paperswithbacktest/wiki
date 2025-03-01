@@ -1,5 +1,5 @@
 ---
-title: "Naked Call Options Strategy (Algo Trading)"
+title: "Naked Call Options Strategy"
 description: "Explore the high-risk, high-reward world of naked call options and algorithmic trading. Understand strategies, risks, and how tech aids in risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mixed Economic System: Characteristics, Examples, Advantages, and Disadvantages (Algo Trading)"
+title: "Mixed Economic System: Characteristics, Examples, Advantages, and Disadvantages"
 description: "Explore the characteristics and benefits of mixed economic systems and algorithmic trading discover their impact on market efficiency and economic development."
 ---
 

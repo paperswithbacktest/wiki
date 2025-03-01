@@ -1,5 +1,5 @@
 ---
-title: "Vitamin B3 (Niacin) (Algo Trading)"
+title: "Vitamin B3 (Niacin)"
 description: "Explore the intersection of health benefits from Vitamin B3 and the dynamic investment world of Brazil's B3 stock exchange, highlighting modern life impacts."
 ---
 

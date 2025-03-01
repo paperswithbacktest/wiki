@@ -1,5 +1,5 @@
 ---
-title: "Return on Market Value of Equity (Algo Trading)"
+title: "Return on Market Value of Equity"
 description: "Discover how Market Value of Equity and Return on Market Value of Equity (ROME) provide vital insights into company value and performance in algorithmic trading."
 ---
 

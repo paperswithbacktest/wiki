@@ -1,5 +1,5 @@
 ---
-title: "Phi Ellipse: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Phi Ellipse: Definition, Mechanism, and Examples"
 description: "Discover how phi-ellipses integrate geometric principles into algorithmic trading to enhance trend analysis and market prediction in this insightful guide."
 ---
 

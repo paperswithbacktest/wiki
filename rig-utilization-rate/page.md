@@ -1,5 +1,5 @@
 ---
-title: "Rig Utilization Rate (Algo Trading)"
+title: "Rig Utilization Rate"
 description: "Explore the impact of rig utilization rates and algorithmic trading in the oil and gas industry Discover how these metrics optimize resource allocation and market strategies"
 ---
 

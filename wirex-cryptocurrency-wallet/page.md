@@ -1,5 +1,5 @@
 ---
-title: "Wirex Cryptocurrency Wallet (Algo Trading)"
+title: "Wirex Cryptocurrency Wallet"
 description: "Discover Wirex Cryptocurrency Wallet and explore its features in managing traditional and digital currencies optimized for seamless transactions and algorithmic trading."
 ---
 

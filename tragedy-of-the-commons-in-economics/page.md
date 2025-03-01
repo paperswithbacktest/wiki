@@ -1,5 +1,5 @@
 ---
-title: "Tragedy of the Commons in Economics (Algo Trading)"
+title: "Tragedy of the Commons in Economics"
 description: "Explore the interplay between the Tragedy of the Commons and algo trading in financial markets, highlighting challenges in achieving sustainable resource allocation."
 ---
 

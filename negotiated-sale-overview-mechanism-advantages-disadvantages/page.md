@@ -1,5 +1,5 @@
 ---
-title: "Negotiated Sale: Overview, Mechanism, Advantages and Disadvantages (Algo Trading)"
+title: "Negotiated Sale: Overview, Mechanism, Advantages and Disadvantages"
 description: "Explore the advantages and disadvantages of negotiated sales and algorithmic trading to enhance your trading strategy with informed insights and methodologies."
 ---
 

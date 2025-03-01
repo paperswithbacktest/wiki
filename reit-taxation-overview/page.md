@@ -1,5 +1,5 @@
 ---
-title: "REIT Taxation Overview (Algo Trading)"
+title: "REIT Taxation Overview"
 description: "Explore the taxation and strategic advantages of Real Estate Investment Trusts (REITs) for investors interested in gaining real estate market exposure without direct property management hassles. Understand how REITs manage income distribution to minimize corporate taxes enhancing investor returns through dividends. Discover how algorithmic trading enhances REIT strategies by optimizing buy and sell decisions. This informative overview provides insights into tax implications for investors categorized as ordinary income capital gains or return of capital and highlights different REIT types including Equity Mortgage and Hybrid REITs to guide investment choices."
 ---
 

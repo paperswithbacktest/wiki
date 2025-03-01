@@ -1,5 +1,5 @@
 ---
-title: "Parametric Method in Value at Risk (Algo Trading)"
+title: "Parametric Method in Value at Risk"
 description: "Explore how the parametric method in Value at Risk offers a computationally efficient way to assess potential losses in algorithmic trading environments."
 ---
 

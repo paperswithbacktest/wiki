@@ -1,5 +1,5 @@
 ---
-title: "Stump the Chump: Concept and Functionality (Algo Trading)"
+title: "Stump the Chump: Concept and Functionality"
 description: "Stump the Chump blends game mechanics with algorithmic trading, challenging participants to outsmart experts, enhancing strategic thinking and market understanding."
 ---
 

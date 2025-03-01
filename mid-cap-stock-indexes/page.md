@@ -1,5 +1,5 @@
 ---
-title: "Mid-Cap Stock Indexes (Algo Trading)"
+title: "Mid-Cap Stock Indexes"
 description: "Explore mid-cap stock indexes and algorithmic trading strategies to optimize your investment portfolio by balancing growth potential and financial stability."
 ---
 

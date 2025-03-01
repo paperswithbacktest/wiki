@@ -1,5 +1,5 @@
 ---
-title: "Treasury Lock in Fixed Income Trading (Algo Trading)"
+title: "Treasury Lock in Fixed Income Trading"
 description: "Explore the crucial role of treasury locks and algorithmic trading in managing interest rate risk within fixed income markets for an efficient strategy."
 ---
 

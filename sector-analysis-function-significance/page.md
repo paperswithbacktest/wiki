@@ -1,5 +1,5 @@
 ---
-title: "Sector Analysis: Function and Significance (Algo Trading)"
+title: "Sector Analysis: Function and Significance"
 description: "Explore the role of sector analysis in investment strategies and algorithmic trading How these elements enhance decision-making and optimize trading outcomes "
 ---
 

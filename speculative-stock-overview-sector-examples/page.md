@@ -1,5 +1,5 @@
 ---
-title: "Speculative Stock: Overview and Sector Examples (Algo Trading)"
+title: "Speculative Stock: Overview and Sector Examples"
 description: "Explore the volatile realm of speculative stocks and the growing influence of algorithmic trading. Learn strategy essentials for navigating modern markets."
 ---
 

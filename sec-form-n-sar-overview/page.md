@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-SAR Overview (Algo Trading)"
+title: "SEC Form N-SAR Overview"
 description: "Explore the evolution of SEC financial reporting from Form N-SAR to Form N-CEN and its impact on modern practices like algorithmic trading and regulatory compliance."
 ---
 

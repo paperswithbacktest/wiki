@@ -1,5 +1,5 @@
 ---
-title: "Residual Value Calculation and Examples (Algo Trading)"
+title: "Residual Value Calculation and Examples"
 description: "Explore the intersections of residual value, depreciation, and asset valuation in algorithmic trading to enhance financial analysis and optimize trading strategies."
 ---
 

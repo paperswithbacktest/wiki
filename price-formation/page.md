@@ -1,5 +1,5 @@
 ---
-title: "Price Formation (Algo Trading)"
+title: "Price Formation"
 description: "Price formation is key in algorithmic trading influencing trade decisions and market efficiency As traders decode price dynamics they better optimize strategies"
 ---
 

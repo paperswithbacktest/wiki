@@ -1,5 +1,5 @@
 ---
-title: "Sideways Trend in Trading (Algo Trading)"
+title: "Sideways Trend in Trading"
 description: "Discover strategies for trading sideways markets using algorithmic tools to capitalize on price stability. Learn how to enhance your trading approach with technical insights."
 ---
 

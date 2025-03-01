@@ -1,5 +1,5 @@
 ---
-title: "Profitability Ratios and Their Utilization in Business (Algo Trading)"
+title: "Profitability Ratios and Their Utilization in Business"
 description: "Explore profitability ratios and their role in business analysis and algorithmic trading, enabling investors and analysts to optimize trading strategies effectively."
 ---
 

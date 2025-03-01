@@ -1,5 +1,5 @@
 ---
-title: "Secondary Spot (Algo Trading)"
+title: "Secondary Spot"
 description: "Explore the intricacies of secondary spot algo trading combining spot secondary offerings with algorithmic strategies to boost market liquidity and efficiency."
 ---
 

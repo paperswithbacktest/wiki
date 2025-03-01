@@ -1,5 +1,5 @@
 ---
-title: "Negative Butterfly: Definition and Mechanism (Algo Trading)"
+title: "Negative Butterfly: Definition and Mechanism"
 description: "Discover the negative butterfly bond trading strategy, its impact on managing interest rate risks, and the role of algorithmic trading in optimizing returns."
 ---
 

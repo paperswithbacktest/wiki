@@ -1,5 +1,5 @@
 ---
-title: "Revenue Generation in No-Load Mutual Funds (Algo Trading)"
+title: "Revenue Generation in No-Load Mutual Funds"
 description: "Explore how no-load mutual funds enable full capital allocation without sales charges, and discover the benefits of integrating algorithmic trading for optimized returns."
 ---
 

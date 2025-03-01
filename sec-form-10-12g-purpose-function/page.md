@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 10-12G: Purpose and Function (Algo Trading)"
+title: "SEC Form 10-12G: Purpose and Function"
 description: "Learn about SEC Form 10-12G its role in securities registration and its impact on algo trading providing transparency and compliance in financial markets."
 ---
 

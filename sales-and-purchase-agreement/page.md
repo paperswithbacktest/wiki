@@ -1,5 +1,5 @@
 ---
-title: "Sales and Purchase Agreement (Algo Trading)"
+title: "Sales and Purchase Agreement"
 description: "Discover the essential role Sales and Purchase Agreements play in transactions across various industries including real estate and algorithmic trading."
 ---
 

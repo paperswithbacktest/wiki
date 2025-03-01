@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Navigating Wall Street (Algo Trading)"
+title: "Strategies for Navigating Wall Street"
 description: "Explore algorithmic trading on Wall Street, a cutting-edge investment strategy revolutionizing market dynamics by automating decisions for optimized returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Revenue Recognition in Accounting (Algo Trading)"
+title: "Revenue Recognition in Accounting"
 description: "Discover how revenue recognition principles and algorithmic trading intersect to boost efficiency and compliance in financial operations. Explore synergies today."
 ---
 

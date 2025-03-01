@@ -1,5 +1,5 @@
 ---
-title: "Value Trap and Avoidance Strategies (Algo Trading)"
+title: "Value Trap and Avoidance Strategies"
 description: "Explore strategies to avoid value traps in investing, enhance risk management, and leverage algorithmic trading for better decision-making in complex markets."
 ---
 

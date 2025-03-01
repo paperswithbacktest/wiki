@@ -1,5 +1,5 @@
 ---
-title: "Net Volume Measurement (Algo Trading)"
+title: "Net Volume Measurement"
 description: "Understand net volume measurement and algorithmic trading essential for market success Analyze market trends using volume indicators to make informed trading decisions."
 ---
 

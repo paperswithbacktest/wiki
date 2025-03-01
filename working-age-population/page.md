@@ -1,5 +1,5 @@
 ---
-title: "Working-Age Population (Algo Trading)"
+title: "Working-Age Population"
 description: "Explore the intersection of demographics, labor markets, and algorithmic trading to understand how working-age population dynamics influence economic trends and trading strategies."
 ---
 

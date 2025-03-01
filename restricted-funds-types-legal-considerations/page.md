@@ -1,5 +1,5 @@
 ---
-title: "Restricted Funds: Types and Legal Considerations (Algo Trading)"
+title: "Restricted Funds: Types and Legal Considerations"
 description: "Explore the interplay between restricted funds and algorithmic trading in financial markets Understand legal intricacies and regulatory challenges for fund management"
 ---
 

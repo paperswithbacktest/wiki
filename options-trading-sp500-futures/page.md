@@ -1,5 +1,5 @@
 ---
-title: "Options Trading on S&P 500 Futures (Algo Trading)"
+title: "Options Trading on S&P 500 Futures"
 description: "Explore options trading on S&P 500 futures and discover how algorithmic trading enhances efficiency, precision, and strategic market engagement for investors."
 ---
 

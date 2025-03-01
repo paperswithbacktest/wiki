@@ -1,5 +1,5 @@
 ---
-title: "Overview of BitMEX (Algo Trading)"
+title: "Overview of BitMEX"
 description: "Explore BitMEX's advanced algorithmic trading features for cryptocurrency. Discover tools for portfolio management, swift trades, and maximizing returns efficiently."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Women's Investment Mindset Shift (Algo Trading)"
+title: "Women's Investment Mindset Shift"
 description: "Explore the transformative shift in women's investment mindset, driven by algorithmic trading and empowerment, reshaping financial independence and market impact."
 ---
 

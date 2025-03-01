@@ -1,5 +1,5 @@
 ---
-title: "Negative Effects of Low Unemployment (Algo Trading)"
+title: "Negative Effects of Low Unemployment"
 description: "Explore the unexpected challenges low unemployment imposes on economic stability and algorithmic trading, revealing complex market dynamics and trading strategies."
 ---
 

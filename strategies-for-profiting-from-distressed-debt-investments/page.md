@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Profiting From Distressed Debt Investments (Algo Trading)"
+title: "Strategies for Profiting From Distressed Debt Investments"
 description: "Explore profitable strategies for distressed debt investments utilizing algorithmic trading to enhance efficiency and precision in corporate bond markets."
 ---
 

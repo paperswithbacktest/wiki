@@ -1,5 +1,5 @@
 ---
-title: "Using Open Interest for Bull and Bear Market Signals (Algo Trading)"
+title: "Using Open Interest for Bull and Bear Market Signals"
 description: "Unlock insights from open interest for algorithmic trading by identifying bull and bear signals to craft informed strategies in volatile financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Regulatory arbitrage (Algo Trading)"
+title: "Regulatory arbitrage"
 description: "Explore the dynamics of regulatory arbitrage and algorithmic trading and their impact on modern financial markets while balancing innovation with regulations."
 ---
 

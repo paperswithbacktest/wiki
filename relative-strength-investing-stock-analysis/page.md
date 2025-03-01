@@ -1,5 +1,5 @@
 ---
-title: "Relative Strength in Investing and Stock Analysis (Algo Trading)"
+title: "Relative Strength in Investing and Stock Analysis"
 description: "Unlock enhanced investment strategies with relative strength stock analysis and algorithmic trading. Discover how technology revolutionizes trading efficiency and returns."
 ---
 

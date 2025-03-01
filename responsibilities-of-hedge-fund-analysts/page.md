@@ -1,5 +1,5 @@
 ---
-title: "Responsibilities of Hedge Fund Analysts (Algo Trading)"
+title: "Responsibilities of Hedge Fund Analysts"
 description: "Explore the critical role of hedge fund analysts in identifying investment opportunities and the impact of algorithmic trading on fund performance."
 ---
 

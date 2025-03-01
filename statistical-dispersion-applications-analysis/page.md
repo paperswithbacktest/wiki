@@ -1,5 +1,5 @@
 ---
-title: "Statistical Dispersion: Applications and Analysis (Algo Trading)"
+title: "Statistical Dispersion: Applications and Analysis"
 description: "Explore how statistical dispersion informs algorithmic trading strategies Optimize trading decisions by analyzing data variability and market volatility for enhanced returns"
 ---
 

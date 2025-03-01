@@ -1,5 +1,5 @@
 ---
-title: "Review of Interactive Advisors (Algo Trading)"
+title: "Review of Interactive Advisors"
 description: "Review Interactive Advisors' automated investing platform to explore its range of portfolios and innovative features like tax-loss harvesting and socially responsible investing."
 ---
 

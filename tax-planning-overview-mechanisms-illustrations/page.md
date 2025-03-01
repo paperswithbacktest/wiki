@@ -1,5 +1,5 @@
 ---
-title: "Tax Planning: Overview, Mechanisms, and Illustrations (Algo Trading)"
+title: "Tax Planning: Overview, Mechanisms, and Illustrations"
 description: "Explore the synergy between tax planning and algorithmic trading to optimize financial strategies reduce liabilities and boost wealth in a complex economy."
 ---
 

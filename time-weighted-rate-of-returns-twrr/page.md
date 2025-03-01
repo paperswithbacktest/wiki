@@ -1,5 +1,5 @@
 ---
-title: "Time-weighted rate of returns (TWRR) (Algo Trading)"
+title: "Time-weighted rate of returns (TWRR)"
 description: Discover the significance of the Time-Weighted Rate of Return (TWRR) in algorithmic trading. This metric offers a precise evaluation of investment performance by isolating the growth trajectory from external cash flows, providing a clearer understanding of an investment manager's efficacy. Ideal for traders and investors, TWRR enhances decision-making through its ability to assess the intrinsic results of a trading strategy without distortions from cash inflows and outflows. Explore how TWRR stands against other metrics, its calculation, and its application, equipping you with insights for improved strategic planning.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Target-Date Fund: Risk Tolerance and Example (Algo Trading)"
+title: "Target-Date Fund: Risk Tolerance and Example"
 description: "Discover how target-date funds and algorithmic trading offer unique strategies for aligning investment choices with risk tolerance and long-term financial goals. Explore the characteristics and advantages of these two approaches: target-date funds for hands-off management through various life stages and algorithmic trading for high-risk high-reward scenarios. This guide helps investors understand risk management in their portfolios to optimize growth and security."
 ---
 

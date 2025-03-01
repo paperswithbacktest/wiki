@@ -1,5 +1,5 @@
 ---
-title: "Myanmar Kyat: History and Economic Instability (Algo Trading)"
+title: "Myanmar Kyat: History and Economic Instability"
 description: "Explore the Myanmar Kyat's rich history and economic instability influenced by both traditional factors and modern algorithmic trading dynamics."
 ---
 

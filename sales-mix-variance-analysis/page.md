@@ -1,5 +1,5 @@
 ---
-title: "Sales Mix Variance Analysis (Algo Trading)"
+title: "Sales Mix Variance Analysis"
 description: "Explore the impact of sales mix variance and its role in algorithmic trading Discover how variance analysis informs strategic financial decisions and optimizes trading strategies"
 ---
 

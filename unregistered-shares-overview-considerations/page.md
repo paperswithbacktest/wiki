@@ -1,5 +1,5 @@
 ---
-title: "Unregistered Shares: Overview and Considerations (Algo Trading)"
+title: "Unregistered Shares: Overview and Considerations"
 description: "Explore the dynamics of unregistered shares in algo trading Understand how private securities and regulatory frameworks shape market liquidity and investor opportunities"
 ---
 

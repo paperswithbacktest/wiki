@@ -1,5 +1,5 @@
 ---
-title: "Shadow Banking System (Algo Trading)"
+title: "Shadow Banking System"
 description: "Explore the shadow banking system and its role in global finance including its relationship with algorithmic trading and potential impact on financial stability."
 ---
 

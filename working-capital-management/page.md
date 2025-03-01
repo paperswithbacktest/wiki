@@ -1,5 +1,5 @@
 ---
-title: "Working Capital Management (Algo Trading)"
+title: "Working Capital Management"
 description: "Explore the intersection of financial management working capital and algorithmic trading to develop an effective business strategy. Understand the importance of managing business finances covering strategic planning liquidity and optimization for competitive advantage."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Warrants and Call Options (Algo Trading)"
+title: "Warrants and Call Options"
 description: "Explore the intricacies of warrants and call options in algo trading with insights into their strategic uses, differences, and the role of algorithmic systems."
 ---
 

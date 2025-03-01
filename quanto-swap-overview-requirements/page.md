@@ -1,5 +1,5 @@
 ---
-title: "Quanto Swap: Overview and Requirements (Algo Trading)"
+title: "Quanto Swap: Overview and Requirements"
 description: "Explore the intricacies of quanto swaps, advanced financial derivatives that facilitate currency risk management and access to foreign interest rates in global markets."
 ---
 

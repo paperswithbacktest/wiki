@@ -1,5 +1,5 @@
 ---
-title: "Potash: Uses, Market, Reserves, and Production (Algo Trading)"
+title: "Potash: Uses, Market, Reserves, and Production"
 description: "Explore the significance of potash in agriculture and trading markets with insights into its production and the role of algorithmic trading in this essential sector."
 ---
 

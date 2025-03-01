@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Michigan Consumer Sentiment Index (Algo Trading)"
+title: "Understanding the Michigan Consumer Sentiment Index"
 description: "Discover the essential role of the Michigan Consumer Sentiment Index in economic analysis and algorithmic trading strategies, impacting market dynamics and investment decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Revenue Agent Responsibilities and Requirements (Algo Trading)"
+title: "Revenue Agent Responsibilities and Requirements"
 description: "Explore the complex role of revenue agents in algorithmic trading tax compliance Understand responsibilities skills and requirements in this evolving field"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Negative Economic Growth and Its Impact (Algo Trading)"
+title: "Negative Economic Growth and Its Impact"
 description: "Explore how negative economic growth and algorithmic trading intersect shaping financial markets and global economies with complex challenges and opportunities."
 ---
 

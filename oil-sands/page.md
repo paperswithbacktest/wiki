@@ -1,5 +1,5 @@
 ---
-title: "Oil Sands (Algo Trading)"
+title: "Oil Sands"
 description: "Explore the impact of oil sands on the global energy market and how algorithmic trading enhances its economic viability while addressing environmental concerns."
 ---
 

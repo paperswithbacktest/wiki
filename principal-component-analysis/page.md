@@ -1,5 +1,5 @@
 ---
-title: "Principal Component Analysis (Algo Trading)"
+title: "Principal Component Analysis"
 description: "Leverage Principal Component Analysis (PCA) in algorithmic trading to reduce data complexity while maintaining key patterns for more robust and efficient strategies."
 ---
 

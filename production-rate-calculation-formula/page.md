@@ -1,5 +1,5 @@
 ---
-title: "Production Rate and Calculation Formula (Algo Trading)"
+title: "Production Rate and Calculation Formula"
 description: "Discover how manufacturing efficiency principles boost algorithmic trading performance. Learn key metrics to enhance productivity and optimize operations."
 ---
 

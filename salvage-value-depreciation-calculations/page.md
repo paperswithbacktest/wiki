@@ -1,5 +1,5 @@
 ---
-title: "Salvage Value in Depreciation Calculations (Algo Trading)"
+title: "Salvage Value in Depreciation Calculations"
 description: "Explore the integration of salvage value in algorithmic trading Enhance your understanding of asset valuation frameworks, depreciation impacts, and trading accuracy."
 ---
 

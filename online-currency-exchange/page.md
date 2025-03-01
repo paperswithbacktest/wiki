@@ -1,5 +1,5 @@
 ---
-title: "Online Currency Exchange (Algo Trading)"
+title: "Online Currency Exchange"
 description: "Explore the transformative power of online currency exchange and trading platforms Learn how digital currencies and algorithmic trading redefine financial markets"
 ---
 

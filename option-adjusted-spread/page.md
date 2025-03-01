@@ -1,5 +1,5 @@
 ---
-title: "Option-adjusted spread (Algo Trading)"
+title: "Option-adjusted spread"
 description: "Explore the significance of Option-Adjusted Spread in algorithmic trading for insights into risk-adjusted returns and dynamic evaluation of bonds with embedded options."
 ---
 

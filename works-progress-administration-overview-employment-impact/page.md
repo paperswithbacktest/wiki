@@ -1,5 +1,5 @@
 ---
-title: "Works Progress Administration: Overview and Employment Impact (Algo Trading)"
+title: "Works Progress Administration: Overview and Employment Impact"
 description: "Discover how the Works Progress Administration (WPA) shaped U.S. employment during the Great Depression with innovative public works projects that provided job relief and modernized infrastructure. Explore parallels between the WPA's impact and the role of algorithmic trading in today's financial market. This article connects historic economic recovery strategies with modern technological solutions, highlighting transformations from manual labor to automation in addressing economic challenges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Regulation AA: Overview and Prohibited Practices (Algo Trading)"
+title: "Regulation AA: Overview and Prohibited Practices"
 description: "Explore Regulation AA's role in shaping fair practices against deceptive acts in banking and its enduring impact on algorithmic trading regulations."
 ---
 

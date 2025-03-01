@@ -1,5 +1,5 @@
 ---
-title: "Non-Issuer Transaction and Its Types (Algo Trading)"
+title: "Non-Issuer Transaction and Its Types"
 description: "Explore the key aspects of non-issuer transactions in secondary markets Learn how these transactions enhance liquidity and price discovery and the role of algorithmic trading in improving market efficiency"
 ---
 

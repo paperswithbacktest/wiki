@@ -1,5 +1,5 @@
 ---
-title: "Operating Margin and Calculation Formula (Algo Trading)"
+title: "Operating Margin and Calculation Formula"
 description: "Explore the significance of operating margin in financial analysis and how it aids algorithmic trading by assessing company's operational efficiency and cost management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Quiet Title Action (Algo Trading)"
+title: "Quiet Title Action"
 description: "Explore the convergence of real estate law and algorithmic trading in property investments Learn how quiet title actions resolve ownership disputes to enhance investment strategies"
 ---
 

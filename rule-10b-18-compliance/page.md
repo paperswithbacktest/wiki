@@ -1,5 +1,5 @@
 ---
-title: "Rule 10b-18 and Compliance (Algo Trading)"
+title: "Rule 10b-18 and Compliance"
 description: "Explore Rule 10b-18 and its impact on stock buyback compliance. Discover how algorithmic trading integrates with this SEC rule to ensure market fairness."
 ---
 

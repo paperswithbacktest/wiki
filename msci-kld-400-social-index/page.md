@@ -1,5 +1,5 @@
 ---
-title: "MSCI KLD 400 Social Index (Algo Trading)"
+title: "MSCI KLD 400 Social Index"
 description: "Explore the MSCI KLD 400 Social Index and the role of algorithmic trading in advancing sustainable investing strategies that align with ESG principles."
 ---
 

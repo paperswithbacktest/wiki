@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators for Binary Options (Algo Trading)"
+title: "Technical Indicators for Binary Options"
 description: "Enhance your binary options trading with this guide on technical indicators and algo trading Discover strategies for consistent success and reduced emotional bias"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Performance-Based Index (Algo Trading)"
+title: "Performance-Based Index"
 description: "Explore the synergy between financial index investment and algorithmic trading to optimize strategies and achieve superior trading performance."
 ---
 

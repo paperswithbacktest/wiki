@@ -1,5 +1,5 @@
 ---
-title: "Successful Efforts and Full Cost Accounting (Algo Trading)"
+title: "Successful Efforts and Full Cost Accounting"
 description: "Explore the impact of Successful Efforts and Full Cost accounting on financial reporting in the oil and gas sector and its influence on algorithmic trading strategies."
 ---
 

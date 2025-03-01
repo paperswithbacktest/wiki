@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Trading Regulations (Algo Trading)"
+title: "Mutual Fund Trading Regulations"
 description: "Explore mutual fund and algorithmic trading regulations impacting investment strategies Learn how trading rules protect investors and ensure market integrity"
 ---
 

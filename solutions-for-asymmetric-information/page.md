@@ -1,5 +1,5 @@
 ---
-title: "Solutions for Asymmetric Information (Algo Trading)"
+title: "Solutions for Asymmetric Information"
 description: "Explore solutions for asymmetric information in algorithmic trading to enhance market efficiency and reduce inequalities. Understand the impact of information imbalances in financial transactions, which can lead to adverse selection and moral hazard. Discover how transparency and advanced technologies can help mitigate these challenges, promoting fairer and more balanced trading environments."
 ---
 

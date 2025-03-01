@@ -1,5 +1,5 @@
 ---
-title: "Share Allotment, Share Increases, and Initial Public Offerings (Algo Trading)"
+title: "Share Allotment, Share Increases, and Initial Public Offerings"
 description: "Explore the complexities of IPO share allotment, share increase dynamics, and algorithmic trading impacts to make informed investment decisions in evolving markets."
 ---
 

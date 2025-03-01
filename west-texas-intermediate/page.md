@@ -1,5 +1,5 @@
 ---
-title: "West Texas Intermediate (Algo Trading)"
+title: "West Texas Intermediate"
 description: "Explore how West Texas Intermediate (WTI) crude oil serves as a pivotal benchmark in global commodities markets, with a focus on its role in algorithmic trading. Discover the advantages of using advanced computer programs to automate trading decisions, optimize strategies, and improve outcomes by reducing human error in this dynamic, volatile market. Gain insights into WTI's characteristics, the significance of its pricing in economic contexts, and how algorithmic trading can enhance performance for traders and investors alike."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning (RL) (Algo Trading)"
+title: "Reinforcement Learning (RL)"
 description: "Discover how Reinforcement Learning revolutionizes algorithmic trading by enabling adaptive strategies that optimize decision-making amid market fluctuations."
 ---
 

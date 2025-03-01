@@ -1,5 +1,5 @@
 ---
-title: "Prominent Women Financial Advisors of 2023 (Algo Trading)"
+title: "Prominent Women Financial Advisors of 2023"
 description: "Discover how prominent women financial advisors in 2023 are transforming finance by integrating algorithmic trading Stay informed on innovative practices and trends"
 ---
 

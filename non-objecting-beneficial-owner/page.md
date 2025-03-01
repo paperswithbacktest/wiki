@@ -1,5 +1,5 @@
 ---
-title: "Non-Objecting Beneficial Owner (Algo Trading)"
+title: "Non-Objecting Beneficial Owner"
 description: "Uncover the strategic advantage of understanding the synergy between Non-Objecting Beneficial Owners and algorithmic trading in modern finance."
 ---
 

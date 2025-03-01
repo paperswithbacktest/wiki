@@ -1,5 +1,5 @@
 ---
-title: "Option-Adjusted Spread (OAS) (Algo Trading)"
+title: "Option-Adjusted Spread (OAS)"
 description: "Explore the essential role of Option-Adjusted Spread in algorithmic trading for assessing bond risk-adjusted returns, enhancing strategies with advanced analysis."
 ---
 

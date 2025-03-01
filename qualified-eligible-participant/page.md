@@ -1,5 +1,5 @@
 ---
-title: "Qualified Eligible Participant (Algo Trading)"
+title: "Qualified Eligible Participant"
 description: "Explore the role of Qualified Eligible Participants in algorithmic trading and their access to advanced investment opportunities and regulatory considerations in finance."
 ---
 

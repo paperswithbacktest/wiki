@@ -1,5 +1,5 @@
 ---
-title: "What Happened to the Quants in August 2007? (Algo Trading)"
+title: "What Happened to the Quants in August 2007?"
 description: Explore the dramatic challenges faced by quantitative traders in August 2007, as algorithmic trading strategies met unprecedented disruptions. This article investigates into the events, examining the factors and systemic risks that unfolded during this critical period. It offers insights into the resilience of quant trading, its rise and the lessons learned from the stress test posed by market uncertainties. Discover the underlying causes of this turmoil and the broader implications on financial markets, all while understanding how these events shape the future improvement of algorithmic trading systems.
 ---
 

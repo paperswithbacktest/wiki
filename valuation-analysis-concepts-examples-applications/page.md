@@ -1,5 +1,5 @@
 ---
-title: "Valuation Analysis: Concepts, Examples, and Applications (Algo Trading)"
+title: "Valuation Analysis: Concepts, Examples, and Applications"
 description: "Explore financial valuation concepts and algorithmic trading strategies to optimize investment decisions. Learn techniques for assessing and enhancing asset value."
 ---
 

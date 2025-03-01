@@ -1,5 +1,5 @@
 ---
-title: "Noncurrent Assets: Types and Accounting Practices (Algo Trading)"
+title: "Noncurrent Assets: Types and Accounting Practices"
 description: "Explore the vital role of noncurrent assets and algorithmic trading in financial strategy. Learn types, benefits, and accounting practices to optimize returns."
 ---
 

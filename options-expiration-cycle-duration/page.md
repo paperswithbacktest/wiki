@@ -1,5 +1,5 @@
 ---
-title: "Options Expiration Cycle Duration (Algo Trading)"
+title: "Options Expiration Cycle Duration"
 description: "Explore the dynamics of options expiration cycles in derivatives trading. Discover how algorithmic strategies enhance timing and decision-making for optimized returns."
 ---
 

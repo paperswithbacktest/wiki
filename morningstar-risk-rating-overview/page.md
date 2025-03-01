@@ -1,5 +1,5 @@
 ---
-title: "Morningstar Risk Rating Overview (Algo Trading)"
+title: "Morningstar Risk Rating Overview"
 description: "Explore the synergy between Morningstar's risk ratings and algorithmic trading, essential tools for balancing risk and returns in evolving investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Storj and Its Use Cases (Algo Trading)"
+title: "Storj and Its Use Cases"
 description: "Storj offers decentralized data storage using blockchain technology, enhancing security and privacy compared to traditional cloud systems while enabling cryptocurrency trading."
 ---
 

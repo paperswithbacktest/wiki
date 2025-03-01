@@ -1,5 +1,5 @@
 ---
-title: "Regulation F Overview and Requirements (Algo Trading)"
+title: "Regulation F Overview and Requirements"
 description: "Explore the intersection of Regulation F and algorithmic trading in financial markets. Learn about consumer protection compliance and market stability protocols."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Supplemental Liquidity Provider: Overview and Mechanism (Algo Trading)"
+title: "Supplemental Liquidity Provider: Overview and Mechanism"
 description: "Discover how Supplemental Liquidity Providers enhance stock market efficiency through algorithmic trading boosting liquidity and fostering stable trading environments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Role and Significance of the Reserve Bank of India (Algo Trading)"
+title: "Role and Significance of the Reserve Bank of India"
 description: "The Reserve Bank of India regulates algo trading to balance innovation and stability ensuring market integrity and security amidst technological advances."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Why Stocks Drop on the Ex-Dividend Date Explained (Algo Trading)"
+title: "Why Stocks Drop on the Ex-Dividend Date Explained"
 description: Explore the impact of ex-dividend dates on stock prices and how algorithmic trading leverages these predictable movements to optimize returns. Learn why stocks decrease in value by roughly the dividend amount on the ex-dividend date and discover strategies like dividend capture and arbitrage that utilize high-speed data analysis to capitalize on these opportunities while managing associated risks.
 ---
 

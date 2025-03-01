@@ -1,5 +1,5 @@
 ---
-title: "Petro Cryptocurrency: Implications and Concerns (Algo Trading)"
+title: "Petro Cryptocurrency: Implications and Concerns"
 description: "Explore how petroleum-dependent economies can leverage cryptocurrency and algorithmic trading to diversify amid global economic shifts and market volatility."
 ---
 

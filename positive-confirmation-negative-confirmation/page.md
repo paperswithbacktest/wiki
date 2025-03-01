@@ -1,5 +1,5 @@
 ---
-title: "Positive Confirmation and Negative Confirmation (Algo Trading)"
+title: "Positive Confirmation and Negative Confirmation"
 description: "In algorithmic trading positive and negative confirmations help validate strategies by verifying signals or identifying discrepancies enhancing trading accuracy and performance."
 ---
 

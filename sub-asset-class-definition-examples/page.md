@@ -1,5 +1,5 @@
 ---
-title: "Sub-Asset Class: Definition and Examples (Algo Trading)"
+title: "Sub-Asset Class: Definition and Examples"
 description: "Explore the power of sub-asset classes and algorithmic trading in investment management. Enhance your portfolio with detailed insights and targeted strategies."
 ---
 

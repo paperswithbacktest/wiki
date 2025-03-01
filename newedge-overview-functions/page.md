@@ -1,5 +1,5 @@
 ---
-title: "Newedge: Overview and Functions (Algo Trading)"
+title: "Newedge: Overview and Functions"
 description: "Explore Newedge's journey into Société Générale, emphasizing its prowess in algorithmic trading and comprehensive brokerage services for institutional clients."
 ---
 

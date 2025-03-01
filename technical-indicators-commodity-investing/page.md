@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators in Commodity Investing (Algo Trading)"
+title: "Technical Indicators in Commodity Investing"
 description: "Explore how technical indicators revolutionize commodity investing by providing insights into market trends and decision-making in algo trading. Discover the synergy between modern investment strategies and technology for improved trading outcomes in volatile markets."
 ---
 

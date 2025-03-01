@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Dividends for Retirement Income (Algo Trading)"
+title: "Utilizing Dividends for Retirement Income"
 description: "Discover how dividend-paying stocks can be a strong foundation for retirement income. Learn how algorithmic trading can optimize portfolios and enhance returns."
 ---
 

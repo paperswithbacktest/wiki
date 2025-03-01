@@ -1,5 +1,5 @@
 ---
-title: "Red Chip Companies: Overview, Advantages, Disadvantages, Requirements (Algo Trading)"
+title: "Red Chip Companies: Overview, Advantages, Disadvantages, Requirements"
 description: "Explore red-chip companies and algorithmic trading in this comprehensive guide Discover how these strategies combine to enhance investment performance and navigate China’s market."
 ---
 

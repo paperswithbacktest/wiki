@@ -1,5 +1,5 @@
 ---
-title: "Review of SoFi Automated Investing for 2024 (Algo Trading)"
+title: "Review of SoFi Automated Investing for 2024"
 description: "Explore SoFi Automated Investing's fee-free model for 2024. Ideal for budget-conscious investors with a low entry barrier. Learn its pros and cons now"
 ---
 

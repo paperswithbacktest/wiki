@@ -1,5 +1,5 @@
 ---
-title: "Sortino Ratio: Formula, Calculation, and Example (Algo Trading)"
+title: "Sortino Ratio: Formula, Calculation, and Example"
 description: "Explore the Sortino Ratio to understand its role in risk-adjusted returns, particularly for risk-averse investors in algorithmic trading focusing on downside risk."
 ---
 

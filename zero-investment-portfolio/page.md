@@ -1,5 +1,5 @@
 ---
-title: "Zero-Investment Portfolio (Algo Trading)"
+title: "Zero-Investment Portfolio"
 description: "Explore zero-investment portfolios and algorithmic trading strategies to optimize returns without initial cash outlay Delve into innovative financial techniques"
 ---
 

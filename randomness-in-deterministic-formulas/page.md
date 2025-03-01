@@ -1,5 +1,5 @@
 ---
-title: "Randomness in Deterministic Formulas (Algo Trading)"
+title: "Randomness in Deterministic Formulas"
 description: "Explore how randomness enhances deterministic formulas in algorithmic trading by improving adaptability and performance in unpredictable financial markets."
 ---
 

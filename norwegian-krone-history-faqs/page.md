@@ -1,5 +1,5 @@
 ---
-title: "Norwegian Krone: History and FAQs (Algo Trading)"
+title: "Norwegian Krone: History and FAQs"
 description: "Discover the evolution and impact of the Norwegian Krone in global financial markets, from historical roots to modern algorithmic trading dynamics."
 ---
 

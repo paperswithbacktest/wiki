@@ -1,5 +1,5 @@
 ---
-title: "SEC Form CB (Algo Trading)"
+title: "SEC Form CB"
 description: "Explore the pivotal role of SEC Form CB in regulating cross-border tender offers and rights offerings while navigating algorithmic trading complexities."
 ---
 

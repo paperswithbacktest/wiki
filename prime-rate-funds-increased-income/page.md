@@ -1,5 +1,5 @@
 ---
-title: "Prime Rate Funds as a Source of Increased Income (Algo Trading)"
+title: "Prime Rate Funds as a Source of Increased Income"
 description: "Boost investment income through prime rate funds and algo trading Learn strategies to optimize portfolios with floating-rate loans and swift trading technology"
 ---
 

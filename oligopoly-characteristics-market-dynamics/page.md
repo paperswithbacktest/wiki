@@ -1,5 +1,5 @@
 ---
-title: "Oligopoly: Characteristics and Market Dynamics (Algo Trading)"
+title: "Oligopoly: Characteristics and Market Dynamics"
 description: "Explore the dynamics of oligopoly markets and the role of algorithmic trading in shaping pricing, competition, and innovation within industries dominated by few firms."
 ---
 

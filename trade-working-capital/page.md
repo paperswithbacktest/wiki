@@ -1,5 +1,5 @@
 ---
-title: "Trade Working Capital (Algo Trading)"
+title: "Trade Working Capital"
 description: "Explore the vital role of trade working capital in business success and learn how its management aids financial decisions and enhances algorithmic trading strategies."
 ---
 

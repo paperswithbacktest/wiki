@@ -1,5 +1,5 @@
 ---
-title: "Ring Trading: Definition and Mechanism (Algo Trading)"
+title: "Ring Trading: Definition and Mechanism"
 description: "Explore the evolution of financial trading with a focus on ring trading's open outcry system and algorithmic trading's efficiency through digital platforms."
 ---
 

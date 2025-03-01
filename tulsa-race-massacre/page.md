@@ -1,5 +1,5 @@
 ---
-title: "Tulsa Race Massacre (Algo Trading)"
+title: "Tulsa Race Massacre"
 description: "Explore the intersection of history and technology discussing the Tulsa Race Massacre's legacy alongside the rise of algorithmic trading reflecting on equity and progress."
 ---
 

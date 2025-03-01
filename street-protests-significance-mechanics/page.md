@@ -1,5 +1,5 @@
 ---
-title: "Street Protests: Significance and Mechanics (Algo Trading)"
+title: "Street Protests: Significance and Mechanics"
 description: "Explore the impact of street protests and algorithmic trading on modern activism highlighting their role in societal change and financial markets dynamics."
 ---
 

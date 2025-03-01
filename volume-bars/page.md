@@ -1,5 +1,5 @@
 ---
-title: "Volume bars (Algo Trading)"
+title: "Volume bars"
 description: Discover how volume bars transform algo trading by prioritizing traded volume over time, offering insights into market dynamics and trading intensity. Learn how these tools refine trading strategies, validate trends, and enhance risk management, providing a competitive edge in evolving financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "PEGY Ratio: Price/Earnings to Growth and Dividend Yield (Algo Trading)"
+title: "PEGY Ratio: Price/Earnings to Growth and Dividend Yield"
 description: "Explore the benefits of using the PEGY ratio in algorithmic trading for a nuanced stock evaluation by balancing growth potential and income generation."
 ---
 

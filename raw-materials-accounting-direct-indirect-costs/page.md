@@ -1,5 +1,5 @@
 ---
-title: "Raw Materials in Accounting: Direct and Indirect Costs (Algo Trading)"
+title: "Raw Materials in Accounting: Direct and Indirect Costs"
 description: "Explore the complexities of cost accounting in algorithmic trading by understanding direct and indirect costs to enhance financial management and profitability."
 ---
 

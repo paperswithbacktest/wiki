@@ -1,5 +1,5 @@
 ---
-title: "Natural Hedge in Business and Finance (Algo Trading)"
+title: "Natural Hedge in Business and Finance"
 description: "Explore natural hedging in business and finance along with algorithmic trading to enhance risk management, reduce costs, and boost financial stability."
 ---
 

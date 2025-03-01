@@ -1,5 +1,5 @@
 ---
-title: "PanAgora (Algo Trading)"
+title: "PanAgora"
 description: "Explore PanAgora's innovative approach to algorithmic trading where cutting-edge technology meets quantitative research for impactful trading strategies."
 ---
 

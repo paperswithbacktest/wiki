@@ -1,5 +1,5 @@
 ---
-title: "Stock Symbol Suffix .PK Meaning (Algo Trading)"
+title: "Stock Symbol Suffix .PK Meaning"
 description: "Discover the meaning of the '.PK' stock symbol suffix and its implications for trading in the decentralized and less regulated OTC markets."
 ---
 

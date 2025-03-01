@@ -1,5 +1,5 @@
 ---
-title: "Top Platform Feeds for Investors (Algo Trading)"
+title: "Top Platform Feeds for Investors"
 description: "Discover top platforms and feeds for investors focused on algo trading Utilize modern investment tools to access real-time data make informed decisions and stay competitive"
 ---
 

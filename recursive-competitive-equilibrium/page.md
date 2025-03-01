@@ -1,5 +1,5 @@
 ---
-title: "Recursive Competitive Equilibrium (Algo Trading)"
+title: "Recursive Competitive Equilibrium"
 description: "Recursive Competitive Equilibrium helps economists model economic dynamics and optimize algorithmic trading decisions by understanding supply-demand balance."
 ---
 

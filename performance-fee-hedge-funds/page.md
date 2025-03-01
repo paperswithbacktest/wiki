@@ -1,5 +1,5 @@
 ---
-title: "Performance Fee in Hedge Funds (Algo Trading)"
+title: "Performance Fee in Hedge Funds"
 description: "Explore performance fees in hedge funds and their impact on investor returns Discover the role of algo trading in optimizing strategies and managing risks"
 ---
 

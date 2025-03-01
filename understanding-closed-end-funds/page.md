@@ -1,5 +1,5 @@
 ---
-title: "Understanding Closed-End Funds (Algo Trading)"
+title: "Understanding Closed-End Funds"
 description: "Explore closed-end funds and algorithmic trading in modern finance. Learn about investment strategies, market dynamics, and enhancing financial literacy."
 ---
 

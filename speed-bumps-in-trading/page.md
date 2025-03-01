@@ -1,5 +1,5 @@
 ---
-title: "Speed Bumps in Trading (Algo Trading)"
+title: "Speed Bumps in Trading"
 description: "Explore how speed bumps in algorithmic trading create fairer markets by mitigating high-frequency trading advantages and promoting stability and liquidity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Optimal Trading Hours for the Euro (Algo Trading)"
+title: "Optimal Trading Hours for the Euro"
 description: "Discover the best Euro trading hours for maximum profit Learn how to leverage algorithmic trading during peak times for improved efficiency and success"
 ---
 

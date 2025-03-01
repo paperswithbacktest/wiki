@@ -1,5 +1,5 @@
 ---
-title: "Student Visa: Overview, Application Process, and Examples (Algo Trading)"
+title: "Student Visa: Overview, Application Process, and Examples"
 description: "Explore the essentials of student visas the application process and how algorithmic trading courses enrich the study abroad experience for international students."
 ---
 

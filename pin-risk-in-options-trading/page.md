@@ -1,5 +1,5 @@
 ---
-title: "Pin Risk in Options Trading (Algo Trading)"
+title: "Pin Risk in Options Trading"
 description: "Explore the complexities of options trading including pin risk and algorithmic trading strategies to manage risks and optimize trading performance."
 ---
 

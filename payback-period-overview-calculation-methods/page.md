@@ -1,5 +1,5 @@
 ---
-title: "Payback Period: Overview and Calculation Methods (Algo Trading)"
+title: "Payback Period: Overview and Calculation Methods"
 description: "Discover how the payback period metric aids in rapid assessment of investment recovery in algorithmic trading and enhances financial strategy evaluation."
 ---
 

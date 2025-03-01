@@ -1,5 +1,5 @@
 ---
-title: "Orange Book Overview and Functionality (Algo Trading)"
+title: "Orange Book Overview and Functionality"
 description: "Explore the critical role of FDA's Orange Book in the pharmaceutical and financial sectors learn how drug approvals impact markets and guide investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "PGIM Quant Solutions (Algo Trading)"
+title: "PGIM Quant Solutions"
 description: "Discover how PGIM Quant Solutions leverages AI and machine learning in algorithmic trading to enhance asset management efficiency and set new industry standards."
 ---
 

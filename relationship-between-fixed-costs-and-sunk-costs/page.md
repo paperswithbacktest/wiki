@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Fixed Costs and Sunk Costs (Algo Trading)"
+title: "Relationship Between Fixed Costs and Sunk Costs"
 description: "Explore the crucial relationship between sunk and fixed costs in algorithmic trading and learn how understanding these can optimize trading strategies and improve profitability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Patrick C. Lothian (Algo Trading)"
+title: "Patrick C. Lothian"
 description: "Explore Patrick Lothian's fusion of media production and algorithmic trading. Discover his career achievements and contributions to finance and creative media."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "NYSE Arca Gold BUGS Index Overview (Algo Trading)"
+title: "NYSE Arca Gold BUGS Index Overview"
 description: "Explore the NYSE Arca Gold BUGS Index, a key tool for investors in gold mining companies with minimal hedging, and learn about algo trading advantages."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Three White Soldiers Candlestick Pattern in Trading (Algo Trading)"
+title: "Three White Soldiers Candlestick Pattern in Trading"
 description: "Discover how the Three White Soldiers candlestick pattern can signal bullish market reversals in trading and enhance algorithms for better decision-making."
 ---
 

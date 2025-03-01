@@ -1,5 +1,5 @@
 ---
-title: "TAAPS: Overview, Functionality, and Advantages (Algo Trading)"
+title: "TAAPS: Overview, Functionality, and Advantages"
 description: "Explore the advantages of integrating TAAPS with algorithmic trading to boost execution speed, reduce costs, and enhance accuracy in Treasury securities markets"
 ---
 

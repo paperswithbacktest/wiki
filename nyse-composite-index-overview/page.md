@@ -1,5 +1,5 @@
 ---
-title: "NYSE Composite Index Overview (Algo Trading)"
+title: "NYSE Composite Index Overview"
 description: "Explore the relationship between the NYSE Composite Index and algorithmic trading Discover how tech advances implement swift efficient trades in dynamic markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Finance Reading List (Algo Trading)"
+title: "Quantitative Finance Reading List"
 description: Explore a comprehensive selection of books essential for mastering algorithmic trading and quantitative finance. Discover key concepts such as mathematical models, statistical techniques, and programming skills vital for developing advanced trading strategies. Enhance your expertise with resources that provide in-depth knowledge and practical application to thrive in the competitive financial markets.
 ---
 

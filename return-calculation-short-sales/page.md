@@ -1,5 +1,5 @@
 ---
-title: "Return Calculation on Short Sales (Algo Trading)"
+title: "Return Calculation on Short Sales"
 description: "Explore how short sales in algorithmic trading offer profit from market declines by borrowing and selling securities with advanced strategies and precision execution."
 ---
 

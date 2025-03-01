@@ -1,5 +1,5 @@
 ---
-title: "Price Band: Definition and Functionality with Example (Algo Trading)"
+title: "Price Band: Definition and Functionality with Example"
 description: "Discover the essential role of price bands and algorithmic trading in financial markets Learn how these tools optimize trading strategies and manage volatility effectively"
 ---
 

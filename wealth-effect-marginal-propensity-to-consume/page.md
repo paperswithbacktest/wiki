@@ -1,5 +1,5 @@
 ---
-title: "Wealth Effect and Marginal Propensity to Consume (Algo Trading)"
+title: "Wealth Effect and Marginal Propensity to Consume"
 description: "Explore the relationship between Marginal Propensity to Consume wealth effect and algo trading to understand modern economic dynamics and market influences."
 ---
 

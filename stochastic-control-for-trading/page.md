@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Control for Trading (Algo Trading)"
+title: "Stochastic Control for Trading"
 description: "Explore stochastic control in algorithmic trading and its role in optimizing strategies for market volatility. Enhance decision-making in financial trading."
 ---
 

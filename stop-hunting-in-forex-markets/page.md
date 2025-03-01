@@ -1,5 +1,5 @@
 ---
-title: "Stop Hunting in Forex Markets (Algo Trading)"
+title: "Stop Hunting in Forex Markets"
 description: "Explore the dynamics of stop hunting in forex markets and the role of algorithmic trading in this strategy Learn how traders can mitigate associated risks"
 ---
 

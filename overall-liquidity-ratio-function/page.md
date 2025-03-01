@@ -1,5 +1,5 @@
 ---
-title: "Overall Liquidity Ratio and Its Function (Algo Trading)"
+title: "Overall Liquidity Ratio and Its Function"
 description: "Discover the essential role of liquidity ratios in financial health and algo trading. Learn how businesses analyze these metrics to navigate market challenges."
 ---
 

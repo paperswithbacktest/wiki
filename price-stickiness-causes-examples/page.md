@@ -1,5 +1,5 @@
 ---
-title: "Price Stickiness: Causes and Examples (Algo Trading)"
+title: "Price Stickiness: Causes and Examples"
 description: "Explore the concept of price stickiness and its implications in economic theory and algorithmic trading Discover how resistance to price changes affects markets."
 ---
 

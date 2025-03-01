@@ -1,5 +1,5 @@
 ---
-title: "Overview of Major Mid-Cap Financial Companies (Algo Trading)"
+title: "Overview of Major Mid-Cap Financial Companies"
 description: "Explore successful mid-cap financial companies in algo trading with growth potential and stability. Discover top stocks and trading strategies for optimal investment."
 ---
 

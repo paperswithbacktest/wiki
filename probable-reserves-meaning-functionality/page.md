@@ -1,5 +1,5 @@
 ---
-title: "Probable Reserves: Meaning and Functionality (Algo Trading)"
+title: "Probable Reserves: Meaning and Functionality"
 description: "Discover how probable reserves and algorithmic trading intersect to enhance mining investment strategies Learn how these elements drive economic viability and growth"
 ---
 

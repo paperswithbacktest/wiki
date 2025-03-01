@@ -1,5 +1,5 @@
 ---
-title: "OTCQX: Stock Criteria and Market Tiers (Algo Trading)"
+title: "OTCQX: Stock Criteria and Market Tiers"
 description: "Explore the elite OTCQX market tier for diverse investing opportunities. Discover how algorithmic trading enhances efficiency in this unique trading platform."
 ---
 

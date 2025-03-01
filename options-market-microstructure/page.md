@@ -1,5 +1,5 @@
 ---
-title: "Options Market Microstructure (Algo Trading)"
+title: "Options Market Microstructure"
 description: "Explore the options market microstructure and algorithmic trading strategies that optimize trade execution and enhance market performance."
 ---
 

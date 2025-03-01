@@ -1,5 +1,5 @@
 ---
-title: "Vanguard's Patented Tax Avoidance System for Mutual Funds (Algo Trading)"
+title: "Vanguard's Patented Tax Avoidance System for Mutual Funds"
 description: "Discover how Vanguard's innovative tax avoidance strategy for mutual funds and ETFs minimizes capital gains taxes to enhance investor returns effectively."
 ---
 

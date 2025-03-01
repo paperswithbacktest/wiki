@@ -1,5 +1,5 @@
 ---
-title: "Trust Preferred Securities: Overview and Mechanism (Algo Trading)"
+title: "Trust Preferred Securities: Overview and Mechanism"
 description: "Explore the sophisticated world of Trust Preferred Securities the hybrid financial instruments reshaping capital strategies with algorithmic trading advancements."
 ---
 

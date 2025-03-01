@@ -1,5 +1,5 @@
 ---
-title: "Smart Assets: Overview and Functionality (Algo Trading)"
+title: "Smart Assets: Overview and Functionality"
 description: "Explore the transformative world of digital assets with blockchain technology smart assets and algorithmic trading revolutionizing modern finance and investment."
 ---
 

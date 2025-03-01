@@ -1,5 +1,5 @@
 ---
-title: "POV (Percentage of Volume) (Algo Trading)"
+title: "POV (Percentage of Volume)"
 description: "Explore the Percentage of Volume algorithm to optimize trades by aligning with market volume fluctuations and minimize impact in algorithmic trading strategies."
 ---
 

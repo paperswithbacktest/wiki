@@ -1,5 +1,5 @@
 ---
-title: "Two-Way Quote: Functionality and Types (Algo Trading)"
+title: "Two-Way Quote: Functionality and Types"
 description: "Discover the essentials of two-way quotes in algorithmic trading. Learn how bid and ask prices reveal market liquidity, helping traders make informed decisions."
 ---
 

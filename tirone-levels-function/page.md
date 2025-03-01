@@ -1,5 +1,5 @@
 ---
-title: "Tirone Levels and Their Function (Algo Trading)"
+title: "Tirone Levels and Their Function"
 description: "Explore the fundamentals of Tirone Levels in algorithmic trading, uncovering how these unique indicators identify key support and resistance areas for optimal decision-making."
 ---
 

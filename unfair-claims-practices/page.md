@@ -1,5 +1,5 @@
 ---
-title: "Unfair Claims Practices (Algo Trading)"
+title: "Unfair Claims Practices"
 description: "Explore how unfair claims practices and algorithmic trading intersect influencing financial fairness. Understand challenges and regulatory efforts shaping these sectors."
 ---
 

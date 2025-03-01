@@ -1,5 +1,5 @@
 ---
-title: "reinforcement learning in finance (Algo Trading)"
+title: "reinforcement learning in finance"
 description: "Explore the transformative role of reinforcement learning in algorithmic trading offering adaptive strategies for dynamic financial markets and optimized decision-making."
 ---
 

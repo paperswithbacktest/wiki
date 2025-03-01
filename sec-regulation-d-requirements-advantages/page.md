@@ -1,5 +1,5 @@
 ---
-title: "SEC Regulation D: Requirements and Advantages (Algo Trading)"
+title: "SEC Regulation D: Requirements and Advantages"
 description: "Learn about SEC Regulation D a key regulation for raising capital through private placements in algo trading without SEC registration burdens."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Python Trading Library (Algo Trading)"
+title: "Python Trading Library"
 description: Explore the use of Python in algorithmic trading as this article investigates into creating and optimizing trading strategies with ease. Python stands out in the financial industry due to its simplicity, versatility, and rich library ecosystem, making it accessible for developers and traders to build complex algorithms. Benefit from Python's seamless integration with financial platforms, allowing access to vital real-time and historical data. Discover how essential libraries like Pandas, NumPy, and Matplotlib aid in data manipulation, computation, and visualization to refine trading strategies and boost returns. Whether you are a beginner or seasoned trader, enhance your skills with Python's capabilities for data-driven decision-making in algorithmic trading.
 ---
 

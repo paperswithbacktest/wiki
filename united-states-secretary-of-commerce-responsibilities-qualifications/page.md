@@ -1,5 +1,5 @@
 ---
-title: "United States Secretary of Commerce: Responsibilities and Qualifications (Algo Trading)"
+title: "United States Secretary of Commerce: Responsibilities and Qualifications"
 description: "Explore the pivotal role of the US Secretary of Commerce in shaping economic policy and technology's intersection, with a focus on algorithmic trading."
 ---
 

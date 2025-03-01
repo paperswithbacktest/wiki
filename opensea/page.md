@@ -1,5 +1,5 @@
 ---
-title: "OpenSea (Algo Trading)"
+title: "OpenSea"
 description: "Explore the world of NFTs and algorithmic trading on OpenSea a leading decentralized marketplace where you can buy sell and trade unique digital assets."
 ---
 

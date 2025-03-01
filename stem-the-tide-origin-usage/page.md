@@ -1,5 +1,5 @@
 ---
-title: "Stem The Tide: Origin And Usage (Algo Trading)"
+title: "Stem The Tide: Origin And Usage"
 description: "Explore the intersection of language and finance with this deep dive into idioms like 'stem the tide' and their relevance in algorithmic trading strategies."
 ---
 

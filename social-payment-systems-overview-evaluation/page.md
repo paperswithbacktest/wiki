@@ -1,5 +1,5 @@
 ---
-title: "Social Payment Systems: Overview and Evaluation (Algo Trading)"
+title: "Social Payment Systems: Overview and Evaluation"
 description: "Explore social payment systems and algorithmic trading in finance Discover how these technologies empower transactions and optimize trading efficiencies"
 ---
 

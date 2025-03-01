@@ -1,5 +1,5 @@
 ---
-title: "Short Date Forward Contracts (Algo Trading)"
+title: "Short Date Forward Contracts"
 description: "Explore short date forward contracts and their integration with algorithmic trading Learn how these financial instruments enhance market efficiency and risk management"
 ---
 

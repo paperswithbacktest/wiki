@@ -1,5 +1,5 @@
 ---
-title: "Role of Swap Markets in Finance (Algo Trading)"
+title: "Role of Swap Markets in Finance"
 description: "Explore the complexities of swap markets in finance and discover how algorithmic trading is transforming risk management and speculative strategies."
 ---
 

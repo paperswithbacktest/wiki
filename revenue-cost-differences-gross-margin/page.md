@@ -1,5 +1,5 @@
 ---
-title: "Revenue and Cost Differences in Gross Margin (Algo Trading)"
+title: "Revenue and Cost Differences in Gross Margin"
 description: "Explore the synergy of gross margin and algorithmic trading to drive profitability by analyzing revenue and costs for optimized trading strategies."
 ---
 

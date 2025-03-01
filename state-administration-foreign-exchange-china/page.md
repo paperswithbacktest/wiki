@@ -1,5 +1,5 @@
 ---
-title: "State Administration of Foreign Exchange of China (Algo Trading)"
+title: "State Administration of Foreign Exchange of China"
 description: "Explore China's financial growth via the State Administration of Foreign Exchange and algorithmic trading Learn about global impacts and regulatory insights here"
 ---
 

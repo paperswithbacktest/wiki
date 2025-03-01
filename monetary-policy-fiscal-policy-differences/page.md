@@ -1,5 +1,5 @@
 ---
-title: "Monetary Policy and Fiscal Policy: Key Differences (Algo Trading)"
+title: "Monetary Policy and Fiscal Policy: Key Differences"
 description: "Explore the distinctions between monetary and fiscal policy and their impacts on algorithmic trading. Understand how these economic strategies interact in a globalized economy."
 ---
 

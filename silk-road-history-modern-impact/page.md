@@ -1,5 +1,5 @@
 ---
-title: "Silk Road: History and Modern Impact (Algo Trading)"
+title: "Silk Road: History and Modern Impact"
 description: "Explore the enduring influence of the Silk Road on modern trade by examining its historical role and the evolution of algorithmic trading practices today."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Swing Trading Overview (Algo Trading)"
+title: "Swing Trading Overview"
 description: "Discover how swing trading strategies, bolstered by algorithmic tools, capitalize on market fluctuations for optimal returns in short to medium timeframes."
 ---
 

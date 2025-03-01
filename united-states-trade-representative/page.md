@@ -1,5 +1,5 @@
 ---
-title: "United States Trade Representative (Algo Trading)"
+title: "United States Trade Representative"
 description: "Explore the intersection of U.S. trade policies by the USTR and algorithmic trading to understand their impact on economic growth and global competitiveness."
 ---
 

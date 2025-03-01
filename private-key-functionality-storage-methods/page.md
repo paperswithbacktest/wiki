@@ -1,5 +1,5 @@
 ---
-title: "Private Key: Functionality and Storage Methods (Algo Trading)"
+title: "Private Key: Functionality and Storage Methods"
 description: "Explore the critical role of private keys in cryptographic security and algorithmic trading Discover secure storage methods to protect digital assets and strategies"
 ---
 

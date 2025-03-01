@@ -1,5 +1,5 @@
 ---
-title: "Naked Position in Options Trading (Algo Trading)"
+title: "Naked Position in Options Trading"
 description: "Explore the dynamics of naked positions in options trading and learn how algorithmic strategies can optimize these high-risk, potentially lucrative ventures."
 ---
 

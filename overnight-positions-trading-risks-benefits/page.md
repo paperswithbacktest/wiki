@@ -1,5 +1,5 @@
 ---
-title: "Overnight Positions in Trading: Risks and Benefits (Algo Trading)"
+title: "Overnight Positions in Trading: Risks and Benefits"
 description: "Explore the risks and benefits of overnight position trading and algorithmic trading in financial markets. Learn how to optimize strategies for better returns."
 ---
 

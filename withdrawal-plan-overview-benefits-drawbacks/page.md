@@ -1,5 +1,5 @@
 ---
-title: "Withdrawal Plan: Overview, Benefits, and Drawbacks (Algo Trading)"
+title: "Withdrawal Plan: Overview, Benefits, and Drawbacks"
 description: "Explore withdrawal strategies in retirement planning and learn how algorithmic trading can enhance decision-making for a sustainable income flow."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Overview of Binance in 2024 (Algo Trading)"
+title: "Overview of Binance in 2024"
 description: "Explore Binance's 2024 offerings in algorithmic trading The platform's advanced tools enable traders to optimize strategies in the fast-paced crypto market"
 ---
 

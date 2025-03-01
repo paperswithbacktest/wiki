@@ -1,5 +1,5 @@
 ---
-title: "Percentage of Global Money in Bitcoin (Algo Trading)"
+title: "Percentage of Global Money in Bitcoin"
 description: "Explore the impact of Bitcoin in global finance with insights into its algorithmic trading involvement scarcity-driven value and potential as a global currency."
 ---
 

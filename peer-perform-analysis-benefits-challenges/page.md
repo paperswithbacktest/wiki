@@ -1,5 +1,5 @@
 ---
-title: "Peer Perform: Analysis, Benefits, and Challenges (Algo Trading)"
+title: "Peer Perform: Analysis, Benefits, and Challenges"
 description: "Explore the synergy of peer evaluations and algorithmic trading to boost organizational performance. Learn how data-driven insights enhance employee assessments."
 ---
 

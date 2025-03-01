@@ -1,5 +1,5 @@
 ---
-title: "PEG Ratio and Company Earnings Growth Rate (Algo Trading)"
+title: "PEG Ratio and Company Earnings Growth Rate"
 description: "Explore the importance of the PEG ratio in investment decisions by examining its role in evaluating stock value. This metric combines the P/E ratio with earnings growth to provide a comprehensive view of a company's potential. Particularly beneficial in algorithmic trading, the PEG ratio enhances stock selection by focusing on both current valuation and future growth. Learn how leveraging this tool can refine trading strategies and optimize investment portfolios in today's fast-paced markets."
 ---
 

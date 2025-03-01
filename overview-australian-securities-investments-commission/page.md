@@ -1,5 +1,5 @@
 ---
-title: "Overview of the Australian Securities and Investments Commission (Algo Trading)"
+title: "Overview of the Australian Securities and Investments Commission"
 description: "Explore ASIC's role in regulating algorithmic trading in Australia focusing on fostering fairness and transparency while ensuring market integrity through proactive strategies."
 ---
 

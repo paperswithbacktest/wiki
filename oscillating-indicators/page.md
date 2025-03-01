@@ -1,5 +1,5 @@
 ---
-title: "Oscillating Indicators Explained (Algo Trading)"
+title: "Oscillating Indicators Explained"
 description: Oscillating indicators are vital in algorithmic trading used to detect market states like overbought or oversold assets. By operating within set ranges they offer insights into market momentum and potential reversals helping traders optimize strategies and manage risks. Common oscillators include RSI Stochastic Oscillator Williams %R and Bollinger Bands each contributing valuable perspectives on market dynamics. This guide provides a detailed overview of these tools their efficiency and impact on trading strategies highlighting their benefits and limitations.
 ---
 

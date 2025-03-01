@@ -1,5 +1,5 @@
 ---
-title: "State Guaranty Fund: Overview and Operation (Algo Trading)"
+title: "State Guaranty Fund: Overview and Operation"
 description: "Explore the vital role of state guaranty funds in safeguarding policyholders when insurers fail Learn how these funds operate alongside algorithmic trading in financial strategies"
 ---
 

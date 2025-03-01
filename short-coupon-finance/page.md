@@ -1,5 +1,5 @@
 ---
-title: "Short Coupon in Finance (Algo Trading)"
+title: "Short Coupon in Finance"
 description: "Explore the intricacies of bonds, short coupons, and algorithmic trading to enhance investment strategies and portfolio management in modern finance."
 ---
 

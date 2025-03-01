@@ -1,5 +1,5 @@
 ---
-title: "Top 10 Machine Learning Algorithms for Beginners (Algo Trading)"
+title: "Top 10 Machine Learning Algorithms for Beginners"
 description: Explore the evolving landscape of algorithmic trading as machine learning techniques simplify access for beginners in the field. This guide offers an introduction to machine learning algorithms that enhance trading strategies by processing large datasets and predicting market trends. With an emphasis on real-time data-driven decisions, discover how learning fundamentals and key algorithms can empower novice traders to implement robust algo trading strategies.
 ---
 

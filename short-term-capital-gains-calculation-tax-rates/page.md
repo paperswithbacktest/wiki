@@ -1,5 +1,5 @@
 ---
-title: "Short-Term Capital Gains: Calculation and Tax Rates (Algo Trading)"
+title: "Short-Term Capital Gains: Calculation and Tax Rates"
 description: "Learn about the taxation of short-term capital gains from algo trading including calculation methods and strategies to optimize investment returns."
 ---
 

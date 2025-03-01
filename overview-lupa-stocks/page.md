@@ -1,5 +1,5 @@
 ---
-title: "Overview of LUPA Stocks (Algo Trading)"
+title: "Overview of LUPA Stocks"
 description: "Explore the impact of LUPA stocks, comprising Lyft, Uber, Pinterest, and Airbnb, on technology investment and consumer behavior. These innovative companies have redefined traditional sectors with unique business models. Algorithmic trading further enhances investment opportunities, making LUPA stocks essential for portfolio alignment with modern tech trends. Discover each company's role in transforming transportation, hospitality, and digital interaction in today's economy."
 ---
 

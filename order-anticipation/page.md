@@ -1,5 +1,5 @@
 ---
-title: "Order Anticipation (Algo Trading)"
+title: "Order Anticipation"
 description: "Explore the pivotal role of order anticipation in algorithmic trading and high-frequency strategies while understanding its ethical boundaries and market implications."
 ---
 

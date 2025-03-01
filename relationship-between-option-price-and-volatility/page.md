@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Option Price and Volatility (Algo Trading)"
+title: "Relationship Between Option Price and Volatility"
 description: "Explore the link between option pricing and volatility in algorithmic trading Discover how volatility impacts option premiums and influences trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rollback: Definition, Advantages, Disadvantages, and Examples (Algo Trading)"
+title: "Rollback: Definition, Advantages, Disadvantages, and Examples"
 description: "Explore the advantages and disadvantages of rollback strategies in algo trading Learn how these methods can optimize your portfolio and manage risks effectively"
 ---
 

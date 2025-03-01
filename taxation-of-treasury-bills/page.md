@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Treasury Bills (Algo Trading)"
+title: "Taxation of Treasury Bills"
 description: "Discover the advantages of investing in Treasury Bills with insights into their tax treatment and the role of algorithmic trading in maximizing returns. Learn how T-Bills offer a secure, short-term investment option backed by the U.S. government while being exempt from state and local taxes. Explore how algorithmic trading strategies can enhance the efficiency of T-Bill investments and help realize potential returns. Gain an understanding of the taxation aspects, including federal tax details and implications of selling T-Bills, to better manage your investment portfolio."
 ---
 

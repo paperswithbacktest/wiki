@@ -1,5 +1,5 @@
 ---
-title: "Trade Reporting and Compliance Engine (TRACE) (Algo Trading)"
+title: "Trade Reporting and Compliance Engine (TRACE)"
 description: "Explore how TRACE revolutionizes trade reporting in algorithmic trading by enhancing transparency, data access, and regulatory compliance within financial markets."
 ---
 

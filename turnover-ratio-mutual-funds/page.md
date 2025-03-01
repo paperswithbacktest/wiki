@@ -1,5 +1,5 @@
 ---
-title: "Turnover Ratio in Mutual Funds (Algo Trading)"
+title: "Turnover Ratio in Mutual Funds"
 description: "Discover how turnover ratios in mutual funds are impacted by algorithmic trading and learn to leverage this knowledge for more efficient investment strategies."
 ---
 

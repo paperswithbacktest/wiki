@@ -1,5 +1,5 @@
 ---
-title: "Role of a Real Estate Attorney (Algo Trading)"
+title: "Role of a Real Estate Attorney"
 description: "Explore the vital role of real estate attorneys in navigating complex legal landscapes and the emerging impact of algorithmic trading on property transactions."
 ---
 

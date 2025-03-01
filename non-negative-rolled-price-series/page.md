@@ -1,5 +1,5 @@
 ---
-title: "Non-negative rolled price series (Algo Trading)"
+title: "Non-negative rolled price series"
 description: Explore the vital role of non-negative rolled price series in algorithmic trading, focusing on how they ensure data integrity for futures contracts. Learn how these series help maintain consistent historical price data, essential for reliable backtesting and strategy development. This article investigates into methods like back-adjustment to prevent negative values that can mislead trading models, ultimately enhancing decision-making by reducing errors and noise. Discover why seamless price transitions are crucial for accurate market analysis and effective trading outcomes.
 ---
 

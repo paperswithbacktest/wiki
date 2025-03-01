@@ -1,5 +1,5 @@
 ---
-title: "Methods of Purchasing Uniswap (UNI) (Algo Trading)"
+title: "Methods of Purchasing Uniswap (UNI)"
 description: "Explore methods of buying Uniswap (UNI) through algorithmic trading to enhance investment strategies using advanced software for optimal pricing and reduced risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Profitability Index (Algo Trading)"
+title: "Profitability Index"
 description: "Explore the use of Profitability Index (PI) in algorithmic trading for a data-driven approach to investment decisions. Learn how PI evaluates investment attractiveness by comparing expected cash flow against initial costs to prioritize projects. Discover how integrating PI with algorithmic strategies automates trade execution for optimized financial outcomes. This guide covers PI calculations, interpretations, and applications in enhancing decision-making in modern markets using algo trading, providing valuable insights for investors and traders seeking to leverage technology for profitability."
 ---
 

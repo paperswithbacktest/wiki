@@ -1,5 +1,5 @@
 ---
-title: "Open Force Description (Algo Trading)"
+title: "Open Force Description"
 description: "Explore the transformative impact of technology in the trading world with a focus on force open strategies and algorithmic trading. Discover how traders balance risk and leverage market fluctuations using automated systems, maximizing efficiency and precision. Gain insights into innovative strategies that are shaping modern trading, ideal for both seasoned investors and newcomers."
 ---
 

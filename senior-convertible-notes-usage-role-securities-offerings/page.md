@@ -1,5 +1,5 @@
 ---
-title: "Senior Convertible Notes: Usage and Role in Securities Offerings (Algo Trading)"
+title: "Senior Convertible Notes: Usage and Role in Securities Offerings"
 description: "Explore the dual nature of senior convertible notes as a mix of debt and equity providing issuers with strategic financing solutions and investors with potential equity gains."
 ---
 

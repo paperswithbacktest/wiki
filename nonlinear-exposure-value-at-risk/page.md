@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear Exposure in Value at Risk (Algo Trading)"
+title: "Nonlinear Exposure in Value at Risk"
 description: "Explore nonlinear exposure in algorithmic trading using Value at Risk for effective risk management Enhance strategies with advanced methods like Monte Carlo simulation"
 ---
 

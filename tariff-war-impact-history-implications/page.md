@@ -1,5 +1,5 @@
 ---
-title: "Tariff War: Impact, History, and Implications (Algo Trading)"
+title: "Tariff War: Impact, History, and Implications"
 description: "Explore the influence of tariff wars and algorithmic trading on the global economy understanding their impacts on trade policies and financial market dynamics."
 ---
 

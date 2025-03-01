@@ -1,5 +1,5 @@
 ---
-title: "Solomon Islands Dollar and Economy (Algo Trading)"
+title: "Solomon Islands Dollar and Economy"
 description: "Explore the impact of the Solomon Islands Dollar on the economy addressing trade and algorithmic trading while identifying growth challenges and opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Royal Bank of Scotland (Algo Trading)"
+title: "Royal Bank of Scotland"
 description: "Explore the evolution of banking and finance in Scotland with the rise of algorithmic trading led by the Royal Bank of Scotland. Discover its impact and implications."
 ---
 

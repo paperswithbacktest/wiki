@@ -1,5 +1,5 @@
 ---
-title: "Star Characteristics and Functionality: Morning and Evening Differences (Algo Trading)"
+title: "Star Characteristics and Functionality: Morning and Evening Differences"
 description: "Discover how Morning and Evening Star candlestick patterns can refine trading strategies and optimize algo trading by signaling potential market reversals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Operating Cash Flow (Algo Trading)"
+title: "Non-Operating Cash Flow"
 description: "Explore the critical role of non-operating cash flow in financial analysis and algorithmic trading to enhance your trading strategies and investment decisions."
 ---
 

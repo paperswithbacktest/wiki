@@ -1,5 +1,5 @@
 ---
-title: "Transitioning from Mutual Funds to ETFs (Algo Trading)"
+title: "Transitioning from Mutual Funds to ETFs"
 description: "Transitioning from mutual funds to ETFs with a focus on algorithmic trading offers investors enhanced portfolio diversification liquidity and efficiency, optimizing returns."
 ---
 

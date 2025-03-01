@@ -1,5 +1,5 @@
 ---
-title: "Qualified Foreign Institutional Investor Regulations (Algo Trading)"
+title: "Qualified Foreign Institutional Investor Regulations"
 description: "Explore the role of the Qualified Foreign Institutional Investor program in enabling algorithmic trading within China's stock markets enhancing foreign investment."
 ---
 

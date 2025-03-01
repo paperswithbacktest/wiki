@@ -1,5 +1,5 @@
 ---
-title: "Put Option in Bonds: Explanation and Implications (Algo Trading)"
+title: "Put Option in Bonds: Explanation and Implications"
 description: "Discover how bond put options can diversify your investment strategy offering flexibility to manage risk effectively in volatile markets and fluctuating interest rates."
 ---
 

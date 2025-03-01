@@ -1,5 +1,5 @@
 ---
-title: "Uptick Volume in Stock Trading (Algo Trading)"
+title: "Uptick Volume in Stock Trading"
 description: "Explore the significance of uptick volume in algorithmic stock trading understanding how it helps traders gauge market trends and make informed decisions."
 ---
 

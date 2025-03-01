@@ -1,5 +1,5 @@
 ---
-title: "Real Economic Growth Rate (Algo Trading)"
+title: "Real Economic Growth Rate"
 description: "Explore the relationship between economic indicators, growth rates, and the role of algorithmic trading in finance. Learn how they influence investment strategies."
 ---
 

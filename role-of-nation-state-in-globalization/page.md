@@ -1,5 +1,5 @@
 ---
-title: "Role of the Nation-State in Globalization (Algo Trading)"
+title: "Role of the Nation-State in Globalization"
 description: "Explore the dynamic role of nation-states in globalization focusing on algorithmic trading's impact on economy and policy in an increasingly interconnected world."
 ---
 

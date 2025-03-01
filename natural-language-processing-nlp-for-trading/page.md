@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Processing (NLP) for trading (Algo Trading)"
+title: "Natural Language Processing (NLP) for trading"
 description: "Enhance your trading strategies with NLP by turning unstructured financial news, reports, and social media data into actionable insights for algorithmic trading."
 ---
 

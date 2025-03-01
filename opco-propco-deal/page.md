@@ -1,5 +1,5 @@
 ---
-title: "Opco/Propco Deal (Algo Trading)"
+title: "Opco/Propco Deal"
 description: "Explore the Opco/Propco model's potential in optimizing investment with algorithmic trading, focusing on financial flexibility and strategic asset separation."
 ---
 

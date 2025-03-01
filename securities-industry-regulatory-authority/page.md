@@ -1,5 +1,5 @@
 ---
-title: "Securities Industry Regulatory Authority (Algo Trading)"
+title: "Securities Industry Regulatory Authority"
 description: "Explore the pivotal role of algorithmic trading in modern markets and how FINRA's regulatory measures safeguard trade efficiency and market integrity."
 ---
 

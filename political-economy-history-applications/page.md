@@ -1,5 +1,5 @@
 ---
-title: "Political Economy: History and Applications (Algo Trading)"
+title: "Political Economy: History and Applications"
 description: "Explore the complex interplay of political economy, economic history, and algorithmic trading to gain insights into the modern economic landscape and its dynamics."
 ---
 

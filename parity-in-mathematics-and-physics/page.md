@@ -1,5 +1,5 @@
 ---
-title: "Parity in Mathematics and Physics (Algo Trading)"
+title: "Parity in Mathematics and Physics"
 description: "Explore the dynamic intersection of mathematics, physics, and technology in algorithmic trading. This innovative approach leverages advanced scientific principles to enhance trading strategies and model complex market systems, offering unprecedented opportunities for traders in modern financial markets."
 ---
 

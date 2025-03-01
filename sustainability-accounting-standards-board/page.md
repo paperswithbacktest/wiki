@@ -1,5 +1,5 @@
 ---
-title: "Sustainability Accounting Standards Board (Algo Trading)"
+title: "Sustainability Accounting Standards Board"
 description: "Explore the integration of SASB standards and algorithmic trading to enhance sustainable finance by aligning ESG factors with trading strategies for informed investments."
 ---
 

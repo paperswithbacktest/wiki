@@ -1,5 +1,5 @@
 ---
-title: "Operating Ratio: Calculation and Analysis (Algo Trading)"
+title: "Operating Ratio: Calculation and Analysis"
 description: "Explore the role of the operating ratio in analyzing algorithmic trading performance by assessing operational efficiency and optimizing trading strategies for success."
 ---
 

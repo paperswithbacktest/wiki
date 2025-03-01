@@ -1,5 +1,5 @@
 ---
-title: "Methods of Preparing for a Market Crash (Algo Trading)"
+title: "Methods of Preparing for a Market Crash"
 description: "Prepare for market crashes with strategies in diversification, algorithmic trading, and proactive financial planning to protect and grow your investments."
 ---
 

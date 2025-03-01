@@ -1,5 +1,5 @@
 ---
-title: "Underemployment: Causes and Examples (Algo Trading)"
+title: "Underemployment: Causes and Examples"
 description: "Explore underemployment's impact and algorithmic trading's role in today's economy Understand their effects on jobs markets and economic stability"
 ---
 

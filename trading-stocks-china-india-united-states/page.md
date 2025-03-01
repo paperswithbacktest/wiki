@@ -1,5 +1,5 @@
 ---
-title: "Trading Stocks in China and India from the United States (Algo Trading)"
+title: "Trading Stocks in China and India from the United States"
 description: "Explore the complexities and opportunities of trading stocks in China and India from the United States Learn about globalization's impact and the role of algo trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Particle filter (Algo Trading)"
+title: "Particle filter"
 description: "Explore how particle filters enhance algorithmic trading strategies by predicting rapid price changes in high-frequency trading for improved decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Runoff: Explanation and Examples (Algo Trading)"
+title: "Portfolio Runoff: Explanation and Examples"
 description: "Explore the intricacies of portfolio runoff and algorithmic trading in investment strategies Learn how they impact asset management and optimize returns"
 ---
 

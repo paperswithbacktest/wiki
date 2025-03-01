@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Analysis for Optimal Returns (Algo Trading)"
+title: "Mutual Fund Analysis for Optimal Returns"
 description: "Discover how integrating mutual funds, financial analysis, and algorithmic trading can enhance investment returns and offer strategic advantages in evolving markets."
 ---
 

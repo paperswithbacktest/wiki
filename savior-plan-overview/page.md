@@ -1,5 +1,5 @@
 ---
-title: "Savior Plan Overview (Algo Trading)"
+title: "Savior Plan Overview"
 description: "Explore strategic planning in algorithmic trading with the Savior Plan framework enhancing algo efficiency resilience and financial performance for investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Modern Company Methods for Business Risk Assessment (Algo Trading)"
+title: "Modern Company Methods for Business Risk Assessment"
 description: "Explore modern business risk assessment methods in algo trading, focusing on identifying and evaluating threats. Enhance financial stability and operational success."
 ---
 

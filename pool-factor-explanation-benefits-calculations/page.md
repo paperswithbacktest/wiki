@@ -1,5 +1,5 @@
 ---
-title: "Pool Factor: Explanation, Benefits, and Calculations (Algo Trading)"
+title: "Pool Factor: Explanation, Benefits, and Calculations"
 description: "Explore pool factors in algorithmic trading to understand how they affect financial calculations and investment strategies. Learn their benefits and implementation."
 ---
 

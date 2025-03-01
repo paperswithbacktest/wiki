@@ -1,5 +1,5 @@
 ---
-title: "Stochastic volatility (Algo Trading)"
+title: "Stochastic volatility"
 description: "Explore the role of stochastic volatility models in algorithmic trading. Understand their significance in derivative pricing and risk management strategies."
 ---
 

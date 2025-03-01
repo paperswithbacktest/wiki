@@ -1,5 +1,5 @@
 ---
-title: "SPDR ETFs (Algo Trading)"
+title: "SPDR ETFs"
 description: "Discover how SPDR ETFs and algorithmic trading can enhance your investment strategy. Explore the synergy of diversified funds and automated trading in today's markets."
 ---
 

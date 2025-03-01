@@ -1,5 +1,5 @@
 ---
-title: "Sheep as a Pejorative for Herd-Like Investor Behavior (Algo Trading)"
+title: "Sheep as a Pejorative for Herd-Like Investor Behavior"
 description: "Explore the psychological forces driving herd-like investor behavior and their impact on financial markets, and understand algorithmic trading's role in these dynamics."
 ---
 

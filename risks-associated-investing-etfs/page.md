@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Investing in ETFs (Algo Trading)"
+title: "Risks Associated with Investing in ETFs"
 description: "Explore the risks associated with investing in Exchange-Traded Funds and the complexities introduced by algorithmic trading to make informed financial decisions."
 ---
 

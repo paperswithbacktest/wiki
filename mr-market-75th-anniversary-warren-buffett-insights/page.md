@@ -1,5 +1,5 @@
 ---
-title: "Mr. Market: 75th Anniversary, Key Lessons, and Warren Buffett's Insights (Algo Trading)"
+title: "Mr. Market: 75th Anniversary, Key Lessons, and Warren Buffett's Insights"
 description: "Discover how Warren Buffett's timeless investment lessons apply to algorithmic trading in this exploration of traditional wisdom and modern technology."
 ---
 

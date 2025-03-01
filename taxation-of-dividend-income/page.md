@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Dividend Income (Algo Trading)"
+title: "Taxation of Dividend Income"
 description: "Explore how dividends impact taxable income with a focus on algorithmic trading. Learn about the tax implications of qualified and non-qualified dividends, and how algorithms factor in dividend tax strategies. Gain insights into effectively managing dividend taxes within complex trading frameworks, and stay updated on trends affecting dividend taxation in an evolving financial landscape."
 ---
 

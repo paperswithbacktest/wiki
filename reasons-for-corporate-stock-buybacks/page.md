@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Corporate Stock Buybacks (Algo Trading)"
+title: "Reasons for Corporate Stock Buybacks"
 description: "Explore the strategic reasons behind corporate stock buybacks and how algorithmic trading is transforming buyback execution to enhance shareholder value."
 ---
 

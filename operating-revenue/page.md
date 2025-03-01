@@ -1,5 +1,5 @@
 ---
-title: "Operating Revenue (Algo Trading)"
+title: "Operating Revenue"
 description: "Explore how companies leverage automated and algorithmic solutions in business finance to optimize operating revenue. Discover the role of algo trading in enhancing decision-making, streamlining operations, and maximizing profitability in financial markets through advanced algorithms and real-time data processing. Understanding these key elements is crucial for navigating modern financial ecosystems and achieving sustained business success."
 ---
 

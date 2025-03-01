@@ -1,5 +1,5 @@
 ---
-title: "Parameterless trading models (Algo Trading)"
+title: "Parameterless trading models"
 description: Explore the world of parameterless trading models in algorithmic trading with a focus on their adaptability and simplicity. These innovative models eliminate the need for constant parameter adjustments, reducing overfitting risks and enhancing reliability in diverse market conditions. Discover how they streamline strategy development and maintenance, offering traders new opportunities in a fast-evolving financial landscape.
 ---
 

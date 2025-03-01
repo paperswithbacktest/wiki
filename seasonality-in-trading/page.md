@@ -1,5 +1,5 @@
 ---
-title: "Seasonality in Trading (Algo Trading)"
+title: "Seasonality in Trading"
 description: "Explore how seasonality impacts trading with algorithmic strategies that capitalize on recurring trends. Learn tools for analysis and popular market patterns."
 ---
 

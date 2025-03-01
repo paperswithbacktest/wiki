@@ -1,5 +1,5 @@
 ---
-title: "Qualifying Disposition (Algo Trading)"
+title: "Qualifying Disposition"
 description: "Unlock the potential of qualifying dispositions in algorithmic trading for tax-efficient investment strategies while maximizing returns in financial markets."
 ---
 

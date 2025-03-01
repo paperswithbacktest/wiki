@@ -1,5 +1,5 @@
 ---
-title: "Zero-Coupon Convertible Bonds: Functionality and Pricing (Algo Trading)"
+title: "Zero-Coupon Convertible Bonds: Functionality and Pricing"
 description: "Explore zero-coupon convertible bonds and their pricing in algorithmic trading. Uncover their hybrid nature, complexities, and investment opportunities."
 ---
 

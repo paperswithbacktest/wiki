@@ -1,5 +1,5 @@
 ---
-title: "Money Market Hedge: Strategy and Process (Algo Trading)"
+title: "Money Market Hedge: Strategy and Process"
 description: "Discover how a money market hedge can mitigate currency risk using financial instruments and algorithmic trading to secure investments in a volatile market."
 ---
 

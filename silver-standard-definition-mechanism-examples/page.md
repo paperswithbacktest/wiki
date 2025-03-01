@@ -1,5 +1,5 @@
 ---
-title: "Silver Standard: Definition, Mechanism, and Examples (Algo Trading)"
+title: "Silver Standard: Definition, Mechanism, and Examples"
 description: "Explore the role of the silver standard in monetary systems and its historical impact, alongside the advancements and influence of algorithmic trading in modern finance."
 ---
 

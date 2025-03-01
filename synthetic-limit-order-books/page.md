@@ -1,5 +1,5 @@
 ---
-title: "Synthetic limit order books (Algo Trading)"
+title: "Synthetic limit order books"
 description: "Explore the pivotal role of synthetic limit order books in algorithmic trading covering their benefits challenges and how they enhance market transparency and efficiency."
 ---
 

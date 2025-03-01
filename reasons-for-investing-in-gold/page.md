@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Investing in Gold (Algo Trading)"
+title: "Reasons for Investing in Gold"
 description: "Explore gold's enduring value as a hedge against inflation and a safe haven in uncertain times. Delve into algorithmic trading strategies enhancing gold investment."
 ---
 

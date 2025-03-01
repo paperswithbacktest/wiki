@@ -1,5 +1,5 @@
 ---
-title: "Smart Order Routing (SOR) (Algo Trading)"
+title: "Smart Order Routing (SOR)"
 description: "Smart Order Routing enhances trading efficiency by directing trades to optimal venues based on price and liquidity. It's vital in navigating fragmented markets."
 ---
 

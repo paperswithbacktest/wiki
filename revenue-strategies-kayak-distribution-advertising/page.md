@@ -1,5 +1,5 @@
 ---
-title: "Revenue Strategies of Kayak: Distribution and Advertising (Algo Trading)"
+title: "Revenue Strategies of Kayak: Distribution and Advertising"
 description: "Discover how Kayak's revenue strategies in distribution and advertising leverage technology to enhance the travel experience and maintain competitive advantage."
 ---
 

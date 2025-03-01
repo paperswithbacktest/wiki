@@ -1,5 +1,5 @@
 ---
-title: "Price Zone Oscillator: Functionality and Limitations (Algo Trading)"
+title: "Price Zone Oscillator: Functionality and Limitations"
 description: "Explore the functionality and limitations of the Price Zone Oscillator in algo trading Discover how it aids in identifying market trends and potential reversals"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "PHLX Housing Sector Index: Components and Examples (Algo Trading)"
+title: "PHLX Housing Sector Index: Components and Examples"
 description: "Discover the PHLX Housing Sector Index HGX and its role in tracking housing market trends Learn about its components and impact on algorithmic trading strategies"
 ---
 

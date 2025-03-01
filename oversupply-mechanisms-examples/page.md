@@ -1,5 +1,5 @@
 ---
-title: "Oversupply: Mechanisms and Examples (Algo Trading)"
+title: "Oversupply: Mechanisms and Examples"
 description: "Explore the mechanisms and impacts of market oversupply and see how algorithmic trading strategies can help mitigate surplus effects for better economic outcomes."
 ---
 

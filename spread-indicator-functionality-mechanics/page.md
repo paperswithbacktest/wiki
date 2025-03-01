@@ -1,5 +1,5 @@
 ---
-title: "Spread Indicator: Functionality and Mechanics (Algo Trading)"
+title: "Spread Indicator: Functionality and Mechanics"
 description: "Explore algorithmic trading's intricacies and learn how market metrics spread indicators and financial analysis can enhance strategic decisions in trading."
 ---
 

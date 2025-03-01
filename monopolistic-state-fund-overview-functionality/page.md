@@ -1,5 +1,5 @@
 ---
-title: "Monopolistic State Fund: Overview and Functionality (Algo Trading)"
+title: "Monopolistic State Fund: Overview and Functionality"
 description: "Explore the intersection of monopolistic state funds and algorithmic trading and their economic implications. Discover how advanced trading technologies influence market dynamics and stability."
 ---
 

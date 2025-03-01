@@ -1,5 +1,5 @@
 ---
-title: "Repricing Opportunity in Market Dynamics (Algo Trading)"
+title: "Repricing Opportunity in Market Dynamics"
 description: "Explore how repricing opportunities in algorithmic trading can boost financial outcomes through real-time adjustments and smart pricing strategies in dynamic markets."
 ---
 

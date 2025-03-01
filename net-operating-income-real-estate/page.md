@@ -1,5 +1,5 @@
 ---
-title: "Net Operating Income in Real Estate (Algo Trading)"
+title: "Net Operating Income in Real Estate"
 description: "Explore how Net Operating Income impacts real estate algo trading and learn to leverage its insights for better investment strategies in this informative guide."
 ---
 

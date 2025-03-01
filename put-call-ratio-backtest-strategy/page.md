@@ -1,5 +1,5 @@
 ---
-title: "Put-Call Ratio Backtest Strategy Explained (Algo Trading)"
+title: "Put-Call Ratio Backtest Strategy Explained"
 description: Discover the intricacies of the put-call ratio, a pivotal metric in algorithmic trading that offers insight into market sentiments by comparing put options to call options. This guide breaks down how to interpret and apply the ratio for optimizing trading strategies, assisting traders in predicting market trends effectively and gaining a competitive edge in the dynamic world of algorithmic trading without relying solely on fixed thresholds.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Working Capital Calculation (Algo Trading)"
+title: "Working Capital Calculation"
 description: "Mastering working capital and algo trading is key for businesses striving for financial stability and growth in today's dynamic finance landscape."
 ---
 

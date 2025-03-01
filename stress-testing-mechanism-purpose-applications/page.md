@@ -1,5 +1,5 @@
 ---
-title: "Stress Testing: Mechanism, Purpose, and Applications (Algo Trading)"
+title: "Stress Testing: Mechanism, Purpose, and Applications"
 description: "Discover the vital role of stress testing in financial analysis and algorithmic trading. Learn how these tools help traders and institutions enhance decision-making processes, manage risks, and capitalize on opportunities in today's complex markets. Explore methodologies for evaluating portfolio resilience and uncover strategies to safeguard investments amidst volatility."
 ---
 

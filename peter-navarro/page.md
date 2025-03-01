@@ -1,5 +1,5 @@
 ---
-title: "Peter Navarro (Algo Trading)"
+title: "Peter Navarro"
 description: "Explore how Peter Navarro's economic philosophies may intersect with the evolving field of algorithmic trading. Understand his influence on U.S. economic policies and potential impacts on trading strategies as financial markets become increasingly data-driven and automated."
 ---
 

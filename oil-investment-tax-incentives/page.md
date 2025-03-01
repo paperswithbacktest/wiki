@@ -1,5 +1,5 @@
 ---
-title: "Oil Investment and Tax Incentives (Algo Trading)"
+title: "Oil Investment and Tax Incentives"
 description: "Explore strategic oil investment opportunities and tax incentives, highlighting the role of algorithmic trading. Navigate the complexities of this volatile market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Real Bills Doctrine (Algo Trading)"
+title: "Real Bills Doctrine"
 description: "Explore the intersection of the Real Bills Doctrine and algorithmic trading in modern finance Discover historical insights on monetary policy and economic stability"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "North Atlantic Treaty Organization: Overview and Membership (Algo Trading)"
+title: "North Atlantic Treaty Organization: Overview and Membership"
 description: "Explore the intertwining roles of NATO's strategic objectives and algorithmic trading in shaping global finance and technological collaboration among its 32 member states."
 ---
 

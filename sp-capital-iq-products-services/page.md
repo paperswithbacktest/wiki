@@ -1,5 +1,5 @@
 ---
-title: "S&P Capital IQ Products and Services (Algo Trading)"
+title: "S&P Capital IQ Products and Services"
 description: "Discover S&P Capital IQ's essential role in modern finance offering market intelligence and advanced analytics to empower investment and trading strategies."
 ---
 

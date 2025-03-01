@@ -1,5 +1,5 @@
 ---
-title: "Stock Risk Analysis Using Beta (Algo Trading)"
+title: "Stock Risk Analysis Using Beta"
 description: "Explore the essential role of beta in stock risk analysis and algorithmic trading to enhance investment strategies and improve risk assessment in volatile markets."
 ---
 

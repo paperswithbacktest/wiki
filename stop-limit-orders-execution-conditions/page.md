@@ -1,5 +1,5 @@
 ---
-title: "Stop-Limit Orders and Execution Conditions (Algo Trading)"
+title: "Stop-Limit Orders and Execution Conditions"
 description: "Master stock trading by leveraging stop-limit orders and algorithmic strategies. Gain control over trade executions to manage risks and boost profits effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Processing (NLP) for Markets (Algo Trading)"
+title: "Natural Language Processing (NLP) for Markets"
 description: "Explore how Natural Language Processing transforms trading by turning textual data into predictive financial insights thereby enhancing strategic market decisions."
 ---
 

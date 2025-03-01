@@ -1,5 +1,5 @@
 ---
-title: "Variables Affecting Economies of Scale (Algo Trading)"
+title: "Variables Affecting Economies of Scale"
 description: "Explore how economies of scale and algorithmic trading drive cost efficiencies and competitive advantage in financial markets by optimizing trade strategies."
 ---
 

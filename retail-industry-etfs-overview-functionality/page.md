@@ -1,5 +1,5 @@
 ---
-title: "Retail Industry ETFs: Overview and Functionality (Algo Trading)"
+title: "Retail Industry ETFs: Overview and Functionality"
 description: "Explore Retail Industry ETFs and their role in global markets Combining insights from the retail sector and algorithmic trading for innovative investment strategies"
 ---
 

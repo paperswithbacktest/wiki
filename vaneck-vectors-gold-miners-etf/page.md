@@ -1,5 +1,5 @@
 ---
-title: "VanEck Vectors Gold Miners ETF (Algo Trading)"
+title: "VanEck Vectors Gold Miners ETF"
 description: "Explore the VanEck Vectors Gold Miners ETF as it offers diversified exposure to major global gold mining companies with algorithmic trading insights."
 ---
 

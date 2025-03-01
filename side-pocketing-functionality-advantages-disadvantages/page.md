@@ -1,5 +1,5 @@
 ---
-title: "Side Pocketing: Functionality, Advantages, and Disadvantages (Algo Trading)"
+title: "Side Pocketing: Functionality, Advantages, and Disadvantages"
 description: "Explore the impact of side pocketing and algorithmic trading in hedge funds Learn how these strategies manage risks and optimize investment returns"
 ---
 

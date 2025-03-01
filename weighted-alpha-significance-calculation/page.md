@@ -1,5 +1,5 @@
 ---
-title: "Weighted Alpha: Significance and Calculation (Algo Trading)"
+title: "Weighted Alpha: Significance and Calculation"
 description: "Weighted alpha provides critical insight into securities' performance by emphasizing recent price movements making it invaluable for algorithmic traders seeking short-term gains."
 ---
 

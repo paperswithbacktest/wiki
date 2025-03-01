@@ -1,5 +1,5 @@
 ---
-title: "Options Disclosure Document: Overview and Requirements (Algo Trading)"
+title: "Options Disclosure Document: Overview and Requirements"
 description: "Explore the essentials of algorithmic trading including financial requirements, investment documentation, and options disclosure to enhance trading strategies."
 ---
 

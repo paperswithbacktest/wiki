@@ -1,5 +1,5 @@
 ---
-title: "Residential Rental Property: Tax Advantages and Disadvantages (Algo Trading)"
+title: "Residential Rental Property: Tax Advantages and Disadvantages"
 description: "Explore the tax benefits and challenges of investing in residential rental properties. Understand deductions, depreciation, and tax strategies for better returns."
 ---
 

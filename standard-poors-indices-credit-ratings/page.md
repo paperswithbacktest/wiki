@@ -1,5 +1,5 @@
 ---
-title: "Standard & Poor's: Indices and Credit Ratings (Algo Trading)"
+title: "Standard & Poor's: Indices and Credit Ratings"
 description: "Explore the vital role of S&P's indices and credit ratings in the finance world including their impact on market trends economic health and algo trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Zacks Lifecycle Indexes (Algo Trading)"
+title: "Zacks Lifecycle Indexes"
 description: "Explore investment strategies with Zacks Lifecycle Indexes, including lifecycle funds, index investing, and algorithmic trading, for optimum wealth management."
 ---
 

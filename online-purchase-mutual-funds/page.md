@@ -1,5 +1,5 @@
 ---
-title: "Online Purchase of Mutual Funds (Algo Trading)"
+title: "Online Purchase of Mutual Funds"
 description: "Explore the world of online mutual fund investments and algorithmic trading Learn to select platforms manage fees and optimize strategies for better returns"
 ---
 

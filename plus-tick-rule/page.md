@@ -1,5 +1,5 @@
 ---
-title: "Plus-tick rule (Algo Trading)"
+title: "Plus-tick rule"
 description: Explore the intricacies of the plus-tick rule, a key regulation in algorithmic trading designed to curb market volatility and protect investors. Understand its historical context, impact on modern trading practices, and the technological challenges traders face to comply with this regulation while maintaining speed and efficiency. Discover the benefits and drawbacks of the rule, and how it aims to foster a stable trading environment without stifling innovation in financial markets.
 ---
 

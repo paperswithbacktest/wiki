@@ -1,5 +1,5 @@
 ---
-title: "Stop-Loss Orders for Risk Management in Investments (Algo Trading)"
+title: "Stop-Loss Orders for Risk Management in Investments"
 description: "Explore the benefits and strategies of stop-loss orders in algorithmic trading Discover how these tools can safeguard investments and enhance risk management"
 ---
 

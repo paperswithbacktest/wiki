@@ -1,5 +1,5 @@
 ---
-title: "Provisional Call Feature: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Provisional Call Feature: Overview, Advantages, and Disadvantages"
 description: "Explore the benefits and risks of provisional call features in bonds and algorithmic trading. Learn how these tools can enhance modern investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "United States Treasury Money Market Fund (Algo Trading)"
+title: "United States Treasury Money Market Fund"
 description: "Explore how United States Treasury money market funds benefit from algorithmic trading to enhance returns and portfolio optimization for investors."
 ---
 

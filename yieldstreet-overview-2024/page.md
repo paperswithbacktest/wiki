@@ -1,5 +1,5 @@
 ---
-title: "Yieldstreet: An Overview for 2024 (Algo Trading)"
+title: "Yieldstreet: An Overview for 2024"
 description: "Discover how Yieldstreet is revolutionizing investments in 2024 by integrating advanced algorithmic trading technologies to offer diverse alternative investment options."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stock Replacement Strategy and Call Options (Algo Trading)"
+title: "Stock Replacement Strategy and Call Options"
 description: "Optimize your investment strategy with insights into call options, stock replacement, and algorithmic trading to enhance returns and manage risks efficiently."
 ---
 

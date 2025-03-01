@@ -1,5 +1,5 @@
 ---
-title: "Optimal Stopping in Trading (Algo Trading)"
+title: "Optimal Stopping in Trading"
 description: "Discover how optimal stopping guides trading algorithms in timing decisions crucial for maximizing profits and minimizing losses in dynamic markets."
 ---
 

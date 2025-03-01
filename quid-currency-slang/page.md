@@ -1,5 +1,5 @@
 ---
-title: "Quid (Currency Slang) (Algo Trading)"
+title: "Quid (Currency Slang)"
 description: "Explore the cultural and financial significance of the currency slang "quid" in British trade and its impact on modern algorithmic trading systems."
 ---
 

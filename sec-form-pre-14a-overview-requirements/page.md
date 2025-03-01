@@ -1,5 +1,5 @@
 ---
-title: "SEC Form PRE 14A: Overview and Requirements (Algo Trading)"
+title: "SEC Form PRE 14A: Overview and Requirements"
 description: "The SEC Form PRE 14A plays a crucial role in corporate governance by providing shareholders with essential information for informed voting before key company meetings."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Signal Processing in Trading (Algo Trading)"
+title: "Signal Processing in Trading"
 description: "Explore the role of signal processing in algorithmic trading, where advanced statistical models analyze data to generate trading signals for informed decision-making."
 ---
 

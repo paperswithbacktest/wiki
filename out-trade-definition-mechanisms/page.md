@@ -1,5 +1,5 @@
 ---
-title: "Out Trade: Definition and Mechanisms (Algo Trading)"
+title: "Out Trade: Definition and Mechanisms"
 description: "Explore out trades and their resolution in stock markets alongside the technology-driven efficiency of algorithmic trading strategies in modern finance."
 ---
 

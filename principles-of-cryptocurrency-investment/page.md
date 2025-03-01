@@ -1,5 +1,5 @@
 ---
-title: "Principles of Cryptocurrency Investment (Algo Trading)"
+title: "Principles of Cryptocurrency Investment"
 description: "Explore the principles of cryptocurrency investment and algorithmic trading strategies to maximize returns in a 24/7 market while managing risks effectively."
 ---
 

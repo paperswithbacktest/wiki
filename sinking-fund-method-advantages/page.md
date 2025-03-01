@@ -1,5 +1,5 @@
 ---
-title: "Sinking Fund Method and Its Advantages (Algo Trading)"
+title: "Sinking Fund Method and Its Advantages"
 description: "Explore the sinking fund method and algorithmic trading, two strategies enhancing financial management by boosting predictability and investment returns."
 ---
 

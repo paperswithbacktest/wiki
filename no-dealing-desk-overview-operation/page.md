@@ -1,5 +1,5 @@
 ---
-title: "No Dealing Desk: Overview and Operation (Algo Trading)"
+title: "No Dealing Desk: Overview and Operation"
 description: "Explore the benefits of No Dealing Desk (NDD) forex trading and its synergy with algorithmic trading for improved transparency and tighter spreads."
 ---
 

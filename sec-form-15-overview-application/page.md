@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 15 Overview and Application (Algo Trading)"
+title: "SEC Form 15 Overview and Application"
 description: "Discover the importance of SEC Form 15 for algorithmic trading companies seeking deregistration to reduce regulatory burdens and enhance strategic flexibility."
 ---
 

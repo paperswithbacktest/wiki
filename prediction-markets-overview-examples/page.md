@@ -1,5 +1,5 @@
 ---
-title: "Prediction Markets: Overview and Examples (Algo Trading)"
+title: "Prediction Markets: Overview and Examples"
 description: "Explore how prediction markets and algorithmic trading are transforming finance with new forecasting tools and strategies vital for informed trading decisions."
 ---
 

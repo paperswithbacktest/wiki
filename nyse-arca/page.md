@@ -1,5 +1,5 @@
 ---
-title: "NYSE Arca (Algo Trading)"
+title: "NYSE Arca"
 description: "Discover the advantages of NYSE Arca a leading electronic exchange offering rapid execution and algorithmic trading tools for enhanced market liquidity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Commodity Prices and Inflation (Algo Trading)"
+title: "Relationship Between Commodity Prices and Inflation"
 description: "Explore how commodity prices interact with inflation and economic indicators in financial markets. Learn how algorithmic trading optimizes investment strategies."
 ---
 

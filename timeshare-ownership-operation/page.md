@@ -1,5 +1,5 @@
 ---
-title: "Timeshare Ownership and Operation (Algo Trading)"
+title: "Timeshare Ownership and Operation"
 description: "Explore the innovative synergy of timeshare ownership with algorithmic trading for optimized vacation investments, blending predictability with dynamic insights."
 ---
 

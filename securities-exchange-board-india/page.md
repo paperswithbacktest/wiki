@@ -1,5 +1,5 @@
 ---
-title: "Securities and Exchange Board of India (Algo Trading)"
+title: "Securities and Exchange Board of India"
 description: "Explore the role of the Securities and Exchange Board of India in regulating algo trading bringing transparency and efficiency to India's financial markets."
 ---
 

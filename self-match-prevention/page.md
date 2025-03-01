@@ -1,5 +1,5 @@
 ---
-title: "Self-Match Prevention (Algo Trading)"
+title: "Self-Match Prevention"
 description: Self-match prevention (SMP) is an essential mechanism in algorithmic trading that prevents a trader's buy and sell orders from matching on the same venue, upholding market integrity by ensuring genuine trade volumes are reported. This article explores SMP's purpose, implementation, and strategic advantages, highlighting its role in preventing market manipulation, optimizing trade execution, and ensuring compliance with regulatory standards. Understanding SMP aids traders in managing orders efficiently and gaining insights into market behavior, offering a competitive edge in the financial landscape.
 ---
 

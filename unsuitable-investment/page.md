@@ -1,5 +1,5 @@
 ---
-title: "Unsuitable Investment (Algo Trading)"
+title: "Unsuitable Investment"
 description: "Explore how unsuitable investments, especially with algorithmic trading, pose risks by misaligning with investors' goals and risk tolerance, impacting financial health."
 ---
 

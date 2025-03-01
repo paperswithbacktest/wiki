@@ -1,5 +1,5 @@
 ---
-title: "Price Improvement Mechanisms (Algo Trading)"
+title: "Price Improvement Mechanisms"
 description: "Explore how algorithmic trading strategies enhance price improvement by leveraging advanced technology. Discover the impact on efficiency and profitability in finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "On-Balance Volume Indicator (Algo Trading)"
+title: "On-Balance Volume Indicator"
 description: "Explore the On-Balance Volume indicator to enhance your trading strategies By analyzing volume flow OBV helps forecast price changes and assess market trends"
 ---
 

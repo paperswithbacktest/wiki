@@ -1,5 +1,5 @@
 ---
-title: "Suriname Guilder (Algo Trading)"
+title: "Suriname Guilder"
 description: "Explore the Suriname Guilder's history, the impact of algorithmic trading on its economy, and how it shapes Suriname's future financial landscape."
 ---
 

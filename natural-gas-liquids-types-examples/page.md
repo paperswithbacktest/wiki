@@ -1,5 +1,5 @@
 ---
-title: "Natural Gas Liquids: Types and Examples (Algo Trading)"
+title: "Natural Gas Liquids: Types and Examples"
 description: "Explore Natural Gas Liquids like ethane and propane, their industrial uses, and how algorithmic trading is shaping the NGL commodities market."
 ---
 

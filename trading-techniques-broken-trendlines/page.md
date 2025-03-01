@@ -1,5 +1,5 @@
 ---
-title: "Trading Techniques for Broken Trendlines (Algo Trading)"
+title: "Trading Techniques for Broken Trendlines"
 description: "Explore effective trading techniques for broken trendlines in algo trading. Enhance decision-making and capitalize on market shifts with algorithmic precision."
 ---
 

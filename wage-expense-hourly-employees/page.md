@@ -1,5 +1,5 @@
 ---
-title: "Wage Expense for Hourly Employees (Algo Trading)"
+title: "Wage Expense for Hourly Employees"
 description: "Explore the crucial dynamics of wage expenses for hourly employees in algorithmic trading and discover innovative compensation strategies to retain top talent."
 ---
 

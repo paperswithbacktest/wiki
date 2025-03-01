@@ -1,5 +1,5 @@
 ---
-title: "Robert E. Lucas: Economic Theories and Impact (Algo Trading)"
+title: "Robert E. Lucas: Economic Theories and Impact"
 description: "Explore how Robert E. Lucas Jr.'s economic theories, like rational expectations, shape algorithmic trading strategies today enhancing market adaptability and efficiency."
 ---
 

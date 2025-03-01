@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 8-A: Purpose, Requirements, and Benefits (Algo Trading)"
+title: "SEC Form 8-A: Purpose, Requirements, and Benefits"
 description: "SEC Form 8-A facilitates quick registration of securities, streamlining the listing process for companies on U.S. exchanges crucial for algo trading efficiency."
 ---
 

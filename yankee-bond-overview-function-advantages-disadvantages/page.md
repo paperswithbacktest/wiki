@@ -1,5 +1,5 @@
 ---
-title: "Yankee Bond: Overview, Function, Advantages and Disadvantages (Algo Trading)"
+title: "Yankee Bond: Overview, Function, Advantages and Disadvantages"
 description: "Explore Yankee Bonds and their role in global finance along with the impact of algorithmic trading. Discover benefits, risks, and investment strategies."
 ---
 

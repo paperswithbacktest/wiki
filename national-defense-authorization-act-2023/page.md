@@ -1,5 +1,5 @@
 ---
-title: "National Defense Authorization Act of 2023 (Algo Trading)"
+title: "National Defense Authorization Act of 2023"
 description: "The National Defense Authorization Act of 2023 allocates $858 billion to U.S. defense, emphasizing military advancements, personnel pay, and algorithmic trading potential."
 ---
 

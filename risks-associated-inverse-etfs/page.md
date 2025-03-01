@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Inverse ETFs (Algo Trading)"
+title: "Risks Associated with Inverse ETFs"
 description: "Explore the risks of inverse ETFs in algorithmic trading including their complexity volatility and short-term use. Essential insights for informed investment strategies"
 ---
 

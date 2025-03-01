@@ -1,5 +1,5 @@
 ---
-title: "Multidisciplinary Account (Algo Trading)"
+title: "Multidisciplinary Account"
 description: "Explore the transformative blend of accounting, interdisciplinary innovations, and algorithmic trading to optimize performance and ensure regulatory compliance."
 ---
 

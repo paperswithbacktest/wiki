@@ -1,5 +1,5 @@
 ---
-title: "Option Pools: Purpose and Functionality (Algo Trading)"
+title: "Option Pools: Purpose and Functionality"
 description: "Explore how option pools and algorithmic trading drive startup equity strategies, enabling talent retention and enhancing financial efficiency for growth."
 ---
 

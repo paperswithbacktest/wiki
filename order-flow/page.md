@@ -1,5 +1,5 @@
 ---
-title: "order flow (Algo Trading)"
+title: "order flow"
 description: "Explore the intricacies of order flow analysis in algorithmic trading to enhance precision in identifying supply and demand zones for optimized market strategies."
 ---
 

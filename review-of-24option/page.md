@@ -1,5 +1,5 @@
 ---
-title: "Review of 24Option (Algo Trading)"
+title: "Review of 24Option"
 description: "Explore 24Option's past with our review covering its diverse trading features, algorithmic trading on MT4, and the challenges leading to its closure in 2020."
 ---
 

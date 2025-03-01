@@ -1,5 +1,5 @@
 ---
-title: "Quasi-Monte Carlo method (Algo Trading)"
+title: "Quasi-Monte Carlo method"
 description: "Explore how Quasi-Monte Carlo methods enhance algorithmic trading with improved accuracy and efficiency using low-discrepancy sequences for financial modeling."
 ---
 

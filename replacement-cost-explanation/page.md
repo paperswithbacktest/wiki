@@ -1,5 +1,5 @@
 ---
-title: "Replacement Cost Explanation (Algo Trading)"
+title: "Replacement Cost Explanation"
 description: "Explore the importance of replacement cost in accounting and insurance, essential in asset valuation and algorithmic trading to optimize financial decision-making."
 ---
 

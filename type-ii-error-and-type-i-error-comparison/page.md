@@ -1,5 +1,5 @@
 ---
-title: "Type II Error and Type I Error Comparison (Algo Trading)"
+title: "Type II Error and Type I Error Comparison"
 description: "Explore Type I and Type II errors in algorithmic trading to enhance decision-making. Understand their impacts on trade signals and strategies for error mitigation."
 ---
 

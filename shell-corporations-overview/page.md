@@ -1,5 +1,5 @@
 ---
-title: "Shell Corporations Overview (Algo Trading)"
+title: "Shell Corporations Overview"
 description: "Explore the essential role of shell corporations in modern finance and how algorithmic trading impacts financial markets. Gain insights into strategic corporate structuring."
 ---
 

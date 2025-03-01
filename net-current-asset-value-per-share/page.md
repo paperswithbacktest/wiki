@@ -1,5 +1,5 @@
 ---
-title: "Net Current Asset Value Per Share (Algo Trading)"
+title: "Net Current Asset Value Per Share"
 description: "Explore how Net Current Asset Value Per Share (NCAVPS) aids in identifying undervalued stocks and the role of algorithms in enhancing trading strategies."
 ---
 

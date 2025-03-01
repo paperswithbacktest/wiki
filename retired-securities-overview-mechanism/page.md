@@ -1,5 +1,5 @@
 ---
-title: "Retired Securities: Overview and Mechanism (Algo Trading)"
+title: "Retired Securities: Overview and Mechanism"
 description: "Explore retired securities and algo trading's impact on finance offering insights into financial instruments risks rewards and strategies for savvy investors"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Nervous Nellie: Meaning and Coping Strategies (Algo Trading)"
+title: "Nervous Nellie: Meaning and Coping Strategies"
 description: "Explore the challenges of algorithmic trading for Nervous Nellies and discover effective coping strategies to manage anxiety and stress in fast-paced markets."
 ---
 

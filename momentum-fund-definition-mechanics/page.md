@@ -1,5 +1,5 @@
 ---
-title: "Momentum Fund: Definition and Mechanics (Algo Trading)"
+title: "Momentum Fund: Definition and Mechanics"
 description: "Explore the dynamic world of momentum funds and algorithmic trading where upward market trends and automated strategies combine to optimize investment returns."
 ---
 

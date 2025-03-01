@@ -1,5 +1,5 @@
 ---
-title: "Regional Comprehensive Economic Partnership (Algo Trading)"
+title: "Regional Comprehensive Economic Partnership"
 description: "Explore the role of algorithmic trading within the Regional Comprehensive Economic Partnership RCEP and understand how it reshapes trade in the Asia-Pacific."
 ---
 

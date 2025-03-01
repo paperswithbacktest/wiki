@@ -1,5 +1,5 @@
 ---
-title: "Rent Guarantee Insurance Overview (Algo Trading)"
+title: "Rent Guarantee Insurance Overview"
 description: "Discover effective strategies for landlords to secure rental income and protect their investments with rent guarantee insurance and algorithmic trading."
 ---
 

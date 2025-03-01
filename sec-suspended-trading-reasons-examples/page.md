@@ -1,5 +1,5 @@
 ---
-title: "SEC Suspended Trading: Reasons and Examples (Algo Trading)"
+title: "SEC Suspended Trading: Reasons and Examples"
 description: "Explore the reasons behind SEC trading halts and suspensions, examining their impact on market integrity and investor protection, especially in algo trading."
 ---
 

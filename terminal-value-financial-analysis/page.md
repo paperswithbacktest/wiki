@@ -1,5 +1,5 @@
 ---
-title: "Terminal Value in Financial Analysis (Algo Trading)"
+title: "Terminal Value in Financial Analysis"
 description: "Terminal value is an essential concept in financial analysis, crucial for evaluating the long-term viability of businesses and investments. It represents the anticipated value of a business beyond an explicit forecast period within discounted cash flow analysis. Common calculation methods include the Perpetuity Growth Model and the Exit Multiple Method, each suited for different financial contexts. Understanding terminal value is vital for accurate business valuation, strategic decision-making, and informed investment choices, as it significantly influences the assessment of a business's future prospects and inherent worth."
 ---
 

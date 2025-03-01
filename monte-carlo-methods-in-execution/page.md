@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo methods in execution (Algo Trading)"
+title: "Monte Carlo methods in execution"
 description: "Explore the impact of Monte Carlo methods on algorithmic trading to model risk and uncertainty by simulating diverse market conditions and refining strategies."
 ---
 

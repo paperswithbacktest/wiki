@@ -1,5 +1,5 @@
 ---
-title: "Nil Paid: Overview, Mechanism, and Applications (Algo Trading)"
+title: "Nil Paid: Overview, Mechanism, and Applications"
 description: "Explore the synergy between nil-paid rights and algorithmic trading to enhance investment strategies Discover how these financial innovations redefine trading mechanisms and opportunities"
 ---
 

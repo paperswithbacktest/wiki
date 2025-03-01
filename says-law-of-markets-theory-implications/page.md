@@ -1,5 +1,5 @@
 ---
-title: "Say's Law of Markets: Theory and Implications (Algo Trading)"
+title: "Say's Law of Markets: Theory and Implications"
 description: "Explore the impact of Say's Law on market theory and algorithmic trading highlighting the classic debate between supply-driven economics and demand-focused Keynesian views."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reverse Convertible Notes (Algo Trading)"
+title: "Reverse Convertible Notes"
 description: "Explore the dynamics of reverse convertible notes and algorithmic trading in modern finance Learn how these innovations offer lucrative opportunities amid risks"
 ---
 

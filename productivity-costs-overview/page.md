@@ -1,5 +1,5 @@
 ---
-title: "Productivity and Costs Overview (Algo Trading)"
+title: "Productivity and Costs Overview"
 description: "Explore the impact of algorithmic trading on productivity and economic costs. Discover how this tech-driven trend optimizes trade execution and market efficiency."
 ---
 

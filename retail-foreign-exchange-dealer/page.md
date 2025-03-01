@@ -1,5 +1,5 @@
 ---
-title: "Retail Foreign Exchange Dealer (Algo Trading)"
+title: "Retail Foreign Exchange Dealer"
 description: "Explore the dynamic world of Retail Foreign Exchange Dealers and algorithmic trading to understand how they shape the expansive forex market for retail traders."
 ---
 

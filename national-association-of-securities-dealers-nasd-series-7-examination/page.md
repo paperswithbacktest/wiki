@@ -1,5 +1,5 @@
 ---
-title: "National Association of Securities Dealers (NASD) Series 7 examination (Algo Trading)"
+title: "National Association of Securities Dealers (NASD) Series 7 examination"
 description: Explore the dynamic interplay of the National Association of Securities Dealers' Series 7 Examination and the rise of algorithmic trading in modern financial markets. Understand the pivotal role of the Series 7 Examination in certifying finance professionals with essential regulatory knowledge and how it intersects with the challenges and opportunities presented by Algo Trading.
 ---
 

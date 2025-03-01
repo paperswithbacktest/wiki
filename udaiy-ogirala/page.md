@@ -1,5 +1,5 @@
 ---
-title: "Udaiy Ogirala (Algo Trading)"
+title: "Udaiy Ogirala"
 description: "Explore the impressive career of Udaiy Ogirala an expert in algorithmic trading with extensive experience across commodities FX derivatives and equities."
 ---
 

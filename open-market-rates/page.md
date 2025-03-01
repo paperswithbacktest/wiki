@@ -1,5 +1,5 @@
 ---
-title: "Open Market Rates (Algo Trading)"
+title: "Open Market Rates"
 description: "Explore the intricate dynamics between economic policies, interest rates, open market operations, and algorithmic trading to optimize modern market strategies."
 ---
 

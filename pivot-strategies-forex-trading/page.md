@@ -1,5 +1,5 @@
 ---
-title: "Pivot Strategies in Forex Trading (Algo Trading)"
+title: "Pivot Strategies in Forex Trading"
 description: "Master pivot strategies in forex trading to enhance decision-making with algorithmic tools This guide explores pivot points a key aspect for predicting trends"
 ---
 

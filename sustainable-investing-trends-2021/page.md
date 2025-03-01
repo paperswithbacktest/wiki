@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Investing Trends in 2021 (Algo Trading)"
+title: "Sustainable Investing Trends in 2021"
 description: "Explore the rise of sustainable investing in 2021 and its intersection with algorithmic trading. Discover ESG trends and the impact on financial strategies."
 ---
 

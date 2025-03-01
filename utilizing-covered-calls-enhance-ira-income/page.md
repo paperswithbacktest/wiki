@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Covered Calls to Enhance IRA Income (Algo Trading)"
+title: "Utilizing Covered Calls to Enhance IRA Income"
 description: "Learn how utilizing covered calls and algorithmic trading can enhance IRA income by generating additional revenue and managing risk with strategic precision."
 ---
 

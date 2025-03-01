@@ -1,5 +1,5 @@
 ---
-title: "Stopped Out in Trading (Algo Trading)"
+title: "Stopped Out in Trading"
 description: "Explore investment trading strategies, the impact of being stopped out, and how algorithmic trading can enhance or challenge trading outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Controlling Interest Overview (Algo Trading)"
+title: "Non-Controlling Interest Overview"
 description: "Explore the significance of non-controlling interest in finance with insights on its role in algorithmic trading and how it influences financial decision-making."
 ---
 

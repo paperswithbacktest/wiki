@@ -1,5 +1,5 @@
 ---
-title: "Rulemaking Processes of Federal Agencies (Algo Trading)"
+title: "Rulemaking Processes of Federal Agencies"
 description: "Explore federal rulemaking processes in algorithmic trading and discover how agencies like the SEC and FDIC regulate to ensure market stability and investor protection."
 ---
 

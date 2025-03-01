@@ -1,5 +1,5 @@
 ---
-title: "Promissory Estoppel: Requirements And Example (Algo Trading)"
+title: "Promissory Estoppel: Requirements And Example"
 description: "Explore the key roles and implications of promissory estoppel, a pivotal doctrine in contract law, and its intersection with algorithmic trading dynamics."
 ---
 

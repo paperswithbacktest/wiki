@@ -1,5 +1,5 @@
 ---
-title: "Rubinomics (Algo Trading)"
+title: "Rubinomics"
 description: "Explore Rubinomics and its influence on US economic policy under Robert Rubin emphasizing fiscal discipline free markets and its connection to algo trading."
 ---
 

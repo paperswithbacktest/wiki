@@ -1,5 +1,5 @@
 ---
-title: "Neli Alexieva (Algo Trading)"
+title: "Neli Alexieva"
 description: "Explore Neli Alexieva's journey from Bulgaria to becoming CFO at Akuna Capital Her expertise in finance and algorithmic trading is shaping the industry's future"
 ---
 

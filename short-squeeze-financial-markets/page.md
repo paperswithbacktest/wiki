@@ -1,5 +1,5 @@
 ---
-title: "Short Squeeze in Financial Markets (Algo Trading)"
+title: "Short Squeeze in Financial Markets"
 description: "Explore the relationship between short squeezes and algorithmic trading in financial markets Discover strategies to leverage these phenomena for smarter investments"
 ---
 

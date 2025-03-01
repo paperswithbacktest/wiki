@@ -1,5 +1,5 @@
 ---
-title: "Physical Delivery in Trading (Algo Trading)"
+title: "Physical Delivery in Trading"
 description: "Explore the roles of physical delivery and algorithmic trading in the financial markets Learn how they affect trade execution and market dynamics"
 ---
 

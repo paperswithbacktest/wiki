@@ -1,5 +1,5 @@
 ---
-title: "Volatility Skew and Market Sentiment (Algo Trading)"
+title: "Volatility Skew and Market Sentiment"
 description: "Explore how volatility skew and market sentiment impact algorithmic trading strategies and decision-making by providing insights into market conditions."
 ---
 

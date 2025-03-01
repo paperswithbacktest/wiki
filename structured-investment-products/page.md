@@ -1,5 +1,5 @@
 ---
-title: "Structured Investment Products (Algo Trading)"
+title: "Structured Investment Products"
 description: "Explore structured investment products and algorithmic trading in modern finance Uncover their benefits risks and strategies for optimizing financial outcomes"
 ---
 

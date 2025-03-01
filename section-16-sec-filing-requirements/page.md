@@ -1,5 +1,5 @@
 ---
-title: "Section 16 and SEC Filing Requirements (Algo Trading)"
+title: "Section 16 and SEC Filing Requirements"
 description: "Explore the critical intersection of Section 16 compliance and algorithmic trading learn how timely SEC filings enhance transparency and uphold market integrity."
 ---
 

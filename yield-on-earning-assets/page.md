@@ -1,5 +1,5 @@
 ---
-title: "Yield on Earning Assets (Algo Trading)"
+title: "Yield on Earning Assets"
 description: "Explore the synergy between yield financial metrics, earning assets, and algorithmic trading to enhance investment returns through data-driven strategies in finance."
 ---
 

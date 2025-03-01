@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Taking Profits from Options (Algo Trading)"
+title: "Strategies for Taking Profits from Options"
 description: "Explore profit-taking strategies in options algo trading to maximize returns and minimize risks. Learn how technology enhances trading efficiency and decision-making."
 ---
 

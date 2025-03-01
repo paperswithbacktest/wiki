@@ -1,5 +1,5 @@
 ---
-title: "Triple Bottom Line (Algo Trading)"
+title: "Triple Bottom Line"
 description: "Explore the intersection of CSR, sustainability, business ethics, and algorithmic trading to understand modern strategies for competitive and responsible practices."
 ---
 

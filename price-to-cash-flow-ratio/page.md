@@ -1,5 +1,5 @@
 ---
-title: "Price-to-Cash Flow Ratio (Algo Trading)"
+title: "Price-to-Cash Flow Ratio"
 description: "Explore the importance of the Price-to-Cash Flow ratio for financial valuation, highlighting its application in algorithmic trading and investment decision-making."
 ---
 

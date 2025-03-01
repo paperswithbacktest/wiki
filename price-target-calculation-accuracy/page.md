@@ -1,5 +1,5 @@
 ---
-title: "Price Target Calculation and Accuracy (Algo Trading)"
+title: "Price Target Calculation and Accuracy"
 description: "Explore the crucial role of accurate price target calculations in algorithmic trading strategies to maximize profits while effectively managing risks in financial markets."
 ---
 

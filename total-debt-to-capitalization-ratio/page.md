@@ -1,5 +1,5 @@
 ---
-title: "Total Debt-to-Capitalization Ratio (Algo Trading)"
+title: "Total Debt-to-Capitalization Ratio"
 description: "Explore how the debt-to-capitalization ratio informs financial analysis and enhances algorithmic trading strategies in today's dynamic markets."
 ---
 

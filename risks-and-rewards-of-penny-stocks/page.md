@@ -1,5 +1,5 @@
 ---
-title: "Risks and Rewards of Penny Stocks (Algo Trading)"
+title: "Risks and Rewards of Penny Stocks"
 description: "Explore the high-risk world of penny stocks and algorithmic trading, uncovering their potential rewards and pitfalls to make informed investment decisions."
 ---
 

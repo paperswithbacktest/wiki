@@ -1,5 +1,5 @@
 ---
-title: "Smart Beta Strategies and Examples (Algo Trading)"
+title: "Smart Beta Strategies and Examples"
 description: "Explore the innovative world of smart beta strategies in algorithmic trading and learn how these methods can enhance investment returns by targeting specific market factors."
 ---
 

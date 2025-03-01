@@ -1,5 +1,5 @@
 ---
-title: "Unusual Business and Investing Terms on Investopedia (Algo Trading)"
+title: "Unusual Business and Investing Terms on Investopedia"
 description: "Explore unique business and investing terms vital for algorithmic trading on Investopedia Enhance your market knowledge and trading strategies effectively"
 ---
 

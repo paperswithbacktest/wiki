@@ -1,5 +1,5 @@
 ---
-title: "Storage Methods for NFTs (Algo Trading)"
+title: "Storage Methods for NFTs"
 description: "Discover effective methods for securely storing NFTs and explore the integration with algorithmic trading. Protect your investments and maximize NFT potential."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MSCI All Country World Index Overview (Algo Trading)"
+title: "MSCI All Country World Index Overview"
 description: "Discover the MSCI All Country World Index's pivotal role in global investing as a benchmark for market performance and its integration with algorithmic trading."
 ---
 

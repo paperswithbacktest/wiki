@@ -1,5 +1,5 @@
 ---
-title: "Quotation Explained (Algo Trading)"
+title: "Quotation Explained"
 description: "Discover the crucial role of quotations and algorithmic trading in modern financial markets. Understand how asset prices fluctuate with market conditions and the importance of bid-ask spreads for trading decisions. Learn about the efficiency and speed benefits of algorithmic trading, crucial for large-scale investors. Gain insights into trend following and arbitrage strategies, backtesting with historical data, and the integration of real-time quotes in enhancing trading strategies. This article explores these concepts to help traders make informed decisions and refine their market engagement approaches."
 ---
 

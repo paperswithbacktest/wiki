@@ -1,5 +1,5 @@
 ---
-title: "Strip Options in Market Neutral Bearish Strategies (Algo Trading)"
+title: "Strip Options in Market Neutral Bearish Strategies"
 description: "Discover the Strip Options Market Neutral Strategy optimized for bearish markets Learn how this approach enhances trading through algorithmic systems for better outcomes"
 ---
 

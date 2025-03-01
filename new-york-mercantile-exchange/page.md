@@ -1,5 +1,5 @@
 ---
-title: "New York Mercantile Exchange (Algo Trading)"
+title: "New York Mercantile Exchange"
 description: "Explore the impact of algorithmic trading at NYMEX that enhances commodity trading efficiency by automating speed and price discovery in dynamic markets."
 ---
 

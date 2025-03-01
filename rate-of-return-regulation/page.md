@@ -1,5 +1,5 @@
 ---
-title: "Rate of Return Regulation (Algo Trading)"
+title: "Rate of Return Regulation"
 description: "Explore the dynamic intersection of rate-of-return regulation and algorithmic trading to discover innovative strategies, market impacts, and future possibilities."
 ---
 

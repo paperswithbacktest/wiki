@@ -1,5 +1,5 @@
 ---
-title: "Random Variable: Types and Applications (Algo Trading)"
+title: "Random Variable: Types and Applications"
 description: "Explore how random variables and probability are vital in crafting successful algorithmic trading strategies by managing uncertainty in financial markets."
 ---
 

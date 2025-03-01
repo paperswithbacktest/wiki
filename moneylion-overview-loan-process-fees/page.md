@@ -1,5 +1,5 @@
 ---
-title: "MoneyLion: Overview, Loan Process, and Fees (Algo Trading)"
+title: "MoneyLion: Overview, Loan Process, and Fees"
 description: "Discover how MoneyLion revolutionizes personal finance with its streamlined loan process and algorithmic trading insights while understanding associated fees."
 ---
 

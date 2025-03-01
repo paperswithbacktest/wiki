@@ -1,5 +1,5 @@
 ---
-title: "Pros and Cons of National Lotteries (Algo Trading)"
+title: "Pros and Cons of National Lotteries"
 description: "Explore the pros and cons of national lotteries and their integration with algo trading. Delve into benefits, drawbacks, and the impact on revenue and fairness."
 ---
 

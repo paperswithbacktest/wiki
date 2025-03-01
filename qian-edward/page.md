@@ -1,5 +1,5 @@
 ---
-title: "Qian, Edward (Algo Trading)"
+title: "Qian, Edward"
 description: Discover the groundbreaking contributions of Qian Edward in algorithmic trading. Renowned for his expertise in quantitative finance, Edward has revolutionized trading strategies by integrating machine learning and statistical models, enhancing accuracy and efficiency. His innovative methodologies focus on robust backtesting, real-time data analysis, and dynamic risk management, equipping both institutional and retail traders with cutting-edge tools. Explore how Edward's work has shaped the industry by reducing costs, improving execution, and democratizing access to advanced trading technologies.
 ---
 

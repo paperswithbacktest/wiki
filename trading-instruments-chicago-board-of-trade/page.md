@@ -1,5 +1,5 @@
 ---
-title: "Trading Instruments on the Chicago Board of Trade (Algo Trading)"
+title: "Trading Instruments on the Chicago Board of Trade"
 description: "Explore the Chicago Board of Trade's trading instruments and the evolution of algorithmic trading in financial markets a blend of tradition and innovation."
 ---
 

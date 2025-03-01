@@ -1,5 +1,5 @@
 ---
-title: "OECD (Algo Trading)"
+title: "OECD"
 description: "Explore the OECD's role in shaping global economic policies with a focus on algorithmic trading's impact on market liquidity and financial stability."
 ---
 

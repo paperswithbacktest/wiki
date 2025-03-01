@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Theorem: Significance and Mechanism (Algo Trading)"
+title: "Mutual Fund Theorem: Significance and Mechanism"
 description: "Discover the mutual fund theorem's significance in finance and its role in investment strategies alongside algorithmic trading for portfolio optimization."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Performance Evaluation (Algo Trading)"
+title: "Portfolio Performance Evaluation"
 description: "Explore key metrics for evaluating portfolio performance within algorithmic trading, vital for optimizing strategies, improving risk management, and enhancing investment returns."
 ---
 

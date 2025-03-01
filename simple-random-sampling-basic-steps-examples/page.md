@@ -1,5 +1,5 @@
 ---
-title: "Simple Random Sampling: Basic Steps and Examples (Algo Trading)"
+title: "Simple Random Sampling: Basic Steps and Examples"
 description: "Explore the significance of simple random sampling in algorithmic trading, a critical technique for both accuracy and efficiency in financial data analysis. Learn basic steps, benefits, and how it reduces bias, offering a reliable cross-section of large datasets crucial for automated decision-making in trading."
 ---
 

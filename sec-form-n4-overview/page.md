@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-4 Overview (Algo Trading)"
+title: "SEC Form N-4 Overview"
 description: "Explore the role of SEC Form N-4 in annuities and its regulation of variable annuities. Learn about algorithmic trading and its impact on automated investing strategies."
 ---
 

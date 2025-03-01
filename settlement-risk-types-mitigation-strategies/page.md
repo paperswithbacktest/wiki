@@ -1,5 +1,5 @@
 ---
-title: "Settlement Risk: Types and Mitigation Strategies (Algo Trading)"
+title: "Settlement Risk: Types and Mitigation Strategies"
 description: "Explore types and strategies for mitigating settlement risk in algorithmic trading Discover methods to safeguard financial transactions and enhance market stability"
 ---
 

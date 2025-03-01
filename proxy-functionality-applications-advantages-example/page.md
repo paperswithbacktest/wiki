@@ -1,5 +1,5 @@
 ---
-title: "Proxy: Functionality, Applications, Advantages, and Example (Algo Trading)"
+title: "Proxy: Functionality, Applications, Advantages, and Example"
 description: "Discover how proxies function as intermediaries to enhance security and performance in network security and algorithmic trading. Learn how they offer anonymity by masking IP addresses, filter web content, and reduce latency, crucial for high-speed trading. Understand the benefits of proxies in safeguarding data integrity and optimizing resource use for a more secure and efficient technological environment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Notable Large-Cap Core Mutual Funds (Algo Trading)"
+title: "Notable Large-Cap Core Mutual Funds"
 description: "Discover the benefits of large-cap and core mutual funds alongside the innovative role of algorithmic trading in modern investment strategies for stable returns."
 ---
 

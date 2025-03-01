@@ -1,5 +1,5 @@
 ---
-title: "Risk-Reward Ratio in Stock Investing (Algo Trading)"
+title: "Risk-Reward Ratio in Stock Investing"
 description: "Explore essential strategies and the importance of risk-reward ratios in stock investing with a focus on how algorithmic trading can enhance your investment outcomes."
 ---
 

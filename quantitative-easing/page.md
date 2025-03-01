@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Easing (Algo Trading)"
+title: "Quantitative Easing"
 description: "Explore the dynamic world of quantitative easing and its impact on algorithmic trading in financial markets. Understand how central banks utilize quantitative easing to stimulate economic activity by injecting liquidity through large-scale asset purchases. Discover the role of algorithmic trading in modern financial systems, leveraging advanced technology for rapid and efficient trading operations. This page investigates into the intersection of these key financial mechanisms, offering insights into their effects on market behavior, liquidity, and economic growth."
 ---
 

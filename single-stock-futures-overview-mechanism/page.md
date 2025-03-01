@@ -1,5 +1,5 @@
 ---
-title: "Single Stock Futures: Overview and Mechanism (Algo Trading)"
+title: "Single Stock Futures: Overview and Mechanism"
 description: "Explore the dynamic world of single stock futures and algorithmic trading to enhance investment strategies with increased efficiency while managing risks effectively."
 ---
 

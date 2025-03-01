@@ -1,5 +1,5 @@
 ---
-title: "Rolling Options: Mechanism and Examples (Algo Trading)"
+title: "Rolling Options: Mechanism and Examples"
 description: "Explore rolling options mechanisms in algo trading to extend expiration dates, manage risks, and boost returns. Enhance strategies for optimal financial outcomes."
 ---
 

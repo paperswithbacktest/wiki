@@ -1,5 +1,5 @@
 ---
-title: "Rational Choice Theory in Economics with Examples (Algo Trading)"
+title: "Rational Choice Theory in Economics with Examples"
 description: "Explore how rational choice theory applies in economics and its real-world influence on algo trading for traders, offering insights into market dynamics."
 ---
 

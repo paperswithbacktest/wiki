@@ -1,5 +1,5 @@
 ---
-title: "Off-Balance-Sheet Entities (Algo Trading)"
+title: "Off-Balance-Sheet Entities"
 description: "Explore the synergy and challenges of off-balance-sheet entities and algorithmic trading in modern finance. Understand their impact on strategies and transparency."
 ---
 

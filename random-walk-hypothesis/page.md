@@ -1,5 +1,5 @@
 ---
-title: "Random walk hypothesis (Algo Trading)"
+title: "Random walk hypothesis"
 description: "Explore the Random Walk Hypothesis a critical theory in algorithmic trading suggesting asset prices move unpredictably challenging market predictability."
 ---
 

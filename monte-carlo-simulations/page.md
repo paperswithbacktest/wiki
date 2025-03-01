@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo simulations (Algo Trading)"
+title: "Monte Carlo simulations"
 description: Explore the transformative role of Monte Carlo simulations in algorithmic trading. Discover how leveraging randomness enhances risk assessment and decision-making in financial markets. Gain insights into the method's power in modeling uncertainty, predicting outcomes, and strategizing for varied market conditions. This article investigates into Monte Carlo's significance in quantifying risks and shaping effective trading strategies.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Volatility Ratio: Concepts and Calculation (Algo Trading)"
+title: "Volatility Ratio: Concepts and Calculation"
 description: "Explore the significance of the volatility ratio in algorithmic trading and investment strategies Learn how to calculate and leverage it for optimizing trading outcomes"
 ---
 

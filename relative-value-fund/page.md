@@ -1,5 +1,5 @@
 ---
-title: "Relative Value Fund (Algo Trading)"
+title: "Relative Value Fund"
 description: "Discover how relative value funds utilize strategies to exploit pricing discrepancies between financial instruments aiming for consistent returns and market neutrality."
 ---
 

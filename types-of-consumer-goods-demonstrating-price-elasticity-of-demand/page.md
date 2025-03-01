@@ -1,5 +1,5 @@
 ---
-title: "Types of Consumer Goods Demonstrating Price Elasticity of Demand (Algo Trading)"
+title: "Types of Consumer Goods Demonstrating Price Elasticity of Demand"
 description: "Explore the relationship between price elasticity of demand and algorithmic trading in influencing market dynamics and investment strategies."
 ---
 

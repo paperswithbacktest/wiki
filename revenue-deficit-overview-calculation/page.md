@@ -1,5 +1,5 @@
 ---
-title: "Revenue Deficit: Overview and Calculation (Algo Trading)"
+title: "Revenue Deficit: Overview and Calculation"
 description: "Explore the intricate world of fiscal policy and algo trading Understand how revenue deficits impact investments and markets for informed financial decision-making"
 ---
 

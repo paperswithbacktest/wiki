@@ -1,5 +1,5 @@
 ---
-title: "Sine Wave: Applications and Origins (Algo Trading)"
+title: "Sine Wave: Applications and Origins"
 description: "Discover how sine waves impact algorithmic trading by modeling market cycles and trends. Explore their use in engineering, physics, and financial strategies."
 ---
 

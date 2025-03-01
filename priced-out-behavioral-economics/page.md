@@ -1,5 +1,5 @@
 ---
-title: "Priced Out in Behavioral Economics (Algo Trading)"
+title: "Priced Out in Behavioral Economics"
 description: "Explore the intersection of behavioral economics and algorithmic trading to uncover insights on market dynamics and refine strategies amid rising costs and biases."
 ---
 

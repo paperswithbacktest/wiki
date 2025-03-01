@@ -1,5 +1,5 @@
 ---
-title: "Virtu Financial Overview (Algo Trading)"
+title: "Virtu Financial Overview"
 description: "Explore Virtu Financial's role in algorithmic trading and market making with insights into its technological innovations and regulatory challenges."
 ---
 

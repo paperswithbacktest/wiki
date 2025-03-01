@@ -1,5 +1,5 @@
 ---
-title: "Speculative Capital and Its Mechanisms (Algo Trading)"
+title: "Speculative Capital and Its Mechanisms"
 description: "Understand the dynamic world of speculative capital and algorithmic trading Learn about risk management and AI advancements in financial strategies for investors"
 ---
 

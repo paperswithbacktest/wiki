@@ -1,5 +1,5 @@
 ---
-title: "Selling Put Options for Profit in Various Market Conditions (Algo Trading)"
+title: "Selling Put Options for Profit in Various Market Conditions"
 description: "Explore the benefits of selling put options in diverse market conditions using algorithmic trading strategies to enhance profitability and manage risks."
 ---
 

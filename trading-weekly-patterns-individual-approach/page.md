@@ -1,5 +1,5 @@
 ---
-title: "Trading Weekly Patterns: An Individual Approach (Algo Trading)"
+title: "Trading Weekly Patterns: An Individual Approach"
 description: "Explore algorithmic trading with a focus on weekly patterns to capture long-term market trends, reduce noise, and boost efficiency with automated strategies."
 ---
 

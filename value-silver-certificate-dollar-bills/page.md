@@ -1,5 +1,5 @@
 ---
-title: "Value of Silver Certificate Dollar Bills (Algo Trading)"
+title: "Value of Silver Certificate Dollar Bills"
 description: "Explore the historical and collectible value of Silver Certificate Dollar Bills, and discover how algorithmic trading can influence this niche market."
 ---
 

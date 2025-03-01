@@ -1,5 +1,5 @@
 ---
-title: "Microstructure noise modeling (Algo Trading)"
+title: "Microstructure noise modeling"
 description: "Explore market microstructure noise in algorithmic trading uncovering its sources like transaction costs and strategies for refining robust trading methods."
 ---
 

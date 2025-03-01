@@ -1,5 +1,5 @@
 ---
-title: "Overview of Other Comprehensive Basis of Accounting (Algo Trading)"
+title: "Overview of Other Comprehensive Basis of Accounting"
 description: "Discover the crucial role of accounting methods in financial reporting and algorithmic trading, exploring OCBOA as a flexible alternative to GAAP."
 ---
 

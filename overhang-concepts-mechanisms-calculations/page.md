@@ -1,5 +1,5 @@
 ---
-title: "Overhang: Concepts, Mechanisms, and Calculations (Algo Trading)"
+title: "Overhang: Concepts, Mechanisms, and Calculations"
 description: "Explore the concepts and calculations behind overhang in algorithmic trading Understand its impact on trading dynamics and risk management strategies"
 ---
 

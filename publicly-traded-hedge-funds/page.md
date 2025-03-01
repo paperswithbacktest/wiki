@@ -1,5 +1,5 @@
 ---
-title: "Publicly Traded Hedge Funds (Algo Trading)"
+title: "Publicly Traded Hedge Funds"
 description: "Explore publicly traded hedge funds and the role of algorithmic trading Learn key factors driving these funds public and get examples like BlackRock and Blackstone"
 ---
 

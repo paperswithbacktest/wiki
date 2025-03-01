@@ -1,5 +1,5 @@
 ---
-title: "Swap Banks: Functionality and Advantages (Algo Trading)"
+title: "Swap Banks: Functionality and Advantages"
 description: "Explore swap banks, their functionality, and advantages in algotrading. Learn how swaps and swaptions optimize risk management and strategic financial decisions."
 ---
 

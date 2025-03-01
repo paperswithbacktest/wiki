@@ -1,5 +1,5 @@
 ---
-title: "Rationing: Objectives and Historical Examples (Algo Trading)"
+title: "Rationing: Objectives and Historical Examples"
 description: "Explore the objectives and historical examples of rationing and algorithmic trading in this article. Discover how rationing ensures equitable distribution of scarce resources during crises while algorithmic trading transforms financial markets, improving efficiency and reducing costs. Gain insights into resource management strategies and market dynamics in this comprehensive analysis."
 ---
 

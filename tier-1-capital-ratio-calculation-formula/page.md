@@ -1,5 +1,5 @@
 ---
-title: "Tier 1 Capital Ratio and Calculation Formula (Algo Trading)"
+title: "Tier 1 Capital Ratio and Calculation Formula"
 description: "Learn about the Tier 1 Capital Ratio and how algorithmic trading reshapes banking and finance Discover key metrics essential for stability and growth"
 ---
 

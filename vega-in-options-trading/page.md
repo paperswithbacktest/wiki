@@ -1,5 +1,5 @@
 ---
-title: "Vega in Options Trading (Algo Trading)"
+title: "Vega in Options Trading"
 description: "Explore the world of options trading with a focus on Vega, a key Greek metric that measures an option's sensitivity to changes in implied volatility. Discover how algorithmic trading enhances risk management and strategy precision by leveraging Vega. Understand the role of Vega-neutral strategies in mitigating volatility risk and how algorithmic systems dynamically manage portfolio exposure. This article offers insights into optimizing options trading strategies in today's dynamic financial markets with advanced technology and traditional knowledge."
 ---
 

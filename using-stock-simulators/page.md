@@ -1,5 +1,5 @@
 ---
-title: "Using Stock Simulators (Algo Trading)"
+title: "Using Stock Simulators"
 description: "Explore the benefits of stock simulators for virtual trading to refine your skills and algorithms risk-free. Improve strategies with real-time data and analysis."
 ---
 

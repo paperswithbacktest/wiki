@@ -1,5 +1,5 @@
 ---
-title: "Supranational: Concepts, Criticisms, and Examples (Algo Trading)"
+title: "Supranational: Concepts, Criticisms, and Examples"
 description: "Explore the intricate dynamics between supranational organizations and algorithmic trading, key players in shaping global economic governance and financial market evolution."
 ---
 

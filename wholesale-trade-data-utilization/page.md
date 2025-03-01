@@ -1,5 +1,5 @@
 ---
-title: "Wholesale Trade and Data Utilization (Algo Trading)"
+title: "Wholesale Trade and Data Utilization"
 description: "Discover how data utilization transforms wholesale trade and algorithmic trading strategies driving decision-making efficiency and strategic planning in commerce."
 ---
 

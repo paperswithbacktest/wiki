@@ -1,5 +1,5 @@
 ---
-title: "Order Flow Imbalance Indicators (Algo Trading)"
+title: "Order Flow Imbalance Indicators"
 description: "Explore the importance of Order Flow Imbalance Indicators in high-frequency trading to gain insights into market dynamics and enhance algorithmic strategies."
 ---
 

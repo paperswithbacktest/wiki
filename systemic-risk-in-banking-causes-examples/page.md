@@ -1,5 +1,5 @@
 ---
-title: "Systemic Risk in Banking: Causes and Examples (Algo Trading)"
+title: "Systemic Risk in Banking: Causes and Examples"
 description: "Explore systemic risk in banking and how algorithmic trading impacts financial stability. Understand causes, examples, and regulatory measures to mitigate risks."
 ---
 

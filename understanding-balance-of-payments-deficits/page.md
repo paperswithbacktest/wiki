@@ -1,5 +1,5 @@
 ---
-title: "Understanding Balance of Payments Deficits (Algo Trading)"
+title: "Understanding Balance of Payments Deficits"
 description: "Explore the complexities of balance of payments deficits and the role of algorithmic trading in shaping financial markets for better decision-making strategies."
 ---
 

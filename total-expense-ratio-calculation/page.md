@@ -1,5 +1,5 @@
 ---
-title: "Total Expense Ratio and Calculation (Algo Trading)"
+title: "Total Expense Ratio and Calculation"
 description: "Gain insights into the Total Expense Ratio TER and its crucial role in algorithmic trading Understand its calculation and impact on cost efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Financial Protection Against Stagflation (Algo Trading)"
+title: "Strategies for Financial Protection Against Stagflation"
 description: "Explore how algorithmic trading can safeguard investments during stagflation This article offers financial strategies to balance inflation control with economic growth"
 ---
 

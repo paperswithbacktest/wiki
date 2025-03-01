@@ -1,5 +1,5 @@
 ---
-title: "Toll Revenue Bonds: Overview and Examples (Algo Trading)"
+title: "Toll Revenue Bonds: Overview and Examples"
 description: "Explore toll revenue bonds as essential tools for funding infrastructure, offering insights into their role and the transformative impact of algorithmic trading."
 ---
 

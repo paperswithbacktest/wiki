@@ -1,5 +1,5 @@
 ---
-title: "Odd Lot Theory (Algo Trading)"
+title: "Odd Lot Theory"
 description: "Explore the Odd Lot Theory's role in stock trading and its use in algorithmic strategies Discover how retail investor behaviors can signal market trends"
 ---
 

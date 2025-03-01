@@ -1,5 +1,5 @@
 ---
-title: "Percentage of Completion Method (Algo Trading)"
+title: "Percentage of Completion Method"
 description: "Explore the percentage of completion method a vital accounting technique in financial reporting used across various industries like construction and software development."
 ---
 

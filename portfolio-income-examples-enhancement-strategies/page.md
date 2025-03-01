@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Income: Overview, Examples, and Enhancement Strategies (Algo Trading)"
+title: "Portfolio Income: Overview, Examples, and Enhancement Strategies"
 description: "Discover how to enhance portfolio income through diversified investment strategies, algorithmic trading, and tax advantages for sustainable earnings growth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Quadruple Witching and Its Impact on Stock Markets (Algo Trading)"
+title: "Quadruple Witching and Its Impact on Stock Markets"
 description: "Explore the impact of quadruple witching on stock markets and how algorithmic trading aids investors in navigating these volatile market events effectively."
 ---
 

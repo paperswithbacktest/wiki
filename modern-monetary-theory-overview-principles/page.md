@@ -1,5 +1,5 @@
 ---
-title: "Modern Monetary Theory: Overview and Principles (Algo Trading)"
+title: "Modern Monetary Theory: Overview and Principles"
 description: "Explore the impact of Modern Monetary Theory on algorithmic trading which challenges traditional economic paradigms by redefining fiscal policy and market strategies."
 ---
 

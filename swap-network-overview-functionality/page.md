@@ -1,5 +1,5 @@
 ---
-title: "Swap Network Overview and Functionality (Algo Trading)"
+title: "Swap Network Overview and Functionality"
 description: "Discover how swap networks and algorithmic trading revolutionize risk management in the financial market enhancing efficiency, strategic positioning, and liquidity control."
 ---
 

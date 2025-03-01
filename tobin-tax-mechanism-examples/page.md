@@ -1,5 +1,5 @@
 ---
-title: "Tobin Tax: Mechanism and Examples (Algo Trading)"
+title: "Tobin Tax: Mechanism and Examples"
 description: "Explore the Tobin Tax a form of Financial Transaction Tax aimed at curbing market speculation and volatility Enhance understanding of its mechanisms and global impact"
 ---
 

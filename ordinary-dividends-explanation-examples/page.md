@@ -1,5 +1,5 @@
 ---
-title: "Ordinary Dividends: Explanation and Examples (Algo Trading)"
+title: "Ordinary Dividends: Explanation and Examples"
 description: "Explore the synergy between ordinary dividends and algorithmic trading to optimize your investment strategies. Learn how stable income and data-driven decisions enhance returns."
 ---
 

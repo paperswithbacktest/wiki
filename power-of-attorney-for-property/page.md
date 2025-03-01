@@ -1,5 +1,5 @@
 ---
-title: "Power of Attorney for Property (Algo Trading)"
+title: "Power of Attorney for Property"
 description: "Explore how Power of Attorney aids property management and the synergy with algorithmic trading for optimized asset control. Legal and tech innovations collide here."
 ---
 

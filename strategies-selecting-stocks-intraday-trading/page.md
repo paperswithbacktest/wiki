@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Selecting Stocks in Intraday Trading (Algo Trading)"
+title: "Strategies for Selecting Stocks in Intraday Trading"
 description: "Discover effective strategies for selecting stocks in intraday trading and algorithmic trading. Learn how liquidity, volatility, and technical indicators play pivotal roles in stock selection."
 ---
 

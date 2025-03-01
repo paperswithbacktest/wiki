@@ -1,5 +1,5 @@
 ---
-title: "List of Most Volatile Economic Sectors (Algo Trading)"
+title: "List of Most Volatile Economic Sectors"
 description: "Explore the most volatile economic sectors and learn how algorithmic trading assists in managing and capitalizing on market fluctuations for potential profit."
 ---
 

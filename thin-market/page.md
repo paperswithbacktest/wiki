@@ -1,5 +1,5 @@
 ---
-title: "Thin Market (Algo Trading)"
+title: "Thin Market"
 description: "Explore the dynamics of thin markets, algorithmic trading, and liquidity in finance. Learn how these elements influence market behavior and trading strategies."
 ---
 

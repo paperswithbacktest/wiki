@@ -1,5 +1,5 @@
 ---
-title: "Stress Testing and Value at Risk Analysis (Algo Trading)"
+title: "Stress Testing and Value at Risk Analysis"
 description: "Explore how Value at Risk and stress testing work together in algorithmic trading to enhance risk management by estimating potential losses and preparing for market extremes."
 ---
 

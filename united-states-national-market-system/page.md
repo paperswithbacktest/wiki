@@ -1,5 +1,5 @@
 ---
-title: "United States National Market System (Algo Trading)"
+title: "United States National Market System"
 description: "Explore the relationship between securities regulation algorithmic trading and U.S. stock exchanges focusing on transparency fairness and efficiency in market practices."
 ---
 

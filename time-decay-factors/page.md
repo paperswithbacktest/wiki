@@ -1,5 +1,5 @@
 ---
-title: "Time-decay factors (Algo Trading)"
+title: "Time-decay factors"
 description: Explore the role of time-decay factors in algorithmic trading and how mastering theta can enhance options trading strategies. This article investigates into the mechanics of time-decay and its critical influence on option pricing and trading decisions, empowering traders to optimize performance and develop effective risk management practices with sophisticated algorithms.
 ---
 

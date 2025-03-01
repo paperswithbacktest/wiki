@@ -1,5 +1,5 @@
 ---
-title: "Unitholder: Meaning, Taxation, and Examples (Algo Trading)"
+title: "Unitholder: Meaning, Taxation, and Examples"
 description: "Explore the intricate relationship between unitholder investments, taxation, and algorithmic trading to optimize returns, ensure compliance, and manage tax burdens."
 ---
 

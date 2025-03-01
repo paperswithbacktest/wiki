@@ -1,5 +1,5 @@
 ---
-title: "Technology Bubble: Overview and Examples (Algo Trading)"
+title: "Technology Bubble: Overview and Examples"
 description: "Explore technology bubbles through historical examples like the Dotcom Bubble and Bitcoin Bubble Learn how algorithmic trading influences these economic phenomena"
 ---
 

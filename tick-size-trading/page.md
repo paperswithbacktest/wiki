@@ -1,5 +1,5 @@
 ---
-title: "Tick Size in Trading (Algo Trading)"
+title: "Tick Size in Trading"
 description: "Explore the crucial role of tick size in trading and its impact on market liquidity, pricing, and algorithmic strategies in evolving financial markets."
 ---
 

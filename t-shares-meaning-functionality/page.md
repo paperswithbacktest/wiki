@@ -1,5 +1,5 @@
 ---
-title: "T Shares: Meaning and Functionality (Algo Trading)"
+title: "T Shares: Meaning and Functionality"
 description: "Explore T Shares and algorithmic trading innovations transforming finance through cost efficiency and speed Discover how to navigate these key developments"
 ---
 

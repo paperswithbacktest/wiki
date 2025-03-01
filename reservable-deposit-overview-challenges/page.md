@@ -1,5 +1,5 @@
 ---
-title: "Reservable Deposit: Overview and Challenges (Algo Trading)"
+title: "Reservable Deposit: Overview and Challenges"
 description: "Explore the intricate connection between reservable deposits, banking regulations, and algorithmic trading, crucial for financial stability and strategic banking operations."
 ---
 

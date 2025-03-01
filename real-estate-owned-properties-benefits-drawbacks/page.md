@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Owned Properties: Benefits and Drawbacks (Algo Trading)"
+title: "Real Estate Owned Properties: Benefits and Drawbacks"
 description: "Explore the synergy of REO properties and algorithmic trading in real estate Learn the benefits and drawbacks of tech-driven investments in distressed assets"
 ---
 

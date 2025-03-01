@@ -1,5 +1,5 @@
 ---
-title: "Net Tangible Assets (Algo Trading)"
+title: "Net Tangible Assets"
 description: "Discover the significance of Net Tangible Assets in evaluating a company's financial health. Explore its role in investment strategy and algorithmic trading."
 ---
 

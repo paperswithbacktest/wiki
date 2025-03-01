@@ -1,5 +1,5 @@
 ---
-title: "Safety of U.S. Corporate Bonds for Investment (Algo Trading)"
+title: "Safety of U.S. Corporate Bonds for Investment"
 description: "Explore the safety of U.S. corporate bonds as investment options understanding their risks and benefits especially with the evolving role of algorithmic trading."
 ---
 

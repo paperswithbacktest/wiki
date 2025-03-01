@@ -1,5 +1,5 @@
 ---
-title: "Swing: Functionality and Common Questions (Algo Trading)"
+title: "Swing: Functionality and Common Questions"
 description: "Explore the power of swing trading with algorithmic strategies Discover how automated systems optimize entry and exit points to enhance trading efficiency"
 ---
 

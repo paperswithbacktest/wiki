@@ -1,5 +1,5 @@
 ---
-title: "Scope of the Wealth Management and Financial Advisory Industry (Algo Trading)"
+title: "Scope of the Wealth Management and Financial Advisory Industry"
 description: "Explore the wealth management industry's current scale and future growth potential, focusing on how algorithmic trading is reshaping financial advisory practices."
 ---
 

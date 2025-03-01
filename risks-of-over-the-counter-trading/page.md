@@ -1,5 +1,5 @@
 ---
-title: "Risks of Over-the-Counter Trading (Algo Trading)"
+title: "Risks of Over-the-Counter Trading"
 description: "Explore the risks of over-the-counter and algorithmic trading focusing on liquidity issues, lack of transparency, potential for errors, and market manipulation."
 ---
 

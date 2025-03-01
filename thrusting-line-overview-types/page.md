@@ -1,5 +1,5 @@
 ---
-title: "Thrusting Line: Overview and Types (Algo Trading)"
+title: "Thrusting Line: Overview and Types"
 description: "Explore the thrusting line candlestick pattern in algo trading to enhance short-term market prediction and automated trade execution with technical analysis."
 ---
 

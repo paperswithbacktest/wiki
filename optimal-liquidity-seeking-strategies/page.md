@@ -1,5 +1,5 @@
 ---
-title: "Optimal Liquidity Seeking Strategies (Algo Trading)"
+title: "Optimal Liquidity Seeking Strategies"
 description: "Discover optimal liquidity seeking strategies in algorithmic trading to execute large orders efficiently with minimal market impact using advanced algorithms."
 ---
 

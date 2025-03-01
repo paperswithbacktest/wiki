@@ -1,5 +1,5 @@
 ---
-title: "Numeraire: Definition, History, and Function (Algo Trading)"
+title: "Numeraire: Definition, History, and Function"
 description: "Explore the integral role of numeraire in economics and finance by understanding its historical context, mathematical foundations, and practical applications in algo trading."
 ---
 

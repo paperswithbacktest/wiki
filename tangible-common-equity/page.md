@@ -1,5 +1,5 @@
 ---
-title: "Tangible Common Equity (Algo Trading)"
+title: "Tangible Common Equity"
 description: "Discover how Tangible Common Equity (TCE) impacts equity finance and algorithmic trading by providing a conservative measure of financial resilience and risk management."
 ---
 

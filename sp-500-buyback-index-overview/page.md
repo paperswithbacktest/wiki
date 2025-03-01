@@ -1,5 +1,5 @@
 ---
-title: "S&P 500 Buyback Index Overview (Algo Trading)"
+title: "S&P 500 Buyback Index Overview"
 description: "Discover the power of combining S&P 500 Buyback Index strategies with algorithmic trading techniques for enhanced returns and precision in today's markets."
 ---
 

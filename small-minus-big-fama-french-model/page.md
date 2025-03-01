@@ -1,5 +1,5 @@
 ---
-title: "Small Minus Big in Fama-French Model (Algo Trading)"
+title: "Small Minus Big in Fama-French Model"
 description: "Explore the SMB factor in the Fama-French Model for algorithmic trading to enhance strategies by targeting small-cap stocks with higher return potential."
 ---
 

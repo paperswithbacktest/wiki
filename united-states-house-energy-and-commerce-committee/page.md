@@ -1,5 +1,5 @@
 ---
-title: "United States House Energy and Commerce Committee (Algo Trading)"
+title: "United States House Energy and Commerce Committee"
 description: "Explore the pivotal role of the U.S. House Energy and Commerce Committee in shaping policy on energy commerce and the regulation of algorithmic trading."
 ---
 

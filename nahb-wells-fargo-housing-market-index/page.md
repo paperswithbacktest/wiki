@@ -1,5 +1,5 @@
 ---
-title: "NAHB/Wells Fargo Housing Market Index (Algo Trading)"
+title: "NAHB/Wells Fargo Housing Market Index"
 description: "Explore the impact of the NAHB/Wells Fargo Housing Market Index on algorithmic trading strategies to enhance real estate investment decisions and market insights."
 ---
 

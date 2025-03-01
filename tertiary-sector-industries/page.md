@@ -1,5 +1,5 @@
 ---
-title: "Tertiary Sector Industries (Algo Trading)"
+title: "Tertiary Sector Industries"
 description: "Discover the transformative role of the tertiary sector and algorithmic trading in today's economy Unlock insights on optimizing investments and driving growth"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pivot Points in Forex Trading (Algo Trading)"
+title: "Pivot Points in Forex Trading"
 description: "Pivot points in forex trading are key tools for identifying potential support and resistance levels aiding traders in market trend prediction and strategy optimization."
 ---
 

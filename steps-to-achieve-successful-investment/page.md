@@ -1,5 +1,5 @@
 ---
-title: "Steps to Achieve a Successful Investment (Algo Trading)"
+title: "Steps to Achieve a Successful Investment"
 description: "Explore diverse investment strategies and the synergy between traditional and algorithmic trading to optimize portfolios for enhanced financial success and security."
 ---
 

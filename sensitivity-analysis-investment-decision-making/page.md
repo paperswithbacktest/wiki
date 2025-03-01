@@ -1,5 +1,5 @@
 ---
-title: "Sensitivity Analysis in Investment Decision-Making (Algo Trading)"
+title: "Sensitivity Analysis in Investment Decision-Making"
 description: "Explore the synergy of sensitivity analysis financial analysis and algorithmic trading in investment decisions to enhance risk management and strategic planning."
 ---
 

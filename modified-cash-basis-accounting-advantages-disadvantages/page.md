@@ -1,5 +1,5 @@
 ---
-title: "Modified Cash-Basis Accounting: Advantages and Disadvantages (Algo Trading)"
+title: "Modified Cash-Basis Accounting: Advantages and Disadvantages"
 description: "Explore the impact of modified cash-basis accounting in algorithmic trading, highlighting its advantages and disadvantages for effective financial management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Michael Gleason (Algo Trading)"
+title: "Michael Gleason"
 description: "Michael Gleason is a renowned expert in algorithmic trading and investment management shaping strategies with data-driven innovations at Acadian Asset Management."
 ---
 

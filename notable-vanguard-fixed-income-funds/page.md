@@ -1,5 +1,5 @@
 ---
-title: "Notable Vanguard Fixed-Income Funds (Algo Trading)"
+title: "Notable Vanguard Fixed-Income Funds"
 description: "Explore notable Vanguard fixed-income funds with a focus on algorithmic trading for optimized investments Discover diversified portfolios and steady income options"
 ---
 

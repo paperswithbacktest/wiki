@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Qualified and Ordinary Dividends (Algo Trading)"
+title: "Taxation of Qualified and Ordinary Dividends"
 description: "Explore the tax implications of qualified and ordinary dividends and discover how algorithmic trading can enhance your investment strategy for optimal returns."
 ---
 

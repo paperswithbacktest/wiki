@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Endowments (Algo Trading)"
+title: "Taxation of Endowments"
 description: "Explore the complexities of taxation and algorithmic trading in endowment management, enhancing financial strategies for non-profits to sustain their missions."
 ---
 

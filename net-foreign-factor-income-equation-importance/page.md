@@ -1,5 +1,5 @@
 ---
-title: "Net Foreign Factor Income: Equation and Importance (Algo Trading)"
+title: "Net Foreign Factor Income: Equation and Importance"
 description: "Understand Net Foreign Factor Income's importance and its impact on algorithmic trading strategies. Discover how NFFI shapes global economic interactions."
 ---
 

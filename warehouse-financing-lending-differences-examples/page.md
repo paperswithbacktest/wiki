@@ -1,5 +1,5 @@
 ---
-title: "Warehouse Financing and Lending: Differences and Examples (Algo Trading)"
+title: "Warehouse Financing and Lending: Differences and Examples"
 description: "Discover the distinctions between warehouse financing and lending with examples from algo trading. Learn how these tools enhance business liquidity and strategy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Nonparametric Statistics Overview and Examples (Algo Trading)"
+title: "Nonparametric Statistics Overview and Examples"
 description: "Explore the advantages of nonparametric statistics in algorithmic trading Discover how these flexible methods enhance data analysis and trading strategies"
 ---
 

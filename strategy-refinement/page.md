@@ -1,5 +1,5 @@
 ---
-title: "Strategy refinement (Algo Trading)"
+title: "Strategy refinement"
 description: Enhance your algorithmic trading success with strategy refinement techniques that adapt to dynamic market conditions, optimize performance metrics, and employ advanced methods like backtesting and machine learning. Stay competitive and maximize profitability by continuously improving your trading algorithms for better risk management and market responsiveness.
 ---
 

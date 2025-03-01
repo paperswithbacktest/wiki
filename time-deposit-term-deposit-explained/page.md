@@ -1,5 +1,5 @@
 ---
-title: "Time Deposit and Term Deposit Explained (Algo Trading)"
+title: "Time Deposit and Term Deposit Explained"
 description: "Discover the benefits and risks of combining term deposits and algorithmic trading for a balanced investment portfolio featuring stable returns and growth potential."
 ---
 

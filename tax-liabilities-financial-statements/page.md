@@ -1,5 +1,5 @@
 ---
-title: "Tax Liabilities in Financial Statements (Algo Trading)"
+title: "Tax Liabilities in Financial Statements"
 description: "Explore the intersection of financial statements, tax liabilities, and algorithmic trading. Learn how accounting methods impact tax strategies and financial performance."
 ---
 

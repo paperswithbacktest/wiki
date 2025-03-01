@@ -1,5 +1,5 @@
 ---
-title: "Yen ETFs: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Yen ETFs: Overview, Advantages, and Disadvantages"
 description: "Explore the pros and cons of investing in Yen ETFs and discover how algorithmic trading enhances strategic decisions for currency exposure and risk management."
 ---
 

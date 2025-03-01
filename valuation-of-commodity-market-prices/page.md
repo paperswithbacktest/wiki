@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Commodity Market Prices (Algo Trading)"
+title: "Valuation of Commodity Market Prices"
 description: "Explore the principles of commodity market pricing and valuation, and discover how algorithmic trading is transforming this dynamic and volatile sector for investors."
 ---
 

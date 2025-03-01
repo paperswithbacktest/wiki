@@ -1,5 +1,5 @@
 ---
-title: "Trading Strategies Without Market Noise (Algo Trading)"
+title: "Trading Strategies Without Market Noise"
 description: "Discover effective trading strategies that cut through market noise using algorithmic trading to enhance precision and profitability without human bias."
 ---
 

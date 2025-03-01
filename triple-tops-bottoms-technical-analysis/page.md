@@ -1,5 +1,5 @@
 ---
-title: "Triple Tops and Bottoms in Technical Analysis (Algo Trading)"
+title: "Triple Tops and Bottoms in Technical Analysis"
 description: "Discover how triple tops and bottoms in technical analysis can predict market reversals. Leverage these chart patterns with algo trading for optimal strategies."
 ---
 

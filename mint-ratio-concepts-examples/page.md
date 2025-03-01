@@ -1,5 +1,5 @@
 ---
-title: "Mint Ratio: Concepts and Examples (Algo Trading)"
+title: "Mint Ratio: Concepts and Examples"
 description: "Explore mint ratio concepts and examples in algorithmic trading to optimize your investment strategy. Learn how it signals market shifts and aids portfolio management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Risk Assets: Examples From Stocks to Cryptocurrencies (Algo Trading)"
+title: "Risk Assets: Examples From Stocks to Cryptocurrencies"
 description: "Explore the dynamic world of risk assets including stocks and cryptocurrencies and discover how algorithmic trading is transforming investment strategies for better risk management."
 ---
 

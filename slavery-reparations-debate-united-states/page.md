@@ -1,5 +1,5 @@
 ---
-title: "Slavery Reparations Debate in the United States (Algo Trading)"
+title: "Slavery Reparations Debate in the United States"
 description: "Explore the intricate debate on slavery reparations and algorithmic trading in the U.S. Discover how historical justice and modern finance intertwine in shaping society."
 ---
 

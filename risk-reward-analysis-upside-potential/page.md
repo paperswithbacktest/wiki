@@ -1,5 +1,5 @@
 ---
-title: "Risk and Reward Analysis: Upside Potential (Algo Trading)"
+title: "Risk and Reward Analysis: Upside Potential"
 description: "Explore the intricacies of risk and reward in investment analysis, and discover how algorithmic trading maximizes upside potential for optimized financial decisions."
 ---
 

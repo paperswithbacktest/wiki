@@ -1,5 +1,5 @@
 ---
-title: "New Economy: Overview and Company Examples (Algo Trading)"
+title: "New Economy: Overview and Company Examples"
 description: "Explore the transformative impact of the new economy driven by tech giants like Amazon and Google, and the rise of algorithmic trading reshaping investment strategies."
 ---
 

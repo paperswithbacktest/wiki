@@ -1,5 +1,5 @@
 ---
-title: "Moral Suasion and Jawboning (Algo Trading)"
+title: "Moral Suasion and Jawboning"
 description: "Explore the impact of moral suasion and jawboning in algorithmic trading environments, highlighting how central banks utilize communication strategies to influence market behavior. Understand the dynamic between non-coercive economic policies and automated trading systems, emphasizing the importance of precise messaging to guide market expectations and maintain stability. Discover the challenges and ethical considerations inherent in the algorithmic trading landscape and the role of transparency and regulation in ensuring a fair financial market."
 ---
 

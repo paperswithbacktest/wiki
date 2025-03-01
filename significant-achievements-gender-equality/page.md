@@ -1,5 +1,5 @@
 ---
-title: "Significant Achievements in Gender Equality (Algo Trading)"
+title: "Significant Achievements in Gender Equality"
 description: "Explore the crucial role gender equality plays in financial markets with a focus on algorithmic trading and how it fosters economic growth and innovation."
 ---
 

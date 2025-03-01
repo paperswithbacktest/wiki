@@ -1,5 +1,5 @@
 ---
-title: "Nickel: Definition, Mechanism, and Example (Algo Trading)"
+title: "Nickel: Definition, Mechanism, and Example"
 description: "Explore the role of algorithmic trading in the nickel market a vital metal for industries like batteries and steel Discover strategies for navigating market volatility and achieving trading success"
 ---
 

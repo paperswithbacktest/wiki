@@ -1,5 +1,5 @@
 ---
-title: "Pregnant Workers Fairness Act: Legal Protections and Remedies (Algo Trading)"
+title: "Pregnant Workers Fairness Act: Legal Protections and Remedies"
 description: "Discover how the Pregnant Workers Fairness Act enhances legal protections for pregnant employees, offering remedies and ensuring workplace equity amidst technological changes."
 ---
 

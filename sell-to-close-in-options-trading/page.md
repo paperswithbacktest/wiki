@@ -1,5 +1,5 @@
 ---
-title: "Sell to Close in Options Trading (Algo Trading)"
+title: "Sell to Close in Options Trading"
 description: "Explore how 'sell to close' in options trading is essential for exiting positions, managing risk, and optimizing capital. Learn strategies and the role of algo trading."
 ---
 

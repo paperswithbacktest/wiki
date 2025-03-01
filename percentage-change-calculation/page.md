@@ -1,5 +1,5 @@
 ---
-title: "Percentage Change Calculation (Algo Trading)"
+title: "Percentage Change Calculation"
 description: "Discover the vital role of percentage change in algorithmic trading Enhance your trading strategies by understanding market dynamics through price movements and trends"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Convertible Currency (Algo Trading)"
+title: "Non-Convertible Currency"
 description: "Explore the multifaceted world of non-convertible currencies in algo trading Learn how algorithmic trading navigates the complexities and opportunities in restricted markets"
 ---
 

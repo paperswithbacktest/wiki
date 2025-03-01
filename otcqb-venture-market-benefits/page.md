@@ -1,5 +1,5 @@
 ---
-title: "OTCQB Venture Market and Its Benefits (Algo Trading)"
+title: "OTCQB Venture Market and Its Benefits"
 description: "Discover how algorithmic trading in the OTCQB Venture Market enhances investment opportunities with improved liquidity speed and precision for early-stage companies."
 ---
 

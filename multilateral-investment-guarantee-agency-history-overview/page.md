@@ -1,5 +1,5 @@
 ---
-title: "Multilateral Investment Guarantee Agency: History and Overview (Algo Trading)"
+title: "Multilateral Investment Guarantee Agency: History and Overview"
 description: "Explore the Multilateral Investment Guarantee Agency's role in global investments, understand the synergy with algorithmic trading, and uncover strategies for mitigating risks."
 ---
 

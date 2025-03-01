@@ -1,5 +1,5 @@
 ---
-title: "P/E Ratios of Dow Jones and S&P 500 (Algo Trading)"
+title: "P/E Ratios of Dow Jones and S&P 500"
 description: "Explore the integration of P/E ratios in Dow Jones and S&P 500 with algorithmic trading, revealing insights into stock valuation and advanced trading strategies."
 ---
 

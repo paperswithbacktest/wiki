@@ -1,5 +1,5 @@
 ---
-title: "Optimal trading speed (Algo Trading)"
+title: "Optimal trading speed"
 description: "Explore the critical role of optimal trading speed in algorithmic trading and learn how advanced platforms enable traders to boost efficiency and market response."
 ---
 

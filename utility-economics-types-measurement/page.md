@@ -1,5 +1,5 @@
 ---
-title: "Utility in Economics: Types and Measurement (Algo Trading)"
+title: "Utility in Economics: Types and Measurement"
 description: "Explore the application of economic utility in algorithmic trading Learn how utility measurement enhances trading strategies by optimizing decisions against risk and returns"
 ---
 

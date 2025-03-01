@@ -1,5 +1,5 @@
 ---
-title: "Poison Put: Overview, Advantages, and Alternatives (Algo Trading)"
+title: "Poison Put: Overview, Advantages, and Alternatives"
 description: "Explore the strategic role of poison puts in corporate finance enhance acquisition defenses and mitigate risks, providing insights for savvy investors and corporations."
 ---
 

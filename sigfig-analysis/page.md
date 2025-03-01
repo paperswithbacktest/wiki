@@ -1,5 +1,5 @@
 ---
-title: "SigFig Analysis (Algo Trading)"
+title: "SigFig Analysis"
 description: "Explore how SigFig leverages cutting-edge algorithmic trading to deliver innovative, automated investment solutions that democratize financial management."
 ---
 

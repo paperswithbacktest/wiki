@@ -1,5 +1,5 @@
 ---
-title: "Share Liquidation in Brokerage Accounts (Algo Trading)"
+title: "Share Liquidation in Brokerage Accounts"
 description: "Discover how investment brokerage accounts, share liquidation, and algorithmic trading shape modern investing by enhancing efficiency and precision."
 ---
 

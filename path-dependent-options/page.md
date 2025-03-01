@@ -1,5 +1,5 @@
 ---
-title: "Path-Dependent Options (Algo Trading)"
+title: "Path-Dependent Options"
 description: "Explore path-dependent options in trading where payoffs are impacted by an asset's price path offering strategic tools like Asian lookback and barrier options."
 ---
 

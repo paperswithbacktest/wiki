@@ -1,5 +1,5 @@
 ---
-title: "Money Flow Index: Overview and Applications (Algo Trading)"
+title: "Money Flow Index: Overview and Applications"
 description: "Explore the Money Flow Index (MFI) and its role in algorithmic trading as a powerful indicator combining price and volume to analyze market trends effectively."
 ---
 

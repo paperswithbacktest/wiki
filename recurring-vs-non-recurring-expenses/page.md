@@ -1,5 +1,5 @@
 ---
-title: "Recurring vs. Non-Recurring Expenses (Algo Trading)"
+title: "Recurring vs. Non-Recurring Expenses"
 description: "Explore the crucial distinctions between recurring and non-recurring expenses in algorithmic trading to enhance financial planning and trading strategies."
 ---
 

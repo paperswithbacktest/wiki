@@ -1,5 +1,5 @@
 ---
-title: "Qatar Investment Authority: Overview and History (Algo Trading)"
+title: "Qatar Investment Authority: Overview and History"
 description: "Discover the Qatar Investment Authority its history and strategic approaches in global investments and algorithmic trading aimed at optimizing Qatar's financial future"
 ---
 

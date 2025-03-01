@@ -1,5 +1,5 @@
 ---
-title: "Using Options to Hedge a Short Position (Algo Trading)"
+title: "Using Options to Hedge a Short Position"
 description: "Learn how to hedge a short position using options within algorithmic trading to minimize risk and enhance trading performance in volatile markets."
 ---
 

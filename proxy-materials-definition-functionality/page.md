@@ -1,5 +1,5 @@
 ---
-title: "Proxy Materials: Definition and Functionality (Algo Trading)"
+title: "Proxy Materials: Definition and Functionality"
 description: "Explore how proxy materials ensure informed shareholder voting and corporate governance while navigating algorithmic trading's impact on financial decision-making."
 ---
 

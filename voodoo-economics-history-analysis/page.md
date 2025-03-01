@@ -1,5 +1,5 @@
 ---
-title: "Voodoo Economics: History and Analysis (Algo Trading)"
+title: "Voodoo Economics: History and Analysis"
 description: "Explore the intricate relationships between Voodoo Economics fiscal policy and algorithmic trading in shaping global financial markets and economic stability."
 ---
 

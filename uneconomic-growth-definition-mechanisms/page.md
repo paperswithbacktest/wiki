@@ -1,5 +1,5 @@
 ---
-title: "Uneconomic Growth: Definition and Mechanisms (Algo Trading)"
+title: "Uneconomic Growth: Definition and Mechanisms"
 description: "Explore how uneconomic growth challenges GDP-focused metrics by highlighting sustainability in economic planning and the evolving role of algorithmic trading."
 ---
 

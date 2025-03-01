@@ -1,5 +1,5 @@
 ---
-title: "Mutual Mortgage Insurance Fund Overview (Algo Trading)"
+title: "Mutual Mortgage Insurance Fund Overview"
 description: "Explore the Mutual Mortgage Insurance Fund's pivotal role in FHA loans with insights into mortgage insurance, algorithmic trading, and housing finance dynamics."
 ---
 

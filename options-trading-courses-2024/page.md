@@ -1,5 +1,5 @@
 ---
-title: "Options Trading Courses 2024 (Algo Trading)"
+title: "Options Trading Courses 2024"
 description: "Explore the latest in options trading courses for 2024 focusing on algo trading strategies to enhance investment skills and stay competitive in the market."
 ---
 

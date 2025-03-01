@@ -1,5 +1,5 @@
 ---
-title: "Negative Directional Indicator: Function and Mechanics (Algo Trading)"
+title: "Negative Directional Indicator: Function and Mechanics"
 description: "Explore the function and mechanics of the Negative Directional Indicator in algorithmic trading Discover how it identifies downtrends to enhance trading strategies"
 ---
 

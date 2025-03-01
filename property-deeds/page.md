@@ -1,5 +1,5 @@
 ---
-title: "Property Deeds (Algo Trading)"
+title: "Property Deeds"
 description: "Explore the intersection of real estate and algorithmic trading focusing on property deeds and algo trading strategies emphasizing legal and technical dimensions."
 ---
 

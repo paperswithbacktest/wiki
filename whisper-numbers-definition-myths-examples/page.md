@@ -1,5 +1,5 @@
 ---
-title: "Whisper Numbers: Definition, Myths, and Examples (Algo Trading)"
+title: "Whisper Numbers: Definition, Myths, and Examples"
 description: "Explore the myths and realities of whisper numbers and automated trading in investing. Understand how these concepts influence market expectations and investor behavior."
 ---
 

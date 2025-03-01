@@ -1,5 +1,5 @@
 ---
-title: "TradingBlock Platform Analysis 2024 (Algo Trading)"
+title: "TradingBlock Platform Analysis 2024"
 description: "Explore TradingBlock's platform designed for beginners and casual investors offering a user-friendly interface and features to simplify the trading experience."
 ---
 

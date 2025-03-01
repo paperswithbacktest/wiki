@@ -1,5 +1,5 @@
 ---
-title: "Reverse Conversion: Mechanism and Example (Algo Trading)"
+title: "Reverse Conversion: Mechanism and Example"
 description: "Explore the reverse conversion strategy in algorithmic trading a sophisticated approach that leverages option mispricings for potential profits without directional market risk."
 ---
 

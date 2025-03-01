@@ -1,5 +1,5 @@
 ---
-title: "Stock Rights and Warrants Investment (Algo Trading)"
+title: "Stock Rights and Warrants Investment"
 description: "Explore the synergy of stock rights and warrants with algorithmic trading to optimize investment returns. Learn strategies for leveraging these financial tools."
 ---
 

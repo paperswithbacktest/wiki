@@ -1,5 +1,5 @@
 ---
-title: "Unlisted Securities: Types and Risks Overview (Algo Trading)"
+title: "Unlisted Securities: Types and Risks Overview"
 description: "Explore the types and risks of unlisted securities and algorithmic trading strategies for navigating complex financial markets in this comprehensive guide."
 ---
 

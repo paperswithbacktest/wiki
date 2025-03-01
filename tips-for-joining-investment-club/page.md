@@ -1,5 +1,5 @@
 ---
-title: "Tips for Joining an Investment Club (Algo Trading)"
+title: "Tips for Joining an Investment Club"
 description: "Explore investment clubs for collaborative investing learning, leverage algorithmic trading for speed and precision, and enjoy financial group benefits."
 ---
 

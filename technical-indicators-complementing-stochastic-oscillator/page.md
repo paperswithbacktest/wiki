@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators Complementing the Stochastic Oscillator (Algo Trading)"
+title: "Technical Indicators Complementing the Stochastic Oscillator"
 description: "Enhance your trading strategies by combining the stochastic oscillator with other technical indicators to improve market analysis and increase profitable opportunities."
 ---
 

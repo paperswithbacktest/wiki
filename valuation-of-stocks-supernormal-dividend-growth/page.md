@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Stocks with Supernormal Dividend Growth (Algo Trading)"
+title: "Valuation of Stocks with Supernormal Dividend Growth"
 description: "Explore the intricacies of valuing stocks with supernormal dividend growth and discover how algorithmic trading strategies can optimize investment decisions."
 ---
 

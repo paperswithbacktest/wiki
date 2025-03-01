@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Ex-Dividend Strategies (Algo Trading)"
+title: "Utilizing Ex-Dividend Strategies"
 description: "Explore the benefits of ex-dividend investing and algorithmic trading with strategies that combine dividend capture and automated trading for optimized returns."
 ---
 

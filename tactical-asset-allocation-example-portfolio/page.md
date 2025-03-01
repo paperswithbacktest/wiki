@@ -1,5 +1,5 @@
 ---
-title: "Tactical Asset Allocation: Example Portfolio (Algo Trading)"
+title: "Tactical Asset Allocation: Example Portfolio"
 description: "Enhance portfolio performance with tactical asset allocation (TAA) by leveraging algorithmic trading to optimize investment decisions in dynamic markets."
 ---
 

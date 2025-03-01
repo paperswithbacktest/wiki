@@ -1,5 +1,5 @@
 ---
-title: "Quantum computing (Algo Trading)"
+title: "Quantum computing"
 description: Explore the revolutionary impact of quantum computing on algorithmic trading in the financial markets. This page investigates into how qubits, superposition, and entanglement empower traders with real-time data analysis and enhanced predictive accuracy. Discover the implications for trading strategies and financial data security as quantum computing reshapes the landscape of market analysis.
 ---
 

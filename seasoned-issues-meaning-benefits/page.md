@@ -1,5 +1,5 @@
 ---
-title: "Seasoned Issues: Meaning and Benefits (Algo Trading)"
+title: "Seasoned Issues: Meaning and Benefits"
 description: "Explore the meaning, benefits, and operational dynamics of seasoned issues in algo trading. Discover how companies leverage these offerings for growth and strategy."
 ---
 

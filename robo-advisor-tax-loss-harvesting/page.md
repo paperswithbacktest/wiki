@@ -1,5 +1,5 @@
 ---
-title: "Robo-Advisor Tax-Loss Harvesting (Algo Trading)"
+title: "Robo-Advisor Tax-Loss Harvesting"
 description: "Discover how robo-advisors, tax-loss harvesting, and algorithmic trading are revolutionizing investment strategies for optimal portfolio management."
 ---
 

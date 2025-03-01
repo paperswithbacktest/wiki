@@ -1,5 +1,5 @@
 ---
-title: "Short-Form Prospectus Distribution System (Algo Trading)"
+title: "Short-Form Prospectus Distribution System"
 description: "The Short-Form Prospectus Distribution System streamlines the update process for securities offerings in Canada enabling speed, transparency, and efficiency in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Time Value of Money and U.S. Dollar (Algo Trading)"
+title: "Time Value of Money and U.S. Dollar"
 description: "Explore the synergy of Time Value of Money and algorithmic trading to optimize financial strategies enhance portfolio management and improve return prospects."
 ---
 

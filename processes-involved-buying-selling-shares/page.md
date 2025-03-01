@@ -1,5 +1,5 @@
 ---
-title: "Processes Involved in Buying and Selling Shares (Algo Trading)"
+title: "Processes Involved in Buying and Selling Shares"
 description: "Explore the intricate processes of buying and selling shares with algorithmic trading's impact on market dynamics and efficiency in stock transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Micro-Investing Platforms (Algo Trading)"
+title: "Micro-Investing Platforms"
 description: "Discover how micro-investing platforms and algorithmic trading are revolutionizing finance enabling seamless, automated investing for all skill levels."
 ---
 

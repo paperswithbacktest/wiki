@@ -1,5 +1,5 @@
 ---
-title: "USD/CHF: Overview, Functionality, and Recent Developments (Algo Trading)"
+title: "USD/CHF: Overview, Functionality, and Recent Developments"
 description: "Explore the dynamics of trading the USD/CHF pair using algorithmic strategies to leverage forex market analysis and make informed trading decisions."
 ---
 

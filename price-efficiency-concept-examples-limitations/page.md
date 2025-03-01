@@ -1,5 +1,5 @@
 ---
-title: "Price Efficiency: Concept, Examples, and Limitations (Algo Trading)"
+title: "Price Efficiency: Concept, Examples, and Limitations"
 description: "Explore the concept of price efficiency in financial markets, its implications in algorithmic trading, and understand its limitations in modern economic analysis."
 ---
 

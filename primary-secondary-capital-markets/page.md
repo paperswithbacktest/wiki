@@ -1,5 +1,5 @@
 ---
-title: "Primary and Secondary Capital Markets (Algo Trading)"
+title: "Primary and Secondary Capital Markets"
 description: "Explore the dynamics of primary and secondary capital markets in algo trading learn how they facilitate capital flow trading efficiency and market liquidity."
 ---
 

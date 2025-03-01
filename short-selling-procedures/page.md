@@ -1,5 +1,5 @@
 ---
-title: "Short Selling Procedures (Algo Trading)"
+title: "Short Selling Procedures"
 description: "Explore short selling and algorithmic trading to maximize returns and manage risks in dynamic financial markets. Learn strategies tactics and their risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Value at Risk and Its Calculation (Algo Trading)"
+title: "Value at Risk and Its Calculation"
 description: "Discover the significance of Value at Risk in algorithmic trading Learn how it predicts potential portfolio losses and aids in effective risk management"
 ---
 

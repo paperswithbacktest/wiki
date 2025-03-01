@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Average True Range for Profitability (Algo Trading)"
+title: "Utilizing Average True Range for Profitability"
 description: "Explore how the Average True Range (ATR) enhances trading strategies, improving profitability through volatility insights. Optimize trade setups and risk management."
 ---
 

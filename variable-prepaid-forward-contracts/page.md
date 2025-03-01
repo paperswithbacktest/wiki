@@ -1,5 +1,5 @@
 ---
-title: "Variable Prepaid Forward Contracts (Algo Trading)"
+title: "Variable Prepaid Forward Contracts"
 description: "Explore variable prepaid forward contracts and their application in algorithmic trading. Learn how these tools optimize investments, defer taxes, and enhance liquidity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Socionomics: Concept, Mechanism, and Criticism (Algo Trading)"
+title: "Socionomics: Concept, Mechanism, and Criticism"
 description: "Explore the role of social mood in financial markets through socionomics unveiling its impact on economic trends and its integration with algorithmic trading."
 ---
 

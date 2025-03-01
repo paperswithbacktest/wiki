@@ -1,5 +1,5 @@
 ---
-title: "Pig: Definition, Functionality, and Example (Algo Trading)"
+title: "Pig: Definition, Functionality, and Example"
 description: "Explore the role of the 'Pig' in algorithmic trading where innovative algorithms manage behavioral finance, ensuring disciplined and strategic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reasons to Consider Investing (Algo Trading)"
+title: "Reasons to Consider Investing"
 description: "Explore the benefits of algorithmic trading in investing as technology enhances trading efficiency optimizing asset growth systematically and devoid of emotions."
 ---
 

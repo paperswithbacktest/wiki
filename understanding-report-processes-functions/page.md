@@ -1,5 +1,5 @@
 ---
-title: "Understanding Report Processes and Functions (Algo Trading)"
+title: "Understanding Report Processes and Functions"
 description: "Explore the essential roles of report management and functions in algorithmic trading. Understand the challenges and benefits of real-time reporting for enhanced decision-making."
 ---
 

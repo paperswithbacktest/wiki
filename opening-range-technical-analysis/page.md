@@ -1,5 +1,5 @@
 ---
-title: "Opening Range in Technical Analysis (Algo Trading)"
+title: "Opening Range in Technical Analysis"
 description: "Explore how opening range analysis enhances algo trading strategies by identifying early market trends. Improve decision-making with technical insights."
 ---
 

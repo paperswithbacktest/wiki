@@ -1,5 +1,5 @@
 ---
-title: "Tick size analysis (Algo Trading)"
+title: "Tick size analysis"
 description: "Discover how tick size impacts algorithmic trading strategies by influencing market liquidity and transaction costs Gain insights into optimizing your trading performance"
 ---
 

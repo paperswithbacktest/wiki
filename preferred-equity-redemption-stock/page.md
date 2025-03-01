@@ -1,5 +1,5 @@
 ---
-title: "Preferred Equity Redemption Stock (Algo Trading)"
+title: "Preferred Equity Redemption Stock"
 description: "Unlock the complexities of Preferred Equity Redemption Stock in algorithmic trading Discover how PERCs and PERCS offer investment flexibility with unique equity and debt traits"
 ---
 

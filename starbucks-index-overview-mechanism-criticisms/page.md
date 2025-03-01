@@ -1,5 +1,5 @@
 ---
-title: "Starbucks Index: Overview, Mechanism, and Criticisms (Algo Trading)"
+title: "Starbucks Index: Overview, Mechanism, and Criticisms"
 description: "Explore how the Starbucks Index provides a unique economic perspective on currency valuation through latte price comparisons, aiding insights in algo trading."
 ---
 

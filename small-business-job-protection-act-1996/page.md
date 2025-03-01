@@ -1,5 +1,5 @@
 ---
-title: "Small Business Job Protection Act of 1996 (Algo Trading)"
+title: "Small Business Job Protection Act of 1996"
 description: "Explore the Small Business Job Protection Act of 1996 and its impact on algo trading for small businesses highlighting both opportunities and technological challenges."
 ---
 

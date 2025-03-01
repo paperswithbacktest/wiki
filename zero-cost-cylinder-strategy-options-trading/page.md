@@ -1,5 +1,5 @@
 ---
-title: "Zero-Cost Cylinder Strategy in Options Trading (Algo Trading)"
+title: "Zero-Cost Cylinder Strategy in Options Trading"
 description: "Explore the innovative zero-cost cylinder strategy in options trading to manage risk cost-effectively. Learn its application in algorithmic trading systems."
 ---
 

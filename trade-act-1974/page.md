@@ -1,5 +1,5 @@
 ---
-title: "Trade Act of 1974 (Algo Trading)"
+title: "Trade Act of 1974"
 description: "Discover how the Trade Act of 1974 has shaped U.S. trade policy with provisions protecting industries while promoting international economic engagement."
 ---
 

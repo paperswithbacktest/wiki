@@ -1,5 +1,5 @@
 ---
-title: "Running With the Land: Concept and Functionality (Algo Trading)"
+title: "Running With the Land: Concept and Functionality"
 description: "Explore how land use, real estate, property rights, and algorithmic trading interact to shape modern economic landscapes and influence investment strategies."
 ---
 

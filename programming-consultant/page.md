@@ -1,5 +1,5 @@
 ---
-title: "Programming consultant (Algo Trading)"
+title: "Programming consultant"
 description: Programming consultants in algorithmic trading play a critical role in developing and maintaining automated trading strategies. They translate complex financial theories into practical, high-performance algorithms that execute trades by processing vast market data. These consultants ensure strategies are adaptable to changing conditions, leveraging programming skills in languages like Python and C++ along with financial market insight. Their efforts bridge the gap between quantitative models and real-time trading, enhancing trade execution speed and accuracy while minimizing risks through rigorous backtesting and optimization.
 ---
 

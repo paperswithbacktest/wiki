@@ -1,5 +1,5 @@
 ---
-title: "Relative Purchasing Power Parity in Economics (Algo Trading)"
+title: "Relative Purchasing Power Parity in Economics"
 description: "Explore the relationship between Relative Purchasing Power Parity and algorithmic trading Learn how understanding exchange rates and inflation impacts financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Refunded Bond: Overview and Mechanism (Algo Trading)"
+title: "Refunded Bond: Overview and Mechanism"
 description: "Master the dynamics of refunded bonds and algorithmic trading in today's fast-evolving financial markets Explore key mechanisms shaping investment strategies"
 ---
 

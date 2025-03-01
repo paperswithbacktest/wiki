@@ -1,5 +1,5 @@
 ---
-title: "Rainmaker: Definition, Mechanism, and Types (Algo Trading)"
+title: "Rainmaker: Definition, Mechanism, and Types"
 description: "Explore the concept of rainmaker mechanisms in algorithmic trading. Understand their types functions and impact on trading efficiency and risk management."
 ---
 

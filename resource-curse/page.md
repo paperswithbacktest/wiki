@@ -1,5 +1,5 @@
 ---
-title: "Resource Curse (Algo Trading)"
+title: "Resource Curse"
 description: "Explore how natural resources impact economic growth and the challenges of the resource curse Investigate the role of algorithmic trading in resource-dependent sectors"
 ---
 

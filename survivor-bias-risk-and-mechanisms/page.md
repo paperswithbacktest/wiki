@@ -1,5 +1,5 @@
 ---
-title: "Survivor Bias: Risk and Mechanisms (Algo Trading)"
+title: "Survivor Bias: Risk and Mechanisms"
 description: "Learn about the impact of survivorship bias and other statistical biases in algorithmic trading. Understand how these biases affect risk assessment and strategy development, leading to potentially skewed investment decisions. Discover strategies to mitigate these biases, ensuring more accurate and reliable trading models for better financial outcomes."
 ---
 

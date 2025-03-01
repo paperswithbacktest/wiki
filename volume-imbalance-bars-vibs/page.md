@@ -1,5 +1,5 @@
 ---
-title: "Volume imbalance bars (VIBs) (Algo Trading)"
+title: "Volume imbalance bars (VIBs)"
 description: Volume Imbalance Bars (VIBs) in algorithmic trading offer a dynamic approach to market analysis by focusing on trade imbalances instead of time intervals. By capturing shifts in buying and selling pressures, VIBs enhance predictive potential for price movements and trend reversals. Their integration with machine learning improves data analysis, making them a powerful tool for traders aiming for precise and timely decisions. Through the use of the tick rule and adaptable thresholds, VIBs create an advanced framework for market trend analysis, providing a competitive edge in the fast-paced trading environment.
 ---
 

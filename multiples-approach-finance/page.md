@@ -1,5 +1,5 @@
 ---
-title: "Multiples Approach in Finance (Algo Trading)"
+title: "Multiples Approach in Finance"
 description: "Explore the fusion of multiples valuation and algorithmic trading to enhance investment strategies and execution in modern finance markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Overview of Penny Stocks (Algo Trading)"
+title: "Overview of Penny Stocks"
 description: "Explore the high-risk high-reward world of penny stocks and algo trading featuring insights on market dynamics strategy integration and investor tips."
 ---
 

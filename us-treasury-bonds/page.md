@@ -1,5 +1,5 @@
 ---
-title: "U.S. Treasury Bonds (Algo Trading)"
+title: "U.S. Treasury Bonds"
 description: "Discover the stability and benefits of U.S. Treasury bonds, their role in investment portfolios, and the impact of algorithmic trading on optimizing bond strategies."
 ---
 

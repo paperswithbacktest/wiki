@@ -1,5 +1,5 @@
 ---
-title: "Semi-Annual Bond Basis (Algo Trading)"
+title: "Semi-Annual Bond Basis"
 description: "Discover the importance of Semi-Annual Bond Basis in bond trading and how algorithmic trading optimizes strategies for comparing yields across different payment schedules."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pips in Currency Trading (Algo Trading)"
+title: "Pips in Currency Trading"
 description: "Explore the essential role of pips in currency trading and how algorithmic strategies enhance profitability and precision in the forex market."
 ---
 

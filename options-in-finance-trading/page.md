@@ -1,5 +1,5 @@
 ---
-title: "Options in Finance and Trading (Algo Trading)"
+title: "Options in Finance and Trading"
 description: "Explore the transformative effects of derivatives options and algorithmic trading in finance Learn essential strategies to navigate today's complex markets"
 ---
 

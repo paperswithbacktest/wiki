@@ -1,5 +1,5 @@
 ---
-title: "Roofstock Platform Analysis 2024 (Algo Trading)"
+title: "Roofstock Platform Analysis 2024"
 description: "Explore how Roofstock revolutionizes real estate investment in 2024 with a focus on single-family rentals and algorithmic trading to enhance strategy and efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "OPEC and Management of Oil Wealth (Algo Trading)"
+title: "OPEC and Management of Oil Wealth"
 description: "Explore the significant impact of OPEC's oil market strategies and the rise of algorithmic trading, illustrating their complex interplay and investment opportunities."
 ---
 

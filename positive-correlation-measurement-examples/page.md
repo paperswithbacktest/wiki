@@ -1,5 +1,5 @@
 ---
-title: "Positive Correlation: Measurement and Examples (Algo Trading)"
+title: "Positive Correlation: Measurement and Examples"
 description: "Explore the essential role of positive correlation in algorithmic trading and its impact on strategies and risk management. This article investigates into statistical measurements like the Pearson correlation coefficient to illustrate market behaviors, offering insights into positive and negative correlations with real-world examples. Learn how understanding correlation enables more informed decision-making, enhances trading strategies, and optimizes financial outcomes."
 ---
 

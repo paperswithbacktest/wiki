@@ -1,5 +1,5 @@
 ---
-title: "Useful Life in Asset Depreciation (Algo Trading)"
+title: "Useful Life in Asset Depreciation"
 description: "Explore the impact of asset depreciation and useful life estimation on algorithmic trading to enhance asset management and financial strategies in modern finance."
 ---
 

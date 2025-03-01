@@ -1,5 +1,5 @@
 ---
-title: "Types of Exchange-Traded Derivatives (Algo Trading)"
+title: "Types of Exchange-Traded Derivatives"
 description: "Explore types of exchange-traded derivatives including futures, options, and ETFs. Learn how these standardized instruments enhance liquidity and manage risk."
 ---
 

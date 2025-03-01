@@ -1,5 +1,5 @@
 ---
-title: "Regulation Z: Truth in Lending Act (Algo Trading)"
+title: "Regulation Z: Truth in Lending Act"
 description: "Explore the intersection of algorithmic trading and Regulation Z within the financial industry. Learn how Regulation Z's emphasis on transparency and fair practices, primarily aimed at consumer credit protection, can influence algo trading strategies in the evolving financial markets. Discover the impact of technology on trading efficiency and the necessity of adapting regulatory measures to safeguard consumer interests while fostering innovation."
 ---
 

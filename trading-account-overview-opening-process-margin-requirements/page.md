@@ -1,5 +1,5 @@
 ---
-title: "Trading Account: Overview, Opening Process, and Margin Requirements (Algo Trading)"
+title: "Trading Account: Overview, Opening Process, and Margin Requirements"
 description: "Explore trading account essentials including opening procedures and margin requirements Discover how algo trading enhances strategy and minimizes risks"
 ---
 

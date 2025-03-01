@@ -1,5 +1,5 @@
 ---
-title: "SEC POS AM Filing: Overview and Mechanism (Algo Trading)"
+title: "SEC POS AM Filing: Overview and Mechanism"
 description: "Discover how SEC POS AM filings support transparency and informed decisions in algorithmic trading by providing updated financial data for investors and traders."
 ---
 

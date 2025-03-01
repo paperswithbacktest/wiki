@@ -1,5 +1,5 @@
 ---
-title: "Price Sensitivity and Consumer Buying Behavior (Algo Trading)"
+title: "Price Sensitivity and Consumer Buying Behavior"
 description: "Explore how consumer behavior and price sensitivity impact algorithmic trading strategies. Learn how businesses leverage these insights to refine market approaches."
 ---
 

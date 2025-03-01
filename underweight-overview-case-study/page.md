@@ -1,5 +1,5 @@
 ---
-title: "Underweight: Overview and Case Study (Algo Trading)"
+title: "Underweight: Overview and Case Study"
 description: "Explore the concept of 'underweight' in both health and finance Discover strategies for achieving balance, highlighted through a case study in algorithmic trading."
 ---
 

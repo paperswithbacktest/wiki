@@ -1,5 +1,5 @@
 ---
-title: "Multi-Agent Reinforcement Learning (Algo Trading)"
+title: "Multi-Agent Reinforcement Learning"
 description: "Explore Multi-Agent Reinforcement Learning to enhance algorithmic trading strategies. Learn how autonomous agents collaborate to optimize trading in complex markets."
 ---
 

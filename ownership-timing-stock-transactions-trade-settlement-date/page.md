@@ -1,5 +1,5 @@
 ---
-title: "Ownership Timing in Stock Transactions: Trade Date vs. Settlement Date (Algo Trading)"
+title: "Ownership Timing in Stock Transactions: Trade Date vs. Settlement Date"
 description: "Gain insights into stock trading by understanding trade and settlement dates. Learn their impact on ownership, strategies, and the role of algorithmic trading."
 ---
 

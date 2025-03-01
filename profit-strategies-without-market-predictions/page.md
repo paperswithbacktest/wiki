@@ -1,5 +1,5 @@
 ---
-title: "Profit Strategies Without Market Predictions (Algo Trading)"
+title: "Profit Strategies Without Market Predictions"
 description: "Unlock the power of algorithmic trading with profit strategies that thrive without predicting market movements Learn advanced techniques to boost investments"
 ---
 

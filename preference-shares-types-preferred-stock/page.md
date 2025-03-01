@@ -1,5 +1,5 @@
 ---
-title: "Preference Shares and Types of Preferred Stock (Algo Trading)"
+title: "Preference Shares and Types of Preferred Stock"
 description: "Explore different types of preferred stocks and discover how algorithmic trading enhances investment strategies by optimizing trades and increasing market efficiency."
 ---
 

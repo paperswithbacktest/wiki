@@ -1,5 +1,5 @@
 ---
-title: "Reserve Assets and Their Uses (Algo Trading)"
+title: "Reserve Assets and Their Uses"
 description: "Explore the complex dynamics of reserve assets and algorithmic trading in financial management. Learn how these elements contribute to stability and efficiency in global markets."
 ---
 

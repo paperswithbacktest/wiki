@@ -1,5 +1,5 @@
 ---
-title: "Touchline in Sports (Algo Trading)"
+title: "Touchline in Sports"
 description: "Explore the intriguing intersection between soccer and finance as we delve into the significance of touchlines in sports and their impact on algorithmic trading."
 ---
 

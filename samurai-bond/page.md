@@ -1,5 +1,5 @@
 ---
-title: "Samurai Bond (Algo Trading)"
+title: "Samurai Bond"
 description: "Explore the impact of Samurai Bonds on global finance by understanding their role in Japan's capital market offering foreign investors currency diversification and regulatory assurance."
 ---
 

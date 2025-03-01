@@ -1,5 +1,5 @@
 ---
-title: "Rylan Jardine (Algo Trading)"
+title: "Rylan Jardine"
 description: "Explore Rylan Jardine's journey from an academic in physics and astrophysics to a proficient algo trader at Akuna Capital blending science with finance."
 ---
 

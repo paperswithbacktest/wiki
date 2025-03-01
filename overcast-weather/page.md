@@ -1,5 +1,5 @@
 ---
-title: "Overcast Weather (Algo Trading)"
+title: "Overcast Weather"
 description: "Explore how overcast weather impacts market sentiment and algorithmic trading. Discover insights into trading strategies that integrate meteorological data."
 ---
 

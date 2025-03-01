@@ -1,5 +1,5 @@
 ---
-title: "Targeted Amortization Class (Algo Trading)"
+title: "Targeted Amortization Class"
 description: "Explore Targeted Amortization Class (TAC) bonds designed to mitigate prepayment risk and enhance yield with algorithmic trading offering stability and efficiency."
 ---
 

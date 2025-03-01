@@ -1,5 +1,5 @@
 ---
-title: "Undersubscription: Meaning and Contributing Factors (Algo Trading)"
+title: "Undersubscription: Meaning and Contributing Factors"
 description: "Explore the concept of undersubscription in algorithmic trading and learn about the factors leading to inefficiencies in trading demand such as pricing and market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stock Analyst Ratings: Buy, Sell, and Hold (Algo Trading)"
+title: "Stock Analyst Ratings: Buy, Sell, and Hold"
 description: "Unlock investment potential by understanding stock analyst ratings and their impact on trading strategies. Learn how algorithmic trading utilizes these insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Shitcoin (Algo Trading)"
+title: "Shitcoin"
 description: "Explore the intersection of shitcoin volatility and algorithmic trading to gain insights into potential high-risk, high-reward strategies in the dynamic crypto market."
 ---
 

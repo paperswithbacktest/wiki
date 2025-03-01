@@ -1,5 +1,5 @@
 ---
-title: "Private Export Funding Corporation (Algo Trading)"
+title: "Private Export Funding Corporation"
 description: "Explore the role of the Private Export Funding Corporation in boosting U.S. exports through financial products and strategic partnerships in today's global market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stock Revenue Forecasting and Growth Analysis (Algo Trading)"
+title: "Stock Revenue Forecasting and Growth Analysis"
 description: "Discover how algorithmic trading enhances stock revenue forecasting and growth analysis using innovative technology to streamline finance strategies and projections."
 ---
 

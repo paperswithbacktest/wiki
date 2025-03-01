@@ -1,5 +1,5 @@
 ---
-title: "Stock Loan Rebate Mechanism and Examples (Algo Trading)"
+title: "Stock Loan Rebate Mechanism and Examples"
 description: "Explore the mechanics of stock loan rebates in algorithmic trading and understand their impact on market dynamics and investor strategies in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Increasing Market Share (Algo Trading)"
+title: "Strategies for Increasing Market Share"
 description: "Increase market share in algorithmic trading with strategies focused on advanced tech, customer loyalty, acquisitions, targeted advertising, and pricing."
 ---
 

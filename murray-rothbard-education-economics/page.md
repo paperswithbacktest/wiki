@@ -1,5 +1,5 @@
 ---
-title: "Murray Rothbard on Education and Economics (Algo Trading)"
+title: "Murray Rothbard on Education and Economics"
 description: "Explore Murray Rothbard's impact on education economics and algorithmic trading Learn how his libertarian views shape modern discussions on market dynamics and freedoms"
 ---
 

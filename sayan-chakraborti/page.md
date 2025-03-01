@@ -1,5 +1,5 @@
 ---
-title: "Sayan Chakraborti (Algo Trading)"
+title: "Sayan Chakraborti"
 description: "Discover the journey of Sayan Chakraborti from astrophysics to Renaissance Technologies quant role where scientific research meets financial strategy."
 ---
 

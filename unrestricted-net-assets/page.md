@@ -1,5 +1,5 @@
 ---
-title: "Unrestricted Net Assets (Algo Trading)"
+title: "Unrestricted Net Assets"
 description: "Explore how unrestricted net assets enhance financial flexibility in algorithmic trading offering organizations a strategic edge to thrive in dynamic markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Zombie Banks: Definition, Functionality, and Examples (Algo Trading)"
+title: "Zombie Banks: Definition, Functionality, and Examples"
 description: "Explore the concept of zombie banks and their impact on the financial system through insolvency and external aid Understand how they affect market stability and growth"
 ---
 

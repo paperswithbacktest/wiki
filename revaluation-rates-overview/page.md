@@ -1,5 +1,5 @@
 ---
-title: "Revaluation Rates Overview (Algo Trading)"
+title: "Revaluation Rates Overview"
 description: "Explore how currency revaluation impacts global finance and algorithmic trading. Learn strategies to navigate market changes and optimize investment decisions."
 ---
 

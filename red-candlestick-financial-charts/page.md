@@ -1,5 +1,5 @@
 ---
-title: "Red Candlestick in Financial Charts (Algo Trading)"
+title: "Red Candlestick in Financial Charts"
 description: "Explore the impact of red candlesticks in financial charts for algorithmic trading revealing bearish trends signaling selling pressure and aiding strategy formation."
 ---
 

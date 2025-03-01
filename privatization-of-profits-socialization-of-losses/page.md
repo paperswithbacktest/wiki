@@ -1,5 +1,5 @@
 ---
-title: "Privatization of Profits and Socialization of Losses (Algo Trading)"
+title: "Privatization of Profits and Socialization of Losses"
 description: "Explore the impact of financial crises, economic policies, and algorithmic trading on global stability analyzing how profits are privatized and losses socialized."
 ---
 

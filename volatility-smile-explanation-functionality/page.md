@@ -1,5 +1,5 @@
 ---
-title: "Volatility Smile Explanation and Functionality (Algo Trading)"
+title: "Volatility Smile Explanation and Functionality"
 description: "Explore the dynamics of the volatility smile in options trading and its significance in algorithmic trading models to enhance market strategies and decision-making."
 ---
 

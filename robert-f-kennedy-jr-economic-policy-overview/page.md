@@ -1,5 +1,5 @@
 ---
-title: "Robert F. Kennedy Jr. Economic Policy Overview (Algo Trading)"
+title: "Robert F. Kennedy Jr. Economic Policy Overview"
 description: "Explore Robert F. Kennedy Jr.'s innovative economic policy that emphasizes job creation, combating income inequality, and infrastructure modernization. His strategic plan aims to empower American workers through fair wages and labor rights while addressing housing and student debt burdens. By promoting renewable energy and fostering small businesses, Kennedy envisions a sustainable and equitable economic landscape. His populist approach seeks transformative reforms that challenge traditional ideologies, ensuring economic prosperity and social justice for all Americans."
 ---
 

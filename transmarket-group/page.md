@@ -1,5 +1,5 @@
 ---
-title: "TransMarket Group (Algo Trading)"
+title: "TransMarket Group"
 description: "Discover TransMarket Group's impact on algorithmic trading with innovative strategies and technology shaping global financial markets for over 30 years."
 ---
 

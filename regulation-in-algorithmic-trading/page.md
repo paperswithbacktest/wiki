@@ -1,5 +1,5 @@
 ---
-title: "Regulation in Algorithmic Trading (Algo Trading)"
+title: "Regulation in Algorithmic Trading"
 description: "Explore the evolving landscape of algorithmic trading regulation with a focus on SEBI's recent updates aiming to ensure transparency and market integrity."
 ---
 

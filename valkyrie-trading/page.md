@@ -1,5 +1,5 @@
 ---
-title: "Valkyrie Trading (Algo Trading)"
+title: "Valkyrie Trading"
 description: "Discover how Valkyrie Trading leads in algorithmic trading by blending innovative technologies with advanced strategies to optimize financial market transactions."
 ---
 

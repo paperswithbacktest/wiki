@@ -1,5 +1,5 @@
 ---
-title: "Relativity Trap: Mechanism and Examples (Algo Trading)"
+title: "Relativity Trap: Mechanism and Examples"
 description: "Explore the relativity trap in algorithmic trading which affects decision-making by favoring comparative assessments over absolute values learn to enhance trading strategies."
 ---
 

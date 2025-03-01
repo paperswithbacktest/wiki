@@ -1,5 +1,5 @@
 ---
-title: "Naked Options: Mechanics of Naked Calls and Puts (Algo Trading)"
+title: "Naked Options: Mechanics of Naked Calls and Puts"
 description: "Discover the mechanics of naked calls and puts in options trading Learn how algorithmic strategies can help leverage these high-risk high-reward opportunities"
 ---
 

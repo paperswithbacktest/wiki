@@ -1,5 +1,5 @@
 ---
-title: "Public Assistance Bureau (Algo Trading)"
+title: "Public Assistance Bureau"
 description: "Explore the synergy between government support and algorithmic trading The Public Assistance Bureau aids traders in leveraging resources for strategic advantages in financial markets"
 ---
 

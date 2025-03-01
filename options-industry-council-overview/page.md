@@ -1,5 +1,5 @@
 ---
-title: "Options Industry Council Overview (Algo Trading)"
+title: "Options Industry Council Overview"
 description: "Explore the synergy between algorithmic trading and options in derivatives markets Learn how this tech evolution enhances trading efficiency and portfolio strategies"
 ---
 

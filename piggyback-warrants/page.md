@@ -1,5 +1,5 @@
 ---
-title: "Piggyback Warrants (Algo Trading)"
+title: "Piggyback Warrants"
 description: "Discover how piggyback warrants enhance investment strategies when paired with algorithmic trading Learn to optimize trades and capitalize on market inefficiencies"
 ---
 

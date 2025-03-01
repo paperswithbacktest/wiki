@@ -1,5 +1,5 @@
 ---
-title: "Tenkan-Sen: Formula, Calculation, and Meaning (Algo Trading)"
+title: "Tenkan-Sen: Formula, Calculation, and Meaning"
 description: "Explore Tenkan-Sen's impact on algorithmic trading Discover its calculation method and significance in optimizing trading strategies through the Ichimoku Cloud system"
 ---
 

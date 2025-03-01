@@ -1,5 +1,5 @@
 ---
-title: "Vortex Indicator in Technical Analysis (Algo Trading)"
+title: "Vortex Indicator in Technical Analysis"
 description: "Explore the versatile Vortex Indicator in algo trading to enhance stock market strategies by identifying trend reversals and confirming current trends."
 ---
 

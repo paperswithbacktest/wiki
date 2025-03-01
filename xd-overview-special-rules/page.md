@@ -1,5 +1,5 @@
 ---
-title: "XD: Overview and Special Rules (Algo Trading)"
+title: "XD: Overview and Special Rules"
 description: "Explore the benefits and complexities of algorithmic trading, focusing on XD, or ex-dividend trading, in financial markets highlighting strategy impacts."
 ---
 

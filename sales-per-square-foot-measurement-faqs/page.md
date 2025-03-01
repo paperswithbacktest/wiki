@@ -1,5 +1,5 @@
 ---
-title: "Sales per Square Foot: Measurement and FAQs (Algo Trading)"
+title: "Sales per Square Foot: Measurement and FAQs"
 description: "Discover how sales per square foot and algorithmic trading enhance retail success. Learn key retail metrics and their impact on decision-making for profitability."
 ---
 

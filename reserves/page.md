@@ -1,5 +1,5 @@
 ---
-title: "Reserves (Algo Trading)"
+title: "Reserves"
 description: "Explore the intricate dynamics of resource management and financial reserves in algorithmic trading. Understand how deploying financial and computational resources efficiently enhances trading operations. Discover the role of financial reserves in ensuring liquidity during market volatility. Learn how algorithmic trading automates decisions, offering speed and consistency. This guide provides insights for traders to optimize strategies and navigate complex markets."
 ---
 

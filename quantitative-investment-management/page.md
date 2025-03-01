@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Investment Management (Algo Trading)"
+title: "Quantitative Investment Management"
 description: "Explore quantitative investment management and algorithmic trading which leverage mathematical models and technology to optimize financial market strategies."
 ---
 

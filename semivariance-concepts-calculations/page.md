@@ -1,5 +1,5 @@
 ---
-title: "Semivariance: Concepts and Calculations (Algo Trading)"
+title: "Semivariance: Concepts and Calculations"
 description: "Explore semivariance as a key metric for evaluating downside risk in investment portfolios useful for algorithmic trading and enhancing decision-making."
 ---
 

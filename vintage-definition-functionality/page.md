@@ -1,5 +1,5 @@
 ---
-title: "Vintage: Definition and Functionality (Algo Trading)"
+title: "Vintage: Definition and Functionality"
 description: "Explore how algorithmic trading is revolutionizing the antique collectibles market transforming buying selling and investing. Discover the impact on value and accessibility."
 ---
 

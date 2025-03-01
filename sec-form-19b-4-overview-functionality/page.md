@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 19b-4: Overview and Functionality (Algo Trading)"
+title: "SEC Form 19b-4: Overview and Functionality"
 description: "Discover the role of SEC Form 19b-4 in financial regulation and its impact on algorithmic trading Ensuring transparency and accountability in market practices"
 ---
 

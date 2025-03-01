@@ -1,5 +1,5 @@
 ---
-title: "Trading Volume Exceeding Shares Outstanding (Algo Trading)"
+title: "Trading Volume Exceeding Shares Outstanding"
 description: "Explore the relationship between trading volume exceeding shares outstanding and algorithmic trading Highlight how these elements interact within financial markets"
 ---
 

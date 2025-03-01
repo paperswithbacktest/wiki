@@ -1,5 +1,5 @@
 ---
-title: "Use of MACD Signals in Momentum Trading (Algo Trading)"
+title: "Use of MACD Signals in Momentum Trading"
 description: "Explore the strategic use of MACD signals in momentum trading focusing on its role in both traditional and algorithmic contexts for effective trend analysis."
 ---
 

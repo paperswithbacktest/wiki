@@ -1,5 +1,5 @@
 ---
-title: "Steps for Developing a Profitable Investment Portfolio (Algo Trading)"
+title: "Steps for Developing a Profitable Investment Portfolio"
 description: "Explore the essential steps for developing a profitable investment portfolio using algorithmic trading. Learn about asset allocation and risk management."
 ---
 

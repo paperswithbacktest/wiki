@@ -1,5 +1,5 @@
 ---
-title: "Small Trader: Definition, Operation, and Example (Algo Trading)"
+title: "Small Trader: Definition, Operation, and Example"
 description: "Explore how small traders utilize algorithmic trading to enhance market competitiveness with automated strategies offering precision and speed once reserved for larger players."
 ---
 

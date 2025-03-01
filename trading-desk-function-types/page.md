@@ -1,5 +1,5 @@
 ---
-title: "Trading Desk: Function and Types (Algo Trading)"
+title: "Trading Desk: Function and Types"
 description: "Explore the dynamic world of trading desks and algo trading Discover how cutting-edge technologies are transforming financial markets for traders and investors"
 ---
 

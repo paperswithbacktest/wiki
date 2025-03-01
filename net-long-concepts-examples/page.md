@@ -1,5 +1,5 @@
 ---
-title: "Net Long: Concepts and Examples (Algo Trading)"
+title: "Net Long: Concepts and Examples"
 description: "Explore net long positions and algorithmic trading in financial markets Discover how these strategies optimize returns with data-driven decisions and market insights"
 ---
 

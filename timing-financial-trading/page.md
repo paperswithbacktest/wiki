@@ -1,5 +1,5 @@
 ---
-title: "Timing in Financial Trading (Algo Trading)"
+title: "Timing in Financial Trading"
 description: "Optimize your trading outcomes by mastering timing strategies in algorithmic trading to leverage speed precision and data analysis for improved profitability and risk management."
 ---
 

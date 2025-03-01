@@ -1,5 +1,5 @@
 ---
-title: "Predatory Dumping in International Trade (Algo Trading)"
+title: "Predatory Dumping in International Trade"
 description: "Explore the dynamics of predatory dumping in international trade and the role of algorithmic trading in shaping market trends while ensuring economic stability."
 ---
 

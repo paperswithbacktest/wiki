@@ -1,5 +1,5 @@
 ---
-title: "Trade Signal (Algo Trading)"
+title: "Trade Signal"
 description: "Explore algorithmic trading with insights on trade signals and financial indicators like RSI and Moving Averages to enhance your trading strategies efficiently."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Return Over Maximum Drawdown (Algo Trading)"
+title: "Return Over Maximum Drawdown"
 description: "Explore the value of Return Over Maximum Drawdown as a key metric in algorithmic trading that assesses performance by balancing potential returns against historical drawdowns."
 ---
 

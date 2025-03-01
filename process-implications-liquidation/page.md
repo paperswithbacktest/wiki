@@ -1,5 +1,5 @@
 ---
-title: "Process and Implications of Liquidation (Algo Trading)"
+title: "Process and Implications of Liquidation"
 description: "Explore the intricate process of liquidation in algorithmic trading, highlighting asset distribution and liquidation strategies to optimize returns during business closures."
 ---
 

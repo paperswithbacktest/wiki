@@ -1,5 +1,5 @@
 ---
-title: "Whipsaw Effect on Stock Prices (Algo Trading)"
+title: "Whipsaw Effect on Stock Prices"
 description: "Navigate the complexities of stock market whipsaw effects and volatility. Explore how algorithmic trading strategies can mitigate risks and optimize gains in uncertain markets."
 ---
 

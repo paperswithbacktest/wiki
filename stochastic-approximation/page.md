@@ -1,5 +1,5 @@
 ---
-title: "Stochastic approximation (Algo Trading)"
+title: "Stochastic approximation"
 description: "Stochastic approximation optimizes trading strategies by adapting to noisy market data enhancing decision-making and robustness in algorithmic trading systems."
 ---
 

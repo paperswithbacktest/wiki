@@ -1,5 +1,5 @@
 ---
-title: "Ray McKenzie: Biography and Career Overview (Algo Trading)"
+title: "Ray McKenzie: Biography and Career Overview"
 description: "Explore the remarkable career of Ray McKenzie in business development and algorithmic trading as he shapes financial markets with innovative strategies at Quant16."
 ---
 

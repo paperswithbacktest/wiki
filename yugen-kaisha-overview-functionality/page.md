@@ -1,5 +1,5 @@
 ---
-title: "Yugen Kaisha: Overview and Functionality (Algo Trading)"
+title: "Yugen Kaisha: Overview and Functionality"
 description: "Explore the evolution of Yugen Kaisha YK a limited liability company in Japan from 1940 to 2006 and its impact on SMEs and algorithmic trading practices"
 ---
 

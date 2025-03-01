@@ -1,5 +1,5 @@
 ---
-title: "Namibian Dollar: History and Economic Performance (Algo Trading)"
+title: "Namibian Dollar: History and Economic Performance"
 description: "Explore the history and economic performance of the Namibian Dollar and its role in algorithmic trading. Learn how its peg to the Rand influences trading strategies."
 ---
 

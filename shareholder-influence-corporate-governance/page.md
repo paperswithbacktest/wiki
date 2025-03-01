@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Influence on Corporate Governance (Algo Trading)"
+title: "Shareholder Influence on Corporate Governance"
 description: "Explore the complex interplay between shareholders, corporate governance, and algorithmic trading as companies navigate evolving financial markets and technological advances."
 ---
 

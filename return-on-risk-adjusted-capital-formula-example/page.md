@@ -1,5 +1,5 @@
 ---
-title: "Return on Risk-Adjusted Capital Formula and Example (Algo Trading)"
+title: "Return on Risk-Adjusted Capital Formula and Example"
 description: "Explore the Return on Risk-Adjusted Capital formula used for evaluating investment profitability in algorithmic trading by balancing potential returns with risk."
 ---
 

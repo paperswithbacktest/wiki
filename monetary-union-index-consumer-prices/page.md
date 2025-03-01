@@ -1,5 +1,5 @@
 ---
-title: "Monetary Union Index of Consumer Prices (Algo Trading)"
+title: "Monetary Union Index of Consumer Prices"
 description: "Explore the significance of the Monetary Union Index of Consumer Prices in the eurozone economic landscape and its role in algorithmic trading and policy-making."
 ---
 

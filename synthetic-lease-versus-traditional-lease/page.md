@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Lease Versus Traditional Lease (Algo Trading)"
+title: "Synthetic Lease Versus Traditional Lease"
 description: "Explore the differences between synthetic and traditional leases in algo trading Highlight their benefits challenges and implications for financial strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Safest Investment Industries (Algo Trading)"
+title: "Safest Investment Industries"
 description: "Explore safe investment industries using algorithmic trading strategies for financial security Discover stable sectors with lower risk and consistent demand"
 ---
 

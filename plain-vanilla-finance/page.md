@@ -1,5 +1,5 @@
 ---
-title: "Plain Vanilla in Finance (Algo Trading)"
+title: "Plain Vanilla in Finance"
 description: "Discover the essence of plain vanilla financial products and the impact of algorithmic trading in finance Explore how simplicity meets advanced technology"
 ---
 

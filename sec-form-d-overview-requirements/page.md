@@ -1,5 +1,5 @@
 ---
-title: "SEC Form D Overview and Requirements (Algo Trading)"
+title: "SEC Form D Overview and Requirements"
 description: "Explore the essentials of SEC Form D for algo trading with insights on regulatory compliance and strategic advantages in private securities offerings."
 ---
 

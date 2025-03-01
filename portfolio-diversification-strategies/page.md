@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Diversification Strategies (Algo Trading)"
+title: "Portfolio Diversification Strategies"
 description: "Enhance your investment portfolio with diversification strategies and algorithmic trading insights for optimized performance and reduced risk."
 ---
 

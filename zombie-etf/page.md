@@ -1,5 +1,5 @@
 ---
-title: "Zombie ETF (Algo Trading)"
+title: "Zombie ETF"
 description: "Explore the phenomenon of Zombie ETFs, their market implications, and the impact of algorithmic trading on their outcomes for informed investment decisions."
 ---
 

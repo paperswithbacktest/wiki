@@ -1,5 +1,5 @@
 ---
-title: "Segment Margin: Definition and Calculation (Algo Trading)"
+title: "Segment Margin: Definition and Calculation"
 description: "Discover key insights into segment margin calculations in algo trading Explore how interpreting segment margins aids in strategic decisions and risk management"
 ---
 

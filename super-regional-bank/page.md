@@ -1,5 +1,5 @@
 ---
-title: "Super Regional Bank (Algo Trading)"
+title: "Super Regional Bank"
 description: "Explore how super regional banks use algorithmic trading to enhance services and drive market competitiveness while maintaining a customer-focused approach."
 ---
 

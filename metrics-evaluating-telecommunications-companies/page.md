@@ -1,5 +1,5 @@
 ---
-title: "Metrics for Evaluating Telecommunications Companies (Algo Trading)"
+title: "Metrics for Evaluating Telecommunications Companies"
 description: "Discover key metrics to evaluate performance in the telecommunications and algorithmic trading sectors These metrics guide strategic decisions for growth and efficiency"
 ---
 

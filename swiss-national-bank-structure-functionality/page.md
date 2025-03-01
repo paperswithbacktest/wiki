@@ -1,5 +1,5 @@
 ---
-title: "Swiss National Bank: Structure and Functionality (Algo Trading)"
+title: "Swiss National Bank: Structure and Functionality"
 description: "Explore the Swiss National Bank's pivotal role in monetary policy and its complex interaction with algorithmic trading affecting global economic stability."
 ---
 

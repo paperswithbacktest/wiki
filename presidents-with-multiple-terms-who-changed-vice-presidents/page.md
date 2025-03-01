@@ -1,5 +1,5 @@
 ---
-title: "Presidents with Multiple Terms Who Changed Vice Presidents (Algo Trading)"
+title: "Presidents with Multiple Terms Who Changed Vice Presidents"
 description: "Explore how US presidents with multiple terms strategically changed vice presidents to influence political dynamics and affect stock market patterns."
 ---
 

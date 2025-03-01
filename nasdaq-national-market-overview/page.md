@@ -1,5 +1,5 @@
 ---
-title: "Nasdaq National Market Overview (Algo Trading)"
+title: "Nasdaq National Market Overview"
 description: "Explore the Nasdaq National Market and algorithmic trading's impact on modern finance. Learn how algo trading enhances speed efficiency and market dynamics."
 ---
 

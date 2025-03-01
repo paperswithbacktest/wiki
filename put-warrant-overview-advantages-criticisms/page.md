@@ -1,5 +1,5 @@
 ---
-title: "Put Warrant: Overview, Advantages, and Criticisms (Algo Trading)"
+title: "Put Warrant: Overview, Advantages, and Criticisms"
 description: "Explore how put warrants and algorithmic trading strategies transform investments offering risk management through hedging and automated trade execution."
 ---
 

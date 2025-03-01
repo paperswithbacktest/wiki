@@ -1,5 +1,5 @@
 ---
-title: "Texas Ratio: Definition and Function (Algo Trading)"
+title: "Texas Ratio: Definition and Function"
 description: "Discover how the Texas Ratio evaluates bank risk and financial stability by analyzing non-performing assets in relation to equity and reserves."
 ---
 

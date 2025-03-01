@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Utilizing Economic Recession Opportunities (Algo Trading)"
+title: "Strategies for Utilizing Economic Recession Opportunities"
 description: "Explore strategic opportunities during economic recessions through algorithmic trading Gain insights on how to mitigate risks and enhance investment outcomes"
 ---
 

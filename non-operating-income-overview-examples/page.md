@@ -1,5 +1,5 @@
 ---
-title: "Non-Operating Income: Overview and Examples (Algo Trading)"
+title: "Non-Operating Income: Overview and Examples"
 description: "Learn about non-operating income and its role in financial analysis with examples in algorithmic trading strategies for informed investment decisions."
 ---
 

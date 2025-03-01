@@ -1,5 +1,5 @@
 ---
-title: "Sales Per Employee Ratio (Algo Trading)"
+title: "Sales Per Employee Ratio"
 description: "Explore the essential dynamics of sales performance, financial metrics, employee productivity, and algorithmic trading to enhance your business success."
 ---
 

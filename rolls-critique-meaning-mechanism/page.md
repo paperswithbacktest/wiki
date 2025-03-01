@@ -1,5 +1,5 @@
 ---
-title: "Roll's Critique: Meaning and Mechanism (Algo Trading)"
+title: "Roll's Critique: Meaning and Mechanism"
 description: "Explore the intricacies of Roll's Critique and the Efficient Market Hypothesis in financial markets. Understand their impact on CAPM, market efficiency, and algorithmic trading."
 ---
 

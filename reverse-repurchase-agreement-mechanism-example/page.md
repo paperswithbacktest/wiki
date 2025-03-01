@@ -1,5 +1,5 @@
 ---
-title: "Reverse Repurchase Agreement: Mechanism and Example (Algo Trading)"
+title: "Reverse Repurchase Agreement: Mechanism and Example"
 description: "Explore the critical role of Reverse Repurchase Agreements in financial markets to maintain liquidity and stability through short-term borrowing mechanisms."
 ---
 

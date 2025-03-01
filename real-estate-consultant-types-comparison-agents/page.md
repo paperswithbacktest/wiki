@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Consultant: Types and Comparison with Agents (Algo Trading)"
+title: "Real Estate Consultant: Types and Comparison with Agents"
 description: "Explore the unique roles of real estate consultants and agents and how algorithmic trading reshapes the industry Learn about strategic guidance vs transaction focus"
 ---
 

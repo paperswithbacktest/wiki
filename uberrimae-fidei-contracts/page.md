@@ -1,5 +1,5 @@
 ---
-title: "Uberrimae Fidei Contracts (Algo Trading)"
+title: "Uberrimae Fidei Contracts"
 description: "Explore the critical role of uberrimae fidei in finance contracts ensuring utmost good faith and transparency in insurance and algorithmic trading sectors."
 ---
 

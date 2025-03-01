@@ -1,5 +1,5 @@
 ---
-title: "SEC Form S-11: Overview and Application in REITs (Algo Trading)"
+title: "SEC Form S-11: Overview and Application in REITs"
 description: "Explore how SEC Form S-11, REITs, and algorithmic trading reshape real estate investments, offering transparency, efficiency, and new market opportunities."
 ---
 

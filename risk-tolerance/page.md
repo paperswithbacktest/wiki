@@ -1,5 +1,5 @@
 ---
-title: "Risk Tolerance (Algo Trading)"
+title: "Risk Tolerance"
 description: "Explore how understanding risk tolerance in algorithmic trading impacts investment strategies asset allocation and portfolio management for enhanced financial outcomes"
 ---
 

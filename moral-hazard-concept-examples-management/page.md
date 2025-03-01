@@ -1,5 +1,5 @@
 ---
-title: "Moral Hazard: Concept, Examples, and Management (Algo Trading)"
+title: "Moral Hazard: Concept, Examples, and Management"
 description: "Explore the concept of moral hazard in economic theory, especially in algorithmic trading, and discover strategies for mitigating excessive risk-taking in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Value of Risk: Overview and Examples (Algo Trading)"
+title: "Value of Risk: Overview and Examples"
 description: "Explore the complexities of algorithmic trading with insights into risk management strategies and the Value of Risk to align financial goals and compliance."
 ---
 

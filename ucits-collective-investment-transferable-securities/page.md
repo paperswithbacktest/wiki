@@ -1,5 +1,5 @@
 ---
-title: "UCITS: Undertakings for Collective Investment in Transferable Securities (Algo Trading)"
+title: "UCITS: Undertakings for Collective Investment in Transferable Securities"
 description: "Explore the UCITS framework which standardizes European funds markets ensuring investor protection and efficiency while integrating algorithmic trading for precision."
 ---
 

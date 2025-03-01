@@ -1,5 +1,5 @@
 ---
-title: "Principal-Protected Notes: Benefits and Risks (Algo Trading)"
+title: "Principal-Protected Notes: Benefits and Risks"
 description: "Explore the benefits and risks of Principal-Protected Notes, tailored for risk-averse investors. Understand how algo trading can enhance these secure investment instruments."
 ---
 

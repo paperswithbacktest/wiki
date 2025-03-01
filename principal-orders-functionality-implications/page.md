@@ -1,5 +1,5 @@
 ---
-title: "Principal Orders: Functionality and Implications (Algo Trading)"
+title: "Principal Orders: Functionality and Implications"
 description: "Explore the impact of Principal Orders in algorithmic trading including their role in market dynamics risk management and profit strategies through POOM insights."
 ---
 

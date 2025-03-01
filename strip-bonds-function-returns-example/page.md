@@ -1,5 +1,5 @@
 ---
-title: "Strip Bonds: Function, Returns, and Example (Algo Trading)"
+title: "Strip Bonds: Function, Returns, and Example"
 description: "Explore the strategic advantages of strip bonds and algorithmic trading to enhance investment strategies by understanding returns, timing, and market dynamics."
 ---
 

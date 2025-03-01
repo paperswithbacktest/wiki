@@ -1,5 +1,5 @@
 ---
-title: "Return on Total Assets: Overview and Calculation Examples (Algo Trading)"
+title: "Return on Total Assets: Overview and Calculation Examples"
 description: "Explore how Return on Total Assets (ROTA) impacts algorithmic trading strategies by enhancing asset evaluation, optimizing decisions, and improving returns."
 ---
 

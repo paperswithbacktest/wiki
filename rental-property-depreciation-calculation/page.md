@@ -1,5 +1,5 @@
 ---
-title: "Rental Property Depreciation Calculation (Algo Trading)"
+title: "Rental Property Depreciation Calculation"
 description: "Learn how rental property depreciation can effectively reduce taxable income and enhance investment strategies. Discover the significance of depreciation in real estate, its tax benefits, and explore how it synergizes with algorithmic trading methods. Understand key concepts and calculations, including MACRS, to maximize financial efficiency and improve long-term investment profitability."
 ---
 

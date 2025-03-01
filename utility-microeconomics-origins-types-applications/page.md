@@ -1,5 +1,5 @@
 ---
-title: "Utility in Microeconomics: Origins, Types, and Applications (Algo Trading)"
+title: "Utility in Microeconomics: Origins, Types, and Applications"
 description: "Explore how utility theory in microeconomics guides algorithmic trading to optimize decisions aligning with risk preference and market dynamics for financial gains."
 ---
 

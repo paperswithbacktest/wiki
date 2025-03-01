@@ -1,5 +1,5 @@
 ---
-title: "Price-Growth Flow: Overview, Mechanism, and Formula (Algo Trading)"
+title: "Price-Growth Flow: Overview, Mechanism, and Formula"
 description: "Explore the synergy of economic indicators, price-growth models, and algo trading in modern markets. Equip yourself with insights for strategic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Securitization: Process, Benefits, and Drawbacks (Algo Trading)"
+title: "Securitization: Process, Benefits, and Drawbacks"
 description: "Explore the complex world of securitization and algorithmic trading Discover how these financial processes impact market dynamics while balancing innovation and risk."
 ---
 

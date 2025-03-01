@@ -1,5 +1,5 @@
 ---
-title: "Transactions Impacting Retained Earnings (Algo Trading)"
+title: "Transactions Impacting Retained Earnings"
 description: "Discover how financial transactions, retained earnings, and algorithmic trading converge to shape modern finance strategies and impact company growth and investor value."
 ---
 

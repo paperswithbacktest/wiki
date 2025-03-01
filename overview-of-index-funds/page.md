@@ -1,5 +1,5 @@
 ---
-title: "Overview of Index Funds (Algo Trading)"
+title: "Overview of Index Funds"
 description: "Explore index funds and algorithmic trading in financial markets Learn how these strategies offer diverse investment solutions and optimize trading efficiency"
 ---
 

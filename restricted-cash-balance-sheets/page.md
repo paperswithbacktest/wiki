@@ -1,5 +1,5 @@
 ---
-title: "Restricted Cash on Balance Sheets (Algo Trading)"
+title: "Restricted Cash on Balance Sheets"
 description: "Explore the significance of restricted cash in balance sheets and its impact on algorithmic trading strategies. Understand how this accounts for liquidity and investment decisions."
 ---
 

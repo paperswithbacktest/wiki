@@ -1,5 +1,5 @@
 ---
-title: "Risk Assessment of High-Yield Bonds (Algo Trading)"
+title: "Risk Assessment of High-Yield Bonds"
 description: "Explore the risk assessment of high-yield bonds using algorithmic trading strategies Learn how to manage default risks and improve investment outcomes effectively"
 ---
 

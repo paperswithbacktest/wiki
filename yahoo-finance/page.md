@@ -1,5 +1,5 @@
 ---
-title: "Yahoo! Finance (Algo Trading)"
+title: "Yahoo! Finance"
 description: Explore the potential of Yahoo Finance for algorithmic trading with insights into its extensive financial data offerings. Yahoo Finance remains a key platform for traders despite the discontinuation of its official API in 2017. Learn how you can leverage unofficial alternatives such as `yfinance` to access comprehensive data crucial for developing and refining trading strategies. Understand the benefits and challenges of using Yahoo Finance data to maximize profits and manage risks in the fast-paced world of algo trading.
 ---
 

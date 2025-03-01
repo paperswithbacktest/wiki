@@ -1,5 +1,5 @@
 ---
-title: "Share Purchase Costs and Fees (Algo Trading)"
+title: "Share Purchase Costs and Fees"
 description: "Discover how share purchase costs and fees impact your trading strategy Understand broker commissions transaction fees and the impact of algo trading expenses"
 ---
 

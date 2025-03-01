@@ -1,5 +1,5 @@
 ---
-title: "Monetary and Digital Asset Gifting (Algo Trading)"
+title: "Monetary and Digital Asset Gifting"
 description: "Discover the innovative world of digital and monetary gifting through cryptocurrencies NFTs and algo trading for a seamless and modern gift-giving experience."
 ---
 

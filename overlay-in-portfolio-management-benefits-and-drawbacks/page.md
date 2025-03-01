@@ -1,5 +1,5 @@
 ---
-title: "Overlay in Portfolio Management: Benefits and Drawbacks (Algo Trading)"
+title: "Overlay in Portfolio Management: Benefits and Drawbacks"
 description: "Explore how overlay strategies in portfolio management can be enhanced with algorithmic trading for improved risk management, performance, and cost efficiency."
 ---
 

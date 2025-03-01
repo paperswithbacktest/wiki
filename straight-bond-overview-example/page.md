@@ -1,5 +1,5 @@
 ---
-title: "Straight Bond: Overview and Example (Algo Trading)"
+title: "Straight Bond: Overview and Example"
 description: "Discover the fundamentals of straight bonds and explore how algorithmic trading enhances investment strategies for predictable returns and market agility."
 ---
 

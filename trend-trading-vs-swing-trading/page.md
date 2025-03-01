@@ -1,5 +1,5 @@
 ---
-title: "Trend Trading vs. Swing Trading (Algo Trading)"
+title: "Trend Trading vs. Swing Trading"
 description: "Explore the key differences between swing trading and trend trading in algorithmic trading to optimize your financial strategies and maximize market opportunities."
 ---
 

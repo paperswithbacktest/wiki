@@ -1,5 +1,5 @@
 ---
-title: "Value investing (Algo Trading)"
+title: "Value investing"
 description: Explore the synergy between time-tested value investing principles and cutting-edge algorithmic trading techniques. This article investigates into how technology enhances traditional investment methods, highlighting the process of identifying undervalued securities by analyzing financial fundamentals. By merging value investing's disciplined approach with the precision of algorithms, investors can achieve more accurate and timely trade executions. Discover how the convergence of these strategies offers a compelling opportunity to optimize investment decisions by harnessing both intrinsic value assessments and modern computational power.
 ---
 

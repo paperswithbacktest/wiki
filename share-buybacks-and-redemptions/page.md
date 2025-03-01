@@ -1,5 +1,5 @@
 ---
-title: "Share Buybacks and Redemptions (Algo Trading)"
+title: "Share Buybacks and Redemptions"
 description: "Explore effective financial strategies like share buybacks and redemptions. Learn how algorithmic trading optimizes these tactics to enhance shareholder value."
 ---
 

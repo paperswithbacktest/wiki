@@ -1,5 +1,5 @@
 ---
-title: "Public Limited Company Shares (Algo Trading)"
+title: "Public Limited Company Shares"
 description: "Explore the dynamics of public limited company shares and the revolution of algorithmic trading in financial markets enhancing trade efficiency and investment strategies."
 ---
 

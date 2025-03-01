@@ -1,5 +1,5 @@
 ---
-title: "Tracking Error, Influencing Factors, and Example (Algo Trading)"
+title: "Tracking Error, Influencing Factors, and Example"
 description: "Discover the essentials of tracking error in algorithmic trading and portfolio management. Learn how this critical measure of investment performance evaluates the alignment between a portfolio and its benchmark index. Understand the factors influencing tracking error and its impact on active vs passive management strategies. Explore how both ex-post and ex-ante tracking error assessments can guide fund managers and investors in optimizing returns while managing risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "NEX: Overview, Functionality, Advantages, and Disadvantages (Algo Trading)"
+title: "NEX: Overview, Functionality, Advantages, and Disadvantages"
 description: "Explore the NEX exchange's role within algo trading including its benefits for struggling companies lower costs and unique challenges in investor perception."
 ---
 

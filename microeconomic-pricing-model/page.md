@@ -1,5 +1,5 @@
 ---
-title: "Microeconomic Pricing Model (Algo Trading)"
+title: "Microeconomic Pricing Model"
 description: "Learn about the role of microeconomic pricing models in algorithmic trading and how they influence trading strategies and market efficiency."
 ---
 

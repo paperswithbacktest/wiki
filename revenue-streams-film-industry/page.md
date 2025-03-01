@@ -1,5 +1,5 @@
 ---
-title: "Revenue Streams in the Film Industry (Algo Trading)"
+title: "Revenue Streams in the Film Industry"
 description: "Explore the diverse and evolving revenue streams in the film industry beyond traditional box office sales. Discover how digital streaming services, algorithmic trading, and international market expansion are reshaping profit generation within cinematic projects. Learn how merchandising, cross-platform promotion, and the synergy between traditional and digital platforms ensure sustained profitability, enabling filmmakers to thrive in a digitally integrated entertainment landscape."
 ---
 

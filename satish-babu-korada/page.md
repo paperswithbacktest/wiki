@@ -1,5 +1,5 @@
 ---
-title: "Satish Babu Korada (Algo Trading)"
+title: "Satish Babu Korada"
 description: "Discover Satish Babu Korada's journey from India to prestigious finance roles specializing in algorithmic trading and quantitative analysis at leading firms."
 ---
 

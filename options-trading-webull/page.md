@@ -1,5 +1,5 @@
 ---
-title: "Options Trading on Webull (Algo Trading)"
+title: "Options Trading on Webull"
 description: "Explore options trading on Webull, a versatile platform ideal for investors seeking flexibility and strategic control. Webull's user-friendly interface, combined with the power of algorithmic trading, enhances decision-making and efficiency. Discover comprehensive tools, commission-free trades, and extended hours to optimize your trading strategy and financial outcomes on this dynamic platform."
 ---
 

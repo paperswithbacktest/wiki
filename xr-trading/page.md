@@ -1,5 +1,5 @@
 ---
-title: "XR Trading (Algo Trading)"
+title: "XR Trading"
 description: "Explore XR Trading's pioneering use of algorithmic trading for swift and accurate market decisions Discover how their innovative strategies shape modern finance"
 ---
 

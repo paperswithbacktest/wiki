@@ -1,5 +1,5 @@
 ---
-title: "Positive Butterfly Strategy in Fixed Income Trading (Algo Trading)"
+title: "Positive Butterfly Strategy in Fixed Income Trading"
 description: "Explore the Positive Butterfly Strategy in fixed income trading leveraging algorithmic techniques to optimize bond portfolios by interpreting yield curve movements efficiently."
 ---
 

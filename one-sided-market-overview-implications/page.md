@@ -1,5 +1,5 @@
 ---
-title: "One-Sided Market: Overview and Implications (Algo Trading)"
+title: "One-Sided Market: Overview and Implications"
 description: "Explore the impact of algorithmic trading on market dynamics and one-sided markets Discover how speed precision and economic changes influence trading strategies and liquidity"
 ---
 

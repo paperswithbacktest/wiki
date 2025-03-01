@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Physical Gold and Silver Investments (Algo Trading)"
+title: "Taxation of Physical Gold and Silver Investments"
 description: "Explore the tax implications of investing in physical gold and silver with algorithmic trading Learn to optimize strategies and minimize tax liabilities"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Prospect Theory and Its Mechanisms (Algo Trading)"
+title: "Prospect Theory and Its Mechanisms"
 description: "Explore how prospect theory reshapes algorithmic trading by incorporating behavioral insights into market strategies enhancing predictive accuracy and risk management."
 ---
 

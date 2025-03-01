@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Easing and the Absence of Hyperinflation (Algo Trading)"
+title: "Quantitative Easing and the Absence of Hyperinflation"
 description: "Explore the intricate relationship between hyperinflation, quantitative easing, monetary policy, and algorithmic trading in shaping today's global financial landscape."
 ---
 

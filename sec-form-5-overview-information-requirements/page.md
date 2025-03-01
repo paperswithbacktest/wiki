@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 5: Overview and Information Requirements (Algo Trading)"
+title: "SEC Form 5: Overview and Information Requirements"
 description: "Explore the importance of SEC Form 5 in disclosing insider trading activities and its critical role in maintaining transparency and integrity within financial markets."
 ---
 

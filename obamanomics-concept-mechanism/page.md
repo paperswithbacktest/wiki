@@ -1,5 +1,5 @@
 ---
-title: "Obamanomics: Concept and Mechanism (Algo Trading)"
+title: "Obamanomics: Concept and Mechanism"
 description: "Explore the economic policies of Barack Obama's presidency known as Obamanomics and their impact on financial markets and algorithmic trading dynamics."
 ---
 

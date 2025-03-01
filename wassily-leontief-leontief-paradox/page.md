@@ -1,5 +1,5 @@
 ---
-title: "Wassily Leontief and the Leontief Paradox (Algo Trading)"
+title: "Wassily Leontief and the Leontief Paradox"
 description: "Explore the impact of Wassily Leontief and his Leontief Paradox on modern economics and algorithmic trading in this insightful article. Discover how Leontief's findings challenged traditional trade theories and continue to influence contemporary economic analysis. Learn about the significance of human capital, technological advancements, and complex economic dynamics in shaping international trade and financial markets. Uncover why understanding these foundational economic concepts is vital for traders and policymakers navigating today's global economy."
 ---
 

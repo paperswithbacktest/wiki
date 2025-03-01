@@ -1,5 +1,5 @@
 ---
-title: "Types of Commercial Real Estate (Algo Trading)"
+title: "Types of Commercial Real Estate"
 description: "Explore the intersection of commercial real estate and algorithmic trading to discover how investors can optimize strategies using cutting-edge technology."
 ---
 

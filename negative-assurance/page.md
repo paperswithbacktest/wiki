@@ -1,5 +1,5 @@
 ---
-title: "Negative Assurance (Algo Trading)"
+title: "Negative Assurance"
 description: "Explore the essential role of negative assurance in financial auditing, focusing on its impact and relevance to the fast-paced world of algorithmic trading."
 ---
 

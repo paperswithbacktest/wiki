@@ -1,5 +1,5 @@
 ---
-title: "UPREIT: Benefits and Qualifications in Real Estate Investment (Algo Trading)"
+title: "UPREIT: Benefits and Qualifications in Real Estate Investment"
 description: "Discover how UPREITs can offer tax benefits and liquidity, coupled with the precision of algorithmic trading, for enhanced real estate investment strategies."
 ---
 

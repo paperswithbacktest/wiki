@@ -1,5 +1,5 @@
 ---
-title: "Round Lot: Overview, Mechanism, and Current Trends (Algo Trading)"
+title: "Round Lot: Overview, Mechanism, and Current Trends"
 description: "Explore how round lot and algorithmic trading shape modern stock markets from trade execution efficiency to evolving trends that impact trader strategies."
 ---
 

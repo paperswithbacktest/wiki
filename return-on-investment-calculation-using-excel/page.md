@@ -1,5 +1,5 @@
 ---
-title: "Return on Investment Calculation Using Excel (Algo Trading)"
+title: "Return on Investment Calculation Using Excel"
 description: "Enhance your investment strategy by mastering ROI calculation in Excel, a vital tool for algorithmic trading and financial analysis. Optimize decisions efficiently."
 ---
 

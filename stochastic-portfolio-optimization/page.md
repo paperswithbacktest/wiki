@@ -1,5 +1,5 @@
 ---
-title: "Stochastic portfolio optimization (Algo Trading)"
+title: "Stochastic portfolio optimization"
 description: "Explore the role of stochastic portfolio optimization in algorithmic trading using statistical methods to enhance investment strategies while managing risk effectively."
 ---
 

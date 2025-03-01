@@ -1,5 +1,5 @@
 ---
-title: "Temporal Method Overview and Examples (Algo Trading)"
+title: "Temporal Method Overview and Examples"
 description: "Explore the role of the temporal method in currency translation for multinational financial reporting and its impact on algorithmic trading strategies in forex markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Wholesale Energy: Overview and Mechanisms (Algo Trading)"
+title: "Wholesale Energy: Overview and Mechanisms"
 description: "Explore the transformative role of algorithmic trading in the wholesale energy market where tech advances and regulatory shifts drive efficiency and precision."
 ---
 

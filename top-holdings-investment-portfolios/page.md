@@ -1,5 +1,5 @@
 ---
-title: "Top Holdings in Investment Portfolios (Algo Trading)"
+title: "Top Holdings in Investment Portfolios"
 description: "Explore top holdings in investment portfolios and learn how algorithmic trading enhances portfolio management for optimized risk and rewards."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Racial Wage Disparities: Historical Context and Socioeconomic Impact (Algo Trading)"
+title: "Racial Wage Disparities: Historical Context and Socioeconomic Impact"
 description: "Explore racial wage disparities examining their historical context and socioeconomic impact in relation to the emerging role of algorithmic trading in financial markets."
 ---
 

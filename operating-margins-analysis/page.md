@@ -1,5 +1,5 @@
 ---
-title: "Operating Margins Analysis (Algo Trading)"
+title: "Operating Margins Analysis"
 description: "Explore how algorithmic trading utilizes operating margins, including operating, gross, and net profit margins, to assess trading strategies' efficiency and profitability."
 ---
 

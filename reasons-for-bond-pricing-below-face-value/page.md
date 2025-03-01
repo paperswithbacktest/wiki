@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Bond Pricing Below Face Value (Algo Trading)"
+title: "Reasons for Bond Pricing Below Face Value"
 description: "Explore why bond prices can fall below face value due to interest rate changes and market dynamics. Learn how algorithmic trading influences these valuations."
 ---
 

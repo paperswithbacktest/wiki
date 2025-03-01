@@ -1,5 +1,5 @@
 ---
-title: "Montreal Carbon Pledge (Algo Trading)"
+title: "Montreal Carbon Pledge"
 description: "Discover how sustainable investment ESG criteria and algorithmic trading converge around the Montreal Carbon Pledge to shape a low-carbon economy."
 ---
 

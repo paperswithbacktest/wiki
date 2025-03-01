@@ -1,5 +1,5 @@
 ---
-title: "Robb Pfrank (Algo Trading)"
+title: "Robb Pfrank"
 description: "Discover the journey of Robb Pfrank from IT Specialist to APAC Lead in algorithmic trading, famed for his expertise in trading systems and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Preference Shares and Ordinary Shares (Algo Trading)"
+title: "Preference Shares and Ordinary Shares"
 description: "Explore the key differences between ordinary and preference shares and how they fit diverse investment strategies while considering algorithmic trading advancements."
 ---
 

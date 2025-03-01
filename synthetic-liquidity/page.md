@@ -1,5 +1,5 @@
 ---
-title: "Synthetic liquidity (Algo Trading)"
+title: "Synthetic liquidity"
 description: "Explore the integral role of synthetic liquidity in algorithmic trading, where advanced algorithms create artificial market environments for strategy testing and innovation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Swing Low in Trading (Algo Trading)"
+title: "Swing Low in Trading"
 description: "Discover strategies for trading success with insights on swing lows, technical analysis, and algorithmic trading to enhance decision-making and market edge."
 ---
 

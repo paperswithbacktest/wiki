@@ -1,5 +1,5 @@
 ---
-title: "quantization methods in trading (Algo Trading)"
+title: "quantization methods in trading"
 description: "Discover the power of quantization methods in algorithmic trading to optimize data processing and enhance model performance, driving competitive advantage."
 ---
 

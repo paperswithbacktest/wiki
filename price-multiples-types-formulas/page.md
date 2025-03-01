@@ -1,5 +1,5 @@
 ---
-title: "Price Multiples: Types and Formulas (Algo Trading)"
+title: "Price Multiples: Types and Formulas"
 description: "Explore the crucial role of valuation ratios and price multiples in evaluating a company's financial health and their integration in algorithmic trading strategies."
 ---
 

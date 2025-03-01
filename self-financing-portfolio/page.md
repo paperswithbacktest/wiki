@@ -1,5 +1,5 @@
 ---
-title: "Self-financing portfolio (Algo Trading)"
+title: "Self-financing portfolio"
 description: "Discover the power of self-financing portfolios in algo trading to develop capital-efficient strategies without additional funding for optimized market performance."
 ---
 

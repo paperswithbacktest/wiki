@@ -1,5 +1,5 @@
 ---
-title: "Price Leadership Mechanism and Types (Algo Trading)"
+title: "Price Leadership Mechanism and Types"
 description: "Discover the intricate dynamics of oligopolistic markets with a focus on price leadership and its impact on trading strategies. Explore how algorithmic trading enhances market efficiency and price discovery, providing strategic tools for companies within oligopolies. Understand various models of price leadership and the role of advanced trading algorithms in anticipating market conditions and competitor actions to maintain competitive advantage."
 ---
 

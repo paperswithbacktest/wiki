@@ -1,5 +1,5 @@
 ---
-title: "Offering Circular Overview (Algo Trading)"
+title: "Offering Circular Overview"
 description: "Explore the crucial role of investment offering circulars in algorithmic trading, offering transparency and insights to investors in dynamic financial markets."
 ---
 

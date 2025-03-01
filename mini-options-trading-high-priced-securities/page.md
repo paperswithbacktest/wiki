@@ -1,5 +1,5 @@
 ---
-title: "Mini Options and Trading High-Priced Securities (Algo Trading)"
+title: "Mini Options and Trading High-Priced Securities"
 description: "Explore the potential of mini options and algorithmic trading to manage risk and optimize returns in high-priced securities with greater flexibility and efficiency."
 ---
 

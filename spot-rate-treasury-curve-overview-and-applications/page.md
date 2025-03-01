@@ -1,5 +1,5 @@
 ---
-title: "Spot Rate Treasury Curve: Overview and Applications (Algo Trading)"
+title: "Spot Rate Treasury Curve: Overview and Applications"
 description: "Explore the intersection of algorithmic trading and financial analysis using the treasury curve and spot rates to enhance trading strategies and economic insights."
 ---
 

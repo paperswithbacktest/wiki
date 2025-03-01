@@ -1,5 +1,5 @@
 ---
-title: "Top Investment Courses of 2024 (Algo Trading)"
+title: "Top Investment Courses of 2024"
 description: "Explore top investment courses in 2024 focusing on algorithmic trading and advanced techniques to enhance your investment strategies and financial success."
 ---
 

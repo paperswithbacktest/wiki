@@ -1,5 +1,5 @@
 ---
-title: "Momentum Indicators in Financial Analysis (Algo Trading)"
+title: "Momentum Indicators in Financial Analysis"
 description: "Explore the vital role momentum indicators play in algorithmic trading Discover how these tools help traders gauge market trends to optimize entry and exit points"
 ---
 

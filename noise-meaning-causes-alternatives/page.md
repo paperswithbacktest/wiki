@@ -1,5 +1,5 @@
 ---
-title: "Noise: Meaning, Causes, and Alternatives (Algo Trading)"
+title: "Noise: Meaning, Causes, and Alternatives"
 description: "Explore the meaning of noise in financial markets. Understand how it affects algorithmic trading and discover strategies to mitigate its impact."
 ---
 

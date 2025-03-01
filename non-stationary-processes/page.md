@@ -1,5 +1,5 @@
 ---
-title: "Non-Stationary Processes (Algo Trading)"
+title: "Non-Stationary Processes"
 description: "Explore non-stationary processes in algorithmic trading and learn how transforming them into stationary ones improves market predictions and trading strategies."
 ---
 

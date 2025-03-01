@@ -1,5 +1,5 @@
 ---
-title: "Trading Strategies Using VWAP and MVWAP (Algo Trading)"
+title: "Trading Strategies Using VWAP and MVWAP"
 description: "Explore effective algo trading strategies with VWAP and MVWAP indicators to optimize trade decisions. Learn intraday and long-term trend analysis tactics."
 ---
 

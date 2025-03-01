@@ -1,5 +1,5 @@
 ---
-title: "Perseroan Terbatas: Overview and Types (Algo Trading)"
+title: "Perseroan Terbatas: Overview and Types"
 description: "Explore the types and benefits of Perseroan Terbatas structures in Indonesia for algorithmic trading firms ensuring legal compliance and market efficiency."
 ---
 

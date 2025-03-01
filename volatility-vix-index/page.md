@@ -1,5 +1,5 @@
 ---
-title: "Volatility and the VIX Index (Algo Trading)"
+title: "Volatility and the VIX Index"
 description: "Explore the role of the VIX Index in algo trading Discover how understanding market volatility through the VIX can optimize trading strategies and risk management"
 ---
 

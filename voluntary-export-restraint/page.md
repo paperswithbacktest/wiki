@@ -1,5 +1,5 @@
 ---
-title: "Voluntary Export Restraint (Algo Trading)"
+title: "Voluntary Export Restraint"
 description: "Discover the intricate dynamics of international trade influenced by trade policies export controls and algorithmic trading shaping the global economy."
 ---
 

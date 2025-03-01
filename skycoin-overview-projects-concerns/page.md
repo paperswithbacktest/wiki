@@ -1,5 +1,5 @@
 ---
-title: "Skycoin: Overview, Related Projects, and Concerns (Algo Trading)"
+title: "Skycoin: Overview, Related Projects, and Concerns"
 description: "Explore Skycoin's unique blockchain projects and algorithmic trading insights in this article Focused on decentralization and investment efficiency."
 ---
 

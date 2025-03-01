@@ -1,5 +1,5 @@
 ---
-title: "Risk-Free Rate Puzzle (Algo Trading)"
+title: "Risk-Free Rate Puzzle"
 description: "Explore the Risk-Free Rate Puzzle and its implications for algorithmic trading Learn why government bonds yield lower returns than equities and its impact on strategies"
 ---
 

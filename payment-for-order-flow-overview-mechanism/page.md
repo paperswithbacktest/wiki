@@ -1,5 +1,5 @@
 ---
-title: "Payment for Order Flow: Overview and Mechanism (Algo Trading)"
+title: "Payment for Order Flow: Overview and Mechanism"
 description: "Explore the intricacies of Payment for Order Flow (PFOF) in algorithmic trading as this article provides a comprehensive overview of its mechanism and impact on trading practices. Understand how PFOF enables commission-free trading by compensating brokerages for directing orders to market makers. Delve into the benefits and controversies surrounding PFOF, including its influence on trade execution quality and the regulatory landscape. Examine the differences in PFOF applications between equities and options, and gain insights into the ethical considerations and ongoing reform discussions in the financial industry."
 ---
 

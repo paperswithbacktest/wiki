@@ -1,5 +1,5 @@
 ---
-title: "Short Position: Overview and Example (Algo Trading)"
+title: "Short Position: Overview and Example"
 description: "Explore essential trading concepts like short positions and algorithmic trading that boost precision and risk management in today's financial markets."
 ---
 

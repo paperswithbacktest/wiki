@@ -1,5 +1,5 @@
 ---
-title: "Sunshine Laws: Definition, Purpose, and Examples (Algo Trading)"
+title: "Sunshine Laws: Definition, Purpose, and Examples"
 description: "Explore Sunshine Laws and their role in promoting transparency, accountability, and public trust in government and algorithmic trading environments."
 ---
 

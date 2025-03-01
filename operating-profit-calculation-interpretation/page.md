@@ -1,5 +1,5 @@
 ---
-title: "Operating Profit Calculation and Interpretation (Algo Trading)"
+title: "Operating Profit Calculation and Interpretation"
 description: "Explore the calculation and significance of operating profit in algo trading Learn to assess core business profitability and optimize trading strategies effectively"
 ---
 

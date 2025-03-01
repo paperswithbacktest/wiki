@@ -1,5 +1,5 @@
 ---
-title: "Revenue Per Available Seat Mile (Algo Trading)"
+title: "Revenue Per Available Seat Mile"
 description: "Explore the crucial role of Revenue Per Available Seat Mile in airline strategy for maximizing revenue and operational efficiency with advanced technologies."
 ---
 

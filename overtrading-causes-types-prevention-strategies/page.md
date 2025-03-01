@@ -1,5 +1,5 @@
 ---
-title: "Overtrading: Causes, Types, and Prevention Strategies (Algo Trading)"
+title: "Overtrading: Causes, Types, and Prevention Strategies"
 description: "Discover the causes and implications of overtrading in stock markets Learn prevention strategies to maintain financial stability and disciplined trading practices"
 ---
 

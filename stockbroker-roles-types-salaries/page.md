@@ -1,5 +1,5 @@
 ---
-title: "Stockbroker: Roles, Types, and Salaries (Algo Trading)"
+title: "Stockbroker: Roles, Types, and Salaries"
 description: "Discover the key roles and salary expectations in stockbroking and algorithmic trading with a focus on financial market dynamics. This comprehensive guide provides insights into the responsibilities of stockbrokers, including transaction facilitation and client advisory, as well as the evolving landscape of algo trading. Learn about the distinction between full-service and discount brokers, explore their compensation structures, and gain valuable information on the factors affecting earnings in these lucrative finance careers. Perfect for those pursuing a career in finance or seeking to enhance their industry knowledge."
 ---
 

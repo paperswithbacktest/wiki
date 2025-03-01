@@ -1,5 +1,5 @@
 ---
-title: "Methods for Part-Time Forex Trading (Algo Trading)"
+title: "Methods for Part-Time Forex Trading"
 description: "Explore efficient methods for part-time forex trading using algorithmic strategies to automate trades manage time effectively and optimize trading success in a volatile market."
 ---
 

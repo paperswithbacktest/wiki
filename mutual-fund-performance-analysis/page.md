@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Performance Analysis (Algo Trading)"
+title: "Mutual Fund Performance Analysis"
 description: "Analyze mutual fund performance using algo trading insights to enhance investment strategies and manage risks effectively for optimized returns."
 ---
 

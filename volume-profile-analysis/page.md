@@ -1,5 +1,5 @@
 ---
-title: "Volume profile analysis (Algo Trading)"
+title: "Volume profile analysis"
 description: "Explore Volume Profile Analysis in algorithmic trading to understand market behavior, identify support and resistance levels, and make strategic decisions."
 ---
 

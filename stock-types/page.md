@@ -1,5 +1,5 @@
 ---
-title: "Stock Types (Algo Trading)"
+title: "Stock Types"
 description: "Discover the essentials of investment categories stock types and algorithmic trading to make informed decisions and optimize your portfolio for financial success."
 ---
 

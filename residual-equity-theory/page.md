@@ -1,5 +1,5 @@
 ---
-title: "Residual Equity Theory (Algo Trading)"
+title: "Residual Equity Theory"
 description: "Explore the synergy of residual equity theory in algorithmic trading, emphasizing fairness and shareholder value in finance for optimal investment strategies."
 ---
 

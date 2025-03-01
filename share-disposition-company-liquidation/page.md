@@ -1,5 +1,5 @@
 ---
-title: "Share Disposition in Company Liquidation (Algo Trading)"
+title: "Share Disposition in Company Liquidation"
 description: "Explore asset distribution in company liquidation and the influence of algorithmic trading a crucial aspect in navigating financial and legal complexities in modern finance."
 ---
 

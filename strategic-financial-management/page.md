@@ -1,5 +1,5 @@
 ---
-title: "Strategic Financial Management (Algo Trading)"
+title: "Strategic Financial Management"
 description: "Explore strategic financial management with a focus on algo trading, intertwining business finance, and innovation for sustainable growth and competitive edge."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Peace Dividend and Its Mechanisms (Algo Trading)"
+title: "Peace Dividend and Its Mechanisms"
 description: "Explore how peace dividends influence economic growth by reallocating defense spending to social welfare and infrastructure. Discover insights into fiscal strategies."
 ---
 

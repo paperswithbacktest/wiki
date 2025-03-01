@@ -1,5 +1,5 @@
 ---
-title: "Triple Bottom Chart in Technical Analysis (Algo Trading)"
+title: "Triple Bottom Chart in Technical Analysis"
 description: "Explore the Triple Bottom chart pattern to enhance your trading strategy. Understand its bullish reversal significance and leverage algorithmic trading for optimal results."
 ---
 

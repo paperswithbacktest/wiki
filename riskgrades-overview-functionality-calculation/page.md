@@ -1,5 +1,5 @@
 ---
-title: "RiskGrades: Overview, Functionality, and Calculation (Algo Trading)"
+title: "RiskGrades: Overview, Functionality, and Calculation"
 description: "Explore how RiskGrades offer a standardized measure of financial asset risk and the role algorithmic trading plays in enhancing trading speed and precision."
 ---
 

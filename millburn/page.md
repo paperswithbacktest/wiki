@@ -1,5 +1,5 @@
 ---
-title: "Millburn (Algo Trading)"
+title: "Millburn"
 description: "Explore Millburn's innovative algorithmic trading strategies blending technology and finance to gain insights into the future of trading in global markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Surpassing Market Performance (Algo Trading)"
+title: "Strategies for Surpassing Market Performance"
 description: "Explore how algorithmic trading strategies can outperform market averages with speed and precision. Learn essential metrics for evaluating success."
 ---
 

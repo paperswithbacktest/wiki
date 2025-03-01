@@ -1,5 +1,5 @@
 ---
-title: "Steps to Begin Trading Stocks (Algo Trading)"
+title: "Steps to Begin Trading Stocks"
 description: "Start your stock trading journey with our comprehensive guide for beginners. Discover key concepts and essential steps for navigating traditional and algorithmic trading methods. Learn how to identify your trading style, choose the right brokerage, and understand the differences between short-term and long-term investing strategies. Equip yourself with the knowledge needed to thrive in the stock market while selecting platforms and tools tailored to your investment goals. Whether you're leaning towards manual or automated trading, our insights will help you make informed decisions and unlock your potential for financial success."
 ---
 

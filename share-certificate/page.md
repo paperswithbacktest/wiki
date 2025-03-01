@@ -1,5 +1,5 @@
 ---
-title: "Share Certificate (Algo Trading)"
+title: "Share Certificate"
 description: "Explore the essentials of share certificates stock ownership and algorithmic trading Discover how these elements intertwine in modern investment strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Supply and Demand in Economics (Algo Trading)"
+title: "Supply and Demand in Economics"
 description: "Explore how supply-demand economics enhances algorithmic trading strategies, leveraging economic insights to predict market movements and improve trading outcomes."
 ---
 

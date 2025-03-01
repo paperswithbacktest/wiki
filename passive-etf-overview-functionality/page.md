@@ -1,5 +1,5 @@
 ---
-title: "Passive ETF: Overview and Functionality (Algo Trading)"
+title: "Passive ETF: Overview and Functionality"
 description: "Explore how passive ETFs and algorithmic trading can optimize investment strategies by enhancing liquidity reducing costs and improving returns effectively."
 ---
 

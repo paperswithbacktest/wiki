@@ -1,5 +1,5 @@
 ---
-title: "Voloridge Investment Management (Algo Trading)"
+title: "Voloridge Investment Management"
 description: Voloridge Investment Management, based in Jupiter, Florida, is a leading quantitative asset management firm known for its expertise in algorithmic trading. By utilizing sophisticated mathematical models and extensive datasets, Voloridge revolutionizes asset management with data-driven, rapid investment decisions, eliminating emotional bias and enhancing consistency in volatile markets. Founded by David Vogel in 2009, the firm leverages advanced algorithms for superior, consistent performance, demonstrated by a notable three-year annualized return of 38% in 2017. Voloridge is also committed to ESG investments, launching a $1.5 billion climate change fund, reflecting its dedication to sustainable financial practices.
 ---
 

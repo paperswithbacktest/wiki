@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Hedging Against Economic Recessions (Algo Trading)"
+title: "Strategies for Hedging Against Economic Recessions"
 description: "Protect your investments from economic downturns with effective hedging strategies using algorithmic trading. Discover techniques to safeguard and optimize your portfolio."
 ---
 

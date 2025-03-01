@@ -1,5 +1,5 @@
 ---
-title: "Process Value Analysis: Overview and Criticism (Algo Trading)"
+title: "Process Value Analysis: Overview and Criticism"
 description: "Discover how Process Value Analysis (PVA) enhances algorithmic trading by streamlining processes and optimizing trading algorithms for efficiency and profitability."
 ---
 

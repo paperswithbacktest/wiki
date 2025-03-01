@@ -1,5 +1,5 @@
 ---
-title: "Money Market Funds: Types, Advantages, and Risks (Algo Trading)"
+title: "Money Market Funds: Types, Advantages, and Risks"
 description: "Explore the advantages and risks of money market funds and algorithmic trading. Learn how to balance liquidity and risk for optimal investment strategies."
 ---
 

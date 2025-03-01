@@ -1,5 +1,5 @@
 ---
-title: "Oscillator of Moving Average: Overview and Functionality (Algo Trading)"
+title: "Oscillator of Moving Average: Overview and Functionality"
 description: "Explore the functionality of the Oscillator of Moving Average in algorithmic trading Learn how OSMA helps traders identify market trends and momentum shifts"
 ---
 

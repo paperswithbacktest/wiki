@@ -1,5 +1,5 @@
 ---
-title: "Vertical Spread in Options Trading (Algo Trading)"
+title: "Vertical Spread in Options Trading"
 description: "Explore vertical spreads in options trading with insights into strategies like bull call and bear put spreads. Discover how algo trading enhances precision and risk management."
 ---
 

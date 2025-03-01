@@ -1,5 +1,5 @@
 ---
-title: "Risk Reversal and Its Mechanism (Algo Trading)"
+title: "Risk Reversal and Its Mechanism"
 description: "Explore the risk reversal strategy in options trading enhanced by algorithmic tools to boost execution efficiency while reducing emotional biases and errors."
 ---
 

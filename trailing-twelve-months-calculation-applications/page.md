@@ -1,5 +1,5 @@
 ---
-title: "Trailing Twelve Months (TTM): Calculation and Applications (Algo Trading)"
+title: "Trailing Twelve Months (TTM): Calculation and Applications"
 description: "Discover the significance of Trailing Twelve Months (TTM) in financial analysis and algorithmic trading. Learn how TTM offers a continuous view of a company's recent performance, enabling timely assessments of earnings, revenue, and key financial metrics. Understand its vital role in refining trading strategies with precise, up-to-date data, and explore detailed applications of TTM for improved decision-making in an ever-evolving market landscape."
 ---
 

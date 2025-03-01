@@ -1,5 +1,5 @@
 ---
-title: "Revenue Model of WhatsApp (Algo Trading)"
+title: "Revenue Model of WhatsApp"
 description: "Explore the innovative revenue model of WhatsApp focusing on its business API, click-to-WhatsApp ads, and payment services while maintaining an ad-free user experience."
 ---
 

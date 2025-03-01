@@ -1,5 +1,5 @@
 ---
-title: "Noncurrent Liabilities: Examples and Ratios (Algo Trading)"
+title: "Noncurrent Liabilities: Examples and Ratios"
 description: "Explore the crucial role of noncurrent liabilities and financial ratios in algo trading strategies and financial health assessment for informed risk management decisions."
 ---
 

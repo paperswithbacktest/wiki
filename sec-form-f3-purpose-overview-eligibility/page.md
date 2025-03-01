@@ -1,5 +1,5 @@
 ---
-title: "SEC Form F-3: Purpose, Overview, and Eligibility (Algo Trading)"
+title: "SEC Form F-3: Purpose, Overview, and Eligibility"
 description: "SEC Form F-3 provides foreign issuers streamlined access to U.S. capital markets facilitating securities offerings. Learn about its eligibility and benefits here."
 ---
 

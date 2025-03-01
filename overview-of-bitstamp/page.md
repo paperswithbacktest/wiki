@@ -1,5 +1,5 @@
 ---
-title: "Overview of Bitstamp (Algo Trading)"
+title: "Overview of Bitstamp"
 description: "Explore Bitstamp a trusted crypto exchange since 2011 offering a reliable platform for both new and experienced traders with a focus on security and ease of use"
 ---
 

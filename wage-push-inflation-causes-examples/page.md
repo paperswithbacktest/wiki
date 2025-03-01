@@ -1,5 +1,5 @@
 ---
-title: "Wage Push Inflation: Causes and Examples (Algo Trading)"
+title: "Wage Push Inflation: Causes and Examples"
 description: "Explore wage-push inflation where rising wages lead to increased production costs and prices. Understand its causes and examples with insights on algo trading."
 ---
 

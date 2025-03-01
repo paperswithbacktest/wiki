@@ -1,5 +1,5 @@
 ---
-title: "Three White Soldiers Pattern in Technical Analysis (Algo Trading)"
+title: "Three White Soldiers Pattern in Technical Analysis"
 description: "Discover the Three White Soldiers pattern in technical analysis A powerful bullish reversal indicator enhanced by algorithmic trading for efficient market strategies"
 ---
 

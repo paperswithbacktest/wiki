@@ -1,5 +1,5 @@
 ---
-title: "Revenue: Formula, Calculation, and Examples (Algo Trading)"
+title: "Revenue: Formula, Calculation, and Examples"
 description: "Explore the complexities of revenue calculation and how algorithmic trading is shaping modern financial markets. Understand the role of revenue as a key indicator of business health and its impact on investment and growth. Discover industry examples illustrating diverse revenue streams and learn how these concepts are crucial for competitive business strategies."
 ---
 

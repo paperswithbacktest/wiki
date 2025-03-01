@@ -1,5 +1,5 @@
 ---
-title: "Noise Trader Risk (Algo Trading)"
+title: "Noise Trader Risk"
 description: "Explore the impact of noise trader risk in algorithmic trading Explore strategies to manage volatility caused by emotional trading and enhance market efficiency"
 ---
 

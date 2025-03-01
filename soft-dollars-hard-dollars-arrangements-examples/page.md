@@ -1,5 +1,5 @@
 ---
-title: "Soft Dollars and Hard Dollars: Arrangements and Examples (Algo Trading)"
+title: "Soft Dollars and Hard Dollars: Arrangements and Examples"
 description: "Explore the crucial differences between hard and soft dollars in trading discover their impact on cost transparency compliance and financial decision-making in the market."
 ---
 

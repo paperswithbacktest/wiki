@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Weighting Methods and Calculations (Algo Trading)"
+title: "Portfolio Weighting Methods and Calculations"
 description: "Explore portfolio weighting methods and algorithmic trading techniques to optimize investment allocation Discover strategies for robust financial management"
 ---
 

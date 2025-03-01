@@ -1,5 +1,5 @@
 ---
-title: "Trade Volume Index: Overview and Calculation (Algo Trading)"
+title: "Trade Volume Index: Overview and Calculation"
 description: "Explore the Trade Volume Index an essential tool for understanding market trends through price and volume analysis helping traders refine strategies in algorithmic trading."
 ---
 

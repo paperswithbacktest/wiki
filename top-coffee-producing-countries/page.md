@@ -1,5 +1,5 @@
 ---
-title: "Top Coffee-Producing Countries (Algo Trading)"
+title: "Top Coffee-Producing Countries"
 description: "Discover the top coffee-producing countries and explore how technological advances like algorithmic trading are reshaping the global coffee market."
 ---
 

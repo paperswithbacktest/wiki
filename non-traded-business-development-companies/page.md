@@ -1,5 +1,5 @@
 ---
-title: "Non-Traded Business Development Companies (Algo Trading)"
+title: "Non-Traded Business Development Companies"
 description: "Explore the benefits and challenges of investing in non-traded BDCs and the transformative role of algorithmic trading in optimizing returns and managing risks."
 ---
 

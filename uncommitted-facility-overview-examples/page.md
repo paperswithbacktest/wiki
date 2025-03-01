@@ -1,5 +1,5 @@
 ---
-title: "Uncommitted Facility: Overview and Examples (Algo Trading)"
+title: "Uncommitted Facility: Overview and Examples"
 description: "Explore how an uncommitted facility provides businesses with flexibility and liquidity while algorithmic trading boosts market efficiency and trading precision."
 ---
 

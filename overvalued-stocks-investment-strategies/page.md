@@ -1,5 +1,5 @@
 ---
-title: "Overvalued Stocks and Investment Strategies (Algo Trading)"
+title: "Overvalued Stocks and Investment Strategies"
 description: "Explore strategies for investing in overvalued stocks with insights into short selling, value investing, and algorithmic trading to optimize market opportunities."
 ---
 

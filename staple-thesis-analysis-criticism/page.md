@@ -1,5 +1,5 @@
 ---
-title: "Staple Thesis: Analysis and Criticism (Algo Trading)"
+title: "Staple Thesis: Analysis and Criticism"
 description: "Explore the intersection of the Staple Thesis and algorithmic trading, analyzing economic growth models in resource-driven economies versus tech-driven market dynamics."
 ---
 

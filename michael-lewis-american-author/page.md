@@ -1,5 +1,5 @@
 ---
-title: "Michael Lewis - American Author (Algo Trading)"
+title: "Michael Lewis - American Author"
 description: "Explore Michael Lewis's insightful take on algorithmic trading in 'Flash Boys' and his unique ability to unravel the complexities of high-frequency trading practices."
 ---
 

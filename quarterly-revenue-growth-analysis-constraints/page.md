@@ -1,5 +1,5 @@
 ---
-title: "Quarterly Revenue Growth: Analysis and Constraints (Algo Trading)"
+title: "Quarterly Revenue Growth: Analysis and Constraints"
 description: "Analyze quarterly revenue growth for insights on company's performance and strategic decisions in algo trading enhancing investment strategies and market positioning."
 ---
 

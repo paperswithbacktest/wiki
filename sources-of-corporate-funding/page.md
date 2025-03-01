@@ -1,5 +1,5 @@
 ---
-title: "Sources of Corporate Funding (Algo Trading)"
+title: "Sources of Corporate Funding"
 description: "Explore the diverse sources of corporate funding crucial for business growth including retained earnings debt and equity capital enhanced by algorithmic trading trends."
 ---
 

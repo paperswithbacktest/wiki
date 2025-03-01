@@ -1,5 +1,5 @@
 ---
-title: "Revenue Streams of Nasdaq (Algo Trading)"
+title: "Revenue Streams of Nasdaq"
 description: "Explore Nasdaq's diverse revenue streams driven by advanced algorithmic trading strategies and cutting-edge technology that optimize financial performance."
 ---
 

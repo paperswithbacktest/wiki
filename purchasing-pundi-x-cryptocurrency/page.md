@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Pundi X Cryptocurrency (Algo Trading)"
+title: "Purchasing Pundi X Cryptocurrency"
 description: "Explore how to buy Pundi X cryptocurrency and leverage algorithmic trading for optimal investment strategies in the dynamic crypto market."
 ---
 

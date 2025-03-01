@@ -1,5 +1,5 @@
 ---
-title: "Top Dividend Indexes (Algo Trading)"
+title: "Top Dividend Indexes"
 description: "Explore top dividend indexes with insights on dividend investing index funds and algo trading to build a robust investment portfolio with steady income and growth."
 ---
 

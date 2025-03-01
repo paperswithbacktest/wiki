@@ -1,5 +1,5 @@
 ---
-title: "T+1, T+2, and T+3 Settlement Explainer (Algo Trading)"
+title: "T+1, T+2, and T+3 Settlement Explainer"
 description: "Explore T+1, T+2, and T+3 trade settlement cycles and their impact on algorithmic trading. Learn how they influence risk management and trading strategies."
 ---
 

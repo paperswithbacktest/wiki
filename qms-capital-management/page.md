@@ -1,5 +1,5 @@
 ---
-title: "QMS Capital Management (Algo Trading)"
+title: "QMS Capital Management"
 description: "Discover the impactful role of QMS Capital Management in algorithmic trading with cutting-edge quantitative techniques for superior financial performance."
 ---
 

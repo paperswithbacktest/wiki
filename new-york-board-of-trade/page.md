@@ -1,5 +1,5 @@
 ---
-title: "New York Board of Trade (Algo Trading)"
+title: "New York Board of Trade"
 description: "Explore the evolution of the New York Board of Trade and the role of algorithmic trading in transforming commodity markets with enhanced speed and precision."
 ---
 

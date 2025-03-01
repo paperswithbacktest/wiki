@@ -1,5 +1,5 @@
 ---
-title: "Security Market Indicator Series: Overview and Functionality (Algo Trading)"
+title: "Security Market Indicator Series: Overview and Functionality"
 description: "Explore the role of Security Market Indicator Series and technical tools in algorithmic trading to enhance strategies and leverage data-driven insights effectively."
 ---
 

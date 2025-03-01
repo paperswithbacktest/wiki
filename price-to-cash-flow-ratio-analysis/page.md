@@ -1,5 +1,5 @@
 ---
-title: "Price-to-Cash-Flow Ratio Analysis (Algo Trading)"
+title: "Price-to-Cash-Flow Ratio Analysis"
 description: "Explore the Price-to-Cash-Flow ratio analysis in finance to uncover insights into a company's stock value and cash-generating abilities for better trading decisions."
 ---
 

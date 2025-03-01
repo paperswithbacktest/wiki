@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Visualizer Guide (Algo Trading)"
+title: "Portfolio Visualizer Guide"
 description: Explore the transformative potential of portfolio visualizers in algorithmic trading. Understand their role in optimizing investment strategies through data visualization and risk assessment. This guide examines how these tools contribute to effective decision-making and improve trading accuracy by integrating with automated systems. Discover methods to select suitable visualizers for trading needs and overcome integration challenges in modern investment approaches.
 ---
 

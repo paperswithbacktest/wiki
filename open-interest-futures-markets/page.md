@@ -1,5 +1,5 @@
 ---
-title: "Open Interest in Futures Markets (Algo Trading)"
+title: "Open Interest in Futures Markets"
 description: "Explore the vital role of open interest and algorithmic trading in futures markets Learn how these elements can enhance trading strategies and market analysis"
 ---
 

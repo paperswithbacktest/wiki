@@ -1,5 +1,5 @@
 ---
-title: "Simon Kuznets and the Kuznets Curve (Algo Trading)"
+title: "Simon Kuznets and the Kuznets Curve"
 description: "Explore the Kuznets Curve's insights on economic growth and income inequality by Simon Kuznets. Discover its implications for modern algorithmic trading."
 ---
 

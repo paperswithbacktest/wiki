@@ -1,5 +1,5 @@
 ---
-title: "Protective Collar Options Strategy (Algo Trading)"
+title: "Protective Collar Options Strategy"
 description: "Explore the protective collar options strategy combining downside protection with limited upside for stock investments using algorithmic trading methods."
 ---
 

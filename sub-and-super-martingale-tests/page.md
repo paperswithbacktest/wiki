@@ -1,5 +1,5 @@
 ---
-title: "Sub- and super-martingale tests (Algo Trading)"
+title: "Sub- and super-martingale tests"
 description: Explore the crucial role of sub- and super-martingale tests in enhancing algorithmic trading strategies. Learn how these probability theory concepts aid in understanding market trends optimizing trading decisions and managing risk effectively. Dive into the world of martingales and their variants to gain a competitive edge in dynamic financial markets by leveraging statistical models to predict trends and model asset prices.
 ---
 

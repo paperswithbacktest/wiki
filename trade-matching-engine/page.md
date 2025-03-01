@@ -1,5 +1,5 @@
 ---
-title: "Rewritten title (Algo Trading)"
+title: "Rewritten title"
 description: "Discover the impact of automated trading systems on financial markets and explore how algorithms drive efficiency speed and precision in trade execution."
 ---
 

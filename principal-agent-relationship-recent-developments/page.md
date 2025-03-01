@@ -1,5 +1,5 @@
 ---
-title: "Principal-Agent Relationship and Recent Developments (Algo Trading)"
+title: "Principal-Agent Relationship and Recent Developments"
 description: "Explore how principal-agent relationships influence financial strategies amidst rising algorithmic trading innovations Discover insights on aligning stakeholder interests."
 ---
 

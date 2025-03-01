@@ -1,5 +1,5 @@
 ---
-title: "Primary and Secondary Markets: Types and Examples (Algo Trading)"
+title: "Primary and Secondary Markets: Types and Examples"
 description: "Explore the differences between primary and secondary financial markets and their role in capital flow, with insights on algorithmic trading's impact on modern trading."
 ---
 

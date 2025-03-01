@@ -1,5 +1,5 @@
 ---
-title: "Sources for Year-To-Date Returns of Financial Benchmarks (Algo Trading)"
+title: "Sources for Year-To-Date Returns of Financial Benchmarks"
 description: "Explore YTD returns and financial benchmarks in algorithmic trading to assess investment performance and optimize strategies in today's dynamic markets."
 ---
 

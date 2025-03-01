@@ -1,5 +1,5 @@
 ---
-title: "North Korea and Its Influence on Bitcoin Prices (Algo Trading)"
+title: "North Korea and Its Influence on Bitcoin Prices"
 description: "Explore the complex relationship between North Korea and Bitcoin markets focusing on how its strategies impact prices and global economic security considerations."
 ---
 

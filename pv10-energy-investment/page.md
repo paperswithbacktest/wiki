@@ -1,5 +1,5 @@
 ---
-title: "PV10 in Energy Investment (Algo Trading)"
+title: "PV10 in Energy Investment"
 description: "Explore the impact of PV10 metrics on energy investments and discover how algorithmic trading enhances strategies by processing real-time market data for optimal decisions."
 ---
 

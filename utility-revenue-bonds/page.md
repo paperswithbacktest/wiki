@@ -1,5 +1,5 @@
 ---
-title: "Utility Revenue Bonds (Algo Trading)"
+title: "Utility Revenue Bonds"
 description: "Explore how algorithmic trading is transforming municipal bonds including utility revenue bonds by enhancing market efficiency and investment strategies."
 ---
 

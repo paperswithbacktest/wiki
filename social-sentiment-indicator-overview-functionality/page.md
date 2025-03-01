@@ -1,5 +1,5 @@
 ---
-title: "Social Sentiment Indicator: Overview and Functionality (Algo Trading)"
+title: "Social Sentiment Indicator: Overview and Functionality"
 description: "Discover how social sentiment analysis enhances algorithmic trading by extracting actionable insights from investor emotions to predict market trends effectively"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "USD/JPY Exchange Rate (Algo Trading)"
+title: "USD/JPY Exchange Rate"
 description: "Explore how the USD/JPY exchange rate is influenced by algorithmic trading This guide examines key factors impacting this major forex pair for traders and investors"
 ---
 

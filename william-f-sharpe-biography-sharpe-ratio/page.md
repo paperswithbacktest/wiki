@@ -1,5 +1,5 @@
 ---
-title: "William F. Sharpe: Biography and the Sharpe Ratio (Algo Trading)"
+title: "William F. Sharpe: Biography and the Sharpe Ratio"
 description: "Explore William F. Sharpe's biography and groundbreaking contributions to finance, including the CAPM and Sharpe Ratio, crucial for algorithmic trading success."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "United States Securities and Exchange Commission v. Ripple Labs (Algo Trading)"
+title: "United States Securities and Exchange Commission v. Ripple Labs"
 description: "Explore the Ripple vs. SEC case and its implications on cryptocurrency regulation, asset classification, and the impact on algorithmic trading in a shifting digital landscape."
 ---
 

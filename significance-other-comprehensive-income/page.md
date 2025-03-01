@@ -1,5 +1,5 @@
 ---
-title: "Significance of Other Comprehensive Income (Algo Trading)"
+title: "Significance of Other Comprehensive Income"
 description: "Explore the significance of Other Comprehensive Income and its impact on financial analysis in the context of algorithmic trading."
 ---
 

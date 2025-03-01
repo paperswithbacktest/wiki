@@ -1,5 +1,5 @@
 ---
-title: "Option Income Funds: Overview and Benefits (Algo Trading)"
+title: "Option Income Funds: Overview and Benefits"
 description: "Explore option income funds and algo trading strategies to boost returns and manage risks. Learn about income generation through options and algorithm integration."
 ---
 

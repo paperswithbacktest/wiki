@@ -1,5 +1,5 @@
 ---
-title: "S. Viswanathan (Vish) (Algo Trading)"
+title: "S. Viswanathan (Vish)"
 description: "Discover the career and impact of S. Viswanathan in algorithmic trading and fintech. Explore his roles, achievements, and contributions to financial innovation."
 ---
 

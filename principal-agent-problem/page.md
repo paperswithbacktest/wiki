@@ -1,5 +1,5 @@
 ---
-title: "principal-agent problem (Algo Trading)"
+title: "principal-agent problem"
 description: "Explore the challenges of the principal-agent problem in algorithmic trading where agents may prioritize short-term gains over investors' long-term interests."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "RSK: Understanding RBTC and Its Functionality (Algo Trading)"
+title: "RSK: Understanding RBTC and Its Functionality"
 description: "Explore RBTC and the RSK blockchain to learn how this Bitcoin extension integrates smart contracts for enhanced trading and decentralized applications."
 ---
 

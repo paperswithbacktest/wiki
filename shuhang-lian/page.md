@@ -1,5 +1,5 @@
 ---
-title: "Shuhang Lian (Algo Trading)"
+title: "Shuhang Lian"
 description: "Explore the journey of Shuhang Lian a notable algorithmic trading expert with strengths in quantitative analysis and financial modeling shaping modern finance."
 ---
 

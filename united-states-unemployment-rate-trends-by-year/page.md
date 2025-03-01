@@ -1,5 +1,5 @@
 ---
-title: "United States Unemployment Rate Trends by Year (Algo Trading)"
+title: "United States Unemployment Rate Trends by Year"
 description: "Explore the trends of U.S. unemployment rates over the years and their impact on job markets alongside the role of algorithmic trading in shaping employment dynamics."
 ---
 

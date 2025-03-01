@@ -1,5 +1,5 @@
 ---
-title: "Upstream Capital Costs Index: Overview and Mechanism (Algo Trading)"
+title: "Upstream Capital Costs Index: Overview and Mechanism"
 description: "Explore the Upstream Capital Costs Index as a vital tool in understanding oil and natural gas capital costs and its integration with algorithmic trading."
 ---
 

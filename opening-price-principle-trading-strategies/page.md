@@ -1,5 +1,5 @@
 ---
-title: "Opening Price Principle in Trading Strategies (Algo Trading)"
+title: "Opening Price Principle in Trading Strategies"
 description: "Explore the Opening Price Principle and algorithmic trading to optimize your strategies Learn how these advanced techniques enhance decision-making and profitability"
 ---
 

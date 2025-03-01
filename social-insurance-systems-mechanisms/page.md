@@ -1,5 +1,5 @@
 ---
-title: "Social Insurance Systems and Mechanisms (Algo Trading)"
+title: "Social Insurance Systems and Mechanisms"
 description: "Explore the synergy between social insurance systems and algorithmic trading to enhance financial security and economic stability in modern society."
 ---
 

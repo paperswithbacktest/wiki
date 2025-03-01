@@ -1,5 +1,5 @@
 ---
-title: "Specific Performance Clause in Contract Law (Algo Trading)"
+title: "Specific Performance Clause in Contract Law"
 description: "Explore the intricate role of specific performance in contract law, especially in the context of algorithmic trading. This equitable remedy compels parties to fulfill contractual terms rather than compensate with money, crucial in transactions involving unique items like real estate or art. Discover its significance in ensuring precise execution of trading agreements, its legal framework, and how it contrasts with monetary compensation to effectively safeguard contractual intentions."
 ---
 

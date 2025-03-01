@@ -1,5 +1,5 @@
 ---
-title: "Polish Zloty: History and Considerations (Algo Trading)"
+title: "Polish Zloty: History and Considerations"
 description: "Explore the history of the Polish Zloty its evolution and its impact on Poland's economy with insights into algorithmic trading opportunities in global markets."
 ---
 

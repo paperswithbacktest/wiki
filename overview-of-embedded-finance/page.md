@@ -1,5 +1,5 @@
 ---
-title: "Overview of Embedded Finance (Algo Trading)"
+title: "Overview of Embedded Finance"
 description: "Explore the synergy of embedded finance and algorithmic trading reshaping fintech through seamless integrations in platforms and innovative trading strategies."
 ---
 

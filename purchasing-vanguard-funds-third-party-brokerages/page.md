@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Vanguard Funds Through Third-Party Brokerages (Algo Trading)"
+title: "Purchasing Vanguard Funds Through Third-Party Brokerages"
 description: "Explore how to purchase Vanguard funds through third-party brokerages with insights into algorithmic trading for optimizing investment strategies efficiently."
 ---
 

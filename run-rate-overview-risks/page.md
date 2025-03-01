@@ -1,5 +1,5 @@
 ---
-title: "Run Rate: Overview and Associated Risks (Algo Trading)"
+title: "Run Rate: Overview and Associated Risks"
 description: "Explore the significance of run rate in financial forecasting and algorithmic trading The article covers its role in predicting outcomes and managing associated risks"
 ---
 

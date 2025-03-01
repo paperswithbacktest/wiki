@@ -1,5 +1,5 @@
 ---
-title: "Restructuring Charges (Algo Trading)"
+title: "Restructuring Charges"
 description: "Explore how restructuring charges in algorithmic trading impact financial statements and investor strategies. Understand these charges for better financial insights."
 ---
 

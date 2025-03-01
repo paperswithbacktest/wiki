@@ -1,5 +1,5 @@
 ---
-title: "Risk-Neutral Measures (Algo Trading)"
+title: "Risk-Neutral Measures"
 description: "Risk-neutral measures simplify derivative pricing by standardizing asset valuations, using risk-free rates and streamlining financial models for algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Interest-Bearing Current Liability (Algo Trading)"
+title: "Non-Interest-Bearing Current Liability"
 description: "Discover the significance of non-interest-bearing current liabilities in corporate finance and algorithmic trading. Understand how they influence liquidity and strategic decisions."
 ---
 

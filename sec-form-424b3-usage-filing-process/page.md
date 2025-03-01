@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 424B3: Usage and Filing Process (Algo Trading)"
+title: "SEC Form 424B3: Usage and Filing Process"
 description: "SEC Form 424B3 is crucial for maintaining transparency in securities offerings particularly for algorithmic trading by amending disclosures to reflect the latest information."
 ---
 

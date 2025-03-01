@@ -1,5 +1,5 @@
 ---
-title: "Options Trading with AMZN Explained (Algo Trading)"
+title: "Options Trading with AMZN Explained"
 description: Explore the intricacies of trading Amazon (AMZN) stock options, a prime opportunity for investors seeking to leverage market volatility of a global tech giant. Learn how algorithmic trading strategies can enhance decision-making and trade execution, providing a competitive edge in managing risk and maximizing potential profits. Gain insights into calls, puts, and key option terminologies for an informed trading experience.
 ---
 

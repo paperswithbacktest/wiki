@@ -1,5 +1,5 @@
 ---
-title: "Monetary Aggregates in Economics (Algo Trading)"
+title: "Monetary Aggregates in Economics"
 description: "Explore the intricate relationship between monetary aggregates, money supply, and algorithmic trading and their collective impact on economic stability and trading strategies."
 ---
 

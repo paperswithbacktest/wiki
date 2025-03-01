@@ -1,5 +1,5 @@
 ---
-title: "Risk Avoidance and Risk Reduction: Differences (Algo Trading)"
+title: "Risk Avoidance and Risk Reduction: Differences"
 description: "Explore the differences between risk avoidance and reduction in algorithmic trading Discover techniques to minimize trading risks and enhance strategy efficiency"
 ---
 

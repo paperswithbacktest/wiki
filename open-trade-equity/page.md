@@ -1,5 +1,5 @@
 ---
-title: "Open Trade Equity (Algo Trading)"
+title: "Open Trade Equity"
 description: "Discover the fundamental role of Open Trade Equity in trading strategies. Learn how OTE impacts risk management and decision-making in both manual and algo trading."
 ---
 

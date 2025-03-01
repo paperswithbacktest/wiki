@@ -1,5 +1,5 @@
 ---
-title: "Sealed-Bid Auction in Real Estate (Algo Trading)"
+title: "Sealed-Bid Auction in Real Estate"
 description: "Discover how sealed-bid auctions coupled with algorithmic trading are revolutionizing real estate sales by enhancing decision-making and maximizing asset value."
 ---
 

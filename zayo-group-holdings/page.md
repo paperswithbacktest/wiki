@@ -1,5 +1,5 @@
 ---
-title: "Zayo Group Holdings (Algo Trading)"
+title: "Zayo Group Holdings"
 description: "Explore Zayo Group Holdings known for high-speed fiber-optic services catering to diverse business needs and enhancing algorithmic trading with low-latency networks."
 ---
 

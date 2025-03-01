@@ -1,5 +1,5 @@
 ---
-title: "Wall Street: Influence on Investing and Notoriety (Algo Trading)"
+title: "Wall Street: Influence on Investing and Notoriety"
 description: "Explore Wall Street's pivotal role in algorithmic trading enhancing investment strategies through speed precision and technology in global financial markets."
 ---
 

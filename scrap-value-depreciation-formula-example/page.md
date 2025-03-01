@@ -1,5 +1,5 @@
 ---
-title: "Scrap Value Depreciation: Formula and Example (Algo Trading)"
+title: "Scrap Value Depreciation: Formula and Example"
 description: "Learn about scrap value depreciation and its role in asset valuation through examples and formulas, essential for financial planning and algo trading."
 ---
 

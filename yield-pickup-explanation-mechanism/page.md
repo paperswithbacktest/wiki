@@ -1,5 +1,5 @@
 ---
-title: "Yield Pickup: Explanation and Mechanism (Algo Trading)"
+title: "Yield Pickup: Explanation and Mechanism"
 description: "Discover how the yield pickup strategy enhances bond portfolio returns by replacing lower-yield bonds with higher ones using algorithmic trading for efficiency."
 ---
 

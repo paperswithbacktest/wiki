@@ -1,5 +1,5 @@
 ---
-title: "Total Asset-To-Capital Ratio (Algo Trading)"
+title: "Total Asset-To-Capital Ratio"
 description: "Explore the crucial role of the Total Asset-To-Capital ratio in algorithmic trading to assess a company's financial leverage and stability, enhancing trading strategies."
 ---
 

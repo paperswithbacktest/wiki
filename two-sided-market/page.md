@@ -1,5 +1,5 @@
 ---
-title: "Two-Sided Market (Algo Trading)"
+title: "Two-Sided Market"
 description: "Explore the transformative power of two-sided markets in algorithmic trading Learn how platforms connect user groups optimize interactions and drive sustainable growth"
 ---
 

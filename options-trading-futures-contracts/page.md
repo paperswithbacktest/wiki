@@ -1,5 +1,5 @@
 ---
-title: "Options Trading on Futures Contracts (Algo Trading)"
+title: "Options Trading on Futures Contracts"
 description: "Explore options trading on futures contracts with insights into algorithmic strategies, derivatives, and risk management. Enhance your trading acumen today."
 ---
 

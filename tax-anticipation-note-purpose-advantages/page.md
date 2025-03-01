@@ -1,5 +1,5 @@
 ---
-title: "Tax Anticipation Note: Purpose and Advantages (Algo Trading)"
+title: "Tax Anticipation Note: Purpose and Advantages"
 description: "Tax anticipation notes help municipalities manage cash flow by leveraging expected tax revenues. Explore how TANs, aided by algorithmic trading, optimize finances."
 ---
 

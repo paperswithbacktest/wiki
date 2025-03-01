@@ -1,5 +1,5 @@
 ---
-title: "Rio Hedge (Algo Trading)"
+title: "Rio Hedge"
 description: "Explore the concept of the Rio hedge in algo trading with a mix of humor and practical risk management strategies to enhance investment success."
 ---
 

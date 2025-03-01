@@ -1,5 +1,5 @@
 ---
-title: "SEC Form F-4: Purpose and Structure (Algo Trading)"
+title: "SEC Form F-4: Purpose and Structure"
 description: "Explore the purpose and structure of SEC Form F-4 in the context of mergers and acquisitions and how algorithmic trading impacts these regulatory processes."
 ---
 

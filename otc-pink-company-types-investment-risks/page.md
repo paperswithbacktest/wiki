@@ -1,5 +1,5 @@
 ---
-title: "OTC Pink: Company Types and Investment Risks (Algo Trading)"
+title: "OTC Pink: Company Types and Investment Risks"
 description: "Explore OTC Pink markets and understand their investment risks including limited disclosures and high volatility. Learn how algorithmic trading can help mitigate these risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Multinational Corporation (Algo Trading)"
+title: "Multinational Corporation"
 description: "Explore the synergy of multinational corporations and algorithmic trading reshaping global finance by enhancing efficiency, market response, and strategic operations."
 ---
 

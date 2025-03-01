@@ -1,5 +1,5 @@
 ---
-title: "Pre-Market Routines for Traders (Algo Trading)"
+title: "Pre-Market Routines for Traders"
 description: "Optimize your algo trading strategies with robust pre-market routines Analyse overnight developments gauge market sentiment and gain a competitive edge"
 ---
 

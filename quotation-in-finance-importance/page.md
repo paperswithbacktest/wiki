@@ -1,5 +1,5 @@
 ---
-title: "Quotation in Finance and Their Importance (Algo Trading)"
+title: "Quotation in Finance and Their Importance"
 description: "Explore the significance of financial quotations in trading and their crucial role in algorithmic trading for effective, data-driven decision-making and strategy optimization."
 ---
 

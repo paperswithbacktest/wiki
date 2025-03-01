@@ -1,5 +1,5 @@
 ---
-title: "Trading Assets: Meaning, Examples, and Applications (Algo Trading)"
+title: "Trading Assets: Meaning, Examples, and Applications"
 description: "Explore trading assets and algorithmic trading to enhance investment strategies. Learn about stocks, bonds, ETFs, and commodities to navigate financial markets."
 ---
 

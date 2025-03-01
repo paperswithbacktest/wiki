@@ -1,5 +1,5 @@
 ---
-title: "Payable-Through-Draft: Explanation and Mechanism (Algo Trading)"
+title: "Payable-Through-Draft: Explanation and Mechanism"
 description: "Learn about Payable-Through-Drafts and their role in simplifying banking and algorithmic trading transactions with enhanced security and efficiency."
 ---
 

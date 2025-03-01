@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo methods for option pricing (Algo Trading)"
+title: "Monte Carlo methods for option pricing"
 description: "Discover how Monte Carlo methods enhance option pricing in algorithmic trading using simulations to manage market volatility and improve decision-making."
 ---
 

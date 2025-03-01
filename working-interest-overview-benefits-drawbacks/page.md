@@ -1,5 +1,5 @@
 ---
-title: "Working Interest: Overview, Benefits, and Drawbacks (Algo Trading)"
+title: "Working Interest: Overview, Benefits, and Drawbacks"
 description: "Explore working interest in the oil and gas industry their benefits and drawbacks plus learn how algorithmic trading enhances investment strategies."
 ---
 

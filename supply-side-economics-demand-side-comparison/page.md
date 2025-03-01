@@ -1,5 +1,5 @@
 ---
-title: "Supply-Side Economics and Demand-Side Economics Comparison (Algo Trading)"
+title: "Supply-Side Economics and Demand-Side Economics Comparison"
 description: "Explore the key differences between supply-side and demand-side economics and learn how algorithmic trading integrates these concepts in modern financial markets."
 ---
 

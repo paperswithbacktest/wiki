@@ -1,5 +1,5 @@
 ---
-title: "Nonfeasance in Finance (Algo Trading)"
+title: "Nonfeasance in Finance"
 description: "Explore key financial concepts like nonfeasance and algorithmic trading to navigate today's finance world Understand liabilities equities liquidity and more"
 ---
 

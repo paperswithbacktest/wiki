@@ -1,5 +1,5 @@
 ---
-title: "Total Shareholder Return Formula (Algo Trading)"
+title: "Total Shareholder Return Formula"
 description: "Discover how Total Shareholder Return (TSR) serves as a vital metric for evaluating investment performance, executive compensation, and algorithmic trading strategies."
 ---
 

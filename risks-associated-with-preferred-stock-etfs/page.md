@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Preferred Stock ETFs (Algo Trading)"
+title: "Risks Associated with Preferred Stock ETFs"
 description: "Explore the risks of Preferred Stock ETFs and algo trading Learn about associated challenges and strategies to navigate this dynamic financial landscape effectively"
 ---
 

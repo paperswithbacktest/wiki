@@ -1,5 +1,5 @@
 ---
-title: "Price Risk and Mitigation Strategies (Algo Trading)"
+title: "Price Risk and Mitigation Strategies"
 description: "Explore financial strategies and risk mitigation techniques utilizing algorithmic trading to manage price risk effectively and optimize investment opportunities."
 ---
 

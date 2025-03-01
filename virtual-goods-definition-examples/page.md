@@ -1,5 +1,5 @@
 ---
-title: "Virtual Goods: Definition and Examples (Algo Trading)"
+title: "Virtual Goods: Definition and Examples"
 description: "Discover how virtual goods and algorithmic trading are reshaping the digital economy Explore their impact on online transactions and the global financial market"
 ---
 

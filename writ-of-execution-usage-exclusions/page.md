@@ -1,5 +1,5 @@
 ---
-title: "Writ of Execution Usage and Exclusions (Algo Trading)"
+title: "Writ of Execution Usage and Exclusions"
 description: "Explore the synergy between writs of execution in judgment enforcement and algorithmic trading learn how legal frameworks and tech advancements reshape finance."
 ---
 

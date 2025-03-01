@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 8-A12B Overview and Functionality (Algo Trading)"
+title: "SEC Form 8-A12B Overview and Functionality"
 description: "Explore the role of SEC Form 8-A12B in securities registration and algorithmic trading's impact on market efficiency enabling informed investment decisions."
 ---
 

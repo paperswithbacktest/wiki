@@ -1,5 +1,5 @@
 ---
-title: "Yield-Based Options: Types, Advantages, and Disadvantages (Algo Trading)"
+title: "Yield-Based Options: Types, Advantages, and Disadvantages"
 description: "Explore the advantages and disadvantages of yield-based options in algo trading. Learn how these financial derivatives can help hedge against interest rate fluctuations."
 ---
 

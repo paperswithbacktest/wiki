@@ -1,5 +1,5 @@
 ---
-title: "Prospectus: Examples, Uses, and Interpretation (Algo Trading)"
+title: "Prospectus: Examples, Uses, and Interpretation"
 description: "Unlock the potential of prospectus insights and algorithmic trading in the financial markets Learn to interpret key financial documents for smarter investments"
 ---
 

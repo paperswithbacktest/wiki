@@ -1,5 +1,5 @@
 ---
-title: "Moral Hazard vs. Adverse Selection (Algo Trading)"
+title: "Moral Hazard vs. Adverse Selection"
 description: "Explore the intricate relationship between moral hazard and adverse selection within the realms of insurance economics and algorithmic trading. Delve into how these concepts shape market dynamics by altering behaviors and impacting risk assessment. This article offers insights into identifying and mitigating these financial phenomena to improve market efficiency and establish sound trading strategies."
 ---
 

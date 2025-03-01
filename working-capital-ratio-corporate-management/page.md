@@ -1,5 +1,5 @@
 ---
-title: "Working Capital Ratio and Corporate Management (Algo Trading)"
+title: "Working Capital Ratio and Corporate Management"
 description: "Explore the synergy of working capital ratios and algorithmic trading for corporate management to enhance financial stability and optimize performance."
 ---
 

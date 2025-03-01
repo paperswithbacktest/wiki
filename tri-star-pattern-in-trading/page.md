@@ -1,5 +1,5 @@
 ---
-title: "Tri-Star Pattern in Trading (Algo Trading)"
+title: "Tri-Star Pattern in Trading"
 description: "Discover the Tri-Star pattern in trading a rare candlestick formation signaling potential market reversals Learn to identify and trade it with insights into algo strategies"
 ---
 

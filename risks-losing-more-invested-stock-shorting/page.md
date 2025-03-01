@@ -1,5 +1,5 @@
 ---
-title: "Risks of Losing More Than Invested in Stock Shorting (Algo Trading)"
+title: "Risks of Losing More Than Invested in Stock Shorting"
 description: "Explore the high risks of shorting stocks and the dangers of algo trading in the stock market Learn how to manage potential losses and safe investment strategies"
 ---
 

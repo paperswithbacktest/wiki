@@ -1,5 +1,5 @@
 ---
-title: "Stability and Growth Pact (Algo Trading)"
+title: "Stability and Growth Pact"
 description: "Discover how the EU's Stability and Growth Pact ensures fiscal stability amid modern challenges like algorithmic trading Learn its significance in the financial landscape"
 ---
 

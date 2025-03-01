@@ -1,5 +1,5 @@
 ---
-title: "Office of the Comptroller of the Currency (Algo Trading)"
+title: "Office of the Comptroller of the Currency"
 description: "Explore how the Office of the Comptroller of the Currency and other U.S. regulatory bodies manage financial stability and market integrity in algorithmic trading."
 ---
 

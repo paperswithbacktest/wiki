@@ -1,5 +1,5 @@
 ---
-title: "Overview of Call Premiums and Their Types (Algo Trading)"
+title: "Overview of Call Premiums and Their Types"
 description: "Explore the intricacies of call premiums in bond finance and algorithmic trading Understand how these components impact investment strategies and bond pricing."
 ---
 

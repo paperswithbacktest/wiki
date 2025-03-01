@@ -1,5 +1,5 @@
 ---
-title: "United States–Mexico Trade Volumes (Algo Trading)"
+title: "United States–Mexico Trade Volumes"
 description: "Explore how algorithmic trading shapes U.S.-Mexico trade volumes with efficiency and precision Discover its impact on trade dynamics and economic strategies"
 ---
 

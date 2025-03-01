@@ -1,5 +1,5 @@
 ---
-title: "Net Cash and Its Calculation (Algo Trading)"
+title: "Net Cash and Its Calculation"
 description: "Understand net cash and cash flow calculations in algorithmic trading to optimize strategies, enhance liquidity management, and improve investment outcomes."
 ---
 

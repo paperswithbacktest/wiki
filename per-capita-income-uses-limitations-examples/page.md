@@ -1,5 +1,5 @@
 ---
-title: "Per Capita Income: Uses, Limitations, and Examples (Algo Trading)"
+title: "Per Capita Income: Uses, Limitations, and Examples"
 description: "Explore the complex ties between per capita income and algorithmic trading to better understand economic metrics used in crafting effective financial strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Understanding Bond Ratios and Their Interpretation (Algo Trading)"
+title: "Understanding Bond Ratios and Their Interpretation"
 description: "Explore the intricate world of bond ratios used in algorithmic trading and investment analysis to make strategic decisions and maximize returns in finance."
 ---
 

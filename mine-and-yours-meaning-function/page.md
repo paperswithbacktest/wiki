@@ -1,5 +1,5 @@
 ---
-title: "Mine and Yours: Meaning and Function (Algo Trading)"
+title: "Mine and Yours: Meaning and Function"
 description: "Explore the vital role of language in trading and how pronouns like "mine" and "yours" influence ownership, psychology, and algorithmic trading strategies."
 ---
 

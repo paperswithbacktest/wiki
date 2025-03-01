@@ -1,5 +1,5 @@
 ---
-title: "Operating a Full Bitcoin Node for Investment Purposes (Algo Trading)"
+title: "Operating a Full Bitcoin Node for Investment Purposes"
 description: "Explore how operating a full Bitcoin node can enhance investment strategies through algorithmic trading and support the decentralized finance ecosystem."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "S&P 500 Dividend Aristocrats Index and Leading Companies (Algo Trading)"
+title: "S&P 500 Dividend Aristocrats Index and Leading Companies"
 description: "Explore how the S&P 500 Dividend Aristocrats maintain reliability in dividends and discover the role of algorithmic trading in optimizing investment potential."
 ---
 

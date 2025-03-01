@@ -1,5 +1,5 @@
 ---
-title: "Risk-Neutral Pricing in Execution (Algo Trading)"
+title: "Risk-Neutral Pricing in Execution"
 description: "Explore risk-neutral pricing in algorithmic trading, a crucial concept for valuing assets without risk premiums. Enhance trading strategies with this approach."
 ---
 

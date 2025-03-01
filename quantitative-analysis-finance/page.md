@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Analysis in Finance (Algo Trading)"
+title: "Quantitative Analysis in Finance"
 description: "Explore the dynamics of quantitative analysis and algorithmic trading in finance Uncover how data-driven techniques enhance investment strategies and market operations"
 ---
 

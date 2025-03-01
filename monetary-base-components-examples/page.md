@@ -1,5 +1,5 @@
 ---
-title: "Monetary Base Components and Examples (Algo Trading)"
+title: "Monetary Base Components and Examples"
 description: "Explore the evolving dynamics of the monetary base and algorithmic trading uncovering how central banks influence currency supply while algorithms reshape trading paradigms."
 ---
 

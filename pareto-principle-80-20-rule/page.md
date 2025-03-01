@@ -1,5 +1,5 @@
 ---
-title: "Pareto Principle: 80/20 Rule (Algo Trading)"
+title: "Pareto Principle: 80/20 Rule"
 description: "Discover how the Pareto Principle or 80/20 Rule applies to algorithmic trading strategies where a minority of efforts yield the majority of profits."
 ---
 

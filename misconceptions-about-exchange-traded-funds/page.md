@@ -1,5 +1,5 @@
 ---
-title: "Misconceptions About Exchange-Traded Funds (Algo Trading)"
+title: "Misconceptions About Exchange-Traded Funds"
 description: "Uncover the truths behind ETFs and algorithmic trading with this insightful article that demystifies common myths, helping investors make informed decisions."
 ---
 

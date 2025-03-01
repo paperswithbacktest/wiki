@@ -1,5 +1,5 @@
 ---
-title: "Mirror Trading Strategy in Stock Market (Algo Trading)"
+title: "Mirror Trading Strategy in Stock Market"
 description: "Explore the strategic benefits of mirror trading and algorithmic trading in the stock market Learn how these innovations enhance decision-making and efficiency"
 ---
 

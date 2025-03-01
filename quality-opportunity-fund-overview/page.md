@@ -1,5 +1,5 @@
 ---
-title: "Quality Opportunity Fund Overview (Algo Trading)"
+title: "Quality Opportunity Fund Overview"
 description: "Discover the Quality Opportunity Fund overview highlighting its focus on high-quality investments and the role of algorithmic trading in enhancing strategic returns."
 ---
 

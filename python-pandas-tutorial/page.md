@@ -1,5 +1,5 @@
 ---
-title: "Python Pandas Tutorial (Algo Trading)"
+title: "Python Pandas Tutorial"
 description: Learn how Python's robust libraries enhance algorithmic trading by enabling time series analytics. Discover the power of Pandas for data manipulation and visualization, as well as essential statistical modeling tools to optimize trading strategies for dynamic market conditions. Dive into setting up your Python environment for powerful algo trading insights.
 ---
 

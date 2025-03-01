@@ -1,5 +1,5 @@
 ---
-title: "Sudanese Pound (SDP) (Algo Trading)"
+title: "Sudanese Pound (SDP)"
 description: "Explore the complex history and current financial dynamics of the Sudanese Pound and discover how algorithmic trading enhances trading accuracy and efficiency."
 ---
 

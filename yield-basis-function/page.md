@@ -1,5 +1,5 @@
 ---
-title: "Yield Basis and Its Function (Algo Trading)"
+title: "Yield Basis and Its Function"
 description: "Explore how yield basis strategies and algorithmic trading transform investment portfolios by leveraging yield differentials and optimizing trade execution."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Recapture Clause and Its Functionality (Algo Trading)"
+title: "Recapture Clause and Its Functionality"
 description: "Explore how recapture clauses and algo trading agreements impact financial transactions. Learn their importance in lease negotiations and automated trading strategies."
 ---
 

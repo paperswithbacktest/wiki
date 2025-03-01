@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Lender: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Portfolio Lender: Overview, Advantages, and Disadvantages"
 description: "Portfolio lending offers flexibility by tailoring loans to borrower needs, making it ideal for non-traditional income earners but involves higher lender risk."
 ---
 

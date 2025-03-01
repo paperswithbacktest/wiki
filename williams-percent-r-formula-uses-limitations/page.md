@@ -1,5 +1,5 @@
 ---
-title: "Williams %R Indicator: Formula, Uses, and Limitations (Algo Trading)"
+title: "Williams %R Indicator: Formula, Uses, and Limitations"
 description: "Explore the Williams %R indicator, a vital tool in technical analysis developed by Larry Williams. This momentum oscillator is essential for traders aiming to identify overbought and oversold market conditions and potential reversals. Understand its formula, how it measures current price against a high-low range over a defined period, and its application in algorithmic trading strategies for more informed decision-making. Discover how to integrate Williams %R into trading algorithms to enhance market prediction and trade execution accuracy, helping traders to optimize their trading performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Multinational Pooling: Overview and Types (Algo Trading)"
+title: "Multinational Pooling: Overview and Types"
 description: "Discover the integration of multinational pooling and algorithmic trading to optimize risk management and financial strategies for global corporations."
 ---
 

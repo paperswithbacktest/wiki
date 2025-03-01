@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 8A12BEF (Algo Trading)"
+title: "SEC Form 8A12BEF"
 description: "Explore how SEC Form 8A12BEF influenced securities registration processes and its intersection with algorithmic trading, impacting market transparency and regulatory compliance."
 ---
 

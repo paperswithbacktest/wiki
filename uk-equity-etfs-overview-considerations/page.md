@@ -1,5 +1,5 @@
 ---
-title: "UK Equity ETFs: Overview and Important Considerations (Algo Trading)"
+title: "UK Equity ETFs: Overview and Important Considerations"
 description: "Explore UK equity ETFs and algorithmic trading to understand their benefits, challenges, and strategies for optimizing returns and managing risks effectively."
 ---
 

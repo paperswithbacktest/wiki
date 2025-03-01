@@ -1,5 +1,5 @@
 ---
-title: "Open Positions in Trading: Meaning and Risk (Algo Trading)"
+title: "Open Positions in Trading: Meaning and Risk"
 description: "Explore the risks of open positions in trading and how algorithmic strategies mitigate them. Learn about evolving markets and modern risk management techniques."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Systematic Manager: Roles and Examples (Algo Trading)"
+title: "Systematic Manager: Roles and Examples"
 description: "Explore the transformative role of systematic managers in algorithmic trading using data-driven strategies to enhance efficiency reduce human error and optimize returns"
 ---
 

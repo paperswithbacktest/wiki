@@ -1,5 +1,5 @@
 ---
-title: "Trading Strategy and Development (Algo Trading)"
+title: "Trading Strategy and Development"
 description: "Explore the dynamic world of trading strategies and algorithmic development to optimize investment success minimize risks and adapt to changing market conditions."
 ---
 

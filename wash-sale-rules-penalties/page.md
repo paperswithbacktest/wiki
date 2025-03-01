@@ -1,5 +1,5 @@
 ---
-title: "Wash Sale Rules and Penalties (Algo Trading)"
+title: "Wash Sale Rules and Penalties"
 description: "Discover the complexities of wash sale rules in algorithmic trading Understand how tax regulations and penalties affect your trading strategies and investment outcomes"
 ---
 

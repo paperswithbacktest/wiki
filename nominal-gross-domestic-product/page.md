@@ -1,5 +1,5 @@
 ---
-title: "Nominal Gross Domestic Product (Algo Trading)"
+title: "Nominal Gross Domestic Product"
 description: "Explore the significance of nominal GDP in algorithmic trading, highlighting its role in economic assessments and market predictions without inflation adjustments."
 ---
 

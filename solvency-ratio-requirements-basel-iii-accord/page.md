@@ -1,5 +1,5 @@
 ---
-title: "Solvency Ratio Requirements under the Basel III Accord (Algo Trading)"
+title: "Solvency Ratio Requirements under the Basel III Accord"
 description: "Explore how Basel III's solvency ratio requirements impact banks' operations and their algorithmic trading activities amidst tighter regulatory standards."
 ---
 

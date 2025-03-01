@@ -1,5 +1,5 @@
 ---
-title: "PEST Analysis: Applications and Uses in Business (Algo Trading)"
+title: "PEST Analysis: Applications and Uses in Business"
 description: "Explore how PEST analysis enhances business strategy and decision-making in algorithmic trading by assessing political economic social and technological factors."
 ---
 

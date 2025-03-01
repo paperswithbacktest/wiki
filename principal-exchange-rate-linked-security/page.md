@@ -1,5 +1,5 @@
 ---
-title: "Principal Exchange Rate Linked Security (Algo Trading)"
+title: "Principal Exchange Rate Linked Security"
 description: "Explore the benefits of Principal Exchange Rate Linked Securities and how algorithmic trading enhances investment strategies in fluctuating currency markets."
 ---
 

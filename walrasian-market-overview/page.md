@@ -1,5 +1,5 @@
 ---
-title: "Walrasian Market Overview (Algo Trading)"
+title: "Walrasian Market Overview"
 description: "Explore the Walrasian Equilibrium and its significance in modern financial markets with a focus on its mathematical foundations and applications in algorithmic trading."
 ---
 

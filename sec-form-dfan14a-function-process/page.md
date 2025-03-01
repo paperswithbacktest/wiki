@@ -1,5 +1,5 @@
 ---
-title: "SEC Form DFAN14A: Function and Process (Algo Trading)"
+title: "SEC Form DFAN14A: Function and Process"
 description: "Explore the importance of SEC Form DFAN14A in proxy statements and algorithmic trading. Enhance shareholder communication and investment decisions with this guide."
 ---
 

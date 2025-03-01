@@ -1,5 +1,5 @@
 ---
-title: "Trading Ahead: Overview and Mechanisms (Algo Trading)"
+title: "Trading Ahead: Overview and Mechanisms"
 description: "Explore the complexities of trading ahead and algorithmic trading mechanisms in financial markets Learn the regulatory frameworks ensuring market fairness and transparency"
 ---
 

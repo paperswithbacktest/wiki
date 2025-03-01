@@ -1,5 +1,5 @@
 ---
-title: "West Texas Intermediate as an Oil Price Benchmark (Algo Trading)"
+title: "West Texas Intermediate as an Oil Price Benchmark"
 description: "Discover how West Texas Intermediate crude oil serves as a vital benchmark in the oil market and the transformative impact of algorithmic trading strategies."
 ---
 

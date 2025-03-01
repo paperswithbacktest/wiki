@@ -1,5 +1,5 @@
 ---
-title: "Position-Delta Neutral Trading Strategies (Algo Trading)"
+title: "Position-Delta Neutral Trading Strategies"
 description: "Explore delta neutral trading strategies in algo trading and learn how to minimize market risk while leveraging volatility with automated portfolio management tools."
 ---
 

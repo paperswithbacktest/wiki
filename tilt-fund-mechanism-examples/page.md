@@ -1,5 +1,5 @@
 ---
-title: "Tilt Fund: Mechanism and Examples (Algo Trading)"
+title: "Tilt Fund: Mechanism and Examples"
 description: "Discover how tilt funds and algorithmic trading can optimize your investment strategy by enhancing returns and managing risk effectively in dynamic markets."
 ---
 

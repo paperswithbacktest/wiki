@@ -1,5 +1,5 @@
 ---
-title: "Opening a Robo-Advisor Account in 2024 (Algo Trading)"
+title: "Opening a Robo-Advisor Account in 2024"
 description: "Explore the synergy of robo-advisors and algorithmic trading in 2024 Discover how these technologies offer low-cost personalized investment strategies"
 ---
 

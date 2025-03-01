@@ -1,5 +1,5 @@
 ---
-title: "SEC Form S-8 and S-1: Purpose and Filing (Algo Trading)"
+title: "SEC Form S-8 and S-1: Purpose and Filing"
 description: "Explore the significance of SEC Forms S-8 and S-1 in algorithmic trading, focusing on compliance and strategic optimization. Form S-8 facilitates easier registration of securities for employee benefit plans, enhancing transparency. In contrast, Form S-1 is crucial for initial public offerings, requiring comprehensive disclosure to protect investors. Understanding these forms is vital for optimizing algo trading strategies within legal frameworks."
 ---
 

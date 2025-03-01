@@ -1,5 +1,5 @@
 ---
-title: "Profit Strategies Using Bands and Channels in Finance (Algo Trading)"
+title: "Profit Strategies Using Bands and Channels in Finance"
 description: "Explore how Keltner Channels, Donchian Channels, and STARC Bands can enhance algorithmic trading strategies, maximizing profits in volatile markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Protected Cell Company Overview (Algo Trading)"
+title: "Protected Cell Company Overview"
 description: "Explore how the Protected Cell Company model enhances algorithmic trading with its distinct structure segregating cells for risk management and asset protection."
 ---
 

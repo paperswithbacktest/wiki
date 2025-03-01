@@ -1,5 +1,5 @@
 ---
-title: "Undervalued in Value Investing (Algo Trading)"
+title: "Undervalued in Value Investing"
 description: "Explore how integrating value investing's fundamentals with algorithmic trading's precision enhances investment strategies offering informed decision-making and optimized returns."
 ---
 

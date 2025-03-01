@@ -1,5 +1,5 @@
 ---
-title: "Trading Floor (Algo Trading)"
+title: "Trading Floor"
 description: "Discover the world of algorithmic trading where technology revolutionizes financial markets by optimizing speed and accuracy in trade executions Explore how algo trading transforms traditional methods enhances strategy precision and reshapes global stock exchanges Navigate key concepts and advantages of algorithmic trading to thrive in today's competitive market environment where understanding these technological advancements is crucial for success"
 ---
 

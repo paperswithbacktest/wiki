@@ -1,5 +1,5 @@
 ---
-title: "Open Offer and Rights Issue (Algo Trading)"
+title: "Open Offer and Rights Issue"
 description: "Explore the dynamics of stock offerings like rights issues and open offers, and discover how algorithmic trading is reshaping capital-raising strategies."
 ---
 

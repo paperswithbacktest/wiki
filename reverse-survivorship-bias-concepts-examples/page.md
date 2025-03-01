@@ -1,5 +1,5 @@
 ---
-title: "Reverse Survivorship Bias: Concepts and Examples (Algo Trading)"
+title: "Reverse Survivorship Bias: Concepts and Examples"
 description: "Discover the intricacies of reverse survivorship bias in algorithmic trading Understand how this overlooked bias affects decision-making and strategy refinement"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Paul Merriman 4-Fund Portfolio Explained (Algo Trading)"
+title: "Paul Merriman 4-Fund Portfolio Explained"
 description: Explore the Paul Merriman 4 Fund Portfolio, a simple yet effective investment strategy leveraging the power of algorithmic trading for maximizing returns. This widely recognized portfolio combines equal allocations in four asset classes including S&P 500, Large Cap Value, Small Cap Blend, and Small Cap Value to optimize diversification and capitalize on various risk premiums. Discover how merging this traditional, sophisticated portfolio with cutting-edge algorithmic trading can offer robust, risk-adjusted investment opportunities for both novice and seasoned investors seeking long-term financial growth.
 ---
 

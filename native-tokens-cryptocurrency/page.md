@@ -1,5 +1,5 @@
 ---
-title: "Native Tokens in Cryptocurrency (Algo Trading)"
+title: "Native Tokens in Cryptocurrency"
 description: "Explore blockchain's role in cryptocurrency and native tokens. Understand how algorithmic trading leverages these components to enhance market efficiency."
 ---
 

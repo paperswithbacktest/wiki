@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Pumping: Overview, History, and Examples (Algo Trading)"
+title: "Portfolio Pumping: Overview, History, and Examples"
 description: "Explore portfolio pumping and stock market manipulation in algo trading, learn about the history, examples, and ethical concerns within financial markets."
 ---
 

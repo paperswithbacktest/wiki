@@ -1,5 +1,5 @@
 ---
-title: "Qualified Special Representative Agreement (Algo Trading)"
+title: "Qualified Special Representative Agreement"
 description: "Explore the synergy between Qualified Special Representative Agreements and algorithmic trading focusing on their role in enhancing market operations and contract fulfillment."
 ---
 

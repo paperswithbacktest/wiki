@@ -1,5 +1,5 @@
 ---
-title: "Metrics in Data Analysis (Algo Trading)"
+title: "Metrics in Data Analysis"
 description: "Explore essential metrics in algorithmic trading to optimize strategies through data analysis. Enhance profitability and risk management with key insights."
 ---
 

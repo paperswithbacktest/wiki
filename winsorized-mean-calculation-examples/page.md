@@ -1,5 +1,5 @@
 ---
-title: "Winsorized Mean: Calculation and Examples (Algo Trading)"
+title: "Winsorized Mean: Calculation and Examples"
 description: "Discover how the winsorized mean can enhance algorithmic trading by mitigating data outliers to provide a stable measure of central tendency for robust analysis."
 ---
 

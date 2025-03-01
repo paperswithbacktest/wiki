@@ -1,5 +1,5 @@
 ---
-title: "Sequential Pay Collateralized Mortgage Obligation (Algo Trading)"
+title: "Sequential Pay Collateralized Mortgage Obligation"
 description: "Explore the intricacies of Sequential Pay CMOs and their integration with algorithmic trading Expect insights on structured payment methods and trading strategies"
 ---
 

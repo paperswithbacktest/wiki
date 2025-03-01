@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Overview and Functionality (Algo Trading)"
+title: "Stock Market Overview and Functionality"
 description: "Explore the dynamic evolution of stock markets and the impact of algorithmic trading. Enhance your investment strategies with cutting-edge insights and data."
 ---
 

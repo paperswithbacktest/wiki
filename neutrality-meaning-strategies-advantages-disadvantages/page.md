@@ -1,5 +1,5 @@
 ---
-title: "Neutrality: Meaning, Strategies, Advantages and Disadvantages (Algo Trading)"
+title: "Neutrality: Meaning, Strategies, Advantages and Disadvantages"
 description: "Discover the meaning and strategies of market neutrality in algo trading Explore advantages like reduced risk and disadvantages of neutral trading approaches"
 ---
 

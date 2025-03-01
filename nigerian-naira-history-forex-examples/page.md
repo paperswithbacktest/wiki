@@ -1,5 +1,5 @@
 ---
-title: "Nigerian Naira: History and Forex Examples (Algo Trading)"
+title: "Nigerian Naira: History and Forex Examples"
 description: "Discover the history of the Nigerian Naira and its dynamic role in Forex markets with the rise of algorithmic trading transforming currency exchange strategies."
 ---
 

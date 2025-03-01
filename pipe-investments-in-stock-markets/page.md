@@ -1,5 +1,5 @@
 ---
-title: "PIPE Investments In Stock Markets (Algo Trading)"
+title: "PIPE Investments In Stock Markets"
 description: "Explore the dynamic world of PIPE investments and algorithmic trading, unlocking opportunities and strategic growth for investors and companies in the stock market."
 ---
 

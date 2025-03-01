@@ -1,5 +1,5 @@
 ---
-title: "Refco Inc. (Algo Trading)"
+title: "Refco Inc."
 description: "Discover the impact of the Refco scandal on global finance and its role in advancing algorithmic trading for improved transparency and risk management."
 ---
 

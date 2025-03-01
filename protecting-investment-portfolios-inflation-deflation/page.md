@@ -1,5 +1,5 @@
 ---
-title: "Protecting Investment Portfolios from Inflation and Deflation (Algo Trading)"
+title: "Protecting Investment Portfolios from Inflation and Deflation"
 description: "Enhance investment portfolio resilience with algorithmic trading strategies tailored for inflation and deflation conditions to protect and optimize financial outcomes."
 ---
 

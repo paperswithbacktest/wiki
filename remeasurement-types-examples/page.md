@@ -1,5 +1,5 @@
 ---
-title: "Remeasurement: Definition, Types, and Examples (Algo Trading)"
+title: "Remeasurement: Definition, Types, and Examples"
 description: "Remeasurement is crucial for businesses trading in multiple currencies, ensuring accurate financial reporting and aiding algorithmic trading strategy effectiveness."
 ---
 

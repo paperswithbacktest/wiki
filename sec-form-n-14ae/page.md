@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-14AE (Algo Trading)"
+title: "SEC Form N-14AE"
 description: "Explore SEC Form N-14 and its pivotal role in transparent investment fund operations. Understand the key significance in mergers and algorithmic trading."
 ---
 

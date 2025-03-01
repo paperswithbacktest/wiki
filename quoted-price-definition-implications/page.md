@@ -1,5 +1,5 @@
 ---
-title: "Quoted Price: Definition and Implications (Algo Trading)"
+title: "Quoted Price: Definition and Implications"
 description: "Explore the significance of quoted price in financial markets and algo trading, its impact on investment decisions, and the importance of accurate pricing data."
 ---
 

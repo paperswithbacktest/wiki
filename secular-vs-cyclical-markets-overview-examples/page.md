@@ -1,5 +1,5 @@
 ---
-title: "Secular vs. Cyclical Markets: Overview and Examples (Algo Trading)"
+title: "Secular vs. Cyclical Markets: Overview and Examples"
 description: "Explore the dynamics of secular and cyclical markets and learn how algorithmic trading influences these trends for informed investment decisions."
 ---
 

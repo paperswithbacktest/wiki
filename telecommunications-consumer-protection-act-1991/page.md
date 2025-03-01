@@ -1,5 +1,5 @@
 ---
-title: "Telecommunications Consumer Protection Act of 1991 (Algo Trading)"
+title: "Telecommunications Consumer Protection Act of 1991"
 description: "Explore the impact of the Telecommunications Consumer Protection Act of 1991 on telemarketing and its intersection with modern challenges like algorithmic trading."
 ---
 

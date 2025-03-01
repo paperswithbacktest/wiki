@@ -1,5 +1,5 @@
 ---
-title: "Monetary Item: Function and Examples (Algo Trading)"
+title: "Monetary Item: Function and Examples"
 description: "Explore the role of monetary assets in financial accounting and their impact on algorithmic trading Discover how these essentials drive modern financial strategies"
 ---
 

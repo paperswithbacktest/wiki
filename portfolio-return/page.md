@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Return (Algo Trading)"
+title: "Portfolio Return"
 description: "Explore the impact of algorithmic trading on portfolio returns and management. Learn how leveraging automation enhances investment precision and strategy in real-time markets."
 ---
 

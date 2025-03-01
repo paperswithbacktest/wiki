@@ -1,5 +1,5 @@
 ---
-title: "Proxy Directive (Algo Trading)"
+title: "Proxy Directive"
 description: "Explore the essential concepts of advanced care planning and algorithmic trading to make informed decisions about health and finance for a secure future."
 ---
 

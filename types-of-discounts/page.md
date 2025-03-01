@@ -1,5 +1,5 @@
 ---
-title: "Types of Discounts (Algo Trading)"
+title: "Types of Discounts"
 description: "Explore diverse discount strategies in algorithmic trading, including volume and seasonal discounts, as tools for optimizing trades and boosting profitability."
 ---
 

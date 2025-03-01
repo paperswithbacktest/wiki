@@ -1,5 +1,5 @@
 ---
-title: "Peak and Trough Analysis (Algo Trading)"
+title: "Peak and Trough Analysis"
 description: "Peak-and-trough analysis is essential in algorithmic trading for detecting market trends aiding in more accurate trading decisions by identifying price patterns."
 ---
 

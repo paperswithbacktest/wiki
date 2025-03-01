@@ -1,5 +1,5 @@
 ---
-title: "Overbought Stocks: Significance and Identification (Algo Trading)"
+title: "Overbought Stocks: Significance and Identification"
 description: "Discover how to identify overbought stocks and enhance trading strategies with algorithmic trading Learn key techniques in stock market analysis for better investment decisions"
 ---
 

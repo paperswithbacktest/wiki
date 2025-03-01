@@ -1,5 +1,5 @@
 ---
-title: "Unsponsored ADRs: Characteristics and Comparison with Sponsored ADRs (Algo Trading)"
+title: "Unsponsored ADRs: Characteristics and Comparison with Sponsored ADRs"
 description: "Explore the differences between sponsored and unsponsored ADRs in international investing and how algo trading influences their market dynamics and investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Psychological Aspects of Support and Resistance (Algo Trading)"
+title: "Psychological Aspects of Support and Resistance"
 description: "Explore the psychological dynamics of support and resistance in algo trading to better understand how market sentiment and investor behavior influence price trends."
 ---
 

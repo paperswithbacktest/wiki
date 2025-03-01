@@ -1,5 +1,5 @@
 ---
-title: "Trade Adjustment Assistance Program (Algo Trading)"
+title: "Trade Adjustment Assistance Program"
 description: "Explore the Trade Adjustment Assistance Program's role in retraining displaced workers for new opportunities including the potential for careers in algorithmic trading."
 ---
 

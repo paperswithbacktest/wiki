@@ -1,5 +1,5 @@
 ---
-title: "Straight-Through Processing and Its Benefits (Algo Trading)"
+title: "Straight-Through Processing and Its Benefits"
 description: "Discover the transformative benefits of Straight-Through Processing in algorithmic trading. Enhance transaction speed, reduce errors, and gain a competitive edge."
 ---
 

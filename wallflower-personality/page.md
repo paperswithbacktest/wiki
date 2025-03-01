@@ -1,5 +1,5 @@
 ---
-title: "Wallflower (Personality) (Algo Trading)"
+title: "Wallflower (Personality)"
 description: "Explore how the observant traits of a wallflower personality can provide an edge in algorithmic trading by enhancing precision and strategic analysis."
 ---
 

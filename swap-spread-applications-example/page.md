@@ -1,5 +1,5 @@
 ---
-title: "Swap Spread: Applications and Example (Algo Trading)"
+title: "Swap Spread: Applications and Example"
 description: "Discover the role of swap spreads in bond markets and algo trading Gain insights into credit risks and market liquidity for optimized investment strategies"
 ---
 

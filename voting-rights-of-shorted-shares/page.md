@@ -1,5 +1,5 @@
 ---
-title: "Voting Rights of Shorted Shares (Algo Trading)"
+title: "Voting Rights of Shorted Shares"
 description: "Explore the complex interaction of voting rights and shorted shares in algorithmic trading Learn how these elements influence market dynamics and investor decisions"
 ---
 

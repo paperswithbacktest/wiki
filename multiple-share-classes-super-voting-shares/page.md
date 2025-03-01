@@ -1,5 +1,5 @@
 ---
-title: "Multiple Share Classes and Super Voting Shares (Algo Trading)"
+title: "Multiple Share Classes and Super Voting Shares"
 description: "Explore how super-voting shares and algorithmic trading shape corporate governance, offering insights into modern financial strategies and market dynamics."
 ---
 

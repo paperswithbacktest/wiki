@@ -1,5 +1,5 @@
 ---
-title: "Order Execution and Types (Algo Trading)"
+title: "Order Execution and Types"
 description: "Master algorithmic trading with insights into order types and execution processes Essential for precision and efficiency in today's dynamic markets"
 ---
 

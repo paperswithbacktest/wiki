@@ -1,5 +1,5 @@
 ---
-title: "West African CFA Franc: XOF History and Usage (Algo Trading)"
+title: "West African CFA Franc: XOF History and Usage"
 description: "Explore the rich history and significant role of the West African CFA franc (XOF) in economic stability and integration across eight WAEMU countries."
 ---
 

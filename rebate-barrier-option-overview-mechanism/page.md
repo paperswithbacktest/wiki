@@ -1,5 +1,5 @@
 ---
-title: "Rebate Barrier Option: Overview and Mechanism (Algo Trading)"
+title: "Rebate Barrier Option: Overview and Mechanism"
 description: "Explore the world of rebate barrier options in algorithmic trading and learn how these exotic options provide risk management and trading strategy advantages."
 ---
 

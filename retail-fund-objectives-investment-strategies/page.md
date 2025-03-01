@@ -1,5 +1,5 @@
 ---
-title: "Retail Fund: Objectives and Investment Strategies (Algo Trading)"
+title: "Retail Fund: Objectives and Investment Strategies"
 description: "Explore retail fund objectives and investment strategies with a focus on algorithmic trading Gain insights into managing portfolios and optimizing returns while managing risks"
 ---
 

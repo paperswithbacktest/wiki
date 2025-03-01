@@ -1,5 +1,5 @@
 ---
-title: "Term Securities Lending Facility Overview (Algo Trading)"
+title: "Term Securities Lending Facility Overview"
 description: "Discover how the Term Securities Lending Facility supported liquidity during the 2008 financial crisis by allowing primary dealers access to Treasury securities."
 ---
 

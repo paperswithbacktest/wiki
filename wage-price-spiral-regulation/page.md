@@ -1,5 +1,5 @@
 ---
-title: "Wage-Price Spiral and Its Regulation (Algo Trading)"
+title: "Wage-Price Spiral and Its Regulation"
 description: "Explore how regulation inflation control wage-price spirals and algorithmic trading impact economic stability. Discover effective strategies for managing these challenges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rounding Error and Its Implications (Algo Trading)"
+title: "Rounding Error and Its Implications"
 description: "Explore how rounding errors impact algorithmic trading and discover strategies to mitigate financial risks, enhancing precision and trading system reliability."
 ---
 

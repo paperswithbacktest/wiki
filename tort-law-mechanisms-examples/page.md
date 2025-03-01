@@ -1,5 +1,5 @@
 ---
-title: "Tort Law and Its Mechanisms (Algo Trading)"
+title: "Tort Law and Its Mechanisms"
 description: "Explore the intersection of tort law with algorithmic trading and AI highlighting the evolving challenges of accountability and liability in technological contexts."
 ---
 

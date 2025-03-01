@@ -1,5 +1,5 @@
 ---
-title: "NAAIM (National Association of Active Investment Managers) Strategy Explained (Algo Trading)"
+title: "NAAIM (National Association of Active Investment Managers) Strategy Explained"
 description: Discover how the NAAIM Exposure Index provides valuable insights for traders and investors by measuring market sentiment among active investment managers. This index, a crucial tool for both traditional and algorithmic trading strategies, helps identify potential market tops and bottoms through sentiment extremes. Learn about its calculation and practical applications in improving market analysis and trading strategies for better decision-making.
 ---
 

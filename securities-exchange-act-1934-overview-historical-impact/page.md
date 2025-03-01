@@ -1,5 +1,5 @@
 ---
-title: "Securities Exchange Act of 1934: Overview and Historical Impact (Algo Trading)"
+title: "Securities Exchange Act of 1934: Overview and Historical Impact"
 description: "Explore how the Securities Exchange Act of 1934 shaped US financial markets by regulating trading, establishing the SEC, and impacting algorithmic trading."
 ---
 

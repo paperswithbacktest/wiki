@@ -1,5 +1,5 @@
 ---
-title: "Ommer Block in Cryptocurrency (Algo Trading)"
+title: "Ommer Block in Cryptocurrency"
 description: "Discover the role of ommer blocks in Ethereum's blockchain and their impact on cryptocurrency algorithmic trading. Gain insights to optimize trading strategies."
 ---
 

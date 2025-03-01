@@ -1,5 +1,5 @@
 ---
-title: "Volatility Smile in Options Trading (Algo Trading)"
+title: "Volatility Smile in Options Trading"
 description: "Discover the power of the volatility smile in options trading Learn how this key concept impacts pricing and strategies in the dynamic world of algorithmic trading"
 ---
 

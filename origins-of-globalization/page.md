@@ -1,5 +1,5 @@
 ---
-title: "Origins of Globalization (Algo Trading)"
+title: "Origins of Globalization"
 description: "Explore the origins of globalization through economic history trade relationships and algorithmic trading Discover how these elements shape the modern world economy."
 ---
 

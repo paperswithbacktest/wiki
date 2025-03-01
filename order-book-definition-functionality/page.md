@@ -1,5 +1,5 @@
 ---
-title: "Order Book: Definition and Functionality (Algo Trading)"
+title: "Order Book: Definition and Functionality"
 description: "Discover how order book and algorithmic trading optimize market strategies enhancing precision and speed in financial markets for competitive trading advantage."
 ---
 

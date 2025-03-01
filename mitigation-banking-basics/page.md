@@ -1,5 +1,5 @@
 ---
-title: "Mitigation Banking Basics (Algo Trading)"
+title: "Mitigation Banking Basics"
 description: "Explore the connection between wetland restoration, conservation, mitigation banking, and algo trading, showcasing innovative solutions for environmental and financial sectors."
 ---
 

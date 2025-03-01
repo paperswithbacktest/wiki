@@ -1,5 +1,5 @@
 ---
-title: "Same-Store Sales and Retail Data Analysis (Algo Trading)"
+title: "Same-Store Sales and Retail Data Analysis"
 description: "Analyze same-store sales to assess retail performance and enhance algorithmic trading models. Discover consumer loyalty and business growth with key metrics."
 ---
 

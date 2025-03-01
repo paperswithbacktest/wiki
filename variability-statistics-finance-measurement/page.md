@@ -1,5 +1,5 @@
 ---
-title: "Variability in Statistics and Finance: Measurement Techniques (Algo Trading)"
+title: "Variability in Statistics and Finance: Measurement Techniques"
 description: "Explore variability in statistics and finance with techniques on measuring risk through variance and standard deviation essential for algorithmic trading."
 ---
 

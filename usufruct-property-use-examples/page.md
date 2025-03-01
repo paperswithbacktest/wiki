@@ -1,5 +1,5 @@
 ---
-title: "Usufruct: Property Use and Examples (Algo Trading)"
+title: "Usufruct: Property Use and Examples"
 description: "Explore the legal concept of usufruct in property rights and algorithmic trading. Understand how usufruct allows use without ownership, fostering economic flexibility."
 ---
 

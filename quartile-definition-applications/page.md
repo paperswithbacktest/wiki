@@ -1,5 +1,5 @@
 ---
-title: "Quartile: Definition and Applications (Algo Trading)"
+title: "Quartile: Definition and Applications"
 description: "Explore how quartile statistics enhance algorithmic trading strategies providing insights into data distribution and improving decision-making in financial markets."
 ---
 

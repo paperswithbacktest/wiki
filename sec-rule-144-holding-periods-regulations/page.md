@@ -1,5 +1,5 @@
 ---
-title: "SEC Rule 144: Holding Periods and Regulations (Algo Trading)"
+title: "SEC Rule 144: Holding Periods and Regulations"
 description: "Explore the complexities of SEC Rule 144, crucial for navigating holding periods and regulations in algo trading Ensure compliance while optimizing trading strategies"
 ---
 

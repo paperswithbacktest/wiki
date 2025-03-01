@@ -1,5 +1,5 @@
 ---
-title: "Role of Correspondent Banks in International Transactions (Algo Trading)"
+title: "Role of Correspondent Banks in International Transactions"
 description: "Explore the essential roles of correspondent banks and algorithmic trading in international transactions enhancing efficiency in the global financial landscape."
 ---
 

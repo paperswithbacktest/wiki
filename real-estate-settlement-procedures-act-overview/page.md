@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Settlement Procedures Act Overview (Algo Trading)"
+title: "Real Estate Settlement Procedures Act Overview"
 description: "Explore the Real Estate Settlement Procedures Act's impact on transparent real estate transactions and the intersection with algorithmic trading innovations."
 ---
 

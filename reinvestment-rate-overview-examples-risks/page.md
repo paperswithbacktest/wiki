@@ -1,5 +1,5 @@
 ---
-title: "Reinvestment Rate: Overview, Examples, and Risks (Algo Trading)"
+title: "Reinvestment Rate: Overview, Examples, and Risks"
 description: "Explore reinvestment rates and the impact of algorithmic trading in modern finance. Learn about risk management and optimize investment strategies effectively."
 ---
 

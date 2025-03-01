@@ -1,5 +1,5 @@
 ---
-title: "Revenue Generation Strategies of Zola (Algo Trading)"
+title: "Revenue Generation Strategies of Zola"
 description: "Explore innovative revenue strategies through Zola's intersection with algo trading Learn how leveraging technology maximizes profits in modern digital markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Quarterly Income Debt Securities (Algo Trading)"
+title: "Quarterly Income Debt Securities"
 description: "Enhance your financial strategy by exploring the synergy of Quality Income Debt Securities and algorithmic trading for reliable, innovative investment returns."
 ---
 

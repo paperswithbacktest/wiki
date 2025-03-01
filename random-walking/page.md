@@ -1,5 +1,5 @@
 ---
-title: "Random walking (Algo Trading)"
+title: "Random walking"
 description: Explore the incorporation of Random Walk Theory in algorithmic trading and its implications for market predictability and strategy development. Understand how traders leverage randomness, challenges in market forecasting, and opportunities for designing robust trading algorithms amidst inherent market unpredictability.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Mutual Funds from Banks: Evaluation (Algo Trading)"
+title: "Purchasing Mutual Funds from Banks: Evaluation"
 description: "Explore how banks and algorithmic trading are reshaping the mutual fund industry with insights into current trends and investment strategies for investors."
 ---
 

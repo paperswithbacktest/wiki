@@ -1,5 +1,5 @@
 ---
-title: "Option Class: Overview and Functionality (Algo Trading)"
+title: "Option Class: Overview and Functionality"
 description: "Explore the synergy of options and algorithmic trading strategies for hedging, speculation, and diversification, enhancing trading outcomes in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Salim Ramji (Investor) (Algo Trading)"
+title: "Salim Ramji (Investor)"
 description: "Discover how investor Salim Ramji revolutionized finance with algorithmic trading at BlackRock and explore his future impact as the new Vanguard CEO."
 ---
 

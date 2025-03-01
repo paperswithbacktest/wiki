@@ -1,5 +1,5 @@
 ---
-title: "Put Ratio Backspread (Algo Trading)"
+title: "Put Ratio Backspread"
 description: "Explore the sophisticated Put Ratio Backspread strategy designed for bearish traders. Benefit from automated trading systems to maximize returns during significant market declines."
 ---
 

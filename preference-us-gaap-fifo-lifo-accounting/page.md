@@ -1,5 +1,5 @@
 ---
-title: "Preference of U.S. GAAP for FIFO or LIFO Accounting (Algo Trading)"
+title: "Preference of U.S. GAAP for FIFO or LIFO Accounting"
 description: "Explore the complexities of choosing between FIFO and LIFO accounting under U.S. GAAP, and understand the impact of algorithmic trading on financial reporting."
 ---
 

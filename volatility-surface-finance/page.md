@@ -1,5 +1,5 @@
 ---
-title: "Volatility Surface in Finance (Algo Trading)"
+title: "Volatility Surface in Finance"
 description: "Explore volatility surfaces in finance and their role in options pricing for algorithmic trading Gain insights into derivatives and enhance trading strategies"
 ---
 

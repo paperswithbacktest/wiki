@@ -1,5 +1,5 @@
 ---
-title: "Opening Functions and Their Role (Algo Trading)"
+title: "Opening Functions and Their Role"
 description: "Discover the essential functions and roles in algorithmic trading Transforming financial markets with precision efficiency and extensive data processing capabilities"
 ---
 

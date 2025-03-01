@@ -1,5 +1,5 @@
 ---
-title: "Solvency Cone (Algo Trading)"
+title: "Solvency Cone"
 description: "Explore risk management and algorithmic trading with solvency cones a framework assessing transaction costs to refine strategies and optimize returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Net Liquid Assets: Overview and Benefits (Algo Trading)"
+title: "Net Liquid Assets: Overview and Benefits"
 description: "Explore the benefits of net liquid assets and algorithmic trading Discover how liquidity and strategic financial management can enhance trading efficiency"
 ---
 

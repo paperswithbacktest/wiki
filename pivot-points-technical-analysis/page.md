@@ -1,5 +1,5 @@
 ---
-title: "Pivot Points in Technical Analysis (Algo Trading)"
+title: "Pivot Points in Technical Analysis"
 description: "Pivot points are essential in technical analysis for predicting market movements gauging support and resistance levels and developing effective trading strategies."
 ---
 

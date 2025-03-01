@@ -1,5 +1,5 @@
 ---
-title: "Spark Investment Management (Algo Trading)"
+title: "Spark Investment Management"
 description: "Discover the innovative strategies driving Spark Investment Management's algorithmic trading success. Learn how cutting-edge technology optimizes investment performance."
 ---
 

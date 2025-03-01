@@ -1,5 +1,5 @@
 ---
-title: "Software risk (Algo Trading)"
+title: "Software risk"
 description: Algorithmic trading has revolutionized financial markets with rapid and efficient trade execution, yet it introduces software risks that can impact market stability. These risks, such as coding errors and latency issues, may lead to financial disruptions if not well-managed. This page investigates into the critical software risks in algo trading, emphasizing the importance of robust systems to safeguard market integrity and highlighting the need for effective risk management strategies. Understanding and addressing these risks is crucial for maintaining the resilience and stability of modern financial systems.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reserve Currencies Overview (Algo Trading)"
+title: "Reserve Currencies Overview"
 description: "Explore the intricate dynamics of reserve currencies, currency management, and algorithmic trading and understand how they impact global finance and economic stability."
 ---
 

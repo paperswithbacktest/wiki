@@ -1,5 +1,5 @@
 ---
-title: "Sector Funds: Overview and Functionality (Algo Trading)"
+title: "Sector Funds: Overview and Functionality"
 description: "Explore the synergy of sector funds and algorithmic trading in finance. Learn how these tools offer targeted exposure and efficiency, reshaping investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Regression Analysis in Business (Algo Trading)"
+title: "Regression Analysis in Business"
 description: "Discover how regression analysis empowers businesses in data-driven decision-making and algorithmic trading by modeling complex relationships and predicting market trends."
 ---
 

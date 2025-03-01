@@ -1,5 +1,5 @@
 ---
-title: "Significance of the Purchasing Managers' Index (Algo Trading)"
+title: "Significance of the Purchasing Managers' Index"
 description: "Unlock the power of the Purchasing Managers' Index for algorithmic trading by understanding its impact on market trends and enhancing trading strategies."
 ---
 

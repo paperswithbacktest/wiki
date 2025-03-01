@@ -1,5 +1,5 @@
 ---
-title: "Volume Zone Oscillator Interpretation (Algo Trading)"
+title: "Volume Zone Oscillator Interpretation"
 description: "Optimize your trading strategy with the Volume Zone Oscillator a proven tool in stock and algorithmic trading for accurate market predictions based on volume."
 ---
 

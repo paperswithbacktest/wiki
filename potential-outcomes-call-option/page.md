@@ -1,5 +1,5 @@
 ---
-title: "Potential Outcomes of a Call Option (Algo Trading)"
+title: "Potential Outcomes of a Call Option"
 description: "Explore the potential outcomes of call options in algorithmic trading. Learn how integrating algos can enhance profit and loss predictions by automating strategies."
 ---
 

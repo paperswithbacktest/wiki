@@ -1,5 +1,5 @@
 ---
-title: "Money Flow in Trading (Algo Trading)"
+title: "Money Flow in Trading"
 description: "Explore the Money Flow Index MFI in algorithmic trading to enhance market analysis with price and volume data helping traders optimize their strategies."
 ---
 

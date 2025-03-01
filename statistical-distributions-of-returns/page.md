@@ -1,5 +1,5 @@
 ---
-title: "Statistical Distributions of Returns (Algo Trading)"
+title: "Statistical Distributions of Returns"
 description: "Explore statistical distributions for algorithmic trading to enhance predictive models and trading strategies with insights into asset price movements and risk management."
 ---
 

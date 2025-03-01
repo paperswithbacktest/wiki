@@ -1,5 +1,5 @@
 ---
-title: "Potential Resignation of India's Central Bank Governor (Algo Trading)"
+title: "Potential Resignation of India's Central Bank Governor"
 description: "Rumors about the resignation of India's central bank governor are causing turmoil in financial markets highlighting the role of central bank policies and algo trading."
 ---
 

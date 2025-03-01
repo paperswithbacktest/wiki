@@ -1,5 +1,5 @@
 ---
-title: "Venezuelan Bolivar: Overview and History (Algo Trading)"
+title: "Venezuelan Bolivar: Overview and History"
 description: "Explore the Venezuelan Bolivar's complex history from its stable origins to recent challenges of hyperinflation and economic instability shaped by algorithmic trading."
 ---
 

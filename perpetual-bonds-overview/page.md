@@ -1,5 +1,5 @@
 ---
-title: "Perpetual Bonds Overview (Algo Trading)"
+title: "Perpetual Bonds Overview"
 description: "Explore the unique realm of perpetual bonds with our overview. Learn about their indefinite interest payments, benefits, risks, and role in fixed income markets."
 ---
 

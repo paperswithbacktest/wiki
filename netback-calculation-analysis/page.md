@@ -1,5 +1,5 @@
 ---
-title: "Netback Calculation and Analysis (Algo Trading)"
+title: "Netback Calculation and Analysis"
 description: "Explore the role of netback calculations and algorithmic trading in the oil and gas industry Discover how these strategies optimize profitability and trading decisions."
 ---
 

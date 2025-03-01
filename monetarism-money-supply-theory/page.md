@@ -1,5 +1,5 @@
 ---
-title: "Monetarism and Money Supply Theory (Algo Trading)"
+title: "Monetarism and Money Supply Theory"
 description: "Discover the intricate relationship between monetarism and algorithmic trading, where economic theory meets cutting-edge technology. This article investigates into how these concepts shape financial markets and influence economic policy. Explore the effects of money supply control and technological advances on modern economic landscapes, gaining insights into factors driving financial markets today."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Monetary Policy in China (Algo Trading)"
+title: "Monetary Policy in China"
 description: "Explore how China harmonizes monetary policy and algorithmic trading to drive economic growth and stabilize markets in an evolving financial landscape."
 ---
 

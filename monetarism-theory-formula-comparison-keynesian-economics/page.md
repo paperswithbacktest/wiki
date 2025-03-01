@@ -1,5 +1,5 @@
 ---
-title: "Monetarism: Theory, Formula, and Comparison with Keynesian Economics (Algo Trading)"
+title: "Monetarism: Theory, Formula, and Comparison with Keynesian Economics"
 description: "Explore the intersection of Keynesian Economics and Monetarism with algorithmic trading Discover their impact on modern financial strategies and market dynamics"
 ---
 

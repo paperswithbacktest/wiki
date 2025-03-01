@@ -1,5 +1,5 @@
 ---
-title: "Tit for Tat: Concept and Mechanism (Algo Trading)"
+title: "Tit for Tat: Concept and Mechanism"
 description: "Explore the concept and mechanism of tit for tat strategy in algorithmic trading derived from game theory promoting cooperation and understanding its broad applications."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Operating Expense Examples (Algo Trading)"
+title: "Non-Operating Expense Examples"
 description: "Gain insights into non-operating expenses in algorithmic trading and understand their impact on financial statements with examples like interest payments and asset losses."
 ---
 

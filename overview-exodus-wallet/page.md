@@ -1,5 +1,5 @@
 ---
-title: "Overview of Exodus Wallet (Algo Trading)"
+title: "Overview of Exodus Wallet"
 description: "Discover the Exodus Wallet and learn its features, benefits, and integration with algorithmic trading to enhance your cryptocurrency storage and trading strategies."
 ---
 

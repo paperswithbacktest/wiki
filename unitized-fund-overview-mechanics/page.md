@@ -1,5 +1,5 @@
 ---
-title: "Unitized Fund: Overview and Mechanics (Algo Trading)"
+title: "Unitized Fund: Overview and Mechanics"
 description: "Explore how unitized funds and algorithmic trading transform investment strategies Learn about unitized funds' pooled approach and algo trading's tech edge"
 ---
 

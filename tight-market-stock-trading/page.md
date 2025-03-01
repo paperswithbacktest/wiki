@@ -1,5 +1,5 @@
 ---
-title: "Tight Market in Stock Trading (Algo Trading)"
+title: "Tight Market in Stock Trading"
 description: "Explore the intersection of tight stock markets and algorithmic trading leveraging AI for swift decision-making identifying short-term financial opportunities."
 ---
 

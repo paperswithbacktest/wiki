@@ -1,5 +1,5 @@
 ---
-title: "Pairs trading (Algo Trading)"
+title: "Pairs trading"
 description: "Explore the advanced pairs trading strategy designed for market-neutral profit via statistical arbitrage. Ideal for varying market conditions leveraging asset correlations."
 ---
 

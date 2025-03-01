@@ -1,5 +1,5 @@
 ---
-title: "Volatility Assessment Using Average True Range (Algo Trading)"
+title: "Volatility Assessment Using Average True Range"
 description: "Explore the use of Average True Range in algorithmic trading to assess market volatility and enhance decision-making with dynamic risk management strategies."
 ---
 

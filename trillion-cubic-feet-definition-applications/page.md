@@ -1,5 +1,5 @@
 ---
-title: "Trillion Cubic Feet: Definition and Applications (Algo Trading)"
+title: "Trillion Cubic Feet: Definition and Applications"
 description: "Discover the crucial role of Trillion Cubic Feet in natural gas trading and algorithmic strategies Explore Tcf's significance in global energy markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Uses of Cryptocurrency (Algo Trading)"
+title: "Uses of Cryptocurrency"
 description: "Explore the diverse uses of cryptocurrencies focusing on algorithmic trading which is revolutionizing finance by enhancing speed security and efficiency globally"
 ---
 

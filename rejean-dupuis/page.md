@@ -1,5 +1,5 @@
 ---
-title: "Réjean Dupuis (Algo Trading)"
+title: "Réjean Dupuis"
 description: "Explore the career of Réjean Dupuis a pioneer in algorithmic trading and quantitative finance Learn about his educational background and industry impact"
 ---
 

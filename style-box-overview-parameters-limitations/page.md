@@ -1,5 +1,5 @@
 ---
-title: "Style Box: Overview, Parameters, and Limitations (Algo Trading)"
+title: "Style Box: Overview, Parameters, and Limitations"
 description: "Explore the investment landscape with our guide on style box mutual funds and algorithmic trading Understand their benefits and how they optimize investor strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Sampling Error: Types and Considerations (Algo Trading)"
+title: "Non-Sampling Error: Types and Considerations"
 description: "Explore the impact of non-sampling errors in data collection affecting algorithmic trading and financial decisions. Learn to mitigate errors for accurate analysis."
 ---
 

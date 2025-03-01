@@ -1,5 +1,5 @@
 ---
-title: "Office of Management and Budget (Algo Trading)"
+title: "Office of Management and Budget"
 description: "Explore the intersection of the U.S. Office of Management and Budget's role in federal budget management with the dynamics of algorithmic trading. This article examines how algo trading's market volatility impacts economic forecasting and budget planning, highlighting the necessity for policymakers to adapt to these financial innovations for effective fiscal strategies and stability."
 ---
 

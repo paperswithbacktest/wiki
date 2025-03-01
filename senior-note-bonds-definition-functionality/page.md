@@ -1,5 +1,5 @@
 ---
-title: "Senior Note Bonds: Definition and Functionality (Algo Trading)"
+title: "Senior Note Bonds: Definition and Functionality"
 description: "Discover the intricacies of senior note bonds and their role in financial markets with algorithmic trading Learn about their priority status risk and returns"
 ---
 

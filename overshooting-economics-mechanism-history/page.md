@@ -1,5 +1,5 @@
 ---
-title: "Overshooting in Economics: Mechanism and Historical Context (Algo Trading)"
+title: "Overshooting in Economics: Mechanism and Historical Context"
 description: "Discover how overshooting impacts currency markets in this insightful exploration of exchange rates, economic policy, and algorithmic trading dynamics."
 ---
 

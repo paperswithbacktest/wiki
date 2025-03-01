@@ -1,5 +1,5 @@
 ---
-title: "Quantity Demanded and Its Functionality (Algo Trading)"
+title: "Quantity Demanded and Its Functionality"
 description: "Explore how demand curve integration in algorithmic trading optimizes strategies by predicting market shifts and enhancing efficiency in financial trading dynamics."
 ---
 

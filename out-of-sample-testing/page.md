@@ -1,5 +1,5 @@
 ---
-title: "Out-of-sample testing (Algo Trading)"
+title: "Out-of-sample testing"
 description: Discover the importance of out-of-sample testing in algorithmic trading and how it enhances trading strategy robustness by simulating performance in new market conditions. Learn how OOS testing helps prevent overfitting, ensuring models reflect genuine market trends rather than data noise. Explore practical steps to implement OOS testing effectively, from data segmentation to validating the reliability of predictive models, ultimately leading to more consistent financial performance in real-world trading.
 ---
 

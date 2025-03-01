@@ -1,5 +1,5 @@
 ---
-title: "Minimum Lease Payments and Calculation Examples (Algo Trading)"
+title: "Minimum Lease Payments and Calculation Examples"
 description: "Explore lease payment calculations for financial planning covering minimum lease payments and algorithmic optimization in trading for enhanced management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Overview of Coinme (Algo Trading)"
+title: "Overview of Coinme"
 description: "Coinme simplifies cryptocurrency access through Bitcoin ATMs and partnerships, offering a user-friendly platform for buying, selling, and trading digital currencies efficiently."
 ---
 

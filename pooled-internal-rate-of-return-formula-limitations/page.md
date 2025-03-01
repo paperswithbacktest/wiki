@@ -1,5 +1,5 @@
 ---
-title: "Pooled Internal Rate of Return: Explanation, Formula, and Limitations (Algo Trading)"
+title: "Pooled Internal Rate of Return: Explanation, Formula, and Limitations"
 description: "Explore the significance of the Pooled Internal Rate of Return in investment analysis. Learn about its calculation and application in optimizing trading strategies."
 ---
 

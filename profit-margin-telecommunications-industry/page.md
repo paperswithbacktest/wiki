@@ -1,5 +1,5 @@
 ---
-title: "Profit Margin in Telecommunications Industry (Algo Trading)"
+title: "Profit Margin in Telecommunications Industry"
 description: "Discover how algorithmic trading impacts profit margins in telecommunications by optimizing trade execution and reducing costs in this evolving industry."
 ---
 

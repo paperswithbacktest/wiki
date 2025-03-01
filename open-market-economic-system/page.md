@@ -1,5 +1,5 @@
 ---
-title: "Open Market Economic System (Algo Trading)"
+title: "Open Market Economic System"
 description: "Explore how open market economies, central bank operations, and algorithmic trading shape modern finance by driving efficiency, innovation, and economic growth globally."
 ---
 

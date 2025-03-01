@@ -1,5 +1,5 @@
 ---
-title: "Rule 10b5-1 and SEC Requirements (Algo Trading)"
+title: "Rule 10b5-1 and SEC Requirements"
 description: "Explore how Rule 10b5-1 provides a compliant trading framework for corporate insiders by examining its alignment with SEC regulations. Learn about the specific criteria for creating Rule 10b5-1 plans, the recent amendments for improved transparency, and the rule's implications for insider and algorithmic trading. This article offers a comprehensive understanding of maintaining compliance with insider trading laws and executing legitimate company stock transactions."
 ---
 

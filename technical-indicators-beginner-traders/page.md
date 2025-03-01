@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators for Beginner Traders (Algo Trading)"
+title: "Technical Indicators for Beginner Traders"
 description: "Learn the essentials of technical indicators and trading strategies for beginners. Discover how algorithmic trading can enhance decision-making and efficiency."
 ---
 

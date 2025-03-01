@@ -1,5 +1,5 @@
 ---
-title: "Scalability (Algo Trading)"
+title: "Scalability"
 description: Explore the significance of scalability in algorithmic trading, a crucial aspect for handling increased trading volumes and expanding market presence. Discover how traders can optimize strategies to manage growth efficiently, ensuring low latency and high execution accuracy. Learn why mastering scalability is essential for algorithmic traders aiming to boost profitability and maintain effective performance in the dynamic financial markets.
 ---
 

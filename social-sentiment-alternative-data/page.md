@@ -1,5 +1,5 @@
 ---
-title: "Social/Sentiment Alternative Data (Algo Trading)"
+title: "Social/Sentiment Alternative Data"
 description: Unlock the potential of social sentiment as a transformative alternative data source in algorithmic trading. By leveraging insights from online platforms, traders can uncover real-time market emotions and opinions, gaining a competitive edge. Explore how social sentiment enhances trading algorithms, offering unique perspectives beyond traditional financial data, and discover the tools and strategies that harness this powerful resource to predict trends and optimize trading decisions.
 ---
 

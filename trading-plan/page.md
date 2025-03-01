@@ -1,5 +1,5 @@
 ---
-title: "Trading Plan (Algo Trading)"
+title: "Trading Plan"
 description: "Explore the essentials of algo trading and investment planning in financial markets. Learn how strategies, market dynamics, and technology can optimize your trading and financial goals while understanding risk management and resource allocation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Solar Energy: Advantages and Disadvantages (Algo Trading)"
+title: "Solar Energy: Advantages and Disadvantages"
 description: "Explore the transformative potential of combining solar energy and algorithmic trading to enhance market efficiency and sustainability in energy systems."
 ---
 

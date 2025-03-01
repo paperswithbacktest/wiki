@@ -1,5 +1,5 @@
 ---
-title: "Risk-Neutral Measures in Finance (Algo Trading)"
+title: "Risk-Neutral Measures in Finance"
 description: "Explore the pivotal role of risk-neutral measures in finance, crucial for derivative pricing and algorithmic trading, ensuring efficient asset valuation."
 ---
 

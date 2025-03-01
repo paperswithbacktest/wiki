@@ -1,5 +1,5 @@
 ---
-title: "Multivariate Models: Overview, Functionality, Advantages and Disadvantages (Algo Trading)"
+title: "Multivariate Models: Overview, Functionality, Advantages and Disadvantages"
 description: "Explore the pivotal role of statistical analysis and multivariate modeling in algorithmic trading to enhance investment strategies and optimize decision-making in finance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Selling Stocks (Algo Trading)"
+title: "Reasons for Selling Stocks"
 description: "Discover the key reasons for selling stocks in algo trading Learn how algorithmic strategies aid in making informed financial decisions and optimizing outcomes"
 ---
 

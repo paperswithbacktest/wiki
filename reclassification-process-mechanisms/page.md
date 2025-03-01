@@ -1,5 +1,5 @@
 ---
-title: "Reclassification Process and Mechanisms (Algo Trading)"
+title: "Reclassification Process and Mechanisms"
 description: "Explore how reclassification in algorithmic trading enhances flexibility and compliance, tackling the challenges of regulatory changes and optimizing trading models."
 ---
 

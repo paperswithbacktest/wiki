@@ -1,5 +1,5 @@
 ---
-title: "Monoceros (Algo Trading)"
+title: "Monoceros"
 description: "Monoceros revolutionizes trading with cutting-edge algorithmic technology enabling traders to automate strategies and optimize performance in dynamic financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SEC Form S-3: Overview, Components, Usage, and Filing Process (Algo Trading)"
+title: "SEC Form S-3: Overview, Components, Usage, and Filing Process"
 description: "SEC Form S-3 simplifies securities registration, crucial for efficient capital raising in algo trading by offering faster market entry for eligible firms."
 ---
 

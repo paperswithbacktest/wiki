@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Put: Definition and Functionality (Algo Trading)"
+title: "Synthetic Put: Definition and Functionality"
 description: "Discover the power of synthetic puts in options trading Learn how these innovative strategies and algorithmic trading can optimize risk management and performance"
 ---
 

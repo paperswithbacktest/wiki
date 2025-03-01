@@ -1,5 +1,5 @@
 ---
-title: "Minimum Liquidity Coverage Ratio Under Basel III (Algo Trading)"
+title: "Minimum Liquidity Coverage Ratio Under Basel III"
 description: "Explore the impact of Basel III's Liquidity Coverage Ratio on banks, highlighting its role in enhancing liquidity management through algorithmic trading strategies."
 ---
 

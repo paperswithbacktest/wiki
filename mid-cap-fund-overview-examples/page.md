@@ -1,5 +1,5 @@
 ---
-title: "Mid-Cap Fund Overview and Examples (Algo Trading)"
+title: "Mid-Cap Fund Overview and Examples"
 description: "Discover the strategic advantages of mid-cap funds and the role of algorithmic trading in optimizing investments offering a balanced growth and stability profile."
 ---
 

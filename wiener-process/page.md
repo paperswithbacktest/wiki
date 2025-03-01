@@ -1,5 +1,5 @@
 ---
-title: "Wiener process (Algo Trading)"
+title: "Wiener process"
 description: "Explore the Wiener process in algorithmic trading, detailing its stochastic properties, role in financial modeling, and applications in risk management."
 ---
 

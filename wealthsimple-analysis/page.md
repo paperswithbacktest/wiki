@@ -1,5 +1,5 @@
 ---
-title: "Wealthsimple Analysis (Algo Trading)"
+title: "Wealthsimple Analysis"
 description: "Discover how Wealthsimple leverages algorithmic trading and robo-advisory services to make investing more accessible and efficient for users."
 ---
 

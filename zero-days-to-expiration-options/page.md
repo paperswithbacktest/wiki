@@ -1,5 +1,5 @@
 ---
-title: "Zero Days to Expiration Options (Algo Trading)"
+title: "Zero Days to Expiration Options"
 description: "Explore the high-stakes realm of Zero Days to Expiration options where rapid time decay creates unique trading opportunities using algorithmic strategies for potential profits."
 ---
 

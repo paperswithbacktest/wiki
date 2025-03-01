@@ -1,5 +1,5 @@
 ---
-title: "Waiver: Overview, Applications, and Examples (Algo Trading)"
+title: "Waiver: Overview, Applications, and Examples"
 description: "Explore the impact of algorithmic trading on financial markets including the role of legal waivers contracts and risk management strategies in automated systems."
 ---
 

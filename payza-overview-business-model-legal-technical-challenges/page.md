@@ -1,5 +1,5 @@
 ---
-title: "Payza: Overview, Business Model, Legal, and Technical Challenges (Algo Trading)"
+title: "Payza: Overview, Business Model, Legal, and Technical Challenges"
 description: "Explore the intricate technical, legal, and business challenges faced by Payza in fintech and algorithmic trading. Navigate the evolving fintech landscape."
 ---
 

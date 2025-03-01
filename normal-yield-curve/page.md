@@ -1,5 +1,5 @@
 ---
-title: "Normal Yield Curve (Algo Trading)"
+title: "Normal Yield Curve"
 description: "Explore the dynamics of bond market interest rates, yield curves, and algorithmic trading Learn how these elements impact investments and trading strategies."
 ---
 

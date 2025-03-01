@@ -1,5 +1,5 @@
 ---
-title: "Tick in Securities Trading (Algo Trading)"
+title: "Tick in Securities Trading"
 description: "Discover the crucial role of tick size in securities trading and how it impacts market dynamics, liquidity, costs, and algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sharing Economy: Model, Criticisms, and Evolution (Algo Trading)"
+title: "Sharing Economy: Model, Criticisms, and Evolution"
 description: "Explore the evolving dynamics of the sharing economy and its integration with algorithmic trading Revolutionizing access and efficiency through technology and innovation"
 ---
 

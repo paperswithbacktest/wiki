@@ -1,5 +1,5 @@
 ---
-title: "Zero-Dividend Preferred Stock: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Zero-Dividend Preferred Stock: Overview, Advantages, and Disadvantages"
 description: "Explore the nuances of zero-dividend preferred stock and its benefits in an algorithmic trading setting Discover investment strategies for optimal results"
 ---
 

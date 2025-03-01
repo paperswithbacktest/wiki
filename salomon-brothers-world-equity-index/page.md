@@ -1,5 +1,5 @@
 ---
-title: "Salomon Brothers World Equity Index (Algo Trading)"
+title: "Salomon Brothers World Equity Index"
 description: "Explore the transformative impact of algorithmic trading and the legacy of the Salomon Brothers World Equity Index in reshaping modern global equity markets."
 ---
 

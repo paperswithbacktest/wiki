@@ -1,5 +1,5 @@
 ---
-title: "Money on the Sidelines: Concept and Mechanism (Algo Trading)"
+title: "Money on the Sidelines: Concept and Mechanism"
 description: "Discover how money on the sidelines impacts market dynamics and the role of algorithmic trading in shaping investment strategies and market behavior."
 ---
 

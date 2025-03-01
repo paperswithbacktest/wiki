@@ -1,5 +1,5 @@
 ---
-title: "Tangible vs. Intangible Costs (Algo Trading)"
+title: "Tangible vs. Intangible Costs"
 description: "Explore the distinctions between tangible and intangible costs in algorithmic trading, focusing on strategies to manage both for sustainable profitability."
 ---
 

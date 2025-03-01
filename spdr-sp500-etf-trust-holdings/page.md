@@ -1,5 +1,5 @@
 ---
-title: "SPDR S&P 500 ETF Trust Holdings (Algo Trading)"
+title: "SPDR S&P 500 ETF Trust Holdings"
 description: "The SPDR S&P 500 ETF, or SPY, provides an accessible means for investors to replicate the performance of the S&P 500 Index, which includes 500 leading U.S. companies. This article investigates into SPY's broad holdings and its potential benefits within algorithmic trading. With its substantial asset base, diversified portfolio, and high liquidity, SPY offers a cost-effective approach to investing in large-cap U.S. stocks, making it appealing for those leveraging algorithmic strategies in their trading models."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Swing High in Technical Analysis: Trading Methods and Examples (Algo Trading)"
+title: "Swing High in Technical Analysis: Trading Methods and Examples"
 description: "Explore the intricacies of swing high analysis in technical trading with strategies and algorithmic trading insights to optimize swing trading for profitability."
 ---
 

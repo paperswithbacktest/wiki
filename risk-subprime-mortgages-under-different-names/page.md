@@ -1,5 +1,5 @@
 ---
-title: "Risk of Subprime Mortgages Under Different Names (Algo Trading)"
+title: "Risk of Subprime Mortgages Under Different Names"
 description: "Explore how subprime mortgages, despite being high-risk loans, contributed to the 2007-2008 financial crisis and impacted global economic stability."
 ---
 

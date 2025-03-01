@@ -1,5 +1,5 @@
 ---
-title: "Types of Due Diligence and Performance Methods (Algo Trading)"
+title: "Types of Due Diligence and Performance Methods"
 description: "Discover the essential types of due diligence and performance methods in algorithmic trading. This comprehensive guide highlights the importance of meticulous evaluation of trading strategies in today's dynamic market, focusing on risk management and regulatory compliance to ensure robust investment outcomes."
 ---
 

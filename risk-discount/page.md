@@ -1,5 +1,5 @@
 ---
-title: "Risk Discount (Algo Trading)"
+title: "Risk Discount"
 description: "Explore the vital role of risk discounts in algorithmic trading. Learn how these tools are indispensable for managing financial risk and optimizing asset valuation."
 ---
 

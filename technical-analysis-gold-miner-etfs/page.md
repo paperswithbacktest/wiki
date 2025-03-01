@@ -1,5 +1,5 @@
 ---
-title: "Technical Analysis of Gold Miner ETFs (Algo Trading)"
+title: "Technical Analysis of Gold Miner ETFs"
 description: "Explore how technical analysis, ETFs, and algorithmic trading can enhance investment strategies in gold mining, offering insights into market trends and optimizing decisions."
 ---
 

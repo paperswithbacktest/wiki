@@ -1,5 +1,5 @@
 ---
-title: "Tweezer Pattern in Technical Analysis (Algo Trading)"
+title: "Tweezer Pattern in Technical Analysis"
 description: "Discover the power of tweezer patterns in technical analysis Learn how these candlestick formations predict market reversals and aid algo trading strategies"
 ---
 

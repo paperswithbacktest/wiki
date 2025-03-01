@@ -1,5 +1,5 @@
 ---
-title: "Short Tender: Overview and Mechanisms (Algo Trading)"
+title: "Short Tender: Overview and Mechanisms"
 description: "Explore the nuances of short tender and algorithmic trading to enhance your stock market strategies. Learn how these methods optimize trading efficiency."
 ---
 

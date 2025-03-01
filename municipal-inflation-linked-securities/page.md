@@ -1,5 +1,5 @@
 ---
-title: "Municipal Inflation-Linked Securities (Algo Trading)"
+title: "Municipal Inflation-Linked Securities"
 description: "Explore the synergy of municipal inflation-linked securities and algorithmic trading to enhance portfolio resilience and optimize trades in uncertain markets."
 ---
 

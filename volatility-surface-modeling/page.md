@@ -1,5 +1,5 @@
 ---
-title: "Volatility Surface Modeling (Algo Trading)"
+title: "Volatility Surface Modeling"
 description: "Discover how volatility surface modeling enhances derivatives trading especially exotic options using Python tools Analyze market volatility risks efficiently"
 ---
 

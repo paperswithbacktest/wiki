@@ -1,5 +1,5 @@
 ---
-title: "SEC Form DEF 14A for Shareholder Use (Algo Trading)"
+title: "SEC Form DEF 14A for Shareholder Use"
 description: "Explore how SEC Form DEF 14A intersects with shareholder decisions and algorithmic trading to enhance informed voting on corporate governance issues."
 ---
 

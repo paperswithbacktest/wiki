@@ -1,5 +1,5 @@
 ---
-title: "Modified Book Value: Overview and Evaluation (Algo Trading)"
+title: "Modified Book Value: Overview and Evaluation"
 description: "Explore the integration of modified book value with algorithmic trading in financial analysis Discover how accurate asset valuation enhances decision-making"
 ---
 

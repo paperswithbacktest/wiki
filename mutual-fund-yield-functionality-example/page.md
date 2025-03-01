@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Yield: Definition and Functionality with Example (Algo Trading)"
+title: "Mutual Fund Yield: Definition and Functionality with Example"
 description: "Discover the functionality of mutual fund yields and algorithmic trading techniques Explore how they contribute to a balanced and profitable investment strategy"
 ---
 

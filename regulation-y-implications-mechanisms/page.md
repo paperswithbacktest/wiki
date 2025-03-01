@@ -1,5 +1,5 @@
 ---
-title: "Regulation Y: Implications and Mechanisms (Algo Trading)"
+title: "Regulation Y: Implications and Mechanisms"
 description: "Explore Regulation Y's impact on bank governance and its relevance to algorithmic trading Risk management and capital adequacy align trading with regulatory standards"
 ---
 

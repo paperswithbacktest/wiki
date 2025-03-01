@@ -1,5 +1,5 @@
 ---
-title: "Segregated Witness (Algo Trading)"
+title: "Segregated Witness"
 description: "Explore how Segregated Witness impacts Bitcoin's scalability by increasing transaction efficiency and reducing fees. Discover its role in advancing algorithmic trading and the Lightning Network as it addresses key challenges and enhances transaction security and throughput."
 ---
 

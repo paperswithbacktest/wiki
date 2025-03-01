@@ -1,5 +1,5 @@
 ---
-title: "Permanent impact term (Algo Trading)"
+title: "Permanent impact term"
 description: "Explore the crucial Permanent Impact Term in algorithmic trading, impacting trade costs and strategy by influencing a security's long-term market price."
 ---
 

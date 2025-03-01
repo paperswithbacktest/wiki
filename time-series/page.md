@@ -1,5 +1,5 @@
 ---
-title: "Time series (Algo Trading)"
+title: "Time series"
 description: Explore the significance of time series analysis in algorithmic trading as a method to forecast market movements and develop effective trading strategies. Discover how analyzing historical data through statistical techniques like ARIMA can enhance precision in predicting trends, cycles, and market volatility, ultimately aiding traders in making data-driven decisions. This article investigates into data sources, modeling methods, and the importance of incorporating diverse information to refine decision-making and risk management within the trading landscape.
 ---
 

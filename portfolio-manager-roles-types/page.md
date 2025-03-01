@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Manager: Roles and Types (Algo Trading)"
+title: "Portfolio Manager: Roles and Types"
 description: "Explore the dynamic role of portfolio managers blending finance expertise with algorithmic trading to optimize investment strategies in a tech-driven landscape."
 ---
 

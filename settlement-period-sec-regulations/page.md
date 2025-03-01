@@ -1,5 +1,5 @@
 ---
-title: "Settlement Period and SEC Regulations (Algo Trading)"
+title: "Settlement Period and SEC Regulations"
 description: "Explore the impact of SEC regulations on settlement periods and algorithmic trading in financial markets shaping efficiency transparency and innovation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ocean Tomo (Algo Trading)"
+title: "Ocean Tomo"
 description: "Explore the intersection of intellectual property valuation and algorithmic trading to enhance your business strategy and investment decisions in the digital age."
 ---
 

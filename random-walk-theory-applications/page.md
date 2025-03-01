@@ -1,5 +1,5 @@
 ---
-title: "Random Walk Theory and Its Applications (Algo Trading)"
+title: "Random Walk Theory and Its Applications"
 description: "Explore the impact of Random Walk Theory on financial markets and algorithmic trading. This theory posits that stock price movements are random and unpredictable, challenging traditional market models. Emphasizing market efficiency, it questions the reliability of past data for future predictions. The theory's implications for financial modeling and algorithmic strategies are profound, prompting adaptation to market randomness. Despite criticism, it advocates for disciplined, long-term investment strategies and adaptive trading practices. Discover the theory's nuances, criticisms, and practical applications in modern finance."
 ---
 

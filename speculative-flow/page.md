@@ -1,5 +1,5 @@
 ---
-title: "Speculative Flow (Algo Trading)"
+title: "Speculative Flow"
 description: "Explore the interaction between speculative flow, market dynamics, and algorithmic trading for insights into their impact on modern financial markets."
 ---
 

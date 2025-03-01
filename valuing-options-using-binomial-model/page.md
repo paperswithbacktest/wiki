@@ -1,5 +1,5 @@
 ---
-title: "Valuing Options Using the Binomial Model (Algo Trading)"
+title: "Valuing Options Using the Binomial Model"
 description: "Explore the binomial option pricing model for valuing options, key in algo trading strategies. Learn how this model aids risk management and speculative trading."
 ---
 

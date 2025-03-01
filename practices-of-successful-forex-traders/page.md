@@ -1,5 +1,5 @@
 ---
-title: "Practices of Successful Forex Traders (Algo Trading)"
+title: "Practices of Successful Forex Traders"
 description: "Explore key strategies and techniques of successful forex and algo traders Learn about risk management and technology integration for optimized trading outcomes"
 ---
 

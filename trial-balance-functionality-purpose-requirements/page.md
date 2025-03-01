@@ -1,5 +1,5 @@
 ---
-title: "Trial Balance: Functionality, Purpose, and Requirements (Algo Trading)"
+title: "Trial Balance: Functionality, Purpose, and Requirements"
 description: "Explore the role of trial balances in accounting and algorithmic trading. Understand how these tools support accurate financial reporting and strategic decision-making."
 ---
 

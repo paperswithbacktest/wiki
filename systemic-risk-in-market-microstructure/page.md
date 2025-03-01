@@ -1,5 +1,5 @@
 ---
-title: "Systemic Risk in Market Microstructure (Algo Trading)"
+title: "Systemic Risk in Market Microstructure"
 description: "Explore how algorithmic trading intersects with systemic risk and market microstructure, shedding light on its implications for financial stability and market dynamics."
 ---
 

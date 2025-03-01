@@ -1,5 +1,5 @@
 ---
-title: "No-Load Mutual Funds Overview (Algo Trading)"
+title: "No-Load Mutual Funds Overview"
 description: "Explore how no-load mutual funds and algorithmic trading can enhance investment strategies by eliminating sales fees and optimizing trade execution."
 ---
 

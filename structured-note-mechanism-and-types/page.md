@@ -1,5 +1,5 @@
 ---
-title: "Structured Note: Definition, Mechanism, and Types (Algo Trading)"
+title: "Structured Note: Definition, Mechanism, and Types"
 description: "Explore structured notes in algo trading to understand their definition, benefits, and challenges. Learn how they blend bonds with derivatives for tailored strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rule 144A: Allowances and Criticisms (Algo Trading)"
+title: "Rule 144A: Allowances and Criticisms"
 description: "Explore the opportunities and challenges of Rule 144A in private placements and algorithmic trading to understand their impact on market liquidity and regulation."
 ---
 

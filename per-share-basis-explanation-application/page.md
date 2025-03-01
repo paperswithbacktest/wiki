@@ -1,5 +1,5 @@
 ---
-title: "Per Share Basis: Explanation and Application (Algo Trading)"
+title: "Per Share Basis: Explanation and Application"
 description: "Explore the critical role of per-share financial metrics in investment analysis and algorithmic trading. Understand how EPS, cash flow, and more guide data-driven decisions."
 ---
 

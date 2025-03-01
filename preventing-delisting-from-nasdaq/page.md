@@ -1,5 +1,5 @@
 ---
-title: "Preventing Delisting from Nasdaq (Algo Trading)"
+title: "Preventing Delisting from Nasdaq"
 description: "Explore Nasdaq's delisting prevention with a focus on compliance and algorithmic trading. Learn strategies to maintain listing and navigate market dynamics effectively."
 ---
 

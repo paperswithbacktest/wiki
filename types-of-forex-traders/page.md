@@ -1,5 +1,5 @@
 ---
-title: "Types of Forex Traders (Algo Trading)"
+title: "Types of Forex Traders"
 description: "Explore the diverse strategies of forex traders and the impact of algorithmic trading. Learn how different types integrate traditional and automated methods for success."
 ---
 

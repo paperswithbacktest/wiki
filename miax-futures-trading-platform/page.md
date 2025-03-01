@@ -1,5 +1,5 @@
 ---
-title: "MIAX Futures Trading Platform (Algo Trading)"
+title: "MIAX Futures Trading Platform"
 description: "Discover MIAX Futures Trading Platform's rich history and cutting-edge technology that enhance algorithmic trading, offering expansive futures markets access."
 ---
 

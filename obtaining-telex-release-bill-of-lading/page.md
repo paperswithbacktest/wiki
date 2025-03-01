@@ -1,5 +1,5 @@
 ---
-title: "Obtaining a Telex Release for a Bill of Lading (Algo Trading)"
+title: "Obtaining a Telex Release for a Bill of Lading"
 description: "Explore the streamlined process of obtaining a Telex Release for a Bill of Lading and discover how algo trading optimizes logistics in global shipping."
 ---
 

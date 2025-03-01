@@ -1,5 +1,5 @@
 ---
-title: "signal-based execution strategies (Algo Trading)"
+title: "signal-based execution strategies"
 description: "Discover how signal-based execution strategies enhance algorithmic trading with speed, precision, and consistency. Understand their benefits and components."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Unrecorded Deeds in Real Estate Investment (Algo Trading)"
+title: "Unrecorded Deeds in Real Estate Investment"
 description: "Explore how algorithmic trading enhances real estate investment strategies and addresses risks associated with unrecorded deeds, ensuring smooth transactions."
 ---
 

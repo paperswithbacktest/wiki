@@ -1,5 +1,5 @@
 ---
-title: "TIPS Spread: Definition, Mechanism, and Importance (Algo Trading)"
+title: "TIPS Spread: Definition, Mechanism, and Importance"
 description: "Discover the intricacies of TIPS spreads and their role in predicting inflation in financial markets Learn how treasury yields and algorithmic trading impact investments"
 ---
 

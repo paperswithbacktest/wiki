@@ -1,5 +1,5 @@
 ---
-title: "Top Finance: Overview, Functionality, and Categories (Algo Trading)"
+title: "Top Finance: Overview, Functionality, and Categories"
 description: "Discover the world of finance with insights into functionality, financial types, and cutting-edge algorithmic trading to navigate complex markets confidently."
 ---
 

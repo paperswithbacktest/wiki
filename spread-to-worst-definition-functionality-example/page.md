@@ -1,5 +1,5 @@
 ---
-title: "Spread-to-Worst: Definition, Functionality, and Example (Algo Trading)"
+title: "Spread-to-Worst: Definition, Functionality, and Example"
 description: "Explore the significance of Spread-to-Worst and Yield-to-Worst in bond investing. Learn how algorithmic trading enhances analysis for optimized decision-making."
 ---
 

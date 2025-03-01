@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Call and Put Options (Algo Trading)"
+title: "Taxation of Call and Put Options"
 description: "Explore the taxation intricacies of call and put options in algorithmic trading Understand the impact of tax law on your options trading strategy for optimal returns"
 ---
 

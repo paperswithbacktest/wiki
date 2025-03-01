@@ -1,5 +1,5 @@
 ---
-title: "Net Sales and Calculation (Algo Trading)"
+title: "Net Sales and Calculation"
 description: "Explore the dynamic link between net sales and algorithmic trading in finance. Learn to assess company performance and optimize trading strategies efficiently."
 ---
 

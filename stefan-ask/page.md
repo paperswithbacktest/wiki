@@ -1,5 +1,5 @@
 ---
-title: "Stefan Ask (Algo Trading)"
+title: "Stefan Ask"
 description: "Stefan Ask is an expert in algorithmic trading with a background in particle physics applying scientific rigor to develop advanced financial strategies."
 ---
 

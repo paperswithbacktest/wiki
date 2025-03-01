@@ -1,5 +1,5 @@
 ---
-title: "Specialist Unit (Algo Trading)"
+title: "Specialist Unit"
 description: "Discover how algorithmic trading has transformed financial markets by enhancing efficiency and speed Learn about key roles and AI impact shaping this dynamic field"
 ---
 

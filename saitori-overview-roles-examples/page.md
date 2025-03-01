@@ -1,5 +1,5 @@
 ---
-title: "Saitori: Overview, Roles, and Examples (Algo Trading)"
+title: "Saitori: Overview, Roles, and Examples"
 description: "Explore the pivotal role of saitoris in integrating human expertise with algorithmic trading to enhance efficiency and stability in global financial markets."
 ---
 

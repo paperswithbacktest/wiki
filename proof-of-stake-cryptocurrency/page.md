@@ -1,5 +1,5 @@
 ---
-title: "Proof-of-Stake in Cryptocurrency (Algo Trading)"
+title: "Proof-of-Stake in Cryptocurrency"
 description: "Explore the impact of Proof-of-Stake in cryptocurrency algo trading Discover how PoS enhances trading with energy efficiency security and potential for maximized returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Power Parity (Algo Trading)"
+title: "Purchasing Power Parity"
 description: "Discover how Purchasing Power Parity aids in exchange rate analysis and boosts algorithmic trading strategies for better forex decisions and arbitrage opportunities."
 ---
 

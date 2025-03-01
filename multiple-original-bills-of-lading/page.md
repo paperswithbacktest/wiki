@@ -1,5 +1,5 @@
 ---
-title: "Multiple Original Bills of Lading (Algo Trading)"
+title: "Multiple Original Bills of Lading"
 description: "Explore the importance of bills of lading in global shipping and the growing impact of algorithmic trading on logistics and finance in this detailed guide."
 ---
 

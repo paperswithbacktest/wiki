@@ -1,5 +1,5 @@
 ---
-title: "Risks of Storing Bitcoin in a Single Wallet (Algo Trading)"
+title: "Risks of Storing Bitcoin in a Single Wallet"
 description: "Storing Bitcoin in a single wallet increases risk as it centralizes your assets making them vulnerable to hacking or loss. Diversify to enhance security."
 ---
 

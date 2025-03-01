@@ -1,5 +1,5 @@
 ---
-title: "Zeta Model: Overview and Significance (Algo Trading)"
+title: "Zeta Model: Overview and Significance"
 description: "Explore the significance of the Zeta Model in predicting bankruptcy and its role in algorithmic trading. Learn how it enhances financial risk assessments."
 ---
 

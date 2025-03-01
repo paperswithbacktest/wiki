@@ -1,5 +1,5 @@
 ---
-title: "One-Way Market (Algo Trading)"
+title: "One-Way Market"
 description: "Explore the dynamics of one-way market trends powered by algorithmic trading and economic models to gain insights for strategic financial decisions."
 ---
 

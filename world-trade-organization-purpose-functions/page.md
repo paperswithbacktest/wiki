@@ -1,5 +1,5 @@
 ---
-title: "World Trade Organization: Purpose and Functions (Algo Trading)"
+title: "World Trade Organization: Purpose and Functions"
 description: "Explore the essential functions and purposes of the World Trade Organization in global trade, its impact on algorithmic trading, and its role in shaping economic policies."
 ---
 

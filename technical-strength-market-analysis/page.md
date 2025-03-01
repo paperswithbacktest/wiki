@@ -1,5 +1,5 @@
 ---
-title: "Technical Strength in Market Analysis (Algo Trading)"
+title: "Technical Strength in Market Analysis"
 description: "Explore how algorithmic trading combines economic assessments and technical analysis to develop optimized, efficient trading strategies in dynamic market conditions."
 ---
 

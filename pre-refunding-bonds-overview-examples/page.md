@@ -1,5 +1,5 @@
 ---
-title: "Pre-Refunding Bonds: Overview and Examples (Algo Trading)"
+title: "Pre-Refunding Bonds: Overview and Examples"
 description: "Explore municipal bond refinancing with pre-refunding methods and algorithmic trading trends. Gain insights on current practices and future developments in muni bonds."
 ---
 

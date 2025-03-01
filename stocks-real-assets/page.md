@@ -1,5 +1,5 @@
 ---
-title: "Stocks as Real Assets (Algo Trading)"
+title: "Stocks as Real Assets"
 description: "Explore the dynamic relationship between stocks, real assets, and algorithmic trading in investment strategies. Discover how algorithms revolutionize trading efficiency."
 ---
 

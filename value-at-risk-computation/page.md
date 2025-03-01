@@ -1,5 +1,5 @@
 ---
-title: "Value at Risk and Its Computation (Algo Trading)"
+title: "Value at Risk and Its Computation"
 description: "Explore the fundamentals of Value at Risk and its computation techniques in this detailed guide Learn how VaR aids financial risk management and algorithmic trading"
 ---
 

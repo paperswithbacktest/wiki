@@ -1,5 +1,5 @@
 ---
-title: "RSJ (Algo Trading)"
+title: "RSJ"
 description: "RSJ specializes in developing cutting-edge algorithmic trading strategies that enhance market efficiency through high-frequency trading and innovative technology."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Search Engines Competing With Google (Algo Trading)"
+title: "Search Engines Competing With Google"
 description: "Explore how search engines like Bing, Yahoo, DuckDuckGo, and Ecosia compete with Google, impacting algorithmic trading and promoting privacy and sustainability."
 ---
 

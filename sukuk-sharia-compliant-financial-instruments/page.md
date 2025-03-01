@@ -1,5 +1,5 @@
 ---
-title: "Sukuk: Sharia-Compliant Financial Instruments (Algo Trading)"
+title: "Sukuk: Sharia-Compliant Financial Instruments"
 description: "Explore the world of Sukuk, Sharia-compliant financial instruments merging Islamic finance with algorithmic trading, offering ethical investment solutions."
 ---
 

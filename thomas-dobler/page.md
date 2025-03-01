@@ -1,5 +1,5 @@
 ---
-title: "Thomas Dobler (Algo Trading)"
+title: "Thomas Dobler"
 description: "Thomas Dobler is a pioneer in algorithmic trading revolutionizing financial markets with innovative strategies and technologies across leading investment firms."
 ---
 

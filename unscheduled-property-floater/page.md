@@ -1,5 +1,5 @@
 ---
-title: "Unscheduled Property Floater (Algo Trading)"
+title: "Unscheduled Property Floater"
 description: "Explore the synergy between unscheduled property floaters and algorithmic trading to enhance financial security and growth in complex market environments."
 ---
 

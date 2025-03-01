@@ -1,5 +1,5 @@
 ---
-title: "Portfolio rebalancing (Algo Trading)"
+title: "Portfolio rebalancing"
 description: "Optimize investment outcomes with strategic portfolio rebalancing using algorithmic trading. Enhance efficiency and risk management through automated reallocation."
 ---
 

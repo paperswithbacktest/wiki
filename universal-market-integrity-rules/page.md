@@ -1,5 +1,5 @@
 ---
-title: "Universal Market Integrity Rules (Algo Trading)"
+title: "Universal Market Integrity Rules"
 description: "Explore the significance of Universal Market Integrity Rules in algorithmic trading to maintain financial stability and trust in rapidly evolving global markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Standard Monetary Policy (Algo Trading)"
+title: "Non-Standard Monetary Policy"
 description: "Explore the intricate dynamics between monetary policy, central banking, and algorithmic trading to understand their collective impact on global finance."
 ---
 

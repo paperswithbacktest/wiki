@@ -1,5 +1,5 @@
 ---
-title: "Risk Curve: Explanation and Considerations (Algo Trading)"
+title: "Risk Curve: Explanation and Considerations"
 description: "Explore effective risk management in algorithmic trading Learn about risk assessment the risk curve and strategies for optimizing trading outcomes"
 ---
 

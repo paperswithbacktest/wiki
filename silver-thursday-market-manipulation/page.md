@@ -1,5 +1,5 @@
 ---
-title: "Silver Thursday: Market Manipulation by Wealthy Traders (Algo Trading)"
+title: "Silver Thursday: Market Manipulation by Wealthy Traders"
 description: "Explore the impact of the Hunt brothers’ attempt to corner the silver market on Silver Thursday 1980 and understand how their actions inform today's market regulation against manipulation."
 ---
 

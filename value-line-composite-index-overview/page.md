@@ -1,5 +1,5 @@
 ---
-title: "Value Line Composite Index Overview (Algo Trading)"
+title: "Value Line Composite Index Overview"
 description: "Explore the Value Line Composite Index and how its insights enhance algorithmic trading strategies to optimize performance and returns across diverse markets."
 ---
 

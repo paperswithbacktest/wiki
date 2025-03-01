@@ -1,5 +1,5 @@
 ---
-title: "Mexican Peso Crisis: Causes, Recovery, and Historical Context (Algo Trading)"
+title: "Mexican Peso Crisis: Causes, Recovery, and Historical Context"
 description: "Explore the Mexican Peso Crisis of 1994 including its causes, the recovery efforts, and the significance of algorithmic trading in managing economic volatility."
 ---
 

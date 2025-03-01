@@ -1,5 +1,5 @@
 ---
-title: "Smart Money in Investing and Trading (Algo Trading)"
+title: "Smart Money in Investing and Trading"
 description: "Explore the synergy between smart money and algorithmic trading to enhance investment strategies and refine trading efficiency for optimized returns in finance."
 ---
 

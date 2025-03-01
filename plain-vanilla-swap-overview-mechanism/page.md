@@ -1,5 +1,5 @@
 ---
-title: "Plain Vanilla Swap: Overview and Mechanism (Algo Trading)"
+title: "Plain Vanilla Swap: Overview and Mechanism"
 description: "Explore the essentials of plain vanilla swaps and algorithmic trading Mechanisms in these financial tools provide risk management and improve market strategies"
 ---
 

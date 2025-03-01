@@ -1,5 +1,5 @@
 ---
-title: "Takeout Lender (Algo Trading)"
+title: "Takeout Lender"
 description: "Discover the intricacies of takeout loans, refinancing, and algorithmic trading in commercial real estate to enhance investment portfolio strategies."
 ---
 

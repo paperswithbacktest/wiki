@@ -1,5 +1,5 @@
 ---
-title: "Social Choice Theory: Overview and Examples (Algo Trading)"
+title: "Social Choice Theory: Overview and Examples"
 description: "Discover how social choice theory and algorithmic trading intersect to enhance decision-making in financial markets through economic models and strategies."
 ---
 

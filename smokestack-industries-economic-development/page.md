@@ -1,5 +1,5 @@
 ---
-title: "Smokestack Industries and Economic Development (Algo Trading)"
+title: "Smokestack Industries and Economic Development"
 description: "Explore the dynamic relationship between smokestack industries and economic development amid technological advances such as algorithmic trading revolutionizing investment landscapes."
 ---
 

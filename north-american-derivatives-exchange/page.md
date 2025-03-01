@@ -1,5 +1,5 @@
 ---
-title: "North American Derivatives Exchange (Algo Trading)"
+title: "North American Derivatives Exchange"
 description: "Explore Nadex a leading derivatives exchange offering binary options bull spreads and algo trading for diverse strategies under CFTC regulation."
 ---
 

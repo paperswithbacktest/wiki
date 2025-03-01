@@ -1,5 +1,5 @@
 ---
-title: "Regression Analysis and Calculation (Algo Trading)"
+title: "Regression Analysis and Calculation"
 description: "Enhance your algorithmic trading strategies with regression analysis and statistical modeling. Discover techniques to forecast market movements and optimize trades."
 ---
 

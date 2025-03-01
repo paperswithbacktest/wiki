@@ -1,5 +1,5 @@
 ---
-title: "Turing Machine in Trading (Algo Trading)"
+title: "Turing Machine in Trading"
 description: "Discover how Turing machines revolutionize algorithmic trading by integrating computation theory, enhancing the efficiency and adaptability of trading systems."
 ---
 

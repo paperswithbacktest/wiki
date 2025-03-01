@@ -1,5 +1,5 @@
 ---
-title: "SEC 30-Day Yield Calculation and Examples (Algo Trading)"
+title: "SEC 30-Day Yield Calculation and Examples"
 description: "Explore key financial concepts such as SEC yield and 30-day yield that enhance investment strategies in algo trading Learn to maximize returns while managing risks"
 ---
 

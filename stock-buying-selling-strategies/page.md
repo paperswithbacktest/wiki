@@ -1,5 +1,5 @@
 ---
-title: "Stock Buying and Selling Strategies (Algo Trading)"
+title: "Stock Buying and Selling Strategies"
 description: "Explore stock buying and selling strategies with insights on algorithmic trading to boost your investment performance and align with financial goals."
 ---
 

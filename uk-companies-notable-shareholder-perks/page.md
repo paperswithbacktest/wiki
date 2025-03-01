@@ -1,5 +1,5 @@
 ---
-title: "List of UK Companies with Notable Shareholder Perks (Algo Trading)"
+title: "List of UK Companies with Notable Shareholder Perks"
 description: "Discover notable UK companies offering shareholder perks and explore how algorithmic trading is transforming investment strategies for optimal returns."
 ---
 

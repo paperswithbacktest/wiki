@@ -1,5 +1,5 @@
 ---
-title: "Wells Fargo Intuitive Investor Evaluation 2024 (Algo Trading)"
+title: "Wells Fargo Intuitive Investor Evaluation 2024"
 description: "Discover the benefits of Wells Fargo Intuitive Investor a robo-advisor platform combining algorithmic trading with professional financial guidance for efficient investing"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo Simulation: Overview, Methodology, History, Steps (Algo Trading)"
+title: "Monte Carlo Simulation: Overview, Methodology, History, Steps"
 description: "Explore Monte Carlo simulations in algorithmic trading to assess strategy risks and potential outcomes Use modern statistical methods to refine trading decisions"
 ---
 

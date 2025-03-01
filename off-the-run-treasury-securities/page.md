@@ -1,5 +1,5 @@
 ---
-title: "Off-The-Run Treasury Securities (Algo Trading)"
+title: "Off-The-Run Treasury Securities"
 description: "Explore the unique advantages of off-the-run Treasuries in algo trading Discover how these securities offer higher yields and diversify investment strategies"
 ---
 

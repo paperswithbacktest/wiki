@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Gold Investment (Algo Trading)"
+title: "Strategies for Gold Investment"
 description: "Explore diverse gold investment strategies tailored for varying risk appetites with a focus on algorithmic trading to optimize returns amid market volatility."
 ---
 

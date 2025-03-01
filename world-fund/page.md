@@ -1,5 +1,5 @@
 ---
-title: "World Fund (Algo Trading)"
+title: "World Fund"
 description: "Explore the dynamic world of global finance with insights into international investment, world funds, and algorithmic trading for optimal economic growth."
 ---
 

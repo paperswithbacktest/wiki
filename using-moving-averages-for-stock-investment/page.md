@@ -1,5 +1,5 @@
 ---
-title: "Using Moving Averages for Stock Investment (Algo Trading)"
+title: "Using Moving Averages for Stock Investment"
 description: "Explore the role of moving averages in stock investment with algo trading, offering insights on identifying trends, generating signals, and optimizing strategies."
 ---
 

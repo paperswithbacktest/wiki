@@ -1,5 +1,5 @@
 ---
-title: "Weak Shorts in Investment (Algo Trading)"
+title: "Weak Shorts in Investment"
 description: "Explore the Weak Shorts Investment Strategy and learn how algorithmic trading identifies and capitalizes on market inefficiencies for potential profits."
 ---
 

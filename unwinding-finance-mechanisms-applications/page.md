@@ -1,5 +1,5 @@
 ---
-title: "Unwinding in Finance: Mechanisms and Applications (Algo Trading)"
+title: "Unwinding in Finance: Mechanisms and Applications"
 description: "Explore financial unwinding and algorithmic trading with insights on closing positions and investment strategies to optimize trading and manage risks effectively."
 ---
 

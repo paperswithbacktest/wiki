@@ -1,5 +1,5 @@
 ---
-title: "Psychological preparedness (Algo Trading)"
+title: "Psychological preparedness"
 description: Explore the vital role of psychological preparedness in algorithmic trading allowing traders to effectively oversee high-speed operations while managing emotional and cognitive influences. Learn how emotional control and bias awareness can significantly enhance trading efficiency and outcomes ensuring that the performance of algorithmic systems aligns with trading objectives. Understand how emotions like fear and greed can impact decisions and discover strategies for maintaining discipline ensuring that algorithms operate optimally without unnecessary human intervention.
 ---
 

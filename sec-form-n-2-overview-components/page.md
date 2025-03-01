@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-2: Overview and Components (Algo Trading)"
+title: "SEC Form N-2: Overview and Components"
 description: "Discover the importance of SEC Form N-2 in closed-end funds' regulatory compliance and its impact on algorithmic trading strategies in the US financial market."
 ---
 

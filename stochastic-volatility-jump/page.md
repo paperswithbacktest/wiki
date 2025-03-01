@@ -1,5 +1,5 @@
 ---
-title: "Stochastic volatility jump (Algo Trading)"
+title: "Stochastic volatility jump"
 description: "Explore stochastic volatility jumps in algo trading understand the intricacies of market dynamics and enhance financial strategies with advanced modeling techniques."
 ---
 

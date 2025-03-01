@@ -1,5 +1,5 @@
 ---
-title: "Profit-taking (Algo Trading)"
+title: "Profit-taking"
 description: Discover how profit-taking enhances algorithmic trading by strategically locking in gains and minimizing risk. This article explores effective methods for profit-taking to optimize earnings in the fast-paced world of automated trading, focusing on maximizing opportunities and maintaining a disciplined approach.
 ---
 

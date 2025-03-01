@@ -1,5 +1,5 @@
 ---
-title: "Risk Management with Options (Algo Trading)"
+title: "Risk Management with Options"
 description: "Explore risk management through options trading and algorithmic strategies. Understand derivatives, hedge risks, and leverage tech for optimal trading outcomes."
 ---
 

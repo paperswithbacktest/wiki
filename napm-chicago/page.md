@@ -1,5 +1,5 @@
 ---
-title: "NAPM Chicago (Algo Trading)"
+title: "NAPM Chicago"
 description: "Explore how NAPM Chicago's economic insights and algorithmic trading are transforming supply chain management to drive innovation and maintain a competitive edge."
 ---
 

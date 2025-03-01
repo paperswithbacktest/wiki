@@ -1,5 +1,5 @@
 ---
-title: "Modifying Strike Price After Trade Execution (Algo Trading)"
+title: "Modifying Strike Price After Trade Execution"
 description: "Dive into the complexities of options trading with insights on modifying strike prices and trade execution using algorithmic strategies for optimized returns."
 ---
 

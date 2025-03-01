@@ -1,5 +1,5 @@
 ---
-title: "Quarter-on-Quarter Analysis and Calculation (Algo Trading)"
+title: "Quarter-on-Quarter Analysis and Calculation"
 description: "Explore how Quarter-on-Quarter analysis enhances algo trading by offering insights into short-term financial trends and seasonal fluctuations in market performance."
 ---
 

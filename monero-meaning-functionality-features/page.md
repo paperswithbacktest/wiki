@@ -1,5 +1,5 @@
 ---
-title: "Monero: Meaning, Functionality, and Features (Algo Trading)"
+title: "Monero: Meaning, Functionality, and Features"
 description: "Discover the synergy between Monero's privacy features and algorithmic trading Explore how Monero's cryptography enhances trading strategies in crypto markets"
 ---
 

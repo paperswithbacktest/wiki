@@ -1,5 +1,5 @@
 ---
-title: "Research Note: Meaning and Function (Algo Trading)"
+title: "Research Note: Meaning and Function"
 description: "Explore how research notes enhance algo trading by offering timely market insights improving strategy precision and efficiency amidst evolving market trends."
 ---
 

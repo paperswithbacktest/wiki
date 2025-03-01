@@ -1,5 +1,5 @@
 ---
-title: "Vortex Indicator Trading Strategies (Algo Trading)"
+title: "Vortex Indicator Trading Strategies"
 description: "Explore the Vortex Indicator's role in algo trading discover strategies for identifying market trends and enhance efficiency by automating trading signals."
 ---
 

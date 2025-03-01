@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Derivatives: Overview and Advantages (Algo Trading)"
+title: "Real Estate Derivatives: Overview and Advantages"
 description: "Explore how real estate derivatives and algo trading enhance investment strategies offering risk management portfolio diversification and market efficiency."
 ---
 

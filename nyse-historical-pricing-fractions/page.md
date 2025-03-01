@@ -1,5 +1,5 @@
 ---
-title: "NYSE Historical Pricing in Fractions (Algo Trading)"
+title: "NYSE Historical Pricing in Fractions"
 description: "Explore the historical shift from fractions to decimal pricing on the NYSE and its impact on algorithmic trading and market efficiency."
 ---
 

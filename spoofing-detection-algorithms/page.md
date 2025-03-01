@@ -1,5 +1,5 @@
 ---
-title: "Spoofing detection algorithms (Algo Trading)"
+title: "Spoofing detection algorithms"
 description: "Detect spoofing in algorithm trading with advanced algorithms ensuring market integrity by identifying manipulative practices in high-frequency trading."
 ---
 

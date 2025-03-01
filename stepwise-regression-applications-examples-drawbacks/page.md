@@ -1,5 +1,5 @@
 ---
-title: "Stepwise Regression: Applications, Examples, and Drawbacks (Algo Trading)"
+title: "Stepwise Regression: Applications, Examples, and Drawbacks"
 description: "Explore stepwise regression for financial modeling in algo trading. This method refines models by adding or removing predictors to boost predictive accuracy."
 ---
 

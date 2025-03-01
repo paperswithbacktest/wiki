@@ -1,5 +1,5 @@
 ---
-title: "Nominalism in Finance (Algo Trading)"
+title: "Nominalism in Finance"
 description: "Explore the intersection of nominalism monetary theory and algorithmic trading in finance Discover how these concepts are revolutionizing financial strategies today"
 ---
 

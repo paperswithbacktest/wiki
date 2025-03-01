@@ -1,5 +1,5 @@
 ---
-title: "Package Deal: Meaning and Examples (Algo Trading)"
+title: "Package Deal: Meaning and Examples"
 description: "Explore the significance of package deals in algorithmic trading and how they enhance strategy efficiency by combining multiple trades for optimal performance and risk management."
 ---
 

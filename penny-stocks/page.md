@@ -1,5 +1,5 @@
 ---
-title: "Penny Stocks (Algo Trading)"
+title: "Penny Stocks"
 description: "Explore the intersection of penny stocks and algorithmic trading to uncover high-risk, high-reward investment opportunities in the dynamic stock market arena."
 ---
 

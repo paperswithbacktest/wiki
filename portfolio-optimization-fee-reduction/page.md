@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Optimization and Fee Reduction (Algo Trading)"
+title: "Portfolio Optimization and Fee Reduction"
 description: "Explore portfolio optimization and fee reduction in algo trading to enhance financial strategies and maximize returns by balancing risk, cost, and technology."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stop Order Types and Timing (Algo Trading)"
+title: "Stop Order Types and Timing"
 description: "Explore the role of stop orders in algorithmic trading strategies. Learn how stop-loss, stop-entry, and trailing stop orders manage risk and optimize stock trading."
 ---
 

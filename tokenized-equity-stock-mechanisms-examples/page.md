@@ -1,5 +1,5 @@
 ---
-title: "Tokenized Equity and Stock: Mechanisms and Examples (Algo Trading)"
+title: "Tokenized Equity and Stock: Mechanisms and Examples"
 description: "Explore how tokenized equity and blockchain revolutionize financial instruments by enhancing accessibility and efficiency while algo trading optimizes transactions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Profits Interest vs. Capital Interest (Algo Trading)"
+title: "Profits Interest vs. Capital Interest"
 description: "Explore profits interest vs capital interest in algo trading for informed financial decisions and strategic growth. Understand key distinctions and their business impacts."
 ---
 

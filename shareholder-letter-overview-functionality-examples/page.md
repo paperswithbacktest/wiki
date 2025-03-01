@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Letter: Overview, Functionality, and Examples (Algo Trading)"
+title: "Shareholder Letter: Overview, Functionality, and Examples"
 description: "Shareholder letters enhance corporate communication by building investor trust and transparency crucial in navigating today's algorithmic trading-influenced markets."
 ---
 

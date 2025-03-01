@@ -1,5 +1,5 @@
 ---
-title: "Special Drawing Rights of the International Monetary Fund (Algo Trading)"
+title: "Special Drawing Rights of the International Monetary Fund"
 description: "Explore the influential role of Special Drawing Rights by the IMF in global finance and how they integrate with algorithmic trading to enhance economic stability."
 ---
 

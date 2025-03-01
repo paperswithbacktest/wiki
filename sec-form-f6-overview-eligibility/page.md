@@ -1,5 +1,5 @@
 ---
-title: "SEC Form F-6: Overview and Eligibility Criteria (Algo Trading)"
+title: "SEC Form F-6: Overview and Eligibility Criteria"
 description: "Explore SEC Form F-6 and understand its key role in registering American Depositary Receipts ADRs with the SEC vital for global investment and algo trading."
 ---
 

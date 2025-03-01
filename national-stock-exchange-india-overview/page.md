@@ -1,5 +1,5 @@
 ---
-title: "National Stock Exchange of India Overview (Algo Trading)"
+title: "National Stock Exchange of India Overview"
 description: "Explore the impact of algorithmic trading on the National Stock Exchange of India its evolution from electronic systems to modern algo trading and regulatory insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Structural breaks (Algo Trading)"
+title: "Structural breaks"
 description: Explore how structural breaks influence algorithmic trading and the strategies to mitigate their impact. Learn about detecting these disruptions using machine learning and traditional methods to enhance trading performance and resilience in evolving financial markets.
 ---
 

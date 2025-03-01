@@ -1,5 +1,5 @@
 ---
-title: "Zoning: Function, Mechanisms, and Classification (Algo Trading)"
+title: "Zoning: Function, Mechanisms, and Classification"
 description: "Explore how integrating algorithmic trading methods into urban planning can revolutionize land use zoning, offering data-driven insights for sustainable city development. Discover the potential benefits and challenges of these innovative strategies in fostering efficient and resilient urban environments.
 "
 ---

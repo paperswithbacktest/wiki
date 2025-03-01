@@ -1,5 +1,5 @@
 ---
-title: "Surplus Spending Units (Algo Trading)"
+title: "Surplus Spending Units"
 description: "Discover how surplus spending units and algorithmic trading shape modern financial markets by efficiently allocating excess funds to drive growth and stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Money Market Mutual Funds (Algo Trading)"
+title: "Money Market Mutual Funds"
 description: "Explore how money market funds, mutual funds, and algorithmic trading can enhance investment strategies for optimal portfolio performance and financial goals."
 ---
 

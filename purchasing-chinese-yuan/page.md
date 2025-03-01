@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Chinese Yuan (Algo Trading)"
+title: "Purchasing Chinese Yuan"
 description: "Explore the significance of the Chinese Yuan in global markets and discover how algorithmic trading can optimize currency exchange with cutting-edge efficiency."
 ---
 

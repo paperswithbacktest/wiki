@@ -1,5 +1,5 @@
 ---
-title: "Taiwan Weighted Index (Algo Trading)"
+title: "Taiwan Weighted Index"
 description: "Explore the TSEC Weighted Index and its role as a key benchmark for Taiwan's stock market performance. Learn about algorithmic trading impacts."
 ---
 

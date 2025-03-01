@@ -1,5 +1,5 @@
 ---
-title: "Single Monthly Mortality: Overview and Mechanism (Algo Trading)"
+title: "Single Monthly Mortality: Overview and Mechanism"
 description: "Understand Single Monthly Mortality to assess prepayment risk in mortgage-backed securities. Gain insights into SMM's role in investment strategies and algorithmic trading."
 ---
 

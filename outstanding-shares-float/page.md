@@ -1,5 +1,5 @@
 ---
-title: "Outstanding Shares and Float (Algo Trading)"
+title: "Outstanding Shares and Float"
 description: "Discover how outstanding shares and stock float influence market behavior and algorithmic trading strategies in this comprehensive guide. Learn about the role of these financial metrics in calculating a company's value and how they affect stock liquidity and price stability. Understand the impact of algorithmic trading in modern markets, leveraging data-driven insights for rapid, efficient trade executions that capitalize on volatile and liquid stock conditions. Explore key concepts essential for optimizing investment decisions and maintaining a competitive trading edge."
 ---
 

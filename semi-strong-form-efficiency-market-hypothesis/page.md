@@ -1,5 +1,5 @@
 ---
-title: "Semi-Strong Form Efficiency and Market Hypothesis (Algo Trading)"
+title: "Semi-Strong Form Efficiency and Market Hypothesis"
 description: "Explore the semi-strong form of the Efficient Market Hypothesis and its impact on algorithmic trading Discover how public information shapes market efficiency"
 ---
 

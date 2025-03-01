@@ -1,5 +1,5 @@
 ---
-title: "Sight Letter of Credit (Algo Trading)"
+title: "Sight Letter of Credit"
 description: "Explore the role of sight letters of credit in international trade finance. Learn how they secure payments, mitigate risks, and integrate with modern technologies."
 ---
 

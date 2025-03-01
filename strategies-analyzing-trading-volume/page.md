@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Analyzing Trading Volume (Algo Trading)"
+title: "Strategies for Analyzing Trading Volume"
 description: "Explore how trading volume analysis, algorithmic trading, and data-driven strategies can optimize investment decisions for improved market insights and outcomes."
 ---
 

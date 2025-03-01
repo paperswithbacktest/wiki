@@ -1,5 +1,5 @@
 ---
-title: "UBS Group AG (Algo Trading)"
+title: "UBS Group AG"
 description: "UBS leverages algorithmic trading to optimize trade executions and enhance financial services through advanced tech, positioning itself as a global leader."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trading Psychology and Behavioral Impact on Traders (Algo Trading)"
+title: "Trading Psychology and Behavioral Impact on Traders"
 description: "Explore the interplay between trading psychology and algorithmic trading. Understand how emotions like fear and greed impact market behavior and trading strategies."
 ---
 

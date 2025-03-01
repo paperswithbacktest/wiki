@@ -1,5 +1,5 @@
 ---
-title: "Spot Premium: Definition and Functionality (Algo Trading)"
+title: "Spot Premium: Definition and Functionality"
 description: "Explore spot premium and algorithmic trading and their impact on financial markets. Learn how these concepts enhance trading strategies for optimal market performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Thomas Malthus and the Malthusian Growth Model (Algo Trading)"
+title: "Thomas Malthus and the Malthusian Growth Model"
 description: "Explore the intersection of Malthusian theory and algorithmic trading in this insightful article that investigates into population growth models and trading strategies."
 ---
 

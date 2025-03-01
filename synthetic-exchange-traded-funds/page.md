@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Exchange-Traded Funds (Algo Trading)"
+title: "Synthetic Exchange-Traded Funds"
 description: "Explore how synthetic ETFs and algorithmic trading are reshaping investment strategies by offering unique opportunities and optimizing portfolio performance."
 ---
 

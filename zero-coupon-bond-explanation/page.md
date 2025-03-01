@@ -1,5 +1,5 @@
 ---
-title: "Zero Coupon Bond Explanation (Algo Trading)"
+title: "Zero Coupon Bond Explanation"
 description: "Explore zero coupon bonds as a strategic investment, understanding their unique structure, yield calculations, and benefits of integration with algo trading for enhancing returns."
 ---
 

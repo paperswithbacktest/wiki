@@ -1,5 +1,5 @@
 ---
-title: "Smart beta strategies (Algo Trading)"
+title: "Smart beta strategies"
 description: "Explore the benefits and intricacies of smart beta strategies in algo trading from capturing market inefficiencies to cost-efficiency and rapid execution."
 ---
 

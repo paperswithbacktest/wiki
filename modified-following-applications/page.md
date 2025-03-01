@@ -1,5 +1,5 @@
 ---
-title: "Modified Following and Its Applications (Algo Trading)"
+title: "Modified Following and Its Applications"
 description: "Explore how algorithmic trading principles are transforming social media algorithms to enhance user engagement and personalized content experiences."
 ---
 

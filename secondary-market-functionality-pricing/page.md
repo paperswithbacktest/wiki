@@ -1,5 +1,5 @@
 ---
-title: "Secondary Market: Functionality and Pricing (Algo Trading)"
+title: "Secondary Market: Functionality and Pricing"
 description: "Discover insights into the secondary market and algorithmic trading as components of financial markets. This page covers the processes behind trading existing securities, examines the role of pricing in market operations, and explores the significant impact of algorithmic trading on efficiency and cost reduction. Learn about the types of financial markets and understand how they facilitate resource allocation and economic growth."
 ---
 

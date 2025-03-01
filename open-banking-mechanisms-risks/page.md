@@ -1,5 +1,5 @@
 ---
-title: "Open Banking: Mechanisms and Risks (Algo Trading)"
+title: "Open Banking: Mechanisms and Risks"
 description: "Open Banking transforms finance via APIs connecting banks and third-party providers Enhancing services it also raises serious data security and privacy concerns"
 ---
 

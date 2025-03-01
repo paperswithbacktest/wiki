@@ -1,5 +1,5 @@
 ---
-title: "Revenue Generation of BitTorrent Sites Like The Pirate Bay (Algo Trading)"
+title: "Revenue Generation of BitTorrent Sites Like The Pirate Bay"
 description: "Explore the intersection of BitTorrent sites like The Pirate Bay, algorithmic trading, and their revenue models amidst legal challenges and technological innovations."
 ---
 

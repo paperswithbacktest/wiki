@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Cryptocurrency for the Metaverse (Algo Trading)"
+title: "Purchasing Cryptocurrency for the Metaverse"
 description: "Explore the dynamic world of metaverse cryptocurrency investment. Learn about key tokens, algorithmic trading, and strategies for navigating virtual economies."
 ---
 

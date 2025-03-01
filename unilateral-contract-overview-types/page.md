@@ -1,5 +1,5 @@
 ---
-title: "Unilateral Contract: Overview and Types (Algo Trading)"
+title: "Unilateral Contract: Overview and Types"
 description: "Explore unilateral contracts and their impact in algorithmic trading. Learn how these contracts optimize strategies and ensure compliance in fast-paced markets."
 ---
 

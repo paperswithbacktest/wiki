@@ -1,5 +1,5 @@
 ---
-title: "Model risk (Algo Trading)"
+title: "Model risk"
 description: Explore the intricacies of model risk in algorithmic trading where sophisticated algorithms enhance market efficiency and liquidity but also pose risks due to flawed assumptions or inadequate data. Understand the importance of managing these risks through robust frameworks real-time market adaptation and rigorous testing to safeguard trading strategy integrity. Discover regulatory guidelines and industry insights that offer best practices for mitigating potential hazards in this rapidly evolving financial landscape.
 ---
 

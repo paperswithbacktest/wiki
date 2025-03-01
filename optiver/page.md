@@ -1,5 +1,5 @@
 ---
-title: "Optiver (Algo Trading)"
+title: "Optiver"
 description: "Explore Optiver's pivotal role in algorithmic trading, leveraging advanced technology for efficient trading strategies that enhance market liquidity and decision-making."
 ---
 

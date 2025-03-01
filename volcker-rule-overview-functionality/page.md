@@ -1,5 +1,5 @@
 ---
-title: "Volcker Rule: Overview and Functionality (Algo Trading)"
+title: "Volcker Rule: Overview and Functionality"
 description: "The Volcker Rule reshapes banking by restricting proprietary trading and high-risk investments to enhance stability reduce systemic risk and protect consumers."
 ---
 

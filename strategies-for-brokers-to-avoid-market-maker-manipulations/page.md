@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Brokers to Avoid Market Maker Manipulations (Algo Trading)"
+title: "Strategies for Brokers to Avoid Market Maker Manipulations"
 description: "Explore strategies brokers use to counteract market maker manipulations in algorithmic trading ensuring fair play and optimized trading outcomes."
 ---
 

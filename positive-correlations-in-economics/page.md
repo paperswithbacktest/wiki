@@ -1,5 +1,5 @@
 ---
-title: "Positive Correlations in Economics (Algo Trading)"
+title: "Positive Correlations in Economics"
 description: "Explore positive correlations in economic variables and their role in algorithmic trading allowing traders to anticipate market trends and optimize strategies effectively."
 ---
 

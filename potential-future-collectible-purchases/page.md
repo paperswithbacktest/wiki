@@ -1,5 +1,5 @@
 ---
-title: "Potential Future Collectible Purchases (Algo Trading)"
+title: "Potential Future Collectible Purchases"
 description: "Discover future investment potential with collectibles and algorithmic trading Learn strategies to diversify portfolios mitigate risks and maximize profits"
 ---
 

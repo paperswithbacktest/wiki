@@ -1,5 +1,5 @@
 ---
-title: "Prepetition Liability: Definition, Function, and Limitations (Algo Trading)"
+title: "Prepetition Liability: Definition, Function, and Limitations"
 description: "Explore the intricacies of prepetition liability in algorithmic trading examining its impact on bankruptcy, financial obligations, and strategic management."
 ---
 

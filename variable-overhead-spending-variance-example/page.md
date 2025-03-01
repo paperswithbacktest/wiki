@@ -1,5 +1,5 @@
 ---
-title: "Variable Overhead Spending Variance with Example (Algo Trading)"
+title: "Variable Overhead Spending Variance with Example"
 description: "Optimize algorithmic trading profitability with insights into variable overhead spending variance to manage indirect expenses efficiently and improve financial performance."
 ---
 

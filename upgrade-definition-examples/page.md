@@ -1,5 +1,5 @@
 ---
-title: "Upgrade: Definition and Examples (Algo Trading)"
+title: "Upgrade: Definition and Examples"
 description: "Discover the impact of upgrades in algorithmic trading. Learn how analyst ratings influence market decisions and explore strategies for profitable investing."
 ---
 

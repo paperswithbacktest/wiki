@@ -1,5 +1,5 @@
 ---
-title: "Nominal in Finance and Economics (Algo Trading)"
+title: "Nominal in Finance and Economics"
 description: "Unlock the secrets of nominal value and algorithmic trading in finance Discover key economic distinctions and their impact on investment strategies today"
 ---
 

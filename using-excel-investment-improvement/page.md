@@ -1,5 +1,5 @@
 ---
-title: "Using Excel for Investment Improvement (Algo Trading)"
+title: "Using Excel for Investment Improvement"
 description: "Enhance your investment strategies and automate trading systems using Excel's robust functionalities for managing data and performing financial calculations."
 ---
 

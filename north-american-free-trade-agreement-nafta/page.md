@@ -1,5 +1,5 @@
 ---
-title: "North American Free Trade Agreement (NAFTA) (Algo Trading)"
+title: "North American Free Trade Agreement (NAFTA)"
 description: "Explore the impact of NAFTA on algorithmic trading in North America enhancing efficiency and market access by removing trade barriers among US Canada and Mexico"
 ---
 

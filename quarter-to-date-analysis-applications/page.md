@@ -1,5 +1,5 @@
 ---
-title: "Quarter-To-Date Analysis and Applications (Algo Trading)"
+title: "Quarter-To-Date Analysis and Applications"
 description: "Explore the pivotal role of quarter-to-date analysis in finance and algorithmic trading to make informed strategic decisions and optimize financial outcomes."
 ---
 

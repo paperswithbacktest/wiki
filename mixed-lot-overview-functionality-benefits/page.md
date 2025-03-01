@@ -1,5 +1,5 @@
 ---
-title: "Mixed Lot: Overview, Functionality, and Benefits (Algo Trading)"
+title: "Mixed Lot: Overview, Functionality, and Benefits"
 description: "Explore the integration of mixed lot logistics with algorithmic trading to optimize inventory management enhance trading performance and improve supply chain efficiency."
 ---
 

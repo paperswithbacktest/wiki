@@ -1,5 +1,5 @@
 ---
-title: "North Korean Won and Economy (Algo Trading)"
+title: "North Korean Won and Economy"
 description: "Explore the North Korean Won's role in a closed economy its challenges in international forex markets and the potential for algorithmic trading innovations."
 ---
 

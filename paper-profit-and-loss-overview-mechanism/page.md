@@ -1,5 +1,5 @@
 ---
-title: "Paper Profit and Loss: Overview and Mechanism (Algo Trading)"
+title: "Paper Profit and Loss: Overview and Mechanism"
 description: "Explore the intricacies of paper profit and loss in algorithmic trading. Learn how unrealized gains impact trading strategies and decision-making frameworks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "OneCoin: The $4 Billion Cryptocurrency Ponzi Scheme (Algo Trading)"
+title: "OneCoin: The $4 Billion Cryptocurrency Ponzi Scheme"
 description: "Explore the deception of OneCoin the infamous Ponzi scheme disguised as a cryptocurrency revolution that defrauded investors of $4 billion with false promises"
 ---
 

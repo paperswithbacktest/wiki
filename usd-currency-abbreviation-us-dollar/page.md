@@ -1,5 +1,5 @@
 ---
-title: "USD: Currency Abbreviation for the U.S. Dollar (Algo Trading)"
+title: "USD: Currency Abbreviation for the U.S. Dollar"
 description: "Discover how the U.S. Dollar plays a pivotal role in algorithmic trading, enhancing efficiency and precision in the global financial markets through advanced strategies."
 ---
 

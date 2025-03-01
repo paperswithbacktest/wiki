@@ -1,5 +1,5 @@
 ---
-title: "Technology Modernization Fund (Algo Trading)"
+title: "Technology Modernization Fund"
 description: "Explore how the Technology Modernization Fund (TMF) boosts federal IT and impacts algo trading with enhanced infrastructure, speed, and security."
 ---
 

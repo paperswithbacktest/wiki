@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo Analysis in Risk Estimation (Algo Trading)"
+title: "Monte Carlo Analysis in Risk Estimation"
 description: "Explore risk estimation in algorithmic trading with Monte Carlo analysis to project financial outcomes and enhance strategy robustness against market uncertainties."
 ---
 

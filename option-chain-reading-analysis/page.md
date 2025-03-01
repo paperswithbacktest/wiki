@@ -1,5 +1,5 @@
 ---
-title: "Option Chain: Reading and Analysis (Algo Trading)"
+title: "Option Chain: Reading and Analysis"
 description: "Master option chain analysis and algo trading to enhance market insights and execute informed trades efficiently with data-driven strategies and risk management."
 ---
 

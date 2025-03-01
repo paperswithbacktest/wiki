@@ -1,5 +1,5 @@
 ---
-title: "No Quote: Meaning, Functionality, and Example (Algo Trading)"
+title: "No Quote: Meaning, Functionality, and Example"
 description: "Discover the meaning and implications of 'No Quote' and 'Algorithmic Trading' in today's markets. Learn how they impact strategies and trading decisions."
 ---
 

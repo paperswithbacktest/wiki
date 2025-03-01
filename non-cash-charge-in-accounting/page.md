@@ -1,5 +1,5 @@
 ---
-title: "Non-Cash Charge in Accounting (Algo Trading)"
+title: "Non-Cash Charge in Accounting"
 description: "Explore non-cash charges in finance and accounting, including their impact on financial reporting and algorithmic trading in modern corporate strategies."
 ---
 

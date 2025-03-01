@@ -1,5 +1,5 @@
 ---
-title: "Optimal Allocation of Large-Cap Stocks in a Diversified Portfolio (Algo Trading)"
+title: "Optimal Allocation of Large-Cap Stocks in a Diversified Portfolio"
 description: "Optimize your portfolio with large-cap stocks and algorithmic trading strategies Discover how diversification and modern trading can enhance returns and minimize risk"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "VIX Options and Their Role in Options Strategy (Algo Trading)"
+title: "VIX Options and Their Role in Options Strategy"
 description: "Explore the role of VIX options in options strategy and algo trading Learn how to use these tools for effective risk management and to leverage market volatility"
 ---
 

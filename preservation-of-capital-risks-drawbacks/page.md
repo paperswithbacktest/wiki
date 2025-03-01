@@ -1,5 +1,5 @@
 ---
-title: "Preservation of Capital: Risks and Drawbacks (Algo Trading)"
+title: "Preservation of Capital: Risks and Drawbacks"
 description: "Discover the importance of capital preservation in algorithmic trading Learn about balancing growth with risk management to protect your investments effectively"
 ---
 

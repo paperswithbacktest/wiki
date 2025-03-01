@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Capital Gains and Dividends (Algo Trading)"
+title: "Taxation of Capital Gains and Dividends"
 description: "Enhance investment returns by understanding capital gains and dividend taxation in algorithmic trading Stay informed about tax strategies to optimize portfolio performance"
 ---
 

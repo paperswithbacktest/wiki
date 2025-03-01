@@ -1,5 +1,5 @@
 ---
-title: "Operating Leverage: Overview, Mechanism, Calculation (Algo Trading)"
+title: "Operating Leverage: Overview, Mechanism, Calculation"
 description: "Explore operating leverage in algo trading to understand its impact on investment strategies and risk management, enhancing returns through debt usage effectively."
 ---
 

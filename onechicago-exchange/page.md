@@ -1,5 +1,5 @@
 ---
-title: "OneChicago Exchange (Algo Trading)"
+title: "OneChicago Exchange"
 description: "Explore the impact of algorithmic trading on financial markets, featuring OneChicago's use of advanced tech in single-stock futures for efficient, high-speed trades."
 ---
 

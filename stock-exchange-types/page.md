@@ -1,5 +1,5 @@
 ---
-title: "Stock Exchange Types (Algo Trading)"
+title: "Stock Exchange Types"
 description: "Explore the essential role of stock exchanges and algorithmic trading in modern financial markets. Understand how these platforms ensure liquidity, support economic growth, and utilize technology for optimized trading strategies. Discover the difference between primary and secondary markets and learn about the influence of market indices in investment decisions. With advancements in electronic exchanges and algorithmic trading, gain insights into efficient market participation and the opportunities available for investors of all sizes."
 ---
 

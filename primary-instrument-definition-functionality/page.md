@@ -1,5 +1,5 @@
 ---
-title: "Primary Instrument: Definition and Functionality (Algo Trading)"
+title: "Primary Instrument: Definition and Functionality"
 description: "Explore the core principles of algorithmic trading and primary instruments. Learn how algo trading enhances efficiency, speed, and data-driven decisions."
 ---
 

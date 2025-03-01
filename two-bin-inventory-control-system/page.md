@@ -1,5 +1,5 @@
 ---
-title: "Two-Bin Inventory Control System (Algo Trading)"
+title: "Two-Bin Inventory Control System"
 description: "Discover how the Two-Bin Inventory Control System streamlines inventory management by preventing stockouts and reducing excess with effective reordering strategies. This article explores its compatibility with Just-in-Time principles and its innovative application in algorithmic trading. Learn how this simple yet powerful system can enhance efficiency by maintaining continuous inventory flow and offering clear cues for timely replenishment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Office Audit: Procedures and Types (Algo Trading)"
+title: "Office Audit: Procedures and Types"
 description: "Explore office audit procedures and types in algo trading for compliance and strategy optimization. Understand audits to ensure market integrity and avoid fraud."
 ---
 

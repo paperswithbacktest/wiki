@@ -1,5 +1,5 @@
 ---
-title: "WM/Reuters Benchmark Rates in Portfolio Management (Algo Trading)"
+title: "WM/Reuters Benchmark Rates in Portfolio Management"
 description: "Discover how WM/Reuters benchmark rates revolutionize algorithmic trading by providing essential benchmarks for portfolio managers in the forex market."
 ---
 

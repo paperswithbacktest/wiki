@@ -1,5 +1,5 @@
 ---
-title: "Tree Diagram: Applications and Creation (Algo Trading)"
+title: "Tree Diagram: Applications and Creation"
 description: "Explore how tree diagrams enhance algorithmic trading by simplifying data, improving strategy development, and aiding decision-making through visual insights."
 ---
 

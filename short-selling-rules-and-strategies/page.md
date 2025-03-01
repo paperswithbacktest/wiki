@@ -1,5 +1,5 @@
 ---
-title: "Short Selling: Rules and Strategies (Algo Trading)"
+title: "Short Selling: Rules and Strategies"
 description: "Explore the intricacies of short selling and algorithmic trading to enhance portfolio performance. Learn strategies to mitigate risks and maximize returns in dynamic markets."
 ---
 

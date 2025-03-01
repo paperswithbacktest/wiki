@@ -1,5 +1,5 @@
 ---
-title: "Overwriting: Concepts and Mechanisms (Algo Trading)"
+title: "Overwriting: Concepts and Mechanisms"
 description: "Explore how concepts like file systems and data overwriting impact algorithmic trading performance emphasizing efficiency in handling high-frequency data operations."
 ---
 

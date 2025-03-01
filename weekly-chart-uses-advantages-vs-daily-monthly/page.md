@@ -1,5 +1,5 @@
 ---
-title: "Weekly Chart: Uses, Advantages, and Comparison with Daily and Monthly Charts (Algo Trading)"
+title: "Weekly Chart: Uses, Advantages, and Comparison with Daily and Monthly Charts"
 description: "Explore the uses and advantages of weekly charts in algo trading. They offer a balanced view by filtering daily noise and highlighting long-term trends effectively."
 ---
 

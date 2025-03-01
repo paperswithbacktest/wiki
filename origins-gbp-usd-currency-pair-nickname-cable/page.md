@@ -1,5 +1,5 @@
 ---
-title: "Origins of the GBP/USD Currency Pair's Nickname 'Cable' (Algo Trading)"
+title: "Origins of the GBP/USD Currency Pair's Nickname 'Cable'"
 description: "Explore the origins of the GBP/USD forex pair's nickname 'Cable' and discover how algorithmic trading can enhance its profitability through precision and speed."
 ---
 

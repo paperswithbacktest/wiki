@@ -1,5 +1,5 @@
 ---
-title: "Selecting a Forex Broker: Essential Considerations (Algo Trading)"
+title: "Selecting a Forex Broker: Essential Considerations"
 description: "Choose the best forex broker for algorithmic trading by evaluating key factors such as spreads platform compatibility API access and customer service."
 ---
 

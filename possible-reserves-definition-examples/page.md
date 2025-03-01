@@ -1,5 +1,5 @@
 ---
-title: "Possible Reserves: Definition and Examples (Algo Trading)"
+title: "Possible Reserves: Definition and Examples"
 description: "Explore the integration of reserve classification, resource estimation, and algorithmic trading in the energy sector to optimize operations and inform investment strategies."
 ---
 

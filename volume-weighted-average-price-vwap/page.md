@@ -1,5 +1,5 @@
 ---
-title: "Volume-Weighted Average Price (VWAP) (Algo Trading)"
+title: "Volume-Weighted Average Price (VWAP)"
 description: "Discover the power of VWAP in trading Learn how this essential metric influences market strategy enhances execution quality and aids large-volume trades"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Use of Leverage in Forex Trading (Algo Trading)"
+title: "Use of Leverage in Forex Trading"
 description: "Explore the role of leverage in forex trading and how algorithmic strategies optimize market navigation Learn about risk management and automation benefits"
 ---
 

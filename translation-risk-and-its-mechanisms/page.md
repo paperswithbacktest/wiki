@@ -1,5 +1,5 @@
 ---
-title: "Translation Risk and Its Mechanisms (Algo Trading)"
+title: "Translation Risk and Its Mechanisms"
 description: "Explore how multinational corporations manage foreign exchange translation risk and currency exposure using algorithmic trading to protect financial stability."
 ---
 

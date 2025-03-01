@@ -1,5 +1,5 @@
 ---
-title: "Tax-Exempt Commercial Paper (Algo Trading)"
+title: "Tax-Exempt Commercial Paper"
 description: "Explore the intersection of tax-exempt commercial paper and algo trading as crucial tools in financial markets offering unique advantages for issuers and investors."
 ---
 

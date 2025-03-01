@@ -1,5 +1,5 @@
 ---
-title: "Williams %R Trading Strategy Explained (Algo Trading)"
+title: "Williams %R Trading Strategy Explained"
 description: Explore the effectiveness of the Williams %R indicator in algorithmic trading strategies. Discover how this momentum oscillator identifies market conditions and enhances trading performance through mean reversion tactics. Dive into a comprehensive analysis comparing Williams %R with the Relative Strength Index and understand its integration in automated trading systems for optimized decision-making.
 ---
 

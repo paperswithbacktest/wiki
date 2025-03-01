@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Utilizing ETFs in Investment Portfolios (Algo Trading)"
+title: "Strategies for Utilizing ETFs in Investment Portfolios"
 description: "Explore effective strategies for integrating ETFs and algorithmic trading in investment portfolios to optimize diversification risk management and trading efficiency."
 ---
 

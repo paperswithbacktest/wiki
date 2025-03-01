@@ -1,5 +1,5 @@
 ---
-title: "Z-Share Overview and Functionality (Algo Trading)"
+title: "Z-Share Overview and Functionality"
 description: "Explore the innovative functionalities of Z-Share in algorithmic trading Discover how it enhances performance optimizes strategies and boosts decision-making"
 ---
 

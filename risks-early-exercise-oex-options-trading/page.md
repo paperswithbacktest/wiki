@@ -1,5 +1,5 @@
 ---
-title: "Risks of Early Exercise in OEX Options Trading (Algo Trading)"
+title: "Risks of Early Exercise in OEX Options Trading"
 description: "Explore the risks of early exercise in OEX options trading enhance your understanding of cash settlement and manage potential liquidity challenges using algo trading."
 ---
 

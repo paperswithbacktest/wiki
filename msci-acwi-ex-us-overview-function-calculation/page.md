@@ -1,5 +1,5 @@
 ---
-title: "MSCI ACWI Ex-U.S.: Overview, Function, and Calculation (Algo Trading)"
+title: "MSCI ACWI Ex-U.S.: Overview, Function, and Calculation"
 description: "Discover the role of MSCI ACWI in investment strategies and algorithmic trading Learn how this index helps in diversifying portfolios globally"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Weak Form Efficiency and Its Applications (Algo Trading)"
+title: "Weak Form Efficiency and Its Applications"
 description: "Explore weak form market efficiency and its impact on trading strategies including algorithmic trading challenging technical analysis and focusing on real-time data."
 ---
 

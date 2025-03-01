@@ -1,5 +1,5 @@
 ---
-title: "Papua New Guinea Kina (Algo Trading)"
+title: "Papua New Guinea Kina"
 description: "Explore the dynamics of Papua New Guinea Kina PGK its role in the economy and the potential of algorithmic trading with this unique currency."
 ---
 

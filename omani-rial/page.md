@@ -1,5 +1,5 @@
 ---
-title: "Omani Rial (Algo Trading)"
+title: "Omani Rial"
 description: "Explore the algorithmic trading of the Omani Rial focusing on strategies to leverage its stability and high value in forex markets for optimal efficiency."
 ---
 

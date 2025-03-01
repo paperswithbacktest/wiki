@@ -1,5 +1,5 @@
 ---
-title: "Systematic Risk and Management Strategies (Algo Trading)"
+title: "Systematic Risk and Management Strategies"
 description: "Explore the essential role of systematic risk management strategies in algorithmic trading. Learn how to safeguard portfolios against market volatility effectively."
 ---
 

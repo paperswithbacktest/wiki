@@ -1,5 +1,5 @@
 ---
-title: "Unintentional Tort and Proof (Algo Trading)"
+title: "Unintentional Tort and Proof"
 description: "Explore the intersection of unintentional tort law and algorithmic trading Discover the legal essentials for proving negligence in financial losses due to software errors"
 ---
 

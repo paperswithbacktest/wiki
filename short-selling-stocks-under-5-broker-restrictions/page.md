@@ -1,5 +1,5 @@
 ---
-title: "Short Selling Stocks Under $5: Broker Restrictions and Regulations (Algo Trading)"
+title: "Short Selling Stocks Under $5: Broker Restrictions and Regulations"
 description: "Discover the nuances of short selling stocks under $5, penny stocks, and algorithmic trading Understand broker restrictions and regulations to trade strategically"
 ---
 

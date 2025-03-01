@@ -1,5 +1,5 @@
 ---
-title: "Yu Ji (Algo Trading)"
+title: "Yu Ji"
 description: "Explore Yu Ji's journey from a tech enthusiast to a proficient algorithmic trader and software engineer with expertise in C#, Java, and cloud computing platforms."
 ---
 

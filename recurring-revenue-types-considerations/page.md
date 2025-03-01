@@ -1,5 +1,5 @@
 ---
-title: "Recurring Revenue Types and Considerations (Algo Trading)"
+title: "Recurring Revenue Types and Considerations"
 description: "Explore the synergy between subscription models, recurring revenue streams, and algorithmic trading for sustainable business growth and financial stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Permanent Current Asset: Definition and Function (Algo Trading)"
+title: "Permanent Current Asset: Definition and Function"
 description: "Explore the essential role of permanent current assets in asset management and algorithmic trading, crucial for optimizing financial strategies and enhancing decision-making."
 ---
 

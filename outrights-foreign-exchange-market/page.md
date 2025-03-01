@@ -1,5 +1,5 @@
 ---
-title: "Outrights in the Foreign Exchange Market (Algo Trading)"
+title: "Outrights in the Foreign Exchange Market"
 description: "Explore the role of FX outrights in algorithmic trading Discover how these instruments mitigate currency risk and optimize trading in the dynamic forex market"
 ---
 

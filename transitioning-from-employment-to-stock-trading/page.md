@@ -1,5 +1,5 @@
 ---
-title: "Transitioning from Employment to Stock Trading (Algo Trading)"
+title: "Transitioning from Employment to Stock Trading"
 description: "Explore the path from employment to trading as a career with a focus on algorithmic trading Discover the tools skills and mindset needed for success"
 ---
 

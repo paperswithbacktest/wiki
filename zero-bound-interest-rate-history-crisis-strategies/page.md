@@ -1,5 +1,5 @@
 ---
-title: "Zero-Bound Interest Rate: History and Crisis Strategies (Algo Trading)"
+title: "Zero-Bound Interest Rate: History and Crisis Strategies"
 description: "Discover the impact of zero-bound interest rates on monetary policy and explore innovative strategies like quantitative easing and algorithmic trading adaptations."
 ---
 

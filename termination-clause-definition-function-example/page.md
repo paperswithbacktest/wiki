@@ -1,5 +1,5 @@
 ---
-title: "Termination Clause: Definition, Function, and Example (Algo Trading)"
+title: "Termination Clause: Definition, Function, and Example"
 description: "Learn about termination clauses in algorithmic trading contracts including their definition function and examples to ensure robust risk management."
 ---
 

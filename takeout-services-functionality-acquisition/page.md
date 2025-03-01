@@ -1,5 +1,5 @@
 ---
-title: "Takeout Services: Functionality and Acquisition (Algo Trading)"
+title: "Takeout Services: Functionality and Acquisition"
 description: "Explore the convergence of food delivery services and algorithmic trading to understand how data from takeout services informs investment strategies in the digital era."
 ---
 

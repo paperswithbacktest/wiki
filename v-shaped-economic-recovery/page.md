@@ -1,5 +1,5 @@
 ---
-title: "V-Shaped Economic Recovery (Algo Trading)"
+title: "V-Shaped Economic Recovery"
 description: "Explore the dynamics of V-shaped economic recoveries and their link with algorithmic trading Discover how swift rebounds influence market strategies and technology's role"
 ---
 

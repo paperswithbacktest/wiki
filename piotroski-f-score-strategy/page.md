@@ -1,5 +1,5 @@
 ---
-title: "Piotroski F-Score Strategy Explained (Algo Trading)"
+title: "Piotroski F-Score Strategy Explained"
 description: The Piotroski F-Score Strategy Explained offers a comprehensive insight into leveraging the Piotroski F-Score for algorithmic trading, ideal for evaluating company health and identifying promising investment opportunities. This scoring system simplifies complex financial data into a 0 to 9 scale by analyzing profitability, leverage, and operational efficiency. The article discusses the strategic application of the F-Score in trading, its risk management benefits, and the validation through backtesting to ensure reliable investment decisions. It highlights how this tool aids in developing robust trading strategies, optimizing portfolio returns while managing risks.
 ---
 

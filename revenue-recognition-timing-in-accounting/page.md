@@ -1,5 +1,5 @@
 ---
-title: "Revenue Recognition Timing in Accounting (Algo Trading)"
+title: "Revenue Recognition Timing in Accounting"
 description: "Explore the intersection of revenue recognition and algorithmic trading to enhance transparency and strategic finance decisions in dynamic market environments."
 ---
 

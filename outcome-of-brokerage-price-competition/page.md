@@ -1,5 +1,5 @@
 ---
-title: "Outcome of Brokerage Price Competition (Algo Trading)"
+title: "Outcome of Brokerage Price Competition"
 description: "Explore the transformation of the brokerage industry as zero-commission trading reshapes revenue models. Learn how algorithmic trading boosts competitiveness."
 ---
 

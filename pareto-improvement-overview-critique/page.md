@@ -1,5 +1,5 @@
 ---
-title: "Pareto Improvement: Overview and Critique (Algo Trading)"
+title: "Pareto Improvement: Overview and Critique"
 description: "Explore the vital intersection of Pareto improvement and algorithmic trading in today's financial markets Learn how economic theories drive efficiency and optimal performance"
 ---
 

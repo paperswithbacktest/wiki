@@ -1,5 +1,5 @@
 ---
-title: "Price Futures Group Inc (Algo Trading)"
+title: "Price Futures Group Inc"
 description: "Discover the comprehensive approach to commodities and algorithmic trading with Price Futures Group Inc offering expert insights into financial markets and investment strategies."
 ---
 

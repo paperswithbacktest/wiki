@@ -1,5 +1,5 @@
 ---
-title: "Sector ETFs and Investment Strategies (Algo Trading)"
+title: "Sector ETFs and Investment Strategies"
 description: "Explore how sector ETFs and algorithmic trading intersect to optimize investment strategies. Learn to harness these tools for enhanced diversification and informed decision-making."
 ---
 

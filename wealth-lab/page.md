@@ -1,5 +1,5 @@
 ---
-title: "Wealth-Lab (Algo Trading)"
+title: "Wealth-Lab"
 description: Wealth-Lab is a powerful trading platform designed for algorithmic trading across stocks, forex, futures, and cryptocurrencies. It provides an intuitive interface along with advanced functionalities like strategy building, backtesting, real-time automation, and seamless brokerage integration. Suitable for traders of all experience levels, Wealth-Lab offers robust charting tools, educational resources, and a supportive community, making it a versatile solution for enhancing trading efficiency and success in various financial markets.
 ---
 

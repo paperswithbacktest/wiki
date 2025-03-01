@@ -1,5 +1,5 @@
 ---
-title: "Wealth Effect in Economics (Algo Trading)"
+title: "Wealth Effect in Economics"
 description: "Explore the intricate relationship between consumer behavior, the wealth effect, and algorithmic trading in the economic landscape. Learn how changes in asset values influence consumer spending and confidence, while algorithmic trading reshapes market dynamics. Discover the impact of these elements on economic stability and growth crucial for policymakers and investors navigating today's market trends."
 ---
 

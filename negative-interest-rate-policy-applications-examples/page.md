@@ -1,5 +1,5 @@
 ---
-title: "Negative Interest Rate Policy: Applications and Examples (Algo Trading)"
+title: "Negative Interest Rate Policy: Applications and Examples"
 description: "Explore the implications of Negative Interest Rate Policy (NIRP) and how algorithmic trading can adapt to these economic shifts Learn strategies to navigate NIRP dynamics"
 ---
 

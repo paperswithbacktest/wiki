@@ -1,5 +1,5 @@
 ---
-title: "RNS (Algo Trading)"
+title: "RNS"
 description: "Explore the synergy between responsive neurostimulation and algorithmic trading in our latest analysis that investigates into technological advances in neurosurgery such as RNS systems. Discover how these innovations integrate precision algorithms to enhance patient outcomes by improving seizure management and surgical precision. Our article provides insights into interdisciplinary collaborations that promise to revolutionize medical procedures with data-driven approaches, highlighting the potential for personalized or precision medicine strategies aimed at treating complex neurological conditions effectively."
 ---
 

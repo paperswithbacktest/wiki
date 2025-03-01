@@ -1,5 +1,5 @@
 ---
-title: "Omgeo Overview (Algo Trading)"
+title: "Omgeo Overview"
 description: "Omgeo revolutionizes post-trade processing in the financial industry by automating trade workflows, enhancing efficiency, reducing errors, and supporting algorithmic trading."
 ---
 

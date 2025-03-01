@@ -1,5 +1,5 @@
 ---
-title: "Perfect Hedges: Characteristics and Construction (Algo Trading)"
+title: "Perfect Hedges: Characteristics and Construction"
 description: "Explore the intriguing parallels between gardening and financial investments through 'perfect hedges' enhancing both landscapes and portfolios with effective strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Short Exempt in Trading (Algo Trading)"
+title: "Short Exempt in Trading"
 description: "Discover the essentials of short exempt trading regulations in the stock market. Learn how they shape trading strategies and impact algorithmic trading."
 ---
 

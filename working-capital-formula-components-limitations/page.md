@@ -1,5 +1,5 @@
 ---
-title: "Working Capital: Formula, Components, Limitations (Algo Trading)"
+title: "Working Capital: Formula, Components, Limitations"
 description: "Explore the intricacies of working capital and algorithmic trading's impact on financial management and liquidity. Enhance strategies and business growth effectively."
 ---
 

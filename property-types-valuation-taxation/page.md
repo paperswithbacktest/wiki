@@ -1,5 +1,5 @@
 ---
-title: "Property: Types, Valuation, and Taxation (Algo Trading)"
+title: "Property: Types, Valuation, and Taxation"
 description: "Explore the vital link between property valuation, taxation, and algorithmic trading in shaping economic landscapes. Discover how technology, including AI and AVMs, is revolutionizing these sectors, driving efficiency in real estate valuation and enhancing trading strategies. Understand the implications of property tax policies on market dynamics and investment decisions, while also recognizing the challenges posed by data quality and transparency in modern valuation models. This comprehensive guide investigates into how these evolving domains impact financial stability and market trends, revealing opportunities and challenges for stakeholders."
 ---
 

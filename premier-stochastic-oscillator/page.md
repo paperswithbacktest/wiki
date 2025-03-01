@@ -1,5 +1,5 @@
 ---
-title: "Premier Stochastic Oscillator (Algo Trading)"
+title: "Premier Stochastic Oscillator"
 description: "Explore the stochastic oscillator's role in trading to spot market reversals and enhance strategies Learn how it integrates in manual and algorithmic trading setups"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sell the Rip Strategy Explained (Algo Trading)"
+title: "Sell the Rip Strategy Explained"
 description: Explore the 'Sell the Rip' strategy in algo trading that focuses on selling assets at peak overvaluation for profit. Learn how to capitalize on market volatility by identifying temporary price peaks, with insights into backtesting, technical indicators, and risk management. Perfect for traders aiming to optimize their approach in dynamic markets.
 ---
 

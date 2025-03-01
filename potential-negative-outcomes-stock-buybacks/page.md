@@ -1,5 +1,5 @@
 ---
-title: "Potential Negative Outcomes of Stock Buybacks (Algo Trading)"
+title: "Potential Negative Outcomes of Stock Buybacks"
 description: "Explore the potential negative outcomes of stock buybacks and algorithmic trading impacting market stability and corporate health in this insightful article."
 ---
 

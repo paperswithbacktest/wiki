@@ -1,5 +1,5 @@
 ---
-title: "Nobel Memorial Prize in Economic Sciences (Algo Trading)"
+title: "Nobel Memorial Prize in Economic Sciences"
 description: "Explore the Nobel Prize in Economic Sciences' impact on algorithmic trading shaping innovative strategies through groundbreaking economic theories for trading excellence."
 ---
 

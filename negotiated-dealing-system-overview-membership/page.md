@@ -1,5 +1,5 @@
 ---
-title: "Negotiated Dealing System: Overview and Membership (Algo Trading)"
+title: "Negotiated Dealing System: Overview and Membership"
 description: "Explore the key features of India's Negotiated Dealing System a pivotal electronic trading platform operated by the RBI boosting market efficiency and transparency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Timing of Corporate Earnings Reports (Algo Trading)"
+title: "Timing of Corporate Earnings Reports"
 description: "Explore the critical impact of corporate earnings timing on algorithmic trading in financial markets Learn about the importance of precise and timely disclosures"
 ---
 

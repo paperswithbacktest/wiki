@@ -1,5 +1,5 @@
 ---
-title: "Significance of GDP (Algo Trading)"
+title: "Significance of GDP"
 description: "Understanding GDP is crucial in algorithmic trading as it influences market strategies by providing insights into economic health and growth potential."
 ---
 

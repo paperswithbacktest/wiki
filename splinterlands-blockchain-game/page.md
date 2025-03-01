@@ -1,5 +1,5 @@
 ---
-title: "Splinterlands Blockchain Game (Algo Trading)"
+title: "Splinterlands Blockchain Game"
 description: "Explore Splinterlands a blockchain-based card game that merges NFT card ownership with strategic gameplay. Earn and trade assets seamlessly across platforms."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Monroe Trout: A Trading Legend (Algo Trading)"
+title: "Monroe Trout: A Trading Legend"
 description: Explore the life and strategies of Monroe Trout, a legendary figure in algorithmic trading known for his pioneering techniques and exceptional track record. This article investigates into his unique blend of technical analysis and fundamental insights, which provided him with a market advantage. Discover how his disciplined risk management and strategic market analysis have made him an enduring influence in the field, offering valuable lessons for aspiring traders seeking success in the world of quantitative trading.
 ---
 

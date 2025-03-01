@@ -1,5 +1,5 @@
 ---
-title: "SIX Swiss Exchange Overview (Algo Trading)"
+title: "SIX Swiss Exchange Overview"
 description: "Explore the vital role of SIX Swiss Exchange in Switzerland's financial markets with insights on algorithmic trading Swiss stocks and cutting-edge trading technology."
 ---
 

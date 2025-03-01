@@ -1,5 +1,5 @@
 ---
-title: "National Stock Exchange of India Limited (Algo Trading)"
+title: "National Stock Exchange of India Limited"
 description: "Explore the National Stock Exchange of India's role in revolutionizing securities trading through algorithmic trading and its impact on market efficiency and transparency."
 ---
 

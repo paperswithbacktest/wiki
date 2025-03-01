@@ -1,5 +1,5 @@
 ---
-title: "Weighted Average Market Capitalization: Overview and Alternatives (Algo Trading)"
+title: "Weighted Average Market Capitalization: Overview and Alternatives"
 description: "Explore the role of Weighted Average Market Capitalization in algorithmic trading learn about its impact on index funds and portfolio management strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trade Date in Finance (Algo Trading)"
+title: "Trade Date in Finance"
 description: "Explore the synergy of trade date investing and algorithmic trading. Learn how these strategies optimize investments, maximize returns, and mitigate risks in finance."
 ---
 

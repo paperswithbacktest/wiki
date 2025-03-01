@@ -1,5 +1,5 @@
 ---
-title: "Zero Bound in Monetary Policy (Algo Trading)"
+title: "Zero Bound in Monetary Policy"
 description: "Explore the influence of zero-bound monetary policy on algorithmic trading as central banks navigate economic downturns with unconventional tools like quantitative easing."
 ---
 

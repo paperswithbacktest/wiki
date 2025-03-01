@@ -1,5 +1,5 @@
 ---
-title: "Triple Tax-Free Bond (Algo Trading)"
+title: "Triple Tax-Free Bond"
 description: "Explore the benefits of triple tax-free municipal bonds for tax-free income and stability. Learn how algorithmic trading enhances returns and manages risks."
 ---
 

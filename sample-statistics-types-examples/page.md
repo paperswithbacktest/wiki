@@ -1,5 +1,5 @@
 ---
-title: "Sample in Statistics: Types and Examples (Algo Trading)"
+title: "Sample in Statistics: Types and Examples"
 description: "Explore the importance of statistical sampling in algorithmic trading This guide investigates into sample types showing how they enhance data accuracy and trading efficiency"
 ---
 

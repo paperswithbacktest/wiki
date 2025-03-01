@@ -1,5 +1,5 @@
 ---
-title: "Short and Long Positions in Financial Markets (Algo Trading)"
+title: "Short and Long Positions in Financial Markets"
 description: "Discover how long and short positions play crucial roles in financial markets. Explore their impact on trading strategies enhanced by algorithmic trading tools."
 ---
 

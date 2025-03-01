@@ -1,5 +1,5 @@
 ---
-title: "Overview of Commodities Trading (Algo Trading)"
+title: "Overview of Commodities Trading"
 description: "Explore the transformative impact of algorithmic trading on commodities markets Explore algo trading strategies advantages and the evolving trading landscape"
 ---
 

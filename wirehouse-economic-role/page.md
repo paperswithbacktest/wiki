@@ -1,5 +1,5 @@
 ---
-title: "Wirehouse and Its Economic Role (Algo Trading)"
+title: "Wirehouse and Its Economic Role"
 description: "Explore how investment firms, wirehouses, and algorithmic trading shape financial markets through efficiency and innovation in the evolving economy."
 ---
 

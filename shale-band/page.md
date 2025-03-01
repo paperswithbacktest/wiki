@@ -1,5 +1,5 @@
 ---
-title: "Shale Band (Algo Trading)"
+title: "Shale Band"
 description: "Explore the dynamic interplay between oil prices, the shale band, and algorithmic trading in the global energy market and its impact on investors and policies."
 ---
 

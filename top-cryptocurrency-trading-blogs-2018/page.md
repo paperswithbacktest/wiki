@@ -1,5 +1,5 @@
 ---
-title: "Top Cryptocurrency Trading Blogs in 2018 (Algo Trading)"
+title: "Top Cryptocurrency Trading Blogs in 2018"
 description: Explore the evolution of cryptocurrency trading in 2018 with a focus on algorithmic trading as it revolutionized market strategies offering speed and precision. Discover how algorithmic approaches enabled automated decision-making enhanced analysis of large datasets and adaptation to volatile market conditions. Gain insights into the broader acceptance of cryptocurrencies by financial institutions and how this period set the stage for ongoing innovation in the crypto space. Ideal for those seeking to understand past trends and anticipate future developments in cryptocurrency trading and technology integration.
 ---
 

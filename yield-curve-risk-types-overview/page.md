@@ -1,5 +1,5 @@
 ---
-title: "Yield Curve Risk: Types and Overview (Algo Trading)"
+title: "Yield Curve Risk: Types and Overview"
 description: "Explore the dynamics of yield curve risk within algorithmic trading, and learn how integrating yield curve analysis enhances risk management and strategic investment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Selection bias (Algo Trading)"
+title: "Selection bias"
 description: Discover how selection bias impacts algorithmic trading, misleading traders with overly optimistic backtesting results due to unrepresentative data. Learn strategies to tackle selection bias, ensuring your trading models remain robust and effective in diverse market conditions.
 ---
 

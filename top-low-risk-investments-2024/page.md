@@ -1,5 +1,5 @@
 ---
-title: "Top Low-Risk Investments for 2024 (Algo Trading)"
+title: "Top Low-Risk Investments for 2024"
 description: "Explore low-risk investment strategies for 2024 with insights into balancing security and growth. Discover traditional options like Treasury securities and CDs, alongside algorithmic trading's role in managing volatility. This article guides investors in achieving financial stability by blending predictable returns with modern trading efficiencies, offering a roadmap for navigating uncertain markets with confidence."
 ---
 

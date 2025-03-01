@@ -1,5 +1,5 @@
 ---
-title: "Regulation W in Banking (Algo Trading)"
+title: "Regulation W in Banking"
 description: "Explore how Regulation W impacts financial stability and algorithmic trading, shedding light on the intricate dynamics of banking regulations in modern markets."
 ---
 

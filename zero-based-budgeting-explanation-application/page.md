@@ -1,5 +1,5 @@
 ---
-title: "Zero-Based Budgeting: Explanation and Application (Algo Trading)"
+title: "Zero-Based Budgeting: Explanation and Application"
 description: "Discover the benefits of zero-based budgeting and its application in algorithmic trading for strategic financial planning and efficient resource allocation."
 ---
 

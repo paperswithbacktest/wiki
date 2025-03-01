@@ -1,5 +1,5 @@
 ---
-title: "Sell-side Alternative Data (Algo Trading)"
+title: "Sell-side Alternative Data"
 description: Explore the transformative impact of sell-side alternative data in algorithmic trading. Uncover the strategic advantages offered by non-traditional data sources like social media sentiment and satellite imagery, analyzed by top sell-side firms to provide investors with in-depth insights and a competitive edge. Discover how these innovative data sets enhance financial market predictions, potentially revolutionizing trading strategies and decision-making processes. Delve into the role sell-side firms play in processing and distributing this data to institutional investors, empowering them with advanced analytical tools and unique market perspectives.
 ---
 

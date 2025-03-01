@@ -1,5 +1,5 @@
 ---
-title: "Role of Wall Street in the Global Economy (Algo Trading)"
+title: "Role of Wall Street in the Global Economy"
 description: "Explore Wall Street’s pivotal role in the global economy and the transformative impact of algorithmic trading, highlighting its influence on financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Up Volume: Interpretation and Volume Indexes (Algo Trading)"
+title: "Up Volume: Interpretation and Volume Indexes"
 description: "Explore how up volume and volume indexes like PVI and NVI impact stock trading strategies with this guide to understanding market momentum and trading algorithms."
 ---
 

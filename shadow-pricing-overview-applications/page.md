@@ -1,5 +1,5 @@
 ---
-title: "Shadow Pricing Overview and Applications (Algo Trading)"
+title: "Shadow Pricing Overview and Applications"
 description: "Explore shadow pricing applications in algorithmic trading and economic valuation to optimize resource allocation, enhancing market efficiency and policymaking."
 ---
 

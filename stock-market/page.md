@@ -1,5 +1,5 @@
 ---
-title: "Stock Market (Algo Trading)"
+title: "Stock Market"
 description: "Explore the essentials of stocks and algorithmic trading Dive into investment strategies and discover how technology is reshaping the financial markets"
 ---
 

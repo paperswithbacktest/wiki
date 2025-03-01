@@ -1,5 +1,5 @@
 ---
-title: "Time Series Forecasting (Algo Trading)"
+title: "Time Series Forecasting"
 description: "Explore time series forecasting in algorithmic trading Discover how traders use historical data to predict future trends and refine strategies to manage risks"
 ---
 

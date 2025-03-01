@@ -1,5 +1,5 @@
 ---
-title: "Speculation in Trading: Risks and Rewards (Algo Trading)"
+title: "Speculation in Trading: Risks and Rewards"
 description: "Explore the dynamic world of trading speculation and algo trading to uncover potential rewards and high risks Learn essential strategies for navigating volatile markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Top 25 S&P 500 Stocks (Algo Trading)"
+title: "Top 25 S&P 500 Stocks"
 description: "Discover the top 25 S&P 500 stocks with insights into algo trading. Learn how algorithms enhance trading efficiency and explore market strategies."
 ---
 

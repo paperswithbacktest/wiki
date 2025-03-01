@@ -1,5 +1,5 @@
 ---
-title: "Scalping in Trading: Strategy and Examples (Algo Trading)"
+title: "Scalping in Trading: Strategy and Examples"
 description: "Discover how scalping in trading, paired with algorithmic techniques, leverages speed and precision for quick profits by targeting small price moves."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Truth in Lending Act: Consumer Protections and Disclosures (Algo Trading)"
+title: "Truth in Lending Act: Consumer Protections and Disclosures"
 description: "Explore the Truth in Lending Act's impact on consumer protection in algorithmic trading by ensuring transparent financial disclosures in credit transactions."
 ---
 

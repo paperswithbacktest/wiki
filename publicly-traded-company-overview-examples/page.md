@@ -1,5 +1,5 @@
 ---
-title: "Publicly Traded Company: Overview and Examples (Algo Trading)"
+title: "Publicly Traded Company: Overview and Examples"
 description: "Discover how publicly traded companies utilize algorithmic trading for enhanced precision and efficiency in financial markets. Learn from notable examples."
 ---
 

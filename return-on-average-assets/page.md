@@ -1,5 +1,5 @@
 ---
-title: "Return on Average Assets (Algo Trading)"
+title: "Return on Average Assets"
 description: "Discover how Return on Average Assets and algorithmic trading can optimize investment portfolios by enhancing asset efficiency and driving long-term profitability."
 ---
 

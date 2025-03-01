@@ -1,5 +1,5 @@
 ---
-title: "Power Ratio Analysis (Algo Trading)"
+title: "Power Ratio Analysis"
 description: "Enhance your trading strategies with power ratio analysis in algorithmic trading. Optimize resource efficiency for better profits while embracing energy sustainability."
 ---
 

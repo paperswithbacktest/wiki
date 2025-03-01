@@ -1,5 +1,5 @@
 ---
-title: "Return on Assets Calculation in Excel (Algo Trading)"
+title: "Return on Assets Calculation in Excel"
 description: "Learn how to calculate Return on Assets (ROA) efficiently using Excel to optimize asset performance and enhance algorithmic trading strategies."
 ---
 

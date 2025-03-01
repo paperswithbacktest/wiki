@@ -1,5 +1,5 @@
 ---
-title: "Neoclassical Growth Theory and Its Predictions (Algo Trading)"
+title: "Neoclassical Growth Theory and Its Predictions"
 description: "Explore the synergy between neoclassical growth theory and algorithmic trading to understand economic growth predictions and their impact on financial strategies."
 ---
 

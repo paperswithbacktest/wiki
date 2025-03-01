@@ -1,5 +1,5 @@
 ---
-title: "Topside: Definition, Functionality, and Components (Algo Trading)"
+title: "Topside: Definition, Functionality, and Components"
 description: "Explore the critical components and functionality of algorithmic trading systems that drive trading efficiency from data input and processing to trade execution platforms."
 ---
 

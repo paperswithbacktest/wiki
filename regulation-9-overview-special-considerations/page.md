@@ -1,5 +1,5 @@
 ---
-title: "Regulation 9: Overview and Special Considerations (Algo Trading)"
+title: "Regulation 9: Overview and Special Considerations"
 description: "Explore the complexities of Regulation 9 in algorithmic trading from compliance challenges to best practices that enhance market efficiency and integrity."
 ---
 

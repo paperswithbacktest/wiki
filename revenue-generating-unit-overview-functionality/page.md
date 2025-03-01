@@ -1,5 +1,5 @@
 ---
-title: "Revenue Generating Unit: Overview and Functionality (Algo Trading)"
+title: "Revenue Generating Unit: Overview and Functionality"
 description: "Enhance decision-making with Revenue Generating Units in algo trading. Discover how RGUs and strategic integration optimize revenue in subscription models."
 ---
 

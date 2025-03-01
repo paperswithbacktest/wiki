@@ -1,5 +1,5 @@
 ---
-title: "Tranche in Finance: Purposes and Examples (Algo Trading)"
+title: "Tranche in Finance: Purposes and Examples"
 description: "Discover the dynamic interplay between tranche finance and algorithmic trading Learn how these financial strategies can optimize portfolios and enhance risk management"
 ---
 

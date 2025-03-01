@@ -1,5 +1,5 @@
 ---
-title: "Non-Assessable Stock: Meaning, Functionality, and Example (Algo Trading)"
+title: "Non-Assessable Stock: Meaning, Functionality, and Example"
 description: "Explore the concept of non-assessable stock, its benefits, and the role it plays in algorithmic trading while ensuring investor protection from extra liabilities."
 ---
 

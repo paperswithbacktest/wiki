@@ -1,5 +1,5 @@
 ---
-title: "Profit Target Explained (Algo Trading)"
+title: "Profit Target Explained"
 description: Explore the essential role of profit targets in algorithmic trading strategies in this comprehensive guide. Understand how predefined exit levels help secure gains, facilitate risk management, and maintain disciplined decision-making in volatile markets. Learn about the advantages and potential drawbacks of using profit targets, and discover how backtesting can optimize strategy performance while balancing risk and reward. Ideal for traders seeking to enhance their algorithmic trading approach.
 ---
 

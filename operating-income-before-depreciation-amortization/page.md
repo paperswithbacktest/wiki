@@ -1,5 +1,5 @@
 ---
-title: "Operating Income Before Depreciation and Amortization (Algo Trading)"
+title: "Operating Income Before Depreciation and Amortization"
 description: "Explore how Operating Income Before Depreciation and Amortization (OIBDA) provides insights into a company's operational performance, essential for algorithmic trading."
 ---
 

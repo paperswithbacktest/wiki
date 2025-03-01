@@ -1,5 +1,5 @@
 ---
-title: "Ownership of a Seat on the New York Stock Exchange (Algo Trading)"
+title: "Ownership of a Seat on the New York Stock Exchange"
 description: "Discover the evolution of ownership on the NYSE and the impact of algorithmic trading in modern markets exploring prestige, influence, and tech advancements."
 ---
 

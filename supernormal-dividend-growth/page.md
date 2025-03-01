@@ -1,5 +1,5 @@
 ---
-title: "Supernormal Dividend Growth (Algo Trading)"
+title: "Supernormal Dividend Growth"
 description: "Explore strategies combining supernormal dividend investment, dividend growth, and algo trading to enhance returns while managing risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Transferred-In Costs: Explanation and Example (Algo Trading)"
+title: "Transferred-In Costs: Explanation and Example"
 description: "Explore the intricacies of transferred-in costs in manufacturing and how algorithmic trading can enhance cost control and operational efficiency for businesses."
 ---
 

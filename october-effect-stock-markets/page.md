@@ -1,5 +1,5 @@
 ---
-title: "October Effect in Stock Markets (Algo Trading)"
+title: "October Effect in Stock Markets"
 description: "Discover the October effect in stock markets where historical fears of volatility clash with modern algorithmic trading insights for a balanced view."
 ---
 

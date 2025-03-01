@@ -1,5 +1,5 @@
 ---
-title: "Selection of Day-Trading Software (Algo Trading)"
+title: "Selection of Day-Trading Software"
 description: "Explore essential day-trading software that enhances speed and precision with automated tools and algorithmic trading features to stay competitive in financial markets."
 ---
 

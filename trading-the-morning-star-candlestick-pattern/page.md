@@ -1,5 +1,5 @@
 ---
-title: "Trading the Morning Star Candlestick Pattern (Algo Trading)"
+title: "Trading the Morning Star Candlestick Pattern"
 description: "Discover the power of the Morning Star candlestick pattern in algorithmic trading Learn how this pattern predicts bullish market reversals and enhances trading strategies"
 ---
 

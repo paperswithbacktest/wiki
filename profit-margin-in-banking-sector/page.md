@@ -1,5 +1,5 @@
 ---
-title: "Profit Margin in the Banking Sector (Algo Trading)"
+title: "Profit Margin in the Banking Sector"
 description: "Explore the dynamics of profit margins in the banking sector influenced by algorithmic trading regulatory changes and emerging technologies affecting profitability."
 ---
 

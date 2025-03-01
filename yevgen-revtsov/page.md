@@ -1,5 +1,5 @@
 ---
-title: "Yevgen Revtsov (Algo Trading)"
+title: "Yevgen Revtsov"
 description: "Discover the expertise of Yevgen Revtsov a CFA renowned for his innovations in algorithmic trading and quantitative finance using Python and automation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Paper Trading for Practicing Day Trading (Algo Trading)"
+title: "Paper Trading for Practicing Day Trading"
 description: "Practice day trading and algorithmic trading with paper trading to refine strategies in a risk-free environment before committing real money in live markets."
 ---
 

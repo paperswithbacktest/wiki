@@ -1,5 +1,5 @@
 ---
-title: "Momentum in Trading: Analysis, Tools, and Risks (Algo Trading)"
+title: "Momentum in Trading: Analysis, Tools, and Risks"
 description: "Explore the dynamics of momentum in trading, along with the essential tools and risk factors. Unlock insights into strategies and algorithmic trading trends."
 ---
 

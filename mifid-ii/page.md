@@ -1,5 +1,5 @@
 ---
-title: "MiFID II (Algo Trading)"
+title: "MiFID II"
 description: "MiFID II enhances financial market transparency in the EU, governing algorithmic trading to ensure market integrity and stability through stringent regulations."
 ---
 

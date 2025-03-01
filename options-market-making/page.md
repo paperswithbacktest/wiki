@@ -1,5 +1,5 @@
 ---
-title: "Options market-making (Algo Trading)"
+title: "Options market-making"
 description: "Explore the intricacies of options market-making through algorithmic trading Discover key strategies used by market makers to enhance liquidity and efficiency"
 ---
 

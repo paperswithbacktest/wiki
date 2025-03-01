@@ -1,5 +1,5 @@
 ---
-title: "Purchasing SafeMoon Cryptocurrency (Algo Trading)"
+title: "Purchasing SafeMoon Cryptocurrency"
 description: "Explore the fundamentals of SafeMoon cryptocurrency and how algorithmic trading can enhance your investment strategy maximize returns and navigate volatility"
 ---
 

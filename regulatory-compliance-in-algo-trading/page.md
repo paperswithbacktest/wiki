@@ -1,5 +1,5 @@
 ---
-title: "Regulatory Compliance in Algo Trading (Algo Trading)"
+title: "Regulatory Compliance in Algo Trading"
 description: "Explore the complexities of regulatory compliance in algorithmic trading including key frameworks by CFTC and SEC to ensure market stability and integrity."
 ---
 

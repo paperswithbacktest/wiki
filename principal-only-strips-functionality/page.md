@@ -1,5 +1,5 @@
 ---
-title: "Principal-Only Strips and Their Functionality (Algo Trading)"
+title: "Principal-Only Strips and Their Functionality"
 description: "Explore the unique features of Principal-Only strips in algo trading These instruments focus solely on principal repayments from MBS pools offering strategic investment opportunities"
 ---
 

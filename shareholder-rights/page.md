@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Rights (Algo Trading)"
+title: "Shareholder Rights"
 description: "Explore corporate governance investor rights and algorithmic trading to understand their impact on financial markets and shareholder interests in a digital world."
 ---
 

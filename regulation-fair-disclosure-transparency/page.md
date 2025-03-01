@@ -1,5 +1,5 @@
 ---
-title: "Regulation Fair Disclosure and Transparency (Algo Trading)"
+title: "Regulation Fair Disclosure and Transparency"
 description: "Explore Regulation Fair Disclosure's impact on algorithmic trading emphasizing transparency and equal access to information to ensure fair market practices."
 ---
 

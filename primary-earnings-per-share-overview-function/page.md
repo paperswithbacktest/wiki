@@ -1,5 +1,5 @@
 ---
-title: "Primary Earnings Per Share: Overview and Function (Algo Trading)"
+title: "Primary Earnings Per Share: Overview and Function"
 description: "Explore the critical role of Primary Earnings Per Share (EPS) in algorithmic trading as it offers a direct measure of a company's profitability per share without potential dilution. Understand how EPS impacts trading strategies by serving as a key indicator in financial assessments and algorithm development to optimize investment decisions. Discover how integrating EPS into trading algorithms enhances the potential to capitalize on stock price movements in the ever-evolving market landscape."
 ---
 

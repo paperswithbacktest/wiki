@@ -1,5 +1,5 @@
 ---
-title: "Russian Option: Explanation and Example (Algo Trading)"
+title: "Russian Option: Explanation and Example"
 description: "Explore the distinctive traits of Russian options and algorithmic trading within financial markets. Learn about their unique features, benefits, and associated risks."
 ---
 

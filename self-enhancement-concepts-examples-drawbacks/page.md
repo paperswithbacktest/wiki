@@ -1,5 +1,5 @@
 ---
-title: "Self-Enhancement: Concepts, Examples, and Drawbacks (Algo Trading)"
+title: "Self-Enhancement: Concepts, Examples, and Drawbacks"
 description: "Explore how self-enhancement psychology impacts algorithmic trading with insights into personal growth, emotional intelligence, and decision-making strategies for traders."
 ---
 

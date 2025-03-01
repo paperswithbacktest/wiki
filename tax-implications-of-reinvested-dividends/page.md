@@ -1,5 +1,5 @@
 ---
-title: "Tax Implications of Reinvested Dividends (Algo Trading)"
+title: "Tax Implications of Reinvested Dividends"
 description: "Explore dividend taxation and reinvestment strategies in algo trading. Learn how to optimize your portfolio with insights into qualified vs ordinary dividends."
 ---
 

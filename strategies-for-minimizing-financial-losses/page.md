@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Minimizing Financial Losses (Algo Trading)"
+title: "Strategies for Minimizing Financial Losses"
 description: "Explore essential strategies for minimizing financial losses in algorithmic trading through effective risk management techniques and advanced investment methodologies."
 ---
 

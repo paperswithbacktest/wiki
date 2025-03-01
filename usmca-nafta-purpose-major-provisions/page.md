@@ -1,5 +1,5 @@
 ---
-title: "USMCA and NAFTA: Purpose and Major Provisions (Algo Trading)"
+title: "USMCA and NAFTA: Purpose and Major Provisions"
 description: "Explore the impact of USMCA on trade, digital commerce, and algorithmic trading Discover key differences from NAFTA affecting North American markets"
 ---
 

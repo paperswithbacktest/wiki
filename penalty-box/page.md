@@ -1,5 +1,5 @@
 ---
-title: "Penalty Box (Algo Trading)"
+title: "Penalty Box"
 description: "Explore the intriguing parallels between the penalty box in ice hockey and algorithmic trading Each has complex rules guiding strategies that drive success in their fields"
 ---
 

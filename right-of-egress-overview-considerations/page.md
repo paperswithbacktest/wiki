@@ -1,5 +1,5 @@
 ---
-title: "Right of Egress: Overview and Considerations (Algo Trading)"
+title: "Right of Egress: Overview and Considerations"
 description: "Explore the importance and considerations of the right of egress within property rights and algorithmic trading. In real estate, the right of egress ensures property owners and tenants can access their land effectively, crucial for landlocked properties where legal access must be clearly established. Algorithmic trading relies on the efficient handling of data ingress and egress, crucial for fast and accurate trade execution. Understand how these concepts intersect with real estate and trading, offering insights for property owners and traders to optimize access rights and resource use for economic efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Self-Interest in Economics (Algo Trading)"
+title: "Self-Interest in Economics"
 description: "Explore the role of self-interest in economics and its impact on algorithmic trading. Learn how self-interest drives innovation and efficiency in financial markets, while presenting both opportunities and challenges. Discover insights into the mechanisms of algorithmic trading and its implications for market dynamics and economic growth."
 ---
 

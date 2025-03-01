@@ -1,5 +1,5 @@
 ---
-title: "Sales Charge: Types and Criticisms (Algo Trading)"
+title: "Sales Charge: Types and Criticisms"
 description: "Explore the impact of sales charges on investments learn about their types and criticisms and discover how algorithmic trading can help mitigate these costs"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Questrade Overview (Algo Trading)"
+title: "Questrade Overview"
 description: "Explore Questrade's algo trading leader in Canada featuring advanced platforms tools and a wide range of assets perfect for tech-savvy investors."
 ---
 

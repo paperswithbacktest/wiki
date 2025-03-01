@@ -1,5 +1,5 @@
 ---
-title: "Shareholder and Stakeholder Differences (Algo Trading)"
+title: "Shareholder and Stakeholder Differences"
 description: "Explore the evolving dynamics between shareholders and stakeholders in the context of algorithmic trading and corporate governance for sustainable business practices."
 ---
 

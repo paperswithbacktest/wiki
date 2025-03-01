@@ -1,5 +1,5 @@
 ---
-title: "Profit Target: Definition and Mechanism (Algo Trading)"
+title: "Profit Target: Definition and Mechanism"
 description: "Explore the profit target strategy in algorithmic trading which enhances investing precision and discipline by automating predefined exit points for optimal gains."
 ---
 

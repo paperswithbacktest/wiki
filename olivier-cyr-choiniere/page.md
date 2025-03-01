@@ -1,5 +1,5 @@
 ---
-title: "Olivier Cyr-Choinière (Algo Trading)"
+title: "Olivier Cyr-Choinière"
 description: "Discover the journey of Olivier Cyr-Choinière in algorithmic trading from scientific research in superconductors to mastering financial engineering and machine learning."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Implications of Negative Alpha on Investment Strategies (Algo Trading)"
+title: "Implications of Negative Alpha on Investment Strategies"
 description: "Understand the role of negative alpha in algorithmic trading Explore its influence on investment strategies and the potential use of negative alpha as a sell signal"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rebound: Interpretations, Causes, and Historical Instances (Algo Trading)"
+title: "Rebound: Interpretations, Causes, and Historical Instances"
 description: "Explore the significance of rebounds in finance from their interpretation to historical examples and their role in algo trading Learn to anticipate market recoveries"
 ---
 

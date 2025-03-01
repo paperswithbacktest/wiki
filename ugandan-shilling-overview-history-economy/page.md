@@ -1,5 +1,5 @@
 ---
-title: "Ugandan Shilling: Overview, History, and Economy (Algo Trading)"
+title: "Ugandan Shilling: Overview, History, and Economy"
 description: "Explore Uganda's vibrant economy and the important role of the Ugandan Shilling in trade and investment alongside innovations in algorithmic trading."
 ---
 

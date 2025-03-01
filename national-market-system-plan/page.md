@@ -1,5 +1,5 @@
 ---
-title: "National Market System Plan (Algo Trading)"
+title: "National Market System Plan"
 description: "Discover how the National Market System Plan promotes transparency and efficiency in U.S. equity markets by supporting algorithmic trading and enhancing competition."
 ---
 

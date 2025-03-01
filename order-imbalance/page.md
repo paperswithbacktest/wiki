@@ -1,5 +1,5 @@
 ---
-title: "Order imbalance (Algo Trading)"
+title: "Order imbalance"
 description: "Explore the crucial role of order imbalance in algorithmic trading to predict market shifts and refine strategies by analyzing buy and sell disparities."
 ---
 

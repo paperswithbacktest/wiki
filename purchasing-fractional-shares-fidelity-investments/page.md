@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Fractional Shares Through Fidelity Investments (Algo Trading)"
+title: "Purchasing Fractional Shares Through Fidelity Investments"
 description: "Invest in high-value stocks with minimal funds through fractional shares on Fidelity Discover algorithmic trading benefits and democratize your investment journey"
 ---
 

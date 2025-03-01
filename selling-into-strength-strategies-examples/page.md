@@ -1,5 +1,5 @@
 ---
-title: "Selling Into Strength: Strategies and Examples (Algo Trading)"
+title: "Selling Into Strength: Strategies and Examples"
 description: "Explore selling into strength strategies in algo trading Learn how traders capitalize on rising prices by forecasting trends and using tech for precision in execution"
 ---
 

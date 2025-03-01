@@ -1,5 +1,5 @@
 ---
-title: "Polybius: Meaning and Mechanism (Algo Trading)"
+title: "Polybius: Meaning and Mechanism"
 description: "Explore the complex world of algorithmic trading and the infamous Polybius project highlighting both innovation and potential pitfalls in financial technology."
 ---
 

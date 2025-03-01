@@ -1,5 +1,5 @@
 ---
-title: "Oil Price Dynamics: Influence of Supply and Demand (Algo Trading)"
+title: "Oil Price Dynamics: Influence of Supply and Demand"
 description: "Explore the intricate dynamics of oil pricing impacted by supply and demand along with algorithmic trading offering insights crucial for navigating global markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Royalty Interest: Meaning and Functionality (Algo Trading)"
+title: "Royalty Interest: Meaning and Functionality"
 description: "Explore the impact of algorithmic trading on the management of mineral rights and royalties within the oil and gas sector, enhancing profitability and risk control."
 ---
 

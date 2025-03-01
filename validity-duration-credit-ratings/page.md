@@ -1,5 +1,5 @@
 ---
-title: "Validity Duration of Credit Ratings (Algo Trading)"
+title: "Validity Duration of Credit Ratings"
 description: "Explore how credit ratings and financial assessments influence algorithmic trading strategies enhancing decision-making with insights into creditworthiness and market conditions."
 ---
 

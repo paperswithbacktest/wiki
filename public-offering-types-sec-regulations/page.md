@@ -1,5 +1,5 @@
 ---
-title: "Public Offering: Types and SEC Regulations (Algo Trading)"
+title: "Public Offering: Types and SEC Regulations"
 description: "Explore the types of public offerings, like IPOs and secondary offerings, and the SEC regulations guiding them, vital for investors and businesses alike."
 ---
 

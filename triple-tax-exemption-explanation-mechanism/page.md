@@ -1,5 +1,5 @@
 ---
-title: "Triple Tax Exemption: Explanation and Mechanism (Algo Trading)"
+title: "Triple Tax Exemption: Explanation and Mechanism"
 description: "Discover the strategic edge of triple-tax-free investments in algo trading Explore how these tax benefits optimize financial returns and investment efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Moral Obligation Bond (Algo Trading)"
+title: "Moral Obligation Bond"
 description: "Discover the unique world of moral obligation bonds and their role in public finance and explore how algorithmic trading is transforming bond markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Net Operating Losses and Carryforward Rules (Algo Trading)"
+title: "Net Operating Losses and Carryforward Rules"
 description: "Explore how net operating loss carryforwards impact tax strategies in algorithmic trading, focusing on leveraging financial losses to optimize future tax obligations."
 ---
 

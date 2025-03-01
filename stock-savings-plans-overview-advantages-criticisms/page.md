@@ -1,5 +1,5 @@
 ---
-title: "Stock Savings Plans: Overview, Advantages, and Criticisms (Algo Trading)"
+title: "Stock Savings Plans: Overview, Advantages, and Criticisms"
 description: "Explore the benefits and criticisms of stock savings plans in investment strategies Learn about their impact on local economies and the role of algorithmic trading"
 ---
 

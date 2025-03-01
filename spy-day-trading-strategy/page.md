@@ -1,5 +1,5 @@
 ---
-title: "SPY Day Trading Strategy Explained (Algo Trading)"
+title: "SPY Day Trading Strategy Explained"
 description: Discover the benefits of using algorithmic trading for day trading the SPY ETF. Learn how algo trading enhances decision-making by processing vast data and executing trades swiftly to exploit market opportunities. Understand the role of algorithms in reducing emotional biases and ensuring systematic trading. With SPY's high liquidity and volatility, traders can capitalize on small price movements using simple to complex strategies, paving the way for more precise and confident market navigation.
 ---
 

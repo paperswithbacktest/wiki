@@ -1,5 +1,5 @@
 ---
-title: "Seven Eight Capital (Algo Trading)"
+title: "Seven Eight Capital"
 description: "Explore Seven Eight Capital's pioneering role in algorithmic trading leveraging advanced techniques and data insights to enhance market efficiency and liquidity."
 ---
 

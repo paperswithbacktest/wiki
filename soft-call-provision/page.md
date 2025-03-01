@@ -1,5 +1,5 @@
 ---
-title: "Soft Call Provision (Algo Trading)"
+title: "Soft Call Provision"
 description: "Explore the impact of soft call provisions in bonds and the role of algorithmic trading as they shape bond redemption strategies and investor decisions."
 ---
 

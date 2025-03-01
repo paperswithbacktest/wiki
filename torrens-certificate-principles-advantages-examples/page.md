@@ -1,5 +1,5 @@
 ---
-title: "Torrens Certificate: Principles, Advantages, and Examples (Algo Trading)"
+title: "Torrens Certificate: Principles, Advantages, and Examples"
 description: "Explore the principles and advantages of the Torrens system in land registration and its synergy with algorithmic trading in modern property markets."
 ---
 

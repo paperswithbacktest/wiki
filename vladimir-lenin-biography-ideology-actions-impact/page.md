@@ -1,5 +1,5 @@
 ---
-title: "Vladimir Lenin: Biography, Ideology, Actions, and Impact (Algo Trading)"
+title: "Vladimir Lenin: Biography, Ideology, Actions, and Impact"
 description: "Explore the life and legacy of Vladimir Lenin a pivotal figure in history whose socialist ideology and revolutionary actions continue to influence global politics today."
 ---
 

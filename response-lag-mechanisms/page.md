@@ -1,5 +1,5 @@
 ---
-title: "Response Lag and Its Mechanisms (Algo Trading)"
+title: "Response Lag and Its Mechanisms"
 description: "Explore the complexities of response lag in algorithmic trading, how it impacts strategy execution, and discover cutting-edge solutions to minimize latency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trading Book in Financial Markets (Algo Trading)"
+title: "Trading Book in Financial Markets"
 description: "Explore the complexities of algorithmic trading and trading books in financial markets Discover strategies for investment and risk management in this dynamic arena"
 ---
 

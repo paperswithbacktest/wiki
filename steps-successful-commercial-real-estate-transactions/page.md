@@ -1,5 +1,5 @@
 ---
-title: "Steps to Successful Commercial Real Estate Transactions (Algo Trading)"
+title: "Steps to Successful Commercial Real Estate Transactions"
 description: "Unlock the secrets of profitable commercial real estate investments and algorithmic trading insights. Master strategic planning for greater returns and growth."
 ---
 

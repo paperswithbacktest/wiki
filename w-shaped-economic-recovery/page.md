@@ -1,5 +1,5 @@
 ---
-title: "W-Shaped Economic Recovery (Algo Trading)"
+title: "W-Shaped Economic Recovery"
 description: "Explore the complexities of a W-shaped economic recovery and its impact on algorithmic trading Learn how to adapt strategies amid volatile market shifts"
 ---
 

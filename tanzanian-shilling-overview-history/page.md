@@ -1,5 +1,5 @@
 ---
-title: "Tanzanian Shilling: Overview and History (Algo Trading)"
+title: "Tanzanian Shilling: Overview and History"
 description: "Explore the Tanzanian Shilling's history and significance in economic trends and forex markets Learn how algorithmic trading impacts TZS exchange rates and strategies"
 ---
 

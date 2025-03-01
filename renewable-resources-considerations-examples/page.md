@@ -1,5 +1,5 @@
 ---
-title: "Renewable Resources: Considerations and Examples (Algo Trading)"
+title: "Renewable Resources: Considerations and Examples"
 description: "Explore the dynamic intersection of renewable energy and algorithmic trading, where financial innovation meets environmental sustainability. Learn how solar, wind, and hydroelectric power form viable alternatives to fossil fuels, driven by technological advancements. Discover how algorithmic trading optimizes investment decisions in renewable energy stocks, offering precision, efficiency, and alignment with sustainable practices. This article investigates into the benefits of merging these domains, showcasing how investors can achieve profitability while contributing to a greener future."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Issuing Preferred Shares Over Common Shares (Algo Trading)"
+title: "Reasons for Issuing Preferred Shares Over Common Shares"
 description: "Explore the strategic benefits of issuing preferred shares over common shares in corporate finance with insights into algorithmic trading for optimal investment decisions."
 ---
 

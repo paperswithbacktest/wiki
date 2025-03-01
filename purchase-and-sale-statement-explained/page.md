@@ -1,5 +1,5 @@
 ---
-title: "Purchase And Sale Statement Explained (Algo Trading)"
+title: "Purchase And Sale Statement Explained"
 description: "Discover how Purchase and Sale Statements and algorithmic trading are transforming real estate transactions for increased efficiency and reduced risks."
 ---
 

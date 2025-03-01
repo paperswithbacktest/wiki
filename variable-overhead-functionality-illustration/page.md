@@ -1,5 +1,5 @@
 ---
-title: "Variable Overhead: Functionality and Illustration (Algo Trading)"
+title: "Variable Overhead: Functionality and Illustration"
 description: "Explore the synergy between cost accounting and algorithmic trading to enhance financial performance. Learn to manage variable overhead for strategic gains."
 ---
 

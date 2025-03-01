@@ -1,5 +1,5 @@
 ---
-title: "Types of Analysts and Their Applications (Algo Trading)"
+title: "Types of Analysts and Their Applications"
 description: "Explore diverse analyst roles in finance and their application in algorithmic trading. Discover pathways to enhance career prospects and stay informed with industry advancements."
 ---
 

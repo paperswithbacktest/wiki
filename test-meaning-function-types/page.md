@@ -1,5 +1,5 @@
 ---
-title: "Test: Meaning, Function, and Types (Algo Trading)"
+title: "Test: Meaning, Function, and Types"
 description: "Testing is crucial in algorithmic trading to refine strategies and enhance success rates. Different test types help assess and improve trading robots for market resilience."
 ---
 

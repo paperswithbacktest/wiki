@@ -1,5 +1,5 @@
 ---
-title: "Steps for Selecting the Right Options to Trade (Algo Trading)"
+title: "Steps for Selecting the Right Options to Trade"
 description: "Enhance your trading strategy by integrating options trading with algorithmic methods Learn to optimize returns while managing risks in volatile markets"
 ---
 

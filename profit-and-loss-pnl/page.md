@@ -1,5 +1,5 @@
 ---
-title: "Profit and loss (P&L) (Algo Trading)"
+title: "Profit and loss (P&L)"
 description: Discover the essentials of Profit and Loss (PnL) in algorithmic trading to optimize strategy performance and risk management. This comprehensive guide explores the significance of PnL as a key metric for evaluating and refining algo trading strategies. Learn how PnL acts as a benchmark, aids in risk visualization, and offers insights into the strengths and weaknesses of trading algorithms. Enhance your trading approach with sophisticated tools like uTrade Algos for real-time PnL tracking and analysis to remain competitive in complex trading environments.
 ---
 

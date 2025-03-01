@@ -1,5 +1,5 @@
 ---
-title: "Naked Put Options (Algo Trading)"
+title: "Naked Put Options"
 description: "Discover the key aspects of naked put options in algo trading from benefits to risks as seasoned traders sell puts without owning underlying assets for premiums."
 ---
 

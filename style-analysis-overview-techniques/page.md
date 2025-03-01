@@ -1,5 +1,5 @@
 ---
-title: "Style Analysis: Overview and Techniques (Algo Trading)"
+title: "Style Analysis: Overview and Techniques"
 description: "Explore the dynamic world of investment focusing on style analysis and algorithmic trading to enhance portfolio management and optimize financial strategies."
 ---
 

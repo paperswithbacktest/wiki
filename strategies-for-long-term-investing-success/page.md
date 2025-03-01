@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Long-Term Investing Success (Algo Trading)"
+title: "Strategies for Long-Term Investing Success"
 description: "Discover effective long-term investment strategies including diversification and asset allocation enhanced by algorithmic trading to achieve financial success."
 ---
 

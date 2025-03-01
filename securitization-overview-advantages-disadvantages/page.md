@@ -1,5 +1,5 @@
 ---
-title: "Securitization: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Securitization: Overview, Advantages, and Disadvantages"
 description: "Explore the financial concepts of securitization and algorithmic trading including their benefits and drawbacks to navigate the modern trading landscape effectively."
 ---
 

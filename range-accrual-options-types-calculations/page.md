@@ -1,5 +1,5 @@
 ---
-title: "Range Accrual Options: Types and Calculations (Algo Trading)"
+title: "Range Accrual Options: Types and Calculations"
 description: "Explore range accrual options in algo trading as these financial derivatives offer high returns within set index ranges through careful risk management."
 ---
 

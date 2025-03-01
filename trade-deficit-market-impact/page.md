@@ -1,5 +1,5 @@
 ---
-title: "Trade Deficit and Its Market Impact (Algo Trading)"
+title: "Trade Deficit and Its Market Impact"
 description: "Explore the economic implications of trade deficits and algorithmic trading examining how they influence market dynamics and shape global finance strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Analysis: Calculating Risk and Returns (Algo Trading)"
+title: "Portfolio Analysis: Calculating Risk and Returns"
 description: Explore the intricacies of algorithmic trading with a focus on portfolio analysis and the critical balance of risk and returns. This page investigates into the sophisticated realm of trading algorithms, the pivotal role of portfolios in risk management, and the essential concepts of asset allocation and diversification. Learn about key metrics such as the Sharpe Ratio, Alpha, and Beta that inform risk-adjusted return assessments, and discover strategies for optimizing trading outcomes through effective portfolio construction and analysis. Ideal for traders and financial enthusiasts, this comprehensive guide equips you with the knowledge needed for strategic, resilient trading in dynamic markets.
 ---
 

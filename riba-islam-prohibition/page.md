@@ -1,5 +1,5 @@
 ---
-title: "Riba in Islam and Its Prohibition (Algo Trading)"
+title: "Riba in Islam and Its Prohibition"
 description: "Explore the prohibition of Riba in Islamic finance and its impact on algorithmic trading Discover ethical solutions aligning with Islamic principles in modern markets"
 ---
 

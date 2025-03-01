@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Minimizing Forex Losses (Algo Trading)"
+title: "Strategies for Minimizing Forex Losses"
 description: "Explore effective strategies for minimizing risks and losses in forex algo trading. Learn how to leverage technology and sound risk management for better outcomes."
 ---
 

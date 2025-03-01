@@ -1,5 +1,5 @@
 ---
-title: "S&P 500 Pure Value Index (Algo Trading)"
+title: "S&P 500 Pure Value Index"
 description: "Explore how algorithmic trading enhances value investing within the S&P 500 Pure Value Index offering strategic insights for systematic market opportunities."
 ---
 

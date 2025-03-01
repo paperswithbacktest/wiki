@@ -1,5 +1,5 @@
 ---
-title: "Price-to-Earnings Ratio in the Oil and Gas Drilling Industry (Algo Trading)"
+title: "Price-to-Earnings Ratio in the Oil and Gas Drilling Industry"
 description: "Explore how the price-to-earnings ratio and algorithmic trading improve investment strategies in the volatile oil and gas drilling industry for optimal returns."
 ---
 

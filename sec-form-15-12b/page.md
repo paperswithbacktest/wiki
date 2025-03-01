@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 15-12B (Algo Trading)"
+title: "SEC Form 15-12B"
 description: "Explore SEC Form 15-12B and its role in the deregistration of securities. Discover how it impacts algorithmic trading, market dynamics, and liquidity strategies."
 ---
 

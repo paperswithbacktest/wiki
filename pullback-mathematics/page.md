@@ -1,5 +1,5 @@
 ---
-title: "Pullback in Mathematics (Algo Trading)"
+title: "Pullback in Mathematics"
 description: "Explore how pullbacks in category theory can optimize algorithmic trading strategies by enhancing market analysis and improving decision-making. Discover the intersection of abstract mathematics and finance to refine trading models through universal insights into market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stalled Pattern: Mechanism and Function (Algo Trading)"
+title: "Stalled Pattern: Mechanism and Function"
 description: "Explore the impact of climate-driven stalled weather patterns on algorithmic trading strategies and market dynamics Learn how traders adapt to unpredictable conditions"
 ---
 

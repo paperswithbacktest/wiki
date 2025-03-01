@@ -1,5 +1,5 @@
 ---
-title: "Weather Derivatives: Function, Types, and Examples (Algo Trading)"
+title: "Weather Derivatives: Function, Types, and Examples"
 description: "Explore the role of weather derivatives and algorithmic trading in risk management Learn how these financial tools offer innovative solutions for market volatility"
 ---
 

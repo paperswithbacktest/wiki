@@ -1,5 +1,5 @@
 ---
-title: "NZD/USD Exchange Rate Overview (Algo Trading)"
+title: "NZD/USD Exchange Rate Overview"
 description: "Explore algorithmic trading with the NZD/USD currency pair Discover strategies benefits and challenges of algo trading to navigate forex market complexities effectively"
 ---
 

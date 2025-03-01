@@ -1,5 +1,5 @@
 ---
-title: "Proved Reserves (Algo Trading)"
+title: "Proved Reserves"
 description: "Explore the impact of algo trading on oil and gas markets as automation meets energy management revealing keys to navigating modern energy economics."
 ---
 

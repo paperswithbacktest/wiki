@@ -1,5 +1,5 @@
 ---
-title: "Street Expectation: Meaning and Function (Algo Trading)"
+title: "Street Expectation: Meaning and Function"
 description: "Discover how market psychology, street expectations, and algorithmic trading intersect to shape financial markets and enhance trading strategies."
 ---
 

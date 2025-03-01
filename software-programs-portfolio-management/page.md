@@ -1,5 +1,5 @@
 ---
-title: "Software Programs for Portfolio Management (Algo Trading)"
+title: "Software Programs for Portfolio Management"
 description: "Optimize your investments with portfolio management software and algo trading tools that provide data-driven insights, real-time analytics, and strategic foresight."
 ---
 

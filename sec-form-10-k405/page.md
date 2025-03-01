@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 10-K405 (Algo Trading)"
+title: "SEC Form 10-K405"
 description: "Explore the historical role of SEC Form 10-K405 in insider trading disclosures and its impact on algorithmic trading strategy development in today's markets."
 ---
 

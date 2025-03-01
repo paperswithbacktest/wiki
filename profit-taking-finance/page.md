@@ -1,5 +1,5 @@
 ---
-title: "Profit-Taking in Finance (Algo Trading)"
+title: "Profit-Taking in Finance"
 description: "Explore how profit-taking strategies integrated with algorithmic trading can optimize financial outcomes by identifying ideal exit points and capitalizing on market trends."
 ---
 

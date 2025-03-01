@@ -1,5 +1,5 @@
 ---
-title: "Overview of Exit Strategies (Algo Trading)"
+title: "Overview of Exit Strategies"
 description: "Explore key exit strategies in algorithmic trading and business planning Learn how to efficiently manage risk secure profits and adapt to market changes"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Quote Stuffing in Financial Markets (Algo Trading)"
+title: "Quote Stuffing in Financial Markets"
 description: "Explore the controversial world of quote stuffing in financial markets understand how this high-frequency trading tactic impacts market dynamics and participants."
 ---
 

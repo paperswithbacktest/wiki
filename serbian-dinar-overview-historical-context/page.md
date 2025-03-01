@@ -1,5 +1,5 @@
 ---
-title: "Serbian Dinar: Overview and Historical Context (Algo Trading)"
+title: "Serbian Dinar: Overview and Historical Context"
 description: "Explore the historical evolution of the Serbian Dinar alongside modern trading dynamics and uncover insights into ALGO/RSD exchange rate strategies."
 ---
 

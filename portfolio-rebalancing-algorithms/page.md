@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Rebalancing Algorithms (Algo Trading)"
+title: "Portfolio Rebalancing Algorithms"
 description: "Explore portfolio rebalancing algorithms for efficient asset management Discover types benefits and methodologies to optimize your investment strategy"
 ---
 

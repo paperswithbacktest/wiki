@@ -1,5 +1,5 @@
 ---
-title: "Overview of Fidelity Go (Algo Trading)"
+title: "Overview of Fidelity Go"
 description: "Explore Fidelity Go's automated, low-cost investment service from Fidelity Investments. Ideal for hands-off investors seeking simplicity and expert-backed portfolio management."
 ---
 

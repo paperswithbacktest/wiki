@@ -1,5 +1,5 @@
 ---
-title: "Nasdaq Capital Market Requirements (Algo Trading)"
+title: "Nasdaq Capital Market Requirements"
 description: "Explore the dual themes of Nasdaq Capital Market requirements and algorithmic trading's role in trading efficiency liquidity and market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Start of Holding Period for Stock Dividends (Algo Trading)"
+title: "Start of Holding Period for Stock Dividends"
 description: "Explore how holding periods and dividends affect stock dividends in algorithmic trading Learn about optimizing returns managing risks and tax implications"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pricing of Non-Deliverable Forwards (Algo Trading)"
+title: "Pricing of Non-Deliverable Forwards"
 description: "Discover how algorithmic trading revolutionizes non-deliverable forwards (NDFs), enhancing currency risk management in volatile markets through tech-driven strategies."
 ---
 

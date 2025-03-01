@@ -1,5 +1,5 @@
 ---
-title: "Mosaic Theory in Financial Research (Algo Trading)"
+title: "Mosaic Theory in Financial Research"
 description: "Explore the Mosaic Theory in financial research to gain competitive insights through diverse data integration, ensuring ethical and legal compliance."
 ---
 

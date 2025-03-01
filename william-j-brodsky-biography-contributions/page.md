@@ -1,5 +1,5 @@
 ---
-title: "William J. Brodsky: Biography and Contributions (Algo Trading)"
+title: "William J. Brodsky: Biography and Contributions"
 description: "Explore William J. Brodsky's influential career in finance and options trading, highlighting his roles in transforming financial markets and driving algorithmic trading advancements."
 ---
 

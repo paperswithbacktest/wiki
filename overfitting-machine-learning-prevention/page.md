@@ -1,5 +1,5 @@
 ---
-title: "Overfitting in Machine Learning and Prevention Methods (Algo Trading)"
+title: "Overfitting in Machine Learning and Prevention Methods"
 description: "Discover effective techniques to prevent overfitting in algorithmic trading models ensuring robust performance in dynamic market conditions for lasting success."
 ---
 

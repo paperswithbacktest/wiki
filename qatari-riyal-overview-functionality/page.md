@@ -1,5 +1,5 @@
 ---
-title: "Qatari Riyal: Overview and Functionality (Algo Trading)"
+title: "Qatari Riyal: Overview and Functionality"
 description: "Explore the stability and predictability of the Qatari Riyal in algorithmic trading Discover opportunities in Qatar's evolving financial market"
 ---
 

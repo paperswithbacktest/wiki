@@ -1,5 +1,5 @@
 ---
-title: "October Market Crashes (Algo Trading)"
+title: "October Market Crashes"
 description: "Explore the October Effect and market crashes influenced by algorithmic trading Learn historical insights and strategies to manage October volatility"
 ---
 

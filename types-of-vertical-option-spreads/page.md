@@ -1,5 +1,5 @@
 ---
-title: "Types of Vertical Option Spreads (Algo Trading)"
+title: "Types of Vertical Option Spreads"
 description: "Explore the mechanics of vertical option spreads in algo trading Learn how these strategies enhance efficiency and risk management in today's market landscape"
 ---
 

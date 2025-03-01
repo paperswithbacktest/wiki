@@ -1,5 +1,5 @@
 ---
-title: "Shelf Offering: Explanation, Mechanism, Benefits, and Example (Algo Trading)"
+title: "Shelf Offering: Explanation, Mechanism, Benefits, and Example"
 description: "Discover the mechanics and benefits of shelf offerings a flexible capital-raising strategy in trading. Understand how they influence market dynamics and investor strategies."
 ---
 

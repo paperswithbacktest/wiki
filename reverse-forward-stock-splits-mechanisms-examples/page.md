@@ -1,5 +1,5 @@
 ---
-title: "Reverse and Forward Stock Splits: Mechanisms and Examples (Algo Trading)"
+title: "Reverse and Forward Stock Splits: Mechanisms and Examples"
 description: "Explore the detailed mechanisms and real-world implications of reverse and forward stock splits. This informative article provides insight into how these corporate actions affect stock value, market perception, and investor strategies. Understand the objectives and impacts of different stock split types and how they interplay with algorithmic trading to influence market dynamics and liquidity. Equip yourself with the essential knowledge to navigate and capitalize on the opportunities presented by stock splits in the modern financial landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mortgage-Backed Revenue Bond (Algo Trading)"
+title: "Mortgage-Backed Revenue Bond"
 description: "Discover the intricacies of mortgage-backed and revenue bonds and explore how algorithmic trading is reshaping bond markets for savvy investors."
 ---
 

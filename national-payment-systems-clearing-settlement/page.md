@@ -1,5 +1,5 @@
 ---
-title: "National Payment Systems: Clearing and Settlement (Algo Trading)"
+title: "National Payment Systems: Clearing and Settlement"
 description: "Explore how national payment systems and algorithmic trading enhance financial transactions by ensuring efficiency, security, and integration in global markets."
 ---
 

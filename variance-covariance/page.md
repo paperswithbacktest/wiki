@@ -1,5 +1,5 @@
 ---
-title: "Variance and Covariance (Algo Trading)"
+title: "Variance and Covariance"
 description: "Explore how variance and covariance optimize strategies and manage risk in algorithmic trading Gain insight into portfolio management and trading outcomes"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Optimal trading curves (Algo Trading)"
+title: "Optimal trading curves"
 description: "Optimize algorithmic trade execution by integrating optimal trading curves to minimize market impact and enhance profitability in dynamic environments."
 ---
 

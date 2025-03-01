@@ -1,5 +1,5 @@
 ---
-title: "Significance of Stock Prices to Companies (Algo Trading)"
+title: "Significance of Stock Prices to Companies"
 description: "Explore the importance of stock prices in corporate finance and algorithmic trading Discover how they impact a company's market value and investor perception"
 ---
 

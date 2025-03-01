@@ -1,5 +1,5 @@
 ---
-title: "TRON (TRX) Blockchain Platform (Algo Trading)"
+title: "TRON (TRX) Blockchain Platform"
 description: "Explore TRON's blockchain platform for algorithmic trading Discover how TRX ensures low-cost rapid transactions empowering traders with superior performance and scalability"
 ---
 

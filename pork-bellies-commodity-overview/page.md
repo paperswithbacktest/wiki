@@ -1,5 +1,5 @@
 ---
-title: "Pork Bellies: Commodity Overview (Algo Trading)"
+title: "Pork Bellies: Commodity Overview"
 description: "Explore the evolving world of pork derivatives trading with insights into historical trends, algorithmic strategies, and market dynamics for informed decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Return on Average Capital Employed (ROACE) (Algo Trading)"
+title: "Return on Average Capital Employed (ROACE)"
 description: "Explore how Return on Average Capital Employed (ROACE) enhances financial analysis by assessing a company's capital efficiency and profitability for better investment decisions."
 ---
 

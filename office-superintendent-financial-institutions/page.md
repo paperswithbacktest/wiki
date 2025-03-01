@@ -1,5 +1,5 @@
 ---
-title: "Office of the Superintendent of Financial Institutions (Algo Trading)"
+title: "Office of the Superintendent of Financial Institutions"
 description: "Explore OSFI's pivotal role in overseeing financial institutions in Canada, focusing on the regulation of technological advancements like algorithmic trading."
 ---
 

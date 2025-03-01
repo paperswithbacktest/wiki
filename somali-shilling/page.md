@@ -1,5 +1,5 @@
 ---
-title: "Somali Shilling (Algo Trading)"
+title: "Somali Shilling"
 description: "Explore the significance of the Somali Shilling in Somalia's economy amid socio-political challenges and discover potential benefits of algorithmic trading with SOS."
 ---
 

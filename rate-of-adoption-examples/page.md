@@ -1,5 +1,5 @@
 ---
-title: "Rate of Adoption and Examples (Algo Trading)"
+title: "Rate of Adoption and Examples"
 description: "Explore the dynamics of technology adoption, focusing on algorithmic trading, to understand how factors like compatibility and ease influence market integration."
 ---
 

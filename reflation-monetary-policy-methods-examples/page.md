@@ -1,5 +1,5 @@
 ---
-title: "Reflation as Monetary Policy: Methods and Examples (Algo Trading)"
+title: "Reflation as Monetary Policy: Methods and Examples"
 description: "Explore how reflationary policies and monetary strategies impact algorithmic trading and financial markets emphasizing the integration of these crucial economic concepts."
 ---
 

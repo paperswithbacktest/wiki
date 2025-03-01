@@ -1,5 +1,5 @@
 ---
-title: "transaction flow optimization (Algo Trading)"
+title: "transaction flow optimization"
 description: "Optimize transaction flows in algorithmic trading to maximize profits and minimize costs Explore strategies tools and technology to refine trading processes."
 ---
 

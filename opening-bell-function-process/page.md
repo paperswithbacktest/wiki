@@ -1,5 +1,5 @@
 ---
-title: "Opening Bell: Function and Process (Algo Trading)"
+title: "Opening Bell: Function and Process"
 description: "Explore how algorithmic trading transforms the opening bell with cutting-edge strategies and technology to optimize trading in volatile markets efficiently."
 ---
 

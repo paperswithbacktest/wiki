@@ -1,5 +1,5 @@
 ---
-title: "Swap Contracts and Calculation of Gains (Algo Trading)"
+title: "Swap Contracts and Calculation of Gains"
 description: "Explore swap contracts and gain calculations in algorithmic trading. Learn how swaps manage risk and how tech innovations enhance their financial market role."
 ---
 

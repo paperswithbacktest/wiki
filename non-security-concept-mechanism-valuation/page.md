@@ -1,5 +1,5 @@
 ---
-title: "Non-Security: Concept, Mechanism, and Valuation (Algo Trading)"
+title: "Non-Security: Concept, Mechanism, and Valuation"
 description: "Explore the intricacies of valuing non-security financial instruments such as derivatives and commodities and the pivotal role of algorithmic trading in modern finance."
 ---
 

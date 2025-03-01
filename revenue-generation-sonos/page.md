@@ -1,5 +1,5 @@
 ---
-title: "Revenue Generation of Sonos (Algo Trading)"
+title: "Revenue Generation of Sonos"
 description: "Discover Sonos' transformative approach in the smart audio industry with insights into their business model revenue strategies and potential algorithmic trading ventures."
 ---
 

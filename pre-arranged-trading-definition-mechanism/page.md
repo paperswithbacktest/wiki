@@ -1,5 +1,5 @@
 ---
-title: "Pre-Arranged Trading: Definition and Mechanism (Algo Trading)"
+title: "Pre-Arranged Trading: Definition and Mechanism"
 description: "Explore the complexities of pre-arranged and algorithmic trading in financial markets, understanding their mechanisms, benefits, challenges, and regulatory impacts."
 ---
 

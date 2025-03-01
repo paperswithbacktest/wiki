@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Corporate Bond Issuance (Algo Trading)"
+title: "Reasons for Corporate Bond Issuance"
 description: "Discover how corporate bonds offer companies a strategic edge in capital raising through efficient financing methods, enhanced stability, and algorithmic trading integration."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trading Authorization: Function and Process (Algo Trading)"
+title: "Trading Authorization: Function and Process"
 description: "Unlock the world of investing with insights on trading authorization algorithmic trading and financial management. Enhance your strategies and reach your financial goals."
 ---
 

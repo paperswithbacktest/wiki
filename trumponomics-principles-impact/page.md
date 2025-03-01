@@ -1,5 +1,5 @@
 ---
-title: "Trumponomics: Principles and Impact (Algo Trading)"
+title: "Trumponomics: Principles and Impact"
 description: "Explore the impact of Trumponomics on financial markets and algorithmic trading during Trump's presidency focusing on tax reforms and trade policies."
 ---
 

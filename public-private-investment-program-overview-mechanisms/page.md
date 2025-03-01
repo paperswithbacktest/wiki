@@ -1,5 +1,5 @@
 ---
-title: "Public-Private Investment Program: Overview and Mechanisms (Algo Trading)"
+title: "Public-Private Investment Program: Overview and Mechanisms"
 description: "Explore the Public-Private Investment Program and algorithmic trading the synergy that stabilizes financial markets by addressing risks and enhancing opportunities."
 ---
 

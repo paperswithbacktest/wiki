@@ -1,5 +1,5 @@
 ---
-title: "Sweep-To-Fill Order (Algo Trading)"
+title: "Sweep-To-Fill Order"
 description: "Explore the role of sweep-to-fill orders in algorithmic trading to improve execution efficiency and minimize market impact in a fragmented liquidity landscape."
 ---
 

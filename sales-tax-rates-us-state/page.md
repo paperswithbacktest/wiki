@@ -1,5 +1,5 @@
 ---
-title: "Sales Tax Rates by U.S. State (Algo Trading)"
+title: "Sales Tax Rates by U.S. State"
 description: "Explore the complexities of U.S. state tax rates and their impact on businesses and consumers. Learn how they intersect with algorithmic trading and economic decisions."
 ---
 

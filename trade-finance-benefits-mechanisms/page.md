@@ -1,5 +1,5 @@
 ---
-title: "Trade in Finance: Benefits and Mechanisms (Algo Trading)"
+title: "Trade in Finance: Benefits and Mechanisms"
 description: "Explore the benefits and mechanisms of algorithmic trading in finance Learn how automation enhances market efficiency accuracy and reduces risks in trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Performance Drag: Causes and Examples (Algo Trading)"
+title: "Performance Drag: Causes and Examples"
 description: "Explore how performance drag affects algo trading returns and discover strategies to optimize trading efficiency by mitigating common costs and execution delays."
 ---
 

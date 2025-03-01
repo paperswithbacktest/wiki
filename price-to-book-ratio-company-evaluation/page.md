@@ -1,5 +1,5 @@
 ---
-title: "Price-To-Book Ratio in Company Evaluation (Algo Trading)"
+title: "Price-To-Book Ratio in Company Evaluation"
 description: "Optimize your investment strategy with insights into Price-To-Book ratio and algorithmic trading for smarter, efficient company evaluation and market participation."
 ---
 

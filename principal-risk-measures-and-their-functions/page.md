@@ -1,5 +1,5 @@
 ---
-title: "Principal Risk Measures and Their Functions (Algo Trading)"
+title: "Principal Risk Measures and Their Functions"
 description: "Explore principal risk measures instrumental in algorithmic trading to optimize strategies minimize losses and maximize returns through effective risk management techniques."
 ---
 

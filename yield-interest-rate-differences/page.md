@@ -1,5 +1,5 @@
 ---
-title: "Yield and Interest Rate Differences (Algo Trading)"
+title: "Yield and Interest Rate Differences"
 description: "Explore yield and interest rate dynamics in finance and algo trading Understand their roles in investment decisions and strategies to maximize returns."
 ---
 

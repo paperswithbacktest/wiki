@@ -1,5 +1,5 @@
 ---
-title: "Overview of Inflation (Algo Trading)"
+title: "Overview of Inflation"
 description: "Explore the intricate link between inflation and algorithmic trading Understand how economic trends influence market dynamics and strategic financial planning"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stock Certificate History (Algo Trading)"
+title: "Stock Certificate History"
 description: "Explore the evolution from physical stock certificates to digital records and the rise of algorithmic trading Learn about modern investment tools and strategies"
 ---
 

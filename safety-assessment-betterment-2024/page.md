@@ -1,5 +1,5 @@
 ---
-title: "Safety Assessment of Betterment in 2024 (Algo Trading)"
+title: "Safety Assessment of Betterment in 2024"
 description: "Explore Betterment's commitment to investment safety in algorithmic trading for 2024 Learn about their advanced strategies to protect and optimize portfolios."
 ---
 

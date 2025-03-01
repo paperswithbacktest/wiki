@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Style Box (Algo Trading)"
+title: "Mutual Fund Style Box"
 description: "Explore the integration of style box mutual funds and algorithmic trading to enhance investment strategies and optimize portfolios for better returns."
 ---
 

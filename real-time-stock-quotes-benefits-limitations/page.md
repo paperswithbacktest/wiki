@@ -1,5 +1,5 @@
 ---
-title: "Real-Time Stock Quotes: Benefits and Limitations (Algo Trading)"
+title: "Real-Time Stock Quotes: Benefits and Limitations"
 description: "Explore the benefits and limitations of real-time stock quotes in algo trading Discover how they transform trading strategies to navigate today's dynamic markets effectively​"
 ---
 

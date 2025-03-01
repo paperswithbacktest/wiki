@@ -1,5 +1,5 @@
 ---
-title: "Participatory Notes: Overview and Functionality (Algo Trading)"
+title: "Participatory Notes: Overview and Functionality"
 description: "Explore the role of Participatory Notes and algorithmic trading in finance They simplify foreign investments in India and enhance trading efficiency in markets"
 ---
 

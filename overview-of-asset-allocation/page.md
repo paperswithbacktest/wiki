@@ -1,5 +1,5 @@
 ---
-title: "Overview of Asset Allocation (Algo Trading)"
+title: "Overview of Asset Allocation"
 description: "Explore asset allocation financial planning and algorithmic trading as integral components of a robust investment strategy. Learn how they optimize returns."
 ---
 

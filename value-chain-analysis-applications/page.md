@@ -1,5 +1,5 @@
 ---
-title: "Value Chain Analysis and Its Applications (Algo Trading)"
+title: "Value Chain Analysis and Its Applications"
 description: "Discover how strategic management, value chain analysis, and algorithmic trading interconnect to boost business operations and gain a competitive edge. Explore how companies can leverage these elements for increased efficiency, profitability, and market positioning by optimizing processes and employing data-driven strategies in today's dynamic business landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Overview of Quantitative Analysis (Algo Trading)"
+title: "Overview of Quantitative Analysis"
 description: "Explore the vital role of quantitative analysis in algorithmic trading. Learn how data-driven, mathematical methods optimize investment strategies and risk management."
 ---
 

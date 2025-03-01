@@ -1,5 +1,5 @@
 ---
-title: "Natural Capital: Definition and Function (Algo Trading)"
+title: "Natural Capital: Definition and Function"
 description: "Explore the significance of natural capital and its integration in economic systems through algorithmic trading for sustainability and environmental balance."
 ---
 

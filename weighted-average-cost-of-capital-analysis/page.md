@@ -1,5 +1,5 @@
 ---
-title: "Weighted Average Cost of Capital Analysis (Algo Trading)"
+title: "Weighted Average Cost of Capital Analysis"
 description: "Unlock insights into financial strategies with our comprehensive guide on Weighted Average Cost of Capital and its pivotal role in corporate finance and algo trading."
 ---
 

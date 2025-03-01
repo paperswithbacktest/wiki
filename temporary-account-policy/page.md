@@ -1,5 +1,5 @@
 ---
-title: "Temporary Account Policy (Algo Trading)"
+title: "Temporary Account Policy"
 description: "Explore the essentials of temporary accounts, account policies, and algorithmic trading to enhance financial performance and decision-making in today's markets."
 ---
 

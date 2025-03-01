@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Options: Investing and Profit Strategies (Algo Trading)"
+title: "Real Estate Options: Investing and Profit Strategies"
 description: "Explore how real estate investing merges with algorithmic trading, providing new avenues for profits and diversification through innovative investment strategies."
 ---
 

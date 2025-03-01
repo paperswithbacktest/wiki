@@ -1,5 +1,5 @@
 ---
-title: "SEC Form F-N (Algo Trading)"
+title: "SEC Form F-N"
 description: "Discover the importance of SEC Form F-N for foreign entities in algorithmic trading. This guide covers compliance, requirements, and market participation essentials."
 ---
 

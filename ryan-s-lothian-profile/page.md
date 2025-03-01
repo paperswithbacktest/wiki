@@ -1,5 +1,5 @@
 ---
-title: "Ryan S. Lothian Profile (Algo Trading)"
+title: "Ryan S. Lothian Profile"
 description: "Discover Ryan S Lothian's journey blending science communication with digital marketing, highlighting his career and insights on algorithmic trading."
 ---
 

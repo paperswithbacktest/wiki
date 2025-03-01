@@ -1,5 +1,5 @@
 ---
-title: "Overexposure in Photography (Algo Trading)"
+title: "Overexposure in Photography"
 description: "Explore the parallels between photography and algorithmic trading to enhance your understanding of managing exposure and risk. Both fields require precision and adaptability to optimize outcomes, using techniques like ISO, aperture, and shutter speed adjustments in photography, and leveraging diversification and strategic capital allocation in trading. Discover how mastering the balance of light and financial risks can lead to clearer images and smarter trading decisions."
 ---
 

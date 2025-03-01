@@ -1,5 +1,5 @@
 ---
-title: "order book dynamics (Algo Trading)"
+title: "order book dynamics"
 description: "Gain insights into the complexities of order book dynamics in algorithmic trading to optimize strategies for precise and efficient trade execution in volatile markets."
 ---
 

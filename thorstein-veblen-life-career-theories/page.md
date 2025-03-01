@@ -1,5 +1,5 @@
 ---
-title: "Thorstein Veblen: Life, Career, and Theories (Algo Trading)"
+title: "Thorstein Veblen: Life, Career, and Theories"
 description: "Explore Thorstein Veblen's theories on conspicuous consumption and their relevance in today's digital economy with a focus on algorithmic trading innovations."
 ---
 

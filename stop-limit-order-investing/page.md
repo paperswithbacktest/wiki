@@ -1,5 +1,5 @@
 ---
-title: "Stop-Limit Order in Investing (Algo Trading)"
+title: "Stop-Limit Order in Investing"
 description: "Explore the advantages of stop-limit orders in algorithmic trading to manage trades and mitigate risks in volatile markets with precision and automation."
 ---
 

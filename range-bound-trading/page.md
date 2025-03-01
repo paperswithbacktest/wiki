@@ -1,5 +1,5 @@
 ---
-title: "Range-Bound Trading (Algo Trading)"
+title: "Range-Bound Trading"
 description: "Explore the essentials of range-bound trading in algorithmic markets by learning strategies that capitalize on price oscillations between support and resistance levels."
 ---
 

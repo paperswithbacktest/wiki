@@ -1,5 +1,5 @@
 ---
-title: "QVR Advisors (Algo Trading)"
+title: "QVR Advisors"
 description: "Discover how QVR Advisors leads in algorithmic trading with data-driven strategies and advanced algorithms that optimize market trading efficiency and accuracy."
 ---
 

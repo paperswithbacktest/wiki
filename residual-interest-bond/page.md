@@ -1,5 +1,5 @@
 ---
-title: "Residual Interest Bond (Algo Trading)"
+title: "Residual Interest Bond"
 description: "Explore the complexities of Residual Interest Bonds and their role in algorithmic trading Learn how these innovative municipal bonds can enhance yields and manage risks"
 ---
 

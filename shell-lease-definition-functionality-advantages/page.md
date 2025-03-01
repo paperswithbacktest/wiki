@@ -1,5 +1,5 @@
 ---
-title: "Shell Lease: Definition, Functionality, and Advantages (Algo Trading)"
+title: "Shell Lease: Definition, Functionality, and Advantages"
 description: "Discover the synergy between shell leases and algorithmic trading in commercial real estate, emphasizing tenant customization, investment strategy, and market efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sweet Crude Oil (Algo Trading)"
+title: "Sweet Crude Oil"
 description: "Explore the crucial role of sweet crude oil in global energy with insights into refining processes and algorithmic trading strategies that optimize market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mid-Cap Investment Strategies (Algo Trading)"
+title: "Mid-Cap Investment Strategies"
 description: "Explore mid-cap investment strategies that merge growth potential and stability with algorithmic trading's efficiency. Discover practical insights into optimizing returns."
 ---
 

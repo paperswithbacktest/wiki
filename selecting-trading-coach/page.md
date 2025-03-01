@@ -1,5 +1,5 @@
 ---
-title: "Selecting a Trading Coach (Algo Trading)"
+title: "Selecting a Trading Coach"
 description: "Unlock success in trading with expert coaches and mentorship Personal guidance and cutting-edge algo trading strategies boost skills and profitability in dynamic markets"
 ---
 

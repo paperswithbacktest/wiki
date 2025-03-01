@@ -1,5 +1,5 @@
 ---
-title: "Optimal Timing for House Purchase (Algo Trading)"
+title: "Optimal Timing for House Purchase"
 description: "Discover the ideal time to buy a house using data analytics and algorithmic technology to navigate market fluctuations and economic conditions effectively."
 ---
 

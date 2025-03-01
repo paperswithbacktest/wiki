@@ -1,5 +1,5 @@
 ---
-title: "SNAP Benefits Distribution by U.S. State (Algo Trading)"
+title: "SNAP Benefits Distribution by U.S. State"
 description: "Explore how SNAP benefits vary across U.S. states due to living costs, policies, and demographics with a focus on using algorithms for better analysis."
 ---
 

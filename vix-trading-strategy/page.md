@@ -1,5 +1,5 @@
 ---
-title: "VIX Trading Strategy Explained (Algo Trading)"
+title: "VIX Trading Strategy Explained"
 description: Discover how algorithmic traders can leverage the CBOE Volatility Index, also known as the VIX or "fear gauge", to anticipate market movements and volatility shifts. Learn about core concepts, trading strategies, and algorithmic techniques that make the VIX an essential tool for risk assessment and exploiting market opportunities. Understand mean-reversion, momentum systems, and hedging strategies using VIX futures and options, all while enhancing prediction accuracy with machine learning models to identify patterns in VIX data.
 ---
 

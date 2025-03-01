@@ -1,5 +1,5 @@
 ---
-title: "Organized Labor: Unions and Collective Bargaining (Algo Trading)"
+title: "Organized Labor: Unions and Collective Bargaining"
 description: "Explore the evolving role of labor unions and collective bargaining in the fast-paced era of algorithmic trading and automation highlighting new challenges and strategies."
 ---
 

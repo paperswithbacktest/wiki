@@ -1,5 +1,5 @@
 ---
-title: "Profit Margin in Oil and Gas Drilling (Algo Trading)"
+title: "Profit Margin in Oil and Gas Drilling"
 description: "Explore profit margins in oil drilling with a focus on algorithmic trading effects. Discover how technology and market dynamics shape profitability."
 ---
 

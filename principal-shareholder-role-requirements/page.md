@@ -1,5 +1,5 @@
 ---
-title: "Principal Shareholder: Role and Requirements (Algo Trading)"
+title: "Principal Shareholder: Role and Requirements"
 description: "Explore the role and responsibilities of principal shareholders in corporate governance and the impact of algo trading on investment strategies and stock market dynamics."
 ---
 

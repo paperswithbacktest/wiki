@@ -1,5 +1,5 @@
 ---
-title: "Trading Stocks on Multiple Exchanges (Algo Trading)"
+title: "Trading Stocks on Multiple Exchanges"
 description: "Explore the multifaceted world of trading stocks on multiple exchanges with algorithmic strategies to capitalize on arbitrage opportunities and overcome challenges."
 ---
 

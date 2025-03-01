@@ -1,5 +1,5 @@
 ---
-title: "Micro Risk: Definition and Mechanism (Algo Trading)"
+title: "Micro Risk: Definition and Mechanism"
 description: "Explore the critical role of managing micro risks in algorithmic trading to secure investments and maintain profitable strategies amidst market volatility."
 ---
 

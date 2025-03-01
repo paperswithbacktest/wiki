@@ -1,5 +1,5 @@
 ---
-title: "The Order Machine (TOM) Overview (Algo Trading)"
+title: "The Order Machine (TOM) Overview"
 description: "Explore the innovative journey of The Order Machine TOM in reshaping financial markets through algorithmic trading and learn about its market impact and challenges."
 ---
 

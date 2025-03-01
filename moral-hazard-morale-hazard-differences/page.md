@@ -1,5 +1,5 @@
 ---
-title: "Moral Hazard and Morale Hazard: Differences (Algo Trading)"
+title: "Moral Hazard and Morale Hazard: Differences"
 description: "Explore the distinctions between moral and morale hazard in financial markets Learn how these concepts interact with algorithmic trading and affect market stability"
 ---
 

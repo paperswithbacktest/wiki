@@ -1,5 +1,5 @@
 ---
-title: "Setting Up Trading Screens (Algo Trading)"
+title: "Setting Up Trading Screens"
 description: "Optimize your trading setup with our guide on configuring screens for algo trading improve efficiency and decision-making in the fast-paced trading world today."
 ---
 

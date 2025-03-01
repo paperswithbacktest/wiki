@@ -1,5 +1,5 @@
 ---
-title: "Yuxun Zhou (Algo Trading)"
+title: "Yuxun Zhou"
 description: "Explore the illustrious journey of Yuxun Zhou in algorithmic trading highlighting his academic excellence and significant contributions to quantitative research."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Day-Trading Gold ETFs (Algo Trading)"
+title: "Strategies for Day-Trading Gold ETFs"
 description: "Explore day trading strategies with Gold ETFs and algorithmic trading techniques to optimize returns while managing risks in the fast-paced trading environment."
 ---
 

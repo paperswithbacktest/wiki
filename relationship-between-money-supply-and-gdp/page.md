@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Money Supply and GDP (Algo Trading)"
+title: "Relationship Between Money Supply and GDP"
 description: "Explore the dynamic link between GDP, money supply, and algorithmic trading Learn how economic indicators guide financial strategies in complex markets"
 ---
 

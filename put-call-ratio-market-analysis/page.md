@@ -1,5 +1,5 @@
 ---
-title: "Put-Call Ratio and Market Analysis (Algo Trading)"
+title: "Put-Call Ratio and Market Analysis"
 description: "Explore the significance of the Put-Call Ratio in options trading to decode market sentiment and dynamics with applications in algorithmic trading strategies."
 ---
 

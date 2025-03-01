@@ -1,5 +1,5 @@
 ---
-title: "Risk-Return Spectrum in Algo Trading (Algo Trading)"
+title: "Risk-Return Spectrum in Algo Trading"
 description: "Explore the risk-return spectrum in Algo Trading and discover strategies that balance potential gains and inherent risks using sophisticated algorithms."
 ---
 

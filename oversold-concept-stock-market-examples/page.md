@@ -1,5 +1,5 @@
 ---
-title: "Oversold Concept in Stock Market with Examples (Algo Trading)"
+title: "Oversold Concept in Stock Market with Examples"
 description: "Explore the nuances of oversold stocks and algo trading to optimize your stock market strategies. Learn about key indicators to identify undervalued opportunities."
 ---
 

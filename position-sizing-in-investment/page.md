@@ -1,5 +1,5 @@
 ---
-title: "Position Sizing in Investment (Algo Trading)"
+title: "Position Sizing in Investment"
 description: "Discover the critical role of position sizing in investment and algorithmic trading for effective risk management and maximized returns in today's markets."
 ---
 

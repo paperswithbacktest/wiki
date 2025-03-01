@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Asset Management (Algo Trading)"
+title: "Quantitative Asset Management"
 description: "Explore Quantitative Asset Management and Algo Trading, discover data-driven strategies, advanced tools, and key insights for optimizing financial outcomes."
 ---
 

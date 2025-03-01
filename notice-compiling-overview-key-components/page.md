@@ -1,5 +1,5 @@
 ---
-title: "Notice Compiling: Overview and Key Components (Algo Trading)"
+title: "Notice Compiling: Overview and Key Components"
 description: "Explore the essentials of algorithmic trading with a focus on notice compiling document preparation and information synthesis to enhance trading strategies."
 ---
 

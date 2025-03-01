@@ -1,5 +1,5 @@
 ---
-title: "United States Department of the Treasury (Algo Trading)"
+title: "United States Department of the Treasury"
 description: "Explore how the U.S. Department of the Treasury employs innovative practices like algorithmic trading to enhance financial stability and manage national resources."
 ---
 

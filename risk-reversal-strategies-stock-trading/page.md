@@ -1,5 +1,5 @@
 ---
-title: "Risk Reversal Strategies in Stock Trading (Algo Trading)"
+title: "Risk Reversal Strategies in Stock Trading"
 description: "Explore risk reversal strategies in options trading to effectively hedge market volatility while leveraging algorithmic trading for optimized performance."
 ---
 

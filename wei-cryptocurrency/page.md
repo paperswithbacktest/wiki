@@ -1,5 +1,5 @@
 ---
-title: "Wei in Cryptocurrency (Algo Trading)"
+title: "Wei in Cryptocurrency"
 description: "Explore Ethereum Wei and its role in algorithmic trading Discover how this smallest Ether unit enhances precision and efficiency in crypto transactions and strategies"
 ---
 

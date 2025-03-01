@@ -1,5 +1,5 @@
 ---
-title: "Pine Script TradingView Guide (Algo Trading)"
+title: "Pine Script TradingView Guide"
 description: Discover how Pine Script from TradingView enables both novice and experienced traders to develop custom indicators and automate trading strategies. This guide explores Pine Script's user-friendly capabilities, allowing for strategy optimization and seamless integration with TradingView's charting tools. Gain insights into algorithmic trading, backtesting on historical data, and real-time data manipulation, while accessing robust community support and comprehensive resources. Unlock trading potential with Pine Script's simple syntax, even without extensive programming knowledge, to enhance your approach to automated trading and technical analysis.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Short Selling: Selling Assets Not Owned (Algo Trading)"
+title: "Short Selling: Selling Assets Not Owned"
 description: "Explore the dynamics of short selling and algorithmic trading to understand how these advanced strategies can boost returns while managing risks effectively."
 ---
 

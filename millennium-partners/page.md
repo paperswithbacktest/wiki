@@ -1,5 +1,5 @@
 ---
-title: "Millennium Partners (Algo Trading)"
+title: "Millennium Partners"
 description: Explore Millennium Partners' pioneering approach in algorithmic trading, where technological innovation meets financial strategy. Founded in 1989, Millennium leverages advanced algorithms for speed and precision in trades, bolstering their status as a leader in the financial industry. By harnessing data-driven processes and state-of-the-art AI, Millennium enhances decision-making and maintains a competitive edge while fostering a culture of innovation and entrepreneurship among its global investment teams. This forward-thinking approach not only optimizes trading strategies but also sets the stage for future advancements in the dynamic world of finance.
 ---
 

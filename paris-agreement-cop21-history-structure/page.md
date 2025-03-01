@@ -1,5 +1,5 @@
 ---
-title: "Paris Agreement and COP21: History and Structure (Algo Trading)"
+title: "Paris Agreement and COP21: History and Structure"
 description: "Explore the Paris Agreement's impact on global climate policy and the role of algorithmic trading in sustainable finance for a low-carbon future."
 ---
 

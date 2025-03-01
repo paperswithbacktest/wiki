@@ -1,5 +1,5 @@
 ---
-title: "Unofficial Strikes: Overview, Causes, and Examples (Algo Trading)"
+title: "Unofficial Strikes: Overview, Causes, and Examples"
 description: "Explore how unofficial strikes and algorithmic trading influence today's financial markets. Discover their roles, implications, and potential industry impacts."
 ---
 

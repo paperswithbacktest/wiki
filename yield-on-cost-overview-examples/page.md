@@ -1,5 +1,5 @@
 ---
-title: "Yield on Cost: Overview and Examples (Algo Trading)"
+title: "Yield on Cost: Overview and Examples"
 description: "Explore the essentials of Yield on Cost and algorithmic trading. Understand how these metrics optimize investment strategies and enhance portfolio performance."
 ---
 

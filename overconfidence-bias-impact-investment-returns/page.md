@@ -1,5 +1,5 @@
 ---
-title: "Overconfidence Bias and Its Impact on Investment Returns (Algo Trading)"
+title: "Overconfidence Bias and Its Impact on Investment Returns"
 description: "Discover how overconfidence bias affects investment returns and learn to mitigate its impact with insights from behavioral finance and algo trading strategies."
 ---
 

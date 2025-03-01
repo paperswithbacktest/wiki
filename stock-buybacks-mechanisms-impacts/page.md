@@ -1,5 +1,5 @@
 ---
-title: "Stock Buybacks: Mechanisms and Impacts (Algo Trading)"
+title: "Stock Buybacks: Mechanisms and Impacts"
 description: "Explore the mechanisms and impacts of stock buybacks and algorithmic trading to enhance investment performance by strategically timing buybacks and optimizing trades."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Schiller, Robert (Algo Trading)"
+title: "Schiller, Robert"
 description: Robert Shiller's CAPE ratio is a pivotal financial metric offering long-term market valuation perspectives while algorithmic trading harnesses AI to transform trade execution strategies providing speed and precision. This article explores their synergy and how AI enhances CAPE's application for refined market analysis and investment strategy in dynamic financial landscapes.
 ---
 

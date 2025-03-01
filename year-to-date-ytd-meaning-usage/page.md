@@ -1,5 +1,5 @@
 ---
-title: "Year to Date (YTD): Meaning and Usage (Algo Trading)"
+title: "Year to Date (YTD): Meaning and Usage"
 description: "Discover how Year to Date analysis enhances algorithmic trading strategies by providing insights into financial trends and optimizing trade decisions based on current performance."
 ---
 

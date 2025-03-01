@@ -1,5 +1,5 @@
 ---
-title: "Speculation in Finance (Algo Trading)"
+title: "Speculation in Finance"
 description: "Speculation and algorithmic trading significantly impact financial markets by influencing efficiency and volatility. Learn how these strategies shape trading landscapes."
 ---
 

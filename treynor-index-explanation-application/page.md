@@ -1,5 +1,5 @@
 ---
-title: "Treynor Index: Explanation and Application (Algo Trading)"
+title: "Treynor Index: Explanation and Application"
 description: "Optimize your investment strategies with the Treynor Index, a key metric for assessing risk-adjusted returns crucial for investors and algorithmic traders."
 ---
 

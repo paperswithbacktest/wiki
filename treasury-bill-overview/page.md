@@ -1,5 +1,5 @@
 ---
-title: "Treasury Bill Overview (Algo Trading)"
+title: "Treasury Bill Overview"
 description: "Explore the benefits of algorithmic trading for Treasury Bills including precision, efficiency, and optimized strategies to maximize returns and minimize risks."
 ---
 

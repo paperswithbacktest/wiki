@@ -1,5 +1,5 @@
 ---
-title: "Unqualified Audit in Accounting (Algo Trading)"
+title: "Unqualified Audit in Accounting"
 description: "Explore the significance of unqualified audits in accounting and algo trading Learn how they ensure financial transparency and foster investor confidence"
 ---
 

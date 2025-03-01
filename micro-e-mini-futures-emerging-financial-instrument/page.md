@@ -1,5 +1,5 @@
 ---
-title: "Micro E-Mini Futures as an Emerging Financial Instrument (Algo Trading)"
+title: "Micro E-Mini Futures as an Emerging Financial Instrument"
 description: "Explore Micro E-mini futures and algorithmic trading. Discover how these innovations create accessible investment strategies and transform futures trading."
 ---
 

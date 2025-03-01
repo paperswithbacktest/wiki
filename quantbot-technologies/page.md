@@ -1,5 +1,5 @@
 ---
-title: "Quantbot Technologies (Algo Trading)"
+title: "Quantbot Technologies"
 description: "Discover the cutting-edge algorithmic trading solutions by Quantbot Technologies. Enhance trading efficiency, minimize errors, and leverage high-speed data analysis."
 ---
 

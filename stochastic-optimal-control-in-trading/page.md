@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Optimal Control in Trading (Algo Trading)"
+title: "Stochastic Optimal Control in Trading"
 description: "Explore the crucial role of stochastic optimal control in algorithmic trading strategies to enhance profit while managing risk in unpredictable financial markets."
 ---
 

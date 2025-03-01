@@ -1,5 +1,5 @@
 ---
-title: "Underemployment Equilibrium (Algo Trading)"
+title: "Underemployment Equilibrium"
 description: "Explore the relationship between underemployment equilibrium and algorithmic trading and learn how technological advances shape labor markets and economic balance."
 ---
 

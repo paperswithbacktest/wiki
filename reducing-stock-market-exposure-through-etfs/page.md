@@ -1,5 +1,5 @@
 ---
-title: "Reducing Stock Market Exposure Through ETFs (Algo Trading)"
+title: "Reducing Stock Market Exposure Through ETFs"
 description: "Discover how to reduce stock market exposure using ETFs and algorithmic trading for optimized investment strategies with liquidity and precision."
 ---
 

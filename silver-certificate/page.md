@@ -1,5 +1,5 @@
 ---
-title: "Silver Certificate (Algo Trading)"
+title: "Silver Certificate"
 description: "Discover the evolving market value of silver certificates, their historical significance, and how algorithmic trading enhances investment opportunities."
 ---
 

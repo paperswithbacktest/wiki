@@ -1,5 +1,5 @@
 ---
-title: "Spreadlock: Definition and Mechanism (Algo Trading)"
+title: "Spreadlock: Definition and Mechanism"
 description: "Explore how spreadlocks manage interest rate risks in algorithmic trading. Learn how these tools provide traders with precision and flexibility amidst market volatility."
 ---
 

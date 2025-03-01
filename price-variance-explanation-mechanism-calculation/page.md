@@ -1,5 +1,5 @@
 ---
-title: "Price Variance: Explanation, Mechanism, Calculation (Algo Trading)"
+title: "Price Variance: Explanation, Mechanism, Calculation"
 description: "Understand price variance in algorithmic trading with insights on its impact on strategy, risk, and cost analysis. Optimize performance by mastering variance calculations."
 ---
 

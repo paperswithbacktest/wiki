@@ -1,5 +1,5 @@
 ---
-title: "Red Ink: Meaning, Function, and History (Algo Trading)"
+title: "Red Ink: Meaning, Function, and History"
 description: "Discover the history and significance of 'red ink' in accounting and algorithmic trading. Understand how traditional practices shape modern financial tools."
 ---
 

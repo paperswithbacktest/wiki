@@ -1,5 +1,5 @@
 ---
-title: "Oslo Stock Exchange (Algo Trading)"
+title: "Oslo Stock Exchange"
 description: "Explore Oslo Børs, the Oslo Stock Exchange, a hub for algorithmic trading and financial innovation under Euronext offering diverse global investment opportunities."
 ---
 

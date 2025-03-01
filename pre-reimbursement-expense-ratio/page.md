@@ -1,5 +1,5 @@
 ---
-title: "Pre-Reimbursement Expense Ratio (Algo Trading)"
+title: "Pre-Reimbursement Expense Ratio"
 description: "Explore the impact of expense ratios and reimbursement practices on algorithmic trading strategies for enhanced investment performance and cost efficiency."
 ---
 

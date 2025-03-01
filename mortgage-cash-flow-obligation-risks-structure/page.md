@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Cash Flow Obligation: Overview, Risks, and Structure (Algo Trading)"
+title: "Mortgage Cash Flow Obligation: Overview, Risks, and Structure"
 description: "Explore the dynamics of mortgage cash flow obligations and their impact on financial strategy. Learn about risks, structures, and the role of algorithmic trading."
 ---
 

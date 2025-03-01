@@ -1,5 +1,5 @@
 ---
-title: "Reserve Bank of Australia: Overview and History (Algo Trading)"
+title: "Reserve Bank of Australia: Overview and History"
 description: "Discover the Reserve Bank of Australia's role in shaping economic policies and examine the rise of algorithmic trading that influences global financial systems."
 ---
 

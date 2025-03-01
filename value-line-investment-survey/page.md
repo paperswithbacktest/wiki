@@ -1,5 +1,5 @@
 ---
-title: "Value Line Investment Survey (Algo Trading)"
+title: "Value Line Investment Survey"
 description: "Explore how the Value Line Investment Survey and algo trading can be integrated for enhanced stock market analysis and smarter investment decisions."
 ---
 

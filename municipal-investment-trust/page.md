@@ -1,5 +1,5 @@
 ---
-title: "Municipal Investment Trust (Algo Trading)"
+title: "Municipal Investment Trust"
 description: "Explore Municipal Investment Trusts and their role in modern investing. Learn about the significance of municipal bonds and algorithmic trading in enhancing portfolio performance."
 ---
 

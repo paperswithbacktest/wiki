@@ -1,5 +1,5 @@
 ---
-title: "Naive Diversification and Investment Optimization (Algo Trading)"
+title: "Naive Diversification and Investment Optimization"
 description: "Explore naive diversification and investment optimization in portfolio management Learn how strategy simplicity and algorithmic trading optimize returns and manage risks."
 ---
 

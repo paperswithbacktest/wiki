@@ -1,5 +1,5 @@
 ---
-title: "Uniform Individual Accident and Sickness Policy Provisions (Algo Trading)"
+title: "Uniform Individual Accident and Sickness Policy Provisions"
 description: "Explore how accident and sickness insurance policies and algorithmic trading interconnect to empower financial decisions and optimize strategies in today's market."
 ---
 

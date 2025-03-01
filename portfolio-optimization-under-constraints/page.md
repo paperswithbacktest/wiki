@@ -1,5 +1,5 @@
 ---
-title: "portfolio optimization under constraints (Algo Trading)"
+title: "portfolio optimization under constraints"
 description: "Explore portfolio optimization in algorithmic trading to maximize returns under constraints. Discover techniques to manage constraints and automate trading."
 ---
 

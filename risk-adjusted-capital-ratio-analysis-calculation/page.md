@@ -1,5 +1,5 @@
 ---
-title: "Risk-Adjusted Capital Ratio: Analysis and Calculation (Algo Trading)"
+title: "Risk-Adjusted Capital Ratio: Analysis and Calculation"
 description: "Explore the role of risk-adjusted capital ratios in improving the stability and performance of algorithmic trading strategies in diverse economic conditions."
 ---
 

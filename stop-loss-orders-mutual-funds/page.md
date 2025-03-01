@@ -1,5 +1,5 @@
 ---
-title: "Stop-Loss Orders on Mutual Funds (Algo Trading)"
+title: "Stop-Loss Orders on Mutual Funds"
 description: "Explore mutual funds stop-loss orders and algo trading for optimized investment strategies Minimize risk maximize returns and achieve financial goals"
 ---
 

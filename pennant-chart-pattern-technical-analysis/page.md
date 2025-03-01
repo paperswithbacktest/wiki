@@ -1,5 +1,5 @@
 ---
-title: "Pennant Chart Pattern in Technical Analysis (Algo Trading)"
+title: "Pennant Chart Pattern in Technical Analysis"
 description: "Explore the pennant chart pattern in technical analysis for algo trading and discover how it aids in predicting market trends and enhancing trading strategies."
 ---
 

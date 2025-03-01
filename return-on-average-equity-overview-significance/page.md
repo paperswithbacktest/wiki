@@ -1,5 +1,5 @@
 ---
-title: "Return On Average Equity: Overview and Significance (Algo Trading)"
+title: "Return On Average Equity: Overview and Significance"
 description: "Discover how Return on Average Equity (ROAE) offers a refined view on profitability and its significance in both investment analysis and algorithmic trading strategies."
 ---
 

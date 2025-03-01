@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 12b-25: Overview, Function, and Advantages (Algo Trading)"
+title: "SEC Form 12b-25: Overview, Function, and Advantages"
 description: "Discover how SEC Form 12b-25 aids companies with late financial filings and impacts algo trading, including strategies to handle delays and market dynamics."
 ---
 

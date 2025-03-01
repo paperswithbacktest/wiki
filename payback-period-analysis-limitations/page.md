@@ -1,5 +1,5 @@
 ---
-title: "Payback Period Analysis Limitations (Algo Trading)"
+title: "Payback Period Analysis Limitations"
 description: "Explore the financial limitations of payback period analysis in algo trading with insights into its integration for balanced, informed investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Theta in Options Trading (Algo Trading)"
+title: "Theta in Options Trading"
 description: "Discover the role of Theta in options trading and how algorithmic strategies leverage time decay to enhance portfolio performance and manage risks."
 ---
 

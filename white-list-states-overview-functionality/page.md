@@ -1,5 +1,5 @@
 ---
-title: "White List States: Overview and Functionality (Algo Trading)"
+title: "White List States: Overview and Functionality"
 description: "Explore the role of white list states in algorithmic trading, highlighting their regulatory compliance framework that ensures secure and transparent operations."
 ---
 

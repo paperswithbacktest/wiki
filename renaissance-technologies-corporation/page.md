@@ -1,5 +1,5 @@
 ---
-title: "Renaissance Technologies Corporation (Algo Trading)"
+title: "Renaissance Technologies Corporation"
 description: Renaissance Technologies is a leader in the finance industry, known for its innovative algorithmic trading strategies. Founded by mathematician James Simons, it has transformed quantitative finance with precise market forecasting models. The firm employs complex algorithms using vast data and computing power to exploit market inefficiencies, gaining a significant competitive edge. Their high-frequency trading techniques and continuous model refinement underline their dominance in financial innovation. With a robust risk management framework and cutting-edge mathematical models, Renaissance consistently achieves high returns, setting a standard in algorithmic trading.
 ---
 

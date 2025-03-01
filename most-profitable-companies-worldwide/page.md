@@ -1,5 +1,5 @@
 ---
-title: "List of the Most Profitable Companies Worldwide (Algo Trading)"
+title: "List of the Most Profitable Companies Worldwide"
 description: "Explore the financial strategies of top global companies utilizing algorithmic trading to maximize profits and efficiency in today's competitive market."
 ---
 

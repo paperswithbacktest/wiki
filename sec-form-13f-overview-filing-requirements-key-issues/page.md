@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 13F: Overview, Filing Requirements, Key Issues (Algo Trading)"
+title: "SEC Form 13F: Overview, Filing Requirements, Key Issues"
 description: "Discover the role of SEC Form 13F in algorithmic trading its filing requirements and how it provides strategic insights into institutional investment behaviors."
 ---
 

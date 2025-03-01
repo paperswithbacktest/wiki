@@ -1,5 +1,5 @@
 ---
-title: "regulatory impact on trading (Algo Trading)"
+title: "regulatory impact on trading"
 description: "Explore how regulatory changes affect algorithmic trading, focusing on enhancing transparency and security while balancing innovation and market integrity."
 ---
 

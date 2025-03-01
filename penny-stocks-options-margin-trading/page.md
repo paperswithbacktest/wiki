@@ -1,5 +1,5 @@
 ---
-title: "Penny Stocks, Options, and Margin Trading (Algo Trading)"
+title: "Penny Stocks, Options, and Margin Trading"
 description: "Explore trading strategies like penny stocks, options, and margin trading. Understand how algorithmic trading enhances market maneuvers and manages risks."
 ---
 

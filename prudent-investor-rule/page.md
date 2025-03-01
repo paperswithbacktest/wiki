@@ -1,5 +1,5 @@
 ---
-title: "Prudent Investor Rule (Algo Trading)"
+title: "Prudent Investor Rule"
 description: "Explore the prudent investor rule and its impact on fiduciary duties in modern investment management, including algorithmic trading and portfolio diversification."
 ---
 

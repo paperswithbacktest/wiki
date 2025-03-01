@@ -1,5 +1,5 @@
 ---
-title: "Tailgating: Overview and Examples (Algo Trading)"
+title: "Tailgating: Overview and Examples"
 description: "Discover the dynamic world of tailgating and algorithmic trading where social events, ethical considerations, and advanced tech transform financial markets."
 ---
 

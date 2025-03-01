@@ -1,5 +1,5 @@
 ---
-title: "Petro Gold (Algo Trading)"
+title: "Petro Gold"
 description: "Explore the unique intersection of Venezuela's Petro Gold cryptocurrency and algorithmic trading to uncover innovative opportunities and strategies for savvy investors."
 ---
 

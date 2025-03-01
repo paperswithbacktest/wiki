@@ -1,5 +1,5 @@
 ---
-title: "Sector Breakdown: Definition and Application (Algo Trading)"
+title: "Sector Breakdown: Definition and Application"
 description: "Explore the integration of sector analysis and algorithmic trading to enhance investment strategies Analyze industry trends to optimize returns and manage risk"
 ---
 

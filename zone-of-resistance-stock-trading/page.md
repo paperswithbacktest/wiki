@@ -1,5 +1,5 @@
 ---
-title: "Zone of Resistance in Stock Trading (Algo Trading)"
+title: "Zone of Resistance in Stock Trading"
 description: "Explore key strategies and tools to identify resistance zones in stock trading, crucial for predicting price movements and enhancing algorithmic trading success."
 ---
 

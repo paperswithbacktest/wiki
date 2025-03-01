@@ -1,5 +1,5 @@
 ---
-title: "Regulation Q: Overview, Historical Context, and Modern Impact (Algo Trading)"
+title: "Regulation Q: Overview, Historical Context, and Modern Impact"
 description: "Explore Regulation Q’s historical influence on banking and its impact on financial stability and innovation, highlighting its relevance in today's regulation dynamics."
 ---
 

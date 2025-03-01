@@ -1,5 +1,5 @@
 ---
-title: "Triangles in Continuation Patterns (Algo Trading)"
+title: "Triangles in Continuation Patterns"
 description: "Explore the role of triangle patterns in algorithmic trading to enhance your strategy. Learn to identify these powerful chart formations for better market analysis."
 ---
 

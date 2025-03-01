@@ -1,5 +1,5 @@
 ---
-title: "Two-Hour Daily Trading Strategy (Algo Trading)"
+title: "Two-Hour Daily Trading Strategy"
 description: "Explore effective two-hour daily trading strategies in algo trading to enhance returns by leveraging automated systems that capitalize on market inefficiencies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Shareholders: Rights and Types (Algo Trading)"
+title: "Shareholders: Rights and Types"
 description: "Explore the roles and types of investors and shareholders, understand algorithmic trading's impact on modern markets, and gain insights into corporate governance."
 ---
 

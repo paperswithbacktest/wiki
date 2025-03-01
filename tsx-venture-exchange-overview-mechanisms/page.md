@@ -1,5 +1,5 @@
 ---
-title: "TSX Venture Exchange: Overview and Mechanisms (Algo Trading)"
+title: "TSX Venture Exchange: Overview and Mechanisms"
 description: "Explore the role of the TSX Venture Exchange TSXV in Canada's stock market for small-cap investments and algorithmic trading pivotal for emerging companies."
 ---
 

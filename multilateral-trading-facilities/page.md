@@ -1,5 +1,5 @@
 ---
-title: "Multilateral Trading Facilities (Algo Trading)"
+title: "Multilateral Trading Facilities"
 description: "Explore the dynamic intersection of multilateral trading facilities and algorithmic trading as they redefine market access and trading efficiency. Discover how these innovative platforms foster competition, transparency, and speed, allowing increased opportunities across diverse asset classes. Leverage insights on the benefits and challenges of modern trading to optimize your strategies in an evolving financial landscape."
 ---
 

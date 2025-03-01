@@ -1,5 +1,5 @@
 ---
-title: "Overnight Trading and Its Mechanism (Algo Trading)"
+title: "Overnight Trading and Its Mechanism"
 description: "Explore the intricacies of stock market overnight trading Discover its benefits risks and the role of algorithmic trading within this after-hours financial landscape"
 ---
 

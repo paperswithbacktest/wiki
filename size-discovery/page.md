@@ -1,5 +1,5 @@
 ---
-title: "size discovery (Algo Trading)"
+title: "size discovery"
 description: "Discover the critical role of size discovery in algorithmic trading optimizing order sizes to minimize market impact and enhance trading strategy efficiency."
 ---
 

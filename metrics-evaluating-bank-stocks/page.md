@@ -1,5 +1,5 @@
 ---
-title: "Metrics for Evaluating Bank Stocks (Algo Trading)"
+title: "Metrics for Evaluating Bank Stocks"
 description: "Explore key metrics to evaluate bank stocks and enhance algorithmic trading strategies. Gain insights to make informed decisions in financial markets."
 ---
 

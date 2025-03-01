@@ -1,5 +1,5 @@
 ---
-title: "Outperform in Finance and Investing (Algo Trading)"
+title: "Outperform in Finance and Investing"
 description: "Explore how algorithmic trading transforms finance with advanced strategies for rapid, efficient trades. Learn about its advantages, challenges, and impacts."
 ---
 

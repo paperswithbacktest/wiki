@@ -1,5 +1,5 @@
 ---
-title: "Option Moneyness: Concepts and Valuation (Algo Trading)"
+title: "Option Moneyness: Concepts and Valuation"
 description: "Explore the concepts of option moneyness and valuation in algorithmic trading Uncover how moneyness impacts options trading profitability and decision-making"
 ---
 

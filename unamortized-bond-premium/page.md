@@ -1,5 +1,5 @@
 ---
-title: "Unamortized Bond Premium (Algo Trading)"
+title: "Unamortized Bond Premium"
 description: "Explore the impact of unamortized bond premiums on investment strategies and financial reporting. Learn about its role in modern algorithmic trading."
 ---
 

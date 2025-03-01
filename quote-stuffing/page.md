@@ -1,5 +1,5 @@
 ---
-title: "Quote stuffing (Algo Trading)"
+title: "Quote stuffing"
 description: "Quote stuffing in algorithmic trading misleads markets by flooding them with rapid orders, creating artificial congestion and offering advantages to high-frequency traders."
 ---
 

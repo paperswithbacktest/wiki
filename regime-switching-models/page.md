@@ -1,5 +1,5 @@
 ---
-title: "Regime-switching models (Algo Trading)"
+title: "Regime-switching models"
 description: "Explore how regime-switching models enhance trading strategies by analyzing market conditions, allowing traders to optimize performance and manage risk effectively."
 ---
 

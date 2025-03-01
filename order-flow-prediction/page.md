@@ -1,5 +1,5 @@
 ---
-title: "Order Flow Prediction (Algo Trading)"
+title: "Order Flow Prediction"
 description: "Discover how order flow prediction in algorithmic trading enables foresight into market dynamics improving strategy profitability and reducing risk exposure."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Options arbitrage (Algo Trading)"
+title: "Options arbitrage"
 description: Options arbitrage in algorithmic trading leverages pricing inefficiencies in the options market to execute low-risk strategies for consistent profits. This approach involves detecting and capitalizing on the mispricing of options relative to their theoretical values through strategies like conversions and reversals. Conversions neutralize market risk by shorting calls, longing puts, and purchasing the underlying asset when options are overpriced, while reversals do the opposite for underpriced options. The rapid advancement in trading technology and algorithms has refined the ability to spot these opportunities, enabling traders to act with unmatched speed and precision. Despite fewer opportunities due to quick market corrections, options arbitrage remains a vital component of sophisticated trading strategies.
 ---
 

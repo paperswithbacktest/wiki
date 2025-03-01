@@ -1,5 +1,5 @@
 ---
-title: "Trough in the Business Cycle: Phase Examples (Algo Trading)"
+title: "Trough in the Business Cycle: Phase Examples"
 description: "Explore how understanding the business cycle, particularly the trough phase, can enhance algorithmic trading strategies, unlocking investment opportunities during economic recoveries."
 ---
 

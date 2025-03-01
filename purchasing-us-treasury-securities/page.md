@@ -1,5 +1,5 @@
 ---
-title: "Purchasing U.S. Treasury Securities (Algo Trading)"
+title: "Purchasing U.S. Treasury Securities"
 description: "Explore the dynamics of U.S. Treasury securities investments, highlighting the blend of traditional methods and modern algorithmic trading. This in-depth article investigates into the efficiencies and precision algorithmic trading brings to bond markets, providing a roadmap for investors to enhance portfolio strategies. Learn about different types of treasury securities, their benefits, and step-by-step guidance on purchasing through TreasuryDirect, banks, and brokerages. Understand the critical role of auctions and secondary markets in optimizing returns, offering vital insights into investing in one of the safest investment vehicles backed by the U.S. government."
 ---
 

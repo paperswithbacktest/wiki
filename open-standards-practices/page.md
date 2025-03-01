@@ -1,5 +1,5 @@
 ---
-title: "Open Standards and Practices (Algo Trading)"
+title: "Open Standards and Practices"
 description: "This insightful article investigates into the critical role of open-source software, open standards, and transparency in algorithmic trading. It highlights the importance of fostering trust and minimizing risks in automated trading systems. By adopting open-source principles, traders can benefit from collaborative development and shared knowledge, enhancing reliability and innovation. Open standards ensure interoperability between diverse systems, facilitating smoother operations and reducing errors. Transparency is crucial for accountability and fairness, helping mitigate risks and promoting market integrity. Embracing openness can transform market dynamics, leading to more resilient and equitable trading systems."
 ---
 

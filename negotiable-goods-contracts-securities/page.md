@@ -1,5 +1,5 @@
 ---
-title: "Negotiable Goods, Contracts, and Securities (Algo Trading)"
+title: "Negotiable Goods, Contracts, and Securities"
 description: "Discover the crucial roles of negotiable goods, securities contracts, and algorithmic trading in modern finance and their impact on global markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "World Bank: Overview and Functions (Algo Trading)"
+title: "World Bank: Overview and Functions"
 description: "Explore the role of the World Bank in global development and the impact of algorithmic trading on international finance highlighting dynamic insights."
 ---
 

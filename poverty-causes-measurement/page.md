@@ -1,5 +1,5 @@
 ---
-title: "Poverty: Causes and Measurement (Algo Trading)"
+title: "Poverty: Causes and Measurement"
 description: "Explore the complexities of poverty its causes and measurement methods. Discover how algorithmic trading insights could inform strategies for poverty alleviation."
 ---
 

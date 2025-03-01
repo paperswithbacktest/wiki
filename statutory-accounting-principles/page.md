@@ -1,5 +1,5 @@
 ---
-title: "Statutory Accounting Principles (Algo Trading)"
+title: "Statutory Accounting Principles"
 description: "Explore statutory accounting principles in algorithmic trading focusing on fiscal stability and solvency for insurance firms through SAP and GAAP distinctions."
 ---
 

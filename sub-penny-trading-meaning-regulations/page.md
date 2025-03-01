@@ -1,5 +1,5 @@
 ---
-title: "Sub-Penny Trading: Meaning and Regulations (Algo Trading)"
+title: "Sub-Penny Trading: Meaning and Regulations"
 description: "Discover the intricate world of financial markets with our insight into sub-penny trading and the regulations surrounding it. Delve into how trading in increments smaller than a penny has transformed market dynamics and liquidity while posing challenges concerning complexity and fairness. Explore algorithmic trading and its significant impact on market efficiency and volatility. This article offers a comprehensive overview of the interplay between trading regulations and modern market practices, essential for navigating today's financial landscape. Perfect for investors, regulators, and policymakers, this guide anticipates future developments shaped by rapid technological advancements."
 ---
 

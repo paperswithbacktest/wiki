@@ -1,5 +1,5 @@
 ---
-title: "Naked Short Selling (Algo Trading)"
+title: "Naked Short Selling"
 description: "Explore the complexities of naked short selling and algorithmic trading in today's financial markets Learn about their impact on market dynamics and regulations"
 ---
 

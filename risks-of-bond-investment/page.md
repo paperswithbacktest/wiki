@@ -1,5 +1,5 @@
 ---
-title: "Risks of Bond Investment (Algo Trading)"
+title: "Risks of Bond Investment"
 description: "Explore the inherent risks of bond investments including interest rate and inflation impacts and learn how algorithmic trading can optimize strategy and returns."
 ---
 

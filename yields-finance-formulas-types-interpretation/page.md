@@ -1,5 +1,5 @@
 ---
-title: "Yields in Finance: Formulas, Types, and Interpretation (Algo Trading)"
+title: "Yields in Finance: Formulas, Types, and Interpretation"
 description: "Discover the key financial formulas and yield types essential for investors, explore the impact of algorithmic trading, and enhance your investment strategies."
 ---
 

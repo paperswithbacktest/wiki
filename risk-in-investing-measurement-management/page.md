@@ -1,5 +1,5 @@
 ---
-title: "Risk in Investing: Measurement and Management (Algo Trading)"
+title: "Risk in Investing: Measurement and Management"
 description: "Explore essential risk measurement and management strategies in algo trading to enhance investment success and navigate fast-paced market environments effectively."
 ---
 

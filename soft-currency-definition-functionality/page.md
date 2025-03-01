@@ -1,5 +1,5 @@
 ---
-title: "Soft Currency: Definition and Functionality (Algo Trading)"
+title: "Soft Currency: Definition and Functionality"
 description: "Dive into the world of forex trading, understanding soft currencies and algorithmic trading strategies, and explore how they shape the dynamic forex market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pure Yield Pickup Swap (Algo Trading)"
+title: "Pure Yield Pickup Swap"
 description: "Discover how interest rate swaps, yield pickup strategies, and algorithmic trading synergize to enhance fixed income portfolios for optimal returns and risk management."
 ---
 

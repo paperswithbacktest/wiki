@@ -1,5 +1,5 @@
 ---
-title: "Pass-Through Securities and Associated Risks (Algo Trading)"
+title: "Pass-Through Securities and Associated Risks"
 description: "Explore the complexities and risks associated with pass-through securities and algorithmic trading in financial markets. Discover how these instruments function, understand the potential pitfalls like default, prepayment, and systemic risks, and learn strategies to optimize investment decisions while minimizing risks. This article provides insights into the dynamics of modern financial instruments, empowering investors to navigate investments carefully."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Private Purchase (Algo Trading)"
+title: "Private Purchase"
 description: "Explore the intersection of private purchase and algorithmic trading to optimize investments. Understand how technology transforms modern financial strategies."
 ---
 

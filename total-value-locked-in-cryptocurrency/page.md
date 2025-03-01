@@ -1,5 +1,5 @@
 ---
-title: "Total Value Locked in Cryptocurrency (Algo Trading)"
+title: "Total Value Locked in Cryptocurrency"
 description: "Discover how Total Value Locked (TVL) impacts cryptocurrency and algorithmic trading by providing vital insights into DeFi project health liquidity and investor confidence."
 ---
 

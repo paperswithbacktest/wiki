@@ -1,5 +1,5 @@
 ---
-title: "Negative Income Tax: Overview and Mechanism (Algo Trading)"
+title: "Negative Income Tax: Overview and Mechanism"
 description: "Explore the complex interplay between negative income tax and algorithmic trading A comprehensive guide on their roles in economic resilience and policy innovation"
 ---
 

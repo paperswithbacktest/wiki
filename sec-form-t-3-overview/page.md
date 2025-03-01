@@ -1,5 +1,5 @@
 ---
-title: "SEC Form T-3 Overview (Algo Trading)"
+title: "SEC Form T-3 Overview"
 description: "Explore SEC Form T-3's critical role in public debt issuance providing transparency and regulatory compliance insights crucial for companies and traders alike."
 ---
 

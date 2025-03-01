@@ -1,5 +1,5 @@
 ---
-title: "Stuckholder: Definition and Functionality (Algo Trading)"
+title: "Stuckholder: Definition and Functionality"
 description: "Explore the distinct roles of stuckholders and stakeholders in business and algo trading Learn how these concepts impact strategy liquidity and market engagement"
 ---
 

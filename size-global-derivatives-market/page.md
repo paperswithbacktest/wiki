@@ -1,5 +1,5 @@
 ---
-title: "Size of the Global Derivatives Market (Algo Trading)"
+title: "Size of the Global Derivatives Market"
 description: "Explore the expansive global derivatives market and the transformative impact of algorithmic trading, highlighting market growth, key players, and emerging trends."
 ---
 

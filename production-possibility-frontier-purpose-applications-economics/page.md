@@ -1,5 +1,5 @@
 ---
-title: "Production Possibility Frontier: Purpose and Applications in Economics (Algo Trading)"
+title: "Production Possibility Frontier: Purpose and Applications in Economics"
 description: "Explore how the Production Possibility Frontier enhances algorithmic trading by optimizing decisions through economic theories like trade-offs and resource efficiency."
 ---
 

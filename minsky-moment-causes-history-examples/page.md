@@ -1,5 +1,5 @@
 ---
-title: "Minsky Moment: Causes, History, and Examples (Algo Trading)"
+title: "Minsky Moment: Causes, History, and Examples"
 description: "Explore the causes and history of economic crises focusing on the Minsky Moment and algorithmic trading's impact on financial stability and market dynamics."
 ---
 

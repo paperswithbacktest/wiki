@@ -1,5 +1,5 @@
 ---
-title: "Ted Naganawa: Biography (Algo Trading)"
+title: "Ted Naganawa: Biography"
 description: "Explore the influential career of Ted Naganawa in algorithmic trading His unique expertise bridges financial strategies and geopolitical insights across US and China"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "New Zealand Stock Exchange (Algo Trading)"
+title: "New Zealand Stock Exchange"
 description: "Explore the role of the New Zealand Stock Exchange in financial markets discover its range of products and the impact of algorithmic trading on efficiency."
 ---
 

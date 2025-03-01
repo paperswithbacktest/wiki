@@ -1,5 +1,5 @@
 ---
-title: "Moving average (Algo Trading)"
+title: "Moving average"
 description: Discover how moving averages, essential statistical tools in algorithmic trading, help traders analyze and smooth out price data to identify market trends. Learn about different types, including Simple, Cumulative, and Weighted Moving Averages, and their unique roles in reducing short-term noise, highlighting longer-term trends, and guiding strategic trading decisions.
 ---
 

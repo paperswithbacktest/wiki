@@ -1,5 +1,5 @@
 ---
-title: "Statutory Audit and Types (Algo Trading)"
+title: "Statutory Audit and Types"
 description: "Explore the essential aspects of statutory audits and various audit types, emphasizing their significance in financial transparency and algorithmic trading impacts."
 ---
 

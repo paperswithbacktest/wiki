@@ -1,5 +1,5 @@
 ---
-title: "T-Distribution in Probability and Its Applications (Algo Trading)"
+title: "T-Distribution in Probability and Its Applications"
 description: "Explore how the t-distribution supports precise decision-making in algorithmic trading by evaluating strategies and managing risks with small data sets."
 ---
 

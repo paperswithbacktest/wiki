@@ -1,5 +1,5 @@
 ---
-title: "Return on Investment: Meaning and Calculation Formulas (Algo Trading)"
+title: "Return on Investment: Meaning and Calculation Formulas"
 description: "Discover the essential insights on Return on Investment (ROI) and the role it plays in algorithmic trading strategies. This guide covers the importance of ROI as a key financial metric providing a comprehensive overview on how it is calculated and applied to optimize investment performance. Learn about the integration of ROI in algo trading to ensure efficient and risk-averse financial operations focusing on accurate evaluations for superior investment success."
 ---
 

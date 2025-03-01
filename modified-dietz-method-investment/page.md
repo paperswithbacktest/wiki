@@ -1,5 +1,5 @@
 ---
-title: "Modified Dietz Method in Investment (Algo Trading)"
+title: "Modified Dietz Method in Investment"
 description: "Explore the Modified Dietz method in investment performance measurement for accurate return calculations amid frequent cash flows in algorithmic trading."
 ---
 

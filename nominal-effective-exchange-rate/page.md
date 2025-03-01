@@ -1,5 +1,5 @@
 ---
-title: "Nominal Effective Exchange Rate (Algo Trading)"
+title: "Nominal Effective Exchange Rate"
 description: "Delve into the complex world of currency valuation and forex dynamics, exploring how algorithmic trading influences global markets and exchange rate mechanisms."
 ---
 

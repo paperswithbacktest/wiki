@@ -1,5 +1,5 @@
 ---
-title: "Stock Versus Bond Performance (Algo Trading)"
+title: "Stock Versus Bond Performance"
 description: "Explore the contrasting dynamics of bonds and stocks through a comprehensive analysis on algorithmic trading to enhance your investment strategy's performance."
 ---
 

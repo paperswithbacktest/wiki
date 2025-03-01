@@ -1,5 +1,5 @@
 ---
-title: "Pros and Cons of Exchange-Traded Funds (Algo Trading)"
+title: "Pros and Cons of Exchange-Traded Funds"
 description: "Discover the advantages and risks of exchange-traded funds and algorithmic trading in this comprehensive guide to optimizing your investment strategy."
 ---
 

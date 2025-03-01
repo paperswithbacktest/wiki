@@ -1,5 +1,5 @@
 ---
-title: "Optimal Control in Trading (Algo Trading)"
+title: "Optimal Control in Trading"
 description: "Discover the synergy between algorithmic trading and optimal control in financial markets Learn how complex algorithms enhance trade execution and risk management"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Proof of Capacity in Cryptocurrency (Algo Trading)"
+title: "Proof of Capacity in Cryptocurrency"
 description: "Explore the energy-efficient Proof of Capacity consensus mechanism for cryptocurrencies and its implications for algorithmic trading within evolving blockchain technology."
 ---
 

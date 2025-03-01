@@ -1,5 +1,5 @@
 ---
-title: "Soft Commodity Futures Trading (Algo Trading)"
+title: "Soft Commodity Futures Trading"
 description: "Explore the role of algorithmic trading in soft commodity futures markets offering insights into trading strategies and regulatory frameworks for cocoa coffee and sugar."
 ---
 

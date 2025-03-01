@@ -1,5 +1,5 @@
 ---
-title: "Mid-Cap ESG Investment Strategies (Algo Trading)"
+title: "Mid-Cap ESG Investment Strategies"
 description: "Explore mid-cap ESG investment strategies enhanced by algorithmic trading to achieve financial success and positive societal impact through sustainable investing."
 ---
 

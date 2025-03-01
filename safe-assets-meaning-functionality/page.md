@@ -1,5 +1,5 @@
 ---
-title: "Safe Assets: Meaning and Functionality (Algo Trading)"
+title: "Safe Assets: Meaning and Functionality"
 description: "Explore how safe assets and algorithmic trading contribute to financial stability and growth in investment portfolios by mitigating risk and enhancing returns."
 ---
 

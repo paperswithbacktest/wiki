@@ -1,5 +1,5 @@
 ---
-title: "Use of Financial Advisors (Algo Trading)"
+title: "Use of Financial Advisors"
 description: "Explore the synergy of financial advisors and algorithmic trading in personal finance management Learn how expert advice and technology enhance financial decisions"
 ---
 

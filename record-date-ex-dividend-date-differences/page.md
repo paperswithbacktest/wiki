@@ -1,5 +1,5 @@
 ---
-title: "Record Date and Ex-Dividend Date Differences (Algo Trading)"
+title: "Record Date and Ex-Dividend Date Differences"
 description: "Discover the intricacies of dividend investing, focusing on the importance of record and ex-dividend dates, and how the integration of algorithmic trading techniques can enhance investment strategies. Learn how to optimize trading decisions by leveraging detailed knowledge of dividend timelines for improved income generation and capital gains."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Trading: Overview, Examples, and Profitability (Algo Trading)"
+title: "Quantitative Trading: Overview, Examples, and Profitability"
 description: "Explore quantitative trading's role in today's financial markets with insights into how mathematical models and data-driven strategies increase trading efficiency."
 ---
 

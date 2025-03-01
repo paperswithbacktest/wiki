@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Power and Consumer Price Index (Algo Trading)"
+title: "Purchasing Power and Consumer Price Index"
 description: "Explore the interconnectedness of purchasing power, inflation, consumer price index (CPI), and algorithmic trading in today's economic landscape. Understand how inflation affects purchasing power and how the CPI measures changes in consumer prices. Discover the role of algorithmic trading in modern financial markets and its reliance on economic indicators to execute trades efficiently. This article investigates into historical trends, recent changes, and future prospects of these metrics, offering insights into their implications on financial markets and personal financial well-being."
 ---
 

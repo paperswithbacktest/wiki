@@ -1,5 +1,5 @@
 ---
-title: "S&P/TSX Composite Index: Components and Purchasing Guide (Algo Trading)"
+title: "S&P/TSX Composite Index: Components and Purchasing Guide"
 description: "Explore a comprehensive guide to the S&P/TSX Composite Index its components and how to invest using algorithmic trading for optimized market engagement."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Secondary Liability and Its Mechanisms (Algo Trading)"
+title: "Secondary Liability and Its Mechanisms"
 description: "Explore the complexities of secondary and indirect liability in algorithmic trading Discover how legal frameworks address risks, ensuring ethical market practices"
 ---
 

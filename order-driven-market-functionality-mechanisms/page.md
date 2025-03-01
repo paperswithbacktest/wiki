@@ -1,5 +1,5 @@
 ---
-title: "Order-Driven Market: Functionality and Mechanisms (Algo Trading)"
+title: "Order-Driven Market: Functionality and Mechanisms"
 description: "Explore key concepts of order-driven markets and algorithmic trading to understand how they influence trade executions and participant interactions in market dynamics."
 ---
 

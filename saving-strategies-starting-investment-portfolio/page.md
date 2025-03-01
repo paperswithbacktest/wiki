@@ -1,5 +1,5 @@
 ---
-title: "Saving Strategies for Starting an Investment Portfolio (Algo Trading)"
+title: "Saving Strategies for Starting an Investment Portfolio"
 description: "Discover strategies to start your investment portfolio with insights on savings habits, algorithmic trading, and financial planning to achieve financial security."
 ---
 

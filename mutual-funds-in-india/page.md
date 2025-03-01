@@ -1,5 +1,5 @@
 ---
-title: "Mutual Funds in India (Algo Trading)"
+title: "Mutual Funds in India"
 description: "Explore how mutual funds and algorithmic trading shape financial planning in India offering diversification professional management and efficient execution."
 ---
 

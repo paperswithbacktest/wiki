@@ -1,5 +1,5 @@
 ---
-title: "Unlevered Beta: Formula, Example, and Calculation (Algo Trading)"
+title: "Unlevered Beta: Formula, Example, and Calculation"
 description: "Explore the essentials of unlevered beta in algo trading to optimize investment strategies by understanding risk without financial leverage. Discover key insights."
 ---
 

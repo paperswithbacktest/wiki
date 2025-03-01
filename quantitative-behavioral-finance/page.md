@@ -1,5 +1,5 @@
 ---
-title: "Quantitative behavioral finance (Algo Trading)"
+title: "Quantitative behavioral finance"
 description: "Explore quantitative behavioral finance in algorithmic trading, where psychological insights and biases enhance market modeling and refine automated trading strategies."
 ---
 

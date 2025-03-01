@@ -1,5 +1,5 @@
 ---
-title: "Partial Differential Equation (Algo Trading)"
+title: "Partial Differential Equation"
 description: "Explore the role of partial differential equations in algorithmic trading. These equations help model market dynamics, aiding in strategy development and risk assessment."
 ---
 

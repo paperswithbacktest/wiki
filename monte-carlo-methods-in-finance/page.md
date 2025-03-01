@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo methods in finance (Algo Trading)"
+title: "Monte Carlo methods in finance"
 description: "Explore how Monte Carlo methods enhance algorithmic trading by simulating multiple financial scenarios to manage risk and strategy robustness effectively."
 ---
 

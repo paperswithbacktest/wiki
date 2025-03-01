@@ -1,5 +1,5 @@
 ---
-title: "S&P BSE Sensex Index and Its Significance for the Bombay Stock Exchange (Algo Trading)"
+title: "S&P BSE Sensex Index and Its Significance for the Bombay Stock Exchange"
 description: "Discover the significance of the S&P BSE Sensex for the Bombay Stock Exchange and how algorithmic trading is reshaping India's financial markets."
 ---
 

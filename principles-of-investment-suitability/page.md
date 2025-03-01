@@ -1,5 +1,5 @@
 ---
-title: "Principles of Investment Suitability (Algo Trading)"
+title: "Principles of Investment Suitability"
 description: "Discover the foundations of investment suitability combining systematic principles and algorithmic trading to optimize portfolios and align with financial goals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Short-Term Investment Funds (Algo Trading)"
+title: "Short-Term Investment Funds"
 description: "Explore the synergy of short-term investment funds and algorithmic trading for liquidity, efficiency, and strategic financial management in modern finance."
 ---
 

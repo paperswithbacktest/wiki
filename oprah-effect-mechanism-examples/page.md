@@ -1,5 +1,5 @@
 ---
-title: "Oprah Effect: Mechanism and Examples (Algo Trading)"
+title: "Oprah Effect: Mechanism and Examples"
 description: "Explore 'The Oprah Effect' and its impact on consumer behavior, blending celebrity influence with algorithmic trading to shape market dynamics and brand success."
 ---
 

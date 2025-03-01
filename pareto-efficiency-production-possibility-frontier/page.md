@@ -1,5 +1,5 @@
 ---
-title: "Pareto Efficiency and Production Possibility Frontier (Algo Trading)"
+title: "Pareto Efficiency and Production Possibility Frontier"
 description: "Explore Pareto Efficiency and Production Possibility Frontier in algorithmic trading to optimize resource allocation and economic outcomes with advanced models."
 ---
 

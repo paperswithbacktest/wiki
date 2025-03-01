@@ -1,5 +1,5 @@
 ---
-title: "Tezos (XTZ): Overview and Functionality in Cryptocurrency (Algo Trading)"
+title: "Tezos (XTZ): Overview and Functionality in Cryptocurrency"
 description: "Discover Tezos XTZ's innovative on-chain governance and eco-friendly PoS mechanism Learn how this blockchain stands out in crypto and algorithmic trading"
 ---
 

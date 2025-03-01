@@ -1,5 +1,5 @@
 ---
-title: "Risk Capital: Functions and Applications (Algo Trading)"
+title: "Risk Capital: Functions and Applications"
 description: "Explore advanced strategies in risk capital investment and algo trading to optimize returns while managing financial risks in today's dynamic market environment."
 ---
 

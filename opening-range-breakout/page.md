@@ -1,5 +1,5 @@
 ---
-title: "Opening Range Breakout Strategy (Algo Trading)"
+title: "Opening Range Breakout Strategy"
 description: The Opening Range Breakout (ORB) strategy is a widely used approach in algorithmic trading that takes advantage of market volatility in the early hours of trading. Known for identifying profitable opportunities through price movement analysis as markets open, the ORB strategy is rooted in principles from the 1960s and has evolved to include modern technological tools. This article provides a comprehensive guide on the ORB strategy, discussing its workings, historical background, and applicability to different markets like stocks and forex. By incorporating advancements in trading technology, such as algorithmic systems and backtesting, traders can improve strategy execution and risk management within the ORB framework.
 ---
 

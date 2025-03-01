@@ -1,5 +1,5 @@
 ---
-title: "On-Balance Volume: Concept and Computation (Algo Trading)"
+title: "On-Balance Volume: Concept and Computation"
 description: "On-Balance Volume (OBV) serves as a vital momentum indicator in technical analysis used to gauge buying and selling pressure within market trends. Developed by Joseph Granville in the 1960s, OBV assists traders in anticipating price movements through volume analysis. Its predictive nature allows traders to make informed decisions, enhancing its significance in algorithmic trading systems, which rely on pre-defined strategies. This article investigates into OBV's importance in algo trading, calculating its value and interpreting its indications to provide traders with a strategic advantage across varying market conditions."
 ---
 

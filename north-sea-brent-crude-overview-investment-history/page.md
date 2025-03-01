@@ -1,5 +1,5 @@
 ---
-title: "North Sea Brent Crude: Overview, Investment, History (Algo Trading)"
+title: "North Sea Brent Crude: Overview, Investment, History"
 description: "Explore the significance of North Sea Brent Crude oil as a global price benchmark and its investment potential in the evolving landscape of algorithmic trading."
 ---
 

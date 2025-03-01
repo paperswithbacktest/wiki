@@ -1,5 +1,5 @@
 ---
-title: "Sama Foreign Holdings in Saudi Arabia: Objectives and Strategy (Algo Trading)"
+title: "Sama Foreign Holdings in Saudi Arabia: Objectives and Strategy"
 description: "Discover how SAMA Foreign Holdings leverages algorithmic trading to optimize international investments and maintain Saudi Arabia's economic resilience."
 ---
 

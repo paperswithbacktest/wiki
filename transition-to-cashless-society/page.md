@@ -1,5 +1,5 @@
 ---
-title: "Transition to a Cashless Society (Algo Trading)"
+title: "Transition to a Cashless Society"
 description: "Explore the shift towards a cashless society driven by digital payments and algorithmic trading. Discover the benefits and challenges of this financial evolution."
 ---
 

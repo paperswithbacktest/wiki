@@ -1,5 +1,5 @@
 ---
-title: "Quantity-Adjusting Option: Benefits and FAQs (Algo Trading)"
+title: "Quantity-Adjusting Option: Benefits and FAQs"
 description: "Explore the advantages and FAQs of quantity-adjusting options in algo trading Learn how these derivatives help manage currency risk in global markets"
 ---
 

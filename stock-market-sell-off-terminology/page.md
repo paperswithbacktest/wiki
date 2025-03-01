@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Sell-Off Terminology (Algo Trading)"
+title: "Stock Market Sell-Off Terminology"
 description: "Explore the intricacies of stock market sell-offs and their impact on algorithmic trading with our comprehensive guide. Understand key triggers and strategies for managing market volatility and enhancing trading performance. Gain insights into essential terminology that will help you navigate and adapt to market fluctuations effectively. This article is a must-read for traders seeking to optimize their strategies amid dynamic market conditions."
 ---
 

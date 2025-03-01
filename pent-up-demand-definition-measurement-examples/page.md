@@ -1,5 +1,5 @@
 ---
-title: "Pent-Up Demand: Definition, Measurement, and Examples (Algo Trading)"
+title: "Pent-Up Demand: Definition, Measurement, and Examples"
 description: "Understand pent-up demand in economics with our insightful exploration of its definition, measurement, and examples. Learn how it drives market recovery."
 ---
 

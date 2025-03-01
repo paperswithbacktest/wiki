@@ -1,5 +1,5 @@
 ---
-title: "Total Return Calculation and Examples (Algo Trading)"
+title: "Total Return Calculation and Examples"
 description: "Learn how total return calculations can enhance algorithmic trading strategies and improve investment performance evaluation by comprehensively measuring returns."
 ---
 

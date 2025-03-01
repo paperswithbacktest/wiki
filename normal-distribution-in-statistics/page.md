@@ -1,5 +1,5 @@
 ---
-title: "Normal Distribution in Statistics (Algo Trading)"
+title: "Normal Distribution in Statistics"
 description: "Explore how the normal distribution aids algorithmic trading by helping traders interpret market data, predict movements and refine strategies for better decision-making."
 ---
 

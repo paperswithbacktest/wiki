@@ -1,5 +1,5 @@
 ---
-title: "Signum Cryptocurrency: Mining and Features (Algo Trading)"
+title: "Signum Cryptocurrency: Mining and Features"
 description: "Explore Signum Cryptocurrency Discover eco-friendly mining with unique Proof-of-Capacity, innovative blockchain features, and the evolving role of algorithmic trading"
 ---
 

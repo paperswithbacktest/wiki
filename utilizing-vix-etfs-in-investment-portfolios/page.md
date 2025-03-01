@@ -1,5 +1,5 @@
 ---
-title: "Utilizing VIX ETFs in Investment Portfolios (Algo Trading)"
+title: "Utilizing VIX ETFs in Investment Portfolios"
 description: "Explore how VIX ETFs serve as valuable tools in investment portfolios for hedging against market volatility and leveraging algorithmic trading strategies."
 ---
 

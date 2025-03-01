@@ -1,5 +1,5 @@
 ---
-title: "Treasury Yield and Influencing Factors (Algo Trading)"
+title: "Treasury Yield and Influencing Factors"
 description: "Explore how Treasury yields and algorithmic trading impact economic conditions and financial markets Discover their influence on interest rates and investment strategies"
 ---
 

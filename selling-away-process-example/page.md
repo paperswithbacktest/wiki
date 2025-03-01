@@ -1,5 +1,5 @@
 ---
-title: "Selling Away: Process and Example (Algo Trading)"
+title: "Selling Away: Process and Example"
 description: "Explore the dynamics of selling away in algo trading amidst evolving financial guidelines Understand investment advising and the role of financial regulations"
 ---
 

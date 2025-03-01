@@ -1,5 +1,5 @@
 ---
-title: "Switzerland Cuts Interest Rates As Inflation Declines (Algo Trading)"
+title: "Switzerland Cuts Interest Rates As Inflation Declines"
 description: "Switzerland cuts interest rates as inflation declines impacting global markets. The shift highlights the role of algo trading in adapting to economic changes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MyCrypto Wallet Review 2024 (Algo Trading)"
+title: "MyCrypto Wallet Review 2024"
 description: "Explore MyCrypto Wallet’s user-centric features for Ethereum and ERC20 tokens. Discover its integration with algorithmic trading platforms for automated trading insights."
 ---
 

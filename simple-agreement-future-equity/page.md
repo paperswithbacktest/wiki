@@ -1,5 +1,5 @@
 ---
-title: "Simple Agreement for Future Equity (Algo Trading)"
+title: "Simple Agreement for Future Equity"
 description: "Discover how startups can harness SAFE agreements and algorithmic trading for growth. Learn about simplified funding and strategic financial advancements."
 ---
 

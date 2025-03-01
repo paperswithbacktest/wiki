@@ -1,5 +1,5 @@
 ---
-title: "Seller's Option: Explanation and Functionality (Algo Trading)"
+title: "Seller's Option: Explanation and Functionality"
 description: "Discover how algorithmic trading is revolutionizing real estate by optimizing seller's options. Learn to maximize returns with technology-driven strategies."
 ---
 

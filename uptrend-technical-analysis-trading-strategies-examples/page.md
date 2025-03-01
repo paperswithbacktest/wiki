@@ -1,5 +1,5 @@
 ---
-title: "Uptrend in Technical Analysis: Trading Strategies and Examples (Algo Trading)"
+title: "Uptrend in Technical Analysis: Trading Strategies and Examples"
 description: "Explore effective trading strategies for navigating uptrends in technical analysis. Learn to leverage algorithmic trading and indicators to optimize trades."
 ---
 

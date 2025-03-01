@@ -1,5 +1,5 @@
 ---
-title: "On-Chain Transactions in Cryptocurrency (Algo Trading)"
+title: "On-Chain Transactions in Cryptocurrency"
 description: "Explore how on-chain transactions and algorithmic trading redefine cryptocurrency dynamics with blockchain security and automated strategies for optimal trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Optiver Overview (Algo Trading)"
+title: "Optiver Overview"
 description: "Optiver leads in algorithmic trading by integrating tech-driven strategies to boost liquidity and market efficiency, showcasing innovation in financial operations."
 ---
 

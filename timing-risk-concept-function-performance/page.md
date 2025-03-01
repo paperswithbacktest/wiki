@@ -1,5 +1,5 @@
 ---
-title: "Timing Risk: Concept, Function, and Performance (Algo Trading)"
+title: "Timing Risk: Concept, Function, and Performance"
 description: "Explore timing risk in algorithmic trading and its impact on investment strategies. Understand how to balance timing risk with performance for strategic success."
 ---
 

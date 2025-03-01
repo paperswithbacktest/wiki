@@ -1,5 +1,5 @@
 ---
-title: "STIX Applications and Purpose (Algo Trading)"
+title: "STIX Applications and Purpose"
 description: "Explore how STIX-based threat intelligence enhances cybersecurity in algorithmic trading by standardizing data sharing and strengthening defenses against cyber threats."
 ---
 

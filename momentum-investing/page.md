@@ -1,5 +1,5 @@
 ---
-title: "Momentum investing (Algo Trading)"
+title: "Momentum investing"
 description: Explore the dynamic world of momentum investing intertwined with algorithmic trading. Discover how this powerful strategy leverages market inefficiencies by identifying and capitalizing on existing trends. The page investigates into the integration of algorithmic techniques, enabling traders to enhance speed and efficiency in executing momentum strategies. Uncover how historical insights and technological advancements shape modern momentum investing, redefining the financial landscape.
 ---
 

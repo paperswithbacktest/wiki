@@ -1,5 +1,5 @@
 ---
-title: "TWAP Strategy (Algo Trading)"
+title: "TWAP Strategy"
 description: Learn about the Time-Weighted Average Price (TWAP) strategy in algorithmic trading designed to execute large orders efficiently by breaking them into smaller trades over a set timeframe. Discover how TWAP minimizes market impact, its advantages over strategies like VWAP, and explore its calculation, benefits, and implementation to enhance trading precision with reduced market disruption.
 ---
 

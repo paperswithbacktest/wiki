@@ -1,5 +1,5 @@
 ---
-title: "Special Item: Overview and Functionality (Algo Trading)"
+title: "Special Item: Overview and Functionality"
 description: "Discover how special items in algorithmic trading optimize data integrity enhancing precision and efficiency in trading strategies through advanced technological integration."
 ---
 

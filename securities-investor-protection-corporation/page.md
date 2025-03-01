@@ -1,5 +1,5 @@
 ---
-title: "Securities Investor Protection Corporation (Algo Trading)"
+title: "Securities Investor Protection Corporation"
 description: "Discover the critical role of the Securities Investor Protection Corporation in safeguarding investor assets amid the complexities of algorithmic trading."
 ---
 

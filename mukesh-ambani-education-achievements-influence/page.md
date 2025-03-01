@@ -1,5 +1,5 @@
 ---
-title: "Mukesh Ambani: Education, Achievements, and Influence (Algo Trading)"
+title: "Mukesh Ambani: Education, Achievements, and Influence"
 description: "Explore the educational background and impactful achievements of Mukesh Ambani as he transforms Reliance Industries into a global leader with influential innovations."
 ---
 

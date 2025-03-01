@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Inflation and Unemployment (Algo Trading)"
+title: "Relationship Between Inflation and Unemployment"
 description: "Explore the interplay between inflation and unemployment in the context of algorithmic trading Discover how trading algorithms influence financial markets."
 ---
 

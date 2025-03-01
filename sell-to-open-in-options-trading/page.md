@@ -1,5 +1,5 @@
 ---
-title: "Sell to Open in Options Trading (Algo Trading)"
+title: "Sell to Open in Options Trading"
 description: "Explore the 'sell to open' strategy in options trading, highlighting how algorithmic trading enhances risk management and profit potential for both new and seasoned traders."
 ---
 

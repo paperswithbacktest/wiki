@@ -1,5 +1,5 @@
 ---
-title: "Substitution Effect: Concept and Causes (Algo Trading)"
+title: "Substitution Effect: Concept and Causes"
 description: "Explore the concept of the substitution effect and its impact on consumer behavior and economic decision-making. Learn how changes in the relative prices of goods influence consumer choices as consumers opt for cheaper alternatives while maintaining satisfaction. Understand the significance of the substitution effect in algorithmic trading and its role in guiding automated trades in response to price changes, enhancing trading strategies in modern financial markets. Discover the difference between substitution and income effects through economic theories that illustrate consumer purchasing patterns and decision-making dynamics."
 ---
 

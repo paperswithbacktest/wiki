@@ -1,5 +1,5 @@
 ---
-title: "Uses of Working Capital (Algo Trading)"
+title: "Uses of Working Capital"
 description: "Explore how working capital and algorithmic trading intersect to optimize financial operations. Discover strategies for managing investments and enhancing liquidity."
 ---
 

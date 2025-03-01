@@ -1,5 +1,5 @@
 ---
-title: "Oil Field: Overview and Operations (Algo Trading)"
+title: "Oil Field: Overview and Operations"
 description: "Explore the impact of oil field operations and algorithmic trading on the energy sector highlighting technology's role in shaping the modern energy economy."
 ---
 

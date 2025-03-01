@@ -1,5 +1,5 @@
 ---
-title: "Vega Neutrality in Finance (Algo Trading)"
+title: "Vega Neutrality in Finance"
 description: "Explore Vega neutral strategies in options trading to manage risk amid volatility. Learn how these approaches minimize Vega's impact to optimize returns."
 ---
 

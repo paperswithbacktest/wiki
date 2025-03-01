@@ -1,5 +1,5 @@
 ---
-title: "S&P Phenomenon: Interpretation and Criteria (Algo Trading)"
+title: "S&P Phenomenon: Interpretation and Criteria"
 description: "Explore the impact of economic criteria, the S&P 500 phenomenon, and algorithmic trading on market dynamics and investment strategies in this insightful article."
 ---
 

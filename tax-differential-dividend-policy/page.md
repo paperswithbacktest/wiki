@@ -1,5 +1,5 @@
 ---
-title: "Tax Differential in Dividend Policy (Algo Trading)"
+title: "Tax Differential in Dividend Policy"
 description: "Explore the impact of tax differentials on corporate dividend policies and algorithmic trading. Understand how these elements influence investor strategies and corporate growth."
 ---
 

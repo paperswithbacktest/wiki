@@ -1,5 +1,5 @@
 ---
-title: "Swedish Krona: Overview of Sweden's Currency (Algo Trading)"
+title: "Swedish Krona: Overview of Sweden's Currency"
 description: "Explore how the Swedish Krona is traded using algorithmic methods highlighting efficiency, speed, and market opportunities in the forex landscape with SEK."
 ---
 

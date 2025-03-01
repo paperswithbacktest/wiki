@@ -1,5 +1,5 @@
 ---
-title: "Suitability: Meaning and Types (Algo Trading)"
+title: "Suitability: Meaning and Types"
 description: "Explore the meaning and types of algorithmic trading which revolutionize markets by automating trading processes This guide helps traders leverage algo strategies"
 ---
 

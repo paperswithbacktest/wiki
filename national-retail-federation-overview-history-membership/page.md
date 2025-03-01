@@ -1,5 +1,5 @@
 ---
-title: "National Retail Federation: Overview, History, and Membership (Algo Trading)"
+title: "National Retail Federation: Overview, History, and Membership"
 description: "Explore the role of the National Retail Federation in the retail sector its advocacy for tech advancement and how membership benefits entities through algotrading insights"
 ---
 

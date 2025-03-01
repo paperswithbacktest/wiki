@@ -1,5 +1,5 @@
 ---
-title: "Non-Deliverable Forward: Structure and Currency Markets (Algo Trading)"
+title: "Non-Deliverable Forward: Structure and Currency Markets"
 description: "Explore the role of Non-Deliverable Forwards in currency markets and algorithmic trading and how they enable hedging and speculation in restricted markets."
 ---
 

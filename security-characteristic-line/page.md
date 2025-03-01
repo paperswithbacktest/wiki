@@ -1,5 +1,5 @@
 ---
-title: "Security characteristic line (Algo Trading)"
+title: "Security characteristic line"
 description: "Explore the pivotal role of the Security Characteristic Line in algorithmic trading Learn how SCL helps assess asset performance and enhance trading strategies"
 ---
 

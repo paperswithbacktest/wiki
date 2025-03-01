@@ -1,5 +1,5 @@
 ---
-title: "Trade Sanctions: Purpose, Types, and Examples (Algo Trading)"
+title: "Trade Sanctions: Purpose, Types, and Examples"
 description: "Explore the intricate dynamics between trade sanctions, economic sanctions, and algorithmic trading in this insightful article. Uncover how these powerful tools impact international trade, shape global markets, and influence diplomatic relations. This examination provides essential knowledge for policymakers, traders, and businesses navigating the complexities of modern global commerce where economic strategies and technological advancements converge. Gain a nuanced understanding of trade sanctions, their types, and real-world applications in this comprehensive overview."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Volcker Rule: Overview, Purpose, and Criticism (Algo Trading)"
+title: "Volcker Rule: Overview, Purpose, and Criticism"
 description: "Explore the Volcker Rule's impact on banking and algorithmic trading uncovering its role in financial reform and its implications on market stability."
 ---
 

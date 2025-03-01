@@ -1,5 +1,5 @@
 ---
-title: "OpenBB Guide (Algo Trading)"
+title: "OpenBB Guide"
 description: Discover the power of OpenBB, an innovative open-source platform for algorithmic trading that offers robust tools for both individual traders and institutional investors. This guide explores OpenBB's comprehensive suite of analytical tools, data integration capabilities, and machine learning features, designed to refine and optimize trading strategies. With real-time data processing, backtesting functionalities, and a community-driven approach, OpenBB enhances decision-making in the fast-evolving financial markets, making it an indispensable resource for achieving better trading outcomes.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Limited Partnership (Algo Trading)"
+title: "Real Estate Limited Partnership"
 description: "Explore the synergy between Real Estate Limited Partnerships and algorithmic trading for savvy investment strategies using pooled resources and tech-driven insights."
 ---
 

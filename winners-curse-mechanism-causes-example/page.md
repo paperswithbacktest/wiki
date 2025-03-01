@@ -1,5 +1,5 @@
 ---
-title: "Winner's Curse: Mechanism, Causes, and Example (Algo Trading)"
+title: "Winner's Curse: Mechanism, Causes, and Example"
 description: "Explore the Winner's Curse in auctions and algorithmic trading and learn how to avoid overpaying. Understand auction types and strategic bidding to succeed."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Today's Low: Interpretation and Functionality (Algo Trading)"
+title: "Today's Low: Interpretation and Functionality"
 description: "Explore how algorithmic trading leverages "today's low," the day's lowest price, to enhance trading strategies, using speed and precision for optimized performance."
 ---
 

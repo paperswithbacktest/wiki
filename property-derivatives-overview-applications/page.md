@@ -1,5 +1,5 @@
 ---
-title: "Property Derivatives: Overview and Applications (Algo Trading)"
+title: "Property Derivatives: Overview and Applications"
 description: "Explore the synergy of property derivatives and algorithmic trading that is transforming real estate investments by offering innovative and strategic market opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Stock Exchange (Algo Trading)"
+title: "Tokyo Stock Exchange"
 description: "Explore the vital role of Tokyo Stock Exchange in global finance with a focus on algorithmic trading's impact on market speed, efficiency, and evolution."
 ---
 

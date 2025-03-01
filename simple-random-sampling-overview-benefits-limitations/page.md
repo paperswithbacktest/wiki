@@ -1,5 +1,5 @@
 ---
-title: "Simple Random Sampling: Overview, Benefits, and Limitations (Algo Trading)"
+title: "Simple Random Sampling: Overview, Benefits, and Limitations"
 description: "Explore simple random sampling techniques for algorithmic trading to optimize strategies. Learn benefits and limitations for effective market data analysis."
 ---
 

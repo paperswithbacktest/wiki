@@ -1,5 +1,5 @@
 ---
-title: "Operating Margin Standards for Businesses (Algo Trading)"
+title: "Operating Margin Standards for Businesses"
 description: "Explore the significance of operating margins in assessing business profitability and their role in shaping algorithmic trading strategies for enhanced returns."
 ---
 

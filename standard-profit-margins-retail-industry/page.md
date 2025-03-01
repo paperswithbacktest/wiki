@@ -1,5 +1,5 @@
 ---
-title: "Standard Profit Margins in Retail Industry (Algo Trading)"
+title: "Standard Profit Margins in Retail Industry"
 description: "Explore the crucial role of profit margins in retail and how algorithmic trading can enhance profitability through strategic cost management and pricing."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Opening a Real Estate Crowdfunding Account in 2024 (Algo Trading)"
+title: "Opening a Real Estate Crowdfunding Account in 2024"
 description: "Open a real estate crowdfunding account in 2024 to explore modern investment opportunities using algo trading Optimize your portfolio and manage risks efficiently"
 ---
 

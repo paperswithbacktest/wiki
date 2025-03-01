@@ -1,5 +1,5 @@
 ---
-title: "Optimal Market Timing (Algo Trading)"
+title: "Optimal Market Timing"
 description: "Discover the essentials of optimal market timing in algorithmic trading Gain insights into strategies for maximizing profits by leveraging precise trading models"
 ---
 

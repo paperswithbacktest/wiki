@@ -1,5 +1,5 @@
 ---
-title: "United States Bureau of the Public Debt (Algo Trading)"
+title: "United States Bureau of the Public Debt"
 description: "Explore the dynamic interaction between public debt management U.S. Treasury operations and algorithmic trading in modern financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Selecting Algorithmic Trading Software (Algo Trading)"
+title: "Selecting Algorithmic Trading Software"
 description: "Explore the transformative power of algorithmic trading software Analyze market trends optimize execution and maximize returns in modern finance."
 ---
 

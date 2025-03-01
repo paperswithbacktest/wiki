@@ -1,5 +1,5 @@
 ---
-title: "Stuttgart Stock Exchange: Overview and Operation (Algo Trading)"
+title: "Stuttgart Stock Exchange: Overview and Operation"
 description: "Explore how the Stuttgart Stock Exchange integrates algorithmic trading to transform market dynamics and efficiency in Germany's second-largest securities exchange."
 ---
 

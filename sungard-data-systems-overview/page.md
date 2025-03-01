@@ -1,5 +1,5 @@
 ---
-title: "SunGard Data Systems Overview (Algo Trading)"
+title: "SunGard Data Systems Overview"
 description: "SunGard Data Systems provides innovative algorithmic trading solutions, delivering high-frequency trading systems with ultra-low latency market data integration."
 ---
 

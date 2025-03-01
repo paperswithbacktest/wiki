@@ -1,5 +1,5 @@
 ---
-title: "Working Capital in Banks (Algo Trading)"
+title: "Working Capital in Banks"
 description: "Explore how working capital, banks, and algorithmic trading intertwine to shape financial strategies, enhancing efficiency and competitive advantage."
 ---
 

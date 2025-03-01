@@ -1,5 +1,5 @@
 ---
-title: "Tax Strategies of Oil Companies (Algo Trading)"
+title: "Tax Strategies of Oil Companies"
 description: "Explore how oil companies use strategic tax practices and algorithmic trading to optimize financial performance and gain a competitive edge in volatile markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Nasdaq Intermarket (Algo Trading)"
+title: "Nasdaq Intermarket"
 description: "Explore the intricate world of Nasdaq's algorithmic trading systems Dive into the evolution and innovation driving high-frequency trades and market efficiency"
 ---
 

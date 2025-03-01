@@ -1,5 +1,5 @@
 ---
-title: "Personal Financial Advisor (Algo Trading)"
+title: "Personal Financial Advisor"
 description: "Explore the synergy of personal finance and algo trading, where tech-driven tools enhance financial management strategies for a secure financial future."
 ---
 

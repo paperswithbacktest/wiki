@@ -1,5 +1,5 @@
 ---
-title: "Telecom Arbitrage (Algo Trading)"
+title: "Telecom Arbitrage"
 description: "Explore telecom arbitrage's cost-saving strategies in international call routing and discover how algorithmic trading optimizes these processes for profitability."
 ---
 

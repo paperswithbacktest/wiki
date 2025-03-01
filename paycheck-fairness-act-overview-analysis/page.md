@@ -1,5 +1,5 @@
 ---
-title: "Paycheck Fairness Act: Overview and Analysis (Algo Trading)"
+title: "Paycheck Fairness Act: Overview and Analysis"
 description: "Explore the intricacies and impact of the Paycheck Fairness Act in addressing wage equality in the United States. This comprehensive analysis investigates into employment law, algorithmic trading, and systemic challenges in achieving equitable pay. Discover how legislative measures and technological advancements intersect to promote fair labor practices and diminish wage discrimination. Learn about the historical development of the Act and its key provisions aimed at closing gender pay gaps. Gain insights into the ongoing efforts to create a balanced economic system and the critical role of transparency, data reporting, and accountability in fostering wage parity."
 ---
 

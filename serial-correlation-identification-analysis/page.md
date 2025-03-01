@@ -1,5 +1,5 @@
 ---
-title: "Serial Correlation: Identification and Analysis (Algo Trading)"
+title: "Serial Correlation: Identification and Analysis"
 description: "Explore serial correlation and autocorrelation in time series analysis to enhance algo trading strategies by identifying patterns and predicting market trends."
 ---
 

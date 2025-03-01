@@ -1,5 +1,5 @@
 ---
-title: "Super Currency: Definition and Mechanism (Algo Trading)"
+title: "Super Currency: Definition and Mechanism"
 description: "Explore how super currency concepts and algorithmic trading mechanisms are reshaping global finance by simplifying trade, reducing volatility, and enhancing economic stability."
 ---
 

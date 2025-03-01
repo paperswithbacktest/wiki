@@ -1,5 +1,5 @@
 ---
-title: "Trailing Indicators and Related Concepts (Algo Trading)"
+title: "Trailing Indicators and Related Concepts"
 description: "Master algo trading with insights on vital performance metrics like ROI and Sharpe ratio to optimize strategies and maintain a competitive edge in dynamic markets."
 ---
 

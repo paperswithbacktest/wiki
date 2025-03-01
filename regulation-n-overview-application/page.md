@@ -1,5 +1,5 @@
 ---
-title: "Regulation N: Overview and Application (Algo Trading)"
+title: "Regulation N: Overview and Application"
 description: "Explore the key components of Regulation N and its impact on advertising in the financial sector alongside essential regulations for algorithmic trading compliance."
 ---
 

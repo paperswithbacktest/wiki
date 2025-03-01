@@ -1,5 +1,5 @@
 ---
-title: "Sell Side in Finance (Algo Trading)"
+title: "Sell Side in Finance"
 description: "Discover how sell-side algorithmic trading is transforming financial markets by enhancing market efficiency, optimizing trade execution, and boosting profitability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ZK-SNARK in Cryptocurrency and Its History (Algo Trading)"
+title: "ZK-SNARK in Cryptocurrency and Its History"
 description: "Discover how ZK-SNARKs enhance privacy in cryptocurrency trading by enabling secure, non-interactive proofs while safeguarding transaction data."
 ---
 

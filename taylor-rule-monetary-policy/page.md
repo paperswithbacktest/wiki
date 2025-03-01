@@ -1,5 +1,5 @@
 ---
-title: "Taylor Rule in Monetary Policy (Algo Trading)"
+title: "Taylor Rule in Monetary Policy"
 description: "Explore the Taylor Rule's role in monetary policy and algorithmic trading. Learn how this economic tool aids in interest rate adjustments and economic stability."
 ---
 

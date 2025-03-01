@@ -1,5 +1,5 @@
 ---
-title: "Seagull Option in Trading (Algo Trading)"
+title: "Seagull Option in Trading"
 description: "Explore the seagull option strategy in algo trading to effectively balance risk and return. Learn how automated tools optimize this options trading technique."
 ---
 

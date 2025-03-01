@@ -1,5 +1,5 @@
 ---
-title: "Scalping in Forex Trading (Algo Trading)"
+title: "Scalping in Forex Trading"
 description: "Discover the essentials of forex scalping in algo trading focusing on rapid trades and automation to enhance efficiency and profit in this fast-paced strategy."
 ---
 

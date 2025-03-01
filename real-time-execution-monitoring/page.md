@@ -1,5 +1,5 @@
 ---
-title: "real-time execution monitoring (Algo Trading)"
+title: "real-time execution monitoring"
 description: "Enhance algorithmic trading success with real-time execution monitoring ensuring optimal trade performance and risk management. Discover key strategies and benefits."
 ---
 

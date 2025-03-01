@@ -1,5 +1,5 @@
 ---
-title: "Smart Order Routing Heuristics (Algo Trading)"
+title: "Smart Order Routing Heuristics"
 description: "Explore Smart Order Routing in algorithmic trading to enhance trade execution with precision by analyzing price, liquidity, and speed across diverse venues."
 ---
 

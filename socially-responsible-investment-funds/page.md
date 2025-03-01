@@ -1,5 +1,5 @@
 ---
-title: "Socially Responsible Investment Funds (Algo Trading)"
+title: "Socially Responsible Investment Funds"
 description: "Explore the intersection of sustainability and technology in finance with socially responsible investment funds driven by algorithmic trading for ethical returns"
 ---
 

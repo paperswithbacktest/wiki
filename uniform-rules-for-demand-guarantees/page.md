@@ -1,5 +1,5 @@
 ---
-title: "Uniform Rules for Demand Guarantees (Algo Trading)"
+title: "Uniform Rules for Demand Guarantees"
 description: "Explore the implications of URDG demand guarantees on algorithmic trading and discover how these international rules shape financial transactions and secure payments. Learn how the ICC's formulation standardizes global trading practices, mitigating risks and ensuring contract fulfillment. Understand the critical role of URDG as a protective mechanism in international trade and its influence on developing reliable automated trading systems. Uncover strategies for optimizing trading algorithms by integrating URDG principles, fostering improved returns while minimizing risks in evolving trading technologies."
 ---
 

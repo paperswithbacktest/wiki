@@ -1,5 +1,5 @@
 ---
-title: "SPURs: Definition and Benefits (Algo Trading)"
+title: "SPURs: Definition and Benefits"
 description: "Explore the definition and benefits of Standard & Poor’s Underlying Ratings SPURs in algo trading, enhancing transparency and creditworthiness assessment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "New York Stock Exchange Overview (Algo Trading)"
+title: "New York Stock Exchange Overview"
 description: "Discover how algorithmic trading has revolutionized the NYSE, boosting liquidity, efficiency, and market stability for over 2300 listed companies."
 ---
 

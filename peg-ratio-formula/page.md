@@ -1,5 +1,5 @@
 ---
-title: "PEG Ratio and Its Formula (Algo Trading)"
+title: "PEG Ratio and Its Formula"
 description: "Discover how the PEG ratio offers a comprehensive stock valuation by integrating growth forecasts, essential for informed investment and algorithmic trading."
 ---
 

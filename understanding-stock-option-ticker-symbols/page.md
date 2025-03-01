@@ -1,5 +1,5 @@
 ---
-title: "Understanding Stock Option Ticker Symbols (Algo Trading)"
+title: "Understanding Stock Option Ticker Symbols"
 description: "Gain a comprehensive understanding of stock option ticker symbols in algorithmic trading to enhance your investment strategy in fast-paced financial markets."
 ---
 

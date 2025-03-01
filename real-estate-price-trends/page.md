@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Price Trends (Algo Trading)"
+title: "Real Estate Price Trends"
 description: "Discover how algorithmic trading is revolutionizing real estate markets by enhancing property price predictions and offering strategic insights to investors."
 ---
 

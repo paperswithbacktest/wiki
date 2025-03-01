@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Commodity Futures for Hedging (Algo Trading)"
+title: "Utilizing Commodity Futures for Hedging"
 description: "Discover effective hedging techniques using commodity futures and algorithmic trading to manage risks in volatile markets and secure financial stability."
 ---
 

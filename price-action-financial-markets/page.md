@@ -1,5 +1,5 @@
 ---
-title: "Price Action in Financial Markets (Algo Trading)"
+title: "Price Action in Financial Markets"
 description: "Explore the dynamic world of financial markets with insights into price action and algorithmic trading to enhance strategy and decision-making processes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Productivity and Measurement (Algo Trading)"
+title: "Productivity and Measurement"
 description: "Discover how algorithmic trading revolutionizes finance with precision measurement and efficiency enhancing productivity and market stability in modern trading."
 ---
 

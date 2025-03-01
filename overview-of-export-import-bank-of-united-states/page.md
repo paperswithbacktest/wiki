@@ -1,5 +1,5 @@
 ---
-title: "Overview of the Export-Import Bank of the United States (Algo Trading)"
+title: "Overview of the Export-Import Bank of the United States"
 description: "Discover the role of the Export-Import Bank of the United States and how algorithmic trading enhances trade finance efficiency for U.S. exporters."
 ---
 

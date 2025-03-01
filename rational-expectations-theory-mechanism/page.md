@@ -1,5 +1,5 @@
 ---
-title: "Rational Expectations Theory and Its Mechanism (Algo Trading)"
+title: "Rational Expectations Theory and Its Mechanism"
 description: "Explore Rational Expectations Theory's role in economic forecasting and algorithmic trading Discover how rational expectations shape economic outcomes and trading strategies"
 ---
 

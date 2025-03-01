@@ -1,5 +1,5 @@
 ---
-title: "Undisclosed Reserves (Algo Trading)"
+title: "Undisclosed Reserves"
 description: "Explore the interplay between undisclosed reserves and algorithmic trading examining transparency, financial stability, and ethical considerations in financial management."
 ---
 

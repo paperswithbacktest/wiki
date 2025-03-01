@@ -1,5 +1,5 @@
 ---
-title: "Types and Considerations of Immunity (Algo Trading)"
+title: "Types and Considerations of Immunity"
 description: "Explore the complexities of immunity and how its concepts translate into algorithmic trading systems. Learn about active and passive immunity and their roles in health and finance by enabling resilient defenses in biological and financial realms. Discover the parallels between immune responses and trading algorithms that adapt to ensure robust and efficient decision-making."
 ---
 

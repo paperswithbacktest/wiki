@@ -1,5 +1,5 @@
 ---
-title: "Roy's safety-first criterion (Algo Trading)"
+title: "Roy's safety-first criterion"
 description: Explore Roy's safety-first criterion, a vital risk management method for algorithmic trading, focusing on minimizing the probability of returns dropping below a minimum acceptable return. This structured framework enhances investment protection against volatile markets, ensuring algorithmic decisions prioritize capital safety.
 ---
 

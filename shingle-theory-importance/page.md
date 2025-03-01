@@ -1,5 +1,5 @@
 ---
-title: "Shingle Theory and Its Importance (Algo Trading)"
+title: "Shingle Theory and Its Importance"
 description: "Explore Shingle Theory and its significance in algorithmic trading Understand how breaking data into overlapping subsets enhances trend detection and trading strategies"
 ---
 

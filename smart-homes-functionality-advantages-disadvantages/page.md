@@ -1,5 +1,5 @@
 ---
-title: "Smart Homes: Functionality, Advantages and Disadvantages (Algo Trading)"
+title: "Smart Homes: Functionality, Advantages and Disadvantages"
 description: "Explore the synergy between smart homes and algorithmic trading uncovering their integration benefits for enhanced convenience, efficiency, and financial precision."
 ---
 

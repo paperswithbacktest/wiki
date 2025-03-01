@@ -1,5 +1,5 @@
 ---
-title: "Order Execution (Algo Trading)"
+title: "Order Execution"
 description: "Explore the evolving landscape of order execution and algorithmic trading in financial markets Learn how technology enhances trading speed accuracy and efficiency"
 ---
 

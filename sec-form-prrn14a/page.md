@@ -1,5 +1,5 @@
 ---
-title: "SEC Form PRRN14A (Algo Trading)"
+title: "SEC Form PRRN14A"
 description: "Discover the significance of SEC Form PRRN14A in corporate governance and its impact on algorithmic trading to stay informed and proactive in market strategies."
 ---
 

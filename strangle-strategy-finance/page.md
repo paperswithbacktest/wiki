@@ -1,5 +1,5 @@
 ---
-title: "Strangle Strategy in Finance (Algo Trading)"
+title: "Strangle Strategy in Finance"
 description: "Explore the flexible strangle strategy in options trading designed to leverage significant price shifts through algorithmic trading. Learn its mechanics and benefits."
 ---
 

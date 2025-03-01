@@ -1,5 +1,5 @@
 ---
-title: "Office Of Foreign Assets Control And Sanctions (Algo Trading)"
+title: "Office Of Foreign Assets Control And Sanctions"
 description: "Understand the impact of OFAC sanctions on algorithmic trading in global finance. Navigate regulatory challenges for compliance and maximize market opportunities."
 ---
 

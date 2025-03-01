@@ -1,5 +1,5 @@
 ---
-title: "Naked Writer (Algo Trading)"
+title: "Naked Writer"
 description: "Explore the intersection of naked writer style in literature and naked options trading in finance revealing conceptual parallels and inherent risk dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Profit Maximization in Monopolistic Markets (Algo Trading)"
+title: "Profit Maximization in Monopolistic Markets"
 description: "Explore the dynamics of profit maximization in monopolistic markets with algorithmic trading Discover strategies that align with market power and differentiation"
 ---
 

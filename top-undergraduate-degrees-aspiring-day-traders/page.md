@@ -1,5 +1,5 @@
 ---
-title: "Top Undergraduate Degrees for Aspiring Day Traders (Algo Trading)"
+title: "Top Undergraduate Degrees for Aspiring Day Traders"
 description: "Discover top undergraduate degrees for aspiring day traders and algo traders. Learn vital skills in finance, economics, and trading strategies for a bright future."
 ---
 

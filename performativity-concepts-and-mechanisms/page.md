@@ -1,5 +1,5 @@
 ---
-title: "Performativity: Concepts and Mechanisms (Algo Trading)"
+title: "Performativity: Concepts and Mechanisms"
 description: "Explore how the performativity of financial models in algorithmic trading shapes market dynamics by influencing and constructing trading environments."
 ---
 

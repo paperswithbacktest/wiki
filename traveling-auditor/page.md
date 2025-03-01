@@ -1,5 +1,5 @@
 ---
-title: "Traveling Auditor (Algo Trading)"
+title: "Traveling Auditor"
 description: "Explore the synergy between traveling accounting auditors and algorithmic trading in modern finance Discover their roles and impacts on businesses and investors"
 ---
 

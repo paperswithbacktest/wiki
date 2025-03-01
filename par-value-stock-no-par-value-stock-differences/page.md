@@ -1,5 +1,5 @@
 ---
-title: "Par Value Stock and No-Par Value Stock Differences (Algo Trading)"
+title: "Par Value Stock and No-Par Value Stock Differences"
 description: "Explore the differences between par value and no-par value stocks and their implications for algorithmic trading in today's fast-paced financial markets."
 ---
 

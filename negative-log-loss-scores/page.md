@@ -1,5 +1,5 @@
 ---
-title: "Negative log loss scores (Algo Trading)"
+title: "Negative log loss scores"
 description: Explore the significance of negative Log Loss scores in algorithmic trading. Understand how this metric evaluates classification model performance, optimizing trading strategies by measuring prediction accuracy and confidence. Discover how minimizing Log Loss aids traders in refining models to enhance financial outcomes, and learn common misconceptions about this crucial evaluation tool in data science and finance.
 ---
 

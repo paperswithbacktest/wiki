@@ -1,5 +1,5 @@
 ---
-title: "National Bureau of Economic Research: Functions and Significance (Algo Trading)"
+title: "National Bureau of Economic Research: Functions and Significance"
 description: "Explore how the National Bureau of Economic Research influences algorithmic trading by offering critical economic insights essential for designing robust trading strategies."
 ---
 

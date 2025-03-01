@@ -1,5 +1,5 @@
 ---
-title: "Telephone Bond (Algo Trading)"
+title: "Telephone Bond"
 description: "Explore the dynamic world of telephone bonds and algorithmic trading to optimize investments in the evolving telecom market and leverage financial innovations."
 ---
 

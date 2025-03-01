@@ -1,5 +1,5 @@
 ---
-title: "Presidency of Joe Biden (Algo Trading)"
+title: "Presidency of Joe Biden"
 description: "Explore the intricate relationship between Joe Biden's presidency and the evolution of algorithmic trading. This page investigates into Biden’s extensive political career, highlighting his presidency during a transformative period for both global politics and financial markets. Learn about his efforts in tackling domestic and international challenges, while also overseeing regulatory impacts on emerging technologies. Discover how Biden's economic policies intersect with technological advancements, shaping the landscape of algorithmic trading and influencing modern market dynamics. This analysis offers insights into Biden's political legacy and the ongoing revolution in financial strategies."
 ---
 

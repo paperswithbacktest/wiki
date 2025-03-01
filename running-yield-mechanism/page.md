@@ -1,5 +1,5 @@
 ---
-title: "Running Yield and Its Mechanism (Algo Trading)"
+title: "Running Yield and Its Mechanism"
 description: "Explore how running yield enhances investment analysis in algorithmic trading by providing insights into income generation and returns for optimizing strategies."
 ---
 

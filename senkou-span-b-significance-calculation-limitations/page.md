@@ -1,5 +1,5 @@
 ---
-title: "Senkou Span B: Significance, Calculation, and Limitations (Algo Trading)"
+title: "Senkou Span B: Significance, Calculation, and Limitations"
 description: "Explore Senkou Span B within the Ichimoku Cloud for insights into market trends and potential reversals essential for enhancing algorithmic trading strategies."
 ---
 

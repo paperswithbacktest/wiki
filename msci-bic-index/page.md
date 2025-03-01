@@ -1,5 +1,5 @@
 ---
-title: "MSCI BIC Index (Algo Trading)"
+title: "MSCI BIC Index"
 description: "Explore the MSCI BIC Index to understand emerging markets in Brazil, India, and China and how algorithmic trading enhances investment strategies."
 ---
 

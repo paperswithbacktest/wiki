@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Copycat Investing (Algo Trading)"
+title: "Strategies for Copycat Investing"
 description: "Explore copycat investing and algorithmic trading strategies to emulate top investors and automate trades for enhanced performance and decision-making efficiency."
 ---
 

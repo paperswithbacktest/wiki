@@ -1,5 +1,5 @@
 ---
-title: "Staggers Rail Act of 1980: Overview and Effects (Algo Trading)"
+title: "Staggers Rail Act of 1980: Overview and Effects"
 description: "Explore the transformative impact of the 1980 Staggers Rail Act on U.S. railroads and algorithmic trading, highlighting deregulation and financial innovation."
 ---
 

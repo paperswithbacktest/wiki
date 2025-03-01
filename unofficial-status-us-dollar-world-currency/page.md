@@ -1,5 +1,5 @@
 ---
-title: "Unofficial Status of the U.S. Dollar as the World Currency (Algo Trading)"
+title: "Unofficial Status of the U.S. Dollar as the World Currency"
 description: "Explore the unofficial status of the U.S. dollar as the world's currency and its interaction with the evolving landscape of algorithmic trading, impacting global finance."
 ---
 

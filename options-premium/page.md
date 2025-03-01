@@ -1,5 +1,5 @@
 ---
-title: "Options Premium (Algo Trading)"
+title: "Options Premium"
 description: "Explore premium finance options to enhance your algorithmic trading strategies. Learn how to leverage capital for increased efficiency and profitability in financial markets."
 ---
 

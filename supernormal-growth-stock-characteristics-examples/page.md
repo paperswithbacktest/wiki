@@ -1,5 +1,5 @@
 ---
-title: "Supernormal Growth Stock: Characteristics and Examples (Algo Trading)"
+title: "Supernormal Growth Stock: Characteristics and Examples"
 description: "Explore the characteristics of supernormal growth stocks in investing and algorithmic trading to uncover unique opportunities for significant returns."
 ---
 

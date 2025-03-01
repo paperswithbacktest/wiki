@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 18-12B Overview (Algo Trading)"
+title: "SEC Form 18-12B Overview"
 description: "Explore the essential role of SEC Form 18-12B in transparent financial reporting for algorithmic trading within U.S. securities markets ensuring compliance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Turnkey Property Investment Process (Algo Trading)"
+title: "Turnkey Property Investment Process"
 description: "Explore turnkey property investment and learn how algorithmic trading and professional management streamline real estate ventures for passive cash flow gains."
 ---
 

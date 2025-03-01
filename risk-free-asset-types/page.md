@@ -1,5 +1,5 @@
 ---
-title: "Risk-Free Asset Types (Algo Trading)"
+title: "Risk-Free Asset Types"
 description: "Discover risk-free asset types in algo trading for safe investing. Learn how government bonds and savings accounts help preserve capital with minimal risk."
 ---
 

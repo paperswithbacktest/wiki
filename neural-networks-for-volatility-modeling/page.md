@@ -1,5 +1,5 @@
 ---
-title: "Neural networks for volatility modeling (Algo Trading)"
+title: "Neural networks for volatility modeling"
 description: "Explore how neural networks enhance volatility modeling in algorithmic trading Discover machine learning's role in predicting market risk and developing strategies"
 ---
 

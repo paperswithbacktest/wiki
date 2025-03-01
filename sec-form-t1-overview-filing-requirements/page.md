@@ -1,5 +1,5 @@
 ---
-title: "SEC Form T-1: Overview and Filing Requirements (Algo Trading)"
+title: "SEC Form T-1: Overview and Filing Requirements"
 description: "Learn about SEC Form T-1 its filing requirements and its critical role in ensuring transparency and reliability among corporate trustees in algorithmic trading."
 ---
 

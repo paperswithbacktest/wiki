@@ -1,5 +1,5 @@
 ---
-title: "Trading Hours of Major Global Stock Exchanges (Algo Trading)"
+title: "Trading Hours of Major Global Stock Exchanges"
 description: "Discover key trading hours of major global stock exchanges to enhance your trading strategies Learn how time variations impact algorithmic trading and market movements"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "tZero: Overview, Historical Context, and Regulatory Aspects (Algo Trading)"
+title: "tZero: Overview, Historical Context, and Regulatory Aspects"
 description: "Discover how tZero leverages blockchain and algorithmic trading to revolutionize financial markets enhancing transparency, efficiency, and regulatory compliance."
 ---
 

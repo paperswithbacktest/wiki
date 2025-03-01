@@ -1,5 +1,5 @@
 ---
-title: "Stopped Order In Finance (Algo Trading)"
+title: "Stopped Order In Finance"
 description: "Discover the essentials of stopped orders in finance and algorithmic trading Understand how these mechanisms enhance precision and efficiency in modern trading strategies"
 ---
 

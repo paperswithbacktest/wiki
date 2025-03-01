@@ -1,5 +1,5 @@
 ---
-title: "The Voleon Group (Algo Trading)"
+title: "The Voleon Group"
 description: Discover how The Voleon Group has become a pioneer in quantitative investment management through its sophisticated use of AI and machine learning in financial markets. Based in Berkeley, California, and managing over $7.6 billion in assets, Voleon stands out with its exclusive reliance on algorithms to drive trading precision and innovation. Explore the firm's history, from overcoming the 2007–2008 financial crisis through strategic adaptations, to its commitment to addressing regulatory challenges. This article investigates into Voleon's unique investment strategies, past performance, and the ethical considerations shaping its industry leadership.
 ---
 

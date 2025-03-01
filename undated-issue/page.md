@@ -1,5 +1,5 @@
 ---
-title: "Undated Issue (Algo Trading)"
+title: "Undated Issue"
 description: "Explore the intersection of algorithmic trading and document categorization focusing on managing undated financial issues for better data accuracy and decision-making."
 ---
 

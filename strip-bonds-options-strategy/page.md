@@ -1,5 +1,5 @@
 ---
-title: "Strip Bonds and Options Strategy (Algo Trading)"
+title: "Strip Bonds and Options Strategy"
 description: "Explore the intersection of options strategies strip bonds and algorithmic trading for optimized financial outcomes in today's markets and boost your investment strategy."
 ---
 

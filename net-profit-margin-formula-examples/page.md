@@ -1,5 +1,5 @@
 ---
-title: "Net Profit Margin: Formula and Examples (Algo Trading)"
+title: "Net Profit Margin: Formula and Examples"
 description: "Explore the importance of net profit margin in algorithmic trading to enhance trading strategies by understanding financial efficiency and profitability insights."
 ---
 

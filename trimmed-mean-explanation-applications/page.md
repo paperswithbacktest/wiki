@@ -1,5 +1,5 @@
 ---
-title: "Trimmed Mean: Explanation and Applications (Algo Trading)"
+title: "Trimmed Mean: Explanation and Applications"
 description: "Explore the concept of trimmed mean and its crucial applications in algorithmic trading Discover how trimming outliers improves trading strategy precision and outcomes"
 ---
 

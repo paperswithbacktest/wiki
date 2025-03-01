@@ -1,5 +1,5 @@
 ---
-title: "Ownership of Dow Jones & Company (Algo Trading)"
+title: "Ownership of Dow Jones & Company"
 description: "Explore the crucial role of Dow Jones & Company in the evolving financial landscape where media ownership intertwines with algorithmic trading's rapid transformation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sponsored American Depositary Receipts: Overview and Mechanism (Algo Trading)"
+title: "Sponsored American Depositary Receipts: Overview and Mechanism"
 description: "Explore the world of Sponsored American Depositary Receipts with insights into their mechanisms and the impact of algorithmic trading in global investments."
 ---
 

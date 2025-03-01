@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Investment Withdrawal Considerations (Algo Trading)"
+title: "Stock Market Investment Withdrawal Considerations"
 description: "Explore essential factors in stock market withdrawals with a focus on algorithmic trading strategies to maximize your investment outcomes and financial stability."
 ---
 

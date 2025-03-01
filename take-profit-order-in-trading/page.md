@@ -1,5 +1,5 @@
 ---
-title: "Take-Profit Order in Trading (Algo Trading)"
+title: "Take-Profit Order in Trading"
 description: "Explore how take-profit orders enhance algorithmic trading by automating profit capture and risk management. Learn strategies to optimize financial gains."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "One-Touch Option: Overview and Outcomes (Algo Trading)"
+title: "One-Touch Option: Overview and Outcomes"
 description: "Learn about one-touch options in algorithmic trading Discover their binary outcomes and how algo trading enhances accuracy and speed in executing trades"
 ---
 

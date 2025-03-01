@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Call Option Strategy and Its Applications (Algo Trading)"
+title: "Synthetic Call Option Strategy and Its Applications"
 description: "Explore the applications of synthetic call option strategies in algorithmic trading for enhanced risk management and cost-effective returns optimization."
 ---
 

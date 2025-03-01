@@ -1,5 +1,5 @@
 ---
-title: "Warren Buffett's Top Long-Term Investment Picks (Algo Trading)"
+title: "Warren Buffett's Top Long-Term Investment Picks"
 description: "Discover Warren Buffett's top long-term investment picks blending traditional value investing with modern algorithmic trading for enduring financial success."
 ---
 

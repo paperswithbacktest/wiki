@@ -1,5 +1,5 @@
 ---
-title: "Paper Millionaire (Algo Trading)"
+title: "Paper Millionaire"
 description: "Explore the concept of paper millionaires in the stock market and how algorithmic trading can help navigate market volatility to maximize returns and manage risks."
 ---
 

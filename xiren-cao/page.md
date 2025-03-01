@@ -1,5 +1,5 @@
 ---
-title: "Xiren Cao (Algo Trading)"
+title: "Xiren Cao"
 description: "Discover Xiren Cao's expertise in environmental biology, agronomy, and horticulture as they advance sustainable practices combining academics and agriculture."
 ---
 

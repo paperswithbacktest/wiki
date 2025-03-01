@@ -1,5 +1,5 @@
 ---
-title: "Walras's Law and Its Role in Supply and Demand Economics (Algo Trading)"
+title: "Walras's Law and Its Role in Supply and Demand Economics"
 description: "Explore Walras's Law its implications in supply and demand economics and its relevance in algorithmic trading where market equilibrium drives trading efficiency."
 ---
 

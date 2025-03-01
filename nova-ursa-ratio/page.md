@@ -1,5 +1,5 @@
 ---
-title: "Nova to Ursa Ratio (Algo Trading)"
+title: "Nova to Ursa Ratio"
 description: "Explore the Nova/Ursa ratio in algo trading, integrating astronomy insights with market sentiment indicators to enhance your investment strategies."
 ---
 

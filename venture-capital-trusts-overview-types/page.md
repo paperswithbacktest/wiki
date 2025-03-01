@@ -1,5 +1,5 @@
 ---
-title: "Venture Capital Trusts: Overview and Types (Algo Trading)"
+title: "Venture Capital Trusts: Overview and Types"
 description: "Explore Venture Capital Trusts in the UK including their benefits structure and the role of algorithmic trading to optimize investments in high-growth SMEs."
 ---
 

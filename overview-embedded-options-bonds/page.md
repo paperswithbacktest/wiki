@@ -1,5 +1,5 @@
 ---
-title: "Overview of Embedded Options in Bonds (Algo Trading)"
+title: "Overview of Embedded Options in Bonds"
 description: "Explore the nuances of embedded options in bonds including callable, putable, and convertible features Analyze how algorithmic trading enhances decision-making and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Performance Index Paper: Explanation and Function (Algo Trading)"
+title: "Performance Index Paper: Explanation and Function"
 description: "Explore how Performance Index Paper (PIP) aids volatility management and Perceptually Important Points (PIPs) enhance algorithmic trading through data analysis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Wildcat Drilling: Definition and Mechanics (Algo Trading)"
+title: "Wildcat Drilling: Definition and Mechanics"
 description: "Explore the synergy between wildcat drilling and algo trading in oil exploration and market dynamics, highlighting cutting-edge innovations and strategic gains."
 ---
 

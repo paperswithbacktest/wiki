@@ -1,5 +1,5 @@
 ---
-title: "Understanding Stock Quotes (Algo Trading)"
+title: "Understanding Stock Quotes"
 description: "Explore the dynamic world of stock quotes and algorithmic trading to enhance investment strategies and navigate financial markets with this insightful guide."
 ---
 

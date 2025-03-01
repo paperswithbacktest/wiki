@@ -1,5 +1,5 @@
 ---
-title: "Subsidies: Mechanisms, Benefits, and Drawbacks (Algo Trading)"
+title: "Subsidies: Mechanisms, Benefits, and Drawbacks"
 description: "Explore the interplay between government subsidies and algorithmic trading Explore their roles in shaping the modern economy and their potential challenges."
 ---
 

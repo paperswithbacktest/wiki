@@ -1,5 +1,5 @@
 ---
-title: "National Treatment: Overview, Benefits, and Drawbacks (Algo Trading)"
+title: "National Treatment: Overview, Benefits, and Drawbacks"
 description: "Explore the intersection of national treatment and algorithmic trading in international trade policy unraveling their impact on global commerce and market competition."
 ---
 

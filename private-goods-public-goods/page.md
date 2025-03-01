@@ -1,5 +1,5 @@
 ---
-title: "Private Goods and Public Goods (Algo Trading)"
+title: "Private Goods and Public Goods"
 description: "Explore the distinctions between private, public, and economic goods, and learn how algorithmic trading impacts their valuation and market behavior in economic theory."
 ---
 

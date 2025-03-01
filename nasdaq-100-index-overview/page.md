@@ -1,5 +1,5 @@
 ---
-title: "Nasdaq-100 Index Overview (Algo Trading)"
+title: "Nasdaq-100 Index Overview"
 description: "Explore the NASDAQ-100 Index a key benchmark of 100 top non-financial tech-driven companies shaping innovation and growth in the U.S. and globally."
 ---
 

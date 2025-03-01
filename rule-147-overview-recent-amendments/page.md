@@ -1,5 +1,5 @@
 ---
-title: "Rule 147 Overview and Recent Amendments (Algo Trading)"
+title: "Rule 147 Overview and Recent Amendments"
 description: "Explore how Rule 147 and its amendment Rule 147A modernize securities regulation for local businesses, enhancing capital raising via algorithmic trading."
 ---
 

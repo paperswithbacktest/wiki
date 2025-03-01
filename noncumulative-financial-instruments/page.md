@@ -1,5 +1,5 @@
 ---
-title: "Noncumulative Financial Instruments (Algo Trading)"
+title: "Noncumulative Financial Instruments"
 description: "Explore noncumulative financial instruments and algorithmic trading to diversify investment portfolios maximize returns and improve trading efficiency."
 ---
 

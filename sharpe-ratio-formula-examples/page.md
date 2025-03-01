@@ -1,5 +1,5 @@
 ---
-title: "Sharpe Ratio: Formula and Examples (Algo Trading)"
+title: "Sharpe Ratio: Formula and Examples"
 description: "Explore the significance of the Sharpe Ratio in algorithmic trading and investment performance. This article investigates into the calculation and application of this essential metric, offering insights into its role in assessing risk-adjusted returns. Understand how the Sharpe Ratio aids financial analysts and traders in making informed decisions to manage risk and optimize portfolios in dynamic markets."
 ---
 

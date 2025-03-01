@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Alternative Data (Algo Trading)"
+title: "Real Estate Alternative Data"
 description: Discover the transformative potential of real estate alternative data in algorithmic trading. Explore how non-traditional data sources from the property market such as satellite imagery and geo-location analytics offer real-time insights to enhance trading strategies. This innovative approach evaluates whether integrating these unique data streams into trading systems provides a substantial advantage or is a temporary trend driven by technological advancements. Uncover the impact and sustainability of using alternative data to gain a competitive edge in financial markets.
 ---
 

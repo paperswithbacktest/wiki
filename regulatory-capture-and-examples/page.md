@@ -1,5 +1,5 @@
 ---
-title: "Regulatory Capture and Examples (Algo Trading)"
+title: "Regulatory Capture and Examples"
 description: "Regulatory capture occurs when regulatory agencies, intended to act in the public interest, are instead dominated by the industries they regulate. This phenomenon can lead to inefficiencies and undermine regulatory objectives, particularly in high-stakes sectors like finance and algorithmic trading. This article explores regulatory capture's impact, providing examples from various industries, including finance and transportation, and highlights the need for transparent and accountable regulatory frameworks to promote public welfare."
 ---
 

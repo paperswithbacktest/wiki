@@ -1,5 +1,5 @@
 ---
-title: "Sum-of-the-Parts Valuation: Meaning, Formula, and Example (Algo Trading)"
+title: "Sum-of-the-Parts Valuation: Meaning, Formula, and Example"
 description: "Explore the importance of Sum-of-the-Parts (SOTP) valuation in analyzing conglomerates and algorithmic trading. Learn its methodology and real-world impact."
 ---
 

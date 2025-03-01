@@ -1,5 +1,5 @@
 ---
-title: "Overview of Bitfinex (Algo Trading)"
+title: "Overview of Bitfinex"
 description: "Explore Bitfinex's algorithmic trading features that empower traders in the fast-paced cryptocurrency market. Discover how advanced trading tools and innovative solutions on Bitfinex optimize strategies and enhance market participation, making it a leading choice for both retail and institutional investors."
 ---
 

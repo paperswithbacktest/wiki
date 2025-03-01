@@ -1,5 +1,5 @@
 ---
-title: "Tradable Commodities and Their Functionality (Algo Trading)"
+title: "Tradable Commodities and Their Functionality"
 description: "Explore how commodities trading, powered by algorithmic technology, drives global market dynamics and investment strategies in today's interconnected economy."
 ---
 

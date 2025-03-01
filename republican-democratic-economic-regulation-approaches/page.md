@@ -1,5 +1,5 @@
 ---
-title: "Republican and Democratic Economic Regulation Approaches (Algo Trading)"
+title: "Republican and Democratic Economic Regulation Approaches"
 description: "Explore the contrasting economic regulation approaches of Republicans and Democrats in the U.S. Discover how each party's philosophy influences their policies and impacts the economy from tax reforms to algorithmic trading. Understand the implications for growth and social welfare through an analysis of historical data and emerging challenges in financial markets."
 ---
 

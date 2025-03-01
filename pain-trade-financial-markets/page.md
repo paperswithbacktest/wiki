@@ -1,5 +1,5 @@
 ---
-title: "Pain Trade in Financial Markets (Algo Trading)"
+title: "Pain Trade in Financial Markets"
 description: "Explore the crucial role of pain trade in financial markets and how algorithmic trading can help mitigate risks and capitalize on unexpected market shifts."
 ---
 

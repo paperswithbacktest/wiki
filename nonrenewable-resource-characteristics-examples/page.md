@@ -1,5 +1,5 @@
 ---
-title: "Nonrenewable Resource Characteristics and Examples (Algo Trading)"
+title: "Nonrenewable Resource Characteristics and Examples"
 description: "Explore the characteristics of nonrenewable resources like fossil fuels and their relationship with algorithmic trading impacting global economies and environmental sustainability."
 ---
 

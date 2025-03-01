@@ -1,5 +1,5 @@
 ---
-title: "Proven Reserves: Definition and Function (Algo Trading)"
+title: "Proven Reserves: Definition and Function"
 description: "Explore proven reserves and algorithmic trading's role in shaping energy markets. Learn how these elements enhance economic stability and market prediction."
 ---
 

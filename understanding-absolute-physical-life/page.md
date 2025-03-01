@@ -1,5 +1,5 @@
 ---
-title: "Understanding Absolute Physical Life (Algo Trading)"
+title: "Understanding Absolute Physical Life"
 description: "Explore how philosophical perspectives on life's purpose intersect with algorithmic trading in economics and technology uncovering existential insights and market dynamics."
 ---
 

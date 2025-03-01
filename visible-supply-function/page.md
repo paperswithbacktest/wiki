@@ -1,5 +1,5 @@
 ---
-title: "Visible Supply and Its Function (Algo Trading)"
+title: "Visible Supply and Its Function"
 description: "Explore how visible supply metrics and economic indicators shape algorithmic trading strategies This article investigates into market analysis and its impact on trading success"
 ---
 

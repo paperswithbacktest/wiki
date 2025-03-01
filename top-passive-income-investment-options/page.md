@@ -1,5 +1,5 @@
 ---
-title: "Top Passive Income Investment Options (Algo Trading)"
+title: "Top Passive Income Investment Options"
 description: "Explore top passive income investment options with a focus on algorithmic trading to boost earnings automatically while diversifying your financial strategy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Self-exciting processes in market microstructure (Algo Trading)"
+title: "Self-exciting processes in market microstructure"
 description: "Explore the application of self-exciting processes, or Hawkes processes, in high-frequency trading to understand market microstructure and predict price movements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stock Delisting and Its Process (Algo Trading)"
+title: "Stock Delisting and Its Process"
 description: "Explore the complexities of stock delisting and how it impacts investors' ability to trade shares while adapting with algorithmic trading for strategic advantage."
 ---
 

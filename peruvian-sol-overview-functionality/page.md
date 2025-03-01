@@ -1,5 +1,5 @@
 ---
-title: "Peruvian Sol: Overview and Functionality (Algo Trading)"
+title: "Peruvian Sol: Overview and Functionality"
 description: "Discover the role of the Peruvian Sol in Peru's economy and explore how algorithmic trading enhances its market engagement through advanced tactics and insights."
 ---
 

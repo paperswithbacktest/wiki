@@ -1,5 +1,5 @@
 ---
-title: "Property, Plant, and Equipment (Algo Trading)"
+title: "Property, Plant, and Equipment"
 description: "Explore the dynamic synergy between fixed assets PP&E and algorithmic trading to leverage technological advancements in finance and optimize investment strategies."
 ---
 

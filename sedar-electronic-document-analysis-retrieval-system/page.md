@@ -1,5 +1,5 @@
 ---
-title: "Sedar: Electronic Document Analysis and Retrieval System (Algo Trading)"
+title: "Sedar: Electronic Document Analysis and Retrieval System"
 description: "Discover how SEDAR supports algorithmic trading by providing fast access to essential financial data ensuring efficiency and transparency in Canadian markets."
 ---
 

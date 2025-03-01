@@ -1,5 +1,5 @@
 ---
-title: "Repurchase Agreement (Algo Trading)"
+title: "Repurchase Agreement"
 description: "Explore the synergy of repurchase agreements and algorithmic trading in finance. Learn how these tools manage liquidity, risk, and enhance investment returns."
 ---
 

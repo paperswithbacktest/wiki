@@ -1,5 +1,5 @@
 ---
-title: "Operating Cash Flow Demand (Algo Trading)"
+title: "Operating Cash Flow Demand"
 description: "Explore the relationship between operating cash flow demand finance cash flow demand and algorithmic trading. Learn how firms balance operations liquidity and growth."
 ---
 

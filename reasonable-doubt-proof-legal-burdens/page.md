@@ -1,5 +1,5 @@
 ---
-title: "Reasonable Doubt: Proof and Legal Burdens (Algo Trading)"
+title: "Reasonable Doubt: Proof and Legal Burdens"
 description: "Explore how legal principles of reasonable doubt and burden of proof affect algorithmic trading compliance and regulation in the financial industry."
 ---
 

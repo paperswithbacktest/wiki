@@ -1,5 +1,5 @@
 ---
-title: "Specialist Short Sale Ratio (Algo Trading)"
+title: "Specialist Short Sale Ratio"
 description: "Explore short sale strategies and ratio analysis with insights on algorithmic trading Discover how specialists use these tools for informed financial decisions"
 ---
 

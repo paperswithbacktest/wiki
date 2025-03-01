@@ -1,5 +1,5 @@
 ---
-title: "S&P 500 Index: Purpose and Significance in Investing (Algo Trading)"
+title: "S&P 500 Index: Purpose and Significance in Investing"
 description: "Explore the significance of the S&P 500 Index in investing and how algorithmic trading can optimize your strategy for enhanced market performance."
 ---
 

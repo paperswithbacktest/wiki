@@ -1,5 +1,5 @@
 ---
-title: "Sold-Out Market: Overview and Examples (Algo Trading)"
+title: "Sold-Out Market: Overview and Examples"
 description: "Explore the intricacies of sold-out markets in algo trading, including economic influences, market dynamics, and the role of technology in shaping liquidity."
 ---
 

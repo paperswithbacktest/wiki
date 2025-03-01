@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Analysis in Hedge Fund Performance and Risk (Algo Trading)"
+title: "Quantitative Analysis in Hedge Fund Performance and Risk"
 description: "Explore how hedge funds use quantitative analysis to boost performance and manage risk by leveraging mathematical models and algorithmic trading strategies."
 ---
 

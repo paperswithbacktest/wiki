@@ -1,5 +1,5 @@
 ---
-title: "Organic Growth and Its Importance to Investors (Algo Trading)"
+title: "Organic Growth and Its Importance to Investors"
 description: "Explore the growing significance of organic growth and algorithmic trading in investment strategies Learn how these approaches can create sustainable success and optimize trading decisions"
 ---
 

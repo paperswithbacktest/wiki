@@ -1,5 +1,5 @@
 ---
-title: "Z-Bond: Overview, Mechanism, Risk Management (Algo Trading)"
+title: "Z-Bond: Overview, Mechanism, Risk Management"
 description: "Explore the intricacies of Z-Bonds and their integration with algorithmic trading to optimize risk management, enhance returns, and improve investment strategies."
 ---
 

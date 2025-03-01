@@ -1,5 +1,5 @@
 ---
-title: "Operating Expense Ratio (Algo Trading)"
+title: "Operating Expense Ratio"
 description: "Discover how the Operating Expense Ratio (OER) impacts algorithmic trading efficiency Evaluate cost structures and enhance profitability through optimal OER management"
 ---
 

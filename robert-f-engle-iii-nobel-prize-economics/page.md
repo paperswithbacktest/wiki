@@ -1,5 +1,5 @@
 ---
-title: "Robert F. Engle III: Nobel Prize in Economics (Algo Trading)"
+title: "Robert F. Engle III: Nobel Prize in Economics"
 description: "Discover Robert F. Engle III’s groundbreaking ARCH model that revolutionized financial volatility modeling earning him the Nobel Prize and transforming algorithmic trading."
 ---
 

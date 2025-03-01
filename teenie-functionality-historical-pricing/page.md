@@ -1,5 +1,5 @@
 ---
-title: "Teenie: Functionality and Historical Pricing (Algo Trading)"
+title: "Teenie: Functionality and Historical Pricing"
 description: "Explore the historical role of Teenie in trading from fractional pricing to its impact on modern algorithmic markets, shaping strategies and financial evolution."
 ---
 

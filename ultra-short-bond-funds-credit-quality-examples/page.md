@@ -1,5 +1,5 @@
 ---
-title: "Ultra-Short Bond Funds: Overview and Credit Quality (Algo Trading)"
+title: "Ultra-Short Bond Funds: Overview and Credit Quality"
 description: "Explore how ultra-short bond funds, credit quality, and algorithmic trading can enhance your investment strategy and optimize your portfolio for stable returns."
 ---
 

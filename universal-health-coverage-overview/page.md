@@ -1,5 +1,5 @@
 ---
-title: "Universal Health Coverage Overview (Algo Trading)"
+title: "Universal Health Coverage Overview"
 description: "Explore the dynamics of universal health coverage systems worldwide and their financial implications with a focus on accessibility affordability and public health outcomes."
 ---
 

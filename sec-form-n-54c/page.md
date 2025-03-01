@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-54C (Algo Trading)"
+title: "SEC Form N-54C"
 description: "Learn about SEC Form N-54C and its role in algorithmic trading regulation as companies transition from Business Development Company status for strategic growth."
 ---
 

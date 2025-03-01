@@ -1,5 +1,5 @@
 ---
-title: "Refinancing Bubble (Algo Trading)"
+title: "Refinancing Bubble"
 description: "Explore the interconnectedness of refinancing, economic bubbles, and algorithmic trading in real estate Discover strategies to navigate volatile market dynamics effectively"
 ---
 

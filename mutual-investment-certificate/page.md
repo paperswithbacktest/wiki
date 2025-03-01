@@ -1,5 +1,5 @@
 ---
-title: "Mutual Investment Certificate (Algo Trading)"
+title: "Mutual Investment Certificate"
 description: "Discover the benefits and challenges of investment certificates, mutual funds, and algorithmic trading to enhance your portfolio and achieve financial growth."
 ---
 

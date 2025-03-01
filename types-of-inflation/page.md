@@ -1,5 +1,5 @@
 ---
-title: "Types of Inflation (Algo Trading)"
+title: "Types of Inflation"
 description: "Discover the different types of inflation and their impact on algorithmic trading in global markets. Understand how demand-pull, cost-push, stagflation, and hyperinflation influence trading strategies and investment decisions. Explore methods to manage inflation-related risks in the financial landscape."
 ---
 

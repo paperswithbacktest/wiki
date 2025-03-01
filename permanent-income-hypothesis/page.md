@@ -1,5 +1,5 @@
 ---
-title: "Permanent Income Hypothesis (Algo Trading)"
+title: "Permanent Income Hypothesis"
 description: "Explore how the Permanent Income Hypothesis introduced by Milton Friedman proposes that consumers base their spending on expected long-term income rather than current earnings. This theory impacts economic understanding by suggesting stable consumption patterns amidst income changes influencing both personal finance and macroeconomic policy. The fusion of this theory with algorithmic trading offers insights into market trends by integrating economic principles into trading strategies enhancing decision-making and consumer-driven market reactions. This article investigates into PIH's fundamentals its influence on behavior and its application in trading highlighting challenges and future potentials."
 ---
 

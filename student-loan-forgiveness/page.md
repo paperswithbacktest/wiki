@@ -1,5 +1,5 @@
 ---
-title: "Student Loan Forgiveness (Algo Trading)"
+title: "Student Loan Forgiveness"
 description: "Explore the dynamic intersections of student loan forgiveness, debt relief, and algorithmic trading. Learn how evolving policies and strategic investment options can help manage financial obligations and enhance growth opportunities for borrowers."
 ---
 

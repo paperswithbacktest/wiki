@@ -1,5 +1,5 @@
 ---
-title: "Stablecoins: Overview and Types (Algo Trading)"
+title: "Stablecoins: Overview and Types"
 description: "Explore the role and types of stablecoins in the crypto space. Learn how these digital currencies offer stability to facilitate trades and hedge against volatility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "price impact curves (Algo Trading)"
+title: "price impact curves"
 description: "Explore how trades impact market prices with price impact curves an essential tool in algorithmic trading Learn to optimize strategies by understanding trade effects"
 ---
 

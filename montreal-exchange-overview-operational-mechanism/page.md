@@ -1,5 +1,5 @@
 ---
-title: "Montréal Exchange: Overview and Operational Mechanism (Algo Trading)"
+title: "Montréal Exchange: Overview and Operational Mechanism"
 description: "Explore the Montréal Exchange and its pivotal role in Canada's financial markets, focusing on trading mechanisms, algorithmic trading, and market dynamics."
 ---
 

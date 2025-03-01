@@ -1,5 +1,5 @@
 ---
-title: "Price-to-Research Ratio: Explanation and Limitations (Algo Trading)"
+title: "Price-to-Research Ratio: Explanation and Limitations"
 description: "Explore the Price-to-Research Ratio for investment insights into company innovation and valuation in algorithmic trading. Understand PRR limitations and opportunities."
 ---
 

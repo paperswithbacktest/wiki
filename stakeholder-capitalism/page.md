@@ -1,5 +1,5 @@
 ---
-title: "Stakeholder Capitalism (Algo Trading)"
+title: "Stakeholder Capitalism"
 description: "Explore the integration of stakeholder capitalism with algorithmic trading and corporate responsibility Discover how this approach transforms modern business strategies."
 ---
 

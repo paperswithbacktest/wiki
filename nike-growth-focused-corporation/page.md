@@ -1,5 +1,5 @@
 ---
-title: "Nike as a Growth-Focused Corporation (Algo Trading)"
+title: "Nike as a Growth-Focused Corporation"
 description: "Nike integrates growth strategies and algorithmic trading to enhance market leadership optimizing financial decisions and expanding its competitive edge globally."
 ---
 

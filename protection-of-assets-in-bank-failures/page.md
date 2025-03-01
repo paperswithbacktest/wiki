@@ -1,5 +1,5 @@
 ---
-title: "Protection of Assets in Bank Failures (Algo Trading)"
+title: "Protection of Assets in Bank Failures"
 description: "Explore strategies for safeguarding assets in bank failures and the impact of algorithmic trading on financial markets. Learn about risk management and regulations."
 ---
 

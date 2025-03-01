@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 24F-2NT (Algo Trading)"
+title: "SEC Form 24F-2NT"
 description: "Explore the vital role of SEC Form 24F-2NT in enabling mutual funds and investment firms to legally sell additional securities while maintaining SEC compliance."
 ---
 

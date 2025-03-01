@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning for Trading (Algo Trading)"
+title: "Reinforcement Learning for Trading"
 description: "Explore how Reinforcement Learning enhances algorithmic trading by optimizing decision-making with AI. Learn strategies for adaptable, efficient market analysis."
 ---
 

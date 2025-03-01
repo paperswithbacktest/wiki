@@ -1,5 +1,5 @@
 ---
-title: "State Capital Investment Corporation (Algo Trading)"
+title: "State Capital Investment Corporation"
 description: "Explore the pivotal role of State Capital Investment Corporation in Vietnam's economy through strategic capital management and algorithmic trading insights."
 ---
 

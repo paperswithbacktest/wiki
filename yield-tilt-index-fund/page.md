@@ -1,5 +1,5 @@
 ---
-title: "Yield Tilt Index Fund (Algo Trading)"
+title: "Yield Tilt Index Fund"
 description: "Explore how yield tilt index funds and algorithmic trading can enhance investment strategies by focusing on high-yield securities and data-driven decisions."
 ---
 

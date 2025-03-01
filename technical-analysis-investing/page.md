@@ -1,5 +1,5 @@
 ---
-title: "Technical Analysis in Investing (Algo Trading)"
+title: "Technical Analysis in Investing"
 description: "Explore the essential role of technical analysis in algorithmic trading, enabling informed investment decisions by analyzing historical price data for optimized strategies."
 ---
 

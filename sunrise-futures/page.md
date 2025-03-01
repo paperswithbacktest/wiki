@@ -1,5 +1,5 @@
 ---
-title: "Sunrise Futures (Algo Trading)"
+title: "Sunrise Futures"
 description: "Explore Sunrise Futures' advanced algorithmic trading solutions designed for precision and efficiency to stay ahead in ever-evolving financial markets."
 ---
 

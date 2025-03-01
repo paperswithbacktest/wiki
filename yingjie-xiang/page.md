@@ -1,5 +1,5 @@
 ---
-title: "Yingjie Xiang (Algo Trading)"
+title: "Yingjie Xiang"
 description: "Explore Yingjie Xiang's journey from academia to a key role in algorithmic trading at Akuna Capital showcasing his expertise in engineering and data science."
 ---
 

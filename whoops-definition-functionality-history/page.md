@@ -1,5 +1,5 @@
 ---
-title: "Whoops: Definition, Functionality, and History (Algo Trading)"
+title: "Whoops: Definition, Functionality, and History"
 description: "Explore the role of 'whoops' in algorithmic trading its history of mishaps and how learning from these errors has shaped more resilient trading systems today"
 ---
 

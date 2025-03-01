@@ -1,5 +1,5 @@
 ---
-title: "Pass-Through Certificate: Function and Mechanism (Algo Trading)"
+title: "Pass-Through Certificate: Function and Mechanism"
 description: "Explore how pass-through certificates offer fixed income by pooling mortgage assets while algorithmic trading reshapes markets with automated trade execution."
 ---
 

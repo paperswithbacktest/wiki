@@ -1,5 +1,5 @@
 ---
-title: "Net Income After Taxes (Algo Trading)"
+title: "Net Income After Taxes"
 description: "Discover the connection between taxes, net income, and algorithmic trading to optimize financial strategies and make informed decisions in complex markets."
 ---
 

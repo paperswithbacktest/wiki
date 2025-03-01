@@ -1,5 +1,5 @@
 ---
-title: "Quote in Trading and Investing (Algo Trading)"
+title: "Quote in Trading and Investing"
 description: "Explore the dynamic interplay between investing quotes and algorithmic trading in financial markets Discover how real-time quote data enhances trading efficiency."
 ---
 

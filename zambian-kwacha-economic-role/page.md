@@ -1,5 +1,5 @@
 ---
-title: "Zambian Kwacha and Its Economic Role (Algo Trading)"
+title: "Zambian Kwacha and Its Economic Role"
 description: "Explore the pivotal economic role of the Zambian Kwacha and how algorithmic trading strategies are transforming forex opportunities in Zambia's market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Private Equity in Real Estate Investing and Returns (Algo Trading)"
+title: "Private Equity in Real Estate Investing and Returns"
 description: "Discover the dynamic synergy between private equity real estate investing and algorithmic trading for optimized returns and strategic property management."
 ---
 

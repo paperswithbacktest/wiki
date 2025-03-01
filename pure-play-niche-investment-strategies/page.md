@@ -1,5 +1,5 @@
 ---
-title: "Pure Play: Examples of Niche Investment Strategies (Algo Trading)"
+title: "Pure Play: Examples of Niche Investment Strategies"
 description: "Discover the transformative world of niche investing strategies with our in-depth look at pure play and algo trading Explore how focused investments can maximize returns"
 ---
 

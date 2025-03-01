@@ -1,5 +1,5 @@
 ---
-title: "Voluntary Accumulation Plan (Algo Trading)"
+title: "Voluntary Accumulation Plan"
 description: "Explore how Voluntary Accumulation Plans boost wealth growth by facilitating regular investments. Pair it with algorithmic trading to enhance precision and reduce emotional bias."
 ---
 

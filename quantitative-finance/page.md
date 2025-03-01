@@ -1,5 +1,5 @@
 ---
-title: "An Introduction to Quantitative Finance (Algo Trading)"
+title: "An Introduction to Quantitative Finance"
 description: Explore the transformative world of quantitative finance and algorithmic trading, where mathematical models and data analysis drive decisions in modern markets. Quantitative finance utilizes large datasets and statistical techniques to predict market trends, aiding in investment and risk management. Algorithmic trading uses algorithms for fast, automated trade execution, enhancing precision and high-frequency trading. This synergy enhances liquidity and market efficiency, offering abundant career opportunities for those skilled in this dynamic field. Understanding these principles is essential for success in today's financial landscape.
 ---
 

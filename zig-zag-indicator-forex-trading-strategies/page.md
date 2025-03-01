@@ -1,5 +1,5 @@
 ---
-title: "Zig Zag Indicator in Forex Trading Strategies (Algo Trading)"
+title: "Zig Zag Indicator in Forex Trading Strategies"
 description: "Enhance your forex trading strategies with the Zig Zag indicator which filters market noise to highlight key trends helping you identify potential reversals and optimize trading decisions."
 ---
 

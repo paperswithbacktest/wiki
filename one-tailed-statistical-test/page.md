@@ -1,5 +1,5 @@
 ---
-title: "One-Tailed Statistical Test (Algo Trading)"
+title: "One-Tailed Statistical Test"
 description: "Explore how one-tailed statistical tests optimize algorithmic trading by enabling precise analysis of market trends and validating trading strategies effectively."
 ---
 

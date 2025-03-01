@@ -1,5 +1,5 @@
 ---
-title: "Optimal inventory management for market makers (Algo Trading)"
+title: "Optimal inventory management for market makers"
 description: "Optimize your inventory management in algorithmic trading to boost liquidity and profitability by exploring models and strategies tailored for market makers."
 ---
 

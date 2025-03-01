@@ -1,5 +1,5 @@
 ---
-title: "Spread-Load Investment Plan (Algo Trading)"
+title: "Spread-Load Investment Plan"
 description: "Discover effective financial planning strategies like spread-load investment plans and algorithmic trading to optimize your investment portfolio for lasting success."
 ---
 

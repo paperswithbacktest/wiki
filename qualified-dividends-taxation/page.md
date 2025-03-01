@@ -1,5 +1,5 @@
 ---
-title: "Qualified Dividends and Taxation (Algo Trading)"
+title: "Qualified Dividends and Taxation"
 description: "Explore the complexities of qualified dividend taxation and algo trading to optimize investment strategies. Learn how these factors impact returns and tax obligations."
 ---
 

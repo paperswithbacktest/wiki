@@ -1,5 +1,5 @@
 ---
-title: "Treasury Investment Growth Receipts (Algo Trading)"
+title: "Treasury Investment Growth Receipts"
 description: "Discover the fusion of historical and modern strategies with Treasury Investment Growth Receipts Learn about zero-coupon bonds and algo trading in finance"
 ---
 

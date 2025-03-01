@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Gold With a 401(k) (Algo Trading)"
+title: "Purchasing Gold With a 401(k)"
 description: "Explore strategies for incorporating gold into a 401(k) with algorithmic trading methods for a secure retirement investment, highlighting benefits and risks."
 ---
 

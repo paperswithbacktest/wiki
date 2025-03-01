@@ -1,5 +1,5 @@
 ---
-title: "History of the U.S. Dollar as the Global Reserve Currency (Algo Trading)"
+title: "History of the U.S. Dollar as the Global Reserve Currency"
 description: "Explore the history of the U.S. Dollar as the global reserve currency and its influence on algorithmic trading, a transformative force in modern finance."
 ---
 

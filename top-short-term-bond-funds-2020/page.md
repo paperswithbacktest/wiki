@@ -1,5 +1,5 @@
 ---
-title: "Top Short-Term Bond Funds of 2020 (Algo Trading)"
+title: "Top Short-Term Bond Funds of 2020"
 description: "Discover the top short-term bond funds of 2020, exploring their safety, liquidity, and the impact of algorithmic trading on enhancing returns and stability."
 ---
 

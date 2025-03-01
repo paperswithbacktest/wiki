@@ -1,5 +1,5 @@
 ---
-title: "Multiple: Calculation and Types (Algo Trading)"
+title: "Multiple: Calculation and Types"
 description: "Explore the calculations and types of algorithmic trading strategies used to enhance financial outcomes. Gain insights into trend following and more."
 ---
 

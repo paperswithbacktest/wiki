@@ -1,5 +1,5 @@
 ---
-title: "Open Rotation: Functionality and Frequently Asked Questions (Algo Trading)"
+title: "Open Rotation: Functionality and Frequently Asked Questions"
 description: "Explore the role of open rotation in algo trading to enhance market efficiency set opening prices and optimize trading strategies for better outcomes."
 ---
 

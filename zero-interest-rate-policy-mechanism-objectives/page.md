@@ -1,5 +1,5 @@
 ---
-title: "Zero Interest-Rate Policy: Mechanism and Objectives (Algo Trading)"
+title: "Zero Interest-Rate Policy: Mechanism and Objectives"
 description: "Explore how Zero Interest Rate Policy influences algorithmic trading strategies amid economic changes Discover how AI impacts trading models in this context"
 ---
 

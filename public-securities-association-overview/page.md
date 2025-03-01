@@ -1,5 +1,5 @@
 ---
-title: "Public Securities Association Overview (Algo Trading)"
+title: "Public Securities Association Overview"
 description: "Discover the transformative impact of algorithmic trading and the legacy of the Public Securities Association in shaping modern financial strategies and prepayment models."
 ---
 

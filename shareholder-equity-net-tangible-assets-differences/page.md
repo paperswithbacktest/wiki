@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Equity and Net Tangible Assets: Differences (Algo Trading)"
+title: "Shareholder Equity and Net Tangible Assets: Differences"
 description: "Explore the differences between net tangible assets and shareholder equity and their significance in financial evaluations plus their role in algorithmic trading."
 ---
 

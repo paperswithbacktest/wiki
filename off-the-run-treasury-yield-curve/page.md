@@ -1,5 +1,5 @@
 ---
-title: "Off-The-Run Treasury Yield Curve (Algo Trading)"
+title: "Off-The-Run Treasury Yield Curve"
 description: "Explore the intricacies of off-the-run Treasury yield curves and algorithmic trading to enhance your fixed-income investment strategies and portfolio performance."
 ---
 

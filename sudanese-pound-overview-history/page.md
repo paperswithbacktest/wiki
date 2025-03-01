@@ -1,5 +1,5 @@
 ---
-title: "Sudanese Pound: Overview and History (Algo Trading)"
+title: "Sudanese Pound: Overview and History"
 description: "Explore the complex history and current role of the Sudanese Pound which is crucial in Sudan's economic landscape amidst algorithmic trading impacts."
 ---
 

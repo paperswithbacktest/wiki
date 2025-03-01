@@ -1,5 +1,5 @@
 ---
-title: "Savings Bonds of 2024 (Algo Trading)"
+title: "Savings Bonds of 2024"
 description: "Explore profitable bond investments in 2024 using algorithmic trading Discover diverse bond types and strategies for optimal returns and risk management"
 ---
 

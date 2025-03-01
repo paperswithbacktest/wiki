@@ -1,5 +1,5 @@
 ---
-title: "Treasury Direct Reinvestment Program (Algo Trading)"
+title: "Treasury Direct Reinvestment Program"
 description: "Explore the benefits of Treasury Direct Reinvestment Plans with algorithmic trading to enhance investment returns through automated dividend reinvestments."
 ---
 

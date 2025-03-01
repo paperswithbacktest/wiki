@@ -1,5 +1,5 @@
 ---
-title: "Richard L. Sandor (Algo Trading)"
+title: "Richard L. Sandor"
 description: "Explore the evolution of financial markets with Richard Sandor's transformative impact on environmental finance and algorithmic trading for a sustainable future."
 ---
 

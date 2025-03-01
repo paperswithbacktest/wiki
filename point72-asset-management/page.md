@@ -1,5 +1,5 @@
 ---
-title: "Point72 Asset Management (Algo Trading)"
+title: "Point72 Asset Management"
 description: Point72 Asset Management, a prominent American hedge fund established by Steven A. Cohen, excels in leveraging innovative investment strategies, notably algorithmic trading, to maintain its competitive edge in the financial markets. Born from the legacy of SAC Capital Advisors, Point72 has undergone significant transformation, marked by robust compliance and a focus on ethics. The firm's adept use of algorithmic trading through its subsidiary, Cubist Systematic Strategies, highlights its commitment to cutting-edge technology and data-driven approaches, reinforcing its position as a leader in the hedge fund industry.
 ---
 

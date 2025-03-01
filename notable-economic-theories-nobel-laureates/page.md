@@ -1,5 +1,5 @@
 ---
-title: "Notable Economic Theories by Nobel Laureates (Algo Trading)"
+title: "Notable Economic Theories by Nobel Laureates"
 description: "Explore how Nobel Prize-winning economic theories integrate with algorithmic trading to enhance financial systems by improving efficiency, precision, and decision-making."
 ---
 

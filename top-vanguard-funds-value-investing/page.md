@@ -1,5 +1,5 @@
 ---
-title: "Top Vanguard Funds for Value Investing (Algo Trading)"
+title: "Top Vanguard Funds for Value Investing"
 description: "Discover top Vanguard funds ideal for value investing enhanced by algorithmic trading insights Achieve your long-term financial goals with lower costs and strategic growth"
 ---
 

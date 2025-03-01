@@ -1,5 +1,5 @@
 ---
-title: "Options on Futures: Mechanism and Examples (Algo Trading)"
+title: "Options on Futures: Mechanism and Examples"
 description: "Explore the dynamic world of futures and options on futures with insights into algorithmic trading strategies This guide offers essential tools for managing risks and optimizing portfolios"
 ---
 

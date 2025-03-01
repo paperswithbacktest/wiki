@@ -1,5 +1,5 @@
 ---
-title: "Role of a Financial Advisor (Algo Trading)"
+title: "Role of a Financial Advisor"
 description: "Discover the intricate roles financial advisors play in modern finance with a focus on investment advice and algorithmic trading. Learn how personalized guidance in financial planning and leveraging technology can enhance portfolio management and optimize financial growth. Explore the importance of aligning investment strategies with individual goals and risk tolerance while embracing innovative trading technologies in a dynamic economic landscape."
 ---
 

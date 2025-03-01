@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Timing: Explanation, Impacts, and Case Study (Algo Trading)"
+title: "Mutual Fund Timing: Explanation, Impacts, and Case Study"
 description: "Explore mutual fund timing and its impact alongside algorithmic trading within investment strategies Learn how market dynamics influence returns and decision-making"
 ---
 

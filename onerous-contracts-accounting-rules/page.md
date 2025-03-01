@@ -1,5 +1,5 @@
 ---
-title: "Onerous Contracts and Accounting Rules (Algo Trading)"
+title: "Onerous Contracts and Accounting Rules"
 description: "Explore the essentials of accounting rules and their impact on financial strategies focusing on GAAP IFRS onerous contracts and algorithmic trading insights."
 ---
 

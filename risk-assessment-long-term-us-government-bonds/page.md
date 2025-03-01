@@ -1,5 +1,5 @@
 ---
-title: "Risk Assessment of Long-Term U.S. Government Bonds (Algo Trading)"
+title: "Risk Assessment of Long-Term U.S. Government Bonds"
 description: "Explore the risks of long-term US government bonds and the impact of algorithmic trading on the bond market to navigate investments effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Relative Strength Index in Forex Trading (Algo Trading)"
+title: "Relative Strength Index in Forex Trading"
 description: "Explore the use of the Relative Strength Index in algorithmic Forex trading for better entry and exit points Learn how RSI enhances trade performance"
 ---
 

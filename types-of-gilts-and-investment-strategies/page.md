@@ -1,5 +1,5 @@
 ---
-title: "Types of Gilts and Investment Strategies (Algo Trading)"
+title: "Types of Gilts and Investment Strategies"
 description: "Optimize your investment portfolio with gilts and advanced algorithmic trading strategies Learn how to balance risk and enhance returns in the modern market"
 ---
 

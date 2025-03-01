@@ -1,5 +1,5 @@
 ---
-title: "Net Domestic Product and Calculation Formula (Algo Trading)"
+title: "Net Domestic Product and Calculation Formula"
 description: "Explore how Net Domestic Product (NDP) and algorithmic trading intersect in financial analysis. Understand NDP's role as an economic indicator that adjusts GDP by accounting for asset depreciation to provide a clear view of economic sustainability. Discover how this metric aids in investment strategies by informing data-driven algorithms used in algotrading, enabling predictions of market trends and optimization of trading decisions. This page investigates into the critical role of economic indicators and their integration into advanced trading techniques, highlighting the importance of precision in navigating ever-evolving global markets."
 ---
 

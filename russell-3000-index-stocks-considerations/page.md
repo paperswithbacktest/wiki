@@ -1,5 +1,5 @@
 ---
-title: "Russell 3000 Index: Stocks and Considerations (Algo Trading)"
+title: "Russell 3000 Index: Stocks and Considerations"
 description: "Explore the Russell 3000 Index to gain a comprehensive understanding of the U.S. stock market's dynamics. Covering 3,000 of the largest publicly traded U.S. companies, this index represents about 96% of the investable equity market, offering a broad perspective on market performance. Discover how its diverse structure supports various investment strategies, including algorithmic trading, and provides insights crucial for informed decision-making in evolving market conditions."
 ---
 

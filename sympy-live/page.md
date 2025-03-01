@@ -1,5 +1,5 @@
 ---
-title: "SymPy Live (Algo Trading)"
+title: "SymPy Live"
 description: Explore the role of SymPy in algorithmic trading and discover how this symbolic mathematics library enhances strategy development derivative pricing and risk management. Learn how SymPy’s symbolic computation capabilities facilitate the implementation of precise and robust trading models within the complex landscape of modern finance.
 ---
 

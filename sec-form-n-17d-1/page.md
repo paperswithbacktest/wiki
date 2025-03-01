@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-17D-1 (Algo Trading)"
+title: "SEC Form N-17D-1"
 description: "Discover the significance of SEC Form N-17D-1 in ensuring transparency and compliance in SBICs and algorithmic trading through detailed financial disclosure.
 "
 ---

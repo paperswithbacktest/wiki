@@ -1,5 +1,5 @@
 ---
-title: "Unconstrained Investing: Meaning and Mechanism (Algo Trading)"
+title: "Unconstrained Investing: Meaning and Mechanism"
 description: "Discover how unconstrained investing strategies and algorithmic trading can enhance portfolio performance by navigating complex markets with agility and precision."
 ---
 

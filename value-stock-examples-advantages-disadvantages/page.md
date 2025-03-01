@@ -1,5 +1,5 @@
 ---
-title: "Value Stock: Definition, Examples, Advantages, and Disadvantages (Algo Trading)"
+title: "Value Stock: Definition, Examples, Advantages, and Disadvantages"
 description: "Explore value stocks and learn how they fit into algorithmic trading strategies featuring insights on benefits and drawbacks to optimize your investments."
 ---
 

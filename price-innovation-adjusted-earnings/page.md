@@ -1,5 +1,5 @@
 ---
-title: "Price Innovation Adjusted Earnings (Algo Trading)"
+title: "Price Innovation Adjusted Earnings"
 description: "Explore the integration of adjusted earnings with algorithmic trading for better investment decisions by understanding company valuations and market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Women in Cryptocurrency: A Support Guide (Algo Trading)"
+title: "Women in Cryptocurrency: A Support Guide"
 description: "Supporting women in crypto algorithmic trading fosters diversity while bridging gaps in the fintech sector This guide offers insights to help women thrive"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ratchet Effect in Economics (Algo Trading)"
+title: "Ratchet Effect in Economics"
 description: "The ratchet effect in economics is a captivating phenomenon where processes once started become difficult to reverse due to feedback mechanisms and changing incentives. Originating from political economy, it impacts areas like public expenditure, business investments, and algorithmic trading. In government spending, it explains why expenditures remain high even after initial conditions change, as temporary measures become entrenched. In businesses, it describes challenges in scaling back investments due to sunk costs. Algorithmic trading sees the effect in strategies that lock into trends, amplifying market shifts. Understanding this effect aids economists, investors, and traders in navigating complex economic landscapes and developing adaptable strategies."
 ---
 

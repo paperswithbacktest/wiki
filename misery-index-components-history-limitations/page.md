@@ -1,5 +1,5 @@
 ---
-title: "Misery Index: Components, History, and Limitations (Algo Trading)"
+title: "Misery Index: Components, History, and Limitations"
 description: "Explore the Misery Index and its impact on algorithmic trading by understanding inflation and unemployment dynamics to enhance financial strategies."
 ---
 

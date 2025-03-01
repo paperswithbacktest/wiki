@@ -1,5 +1,5 @@
 ---
-title: "Naked Warrants: Overview, Functionality, Advantages and Disadvantages (Algo Trading)"
+title: "Naked Warrants: Overview, Functionality, Advantages and Disadvantages"
 description: "Explore the dynamics of naked warrants and algorithmic trading Learn how these investment strategies provide flexibility and leverage while managing associated risks"
 ---
 

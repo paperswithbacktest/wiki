@@ -1,5 +1,5 @@
 ---
-title: "Private Finance Initiative: Benefits and Drawbacks (Algo Trading)"
+title: "Private Finance Initiative: Benefits and Drawbacks"
 description: "Explore the potential of Private Finance Initiatives and Public-Private Partnerships in leveraging private sector capabilities for public-sector projects. Delve into the benefits and challenges of PFIs, their intersection with algorithmic trading, and the evolving financial landscape. Discover how innovative trading technologies can optimize financial flows, enhance risk management, and contribute to more efficient public infrastructure development."
 ---
 

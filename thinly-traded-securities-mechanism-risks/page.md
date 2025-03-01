@@ -1,5 +1,5 @@
 ---
-title: "Thinly Traded Securities: Definition, Mechanism, and Risks (Algo Trading)"
+title: "Thinly Traded Securities: Definition, Mechanism, and Risks"
 description: "Explore the definition mechanism and risks associated with thinly traded securities and discover how algorithmic trading influences such volatile markets."
 ---
 

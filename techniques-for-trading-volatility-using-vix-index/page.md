@@ -1,5 +1,5 @@
 ---
-title: "Techniques for Trading Volatility Using the VIX Index (Algo Trading)"
+title: "Techniques for Trading Volatility Using the VIX Index"
 description: "Discover effective techniques for trading market volatility using the VIX Index Learn how to leverage algorithmic strategies for better investment decisions"
 ---
 

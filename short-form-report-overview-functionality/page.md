@@ -1,5 +1,5 @@
 ---
-title: "Short-Form Report: Overview and Functionality (Algo Trading)"
+title: "Short-Form Report: Overview and Functionality"
 description: "Discover key methodologies of document summarization and short-form reporting in algorithmic trading A must-read for finance professionals seeking swift insights"
 ---
 

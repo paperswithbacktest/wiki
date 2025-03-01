@@ -1,5 +1,5 @@
 ---
-title: "Micropayments in Fintech: Definition and Mechanisms (Algo Trading)"
+title: "Micropayments in Fintech: Definition and Mechanisms"
 description: "Explore the dynamics of micropayments in fintech, where digital platforms enable small transactions efficiently, impacting content, IoT, and in-app purchases."
 ---
 

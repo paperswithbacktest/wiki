@@ -1,5 +1,5 @@
 ---
-title: "Russell 1000 Index: Overview, Holdings, and Performance (Algo Trading)"
+title: "Russell 1000 Index: Overview, Holdings, and Performance"
 description: "Explore the synergy between Russell 1000 investments and algorithmic trading Discover how this approach optimizes returns with speed and precision"
 ---
 

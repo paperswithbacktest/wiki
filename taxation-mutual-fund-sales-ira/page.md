@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Mutual Fund Sales Within an IRA (Algo Trading)"
+title: "Taxation of Mutual Fund Sales Within an IRA"
 description: "Explore how mutual fund sales within IRAs are taxed and the impact of algorithmic trading Learn strategies to optimize after-tax retirement outcomes"
 ---
 

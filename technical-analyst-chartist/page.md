@@ -1,5 +1,5 @@
 ---
-title: "Technical Analyst and Chartist (Algo Trading)"
+title: "Technical Analyst and Chartist"
 description: "Unlock trading success by exploring how technical analysis, charting, and algorithmic trading converge to form advanced market strategies and insights."
 ---
 

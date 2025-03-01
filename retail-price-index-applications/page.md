@@ -1,5 +1,5 @@
 ---
-title: "Retail Price Index and Its Applications (Algo Trading)"
+title: "Retail Price Index and Its Applications"
 description: "Discover how the Retail Price Index (RPI) informs inflation and enhances algorithmic trading strategies, providing insights into market trends and investment opportunities."
 ---
 

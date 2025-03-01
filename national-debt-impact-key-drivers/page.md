@@ -1,5 +1,5 @@
 ---
-title: "National Debt: Impact and Key Drivers (Algo Trading)"
+title: "National Debt: Impact and Key Drivers"
 description: "Explore the intricate relationship between national debt, economic growth, and algorithmic trading in this insightful article. As global debt levels rise, understanding their impact on economic stability and growth becomes crucial. Discover how algorithmic trading's complex strategies could either bolster or undermine economies with considerable debt. Gain valuable insights into national debt components, the debt-to-GDP ratio, and key drivers like government budget deficits and demographic changes. Equip policymakers and economists with knowledge to craft innovative fiscal strategies that harness technology to enhance economic resilience and address debt challenges effectively."
 ---
 

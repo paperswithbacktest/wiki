@@ -1,5 +1,5 @@
 ---
-title: "Ripple Swell: Overview and Mechanisms (Algo Trading)"
+title: "Ripple Swell: Overview and Mechanisms"
 description: "Discover Ripple Swell an influential annual event spotlighting blockchain advancements and algorithmic trading in cryptocurrency industries. Join industry leaders in shaping the future of financial technologies."
 ---
 

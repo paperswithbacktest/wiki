@@ -1,5 +1,5 @@
 ---
-title: "Risk Lover: Characteristics and Interactions (Algo Trading)"
+title: "Risk Lover: Characteristics and Interactions"
 description: "Explore the characteristics of risk lovers in financial markets and their impact on algorithmic trading Learn how risk preferences can shape trading strategies"
 ---
 

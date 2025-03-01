@@ -1,5 +1,5 @@
 ---
-title: "Outright Forward Contracts (Algo Trading)"
+title: "Outright Forward Contracts"
 description: "Discover how outright forward contracts in forex markets help manage currency risk by locking in future rates and how algorithmic trading boosts efficiency."
 ---
 

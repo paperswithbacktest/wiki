@@ -1,5 +1,5 @@
 ---
-title: "Uptick rule (Algo Trading)"
+title: "Uptick rule"
 description: "Explore the Uptick Rule's impact on algorithmic trading and market stability Learn its history role in regulating short selling and influence on trading strategies"
 ---
 

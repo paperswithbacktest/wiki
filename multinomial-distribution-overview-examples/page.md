@@ -1,5 +1,5 @@
 ---
-title: "Multinomial Distribution Overview and Examples (Algo Trading)"
+title: "Multinomial Distribution Overview and Examples"
 description: "Explore the significance of the multinomial distribution in algorithmic trading and finance, learn how it aids in making data-driven decisions by modeling multiple outcomes."
 ---
 

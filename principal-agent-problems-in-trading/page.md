@@ -1,5 +1,5 @@
 ---
-title: "principal-agent problems in trading (Algo Trading)"
+title: "principal-agent problems in trading"
 description: "Explore principal-agent issues in algorithmic trading where misaligned incentives between investors and automated systems may affect trading outcomes."
 ---
 

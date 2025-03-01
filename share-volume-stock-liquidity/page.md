@@ -1,5 +1,5 @@
 ---
-title: "Share Volume and Stock Liquidity (Algo Trading)"
+title: "Share Volume and Stock Liquidity"
 description: "Explore stock liquidity and share volume in algo trading Discover how these dynamics enhance market efficiency and inform smarter investment strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SWOT Analysis Methodology (Algo Trading)"
+title: "SWOT Analysis Methodology"
 description: "Explore the integration of SWOT analysis with algorithmic trading strategies to enhance financial market decision-making through a robust strategic framework."
 ---
 

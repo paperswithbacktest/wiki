@@ -1,5 +1,5 @@
 ---
-title: "Trust Indenture (Algo Trading)"
+title: "Trust Indenture"
 description: "Explore how trust indentures and algorithmic trading are reshaping the bond market by enhancing investor protection, efficiency, and financial innovation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Software Industry Overview (Algo Trading)"
+title: "Software Industry Overview"
 description: "Explore how the software industry's advancements are revolutionizing algorithmic trading in the financial sector by enhancing efficiency and real-time data processing."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ownership of Property on Leased Land (Algo Trading)"
+title: "Ownership of Property on Leased Land"
 description: "Explore the synergy between property ownership on leased land and algorithmic trading to optimize real estate investments while navigating legal and financial complexities."
 ---
 

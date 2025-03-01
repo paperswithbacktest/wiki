@@ -1,5 +1,5 @@
 ---
-title: "NFA Compliance Rule 2-43b: Explanation and Functionality (Algo Trading)"
+title: "NFA Compliance Rule 2-43b: Explanation and Functionality"
 description: "Discover how NFA Compliance Rule 2-43b impacts forex trading and algorithmic strategies Learn about hedging restrictions FIFO requirements and trader adaptations"
 ---
 

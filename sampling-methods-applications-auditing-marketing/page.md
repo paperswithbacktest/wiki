@@ -1,5 +1,5 @@
 ---
-title: "Sampling Methods and Applications in Auditing and Marketing (Algo Trading)"
+title: "Sampling Methods and Applications in Auditing and Marketing"
 description: "Discover the connections between marketing sampling auditing and algorithmic trading Learn how these data-driven techniques influence modern financial strategies"
 ---
 

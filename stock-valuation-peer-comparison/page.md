@@ -1,5 +1,5 @@
 ---
-title: "Stock Valuation Through Peer Comparison (Algo Trading)"
+title: "Stock Valuation Through Peer Comparison"
 description: "Discover how investors leverage stock valuation and peer comparison to identify undervalued stocks Enhance your trading strategies with algorithmic insights"
 ---
 

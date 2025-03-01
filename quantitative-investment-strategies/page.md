@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Investment Strategies (Algo Trading)"
+title: "Quantitative Investment Strategies"
 description: "Explore the transformative impact of algorithmic trading and quantitative finance strategies with insights on optimizing investments through data-driven methodologies."
 ---
 

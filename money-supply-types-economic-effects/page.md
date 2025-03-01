@@ -1,5 +1,5 @@
 ---
-title: "Money Supply: Types and Economic Effects (Algo Trading)"
+title: "Money Supply: Types and Economic Effects"
 description: "Explore the dynamic relationship between money supply, economic performance, and algorithmic trading. Learn how money supply influences inflation and interest rates, impacting growth and investment. Discover how algorithmic trading algorithms transform financial markets with increased efficiency and reduced human error. This article provides insights into the types of money supply, its economic effects, and the integration of algorithmic trading in modern finance, offering a comprehensive understanding of these crucial financial concepts."
 ---
 

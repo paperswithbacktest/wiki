@@ -1,5 +1,5 @@
 ---
-title: "Nelson Complexity Index (Algo Trading)"
+title: "Nelson Complexity Index"
 description: "Explore the Nelson Complexity Index (NCI) a key metric for assessing refinery capabilities and its impact on trading strategies and market dynamics in the oil industry."
 ---
 

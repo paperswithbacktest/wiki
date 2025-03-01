@@ -1,5 +1,5 @@
 ---
-title: "Settlement Process: T+1, T+2, and T+3 (Algo Trading)"
+title: "Settlement Process: T+1, T+2, and T+3"
 description: "Explore the pivotal role of T+1, T+2, and T+3 settlement cycles in financial markets, impacting liquidity and risk in traditional and algorithmic trading."
 ---
 

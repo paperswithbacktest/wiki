@@ -1,5 +1,5 @@
 ---
-title: "Rule of 70 and Rule of 72 (Algo Trading)"
+title: "Rule of 70 and Rule of 72"
 description: "Learn about the Rule of 70 and 72 powerful tools in finance for estimating investment doubling time aiding algorithmic trading and financial strategy planning."
 ---
 

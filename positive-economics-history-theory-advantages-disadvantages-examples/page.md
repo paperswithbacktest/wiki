@@ -1,5 +1,5 @@
 ---
-title: "Positive Economics: History, Theory, Advantages and Disadvantages, Examples (Algo Trading)"
+title: "Positive Economics: History, Theory, Advantages and Disadvantages, Examples"
 description: "Explore the history, theory, and impact of positive economics, focusing on algorithmic trading as a practical application in modern financial markets."
 ---
 

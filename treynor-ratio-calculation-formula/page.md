@@ -1,5 +1,5 @@
 ---
-title: "Treynor Ratio: Definition and Calculation Formula (Algo Trading)"
+title: "Treynor Ratio: Definition and Calculation Formula"
 description: "Explore the significance of the Treynor Ratio in algorithmic trading with insights into risk-adjusted returns and its application in optimizing investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Piggyback Registration: Definition and Mechanism (Algo Trading)"
+title: "Piggyback Registration: Definition and Mechanism"
 description: "Explore the intricacies of piggyback registration and algorithmic trading with our guide on securities financial terms essential for savvy investors in today’s market."
 ---
 

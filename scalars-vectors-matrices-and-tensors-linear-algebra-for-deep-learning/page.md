@@ -1,5 +1,5 @@
 ---
-title: "Scalars, Vectors, Matrices, and Tensors: Linear Algebra for Deep Learning (Algo Trading)"
+title: "Scalars, Vectors, Matrices, and Tensors: Linear Algebra for Deep Learning"
 description: Explore the critical distinctions and applications of tensors and matrices in algorithmic trading, enhancing decision-making by understanding when to utilize each data structure. This analysis empowers traders to optimize strategies, harness tensors for complex data, and improve the efficiency of modern trading systems.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Tenbagger Stocks and Identification (Algo Trading)"
+title: "Tenbagger Stocks and Identification"
 description: "Explore how to identify tenbagger stocks using algorithmic trading Discover strategies and insights into leveraging technology for high-growth investment opportunities"
 ---
 

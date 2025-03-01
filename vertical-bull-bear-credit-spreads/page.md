@@ -1,5 +1,5 @@
 ---
-title: "Vertical Bull and Bear Credit Spreads (Algo Trading)"
+title: "Vertical Bull and Bear Credit Spreads"
 description: "Explore the intricacies of bull and bear credit spreads in algorithmic trading. Learn strategies to manage risk and optimize returns in volatile markets."
 ---
 

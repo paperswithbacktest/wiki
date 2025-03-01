@@ -1,5 +1,5 @@
 ---
-title: "Risk Management in Finance (Algo Trading)"
+title: "Risk Management in Finance"
 description: "Explore the convergence of algorithmic trading and risk management, highlighting advanced strategies to optimize profitability and mitigate potential losses."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pre-Market and Post-Market Trading (Algo Trading)"
+title: "Pre-Market and Post-Market Trading"
 description: "Explore the opportunities and challenges of pre-market and post-market trading. Learn how algorithmic strategies enhance trading efficiency during these extended hours."
 ---
 

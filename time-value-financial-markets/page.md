@@ -1,5 +1,5 @@
 ---
-title: "Time Value in Financial Markets (Algo Trading)"
+title: "Time Value in Financial Markets"
 description: "Explore the interplay of extrinsic and time value in financial derivatives and how algo trading impacts markets enhancing risk assessment and investment strategies."
 ---
 

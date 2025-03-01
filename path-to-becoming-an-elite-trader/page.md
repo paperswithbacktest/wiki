@@ -1,5 +1,5 @@
 ---
-title: "Path to Becoming an Elite Trader (Algo Trading)"
+title: "Path to Becoming an Elite Trader"
 description: "Discover the path to becoming an elite trader through strategic planning, disciplined practices, and algorithmic trading to enhance performance and success."
 ---
 

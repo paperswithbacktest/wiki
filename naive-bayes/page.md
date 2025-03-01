@@ -1,5 +1,5 @@
 ---
-title: "Naive Bayes Algorithm Explained (Algo Trading)"
+title: "Naive Bayes Algorithm Explained"
 description: Discover how the Naive Bayes algorithm, a simple yet effective probabilistic classifier, can transform algorithmic trading strategies. This article investigates into the principles of Naive Bayes, its assumptions, and its applications in finance, offering insights for traders aiming to incorporate machine learning into their trading decisions for enhanced precision and efficiency.
 ---
 

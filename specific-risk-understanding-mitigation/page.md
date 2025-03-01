@@ -1,5 +1,5 @@
 ---
-title: "Specific Risk: Understanding and Mitigation (Algo Trading)"
+title: "Specific Risk: Understanding and Mitigation"
 description: "Discover effective risk management strategies in algorithmic trading to mitigate specific risks unique to this fast-paced, automated trading methodology and enhance portfolio resilience."
 ---
 

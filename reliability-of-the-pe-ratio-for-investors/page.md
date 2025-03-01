@@ -1,5 +1,5 @@
 ---
-title: "Reliability of the P/E Ratio for Investors (Algo Trading)"
+title: "Reliability of the P/E Ratio for Investors"
 description: "Explore the reliability of the Price-to-Earnings ratio in investment analysis and understand how algorithmic trading enhances modern financial strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SEC Form F-8 Overview (Algo Trading)"
+title: "SEC Form F-8 Overview"
 description: "Explore the implications of SEC Form F-8 and algorithmic trading in financial markets focusing on Canadian companies accessing U.S. markets and evolving regulatory challenges."
 ---
 

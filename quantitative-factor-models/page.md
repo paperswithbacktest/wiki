@@ -1,5 +1,5 @@
 ---
-title: "quantitative factor models (Algo Trading)"
+title: "quantitative factor models"
 description: "Discover how quantitative factor models drive successful algorithmic trading strategies by analyzing data-driven insights for optimized decision-making and higher returns."
 ---
 

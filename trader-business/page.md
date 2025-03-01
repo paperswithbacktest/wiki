@@ -1,5 +1,5 @@
 ---
-title: "Trader (Business) (Algo Trading)"
+title: "Trader (Business)"
 description: "Explore the dynamic world of trading where traditional methods meet modern algo trading Learn how technology shapes strategies and boosts market efficiency"
 ---
 

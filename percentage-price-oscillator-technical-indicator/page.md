@@ -1,5 +1,5 @@
 ---
-title: "Percentage Price Oscillator as a Technical Indicator (Algo Trading)"
+title: "Percentage Price Oscillator as a Technical Indicator"
 description: "Discover the Percentage Price Oscillator (PPO) a momentum oscillator that uses exponential moving averages to help traders assess market trends for effective trading strategies."
 ---
 

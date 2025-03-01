@@ -1,5 +1,5 @@
 ---
-title: "Using VIX to Trade SPY and S&P 500 Explained (Algo Trading)"
+title: "Using VIX to Trade SPY and S&P 500 Explained"
 description: Explore the strategic use of the VIX and SPY in algorithmic trading to enhance your ability to navigate market volatility. This article examines the role of the VIX, a key volatility index, and the SPY ETF in developing optimized trading strategies that anticipate market movements. Learn how traders harness the dynamics between these tools to manage risk and potentially improve returns. Dive into techniques such as mean reversion, moving average crossovers, and Bollinger Bands to effectively employ these instruments in algorithmic trading.
 ---
 

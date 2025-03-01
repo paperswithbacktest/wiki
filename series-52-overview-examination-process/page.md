@@ -1,5 +1,5 @@
 ---
-title: "Series 52: Overview and Examination Process (Algo Trading)"
+title: "Series 52: Overview and Examination Process"
 description: "Navigate the complexities of the Series 52 exam with insights into municipal securities qualifications and the role of municipal advisors in today's financial landscape."
 ---
 

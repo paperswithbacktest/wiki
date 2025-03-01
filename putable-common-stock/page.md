@@ -1,5 +1,5 @@
 ---
-title: "Putable Common Stock (Algo Trading)"
+title: "Putable Common Stock"
 description: "Explore the benefits and strategies of common stock, putable stock, and algorithmic trading to maximize returns and mitigate risks in financial portfolios."
 ---
 

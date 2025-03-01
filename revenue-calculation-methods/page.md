@@ -1,5 +1,5 @@
 ---
-title: "Revenue Calculation Methods (Algo Trading)"
+title: "Revenue Calculation Methods"
 description: "Explore revenue calculation methods and how they intertwine with corporate earnings and algorithmic trading—key pillars of business financial strategies."
 ---
 

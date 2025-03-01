@@ -1,5 +1,5 @@
 ---
-title: "South African Reserve Bank: Structure, Financials, and Ownership (Algo Trading)"
+title: "South African Reserve Bank: Structure, Financials, and Ownership"
 description: "Explore the role of the South African Reserve Bank in financial stability, its unique ownership, and the impact of algorithmic trading on global markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Production Costs and Calculation Methods (Algo Trading)"
+title: "Production Costs and Calculation Methods"
 description: "Explore the impact of production costs on algorithmic trading Learn how effective cost management enhances decision-making boosts profitability and optimizes strategies"
 ---
 

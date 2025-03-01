@@ -1,5 +1,5 @@
 ---
-title: "Price by Volume Chart: Overview and Examples (Algo Trading)"
+title: "Price by Volume Chart: Overview and Examples"
 description: "Explore the significance of Price by Volume (PBV) charts in trading by understanding volume and price relationships to enhance strategy and decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Penny Stock Reform Act (Algo Trading)"
+title: "Penny Stock Reform Act"
 description: "Explore the implications of the Penny Stock Reform Act on the volatile penny stock market and algorithmic trading highlighting regulatory challenges and investor protection."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Understanding Bond Cost Basis (Algo Trading)"
+title: "Understanding Bond Cost Basis"
 description: "Master bond investments by understanding cost basis calculation and algorithmic trading for smarter financial planning and improved return potential."
 ---
 

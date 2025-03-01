@@ -1,5 +1,5 @@
 ---
-title: "Neckline in Technical Analysis (Algo Trading)"
+title: "Neckline in Technical Analysis"
 description: "Explore the crucial role of neckline patterns in technical analysis and algorithmic trading to enhance market strategy and predict trend reversals effectively."
 ---
 

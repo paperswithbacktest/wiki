@@ -1,5 +1,5 @@
 ---
-title: "Regulatory Bodies Enforcing GAAP (Algo Trading)"
+title: "Regulatory Bodies Enforcing GAAP"
 description: "Explore how regulatory bodies like FASB and SEC enforce GAAP standards in the evolving world of algorithmic trading ensuring transparency and compliance."
 ---
 

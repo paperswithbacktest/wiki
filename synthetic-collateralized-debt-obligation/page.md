@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Collateralized Debt Obligation (Algo Trading)"
+title: "Synthetic Collateralized Debt Obligation"
 description: "Explore the intersection of Synthetic CDOs and algorithmic trading in modern finance uncovering how these tools shape investment strategies and risk management."
 ---
 

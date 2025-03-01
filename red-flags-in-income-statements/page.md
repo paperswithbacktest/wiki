@@ -1,5 +1,5 @@
 ---
-title: "Red Flags in Income Statements (Algo Trading)"
+title: "Red Flags in Income Statements"
 description: "Explore the critical red flags in income statements that investors should watch for in algorithmic trading contexts to ensure financial health and stability."
 ---
 

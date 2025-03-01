@@ -1,5 +1,5 @@
 ---
-title: "Rent Seeking in Economics (Algo Trading)"
+title: "Rent Seeking in Economics"
 description: "Explore the dynamics of rent seeking in economics, particularly within algorithmic trading. This page investigates into how entities utilize resources to gain economic benefits without enhancing productivity or societal welfare, often through regulatory manipulation. It examines the intersection of rent-seeking behavior and algo trading's efficiencies, shedding light on regulatory challenges and the broader impact on market competition and innovation. Understanding these interactions is crucial for fostering fair and innovative financial markets that serve broader societal interests."
 ---
 

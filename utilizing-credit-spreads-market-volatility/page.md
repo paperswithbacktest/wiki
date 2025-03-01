@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Credit Spreads During Market Volatility Spikes (Algo Trading)"
+title: "Utilizing Credit Spreads During Market Volatility Spikes"
 description: "Harness market volatility with credit spreads and algorithmic trading Discover strategies to manage risks and seize opportunities amidst financial market fluctuations"
 ---
 

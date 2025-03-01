@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Non-Dividend Stocks (Algo Trading)"
+title: "Valuation of Non-Dividend Stocks"
 description: "Discover the benefits and challenges of non-dividend stocks Learn valuation strategies and the role of algo trading in unlocking growth potential"
 ---
 

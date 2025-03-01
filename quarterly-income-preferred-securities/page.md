@@ -1,5 +1,5 @@
 ---
-title: "Quarterly Income Preferred Securities (Algo Trading)"
+title: "Quarterly Income Preferred Securities"
 description: "Explore the benefits and risks of Quarterly Income Preferred Securities and how algorithmic trading can enhance their market performance for investors."
 ---
 

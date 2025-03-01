@@ -1,5 +1,5 @@
 ---
-title: "Nonfarm Payroll Significance (Algo Trading)"
+title: "Nonfarm Payroll Significance"
 description: "Discover how Nonfarm Payroll data influences algorithmic trading strategies and its significance in economic analysis. Learn about its impact on financial markets."
 ---
 

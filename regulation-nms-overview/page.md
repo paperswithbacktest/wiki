@@ -1,5 +1,5 @@
 ---
-title: "Regulation NMS Overview (Algo Trading)"
+title: "Regulation NMS Overview"
 description: "Explore the key components of Regulation NMS which aims to ensure fair pricing and transparency in US equity markets amidst algorithmic trading advancements."
 ---
 

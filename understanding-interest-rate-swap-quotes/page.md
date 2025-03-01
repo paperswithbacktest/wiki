@@ -1,5 +1,5 @@
 ---
-title: "Understanding Interest Rate Swap Quotes (Algo Trading)"
+title: "Understanding Interest Rate Swap Quotes"
 description: "Discover how interest rate swaps manage interest rate risks and optimize trading strategies, providing insights into market expectations through swap quotes."
 ---
 

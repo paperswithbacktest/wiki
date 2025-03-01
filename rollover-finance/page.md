@@ -1,5 +1,5 @@
 ---
-title: "Rollover in Finance (Algo Trading)"
+title: "Rollover in Finance"
 description: "Explore the synergy between rollover strategies and algorithmic trading in today’s finance world. Understand how advanced trading technologies improve efficiency and the role of rollover in extending trading positions. Gain insights into optimizing portfolio returns and mitigating risks with automated systems, crucial for both new and experienced traders."
 ---
 

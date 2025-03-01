@@ -1,5 +1,5 @@
 ---
-title: "Up-Market Capture Ratio Analysis and Calculation (Algo Trading)"
+title: "Up-Market Capture Ratio Analysis and Calculation"
 description: "Explore the up-market capture ratio and its calculation in algorithmic trading to assess investment performance by leveraging positive market trends effectively."
 ---
 

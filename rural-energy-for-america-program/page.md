@@ -1,5 +1,5 @@
 ---
-title: "Rural Energy for America Program (Algo Trading)"
+title: "Rural Energy for America Program"
 description: "Discover how the USDA's Rural Energy for America Program empowers rural communities with grants and loans to adopt renewable energy projects and boost economic growth."
 ---
 

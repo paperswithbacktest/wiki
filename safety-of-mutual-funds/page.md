@@ -1,5 +1,5 @@
 ---
-title: "Safety of Mutual Funds (Algo Trading)"
+title: "Safety of Mutual Funds"
 description: "Explore the safety of mutual funds and algorithmic trading to make informed investment decisions Enhance financial security by understanding risks and returns"
 ---
 

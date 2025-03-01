@@ -1,5 +1,5 @@
 ---
-title: "Selecting a Cryptocurrency Mining Pool (Algo Trading)"
+title: "Selecting a Cryptocurrency Mining Pool"
 description: "Boost your cryptocurrency mining success by understanding how mining pools enhance rewards. Learn to choose the right pool and harness algorithmic trading advantages."
 ---
 

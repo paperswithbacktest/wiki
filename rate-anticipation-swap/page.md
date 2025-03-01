@@ -1,5 +1,5 @@
 ---
-title: "Rate Anticipation Swap (Algo Trading)"
+title: "Rate Anticipation Swap"
 description: "Manage interest rate risk effectively with rate anticipation swaps in algo trading. Leverage predictive strategies and automation for optimized portfolio performance."
 ---
 

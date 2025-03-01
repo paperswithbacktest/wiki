@@ -1,5 +1,5 @@
 ---
-title: "SSE Composite Index: Overview and History (Algo Trading)"
+title: "SSE Composite Index: Overview and History"
 description: "Explore the SSE Composite Index's role in China's economy from its history to its calculation essential for informed investment and algorithmic trading strategies."
 ---
 

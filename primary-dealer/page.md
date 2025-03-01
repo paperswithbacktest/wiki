@@ -1,5 +1,5 @@
 ---
-title: "Primary Dealer (Algo Trading)"
+title: "Primary Dealer"
 description: "Explore the synergy between government securities primary dealers and algorithmic trading in financial markets highlighting the dynamics shaping modern finance."
 ---
 

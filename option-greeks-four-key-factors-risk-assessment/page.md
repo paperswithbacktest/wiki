@@ -1,5 +1,5 @@
 ---
-title: "Option Greeks: Four Key Factors for Risk Assessment (Algo Trading)"
+title: "Option Greeks: Four Key Factors for Risk Assessment"
 description: "Explore the crucial role of Option Greeks in options trading and algorithmic strategies Understand Delta Gamma Theta and Vega for effective risk management and decision-making"
 ---
 

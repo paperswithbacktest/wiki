@@ -1,5 +1,5 @@
 ---
-title: "Robin Hood Effect (Algo Trading)"
+title: "Robin Hood Effect"
 description: "Explore how algorithmic trading may mimic the Robin Hood effect by redistributing wealth through market dynamics. Discover its potential impact on financial equity."
 ---
 

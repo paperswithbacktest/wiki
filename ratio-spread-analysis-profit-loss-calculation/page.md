@@ -1,5 +1,5 @@
 ---
-title: "Ratio Spread: Analysis and Profit-Loss Calculation (Algo Trading)"
+title: "Ratio Spread: Analysis and Profit-Loss Calculation"
 description: "Explore ratio spreads in algorithmic trading to optimize strategies with unequal options, manage risk, and capitalize on market fluctuations effectively."
 ---
 

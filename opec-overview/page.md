@@ -1,5 +1,5 @@
 ---
-title: "OPEC Overview (Algo Trading)"
+title: "OPEC Overview"
 description: "Explore how OPEC's policy decisions shape global oil markets and the role of algorithmic trading in amplifying these effects. Understand the complex interplay between OPEC's influence on oil pricing and supply and the rapid, automated responses of trading algorithms. This comprehensive overview investigates into strategic insights for investors navigating the volatile oil sector, highlighting opportunities and challenges influenced by geopolitical and technological factors."
 ---
 

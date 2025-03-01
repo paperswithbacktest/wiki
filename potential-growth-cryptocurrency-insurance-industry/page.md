@@ -1,5 +1,5 @@
 ---
-title: "Potential Growth of Cryptocurrency Insurance Industry (Algo Trading)"
+title: "Potential Growth of Cryptocurrency Insurance Industry"
 description: "Explore how cryptocurrency and algorithmic trading are revolutionizing the insurance industry enabling efficient transactions and advanced risk assessment."
 ---
 

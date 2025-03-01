@@ -1,5 +1,5 @@
 ---
-title: "United Nations Global Compact: Overview and Principles (Algo Trading)"
+title: "United Nations Global Compact: Overview and Principles"
 description: "Explore how the UN Global Compact's principles align with algorithmic trading fostering ethical and sustainable financial practices within modern global markets."
 ---
 

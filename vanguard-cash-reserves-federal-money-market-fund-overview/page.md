@@ -1,5 +1,5 @@
 ---
-title: "Vanguard Cash Reserves Federal Money Market Fund Overview (Algo Trading)"
+title: "Vanguard Cash Reserves Federal Money Market Fund Overview"
 description: "Discover the stability and liquidity of Vanguard's Cash Reserves Federal Money Market Fund and explore its integration with cutting-edge algorithmic trading strategies."
 ---
 

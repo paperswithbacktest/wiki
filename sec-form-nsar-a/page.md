@@ -1,5 +1,5 @@
 ---
-title: "SEC Form NSAR-A (Algo Trading)"
+title: "SEC Form NSAR-A"
 description: "Explore the transition from SEC Form NSAR-A to Form N-CEN and its significance in algorithmic trading regulatory compliance, crucial for market transparency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Recording Prepaid Expenses on the Income Statement (Algo Trading)"
+title: "Recording Prepaid Expenses on the Income Statement"
 description: "Explore the intricacies of Income Statements and Prepaid Expenses and learn about the impact of Algo Trading on financial analysis and decision making."
 ---
 

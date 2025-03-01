@@ -1,5 +1,5 @@
 ---
-title: "Series I Bonds: Rates, Risks, and Tax Implications (Algo Trading)"
+title: "Series I Bonds: Rates, Risks, and Tax Implications"
 description: "Explore the benefits and risks of Series I Bonds as a low-risk investment option with inflation protection, and discover how they impact portfolio management and algorithmic trading strategies."
 ---
 

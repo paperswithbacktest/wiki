@@ -1,5 +1,5 @@
 ---
-title: "Pete Muller (Algo Trading)"
+title: "Pete Muller"
 description: Pete Muller is a distinguished American investor known for his impactful work in finance, music, and philanthropy. He founded PDT Partners, a leading hedge fund renowned for its success in algorithmic trading, driven by Muller's expertise in mathematics and technology. Beyond finance, Muller's talents as a singer-songwriter underscore his versatility, while his philanthropic efforts emphasize education and the arts. This article investigates into Muller's multifaceted career, highlighting his strategic brilliance and diverse contributions.
 ---
 

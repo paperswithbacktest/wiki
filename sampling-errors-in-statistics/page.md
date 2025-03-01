@@ -1,5 +1,5 @@
 ---
-title: "Sampling Errors in Statistics (Algo Trading)"
+title: "Sampling Errors in Statistics"
 description: "Explore sampling errors in statistics and their impact on algorithmic trading. Learn to identify, mitigate, and understand errors for robust trading models."
 ---
 

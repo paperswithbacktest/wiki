@@ -1,5 +1,5 @@
 ---
-title: "Risk-Free Return: Calculations and Examples (Algo Trading)"
+title: "Risk-Free Return: Calculations and Examples"
 description: "Explore the concepts of risk-free return calculations and algorithmic trading to optimize investment strategies and enhance portfolio performance."
 ---
 

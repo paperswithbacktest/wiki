@@ -1,5 +1,5 @@
 ---
-title: "Optimal Duration for Maintaining Short Positions (Algo Trading)"
+title: "Optimal Duration for Maintaining Short Positions"
 description: "Explore the integration of short selling and algorithmic trading to maximize returns in market downturns. Learn about the risks and strategies for informed investing."
 ---
 

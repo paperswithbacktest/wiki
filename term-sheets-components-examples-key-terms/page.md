@@ -1,5 +1,5 @@
 ---
-title: "Term Sheets: Components, Examples, and Key Terms (Algo Trading)"
+title: "Term Sheets: Components, Examples, and Key Terms"
 description: "Explore the essential components and significance of term sheets in algorithmic trading Learn how these documents impact investment negotiations and decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Terrence A. Duffy and CME Group (Algo Trading)"
+title: "Terrence A. Duffy and CME Group"
 description: "Discover the impact of Terrence A. Duffy's leadership on CME Group's rise in algorithmic trading and global derivatives market advancements."
 ---
 

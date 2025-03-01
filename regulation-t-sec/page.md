@@ -1,5 +1,5 @@
 ---
-title: "Regulation T (SEC) (Algo Trading)"
+title: "Regulation T (SEC)"
 description: Explore the complexities of Regulation T and its critical role in algorithmic trading, managed by the SEC, ensuring market stability and investor protection. Learn how Regulation T influences margin requirements and leverage, vital for risk management in algo trading. Understand SEC's efforts to prevent market manipulation and enhance cybersecurity in this fast-evolving trading landscape, emphasizing compliance and adaptive strategies for market participants.
 ---
 

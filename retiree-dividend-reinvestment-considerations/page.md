@@ -1,5 +1,5 @@
 ---
-title: "Retiree Dividend Reinvestment Considerations (Algo Trading)"
+title: "Retiree Dividend Reinvestment Considerations"
 description: "Explore retiree investment strategies with dividend reinvestment and algorithmic trading to boost portfolio growth with automated, efficient financial planning."
 ---
 

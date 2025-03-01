@@ -1,5 +1,5 @@
 ---
-title: "Types of Bias in Investing (Algo Trading)"
+title: "Types of Bias in Investing"
 description: "Explore the impact of psychological biases on investing and algorithmic trading Discover strategies to mitigate biases and improve investment decisions"
 ---
 

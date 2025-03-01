@@ -1,5 +1,5 @@
 ---
-title: "Peer Group: Uses and Examples (Algo Trading)"
+title: "Peer Group: Uses and Examples"
 description: "Discover how peer group dynamics impact algorithmic trading decisions explore the role of social influences in shaping market trends and trading strategies."
 ---
 

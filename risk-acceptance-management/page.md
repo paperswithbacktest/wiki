@@ -1,5 +1,5 @@
 ---
-title: "Risk Acceptance and Management (Algo Trading)"
+title: "Risk Acceptance and Management"
 description: "Master algorithmic trading by balancing profitability and robust risk management. Learn essential strategies to optimize performance and minimize risks effectively."
 ---
 

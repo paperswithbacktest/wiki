@@ -1,5 +1,5 @@
 ---
-title: "Special Memorandum Account (Algo Trading)"
+title: "Special Memorandum Account"
 description: "Explore key aspects of algorithmic trading integrate finance technology and data to enhance trading strategies and improve market efficiency with algo trading"
 ---
 

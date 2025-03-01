@@ -1,5 +1,5 @@
 ---
-title: "Systematic Investment Plan (Algo Trading)"
+title: "Systematic Investment Plan"
 description: "Discover how Systematic Investment Plans and algorithmic trading empower investors to achieve financial goals in today’s dynamic market through smart strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Ticker Symbols Ending With 'X' (Algo Trading)"
+title: "Mutual Fund Ticker Symbols Ending With 'X'"
 description: "Explore the synergy of mutual fund ticker symbols ending with 'X' and algorithmic trading to optimize portfolio management and trade efficiency in modern finance."
 ---
 

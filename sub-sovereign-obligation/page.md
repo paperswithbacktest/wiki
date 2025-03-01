@@ -1,5 +1,5 @@
 ---
-title: "Sub-Sovereign Obligation (Algo Trading)"
+title: "Sub-Sovereign Obligation"
 description: "Explore municipal bonds and the impact of algorithmic trading on local government finance. Understand risks, advantages, and strategic significance of sub-sovereign debt."
 ---
 

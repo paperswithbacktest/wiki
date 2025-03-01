@@ -1,5 +1,5 @@
 ---
-title: "Micro-Hedge: Functionality and Example (Algo Trading)"
+title: "Micro-Hedge: Functionality and Example"
 description: "Discover the intricacies of micro-hedging and its role in risk management in algo trading Learn to minimize risks and safeguard investment portfolios effectively"
 ---
 

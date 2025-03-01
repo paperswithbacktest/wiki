@@ -1,5 +1,5 @@
 ---
-title: "Semi-Variable Cost (Algo Trading)"
+title: "Semi-Variable Cost"
 description: "Discover the role of semi-variable costs and cost accounting in algorithmic trading to optimize financial strategies and enhance operational efficiency."
 ---
 

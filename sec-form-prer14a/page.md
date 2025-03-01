@@ -1,5 +1,5 @@
 ---
-title: "SEC Form PRER14A (Algo Trading)"
+title: "SEC Form PRER14A"
 description: "Discover how SEC Form PRER14A impacts shareholder voting on key corporate matters and its role in algorithmic trading insights for informed investment strategies."
 ---
 

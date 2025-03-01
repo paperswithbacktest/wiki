@@ -1,5 +1,5 @@
 ---
-title: "Sklearn (Algo Trading)"
+title: "Sklearn"
 description: Explore how scikit-learn (sklearn), a powerful Python library, is transforming algo trading by providing efficient tools for data analysis and machine learning model implementation. Leveraging sklearn, traders can build, test, and optimize algorithms that predict market movements, enhancing trading strategies with increased speed and accuracy.
 ---
 

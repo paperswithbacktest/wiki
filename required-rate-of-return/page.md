@@ -1,5 +1,5 @@
 ---
-title: "Required Rate of Return (Algo Trading)"
+title: "Required Rate of Return"
 description: "Explore the intersection of investment returns and algorithmic trading Discover methods to enhance portfolio performance using advanced trading technologies"
 ---
 

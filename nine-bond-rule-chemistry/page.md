@@ -1,5 +1,5 @@
 ---
-title: "Nine-Bond Rule in Chemistry (Algo Trading)"
+title: "Nine-Bond Rule in Chemistry"
 description: "Explore the fascinating blend of chemistry and finance as the Nine-Bond Rule links molecular stability and algorithmic trading for innovative investment strategies."
 ---
 

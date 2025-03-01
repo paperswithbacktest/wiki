@@ -1,5 +1,5 @@
 ---
-title: "Pros and Cons of Automated Trading Systems (Algo Trading)"
+title: "Pros and Cons of Automated Trading Systems"
 description: "Explore the advantages and disadvantages of automated trading systems Discover how algo trading can enhance trading efficiency while posing potential risks"
 ---
 

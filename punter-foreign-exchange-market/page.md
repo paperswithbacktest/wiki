@@ -1,5 +1,5 @@
 ---
-title: "Punter in the Foreign Exchange Market (Algo Trading)"
+title: "Punter in the Foreign Exchange Market"
 description: "Explore how punters embrace algorithmic trading in forex to enhance risk-taking strategies tapping into market inefficiencies with speed and precision."
 ---
 

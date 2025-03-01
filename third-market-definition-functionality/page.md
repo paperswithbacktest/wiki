@@ -1,5 +1,5 @@
 ---
-title: "Third Market: Definition and Functionality (Algo Trading)"
+title: "Third Market: Definition and Functionality"
 description: "Explore the intricacies of third market and algorithmic trading and learn how they reshape financial markets by offering reduced costs and increased trading efficiency."
 ---
 

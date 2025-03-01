@@ -1,5 +1,5 @@
 ---
-title: "Volatility Arbitrage Trading Strategies Explained (Algo Trading)"
+title: "Volatility Arbitrage Trading Strategies Explained"
 description: Discover how volatility arbitrage strategies can enhance algorithmic trading by capitalizing on volatility discrepancies in market instruments. Gain insights into constructing delta-neutral portfolios and learn how econometric models and machine learning tools assist traders in predicting future volatility. This article investigates into the mechanics of volatility arbitrage and its significance in algorithmic trading, offering a deeper understanding of this sophisticated trading approach.
 ---
 

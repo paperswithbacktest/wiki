@@ -1,5 +1,5 @@
 ---
-title: "Value Investing: Principles, Methods, and Risks (Algo Trading)"
+title: "Value Investing: Principles, Methods, and Risks"
 description: "Discover the fundamentals of value investing and algorithmic trading exploring their principles methods and risks to optimize your investment strategy effectively"
 ---
 

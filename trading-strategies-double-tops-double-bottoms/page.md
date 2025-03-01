@@ -1,5 +1,5 @@
 ---
-title: "Trading Strategies for Double Tops and Double Bottoms (Algo Trading)"
+title: "Trading Strategies for Double Tops and Double Bottoms"
 description: "Discover how double tops and bottoms enhance algo trading by automating pattern recognition to optimize trade entries and exits in volatile markets."
 ---
 

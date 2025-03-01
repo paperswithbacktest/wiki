@@ -1,5 +1,5 @@
 ---
-title: "Sustainability: Concepts, Benefits, and Examples (Algo Trading)"
+title: "Sustainability: Concepts, Benefits, and Examples"
 description: "Incorporating sustainability into algorithmic trading enhances environmental stewardship by optimizing energy use and aligning with ESG criteria, attracting ethical investors."
 ---
 

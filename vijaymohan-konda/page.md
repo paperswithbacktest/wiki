@@ -1,5 +1,5 @@
 ---
-title: "Vijaymohan Konda (Algo Trading)"
+title: "Vijaymohan Konda"
 description: "Discover the journey of Vijaymohan Konda an expert in algorithmic trading and fixed income analytics whose career and research influence the finance sector."
 ---
 

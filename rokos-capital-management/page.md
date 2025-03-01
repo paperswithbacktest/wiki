@@ -1,5 +1,5 @@
 ---
-title: "Rokos Capital Management (Algo Trading)"
+title: "Rokos Capital Management"
 description: "Rokos Capital Management excels in hedge fund strategies through algorithmic trading leveraging data-driven decisions efficiency and innovation by Chris Rokos."
 ---
 

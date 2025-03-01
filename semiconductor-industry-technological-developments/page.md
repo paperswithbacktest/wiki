@@ -1,5 +1,5 @@
 ---
-title: "Semiconductor Industry and Notable Technological Developments (Algo Trading)"
+title: "Semiconductor Industry and Notable Technological Developments"
 description: "Explore how semiconductor advancements fuel technological innovation in algorithmic trading by enhancing processing speed and efficiency that drive financial growth."
 ---
 

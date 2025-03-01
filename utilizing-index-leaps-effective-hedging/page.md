@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Index LEAPS for Effective Hedging (Algo Trading)"
+title: "Utilizing Index LEAPS for Effective Hedging"
 description: "Explore how Index LEAPS, hedging techniques, and algorithmic trading can enhance investment risk management, ensuring portfolio protection and growth."
 ---
 

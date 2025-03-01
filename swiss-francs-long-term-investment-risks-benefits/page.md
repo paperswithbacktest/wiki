@@ -1,5 +1,5 @@
 ---
-title: "Swiss Francs as a Long-Term Investment: Risks and Benefits (Algo Trading)"
+title: "Swiss Francs as a Long-Term Investment: Risks and Benefits"
 description: "Explore the potential of Swiss francs as a long-term investment addressing benefits and risks with a focus on algorithmic trading strategies in forex markets."
 ---
 

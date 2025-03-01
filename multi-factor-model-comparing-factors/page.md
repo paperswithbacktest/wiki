@@ -1,5 +1,5 @@
 ---
-title: "Multi-Factor Model for Comparing Factors (Algo Trading)"
+title: "Multi-Factor Model for Comparing Factors"
 description: "Explore the power of multi-factor models in algorithmic trading to compare factors influencing asset prices These models enhance data-driven investment decisions."
 ---
 

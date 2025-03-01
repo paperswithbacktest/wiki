@@ -1,5 +1,5 @@
 ---
-title: "Solomon Islands Dollar (Algo Trading)"
+title: "Solomon Islands Dollar"
 description: "Explore the Solomon Islands Dollar its significance in trade and the benefits of algo trading in forex markets for SBD-based strategies and investment insights."
 ---
 

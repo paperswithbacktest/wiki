@@ -1,5 +1,5 @@
 ---
-title: "Pip-Squeak Pop (Algo Trading)"
+title: "Pip-Squeak Pop"
 description: "Explore the fascinating convergence of pop music and algorithmic trading, dubbed \"Pip-Squeak Pop,\" where music's viral hits parallel sudden stock price surges. Both realms depend on trend recognition, rapid reactions, and the momentum of fleeting popularity and market swings, presenting unique insights and opportunities for success."
 ---
 

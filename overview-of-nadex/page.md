@@ -1,5 +1,5 @@
 ---
-title: "Overview of Nadex (Algo Trading)"
+title: "Overview of Nadex"
 description: "Explore Nadex for binary options trading in the US with its regulated, transparent environment. Ideal for novices and pros, offering algo trading tools."
 ---
 

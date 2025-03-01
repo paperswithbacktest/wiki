@@ -1,5 +1,5 @@
 ---
-title: "Support and Resistance in Financial Markets (Algo Trading)"
+title: "Support and Resistance in Financial Markets"
 description: "Explore how support and resistance levels guide trading strategies in financial markets and enhance efficiency through algorithmic trading and breakout techniques."
 ---
 

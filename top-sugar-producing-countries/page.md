@@ -1,5 +1,5 @@
 ---
-title: "Top Sugar-Producing Countries (Algo Trading)"
+title: "Top Sugar-Producing Countries"
 description: "Discover how top sugar-producing countries like India and Brazil influence global markets and the critical role of algorithmic trading in this dynamic industry."
 ---
 

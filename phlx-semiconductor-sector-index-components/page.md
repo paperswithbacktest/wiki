@@ -1,5 +1,5 @@
 ---
-title: "PHLX Semiconductor Sector Index Components (Algo Trading)"
+title: "PHLX Semiconductor Sector Index Components"
 description: "Explore the PHLX Semiconductor Sector Index Components and discover key insights into the semiconductor industry and its dynamics affecting algorithmic trading."
 ---
 

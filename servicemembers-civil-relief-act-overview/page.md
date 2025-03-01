@@ -1,5 +1,5 @@
 ---
-title: "Servicemembers Civil Relief Act Overview (Algo Trading)"
+title: "Servicemembers Civil Relief Act Overview"
 description: "Explore the benefits of the Servicemembers Civil Relief Act in algorithmic trading to help military personnel safeguard their financial interests."
 ---
 

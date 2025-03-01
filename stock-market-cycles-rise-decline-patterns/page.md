@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Cycles: Rise and Decline Patterns (Algo Trading)"
+title: "Stock Market Cycles: Rise and Decline Patterns"
 description: "Gain insights into stock market cycles and algorithmic trading to enhance investment strategies. Learn to navigate market fluctuations and emerging trends effectively."
 ---
 

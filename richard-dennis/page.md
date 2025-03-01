@@ -1,5 +1,5 @@
 ---
-title: "Richard Dennis: The Turtle Trader (Algo Trading)"
+title: "Richard Dennis: The Turtle Trader"
 description: Explore the influential legacy of Richard Dennis, a pioneer in trend-following and systematic trading strategies. Known for the remarkable Turtle Trader experiment, Dennis demonstrated the teachability of successful trading through structured education. His work laid the foundation for modern algorithmic trading, emphasizing disciplined, rule-based approaches and sound risk management principles. Delve into Dennis's transformative impact on the trading world, from turning a small loan into vast wealth to mentoring a new generation of traders. Discover the key principles of Turtle Trading and their relevance in today's automated trading systems.
 ---
 

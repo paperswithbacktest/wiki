@@ -1,5 +1,5 @@
 ---
-title: "Vulture Funds: Overview and Examples (Algo Trading)"
+title: "Vulture Funds: Overview and Examples"
 description: "Explore the complex world of vulture funds and algorithmic trading, two distinct investment strategies that target distressed debts and leverage technology for trading precision."
 ---
 

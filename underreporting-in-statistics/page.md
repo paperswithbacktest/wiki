@@ -1,5 +1,5 @@
 ---
-title: "Underreporting in Statistics (Algo Trading)"
+title: "Underreporting in Statistics"
 description: "Explore the critical role of data accuracy in algo trading strategy development and mitigate underreporting's adverse effects on financial decision-making."
 ---
 

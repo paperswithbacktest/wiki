@@ -1,5 +1,5 @@
 ---
-title: "Spoofing (finance) (Algo Trading)"
+title: "Spoofing (finance)"
 description: "Explore the controversial practice of spoofing in finance, revealing how deceptive trading tactics can manipulate market prices and impact stability globally."
 ---
 

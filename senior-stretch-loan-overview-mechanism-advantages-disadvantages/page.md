@@ -1,5 +1,5 @@
 ---
-title: "Senior Stretch Loan: Overview, Mechanism, Advantages and Disadvantages (Algo Trading)"
+title: "Senior Stretch Loan: Overview, Mechanism, Advantages and Disadvantages"
 description: "Explore the benefits and risks of senior stretch loans, a hybrid debt structure catering to middle-market firms with unique funding needs alongside algorithmic trading."
 ---
 

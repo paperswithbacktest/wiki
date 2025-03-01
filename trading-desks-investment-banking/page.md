@@ -1,5 +1,5 @@
 ---
-title: "Trading Desks in Investment Banking (Algo Trading)"
+title: "Trading Desks in Investment Banking"
 description: "Explore the essential role of trading desks in investment banking and the impact of algorithmic trading in executing trades and optimizing strategies efficiently."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Negative Gearing: Concepts, Mechanisms, and Profitability (Algo Trading)"
+title: "Negative Gearing: Concepts, Mechanisms, and Profitability"
 description: "Explore the interconnected roles of negative gearing and algorithmic trading in maximizing investment strategy profitability. Unlock financial insights today."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Minority Depository Institutions: Overview and Development (Algo Trading)"
+title: "Minority Depository Institutions: Overview and Development"
 description: "Discover how Minority Depository Institutions foster financial inclusivity, support minority communities with tailored services, and explore algorithmic trading's impact."
 ---
 

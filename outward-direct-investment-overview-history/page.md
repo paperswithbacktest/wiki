@@ -1,5 +1,5 @@
 ---
-title: "Outward Direct Investment: Overview and History (Algo Trading)"
+title: "Outward Direct Investment: Overview and History"
 description: "Explore the synergy of outward direct investment and algorithmic trading in international business and discover how these strategies drive global financial success."
 ---
 

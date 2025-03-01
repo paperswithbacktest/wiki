@@ -1,5 +1,5 @@
 ---
-title: "Vanuatu Vatu (Algo Trading)"
+title: "Vanuatu Vatu"
 description: "Discover the transformative potential of algorithmic trading for Vanuatu's Vatu as this emerging financial technology reshapes liquidity and market access."
 ---
 

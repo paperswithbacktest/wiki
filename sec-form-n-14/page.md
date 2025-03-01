@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-14 (Algo Trading)"
+title: "SEC Form N-14"
 description: "Explore the synergy between SEC Form N-14 and algorithmic trading to understand how investment companies navigate regulatory compliance and leverage advanced trading technologies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Short Selling in Real Estate (Algo Trading)"
+title: "Short Selling in Real Estate"
 description: "Explore the innovative fusion of real estate investment with short selling and algorithmic trading uncovering opportunities and challenges in modern financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mixture of Gaussians (EF3M) (Algo Trading)"
+title: "Mixture of Gaussians (EF3M)"
 description: Explore the sophisticated world of algorithmic trading with the EF3M algorithm and Mixture of Gaussians model in this insightful article. Learn how this advanced statistical method helps to dissect complex market environments by modeling financial datasets through multiple overlapping Gaussian distributions, providing a nuanced understanding of market dynamics. Discover the strengths of EF3M's unique Expectation-First Maximization approach, which enhances parameter estimation accuracy and captures shifts in investment styles. This technique empowers traders with an edge in developing more precise strategies suited for today’s rapidly evolving financial markets.
 ---
 

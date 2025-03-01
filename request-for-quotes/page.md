@@ -1,5 +1,5 @@
 ---
-title: "Request For Quotes (Algo Trading)"
+title: "Request For Quotes"
 description: "Explore Request for Quotes trading in algorithmic finance to enhance trade efficiency liquidity and pricing strategies amidst dynamic financial markets."
 ---
 

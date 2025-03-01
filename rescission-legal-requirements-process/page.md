@@ -1,5 +1,5 @@
 ---
-title: "Rescission: Legal Requirements and Process (Algo Trading)"
+title: "Rescission: Legal Requirements and Process"
 description: "Explore how rescission in contract law intersects with algorithmic trading highlighting its critical role in maintaining fair and transparent agreements."
 ---
 

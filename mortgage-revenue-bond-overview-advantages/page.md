@@ -1,5 +1,5 @@
 ---
-title: "Mortgage Revenue Bond: Overview and Advantages (Algo Trading)"
+title: "Mortgage Revenue Bond: Overview and Advantages"
 description: "Explore how Mortgage Revenue Bonds support affordable housing and how algorithmic trading optimizes their investment strategies for economic growth."
 ---
 

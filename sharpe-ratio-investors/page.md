@@ -1,5 +1,5 @@
 ---
-title: "Sharpe Ratio and Its Implications for Investors (Algo Trading)"
+title: "Sharpe Ratio and Its Implications for Investors"
 description: "Discover the significance of the Sharpe Ratio for investors and algorithmic trading Explore its role in evaluating risk-adjusted returns and optimizing strategies."
 ---
 

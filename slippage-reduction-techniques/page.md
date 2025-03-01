@@ -1,5 +1,5 @@
 ---
-title: "Slippage Reduction Techniques (Algo Trading)"
+title: "Slippage Reduction Techniques"
 description: "Discover effective slippage reduction techniques in algorithmic trading to enhance trade execution quality and increase profitability by minimizing unwanted price discrepancies."
 ---
 

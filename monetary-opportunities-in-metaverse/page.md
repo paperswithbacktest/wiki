@@ -1,5 +1,5 @@
 ---
-title: "Monetary Opportunities in the Metaverse (Algo Trading)"
+title: "Monetary Opportunities in the Metaverse"
 description: "Explore the transformative potential of virtual reality, the metaverse, and algorithmic trading, revealing new paradigms and opportunities in the digital economy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Option Schedule: Overview and Functionality with Example (Algo Trading)"
+title: "Option Schedule: Overview and Functionality with Example"
 description: "Explore vesting schedules and option schedules crucial for stock-based compensation, and learn how algorithmic trading can enhance financial strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Self-Serving Bias (Algo Trading)"
+title: "Self-Serving Bias"
 description: "Understanding self-serving bias in algorithmic trading is crucial. This bias impacts trading outcomes by distorting decision-making processes and embedding human biases into trading algorithms."
 ---
 

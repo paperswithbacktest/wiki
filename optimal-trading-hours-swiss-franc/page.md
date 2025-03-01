@@ -1,5 +1,5 @@
 ---
-title: "Optimal Trading Hours for the Swiss Franc (Algo Trading)"
+title: "Optimal Trading Hours for the Swiss Franc"
 description: "Explore the optimal trading hours for the Swiss franc and boost your forex strategies with algorithmic trading insights to capitalize on key market moments."
 ---
 

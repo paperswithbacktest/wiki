@@ -1,5 +1,5 @@
 ---
-title: "Truth in Savings Act Overview (Algo Trading)"
+title: "Truth in Savings Act Overview"
 description: "Explore the vital role of the Truth in Savings Act in ensuring banking transparency and fairness, alongside the challenges of algorithmic trading in consumer protection."
 ---
 

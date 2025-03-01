@@ -1,5 +1,5 @@
 ---
-title: "Reload Option: Functionality and Example (Algo Trading)"
+title: "Reload Option: Functionality and Example"
 description: "Explore reload options and algorithmic trading to optimize investment strategies enhance employee incentives and manage risks in the evolving financial landscape."
 ---
 

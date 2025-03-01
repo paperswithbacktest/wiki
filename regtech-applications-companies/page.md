@@ -1,5 +1,5 @@
 ---
-title: "RegTech Applications and Key Companies (Algo Trading)"
+title: "RegTech Applications and Key Companies"
 description: "Explore the role of RegTech in navigating the intricate regulatory landscapes of algorithmic trading using advanced compliance and risk management solutions."
 ---
 

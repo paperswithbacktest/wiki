@@ -1,5 +1,5 @@
 ---
-title: "Volatility Measurement Techniques (Algo Trading)"
+title: "Volatility Measurement Techniques"
 description: "Discover volatility measurement techniques crucial for algorithmic trading. Learn how metrics like standard deviation and beta inform risk management and strategy optimization."
 ---
 

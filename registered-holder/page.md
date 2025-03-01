@@ -1,5 +1,5 @@
 ---
-title: "Registered Holder (Algo Trading)"
+title: "Registered Holder"
 description: "Explore the key aspects of algorithmic trading and the vital role of registered holders in modern stock investment strategies to maximize your portfolio's potential."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Statistical Arbitrage Techniques (Algo Trading)"
+title: "Statistical Arbitrage Techniques"
 description: "Explore the dynamic world of statistical arbitrage a high-frequency trading strategy using quantitative models to exploit temporary market inefficiencies effectively."
 ---
 

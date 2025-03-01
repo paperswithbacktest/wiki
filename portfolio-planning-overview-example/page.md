@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Planning: Overview and Example (Algo Trading)"
+title: "Portfolio Planning: Overview and Example"
 description: "Explore the essential elements of portfolio planning for algorithmic trading. Understand how to integrate strategy and technology for effective financial management."
 ---
 

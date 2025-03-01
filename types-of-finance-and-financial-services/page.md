@@ -1,5 +1,5 @@
 ---
-title: "Types of Finance and Financial Services (Algo Trading)"
+title: "Types of Finance and Financial Services"
 description: "Explore the various types of finance including personal corporate and public finance and understand how algorithmic trading is revolutionizing financial services."
 ---
 

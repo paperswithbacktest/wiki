@@ -1,5 +1,5 @@
 ---
-title: "Two Simple Tips (Algo Trading)"
+title: "Two Simple Tips"
 description: Explore the essential tips for beginners in algorithmic trading focusing on using reliable data sources and the importance of backtesting strategies. Gain insights into how these foundational elements enhance trading precision and success while minimizing risks associated with manual trading. Discover how to establish more systematic practices in the dynamic trading environment leveraging advanced data technologies and backtesting tools.
 ---
 

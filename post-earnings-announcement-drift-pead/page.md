@@ -1,5 +1,5 @@
 ---
-title: "Post earnings announcement drift (PEAD) (Algo Trading)"
+title: "Post earnings announcement drift (PEAD)"
 description: Explore the dynamics of Post Earnings Announcement Drift (PEAD) in algorithmic trading. Understand how PEAD challenges market efficiency by showcasing delayed stock price reactions to earnings news. Delve into strategies that leverage algorithmic trading to capitalize on these inefficiencies, offering insights into enhanced market participation and profit opportunities.
 ---
 

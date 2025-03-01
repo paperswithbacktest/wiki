@@ -1,5 +1,5 @@
 ---
-title: "Overhead and Operating Expenses (Algo Trading)"
+title: "Overhead and Operating Expenses"
 description: "Explore the critical role of managing operating and overhead expenses in algorithmic trading to enhance profitability and sustain a competitive edge in tech-driven markets."
 ---
 

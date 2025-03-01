@@ -1,5 +1,5 @@
 ---
-title: "Transport of Crude Oil by Tankers (Algo Trading)"
+title: "Transport of Crude Oil by Tankers"
 description: "Discover how crude oil tankers play a vital role in global trade with insights into market dynamics, operational strategies, and algorithmic trading impacts."
 ---
 

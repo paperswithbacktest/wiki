@@ -1,5 +1,5 @@
 ---
-title: "Notional Principal Amount (Algo Trading)"
+title: "Notional Principal Amount"
 description: "Explore the critical role of notional principal in derivatives trading and its synergy with algorithmic trading innovations for improved risk assessment and precision."
 ---
 

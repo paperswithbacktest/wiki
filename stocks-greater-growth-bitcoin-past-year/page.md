@@ -1,5 +1,5 @@
 ---
-title: "Stocks with Greater Growth Than Bitcoin in the Past Year (Algo Trading)"
+title: "Stocks with Greater Growth Than Bitcoin in the Past Year"
 description: "Explore stocks demonstrating greater growth than Bitcoin over the past year combining insights from stock investment Bitcoin and algorithmic trading Discover pivotal concepts in finance understanding investment opportunities technological integration and how algorithmic strategies apply across markets to navigate volatility and achieve financial success"
 ---
 

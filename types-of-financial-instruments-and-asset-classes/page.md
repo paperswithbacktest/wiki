@@ -1,5 +1,5 @@
 ---
-title: "Types of Financial Instruments and Asset Classes (Algo Trading)"
+title: "Types of Financial Instruments and Asset Classes"
 description: "Discover the key financial instruments and asset classes essential for designing robust investment strategies. Optimize your understanding of algorithmic trading."
 ---
 

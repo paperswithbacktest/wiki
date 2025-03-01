@@ -1,5 +1,5 @@
 ---
-title: "Posted Price Methodology and Examples (Algo Trading)"
+title: "Posted Price Methodology and Examples"
 description: "Explore the impact of algorithmic trading on economic pricing strategies Discover how AI-driven solutions optimize business offerings in a competitive market"
 ---
 

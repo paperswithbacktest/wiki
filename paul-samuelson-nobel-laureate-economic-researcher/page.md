@@ -1,5 +1,5 @@
 ---
-title: "Paul Samuelson: Nobel Laureate and Economic Researcher (Algo Trading)"
+title: "Paul Samuelson: Nobel Laureate and Economic Researcher"
 description: "Discover how Paul Samuelson's groundbreaking work revolutionized economic theory and influenced algorithmic trading strategies through enduring insights."
 ---
 

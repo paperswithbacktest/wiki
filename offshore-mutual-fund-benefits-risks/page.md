@@ -1,5 +1,5 @@
 ---
-title: "Offshore Mutual Fund: Benefits and Risks (Algo Trading)"
+title: "Offshore Mutual Fund: Benefits and Risks"
 description: "Explore the benefits and challenges of offshore mutual funds in algorithmic trading including tax advantages international diversification and potential risks."
 ---
 

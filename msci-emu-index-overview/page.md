@@ -1,5 +1,5 @@
 ---
-title: "MSCI EMU Index Overview (Algo Trading)"
+title: "MSCI EMU Index Overview"
 description: "Explore the benefits of the MSCI EMU Index for investors in eurozone markets, covering its diversified exposure, ETF options, and algorithmic trading insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Single Stock Futures Trading (Algo Trading)"
+title: "Single Stock Futures Trading"
 description: "Explore the strategic advantages and risks of single stock futures and algorithmic trading Gain insights on leveraging these financial derivatives effectively"
 ---
 

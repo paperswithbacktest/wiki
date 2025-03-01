@@ -1,5 +1,5 @@
 ---
-title: "Procyclicality in Economics: Concepts and Examples (Algo Trading)"
+title: "Procyclicality in Economics: Concepts and Examples"
 description: "Explore how procyclicality impacts economic cycles and algorithmic trading capitalize on these patterns to enhance trading strategies and financial outcomes."
 ---
 

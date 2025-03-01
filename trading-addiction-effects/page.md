@@ -1,5 +1,5 @@
 ---
-title: "Trading Addiction and Its Effects (Algo Trading)"
+title: "Trading Addiction and Its Effects"
 description: "Explore the intersection of trading addiction and algorithmic trading highlighting its impact on financial behavior and offering insights for responsible trading practices."
 ---
 

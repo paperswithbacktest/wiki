@@ -1,5 +1,5 @@
 ---
-title: "Wealth Added Index (Algo Trading)"
+title: "Wealth Added Index"
 description: "Discover the Wealth Added Index for a comprehensive understanding of economic profitability This metric evaluates investment performance by considering cost of equity"
 ---
 

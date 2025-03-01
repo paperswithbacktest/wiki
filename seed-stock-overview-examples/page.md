@@ -1,5 +1,5 @@
 ---
-title: "Seed Stock: Overview and Examples (Algo Trading)"
+title: "Seed Stock: Overview and Examples"
 description: "Explore seed stock investment and algorithmic trading focusing on companies that drive agricultural innovation and offer unique opportunities for financial growth."
 ---
 

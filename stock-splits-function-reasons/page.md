@@ -1,5 +1,5 @@
 ---
-title: "Stock Splits: Function and Reasons (Algo Trading)"
+title: "Stock Splits: Function and Reasons"
 description: "Explore how stock splits and algorithmic trading can enhance your investment strategy by increasing market access liquidity and optimizing trading opportunities."
 ---
 

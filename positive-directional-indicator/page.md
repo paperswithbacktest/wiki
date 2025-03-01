@@ -1,5 +1,5 @@
 ---
-title: "Positive Directional Indicator (Algo Trading)"
+title: "Positive Directional Indicator"
 description: "Explore the Positive Directional Indicator in algo trading to gauge trend strength and direction Boost your strategy in stocks forex and commodities"
 ---
 

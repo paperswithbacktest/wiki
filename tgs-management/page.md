@@ -1,5 +1,5 @@
 ---
-title: "TGS Management (Algo Trading)"
+title: "TGS Management"
 description: TGS Management is a pioneering quantitative hedge fund specializing in algorithmic trading and statistical arbitrage. Established in 1989 by Frederick Taylor, David Gelbaum, and Andrew Shechtel, the firm is renowned for its secretive yet highly effective trading methodologies. Utilizing advanced mathematical models to exploit market inefficiencies, TGS has carved a niche in the investment industry, maintaining a competitive edge while emphasizing discretion. With a focus on recruiting top quantitative talent, TGS continues to drive innovation in financial markets and engages in philanthropic efforts, supporting initiatives such as research on Huntington's disease.
 ---
 

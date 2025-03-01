@@ -1,5 +1,5 @@
 ---
-title: "Relapse Rate and Examples (Algo Trading)"
+title: "Relapse Rate and Examples"
 description: "Explore the intersection of relapse rate metrics in rehabilitation and algorithmic trading strategies highlighting data-driven insights for improved outcomes."
 ---
 

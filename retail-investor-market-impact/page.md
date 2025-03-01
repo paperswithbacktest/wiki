@@ -1,5 +1,5 @@
 ---
-title: "Retail Investor and Their Market Impact (Algo Trading)"
+title: "Retail Investor and Their Market Impact"
 description: "Explore how retail investors and their participation in algorithmic trading are reshaping financial markets with enhanced efficiency and opportunities."
 ---
 

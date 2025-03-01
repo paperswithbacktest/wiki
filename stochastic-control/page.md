@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Control (Algo Trading)"
+title: "Stochastic Control"
 description: "Stochastic control in algorithmic trading helps optimize decisions under uncertainty by integrating randomness into models crucial for risk management and trade execution."
 ---
 

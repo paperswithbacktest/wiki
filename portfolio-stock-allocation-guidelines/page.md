@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Stock Allocation Guidelines (Algo Trading)"
+title: "Portfolio Stock Allocation Guidelines"
 description: "Explore effective stock allocation strategies in portfolio management with a focus on traditional rules modern integration and algorithmic trading insights."
 ---
 

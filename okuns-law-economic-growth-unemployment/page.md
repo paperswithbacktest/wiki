@@ -1,5 +1,5 @@
 ---
-title: "Okun's Law: Relationship Between Economic Growth and Unemployment (Algo Trading)"
+title: "Okun's Law: Relationship Between Economic Growth and Unemployment"
 description: "Discover how Okun's Law illustrates the link between economic growth and unemployment Explore its impact on algorithmic trading and economic policies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Return on Capital Employed: Ratio, Interpretation, Example (Algo Trading)"
+title: "Return on Capital Employed: Ratio, Interpretation, Example"
 description: "Understand the synergy between Return on Capital Employed and algorithmic trading to maximize investment returns. Explore capital efficiency and advanced trading strategies."
 ---
 

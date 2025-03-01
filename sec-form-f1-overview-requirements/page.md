@@ -1,5 +1,5 @@
 ---
-title: "SEC Form F-1: Overview and Requirements (Algo Trading)"
+title: "SEC Form F-1: Overview and Requirements"
 description: "Explore SEC Form F-1 requirements crucial for foreign IPOs in the U.S. and how algorithmic trading utilizes this data for strategic trading insights."
 ---
 

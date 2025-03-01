@@ -1,5 +1,5 @@
 ---
-title: "Notional Value and Market Value Differences (Algo Trading)"
+title: "Notional Value and Market Value Differences"
 description: "Explore notional value and market value to understand their impact on trading strategies risk management and the dynamic role of algorithmic trading."
 ---
 

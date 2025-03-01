@@ -1,5 +1,5 @@
 ---
-title: "Platinum Exchange-Traded Funds (Algo Trading)"
+title: "Platinum Exchange-Traded Funds"
 description: "Explore the world of Platinum Exchange-Traded Funds combined with algorithmic trading for a cutting-edge investment strategy that enhances portfolio diversity."
 ---
 

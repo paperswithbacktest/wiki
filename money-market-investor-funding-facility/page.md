@@ -1,5 +1,5 @@
 ---
-title: "Money Market Investor Funding Facility (Algo Trading)"
+title: "Money Market Investor Funding Facility"
 description: "Discover how the Money Market Investor Funding Facility stabilized markets during the 2008 crisis and its pivotal role in supporting algorithmic trading."
 ---
 

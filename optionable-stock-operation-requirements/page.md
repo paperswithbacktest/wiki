@@ -1,5 +1,5 @@
 ---
-title: "Optionable Stock: Definition, Operation, and Requirements (Algo Trading)"
+title: "Optionable Stock: Definition, Operation, and Requirements"
 description: "Explore the dynamic world of optionable stocks and algorithmic trading Discover how these financial tools operate and the requirements they meet for trading success"
 ---
 

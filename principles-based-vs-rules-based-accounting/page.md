@@ -1,5 +1,5 @@
 ---
-title: "Principles-Based vs. Rules-Based Accounting (Algo Trading)"
+title: "Principles-Based vs. Rules-Based Accounting"
 description: "Explore the crucial relationship between financial reporting accounting rules and principles in algo trading Understand how these affect trading strategies."
 ---
 

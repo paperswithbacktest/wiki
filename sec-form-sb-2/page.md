@@ -1,5 +1,5 @@
 ---
-title: "SEC Form SB-2 (Algo Trading)"
+title: "SEC Form SB-2"
 description: "Explore the impact and historical significance of SEC Form SB-2 on small businesses seeking public offerings and its connection to algorithmic trading."
 ---
 

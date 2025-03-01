@@ -1,5 +1,5 @@
 ---
-title: "Wintermute (Algo Trading)"
+title: "Wintermute"
 description: "Discover Wintermute a leader in algorithmic trading with cutting-edge strategies maximizing efficiency and accuracy in fast-paced financial markets."
 ---
 

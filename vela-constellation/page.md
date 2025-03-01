@@ -1,5 +1,5 @@
 ---
-title: "Vela Constellation (Algo Trading)"
+title: "Vela Constellation"
 description: "Explore the intriguing parallels between Southern Hemisphere constellations and algorithmic trading Techniques in data analysis and prediction models reveal unique insights"
 ---
 

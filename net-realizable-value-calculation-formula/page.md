@@ -1,5 +1,5 @@
 ---
-title: "Net Realizable Value and Calculation Formula (Algo Trading)"
+title: "Net Realizable Value and Calculation Formula"
 description: "Explore the importance of Net Realizable Value (NRV) as a key financial metric in asset valuation and its role in enhancing algorithmic trading strategies."
 ---
 

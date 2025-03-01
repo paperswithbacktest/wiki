@@ -1,5 +1,5 @@
 ---
-title: "Monthly Income Plans: Investments and Taxation (Algo Trading)"
+title: "Monthly Income Plans: Investments and Taxation"
 description: "Unlock the potential of tax-efficient investments with algorithmic trading to enhance monthly income. Explore strategies for sustained financial success."
 ---
 

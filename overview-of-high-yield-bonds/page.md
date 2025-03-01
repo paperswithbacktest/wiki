@@ -1,5 +1,5 @@
 ---
-title: "Overview of High-Yield Bonds (Algo Trading)"
+title: "Overview of High-Yield Bonds"
 description: "Explore high-yield bonds and their potential for significant returns. Discover the risks involved and how algorithmic trading impacts these investments."
 ---
 

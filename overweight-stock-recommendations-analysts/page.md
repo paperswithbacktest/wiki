@@ -1,5 +1,5 @@
 ---
-title: "Overweight Stock Recommendations by Analysts (Algo Trading)"
+title: "Overweight Stock Recommendations by Analysts"
 description: "Explore top overweight stock recommendations through in-depth market analysis and algorithmic trading insights to enhance your investment strategies."
 ---
 

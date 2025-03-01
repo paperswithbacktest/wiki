@@ -1,5 +1,5 @@
 ---
-title: "Range Forward Contract (Algo Trading)"
+title: "Range Forward Contract"
 description: "Explore range forward contracts in algorithmic trading, focusing on managing currency risks with a blend of strategic risk mitigation and potential gain opportunities."
 ---
 

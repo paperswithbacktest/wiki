@@ -1,5 +1,5 @@
 ---
-title: "Transfer Procedures: Overview and Mechanism (Algo Trading)"
+title: "Transfer Procedures: Overview and Mechanism"
 description: "Explore how algorithmic trading automates the execution of trades with speed and precision Learn about processes mechanisms and transfer procedures in this overview"
 ---
 

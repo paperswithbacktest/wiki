@@ -1,5 +1,5 @@
 ---
-title: "OIS Discounting (Algo Trading)"
+title: "OIS Discounting"
 description: "Explore the growing importance of OIS discounting in modern finance and algorithmic trading Discover how this methodology enhances pricing accuracy and market stability"
 ---
 

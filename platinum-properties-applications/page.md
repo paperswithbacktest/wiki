@@ -1,5 +1,5 @@
 ---
-title: "Platinum: Properties and Applications (Algo Trading)"
+title: "Platinum: Properties and Applications"
 description: "Explore the unique properties of platinum and its critical role in industry and investment. Learn about its intersection with algorithmic trading."
 ---
 

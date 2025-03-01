@@ -1,5 +1,5 @@
 ---
-title: "Stages of the Economic Cycle (Algo Trading)"
+title: "Stages of the Economic Cycle"
 description: "Explore the stages of the economic cycle and their impact on algorithmic trading Learn how to align trading strategies with economic phases for optimal decisions"
 ---
 

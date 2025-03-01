@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Companies with Negative Earnings (Algo Trading)"
+title: "Valuation of Companies with Negative Earnings"
 description: "Explore the complexities of valuing companies with negative earnings Learn alternative methodologies and strategies for analyzing high-risk investment opportunities"
 ---
 

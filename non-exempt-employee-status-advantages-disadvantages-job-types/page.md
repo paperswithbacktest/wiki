@@ -1,5 +1,5 @@
 ---
-title: "Non-Exempt Employee Status: Advantages, Disadvantages, and Job Types (Algo Trading)"
+title: "Non-Exempt Employee Status: Advantages, Disadvantages, and Job Types"
 description: "Explore the advantages and disadvantages of non-exempt employee status in algorithmic trading Learn about FLSA regulations and job types in this dynamic field"
 ---
 

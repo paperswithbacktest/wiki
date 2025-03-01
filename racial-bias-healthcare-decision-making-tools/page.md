@@ -1,5 +1,5 @@
 ---
-title: "Racial Bias in Healthcare Decision-Making Tools (Algo Trading)"
+title: "Racial Bias in Healthcare Decision-Making Tools"
 description: "Explore how algorithms in healthcare and finance influence decisions and outcomes, highlighting racial bias in healthcare tools that affect equitable treatment."
 ---
 

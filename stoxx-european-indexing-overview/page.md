@@ -1,5 +1,5 @@
 ---
-title: "STOXX European Indexing Overview (Algo Trading)"
+title: "STOXX European Indexing Overview"
 description: "Discover the STOXX European Indexing overview which highlights key insights into robust indices like Euro STOXX 50 and the role of algo trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Treasury Note: Maturities and Purchasing (Algo Trading)"
+title: "Treasury Note: Maturities and Purchasing"
 description: "Explore the complexities of Treasury notes in this guide and discover how algorithmic trading optimizes bond investments by enhancing returns and reducing risks."
 ---
 

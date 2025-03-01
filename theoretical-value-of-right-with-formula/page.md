@@ -1,5 +1,5 @@
 ---
-title: "Theoretical Value of a Right with Formula (Algo Trading)"
+title: "Theoretical Value of a Right with Formula"
 description: "Explore the theoretical value formula's role in financial rights and algorithmic trading Dive into valuation methods to optimize your investment strategies efficiently"
 ---
 

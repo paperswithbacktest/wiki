@@ -1,5 +1,5 @@
 ---
-title: "Municipal Bond Funds: Overview and Tax Implications (Algo Trading)"
+title: "Municipal Bond Funds: Overview and Tax Implications"
 description: "Discover the intersection of municipal bonds tax benefits and algorithmic trading innovations Explore implications for high-net-worth investors seeking efficiency"
 ---
 

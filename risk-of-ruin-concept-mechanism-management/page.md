@@ -1,5 +1,5 @@
 ---
-title: "Risk of Ruin: Concept, Mechanism, and Management (Algo Trading)"
+title: "Risk of Ruin: Concept, Mechanism, and Management"
 description: "Explore strategies to manage risk of ruin in algorithmic trading Understand key concepts and methodologies to ensure sustainable and profitable trading operations"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sensato Investors (Algo Trading)"
+title: "Sensato Investors"
 description: "Discover how Sensato Investors combines cutting-edge algorithms and traditional investment strategies in algorithmic trading to optimize returns and efficiency."
 ---
 

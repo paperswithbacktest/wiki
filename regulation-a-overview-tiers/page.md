@@ -1,5 +1,5 @@
 ---
-title: "Regulation A: Overview and Tiers (Algo Trading)"
+title: "Regulation A: Overview and Tiers"
 description: "Explore the synergy between Regulation A offerings and algorithmic trading Understainding Tier 1 and Tier 2's implications offers a roadmap for dynamic investment strategies"
 ---
 

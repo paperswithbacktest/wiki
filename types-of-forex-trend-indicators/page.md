@@ -1,5 +1,5 @@
 ---
-title: "Types of Forex Trend Indicators (Algo Trading)"
+title: "Types of Forex Trend Indicators"
 description: "Explore the essential Forex trend indicators used in algorithmic trading to identify market directions and enhance trading strategies. Discover how moving averages, MACD, and Bollinger Bands integrate into automated systems to increase accuracy and profitability in the dynamic Forex market."
 ---
 

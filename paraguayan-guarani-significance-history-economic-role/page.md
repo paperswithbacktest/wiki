@@ -1,5 +1,5 @@
 ---
-title: "Paraguayan Guarani: Significance, History, and Economic Role (Algo Trading)"
+title: "Paraguayan Guarani: Significance, History, and Economic Role"
 description: "Explore the historical evolution and economic influence of the Paraguayan Guarani. Discover its journey amidst challenges and the impact of algorithmic trading."
 ---
 

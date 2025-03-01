@@ -1,5 +1,5 @@
 ---
-title: "Spark Spread in Energy Markets (Algo Trading)"
+title: "Spark Spread in Energy Markets"
 description: "Explore the transformative impact of renewable energy and algorithmic trading on electricity pricing and spark spreads in dynamic energy markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Regulatory Measures Post-2008 Financial Crisis (Algo Trading)"
+title: "Regulatory Measures Post-2008 Financial Crisis"
 description: "Explore the impact of regulatory measures post-2008 crisis on algorithmic trading as governments sought to enhance transparency and market stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Paper Trading: Concepts and Techniques (Algo Trading)"
+title: "Paper Trading: Concepts and Techniques"
 description: "Explore paper trading and algorithmic techniques to practice stock trading risk-free. Learn to refine strategies and build confidence before live trading."
 ---
 

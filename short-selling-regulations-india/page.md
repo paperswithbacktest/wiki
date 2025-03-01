@@ -1,5 +1,5 @@
 ---
-title: "Short Selling Regulations in India (Algo Trading)"
+title: "Short Selling Regulations in India"
 description: "Explore the intricacies of short selling regulations and algorithmic trading in India, focusing on SEBI's role in ensuring market integrity and investor confidence."
 ---
 

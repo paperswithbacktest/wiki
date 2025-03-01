@@ -1,5 +1,5 @@
 ---
-title: "Risks of Excessive Portfolio Diversification (Algo Trading)"
+title: "Risks of Excessive Portfolio Diversification"
 description: "Explore the potential downsides of excessive portfolio diversification in algorithmic trading and learn how to balance risk and reward for optimal investment returns."
 ---
 

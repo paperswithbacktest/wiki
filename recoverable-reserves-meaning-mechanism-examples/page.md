@@ -1,5 +1,5 @@
 ---
-title: "Recoverable Reserves: Meaning, Mechanism, and Examples (Algo Trading)"
+title: "Recoverable Reserves: Meaning, Mechanism, and Examples"
 description: "Explore how the synergy between oil and gas recoverable reserves and algorithmic trading reshapes energy markets boosting efficiency and strategic resource management."
 ---
 

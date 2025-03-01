@@ -1,5 +1,5 @@
 ---
-title: "Revenue Passenger Mile (Algo Trading)"
+title: "Revenue Passenger Mile"
 description: "Explore how Revenue Passenger Mile (RPM) and algorithmic trading transform airline industry efficiency by optimizing operations and enhancing investment strategies."
 ---
 

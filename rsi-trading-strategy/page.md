@@ -1,5 +1,5 @@
 ---
-title: "RSI Trading Strategy Explained (Algo Trading)"
+title: "RSI Trading Strategy Explained"
 description: Explore the widely recognized Relative Strength Index (RSI), a key momentum oscillator used in algorithmic trading to measure price movement speed and change in financial markets. Developed by J. Welles Wilder, RSI effectively indicates overbought or oversold conditions, providing valuable insights for automated trading systems. Learn how RSI's straightforward calculation and mean-reversion properties enhance trading strategies and discover essential steps for integrating RSI into algo trading systems, including data preparation and algorithm design. Understand the importance of backtesting to optimize RSI-based strategies for improved trading performance.
 ---
 

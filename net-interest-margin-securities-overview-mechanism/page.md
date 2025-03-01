@@ -1,5 +1,5 @@
 ---
-title: "Net Interest Margin Securities: Overview and Mechanism (Algo Trading)"
+title: "Net Interest Margin Securities: Overview and Mechanism"
 description: "Explore the intricate world of finance with insights into Net Interest Margin Securities and algorithmic trading Understand their impact on market dynamics and profitability"
 ---
 

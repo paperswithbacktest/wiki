@@ -1,5 +1,5 @@
 ---
-title: "Okun's Law: Formula, History, and Limitations (Algo Trading)"
+title: "Okun's Law: Formula, History, and Limitations"
 description: "Explore Okun's Law and its relevance to economic theory and trading strategies as it bridges unemployment with GDP, assisting in market forecasting."
 ---
 

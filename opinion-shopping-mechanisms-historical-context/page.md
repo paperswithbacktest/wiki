@@ -1,5 +1,5 @@
 ---
-title: "Opinion Shopping: Mechanisms and Historical Context (Algo Trading)"
+title: "Opinion Shopping: Mechanisms and Historical Context"
 description: "Explore the mechanics and historical evolution of opinion shopping in auditing where companies seek favorable audit opinions impacting financial perceptions."
 ---
 

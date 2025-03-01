@@ -1,5 +1,5 @@
 ---
-title: "Sahm Rule Recession Indicator and Calculation (Algo Trading)"
+title: "Sahm Rule Recession Indicator and Calculation"
 description: "Explore the Sahm Rule Recession Indicator and its integration into algorithmic trading. Developed by Claudia Sahm, this tool forecasts recessions using a straightforward method with unemployment data, signaling a recession when the three-month moving average unemployment rate exceeds the lowest rate from the past year by 0.5 percentage points. This article investigates into the Sahm Rule's effectiveness and application in algo trading, offering insights into its role in automated trading strategies to manage financial risks during economic downturns. Enhance trading strategies with this predictive and reliable tool."
 ---
 

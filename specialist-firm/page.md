@@ -1,5 +1,5 @@
 ---
-title: "Specialist Firm (Algo Trading)"
+title: "Specialist Firm"
 description: "Discover how specialist firms revolutionize algorithmic trading with bespoke solutions that enhance trading accuracy, speed, and strategy optimization in dynamic markets."
 ---
 

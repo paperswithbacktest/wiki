@@ -1,5 +1,5 @@
 ---
-title: "Micro-Cap Stocks and Risks Compared to Larger Capitalizations (Algo Trading)"
+title: "Micro-Cap Stocks and Risks Compared to Larger Capitalizations"
 description: "Explore the risks of investing in volatile micro-cap stocks and using algorithmic trading Learn how these factors make the stock market dynamic yet challenging"
 ---
 

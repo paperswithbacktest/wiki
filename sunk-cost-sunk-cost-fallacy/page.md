@@ -1,5 +1,5 @@
 ---
-title: "Sunk Cost and Sunk Cost Fallacy (Algo Trading)"
+title: "Sunk Cost and Sunk Cost Fallacy"
 description: "Explore the significance of the sunk cost fallacy in algorithmic trading and its impact on decision-making Learn strategies to mitigate this bias for optimal results"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "National Futures Association Overview (Algo Trading)"
+title: "National Futures Association Overview"
 description: "Explore the National Futures Association's role in futures trading regulation, market integrity, investor protection, and challenges posed by algorithmic trading."
 ---
 

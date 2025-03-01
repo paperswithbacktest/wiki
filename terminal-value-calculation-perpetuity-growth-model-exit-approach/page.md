@@ -1,5 +1,5 @@
 ---
-title: "Terminal Value Calculation: Perpetuity Growth Model and Exit Approach (Algo Trading)"
+title: "Terminal Value Calculation: Perpetuity Growth Model and Exit Approach"
 description: "Explore terminal value calculation methods like the perpetuity growth model and exit multiple approach essential for informed algorithmic trading decisions."
 ---
 

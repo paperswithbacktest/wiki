@@ -1,5 +1,5 @@
 ---
-title: "Role of Asset Managers in Real Estate (Algo Trading)"
+title: "Role of Asset Managers in Real Estate"
 description: "Explore how asset managers optimize real estate investments through strategic planning and algorithmic trading to maximize returns and navigate market complexities."
 ---
 

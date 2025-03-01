@@ -1,5 +1,5 @@
 ---
-title: "Seasonal Credit and Its Mechanism (Algo Trading)"
+title: "Seasonal Credit and Its Mechanism"
 description: "Explore the intersection of seasonal credit, financial mechanisms, and algorithmic trading to enhance investment strategies and navigate market fluctuations effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Universal Currency Converter: Meaning and Mechanism (Algo Trading)"
+title: "Universal Currency Converter: Meaning and Mechanism"
 description: "Explore the meaning and mechanism of universal currency converters and their role in algo trading to enhance forex market efficiency and reliability."
 ---
 

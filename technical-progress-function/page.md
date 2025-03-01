@@ -1,5 +1,5 @@
 ---
-title: "Technical Progress Function (Algo Trading)"
+title: "Technical Progress Function"
 description: "Explore the impact of technological progress on economic growth with a focus on the technical progress function and algorithmic trading's role in financial markets."
 ---
 

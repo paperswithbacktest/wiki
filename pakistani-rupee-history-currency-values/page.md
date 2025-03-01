@@ -1,5 +1,5 @@
 ---
-title: "Pakistani Rupee: History and Currency Values (Algo Trading)"
+title: "Pakistani Rupee: History and Currency Values"
 description: "Explore the evolution and significance of the Pakistani Rupee from its inception in 1947 to its current role in global financial markets. Discover how historical events, economic policies, and algorithmic trading have shaped the PKR's trajectory and its growing influence in international trade. Uncover insights into digital advancements reshaping trading practices and the challenges faced by the PKR in a dynamic economic landscape."
 ---
 

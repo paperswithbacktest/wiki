@@ -1,5 +1,5 @@
 ---
-title: "Zombie Title (Algo Trading)"
+title: "Zombie Title"
 description: "Explore the intriguing fusion of literature, real estate, and finance as zombie titles and algorithmic trading reshape cultural and economic landscapes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rent Stabilization: Mechanisms, Functionality, and Case Studies (Algo Trading)"
+title: "Rent Stabilization: Mechanisms, Functionality, and Case Studies"
 description: "Explore how rent stabilization policies aim to balance affordable housing and fair landlord returns while algorithmic trading impacts rental markets and tenant protection."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Bitcoin (Algo Trading)"
+title: "Valuation of Bitcoin"
 description: "Explore Bitcoin valuation and algorithmic trading to better navigate the dynamic cryptocurrency market Understand factors influencing prices and trading strategies"
 ---
 

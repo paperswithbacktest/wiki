@@ -1,5 +1,5 @@
 ---
-title: "Notable Investing Quotations (Algo Trading)"
+title: "Notable Investing Quotations"
 description: "Explore the fascinating convergence of timeless investing wisdom and contemporary algorithmic trading in the finance world. This article investigates into famous investing quotes from legends like Warren Buffett and Benjamin Graham, examining their ongoing relevance in today's data-driven markets. Discover how these principles of patience, discipline, and informed decision-making continue to guide investors amidst the speed and volatility of algorithmic trading. Uncover insights on integrating traditional investment philosophies with cutting-edge technology to create robust strategies that navigate modern financial challenges and opportunities."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Monoline Insurance: Overview and Operations (Algo Trading)"
+title: "Monoline Insurance: Overview and Operations"
 description: "Explore the intersection of monoline insurance and algorithmic trading in finance. Learn how risk management and investment strategies evolve in modern markets."
 ---
 

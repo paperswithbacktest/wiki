@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Consumption Capital Asset Pricing Model (Algo Trading)"
+title: "Understanding the Consumption Capital Asset Pricing Model"
 description: "Delve into the Consumption Capital Asset Pricing Model to understand how consumption patterns impact asset prices beyond market data in algo trading."
 ---
 

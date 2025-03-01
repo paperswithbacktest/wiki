@@ -1,5 +1,5 @@
 ---
-title: "Order placement optimization (Algo Trading)"
+title: "Order placement optimization"
 description: "Enhance your understanding of order placement optimization in algorithmic trading to boost profits by minimizing costs with strategic and timely execution."
 ---
 

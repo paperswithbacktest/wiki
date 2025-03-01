@@ -1,5 +1,5 @@
 ---
-title: "Open Orders in Trading: Mechanics and Causes (Algo Trading)"
+title: "Open Orders in Trading: Mechanics and Causes"
 description: "Explore the mechanics of open orders and algorithmic trading in the financial markets Learn how these tools optimize trade execution and manage risks efficiently"
 ---
 

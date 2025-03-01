@@ -1,5 +1,5 @@
 ---
-title: "Q Ratio and Tobin's Q: Formula, Uses, and Examples (Algo Trading)"
+title: "Q Ratio and Tobin's Q: Formula, Uses, and Examples"
 description: "Explore how the Q Ratio and Tobin's Q can enhance algo trading strategies by providing insights into market valuations and identifying investment opportunities."
 ---
 

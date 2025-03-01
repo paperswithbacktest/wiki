@@ -1,5 +1,5 @@
 ---
-title: "Prominent Women-Founded Companies for Investment (Algo Trading)"
+title: "Prominent Women-Founded Companies for Investment"
 description: "Explore promising investment opportunities in women-led companies excelling in algorithmic trading Dive into innovative businesses reshaping markets with diversity"
 ---
 

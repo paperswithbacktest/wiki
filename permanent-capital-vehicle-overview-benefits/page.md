@@ -1,5 +1,5 @@
 ---
-title: "Permanent Capital Vehicle: Overview and Benefits (Algo Trading)"
+title: "Permanent Capital Vehicle: Overview and Benefits"
 description: "Explore the benefits of Permanent Capital Vehicles and their synergy with algorithmic trading. Learn how this innovative investment approach offers stability and growth."
 ---
 

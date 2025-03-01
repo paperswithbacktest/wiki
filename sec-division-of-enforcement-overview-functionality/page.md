@@ -1,5 +1,5 @@
 ---
-title: "SEC Division of Enforcement Overview and Functionality (Algo Trading)"
+title: "SEC Division of Enforcement Overview and Functionality"
 description: "Explore the role of the SEC's Division of Enforcement in ensuring financial compliance and market integrity amid challenges posed by algorithmic trading. Learn how the division adapts its strategies to guard against market manipulation, leveraging advanced data analytics and deepening its regulatory approach to address evolving securities law issues including cryptocurrency and cybersecurity."
 ---
 

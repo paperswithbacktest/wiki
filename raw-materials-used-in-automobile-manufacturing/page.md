@@ -1,5 +1,5 @@
 ---
-title: "Raw Materials Used in Automobile Manufacturing (Algo Trading)"
+title: "Raw Materials Used in Automobile Manufacturing"
 description: "Explore how algorithmic trading can revolutionize raw material sourcing in the auto industry enhancing supply chain efficiency and mitigating price volatility."
 ---
 

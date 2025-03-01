@@ -1,5 +1,5 @@
 ---
-title: "Work In Progress (WIP) With Examples (Algo Trading)"
+title: "Work In Progress (WIP) With Examples"
 description: "Explore the intersection of Work in Progress concepts with algorithmic trading to discover how ongoing developments enhance trading strategies and efficiency."
 ---
 

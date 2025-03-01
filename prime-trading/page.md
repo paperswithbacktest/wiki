@@ -1,5 +1,5 @@
 ---
-title: "Prime Trading (Algo Trading)"
+title: "Prime Trading"
 description: "Discover the power of Prime Trading a sophisticated form of algorithmic trading that optimizes strategies for improved returns and minimized risks."
 ---
 

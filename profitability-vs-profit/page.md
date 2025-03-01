@@ -1,5 +1,5 @@
 ---
-title: "Profitability vs. Profit (Algo Trading)"
+title: "Profitability vs. Profit"
 description: "Explore the intricate world of profitability and its intersection with algorithmic trading to understand how technology reshapes financial markets. Discover how profitability metrics can gauge the effectiveness of trading strategies and inform better investment decisions. With algorithmic trading automating trade executions and minimizing human error, delve into key financial concepts like profit margins, return on assets, and return on equity to fine-tune strategies for robust financial growth in a fast-evolving market landscape."
 ---
 

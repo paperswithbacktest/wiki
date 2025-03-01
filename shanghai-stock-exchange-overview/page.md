@@ -1,5 +1,5 @@
 ---
-title: "Shanghai Stock Exchange Overview (Algo Trading)"
+title: "Shanghai Stock Exchange Overview"
 description: "Discover how the Shanghai Stock Exchange leverages algorithmic trading, enhancing market efficiency and liquidity, in the world's largest stock exchange."
 ---
 

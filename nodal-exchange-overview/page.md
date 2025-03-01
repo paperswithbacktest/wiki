@@ -1,5 +1,5 @@
 ---
-title: "Nodal Exchange Overview (Algo Trading)"
+title: "Nodal Exchange Overview"
 description: "Explore the pivotal role of Nodal Exchange in North America's commodity markets and how it harnesses algorithmic trading to enhance efficiency and risk management."
 ---
 

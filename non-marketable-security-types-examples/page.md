@@ -1,5 +1,5 @@
 ---
-title: "Non-Marketable Security Types and Examples (Algo Trading)"
+title: "Non-Marketable Security Types and Examples"
 description: "Explore non-marketable securities and algorithmic trading techniques to optimize investment strategies. Understand their roles in shaping financial markets."
 ---
 

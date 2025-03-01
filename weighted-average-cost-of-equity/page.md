@@ -1,5 +1,5 @@
 ---
-title: "Weighted Average Cost of Equity (Algo Trading)"
+title: "Weighted Average Cost of Equity"
 description: "Explore the connection between Weighted Average Cost of Equity and algorithmic trading to enhance financial strategies and informed investment decisions."
 ---
 

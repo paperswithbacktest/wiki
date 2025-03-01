@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Litecoin and Bitcoin (Algo Trading)"
+title: "Relationship Between Litecoin and Bitcoin"
 description: "Explore the relationship between Litecoin and Bitcoin in algo trading, highlighting unique features, market roles, and strategies for maximizing trading efficiency."
 ---
 

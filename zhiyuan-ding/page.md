@@ -1,5 +1,5 @@
 ---
-title: "Zhiyuan Ding (Algo Trading)"
+title: "Zhiyuan Ding"
 description: "Discover the journey of Zhiyuan Ding a Quantitative Researcher at Akuna Capital known for expertise in algorithmic trading and digital technologies."
 ---
 

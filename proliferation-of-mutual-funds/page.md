@@ -1,5 +1,5 @@
 ---
-title: "Proliferation of Mutual Funds (Algo Trading)"
+title: "Proliferation of Mutual Funds"
 description: "Explore mutual funds and algorithmic trading examining their principles and impact on financial markets Gain insights to inform more effective investment decisions"
 ---
 

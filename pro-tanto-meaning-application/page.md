@@ -1,5 +1,5 @@
 ---
-title: "Pro Tanto: Meaning and Application (Algo Trading)"
+title: "Pro Tanto: Meaning and Application"
 description: "Explore the meaning of Pro Tanto and its application in legal contexts and algo trading Discover how this term aids risk management and investment strategies"
 ---
 

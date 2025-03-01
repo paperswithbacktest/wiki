@@ -1,5 +1,5 @@
 ---
-title: "Take a Flier: Meaning, Function, and Examples (Algo Trading)"
+title: "Take a Flier: Meaning, Function, and Examples"
 description: "Explore the meaning of "take a flier" in investing focusing on high-risk high-reward strategies, with insights into algorithmic trading's role in this landscape."
 ---
 

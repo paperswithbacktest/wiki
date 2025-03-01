@@ -1,5 +1,5 @@
 ---
-title: "Regional Stock Exchange (Algo Trading)"
+title: "Regional Stock Exchange"
 description: "Explore the synergy of regional stock exchanges and algorithmic trading in enhancing market efficiency and liquidity. Discover opportunities for local economies."
 ---
 

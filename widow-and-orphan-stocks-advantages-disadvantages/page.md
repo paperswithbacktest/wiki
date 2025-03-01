@@ -1,5 +1,5 @@
 ---
-title: "Widow-And-Orphan Stocks: Definition, Advantages, and Disadvantages (Algo Trading)"
+title: "Widow-And-Orphan Stocks: Definition, Advantages, and Disadvantages"
 description: "Widow-and-orphan stocks offer low-risk and steady dividends making them ideal for conservative investors. Discover their pros and role in algorithmic trading."
 ---
 

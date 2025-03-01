@@ -1,5 +1,5 @@
 ---
-title: "Order (Algo Trading)"
+title: "Order"
 description: Explore the complexities of orders in algorithmic trading, a vital aspect that dictates trade execution and outcomes. Learn how mastering both market and limit orders can enhance trading strategies, manage risks, and optimize performance in dynamic financial markets.
 ---
 

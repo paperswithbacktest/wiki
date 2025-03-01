@@ -1,5 +1,5 @@
 ---
-title: "Profit Margin Types and Uses in Business and Investing (Algo Trading)"
+title: "Profit Margin Types and Uses in Business and Investing"
 description: "Explore how understanding profit margins and using algorithmic trading can boost investment returns by combining efficient cost management with advanced trading strategies."
 ---
 

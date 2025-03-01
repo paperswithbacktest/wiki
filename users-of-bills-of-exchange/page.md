@@ -1,5 +1,5 @@
 ---
-title: "Users of Bills of Exchange (Algo Trading)"
+title: "Users of Bills of Exchange"
 description: "Explore how bills of exchange and algorithmic trading are transforming trade finance offering enhanced efficiency risk management and optimized liquidity."
 ---
 

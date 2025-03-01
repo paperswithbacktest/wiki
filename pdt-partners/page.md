@@ -1,5 +1,5 @@
 ---
-title: "PDT Partners (Algo Trading)"
+title: "PDT Partners"
 description: PDT Partners is a leading name in algorithmic trading, known for its innovative, data-driven strategies. Founded in 1993 by Peter Muller as part of Morgan Stanley, it became an independent hedge fund in 2012 following regulatory changes. Leveraging advanced algorithms and vast data analysis, PDT exploits market inefficiencies with high-speed precision. Noteworthy for its history of substantial returns and significant investments, including $500 million from the Blackstone Group, PDT boasts a strong global presence with offices in key financial hubs like New York, London, and Hong Kong. This strategic positioning underscores its reputation as a pioneer in the hedge fund industry, continually adapting to new market conditions and technological advancements.
 ---
 

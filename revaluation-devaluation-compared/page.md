@@ -1,5 +1,5 @@
 ---
-title: "Revaluation and Devaluation Compared (Algo Trading)"
+title: "Revaluation and Devaluation Compared"
 description: "Explore the differences between revaluation and devaluation in currency markets and discover how algorithmic trading leverages these shifts for optimal trading strategies."
 ---
 

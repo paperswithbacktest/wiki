@@ -1,5 +1,5 @@
 ---
-title: "Role of XRP in the Ripple Ecosystem (Algo Trading)"
+title: "Role of XRP in the Ripple Ecosystem"
 description: "Discover how XRP facilitates cross-border transactions in the Ripple ecosystem and explore its integration in algorithmic trading for better speed and efficiency."
 ---
 

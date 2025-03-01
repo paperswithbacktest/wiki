@@ -1,5 +1,5 @@
 ---
-title: "Selection of Optimal Dividend Stocks (Algo Trading)"
+title: "Selection of Optimal Dividend Stocks"
 description: "Optimize your investment strategy by integrating dividend stocks with portfolio management and algorithmic trading. Leverage stable income, diversify risk, and enhance precision."
 ---
 

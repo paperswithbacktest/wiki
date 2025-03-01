@@ -1,5 +1,5 @@
 ---
-title: "Signaling Approach: Explanation and Function (Algo Trading)"
+title: "Signaling Approach: Explanation and Function"
 description: "Explore economic signaling in algo trading Discover how it addresses information asymmetry improving decision-making efficiency and stability in financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "National Registration Database: Overview, History, and Benefits (Algo Trading)"
+title: "National Registration Database: Overview, History, and Benefits"
 description: "Explore the National Registration Database to enhance algorithmic trading strategies by improving data integrity, compliance, and operational efficiency."
 ---
 

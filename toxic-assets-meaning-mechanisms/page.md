@@ -1,5 +1,5 @@
 ---
-title: "Toxic Assets: Meaning and Mechanisms (Algo Trading)"
+title: "Toxic Assets: Meaning and Mechanisms"
 description: "Explore the dynamics of toxic assets, asset valuation, financial crises, and algorithmic trading to understand their impacts on modern financial markets and investment strategies."
 ---
 

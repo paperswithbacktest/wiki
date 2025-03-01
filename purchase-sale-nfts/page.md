@@ -1,5 +1,5 @@
 ---
-title: "Purchase and Sale of NFTs (Algo Trading)"
+title: "Purchase and Sale of NFTs"
 description: "Explore the dynamic world of NFTs and algorithmic trading with our comprehensive guide. Learn how to buy and sell unique digital assets securely on blockchain networks using digital wallets like MetaMask and Coinbase Wallet. Discover the mechanics of NFT marketplaces and the benefits of integrating algorithmic trading for enhanced decision-making. This page equips you with essential knowledge to confidently navigate the NFT landscape and capitalize on emerging opportunities in this innovative market."
 ---
 

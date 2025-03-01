@@ -1,5 +1,5 @@
 ---
-title: "Presidential History and Federal Income Tax Trends (Algo Trading)"
+title: "Presidential History and Federal Income Tax Trends"
 description: "Explore the impact of U.S. presidential tax policies on federal income tax trends and how their legacy shapes market dynamics and algorithmic trading today."
 ---
 

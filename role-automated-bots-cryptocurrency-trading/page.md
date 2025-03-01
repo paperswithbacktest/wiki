@@ -1,5 +1,5 @@
 ---
-title: "Role of Automated Bots in Cryptocurrency Trading (Algo Trading)"
+title: "Role of Automated Bots in Cryptocurrency Trading"
 description: "Explore the transformative impact of automated bots in cryptocurrency trading Discover how algorithmic strategies optimize trades mitigate risks and maximize returns"
 ---
 

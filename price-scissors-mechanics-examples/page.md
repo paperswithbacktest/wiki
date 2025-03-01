@@ -1,5 +1,5 @@
 ---
-title: "Price Scissors: Mechanics and Examples (Algo Trading)"
+title: "Price Scissors: Mechanics and Examples"
 description: "Explore how market pricing dynamics, the price scissors theory, and algorithmic trading interact, shaping economies and guiding investor and policy strategies."
 ---
 

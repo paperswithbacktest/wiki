@@ -1,5 +1,5 @@
 ---
-title: "SPDR Gold Shares Exchange-Traded Fund (Algo Trading)"
+title: "SPDR Gold Shares Exchange-Traded Fund"
 description: "Explore the dynamics of the SPDR Gold Shares ETF in algorithmic trading Discover how GLD can enhance portfolios with convenient gold market exposure"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Short squeeze (Algo Trading)"
+title: "Short squeeze"
 description: "Explore how short squeezes impact algorithmic trading strategies by understanding their mechanics and exploiting market shifts, with insights drawn from historical events."
 ---
 

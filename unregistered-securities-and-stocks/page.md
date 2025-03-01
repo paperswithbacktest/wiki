@@ -1,5 +1,5 @@
 ---
-title: "Unregistered Securities and Stocks (Algo Trading)"
+title: "Unregistered Securities and Stocks"
 description: "Explore the dynamic world of unregistered securities within the financial market discover their unique risks and rewards as well as the role of algorithmic trading."
 ---
 

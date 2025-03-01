@@ -1,5 +1,5 @@
 ---
-title: "Trade-Through: Overview, Regulatory Exceptions, and Examples (Algo Trading)"
+title: "Trade-Through: Overview, Regulatory Exceptions, and Examples"
 description: "Explore the intricate world of trade-throughs in algorithmic trading including regulatory frameworks and exceptions crucial for maintaining market integrity."
 ---
 

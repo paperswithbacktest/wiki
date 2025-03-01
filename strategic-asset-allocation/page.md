@@ -1,5 +1,5 @@
 ---
-title: "Strategic Asset Allocation (Algo Trading)"
+title: "Strategic Asset Allocation"
 description: "Explore strategic asset allocation and algorithmic trading to optimize portfolio performance. Learn how AI enhances investment strategies and risk management."
 ---
 

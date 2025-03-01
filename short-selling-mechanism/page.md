@@ -1,5 +1,5 @@
 ---
-title: "Short Selling Mechanism (Algo Trading)"
+title: "Short Selling Mechanism"
 description: "Explore the mechanisms of short selling and algorithmic trading within investment finance. Learn how these strategies impact market dynamics and trading efficiency."
 ---
 

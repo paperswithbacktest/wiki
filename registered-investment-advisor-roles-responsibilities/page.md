@@ -1,5 +1,5 @@
 ---
-title: "Registered Investment Advisor: Roles and Responsibilities (Algo Trading)"
+title: "Registered Investment Advisor: Roles and Responsibilities"
 description: "Explore the roles and responsibilities of Registered Investment Advisors in the fast-evolving world of algorithmic trading and their impact on investment strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Re-Fracking: Concepts, Processes, and Costs (Algo Trading)"
+title: "Re-Fracking: Concepts, Processes, and Costs"
 description: "Explore the intersections of hydraulic fracturing and algorithmic trading, discussing energy extraction, technological impacts, and sustainability challenges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "National Organization of Life and Health Insurance Guaranty Associations (Algo Trading)"
+title: "National Organization of Life and Health Insurance Guaranty Associations"
 description: "Explore the interplay of life insurance and algorithmic trading within today's financial landscape unraveling NOLHGA's role in safeguarding policyholders."
 ---
 

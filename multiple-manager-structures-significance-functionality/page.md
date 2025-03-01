@@ -1,5 +1,5 @@
 ---
-title: "Multiple Manager Structures: Significance and Functionality (Algo Trading)"
+title: "Multiple Manager Structures: Significance and Functionality"
 description: "Explore the significance of multiple manager structures in algorithmic trading focusing on leveraging diverse expertise for optimal fund allocation and strategy innovation."
 ---
 

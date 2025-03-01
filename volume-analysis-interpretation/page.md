@@ -1,5 +1,5 @@
 ---
-title: "Volume Analysis and Its Interpretation (Algo Trading)"
+title: "Volume Analysis and Its Interpretation"
 description: "Discover how volume analysis informs algorithmic trading decisions by offering insights into market trends and dynamics to enhance strategy effectiveness."
 ---
 

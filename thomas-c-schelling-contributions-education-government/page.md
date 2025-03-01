@@ -1,5 +1,5 @@
 ---
-title: "Thomas C. Schelling: Contributions to Education and Government (Algo Trading)"
+title: "Thomas C. Schelling: Contributions to Education and Government"
 description: "Discover how Thomas C. Schelling's game theory contributions influence education and government policies, shaping today's algorithmic trading strategies."
 ---
 

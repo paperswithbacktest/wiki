@@ -1,5 +1,5 @@
 ---
-title: "Optimal execution (Algo Trading)"
+title: "Optimal execution"
 description: "Optimize your trading strategy with optimal execution in algorithmic trading minimizing market impact and transaction costs for superior trade performance."
 ---
 

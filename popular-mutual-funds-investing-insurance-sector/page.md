@@ -1,5 +1,5 @@
 ---
-title: "Popular Mutual Funds Investing in the Insurance Sector (Algo Trading)"
+title: "Popular Mutual Funds Investing in the Insurance Sector"
 description: "Explore investment opportunities in the insurance sector through mutual funds and ETFs enhanced by algorithmic trading to optimize returns and manage risks."
 ---
 

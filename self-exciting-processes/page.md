@@ -1,5 +1,5 @@
 ---
-title: "Self-Exciting Processes (Algo Trading)"
+title: "Self-Exciting Processes"
 description: "Explore the role of self-exciting processes like Hawkes in algo trading enhancing predictive accuracy and capturing market dynamics for profitable decision-making."
 ---
 

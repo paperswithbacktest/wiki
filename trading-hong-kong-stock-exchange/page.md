@@ -1,5 +1,5 @@
 ---
-title: "Trading on the Hong Kong Stock Exchange (Algo Trading)"
+title: "Trading on the Hong Kong Stock Exchange"
 description: "Discover how the Hong Kong Stock Exchange serves as a dynamic hub for global investors through algo trading harnessing speed and precision in stock markets."
 ---
 

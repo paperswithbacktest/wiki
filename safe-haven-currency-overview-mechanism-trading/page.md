@@ -1,5 +1,5 @@
 ---
-title: "Safe Haven Currency: Overview, Mechanism, and Trading (Algo Trading)"
+title: "Safe Haven Currency: Overview, Mechanism, and Trading"
 description: "Explore the role of safe haven currencies in forex trading and how algorithmic trading enhances market dynamics by improving transaction speed and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Uniform Prudent Investor Act (Algo Trading)"
+title: "Uniform Prudent Investor Act"
 description: "Explore how the Uniform Prudent Investor Act (UPIA) modernizes fiduciary responsibilities, embracing algorithmic trading to enhance portfolio management and risk assessment."
 ---
 

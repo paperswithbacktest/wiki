@@ -1,5 +1,5 @@
 ---
-title: "TMX Group: Overview of History, Holdings, and Services (Algo Trading)"
+title: "TMX Group: Overview of History, Holdings, and Services"
 description: "Explore TMX Group's pivotal role in Canadian financial markets, its major exchanges, and how it leverages algorithmic trading to innovate and bolster market operations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "ThinkOrSwim Trading Strategies Explained (Algo Trading)"
+title: "ThinkOrSwim Trading Strategies Explained"
 description: Discover the powerful capabilities of thinkorswim as a leading trading platform for algorithmic enthusiasts. From its advanced features and user-friendly interface to the customizable scripting through thinkScript, this platform caters to traders at all levels seeking to automate sophisticated trading strategies. Learn about key functionalities, explore popular algorithmic approaches, and understand how thinkorswim's robust tools can elevate your trading efficiency and execution accuracy in today's financial markets.
 ---
 

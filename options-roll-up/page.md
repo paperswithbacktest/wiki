@@ -1,5 +1,5 @@
 ---
-title: "Options Roll Up (Algo Trading)"
+title: "Options Roll Up"
 description: "Explore the evolving landscape of financial derivatives with a focus on roll-up strategies in options trading and the impact of algorithmic trading."
 ---
 

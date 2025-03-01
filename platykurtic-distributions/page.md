@@ -1,5 +1,5 @@
 ---
-title: "Platykurtic Distributions (Algo Trading)"
+title: "Platykurtic Distributions"
 description: "Explore platykurtic distributions in algo trading to recognize markets with lower volatility, aiding in risk management and development of stable strategies."
 ---
 

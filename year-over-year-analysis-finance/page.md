@@ -1,5 +1,5 @@
 ---
-title: "Year-Over-Year Analysis in Finance (Algo Trading)"
+title: "Year-Over-Year Analysis in Finance"
 description: "Explore key insights into how algorithmic trading is reshaping finance through year-over-year analysis, revealing trends and advancements in modern trading strategies."
 ---
 

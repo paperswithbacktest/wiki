@@ -1,5 +1,5 @@
 ---
-title: "Risk Management Strategies for Traders (Algo Trading)"
+title: "Risk Management Strategies for Traders"
 description: "Discover essential risk management strategies for algorithmic trading. Learn how diversification and disciplined approaches can help protect your investments."
 ---
 

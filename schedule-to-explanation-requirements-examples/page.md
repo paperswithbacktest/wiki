@@ -1,5 +1,5 @@
 ---
-title: "Schedule To: Explanation, Requirements, Examples (Algo Trading)"
+title: "Schedule To: Explanation, Requirements, Examples"
 description: "Discover the requirements and schedules for algorithmic trading systems including examples highlighting key process stages for traders and investors."
 ---
 

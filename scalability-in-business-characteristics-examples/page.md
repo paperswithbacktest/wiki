@@ -1,5 +1,5 @@
 ---
-title: "Scalability in Business: Characteristics and Examples (Algo Trading)"
+title: "Scalability in Business: Characteristics and Examples"
 description: "Discover how scalability enhances business growth with minimal cost impact Explore its role in algorithmic trading and examples from leading companies"
 ---
 

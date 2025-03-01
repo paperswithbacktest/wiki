@@ -1,5 +1,5 @@
 ---
-title: "Translation Exposure in Finance (Algo Trading)"
+title: "Translation Exposure in Finance"
 description: "Discover how multinational companies navigate translation exposure in finance, where exchange rate fluctuations impact financial statements. This article explores translation risk, balance sheet effects, and the role of algorithmic trading in managing currency risks effectively amidst global market volatility."
 ---
 

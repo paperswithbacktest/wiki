@@ -1,5 +1,5 @@
 ---
-title: "Swing Option: Meaning and Mechanics (Algo Trading)"
+title: "Swing Option: Meaning and Mechanics"
 description: "Explore the dynamics of swing options and algorithmic trading in commodities markets to optimize investment strategies and mitigate risks effectively."
 ---
 

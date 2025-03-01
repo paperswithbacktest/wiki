@@ -1,5 +1,5 @@
 ---
-title: "Spot Rate: Overview and Examples (Algo Trading)"
+title: "Spot Rate: Overview and Examples"
 description: "Explore the significance of spot rates in forex trading and how algorithmic trading strategies can leverage real-time currency data for optimal market performance."
 ---
 

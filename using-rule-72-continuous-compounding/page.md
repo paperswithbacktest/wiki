@@ -1,5 +1,5 @@
 ---
-title: "Using the Rule of 72 for Continuous Compounding Calculations (Algo Trading)"
+title: "Using the Rule of 72 for Continuous Compounding Calculations"
 description: "Discover how the Rule of 72 simplifies investment growth projections by estimating doubling time in various financial contexts including algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Nonfinancial Assets: Valuation and Examples (Algo Trading)"
+title: "Nonfinancial Assets: Valuation and Examples"
 description: "Explore the valuation of nonfinancial assets like real estate and IP leveraging algo trading for enhanced management unlocking new market opportunities."
 ---
 

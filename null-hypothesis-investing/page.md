@@ -1,5 +1,5 @@
 ---
-title: "Null Hypothesis in Investing (Algo Trading)"
+title: "Null Hypothesis in Investing"
 description: "Discover how the null hypothesis plays a crucial role in investment strategies and algorithmic trading by providing a framework for testing the validity of financial hypotheses. This concept aids in the evaluation and refinement of trading strategies, allowing investors to differentiate between genuine market opportunities and chance occurrences. By leveraging this statistical tool, traders can enhance decision-making, improve profitability, and better manage risk within the evolving financial landscape."
 ---
 

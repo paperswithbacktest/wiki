@@ -1,5 +1,5 @@
 ---
-title: "Trust Certificate and Its Functionality (Algo Trading)"
+title: "Trust Certificate and Its Functionality"
 description: "Discover how digital authentication security certificates enhance trust and security in algorithmic trading by verifying identities and enabling encrypted communications."
 ---
 

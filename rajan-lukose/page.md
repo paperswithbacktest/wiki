@@ -1,5 +1,5 @@
 ---
-title: "Rajan Lukose (Algo Trading)"
+title: "Rajan Lukose"
 description: "Discover the inspiring journey of Rajan Lukose in algo trading with his expertise in machine learning physics and innovative contributions to financial strategies."
 ---
 

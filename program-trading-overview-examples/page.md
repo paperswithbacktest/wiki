@@ -1,5 +1,5 @@
 ---
-title: "Program Trading: Overview and Examples (Algo Trading)"
+title: "Program Trading: Overview and Examples"
 description: "Discover how program trading transforms financial markets with advanced algorithms enhancing liquidity reducing costs and optimizing complex strategies"
 ---
 

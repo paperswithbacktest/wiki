@@ -1,5 +1,5 @@
 ---
-title: "Perpetual Subordinated Loan: Overview, Advantages, and Risks (Algo Trading)"
+title: "Perpetual Subordinated Loan: Overview, Advantages, and Risks"
 description: "Explore perpetual subordinated loans and algo trading Discover how these complex financial instruments affect risk management and investment strategies"
 ---
 

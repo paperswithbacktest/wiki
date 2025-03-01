@@ -1,5 +1,5 @@
 ---
-title: "Technical Analysis Tools for Trading (Algo Trading)"
+title: "Technical Analysis Tools for Trading"
 description: "Explore top technical analysis tools and algorithmic trading software to enhance your trading strategies with precision and efficiency. Learn how technical analysis forecasts price movements through historical data while algorithmic trading simplifies trade execution with automated systems. Discover essential platforms like MetaStock, TradeStation, and TradingView, and their vital roles in modern trading practices."
 ---
 

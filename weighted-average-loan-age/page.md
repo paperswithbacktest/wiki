@@ -1,5 +1,5 @@
 ---
-title: "Weighted Average Loan Age (Algo Trading)"
+title: "Weighted Average Loan Age"
 description: "Discover how Weighted Average Loan Age (WALA) is vital in assessing mortgage-backed securities and how it aids investors in understanding prepayment risks."
 ---
 

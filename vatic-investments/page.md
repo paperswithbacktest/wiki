@@ -1,5 +1,5 @@
 ---
-title: "Vatic Investments (Algo Trading)"
+title: "Vatic Investments"
 description: "Discover Vatic Investments known for its cutting-edge algorithmic trading strategies. Learn how it leverages technology for efficient and precise market execution."
 ---
 

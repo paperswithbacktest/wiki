@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Inflation and GDP Growth (Algo Trading)"
+title: "Relationship Between Inflation and GDP Growth"
 description: "Explore the critical role of inflation and GDP growth in economic stability and market behavior, and how algorithmic trading uses these indicators for strategic decisions."
 ---
 

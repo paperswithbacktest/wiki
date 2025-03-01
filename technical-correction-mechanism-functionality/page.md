@@ -1,5 +1,5 @@
 ---
-title: "Technical Correction: Mechanism and Functionality (Algo Trading)"
+title: "Technical Correction: Mechanism and Functionality"
 description: "Explore the impact of technical corrections on financial markets and the role of algorithmic trading in managing these adjustments for strategic gains."
 ---
 

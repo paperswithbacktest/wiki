@@ -1,5 +1,5 @@
 ---
-title: "Stated Value: Overview and Application (Algo Trading)"
+title: "Stated Value: Overview and Application"
 description: "Explore the intricate world of finance with our in-depth look at stated value, asset valuation, and algorithmic trading. Enhance your financial insight today."
 ---
 

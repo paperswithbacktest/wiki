@@ -1,5 +1,5 @@
 ---
-title: "Revenue Ton Mile (Algo Trading)"
+title: "Revenue Ton Mile"
 description: "Discover how Revenue Ton Mile and algorithmic trading can streamline logistics operations enhance profitability and optimize supply chain efficiency in today's market."
 ---
 

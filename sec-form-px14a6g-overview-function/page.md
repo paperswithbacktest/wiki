@@ -1,5 +1,5 @@
 ---
-title: "SEC Form PX14A6G Overview and Function (Algo Trading)"
+title: "SEC Form PX14A6G Overview and Function"
 description: "Explore the role of SEC Form PX14A6G in enhancing corporate governance and shareholder communication within the fast-evolving landscape of algorithmic trading."
 ---
 

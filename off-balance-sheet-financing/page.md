@@ -1,5 +1,5 @@
 ---
-title: "Off-Balance Sheet Financing (Algo Trading)"
+title: "Off-Balance Sheet Financing"
 description: "Explore how off-balance sheet financing and algorithmic trading intersect to influence corporate finance and investment strategies globally, shaping modern markets."
 ---
 

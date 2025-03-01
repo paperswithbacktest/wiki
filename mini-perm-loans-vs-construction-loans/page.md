@@ -1,5 +1,5 @@
 ---
-title: "Mini-Perm Loans and Their Uses Compared to Construction Loans (Algo Trading)"
+title: "Mini-Perm Loans and Their Uses Compared to Construction Loans"
 description: "Explore the differences between mini-perm and construction loans in real estate financing, and discover how algorithmic trading enhances financial strategies."
 ---
 

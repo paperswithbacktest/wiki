@@ -1,5 +1,5 @@
 ---
-title: "Non-Accelerating Inflation Rate of Unemployment (Algo Trading)"
+title: "Non-Accelerating Inflation Rate of Unemployment"
 description: "Explore the complex interplay between inflation and unemployment through the lens of the Non-Accelerating Inflation Rate of Unemployment (NAIRU). Understand how this pivotal economic theory guides policymakers in maintaining price stability while optimizing employment levels. Discover its significance in algorithmic trading, where NAIRU-related data informs market strategies. This article investigates into NAIRU's role in economic stability and growth, offering insights into the dynamics between inflation and unemployment and their influence on financial markets."
 ---
 

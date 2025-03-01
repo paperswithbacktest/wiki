@@ -1,5 +1,5 @@
 ---
-title: "Price Persistence: Concept, Mechanism, and Example (Algo Trading)"
+title: "Price Persistence: Concept, Mechanism, and Example"
 description: "Explore the concepts and mechanisms of price persistence in algorithmic trading Understand how asset prices maintain their trajectory and its impact on market strategies"
 ---
 

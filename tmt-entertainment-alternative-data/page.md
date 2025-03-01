@@ -1,5 +1,5 @@
 ---
-title: "TMT & Entertainment Alternative Data (Algo Trading)"
+title: "TMT & Entertainment Alternative Data"
 description: Explore the transformative impact of alternative data from the TMT and Entertainment sectors in algorithmic trading. Discover how traders leverage non-conventional datasets for unique insights and early trend detection to enhance predictive models and gain a competitive edge.
 ---
 

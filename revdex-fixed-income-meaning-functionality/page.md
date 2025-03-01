@@ -1,5 +1,5 @@
 ---
-title: "Revdex in Fixed Income: Meaning and Functionality (Algo Trading)"
+title: "Revdex in Fixed Income: Meaning and Functionality"
 description: "Explore the transformative impact of algorithmic trading on fixed income markets and the role of Revdex in optimizing bonds portfolios for investors."
 ---
 

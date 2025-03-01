@@ -1,5 +1,5 @@
 ---
-title: "Urban Development Act of 1970 (Algo Trading)"
+title: "Urban Development Act of 1970"
 description: "Explore the Urban Development Act of 1970 its impact on housing policy and urban renewal plus discover links between algorithmic trading and real estate markets."
 ---
 

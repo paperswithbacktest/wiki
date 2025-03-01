@@ -1,5 +1,5 @@
 ---
-title: "Middle-Income Countries: Characteristics and Importance (Algo Trading)"
+title: "Middle-Income Countries: Characteristics and Importance"
 description: "Explore the role of Middle-Income Countries in global economy and how algorithmic trading influences their growth and stability. Learn about MICs’ challenges and opportunities."
 ---
 

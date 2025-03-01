@@ -1,5 +1,5 @@
 ---
-title: "Variance Inflation Factor (Algo Trading)"
+title: "Variance Inflation Factor"
 description: "Explore how the Variance Inflation Factor (VIF) helps identify multicollinearity in algorithmic trading models to enhance prediction reliability and trading strategy efficacy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Real Estate and Infrastructure Diversification (Algo Trading)"
+title: "Real Estate and Infrastructure Diversification"
 description: "Explore how diversifying with real estate infrastructure and algorithmic trading can enhance returns and manage risks in modern investment portfolios."
 ---
 

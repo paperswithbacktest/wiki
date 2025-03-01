@@ -1,5 +1,5 @@
 ---
-title: "Shooting Star Candle Strategy Explained (Algo Trading)"
+title: "Shooting Star Candle Strategy Explained"
 description: Discover the power of the Shooting Star Candle Strategy in algorithmic trading to identify potential market reversals. Learn how this pattern, marked by its unique candlestick formation, enhances trade decisions by automating pattern detection and execution, optimizing market responsiveness with precision and speed.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Saudi Riyal: History and Exchange Rate to U.S. Dollar (Algo Trading)"
+title: "Saudi Riyal: History and Exchange Rate to U.S. Dollar"
 description: "Explore the history of the Saudi Riyal and its exchange rate to the U.S. Dollar Discover the impact of algorithmic trading on currency valuation and trading strategies"
 ---
 

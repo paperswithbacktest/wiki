@@ -1,5 +1,5 @@
 ---
-title: "Statement of Financial Accounting Concepts Overview (Algo Trading)"
+title: "Statement of Financial Accounting Concepts Overview"
 description: "Explore how foundational accounting concepts and the Statement of Financial Accounting Concepts (SFAC) intersect with algorithmic trading in modern finance."
 ---
 

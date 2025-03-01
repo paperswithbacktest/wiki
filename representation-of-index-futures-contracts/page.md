@@ -1,5 +1,5 @@
 ---
-title: "Representation of Index Futures Contracts (Algo Trading)"
+title: "Representation of Index Futures Contracts"
 description: "Discover the world of index futures contracts and algo trading Explore how these financial instruments and strategies enable investors to hedge risks and seize market opportunities"
 ---
 

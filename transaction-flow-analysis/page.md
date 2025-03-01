@@ -1,5 +1,5 @@
 ---
-title: "transaction flow analysis (Algo Trading)"
+title: "transaction flow analysis"
 description: "Optimize algorithmic trading systems with transaction flow analysis by understanding market behaviors and developing strategies to maximize efficiency and compliance."
 ---
 

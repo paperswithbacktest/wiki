@@ -1,5 +1,5 @@
 ---
-title: "United States Department of Agriculture (Algo Trading)"
+title: "United States Department of Agriculture"
 description: "Explore the intersection of USDA roles and algorithmic trading in agriculture Discover how algo trading technologies enhance decision-making with USDA data insights"
 ---
 

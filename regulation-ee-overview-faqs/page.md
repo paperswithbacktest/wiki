@@ -1,5 +1,5 @@
 ---
-title: "Regulation EE Overview and FAQs (Algo Trading)"
+title: "Regulation EE Overview and FAQs"
 description: "Explore the essentials of Regulation EE and its impact on algorithmic trading Learn about netting efficiency and risk management in high-speed financial markets"
 ---
 

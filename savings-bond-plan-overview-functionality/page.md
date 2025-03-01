@@ -1,5 +1,5 @@
 ---
-title: "Savings Bond Plan: Overview and Functionality (Algo Trading)"
+title: "Savings Bond Plan: Overview and Functionality"
 description: "Explore the synergy of savings bonds and algorithmic trading for optimized investments. Learn how modern tech enhances traditional bonds while ensuring stability."
 ---
 

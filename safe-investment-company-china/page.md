@@ -1,5 +1,5 @@
 ---
-title: "SAFE Investment Company of China (Algo Trading)"
+title: "SAFE Investment Company of China"
 description: "Explore SAFE Investment Company of China, a key player in global finance focused on managing foreign reserves and optimizing returns through algo-trading."
 ---
 

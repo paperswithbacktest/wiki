@@ -1,5 +1,5 @@
 ---
-title: "Underlying Profit Analysis: Advantages, Disadvantages, and Examples (Algo Trading)"
+title: "Underlying Profit Analysis: Advantages, Disadvantages, and Examples"
 description: "Explore the benefits and challenges of underlying profit analysis and algorithmic trading to enhance your investment strategy with modern financial tools."
 ---
 

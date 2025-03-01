@@ -1,5 +1,5 @@
 ---
-title: "Understanding Underlying Debt (Algo Trading)"
+title: "Understanding Underlying Debt"
 description: "Explore how understanding debt and related metrics influences algorithmic trading strategies Essential insights into debt dynamics for informed investing"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Vendor Note: Overview, Benefits, and Drawbacks (Algo Trading)"
+title: "Vendor Note: Overview, Benefits, and Drawbacks"
 description: "Explore the benefits and drawbacks of using vendor notes in algorithmic trading. Discover how they offer financial flexibility and enhance trading strategies."
 ---
 

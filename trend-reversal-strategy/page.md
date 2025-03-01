@@ -1,5 +1,5 @@
 ---
-title: "Trend Reversal Strategy (Algo Trading)"
+title: "Trend Reversal Strategy"
 description: Explore trend reversal strategies in algorithmic trading to enhance your trading performance by identifying key indicators that mark shifts in price trends. By leveraging moving averages, oscillators, advanced patterns, and machine learning techniques, you'll learn how to effectively integrate trend reversal recognition into your trading systems for improved precision and responsiveness in volatile markets.
 ---
 

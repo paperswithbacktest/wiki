@@ -1,5 +1,5 @@
 ---
-title: "Triple Top: Definition, Functionality, and Illustrations (Algo Trading)"
+title: "Triple Top: Definition, Functionality, and Illustrations"
 description: "Learn how the Triple Top chart pattern indicates potential trend reversals in trading, its formation, implications, and strategies to capitalize on market shifts."
 ---
 

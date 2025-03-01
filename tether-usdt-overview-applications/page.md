@@ -1,5 +1,5 @@
 ---
-title: "Tether (USDT): Overview and Applications (Algo Trading)"
+title: "Tether (USDT): Overview and Applications"
 description: "Explore how Tether USDT stablecoin and algorithmic trading intersect to offer stability and precision in cryptocurrency investments optimizing trade execution."
 ---
 

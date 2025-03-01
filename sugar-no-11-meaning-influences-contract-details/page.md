@@ -1,5 +1,5 @@
 ---
-title: "Sugar No.11: Meaning, Influences, and Contract Details (Algo Trading)"
+title: "Sugar No.11: Meaning, Influences, and Contract Details"
 description: "Explore the role of Sugar No.11 futures in global trade, discover how algorithmic trading transforms sugar markets, and learn to optimize trading strategies."
 ---
 

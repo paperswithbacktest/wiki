@@ -1,5 +1,5 @@
 ---
-title: "Proof of Assignment: Explanation and Benefits (Algo Trading)"
+title: "Proof of Assignment: Explanation and Benefits"
 description: "Discover how Proof of Assignment revolutionizes algorithmic trading with increased efficiency and reduced costs. Explore its role in IoT and blockchain advancements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Zero-Coupon Certificate of Deposit (Algo Trading)"
+title: "Zero-Coupon Certificate of Deposit"
 description: "Explore the synergy of zero-coupon CDs and algorithmic trading for diversified investment strategies maximize returns efficiently utilizing automated trading technology."
 ---
 

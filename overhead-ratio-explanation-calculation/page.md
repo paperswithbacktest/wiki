@@ -1,5 +1,5 @@
 ---
-title: "Overhead Ratio: Explanation and Calculation (Algo Trading)"
+title: "Overhead Ratio: Explanation and Calculation"
 description: "Maximize your trading efficiency with insights on overhead ratios and financial metrics. Learn to apply key ratios for enhanced algorithmic trading success."
 ---
 

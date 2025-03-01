@@ -1,5 +1,5 @@
 ---
-title: "Upstream Guarantee (Algo Trading)"
+title: "Upstream Guarantee"
 description: "Discover how innovative risk management tools like upstream guarantees and financial assurance bolster algorithmic trading operations for safer investments."
 ---
 

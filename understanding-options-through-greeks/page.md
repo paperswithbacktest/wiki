@@ -1,5 +1,5 @@
 ---
-title: "Understanding Options Through the Greeks (Algo Trading)"
+title: "Understanding Options Through the Greeks"
 description: "Explore the intricacies of financial derivatives and options trading through the Greeks. Learn how Delta, Gamma, Theta, Vega, and Rho provide vital insights into an option's pricing sensitivity to market factors like price volatility and interest rates. Discover the role these metrics play in effective risk management and strategic optimization within algorithmic trading. This comprehensive analysis highlights how understanding the Greeks can significantly enhance trading strategies."
 ---
 

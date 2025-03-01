@@ -1,5 +1,5 @@
 ---
-title: "Stock Record and Functionality (Algo Trading)"
+title: "Stock Record and Functionality"
 description: "Explore the pivotal integration of inventory management and algorithmic trading to optimize business efficiency enhance accuracy and leverage modern data strategies."
 ---
 

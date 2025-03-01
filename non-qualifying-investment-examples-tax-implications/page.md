@@ -1,5 +1,5 @@
 ---
-title: "Non-Qualifying Investment: Examples and Tax Implications (Algo Trading)"
+title: "Non-Qualifying Investment: Examples and Tax Implications"
 description: "Explore non-qualifying investments and their tax implications. Understand how they differ from qualifying assets and the role of algorithmic trading in strategy."
 ---
 

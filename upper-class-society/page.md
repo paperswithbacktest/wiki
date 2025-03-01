@@ -1,5 +1,5 @@
 ---
-title: "Upper Class in Society (Algo Trading)"
+title: "Upper Class in Society"
 description: "Explore how algorithmic trading amplifies wealth disparities within social classes altering financial power dynamics and reinforcing the upper class's advantages."
 ---
 

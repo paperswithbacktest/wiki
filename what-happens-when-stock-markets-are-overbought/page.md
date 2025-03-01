@@ -1,5 +1,5 @@
 ---
-title: "What Happens When Stock Markets Are Overbought? (Algo Trading)"
+title: "What Happens When Stock Markets Are Overbought?"
 description: Explore the dynamics of overbought stock markets through the lens of algorithmic trading. Learn how advanced trading algorithms can identify and respond to market conditions where securities are considered overvalued, enabling traders to anticipate potential corrections. This article investigates into the mechanics of tools like the Relative Strength Index and mean reversion strategies, showcasing their role in optimizing trading decisions and managing risk within a high-speed trading environment. Discover how these strategies are tested and applied to enhance profitability in volatile markets.
 ---
 

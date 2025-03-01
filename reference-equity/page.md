@@ -1,5 +1,5 @@
 ---
-title: "Reference Equity (Algo Trading)"
+title: "Reference Equity"
 description: "Explore the intersection of equity and algorithmic trading in financial markets Unlock insights into ownership, capital allocation, and automated strategies' impact."
 ---
 

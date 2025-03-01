@@ -1,5 +1,5 @@
 ---
-title: "Sequential bootstraps (Algo Trading)"
+title: "Sequential bootstraps"
 description: Discover the innovative application of sequential bootstraps in algorithmic trading where financial machine learning excels by addressing sample data challenges. This article explains how sequential bootstrapping tackles time-dependence and data heterogeneity to enhance model performance. Explore the benefits of this technique in creating more representative data samples for reliable trading strategies as it reduces label concurrency and boosts model accuracy amidst financial complexities.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Wolverine Trading (Algo Trading)"
+title: "Wolverine Trading"
 description: "Wolverine Trading excels in algorithmic trading utilizing advanced strategies and technology to enhance market efficiency and maintain a competitive edge."
 ---
 

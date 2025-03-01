@@ -1,5 +1,5 @@
 ---
-title: "Supplemental Nutrition Assistance Program (Algo Trading)"
+title: "Supplemental Nutrition Assistance Program"
 description: "Explore the innovative intersection of SNAP benefits and algorithmic trading technologies enhancing efficiency and effectiveness in public assistance programs through data analytics."
 ---
 

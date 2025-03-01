@@ -1,5 +1,5 @@
 ---
-title: "S&P 500 as an Investment Benchmark (Algo Trading)"
+title: "S&P 500 as an Investment Benchmark"
 description: "Explore the impact of the S&P 500 as an investment benchmark alongside algorithmic trading to enhance strategic decision-making and optimize portfolio performance."
 ---
 

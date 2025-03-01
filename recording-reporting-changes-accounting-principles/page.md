@@ -1,5 +1,5 @@
 ---
-title: "Recording and Reporting Changes in Accounting Principles (Algo Trading)"
+title: "Recording and Reporting Changes in Accounting Principles"
 description: "Discover key accounting practices and the role of algorithmic trading in financial reporting. Explore their impact on transparency and market dynamics."
 ---
 

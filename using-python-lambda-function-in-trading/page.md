@@ -1,5 +1,5 @@
 ---
-title: "Using Python Lambda Functions in Trading (Algo Trading)"
+title: "Using Python Lambda Functions in Trading"
 description: Discover how Python lambda functions enhance algorithmic trading by streamlining code and improving execution speed. Learn their key features, advantages, and practical applications, making trading strategies more efficient and maintainable for a competitive edge in financial markets.
 ---
 

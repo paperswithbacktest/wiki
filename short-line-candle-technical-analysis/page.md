@@ -1,5 +1,5 @@
 ---
-title: "Short Line Candle in Technical Analysis (Algo Trading)"
+title: "Short Line Candle in Technical Analysis"
 description: "Explore Short Line Candle patterns in algorithmic trading to improve market analysis and decision making Harness candlestick insights for strategic trades."
 ---
 

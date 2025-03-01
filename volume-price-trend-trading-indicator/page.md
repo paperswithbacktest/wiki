@@ -1,5 +1,5 @@
 ---
-title: "Volume Price Trend Trading Indicator (Algo Trading)"
+title: "Volume Price Trend Trading Indicator"
 description: "Unlock trading potential with the Volume Price Trend Indicator which combines volume and price data to forecast trends and predict market reversals."
 ---
 

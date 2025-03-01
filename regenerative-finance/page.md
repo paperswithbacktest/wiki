@@ -1,5 +1,5 @@
 ---
-title: "Regenerative Finance (Algo Trading)"
+title: "Regenerative Finance"
 description: "Regenerative Finance represents a groundbreaking shift towards combining finance and sustainability through innovative concepts like blockchain and algorithmic trading. With an emphasis on ecological and social regeneration, ReFi challenges traditional financial systems by fostering processes that rejuvenate natural and social resources. By integrating blockchain technology, ReFi ensures transparency and equity, empowering local communities and promoting inclusive participation in sustainable development. The synergy with algorithmic trading enables optimized investments in green sectors, aiming to revolutionize strategies towards sustainable financial growth. ReFi is poised to redefine financial markets, aligning economic incentives with ecological stewardship and social responsibility."
 ---
 

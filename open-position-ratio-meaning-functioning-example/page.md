@@ -1,5 +1,5 @@
 ---
-title: "Open Position Ratio: Meaning and Functioning with Example (Algo Trading)"
+title: "Open Position Ratio: Meaning and Functioning with Example"
 description: "Explore the impact of the open position ratio in algo trading learn how it shapes strategies with examples and tips for enhanced decision-making and risk management."
 ---
 

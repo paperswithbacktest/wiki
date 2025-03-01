@@ -1,5 +1,5 @@
 ---
-title: "Non-Recurring Charge (Algo Trading)"
+title: "Non-Recurring Charge"
 description: "Understand the impact of non-recurring charges in algorithmic trading and how they affect financial analysis and strategic decision-making in the financial sector."
 ---
 

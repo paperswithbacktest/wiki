@@ -1,5 +1,5 @@
 ---
-title: "Reverse Calendar Spread: Mechanics and Examples (Algo Trading)"
+title: "Reverse Calendar Spread: Mechanics and Examples"
 description: "Explore the mechanics of a reverse calendar spread strategy in algorithmic trading designed to profit from market volatility by using options with differing expirations."
 ---
 

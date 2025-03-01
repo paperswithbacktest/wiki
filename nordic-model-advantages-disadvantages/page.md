@@ -1,5 +1,5 @@
 ---
-title: "Nordic Model: Advantages and Disadvantages (Algo Trading)"
+title: "Nordic Model: Advantages and Disadvantages"
 description: "Discover the Nordic Model's benefits and challenges in the context of modern algo trading, exploring its unique economic system and welfare policies."
 ---
 

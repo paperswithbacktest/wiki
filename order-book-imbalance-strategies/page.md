@@ -1,5 +1,5 @@
 ---
-title: "Order book imbalance strategies (Algo Trading)"
+title: "Order book imbalance strategies"
 description: "Explore effective algorithmic trading strategies using order book imbalance to predict short-term price movements and optimize high-frequency trading outcomes."
 ---
 

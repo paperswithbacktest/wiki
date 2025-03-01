@@ -1,5 +1,5 @@
 ---
-title: "Sluggish Economy: Overview and Characteristics (Algo Trading)"
+title: "Sluggish Economy: Overview and Characteristics"
 description: "Explore the intricacies of a sluggish economy its impact on growth and the role of algorithmic trading in market performance during economic slowdowns."
 ---
 

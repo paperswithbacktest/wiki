@@ -1,5 +1,5 @@
 ---
-title: "Reserve Fund: Definition and Purpose (Algo Trading)"
+title: "Reserve Fund: Definition and Purpose"
 description: "Explore the synergy between reserve funds and algorithmic trading for financial stability and growth. Learn how strategic fund allocation optimizes risk and return."
 ---
 

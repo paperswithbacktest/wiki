@@ -1,5 +1,5 @@
 ---
-title: "Style: Meaning, Classification, and Evaluation (Algo Trading)"
+title: "Style: Meaning, Classification, and Evaluation"
 description: "Explore how machine learning classification models transform algorithmic trading by predicting market trends analyzing data preparation and evaluating model performance."
 ---
 

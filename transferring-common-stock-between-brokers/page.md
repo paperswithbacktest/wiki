@@ -1,5 +1,5 @@
 ---
-title: "Transferring Common Stock Between Brokers (Algo Trading)"
+title: "Transferring Common Stock Between Brokers"
 description: "Explore broker stock transfers and how algo trading enhances efficiency by automating and optimizing the complex process of moving common stocks and securities."
 ---
 

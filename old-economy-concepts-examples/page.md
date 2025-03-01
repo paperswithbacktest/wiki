@@ -1,5 +1,5 @@
 ---
-title: "Old Economy: Concepts and Examples (Algo Trading)"
+title: "Old Economy: Concepts and Examples"
 description: "Explore the key concepts and examples of the old economy focusing on traditional industries like manufacturing agriculture and mining and their historical significance."
 ---
 

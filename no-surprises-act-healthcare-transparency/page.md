@@ -1,5 +1,5 @@
 ---
-title: "No Surprises Act and Healthcare Transparency (Algo Trading)"
+title: "No Surprises Act and Healthcare Transparency"
 description: "Explore how the No Surprises Act enhances healthcare transparency by protecting patients from unexpected medical bills and leveraging technology for accurate billing."
 ---
 

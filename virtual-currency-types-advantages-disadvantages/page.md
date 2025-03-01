@@ -1,5 +1,5 @@
 ---
-title: "Virtual Currency: Types, Advantages, and Disadvantages (Algo Trading)"
+title: "Virtual Currency: Types, Advantages, and Disadvantages"
 description: "Explore the types and nuances of virtual currency and algo trading Discover their advantages and disadvantages in today's evolving digital finance landscape"
 ---
 

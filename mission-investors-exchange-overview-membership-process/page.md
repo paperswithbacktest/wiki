@@ -1,5 +1,5 @@
 ---
-title: "Mission Investors Exchange: Overview and Membership Process (Algo Trading)"
+title: "Mission Investors Exchange: Overview and Membership Process"
 description: "Explore the transformative role of Mission Investors Exchange in impact investing. Discover membership types and the alignment of financial goals with social values."
 ---
 

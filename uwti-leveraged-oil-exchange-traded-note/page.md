@@ -1,5 +1,5 @@
 ---
-title: "UWTI Leveraged Oil Exchange-Traded Note (Algo Trading)"
+title: "UWTI Leveraged Oil Exchange-Traded Note"
 description: "Explore UWTI Leveraged Oil ETN and engage with the volatile oil market through algorithmic trading Boost gains with triple exposure but manage heightened risks wisely"
 ---
 

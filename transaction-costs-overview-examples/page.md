@@ -1,5 +1,5 @@
 ---
-title: "Transaction Costs: Overview and Examples (Algo Trading)"
+title: "Transaction Costs: Overview and Examples"
 description: "Explore the impact of transaction costs in algorithmic trading and learn strategies to optimize profits by managing expenses like brokerage fees and slippage."
 ---
 

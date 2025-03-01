@@ -1,5 +1,5 @@
 ---
-title: "Types of Bond Yields (Algo Trading)"
+title: "Types of Bond Yields"
 description: "Explore the impact of bond yields and algorithmic trading on investment decisions. Understand key yield types and how trading algorithms influence market dynamics."
 ---
 

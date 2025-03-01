@@ -1,5 +1,5 @@
 ---
-title: "Risks of Investing in Options (Algo Trading)"
+title: "Risks of Investing in Options"
 description: "Explore the risks associated with investing in options and algorithmic trading including market, liquidity, and counterparty risk for effective strategy execution."
 ---
 

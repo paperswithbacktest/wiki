@@ -1,5 +1,5 @@
 ---
-title: "Overnight Index Swap: Analysis and Calculation (Algo Trading)"
+title: "Overnight Index Swap: Analysis and Calculation"
 description: "Explore Overnight Index Swap analysis and calculation in algorithmic trading Uncover how OIS provides insights into interest rate trends and enhances trading strategies"
 ---
 

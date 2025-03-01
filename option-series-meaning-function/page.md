@@ -1,5 +1,5 @@
 ---
-title: "Option Series: Meaning and Function (Algo Trading)"
+title: "Option Series: Meaning and Function"
 description: "Explore the dynamics of algo trading in today's markets Learn how algorithms optimize portfolio efficiency by executing rapid trades with precision and minimal risk"
 ---
 

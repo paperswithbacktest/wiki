@@ -1,5 +1,5 @@
 ---
-title: "United States Export Restrictions: Overview and Mechanisms (Algo Trading)"
+title: "United States Export Restrictions: Overview and Mechanisms"
 description: "Explore the intricacies of US trade policy focusing on export restrictions and their impact on global trade and algorithmic trading systems compliance."
 ---
 

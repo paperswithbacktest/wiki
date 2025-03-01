@@ -1,5 +1,5 @@
 ---
-title: "Trexquant Investment (Algo Trading)"
+title: "Trexquant Investment"
 description: "Explore Trexquant Investment's innovative algorithmic trading strategies that combine advanced technology and data to optimize financial market operations."
 ---
 

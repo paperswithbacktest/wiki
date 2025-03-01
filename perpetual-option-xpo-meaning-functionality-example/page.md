@@ -1,5 +1,5 @@
 ---
-title: "Perpetual Option XPO: Meaning and Functionality With Example (Algo Trading)"
+title: "Perpetual Option XPO: Meaning and Functionality With Example"
 description: "Explore the functionality of perpetual options (XPOs) in algorithmic trading. Discover how their timeless nature maximizes flexibility and long-term gains."
 ---
 

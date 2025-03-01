@@ -1,5 +1,5 @@
 ---
-title: "Tape Reading in Modern Financial Markets (Algo Trading)"
+title: "Tape Reading in Modern Financial Markets"
 description: "Explore the convergence of tape reading and algorithmic trading to grasp modern market strategies Achieve trading success by blending intuition with technological precision"
 ---
 

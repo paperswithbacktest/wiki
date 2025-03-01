@@ -1,5 +1,5 @@
 ---
-title: "Seasonality (Algo Trading)"
+title: "Seasonality"
 description: Discover the importance of seasonality in quantitative trading and algo trading strategies. Learn about seasonal trends, notable examples like "Sell in May and go away" effect and "Payday Anomaly," and how to exploit these trends for improved profitability. Dive into industries that thrive on seasonality and explore the impact on algorithms for optimized trading. Boost your quantitative trading skills with resources like papers, libraries, packages, strategies, books, blogs, and tutorials. Become a successful quant trader and achieve financial independence.
 ---
 

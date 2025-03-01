@@ -1,5 +1,5 @@
 ---
-title: "Refusal of Tender Offer by Privatized Company (Algo Trading)"
+title: "Refusal of Tender Offer by Privatized Company"
 description: "Explore how private companies use corporate finance strategies, tender offers, and algorithmic trading to maximize value, ensure liquidity, and drive innovation."
 ---
 

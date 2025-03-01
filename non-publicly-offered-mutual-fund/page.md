@@ -1,5 +1,5 @@
 ---
-title: "Non-Publicly Offered Mutual Fund (Algo Trading)"
+title: "Non-Publicly Offered Mutual Fund"
 description: "Explore the unique investment opportunities of non-publicly offered mutual funds combined with algorithmic trading for accredited investors seeking high returns."
 ---
 

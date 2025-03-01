@@ -1,5 +1,5 @@
 ---
-title: "Quantity Supplied and Supply Curve Factors (Algo Trading)"
+title: "Quantity Supplied and Supply Curve Factors"
 description: "Explore how economic factors shape the supply curve and the role of algorithmic trading in modern markets. Learn to navigate supply dynamics effectively."
 ---
 

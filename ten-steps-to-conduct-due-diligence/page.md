@@ -1,5 +1,5 @@
 ---
-title: "Ten Steps to Conduct Due Diligence (Algo Trading)"
+title: "Ten Steps to Conduct Due Diligence"
 description: "Optimize your algo trading success with these 10 steps to conduct due diligence focusing on risk management and business process evaluations for robust strategies."
 ---
 

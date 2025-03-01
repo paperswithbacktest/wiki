@@ -1,5 +1,5 @@
 ---
-title: "Trigger Line: Overview, Advantages, and Example (Algo Trading)"
+title: "Trigger Line: Overview, Advantages, and Example"
 description: "Discover how trigger lines optimize trading strategies by signaling buy or sell actions based on market conditions. Enhance decisions with technical insights."
 ---
 

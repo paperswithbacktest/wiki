@@ -1,5 +1,5 @@
 ---
-title: "Secured Overnight Financing Rate (Algo Trading)"
+title: "Secured Overnight Financing Rate"
 description: "Explore the role of the Secured Overnight Financing Rate in algo trading and its impact on loans Learn about SOFR's global shift from LIBOR and new market dynamics"
 ---
 

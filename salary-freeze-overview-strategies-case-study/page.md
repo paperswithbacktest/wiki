@@ -1,5 +1,5 @@
 ---
-title: "Salary Freeze: Overview, Strategies, and Case Study (Algo Trading)"
+title: "Salary Freeze: Overview, Strategies, and Case Study"
 description: "Explore salary freezes as a strategic response to economic challenges and learn how algorithmic trading can help businesses navigate financial uncertainties."
 ---
 

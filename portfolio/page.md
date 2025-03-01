@@ -1,5 +1,5 @@
 ---
-title: "Portfolio (Algo Trading)"
+title: "Portfolio"
 description: "Explore the transformative power of algorithmic trading in investment portfolios. Discover how sophisticated algorithms optimize trade execution, minimizing costs and maximizing returns while reducing emotional biases. This article investigates into the advantages and risks of algo trading, offering insights to navigate complex financial markets effectively."
 ---
 

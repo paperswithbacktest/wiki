@@ -1,5 +1,5 @@
 ---
-title: "Quantity Theory of Money (Algo Trading)"
+title: "Quantity Theory of Money"
 description: "Explore how money supply influences inflation and the role of algorithmic trading in managing market dynamics. Understand monetary policies and trading strategies."
 ---
 

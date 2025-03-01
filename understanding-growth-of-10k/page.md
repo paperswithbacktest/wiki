@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Growth of 10K (Algo Trading)"
+title: "Understanding the Growth of 10K"
 description: "Explore the 'Growth of 10K' a key benchmark for evaluating investment performance that aids in optimizing strategies within algorithmic trading frameworks."
 ---
 

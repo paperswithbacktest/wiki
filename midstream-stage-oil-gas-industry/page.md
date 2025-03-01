@@ -1,5 +1,5 @@
 ---
-title: "Midstream Stage in the Oil and Gas Industry (Algo Trading)"
+title: "Midstream Stage in the Oil and Gas Industry"
 description: "Explore the impact of algorithmic trading in the midstream oil and gas industry highlighting enhanced efficiency and innovation amid changing market dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Paxos Consensus Algorithm (Algo Trading)"
+title: "Paxos Consensus Algorithm"
 description: "Explore the Paxos consensus algorithm, a crucial protocol in distributed systems for ensuring consistency, reliability, and fault tolerance in applications like algo trading."
 ---
 

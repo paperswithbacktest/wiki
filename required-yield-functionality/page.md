@@ -1,5 +1,5 @@
 ---
-title: "Required Yield and Its Functionality (Algo Trading)"
+title: "Required Yield and Its Functionality"
 description: "Discover the significance of required yield in algorithmic trading Understand its role in evaluating investment opportunities and optimizing trading strategies"
 ---
 

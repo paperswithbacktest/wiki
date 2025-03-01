@@ -1,5 +1,5 @@
 ---
-title: "Serial Correlation in Time Series Analysis (Algo Trading)"
+title: "Serial Correlation in Time Series Analysis"
 description: Explore the critical role of time series correlation in algorithmic trading as it helps traders understand the relationships between time-dependent datasets, enhancing trading strategies and risk management. By leveraging correlation analysis, traders can develop data-driven approaches, optimize diversification, and manage risks more effectively to achieve sustained success in dynamic financial markets.
 ---
 

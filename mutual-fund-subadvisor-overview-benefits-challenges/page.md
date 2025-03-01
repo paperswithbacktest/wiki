@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Subadvisor: Overview, Benefits, and Challenges (Algo Trading)"
+title: "Mutual Fund Subadvisor: Overview, Benefits, and Challenges"
 description: "Explore the pivotal role of mutual fund subadvisors and algo trading in modern investment strategies for efficient portfolio management and strategic diversification."
 ---
 

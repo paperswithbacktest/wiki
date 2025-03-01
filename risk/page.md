@@ -1,5 +1,5 @@
 ---
-title: "Risk (Algo Trading)"
+title: "Risk"
 description: Explore the world of algorithmic trading where computer algorithms automate trading strategies in financial markets to enhance efficiency and potentially outperform human traders. With a significant portion of trading volume now driven by these algorithms, this method offers benefits such as increased speed and reduced transaction costs while also minimizing human error and emotional bias. However, it is crucial to manage associated risks like technical issues and market volatility to prevent financial losses and market disruptions.
 ---
 

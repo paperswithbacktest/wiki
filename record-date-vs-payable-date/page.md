@@ -1,5 +1,5 @@
 ---
-title: "Record Date vs. Payable Date (Algo Trading)"
+title: "Record Date vs. Payable Date"
 description: "Explore how algorithmic trading can enhance dividend strategies by understanding crucial dates like record and payable dates to optimize investment returns."
 ---
 

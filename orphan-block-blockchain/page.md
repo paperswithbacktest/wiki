@@ -1,5 +1,5 @@
 ---
-title: "Orphan Block in Blockchain (Algo Trading)"
+title: "Orphan Block in Blockchain"
 description: "Explore the role of orphan blocks in blockchain technology and their impact on algorithmic trading. Understand how these blocks affect data consistency and trading strategies."
 ---
 

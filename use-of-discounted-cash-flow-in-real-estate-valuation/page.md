@@ -1,5 +1,5 @@
 ---
-title: "Use of Discounted Cash Flow in Real Estate Valuation (Algo Trading)"
+title: "Use of Discounted Cash Flow in Real Estate Valuation"
 description: "Discover how Discounted Cash Flow analysis and algorithmic trading revolutionize real estate valuation enhancing decision-making and optimizing investments."
 ---
 

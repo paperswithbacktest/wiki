@@ -1,5 +1,5 @@
 ---
-title: "Ownership of Student Loan Debt in the United States (Algo Trading)"
+title: "Ownership of Student Loan Debt in the United States"
 description: "Explore the impacts of immense student loan debt on US economic patterns and personal decisions, while understanding the influence of algorithmic trading."
 ---
 

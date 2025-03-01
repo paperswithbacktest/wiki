@@ -1,5 +1,5 @@
 ---
-title: "Transfer Risk in Finance (Algo Trading)"
+title: "Transfer Risk in Finance"
 description: "Effectively manage financial risk in algo trading with strategies like risk transfer, essential for safeguarding investments amid market complexities and volatilities."
 ---
 

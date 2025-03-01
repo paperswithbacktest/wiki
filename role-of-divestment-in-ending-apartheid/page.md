@@ -1,5 +1,5 @@
 ---
-title: "Role of Divestment in Ending Apartheid (Algo Trading)"
+title: "Role of Divestment in Ending Apartheid"
 description: "Explore the impact of divestment in ending apartheid through financial activism and the modern influence of algorithmic trading on financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Spinning Top Candlestick (Algo Trading)"
+title: "Spinning Top Candlestick"
 description: "Discover the significance of spinning top candlestick patterns in technical analysis and algorithmic trading. Understand how these patterns, marked by small bodies and long shadows, indicate market indecision and potential trend reversals or continuations. Explore their role in optimizing trading strategies by providing insights into market dynamics and enhancing decision-making in algo trading systems."
 ---
 

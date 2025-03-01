@@ -1,5 +1,5 @@
 ---
-title: "Multi-Index Options (Algo Trading)"
+title: "Multi-Index Options"
 description: "Explore the benefits of multi-index options in algorithmic trading to optimize strategies and manage risks with precision for enhanced portfolio performance."
 ---
 

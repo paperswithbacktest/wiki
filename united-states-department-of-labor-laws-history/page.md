@@ -1,5 +1,5 @@
 ---
-title: "United States Department of Labor: Laws and History (Algo Trading)"
+title: "United States Department of Labor: Laws and History"
 description: "Explore the pivotal role of the US Department of Labor amid traditional labor laws and modern algorithmic trading. Discover historical insights and future impact."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Order in Financial Markets: Mechanisms and Types (Algo Trading)"
+title: "Order in Financial Markets: Mechanisms and Types"
 description: "Explore the essentials of order types and trading mechanisms in financial markets Discover how algorithmic trading optimizes strategies for trader success"
 ---
 

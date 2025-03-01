@@ -1,5 +1,5 @@
 ---
-title: "Put-Call Parity: Formula and Application (Algo Trading)"
+title: "Put-Call Parity: Formula and Application"
 description: "Explore the concept of put-call parity and its applications in algorithmic trading Learn how this principle aids in identifying arbitrage opportunities and market equilibrium"
 ---
 

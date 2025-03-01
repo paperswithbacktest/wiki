@@ -1,5 +1,5 @@
 ---
-title: "Y-Share: Overview and Functionality (Algo Trading)"
+title: "Y-Share: Overview and Functionality"
 description: "Explore the synergy between Y-Shares and algo trading where institutional investors leverage low-cost Y-Shares with high-speed transactions for optimized returns."
 ---
 

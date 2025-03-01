@@ -1,5 +1,5 @@
 ---
-title: "Selling Rental Property for Profit (Algo Trading)"
+title: "Selling Rental Property for Profit"
 description: "Boost your real estate profits with this guide on selling rental properties Using algorithmic trading methods and strategic planning enhance your investment returns"
 ---
 

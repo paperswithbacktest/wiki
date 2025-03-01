@@ -1,5 +1,5 @@
 ---
-title: "Probability of strategy failure (Algo Trading)"
+title: "Probability of strategy failure"
 description: Explore the potential risks of algorithmic trading and discover strategies to mitigate failures in this comprehensive guide. Delve into the factors affecting strategy success and learn how to apply statistical methods like Monte Carlo simulations to anticipate outcomes. Enhance your understanding of strategy vulnerabilities and bolster the resilience of your trading practices in the complex and dynamic financial markets.
 ---
 

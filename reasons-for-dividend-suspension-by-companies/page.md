@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Dividend Suspension by Companies (Algo Trading)"
+title: "Reasons for Dividend Suspension by Companies"
 description: "Explore why companies suspend dividends amid financial challenges and the impact of algorithmic trading on these decisions essential for investors and companies alike."
 ---
 

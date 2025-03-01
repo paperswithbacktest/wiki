@@ -1,5 +1,5 @@
 ---
-title: "Shadow Rating: Definition and Operation (Algo Trading)"
+title: "Shadow Rating: Definition and Operation"
 description: "Explore the convergence of shadow rating credit assessment and algorithmic trading as they redefine financial strategies and decision-making in today's markets."
 ---
 

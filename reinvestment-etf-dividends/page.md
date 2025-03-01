@@ -1,5 +1,5 @@
 ---
-title: "Reinvestment of ETF Dividends (Algo Trading)"
+title: "Reinvestment of ETF Dividends"
 description: "Explore the advantages of reinvesting ETF dividends through automated algo trading to enhance portfolio growth and optimize returns with precision and efficiency."
 ---
 

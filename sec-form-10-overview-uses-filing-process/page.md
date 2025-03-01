@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 10: Overview, Uses, and Filing Process (Algo Trading)"
+title: "SEC Form 10: Overview, Uses, and Filing Process"
 description: "Explore SEC Form 10's role in financial transparency and its impact on algorithmic trading. Understand filing processes and how disclosures shape market strategies."
 ---
 

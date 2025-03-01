@@ -1,5 +1,5 @@
 ---
-title: "Social Welfare Systems (Algo Trading)"
+title: "Social Welfare Systems"
 description: "Explore the intersection of social welfare systems and algorithmic trading on this page, highlighting how technology affects market dynamics and social equity. Delve into the complexities of aligning profit-driven algorithms with welfare goals while examining opportunities to enhance resource distribution and access to essential services. Understand how these domains can influence each other and the potential for leveraging technological advances to improve welfare effectiveness. Learn about current trends, ethical considerations, and future directions in integrating financial innovations with social welfare objectives."
 ---
 

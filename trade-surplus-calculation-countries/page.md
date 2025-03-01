@@ -1,5 +1,5 @@
 ---
-title: "Trade Surplus: Calculation and Countries (Algo Trading)"
+title: "Trade Surplus: Calculation and Countries"
 description: "Explore the dynamics of trade surplus and algorithmic trading in the global economy Gain insights into how surplus impacts international trade and economic policies"
 ---
 

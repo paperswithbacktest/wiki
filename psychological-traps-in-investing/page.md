@@ -1,5 +1,5 @@
 ---
-title: "Psychological Traps in Investing (Algo Trading)"
+title: "Psychological Traps in Investing"
 description: "Explore the impact of psychological traps on investing decisions, including algorithmic trading Examine biases like overconfidence and loss aversion and learn strategies to mitigate them"
 ---
 

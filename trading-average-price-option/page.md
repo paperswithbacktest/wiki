@@ -1,5 +1,5 @@
 ---
-title: "Trading Average Price Option (Algo Trading)"
+title: "Trading Average Price Option"
 description: "Explore the benefits of Trading Average Price Options in algorithmic trading. TAPOs offer a unique price structure and risk management in volatile markets."
 ---
 

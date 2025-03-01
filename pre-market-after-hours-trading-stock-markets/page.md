@@ -1,5 +1,5 @@
 ---
-title: "Pre-Market and After-Hours Trading in Stock Markets (Algo Trading)"
+title: "Pre-Market and After-Hours Trading in Stock Markets"
 description: "Explore the dynamics of pre-market and after-hours trading in stocks Discover the role of algorithmic strategies in navigating these extended trading periods effectively"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Social Audit Overview and Components (Algo Trading)"
+title: "Social Audit Overview and Components"
 description: "Explore the role of social audits in promoting corporate accountability and ethical practices, especially within algorithmic trading, enhancing stakeholder trust and sustainability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 1-A: Overview and Historical Context (Algo Trading)"
+title: "SEC Form 1-A: Overview and Historical Context"
 description: "Understand the essential role of SEC Form 1-A in streamlining small to mid-sized companies' access to public capital markets under Regulation A while considering the impact of algorithmic trading."
 ---
 

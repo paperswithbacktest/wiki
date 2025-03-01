@@ -1,5 +1,5 @@
 ---
-title: "Negative Covenant in Contracts (Algo Trading)"
+title: "Negative Covenant in Contracts"
 description: "Explore the role of negative covenants in contracts, crucial for risk management and stability, especially in algorithmic trading and corporate finance sectors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Managers Index (Algo Trading)"
+title: "Purchasing Managers Index"
 description: "Discover the significance of the Purchasing Managers Index (PMI) in algorithmic trading as a vital economic indicator that offers insights into industry health and market trends. Learn how traders leverage PMI data for crafting robust strategies and understand its role in predicting market movements and economic turning points, enhancing decision-making in forex trading."
 ---
 

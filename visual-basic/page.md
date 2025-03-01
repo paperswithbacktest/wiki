@@ -1,5 +1,5 @@
 ---
-title: "Visual Basic (Algo Trading)"
+title: "Visual Basic"
 description: Visual Basic in algorithmic trading offers a user-friendly solution with its integration capabilities and familiar syntax, particularly for those within the Microsoft ecosystem. This programming language enables effective automation of trading strategies by leveraging its seamless connection with Microsoft Office tools like Excel, facilitating real-time data processing and analysis. Ideal for smaller firms or traders new to algorithmic trading, Visual Basic reduces learning curves while providing opportunities to innovate within existing infrastructures. However, its use in high-frequency, high-volume trading presents challenges, necessitating a careful assessment of its applicability to specific trading needs.
 ---
 

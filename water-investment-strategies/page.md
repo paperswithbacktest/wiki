@@ -1,5 +1,5 @@
 ---
-title: "Water Investment Strategies (Algo Trading)"
+title: "Water Investment Strategies"
 description: "Explore water investment strategies and discover how algorithmic trading enhances opportunities in the water sector a vital global resource with growing demand."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Options Strike Prices: Mechanics and Examples (Algo Trading)"
+title: "Options Strike Prices: Mechanics and Examples"
 description: "Explore the mechanics and examples of options strike prices, their role in options trading, and the influence of algorithmic trading on optimizing strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Specialist Roles and Functions (Algo Trading)"
+title: "Specialist Roles and Functions"
 description: "Discover the dynamic world of algorithmic trading where finance meets cutting-edge technology to enhance market efficiency and liquidity. This page explores the essential roles and skills within this innovative industry from quantitative analysts and developers to traders offering insights into the technical and financial expertise required for success. As financial markets evolve algorithmic trading continues to offer exciting career opportunities for those passionate about finance and technology."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Other Current Assets: Overview and Applications (Algo Trading)"
+title: "Other Current Assets: Overview and Applications"
 description: "Explore the crucial role of Other Current Assets in accounting and their impact on strategic algorithmic trading for enhanced financial operations."
 ---
 

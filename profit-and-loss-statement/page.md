@@ -1,5 +1,5 @@
 ---
-title: "Profit and Loss Statement (Algo Trading)"
+title: "Profit and Loss Statement"
 description: "Explore how Profit and Loss statements enhance algorithmic trading strategies by providing key financial insights improving risk management and optimizing returns."
 ---
 

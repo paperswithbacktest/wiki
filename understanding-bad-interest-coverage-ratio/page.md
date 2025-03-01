@@ -1,5 +1,5 @@
 ---
-title: "Understanding Bad Interest Coverage Ratio (Algo Trading)"
+title: "Understanding Bad Interest Coverage Ratio"
 description: "Discover how Interest Coverage Ratio (ICR) impacts financial strategy and algorithmic trading by evaluating a company's ability to meet debt obligations efficiently."
 ---
 

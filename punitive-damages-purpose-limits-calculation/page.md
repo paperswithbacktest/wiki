@@ -1,5 +1,5 @@
 ---
-title: "Punitive Damages: Purpose, Limits, and Calculation (Algo Trading)"
+title: "Punitive Damages: Purpose, Limits, and Calculation"
 description: "Explore the complexities of punitive damages and algorithmic trading in this insightful article Learn how legal and financial frameworks interact in today's market"
 ---
 

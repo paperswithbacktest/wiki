@@ -1,5 +1,5 @@
 ---
-title: "Redemption Suspension: Overview and Mechanism (Algo Trading)"
+title: "Redemption Suspension: Overview and Mechanism"
 description: "Explore the intricate dynamics of redemption suspensions in hedge funds and the impact of algorithmic trading on financial regulation and investor confidence."
 ---
 

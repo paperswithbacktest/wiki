@@ -1,5 +1,5 @@
 ---
-title: "Political Risk Analysis (Algo Trading)"
+title: "Political Risk Analysis"
 description: "Explore the intersection of political risk analysis and algorithmic trading to understand how geopolitical factors influence financial markets and trading strategies."
 ---
 

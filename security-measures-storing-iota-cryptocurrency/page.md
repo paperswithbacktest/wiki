@@ -1,5 +1,5 @@
 ---
-title: "Security Measures for Storing IOTA Cryptocurrency (Algo Trading)"
+title: "Security Measures for Storing IOTA Cryptocurrency"
 description: "Enhance the security of your MIOTA cryptocurrency investments with advanced storage solutions and algorithmic trading strategies for efficient market navigation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Turnover Ratio: Explanation and Importance (Algo Trading)"
+title: "Turnover Ratio: Explanation and Importance"
 description: "Explore the significance of turnover ratios in algorithmic trading and financial analysis Learn how these metrics assess asset efficiency and strategic decision-making"
 ---
 

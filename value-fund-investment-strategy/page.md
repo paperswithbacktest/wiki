@@ -1,5 +1,5 @@
 ---
-title: "Value Fund Investment Strategy (Algo Trading)"
+title: "Value Fund Investment Strategy"
 description: "Explore the dynamics of value fund investment strategies and algorithmic trading to enhance your financial portfolio with practical insights and examples."
 ---
 

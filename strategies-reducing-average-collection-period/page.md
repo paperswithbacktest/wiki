@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Reducing Average Collection Period (Algo Trading)"
+title: "Strategies for Reducing Average Collection Period"
 description: "Optimize your financial operations by exploring strategies to reduce the average collection period and leverage algorithmic trading for improved cash flow and competitiveness."
 ---
 

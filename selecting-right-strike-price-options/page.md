@@ -1,5 +1,5 @@
 ---
-title: "Selecting the Right Strike Price for Options (Algo Trading)"
+title: "Selecting the Right Strike Price for Options"
 description: "Explore strategies for integrating options trading with algorithmic techniques to navigate complex financial markets. Discover the importance of selecting the right strike price to optimize returns in options trading and how algorithmic trading enhances precision and adaptability, allowing investors to achieve more efficient and effective investment outcomes."
 ---
 

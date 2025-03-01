@@ -1,5 +1,5 @@
 ---
-title: "Unbundling: Mechanism, Benefits, and Examples (Algo Trading)"
+title: "Unbundling: Mechanism, Benefits, and Examples"
 description: "Explore the benefits and mechanisms of unbundling in business strategy Discover how it enhances consumer choice and its application in algorithmic trading"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Variance and Its Impact on Stock Investing (Algo Trading)"
+title: "Variance and Its Impact on Stock Investing"
 description: "Explore how variance affects stock investing and algorithmic trading Learn how it influences risk assessment and strategies to balance risk and return in portfolios"
 ---
 

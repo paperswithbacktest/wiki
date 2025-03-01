@@ -1,5 +1,5 @@
 ---
-title: "Net Order Imbalance Indicator (Algo Trading)"
+title: "Net Order Imbalance Indicator"
 description: "Discover the significance of the Net Order Imbalance Indicator in algorithmic trading. Gain insights into market dynamics for enhanced decision-making and strategic advantage."
 ---
 

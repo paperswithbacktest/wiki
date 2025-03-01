@@ -1,5 +1,5 @@
 ---
-title: "Term Structure vs. Yield Curve (Algo Trading)"
+title: "Term Structure vs. Yield Curve"
 description: "Explore the synergy between term structure, yield curve, and algorithmic trading, highlighting their influence on contemporary trading strategies and economic forecasts."
 ---
 

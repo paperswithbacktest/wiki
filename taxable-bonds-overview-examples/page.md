@@ -1,5 +1,5 @@
 ---
-title: "Taxable Bonds: Overview and Examples (Algo Trading)"
+title: "Taxable Bonds: Overview and Examples"
 description: "Explore the significance of taxable bonds and the impact of algorithmic trading on bond markets. Discover their roles in modern investing and portfolio optimization."
 ---
 

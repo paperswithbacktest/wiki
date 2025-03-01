@@ -1,5 +1,5 @@
 ---
-title: "Passive Foreign Investment Company (Algo Trading)"
+title: "Passive Foreign Investment Company"
 description: "Explore the complexities of Passive Foreign Investment Companies (PFICs) in algo trading, from intricate IRS regulations to effective tax strategies and compliance."
 ---
 

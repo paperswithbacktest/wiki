@@ -1,5 +1,5 @@
 ---
-title: "Net Operating Profit Less Adjusted Taxes (Algo Trading)"
+title: "Net Operating Profit Less Adjusted Taxes"
 description: "Understand NOPLAT and its significance in algorithmic trading to enhance investment strategies by focusing on operational profits post-tax adjustments for optimal decisions."
 ---
 

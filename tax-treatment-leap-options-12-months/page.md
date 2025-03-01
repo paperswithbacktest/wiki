@@ -1,5 +1,5 @@
 ---
-title: "Tax Treatment of LEAP Options Held Over 12 Months (Algo Trading)"
+title: "Tax Treatment of LEAP Options Held Over 12 Months"
 description: "Explore the tax advantages of LEAP options held over a year, focusing on their role in algorithmic trading for enhanced tax efficiency and investment returns."
 ---
 

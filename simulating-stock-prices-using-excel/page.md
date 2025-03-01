@@ -1,5 +1,5 @@
 ---
-title: "Simulating Stock Prices Using Excel (Algo Trading)"
+title: "Simulating Stock Prices Using Excel"
 description: "Explore the use of Excel for simulating stock prices and developing algorithmic trading strategies. Learn how financial modeling enhances decision-making."
 ---
 

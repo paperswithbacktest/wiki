@@ -1,5 +1,5 @@
 ---
-title: "Nebula Research & Development (Algo Trading)"
+title: "Nebula Research & Development"
 description: "Discover how Nebula Research & Development leads in algorithmic trading with innovative strategies and cutting-edge technology for optimal market navigation."
 ---
 

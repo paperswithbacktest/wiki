@@ -1,5 +1,5 @@
 ---
-title: "Time Banking: Overview, Benefits and Drawbacks, Examples (Algo Trading)"
+title: "Time Banking: Overview, Benefits and Drawbacks, Examples"
 description: "Explore the evolution of trading systems from barter to time banking and algorithmic trading Discover the benefits and challenges of these diverse methods"
 ---
 

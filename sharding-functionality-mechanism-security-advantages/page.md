@@ -1,5 +1,5 @@
 ---
-title: "Sharding: Functionality, Mechanism, Security, and Advantages (Algo Trading)"
+title: "Sharding: Functionality, Mechanism, Security, and Advantages"
 description: "Explore sharding in algorithmic trading to discover how this technique boosts database scalability and security by distributing workloads across servers."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Nano Cap: Definition, Risks, and Benefits (Algo Trading)"
+title: "Nano Cap: Definition, Risks, and Benefits"
 description: "Explore the dynamic yet risky landscape of nano cap stocks with insights on algorithmic trading's role in enhancing investment strategies and decision-making."
 ---
 

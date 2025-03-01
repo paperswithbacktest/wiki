@@ -1,5 +1,5 @@
 ---
-title: "Penny Stock Investment Strategies for Beginners (Algo Trading)"
+title: "Penny Stock Investment Strategies for Beginners"
 description: "Discover effective penny stock strategies for beginners using algorithmic trading to minimize risks and enhance decision-making in volatile markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Multifiber Arrangement and Special Considerations (Algo Trading)"
+title: "Multifiber Arrangement and Special Considerations"
 description: "Explore the pivotal role of multifiber arrangements in algorithmic trading Discover how fiber optics enhance speed reliability and data capacity in high-frequency trading"
 ---
 

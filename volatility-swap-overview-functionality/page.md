@@ -1,5 +1,5 @@
 ---
-title: "Volatility Swap: Overview and Functionality (Algo Trading)"
+title: "Volatility Swap: Overview and Functionality"
 description: "Explore the functionality of volatility swaps and algorithmic trading in derivatives markets Discover strategies to manage market volatility and enhance returns"
 ---
 

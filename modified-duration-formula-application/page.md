@@ -1,5 +1,5 @@
 ---
-title: "Modified Duration Formula and Application (Algo Trading)"
+title: "Modified Duration Formula and Application"
 description: "Explore the application of modified duration in bond trading and algorithmic strategies to better manage interest rate risk and optimize investment portfolios."
 ---
 

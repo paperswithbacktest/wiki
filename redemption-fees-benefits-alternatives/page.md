@@ -1,5 +1,5 @@
 ---
-title: "Redemption Fees: Benefits and Alternatives (Algo Trading)"
+title: "Redemption Fees: Benefits and Alternatives"
 description: "Discover the impact of redemption fees and investment fees on mutual fund returns Learn strategies to reduce these fees for optimal algorithmic trading performance"
 ---
 

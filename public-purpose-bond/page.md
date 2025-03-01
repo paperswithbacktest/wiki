@@ -1,5 +1,5 @@
 ---
-title: "Public Purpose Bond (Algo Trading)"
+title: "Public Purpose Bond"
 description: "Public purpose bonds finance community-enhancing projects with tax-free benefits for investors while algorithmic trading revolutionizes bond market efficiency and dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Overview of Single-Stock ETFs (Algo Trading)"
+title: "Overview of Single-Stock ETFs"
 description: "Explore the world of single-stock ETFs and algorithmic trading for targeted investments in specific stocks uncovering their benefits, risks, and trading strategies."
 ---
 

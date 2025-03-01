@@ -1,5 +1,5 @@
 ---
-title: "Undercast Phenomenon and Mechanism (Algo Trading)"
+title: "Undercast Phenomenon and Mechanism"
 description: "Explore the link between atmospheric phenomena and algo trading Learn how weather patterns like undercast influence markets and refine trading strategies"
 ---
 

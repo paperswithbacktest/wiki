@@ -1,5 +1,5 @@
 ---
-title: "Profit Margin Calculation (Algo Trading)"
+title: "Profit Margin Calculation"
 description: "Optimize your algorithmic trading strategy by understanding profit margins These essential financial ratios enhance decision-making and maximize profitability"
 ---
 

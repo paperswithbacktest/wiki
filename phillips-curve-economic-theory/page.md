@@ -1,5 +1,5 @@
 ---
-title: "Phillips Curve Economic Theory (Algo Trading)"
+title: "Phillips Curve Economic Theory"
 description: "Explore the relationship between inflation and unemployment through the Phillips Curve theory alongside the impact of algorithmic trading on these economic variables."
 ---
 

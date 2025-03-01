@@ -1,5 +1,5 @@
 ---
-title: "Task Force on Climate-Related Financial Disclosures (Algo Trading)"
+title: "Task Force on Climate-Related Financial Disclosures"
 description: "Explore the synergy between TCFD climate risk disclosures and algorithmic trading to enhance risk management and optimize strategies in financial markets."
 ---
 

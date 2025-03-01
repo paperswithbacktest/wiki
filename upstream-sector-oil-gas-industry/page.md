@@ -1,5 +1,5 @@
 ---
-title: "Upstream Sector in the Oil and Gas Industry (Algo Trading)"
+title: "Upstream Sector in the Oil and Gas Industry"
 description: "Explore the upstream sector of the oil and gas industry focusing on the role of algorithmic trading in enhancing exploration, production, and profitability."
 ---
 

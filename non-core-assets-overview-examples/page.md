@@ -1,5 +1,5 @@
 ---
-title: "Non-Core Assets: Overview and Examples (Algo Trading)"
+title: "Non-Core Assets: Overview and Examples"
 description: "Explore how non-core assets and algorithmic trading are revolutionizing financial strategies, improving liquidity, risk management, and asset optimization."
 ---
 

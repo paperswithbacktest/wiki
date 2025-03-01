@@ -1,5 +1,5 @@
 ---
-title: "Safety of Real Estate Investment (Algo Trading)"
+title: "Safety of Real Estate Investment"
 description: "Discover the synergy between real estate and algorithmic trading as we delve into investment safety enhanced by AI-driven strategies for profitable outcomes."
 ---
 

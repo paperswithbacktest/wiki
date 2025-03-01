@@ -1,5 +1,5 @@
 ---
-title: "Net Foreign Assets: Creditor and Debtor Status (Algo Trading)"
+title: "Net Foreign Assets: Creditor and Debtor Status"
 description: "Explore the intricate dynamics of net foreign assets and their impact on a nation's creditor or debtor status in the global economy with insights into algo trading strategies."
 ---
 

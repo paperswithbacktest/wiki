@@ -1,5 +1,5 @@
 ---
-title: "Quantamental approach (Algo Trading)"
+title: "Quantamental approach"
 description: Explore the quantamental approach, blending quantitative analysis with fundamental insights for optimized investment strategies. This hybrid method combines data-driven precision with qualitative depth, providing a competitive edge in dynamic financial markets. Discover how this powerful fusion aids algorithmic trading, enhances decision-making, and maintains adaptability in fluctuating economic conditions. Ideal for investors seeking superior risk-adjusted returns and strategic advantages through a balanced synthesis of data analytics and company evaluations.
 ---
 

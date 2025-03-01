@@ -1,5 +1,5 @@
 ---
-title: "Normal Distribution: Characteristics, Applications, and Formula (Algo Trading)"
+title: "Normal Distribution: Characteristics, Applications, and Formula"
 description: "Explore the role of normal distribution in algorithmic trading Understand its applications in predicting market behavior and enhancing risk assessment strategies"
 ---
 

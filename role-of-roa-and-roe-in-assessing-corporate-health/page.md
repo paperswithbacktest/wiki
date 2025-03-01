@@ -1,5 +1,5 @@
 ---
-title: "Role of ROA and ROE in Assessing Corporate Health (Algo Trading)"
+title: "Role of ROA and ROE in Assessing Corporate Health"
 description: "Explore how ROA and ROE, key financial ratios, measure corporate health and enhance algorithmic trading strategies for optimal investment decisions."
 ---
 

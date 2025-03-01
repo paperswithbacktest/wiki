@@ -1,5 +1,5 @@
 ---
-title: "Qsemble Capital Management (Algo Trading)"
+title: "Qsemble Capital Management"
 description: "Explore Qsemble Capital Management's innovative algorithmic trading strategies delivering high-speed data-driven investment solutions for maximized returns."
 ---
 

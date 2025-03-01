@@ -1,5 +1,5 @@
 ---
-title: "Run: Meaning, Functionality, and Example (Algo Trading)"
+title: "Run: Meaning, Functionality, and Example"
 description: "Explore the essentials of algorithmic trading including its significance functionality and practical examples to enhance trading strategies and market interactions."
 ---
 

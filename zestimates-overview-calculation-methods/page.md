@@ -1,5 +1,5 @@
 ---
-title: "Zestimates: Overview and Calculation Methods (Algo Trading)"
+title: "Zestimates: Overview and Calculation Methods"
 description: "Explore how Zillow's Zestimates leverage advanced algorithms for property valuations and the impact of technology on real estate, including algorithmic trading insights."
 ---
 

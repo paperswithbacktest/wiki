@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Wholesaling: Overview, Process, and Strategies (Algo Trading)"
+title: "Real Estate Wholesaling: Overview, Process, and Strategies"
 description: "Discover real estate wholesaling strategies and processes for fast-paced investment opportunities. Learn about the benefits of algo trading and property investment."
 ---
 

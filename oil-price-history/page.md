@@ -1,5 +1,5 @@
 ---
-title: "Oil Price History (Algo Trading)"
+title: "Oil Price History"
 description: "Explore the historical volatility of oil prices driven by geopolitics and economics and discover how algorithmic trading is transforming oil market strategies."
 ---
 

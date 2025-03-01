@@ -1,5 +1,5 @@
 ---
-title: "Trading Margin Excess: Definition, Mechanics, and Risks (Algo Trading)"
+title: "Trading Margin Excess: Definition, Mechanics, and Risks"
 description: "Explore trading margin excess, its mechanics, and associated risks in margin and algorithmic trading Get insights on managing financial exposures wisely"
 ---
 

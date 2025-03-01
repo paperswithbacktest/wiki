@@ -1,5 +1,5 @@
 ---
-title: "STARC Bands: Meaning and Calculation (Algo Trading)"
+title: "STARC Bands: Meaning and Calculation"
 description: "Explore the significance of STARC Bands in algorithmic trading. Learn how they help identify buy and sell opportunities and optimize trading strategies."
 ---
 

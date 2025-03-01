@@ -1,5 +1,5 @@
 ---
-title: "Profiting from Earnings Surprises with Straddles and Strangles (Algo Trading)"
+title: "Profiting from Earnings Surprises with Straddles and Strangles"
 description: "Profiting from earnings surprises using straddles and strangles can boost algorithmic trading returns during high market volatility events like company announcements."
 ---
 

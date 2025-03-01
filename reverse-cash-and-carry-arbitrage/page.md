@@ -1,5 +1,5 @@
 ---
-title: "Reverse Cash-and-Carry Arbitrage (Algo Trading)"
+title: "Reverse Cash-and-Carry Arbitrage"
 description: "Explore reverse cash-and-carry arbitrage using algorithmic trading to exploit market inefficiencies between spot and futures prices for potential profits."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Purple Chip Stocks (Algo Trading)"
+title: "Purple Chip Stocks"
 description: "Discover the potential of purple chip stocks in algorithmic trading Dive into the stability and robust earnings of purple chips plus tech-driven market advantages"
 ---
 

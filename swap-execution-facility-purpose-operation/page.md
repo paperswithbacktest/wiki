@@ -1,5 +1,5 @@
 ---
-title: "Swap Execution Facility: Purpose and Operation (Algo Trading)"
+title: "Swap Execution Facility: Purpose and Operation"
 description: "Swap Execution Facilities (SEFs) create a regulated and transparent environment for trading derivatives, enhancing market efficiency and reducing systemic risk."
 ---
 

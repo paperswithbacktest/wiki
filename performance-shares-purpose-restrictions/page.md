@@ -1,5 +1,5 @@
 ---
-title: "Performance Shares: Purpose and Restrictions (Algo Trading)"
+title: "Performance Shares: Purpose and Restrictions"
 description: "Explore the purpose and restrictions of performance shares in algo trading and understand their impact on aligning interests, optimizing performance, and driving value."
 ---
 

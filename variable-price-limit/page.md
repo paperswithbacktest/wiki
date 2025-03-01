@@ -1,5 +1,5 @@
 ---
-title: "Variable Price Limit (Algo Trading)"
+title: "Variable Price Limit"
 description: "Explore the crucial role of variable price limits in moderating volatility and maintaining stability in financial markets, especially in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Shares and Their Comparison to Stocks (Algo Trading)"
+title: "Shares and Their Comparison to Stocks"
 description: "Explore how shares and their synergy with algorithmic trading can enhance investment strategies and democratize access to sophisticated stock market opportunities."
 ---
 

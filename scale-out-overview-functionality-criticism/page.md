@@ -1,5 +1,5 @@
 ---
-title: "Scale Out: Overview, Functionality, and Criticism (Algo Trading)"
+title: "Scale Out: Overview, Functionality, and Criticism"
 description: "Explore how scaling in distributed systems, especially horizontal scaling, enhances algorithmic trading by improving efficiency and reliability with robust infrastructure."
 ---
 

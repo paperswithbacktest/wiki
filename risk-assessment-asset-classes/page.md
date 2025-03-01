@@ -1,5 +1,5 @@
 ---
-title: "Risk Assessment of Asset Classes (Algo Trading)"
+title: "Risk Assessment of Asset Classes"
 description: "Explore the world of finance by understanding the risks associated with asset classes and the role of algorithmic trading. Learn to balance risk and return in investments like equities, bonds, money markets, and real estate. Discover how algorithmic trading enhances decision-making and how statistical models aid in risk management for optimized returns."
 ---
 

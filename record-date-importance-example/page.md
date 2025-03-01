@@ -1,5 +1,5 @@
 ---
-title: "Record Date and Its Importance with Example (Algo Trading)"
+title: "Record Date and Its Importance with Example"
 description: "Discover the importance of record dates in dividend investing and algorithmic trading Learn how they impact shareholder eligibility and trading strategies"
 ---
 

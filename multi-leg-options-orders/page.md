@@ -1,5 +1,5 @@
 ---
-title: "Multi-Leg Options Orders (Algo Trading)"
+title: "Multi-Leg Options Orders"
 description: "Explore the world of multi-leg options orders and algorithmic trading in derivatives to enhance market strategies optimize efficiency and reduce trading costs."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Service Sector in the Economy (Algo Trading)"
+title: "Service Sector in the Economy"
 description: "Explore the impact of the service sector on the economy and discover how algorithmic trading transforms financial markets with speed and efficiency."
 ---
 

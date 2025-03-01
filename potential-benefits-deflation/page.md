@@ -1,5 +1,5 @@
 ---
-title: "Potential Benefits of Deflation (Algo Trading)"
+title: "Potential Benefits of Deflation"
 description: "Explore the unique advantages of deflation in algorithmic trading Learn how falling prices can enhance purchasing power and offer strategic opportunities in trading"
 ---
 

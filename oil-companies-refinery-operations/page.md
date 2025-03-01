@@ -1,5 +1,5 @@
 ---
-title: "Oil Companies and Refinery Operations (Algo Trading)"
+title: "Oil Companies and Refinery Operations"
 description: "Explore how refinery operations and algorithmic trading shape the oil industry, enhancing efficiency and adaptability in a dynamic market environment."
 ---
 

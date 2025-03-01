@@ -1,5 +1,5 @@
 ---
-title: "Slow Market: Definition and Mechanisms (Algo Trading)"
+title: "Slow Market: Definition and Mechanisms"
 description: "Explore the definition and mechanics of slow markets in algorithmic trading Learn how economic slowdowns alter trading strategies with evolving market dynamics"
 ---
 

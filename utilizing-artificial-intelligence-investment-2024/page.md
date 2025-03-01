@@ -1,5 +1,5 @@
 ---
-title: "Utilizing Artificial Intelligence for Investment in 2024 (Algo Trading)"
+title: "Utilizing Artificial Intelligence for Investment in 2024"
 description: "Explore how Artificial Intelligence is transforming investment strategies in 2024 with enhanced risk management predictive analysis and algorithmic trading."
 ---
 

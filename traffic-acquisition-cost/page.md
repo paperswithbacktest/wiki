@@ -1,5 +1,5 @@
 ---
-title: "Traffic Acquisition Cost (Algo Trading)"
+title: "Traffic Acquisition Cost"
 description: "Explore the Traffic Acquisition Cost's role in algorithmic trading, optimizing digital marketing expenses and enhancing online advertising profit margins."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Variable Cost Ratio and Calculation (Algo Trading)"
+title: "Variable Cost Ratio and Calculation"
 description: "Explore how mastering variable cost ratios can boost profitability in algorithmic trading Discover strategies to optimize expenses and enhance market competitiveness"
 ---
 

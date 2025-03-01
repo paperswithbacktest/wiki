@@ -1,5 +1,5 @@
 ---
-title: "Private Currency: Overview and Mechanisms (Algo Trading)"
+title: "Private Currency: Overview and Mechanisms"
 description: "Explore the transformative interplay of private currencies and algorithmic trading as they redefine financial markets and influence global economic systems."
 ---
 

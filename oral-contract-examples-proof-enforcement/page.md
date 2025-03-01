@@ -1,5 +1,5 @@
 ---
-title: "Oral Contract: Examples, Proof, and Enforcement (Algo Trading)"
+title: "Oral Contract: Examples, Proof, and Enforcement"
 description: "Explore the significance of oral contracts in algo trading understand their enforceability and ensure seamless operations with crucial principles of contract law."
 ---
 

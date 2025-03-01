@@ -1,5 +1,5 @@
 ---
-title: "Nicole Rohr Stephani: Biography and Contributions (Algo Trading)"
+title: "Nicole Rohr Stephani: Biography and Contributions"
 description: "Nicole Rohr Stephani blends content strategy with algorithmic trading, transforming digital communication in financial markets through innovation and insight."
 ---
 

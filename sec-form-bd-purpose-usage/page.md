@@ -1,5 +1,5 @@
 ---
-title: "SEC Form BD: Purpose and Usage (Algo Trading)"
+title: "SEC Form BD: Purpose and Usage"
 description: "Explore the key role of SEC Form BD in broker-dealer registration and its impact on algo trading. Discover its importance in regulatory compliance and market integrity."
 ---
 

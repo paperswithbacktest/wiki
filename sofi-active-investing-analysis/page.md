@@ -1,5 +1,5 @@
 ---
-title: "Analysis of SoFi Active Investing (Algo Trading)"
+title: "Analysis of SoFi Active Investing"
 description: "Explore SoFi's algorithmic trading solutions designed to democratize investing access. Discover how this innovative platform empowers investors with advanced strategies."
 ---
 

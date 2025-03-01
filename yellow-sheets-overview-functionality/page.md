@@ -1,5 +1,5 @@
 ---
-title: "Yellow Sheets: Overview and Functionality (Algo Trading)"
+title: "Yellow Sheets: Overview and Functionality"
 description: "Explore how Yellow Sheets and algorithmic trading are transforming financial markets by enhancing transparency and automating trade execution for investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Revenue Sources of the NBA (Algo Trading)"
+title: "Revenue Sources of the NBA"
 description: "Explore the lucrative revenue streams of the NBA including TV rights merchandise sponsorships and ticket sales while highlighting its innovative business strategies"
 ---
 

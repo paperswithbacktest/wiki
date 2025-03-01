@@ -1,5 +1,5 @@
 ---
-title: "Welfare Economics: Theory, Assumptions, and Criticism (Algo Trading)"
+title: "Welfare Economics: Theory, Assumptions, and Criticism"
 description: "Explore how welfare economics evaluates resource allocation to maximize social welfare while examining its relevance to algorithmic trading and economic policy."
 ---
 

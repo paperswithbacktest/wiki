@@ -1,5 +1,5 @@
 ---
-title: "Stock Gaps and Their Types with Examples and Analysis (Algo Trading)"
+title: "Stock Gaps and Their Types with Examples and Analysis"
 description: "Explore stock gaps types with examples and analysis for algorithmic trading. Learn about common breakaway runaway and exhaustion gaps in dynamic markets."
 ---
 

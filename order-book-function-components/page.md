@@ -1,5 +1,5 @@
 ---
-title: "Order Book: Function and Components (Algo Trading)"
+title: "Order Book: Function and Components"
 description: "Explore the function and components of order books in algorithmic trading to enhance market strategies and execution efficiency for optimized trading outcomes."
 ---
 

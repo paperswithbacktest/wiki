@@ -1,5 +1,5 @@
 ---
-title: "ProShares: Overview and Functionality (Algo Trading)"
+title: "ProShares: Overview and Functionality"
 description: "Discover ProShares' innovative ETFs and algorithmic trading strategies tailored to diverse investment goals Enhance your portfolio with strategic financial solutions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Turnkey Cost: Meaning, Functionality, and Examples (Algo Trading)"
+title: "Turnkey Cost: Meaning, Functionality, and Examples"
 description: "Discover the intricacies of turnkey cost management and algorithmic trading in business. Learn how to effectively budget projects and optimize investment strategies."
 ---
 

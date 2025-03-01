@@ -1,5 +1,5 @@
 ---
-title: "Working Capital Adjustments in Transfer Pricing (Algo Trading)"
+title: "Working Capital Adjustments in Transfer Pricing"
 description: "Discover the intricate relationship between working capital adjustments and transfer pricing in algorithmic trading Learn how these financial concepts interlink"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "To Be Announced in Mortgage-Backed Securities (Algo Trading)"
+title: "To Be Announced in Mortgage-Backed Securities"
 description: "Discover how algorithmic trading is transforming TBA mortgage-backed securities by enhancing liquidity speed and precision in a volatile market landscape."
 ---
 

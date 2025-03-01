@@ -1,5 +1,5 @@
 ---
-title: "Reaganomics Policies and Impact (Algo Trading)"
+title: "Reaganomics Policies and Impact"
 description: "Explore the interplay between Reaganomics and algorithmic trading how 1980s economic policy and technological innovation shaped modern financial markets."
 ---
 

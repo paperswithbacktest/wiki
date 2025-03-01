@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Dividend Stocks (Algo Trading)"
+title: "Purchasing Dividend Stocks"
 description: "Explore the dynamic intersection of dividend investing and algorithmic trading in this comprehensive article. Gain insights into how investors can blend traditional dividend stock strategies with advanced trading algorithms for optimized portfolios. Understand the benefits and risks of dividend stocks and learn how algorithmic trading enhances decision-making efficiency and market response. Access valuable knowledge to navigate the evolving stock market landscape and make informed financial choices."
 ---
 

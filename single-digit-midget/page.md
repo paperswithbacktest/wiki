@@ -1,5 +1,5 @@
 ---
-title: "Single-Digit Midget (Algo Trading)"
+title: "Single-Digit Midget"
 description: "Explore the terms "single-digit midget" and algorithmic trading to understand market shifts and investment strategies in the finance world."
 ---
 

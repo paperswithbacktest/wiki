@@ -1,5 +1,5 @@
 ---
-title: "Questions Investors Ask Management (Algo Trading)"
+title: "Questions Investors Ask Management"
 description: "Explore how investor relations, strategic management, and algorithmic trading interplay to shape investment decisions and market perceptions in modern finance."
 ---
 

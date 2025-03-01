@@ -1,5 +1,5 @@
 ---
-title: "Spread in Financial Trading (Algo Trading)"
+title: "Spread in Financial Trading"
 description: "Explore the essentials of spread and algorithmic trading in this comprehensive guide designed for both novice and experienced traders looking to enhance their strategies. Learn how spread trading capitalizes on price differences to mitigate risk and the ways algo trading utilizes computer programs to streamline trades and reduce errors for a competitive edge. Understand key terms like bid-ask spread and liquidity to master the dynamics of financial markets and improve trading outcomes. Stay informed and adaptable for success in the ever-evolving trading landscape."
 ---
 

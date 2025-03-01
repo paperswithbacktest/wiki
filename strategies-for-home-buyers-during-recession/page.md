@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Home Buyers During a Recession (Algo Trading)"
+title: "Strategies for Home Buyers During a Recession"
 description: "Explore strategies for successful home buying and algorithmic trading during recessions. Learn how to capitalize on economic opportunities and navigate market volatility."
 ---
 

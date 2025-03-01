@@ -1,5 +1,5 @@
 ---
-title: "Negative Amortization Limit (Algo Trading)"
+title: "Negative Amortization Limit"
 description: "Explore negative amortization loans limits and algorithmic trading in finance. Learn how these concepts impact investment strategies and financial risk management."
 ---
 

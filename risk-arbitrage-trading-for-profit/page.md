@@ -1,5 +1,5 @@
 ---
-title: "Risk Arbitrage Trading for Profit (Algo Trading)"
+title: "Risk Arbitrage Trading for Profit"
 description: "Explore the dynamics of risk arbitrage and algorithmic trading to capitalize on market inefficiencies This guide reveals strategies to enhance investment returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Overview of Popular Financial Derivatives (Algo Trading)"
+title: "Overview of Popular Financial Derivatives"
 description: "Explore the role of financial derivatives like options, futures, and swaps, and how algorithmic trading enhances their effectiveness in managing risk and speculation."
 ---
 

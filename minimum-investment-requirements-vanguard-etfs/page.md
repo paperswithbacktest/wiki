@@ -1,5 +1,5 @@
 ---
-title: "Minimum Investment Requirements for Vanguard ETFs (Algo Trading)"
+title: "Minimum Investment Requirements for Vanguard ETFs"
 description: "Discover the potential advantages of Vanguard ETFs and algorithmic trading for individual investors with minimal resources. Learn how Vanguard's lack of minimum investment requirements allows even modest investors to engage in diverse portfolios, while algorithmic trading offers dynamic tools for strategic decisions. Explore essential insights on low-cost, flexible Vanguard ETFs and the benefits of technology-driven trading to empower your financial journey."
 ---
 

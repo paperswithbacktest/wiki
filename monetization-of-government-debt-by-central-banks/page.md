@@ -1,5 +1,5 @@
 ---
-title: "Monetization of Government Debt by Central Banks (Algo Trading)"
+title: "Monetization of Government Debt by Central Banks"
 description: "Explore how central banks manage government debt monetization, the role of algorithmic trading, and their combined impact on economic stability and inflation."
 ---
 

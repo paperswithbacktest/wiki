@@ -1,5 +1,5 @@
 ---
-title: "Office of Thrift Supervision: Overview and Functions (Algo Trading)"
+title: "Office of Thrift Supervision: Overview and Functions"
 description: "Explore the legacy of the Office of Thrift Supervision and its impact on financial oversight while examining algorithmic trading's role in modern markets."
 ---
 

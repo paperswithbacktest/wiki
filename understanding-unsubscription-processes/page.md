@@ -1,5 +1,5 @@
 ---
-title: "Understanding Unsubscription Processes (Algo Trading)"
+title: "Understanding Unsubscription Processes"
 description: "Explore the significance of seamless unsubscription processes in email marketing, balancing legal compliance and consumer trust to enhance brand reputation."
 ---
 

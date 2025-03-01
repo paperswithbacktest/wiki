@@ -1,5 +1,5 @@
 ---
-title: "Psychological Strategies for Coping with Loss (Algo Trading)"
+title: "Psychological Strategies for Coping with Loss"
 description: "Learn psychological strategies to effectively manage emotional responses and stress from trading losses in algorithmic trading to improve decision-making and resilience."
 ---
 

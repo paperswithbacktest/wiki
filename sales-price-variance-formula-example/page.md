@@ -1,5 +1,5 @@
 ---
-title: "Sales Price Variance: Formula and Example (Algo Trading)"
+title: "Sales Price Variance: Formula and Example"
 description: "Discover the intricacies of sales price variance in algorithmic trading Learn formulas examples and strategies to optimize trading decisions and financial performance"
 ---
 

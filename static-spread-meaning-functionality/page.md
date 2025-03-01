@@ -1,5 +1,5 @@
 ---
-title: "Static Spread: Meaning and Functionality (Algo Trading)"
+title: "Static Spread: Meaning and Functionality"
 description: "Discover how understanding static and bond spreads enhances algorithmic trading by improving decision-making, optimizing trade execution, and increasing profitability."
 ---
 

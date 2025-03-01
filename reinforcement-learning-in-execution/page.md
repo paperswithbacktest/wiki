@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning in Execution (Algo Trading)"
+title: "Reinforcement Learning in Execution"
 description: "Explore the impact of reinforcement learning on execution strategies in algorithmic trading and its role in enhancing decision-making processes through continual learning."
 ---
 

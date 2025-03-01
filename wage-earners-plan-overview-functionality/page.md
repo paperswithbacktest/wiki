@@ -1,5 +1,5 @@
 ---
-title: "Wage Earner's Plan: Overview and Functionality (Algo Trading)"
+title: "Wage Earner's Plan: Overview and Functionality"
 description: "Discover the synergy between Chapter 13 bankruptcy, known as the Wage Earner's Plan, and algorithmic trading for financial reorganization and growth."
 ---
 

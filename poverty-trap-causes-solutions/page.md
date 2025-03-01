@@ -1,5 +1,5 @@
 ---
-title: "Poverty Trap: Causes and Solutions (Algo Trading)"
+title: "Poverty Trap: Causes and Solutions"
 description: "Explore the self-reinforcing mechanisms of poverty traps and discover economic, socio-political, and environmental solutions, including algorithmic trading strategies."
 ---
 

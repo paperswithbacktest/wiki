@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 424B2: Purpose and Functionality (Algo Trading)"
+title: "SEC Form 424B2: Purpose and Functionality"
 description: "Learn the purpose and functionality of SEC Form 424B2 in securities offerings and algorithmic trading highlighting its role in transparency and market dynamics."
 ---
 

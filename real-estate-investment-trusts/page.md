@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Investment Trusts (Algo Trading)"
+title: "Real Estate Investment Trusts"
 description: "Explore the benefits of integrating algorithmic trading with Real Estate Investment Trusts REITs to enhance precision and optimize investment strategies."
 ---
 

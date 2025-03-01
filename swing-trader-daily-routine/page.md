@@ -1,5 +1,5 @@
 ---
-title: "Swing Trader Daily Routine (Algo Trading)"
+title: "Swing Trader Daily Routine"
 description: "Unlock the secrets of swing trading with an effective daily routine that blends technical and fundamental analysis to enhance market performance."
 ---
 

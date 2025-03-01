@@ -1,5 +1,5 @@
 ---
-title: "Target Date Funds Investment Guide for Millennials (Algo Trading)"
+title: "Target Date Funds Investment Guide for Millennials"
 description: "Explore how target date funds can simplify retirement planning for millennials offering automatic asset allocation and integrating algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Parity Price in Investing (Algo Trading)"
+title: "Parity Price in Investing"
 description: "Learn about parity price, financial formulas, and algorithmic trading to enhance your investment strategy. Discover how these concepts optimize portfolio decisions."
 ---
 

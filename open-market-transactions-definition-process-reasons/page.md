@@ -1,5 +1,5 @@
 ---
-title: "Open-Market Transactions: Definition, Process, and Reasons (Algo Trading)"
+title: "Open-Market Transactions: Definition, Process, and Reasons"
 description: "Explore open-market transactions and the rise of algo trading Learn about their impact on financial markets and how they offer insights and opportunities for investors"
 ---
 

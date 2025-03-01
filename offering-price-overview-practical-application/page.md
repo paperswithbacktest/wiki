@@ -1,5 +1,5 @@
 ---
-title: "Offering Price: Overview and Practical Application (Algo Trading)"
+title: "Offering Price: Overview and Practical Application"
 description: "This guide investigates into IPO pricing strategies exploring factors like offering prices, underwriter roles, and market influences to ensure successful public transitions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Noon Average Rate Contract (Algo Trading)"
+title: "Noon Average Rate Contract"
 description: "Explore the transformative role of Noon Average Rate Contracts in currency markets and how their principles inform modern algorithmic trading strategies."
 ---
 

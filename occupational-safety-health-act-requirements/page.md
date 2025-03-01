@@ -1,5 +1,5 @@
 ---
-title: "Occupational Safety and Health Act Requirements (Algo Trading)"
+title: "Occupational Safety and Health Act Requirements"
 description: "Explore the intersection of OSHA and algorithmic trading to understand compliance requirements and workplace safety amidst rapid technological advancements."
 ---
 

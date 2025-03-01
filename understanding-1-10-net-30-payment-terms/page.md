@@ -1,5 +1,5 @@
 ---
-title: "Understanding 1%/10 Net 30 Payment Terms (Algo Trading)"
+title: "Understanding 1%/10 Net 30 Payment Terms"
 description: "Explore 1%/10 Net 30 payment terms to optimize cash flow with algorithmic trading. Learn how early payment discounts benefit buyers and sellers alike."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Types of Private Sector Businesses (Algo Trading)"
+title: "Types of Private Sector Businesses"
 description: "Discover the diverse private sector business structures and how algorithmic trading enhances operational efficiency in financial markets with rapid data analysis."
 ---
 

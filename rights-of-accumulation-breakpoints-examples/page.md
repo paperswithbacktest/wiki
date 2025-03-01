@@ -1,5 +1,5 @@
 ---
-title: "Rights of Accumulation: Breakpoints and Examples (Algo Trading)"
+title: "Rights of Accumulation: Breakpoints and Examples"
 description: "Explore how Rights of Accumulation and investment breakpoints reduce mutual fund sales charges helping investors optimize costs and maximize returns."
 ---
 

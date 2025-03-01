@@ -1,5 +1,5 @@
 ---
-title: "Targeting Breakouts in Technical Analysis (Algo Trading)"
+title: "Targeting Breakouts in Technical Analysis"
 description: "Discover how breakout strategies in technical analysis and algorithmic trading can enhance your trading approach by identifying and capitalizing on key market trends."
 ---
 

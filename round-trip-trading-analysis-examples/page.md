@@ -1,5 +1,5 @@
 ---
-title: "Round-Trip Trading: Analysis and Examples (Algo Trading)"
+title: "Round-Trip Trading: Analysis and Examples"
 description: "Discover the complexities of round-trip trading in the financial world including its ethical implications and role in algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sunshine Trade (Algo Trading)"
+title: "Sunshine Trade"
 description: "Explore sunshine trades an emerging strategy in financial markets prioritizing transparency by publicly disclosing transactions to reduce market speculation and lower costs."
 ---
 

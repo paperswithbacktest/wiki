@@ -1,5 +1,5 @@
 ---
-title: "XRP Overview (Algo Trading)"
+title: "XRP Overview"
 description: "Discover the dynamic world of XRP crypto trading enhanced by algorithmic strategies speeding transactions ensuring efficiency and maximizing potential."
 ---
 

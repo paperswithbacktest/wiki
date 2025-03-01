@@ -1,5 +1,5 @@
 ---
-title: "United States COVID-19 Economic Stimulus and Relief (Algo Trading)"
+title: "United States COVID-19 Economic Stimulus and Relief"
 description: "Explore how US COVID-19 economic stimulus efforts intersected with algorithmic trading as traders adapted strategies in a volatile, liquidity-rich environment."
 ---
 

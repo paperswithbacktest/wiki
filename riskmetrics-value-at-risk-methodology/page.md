@@ -1,5 +1,5 @@
 ---
-title: "RiskMetrics in Value at Risk Methodology (Algo Trading)"
+title: "RiskMetrics in Value at Risk Methodology"
 description: "Explore how RiskMetrics enhances risk management in algorithmic trading, enabling traders to estimate potential losses efficiently using the Value at Risk methodology."
 ---
 

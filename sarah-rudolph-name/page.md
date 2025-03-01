@@ -1,5 +1,5 @@
 ---
-title: "Sarah Rudolph (Name) (Algo Trading)"
+title: "Sarah Rudolph (Name)"
 description: "Sarah Rudolph is a renowned Editor-in-Chief at John Lothian News known for insightful, accessible analysis of global financial and trading markets."
 ---
 

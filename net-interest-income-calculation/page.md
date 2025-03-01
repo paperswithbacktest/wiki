@@ -1,5 +1,5 @@
 ---
-title: "Net Interest Income: Definition and Calculation (Algo Trading)"
+title: "Net Interest Income: Definition and Calculation"
 description: "Discover how net interest income impacts bank profitability and the role of algorithmic trading in shaping interest calculations and profits in banking."
 ---
 

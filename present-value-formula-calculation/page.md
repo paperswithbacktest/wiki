@@ -1,5 +1,5 @@
 ---
-title: "Present Value: Formula and Calculation (Algo Trading)"
+title: "Present Value: Formula and Calculation"
 description: "Discover how the present value formula is crucial in algorithmic trading for making informed investment decisions by understanding future cash flow valuations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Support and resistance (Algo Trading)"
+title: "Support and resistance"
 description: Discover the key concepts of support and resistance levels in stock market trading through this detailed guide. Understanding how to identify these critical price points allows traders to anticipate market movements and make informed trading decisions. Explore both proactive and reactive techniques in algorithmic trading to automate strategies, minimize emotional reactions, and leverage historical and predicted price behaviors for optimal outcomes. Dive into trend lines, pivot calculations, and pattern analysis to enhance your trading strategies and better navigate the dynamic financial markets.
 ---
 

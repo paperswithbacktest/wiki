@@ -1,5 +1,5 @@
 ---
-title: "Yield to Maturity and Its Mechanics (Algo Trading)"
+title: "Yield to Maturity and Its Mechanics"
 description: "Explore the vital role of Yield to Maturity in bond investments and algorithmic trading to boost trading strategies and optimize financial outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Price-Earnings Relative (Algo Trading)"
+title: "Price-Earnings Relative"
 description: "Enhance your trading strategies by understanding P/E and PEG ratios in stock valuation and their application in algorithmic trading for informed decisions."
 ---
 

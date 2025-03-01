@@ -1,5 +1,5 @@
 ---
-title: "Speculation Index: Analysis, Criticism, and Alternatives (Algo Trading)"
+title: "Speculation Index: Analysis, Criticism, and Alternatives"
 description: "Explore how the Speculation Index offers insights into market sentiment within algorithmic trading and guides investors in understanding speculative behavior in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Uniform Partnership Act: Concepts and FAQs (Algo Trading)"
+title: "Uniform Partnership Act: Concepts and FAQs"
 description: "Explore the Uniform Partnership Act's key concepts and FAQs for modern business partnerships and algorithmic trading. Understand its legal framework and relevance today."
 ---
 

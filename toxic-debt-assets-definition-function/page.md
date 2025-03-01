@@ -1,5 +1,5 @@
 ---
-title: "Toxic Debt and Assets: Definition and Function (Algo Trading)"
+title: "Toxic Debt and Assets: Definition and Function"
 description: "Understand the intricacies of toxic debt and assets and their impact on financial stability through algorithmic trading dynamics. Explore strategies to mitigate risks."
 ---
 

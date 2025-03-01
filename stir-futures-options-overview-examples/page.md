@@ -1,5 +1,5 @@
 ---
-title: "STIR Futures and Options: Overview and Examples (Algo Trading)"
+title: "STIR Futures and Options: Overview and Examples"
 description: "Explore STIR futures and options trading, emphasizing algorithmic strategies in volatile markets. Learn how derivatives aid in hedging, speculation, and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Units Per Transaction (UPT) and Calculation Methods (Algo Trading)"
+title: "Units Per Transaction (UPT) and Calculation Methods"
 description: "Discover how Units Per Transaction (UPT) can enhance retail strategies and performance Dive into calculation methods and learn how algorithmic trading aids success"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Risk-On Risk-Off Trading Strategy Explained (Algo Trading)"
+title: "Risk-On Risk-Off Trading Strategy Explained"
 description: Explore the 'risk on risk off' trading strategy essential for traders to assess market sentiment and align investments with risk appetite trends. Discover how algorithmic trading leverages these indicators to dynamically adjust asset allocation increasing portfolio adaptability and enhancing returns. Uncover which assets thrive in varying market conditions to optimize your trading performance.
 ---
 

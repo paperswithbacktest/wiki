@@ -1,5 +1,5 @@
 ---
-title: "Tertiary Recovery: Mechanisms and Applications (Algo Trading)"
+title: "Tertiary Recovery: Mechanisms and Applications"
 description: "Explore enhanced oil recovery techniques thermal gas and chemical injections to maximize oil extraction efficiency and align with modern trading strategies."
 ---
 

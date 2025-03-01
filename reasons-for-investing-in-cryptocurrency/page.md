@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Investing in Cryptocurrency (Algo Trading)"
+title: "Reasons for Investing in Cryptocurrency"
 description: "Discover the synergy of cryptocurrency and algorithmic trading to enhance trading efficiency and returns with data-driven decisions and rapid execution."
 ---
 

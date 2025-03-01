@@ -1,5 +1,5 @@
 ---
-title: "Warranty of Title: Definition and Mechanism (Algo Trading)"
+title: "Warranty of Title: Definition and Mechanism"
 description: "Explore how the warranty of title ensures legal ownership transfer and its impact on algorithmic trading markets fostering trust and stability in digital finance."
 ---
 

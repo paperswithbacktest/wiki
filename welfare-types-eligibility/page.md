@@ -1,5 +1,5 @@
 ---
-title: "Welfare: Types and Eligibility (Algo Trading)"
+title: "Welfare: Types and Eligibility"
 description: "Explore how welfare systems and algorithmic trading intersect within socio-economic and financial realms examining welfare types eligibility and trading's market impact."
 ---
 

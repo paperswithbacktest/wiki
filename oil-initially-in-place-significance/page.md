@@ -1,5 +1,5 @@
 ---
-title: "Oil Initially In Place and Its Significance (Algo Trading)"
+title: "Oil Initially In Place and Its Significance"
 description: "Discover the significance of Oil Initially in Place (OIIP) in the oil and gas industry and the innovative role of algorithmic trading in oil reserve investments."
 ---
 

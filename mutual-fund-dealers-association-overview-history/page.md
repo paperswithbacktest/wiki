@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Dealers Association: Overview and History (Algo Trading)"
+title: "Mutual Fund Dealers Association: Overview and History"
 description: "Discover how the Mutual Fund Dealers Association regulates Canada's mutual fund dealers amidst the rise of algorithmic trading ensuring market integrity and investor protection."
 ---
 

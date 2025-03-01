@@ -1,5 +1,5 @@
 ---
-title: "Methods Used by the SEC to Monitor Insider Trading (Algo Trading)"
+title: "Methods Used by the SEC to Monitor Insider Trading"
 description: "Discover how the SEC leverages algorithmic tools and data analytics to monitor insider trading and ensure fairness and transparency in financial markets."
 ---
 

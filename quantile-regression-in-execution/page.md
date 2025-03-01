@@ -1,5 +1,5 @@
 ---
-title: "quantile regression in execution (Algo Trading)"
+title: "quantile regression in execution"
 description: "Quantile regression enhances algo trading by modeling asset return distributions enabling improved risk management and strategy optimization under varying market conditions."
 ---
 

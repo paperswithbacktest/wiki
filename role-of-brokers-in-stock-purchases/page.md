@@ -1,5 +1,5 @@
 ---
-title: "Role of Brokers in Stock Purchases (Algo Trading)"
+title: "Role of Brokers in Stock Purchases"
 description: "Explore the essential role brokers play in stock purchases, focusing on the selection of online and traditional broker options to enhance trading experiences. Delve into algorithmic trading strategies that leverage technology for optimal stock market navigation, enabling investors to make informed and strategic decisions for potential return maximization. Discover how different stock order types and broker choices impact trade execution and investment outcomes."
 ---
 

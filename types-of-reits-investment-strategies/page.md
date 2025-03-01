@@ -1,5 +1,5 @@
 ---
-title: "Types of REITs and Investment Strategies (Algo Trading)"
+title: "Types of REITs and Investment Strategies"
 description: "Explore the benefits of investing in REITs and algorithmic trading to enhance portfolio diversification and performance with modern real estate strategies."
 ---
 

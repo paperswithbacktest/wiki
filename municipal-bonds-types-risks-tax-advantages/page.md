@@ -1,5 +1,5 @@
 ---
-title: "Municipal Bonds: Types, Risks, and Tax Advantages (Algo Trading)"
+title: "Municipal Bonds: Types, Risks, and Tax Advantages"
 description: "Discover the benefits and risks of municipal bonds as a tax-efficient investment choice Explore how algorithmic trading is enhancing their market dynamics"
 ---
 

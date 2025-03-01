@@ -1,5 +1,5 @@
 ---
-title: "Steam-Assisted Gravity Drainage (Algo Trading)"
+title: "Steam-Assisted Gravity Drainage"
 description: "Explore how Steam-Assisted Gravity Drainage revolutionizes heavy oil recovery, and discover its synergy with algorithmic trading in modern energy markets."
 ---
 

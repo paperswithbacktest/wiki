@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with 3x ETFs (Algo Trading)"
+title: "Risks Associated with 3x ETFs"
 description: "Explore the significant risks of 3x ETFs and algorithmic trading highlighting potential losses due to volatility and leverage while emphasizing risk management."
 ---
 

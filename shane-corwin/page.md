@@ -1,5 +1,5 @@
 ---
-title: "Shane Corwin (Algo Trading)"
+title: "Shane Corwin"
 description: "Discover Shane Corwin's esteemed career in finance academia focusing on algorithmic trading and financial modeling shaping market efficiency and education."
 ---
 

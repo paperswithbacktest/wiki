@@ -1,5 +1,5 @@
 ---
-title: "Subscription Agreement: Components and Regulations (Algo Trading)"
+title: "Subscription Agreement: Components and Regulations"
 description: "Explore the critical role of Subscription Agreements in algorithmic trading and discover how these legal contracts ensure compliance and secure investor rights."
 ---
 

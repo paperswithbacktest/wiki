@@ -1,5 +1,5 @@
 ---
-title: "Risk-Free Rate of Return (Algo Trading)"
+title: "Risk-Free Rate of Return"
 description: "Explore the critical roles of ROI, the risk-free rate, and algorithmic trading in financial decision-making Gain insights into these fundamental investment concepts"
 ---
 

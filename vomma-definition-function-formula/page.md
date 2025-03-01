@@ -1,5 +1,5 @@
 ---
-title: "Vomma: Definition, Function, and Formula (Algo Trading)"
+title: "Vomma: Definition, Function, and Formula"
 description: "Explore Vomma's role in options trading and algorithmic strategies Learn how this Greek helps optimize risk management and improve trading performance"
 ---
 

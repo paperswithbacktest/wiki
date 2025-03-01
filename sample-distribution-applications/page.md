@@ -1,5 +1,5 @@
 ---
-title: "Sample Distribution and Applications (Algo Trading)"
+title: "Sample Distribution and Applications"
 description: "Discover how statistical sampling distributions and Monte Carlo simulations enhance algorithmic trading by refining strategies and improving decision-making."
 ---
 

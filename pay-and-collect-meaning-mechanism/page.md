@@ -1,5 +1,5 @@
 ---
-title: "Pay and Collect: Meaning and Mechanism (Algo Trading)"
+title: "Pay and Collect: Meaning and Mechanism"
 description: "Explore the meaning and mechanism of pay and collect in algo trading and understand how technology transforms transactions and financial operations."
 ---
 

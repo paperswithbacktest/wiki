@@ -1,5 +1,5 @@
 ---
-title: "Trendline in Investing: Definition and Usage (Algo Trading)"
+title: "Trendline in Investing: Definition and Usage"
 description: "Explore how trendlines enhance algorithmic trading by identifying market trends, aiding in strategic decisions, and offering insights for optimal trade execution."
 ---
 

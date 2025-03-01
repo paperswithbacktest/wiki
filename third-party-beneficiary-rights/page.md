@@ -1,5 +1,5 @@
 ---
-title: "Third-Party Beneficiary Rights (Algo Trading)"
+title: "Third-Party Beneficiary Rights"
 description: "Explore the intricate interplay between third-party beneficiary rights and algorithmic trading examining how contracts impact stakeholders in automated trading environments."
 ---
 

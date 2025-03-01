@@ -1,5 +1,5 @@
 ---
-title: "Skills Sought by Hedge Funds in Candidates (Algo Trading)"
+title: "Skills Sought by Hedge Funds in Candidates"
 description: "Discover the key skills top hedge funds seek in candidates for algorithmic trading roles including quantitative expertise and personal traits essential for success."
 ---
 

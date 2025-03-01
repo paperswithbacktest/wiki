@@ -1,5 +1,5 @@
 ---
-title: "Sidecar Investment (Algo Trading)"
+title: "Sidecar Investment"
 description: "Explore sidecar investing and algorithmic trading as innovative strategies in today's investment world Discover how these approaches optimize returns and manage risks"
 ---
 

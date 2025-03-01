@@ -1,5 +1,5 @@
 ---
-title: "Sanku Pattern: Three Gaps Analysis and Examples (Algo Trading)"
+title: "Sanku Pattern: Three Gaps Analysis and Examples"
 description: "Explore the Sanku Pattern also known as the Three Gaps Pattern a key tool in technical analysis. Learn how to leverage it in algo trading for better decisions."
 ---
 

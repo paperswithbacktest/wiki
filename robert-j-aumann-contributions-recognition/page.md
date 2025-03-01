@@ -1,5 +1,5 @@
 ---
-title: "Robert J. Aumann: Contributions and Recognition (Algo Trading)"
+title: "Robert J. Aumann: Contributions and Recognition"
 description: "Discover Robert J. Aumann's groundbreaking contributions to game theory and their impact on algorithmic trading enhancing strategic decision-making and market analysis."
 ---
 

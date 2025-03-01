@@ -1,5 +1,5 @@
 ---
-title: "Proportional Spread and Its Mechanisms (Algo Trading)"
+title: "Proportional Spread and Its Mechanisms"
 description: "Explore the intricacies of proportional spreads in algorithmic trading to understand how they influence market efficiency and decision-making in spread trading strategies."
 ---
 

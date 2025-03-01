@@ -1,5 +1,5 @@
 ---
-title: "Total Revenue Test in Economics (Algo Trading)"
+title: "Total Revenue Test in Economics"
 description: "Explore the role of the total revenue test in economics and algorithmic trading. Understand demand elasticity to enhance pricing strategies and boost profitability."
 ---
 

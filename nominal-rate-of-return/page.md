@@ -1,5 +1,5 @@
 ---
-title: "Nominal Rate of Return (Algo Trading)"
+title: "Nominal Rate of Return"
 description: "Explore the significance of nominal rate of return in investment strategies alongside algorithmic trading. Learn how these concepts influence profitability and decision-making."
 ---
 

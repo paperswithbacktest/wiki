@@ -1,5 +1,5 @@
 ---
-title: "Types of Investment Notes (Algo Trading)"
+title: "Types of Investment Notes"
 description: "Explore diverse investment notes in algorithmic trading emphasizing stocks bonds and innovative tech-driven options to manage risk and maximize returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SEC Schedule 13E-3: Purpose and Mechanism (Algo Trading)"
+title: "SEC Schedule 13E-3: Purpose and Mechanism"
 description: "Explore how SEC Schedule 13E-3 impacts algorithmic trading by ensuring transparency in going-private transactions Dive into regulatory influence on trading dynamics"
 ---
 

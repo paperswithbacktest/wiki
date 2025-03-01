@@ -1,5 +1,5 @@
 ---
-title: "Variance in Statistics: Explanation, Formula, and Example (Algo Trading)"
+title: "Variance in Statistics: Explanation, Formula, and Example"
 description: "Learn about the critical role of variance in algorithmic trading and its impact on financial strategies. This article explores variance calculation, its significance in risk assessment, and methods to manage variability in trading returns. Discover how understanding variance can enhance decision-making and optimize performance in the fast-paced world of algo trading."
 ---
 

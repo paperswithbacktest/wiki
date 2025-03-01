@@ -1,5 +1,5 @@
 ---
-title: "Top Hedges for S&P 500 Decline (Algo Trading)"
+title: "Top Hedges for S&P 500 Decline"
 description: "Discover top hedging strategies using algorithmic trading to protect your investments during S&P 500 declines Learn to enhance your trading precision and efficiency"
 ---
 

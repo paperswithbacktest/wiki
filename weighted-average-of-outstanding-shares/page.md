@@ -1,5 +1,5 @@
 ---
-title: "Weighted Average of Outstanding Shares (Algo Trading)"
+title: "Weighted Average of Outstanding Shares"
 description: "Explore the significance of calculating the weighted average of outstanding shares in financial analysis and algorithmic trading to enhance decision-making and strategy."
 ---
 

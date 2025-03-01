@@ -1,5 +1,5 @@
 ---
-title: "Trading Volume Analysis and Interpretation (Algo Trading)"
+title: "Trading Volume Analysis and Interpretation"
 description: "Explore the role of trading volume in financial markets analysis and its synergy with algorithmic trading strategies to enhance trade decisions and market insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pitfalls of Relative Valuation (Algo Trading)"
+title: "Pitfalls of Relative Valuation"
 description: "Explore the risks of relative valuation in algorithmic trading Understand how comparing financial assets can impact investment strategies and decisions in dynamic markets"
 ---
 

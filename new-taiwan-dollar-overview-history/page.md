@@ -1,5 +1,5 @@
 ---
-title: "New Taiwan Dollar: Overview and History (Algo Trading)"
+title: "New Taiwan Dollar: Overview and History"
 description: "Explore the significance of the New Taiwan Dollar in Taiwan's economy including its history and role in algorithmic trading and the Forex market."
 ---
 

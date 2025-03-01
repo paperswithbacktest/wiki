@@ -1,5 +1,5 @@
 ---
-title: "Severability Clauses in Contracts (Algo Trading)"
+title: "Severability Clauses in Contracts"
 description: "Explore the importance of severability clauses in algorithmic trading contracts ensuring stability by maintaining enforceability when specific terms are invalidated."
 ---
 

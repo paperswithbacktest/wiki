@@ -1,5 +1,5 @@
 ---
-title: "Peg Ratio and Value Stock Identification (Algo Trading)"
+title: "Peg Ratio and Value Stock Identification"
 description: "Discover how the PEG ratio enhances stock valuation in value investing and algorithmic trading Unlock insights on optimizing portfolios with data-driven strategies"
 ---
 

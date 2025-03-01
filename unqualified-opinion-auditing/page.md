@@ -1,5 +1,5 @@
 ---
-title: "Unqualified Opinion in Auditing (Algo Trading)"
+title: "Unqualified Opinion in Auditing"
 description: "Explore the link between unqualified audit opinions and algorithmic trading This ensures data integrity enhancing risk management and investment outcomes"
 ---
 

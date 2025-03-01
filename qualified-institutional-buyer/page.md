@@ -1,5 +1,5 @@
 ---
-title: "Qualified Institutional Buyer (Algo Trading)"
+title: "Qualified Institutional Buyer"
 description: "Explore the role of Qualified Institutional Buyers in algorithmic trading examining their impact on market liquidity and investment strategies within private securities transactions."
 ---
 

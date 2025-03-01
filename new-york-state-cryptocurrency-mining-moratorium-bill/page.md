@@ -1,5 +1,5 @@
 ---
-title: "New York State Cryptocurrency Mining Moratorium Bill (Algo Trading)"
+title: "New York State Cryptocurrency Mining Moratorium Bill"
 description: "Explore New York's legislative response to crypto mining environmental impacts with the Cryptocurrency Mining Moratorium Bill balancing innovation and sustainability."
 ---
 

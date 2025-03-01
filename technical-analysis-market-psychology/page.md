@@ -1,5 +1,5 @@
 ---
-title: "Technical Analysis and Market Psychology (Algo Trading)"
+title: "Technical Analysis and Market Psychology"
 description: "Explore the synergy of technical analysis, market psychology, and algorithmic trading to enhance trading strategies and anticipate financial market trends."
 ---
 

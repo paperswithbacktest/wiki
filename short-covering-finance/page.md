@@ -1,5 +1,5 @@
 ---
-title: "Short Covering in Finance (Algo Trading)"
+title: "Short Covering in Finance"
 description: "Discover the intricacies of short covering in finance learn how it impacts market dynamics and explore the role of algorithmic trading in optimizing strategies"
 ---
 

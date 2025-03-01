@@ -1,5 +1,5 @@
 ---
-title: "On-Chain vs Off-Chain Governance in Blockchain (Algo Trading)"
+title: "On-Chain vs Off-Chain Governance in Blockchain"
 description: "Explore the key differences between on-chain and off-chain governance in blockchain and their impact on algorithmic trading strategies in this insightful guide."
 ---
 

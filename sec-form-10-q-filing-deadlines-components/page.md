@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 10-Q: Filing Deadlines and Components (Algo Trading)"
+title: "SEC Form 10-Q: Filing Deadlines and Components"
 description: "Explore the SEC Form 10-Q for insights into quarterly financial health and strategic advantages for algorithmic traders through timely, detailed disclosures."
 ---
 

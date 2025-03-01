@@ -1,5 +1,5 @@
 ---
-title: "Putable Swap (Algo Trading)"
+title: "Putable Swap"
 description: "Explore the dynamics of putable swaps in algorithmic trading which offer strategic flexibility in managing interest rate risks and optimizing financial outcomes."
 ---
 

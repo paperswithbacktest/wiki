@@ -1,5 +1,5 @@
 ---
-title: "Underwriting Agreement and Types (Algo Trading)"
+title: "Underwriting Agreement and Types"
 description: "Explore the roles of underwriting agreements and financial contracts in algorithmic trading Learn how they facilitate securities issuance and strategic trading strategies"
 ---
 

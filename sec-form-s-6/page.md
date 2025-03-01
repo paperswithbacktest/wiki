@@ -1,5 +1,5 @@
 ---
-title: "SEC Form S-6 (Algo Trading)"
+title: "SEC Form S-6"
 description: "Discover how SEC Form S-6 regulates the fast-evolving world of algo trading by ensuring transparency and protecting investor interests in algorithm-driven UITs."
 ---
 

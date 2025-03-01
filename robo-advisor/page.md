@@ -1,5 +1,5 @@
 ---
-title: "Robo-Advisor (Algo Trading)"
+title: "Robo-Advisor"
 description: "Explore the rise of robo-advisors and algorithmic trading in finance, showcasing their efficiency and accessibility while highlighting potential risks and benefits."
 ---
 

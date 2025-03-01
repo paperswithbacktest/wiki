@@ -1,5 +1,5 @@
 ---
-title: "Reserve Currency: History and Role of the U.S. Dollar (Algo Trading)"
+title: "Reserve Currency: History and Role of the U.S. Dollar"
 description: "Discover the history of the U.S. Dollar's rise as the world's reserve currency and the impact of algorithmic trading on modern financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "REITs with Regular Dividend Payments (Algo Trading)"
+title: "REITs with Regular Dividend Payments"
 description: "Explore the synergy of dividend investment in REITs powered by algorithmic trading strategies to maximize income and portfolio diversification."
 ---
 

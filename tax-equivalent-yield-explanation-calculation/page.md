@@ -1,5 +1,5 @@
 ---
-title: "Tax-Equivalent Yield: Explanation and Calculation (Algo Trading)"
+title: "Tax-Equivalent Yield: Explanation and Calculation"
 description: "Explore how bond yield, tax-equivalent yield, and algorithmic trading intersect in investment strategies. Understand their roles in optimizing returns."
 ---
 

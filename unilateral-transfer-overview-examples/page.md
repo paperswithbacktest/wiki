@@ -1,5 +1,5 @@
 ---
-title: "Unilateral Transfer: Overview and Examples (Algo Trading)"
+title: "Unilateral Transfer: Overview and Examples"
 description: "Discover how unilateral transfers and algorithmic trading impact financial systems and markets by enhancing transactions and facilitating non-reciprocal exchanges."
 ---
 

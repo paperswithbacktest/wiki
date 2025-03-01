@@ -1,5 +1,5 @@
 ---
-title: "WH Trading (Algo Trading)"
+title: "WH Trading"
 description: "Explore WH Trading as a specialized form of algorithmic trading focusing on high-frequency strategies and cutting-edge technology for efficient market execution."
 ---
 

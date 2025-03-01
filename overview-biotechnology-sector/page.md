@@ -1,5 +1,5 @@
 ---
-title: "Overview of the Biotechnology Sector (Algo Trading)"
+title: "Overview of the Biotechnology Sector"
 description: "Explore the dynamic biotechnology sector where scientific innovation meets high-stakes investment offering both significant opportunities and risks for investors."
 ---
 

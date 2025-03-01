@@ -1,5 +1,5 @@
 ---
-title: "Use of Futures for Hedging Positions (Algo Trading)"
+title: "Use of Futures for Hedging Positions"
 description: "Explore how futures can safeguard investments through effective hedging strategies in algorithmic trading discovering their role in mitigating market risks."
 ---
 

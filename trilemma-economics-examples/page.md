@@ -1,5 +1,5 @@
 ---
-title: "Trilemma in Economics: Definition and Examples (Algo Trading)"
+title: "Trilemma in Economics: Definition and Examples"
 description: "Explore the intersection of trilemma economics and algorithmic trading, revealing how economic theories influence modern financial strategies and market dynamics."
 ---
 

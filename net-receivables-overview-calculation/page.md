@@ -1,5 +1,5 @@
 ---
-title: "Net Receivables: Overview and Calculation (Algo Trading)"
+title: "Net Receivables: Overview and Calculation"
 description: "Explore the significance of net receivables in financial management and algorithmic trading. Learn how they influence cash flow, liquidity, and strategic decision-making."
 ---
 

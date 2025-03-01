@@ -1,5 +1,5 @@
 ---
-title: "RJ Roxas: Profile and Achievements (Algo Trading)"
+title: "RJ Roxas: Profile and Achievements"
 description: "Discover the journey of RJ Roxas a journalist renowned for financial journalism and his recent venture into algorithmic trading shaping media and finance."
 ---
 

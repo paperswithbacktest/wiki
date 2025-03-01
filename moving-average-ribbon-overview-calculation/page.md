@@ -1,5 +1,5 @@
 ---
-title: "Moving Average Ribbon: Overview and Calculation (Algo Trading)"
+title: "Moving Average Ribbon: Overview and Calculation"
 description: "Discover the moving average ribbon a technical analysis tool that aids traders in identifying market trends and optimizing algorithmic trading strategies."
 ---
 

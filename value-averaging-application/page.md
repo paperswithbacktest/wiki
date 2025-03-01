@@ -1,5 +1,5 @@
 ---
-title: "Value Averaging and Its Application (Algo Trading)"
+title: "Value Averaging and Its Application"
 description: "Explore the synergy of value averaging and algorithmic trading to enhance investment strategy efficiency Learn how automation optimizes returns and minimizes errors"
 ---
 

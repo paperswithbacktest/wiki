@@ -1,5 +1,5 @@
 ---
-title: "Potential Recurrence of the 1929 Stock Market Crash (Algo Trading)"
+title: "Potential Recurrence of the 1929 Stock Market Crash"
 description: "Explore the dynamics of economic downturns and financial collapses alongside algorithmic trading's impact on market stability, drawing lessons from the 1929 crash."
 ---
 

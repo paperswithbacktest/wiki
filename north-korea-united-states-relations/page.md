@@ -1,5 +1,5 @@
 ---
-title: "North Korea–United States Relations (Algo Trading)"
+title: "North Korea–United States Relations"
 description: "Explore the intricate relations between North Korea and the United States and discover how algorithmic trading influences diplomatic and economic interactions."
 ---
 

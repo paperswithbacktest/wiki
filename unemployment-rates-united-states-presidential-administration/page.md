@@ -1,5 +1,5 @@
 ---
-title: "Unemployment Rates in the United States by Presidential Administration (Algo Trading)"
+title: "Unemployment Rates in the United States by Presidential Administration"
 description: "Explore the link between U.S. presidential policies, unemployment rates, and the transformative impact of algorithmic trading on economic analysis. Understand how different administrations' strategies have addressed job creation and loss, and discover how real-time data interpretation aids investors and policymakers in navigating economic shifts for sustained growth and stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Prominent Day Trading Courses (Algo Trading)"
+title: "Prominent Day Trading Courses"
 description: "Explore the evolving world of day trading and algorithmic trading courses. Enhance your trading skills with effective strategies and risk management insights."
 ---
 

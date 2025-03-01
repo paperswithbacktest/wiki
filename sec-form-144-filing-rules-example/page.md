@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 144: Filing Rules and Example (Algo Trading)"
+title: "SEC Form 144: Filing Rules and Example"
 description: "Learn about SEC Form 144 filing rules for selling restricted securities and its impact on algorithmic trading to ensure regulatory compliance and market transparency."
 ---
 

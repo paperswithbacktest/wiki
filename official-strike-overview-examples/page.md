@@ -1,5 +1,5 @@
 ---
-title: "Official Strike: Overview and Examples (Algo Trading)"
+title: "Official Strike: Overview and Examples"
 description: "Explore the intricate relationship between labor strikes and algorithmic trading to understand how industrial actions influence financial markets and how algorithms respond. This article investigates into labor strikes' economic and social impacts while examining algorithmic trading's role in market volatility. Essential for businesses, regulators, and investors, it emphasizes the need to comprehend these dynamics in navigating today's complex financial landscape. Discover historical instances, economic implications, and technological evolutions shaping this intersection for an informed perspective on industrial and market interactions."
 ---
 

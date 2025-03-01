@@ -1,5 +1,5 @@
 ---
-title: "Volumetric Production Payment (Algo Trading)"
+title: "Volumetric Production Payment"
 description: "Explore how Volumetric Production Payments (VPPs) and algorithmic trading transform oil and gas financing, enhancing liquidity, efficiency, and profitability."
 ---
 

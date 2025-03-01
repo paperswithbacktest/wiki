@@ -1,5 +1,5 @@
 ---
-title: "Trading Strategies for the Nonfarm Payroll Report (Algo Trading)"
+title: "Trading Strategies for the Nonfarm Payroll Report"
 description: "Discover effective algorithmic trading strategies for navigating the Nonfarm Payroll report. Understand how NFP data influences market dynamics and learn to capitalize on opportunities with insights into economic health affecting currencies and stocks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Projected Benefit Obligation (Algo Trading)"
+title: "Projected Benefit Obligation"
 description: "Explore the intersection of actuarial accounting and algorithmic trading in pension management Discover how these elements shape future financial strategies"
 ---
 

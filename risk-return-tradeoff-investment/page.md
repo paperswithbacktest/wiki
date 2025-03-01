@@ -1,5 +1,5 @@
 ---
-title: "Risk-Return Tradeoff in Investment (Algo Trading)"
+title: "Risk-Return Tradeoff in Investment"
 description: "Explore the essential risk-return tradeoff in investment and algorithmic trading with strategies to balance potential rewards and risk levels effectively."
 ---
 

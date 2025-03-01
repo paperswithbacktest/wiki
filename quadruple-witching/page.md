@@ -1,5 +1,5 @@
 ---
-title: "Quadruple Witching Explained (Algo Trading)"
+title: "Quadruple Witching Explained"
 description: Discover the complex world of quad witching days in financial markets, occurring quarterly as four types of derivative contracts expire simultaneously. Traders and investors face increased volatility and trading volumes, presenting both opportunities and risks. Learn about strategic maneuvers, the impact on algorithmic trading, and how to navigate these dynamic market conditions. Explore the significance of liquidity, volatility, and trading volumes to better position yourself for potential gains and manage inherent challenges.
 ---
 

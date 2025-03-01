@@ -1,5 +1,5 @@
 ---
-title: "Store of Value: Characteristics and Examples (Algo Trading)"
+title: "Store of Value: Characteristics and Examples"
 description: "Explore the characteristics and examples of store of value assets including precious metals real estate and cryptocurrencies in algorithmic trading strategies"
 ---
 

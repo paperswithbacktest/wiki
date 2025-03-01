@@ -1,5 +1,5 @@
 ---
-title: "State Street R-Factor: Overview and Functionality (Algo Trading)"
+title: "State Street R-Factor: Overview and Functionality"
 description: "Explore State Street's R-Factor system designed to assess and influence algorithmic trading with ESG criteria enhancing responsible investing strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stock Trading Options: Essential Requirements and Pricing Rules (Algo Trading)"
+title: "Stock Trading Options: Essential Requirements and Pricing Rules"
 description: "Explore essential requirements and pricing rules for stock and options trading including insights into algorithmic trading strategies for market success"
 ---
 

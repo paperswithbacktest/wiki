@@ -1,5 +1,5 @@
 ---
-title: "Optimal Stopping Theory (Algo Trading)"
+title: "Optimal Stopping Theory"
 description: "Optimal Stopping Theory enhances decision-making in algorithmic trading by providing tools to determine the optimal timing for buy or sell actions, boosting returns."
 ---
 

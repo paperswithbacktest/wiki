@@ -1,5 +1,5 @@
 ---
-title: "Wine Investment (Algo Trading)"
+title: "Wine Investment"
 description: "Explore the synergy between fine wine investment and algorithmic trading Learn how technology enhances this unique asset class offering diversification and stability"
 ---
 

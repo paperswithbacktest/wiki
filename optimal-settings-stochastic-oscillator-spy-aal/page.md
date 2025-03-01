@@ -1,5 +1,5 @@
 ---
-title: "Optimal Settings for Stochastic Oscillator in SPY and AAL Trading (Algo Trading)"
+title: "Optimal Settings for Stochastic Oscillator in SPY and AAL Trading"
 description: "Optimize your algo-trading strategies on SPY and AAL using the stochastic oscillator Learn settings to improve trade efficiency and potential profitability"
 ---
 

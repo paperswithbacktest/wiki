@@ -1,5 +1,5 @@
 ---
-title: "Retractable Preferred Shares: Overview and Functionality (Algo Trading)"
+title: "Retractable Preferred Shares: Overview and Functionality"
 description: "Explore retractable preferred shares and algorithmic trading to enhance investment strategies with stable income and refined trading efficiencies in dynamic markets."
 ---
 

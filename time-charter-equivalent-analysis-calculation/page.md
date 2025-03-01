@@ -1,5 +1,5 @@
 ---
-title: "Time Charter Equivalent Analysis and Calculation (Algo Trading)"
+title: "Time Charter Equivalent Analysis and Calculation"
 description: "Explore the importance of Time Charter Equivalent (TCE) in shipping finance and algo trading Learn how TCE aids in evaluating vessel profitability and strategic decision-making"
 ---
 

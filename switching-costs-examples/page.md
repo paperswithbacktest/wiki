@@ -1,5 +1,5 @@
 ---
-title: "Switching Costs and Examples (Algo Trading)"
+title: "Switching Costs and Examples"
 description: "Switching costs refer to the expenses encountered when consumers change from one product or service to another, significant in areas like algorithmic trading where they influence behavior. These costs include financial burdens for new technologies, time to adapt, and emotional ties to existing platforms. Understanding these costs helps businesses improve customer retention and consumers make informed decisions. The article explores how switching costs in algorithmic trading affect consumer choices, presenting market challenges due to financial, emotional, and time investments, and stresses the importance of recognizing these in shaping competitive strategies."
 ---
 

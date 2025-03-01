@@ -1,5 +1,5 @@
 ---
-title: "Roll Down: Definition, Mechanism, and Variations (Algo Trading)"
+title: "Roll Down: Definition, Mechanism, and Variations"
 description: "Explore the roll down strategy in algorithmic trading focusing on how it adapts positions to market shifts to optimize trading outcomes and manage risks."
 ---
 

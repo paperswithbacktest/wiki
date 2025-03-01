@@ -1,5 +1,5 @@
 ---
-title: "Tick-by-tick data (Algo Trading)"
+title: "Tick-by-tick data"
 description: "Explore how tick-by-tick data enhances algorithmic trading with real-time market insights boosting precision and accuracy in rapidly changing environments."
 ---
 

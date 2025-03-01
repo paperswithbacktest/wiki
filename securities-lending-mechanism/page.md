@@ -1,5 +1,5 @@
 ---
-title: "Securities Lending and Its Mechanism (Algo Trading)"
+title: "Securities Lending and Its Mechanism"
 description: "Explore the intricate mechanisms of securities lending and algorithmic trading in modern financial markets. Understand how securities lending enhances market liquidity, providing opportunities for additional income and risk management. Discover how algorithmic trading revolutionizes trade execution with speed and accuracy. Unlock insights into maximizing returns and managing risks effectively through these pivotal financial strategies."
 ---
 

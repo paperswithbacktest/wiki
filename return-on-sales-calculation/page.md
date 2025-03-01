@@ -1,5 +1,5 @@
 ---
-title: "Return on Sales: Definition and Calculation (Algo Trading)"
+title: "Return on Sales: Definition and Calculation"
 description: "Understand and calculate Return on Sales for algo trading to gauge a company's operational efficiency, guiding investment strategies with this key financial metric."
 ---
 

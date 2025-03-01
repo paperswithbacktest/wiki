@@ -1,5 +1,5 @@
 ---
-title: "Purchasing a Property with Existing Tenants (Algo Trading)"
+title: "Purchasing a Property with Existing Tenants"
 description: "Explore the complexities of buying property with existing tenants and the role of algorithmic trading in real estate investment strategies for optimized returns."
 ---
 

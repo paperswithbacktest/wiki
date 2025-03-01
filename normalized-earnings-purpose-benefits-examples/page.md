@@ -1,5 +1,5 @@
 ---
-title: "Normalized Earnings: Purpose, Benefits, and Examples (Algo Trading)"
+title: "Normalized Earnings: Purpose, Benefits, and Examples"
 description: "Explore the significance of normalized earnings in algorithmic trading and financial analysis for a clearer understanding of a company's stable performance."
 ---
 

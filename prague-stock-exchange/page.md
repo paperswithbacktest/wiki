@@ -1,5 +1,5 @@
 ---
-title: "Prague Stock Exchange (Algo Trading)"
+title: "Prague Stock Exchange"
 description: "Explore the Prague Stock Exchange's role in Czech finance from its historic roots to modern algo trading embracing adaptability innovation and capital growth."
 ---
 

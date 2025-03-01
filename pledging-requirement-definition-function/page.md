@@ -1,5 +1,5 @@
 ---
-title: "Pledging Requirement: Definition and Function (Algo Trading)"
+title: "Pledging Requirement: Definition and Function"
 description: "Explore the critical role of pledging requirements and collateral in algorithmic trading Discover how these elements optimize strategies and manage risks effectively"
 ---
 

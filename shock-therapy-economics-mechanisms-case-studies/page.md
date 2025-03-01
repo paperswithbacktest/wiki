@@ -1,5 +1,5 @@
 ---
-title: "Shock Therapy in Economics: Mechanisms and Case Studies (Algo Trading)"
+title: "Shock Therapy in Economics: Mechanisms and Case Studies"
 description: "Explore the intersection of economic shock therapy and algorithmic trading, analyzing their impact on market efficiency and reform in transitioning economies."
 ---
 

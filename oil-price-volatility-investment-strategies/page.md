@@ -1,5 +1,5 @@
 ---
-title: "Oil Price Volatility and Investment Strategies (Algo Trading)"
+title: "Oil Price Volatility and Investment Strategies"
 description: "Explore oil price volatility and strategies using algorithmic trading for optimized investment returns. Learn how to navigate market dynamics efficiently."
 ---
 

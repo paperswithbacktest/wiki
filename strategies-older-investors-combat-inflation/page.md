@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Older Investors to Combat Inflation (Algo Trading)"
+title: "Strategies for Older Investors to Combat Inflation"
 description: "Discover strategies for older investors to combat inflation by incorporating diversified portfolios and algorithmic trading techniques to preserve wealth."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Misha Boroditsky (Algo Trading)"
+title: "Misha Boroditsky"
 description: "Discover the journey of Misha Boroditsky in algorithmic trading from his academic roots in physics to his influential roles in finance and education."
 ---
 

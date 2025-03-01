@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Benefiting from Stock Splits and Buybacks (Algo Trading)"
+title: "Strategies for Benefiting from Stock Splits and Buybacks"
 description: "Explore strategies to leverage stock splits and buybacks in algo trading to optimize portfolio performance and make informed investment decisions."
 ---
 

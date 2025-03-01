@@ -1,5 +1,5 @@
 ---
-title: "Optimal stopping (Algo Trading)"
+title: "Optimal stopping"
 description: "Optimal stopping in algo trading uses mathematical models and AI to improve trading decisions enhancing returns and minimizing risks by precise timing."
 ---
 

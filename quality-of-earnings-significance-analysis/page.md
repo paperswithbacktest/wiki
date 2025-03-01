@@ -1,5 +1,5 @@
 ---
-title: "Quality of Earnings: Significance and Analysis (Algo Trading)"
+title: "Quality of Earnings: Significance and Analysis"
 description: "Understand the role of earnings quality in financial decisions and algorithmic trading Learn to evaluate financial performance and enhance investment strategies"
 ---
 

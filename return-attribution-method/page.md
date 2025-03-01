@@ -1,5 +1,5 @@
 ---
-title: "Return attribution method (Algo Trading)"
+title: "Return attribution method"
 description: Explore the significance of return attribution in algorithmic trading, where strategies are evaluated by dissecting returns into key components like market movements, security selection, and trade timing. This method enables traders to optimize their strategies by understanding the precise drivers of performance and aligning actual returns with intended objectives. Gain insights into performance evaluation and strategy refinement to maintain a competitive edge in fast-paced financial markets through effective return attribution analysis.
 ---
 

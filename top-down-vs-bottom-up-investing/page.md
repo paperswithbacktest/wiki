@@ -1,5 +1,5 @@
 ---
-title: "Top-Down vs. Bottom-Up Investing (Algo Trading)"
+title: "Top-Down vs. Bottom-Up Investing"
 description: "Explore how top-down and bottom-up investing strategies differ and how algorithmic trading is revolutionizing investment practices for better decision-making."
 ---
 

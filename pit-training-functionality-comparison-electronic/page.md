@@ -1,5 +1,5 @@
 ---
-title: "Pit Training: Functionality and Comparison with Electronic Training (Algo Trading)"
+title: "Pit Training: Functionality and Comparison with Electronic Training"
 description: "Explore the dynamics of pit trading and electronic training for algo trading Learn the key distinctions between these trading approaches in the financial industry"
 ---
 

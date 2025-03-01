@@ -1,5 +1,5 @@
 ---
-title: "Tenancy at Will: Function, Protections, Rules (Algo Trading)"
+title: "Tenancy at Will: Function, Protections, Rules"
 description: "Explore how the flexibility of Tenancy at Will can be combined with algorithmic trading principles to create innovative, data-driven property management solutions."
 ---
 

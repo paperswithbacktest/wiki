@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Investing in High Dividend Stocks (Algo Trading)"
+title: "Risks Associated with Investing in High Dividend Stocks"
 description: "Explore the risks of investing in high dividend stocks and learn strategies to mitigate them using technology like algorithmic trading for informed decisions."
 ---
 

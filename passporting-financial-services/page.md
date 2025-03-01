@@ -1,5 +1,5 @@
 ---
-title: "Passporting in Financial Services (Algo Trading)"
+title: "Passporting in Financial Services"
 description: "Explore the significance of passporting in financial services and its impact on algorithmic trading within the EEA. Learn how cross-border regulation shapes market strategies."
 ---
 

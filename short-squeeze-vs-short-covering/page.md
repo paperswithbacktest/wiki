@@ -1,5 +1,5 @@
 ---
-title: "Short Squeeze vs. Short Covering (Algo Trading)"
+title: "Short Squeeze vs. Short Covering"
 description: "Explore the crucial differences between short squeezes and short covering in algorithmic trading. Learn how these phenomena impact market dynamics and trading strategies."
 ---
 

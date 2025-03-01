@@ -1,5 +1,5 @@
 ---
-title: "Risk Neutrality: Explanation and Comparison with Risk Aversion (Algo Trading)"
+title: "Risk Neutrality: Explanation and Comparison with Risk Aversion"
 description: "Discover how risk neutrality and risk aversion influence algorithmic trading strategies. Learn how traders apply these concepts to optimize trading outcomes."
 ---
 

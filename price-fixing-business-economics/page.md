@@ -1,5 +1,5 @@
 ---
-title: "Price Fixing in Business and Economics (Algo Trading)"
+title: "Price Fixing in Business and Economics"
 description: "Explore the complexities of price fixing in business economics and its impact on market dynamics with the rise of algorithmic trading and its regulation."
 ---
 

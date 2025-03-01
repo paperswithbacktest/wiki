@@ -1,5 +1,5 @@
 ---
-title: "Uptick Rule in SEC Short Sale Regulations (Algo Trading)"
+title: "Uptick Rule in SEC Short Sale Regulations"
 description: "Discover how the SEC's Uptick Rule impacts short selling and algorithmic trading enhancing market stability and compliance in financial markets regulations."
 ---
 

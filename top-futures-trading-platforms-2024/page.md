@@ -1,5 +1,5 @@
 ---
-title: "Top Futures Trading Platforms of 2024 (Algo Trading)"
+title: "Top Futures Trading Platforms of 2024"
 description: "Explore the top futures trading platforms of 2024 and discover how algo trading is revolutionizing the market with enhanced precision and efficiency."
 ---
 

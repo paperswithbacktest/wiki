@@ -1,5 +1,5 @@
 ---
-title: "Personal Income and Outlays (Algo Trading)"
+title: "Personal Income and Outlays"
 description: "Explore how technology reshapes personal finance and investment through personal income, outlays, and algorithmic trading strategies for optimal financial management."
 ---
 

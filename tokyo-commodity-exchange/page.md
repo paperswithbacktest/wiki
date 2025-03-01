@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Commodity Exchange (Algo Trading)"
+title: "Tokyo Commodity Exchange"
 description: "Explore algorithmic trading at Tokyo Commodity Exchange (TOCOM) Japan's leading derivatives market offering cutting-edge solutions for commodities trade."
 ---
 

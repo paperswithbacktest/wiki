@@ -1,5 +1,5 @@
 ---
-title: "Time Value in Options Trading (Algo Trading)"
+title: "Time Value in Options Trading"
 description: "Explore the dynamics of time value in options trading and the role of algorithmic strategies enhancing trade performance through efficient and precise execution."
 ---
 

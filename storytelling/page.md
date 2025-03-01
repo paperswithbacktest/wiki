@@ -1,5 +1,5 @@
 ---
-title: "Storytelling (Algo Trading)"
+title: "Storytelling"
 description: Explore the intriguing world of algorithmic trading where the power of storytelling transforms complex data into engaging narratives. Discover how narratives not only simplify complex concepts but also influence adoption and drive innovation. Dive into success stories and real-world examples that demystify the path to success in this advanced trading field.
 ---
 

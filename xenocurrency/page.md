@@ -1,5 +1,5 @@
 ---
-title: "Xenocurrency (Algo Trading)"
+title: "Xenocurrency"
 description: "Explore the pivotal role of xenocurrency and algorithmic trading in global finance Discover how tech reshapes foreign exchange markets for optimal trading strategies"
 ---
 

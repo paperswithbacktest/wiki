@@ -1,5 +1,5 @@
 ---
-title: "Tax Roll: Overview and Types (Algo Trading)"
+title: "Tax Roll: Overview and Types"
 description: "Explore how tax rolls interact with algorithmic trading in finance. Understand their roles in taxation, trading strategies, and financial compliance."
 ---
 

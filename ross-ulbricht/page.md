@@ -1,5 +1,5 @@
 ---
-title: "Ross Ulbricht (Algo Trading)"
+title: "Ross Ulbricht"
 description: "Explore Ross Ulbricht's pivotal role in the Silk Road saga revealing complex ties between digital anonymity cryptocurrencies and algorithmic trading innovations."
 ---
 

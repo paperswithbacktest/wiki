@@ -1,5 +1,5 @@
 ---
-title: "S&P Global Broad Market Index Overview (Algo Trading)"
+title: "S&P Global Broad Market Index Overview"
 description: "Explore how algorithmic trading enhances investment strategies with the S&P Global Broad Market Index a vital benchmark for global stock performance insights."
 ---
 

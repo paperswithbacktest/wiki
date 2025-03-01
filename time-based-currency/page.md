@@ -1,5 +1,5 @@
 ---
-title: "Time-Based Currency (Algo Trading)"
+title: "Time-Based Currency"
 description: "Explore the intersection of time-based currency and algorithmic trading to discover innovative solutions for economic resilience and community exchange systems."
 ---
 

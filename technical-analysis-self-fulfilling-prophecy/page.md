@@ -1,5 +1,5 @@
 ---
-title: "Technical Analysis as a Self-Fulfilling Prophecy (Algo Trading)"
+title: "Technical Analysis as a Self-Fulfilling Prophecy"
 description: "Explore how technical analysis can act as a self-fulfilling prophecy in algorithmic trading shaping market trends through collective trader behaviors and automated strategies."
 ---
 

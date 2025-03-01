@@ -1,5 +1,5 @@
 ---
-title: "Riskless Principal and NASD Notice (Algo Trading)"
+title: "Riskless Principal and NASD Notice"
 description: "Explore riskless principal transactions and NASD guidelines in algorithmic trading Discover how brokers minimize market risk and maintain transparency in trades"
 ---
 

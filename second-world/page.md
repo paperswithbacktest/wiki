@@ -1,5 +1,5 @@
 ---
-title: "Second World (Algo Trading)"
+title: "Second World"
 description: "Explore the evolution of Second World nations from communist economies to embracing modern financial strategies like algorithmic trading in a global market context."
 ---
 

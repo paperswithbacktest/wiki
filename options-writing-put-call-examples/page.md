@@ -1,5 +1,5 @@
 ---
-title: "Options Writing: Put and Call Examples (Algo Trading)"
+title: "Options Writing: Put and Call Examples"
 description: "Unlock insights into options trading with put and call examples and discover how algorithmic trading enhances strategy, speeds execution, and optimizes outcomes."
 ---
 

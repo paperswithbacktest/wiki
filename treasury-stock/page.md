@@ -1,5 +1,5 @@
 ---
-title: "Treasury Stock (Algo Trading)"
+title: "Treasury Stock"
 description: "Explore the impact of treasury stock and algorithmic trading on corporate finance and market dynamics. Discover how share repurchases affect a company's financial health and perceived value, and understand the role of algorithmic trading in transforming investment strategies through technology-driven efficiencies. This article provides insights into key strategies for navigating today's financial environment."
 ---
 

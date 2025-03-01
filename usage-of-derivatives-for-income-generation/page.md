@@ -1,5 +1,5 @@
 ---
-title: "Usage of Derivatives for Income Generation (Algo Trading)"
+title: "Usage of Derivatives for Income Generation"
 description: "Explore how derivatives and algorithmic trading synergize to enhance income generation. Discover innovative strategies to harness market movements and manage risks effectively."
 ---
 

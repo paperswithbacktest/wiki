@@ -1,5 +1,5 @@
 ---
-title: "Utilizing ETFs for Systematic Investment (Algo Trading)"
+title: "Utilizing ETFs for Systematic Investment"
 description: "Discover how integrating ETFs with systematic investment strategies and algorithmic trading can optimize your financial portfolio for long-term success."
 ---
 

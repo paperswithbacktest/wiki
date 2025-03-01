@@ -1,5 +1,5 @@
 ---
-title: "Most Expensive Stock in History (Algo Trading)"
+title: "Most Expensive Stock in History"
 description: "Explore the history of the most expensive stock and understand algorithmic trading's impact on the market through efficient data analysis and strategic insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trading Halt: Overview, Mechanisms, and Causes (Algo Trading)"
+title: "Trading Halt: Overview, Mechanisms, and Causes"
 description: "Discover the role of trading halts in stabilizing markets during rapid price changes and their impact on algorithmic trading. Essential reading for traders."
 ---
 

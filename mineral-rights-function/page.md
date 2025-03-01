@@ -1,5 +1,5 @@
 ---
-title: "Mineral Rights and Their Function (Algo Trading)"
+title: "Mineral Rights and Their Function"
 description: "Explore the complex relationship between mineral rights, mining regulations, and algorithmic trading in shaping the global economy and resource management."
 ---
 

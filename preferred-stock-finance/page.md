@@ -1,5 +1,5 @@
 ---
-title: "Preferred Stock (Finance) (Algo Trading)"
+title: "Preferred Stock (Finance)"
 description: "Explore the synergy between preferred stocks and algo trading innovative approaches enabling enhanced dividend claims while optimizing trading strategies."
 ---
 

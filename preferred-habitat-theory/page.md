@@ -1,5 +1,5 @@
 ---
-title: "Preferred Habitat Theory (Algo Trading)"
+title: "Preferred Habitat Theory"
 description: "Discover how preferred habitat theory influences algo trading by understanding the impact of interest rates and bond yields on financial markets dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Speculative Risk Vs. Pure Risk (Algo Trading)"
+title: "Speculative Risk Vs. Pure Risk"
 description: "Explore the crucial differences between speculative and pure risk in algo trading Discover strategies to navigate these risks for greater market success"
 ---
 

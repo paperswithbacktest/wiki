@@ -1,5 +1,5 @@
 ---
-title: "Swap Ratio: Concept, Functionality, and Considerations (Algo Trading)"
+title: "Swap Ratio: Concept, Functionality, and Considerations"
 description: "Explore the concept of swap ratios in mergers and acquisitions and discover how algorithmic trading enhances financial strategies for effective decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Moving Average Techniques in Forex Trading (Algo Trading)"
+title: "Moving Average Techniques in Forex Trading"
 description: "Discover how moving average techniques and algorithmic trading can enhance forex trading strategies by identifying trends and improving market insights."
 ---
 

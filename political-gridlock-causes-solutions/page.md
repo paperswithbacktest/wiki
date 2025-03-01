@@ -1,5 +1,5 @@
 ---
-title: "Political Gridlock: Causes and Solutions (Algo Trading)"
+title: "Political Gridlock: Causes and Solutions"
 description: "Discover how algorithmic trading strategies could offer solutions to political gridlock in deeply polarized environments optimizing governance and decision-making."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Price impact models (Algo Trading)"
+title: "Price impact models"
 description: "Explore price impact models in algorithmic trading to understand how trades affect market prices. Discover model types and optimize trade execution."
 ---
 

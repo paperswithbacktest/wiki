@@ -1,5 +1,5 @@
 ---
-title: "Sales Per Share: Overview and Limitations (Algo Trading)"
+title: "Sales Per Share: Overview and Limitations"
 description: "Explore how Sales Per Share impacts trading strategies with algorithmic systems. Learn its significance and limitations in assessing a company's revenue efficiency."
 ---
 

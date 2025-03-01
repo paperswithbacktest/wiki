@@ -1,5 +1,5 @@
 ---
-title: "What Are the Best Days to Trade Stocks? (Algo Trading)"
+title: "What Are the Best Days to Trade Stocks?"
 description: Discover how identifying the best days to trade stocks can enhance your algorithmic trading strategy. Learn about historical trends and market psychology that influence optimal trading days and how algorithms can automate trade decisions to leverage these patterns effectively for improved performance.
 ---
 

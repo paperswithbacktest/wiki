@@ -1,5 +1,5 @@
 ---
-title: "Santiago Martínez (Algo Trading)"
+title: "Santiago Martínez"
 description: "Discover the journey of Santiago Martínez from a math enthusiast to a quantitative researcher at Akuna Capital, where he excels in algorithmic trading."
 ---
 

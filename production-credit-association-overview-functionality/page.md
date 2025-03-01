@@ -1,5 +1,5 @@
 ---
-title: "Production Credit Association: Overview and Functionality (Algo Trading)"
+title: "Production Credit Association: Overview and Functionality"
 description: "Explore the pivotal role of Production Credit Associations in agricultural finance and the impact of algorithmic trading on enhancing market efficiency and credit systems."
 ---
 

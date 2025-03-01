@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 11-K: Purpose, Employer Obligations, and Filing Deadline (Algo Trading)"
+title: "SEC Form 11-K: Purpose, Employer Obligations, and Filing Deadline"
 description: "Learn about SEC Form 11-K a vital annual filing for companies with employee stock purchase plans aiding transparency and investor trust with SEC compliance."
 ---
 

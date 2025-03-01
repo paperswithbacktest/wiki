@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Options on the Dow Jones Index (Algo Trading)"
+title: "Purchasing Options on the Dow Jones Index"
 description: "Explore trading options on the Dow Jones Index using algorithmic strategies to optimize investments manage risks and gain deeper market insights."
 ---
 

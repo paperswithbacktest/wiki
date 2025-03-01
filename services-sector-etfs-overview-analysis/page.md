@@ -1,5 +1,5 @@
 ---
-title: "Services Sector ETFs: Overview and Analysis (Algo Trading)"
+title: "Services Sector ETFs: Overview and Analysis"
 description: "Explore the benefits and challenges of investing in services sector ETFs and algorithmic trading Discover strategies for diversifying portfolios effectively"
 ---
 

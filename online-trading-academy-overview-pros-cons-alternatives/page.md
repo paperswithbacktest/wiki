@@ -1,5 +1,5 @@
 ---
-title: "Online Trading Academy: Overview, Advantages, Disadvantages, and Alternatives (Algo Trading)"
+title: "Online Trading Academy: Overview, Advantages, Disadvantages, and Alternatives"
 description: "Discover the Online Trading Academy's pros and cons alongside insights into algorithmic trading education, helping you make informed trading decisions."
 ---
 

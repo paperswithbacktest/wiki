@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between Capitalism and Private Property (Algo Trading)"
+title: "Relationship Between Capitalism and Private Property"
 description: "Explore the dynamic interplay of capitalism and private property with the rise of algorithmic trading highlighting their impact on economic efficiency and wealth distribution."
 ---
 

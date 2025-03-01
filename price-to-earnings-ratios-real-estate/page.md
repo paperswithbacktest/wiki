@@ -1,5 +1,5 @@
 ---
-title: "Price-to-Earnings Ratios in Real Estate (Algo Trading)"
+title: "Price-to-Earnings Ratios in Real Estate"
 description: "Explore the impact of price-to-earnings ratios in real estate investing Learn how P/E metrics and algorithmic trading optimize financial insights and strategies"
 ---
 

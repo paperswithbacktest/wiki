@@ -1,5 +1,5 @@
 ---
-title: "Rebate and Discount: Types and Examples (Algo Trading)"
+title: "Rebate and Discount: Types and Examples"
 description: "Discover the strategic role of rebates in algo trading. Explore how rebate and discount models can enhance profitability and market strategies."
 ---
 

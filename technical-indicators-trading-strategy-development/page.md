@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators in Trading Strategy Development (Algo Trading)"
+title: "Technical Indicators in Trading Strategy Development"
 description: "Explore essential technical indicators and algorithmic trading strategies to optimize your trading performance and stay ahead in evolving financial markets."
 ---
 

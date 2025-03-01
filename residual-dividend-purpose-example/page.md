@@ -1,5 +1,5 @@
 ---
-title: "Residual Dividend: Purpose and Example (Algo Trading)"
+title: "Residual Dividend: Purpose and Example"
 description: "Explore the strategic residual dividend policy in corporate finance to prioritize growth reinvestment before shareholder payouts, enhancing long-term value."
 ---
 

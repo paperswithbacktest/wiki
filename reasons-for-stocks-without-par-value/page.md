@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Stocks Without Par Value (Algo Trading)"
+title: "Reasons for Stocks Without Par Value"
 description: "Explore the significance of no-par value stocks and algorithmic trading in today's financial markets. Learn how these elements impact investment decisions and strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Vested Benefit Obligation: Overview and Functionality (Algo Trading)"
+title: "Vested Benefit Obligation: Overview and Functionality"
 description: "Learn about Vested Benefit Obligation VBO and its essential role in pension plan assessment Discover how algorithmic trading enhances pension fund management efficiency"
 ---
 

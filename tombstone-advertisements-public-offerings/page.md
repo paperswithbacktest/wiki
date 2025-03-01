@@ -1,5 +1,5 @@
 ---
-title: "Tombstone Advertisements in Public Offerings (Algo Trading)"
+title: "Tombstone Advertisements in Public Offerings"
 description: "Explore the vital role of tombstone ads in public offerings and the impact of algorithmic trading on modern finance, enhancing investment strategies and market liquidity."
 ---
 

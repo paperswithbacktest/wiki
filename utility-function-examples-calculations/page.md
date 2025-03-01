@@ -1,5 +1,5 @@
 ---
-title: "Utility Function: Examples and Calculations (Algo Trading)"
+title: "Utility Function: Examples and Calculations"
 description: "Explore the role of utility functions in economic theory and algorithmic trading Learn how they measure satisfaction optimize portfolios and predict consumer behavior"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Valeriy Gavrishchaka (Algo Trading)"
+title: "Valeriy Gavrishchaka"
 description: "Discover the inspiring journey of Valeriy Gavrishchaka from his roots in physics to his groundbreaking achievements in algorithmic trading and quantitative finance."
 ---
 

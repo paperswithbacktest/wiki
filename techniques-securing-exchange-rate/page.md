@@ -1,5 +1,5 @@
 ---
-title: "Techniques for Securing an Exchange Rate (Algo Trading)"
+title: "Techniques for Securing an Exchange Rate"
 description: "Explore effective strategies for securing exchange rates, including algorithmic trading, to manage currency risks and ensure economic stability in global markets."
 ---
 

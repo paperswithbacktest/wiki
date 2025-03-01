@@ -1,5 +1,5 @@
 ---
-title: "Sinking Fund Call: Mechanism and Examples (Algo Trading)"
+title: "Sinking Fund Call: Mechanism and Examples"
 description: "Explore the multifaceted world of bond investments with insights into sinking fund calls and algorithmic trading Learn how these elements can affect your portfolio's stability and returns"
 ---
 

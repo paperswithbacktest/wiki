@@ -1,5 +1,5 @@
 ---
-title: "Potential Benefits of Hacks in the Cryptocurrency Industry (Algo Trading)"
+title: "Potential Benefits of Hacks in the Cryptocurrency Industry"
 description: "Explore how security breaches in cryptocurrency can lead to innovation and improved security measures driving the industry's evolution and resilience."
 ---
 

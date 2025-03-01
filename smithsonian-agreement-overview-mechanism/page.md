@@ -1,5 +1,5 @@
 ---
-title: "Smithsonian Agreement: Overview and Mechanism (Algo Trading)"
+title: "Smithsonian Agreement: Overview and Mechanism"
 description: "Discover the Smithsonian Agreement's pivotal role in reshaping global finance explore its impact on exchange rates and relevance in today's algo trading landscape."
 ---
 

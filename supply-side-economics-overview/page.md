@@ -1,5 +1,5 @@
 ---
-title: "Supply-Side Economics Overview (Algo Trading)"
+title: "Supply-Side Economics Overview"
 description: "Explore supply-side economics focusing on Reaganomics and its effects. Discover how algorithmic trading reshapes financial markets through high-speed automated trades."
 ---
 

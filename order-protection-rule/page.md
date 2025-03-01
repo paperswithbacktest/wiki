@@ -1,5 +1,5 @@
 ---
-title: "Order Protection Rule (Algo Trading)"
+title: "Order Protection Rule"
 description: "Discover how the Order Protection Rule in algorithmic trading safeguards investors by ensuring trades are executed at the best available prices across markets."
 ---
 

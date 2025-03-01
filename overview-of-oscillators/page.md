@@ -1,5 +1,5 @@
 ---
-title: "Overview of Oscillators (Algo Trading)"
+title: "Overview of Oscillators"
 description: "Explore the pivotal role of oscillators in electronic systems and algorithmic trading delving into their application in market analysis and automated strategies for optimal trading outcomes."
 ---
 

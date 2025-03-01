@@ -1,5 +1,5 @@
 ---
-title: "Step-Up Lease: Definition and Mechanism (Algo Trading)"
+title: "Step-Up Lease: Definition and Mechanism"
 description: "Explore the intricacies of step-up leases and algorithmic trading in commercial real estate to enhance investment strategies and forecast market trends efficiently."
 ---
 

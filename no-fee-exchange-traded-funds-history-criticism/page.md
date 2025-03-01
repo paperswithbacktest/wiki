@@ -1,5 +1,5 @@
 ---
-title: "No-Fee Exchange-Traded Funds: Overview, History, Criticism (Algo Trading)"
+title: "No-Fee Exchange-Traded Funds: Overview, History, Criticism"
 description: "Explore the rise of no-fee ETFs and their symbiotic relationship with algorithmic trading within modern investment strategies highlighting both benefits and criticisms."
 ---
 

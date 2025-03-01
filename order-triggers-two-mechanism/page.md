@@ -1,5 +1,5 @@
 ---
-title: "Order-Triggers-Two Mechanism (Algo Trading)"
+title: "Order-Triggers-Two Mechanism"
 description: "Explore the Order-Triggers-Two mechanism in algorithmic trading for enhanced precision and efficiency Automate sequential orders to manage risks effectively"
 ---
 

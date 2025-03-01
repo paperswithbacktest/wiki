@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Construction Through Style Investing (Algo Trading)"
+title: "Portfolio Construction Through Style Investing"
 description: "Explore the intersection of style investing and algorithmic trading in portfolio construction Learn how these elements optimize returns and manage financial risk"
 ---
 

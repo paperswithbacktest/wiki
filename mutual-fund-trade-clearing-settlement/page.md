@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Trade Clearing and Settlement (Algo Trading)"
+title: "Mutual Fund Trade Clearing and Settlement"
 description: "Explore the essential components of mutual fund trade clearing and settlement in algorithmic trading. Understand how trade settlement ensures timely execution, while mutual funds offer diversified investment opportunities. Learn about the clearing process as a safeguard reducing counterparty risk and how algorithmic trading signifies technological advancement in finance. Gain insights into these elements and their roles in enhancing market efficiency and functionality."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Smoot-Hawley Tariff Act: History, Effects, and Reactions (Algo Trading)"
+title: "Smoot-Hawley Tariff Act: History, Effects, and Reactions"
 description: "Explore the history and impact of the Smoot-Hawley Tariff Act of 1930 on global trade and its lessons for today's algorithmic trading strategies."
 ---
 

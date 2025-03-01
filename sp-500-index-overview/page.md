@@ -1,5 +1,5 @@
 ---
-title: "S&P 500 Index Overview (Algo Trading)"
+title: "S&P 500 Index Overview"
 description: "Explore the significance of the S&P 500 index for U.S. equity performance and understand how algorithmic trading is reshaping investment strategies globally."
 ---
 

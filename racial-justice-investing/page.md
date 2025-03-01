@@ -1,5 +1,5 @@
 ---
-title: "Racial Justice Investing (Algo Trading)"
+title: "Racial Justice Investing"
 description: "Explore how racial justice investing harnesses algorithmic trading to drive social impact promoting diversity equity and inclusion while advancing financial returns."
 ---
 

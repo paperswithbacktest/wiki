@@ -1,5 +1,5 @@
 ---
-title: "Regime switching (Algo Trading)"
+title: "Regime switching"
 description: Discover how regime switching in algorithmic trading adapts strategies to changing market conditions by identifying trend shifts. Utilizing models like the Markov regime-switching model helps traders optimize performance by adjusting to different market phases. Learn the benefits and challenges of implementing these strategies, and explore their integration into trading systems to enhance outcomes.
 ---
 

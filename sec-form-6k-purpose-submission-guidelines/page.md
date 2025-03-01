@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 6-K: Purpose and Submission Guidelines (Algo Trading)"
+title: "SEC Form 6-K: Purpose and Submission Guidelines"
 description: "SEC Form 6-K is crucial for international firms engaged in algorithmic trading on U.S. exchanges ensuring transparency compliance and informed investor relations."
 ---
 

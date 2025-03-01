@@ -1,5 +1,5 @@
 ---
-title: "Moneyness and Intrinsic Value of Options (Algo Trading)"
+title: "Moneyness and Intrinsic Value of Options"
 description: "Explore moneyness and intrinsic value in options trading to enhance algorithmic strategies Gain insights into evaluating profitability and optimizing trading decisions"
 ---
 

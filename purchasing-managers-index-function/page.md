@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Managers' Index and Its Function (Algo Trading)"
+title: "Purchasing Managers' Index and Its Function"
 description: "Discover how the Purchasing Managers' Index (PMI) plays a critical role in economic forecasting and enhances algorithmic trading strategies for better market insights."
 ---
 

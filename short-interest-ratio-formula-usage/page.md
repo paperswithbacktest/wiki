@@ -1,5 +1,5 @@
 ---
-title: "Short Interest Ratio: Formula and Usage (Algo Trading)"
+title: "Short Interest Ratio: Formula and Usage"
 description: "Explore the key elements of short interest ratio in algorithmic trading, learn how it influences market sentiment, and enhances investment strategies."
 ---
 

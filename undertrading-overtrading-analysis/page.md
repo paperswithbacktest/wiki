@@ -1,5 +1,5 @@
 ---
-title: "Undertrading and Overtrading Analysis (Algo Trading)"
+title: "Undertrading and Overtrading Analysis"
 description: "Explore the balance between overtrading and undertrading in algorithmic trading to maintain financial health and market stability through strategic measures."
 ---
 

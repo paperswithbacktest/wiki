@@ -1,5 +1,5 @@
 ---
-title: "Scarcity (Algo Trading)"
+title: "Scarcity"
 description: "Explore how scarcity economics and algorithmic trading reshape resource management and trading strategies in financial markets enhancing efficiency and growth."
 ---
 

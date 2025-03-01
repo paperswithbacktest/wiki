@@ -1,5 +1,5 @@
 ---
-title: "Working Capital and Liquidity Assessment (Algo Trading)"
+title: "Working Capital and Liquidity Assessment"
 description: "Discover how liquidity and working capital influence algorithmic trading strategies and enhance trade execution in dynamic financial markets."
 ---
 

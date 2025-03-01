@@ -1,5 +1,5 @@
 ---
-title: "Wash Trading: Mechanism and Examples (Algo Trading)"
+title: "Wash Trading: Mechanism and Examples"
 description: "Explore the deceptive practice of wash trading in financial markets including its mechanisms impact on market integrity and strategies to detect and prevent it."
 ---
 

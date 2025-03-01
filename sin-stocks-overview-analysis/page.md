@@ -1,5 +1,5 @@
 ---
-title: "Sin Stocks: Overview and Analysis (Algo Trading)"
+title: "Sin Stocks: Overview and Analysis"
 description: "Explore the dynamics of sin stocks versus ethical investing and how algorithmic trading influences both, balancing values with financial goals in modern markets."
 ---
 

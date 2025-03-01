@@ -1,5 +1,5 @@
 ---
-title: "Regret Avoidance in Financial Markets (Algo Trading)"
+title: "Regret Avoidance in Financial Markets"
 description: "Explore how regret avoidance in financial markets influences trading decisions and how algorithmic trading can mitigate emotional biases to enhance trading outcomes."
 ---
 

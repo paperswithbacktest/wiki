@@ -1,5 +1,5 @@
 ---
-title: "S&P 500 Dividend Yield History (Algo Trading)"
+title: "S&P 500 Dividend Yield History"
 description: "Explore the history and dynamics of the S&P 500 dividend yield and its role in investment strategies particularly with the rise of algorithmic trading for optimizing portfolios."
 ---
 

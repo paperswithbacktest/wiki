@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Mortgage-Backed Securities (Algo Trading)"
+title: "Risks Associated with Mortgage-Backed Securities"
 description: "Explore the risks of mortgage-backed securities in algo trading, including prepayment, credit, and market volatility risks. Understand their economic implications."
 ---
 

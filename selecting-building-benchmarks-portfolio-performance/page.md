@@ -1,5 +1,5 @@
 ---
-title: "Selecting and Building Benchmarks for Portfolio Performance Measurement (Algo Trading)"
+title: "Selecting and Building Benchmarks for Portfolio Performance Measurement"
 description: "Explore key strategies for measuring portfolio performance using benchmarks and algorithmic trading techniques to improve investment success and risk management."
 ---
 

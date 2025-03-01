@@ -1,5 +1,5 @@
 ---
-title: "Trading Effect (Algo Trading)"
+title: "Trading Effect"
 description: "Explore the dynamic world of algorithmic trading and its significant impact on financial markets Discover key concepts benefits risks and trading strategies"
 ---
 

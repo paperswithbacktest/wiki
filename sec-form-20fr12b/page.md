@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 20FR12B (Algo Trading)"
+title: "SEC Form 20FR12B"
 description: "SEC Form 20FR12B is essential for foreign firms entering US markets with algorithmic trading ensuring compliance with SEC regulations and fostering transparency."
 ---
 

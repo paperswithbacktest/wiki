@@ -1,5 +1,5 @@
 ---
-title: "Winton Capital Management (Algo Trading)"
+title: "Winton Capital Management"
 description: "Explore Winton Capital Management's innovative approach to algorithmic trading leveraging data analysis and technology to revolutionize investment strategies."
 ---
 

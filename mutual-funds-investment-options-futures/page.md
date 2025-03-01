@@ -1,5 +1,5 @@
 ---
-title: "Mutual Funds Investment in Options and Futures (Algo Trading)"
+title: "Mutual Funds Investment in Options and Futures"
 description: "Explore mutual funds, futures, options, and algo trading as pivotal tools for strategic investment diversification and maximizing portfolio returns."
 ---
 

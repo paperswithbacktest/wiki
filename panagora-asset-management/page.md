@@ -1,5 +1,5 @@
 ---
-title: "PanAgora Asset Management (Algo Trading)"
+title: "PanAgora Asset Management"
 description: PanAgora Asset Management, based in Boston, is recognized for its innovative approach to investment management, leveraging quantitative analysis and algorithmic trading to optimize investment strategies. Founded in 1989, the firm has established itself as a leader in the financial sector by utilizing advanced computational models to balance risk and return efficiently. Through its pioneering integration of behavioral economics with quantitative methods and its strategic use of risk parity, PanAgora continuously sets industry benchmarks. The firm's adept implementation of algorithmic trading enhances decision-making processes and offers precise, data-driven investment solutions, influencing trends across the investment management industry.
 ---
 

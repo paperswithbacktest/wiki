@@ -1,5 +1,5 @@
 ---
-title: "MiFID II Regulations and Impact (Algo Trading)"
+title: "MiFID II Regulations and Impact"
 description: "Explore the impact of MiFID II regulations on algorithmic trading, focusing on transparency, market integrity, and enhanced investor protection in the EU."
 ---
 

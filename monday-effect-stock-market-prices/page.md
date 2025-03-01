@@ -1,5 +1,5 @@
 ---
-title: "Monday Effect on Stock Market Prices (Algo Trading)"
+title: "Monday Effect on Stock Market Prices"
 description: "Discover the Monday Effect's potential impact on stock markets and algorithmic trading Explore this intriguing trend for valuable trading insights"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Statement Shock (Algo Trading)"
+title: "Statement Shock"
 description: "Explore the influence of algorithmic trading on market dynamics and investor reactions Learn strategies to mitigate statement and demand shocks in financial systems"
 ---
 

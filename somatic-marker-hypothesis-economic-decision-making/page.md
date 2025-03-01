@@ -1,5 +1,5 @@
 ---
-title: "Somatic Marker Hypothesis in Economic Decision-Making (Algo Trading)"
+title: "Somatic Marker Hypothesis in Economic Decision-Making"
 description: "Explore how the Somatic Marker Hypothesis enhances economic decision-making and algorithmic trading by utilizing emotions and physiological responses as essential guides."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Premium to Net Asset Value (Algo Trading)"
+title: "Premium to Net Asset Value"
 description: "Explore how Premium to Net Asset Value (NAV) and algorithmic trading transform investment strategies by leveraging modern technology for optimal returns."
 ---
 

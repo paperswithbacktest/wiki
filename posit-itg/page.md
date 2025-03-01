@@ -1,5 +1,5 @@
 ---
-title: "Posit (ITG) (Algo Trading)"
+title: "Posit (ITG)"
 description: Discover how POSIT ITG, a leading algorithmic trading platform, enhances trading efficiency with innovative solutions for anonymous equity order matching, minimizing market impact and optimizing strategies. Widely trusted for its secure, reliable performance, POSIT ITG supports diverse order types across global markets, providing seamless access and robust security measures that future-proof its capabilities in the evolving financial landscape.
 ---
 

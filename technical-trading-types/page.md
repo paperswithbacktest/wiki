@@ -1,5 +1,5 @@
 ---
-title: "Technical Trading Types (Algo Trading)"
+title: "Technical Trading Types"
 description: "Explore the nuances of technical and algorithmic trading methods in stocks Discover how to enhance your trading strategy using price patterns and algorithms"
 ---
 

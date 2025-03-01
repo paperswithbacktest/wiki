@@ -1,5 +1,5 @@
 ---
-title: "Share Repurchases and Their Effects on Financial Accounting (Algo Trading)"
+title: "Share Repurchases and Their Effects on Financial Accounting"
 description: "Explore the pivotal role of share repurchases in corporate finance and financial accounting. Learn how buybacks impact key financial metrics like EPS, ROE, and ROA, and understand the strategic implications for stock prices and market perception. Delve into the relationship between algorithmic trading and share repurchases, emphasizing their influence on modern financial strategies."
 ---
 

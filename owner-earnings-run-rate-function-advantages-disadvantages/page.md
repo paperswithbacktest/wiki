@@ -1,5 +1,5 @@
 ---
-title: "Owner Earnings Run Rate: Definition, Function, Advantages and Disadvantages (Algo Trading)"
+title: "Owner Earnings Run Rate: Definition, Function, Advantages and Disadvantages"
 description: "Unlock key insights into financial performance through run rate analysis and owner earnings to enhance algorithmic trading strategies and business planning."
 ---
 

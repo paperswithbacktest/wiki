@@ -1,5 +1,5 @@
 ---
-title: "Special Purchase and Resale Agreement (Algo Trading)"
+title: "Special Purchase and Resale Agreement"
 description: "Explore the intricate dynamics of Special Purchase and Resale Agreements and algorithmic trading to understand their impact on market liquidity and policy."
 ---
 

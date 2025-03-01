@@ -1,5 +1,5 @@
 ---
-title: "United States: Market Economy or Mixed Economy? (Algo Trading)"
+title: "United States: Market Economy or Mixed Economy?"
 description: "Explore the intricacies of the U.S. economy's blend of market and mixed elements, focusing on the impact of government intervention and algorithmic trading innovations."
 ---
 

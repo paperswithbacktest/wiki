@@ -1,5 +1,5 @@
 ---
-title: "Working Capital Ratio Standards (Algo Trading)"
+title: "Working Capital Ratio Standards"
 description: "Explore critical financial ratios, the significance of working capital, and the transformative role of algorithmic trading in modern finance. Learn how financial ratios aid in assessing company performance while understanding working capital's impact on liquidity and operational efficiency. Discover how algorithmic trading automates processes to enhance trade execution and profitability, offering strategic insights into asset allocation and risk management in today's dynamic financial landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Types of Stocks and Differences from Bonds (Algo Trading)"
+title: "Types of Stocks and Differences from Bonds"
 description: "Explore the distinct characteristics of stocks and bonds and understand the impact of algorithmic trading to make informed investment decisions in financial markets."
 ---
 

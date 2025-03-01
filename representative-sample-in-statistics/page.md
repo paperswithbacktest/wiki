@@ -1,5 +1,5 @@
 ---
-title: "Representative Sample in Statistics (Algo Trading)"
+title: "Representative Sample in Statistics"
 description: "Explore the critical role of representative sampling in algorithmic trading Discover how statistical sampling enhances trading strategies and decision-making effectiveness"
 ---
 

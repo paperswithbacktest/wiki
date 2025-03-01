@@ -1,5 +1,5 @@
 ---
-title: "Paycheck Protection and Health Care Enhancement Act (Algo Trading)"
+title: "Paycheck Protection and Health Care Enhancement Act"
 description: "Explore the Paycheck Protection and Health Care Enhancement Act's role in stabilizing small businesses and strengthening healthcare during the COVID-19 crisis."
 ---
 

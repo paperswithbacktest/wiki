@@ -1,5 +1,5 @@
 ---
-title: "Tax Minimization Using the FIFO Accounting Method (Algo Trading)"
+title: "Tax Minimization Using the FIFO Accounting Method"
 description: "Explore the tax benefits of using the FIFO accounting method in algorithmic trading and cryptocurrency investments for efficient financial strategies."
 ---
 

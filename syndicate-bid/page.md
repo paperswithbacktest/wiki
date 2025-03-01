@@ -1,5 +1,5 @@
 ---
-title: "Syndicate Bid (Algo Trading)"
+title: "Syndicate Bid"
 description: "Explore syndicate bids and algorithmic trading transforming modern finance by enhancing market stability and efficiency in stock and transaction processes."
 ---
 

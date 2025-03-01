@@ -1,5 +1,5 @@
 ---
-title: "Timeline of the Real Estate Market Collapse (Algo Trading)"
+title: "Timeline of the Real Estate Market Collapse"
 description: "Explore the timeline of real estate market collapse due to factors like housing crises and algo trading Learn about bubbles impacts and historical lessons"
 ---
 

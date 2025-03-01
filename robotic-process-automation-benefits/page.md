@@ -1,5 +1,5 @@
 ---
-title: "Robotic Process Automation and Its Benefits (Algo Trading)"
+title: "Robotic Process Automation and Its Benefits"
 description: "Explore the synergy of Robotic Process Automation and algorithmic trading to boost efficiency and accuracy in the financial sector optimizing trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Opening an IRA in 2024 (Algo Trading)"
+title: "Opening an IRA in 2024"
 description: "Discover how algorithmic trading can enhance your IRA strategy in 2024 Explore the integration of technology with retirement planning for optimized returns and security"
 ---
 

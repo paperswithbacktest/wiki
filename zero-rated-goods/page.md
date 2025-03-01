@@ -1,5 +1,5 @@
 ---
-title: "Zero-Rated Goods (Algo Trading)"
+title: "Zero-Rated Goods"
 description: "Explore the complexities of zero-rated goods and VAT in the context of algorithmic trading. Understand how VAT impacts pricing, allowing businesses to reclaim input taxes, and differentiate zero-rated from VAT-exempt goods. Delve into the nuances of global VAT variations and their significance for businesses aiming to optimize tax strategies and ensure compliance in automated trading sectors."
 ---
 

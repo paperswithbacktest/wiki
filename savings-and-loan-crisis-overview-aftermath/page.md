@@ -1,5 +1,5 @@
 ---
-title: "Savings and Loan Crisis: Overview and Aftermath (Algo Trading)"
+title: "Savings and Loan Crisis: Overview and Aftermath"
 description: "Discover the legacy of the Savings and Loan Crisis its economic impact and lessons for modern finance including the rise of algorithmic trading and risk management."
 ---
 

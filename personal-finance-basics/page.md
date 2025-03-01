@@ -1,5 +1,5 @@
 ---
-title: "Personal Finance Basics (Algo Trading)"
+title: "Personal Finance Basics"
 description: "Explore personal finance and algorithmic trading to optimize your financial strategy. Learn how budgeting, investing, and tech-driven trading can secure your future."
 ---
 

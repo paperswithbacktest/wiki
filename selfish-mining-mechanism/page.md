@@ -1,5 +1,5 @@
 ---
-title: "Selfish Mining and Its Mechanism (Algo Trading)"
+title: "Selfish Mining and Its Mechanism"
 description: "Explore blockchain attacks and the mechanism of selfish mining a strategy disrupting cryptocurrency mining and impacting algorithmic trading reliability."
 ---
 

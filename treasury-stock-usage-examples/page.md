@@ -1,5 +1,5 @@
 ---
-title: "Treasury Stock: Usage and Examples (Algo Trading)"
+title: "Treasury Stock: Usage and Examples"
 description: "Understand the strategic use and impact of treasury stock and share repurchases. Explore how these financial actions affect earnings per share and investor sentiment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Spread Betting: Overview and Mechanics (Algo Trading)"
+title: "Spread Betting: Overview and Mechanics"
 description: "Explore the dynamics of spread betting and algorithmic trading to enhance your trading strategies with flexibility, leverage, and precise automation for improved profitability."
 ---
 

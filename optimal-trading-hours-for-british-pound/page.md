@@ -1,5 +1,5 @@
 ---
-title: "Optimal Trading Hours for the British Pound (Algo Trading)"
+title: "Optimal Trading Hours for the British Pound"
 description: "Discover optimal trading hours and strategies for the British Pound using algorithmic solutions to boost trading efficiency and capitalize on market opportunities."
 ---
 

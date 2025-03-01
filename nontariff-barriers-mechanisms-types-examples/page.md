@@ -1,5 +1,5 @@
 ---
-title: "Nontariff Barriers: Mechanisms, Types, and Examples (Algo Trading)"
+title: "Nontariff Barriers: Mechanisms, Types, and Examples"
 description: "Explore the influence of non-tariff barriers on international trade and algorithmic trading Discover strategies to mitigate their impact and optimize market efficiency"
 ---
 

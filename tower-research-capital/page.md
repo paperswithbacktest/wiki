@@ -1,5 +1,5 @@
 ---
-title: "Tower Research Capital (Algo Trading)"
+title: "Tower Research Capital"
 description: "Explore Tower Research Capital's rise in algorithmic trading since 1998 with innovative strategies focused on speed precision and advanced technology."
 ---
 

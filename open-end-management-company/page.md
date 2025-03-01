@@ -1,5 +1,5 @@
 ---
-title: "Open-End Management Company (Algo Trading)"
+title: "Open-End Management Company"
 description: "Explore the transformative impact of algorithmic trading in open-end management funds, offering access to diversified, expertly-managed portfolios for investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Systematic Tactical Asset Allocation: An Introduction (Algo Trading)"
+title: "Systematic Tactical Asset Allocation: An Introduction"
 description: Explore the dynamic strategy of Systematic Tactical Asset Allocation in Algo Trading with insights on how algorithms enhance responsiveness and decision-making. Understand the synergy between TAA and algorithmic trading to capitalize on short-term market opportunities and optimize asset allocation strategies. Discover the technological advancements reshaping traditional asset management practices in modern financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Multicollinearity in Statistical Models (Algo Trading)"
+title: "Multicollinearity in Statistical Models"
 description: "Explore the critical role of regression analysis in algorithmic trading and address multicollinearity issues to improve model accuracy and enhance strategy development."
 ---
 

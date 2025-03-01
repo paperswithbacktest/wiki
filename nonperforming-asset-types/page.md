@@ -1,5 +1,5 @@
 ---
-title: "Nonperforming Asset Types (Algo Trading)"
+title: "Nonperforming Asset Types"
 description: "Explore the types of Non-Performing Assets affecting banking profitability and stability. Learn how NPAs are classified and managed to mitigate risks."
 ---
 

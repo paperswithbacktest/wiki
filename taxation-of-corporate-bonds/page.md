@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Corporate Bonds (Algo Trading)"
+title: "Taxation of Corporate Bonds"
 description: "Explore corporate bonds and their taxation in algo trading. Understand tax implications on interest income, capital gains, and original issue discount."
 ---
 

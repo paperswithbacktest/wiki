@@ -1,5 +1,5 @@
 ---
-title: "Rich Valuation: Overview, Mechanism, and Examples (Algo Trading)"
+title: "Rich Valuation: Overview, Mechanism, and Examples"
 description: "Explore the multifaceted world of valuation mechanisms in finance ALGO trading and more Delve into methodologies that drive informed investment decisions"
 ---
 

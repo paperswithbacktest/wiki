@@ -1,5 +1,5 @@
 ---
-title: "Soft Stop Order: Functionality and Examples (Algo Trading)"
+title: "Soft Stop Order: Functionality and Examples"
 description: "Explore the dynamic world of soft stop orders in algo trading, offering flexibility and enhancing risk management for informed decision-making in volatile markets."
 ---
 

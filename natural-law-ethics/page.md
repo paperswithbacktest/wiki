@@ -1,5 +1,5 @@
 ---
-title: "Natural Law and Ethics (Algo Trading)"
+title: "Natural Law and Ethics"
 description: "Explore the intersection of natural law and ethics in algorithmic trading Discover how philosophical insights can guide ethical practices and market fairness."
 ---
 

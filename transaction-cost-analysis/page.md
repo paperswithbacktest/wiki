@@ -1,5 +1,5 @@
 ---
-title: "Transaction Cost Analysis (Algo Trading)"
+title: "Transaction Cost Analysis"
 description: "Transaction cost analysis is crucial in algorithmic trading to minimize costs and enhance profitability by addressing explicit and implicit trading expenses."
 ---
 

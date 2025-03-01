@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Value Transfer (Algo Trading)"
+title: "Shareholder Value Transfer"
 description: "understood and executed. By optimizing trading strategies and minimizing errors, algorithmic trading plays a crucial role in enhancing shareholder value and market efficiency."
 ---
 

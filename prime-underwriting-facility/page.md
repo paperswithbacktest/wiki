@@ -1,5 +1,5 @@
 ---
-title: "Prime Underwriting Facility (Algo Trading)"
+title: "Prime Underwriting Facility"
 description: "Explore the innovative intersection of insurance underwriting, prime underwriting facilities, and algorithmic trading to enhance financial strategies and market adaptability."
 ---
 

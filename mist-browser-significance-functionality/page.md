@@ -1,5 +1,5 @@
 ---
-title: "Mist Browser: Significance and Functionality (Algo Trading)"
+title: "Mist Browser: Significance and Functionality"
 description: "Experience seamless and secure algorithmic trading with Mist Browser, offering unique blockchain integration, enhanced security, and cross-platform compatibility for traders."
 ---
 

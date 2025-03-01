@@ -1,5 +1,5 @@
 ---
-title: "Understanding FDI and FPI (Algo Trading)"
+title: "Understanding FDI and FPI"
 description: "Discover the key differences and benefits of Foreign Direct Investment and Foreign Portfolio Investment. Learn how FDI aims for long-term growth through substantial stakes in foreign enterprises, while FPI focuses on liquidity and short-term gains in stocks and bonds. Understand how algorithmic trading enhances these strategies in a global economy."
 ---
 

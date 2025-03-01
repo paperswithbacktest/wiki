@@ -1,5 +1,5 @@
 ---
-title: "Profit Margins in the Food and Beverage Industry (Algo Trading)"
+title: "Profit Margins in the Food and Beverage Industry"
 description: "Explore profit margins in the dynamic food and beverage industry and learn how algorithmic trading impacts financial decisions and operational efficiency."
 ---
 

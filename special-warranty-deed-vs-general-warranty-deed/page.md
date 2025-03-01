@@ -1,5 +1,5 @@
 ---
-title: "Special Warranty Deed vs. General Warranty Deed (Algo Trading)"
+title: "Special Warranty Deed vs. General Warranty Deed"
 description: "Understand the nuances of special and general warranty deeds for real estate transactions Discover how algorithmic trading influences property investments and strategies."
 ---
 

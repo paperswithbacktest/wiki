@@ -1,5 +1,5 @@
 ---
-title: "Tax-Exempt Sector: Overview, Advantages, and Investment Considerations (Algo Trading)"
+title: "Tax-Exempt Sector: Overview, Advantages, and Investment Considerations"
 description: "Explore the growing tax-exempt sector with insights into nonprofit investment strategies and algorithmic trading to enhance financial sustainability and impact."
 ---
 

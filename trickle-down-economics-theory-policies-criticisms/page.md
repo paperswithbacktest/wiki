@@ -1,5 +1,5 @@
 ---
-title: "Trickle-Down Economics: Theory, Policies, and Criticisms (Algo Trading)"
+title: "Trickle-Down Economics: Theory, Policies, and Criticisms"
 description: "Explore the theory and impact of trickle-down economics including its principles policies and criticism while assessing the role of algorithmic trading in modern economic practices."
 ---
 

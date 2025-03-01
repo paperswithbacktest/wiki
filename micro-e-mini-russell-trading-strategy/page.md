@@ -1,5 +1,5 @@
 ---
-title: "Micro E-mini Russell Trading Strategy Explained (Algo Trading)"
+title: "Micro E-mini Russell Trading Strategy Explained"
 description: Discover effective strategies for trading Micro E-mini Russell 2000 futures using algo trading on small-cap U.S. stocks. Learn about the benefits of using algorithmic trading with M2K futures and explore key techniques such as trend following and mean reversion, offering precision and efficiency for retail traders in the financial markets.
 ---
 

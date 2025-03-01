@@ -1,5 +1,5 @@
 ---
-title: "Premium Income Overview and Functionality (Algo Trading)"
+title: "Premium Income Overview and Functionality"
 description: "Explore premium income's role in finance as it intertwines with algorithmic trading and insurance, focusing on risk management and enhanced market strategies."
 ---
 

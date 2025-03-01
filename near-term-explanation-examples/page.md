@@ -1,5 +1,5 @@
 ---
-title: "Near Term: Explanation and Examples (Algo Trading)"
+title: "Near Term: Explanation and Examples"
 description: "Discover the synergy between near-term financial planning and algorithmic trading to efficiently achieve short-term investment goals amidst market fluctuations."
 ---
 

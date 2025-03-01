@@ -1,5 +1,5 @@
 ---
-title: "Momentum Investing: Concept, Calculations, and Debate (Algo Trading)"
+title: "Momentum Investing: Concept, Calculations, and Debate"
 description: "Explore how synergy between momentum investing and algorithmic trading optimizes strategies in financial markets and leverages market trends for improved outcomes."
 ---
 

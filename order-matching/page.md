@@ -1,5 +1,5 @@
 ---
-title: "order matching (Algo Trading)"
+title: "order matching"
 description: "Order matching in algorithmic trading pairs buy and sell orders for efficient trade execution using sophisticated algorithms ensuring market efficiency and fair pricing."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Progress Billings: Purpose, Benefits, and Example (Algo Trading)"
+title: "Progress Billings: Purpose, Benefits, and Example"
 description: "Explore the synergy of construction billing and algorithmic trading to optimize cash flow manage risks and enhance project success with progress billings."
 ---
 

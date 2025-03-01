@@ -1,5 +1,5 @@
 ---
-title: "Precious Metals ETFs: Overview and Functionality (Algo Trading)"
+title: "Precious Metals ETFs: Overview and Functionality"
 description: "Discover how precious metals ETFs offer a modern investment approach while exploring the role of algorithmic trading in optimizing trading strategies and ETF performance."
 ---
 

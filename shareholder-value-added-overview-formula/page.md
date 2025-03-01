@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Value Added: Overview and Formula (Algo Trading)"
+title: "Shareholder Value Added: Overview and Formula"
 description: "Explore how Shareholder Value Added can enhance trading strategies by focusing on long-term value creation beyond costs in algorithmic trading contexts"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Time Series Analysis in Data (Algo Trading)"
+title: "Time Series Analysis in Data"
 description: "Explore the critical role of time series analysis in algorithmic trading to uncover trends and improve trading strategies through advanced forecasting techniques."
 ---
 

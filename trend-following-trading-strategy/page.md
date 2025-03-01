@@ -1,5 +1,5 @@
 ---
-title: "Trend-Following Trading Strategy Explained (Algo Trading)"
+title: "Trend-Following Trading Strategy Explained"
 description: Discover the essentials of trend-following trading strategies in algorithmic trading where traditional techniques blend with modern automation. Learn how these strategies harness market momentum to optimize long-term gains through technical analysis and quantitative rules. Explore their design, effectiveness, market applicability, and inherent pros and cons for an insightful understanding of trend-following methods in capturing market trends.
 ---
 

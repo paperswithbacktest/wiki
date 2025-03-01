@@ -1,5 +1,5 @@
 ---
-title: "Stock Trading Bot Development (Algo Trading)"
+title: "Stock Trading Bot Development"
 description: "Explore stock trading bot development and discover how algo trading enhances efficiency and accuracy in financial markets. Dive into strategies and future trends."
 ---
 

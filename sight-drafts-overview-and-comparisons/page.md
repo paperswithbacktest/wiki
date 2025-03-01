@@ -1,5 +1,5 @@
 ---
-title: "Sight Drafts: Overview and Comparisons (Algo Trading)"
+title: "Sight Drafts: Overview and Comparisons"
 description: "Explore sight drafts, bank drafts, and their significance in algorithmic trading. Understand these financial instruments to enhance market security and efficiency."
 ---
 

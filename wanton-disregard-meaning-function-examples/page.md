@@ -1,5 +1,5 @@
 ---
-title: "Wanton Disregard: Meaning, Function, and Examples (Algo Trading)"
+title: "Wanton Disregard: Meaning, Function, and Examples"
 description: "Explore the critical role of wanton disregard in financial markets particularly in algorithmic trading. Learn its implications and how it can shape market dynamics."
 ---
 

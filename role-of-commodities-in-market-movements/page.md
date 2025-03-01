@@ -1,5 +1,5 @@
 ---
-title: "Role of Commodities in Market Movements (Algo Trading)"
+title: "Role of Commodities in Market Movements"
 description: "Explore how commodities like gold, oil, and copper influence market trends and understand the transformative role of algorithmic trading in financial markets."
 ---
 

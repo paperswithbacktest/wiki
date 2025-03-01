@@ -1,5 +1,5 @@
 ---
-title: "Zero-Coupon Inflation Swap: Formula, Examples, and Benefits (Algo Trading)"
+title: "Zero-Coupon Inflation Swap: Formula, Examples, and Benefits"
 description: "Zero-coupon inflation swaps allow investors to manage inflation risk efficiently through a fixed and inflation-index cash flow exchange highlighting their strategic importance."
 ---
 

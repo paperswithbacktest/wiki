@@ -1,5 +1,5 @@
 ---
-title: "Swap Execution Facility Overview (Algo Trading)"
+title: "Swap Execution Facility Overview"
 description: "Discover how Swap Execution Facilities (SEFs) and algorithmic trading revolutionize derivatives markets by enhancing transparency regulation and trade execution speed."
 ---
 

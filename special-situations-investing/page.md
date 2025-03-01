@@ -1,5 +1,5 @@
 ---
-title: "Special Situations in Investing (Algo Trading)"
+title: "Special Situations in Investing"
 description: "Explore advanced investment strategies with special situations investing and algorithmic trading Understand unique opportunities in corporate events and trading efficiency"
 ---
 

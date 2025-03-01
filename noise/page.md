@@ -1,5 +1,5 @@
 ---
-title: "Noise (Algo Trading)"
+title: "Noise"
 description: Explore the intricacies of noise in algorithmic trading where distinguishing genuine signals from random market fluctuations is crucial. Delve into the sources and impacts of noise and discover how advanced techniques can filter it out to enhance trading precision and strategy effectiveness.
 ---
 

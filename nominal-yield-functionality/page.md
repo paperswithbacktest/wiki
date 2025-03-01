@@ -1,5 +1,5 @@
 ---
-title: "Nominal Yield and Its Functionality (Algo Trading)"
+title: "Nominal Yield and Its Functionality"
 description: "Explore how bond yields, nominal yields, and algorithmic trading intertwine to enhance investment strategies and portfolio optimization in today's financial markets."
 ---
 

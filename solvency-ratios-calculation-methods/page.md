@@ -1,5 +1,5 @@
 ---
-title: "Solvency Ratios and Calculation Methods (Algo Trading)"
+title: "Solvency Ratios and Calculation Methods"
 description: "Explore the critical role of solvency ratios in financial analysis and algorithmic trading Uncover insights on debt obligations and financial stability to enhance trading decisions"
 ---
 

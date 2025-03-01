@@ -1,5 +1,5 @@
 ---
-title: "Weekly RSI vs. Daily RSI Explained (Algo Trading)"
+title: "Weekly RSI vs. Daily RSI Explained"
 description: Explore the differences between weekly and daily Relative Strength Index (RSI) in algorithmic trading. Understand how weekly RSI captures broader market trends by smoothing out short-term noise compared to the more responsive daily RSI. Optimize your trading strategy by choosing the right RSI timeframe that aligns with your trading goals and risk tolerance. This guide investigates into the benefits of incorporating RSI across diverse timeframes, enhancing strategic decision-making for swing traders or long-term investors seeking to capitalize on substantial price movements and market trends.
 ---
 

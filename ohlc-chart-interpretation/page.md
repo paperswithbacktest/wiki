@@ -1,5 +1,5 @@
 ---
-title: "OHLC Chart Interpretation (Algo Trading)"
+title: "OHLC Chart Interpretation"
 description: "Understand the power of OHLC charts in financial market analysis Discover how Open High Low Close charts aid in technical analysis and algorithmic trading strategies."
 ---
 

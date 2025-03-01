@@ -1,5 +1,5 @@
 ---
-title: "Minimum Price Contract: Overview and Example (Algo Trading)"
+title: "Minimum Price Contract: Overview and Example"
 description: "Explore the essential role of minimum price contracts in mitigating market volatility, offering security and predictability in commodity and agricultural markets."
 ---
 

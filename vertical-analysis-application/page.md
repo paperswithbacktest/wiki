@@ -1,5 +1,5 @@
 ---
-title: "Vertical Analysis and Its Application (Algo Trading)"
+title: "Vertical Analysis and Its Application"
 description: "Discover the application of vertical analysis in algo trading to gain insights into financial strategies and enhance decision-making in modern markets."
 ---
 

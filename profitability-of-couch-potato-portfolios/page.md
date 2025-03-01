@@ -1,5 +1,5 @@
 ---
-title: "Profitability of Couch-Potato Portfolios (Algo Trading)"
+title: "Profitability of Couch-Potato Portfolios"
 description: "Explore the simplicity and profitability of couch-potato portfolios in algo trading Learn about passive investing strategy and how to enhance it with algorithmic solutions"
 ---
 

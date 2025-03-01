@@ -1,5 +1,5 @@
 ---
-title: "Phantom Stock Plan: Overview and Types (Algo Trading)"
+title: "Phantom Stock Plan: Overview and Types"
 description: "Explore the synergy between phantom stock plans and algorithmic trading in modern compensation strategies Learn how to enhance employee engagement and retention"
 ---
 

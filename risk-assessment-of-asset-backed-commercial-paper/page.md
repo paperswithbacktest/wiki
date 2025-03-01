@@ -1,5 +1,5 @@
 ---
-title: "Risk Assessment of Asset-Backed Commercial Paper (Algo Trading)"
+title: "Risk Assessment of Asset-Backed Commercial Paper"
 description: "Dive into the world of asset-backed commercial paper and algorithmic trading to explore key investment risks and strategies for informed financial decisions."
 ---
 

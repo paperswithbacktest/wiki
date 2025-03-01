@@ -1,5 +1,5 @@
 ---
-title: "SEC Regulations on Short Selling (Algo Trading)"
+title: "SEC Regulations on Short Selling"
 description: "Explore SEC regulations on short selling and algorithmic trading, vital for market stability and integrity Learn how these rules impact traders and investors alike"
 ---
 

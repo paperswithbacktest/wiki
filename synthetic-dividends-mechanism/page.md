@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Dividends and Their Mechanism (Algo Trading)"
+title: "Synthetic Dividends and Their Mechanism"
 description: "Explore synthetic dividends and algorithmic trading to enhance portfolio returns in dynamic markets using advanced financial mechanisms and technologies."
 ---
 

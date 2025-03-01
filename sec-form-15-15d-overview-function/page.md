@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 15-15D Overview and Function (Algo Trading)"
+title: "SEC Form 15-15D Overview and Function"
 description: "Explore SEC Form 15-15D and its role in financial deregistration and algorithmic trading Learn how these processes impact market activities and trading strategies"
 ---
 

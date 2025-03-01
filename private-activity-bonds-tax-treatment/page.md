@@ -1,5 +1,5 @@
 ---
-title: "Private Activity Bonds and Tax Treatment (Algo Trading)"
+title: "Private Activity Bonds and Tax Treatment"
 description: "Explore Private Activity Bonds their tax treatment and the impact of algorithmic trading. Understand these complex financial instruments for better investment strategies."
 ---
 

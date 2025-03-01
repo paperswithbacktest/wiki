@@ -1,5 +1,5 @@
 ---
-title: "Whisky Investment Explained (Algo Trading)"
+title: "Whisky Investment Explained"
 description: Discover the intriguing world of whisky investment and algorithmic trading on this page. Learn how whisky has become a prominent alternative investment, driven by its unique characteristics and potential for lucrative returns. Explore the role of algorithmic trading in managing whisky portfolios, integrating technology with traditional investing to enhance diversification and return potential. Uncover the opportunities and challenges within the whisky market and understand the dynamics of investing in both bottles and casks. This comprehensive guide helps investors navigate the nuances of whisky investments, offering insights into this distinctive asset class.
 ---
 

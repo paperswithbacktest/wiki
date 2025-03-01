@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Investing for Beginners (Algo Trading)"
+title: "Real Estate Investing for Beginners"
 description: "Explore real estate investing for beginners with a focus on algorithmic trading Discover strategies to enhance returns and navigate the market confidently"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "World Bank Group Overview (Algo Trading)"
+title: "World Bank Group Overview"
 description: "Explore the synergy between the World Bank Group's mission to reduce poverty and the capabilities of algorithmic trading which enhances market efficiency."
 ---
 

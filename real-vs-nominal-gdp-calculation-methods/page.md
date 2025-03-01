@@ -1,5 +1,5 @@
 ---
-title: "Real vs. Nominal GDP: Calculation Methods (Algo Trading)"
+title: "Real vs. Nominal GDP: Calculation Methods"
 description: "Discover the importance of nominal and real GDP in economic analysis and algorithmic trading in this insightful article. Learn how nominal GDP offers a snapshot using current prices while real GDP adjusts for inflation, providing a true picture of growth. Understand their application in algorithmic trading to enhance investment strategies by leveraging genuine economic insights and accurate data analysis for optimal financial decisions."
 ---
 

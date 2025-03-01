@@ -1,5 +1,5 @@
 ---
-title: "Rule 10b-5 and Securities Fraud (Algo Trading)"
+title: "Rule 10b-5 and Securities Fraud"
 description: "Explore the connection between Rule 10b-5 securities fraud and algorithmic trading Discover how regulation impacts market integrity and financial stability"
 ---
 

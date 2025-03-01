@@ -1,5 +1,5 @@
 ---
-title: "Treynor-Black Model: Overview and Applications (Algo Trading)"
+title: "Treynor-Black Model: Overview and Applications"
 description: "Explore the Treynor-Black Model's benefits in portfolio management integrating active and passive strategies for optimized returns in today's markets."
 ---
 

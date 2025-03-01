@@ -1,5 +1,5 @@
 ---
-title: "Return on Equity as a Tool for Identifying Profitable Stocks (Algo Trading)"
+title: "Return on Equity as a Tool for Identifying Profitable Stocks"
 description: "Discover how Return on Equity can identify profitable stocks and enhance trading strategies through algorithmic trading for optimal investment returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Privileged Communication: Mechanisms and Examples (Algo Trading)"
+title: "Privileged Communication: Mechanisms and Examples"
 description: "Explore the critical role of privileged communication in protecting sensitive strategies in algorithmic trading and fintech. Ensure legal compliance and confidentiality."
 ---
 

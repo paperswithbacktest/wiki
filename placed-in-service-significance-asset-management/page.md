@@ -1,5 +1,5 @@
 ---
-title: "Placed-in-Service Significance in Asset Management (Algo Trading)"
+title: "Placed-in-Service Significance in Asset Management"
 description: "Understand placed-in-service significance in asset management with insights into asset efficiency, tax benefits, and the role of algorithmic trading in optimizing strategies."
 ---
 

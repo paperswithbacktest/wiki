@@ -1,5 +1,5 @@
 ---
-title: "Negative Feedback: Mechanism and Function (Algo Trading)"
+title: "Negative Feedback: Mechanism and Function"
 description: "Explore how negative feedback mechanisms in algorithmic trading stabilize financial markets by managing volatility, enhancing market balance, and optimizing trades."
 ---
 

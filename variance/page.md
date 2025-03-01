@@ -1,5 +1,5 @@
 ---
-title: "Variance (Algo Trading)"
+title: "Variance"
 description: Explore the critical role of variance in algorithmic trading and its impact on trading strategies. Understand how managing variance can enhance profitability and align with risk tolerance. Learn techniques for assessing and controlling variance to develop robust strategies that maximize potential returns while mitigating risk. Discover the relationship between variance and volatility, and explore real-world examples illustrating variance's influence on strategy outcomes. Equip yourself with insights to optimize trading strategies for stable returns by effectively understanding and managing variance.
 ---
 

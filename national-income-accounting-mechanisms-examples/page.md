@@ -1,5 +1,5 @@
 ---
-title: "National Income Accounting: Mechanisms and Examples (Algo Trading)"
+title: "National Income Accounting: Mechanisms and Examples"
 description: "Explore how national income accounting and economic indicators shape financial analysis through algorithmic trading, offering insights for informed decision-making."
 ---
 

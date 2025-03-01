@@ -1,5 +1,5 @@
 ---
-title: "Pegging of the Chinese Yuan (Algo Trading)"
+title: "Pegging of the Chinese Yuan"
 description: "Explore the Chinese Yuan's currency peg and its impact on global markets and economic stability alongside the role of algorithmic trading in currency management."
 ---
 

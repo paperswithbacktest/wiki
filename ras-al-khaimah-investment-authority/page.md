@@ -1,5 +1,5 @@
 ---
-title: "Ras Al Khaimah Investment Authority (Algo Trading)"
+title: "Ras Al Khaimah Investment Authority"
 description: "Explore investment opportunities with Ras Al Khaimah Investment Authority as it leverages algorithmic trading to drive economic growth and attract global investors."
 ---
 

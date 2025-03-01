@@ -1,5 +1,5 @@
 ---
-title: "Outright Option: Meaning and Functionality (Algo Trading)"
+title: "Outright Option: Meaning and Functionality"
 description: "Explore the intricacies of outright options and their function in algo trading Gain insights into options trading strategies and financial derivatives for better market engagement"
 ---
 

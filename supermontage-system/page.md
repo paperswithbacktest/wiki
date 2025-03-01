@@ -1,5 +1,5 @@
 ---
-title: "SuperMontage System (Algo Trading)"
+title: "SuperMontage System"
 description: "The SuperMontage system revolutionizes algorithmic trading with superb integration features boosting execution accuracy transparency and market responsiveness."
 ---
 

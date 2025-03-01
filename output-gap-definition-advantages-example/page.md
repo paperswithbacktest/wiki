@@ -1,5 +1,5 @@
 ---
-title: "Output Gap: Definition, Advantages, and Example (Algo Trading)"
+title: "Output Gap: Definition, Advantages, and Example"
 description: "Explore the dynamic interplay between the output gap and algorithmic trading, crucial aspects of contemporary economic analysis and trading. Understand how the output gap measures an economy's production efficiency, indicating potential risks of inflation or recession. Discover the transformative role of algorithmic trading in financial markets, offering rapid trade execution and market efficiency. This article provides insights into their advantages and limitations, highlighting their impact on global economic stability and investor confidence."
 ---
 

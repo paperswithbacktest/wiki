@@ -1,5 +1,5 @@
 ---
-title: "Ripple (Algo Trading)"
+title: "Ripple"
 description: "Explore Ripple's unique blockchain and algorithmic trading potential Discover how Ripple's efficiency and speed enhance trading strategies in the crypto market"
 ---
 

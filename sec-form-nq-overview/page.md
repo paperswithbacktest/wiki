@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-Q Overview (Algo Trading)"
+title: "SEC Form N-Q Overview"
 description: "Explore the evolution of SEC Form N-Q and its replacement by Form N-PORT, highlighting changes in reporting frequency and data transparency for investment companies."
 ---
 

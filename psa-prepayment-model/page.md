@@ -1,5 +1,5 @@
 ---
-title: "PSA Prepayment Model (Algo Trading)"
+title: "PSA Prepayment Model"
 description: "Explore how the PSA prepayment model integrates with algorithmic trading to enhance decision-making in managing mortgage-backed securities risks and optimize portfolios."
 ---
 

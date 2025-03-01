@@ -1,5 +1,5 @@
 ---
-title: "Overhead Rate: Meaning, Formula, Calculation, and Uses (Algo Trading)"
+title: "Overhead Rate: Meaning, Formula, Calculation, and Uses"
 description: "Discover how mastering overhead rates in algorithmic trading enhances cost efficiency and strategic decision-making through precise financial analytics."
 ---
 

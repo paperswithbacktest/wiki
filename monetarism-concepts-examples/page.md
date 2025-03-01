@@ -1,5 +1,5 @@
 ---
-title: "Monetarism: Concepts and Examples (Algo Trading)"
+title: "Monetarism: Concepts and Examples"
 description: "Explore the relationship between monetarism and algorithmic trading as this page investigates into how economic theory shapes modern financial practices and policy impacts."
 ---
 

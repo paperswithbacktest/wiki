@@ -1,5 +1,5 @@
 ---
-title: "U.S. Dollar Index (USDX): Overview and Trading Strategies (Algo Trading)"
+title: "U.S. Dollar Index (USDX): Overview and Trading Strategies"
 description: "Explore key insights into the U.S. Dollar Index (USDX) and the integration of algorithmic trading strategies that enhance trading efficiency, adaptability, and profitability. Learn how to capitalize on currency movements through sophisticated techniques that reduce emotional biases and improve decision-making for traders, investors, and financial analysts."
 ---
 

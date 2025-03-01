@@ -1,5 +1,5 @@
 ---
-title: "Monopolistic Markets: Characteristics, History, and Impact (Algo Trading)"
+title: "Monopolistic Markets: Characteristics, History, and Impact"
 description: "Explore the dynamics of monopolistic markets focusing on characteristics history and impacts including algorithmic trading's role in shaping economic landscapes."
 ---
 

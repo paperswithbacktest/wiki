@@ -1,5 +1,5 @@
 ---
-title: "Sales: Mechanisms, Types, and Payment Methods (Algo Trading)"
+title: "Sales: Mechanisms, Types, and Payment Methods"
 description: "Understanding sales mechanisms and payment methods in algo trading is key for traders to streamline transactions enhance strategies and maintain competitiveness."
 ---
 

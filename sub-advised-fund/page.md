@@ -1,5 +1,5 @@
 ---
-title: "Sub-Advised Fund (Algo Trading)"
+title: "Sub-Advised Fund"
 description: "Discover the world of sub-advised funds and algorithmic trading in a rapidly evolving financial landscape offering innovative investment strategies and opportunities."
 ---
 

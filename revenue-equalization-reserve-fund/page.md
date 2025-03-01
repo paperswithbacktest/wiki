@@ -1,5 +1,5 @@
 ---
-title: "Revenue Equalization Reserve Fund (Algo Trading)"
+title: "Revenue Equalization Reserve Fund"
 description: "Explore the pivotal role of the Revenue Equalization Reserve Fund in stabilizing economies by managing revenue volatility and integrating algorithmic trading strategies."
 ---
 

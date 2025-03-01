@@ -1,5 +1,5 @@
 ---
-title: "Stalwart: Definition, Application, and Example (Algo Trading)"
+title: "Stalwart: Definition, Application, and Example"
 description: "Explore how 'stalwart' companies, known for stability and consistent growth, are identified and leveraged in algorithmic trading to enhance investment strategies."
 ---
 

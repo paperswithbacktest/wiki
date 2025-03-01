@@ -1,5 +1,5 @@
 ---
-title: "Mumbai Interbank Bid Rate: Overview and History (Algo Trading)"
+title: "Mumbai Interbank Bid Rate: Overview and History"
 description: "Discover how the Mumbai Interbank Bid Rate MIBID and MIBOR influence India's financial market, algorithmic trading, and their critical role in liquidity management."
 ---
 

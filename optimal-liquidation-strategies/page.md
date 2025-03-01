@@ -1,5 +1,5 @@
 ---
-title: "Optimal liquidation strategies (Algo Trading)"
+title: "Optimal liquidation strategies"
 description: "Optimize algorithmic trading performance with effective liquidation strategies that minimize market impact Learn advanced techniques including neural networks to enhance returns"
 ---
 

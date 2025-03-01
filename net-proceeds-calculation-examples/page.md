@@ -1,5 +1,5 @@
 ---
-title: "Net Proceeds: Calculation and Examples (Algo Trading)"
+title: "Net Proceeds: Calculation and Examples"
 description: "Explore how net proceeds influence algorithmic trading strategies by understanding their calculation and crucial role in optimizing financial performance and decision-making strategies."
 ---
 

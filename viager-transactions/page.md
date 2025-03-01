@@ -1,5 +1,5 @@
 ---
-title: "Viager Transactions (Algo Trading)"
+title: "Viager Transactions"
 description: "Explore innovative viager transactions and algorithmic trading as they revolutionize real estate and financial markets offering unique opportunities and challenges."
 ---
 

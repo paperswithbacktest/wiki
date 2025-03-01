@@ -1,5 +1,5 @@
 ---
-title: "Upside Gap Two Crows: Analysis and Limitations (Algo Trading)"
+title: "Upside Gap Two Crows: Analysis and Limitations"
 description: "Analyze the Upside Gap Two Crows pattern for algorithmic trading strategies Learn its significance limitations and how it can forecast market reversals efficiently"
 ---
 

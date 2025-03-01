@@ -1,5 +1,5 @@
 ---
-title: "Using the Commodity Channel Index for Trading Strategies (Algo Trading)"
+title: "Using the Commodity Channel Index for Trading Strategies"
 description: "Discover the benefits of the Commodity Channel Index for algorithmic trading Explore strategies to automate decisions and optimize market opportunities"
 ---
 

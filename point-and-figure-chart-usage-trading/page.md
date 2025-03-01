@@ -1,5 +1,5 @@
 ---
-title: "Point-and-Figure Chart Usage in Trading (Algo Trading)"
+title: "Point-and-Figure Chart Usage in Trading"
 description: "Discover how Point-and-Figure charts enhance trading strategies by focusing solely on price movements. Explore their unique advantages in algorithmic trading."
 ---
 

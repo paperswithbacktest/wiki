@@ -1,5 +1,5 @@
 ---
-title: "Staking Solana (Algo Trading)"
+title: "Staking Solana"
 description: "Explore the lucrative world of Staking Solana and Algorithmic Trading Discover how these two investment strategies can enhance your crypto portfolio and returns"
 ---
 

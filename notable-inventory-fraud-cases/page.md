@@ -1,5 +1,5 @@
 ---
-title: "Notable Inventory Fraud Cases (Algo Trading)"
+title: "Notable Inventory Fraud Cases"
 description: "Explore significant inventory fraud cases in algorithmic trading uncovering notorious scandals like Equity Funding and Crazy Eddie while understanding emerging risks."
 ---
 

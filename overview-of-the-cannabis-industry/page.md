@@ -1,5 +1,5 @@
 ---
-title: "Overview of the Cannabis Industry (Algo Trading)"
+title: "Overview of the Cannabis Industry"
 description: "Explore the merger of the cannabis industry and algorithmic trading underscoring growth potential through innovation in volatile markets fostering new investment avenues."
 ---
 

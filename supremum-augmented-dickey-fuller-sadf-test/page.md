@@ -1,5 +1,5 @@
 ---
-title: "Supremum augmented Dickey-Fuller (SADF) test (Algo Trading)"
+title: "Supremum augmented Dickey-Fuller (SADF) test"
 description: Discover how the Supremum Augmented Dickey-Fuller (SADF) test is used in algorithmic trading to detect financial bubbles early. This advanced statistical method helps identify periods of explosiveness in time series data, offering traders a strategic advantage in volatile markets. Learn about the importance of recognizing asset bubbles and how incorporating SADF test into trading algorithms can enhance decision-making and mitigate potential financial losses.
 ---
 

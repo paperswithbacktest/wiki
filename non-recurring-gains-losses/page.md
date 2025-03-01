@@ -1,5 +1,5 @@
 ---
-title: "Non-Recurring Gains and Losses (Algo Trading)"
+title: "Non-Recurring Gains and Losses"
 description: "Explore non-recurring gains and losses in financial accounting and their impact on algorithmic trading. Learn to analyze and interpret financial statements effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Retail Repurchase Agreement: Overview and Mechanics (Algo Trading)"
+title: "Retail Repurchase Agreement: Overview and Mechanics"
 description: "Explore the dynamics of retail repurchase agreements and algorithmic trading in the repo market Discover how they enhance liquidity and refine investment strategies"
 ---
 

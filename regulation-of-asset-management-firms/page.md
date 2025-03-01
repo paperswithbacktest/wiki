@@ -1,5 +1,5 @@
 ---
-title: "Regulation of Asset Management Firms (Algo Trading)"
+title: "Regulation of Asset Management Firms"
 description: "Explore the evolving role of algorithmic trading in asset management as firms navigate a complex regulatory landscape to ensure investor protection and market integrity."
 ---
 

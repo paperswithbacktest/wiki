@@ -1,5 +1,5 @@
 ---
-title: "stochastic volatility modeling (Algo Trading)"
+title: "stochastic volatility modeling"
 description: "Stochastic volatility modeling is crucial for algorithmic trading offering a dynamic approach to managing risk by adapting to market fluctuations in real-time."
 ---
 

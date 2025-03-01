@@ -1,5 +1,5 @@
 ---
-title: "Trading VIX and Market Volatility with ETFs (Algo Trading)"
+title: "Trading VIX and Market Volatility with ETFs"
 description: "Explore strategies for trading VIX and market volatility with ETFs and algorithmic tools Gain insights into leveraging market dynamics for optimized performance"
 ---
 

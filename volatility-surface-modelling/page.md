@@ -1,5 +1,5 @@
 ---
-title: "Volatility Surface Modelling (Algo Trading)"
+title: "Volatility Surface Modelling"
 description: "Explore the crucial role of volatility surface modeling in algorithmic trading Understand its applications in options pricing risk management and trading strategies"
 ---
 

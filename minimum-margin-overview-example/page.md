@@ -1,5 +1,5 @@
 ---
-title: "Minimum Margin: Overview and Example (Algo Trading)"
+title: "Minimum Margin: Overview and Example"
 description: "Explore the pivotal role of minimum margin, margin accounts, and algorithmic trading in enhancing trading strategies, optimizing returns, and managing risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Universal portfolio algorithm (Algo Trading)"
+title: "Universal portfolio algorithm"
 description: "Discover the Universal Portfolio Algorithm a dynamic investment strategy by Thomas Cover that maximizes long-term growth through adaptive asset allocation."
 ---
 

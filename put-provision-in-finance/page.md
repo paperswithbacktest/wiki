@@ -1,5 +1,5 @@
 ---
-title: "Put Provision in Finance (Algo Trading)"
+title: "Put Provision in Finance"
 description: "Discover how put provisions and algorithmic trading in the financial markets enhance investment strategies and risk management for optimized returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Moving Averages: Simple, Weighted, and Exponential (Algo Trading)"
+title: "Moving Averages: Simple, Weighted, and Exponential"
 description: "Explore the essential role of moving averages in algorithmic trading encompassing SMA WMA and EMA to identify trends and make informed market decisions."
 ---
 

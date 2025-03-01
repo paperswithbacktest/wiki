@@ -1,5 +1,5 @@
 ---
-title: "Zoning Ordinance Regulations: Types, Benefits, and Drawbacks (Algo Trading)"
+title: "Zoning Ordinance Regulations: Types, Benefits, and Drawbacks"
 description: "Explore zoning ordinance regulations and discover their impact on urban planning from residential and commercial to industrial types plus benefits and challenges."
 ---
 

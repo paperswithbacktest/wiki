@@ -1,5 +1,5 @@
 ---
-title: "Time in Force in Financial Markets (Algo Trading)"
+title: "Time in Force in Financial Markets"
 description: "Explore the significance of Time in Force (TIF) in algorithmic trading to enhance order execution precision, mitigate risk, and optimize trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Status quo bias (Algo Trading)"
+title: "Status quo bias"
 description: Explore the influence of status quo bias on algorithmic trading and its impact on financial decision-making. Understand how this cognitive bias, a preference for maintaining existing conditions, affects traders' reluctance to modify strategies despite market changes. Learn how recognizing and addressing status quo bias can improve trading outcomes and strategy adaptability. Discover the role of cognitive biases like loss aversion in reinforcing status quo tendencies and how traders can counteract these forces for optimized portfolio management and performance.
 ---
 

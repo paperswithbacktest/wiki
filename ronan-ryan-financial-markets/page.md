@@ -1,5 +1,5 @@
 ---
-title: "Ronan Ryan: Key Figure in Financial Markets (Algo Trading)"
+title: "Ronan Ryan: Key Figure in Financial Markets"
 description: "Explore Ronan Ryan's pivotal role in advocating for fair trading practices, addressing imbalances in high-frequency trading, and enhancing market integrity."
 ---
 

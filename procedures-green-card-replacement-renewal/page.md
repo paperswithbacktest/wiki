@@ -1,5 +1,5 @@
 ---
-title: "Procedures for Green Card Replacement or Renewal (Algo Trading)"
+title: "Procedures for Green Card Replacement or Renewal"
 description: "Explore essential procedures for green card replacement or renewal and its importance for U.S. immigrants. Learn how residency aids in algo trading pursuits."
 ---
 

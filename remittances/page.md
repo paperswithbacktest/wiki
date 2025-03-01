@@ -1,5 +1,5 @@
 ---
-title: "Remittances (Algo Trading)"
+title: "Remittances"
 description: "Explore how algorithmic trading and technological advancements are transforming remittances and international payments, enhancing cost-efficiency and speed."
 ---
 

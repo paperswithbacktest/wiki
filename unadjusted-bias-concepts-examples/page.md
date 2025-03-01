@@ -1,5 +1,5 @@
 ---
-title: "Unadjusted Bias: Concepts and Examples (Algo Trading)"
+title: "Unadjusted Bias: Concepts and Examples"
 description: "Explore the impact of unadjusted biases in algorithmic trading and their potential to distort trading strategies. Learn how to identify and mitigate these biases."
 ---
 

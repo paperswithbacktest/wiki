@@ -1,5 +1,5 @@
 ---
-title: "Poverty Gap: Measurement and Index (Algo Trading)"
+title: "Poverty Gap: Measurement and Index"
 description: "This article investigates into measuring poverty through indices like the poverty gap and explores the intersection of financial technology such as algorithmic trading with poverty alleviation efforts. It discusses how poverty metrics help devise economic policies and examines the potential of digital finance to enhance economic inclusivity. By analyzing these domains, the article sheds light on innovative strategies to address economic disparities, providing insights for policymakers and social researchers."
 ---
 

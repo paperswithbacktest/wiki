@@ -1,5 +1,5 @@
 ---
-title: "Poloniex: Overview, Functionality, and Objectives (Algo Trading)"
+title: "Poloniex: Overview, Functionality, and Objectives"
 description: "Explore Poloniex's role in cryptocurrency trading, focusing on its algorithmic trading support and vast crypto offerings, enhancing speed and efficiency in trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Monetarism and Inflation Control Through Money Supply (Algo Trading)"
+title: "Monetarism and Inflation Control Through Money Supply"
 description: "Explore the role of monetarism and algorithmic trading in inflation control and economic stability by examining their impact on financial market dynamics."
 ---
 

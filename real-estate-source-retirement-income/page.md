@@ -1,5 +1,5 @@
 ---
-title: "Real Estate as a Source of Retirement Income (Algo Trading)"
+title: "Real Estate as a Source of Retirement Income"
 description: "Explore how real estate investments combined with algorithmic trading can bolster retirement income by providing consistent cash flow and maximizing returns."
 ---
 

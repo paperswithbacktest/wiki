@@ -1,5 +1,5 @@
 ---
-title: "Overview of Fannie Mae and Freddie Mac (Algo Trading)"
+title: "Overview of Fannie Mae and Freddie Mac"
 description: "Explore how Fannie Mae and Freddie Mac are embracing algorithmic trading to revolutionize mortgage finance enhancing liquidity, efficiency, and risk management."
 ---
 

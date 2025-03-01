@@ -1,5 +1,5 @@
 ---
-title: "Robert M. Solow: Contributions and Legacy (Algo Trading)"
+title: "Robert M. Solow: Contributions and Legacy"
 description: "Explore Robert M. Solow's influential economic growth theories, including the Nobel-winning Solow Model's impact on modern practices like algorithmic trading."
 ---
 

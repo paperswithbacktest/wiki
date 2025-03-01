@@ -1,5 +1,5 @@
 ---
-title: "Stare Decisis in Law: Definition and Examples (Algo Trading)"
+title: "Stare Decisis in Law: Definition and Examples"
 description: "Explore the principle of stare decisis and its impact on law, including how it ensures consistency and guides the legal framework for evolving practices like algorithmic trading."
 ---
 

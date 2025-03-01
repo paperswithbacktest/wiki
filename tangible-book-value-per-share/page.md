@@ -1,5 +1,5 @@
 ---
-title: "Tangible Book Value Per Share (Algo Trading)"
+title: "Tangible Book Value Per Share"
 description: "Tangible Book Value Per Share is a vital measure in evaluating a company's financial health and intrinsic value by focusing exclusively on tangible assets. This metric excludes intangible assets, providing a conservative valuation that is especially useful in volatile markets. It aids investors and analysts in understanding a company’s true worth by highlighting its liquidation value potential. TBVPS is also utilized in algorithmic trading for assessing investment opportunities and identifying market discrepancies. It aligns with value investing principles by highlighting undervalued stocks, offering insights into a company’s tangible net worth, and aiding financial analysis and trading strategies."
 ---
 

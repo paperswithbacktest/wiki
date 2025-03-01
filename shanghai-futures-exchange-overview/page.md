@@ -1,5 +1,5 @@
 ---
-title: "Shanghai Futures Exchange Overview (Algo Trading)"
+title: "Shanghai Futures Exchange Overview"
 description: "Explore the Shanghai Futures Exchange to understand its pivotal role in China's commodities markets, focusing on metals and energy trading plus algo trading advancements."
 ---
 

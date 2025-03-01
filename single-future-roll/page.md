@@ -1,5 +1,5 @@
 ---
-title: "Single future roll (Algo Trading)"
+title: "Single future roll"
 description: Algorithmic trading in single futures, particularly in the Nifty futures market, offers traders enhanced speed and precision in executing trades through automation. This trading method leverages computer programs to identify optimal buy/sell signals, allowing for improved efficiency and potential profitability. The Nifty futures, based on India's Nifty 50 index, provide diversified exposure to the country's top companies. By implementing strategies such as single future rolls, traders can maintain continuous market exposure, minimize costs, and optimize their positions, making algorithmic trading a robust choice for engaging in these financial instruments.
 ---
 

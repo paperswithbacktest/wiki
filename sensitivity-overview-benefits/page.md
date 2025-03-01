@@ -1,5 +1,5 @@
 ---
-title: "Sensitivity: Overview and Benefits (Algo Trading)"
+title: "Sensitivity: Overview and Benefits"
 description: "Explore the significance of sensitivity analysis in algorithmic trading It enhances strategy robustness by evaluating parameter impact optimizing performance under market fluctuations"
 ---
 

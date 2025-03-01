@@ -1,5 +1,5 @@
 ---
-title: "Reclamation: Definition and Processes (Algo Trading)"
+title: "Reclamation: Definition and Processes"
 description: "Explore the intersection of land reclamation and algorithmic trading to understand how sustainable finance strategies leverage technology for ecological and economic benefits."
 ---
 

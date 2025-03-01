@@ -1,5 +1,5 @@
 ---
-title: "Series B Financing: Examples and Sources (Algo Trading)"
+title: "Series B Financing: Examples and Sources"
 description: "Explore Series B financing in algo trading, highlighting funding sources and successful examples that illustrate this crucial investment stage for growth."
 ---
 

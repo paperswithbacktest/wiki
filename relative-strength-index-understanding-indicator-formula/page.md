@@ -1,5 +1,5 @@
 ---
-title: "Relative Strength Index: Understanding the Indicator and Its Formula (Algo Trading)"
+title: "Relative Strength Index: Understanding the Indicator and Its Formula"
 description: "Discover the power of the Relative Strength Index (RSI) in algorithmic trading to evaluate market momentum and predict price reversals. Learn about its history, calculation formula, and strategic application in diverse trading environments. Understand how the RSI, oscillating between 0 and 100, can signal potential overbought or oversold conditions, aiding traders in making informed decisions. Enhance your trading strategy by integrating the RSI with other indicators to refine your market analysis and optimize entry and exit points for better trading outcomes."
 ---
 

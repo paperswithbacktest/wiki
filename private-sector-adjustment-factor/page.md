@@ -1,5 +1,5 @@
 ---
-title: "Private Sector Adjustment Factor (Algo Trading)"
+title: "Private Sector Adjustment Factor"
 description: "Explore the critical intersection of the Private Sector Adjustment Factor and algorithmic trading to optimize your financial strategies and economic outcomes."
 ---
 

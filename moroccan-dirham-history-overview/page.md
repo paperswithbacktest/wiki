@@ -1,5 +1,5 @@
 ---
-title: "Moroccan Dirham: History and Overview (Algo Trading)"
+title: "Moroccan Dirham: History and Overview"
 description: "Explore the historical and economic significance of the Moroccan Dirham and its role in algo trading Learn how the MAD impacts tourism investment and forex markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SEC Form ARS (Algo Trading)"
+title: "SEC Form ARS"
 description: "Discover the importance of SEC Form ARS in providing insight into a company’s financial performance and strategic direction with shareholder-focused transparency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Risk and Reward in Trading High-Beta Stocks (Algo Trading)"
+title: "Risk and Reward in Trading High-Beta Stocks"
 description: "Explore the dynamics of trading high-beta stocks with algorithmic strategies Learn how to balance risk and reward for optimized investment success."
 ---
 

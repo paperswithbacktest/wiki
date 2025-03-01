@@ -1,5 +1,5 @@
 ---
-title: "Repayment Processes for Various Loan Types (Algo Trading)"
+title: "Repayment Processes for Various Loan Types"
 description: "Explore various loan types and their repayment strategies highlighting the role of algorithmic trading in optimizing and streamlining the loan management process."
 ---
 

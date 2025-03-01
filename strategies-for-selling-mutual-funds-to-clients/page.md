@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Selling Mutual Funds to Clients (Algo Trading)"
+title: "Strategies for Selling Mutual Funds to Clients"
 description: "Enhance client portfolios by integrating mutual funds and algorithmic trading These strategies offer diversification and precision to optimize investment outcomes"
 ---
 

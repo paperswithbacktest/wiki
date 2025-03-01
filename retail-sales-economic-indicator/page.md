@@ -1,5 +1,5 @@
 ---
-title: "Retail Sales as an Economic Indicator (Algo Trading)"
+title: "Retail Sales as an Economic Indicator"
 description: "Retail sales act as a pivotal economic indicator offering valuable insights into consumer demand and overall economic health. As they encompass the purchase of finished goods, retail sales data help in understanding trends in consumer spending which are crucial for economic forecasting and investment strategies. Positive retail sales figures often correlate with robust consumer confidence and market growth whereas weak figures might indicate economic downturns. In algorithmic trading, retail sales data are instrumental in refining market behavior models and optimizing trading decisions by processing vast economic datasets. Through meticulous monitoring and analysis retail sales data play a significant role in guiding financial markets and economic policies."
 ---
 

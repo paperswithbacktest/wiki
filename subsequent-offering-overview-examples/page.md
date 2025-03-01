@@ -1,5 +1,5 @@
 ---
-title: "Subsequent Offering: Overview and Examples (Algo Trading)"
+title: "Subsequent Offering: Overview and Examples"
 description: "Explore the pivotal role of subsequent offerings in capital raising and market dynamics for public companies. Essential insights for investors and algorithmic traders."
 ---
 

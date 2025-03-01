@@ -1,5 +1,5 @@
 ---
-title: "Suzanne Cosgrove: A Profile (Algo Trading)"
+title: "Suzanne Cosgrove: A Profile"
 description: "Explore the multifaceted career of Suzanne Cosgrove a key figure in finance and journalism known for her contributions to algorithmic trading insights."
 ---
 

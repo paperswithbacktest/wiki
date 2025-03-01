@@ -1,5 +1,5 @@
 ---
-title: "Warrant Coverage in Finance (Algo Trading)"
+title: "Warrant Coverage in Finance"
 description: "Explore the integration of warrant coverage and algorithmic trading and how their synergy enhances investment strategies for superior returns in modern finance."
 ---
 

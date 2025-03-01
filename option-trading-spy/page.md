@@ -1,5 +1,5 @@
 ---
-title: "Option Trading with SPY (Algo Trading)"
+title: "Option Trading with SPY"
 description: Explore the intricacies of trading SPY options with algorithmic strategies, combining precision and speed to manage portfolio risk, speculate, or hedge effectively. Learn how high liquidity, extended trading hours, and tight spreads make SPY options a favorite among traders, while automated strategies enhance market efficiency and trading performance in the ever-evolving financial landscape.
 ---
 

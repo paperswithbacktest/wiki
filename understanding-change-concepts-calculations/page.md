@@ -1,5 +1,5 @@
 ---
-title: "Understanding Change: Concepts and Calculations (Algo Trading)"
+title: "Understanding Change: Concepts and Calculations"
 description: "Explore algorithmic trading with a focus on change calculations vital for strategic decision-making. Learn how traders use these metrics for market success."
 ---
 

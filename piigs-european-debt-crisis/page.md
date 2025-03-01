@@ -1,5 +1,5 @@
 ---
-title: "PIIGS and the European Debt Crisis (Algo Trading)"
+title: "PIIGS and the European Debt Crisis"
 description: "Explore the impact of algorithmic trading on the European Debt Crisis and the PIIGS countries. Analyze crisis origins and EU stabilization measures."
 ---
 

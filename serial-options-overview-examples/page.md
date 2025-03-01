@@ -1,5 +1,5 @@
 ---
-title: "Serial Options: Overview and Examples (Algo Trading)"
+title: "Serial Options: Overview and Examples"
 description: "Explore serial options and algorithmic trading in modern finance Discover how these innovative tools can enhance risk management and optimize investments."
 ---
 

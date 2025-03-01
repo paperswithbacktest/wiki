@@ -1,5 +1,5 @@
 ---
-title: "Types of Companies in the Energy Sector (Algo Trading)"
+title: "Types of Companies in the Energy Sector"
 description: "Explore the diverse energy sector and discover how algorithmic trading is revolutionizing oil gas renewables and utilities by enhancing efficiencies and opportunities."
 ---
 

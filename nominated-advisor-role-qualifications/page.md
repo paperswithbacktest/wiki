@@ -1,5 +1,5 @@
 ---
-title: "Nominated Advisor: Role and Qualifications (Algo Trading)"
+title: "Nominated Advisor: Role and Qualifications"
 description: "Nominated Advisors (NOMADs) are crucial for firms eyeing AIM listings aiding in regulatory compliance and adapting to the shift towards algorithmic trading."
 ---
 

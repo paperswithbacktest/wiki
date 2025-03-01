@@ -1,5 +1,5 @@
 ---
-title: "Two-moment decision model (Algo Trading)"
+title: "Two-moment decision model"
 description: "Explore the two-moment decision model in algorithmic trading focusing on mean and variance to optimize investment strategies by balancing risk and reward."
 ---
 

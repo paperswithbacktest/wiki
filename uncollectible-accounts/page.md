@@ -1,5 +1,5 @@
 ---
-title: "Uncollectible Accounts (Algo Trading)"
+title: "Uncollectible Accounts"
 description: "Explore the integration of accounting practices and algorithmic trading to enhance financial decision-making. Learn about managing uncollectible accounts."
 ---
 

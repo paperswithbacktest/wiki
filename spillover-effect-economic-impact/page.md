@@ -1,5 +1,5 @@
 ---
-title: "Spillover Effect and Economic Impact (Algo Trading)"
+title: "Spillover Effect and Economic Impact"
 description: "Explore the mechanics of algorithmic trading and its influence on global markets through spillover effects, impacting liquidity, volatility, and economic trends."
 ---
 

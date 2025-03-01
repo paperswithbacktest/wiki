@@ -1,5 +1,5 @@
 ---
-title: "Weather Future: Implications and Mechanisms (Algo Trading)"
+title: "Weather Future: Implications and Mechanisms"
 description: "Explore the intersection of weather forecasting climate change and algorithmic trading Discover how AI enhances predictions to optimize market strategies and mitigate risks."
 ---
 

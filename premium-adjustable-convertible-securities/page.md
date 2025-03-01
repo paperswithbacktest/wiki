@@ -1,5 +1,5 @@
 ---
-title: "Premium Adjustable Convertible Securities (Algo Trading)"
+title: "Premium Adjustable Convertible Securities"
 description: "Explore the dynamics of Premium Adjustable Convertible Securities and how they integrate with algo trading strategies for optimal investment returns."
 ---
 

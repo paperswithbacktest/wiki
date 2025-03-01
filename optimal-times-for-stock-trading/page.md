@@ -1,5 +1,5 @@
 ---
-title: "Optimal Times for Stock Trading (Algo Trading)"
+title: "Optimal Times for Stock Trading"
 description: "Explore the best times for stock trading with insights into market timing strategies. Learn about algo trading's impact on trade timing and market efficiency."
 ---
 

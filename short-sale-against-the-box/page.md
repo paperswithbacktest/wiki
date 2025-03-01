@@ -1,5 +1,5 @@
 ---
-title: "Short Sale Against the Box (Algo Trading)"
+title: "Short Sale Against the Box"
 description: "Explore the integration of short selling in algorithmic trading to maximize profits in fluctuating markets Discover strategies for informed and efficient trading"
 ---
 

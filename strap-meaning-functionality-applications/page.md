@@ -1,5 +1,5 @@
 ---
-title: "Strap: Meaning, Functionality, and Applications (Algo Trading)"
+title: "Strap: Meaning, Functionality, and Applications"
 description: "Explore the dynamic strap strategy in options trading with a focus on bullish markets and how incorporating algorithmic trading can enhance decision-making and execution."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sector Mutual Funds (Algo Trading)"
+title: "Sector Mutual Funds"
 description: "Explore sector mutual funds and algo trading to enhance your portfolio. Discover strategies to diversify, manage risks, and boost returns in financial markets."
 ---
 

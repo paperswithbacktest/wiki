@@ -1,5 +1,5 @@
 ---
-title: "Tradebot (Algo Trading)"
+title: "Tradebot"
 description: "Discover the transformative world of algorithmic trading with Tradebots that execute trades with precision. Learn about types, benefits, and challenges of algo trading."
 ---
 

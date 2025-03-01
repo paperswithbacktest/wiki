@@ -1,5 +1,5 @@
 ---
-title: "Voluntary Liquidation Process (Algo Trading)"
+title: "Voluntary Liquidation Process"
 description: "Explore the complexities of voluntary liquidation, business closure, and algorithmic trading, crucial for investors and business owners navigating financial transitions."
 ---
 

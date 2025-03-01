@@ -1,5 +1,5 @@
 ---
-title: "Up-and-Out Option: Definition and Functionality (Algo Trading)"
+title: "Up-and-Out Option: Definition and Functionality"
 description: "Explore the advantages of up-and-out options in algo trading. Learn how these barrier options offer cost-effective risk management and profit potential."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Minimum Number of Shares for Purchase (Algo Trading)"
+title: "Minimum Number of Shares for Purchase"
 description: "Explore the benefits of algorithmic and fractional trading to enhance stock market accessibility and efficiency Learn how tech reshapes investment strategies"
 ---
 

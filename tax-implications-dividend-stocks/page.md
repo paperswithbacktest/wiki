@@ -1,5 +1,5 @@
 ---
-title: "Tax Implications of Dividend Stocks (Algo Trading)"
+title: "Tax Implications of Dividend Stocks"
 description: "Explore the tax implications of dividend stocks in algo trading Understand how dividends are taxed optimize investment strategies and enhance after-tax returns"
 ---
 

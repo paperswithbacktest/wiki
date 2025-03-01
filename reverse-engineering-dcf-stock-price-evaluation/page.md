@@ -1,5 +1,5 @@
 ---
-title: "Reverse-Engineering DCF for Stock Price Evaluation (Algo Trading)"
+title: "Reverse-Engineering DCF for Stock Price Evaluation"
 description: "Explore reverse-engineering the DCF model for stock valuation to derive market growth assumptions, enhance algorithmic trading, and improve investment accuracy."
 ---
 

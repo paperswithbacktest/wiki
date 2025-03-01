@@ -1,5 +1,5 @@
 ---
-title: "Net Short: Concept, Functionality, and Example (Algo Trading)"
+title: "Net Short: Concept, Functionality, and Example"
 description: "Explore net short strategies where investors profit from falling asset prices using short selling and algorithmic trading to optimize trade execution and risk management."
 ---
 

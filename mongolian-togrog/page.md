@@ -1,5 +1,5 @@
 ---
-title: "Mongolian Tögrög (Algo Trading)"
+title: "Mongolian Tögrög"
 description: "Explore the dynamics of the Mongolian Tögrög and its role in Mongolia's economy alongside the impact and potential challenges of algorithmic trading in forex markets."
 ---
 

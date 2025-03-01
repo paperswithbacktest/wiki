@@ -1,5 +1,5 @@
 ---
-title: "Subjective Probability: Function and Examples (Algo Trading)"
+title: "Subjective Probability: Function and Examples"
 description: "Explore subjective probability in algorithmic trading uncover its role in decision-making and risk management Learn how traders use intuition alongside data-driven strategies"
 ---
 

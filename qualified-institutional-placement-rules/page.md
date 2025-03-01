@@ -1,5 +1,5 @@
 ---
-title: "Qualified Institutional Placement Rules (Algo Trading)"
+title: "Qualified Institutional Placement Rules"
 description: "Explore Qualified Institutional Placement rules and their role in capital markets Learn how QIP enhances liquidity and fosters algorithmic trading for investors"
 ---
 

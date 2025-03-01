@@ -1,5 +1,5 @@
 ---
-title: "Non-Marginable Securities vs. Marginable Securities (Algo Trading)"
+title: "Non-Marginable Securities vs. Marginable Securities"
 description: "Discover the differences between marginable and non-marginable securities and how algorithmic trading can enhance your strategies in today's markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "R-Squared and Calculation (Algo Trading)"
+title: "R-Squared and Calculation"
 description: "Discover the essential role of R-squared in algorithmic trading with our comprehensive guide. Understand how this statistical measure quantifies the proportion of variance explained by independent variables in a regression model, crucial for assessing model reliability and predicting market trends. Learn the calculation, implications, and limitations of R-squared, along with comparisons to adjusted R-squared and beta, to improve your trading strategies and risk management. Enhance your financial modeling skills by exploring its application in Python and ensure greater accuracy in evaluating financial metrics and asset prices."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Saucer Patterns in Trading: Analysis and Signals (Algo Trading)"
+title: "Saucer Patterns in Trading: Analysis and Signals"
 description: "Explore saucer patterns in trading to identify potential price reversals and enhance strategies in manual and algo trading for better financial outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Step-Up Bond: Mechanics, Advantages, and Disadvantages (Algo Trading)"
+title: "Step-Up Bond: Mechanics, Advantages, and Disadvantages"
 description: "Explore the mechanics advantages and disadvantages of step-up bonds and how algo trading enhances bond investment strategies in a dynamic financial market."
 ---
 

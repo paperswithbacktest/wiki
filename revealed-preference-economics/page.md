@@ -1,5 +1,5 @@
 ---
-title: "Revealed Preference Economics (Algo Trading)"
+title: "Revealed Preference Economics"
 description: "Explore how revealed preference theory enhances algorithmic trading by linking consumer choices to market trends, boosting predictive power and trading efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Unrestricted Cash: Overview and Function (Algo Trading)"
+title: "Unrestricted Cash: Overview and Function"
 description: "Discover how unrestricted cash and cash flow analysis drive financial management and enhance algorithmic trading strategies for improved market engagement."
 ---
 

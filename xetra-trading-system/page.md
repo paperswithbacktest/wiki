@@ -1,5 +1,5 @@
 ---
-title: "Xetra Trading System (Algo Trading)"
+title: "Xetra Trading System"
 description: "Xetra Trading System by Deutsche Boerse AG is a leading electronic trading platform leveraging T7 technology for international equities and ETPs."
 ---
 

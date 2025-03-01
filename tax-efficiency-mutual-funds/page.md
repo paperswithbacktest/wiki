@@ -1,5 +1,5 @@
 ---
-title: "Tax Efficiency of Mutual Funds (Algo Trading)"
+title: "Tax Efficiency of Mutual Funds"
 description: "Discover how mutual funds and algo trading optimize tax efficiency to boost after-tax returns Provide insights on strategic tax management for investors"
 ---
 

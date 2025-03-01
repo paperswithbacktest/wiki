@@ -1,5 +1,5 @@
 ---
-title: "Rolling Settlement (Algo Trading)"
+title: "Rolling Settlement"
 description: "Learn about rolling settlement and its role in modern financial transactions Discover how it streamlines trade processing and enhances liquidity in algo trading"
 ---
 

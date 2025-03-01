@@ -1,5 +1,5 @@
 ---
-title: "Tangible Common Equity: Concepts, Calculation, and Importance (Algo Trading)"
+title: "Tangible Common Equity: Concepts, Calculation, and Importance"
 description: "Explore the concepts, calculations, and importance of Tangible Common Equity in algorithmic trading. Learn how TCE aids in precise financial decision-making."
 ---
 

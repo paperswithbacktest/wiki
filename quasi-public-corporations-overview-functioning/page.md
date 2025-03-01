@@ -1,5 +1,5 @@
 ---
-title: "Quasi-Public Corporations: Overview and Functioning (Algo Trading)"
+title: "Quasi-Public Corporations: Overview and Functioning"
 description: "Discover the dynamics of quasi-public corporations blending public mandates with private efficiencies in global economies highlighting their role in algo trading."
 ---
 

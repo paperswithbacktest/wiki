@@ -1,5 +1,5 @@
 ---
-title: "Temporal Discounting and Future Reward Depreciation (Algo Trading)"
+title: "Temporal Discounting and Future Reward Depreciation"
 description: "Explore how temporal discounting affects trading decisions, highlighting the preference for immediate rewards over long-term gains and its impact on trading strategies. Discover how algorithmic trading can help mitigate human biases."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Written-Down Value and Calculation Method (Algo Trading)"
+title: "Written-Down Value and Calculation Method"
 description: "Explore the importance of Written-Down Value in asset management and algorithmic trading. Learn how accurate depreciation calculations enhance strategy and decision-making."
 ---
 

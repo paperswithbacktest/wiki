@@ -1,5 +1,5 @@
 ---
-title: "Parabolic SAR Indicator: Formula and Trading Strategies (Algo Trading)"
+title: "Parabolic SAR Indicator: Formula and Trading Strategies"
 description: "Explore the Parabolic SAR indicator for trading strategies and algorithmic applications. Learn its formula, uses, and how it aids in identifying trend reversals."
 ---
 

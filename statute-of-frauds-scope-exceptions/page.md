@@ -1,5 +1,5 @@
 ---
-title: "Statute of Frauds: Scope and Exceptions (Algo Trading)"
+title: "Statute of Frauds: Scope and Exceptions"
 description: "Explore the Statute of Frauds its role in ensuring legal contracts within algorithmic trading and the exceptions that allow flexibility in certain cases."
 ---
 

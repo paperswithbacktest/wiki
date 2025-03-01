@@ -1,5 +1,5 @@
 ---
-title: "Rust Bowl: Significance, Historical Context, and the Rust Belt (Algo Trading)"
+title: "Rust Bowl: Significance, Historical Context, and the Rust Belt"
 description: "Explore the history of the Rust Bowl and Rust Belt regions to understand their economic evolution and how fintech and algo trading are revitalizing these areas."
 ---
 

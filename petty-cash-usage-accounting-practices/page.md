@@ -1,5 +1,5 @@
 ---
-title: "Petty Cash: Usage and Accounting Practices (Algo Trading)"
+title: "Petty Cash: Usage and Accounting Practices"
 description: "Explore the interplay of accounting cash management, petty cash practices, and algorithmic trading for effective financial strategies in today's dynamic environment."
 ---
 

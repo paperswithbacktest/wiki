@@ -1,5 +1,5 @@
 ---
-title: "Security market line (Algo Trading)"
+title: "Security market line"
 description: "Explore the Security Market Line's role in assessing asset risk and return in algo trading Discover how SML aids in identifying mispriced securities for profit."
 ---
 

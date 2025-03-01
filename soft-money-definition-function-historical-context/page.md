@@ -1,5 +1,5 @@
 ---
-title: "Soft Money: Definition, Function, and Historical Context (Algo Trading)"
+title: "Soft Money: Definition, Function, and Historical Context"
 description: "Explore the complexities of soft money in political campaigns, its historical context, and its intersection with algorithmic trading in shaping campaign finance."
 ---
 

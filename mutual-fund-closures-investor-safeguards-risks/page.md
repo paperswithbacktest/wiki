@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Closures: Investor Safeguards or Risks (Algo Trading)"
+title: "Mutual Fund Closures: Investor Safeguards or Risks"
 description: "Explore the impact of mutual fund closures on investments and discover how algorithmic trading and investment protection funds safeguard investor interests."
 ---
 

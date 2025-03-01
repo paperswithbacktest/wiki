@@ -1,5 +1,5 @@
 ---
-title: "Operating Loss: Calculation and Causes (Algo Trading)"
+title: "Operating Loss: Calculation and Causes"
 description: "Explore operating losses in algo trading businesses, understanding calculation methods, common causes, and strategies for minimizing financial setbacks."
 ---
 

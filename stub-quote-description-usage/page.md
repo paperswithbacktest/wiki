@@ -1,5 +1,5 @@
 ---
-title: "Stub Quote: Description and Usage (Algo Trading)"
+title: "Stub Quote: Description and Usage"
 description: "Explore the dynamics of algorithmic trading and the crucial role of financial quotations in shaping today's trading strategies Enhance market insights efficiently"
 ---
 

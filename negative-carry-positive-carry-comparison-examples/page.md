@@ -1,5 +1,5 @@
 ---
-title: "Negative Carry and Positive Carry: Comparison and Examples (Algo Trading)"
+title: "Negative Carry and Positive Carry: Comparison and Examples"
 description: "Discover the nuances of positive and negative carry in algo trading strategies. Learn how interest rate differentials impact trading profits and market movements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Seigniorage and Its Impact on Inflation (Algo Trading)"
+title: "Seigniorage and Its Impact on Inflation"
 description: "Explore the interconnected dynamics between seigniorage, inflation, monetary policy, and algorithmic trading in today's global economy. Understand how these elements impact financial markets, influence trading strategies, and affect government revenues. Gain insights into how central banks manage inflation through monetary policy and the role of algorithmic trading in adapting to economic trends. Equip yourself with the knowledge to navigate the complexities of the financial landscape and make informed investment decisions."
 ---
 

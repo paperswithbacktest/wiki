@@ -1,5 +1,5 @@
 ---
-title: "Socially Responsible Investing (Algo Trading)"
+title: "Socially Responsible Investing"
 description: "Explore socially responsible investing through the lens of sustainable finance and algorithmic trading Learn how ESG criteria are reshaping investment strategies"
 ---
 

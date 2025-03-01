@@ -1,5 +1,5 @@
 ---
-title: "Placement Agent: Role and Compensation (Algo Trading)"
+title: "Placement Agent: Role and Compensation"
 description: "Discover the essential roles and compensation structures in financial services including placement agents and algorithmic trading strategies to boost your career."
 ---
 

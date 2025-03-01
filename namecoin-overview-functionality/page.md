@@ -1,5 +1,5 @@
 ---
-title: "Namecoin: Overview and Functionality (Algo Trading)"
+title: "Namecoin: Overview and Functionality"
 description: "Discover how Namecoin combines blockchain technology with algorithmic trading to optimize decentralized online identity systems and enhance trading efficiency."
 ---
 

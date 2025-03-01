@@ -1,5 +1,5 @@
 ---
-title: "Romanian Leu: History and Economic Role (Algo Trading)"
+title: "Romanian Leu: History and Economic Role"
 description: "Explore the Romanian Leu's historical evolution and its crucial role in Romania's economy, including the rise of algorithmic trading and its modern implications."
 ---
 

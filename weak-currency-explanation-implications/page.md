@@ -1,5 +1,5 @@
 ---
-title: "Weak Currency: Explanation and Implications (Algo Trading)"
+title: "Weak Currency: Explanation and Implications"
 description: "Explore how weak currencies impact global markets including trade balances and investment strategies Learn implications for algorithmic trading and economic policy adjustments"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Wrong Way Risk Overview (Algo Trading)"
+title: "Wrong Way Risk Overview"
 description: "Explore the complexities of wrong way risk in algorithmic trading and its impact on financial vulnerability Understand how to mitigate these risks effectively"
 ---
 

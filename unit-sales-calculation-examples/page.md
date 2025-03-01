@@ -1,5 +1,5 @@
 ---
-title: "Unit Sales: Calculation and Examples (Algo Trading)"
+title: "Unit Sales: Calculation and Examples"
 description: "Explore how unit sales calculations inform strategic financial decisions in algorithmic trading Enhance your understanding of market trends and optimize business strategies"
 ---
 

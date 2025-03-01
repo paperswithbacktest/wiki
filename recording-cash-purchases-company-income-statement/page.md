@@ -1,5 +1,5 @@
 ---
-title: "Recording Cash Purchases in a Company’s Income Statement (Algo Trading)"
+title: "Recording Cash Purchases in a Company’s Income Statement"
 description: "Explore how cash purchases are recorded in financial statements and their impact on a company's income statement within the context of algorithmic trading."
 ---
 

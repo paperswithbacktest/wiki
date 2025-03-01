@@ -1,5 +1,5 @@
 ---
-title: "Revertible Bonds (Algo Trading)"
+title: "Revertible Bonds"
 description: "Explore the evolving financial landscape with a focus on revertible bonds and algorithmic trading to understand their impact on market behaviors and investment strategies."
 ---
 

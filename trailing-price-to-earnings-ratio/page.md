@@ -1,5 +1,5 @@
 ---
-title: "Trailing Price-To-Earnings Ratio (Algo Trading)"
+title: "Trailing Price-To-Earnings Ratio"
 description: "Discover how the trailing Price-to-Earnings ratio aids algorithmic trading by valuing stocks with past earnings data, optimizing strategies for better trades."
 ---
 

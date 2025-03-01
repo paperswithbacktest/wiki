@@ -1,5 +1,5 @@
 ---
-title: "Regulation H Overview and Mechanism (Algo Trading)"
+title: "Regulation H Overview and Mechanism"
 description: "Explore the intersection of Regulation H and algorithmic trading in banking Discover the essential compliance guidelines that ensure sound financial practices"
 ---
 

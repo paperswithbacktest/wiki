@@ -1,5 +1,5 @@
 ---
-title: "Risk of Ruin in Trading Explained (Algo Trading)"
+title: "Risk of Ruin in Trading Explained"
 description: Explore the intricacies of risk of ruin in algorithmic trading as this comprehensive guide investigates into the probabilities of losing trading capital due to market volatility, strategy missteps, and execution errors in algo trading. Learn how to calculate and mitigate these risks effectively to sustain long-term profitability in financial markets. From understanding the nuanced balance of win rates and capital allocation to assessing factors like position sizing and strategy robustness, this article equips traders with essential insights for navigating the dynamic trading environment.
 ---
 

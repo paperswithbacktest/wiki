@@ -1,5 +1,5 @@
 ---
-title: "Options Industry Council: Overview and Function (Algo Trading)"
+title: "Options Industry Council: Overview and Function"
 description: "Explore the Options Industry Council's vital role in educating investors about options trading with resources on strategies, algorithmic trading, and market dynamics."
 ---
 

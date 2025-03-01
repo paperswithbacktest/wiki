@@ -1,5 +1,5 @@
 ---
-title: "Time Value of Money and Future Worth (Algo Trading)"
+title: "Time Value of Money and Future Worth"
 description: "Explore the Time Value of Money and its impact on financial decisions in trading Learn how to apply TVM principles for effective investment and future worth analysis"
 ---
 

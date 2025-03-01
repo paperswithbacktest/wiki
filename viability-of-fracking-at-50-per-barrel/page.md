@@ -1,5 +1,5 @@
 ---
-title: "Viability of Fracking at $50 per Barrel (Algo Trading)"
+title: "Viability of Fracking at $50 per Barrel"
 description: "Explore the complex interplay of oil prices, fracking, and algorithmic trading to assess the economic viability of fracking at $50 per barrel in the energy market."
 ---
 

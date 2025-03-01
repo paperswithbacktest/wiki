@@ -1,5 +1,5 @@
 ---
-title: "Rebalancing frequency impact (Algo Trading)"
+title: "Rebalancing frequency impact"
 description: "Explore the impact of rebalancing frequency in algorithmic trading Discover how strategic adjustments optimize portfolio performance and manage investment risks effectively"
 ---
 

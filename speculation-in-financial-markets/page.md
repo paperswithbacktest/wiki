@@ -1,5 +1,5 @@
 ---
-title: "Speculation in Financial Markets (Algo Trading)"
+title: "Speculation in Financial Markets"
 description: "Explore the transformative impact of speculation and algorithmic trading on financial markets. Learn how these strategies shape market dynamics and influence trading success."
 ---
 

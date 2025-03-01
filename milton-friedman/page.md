@@ -1,5 +1,5 @@
 ---
-title: "Milton Friedman (Algo Trading)"
+title: "Milton Friedman"
 description: "Explore the integration of monetarism and algorithmic trading, highlighting the influence of Milton Friedman's economic theories on modern financial markets. Understand how monetarist principles, focusing on the money supply, are applied in algorithmic trading to optimize strategies and improve decision-making. This article offers insights into the convergence of traditional economic thought and technological advancements, showcasing their impact on contemporary economies and trading environments."
 ---
 

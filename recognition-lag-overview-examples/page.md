@@ -1,5 +1,5 @@
 ---
-title: "Recognition Lag: Overview and Examples (Algo Trading)"
+title: "Recognition Lag: Overview and Examples"
 description: "Explore the concept of recognition lag in economic policy and how algorithmic trading can address time delays in policy implementation for improved market efficiency."
 ---
 

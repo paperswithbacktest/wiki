@@ -1,5 +1,5 @@
 ---
-title: "Mike McCart (Algo Trading)"
+title: "Mike McCart"
 description: "Discover the career of Mike McCart an influential figure in algorithmic trading with notable contributions to financial strategies and trading technologies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Services Agent (Algo Trading)"
+title: "Shareholder Services Agent"
 description: "Explore the crucial role of shareholder service agents in finance, bridging companies and investors, ensuring smooth transactions, and supporting algorithmic trading."
 ---
 

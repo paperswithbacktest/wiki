@@ -1,5 +1,5 @@
 ---
-title: "Short Selling Amazon Stock (Algo Trading)"
+title: "Short Selling Amazon Stock"
 description: "Explore short selling and algorithmic trading strategies on Amazon stock for potential profits in volatile markets with our comprehensive investment guide."
 ---
 

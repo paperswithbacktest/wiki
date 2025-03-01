@@ -1,5 +1,5 @@
 ---
-title: "Wash: Definition, Function, and Legal Considerations (Algo Trading)"
+title: "Wash: Definition, Function, and Legal Considerations"
 description: "Explore the intricacies of algorithmic trading with insights on functionality, efficiency, and legal factors. Learn about functionality wash and its market impact."
 ---
 

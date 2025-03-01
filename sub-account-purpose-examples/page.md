@@ -1,5 +1,5 @@
 ---
-title: "Sub Account: Purpose and Examples (Algo Trading)"
+title: "Sub Account: Purpose and Examples"
 description: "Explore the integration of sub account accounting with algorithmic trading to enhance financial management by improving transparency and strategic efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Miami Stock Exchange: Overview and Function (Algo Trading)"
+title: "Miami Stock Exchange: Overview and Function"
 description: "The Miami Stock Exchange is a crucial link in North-South American financial markets offering advanced algorithmic trading for stocks currencies and futures."
 ---
 

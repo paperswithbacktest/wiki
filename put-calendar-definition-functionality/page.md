@@ -1,5 +1,5 @@
 ---
-title: "Put Calendar: Definition and Functionality (Algo Trading)"
+title: "Put Calendar: Definition and Functionality"
 description: "Explore the put calendar strategy in algorithmic trading to manage risk and optimize returns using innovative techniques for effective financial strategies."
 ---
 

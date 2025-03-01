@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Agent Roles and Compensation (Algo Trading)"
+title: "Real Estate Agent Roles and Compensation"
 description: "Discover the evolving roles and compensation models for real estate agents as technology and algorithmic trading redefine industry dynamics and transaction processes."
 ---
 

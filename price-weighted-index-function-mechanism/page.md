@@ -1,5 +1,5 @@
 ---
-title: "Price-Weighted Index: Function and Mechanism (Algo Trading)"
+title: "Price-Weighted Index: Function and Mechanism"
 description: "Discover how price-weighted indices function and their impact on algorithmic trading with insights into market trends and strategic trading execution."
 ---
 

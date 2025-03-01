@@ -1,5 +1,5 @@
 ---
-title: "Yield to Call and Calculation (Algo Trading)"
+title: "Yield to Call and Calculation"
 description: "Master bond calculations and explore the role of the yield to call metric in optimizing investment strategies using algorithmic trading for enhanced returns."
 ---
 

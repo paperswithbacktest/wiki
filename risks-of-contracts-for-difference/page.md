@@ -1,5 +1,5 @@
 ---
-title: "Risks of Contracts for Difference (Algo Trading)"
+title: "Risks of Contracts for Difference"
 description: "Explore the risks of CFD trading when combined with algorithmic strategies. Understand potential challenges and exposures for successful, responsible trading."
 ---
 

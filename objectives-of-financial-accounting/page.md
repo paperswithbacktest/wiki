@@ -1,5 +1,5 @@
 ---
-title: "Objectives of Financial Accounting (Algo Trading)"
+title: "Objectives of Financial Accounting"
 description: "Explore how financial accounting aids stakeholders in decision-making by providing transparency in corporate health and strategic planning alongside algorithmic trading."
 ---
 

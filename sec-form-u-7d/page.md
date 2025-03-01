@@ -1,5 +1,5 @@
 ---
-title: "SEC Form U-7D (Algo Trading)"
+title: "SEC Form U-7D"
 description: "Explore SEC Form U-7D's crucial role in regulatory compliance for utility leasing and automated trading ensuring transparency and protecting market integrity."
 ---
 

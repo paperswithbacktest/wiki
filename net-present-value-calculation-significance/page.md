@@ -1,5 +1,5 @@
 ---
-title: "Net Present Value: Calculation and Significance (Algo Trading)"
+title: "Net Present Value: Calculation and Significance"
 description: "This page provides a comprehensive guide to Net Present Value (NPV), focusing on its calculation and significance in investment planning and algorithmic trading. Explore how NPV offers a detailed analysis of profitability by factoring in the time value of money and the importance of incorporating NPV into algorithmic trading strategies for maximizing returns through data-driven decisions."
 ---
 

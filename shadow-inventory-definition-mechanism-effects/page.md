@@ -1,5 +1,5 @@
 ---
-title: "Shadow Inventory: Definition, Mechanism, and Effects (Algo Trading)"
+title: "Shadow Inventory: Definition, Mechanism, and Effects"
 description: "Discover the pivotal interactions between shadow inventory and algorithmic trading in real estate Learn how these dynamics impact market trends and investments"
 ---
 

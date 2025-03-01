@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 485A24E (Algo Trading)"
+title: "SEC Form 485A24E"
 description: "Explore the significance of SEC Form 485A24E for investment companies as it aligns with the rapidly evolving algorithmic trading, emphasizing compliance and innovation."
 ---
 

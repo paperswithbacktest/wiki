@@ -1,5 +1,5 @@
 ---
-title: "Morningstar Mutual Fund Rating and Ranking (Algo Trading)"
+title: "Morningstar Mutual Fund Rating and Ranking"
 description: "Explore the intersection of Morningstar's mutual fund ratings and algorithmic trading to enhance investment strategies by evaluating risks and maximizing returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sunk Cost Fallacy: Explanation and Avoidance Strategies (Algo Trading)"
+title: "Sunk Cost Fallacy: Explanation and Avoidance Strategies"
 description: "Explore the sunk cost fallacy in algorithmic trading and discover strategies to mitigate its impact on decision-making. Enhance your trading strategies today."
 ---
 

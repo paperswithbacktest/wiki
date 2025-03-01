@@ -1,5 +1,5 @@
 ---
-title: "Negotiated Underwriting: Definition and Mechanism (Algo Trading)"
+title: "Negotiated Underwriting: Definition and Mechanism"
 description: "Explore the impact of negotiated underwriting and algorithmic trading on securities issuance Discover how these strategies enhance market efficiency and investor opportunities"
 ---
 

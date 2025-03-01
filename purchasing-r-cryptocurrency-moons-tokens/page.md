@@ -1,5 +1,5 @@
 ---
-title: "Purchasing r/Cryptocurrency Moons Tokens (Algo Trading)"
+title: "Purchasing r/Cryptocurrency Moons Tokens"
 description: "Explore how to buy r/Cryptocurrency Moons using algorithmic trading to enhance strategies and potentially maximize returns in the dynamic crypto market."
 ---
 

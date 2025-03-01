@@ -1,5 +1,5 @@
 ---
-title: "Sunk Cost Dilemma: Explanation and Illustration (Algo Trading)"
+title: "Sunk Cost Dilemma: Explanation and Illustration"
 description: "Discover how the sunk cost dilemma impacts algorithmic trading and explore strategies to overcome this bias for more rational and profitable trading decisions."
 ---
 

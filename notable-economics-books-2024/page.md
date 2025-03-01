@@ -1,5 +1,5 @@
 ---
-title: "Notable Economics Books of 2024 (Algo Trading)"
+title: "Notable Economics Books of 2024"
 description: "Explore the best economics books of 2024 focusing on algorithmic trading highlighting the latest insights and strategies for modern financial markets."
 ---
 

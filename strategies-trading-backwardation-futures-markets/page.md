@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Trading Backwardation in Futures Markets (Algo Trading)"
+title: "Strategies for Trading Backwardation in Futures Markets"
 description: "Discover strategies for trading futures markets in backwardation leveraging algorithmic trading to enhance decision-making and optimize trading performance."
 ---
 

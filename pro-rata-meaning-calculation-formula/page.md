@@ -1,5 +1,5 @@
 ---
-title: "Pro Rata: Meaning and Calculation Formula (Algo Trading)"
+title: "Pro Rata: Meaning and Calculation Formula"
 description: "Explore the meaning of pro rata and understand its calculation formula alongside insights into algorithmic trading This article aids financial decision-making"
 ---
 

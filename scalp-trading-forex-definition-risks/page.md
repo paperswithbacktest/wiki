@@ -1,5 +1,5 @@
 ---
-title: "Scalp Trading in Forex: Definition and Risks (Algo Trading)"
+title: "Scalp Trading in Forex: Definition and Risks"
 description: "Discover the key aspects of forex scalp trading including its definition risks and the impact of algorithmic trading on this fast-paced strategy."
 ---
 

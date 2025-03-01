@@ -1,5 +1,5 @@
 ---
-title: "Shakeout in Stock Trading (Algo Trading)"
+title: "Shakeout in Stock Trading"
 description: "Explore the impact of market volatility and shakeout events on stock trading with a focus on algorithmic trading as a tool to manage risks and improve strategies."
 ---
 

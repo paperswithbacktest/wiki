@@ -1,5 +1,5 @@
 ---
-title: "PotCoin Cryptocurrency (Algo Trading)"
+title: "PotCoin Cryptocurrency"
 description: "Discover how PotCoin, a niche cryptocurrency tailored for the cannabis industry, partners with algo trading for efficient, secure transactions."
 ---
 

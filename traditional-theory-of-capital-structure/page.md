@@ -1,5 +1,5 @@
 ---
-title: "Traditional Theory of Capital Structure (Algo Trading)"
+title: "Traditional Theory of Capital Structure"
 description: "Explore the dynamic intersection of financial management, traditional capital structure theory, and algorithmic trading in modern finance. Gain insights into optimizing capital through debt-equity balance, leveraging algorithmic advancements for efficiency in trading, and understanding their impact on financial decision-making and market dynamics. Discover how these elements intertwine to form robust financial strategies and informed decision-making in today's economic landscape."
 ---
 

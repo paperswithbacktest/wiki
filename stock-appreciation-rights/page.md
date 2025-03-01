@@ -1,5 +1,5 @@
 ---
-title: "Stock Appreciation Rights (Algo Trading)"
+title: "Stock Appreciation Rights"
 description: "Explore the synergy between Stock Appreciation Rights and algorithmic trading to optimize equity compensation and align employee and shareholder interests."
 ---
 

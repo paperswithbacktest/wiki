@@ -1,5 +1,5 @@
 ---
-title: "Regulatory Impact on the Utilities Sector (Algo Trading)"
+title: "Regulatory Impact on the Utilities Sector"
 description: "Explore how regulations and algorithmic trading impact the utilities sector. Dive into price controls, market dynamics, and technology’s role in shaping the future."
 ---
 

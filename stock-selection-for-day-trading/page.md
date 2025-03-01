@@ -1,5 +1,5 @@
 ---
-title: "Stock Selection for Day Trading (Algo Trading)"
+title: "Stock Selection for Day Trading"
 description: "Explore strategies and tools for successful day trading and stock selection Enhance your algorithmic trading skills in a fast-paced stock market environment"
 ---
 

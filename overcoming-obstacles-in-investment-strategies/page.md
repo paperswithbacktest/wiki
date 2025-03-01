@@ -1,5 +1,5 @@
 ---
-title: "Overcoming Obstacles in Investment Strategies (Algo Trading)"
+title: "Overcoming Obstacles in Investment Strategies"
 description: "Explore investment strategies to overcome emotional and market barriers. Discover how algorithmic trading enhances decision-making for improved financial outcomes."
 ---
 

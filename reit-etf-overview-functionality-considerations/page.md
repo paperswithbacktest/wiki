@@ -1,5 +1,5 @@
 ---
-title: "REIT ETF: Overview, Functionality, and Considerations (Algo Trading)"
+title: "REIT ETF: Overview, Functionality, and Considerations"
 description: "Explore how REIT ETFs combine real estate investment with the benefits of algorithmic trading offering diversification, liquidity, and data-driven strategies."
 ---
 

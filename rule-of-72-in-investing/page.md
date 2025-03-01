@@ -1,5 +1,5 @@
 ---
-title: "Rule of 72 in Investing (Algo Trading)"
+title: "Rule of 72 in Investing"
 description: "Explore the synergy of the Rule of 72, compound interest, and algorithmic trading in modern investing. Learn how the Rule of 72 offers quick investment doubling time estimates, while compound interest drives exponential growth. Discover how algorithmic trading enhances decision-making and precision in today's financial markets. Unlock a comprehensive toolkit to optimize your investment strategies and outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Transaction Outcome Gains (Algo Trading)"
+title: "Transaction Outcome Gains"
 description: "Explore how algorithmic trading enhances financial transaction outcomes with advanced algorithms maximizing gains and minimizing losses for traders."
 ---
 

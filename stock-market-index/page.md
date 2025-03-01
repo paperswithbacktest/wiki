@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Index (Algo Trading)"
+title: "Stock Market Index"
 description: "Unlock the potential of stock market indices and algorithmic trading to enhance investment strategies and stay ahead in the dynamic global financial markets"
 ---
 

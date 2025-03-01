@@ -1,5 +1,5 @@
 ---
-title: "Sterilized Foreign Exchange Intervention (Algo Trading)"
+title: "Sterilized Foreign Exchange Intervention"
 description: "Explore the dynamics of sterilized foreign exchange intervention in algo trading and how central banks stabilize currency values without altering monetary supply."
 ---
 

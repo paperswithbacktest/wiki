@@ -1,5 +1,5 @@
 ---
-title: "Strong Buy: Explanation and Application (Algo Trading)"
+title: "Strong Buy: Explanation and Application"
 description: "Unlock strategic insights into strong buy recommendations and algorithmic trading to enhance your stock market investments and optimize trading efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Operating Cash Flow: Overview and Formula (Algo Trading)"
+title: "Operating Cash Flow: Overview and Formula"
 description: "Discover how Operating Cash Flow (OCF) enhances algorithmic trading strategies by offering key insights into financial health and opportunities for improved market outcomes."
 ---
 

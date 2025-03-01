@@ -1,5 +1,5 @@
 ---
-title: "September: The Worst Month of the Year for Stocks (Algo Trading)"
+title: "September: The Worst Month of the Year for Stocks"
 description: Discover why September is known as a challenging month for the stock market and how it impacts algorithmic trading systems. Understand historical patterns, their effects on algorithms, and strategies to optimize performance and manage risks during these volatile periods. Equip yourself with insights to anticipate market trends and enhance the resilience of your trading strategies.
 ---
 

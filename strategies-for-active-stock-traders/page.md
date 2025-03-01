@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Active Stock Traders (Algo Trading)"
+title: "Strategies for Active Stock Traders"
 description: "Discover effective strategies for active stock trading focusing on dynamic hands-on approaches and algorithmic trading to maximize your market returns."
 ---
 

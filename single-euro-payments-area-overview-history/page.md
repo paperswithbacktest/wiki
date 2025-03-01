@@ -1,5 +1,5 @@
 ---
-title: "Single Euro Payments Area: Overview and History (Algo Trading)"
+title: "Single Euro Payments Area: Overview and History"
 description: "Explore the evolution and impact of SEPA within the EU alongside algorithmic trading The integration highlights efficiency in modern financial markets"
 ---
 

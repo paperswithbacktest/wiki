@@ -1,5 +1,5 @@
 ---
-title: "Russian Ruble: Overview of Russia's Currency (Algo Trading)"
+title: "Russian Ruble: Overview of Russia's Currency"
 description: "Explore the significance of the Russian ruble in global finance and the impact of algorithmic trading on currency markets and trading strategies."
 ---
 

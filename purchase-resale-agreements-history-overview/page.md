@@ -1,5 +1,5 @@
 ---
-title: "Purchase and Resale Agreements: History and Overview (Algo Trading)"
+title: "Purchase and Resale Agreements: History and Overview"
 description: "Explore the influence of Purchase and Resale Agreements in algorithmic trading Discover how these financial tools impact market liquidity and risk management strategies"
 ---
 

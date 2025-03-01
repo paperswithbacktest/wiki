@@ -1,5 +1,5 @@
 ---
-title: "Post-Money Valuation (Algo Trading)"
+title: "Post-Money Valuation"
 description: "Explore the dynamic realm of investment startups as they employ innovative valuation techniques and algorithmic trading to maximize returns and navigate today's complex financial landscapes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Companies in Emerging Markets (Algo Trading)"
+title: "Valuation of Companies in Emerging Markets"
 description: "Discover the intersection of company valuation and algorithmic trading in emerging markets to enhance investment strategies with precision and foresight."
 ---
 

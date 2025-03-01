@@ -1,5 +1,5 @@
 ---
-title: "Responsibilities of the United States Secretary of Energy (Algo Trading)"
+title: "Responsibilities of the United States Secretary of Energy"
 description: "Discover how the U.S. Secretary of Energy applies algorithmic trading strategies to revolutionize energy management, improve efficiency, and optimize distribution."
 ---
 

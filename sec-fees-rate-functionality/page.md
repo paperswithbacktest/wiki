@@ -1,5 +1,5 @@
 ---
-title: "SEC Fees: Rate and Functionality (Algo Trading)"
+title: "SEC Fees: Rate and Functionality"
 description: "Discover how SEC transaction fees influence algorithmic trading strategies and profitability with insights on rate adjustments and fee management for traders."
 ---
 

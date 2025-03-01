@@ -1,5 +1,5 @@
 ---
-title: "Voucher in Accounting (Algo Trading)"
+title: "Voucher in Accounting"
 description: "Discover the critical role of vouchers in algorithmic trading accounting. Ensure transaction transparency and compliance while mastering modern financial documentation."
 ---
 

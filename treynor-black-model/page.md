@@ -1,5 +1,5 @@
 ---
-title: "Treynor–Black model (Algo Trading)"
+title: "Treynor–Black model"
 description: Explore the Treynor–Black model's innovative approach to algorithmic trading, enhancing efficiency by integrating passive and active investment strategies. Understand its theoretical and mathematical foundations, and learn how to optimize portfolio performance through precision security selection and market exposure. Discover the model's application, challenges, and potential solutions for real-world trading success.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Timing Strategies for Short Selling Stocks (Algo Trading)"
+title: "Timing Strategies for Short Selling Stocks"
 description: "Explore timing strategies for short selling stocks using algorithmic trading Understand the benefits mechanics and risks of these investment techniques"
 ---
 

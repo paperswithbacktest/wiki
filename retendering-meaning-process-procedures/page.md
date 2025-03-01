@@ -1,5 +1,5 @@
 ---
-title: "Retendering: Meaning, Process, and Procedures (Algo Trading)"
+title: "Retendering: Meaning, Process, and Procedures"
 description: "Explore the impact of retendering and algorithmic trading on procurement strategies in this comprehensive guide to enhance efficiency and competitiveness."
 ---
 

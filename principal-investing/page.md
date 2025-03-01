@@ -1,5 +1,5 @@
 ---
-title: "Principal Investing (Algo Trading)"
+title: "Principal Investing"
 description: "Explore the evolving strategies of principal investing and algorithmic trading in financial markets Discover how these methodologies enhance returns and manage risks effectively"
 ---
 

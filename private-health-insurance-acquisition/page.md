@@ -1,5 +1,5 @@
 ---
-title: "Private Health Insurance Acquisition (Algo Trading)"
+title: "Private Health Insurance Acquisition"
 description: "Discover how private health insurance and algorithmic trading can enhance personal finance strategies by managing risks and optimizing investments."
 ---
 

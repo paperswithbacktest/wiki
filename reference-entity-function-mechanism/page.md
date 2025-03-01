@@ -1,5 +1,5 @@
 ---
-title: "Reference Entity: Function and Mechanism (Algo Trading)"
+title: "Reference Entity: Function and Mechanism"
 description: "Explore the integration of credit derivatives and algorithmic trading in modern financial markets Learn how these tools enhance risk management and market efficiency"
 ---
 

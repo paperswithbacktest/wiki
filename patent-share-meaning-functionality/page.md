@@ -1,5 +1,5 @@
 ---
-title: "Patent Share: Meaning and Functionality (Algo Trading)"
+title: "Patent Share: Meaning and Functionality"
 description: "Explore the role of patents in algorithmic trading and their impact on innovation and IP protection within the fintech sector, fostering economic growth and security."
 ---
 

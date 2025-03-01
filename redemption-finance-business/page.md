@@ -1,5 +1,5 @@
 ---
-title: "Redemption in Finance and Business (Algo Trading)"
+title: "Redemption in Finance and Business"
 description: "Discover the role of redemption in finance and how algo trading is revolutionizing modern financial markets with precision and speed for investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Yield to Worst: Explanation and Calculation (Algo Trading)"
+title: "Yield to Worst: Explanation and Calculation"
 description: "Understand Yield to Worst in algo trading Learn to calculate this key bond metric optimize trades with precision and manage risks for better returns"
 ---
 

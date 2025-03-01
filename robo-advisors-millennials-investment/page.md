@@ -1,5 +1,5 @@
 ---
-title: "Robo-Advisors and Millennials in Investment (Algo Trading)"
+title: "Robo-Advisors and Millennials in Investment"
 description: "Explore how robo-advisors and algorithmic trading are transforming investment for millennials offering accessible cost-effective solutions for tech-savvy investors."
 ---
 

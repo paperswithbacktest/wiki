@@ -1,5 +1,5 @@
 ---
-title: "Trading Edge and Strategy Development (Algo Trading)"
+title: "Trading Edge and Strategy Development"
 description: "Discover the essentials of developing a trading edge to outperform the market, focusing on both traditional and algorithmic strategies. Learn how automated trading can provide speed and precision through mathematical models and predefined rules. This article explores various strategies, including breakout, mean reversion, and trend following, helping traders identify profitable patterns and manage risks. Enhance your trading skills by adapting to dynamic markets and applying innovative techniques for consistent returns."
 ---
 

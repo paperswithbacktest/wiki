@@ -1,5 +1,5 @@
 ---
-title: "Record Highs: Overview and Functionality (Algo Trading)"
+title: "Record Highs: Overview and Functionality"
 description: "Discover the impact and strategies of algorithmic trading amid record market highs Learn how technology aids traders in minimizing risks and enhancing efficiency"
 ---
 

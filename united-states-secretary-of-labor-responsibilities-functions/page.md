@@ -1,5 +1,5 @@
 ---
-title: "United States Secretary of Labor: Responsibilities and Functions (Algo Trading)"
+title: "United States Secretary of Labor: Responsibilities and Functions"
 description: "Explore how the U.S. Secretary of Labor navigates the impact of algorithmic trading on labor regulations adapting to technological advancements in modern industries."
 ---
 

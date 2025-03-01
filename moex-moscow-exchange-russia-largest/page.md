@@ -1,5 +1,5 @@
 ---
-title: "MOEX: Moscow Exchange, Russia's Largest Financial Market (Algo Trading)"
+title: "MOEX: Moscow Exchange, Russia's Largest Financial Market"
 description: "Discover MOEX Russia's premier financial market supporting equity bonds and algo trading boosting market efficiency and attracting global investors."
 ---
 

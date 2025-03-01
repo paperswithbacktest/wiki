@@ -1,5 +1,5 @@
 ---
-title: "Proof of Burn in Cryptocurrency (Algo Trading)"
+title: "Proof of Burn in Cryptocurrency"
 description: "Explore Proof of Burn in cryptocurrency and its role in algorithmic trading Discover how this consensus mechanism offers sustainable blockchain solutions"
 ---
 

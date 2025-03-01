@@ -1,5 +1,5 @@
 ---
-title: "Relevant Cost in Accounting and Its Importance (Algo Trading)"
+title: "Relevant Cost in Accounting and Its Importance"
 description: "Discover the crucial intersection of relevant cost analysis and algorithmic trading in this comprehensive guide. Understand how accounting principles can optimize trading strategies by identifying and minimizing expenses, both explicit and implicit, that impact profitability. Enhance your financial decision-making by focusing on costs influenced by market dynamics and strategic executions, ensuring competitive advantage in the fast-paced world of algorithmic trading."
 ---
 

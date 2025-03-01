@@ -1,5 +1,5 @@
 ---
-title: "Michel Robe (Algo Trading)"
+title: "Michel Robe"
 description: "Michel Robe is a distinguished expert in algorithmic trading with extensive academic and governmental experience, noted for his research on financial derivatives."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Nasdaq Inc. Overview (Algo Trading)"
+title: "Nasdaq Inc. Overview"
 description: "Discover how Nasdaq leverages cutting-edge technology to lead in algorithmic trading enabling faster, more efficient transactions with advanced AI strategies."
 ---
 

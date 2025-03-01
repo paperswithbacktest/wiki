@@ -1,5 +1,5 @@
 ---
-title: "Short-Term Assets: Overview, Benefits, and Examples (Algo Trading)"
+title: "Short-Term Assets: Overview, Benefits, and Examples"
 description: "Explore the benefits of short-term assets in algorithmic trading Learn how these assets aid liquidity management and how algo trading optimizes financial strategies"
 ---
 

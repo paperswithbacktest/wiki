@@ -1,5 +1,5 @@
 ---
-title: "PFGBest Financial Services (Algo Trading)"
+title: "PFGBest Financial Services"
 description: "Explore the rise and fall of PFGBest, a pioneer in algorithmic trading. Discover its impact on financial services and the scandal that led to its closure."
 ---
 

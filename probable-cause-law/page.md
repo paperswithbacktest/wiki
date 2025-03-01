@@ -1,5 +1,5 @@
 ---
-title: "Probable Cause in Law (Algo Trading)"
+title: "Probable Cause in Law"
 description: "Explore the intersection of probable cause and algorithmic trading examining legal foundations challenges and implications for law enforcement and financial regulation."
 ---
 

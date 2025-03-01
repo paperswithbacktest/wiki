@@ -1,5 +1,5 @@
 ---
-title: "OTC Markets Group: Structure and Overview (Algo Trading)"
+title: "OTC Markets Group: Structure and Overview"
 description: "Explore the structure and innovations of OTC Markets Group Learn how algorithmic trading enhances speed and precision in navigating the OTC trading environment"
 ---
 

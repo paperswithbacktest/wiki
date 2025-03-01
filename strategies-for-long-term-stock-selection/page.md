@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Long-Term Stock Selection (Algo Trading)"
+title: "Strategies for Long-Term Stock Selection"
 description: "Discover effective strategies for long-term stock selection with a focus on blending traditional fundamental analysis and modern algorithmic trading techniques."
 ---
 

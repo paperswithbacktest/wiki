@@ -1,5 +1,5 @@
 ---
-title: "Proof of Reserves (Algo Trading)"
+title: "Proof of Reserves"
 description: "Explore the essential role of Proof of Reserves in crypto auditing and algorithmic trading to ensure transparency and integrity in the cryptocurrency market."
 ---
 

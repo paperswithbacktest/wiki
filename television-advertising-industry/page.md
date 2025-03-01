@@ -1,5 +1,5 @@
 ---
-title: "Television Advertising Industry (Algo Trading)"
+title: "Television Advertising Industry"
 description: "Discover how algorithmic trading is transforming the television advertising industry. Explore its impact on ad buying, audience targeting, and market efficiency."
 ---
 

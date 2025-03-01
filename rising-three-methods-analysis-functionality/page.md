@@ -1,5 +1,5 @@
 ---
-title: "Rising Three Methods: Analysis and Functionality (Algo Trading)"
+title: "Rising Three Methods: Analysis and Functionality"
 description: "Explore how the Rising Three Methods candlestick pattern enhances algorithmic trading strategies by predicting trend continuations and optimizing decision-making."
 ---
 

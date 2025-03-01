@@ -1,5 +1,5 @@
 ---
-title: "Stock Value Depletion (Algo Trading)"
+title: "Stock Value Depletion"
 description: "Explore components of financial loss and investment risk types in algo trading. Understand stock value determinants and strategies for managing risks effectively."
 ---
 

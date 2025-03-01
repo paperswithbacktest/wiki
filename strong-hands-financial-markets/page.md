@@ -1,5 +1,5 @@
 ---
-title: "Strong Hands in Financial Markets (Algo Trading)"
+title: "Strong Hands in Financial Markets"
 description: "Discover how strong hands in financial markets utilize algorithmic trading to optimize strategies understand their synergy and impact through technological advancements."
 ---
 

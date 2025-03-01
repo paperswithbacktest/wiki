@@ -1,5 +1,5 @@
 ---
-title: "Using Options for Earnings Predictions (Algo Trading)"
+title: "Using Options for Earnings Predictions"
 description: "Explore the synergy of options trading, earnings predictions, and algorithmic trading to enhance financial forecasting and strategic decision-making in volatile markets."
 ---
 

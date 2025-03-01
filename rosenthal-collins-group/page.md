@@ -1,5 +1,5 @@
 ---
-title: "Rosenthal Collins Group (Algo Trading)"
+title: "Rosenthal Collins Group"
 description: "Rosenthal Collins Group LLC excels in commodities trading with innovative algorithmic tools and global reach offering superior trading platforms and financial services."
 ---
 

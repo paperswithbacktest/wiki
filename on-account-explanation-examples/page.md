@@ -1,5 +1,5 @@
 ---
-title: "On Account: Explanation and Examples (Algo Trading)"
+title: "On Account: Explanation and Examples"
 description: "Explore the critical role of journal entries and algorithmic trading in finance Discover how they ensure precise accounting and innovative trading strategies"
 ---
 

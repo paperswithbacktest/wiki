@@ -1,5 +1,5 @@
 ---
-title: "Statement of Financial Accounting Standards (Algo Trading)"
+title: "Statement of Financial Accounting Standards"
 description: "Explore the intersection of FASB accounting standards and algorithmic trading highlighting the importance of reliable financial data in optimizing trading strategies."
 ---
 

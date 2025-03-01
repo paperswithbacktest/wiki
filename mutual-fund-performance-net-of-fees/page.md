@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Performance Reporting: Net of Fees Consideration (Algo Trading)"
+title: "Mutual Fund Performance Reporting: Net of Fees Consideration"
 description: "Explore how mutual fund performance is reported net of fees and the role of algorithmic trading in enhancing returns, helping investors make informed decisions."
 ---
 

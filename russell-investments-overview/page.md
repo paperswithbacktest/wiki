@@ -1,5 +1,5 @@
 ---
-title: "Russell Investments Overview (Algo Trading)"
+title: "Russell Investments Overview"
 description: "Discover how Russell Investments leverages algorithmic trading and AI to transform financial management, enhance decision-making, and optimize investment outcomes."
 ---
 

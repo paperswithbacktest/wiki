@@ -1,5 +1,5 @@
 ---
-title: "Risk Shifting: Concepts and Mechanisms (Algo Trading)"
+title: "Risk Shifting: Concepts and Mechanisms"
 description: "Discover the essentials of risk shifting and algorithmic trading in financial markets Understand the mechanisms and implications of transferring and managing risks."
 ---
 

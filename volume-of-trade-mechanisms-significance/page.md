@@ -1,5 +1,5 @@
 ---
-title: "Volume of Trade: Mechanisms and Significance (Algo Trading)"
+title: "Volume of Trade: Mechanisms and Significance"
 description: "Explore the key aspects of trade volume and its role in financial markets, including its impact on liquidity, investor interest, and modern algorithmic trading methods."
 ---
 

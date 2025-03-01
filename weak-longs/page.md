@@ -1,5 +1,5 @@
 ---
-title: "Weak Longs (Algo Trading)"
+title: "Weak Longs"
 description: "Discover how weak longs and algo trading shape stock market dynamics impacting volatility and trading strategies. Learn to navigate these elements effectively."
 ---
 

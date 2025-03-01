@@ -1,5 +1,5 @@
 ---
-title: "Regulated Market: Benefits and Drawbacks (Algo Trading)"
+title: "Regulated Market: Benefits and Drawbacks"
 description: "Explore the benefits and challenges of regulated markets in finance particularly with algorithmic trading Gain insights into regulation's impact on market integrity"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trendline Trading Strategy (Algo Trading)"
+title: "Trendline Trading Strategy"
 description: Explore the intricacies of trendline trading strategies within algorithmic trading and discover how these tools enhance market analysis by indicating support and resistance levels. Understand how automatic detection by algorithms can improve effectiveness and consistency. Learn about trendline identification in Python and the application of various strategies for refined market engagement.
 ---
 

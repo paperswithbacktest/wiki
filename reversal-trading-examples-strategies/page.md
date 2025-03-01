@@ -1,5 +1,5 @@
 ---
-title: "Reversal in Trading: Examples and Strategies (Algo Trading)"
+title: "Reversal in Trading: Examples and Strategies"
 description: "Explore the significance of market reversals in algorithmic trading, learn strategies to spot trend changes, and enhance trading outcomes using advanced tools and techniques."
 ---
 

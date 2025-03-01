@@ -1,5 +1,5 @@
 ---
-title: "Peak6 (Algo Trading)"
+title: "Peak6"
 description: "Explore how Peak6 revolutionizes algo trading with innovative strategies using AI and big data to enhance performance and navigate dynamic market conditions."
 ---
 

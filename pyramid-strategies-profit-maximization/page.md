@@ -1,5 +1,5 @@
 ---
-title: "Pyramid Strategies for Profit Maximization (Algo Trading)"
+title: "Pyramid Strategies for Profit Maximization"
 description: "Discover how pyramid strategies in algorithmic trading can maximize profits by building on winning positions and minimizing risks through automation."
 ---
 

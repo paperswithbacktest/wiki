@@ -1,5 +1,5 @@
 ---
-title: "Net Exporter: Definition and Mechanism (Algo Trading)"
+title: "Net Exporter: Definition and Mechanism"
 description: "Explore the concepts of net exporters and algo trading in international trade Learn how these dynamics shape global markets and economic strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sterge, Andrew (Algo Trading)"
+title: "Sterge, Andrew"
 description: Discover the innovative 'Sterge Andrew in Algo Trading' strategy, a cutting-edge approach in financial technology aiming to maximize trading potential through sophisticated algorithms. This strategy enhances decision-making by employing data-driven techniques and prioritizing speed and precision. Learn how it minimizes emotional biases, adapts to market dynamics, and optimizes trade execution, offering significant insights for both new and experienced traders looking to refine their capabilities in the fast-paced world of algorithmic trading.
 ---
 

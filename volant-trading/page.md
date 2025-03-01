@@ -1,5 +1,5 @@
 ---
-title: "Volant Trading (Algo Trading)"
+title: "Volant Trading"
 description: "Volant Trading leads the algorithmic trading sector with pioneering strategies and cutting-edge technology optimizing trading execution and market efficiency."
 ---
 

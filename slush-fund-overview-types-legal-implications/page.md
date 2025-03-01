@@ -1,5 +1,5 @@
 ---
-title: "Slush Fund: Overview, Types, and Legal Implications (Algo Trading)"
+title: "Slush Fund: Overview, Types, and Legal Implications"
 description: "Explore the complexities of fund types and their ties to algo trading Understand mutual hedge private equity and slush funds and their legal implications"
 ---
 

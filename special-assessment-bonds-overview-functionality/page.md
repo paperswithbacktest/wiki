@@ -1,5 +1,5 @@
 ---
-title: "Special Assessment Bonds: Overview and Functionality (Algo Trading)"
+title: "Special Assessment Bonds: Overview and Functionality"
 description: "Explore how special assessment bonds and algorithmic trading are transforming municipal finance enhancing efficiency in funding public infrastructure and utilities."
 ---
 

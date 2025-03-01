@@ -1,5 +1,5 @@
 ---
-title: "Operations of a Securities Firm (Algo Trading)"
+title: "Operations of a Securities Firm"
 description: "Discover the essential functions of securities firms and investment banking in the modern financial landscape. Explore the critical roles of algorithmic trading in enhancing market efficiency and supporting global financial markets. Gain insights into how these elements contribute to corporate growth and economic development while ensuring market stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Using Stop Orders to Mitigate Market Losses (Algo Trading)"
+title: "Using Stop Orders to Mitigate Market Losses"
 description: "Learn how stop orders and algorithmic trading can help investors mitigate market losses By utilizing these tools, secure your financial future effectively"
 ---
 

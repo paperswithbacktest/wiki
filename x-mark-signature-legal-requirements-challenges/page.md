@@ -1,5 +1,5 @@
 ---
-title: "X-Mark Signature: Legal Requirements and Challenges (Algo Trading)"
+title: "X-Mark Signature: Legal Requirements and Challenges"
 description: "Explore the legal challenges and requirements of X-Mark signature in algorithmic trading Understand its role in compliance and risk management for secure transactions"
 ---
 

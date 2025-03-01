@@ -1,5 +1,5 @@
 ---
-title: "Taxable Preferred Securities (Algo Trading)"
+title: "Taxable Preferred Securities"
 description: "Explore the benefits and risks of taxable preferred securities and how algorithmic trading can optimize investments by enhancing trade efficiency and analysis."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Peer-to-Peer Network Services (Algo Trading)"
+title: "Peer-to-Peer Network Services"
 description: "Discover the advantages and challenges of peer-to-peer network services and algorithmic trading in decentralized finance with innovative examples of P2P technology."
 ---
 

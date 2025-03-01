@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Allocation (Algo Trading)"
+title: "Portfolio Allocation"
 description: "Explore the key benefits of algorithmic trading in portfolio allocation to enhance investment efficiency minimize risks and maximize returns in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Renationalization: Overview and Mechanism (Algo Trading)"
+title: "Renationalization: Overview and Mechanism"
 description: "Explore the intricate balance between government control and market innovation with insights into renationalization and algorithmic trading. Uncover key impacts."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Vietnamese Dong: Overview and Functionality (Algo Trading)"
+title: "Vietnamese Dong: Overview and Functionality"
 description: "Explore the significance of the Vietnamese Dong in financial markets and its intersection with algorithmic trading trends, highlighting opportunities for global traders."
 ---
 

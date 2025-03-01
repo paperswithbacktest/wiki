@@ -1,5 +1,5 @@
 ---
-title: "Tick runs bars (TRBs) (Algo Trading)"
+title: "Tick runs bars (TRBs)"
 description: Explore how Tick Runs Bars (TRBs) revolutionize algorithmic trading by offering a precise depiction of market activities. Unlike the traditional time bars, TRBs adapt to actual trade flows, forming bars based on sequences of similar trades reaching a set threshold. This method uncovers critical market dynamics that time-based approaches often miss, enhancing insight into supply and demand pressures. By incorporating these dynamically formed bars into trading strategies, traders can develop agile responses, significantly improving execution and prediction accuracy in volatile markets where timely decision-making is crucial.
 ---
 

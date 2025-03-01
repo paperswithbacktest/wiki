@@ -1,5 +1,5 @@
 ---
-title: "Options as Alternatives to Stop Orders (Algo Trading)"
+title: "Options as Alternatives to Stop Orders"
 description: "Discover how options trading, stop orders, and algorithmic trading can enhance investment strategies by maximizing returns and managing risk in volatile markets."
 ---
 

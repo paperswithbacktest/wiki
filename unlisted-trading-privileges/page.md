@@ -1,5 +1,5 @@
 ---
-title: "Unlisted Trading Privileges (Algo Trading)"
+title: "Unlisted Trading Privileges"
 description: "Discover the role of Unlisted Trading Privileges and algorithmic trading in enhancing financial market accessibility agility and liquidity for unlisted securities."
 ---
 

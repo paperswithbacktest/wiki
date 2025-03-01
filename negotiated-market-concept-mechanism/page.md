@@ -1,5 +1,5 @@
 ---
-title: "Negotiated Market: Concept and Mechanism (Algo Trading)"
+title: "Negotiated Market: Concept and Mechanism"
 description: "Explore the dynamics of negotiated markets in algo trading where buyers and sellers directly determine security prices revolutionizing financial ecosystems."
 ---
 

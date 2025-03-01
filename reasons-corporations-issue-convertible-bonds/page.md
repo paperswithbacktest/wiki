@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Corporations to Issue Convertible Bonds (Algo Trading)"
+title: "Reasons for Corporations to Issue Convertible Bonds"
 description: "Explore why corporations issue convertible bonds to raise capital efficiently while balancing debt and equity. Learn how algorithmic trading impacts this market."
 ---
 

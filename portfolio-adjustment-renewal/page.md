@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Adjustment and Renewal (Algo Trading)"
+title: "Portfolio Adjustment and Renewal"
 description: "Discover the synergy of financial planning, investment strategy, portfolio management, and algo trading to optimize financial success in evolving markets."
 ---
 

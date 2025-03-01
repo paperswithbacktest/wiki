@@ -1,5 +1,5 @@
 ---
-title: "Valuation of Interest Rate Swaps (Algo Trading)"
+title: "Valuation of Interest Rate Swaps"
 description: "Explore the critical role of interest rate swaps in financial markets Discover how these derivatives are valued and revolutionized by algorithmic trading for risk management"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rainbow Option: Definition and Mechanism (Algo Trading)"
+title: "Rainbow Option: Definition and Mechanism"
 description: "Explore the intriguing world of rainbow options where complex strategies come alive through algorithmic trading. Unlock opportunities using these exotic derivatives."
 ---
 

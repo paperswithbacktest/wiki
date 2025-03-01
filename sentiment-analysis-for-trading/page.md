@@ -1,5 +1,5 @@
 ---
-title: "Sentiment Analysis for Trading (Algo Trading)"
+title: "Sentiment Analysis for Trading"
 description: "Explore the integration of sentiment analysis in algorithmic trading to enhance prediction accuracy by combining emotional insights with traditional data models."
 ---
 

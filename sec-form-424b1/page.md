@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 424B1 (Algo Trading)"
+title: "SEC Form 424B1"
 description: "Gain insights into securities offerings with SEC Form 424B1 essential for algorithmic traders seeking comprehensive updates and strategic data integration."
 ---
 

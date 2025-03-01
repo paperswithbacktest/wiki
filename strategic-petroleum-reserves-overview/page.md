@@ -1,5 +1,5 @@
 ---
-title: "Overview of Strategic Petroleum Reserves (Algo Trading)"
+title: "Overview of Strategic Petroleum Reserves"
 description: "Explore the role of Strategic Petroleum Reserves and algorithmic trading in enhancing energy security by maintaining economic stability amidst global market shifts."
 ---
 

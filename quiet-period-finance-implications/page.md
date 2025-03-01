@@ -1,5 +1,5 @@
 ---
-title: "Quiet Period in Finance and Its Implications (Algo Trading)"
+title: "Quiet Period in Finance and Its Implications"
 description: "Discover the impact of quiet periods in finance on market transparency and algorithmic trading Learn how regulations affect IPOs and investor equality."
 ---
 

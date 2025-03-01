@@ -1,5 +1,5 @@
 ---
-title: "Qualitative Analysis of Biotech Companies (Algo Trading)"
+title: "Qualitative Analysis of Biotech Companies"
 description: "Discover the key qualitative factors essential for evaluating biotech companies in algo trading Gain insights into management expertise strategy and regulatory landscape"
 ---
 

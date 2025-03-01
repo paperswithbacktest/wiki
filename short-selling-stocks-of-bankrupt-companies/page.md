@@ -1,5 +1,5 @@
 ---
-title: "Short Selling Stocks of Bankrupt Companies (Algo Trading)"
+title: "Short Selling Stocks of Bankrupt Companies"
 description: "Explore the synergy between short selling stocks of bankrupt companies and algorithmic trading Find out how investors can optimize strategies amidst market downturns"
 ---
 

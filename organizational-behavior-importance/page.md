@@ -1,5 +1,5 @@
 ---
-title: "Organizational Behavior and Its Importance (Algo Trading)"
+title: "Organizational Behavior and Its Importance"
 description: "Discover the crucial intersection of organizational behavior and algorithmic trading within business management. Explore how effective management strategies enhance decision-making and innovation while fostering a supportive workplace culture. Uncover the benefits of integrating human insights with technology for sustainable growth and competitive advantage. Dive into the complexities of workplace dynamics and learn how they impact productivity and organizational success in today's fast-paced business environment."
 ---
 

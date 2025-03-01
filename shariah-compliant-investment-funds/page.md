@@ -1,5 +1,5 @@
 ---
-title: "Shariah-Compliant Investment Funds (Algo Trading)"
+title: "Shariah-Compliant Investment Funds"
 description: "Discover the transformative impact of algorithmic trading within Shariah-compliant investment funds where technology enhances ethical, profitable investing."
 ---
 

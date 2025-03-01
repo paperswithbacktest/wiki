@@ -1,5 +1,5 @@
 ---
-title: "Paradox of Rationality (Algo Trading)"
+title: "Paradox of Rationality"
 description: "Explore the paradox of rationality in algorithmic trading where irrational decisions may outperform rational models and enhance trading strategies."
 ---
 

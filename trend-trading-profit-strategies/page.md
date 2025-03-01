@@ -1,5 +1,5 @@
 ---
-title: "Trend Trading and Profit Strategies (Algo Trading)"
+title: "Trend Trading and Profit Strategies"
 description: "Explore effective trend trading and algorithmic strategies, capturing market trends for improved trading performance and informed decision-making in the financial markets."
 ---
 

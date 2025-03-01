@@ -1,5 +1,5 @@
 ---
-title: "Risks of Corporate Cryptocurrency (Algo Trading)"
+title: "Risks of Corporate Cryptocurrency"
 description: "Explore the risks of corporate cryptocurrency and algorithmic trading Discover insights into navigating financial challenges and opportunities in the crypto market"
 ---
 

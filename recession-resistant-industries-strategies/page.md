@@ -1,5 +1,5 @@
 ---
-title: "Recession Resistant Industries and Strategies (Algo Trading)"
+title: "Recession Resistant Industries and Strategies"
 description: "Discover effective strategies and invest in recession-resistant industries with algorithmic trading for economic resilience and portfolio stability during downturns."
 ---
 

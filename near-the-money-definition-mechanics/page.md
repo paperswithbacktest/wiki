@@ -1,5 +1,5 @@
 ---
-title: "Near the Money: Definition and Mechanics (Algo Trading)"
+title: "Near the Money: Definition and Mechanics"
 description: "Explore the synergy between algorithmic and options trading focusing on near-the-money options. Enhance trading strategies, manage risks, and maximize profits."
 ---
 

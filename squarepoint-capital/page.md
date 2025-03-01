@@ -1,5 +1,5 @@
 ---
-title: "Squarepoint Capital (Algo Trading)"
+title: "Squarepoint Capital"
 description: Squarepoint Capital is a leading force in algorithmic trading, renowned for its expertise in quantitative finance and advanced trading strategies. With headquarters in New York City and a global presence across key financial hubs in Europe and Asia, Squarepoint efficiently leverages technology and big data analytics to optimize investment decisions and navigate diverse markets. The firm’s focus on innovation, risk management, and partnerships underscores its adaptability and strength in a dynamic financial landscape.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Neil Bhattacharjee (Algo Trading)"
+title: "Neil Bhattacharjee"
 description: "Discover Neil Bhattacharjee's journey as a leading figure in algorithmic trading from his education in computer science to his impactful role at Akuna Capital."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Risk Assessment of Cannabis Investors (Algo Trading)"
+title: "Risk Assessment of Cannabis Investors"
 description: "Explore the risks and opportunities of investing in the cannabis market through algorithmic trading, understanding regulatory impacts, market volatility, and growth potential."
 ---
 

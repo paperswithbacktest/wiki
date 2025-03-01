@@ -1,5 +1,5 @@
 ---
-title: "Three-Martini Lunch Tax Deduction (Algo Trading)"
+title: "Three-Martini Lunch Tax Deduction"
 description: "Explore the influence of tax deductions on business practices and algorithmic trading in a dynamic financial landscape shaped by evolving tax legislation."
 ---
 

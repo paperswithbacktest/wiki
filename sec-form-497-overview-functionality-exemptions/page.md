@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 497: Overview, Functionality, and Exemptions (Algo Trading)"
+title: "SEC Form 497: Overview, Functionality, and Exemptions"
 description: "Discover how SEC Form 497 serves as a vital tool for mutual fund disclosures, enhancing transparency and aiding investors in algorithmic and traditional trading decisions."
 ---
 

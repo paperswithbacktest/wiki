@@ -1,5 +1,5 @@
 ---
-title: "Tariffs and Their Impact (Algo Trading)"
+title: "Tariffs and Their Impact"
 description: "Explore how tariffs and trade policies shape algorithmic trading and market dynamics impacting businesses and consumers worldwide in today's fast-paced economy."
 ---
 

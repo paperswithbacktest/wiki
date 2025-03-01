@@ -1,5 +1,5 @@
 ---
-title: "Provincial Parental Insurance Plan: Overview and Benefits (Algo Trading)"
+title: "Provincial Parental Insurance Plan: Overview and Benefits"
 description: "Explore the Provincial Parental Insurance Plan offering financial stability for new parents in Quebec by substituting income and providing comprehensive parental benefits."
 ---
 

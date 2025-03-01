@@ -1,5 +1,5 @@
 ---
-title: "Structured Financial Products (Algo Trading)"
+title: "Structured Financial Products"
 description: "Explore the world of structured financial products and algorithmic trading Learn how these innovative tools can enhance portfolio diversification and investment success"
 ---
 

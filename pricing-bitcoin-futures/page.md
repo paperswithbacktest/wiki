@@ -1,5 +1,5 @@
 ---
-title: "Pricing of Bitcoin Futures (Algo Trading)"
+title: "Pricing of Bitcoin Futures"
 description: "Explore Bitcoin futures pricing with insights into algorithmic trading's impact on markets Learn how algo trading enhances efficiency in the volatile crypto sector"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Successive Menstrual Cycles: Explanation and Examples (Algo Trading)"
+title: "Successive Menstrual Cycles: Explanation and Examples"
 description: "Explore the intersection of menstrual cycles and algorithmic trading cycles to uncover valuable insights into decision-making processes and optimize strategies."
 ---
 

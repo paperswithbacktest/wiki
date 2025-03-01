@@ -1,5 +1,5 @@
 ---
-title: "Potential Financial Gains From Forex Trading (Algo Trading)"
+title: "Potential Financial Gains From Forex Trading"
 description: "Discover how combining algorithmic strategies with forex trading can lead to significant financial gains. Explore the synergy of automation and the expansive forex market in optimizing trading strategies and unlocking new opportunities for wealth creation."
 ---
 

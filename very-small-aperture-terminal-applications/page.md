@@ -1,5 +1,5 @@
 ---
-title: "Very Small Aperture Terminal Applications (Algo Trading)"
+title: "Very Small Aperture Terminal Applications"
 description: "Unlock the potential of VSAT technology in algorithmic trading by exploring seamless satellite-driven connectivity solutions for real-time data exchange in remote areas."
 ---
 

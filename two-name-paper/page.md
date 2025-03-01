@@ -1,5 +1,5 @@
 ---
-title: "Two Name Paper (Algo Trading)"
+title: "Two Name Paper"
 description: "Explore the synergy between academic citation styles and algorithmic trading These domains share a focus on transparency credibility and data integrity"
 ---
 

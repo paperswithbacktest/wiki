@@ -1,5 +1,5 @@
 ---
-title: "Minimum Share Purchase Requirements for Equity Investment (Algo Trading)"
+title: "Minimum Share Purchase Requirements for Equity Investment"
 description: "Discover how minimum share purchase requirements and fractional shares have transformed equity investment making it accessible for all. Learn about algorithmic trading's role."
 ---
 

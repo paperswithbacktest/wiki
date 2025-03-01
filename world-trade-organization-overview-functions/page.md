@@ -1,5 +1,5 @@
 ---
-title: "World Trade Organization: Overview and Functions (Algo Trading)"
+title: "World Trade Organization: Overview and Functions"
 description: "Explore how the World Trade Organization influences global trade dynamics and how algorithmic trading reshapes international markets. Stay informed on key economic trends."
 ---
 

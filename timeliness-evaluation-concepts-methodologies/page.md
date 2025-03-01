@@ -1,5 +1,5 @@
 ---
-title: "Timeliness and Evaluation: Concepts and Methodologies (Algo Trading)"
+title: "Timeliness and Evaluation: Concepts and Methodologies"
 description: "Discover the dynamics of timeliness and evaluation in algorithmic trading Enhance trade execution precision by understanding key concepts and rating methodologies"
 ---
 

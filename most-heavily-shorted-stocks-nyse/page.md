@@ -1,5 +1,5 @@
 ---
-title: "Most Heavily Shorted Stocks on the NYSE (Algo Trading)"
+title: "Most Heavily Shorted Stocks on the NYSE"
 description: "Explore the dynamics of heavily shorted stocks on the NYSE through the lens of algorithmic trading. Understand how this modern trading approach leverages complex algorithms to navigate market conditions and seize opportunities in volatile environments. Delve into short selling strategies, examining both the inherent risks and potential rewards of capitalizing on bearish sentiments around companies such as Albemarle and Campbell Soup. Learn to recognize patterns and market trends that fuel successful trades, maximizing returns while managing risks with precision."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Net Institutional Sales: Overview and Mechanism (Algo Trading)"
+title: "Net Institutional Sales: Overview and Mechanism"
 description: "Explore how Net Institutional Sales impacts institutional trading by revealing investor sentiment and market trends in the evolving financial landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Naked Options and Associated Investment Risks (Algo Trading)"
+title: "Naked Options and Associated Investment Risks"
 description: "Explore the complexities of naked options, high-risk financial instruments in algo trading, offering potential rewards and emphasizing prudent risk management."
 ---
 

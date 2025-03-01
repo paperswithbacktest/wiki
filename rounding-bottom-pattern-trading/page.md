@@ -1,5 +1,5 @@
 ---
-title: "Rounding Bottom Pattern in Trading (Algo Trading)"
+title: "Rounding Bottom Pattern in Trading"
 description: "Discover how the rare and powerful rounding bottom pattern signals bullish market reversals and offers trading opportunities in algorithmic trading systems."
 ---
 

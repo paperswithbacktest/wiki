@@ -1,5 +1,5 @@
 ---
-title: "Vanguard Funds for Retirement Portfolio Diversification (Algo Trading)"
+title: "Vanguard Funds for Retirement Portfolio Diversification"
 description: "Explore how Vanguard funds enhance retirement portfolio diversification and the role of algorithmic trading in optimizing returns for a stable financial future."
 ---
 

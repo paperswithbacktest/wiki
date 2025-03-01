@@ -1,5 +1,5 @@
 ---
-title: "Neglected Firm Effect (Algo Trading)"
+title: "Neglected Firm Effect"
 description: "Explore the neglected firm effect to uncover how smaller, lesser-known companies may outperform major firms through strategic analysis and algorithmic trading."
 ---
 

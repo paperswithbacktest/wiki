@@ -1,5 +1,5 @@
 ---
-title: "Real Body: Concept, Examples, and Limitations (Algo Trading)"
+title: "Real Body: Concept, Examples, and Limitations"
 description: "Explore the concept of the real body in candlestick charts and its parallels with algorithmic trading limitations to optimize strategies and manage risks."
 ---
 

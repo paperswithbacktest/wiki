@@ -1,5 +1,5 @@
 ---
-title: "Smart Order Routing in Trading (Algo Trading)"
+title: "Smart Order Routing in Trading"
 description: "Explore the transformative world of Smart Order Routing in trading, highlighting its role in enhancing trade execution through algorithmic strategies. This page investigates into how SOR optimizes transactions in financial markets by evaluating price, liquidity, and timing across multiple venues. Learn about the technologies and algorithms that elevate traders' strategies, reduce costs, and improve performance, offering crucial insights for both seasoned traders and newcomers."
 ---
 

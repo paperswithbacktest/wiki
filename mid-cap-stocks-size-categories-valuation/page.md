@@ -1,5 +1,5 @@
 ---
-title: "Mid-Cap Stocks: Size Categories and Valuation (Algo Trading)"
+title: "Mid-Cap Stocks: Size Categories and Valuation"
 description: "Explore the potential of mid-cap stocks in investment portfolios. Discover their growth, valuation significance, and role in algorithmic trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Short-Term Investments: Overview and Examples (Algo Trading)"
+title: "Short-Term Investments: Overview and Examples"
 description: "Explore the benefits of short-term investments and algorithmic trading to enhance your portfolio with strategies that boost liquidity and optimize returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sampling features (Algo Trading)"
+title: "Sampling features"
 description: Explore the crucial role of precise data sampling in algorithmic trading strategies to boost their success. Learn about varied sampling techniques, such as data partitioning, bootstrap, and walk-forward optimization, essential for model development, backtesting, and strategy optimization. Understand how effective sampling reduces issues like sampling bias and overfitting and enhances a model's robustness and adaptability across market conditions. Gain insights into different sampling methods like simple random, stratified, and cluster sampling, and their impact on trading models, ensuring improved forecasts and smarter trading decisions.
 ---
 

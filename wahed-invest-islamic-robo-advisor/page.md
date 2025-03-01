@@ -1,5 +1,5 @@
 ---
-title: "Wahed Invest: The Islamic Robo-Advisor (Algo Trading)"
+title: "Wahed Invest: The Islamic Robo-Advisor"
 description: "Experience seamless, Sharia-compliant investing with Wahed Invest's robo-advisor offering ethical, automated portfolio management tailored to your financial goals."
 ---
 

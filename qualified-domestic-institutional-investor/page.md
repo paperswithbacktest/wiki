@@ -1,5 +1,5 @@
 ---
-title: "Qualified Domestic Institutional Investor (Algo Trading)"
+title: "Qualified Domestic Institutional Investor"
 description: "Explore how domestic investors are leveraging Qualified Domestic Institutional Investor programs and algorithmic trading to diversify portfolios globally."
 ---
 

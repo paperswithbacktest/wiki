@@ -1,5 +1,5 @@
 ---
-title: "Price-Cap Regulation (Algo Trading)"
+title: "Price-Cap Regulation"
 description: "Explore the intricate dynamics of price-cap regulation and its role in controlling utility prices while fostering efficiency within monopoly industries. Learn how this regulatory approach, alongside algorithmic trading advancements, shapes economic policies and challenges market participants in balancing regulatory frameworks and innovation."
 ---
 

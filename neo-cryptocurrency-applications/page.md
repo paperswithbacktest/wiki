@@ -1,5 +1,5 @@
 ---
-title: "NEO Cryptocurrency and Its Applications (Algo Trading)"
+title: "NEO Cryptocurrency and Its Applications"
 description: "Explore the intersection of NEO cryptocurrency blockchain and algorithmic trading Understand NEO's smart economy and discover trading strategies and tools"
 ---
 

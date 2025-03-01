@@ -1,5 +1,5 @@
 ---
-title: "Popularity of the 50-Day Simple Moving Average Among Traders (Algo Trading)"
+title: "Popularity of the 50-Day Simple Moving Average Among Traders"
 description: "Explore the significance of the 50-day simple moving average in trading and algorithmic strategies for identifying trends and optimizing buy-sell decisions."
 ---
 

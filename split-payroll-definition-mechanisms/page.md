@@ -1,5 +1,5 @@
 ---
-title: "Split Payroll: Definition and Mechanisms (Algo Trading)"
+title: "Split Payroll: Definition and Mechanisms"
 description: "Explore the essential mechanisms and benefits of split payroll systems for international workforces. Understand compliance, tax implications, and currency stability."
 ---
 

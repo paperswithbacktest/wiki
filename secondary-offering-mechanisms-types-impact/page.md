@@ -1,5 +1,5 @@
 ---
-title: "Secondary Offering: Mechanisms, Types, and Impact (Algo Trading)"
+title: "Secondary Offering: Mechanisms, Types, and Impact"
 description: "Explore the mechanisms and impact of secondary offerings in the stock market emphasizing the role of algorithmic trading in managing these complex equity issuances."
 ---
 

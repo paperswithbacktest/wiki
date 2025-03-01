@@ -1,5 +1,5 @@
 ---
-title: "UST: Overview, Mechanism, Applications (Algo Trading)"
+title: "UST: Overview, Mechanism, Applications"
 description: "Explore the synergy between UST stablecoin and algorithmic trading for optimized strategies and minimized risks in modern trading environments."
 ---
 

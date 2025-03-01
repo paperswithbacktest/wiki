@@ -1,5 +1,5 @@
 ---
-title: "Speed Resistance Lines: Functionality and Significance (Algo Trading)"
+title: "Speed Resistance Lines: Functionality and Significance"
 description: "Explore the role of speed resistance lines in algorithmic trading to identify support and resistance levels, forecast trend changes, and optimize trade strategies."
 ---
 

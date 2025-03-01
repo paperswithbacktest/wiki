@@ -1,5 +1,5 @@
 ---
-title: "Tastytrade: A 2024 Review (Algo Trading)"
+title: "Tastytrade: A 2024 Review"
 description: "Discover tastytrade's 2024 advancements in algorithmic trading and user experience Perfect for both novices and experts with diverse investment tools and education"
 ---
 

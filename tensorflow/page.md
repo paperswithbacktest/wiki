@@ -1,5 +1,5 @@
 ---
-title: "TensorFlow (Algo Trading)"
+title: "TensorFlow"
 description: Discover how TensorFlow, Google's open-source machine learning library, is transforming algorithmic trading. Learn its applications in optimizing trading strategies, from predicting short-term price movements to analyzing market sentiment through natural language processing. Explore TensorFlow's advantages, including high performance, flexibility, and specialized tools like TensorBoard, which streamline model training and implementation. Stay ahead in quantitative finance by mastering TensorFlow's capabilities in this rapidly evolving financial landscape.
 ---
 

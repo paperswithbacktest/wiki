@@ -1,5 +1,5 @@
 ---
-title: "Panic Selling: Mechanisms and Models (Algo Trading)"
+title: "Panic Selling: Mechanisms and Models"
 description: "Explore the mechanisms and models of panic selling in algorithmic trading. Learn how emotional reactions impact markets and strategies to navigate volatility."
 ---
 

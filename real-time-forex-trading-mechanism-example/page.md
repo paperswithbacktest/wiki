@@ -1,5 +1,5 @@
 ---
-title: "Real-Time Forex Trading: Definition, Mechanism, and Example (Algo Trading)"
+title: "Real-Time Forex Trading: Definition, Mechanism, and Example"
 description: "Explore the dynamics of real-time forex trading and algorithmic strategies Learn how speed and precision can enhance trading performance in the forex market"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Purged K-fold cross-validation (Algo Trading)"
+title: "Purged K-fold cross-validation"
 description: Explore the advanced technique of Purged K-Fold Cross-Validation within algorithmic trading to improve backtesting accuracy by effectively managing look-ahead bias and data leakage. This method advances traditional K-Fold Cross-Validation by addressing temporal dependencies associated with financial time-series data, ensuring robust model evaluation and enhancing predictive performance in real market conditions. Discover how employing purging and embargo techniques provides a reliable framework for developing resilient trading strategies while minimizing overfitting risks.
 ---
 

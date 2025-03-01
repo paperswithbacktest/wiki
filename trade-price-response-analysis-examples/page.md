@@ -1,5 +1,5 @@
 ---
-title: "Trade Price Response: Analysis and Examples (Algo Trading)"
+title: "Trade Price Response: Analysis and Examples"
 description: "Explore trade price and components like bid, ask, and spread in algo trading. Learn how market response price affects trading strategies and decisions."
 ---
 

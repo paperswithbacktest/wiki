@@ -1,5 +1,5 @@
 ---
-title: "Vector Trading (Algo Trading)"
+title: "Vector Trading"
 description: "Explore Vector Trading's impact on financial markets through sophisticated algorithms optimizing trade execution and exploiting market inefficiencies for consistent profits."
 ---
 

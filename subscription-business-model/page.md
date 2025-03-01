@@ -1,5 +1,5 @@
 ---
-title: "Subscription Business Model (Algo Trading)"
+title: "Subscription Business Model"
 description: "Leverage the power of subscription models in algorithmic trading to access cutting-edge tools and strategies for optimized trading efficiency and success."
 ---
 

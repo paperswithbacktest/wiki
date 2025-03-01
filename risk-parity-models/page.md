@@ -1,5 +1,5 @@
 ---
-title: "Risk-parity models (Algo Trading)"
+title: "Risk-parity models"
 description: "Explore the innovative world of risk parity models in algo trading Discover how balancing risk, not capital, enhances portfolio diversification and stability"
 ---
 

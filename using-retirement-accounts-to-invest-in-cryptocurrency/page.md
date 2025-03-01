@@ -1,5 +1,5 @@
 ---
-title: "Using Retirement Accounts to Invest in Cryptocurrency (Algo Trading)"
+title: "Using Retirement Accounts to Invest in Cryptocurrency"
 description: "Explore how to leverage retirement accounts for cryptocurrency investments Learn about algorithmic trading to enhance returns and navigate potential risks effectively"
 ---
 

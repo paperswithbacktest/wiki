@@ -1,5 +1,5 @@
 ---
-title: "Short Selling and Company Float (Algo Trading)"
+title: "Short Selling and Company Float"
 description: "Discover insights into short selling, company floats, and algorithmic trading in the stock market Learn how these key concepts influence investment strategies and market dynamics"
 ---
 

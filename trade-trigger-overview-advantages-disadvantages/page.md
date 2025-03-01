@@ -1,5 +1,5 @@
 ---
-title: "Trade Trigger: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Trade Trigger: Overview, Advantages, and Disadvantages"
 description: "Explore the advantages and disadvantages of trade triggers in algorithmic trading and their impact on trading efficiency and strategy execution."
 ---
 

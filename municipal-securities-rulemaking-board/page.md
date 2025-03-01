@@ -1,5 +1,5 @@
 ---
-title: "Municipal Securities Rulemaking Board (Algo Trading)"
+title: "Municipal Securities Rulemaking Board"
 description: "Explore the impact of algorithmic trading on municipal securities where the MSRB ensures a stable market blending technology with regulatory frameworks."
 ---
 

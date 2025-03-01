@@ -1,5 +1,5 @@
 ---
-title: "Neural networks in financial prediction (Algo Trading)"
+title: "Neural networks in financial prediction"
 description: "Explore how neural networks are transforming algorithmic trading by offering intricate pattern recognition and improved predictive accuracy for financial markets."
 ---
 

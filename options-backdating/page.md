@@ -1,5 +1,5 @@
 ---
-title: "Options Backdating (Algo Trading)"
+title: "Options Backdating"
 description: "Explore the dynamics of corporate governance, stock options backdating, and algorithmic trading, focusing on their ethical and regulatory implications for businesses."
 ---
 

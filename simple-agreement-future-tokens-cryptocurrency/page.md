@@ -1,5 +1,5 @@
 ---
-title: "Simple Agreement for Future Tokens in Cryptocurrency (Algo Trading)"
+title: "Simple Agreement for Future Tokens in Cryptocurrency"
 description: "Explore how Future Tokens and the SAFT framework are revolutionizing cryptocurrency investment. Dive into algorithmic trading insights for strategic digital asset growth."
 ---
 

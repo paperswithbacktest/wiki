@@ -1,5 +1,5 @@
 ---
-title: "Tap Issue in Finance (Algo Trading)"
+title: "Tap Issue in Finance"
 description: "Explore the crucial roles of tap issues and algorithmic trading in finance. Discover their impacts on liquidity, market dynamics, and investor strategies."
 ---
 

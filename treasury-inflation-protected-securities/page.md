@@ -1,5 +1,5 @@
 ---
-title: "Treasury Inflation-Protected Securities (Algo Trading)"
+title: "Treasury Inflation-Protected Securities"
 description: "Explore Treasury Inflation-Protected Securities and algo trading to safeguard investments against inflation Preserve wealth with TIPS and automated strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Swap Transferring Risk with Participating Element (Algo Trading)"
+title: "Swap Transferring Risk with Participating Element"
 description: "Explore swap risk transfer and participating elements in algorithmic trading transforming derivative markets for improved risk management and efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Small Cap Investing (Algo Trading)"
+title: "Small Cap Investing"
 description: "Explore the synergy of small-cap stock investing and algo trading. Understand the potential for high returns with inherent risks and learn strategic approaches."
 ---
 

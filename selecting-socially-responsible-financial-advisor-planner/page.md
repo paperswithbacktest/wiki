@@ -1,5 +1,5 @@
 ---
-title: "Selecting a Socially Responsible Financial Advisor or Planner (Algo Trading)"
+title: "Selecting a Socially Responsible Financial Advisor or Planner"
 description: "Choose a socially responsible financial advisor skilled in SRI and ethical finance Align investments with your values through expert guidance on ESG and impact strategies"
 ---
 

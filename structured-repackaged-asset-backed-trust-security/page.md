@@ -1,5 +1,5 @@
 ---
-title: "Structured Repackaged Asset-Backed Trust Security (Algo Trading)"
+title: "Structured Repackaged Asset-Backed Trust Security"
 description: "Explore the intricacies of Asset-Backed Securities and Structured Repackaged Asset-Backed Trust Securities in algorithmic trading today."
 ---
 

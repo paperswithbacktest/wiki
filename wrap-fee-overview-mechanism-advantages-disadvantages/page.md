@@ -1,5 +1,5 @@
 ---
-title: "Wrap Fee: Overview, Mechanism, Advantages, and Disadvantages (Algo Trading)"
+title: "Wrap Fee: Overview, Mechanism, Advantages, and Disadvantages"
 description: "Discover the intricacies of wrap fee programs and algorithmic trading Explore their mechanisms benefits and drawbacks to optimize modern investing strategies"
 ---
 

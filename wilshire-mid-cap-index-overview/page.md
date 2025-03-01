@@ -1,5 +1,5 @@
 ---
-title: "Wilshire Mid-Cap Index Overview (Algo Trading)"
+title: "Wilshire Mid-Cap Index Overview"
 description: "Explore the Wilshire Mid-Cap Index a key benchmark for mid-sized companies between $2B-$10B emphasizing growth and stability optimal for algorithmic trading."
 ---
 

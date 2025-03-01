@@ -1,5 +1,5 @@
 ---
-title: "Primary Offering (Algo Trading)"
+title: "Primary Offering"
 description: "Explore the intricacies of IPOs and primary offerings, focusing on how algorithmic trading reshapes market dynamics, enhances liquidity, and impacts pricing."
 ---
 

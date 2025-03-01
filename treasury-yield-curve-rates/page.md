@@ -1,5 +1,5 @@
 ---
-title: "Treasury Yield Curve Rates (Algo Trading)"
+title: "Treasury Yield Curve Rates"
 description: "Discover how treasury yield curves can enhance algo trading strategies Learn to leverage this vital economic indicator to boost algorithmic decision-making"
 ---
 

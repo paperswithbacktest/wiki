@@ -1,5 +1,5 @@
 ---
-title: "Negative Bond Yields in Investing (Algo Trading)"
+title: "Negative Bond Yields in Investing"
 description: "Explore the complexities of negative bond yields how algorithmic trading navigates this unique financial scenario and the strategies for risk mitigation."
 ---
 

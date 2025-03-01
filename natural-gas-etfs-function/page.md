@@ -1,5 +1,5 @@
 ---
-title: "Natural Gas ETFs and Their Function (Algo Trading)"
+title: "Natural Gas ETFs and Their Function"
 description: "Explore the synergy of natural gas ETFs and algorithmic trading to optimize energy investments maximize returns and manage risks in evolving markets."
 ---
 

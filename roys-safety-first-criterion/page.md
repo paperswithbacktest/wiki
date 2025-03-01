@@ -1,5 +1,5 @@
 ---
-title: "Roy's Safety-First Criterion (Algo Trading)"
+title: "Roy's Safety-First Criterion"
 description: "Discover Roy's Safety-First Criterion for effective risk management in algorithmic trading Stay ahead in volatile markets by prioritizing safety and stable returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Uncle Sam as a Personification of the U.S. Government (Algo Trading)"
+title: "Uncle Sam as a Personification of the U.S. Government"
 description: "Explore the personification of Uncle Sam as it intersects with the evolution of algorithmic trading in the U.S. financial markets. This article investigates into how this iconic symbol represents governmental oversight and regulation, addressing the complexities and responsibilities emerging from technological advancements in trading. Discover Uncle Sam's historical significance and modern implications in balancing innovation with financial security."
 ---
 

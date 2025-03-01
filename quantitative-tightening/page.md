@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Tightening (Algo Trading)"
+title: "Quantitative Tightening"
 description: "Explore central banking's role in economic tightening and how algorithmic trading adapts to policy shifts and increased market volatility for global stability."
 ---
 

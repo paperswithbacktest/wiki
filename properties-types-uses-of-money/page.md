@@ -1,5 +1,5 @@
 ---
-title: "Properties, Types, and Uses of Money (Algo Trading)"
+title: "Properties, Types, and Uses of Money"
 description: "Discover the key properties and types of money and explore its vital roles in economies alongside the transformative impact of algorithmic trading."
 ---
 

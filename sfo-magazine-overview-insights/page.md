@@ -1,5 +1,5 @@
 ---
-title: "SFO Magazine: Overview and Insights (Algo Trading)"
+title: "SFO Magazine: Overview and Insights"
 description: "Discover the history and impact of SFO Magazine in algorithmic trading and learn how its insights and innovations continue to influence today's traders."
 ---
 

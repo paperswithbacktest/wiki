@@ -1,5 +1,5 @@
 ---
-title: "Salvage Value: Explanation and Example (Algo Trading)"
+title: "Salvage Value: Explanation and Example"
 description: "Explore the significance of salvage value in financial accounting and algorithmic trading Discover how accurate estimation impacts asset management and trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Notable Examples of Successful Leveraged Buyouts (Algo Trading)"
+title: "Notable Examples of Successful Leveraged Buyouts"
 description: "Explore how successful leveraged buyouts combined with algorithmic trading strategies are transforming financial practices and driving corporate growth and innovation."
 ---
 

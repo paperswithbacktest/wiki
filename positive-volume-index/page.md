@@ -1,5 +1,5 @@
 ---
-title: "Positive Volume Index (Algo Trading)"
+title: "Positive Volume Index"
 description: "Explore the Positive Volume Index to understand market trends and enhance trading strategies by analyzing stock price movements with increasing trading volume."
 ---
 

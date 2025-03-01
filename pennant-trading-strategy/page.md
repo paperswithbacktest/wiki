@@ -1,5 +1,5 @@
 ---
-title: "Pennant Trading Strategy (Algo Trading)"
+title: "Pennant Trading Strategy"
 description: Explore the pivotal role of bullish pennants in algorithmic trading, providing insights into market trends and aiding traders in capitalizing on ongoing movements. Learn how these patterns indicate market consolidation before an uptrend continues, offering crucial entry and exit points to optimize trade accuracy and profitability. Enhance your algorithmic trading strategy by understanding and integrating these technical analysis tools to systematically improve precision in trading decisions.
 ---
 

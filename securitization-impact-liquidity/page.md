@@ -1,5 +1,5 @@
 ---
-title: "Securitization and Its Impact on Liquidity (Algo Trading)"
+title: "Securitization and Its Impact on Liquidity"
 description: "Discover how securitization and algorithmic trading enhance liquidity and market efficiency driving financial innovation in today's dynamic trading environment."
 ---
 

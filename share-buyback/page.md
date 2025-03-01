@@ -1,5 +1,5 @@
 ---
-title: "Share Buyback (Algo Trading)"
+title: "Share Buyback"
 description: "Explore the strategic world of stock repurchases and share buybacks in this comprehensive article that investigates into how companies enhance shareholder value and optimize financial performance. Understand the role of algorithmic trading in executing buyback programs with precision. Discover the implications of buybacks on corporate health and gain insights into strategies used by giants like Apple and Microsoft to inform market confidence and shareholder outcomes."
 ---
 

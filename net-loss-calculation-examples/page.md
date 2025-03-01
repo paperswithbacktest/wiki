@@ -1,5 +1,5 @@
 ---
-title: "Net Loss: Calculation and Examples (Algo Trading)"
+title: "Net Loss: Calculation and Examples"
 description: "Discover the essential role of net loss calculation in algorithmic trading and learn how to optimize performance by managing risks and improving strategies."
 ---
 

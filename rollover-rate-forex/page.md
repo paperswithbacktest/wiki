@@ -1,5 +1,5 @@
 ---
-title: "Rollover Rate in Forex (Algo Trading)"
+title: "Rollover Rate in Forex"
 description: "Discover how rollover rates and algorithmic trading enhance Forex trading strategies Manage interest rate differentials and optimize trade execution effectively"
 ---
 

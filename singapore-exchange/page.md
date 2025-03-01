@@ -1,5 +1,5 @@
 ---
-title: "Singapore Exchange (Algo Trading)"
+title: "Singapore Exchange"
 description: "Explore the advanced algorithmic trading systems at the Singapore Exchange SGX offering cutting-edge solutions for global investors in Asia's financial markets."
 ---
 

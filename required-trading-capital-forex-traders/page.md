@@ -1,5 +1,5 @@
 ---
-title: "Required Trading Capital for Forex Traders (Algo Trading)"
+title: "Required Trading Capital for Forex Traders"
 description: "Discover the essentials of trading capital for forex traders in this comprehensive guide. Learn about the minimum capital needed, the role of leverage, and strategic management practices in forex trading. Explore how both manual and algorithmic traders can optimize capital deployment, balance leverage, and minimize risks to maximize profitability. Understand common misconceptions and the differences in capital requirements for different trading strategies. Enhance your forex trading approach with insights on effective capital management for sustainable trading success."
 ---
 

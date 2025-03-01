@@ -1,5 +1,5 @@
 ---
-title: "Target Hash in Cryptocurrency (Algo Trading)"
+title: "Target Hash in Cryptocurrency"
 description: "Explore the crucial role of target hash in cryptocurrency mining and algorithmic trading understanding its impact on blockchain networks and financial systems."
 ---
 

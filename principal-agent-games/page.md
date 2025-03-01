@@ -1,5 +1,5 @@
 ---
-title: "Principal-Agent Games (Algo Trading)"
+title: "Principal-Agent Games"
 description: "Explore how principal-agent dynamics impact algorithmic trading with insights on conflicts, challenges, and solutions to align interests in financial markets."
 ---
 

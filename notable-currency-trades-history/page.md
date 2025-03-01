@@ -1,5 +1,5 @@
 ---
-title: "Notable Currency Trades in History (Algo Trading)"
+title: "Notable Currency Trades in History"
 description: "Explore the historical evolution of currency trading and the profound impact of algorithmic strategies on the forex market's efficiency and dynamics."
 ---
 

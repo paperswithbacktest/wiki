@@ -1,5 +1,5 @@
 ---
-title: "Yield Curve and Its Applications (Algo Trading)"
+title: "Yield Curve and Its Applications"
 description: "Explore the pivotal role of the yield curve in financial analysis and algorithmic trading. Discover how market dynamics shape investment strategies for optimal returns."
 ---
 

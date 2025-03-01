@@ -1,5 +1,5 @@
 ---
-title: "Turkish Lira: Overview and Functioning (Algo Trading)"
+title: "Turkish Lira: Overview and Functioning"
 description: "Explore the Turkish Lira's volatility and economic challenges including inflation and external debt Discover how algorithmic trading offers new insights into the currency's dynamics"
 ---
 

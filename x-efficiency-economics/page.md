@@ -1,5 +1,5 @@
 ---
-title: "X-Efficiency in Economics (Algo Trading)"
+title: "X-Efficiency in Economics"
 description: "Explore X-efficiency in economics and its crucial role in highlighting inefficiencies in firms, especially concerning algorithmic trading and competitive markets."
 ---
 

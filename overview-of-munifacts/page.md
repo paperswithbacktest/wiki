@@ -1,5 +1,5 @@
 ---
-title: "Overview of Munifacts (Algo Trading)"
+title: "Overview of Munifacts"
 description: "Discover the transformative role of algorithmic trading in municipal finance. Explore how Munifacts and TM3 provide critical data for optimizing bond market strategies."
 ---
 

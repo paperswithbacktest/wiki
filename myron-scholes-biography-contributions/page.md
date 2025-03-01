@@ -1,5 +1,5 @@
 ---
-title: "Myron Scholes: Biography and Contributions (Algo Trading)"
+title: "Myron Scholes: Biography and Contributions"
 description: "Discover Myron Scholes' pivotal impact on financial markets through his co-development of the Black-Scholes model and its role in advancing algorithmic trading."
 ---
 

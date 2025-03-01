@@ -1,5 +1,5 @@
 ---
-title: "Reintermediation: Process and Function (Algo Trading)"
+title: "Reintermediation: Process and Function"
 description: "Explore the transformative role of reintermediation in algorithmic trading, balancing automation with strategic intermediaries for enhanced efficiency and adaptability."
 ---
 

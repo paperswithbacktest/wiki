@@ -1,5 +1,5 @@
 ---
-title: "On-Balance Volume and Smart Money Analysis (Algo Trading)"
+title: "On-Balance Volume and Smart Money Analysis"
 description: "Discover how On-Balance Volume (OBV) enhances smart money analysis in algorithmic trading Learn to anticipate market trends and refine trading strategies"
 ---
 

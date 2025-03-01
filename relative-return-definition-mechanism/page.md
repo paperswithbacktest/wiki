@@ -1,5 +1,5 @@
 ---
-title: "Relative Return: Definition and Mechanism (Algo Trading)"
+title: "Relative Return: Definition and Mechanism"
 description: "Explore relative return in algorithmic trading to assess investment performance relative to benchmarks. Understand key financial metrics for informed decision-making."
 ---
 

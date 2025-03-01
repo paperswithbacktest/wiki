@@ -1,5 +1,5 @@
 ---
-title: "Renaissance Technologies (Algo Trading)"
+title: "Renaissance Technologies"
 description: Discover Renaissance Technologies, a renowned American quantitative hedge fund established in 1978 by mathematician James Harris Simons. Known for pioneering algorithmic trading, the firm uses advanced mathematical models and technology to process large datasets, identify market patterns, and execute trades with superior precision. Headquartered in East Setauket, New York, Renaissance leverages interdisciplinary expertise from fields such as mathematics, computer science, and physics, impacting the evolution of modern finance and hedge funds. Its flagship Medallion Fund showcases exceptional returns, underscoring the power of data-driven investment strategies.
 ---
 

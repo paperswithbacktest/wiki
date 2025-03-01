@@ -1,5 +1,5 @@
 ---
-title: "Overview of a Major Sustainable Investing ETF (Algo Trading)"
+title: "Overview of a Major Sustainable Investing ETF"
 description: "Explore the dynamics of sustainable investing and how algorithmic trading enhances ESG investment strategies through ETFs and funds focused on sustainability."
 ---
 

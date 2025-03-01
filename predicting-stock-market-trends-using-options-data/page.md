@@ -1,5 +1,5 @@
 ---
-title: "Predicting Stock Market Trends Using Options Data (Algo Trading)"
+title: "Predicting Stock Market Trends Using Options Data"
 description: "Unlock insights into stock market predictions using options data and algorithmic trading Enhance your trading strategies with trend analysis and data-driven techniques"
 ---
 

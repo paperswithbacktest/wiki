@@ -1,5 +1,5 @@
 ---
-title: "Rupee: Indian Currency Overview (Algo Trading)"
+title: "Rupee: Indian Currency Overview"
 description: "Explore the impact of the Indian rupee's valuation on algorithmic trading and global markets Discover factors influencing INR and enhance trading strategies"
 ---
 

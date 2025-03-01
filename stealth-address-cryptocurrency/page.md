@@ -1,5 +1,5 @@
 ---
-title: "Stealth Address in Cryptocurrency (Algo Trading)"
+title: "Stealth Address in Cryptocurrency"
 description: "Explore the role of stealth addresses in enhancing privacy within blockchain transactions and how algorithmic trading is reshaping cryptocurrency markets."
 ---
 

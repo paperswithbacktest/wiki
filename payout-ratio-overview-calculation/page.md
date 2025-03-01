@@ -1,5 +1,5 @@
 ---
-title: "Payout Ratio: Overview and Calculation (Algo Trading)"
+title: "Payout Ratio: Overview and Calculation"
 description: "Explore how the payout ratio can shape investment strategies in dividend-focused algorithmic trading. Learn key metrics to gauge a company's financial health."
 ---
 

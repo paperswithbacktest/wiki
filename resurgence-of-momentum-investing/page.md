@@ -1,5 +1,5 @@
 ---
-title: "Resurgence of Momentum Investing (Algo Trading)"
+title: "Resurgence of Momentum Investing"
 description: "Discover how momentum investing combined with algorithmic trading is shaping modern investment strategies by leveraging trends and automating trades for optimal returns."
 ---
 

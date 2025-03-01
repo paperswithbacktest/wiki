@@ -1,5 +1,5 @@
 ---
-title: "Tracking Stock: Overview, Benefits, and Risks (Algo Trading)"
+title: "Tracking Stock: Overview, Benefits, and Risks"
 description: "Explore tracking stocks and algorithmic trading in finance covering benefits, risks, and strategies for optimizing portfolios and enhancing investment returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Regulatory Limitations (Algo Trading)"
+title: "Regulatory Limitations"
 description: "Explore the complexities of algorithmic trading regulation addressing market efficiency, systemic risk, and the balance between innovation and financial stability."
 ---
 

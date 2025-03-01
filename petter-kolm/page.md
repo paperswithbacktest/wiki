@@ -1,5 +1,5 @@
 ---
-title: "Petter Kolm (Algo Trading)"
+title: "Petter Kolm"
 description: "Explore Petter Kolm's impactful journey in quantitative finance as a professor, advisor, and author, known for pioneering developments in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Motor Vehicle Sales (Algo Trading)"
+title: "Motor Vehicle Sales"
 description: "Explore how algorithmic trading is transforming the vehicle sales market by enhancing efficiency and transparency. Embrace innovation with ALgo and Carvana."
 ---
 

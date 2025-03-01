@@ -1,5 +1,5 @@
 ---
-title: "Palladium: Uses and Investment Opportunities (Algo Trading)"
+title: "Palladium: Uses and Investment Opportunities"
 description: "Explore the industrial applications of palladium and its investment potential through algo trading Discover how this rare metal can enhance your portfolio strategy"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo simulations in trading (Algo Trading)"
+title: "Monte Carlo simulations in trading"
 description: "Explore the role of Monte Carlo simulations in algorithmic trading to assess risk and enhance strategy performance by modeling diverse market scenarios."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Small-Cap and Large-Cap Stocks (Algo Trading)"
+title: "Small-Cap and Large-Cap Stocks"
 description: "Explore the world of small-cap and large-cap stocks in algo trading and discover their unique roles in investment strategies for today’s investors."
 ---
 

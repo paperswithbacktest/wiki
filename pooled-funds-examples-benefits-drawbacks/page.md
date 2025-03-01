@@ -1,5 +1,5 @@
 ---
-title: "Pooled Funds: Examples, Benefits, and Drawbacks (Algo Trading)"
+title: "Pooled Funds: Examples, Benefits, and Drawbacks"
 description: "Explore pooled funds and algorithmic trading with real-world examples, analyzing their benefits and drawbacks to help you make informed investment decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Negative Return: Concept and Examples (Algo Trading)"
+title: "Negative Return: Concept and Examples"
 description: "Discover the intricacies of negative returns in algorithmic trading Understand how advanced tech and strategic risk management mitigate financial setbacks for success"
 ---
 

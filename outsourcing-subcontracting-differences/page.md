@@ -1,5 +1,5 @@
 ---
-title: "Outsourcing and Subcontracting: Differences (Algo Trading)"
+title: "Outsourcing and Subcontracting: Differences"
 description: "Unlock the differences between outsourcing and subcontracting in algorithmic trading to optimize operations and stay competitive in fast-paced financial markets."
 ---
 

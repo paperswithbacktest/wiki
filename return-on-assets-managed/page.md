@@ -1,5 +1,5 @@
 ---
-title: "Return on Assets Managed (Algo Trading)"
+title: "Return on Assets Managed"
 description: "Explore the synergy between Return on Assets Managed and algorithmic trading to enhance asset productivity and maximize returns in dynamic financial markets."
 ---
 

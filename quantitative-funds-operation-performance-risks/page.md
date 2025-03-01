@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Funds: Operation, Performance, and Risks (Algo Trading)"
+title: "Quantitative Funds: Operation, Performance, and Risks"
 description: "Explore the world of quantitative funds and algorithmic trading, highlighting their operation, performance, and risks in today's data-driven investment landscape."
 ---
 

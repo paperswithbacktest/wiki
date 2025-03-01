@@ -1,5 +1,5 @@
 ---
-title: "Websites for Company Financial Statistics (Algo Trading)"
+title: "Websites for Company Financial Statistics"
 description: "Explore how company financial statistics and financial data drive informed investment strategies and decision-making in algo trading and corporate finance."
 ---
 

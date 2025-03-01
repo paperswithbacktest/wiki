@@ -1,5 +1,5 @@
 ---
-title: "Optimal Forex Trading Times (Algo Trading)"
+title: "Optimal Forex Trading Times"
 description: "Discover the best forex trading hours to maximize your potential returns. Learn how global trading sessions impact market dynamics and explore the benefits of trading during high-liquidity periods. Understand how economic news releases and algorithmic trading influence the forex market, helping you make informed and strategic trading decisions."
 ---
 

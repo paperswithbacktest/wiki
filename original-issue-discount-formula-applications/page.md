@@ -1,5 +1,5 @@
 ---
-title: "Original Issue Discount: Formula and Applications (Algo Trading)"
+title: "Original Issue Discount: Formula and Applications"
 description: "Explore the significance of Original Issue Discount in finance including its calculation and applications in algorithmic trading to optimize bond investments."
 ---
 

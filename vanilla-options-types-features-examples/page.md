@@ -1,5 +1,5 @@
 ---
-title: "Vanilla Options: Types, Features, and Examples (Algo Trading)"
+title: "Vanilla Options: Types, Features, and Examples"
 description: "Discover how vanilla options and algorithmic trading synergize to optimize financial strategies Learn about essential types features and practical examples"
 ---
 

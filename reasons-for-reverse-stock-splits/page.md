@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Reverse Stock Splits (Algo Trading)"
+title: "Reasons for Reverse Stock Splits"
 description: "Discover how reverse stock splits impact algorithmic trading and investor strategies Learn how these corporate actions affect stock prices and market perceptions"
 ---
 

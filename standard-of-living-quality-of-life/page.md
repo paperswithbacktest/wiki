@@ -1,5 +1,5 @@
 ---
-title: "Standard of Living and Quality of Life (Algo Trading)"
+title: "Standard of Living and Quality of Life"
 description: "Explore the intricate distinctions between quality of life and standard of living in the context of algorithmic trading's rising influence on economic and social structures. This page investigates into how advanced trading technologies shape market efficiencies, impact economic stability, and ultimately affect both subjective well-being and tangible economic conditions, offering insights for individuals and decision-makers navigating this evolving landscape."
 ---
 

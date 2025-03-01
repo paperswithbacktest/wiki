@@ -1,5 +1,5 @@
 ---
-title: "Potential of Stablecoins in Addressing Cryptocurrency Challenges (Algo Trading)"
+title: "Potential of Stablecoins in Addressing Cryptocurrency Challenges"
 description: "Explore how stablecoins and algorithmic trading tackle cryptocurrency challenges by enhancing stability and trading efficiency for smarter investments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Short Squeeze: Causes and Examples (Algo Trading)"
+title: "Short Squeeze: Causes and Examples"
 description: "Explore the dynamics of short squeezes and the role of algorithmic trading in modern markets Uncover causes examples and strategies related to this volatile phenomenon"
 ---
 

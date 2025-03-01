@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Volatility Reduction Strategies (Algo Trading)"
+title: "Portfolio Volatility Reduction Strategies"
 description: "Explore effective strategies to manage portfolio volatility using algorithmic trading Learn how algorithms help minimize risk and enhance trading efficiency"
 ---
 

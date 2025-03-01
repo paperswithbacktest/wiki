@@ -1,5 +1,5 @@
 ---
-title: "Volatility in Finance and Stock Market Dynamics (Algo Trading)"
+title: "Volatility in Finance and Stock Market Dynamics"
 description: "Explore the dynamics of financial volatility and its impact on algorithmic trading Learn how algorithmic strategies manage risks and maximize potential in volatile markets"
 ---
 

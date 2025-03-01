@@ -1,5 +1,5 @@
 ---
-title: "TheStreet.com (Algo Trading)"
+title: "TheStreet.com"
 description: Discover the transformative impact of algorithmic trading with TheStreet.com. Gain insights into how this platform supports traders and investors by providing expert analysis, real-time data, and comprehensive resources to optimize trading strategies in today's dynamic financial markets. Explore algorithmic techniques and tools that democratize access to sophisticated trading, empowering both retail and institutional traders to achieve enhanced trading outcomes.
 ---
 

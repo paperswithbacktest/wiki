@@ -1,5 +1,5 @@
 ---
-title: "Yield to Maturity and Coupon Rate Comparison (Algo Trading)"
+title: "Yield to Maturity and Coupon Rate Comparison"
 description: "Explore yield to maturity YTM vs coupon rates in bonds with insights on algorithmic trading strategies to optimize investment returns in financial markets."
 ---
 

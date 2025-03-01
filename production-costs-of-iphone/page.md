@@ -1,5 +1,5 @@
 ---
-title: "Production Costs of iPhone (Algo Trading)"
+title: "Production Costs of iPhone"
 description: "Explore Apple's strategic approach to iPhone production costs including raw materials labor logistics and algorithmic trading to maintain quality and profitability"
 ---
 

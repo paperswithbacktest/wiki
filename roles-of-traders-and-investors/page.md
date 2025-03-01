@@ -1,5 +1,5 @@
 ---
-title: "Roles of Traders and Investors (Algo Trading)"
+title: "Roles of Traders and Investors"
 description: "Explore the roles of traders and investors in algorithmic trading as it transforms financial markets by enhancing liquidity efficiency and strategic decision-making."
 ---
 

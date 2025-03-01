@@ -1,5 +1,5 @@
 ---
-title: "Money Market Mutual Fund Liquidity Facility (Algo Trading)"
+title: "Money Market Mutual Fund Liquidity Facility"
 description: "Explore the critical role of liquidity facilities, MMMFs, and algorithmic trading in modern finance, highlighting their impact during economic crises."
 ---
 

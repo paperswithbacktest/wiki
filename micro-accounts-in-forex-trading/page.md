@@ -1,5 +1,5 @@
 ---
-title: "Micro Accounts in Forex Trading (Algo Trading)"
+title: "Micro Accounts in Forex Trading"
 description: "Discover forex trading through micro accounts and algo trading Micro accounts offer low-risk entry for beginners while algo trading enhances efficiency and reduces human error"
 ---
 

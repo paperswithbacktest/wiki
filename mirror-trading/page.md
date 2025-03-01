@@ -1,5 +1,5 @@
 ---
-title: "Mirror trading (Algo Trading)"
+title: "Mirror trading"
 description: "Explore mirror trading as a hands-free investment method that automates trade replication from expert traders, enabling both newcomers and experienced investors to capitalize on skilled strategies effortlessly."
 ---
 

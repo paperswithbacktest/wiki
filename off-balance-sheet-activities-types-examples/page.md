@@ -1,5 +1,5 @@
 ---
-title: "Off-Balance Sheet Activities: Types and Examples (Algo Trading)"
+title: "Off-Balance Sheet Activities: Types and Examples"
 description: "Explore the impact of off-balance sheet activities on financial health and algorithmic trading Learn types examples and regulations shaping modern financial landscapes"
 ---
 

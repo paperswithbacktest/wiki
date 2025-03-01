@@ -1,5 +1,5 @@
 ---
-title: "Virtu Financial (Algo Trading)"
+title: "Virtu Financial"
 description: "Discover Virtu Financial's pioneering role in algorithmic trading focusing on innovative technology strategies market efficiency and enhanced liquidity solutions."
 ---
 

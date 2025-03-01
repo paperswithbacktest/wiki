@@ -1,5 +1,5 @@
 ---
-title: "Net Option Premium (Algo Trading)"
+title: "Net Option Premium"
 description: "Explore the intersection of options trading, net option premium, and algorithmic trading strategies for enhanced precision and automated risk management in dynamic markets."
 ---
 

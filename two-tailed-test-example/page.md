@@ -1,5 +1,5 @@
 ---
-title: "Two-Tailed Test: Explanation and Example (Algo Trading)"
+title: "Two-Tailed Test: Explanation and Example"
 description: "Explore the role of two-tailed tests in algorithmic trading to evaluate strategy performance by assessing deviations from benchmarks for optimized decision-making."
 ---
 

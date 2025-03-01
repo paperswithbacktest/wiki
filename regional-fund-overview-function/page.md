@@ -1,5 +1,5 @@
 ---
-title: "Regional Fund Overview and Function (Algo Trading)"
+title: "Regional Fund Overview and Function"
 description: "Explore the impact of regional funds and algorithmic trading on investment strategies. Learn how these tools optimize investment outcomes in varying markets."
 ---
 

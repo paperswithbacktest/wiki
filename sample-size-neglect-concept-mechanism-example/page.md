@@ -1,5 +1,5 @@
 ---
-title: "Sample Size Neglect: Concept, Mechanism, and Example (Algo Trading)"
+title: "Sample Size Neglect: Concept, Mechanism, and Example"
 description: "Explore the concept of sample size neglect in algorithmic trading and understand its impact on decision-making processes and trading strategy effectiveness."
 ---
 

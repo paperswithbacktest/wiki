@@ -1,5 +1,5 @@
 ---
-title: "Rolling Returns Explained (Algo Trading)"
+title: "Rolling Returns Explained"
 description: Explore the fundamentals of rolling returns in algorithmic trading and their significance in evaluating long-term market performance. Understand how rolling 5-year returns on indices like the S&P 500 help investors identify trends, mitigate volatility, and develop better trading strategies through comprehensive analyses and robust mechanisms.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Saint Helena Pound (Algo Trading)"
+title: "Saint Helena Pound"
 description: "Explore the role of the Saint Helena Pound in algorithmic trading Learn how its stable GBP peg offers unique opportunities for low-risk strategies in niche markets"
 ---
 

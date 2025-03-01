@@ -1,5 +1,5 @@
 ---
-title: "Real Effective Exchange Rate and Its Formula (Algo Trading)"
+title: "Real Effective Exchange Rate and Its Formula"
 description: "The Real Effective Exchange Rate (REER) is a crucial economic indicator that assesses a nation's currency strength against its principal trading partners by incorporating inflation differences and multiple bilateral exchange rates. Unlike nominal rates, the REER offers a comprehensive view, reflecting trade competitiveness over time. It is vital for policymakers and traders, aiding in economic forecasts and strategies by highlighting shifts in currency competitiveness. Mastery of the REER formula, which adjusts nominal rates for inflation and applies trade weights, is essential for informed decisions in economics and algorithmic trading."
 ---
 

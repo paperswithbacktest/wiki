@@ -1,5 +1,5 @@
 ---
-title: "SOES Bandits: History and Activities (Algo Trading)"
+title: "SOES Bandits: History and Activities"
 description: "Explore the legacy of the SOES Bandits and their pioneering role in shaping modern algorithmic trading by exploiting early electronic systems for rapid market gains."
 ---
 

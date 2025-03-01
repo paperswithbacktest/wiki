@@ -1,5 +1,5 @@
 ---
-title: "ZCash: Overview, Purpose, and Mining Process (Algo Trading)"
+title: "ZCash: Overview, Purpose, and Mining Process"
 description: "Explore the world of ZCash, a leading privacy-focused cryptocurrency, by understanding its unique features like advanced cryptographic techniques for secure transactions. Learn about its evolution, the zk-SNARK protocol for privacy, and how algorithmic trading optimizes mining efficiency. Discover insights into the complexities of ZCash mining, its Equihash algorithm, and how mining pools provide consistent rewards, essential for investors and tech enthusiasts in navigating the digital currency landscape effectively."
 ---
 

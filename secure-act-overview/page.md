@@ -1,5 +1,5 @@
 ---
-title: "SECURE Act Overview (Algo Trading)"
+title: "SECURE Act Overview"
 description: "Explore the implications of the SECURE Act on retirement savings and algorithmic trading Discover how legislative changes impact financial security and planning"
 ---
 

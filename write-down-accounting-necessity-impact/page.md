@@ -1,5 +1,5 @@
 ---
-title: "Write-Down in Accounting: Necessity and Impact (Algo Trading)"
+title: "Write-Down in Accounting: Necessity and Impact"
 description: "Explore the necessity and impact of write-downs in accounting and their connection to asset valuation and algorithmic trading for strategic financial decisions."
 ---
 

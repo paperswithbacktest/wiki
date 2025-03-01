@@ -1,5 +1,5 @@
 ---
-title: "Mismatch Risk and Its Mechanisms (Algo Trading)"
+title: "Mismatch Risk and Its Mechanisms"
 description: "Explore the dynamics of mismatch risk in algorithmic trading and discover strategies for effectively managing risks to optimize trading performance in financial markets."
 ---
 

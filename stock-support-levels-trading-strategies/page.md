@@ -1,5 +1,5 @@
 ---
-title: "Stock Support Levels and Trading Strategies (Algo Trading)"
+title: "Stock Support Levels and Trading Strategies"
 description: "Gain insights into stock trading by exploring technical analysis and support levels Learn effective algo trading strategies to enhance your market approach"
 ---
 

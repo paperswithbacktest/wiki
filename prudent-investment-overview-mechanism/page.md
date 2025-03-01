@@ -1,5 +1,5 @@
 ---
-title: "Prudent Investment: Overview and Mechanism (Algo Trading)"
+title: "Prudent Investment: Overview and Mechanism"
 description: "Explore prudent investment strategies and the role of algorithmic trading in modern finance to optimize portfolios balance risk and achieve long-term financial goals."
 ---
 

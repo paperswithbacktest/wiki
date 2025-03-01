@@ -1,5 +1,5 @@
 ---
-title: "Share Buybacks and Corporate Incentives (Algo Trading)"
+title: "Share Buybacks and Corporate Incentives"
 description: "Discover how share buybacks and algorithmic trading influence corporate finance Learn strategies to enhance shareholder value while adapting to market changes"
 ---
 

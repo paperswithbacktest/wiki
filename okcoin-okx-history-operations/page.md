@@ -1,5 +1,5 @@
 ---
-title: "Okcoin (OKX): History and Operations (Algo Trading)"
+title: "Okcoin (OKX): History and Operations"
 description: "Explore the history and operations of OKX and Okcoin with a focus on algorithmic trading Discover robust tools for enhancing your cryptocurrency strategies"
 ---
 

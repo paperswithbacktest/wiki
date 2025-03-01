@@ -1,5 +1,5 @@
 ---
-title: "Section 1231 Property and Tax Treatment (Algo Trading)"
+title: "Section 1231 Property and Tax Treatment"
 description: "Explore Section 1231 property tax advantages for algorithmic trading, balancing capital gains and ordinary losses to enhance investment strategies and optimize returns."
 ---
 

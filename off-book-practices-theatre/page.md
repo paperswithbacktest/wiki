@@ -1,5 +1,5 @@
 ---
-title: "Off Book Practices in Theatre (Algo Trading)"
+title: "Off Book Practices in Theatre"
 description: "Explore the convergence of theatre and algorithmic trading through the concept of being \"off book.\" In theatre, it denotes actors' freedom to perform without scripts, enhancing spontaneity and authenticity. In trading, it refers to transactions outside formal exchanges, offering flexibility and innovation. Both realms require rigorous preparation and adaptability, highlighting the underlying discipline essential for success. Discover how mastering the off-book state enables peak performance, offering intriguing insights across these seemingly distinct fields."
 ---
 

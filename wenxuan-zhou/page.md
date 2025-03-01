@@ -1,5 +1,5 @@
 ---
-title: "Wenxuan Zhou (Algo Trading)"
+title: "Wenxuan Zhou"
 description: "Discover the professional journey of Wenxuan Zhou in algorithmic trading known for his expertise in options pricing and his impact on quantitative finance."
 ---
 

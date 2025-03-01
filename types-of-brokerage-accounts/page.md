@@ -1,5 +1,5 @@
 ---
-title: "Types of Brokerage Accounts (Algo Trading)"
+title: "Types of Brokerage Accounts"
 description: "Explore the essentials of brokerage and investment accounts alongside algorithmic trading strategies to optimize financial growth and secure your future."
 ---
 

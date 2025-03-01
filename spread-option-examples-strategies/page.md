@@ -1,5 +1,5 @@
 ---
-title: "Spread Option Examples and Strategies (Algo Trading)"
+title: "Spread Option Examples and Strategies"
 description: "Explore effective spread options and algo trading strategies to maximize returns and manage risk in volatile markets through real-world examples and insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trading with Alternative Data (Algo Trading)"
+title: "Trading with Alternative Data"
 description: "Unlock trading potential with alternative data in algo trading Gain deeper market insights and an edge by incorporating non-traditional data sources like social media "
 ---
 

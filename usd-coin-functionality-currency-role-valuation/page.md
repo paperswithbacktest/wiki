@@ -1,5 +1,5 @@
 ---
-title: "USD Coin: Functionality, Currency Role, and Valuation (Algo Trading)"
+title: "USD Coin: Functionality, Currency Role, and Valuation"
 description: "Explore USD Coin's role and benefits as a stable, reliable asset in digital currency trading and algorithmic strategies, ensuring low volatility and high liquidity."
 ---
 

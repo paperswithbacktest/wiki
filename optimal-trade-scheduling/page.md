@@ -1,5 +1,5 @@
 ---
-title: "optimal trade scheduling (Algo Trading)"
+title: "optimal trade scheduling"
 description: "Explore optimal trade scheduling in algorithmic trading to efficiently execute large orders minimize market impact and maximize profitability with strategic timing."
 ---
 

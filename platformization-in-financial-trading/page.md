@@ -1,5 +1,5 @@
 ---
-title: "platformization in financial trading (Algo Trading)"
+title: "platformization in financial trading"
 description: "Explore the shift towards platformization in financial trading focusing on algorithmic trading's impact on efficiency, scalability, and market accessibility."
 ---
 

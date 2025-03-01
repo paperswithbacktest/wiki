@@ -1,5 +1,5 @@
 ---
-title: "Value in Business and Finance (Algo Trading)"
+title: "Value in Business and Finance"
 description: "Discover how algorithmic trading enhances value in finance through speed, precision, and advanced strategies, empowering investors to maximize returns."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "RSI Indicator: Trading Signals (Algo Trading)"
+title: "RSI Indicator: Trading Signals"
 description: "Unlock the potential of algorithmic trading by incorporating the RSI Indicator Recognize buy and sell signals with precision and enhance your trading strategy"
 ---
 

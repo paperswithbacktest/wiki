@@ -1,5 +1,5 @@
 ---
-title: "Open Interest and Its Mechanisms (Algo Trading)"
+title: "Open Interest and Its Mechanisms"
 description: "Explore how open interest insights enhance algorithmic trading strategies improving decision-making process and market predictability in financial markets."
 ---
 

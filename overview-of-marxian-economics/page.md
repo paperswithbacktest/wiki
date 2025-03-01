@@ -1,5 +1,5 @@
 ---
-title: "Overview of Marxian Economics (Algo Trading)"
+title: "Overview of Marxian Economics"
 description: "Explore the intersection of Marxian economics and algorithmic trading, examining how Marx's critique of capitalism relates to modern financial technologies and market disparities."
 ---
 

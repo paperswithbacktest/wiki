@@ -1,5 +1,5 @@
 ---
-title: "Repair Strategy for Broken Trades (Algo Trading)"
+title: "Repair Strategy for Broken Trades"
 description: "Explore repair strategies for broken trades in algorithmic trading to minimize financial losses and enhance performance by mitigating execution errors and market risks."
 ---
 

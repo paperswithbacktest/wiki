@@ -1,5 +1,5 @@
 ---
-title: "Vanguard S&P 500 ETF Overview (Algo Trading)"
+title: "Vanguard S&P 500 ETF Overview"
 description: "Explore trading strategies for the Vanguard S&P 500 ETF using algorithmic tools to enhance trade execution manage risks and maximize returns effectively."
 ---
 

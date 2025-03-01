@@ -1,5 +1,5 @@
 ---
-title: "Partial Redemption: Overview and Mechanisms (Algo Trading)"
+title: "Partial Redemption: Overview and Mechanisms"
 description: "Discover how partial redemption and algorithmic trading revolutionize investment strategies, optimizing risk management and enhancing portfolio performance."
 ---
 

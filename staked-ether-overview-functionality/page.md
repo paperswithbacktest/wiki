@@ -1,5 +1,5 @@
 ---
-title: "Staked Ether: Overview and Functionality (Algo Trading)"
+title: "Staked Ether: Overview and Functionality"
 description: "Explore the role of staked Ether and algorithmic trading in Ethereum's PoS mechanism Learn about liquid staking with stETH and its impact on DeFi strategies"
 ---
 

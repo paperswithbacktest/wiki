@@ -1,5 +1,5 @@
 ---
-title: "Negative Balance in the Capital Account (Algo Trading)"
+title: "Negative Balance in the Capital Account"
 description: "Explore the impact of a negative capital account balance and algorithmic trading on global financial systems Understand core economic dynamics and mitigate risks"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Micro Lot and Standard Lot in Trading (Algo Trading)"
+title: "Micro Lot and Standard Lot in Trading"
 description: "Discover the crucial role of lot sizes in forex trading, focusing on micro and standard lots. This guide helps both new and seasoned traders choose the right lot size to optimize strategies and manage risk effectively. Explore the benefits and limitations of different lot sizes, and learn how algorithmic trading can enhance execution and minimize emotional biases. Gain insights into trading dynamics to navigate the complexities of forex markets for improved outcomes."
 ---
 

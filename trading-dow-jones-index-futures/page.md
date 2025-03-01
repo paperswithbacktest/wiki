@@ -1,5 +1,5 @@
 ---
-title: "Trading Dow Jones Index Futures (Algo Trading)"
+title: "Trading Dow Jones Index Futures"
 description: "Explore the dynamics of trading Dow Jones Index futures and harness the power of algorithmic trading strategies for efficient and competitive market engagement."
 ---
 

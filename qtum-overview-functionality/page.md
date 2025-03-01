@@ -1,5 +1,5 @@
 ---
-title: "Qtum: Overview and Functionality (Algo Trading)"
+title: "Qtum: Overview and Functionality"
 description: "Explore the synergy between QTUM blockchain’s security and Ethereum’s smart contracts, unveiling how algorithmic trading transforms financial strategies effectively."
 ---
 

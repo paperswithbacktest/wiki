@@ -1,5 +1,5 @@
 ---
-title: "Noise Traders and Technical Trading Strategies (Algo Trading)"
+title: "Noise Traders and Technical Trading Strategies"
 description: "Explore noise traders and technical trading strategies in the dynamic world of finance with insights on achieving competitive trading through algorithmic systems."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Volterra Technologies (Algo Trading)"
+title: "Volterra Technologies"
 description: "Volterra Technologies pioneers algorithmic trading, enhancing market speed and accuracy with innovative solutions, driving financial efficiency and precision."
 ---
 

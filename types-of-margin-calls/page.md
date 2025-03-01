@@ -1,5 +1,5 @@
 ---
-title: "Types of Margin Calls (Algo Trading)"
+title: "Types of Margin Calls"
 description: "Explore the essential roles of margin calls in leveraged trading, focusing on understanding their types and implications within algorithmic trading. This page provides insights into maintenance margin calls and Fed margin calls, detailing how they protect brokers and traders from potential financial risks. Discover strategies to manage margin call risks and how algorithmic trading can impact the frequency and handling of these calls, ensuring more stable trading and compliance with required regulations."
 ---
 

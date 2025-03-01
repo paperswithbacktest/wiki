@@ -1,5 +1,5 @@
 ---
-title: "Revenue Generation in Higher Education Institutions (Algo Trading)"
+title: "Revenue Generation in Higher Education Institutions"
 description: "Explore how higher education institutions can leverage algorithmic trading as an innovative revenue stream to diversify income and achieve financial sustainability."
 ---
 

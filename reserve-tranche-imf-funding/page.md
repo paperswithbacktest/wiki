@@ -1,5 +1,5 @@
 ---
-title: "Reserve Tranche and IMF Funding (Algo Trading)"
+title: "Reserve Tranche and IMF Funding"
 description: "Explore the importance of reserve tranches and IMF funding in the global financial landscape shaped by algorithmic trading. Understand how these financial mechanisms support liquidity and economic stability while influencing trading strategies and market dynamics. This article provides insights into the interplay between IMF policies and algorithmic trading, offering valuable knowledge for investors seeking to optimize performance in interconnected financial markets."
 ---
 

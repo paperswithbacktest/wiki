@@ -1,5 +1,5 @@
 ---
-title: "Provision for Credit Losses: Functions and Examples (Algo Trading)"
+title: "Provision for Credit Losses: Functions and Examples"
 description: "Explore provisions for credit losses and their role in financial stability within algorithmic trading Detailed examples and calculations illustrate key concepts"
 ---
 

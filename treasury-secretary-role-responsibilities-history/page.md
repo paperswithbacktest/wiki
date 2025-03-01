@@ -1,5 +1,5 @@
 ---
-title: "Treasury Secretary: Role, Responsibilities, and Historical Overview (Algo Trading)"
+title: "Treasury Secretary: Role, Responsibilities, and Historical Overview"
 description: "Explore the role and responsibilities of the Treasury Secretary in shaping fiscal policies and managing economic strategies amidst algorithmic trading advancements."
 ---
 

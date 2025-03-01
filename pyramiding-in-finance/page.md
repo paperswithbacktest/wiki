@@ -1,5 +1,5 @@
 ---
-title: "Pyramiding in Finance (Algo Trading)"
+title: "Pyramiding in Finance"
 description: "Explore the strategic method of pyramiding in algorithmic trading where traders scale successful positions aligning risk management with market momentum."
 ---
 

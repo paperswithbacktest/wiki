@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Capitalization-to-GDP Ratio (Algo Trading)"
+title: "Stock Market Capitalization-to-GDP Ratio"
 description: "Explore the intricate relationship between stock market capitalization and GDP ratio alongside algorithmic trading to understand market valuation and dynamics."
 ---
 

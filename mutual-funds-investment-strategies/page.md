@@ -1,5 +1,5 @@
 ---
-title: "Mutual Funds and Investment Strategies (Algo Trading)"
+title: "Mutual Funds and Investment Strategies"
 description: "Explore the evolving world of mutual funds and investment strategies with a focus on algorithmic trading. Learn how mutual funds offer diversification and reduce risk with professional oversight while investment strategies balance risk and returns. Understand the crucial role of algorithmic trading in enhancing market efficiency by using data-driven insights and precision. Discover how advancements in these areas redefine asset allocation and risk management to optimize financial growth and adapt to market changes. Stay informed with dynamic strategies to strengthen your portfolio in a rapidly shifting financial landscape."
 ---
 

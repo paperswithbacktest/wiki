@@ -1,5 +1,5 @@
 ---
-title: "Newly Industrialized Countries (Algo Trading)"
+title: "Newly Industrialized Countries"
 description: "Explore the economic transformation of Newly Industrialized Countries and the impact of algorithmic trading on their growth and integration into global markets."
 ---
 

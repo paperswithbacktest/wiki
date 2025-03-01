@@ -1,5 +1,5 @@
 ---
-title: "Ubiquant (Algo Trading)"
+title: "Ubiquant"
 description: Discover the innovative world of Ubiquant Investment (Beijing) Corp, Ltd., a leading force in China's quantitative hedge fund industry. Founded in 2012, Ubiquant excels in algorithmic trading, utilizing advanced mathematical models and AI to optimize investment strategies. Explore their journey from a commodity trading advisor to a hedge fund powerhouse, integrating AI for predictive analytics and risk management. Learn about Ubiquant's product offerings, including enhanced indexing and long/short equity strategies, and understand their commitment to leveraging cutting-edge technology for superior market performance.
 ---
 

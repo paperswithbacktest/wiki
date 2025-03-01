@@ -1,5 +1,5 @@
 ---
-title: "Spending Habits of Americans (Algo Trading)"
+title: "Spending Habits of Americans"
 description: "Explore how American spending habits and algorithmic trading are reshaping the financial landscape, influencing consumer behavior, and driving economic trends."
 ---
 

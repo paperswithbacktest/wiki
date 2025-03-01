@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Mutual Funds with a Margin Account (Algo Trading)"
+title: "Purchasing Mutual Funds with a Margin Account"
 description: "Explore strategies for purchasing mutual funds with margin accounts using algorithmic trading techniques. Amplify returns while understanding associated risks and leveraging market opportunities."
 ---
 

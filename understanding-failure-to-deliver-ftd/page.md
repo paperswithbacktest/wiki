@@ -1,5 +1,5 @@
 ---
-title: "Understanding Failure to Deliver (FTD) (Algo Trading)"
+title: "Understanding Failure to Deliver (FTD)"
 description: "Explore the implications of Failure to Deliver (FTD) in algo trading and global markets Understand causes impacts and regulatory measures to mitigate risks"
 ---
 

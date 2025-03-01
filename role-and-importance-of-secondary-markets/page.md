@@ -1,5 +1,5 @@
 ---
-title: "Role and Importance of Secondary Markets (Algo Trading)"
+title: "Role and Importance of Secondary Markets"
 description: "Explore the vital role of secondary markets and algorithmic trading in modern finance Discover how they enhance liquidity, efficiency, and trading precision"
 ---
 

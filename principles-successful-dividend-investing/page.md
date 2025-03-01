@@ -1,5 +1,5 @@
 ---
-title: "Principles of Successful Dividend Investing (Algo Trading)"
+title: "Principles of Successful Dividend Investing"
 description: "Discover the synergy between dividend investing and algorithmic trading to optimize portfolio performance by leveraging income growth and strategic trading."
 ---
 

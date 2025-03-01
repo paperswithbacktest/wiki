@@ -1,5 +1,5 @@
 ---
-title: "National Multi-Commodity Exchange of India (Algo Trading)"
+title: "National Multi-Commodity Exchange of India"
 description: "Explore how the National Multi-Commodity Exchange (NMCE) utilizes algorithmic trading to enhance efficiency and accessibility in India's commodity market."
 ---
 

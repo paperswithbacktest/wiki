@@ -1,5 +1,5 @@
 ---
-title: "Seasonally Adjusted Annual Rate Calculations and Examples (Algo Trading)"
+title: "Seasonally Adjusted Annual Rate Calculations and Examples"
 description: "Discover the significance of the Seasonally Adjusted Annual Rate in finance and trading Enhance your data analysis by removing seasonal effects for clearer insights"
 ---
 

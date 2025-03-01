@@ -1,5 +1,5 @@
 ---
-title: "SEC Form N-17f-2 Overview (Algo Trading)"
+title: "SEC Form N-17f-2 Overview"
 description: "SEC Form N-17f-2 ensures the secure custody of securities by investment companies involved in algorithmic trading, enhancing transparency and investor trust."
 ---
 

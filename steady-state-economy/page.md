@@ -1,5 +1,5 @@
 ---
-title: "Steady-State Economy (Algo Trading)"
+title: "Steady-State Economy"
 description: "Explore the importance of sustainable economics and steady-state economies in balancing growth with ecological integrity. Discover how algorithmic trading impacts these practices."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Risk Financing and Financial Health Indicators (Algo Trading)"
+title: "Risk Financing and Financial Health Indicators"
 description: "Explore the essential elements of financial health indicators and risk financing in algo trading Discover how they optimize strategies for stability and growth"
 ---
 

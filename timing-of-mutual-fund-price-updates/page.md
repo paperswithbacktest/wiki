@@ -1,5 +1,5 @@
 ---
-title: "Timing of Mutual Fund Price Updates (Algo Trading)"
+title: "Timing of Mutual Fund Price Updates"
 description: "Explore the impact of algorithmic trading on mutual fund price updates and valuation. Discover insights to enhance investment strategies in this evolving landscape."
 ---
 

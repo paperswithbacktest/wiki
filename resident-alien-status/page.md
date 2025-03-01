@@ -1,5 +1,5 @@
 ---
-title: "Resident Alien Status (Algo Trading)"
+title: "Resident Alien Status"
 description: "Discover the intersection of U.S. immigration and algorithmic trading. Learn how resident alien status and a U.S. Green Card open doors in the finance sector."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Monetary Supply Control by Central Banks (Algo Trading)"
+title: "Monetary Supply Control by Central Banks"
 description: "Explore the dynamic interplay between central bank monetary supply policies and algorithmic trading in today's financial markets. Discover how these critical elements influence economic stability, market liquidity, and volatility. This article investigates into central bank strategies, money supply management, and the impact of algorithmic trading to provide insights into their collective effect on the global financial landscape. Understanding these connections is vital for investors and policymakers navigating this complex, rapidly evolving economic environment."
 ---
 

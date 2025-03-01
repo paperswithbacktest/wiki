@@ -1,5 +1,5 @@
 ---
-title: "Vanguard Mid Cap Index Fund Overview (Algo Trading)"
+title: "Vanguard Mid Cap Index Fund Overview"
 description: "Explore the Vanguard Mid Cap Index Fund which combines growth potential with cost-effective investing through algorithmic trading for optimal performance."
 ---
 

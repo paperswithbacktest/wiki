@@ -1,5 +1,5 @@
 ---
-title: "Quandl Guide (Algo Trading)"
+title: "Quandl Guide"
 description: Explore the significance of algorithmic trading with our Quandl Guide. Delve into how computer algorithms enhance trading efficiency, reduce costs, and exploit market opportunities at unprecedented speeds. Learn about the Yahoo Finance API, a vital tool for accessing real-time and historical financial data crucial for algorithmic trading. This guide covers the API's integration capabilities with platforms like Python, enabling seamless data retrieval to support informed decision-making and strategy development. Harness the full potential of the Yahoo Finance API to boost your algorithmic trading operations.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Micromarket Liquidity Risk (Algo Trading)"
+title: "Micromarket Liquidity Risk"
 description: "Explore the complexities of micromarket liquidity risk in algorithmic trading Learn strategies for managing liquidity challenges ensuring market stability and profitability"
 ---
 

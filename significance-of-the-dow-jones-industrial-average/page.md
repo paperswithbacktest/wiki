@@ -1,5 +1,5 @@
 ---
-title: "Significance of the Dow Jones Industrial Average (Algo Trading)"
+title: "Significance of the Dow Jones Industrial Average"
 description: "Explore the impact of algorithmic trading on the Dow Jones. Understand how algo trading influences stock market dynamics and investment strategies."
 ---
 

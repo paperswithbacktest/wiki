@@ -1,5 +1,5 @@
 ---
-title: "Mumtalakat Holding Company (Algo Trading)"
+title: "Mumtalakat Holding Company"
 description: "Discover how Mumtalakat integrates AI and algorithmic trading to enhance investment strategies driving economic diversification and sustainable growth in Bahrain."
 ---
 

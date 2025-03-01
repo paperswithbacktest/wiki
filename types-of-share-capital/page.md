@@ -1,5 +1,5 @@
 ---
-title: "Types of Share Capital (Algo Trading)"
+title: "Types of Share Capital"
 description: "Explore the critical roles of share capital in corporate finance and how algorithmic trading optimizes trading decisions using advanced analytics for investors."
 ---
 

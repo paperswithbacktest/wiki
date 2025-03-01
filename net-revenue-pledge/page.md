@@ -1,5 +1,5 @@
 ---
-title: "Net Revenue Pledge (Algo Trading)"
+title: "Net Revenue Pledge"
 description: "Explore the synergy of net revenue pledges and algorithmic trading in finance Discover how these strategies enhance municipal bonds' credit and optimize returns"
 ---
 

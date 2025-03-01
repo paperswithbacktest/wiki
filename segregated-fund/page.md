@@ -1,5 +1,5 @@
 ---
-title: "Segregated Fund (Algo Trading)"
+title: "Segregated Fund"
 description: "Explore investment strategies involving segregated funds and algorithmic trading to optimize returns and manage risks in an evolving financial landscape."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Modern Portfolio Theory: Contemporary Relevance (Algo Trading)"
+title: "Modern Portfolio Theory: Contemporary Relevance"
 description: "Explore Modern Portfolio Theory and its synergy with algorithmic trading in today's investment strategies Learn how these concepts drive data-driven financial innovation"
 ---
 

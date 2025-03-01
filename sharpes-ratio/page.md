@@ -1,5 +1,5 @@
 ---
-title: "Sharpes ratio (Algo Trading)"
+title: "Sharpes ratio"
 description: "Explore how algorithmic trading leverages the Sharpe Ratio to assess risk-adjusted returns and optimize strategy effectiveness for enhanced investment outcomes."
 ---
 

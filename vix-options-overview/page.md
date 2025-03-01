@@ -1,5 +1,5 @@
 ---
-title: "VIX Options Overview (Algo Trading)"
+title: "VIX Options Overview"
 description: "Explore the intricacies of VIX options trading and algorithmic strategies to effectively navigate market volatility and make informed decisions on risk management and speculation."
 ---
 

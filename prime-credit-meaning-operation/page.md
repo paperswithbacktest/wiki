@@ -1,5 +1,5 @@
 ---
-title: "Prime Credit: Meaning and Operation (Algo Trading)"
+title: "Prime Credit: Meaning and Operation"
 description: "Explore the critical concepts of prime credit, credit ratings, and algorithmic trading. Understand how they shape financial literacy and decision-making effectively."
 ---
 

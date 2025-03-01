@@ -1,5 +1,5 @@
 ---
-title: "Purchasing Fractional Shares on Webull (Algo Trading)"
+title: "Purchasing Fractional Shares on Webull"
 description: "Discover the world of fractional shares investing with Webull, a platform designed to democratize market access for investors. Offering a seamless experience with features like commission-free trading and algorithmic capabilities, Webull enables users to diversify portfolios with lower capital requirements. Explore the advantages of fractional shares, learn how to trade them on Webull, and enhance your investment strategies with their automated tools for both novice and experienced investors."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Voting Trust Certificate (Algo Trading)"
+title: "Voting Trust Certificate"
 description: "Explore the synergy of voting trust certificates algorithmic trading and corporate governance in finance enhancing decision-making and market strategies."
 ---
 

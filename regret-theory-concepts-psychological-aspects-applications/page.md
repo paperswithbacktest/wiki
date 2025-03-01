@@ -1,5 +1,5 @@
 ---
-title: "Regret Theory: Concepts, Psychological Aspects, and Applications (Algo Trading)"
+title: "Regret Theory: Concepts, Psychological Aspects, and Applications"
 description: "Explore how regret theory in behavioral economics influences decision-making in algorithmic trading by integrating psychological insights and emotional factors for improved outcomes."
 ---
 

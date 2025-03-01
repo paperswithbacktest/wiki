@@ -1,5 +1,5 @@
 ---
-title: "Rocket Scientists: Roles and Responsibilities (Algo Trading)"
+title: "Rocket Scientists: Roles and Responsibilities"
 description: "Explore the evolving role of rocket scientists in finance and aerospace engineering highlighting their shared skills in solving complex problems through advanced mathematical models."
 ---
 

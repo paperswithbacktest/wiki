@@ -1,5 +1,5 @@
 ---
-title: "SEC Form BDW Overview (Algo Trading)"
+title: "SEC Form BDW Overview"
 description: "Learn about SEC Form BDW's vital role in broker-dealer market exits. Understand its significance in regulatory compliance, especially for algorithmic trading."
 ---
 

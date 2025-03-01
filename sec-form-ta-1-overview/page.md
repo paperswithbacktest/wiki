@@ -1,5 +1,5 @@
 ---
-title: "SEC Form TA-1 Overview (Algo Trading)"
+title: "SEC Form TA-1 Overview"
 description: "Discover the role and impact of SEC Form TA-1 on transfer agents and algorithmic trading while navigating essential regulatory requirements."
 ---
 

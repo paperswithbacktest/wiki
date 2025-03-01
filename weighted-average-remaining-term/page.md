@@ -1,5 +1,5 @@
 ---
-title: "Weighted Average Remaining Term (Algo Trading)"
+title: "Weighted Average Remaining Term"
 description: "Explore the significance of Weighted Average Remaining Term in algorithmic trading to optimize strategies by assessing portfolio maturity profiles and interest rate risks."
 ---
 

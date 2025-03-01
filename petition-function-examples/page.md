@@ -1,5 +1,5 @@
 ---
-title: "Petition: Function and Examples (Algo Trading)"
+title: "Petition: Function and Examples"
 description: "Explore the dynamics and evolution of petitions as tools for legal and social change. This article investigates into the structure and impact of petitions, highlighting notable examples and their intersections with algorithmic trading. By examining traditional and modern uses, it aims to provide comprehensive insights into how petitions initiate collective action and influence decision-making in both democratic and financial systems. Discover how petitions have transformed with digital advancements, impacting reach, effectiveness, and global participation, and understand their significance in today's technological and societal landscape."
 ---
 

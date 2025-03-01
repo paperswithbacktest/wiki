@@ -1,5 +1,5 @@
 ---
-title: "Predicting Stock Market Opening (Algo Trading)"
+title: "Predicting Stock Market Opening"
 description: "Predict stock market openings with algorithmic trading. Leverage AI and machine learning to analyze trends. Improve prediction accuracy and strategic decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sources for Cryptocurrency Investment Advice (Algo Trading)"
+title: "Sources for Cryptocurrency Investment Advice"
 description: "Explore key sources for cryptocurrency investment advice including algo trading Learn to navigate market volatility and enhance decision-making with expert insights"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Qualified Exchange Accommodation Arrangements (Algo Trading)"
+title: "Qualified Exchange Accommodation Arrangements"
 description: "Explore the synergy of 1031 exchanges and algorithmic trading in real estate finance to optimize investments manage risks and enhance capital growth efficiently."
 ---
 

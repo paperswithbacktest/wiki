@@ -1,5 +1,5 @@
 ---
-title: "XGBoost in Python (Algo Trading)"
+title: "XGBoost in Python"
 description: Explore how XGBoost enhances algorithmic trading by leveraging its high predictive accuracy and ability to model complex, non-linear relationships in financial data. This article guides traders and data scientists in using XGBoost to develop advanced trading strategies, improving decision-making efficiency and offering a competitive edge in financial markets. Discover the setup process and integration of XGBoost in a trading environment, and unlock the potential of this powerful machine learning tool in your trading algorithms.
 ---
 

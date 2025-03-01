@@ -1,5 +1,5 @@
 ---
-title: "Rural Electrification Act (Algo Trading)"
+title: "Rural Electrification Act"
 description: "Explore the transformative impact of the Rural Electrification Act and algorithmic trading on rural electricity accessibility. Discover how historic policy measures combined with innovative trading technologies ensure equitable energy access, enhance market efficiency, and contribute to sustainable economic growth in rural communities, while aligning with national energy goals."
 ---
 

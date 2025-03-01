@@ -1,5 +1,5 @@
 ---
-title: "Pips in Forex Trading and Their Value (Algo Trading)"
+title: "Pips in Forex Trading and Their Value"
 description: "This guide explores the critical role of pips in forex trading, detailing how these serve as a fundamental measure of market movement and profitability. Understanding pip values is essential for managing risks and strategizing trades effectively. The shift to algorithmic trading enhances precision and execution speed, allowing traders to make informed decisions quickly. Whether new to forex or experienced, mastering pips and leveraging modern technology is key to optimizing outcomes in the forex market."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Monopoly: Types, Regulation, and Market Impact (Algo Trading)"
+title: "Monopoly: Types, Regulation, and Market Impact"
 description: "Explore how monopolies impact market dynamics and regulation while algorithmic trading reshapes competition. Understand economic implications and policy responses."
 ---
 

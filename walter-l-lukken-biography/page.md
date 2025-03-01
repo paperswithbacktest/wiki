@@ -1,5 +1,5 @@
 ---
-title: "Walter L. Lukken Biography (Algo Trading)"
+title: "Walter L. Lukken Biography"
 description: "Discover Walter L. Lukken's pivotal role in shaping financial regulation and algorithmic trading frameworks, driving innovation while ensuring market stability."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Toppy: Meaning and Functionality (Algo Trading)"
+title: "Toppy: Meaning and Functionality"
 description: "Discover the concept of 'Toppy' in trading describing market highs that risk reversal Impactful for algorithmic trading strategies seeking efficiency in volatile settings"
 ---
 

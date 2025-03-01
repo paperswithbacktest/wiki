@@ -1,5 +1,5 @@
 ---
-title: "Research Reports: Production and Impact (Algo Trading)"
+title: "Research Reports: Production and Impact"
 description: "Explore the impact of research reports in algorithmic trading with insights into market trends and strategies enhancing accuracy and dynamic adjustments."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Paycheck Protection Program Liquidity Facility (Algo Trading)"
+title: "Paycheck Protection Program Liquidity Facility"
 description: "Explore the impact of the Paycheck Protection Program Liquidity Facility on algorithmic trading and its role in supporting small businesses during economic challenges."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Business 20 (Algo Trading)"
+title: "Sustainable Business 20"
 description: "Discover how the SB20 initiative integrates sustainability with algorithmic trading to promote environmentally-conscious business models and drive financial success."
 ---
 

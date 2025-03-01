@@ -1,5 +1,5 @@
 ---
-title: "Signal order flows (Algo Trading)"
+title: "Signal order flows"
 description: Discover the significance of signal order flow in algorithmic trading and how it empowers traders with insights into market dynamics. Understanding order flow allows traders to analyze real-time actions, optimize strategies, and enhance decision-making processes, ultimately leading to improved trading outcomes across all experience levels. Explore how incorporating order flow data into trading models can boost success rates by predicting price movements and managing risk more effectively.
 ---
 

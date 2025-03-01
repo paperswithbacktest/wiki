@@ -1,5 +1,5 @@
 ---
-title: "Yield to Maturity and Holding Period Return Comparison (Algo Trading)"
+title: "Yield to Maturity and Holding Period Return Comparison"
 description: "Explore the key differences and benefits of Yield to Maturity and Holding Period Return in algorithmic trading to maximize investment efficiency and returns."
 ---
 

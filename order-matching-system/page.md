@@ -1,5 +1,5 @@
 ---
-title: "Order matching system (Algo Trading)"
+title: "Order matching system"
 description: An order matching system in financial exchanges pairs buy and sell orders based on parameters like price, time, and order type, playing a critical role in executing trades with efficiency and accuracy. These systems enable high-speed, high-frequency trading, providing market liquidity and stability while minimizing errors and enhancing transparency. Evolving from the manual open outcry method to electronic systems in the 1980s, order matching systems have drastically improved market operations by employing sophisticated algorithms that automate trade executions and maintain market integrity. Essential components include the central system for decision-making, settlement systems for transferring assets, and central securities depositories for safekeeping securities, all interacting seamlessly with electronic trading platforms.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Use of Real GDP by Economists (Algo Trading)"
+title: "Use of Real GDP by Economists"
 description: "Explore how real GDP metrics guide economic insights and algorithmic trading strategies by revealing genuine economic growth and investment opportunities."
 ---
 

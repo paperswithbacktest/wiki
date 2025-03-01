@@ -1,5 +1,5 @@
 ---
-title: "Trinomial Option Pricing Model (Algo Trading)"
+title: "Trinomial Option Pricing Model"
 description: "Explore the benefits of the trinomial option pricing model and algorithmic trading in financial markets Learn how these methods enhance options pricing and trading efficiency"
 ---
 

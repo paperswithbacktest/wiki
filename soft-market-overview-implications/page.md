@@ -1,5 +1,5 @@
 ---
-title: "Soft Market: Overview and Implications (Algo Trading)"
+title: "Soft Market: Overview and Implications"
 description: "Explore the impacts of soft markets in insurance and finance, highlighting economic implications and the role of algorithmic trading in navigating challenges."
 ---
 

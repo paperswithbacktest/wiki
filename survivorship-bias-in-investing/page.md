@@ -1,5 +1,5 @@
 ---
-title: "Survivorship Bias in Investing (Algo Trading)"
+title: "Survivorship Bias in Investing"
 description: "Survivorship bias in investing and algo trading can skew performance analyses by ignoring failed entities skewing results and potentially leading to flawed strategies."
 ---
 

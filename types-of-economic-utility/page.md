@@ -1,5 +1,5 @@
 ---
-title: "Types of Economic Utility (Algo Trading)"
+title: "Types of Economic Utility"
 description: "Explore the types and significance of economic utility in consumer behavior and algo trading including form time place and possession utility applications."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Put Option Writing (Algo Trading)"
+title: "Put Option Writing"
 description: "Explore put option writing in algorithmic trading examining how selling put options can generate income and manage risk with automated trading strategies."
 ---
 

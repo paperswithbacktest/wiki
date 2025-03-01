@@ -1,5 +1,5 @@
 ---
-title: "Sovereign Risk: Types, History, and Examples (Algo Trading)"
+title: "Sovereign Risk: Types, History, and Examples"
 description: "Explore the intersection of sovereign risk and algorithmic trading Discover how investors can use algorithmic strategies to navigate the complexities of global markets"
 ---
 

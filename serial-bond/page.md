@@ -1,5 +1,5 @@
 ---
-title: "Serial Bond (Algo Trading)"
+title: "Serial Bond"
 description: "Explore the world of serial bonds and their unique staggered maturities Learn how algorithmic trading enhances bond market efficiency and investment strategies"
 ---
 

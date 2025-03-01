@@ -1,5 +1,5 @@
 ---
-title: "Taft-Hartley Act (Algo Trading)"
+title: "Taft-Hartley Act"
 description: "Explore the impact of the Taft-Hartley Act on labor laws and understand how it interacts with the evolving field of algorithmic trading today."
 ---
 

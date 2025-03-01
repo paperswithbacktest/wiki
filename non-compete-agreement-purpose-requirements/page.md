@@ -1,5 +1,5 @@
 ---
-title: "Non-Compete Agreement: Purpose and Requirements (Algo Trading)"
+title: "Non-Compete Agreement: Purpose and Requirements"
 description: "Protect your business in the competitive algorithmic trading industry with non-compete agreements. Learn about their purpose, key components, and legal considerations."
 ---
 

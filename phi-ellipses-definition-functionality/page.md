@@ -1,5 +1,5 @@
 ---
-title: "Phi Ellipses: Definition and Functionality (Algo Trading)"
+title: "Phi Ellipses: Definition and Functionality"
 description: "Explore Phi Ellipses in algorithmic trading to gain insights into market trends using Fibonacci sequences for predicting price movements and refining strategies."
 ---
 

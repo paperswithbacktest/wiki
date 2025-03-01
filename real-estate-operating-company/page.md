@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Operating Company (Algo Trading)"
+title: "Real Estate Operating Company"
 description: "Explore the innovative fusion of real estate investments and algorithmic trading offering enhanced strategies for REOCs to optimize portfolios and boost efficiencies."
 ---
 

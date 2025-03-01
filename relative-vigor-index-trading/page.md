@@ -1,5 +1,5 @@
 ---
-title: "Relative Vigor Index in Trading (Algo Trading)"
+title: "Relative Vigor Index in Trading"
 description: "Explore the Relative Vigor Index for insights into market momentum and trends Ideal for algorithmic trading Enhance trading strategies and decision-making"
 ---
 

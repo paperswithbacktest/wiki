@@ -1,5 +1,5 @@
 ---
-title: "TriOptima (Financial Services) (Algo Trading)"
+title: "TriOptima (Financial Services)"
 description: "TriOptima leads in post-trade risk management for OTC derivatives, enabling firms to navigate regulatory requirements and enhance capital efficiency."
 ---
 

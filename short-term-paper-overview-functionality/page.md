@@ -1,5 +1,5 @@
 ---
-title: "Short-Term Paper: Overview and Functionality (Algo Trading)"
+title: "Short-Term Paper: Overview and Functionality"
 description: "Explore how short-term paper and algorithmic trading enhance investment strategies with low-risk, liquid options and advanced trading techniques for optimal returns."
 ---
 

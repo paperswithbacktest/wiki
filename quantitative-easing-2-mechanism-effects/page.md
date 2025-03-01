@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Easing 2: Mechanism and Effects (Algo Trading)"
+title: "Quantitative Easing 2: Mechanism and Effects"
 description: "Explore the impact of Quantitative Easing 2 on the economy and its influence on algorithmic trading strategies during a period marked by increased liquidity and global market shifts."
 ---
 

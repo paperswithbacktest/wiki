@@ -1,5 +1,5 @@
 ---
-title: "Technical analysis (Algo Trading)"
+title: "Technical analysis"
 description: Explore the world of technical analysis in algo trading, a crucial methodology that leverages historical market data to predict future price movements. Learn how traders use technical indicators and chart patterns to optimize trading strategies, contrasting with fundamental analysis by focusing on market psychology. Discover the evolution and core principles, including trend identification and support/resistance levels, and see how these insights power algorithmic trading to execute high-speed, precise trades. Delve into the history and advancements shaping modern technical analysis and its role in the financial markets.
 ---
 

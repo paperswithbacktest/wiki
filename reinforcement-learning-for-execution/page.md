@@ -1,5 +1,5 @@
 ---
-title: "reinforcement learning for execution (Algo Trading)"
+title: "reinforcement learning for execution"
 description: "Explore the role of reinforcement learning in algorithmic trading for enhanced trade execution, adaptability, and efficiency within financial markets."
 ---
 

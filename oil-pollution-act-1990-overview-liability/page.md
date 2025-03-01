@@ -1,5 +1,5 @@
 ---
-title: "Oil Pollution Act of 1990: Overview and Liability (Algo Trading)"
+title: "Oil Pollution Act of 1990: Overview and Liability"
 description: "Explore the Oil Pollution Act of 1990's impact on environmental liability and its influence on financial markets through algorithmic trading dynamics."
 ---
 

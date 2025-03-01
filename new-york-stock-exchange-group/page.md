@@ -1,5 +1,5 @@
 ---
-title: "New York Stock Exchange Group (Algo Trading)"
+title: "New York Stock Exchange Group"
 description: "Explore the impact of algorithmic trading on the New York Stock Exchange with insights into its speed and efficiency, challenges, and benefits in today's markets."
 ---
 

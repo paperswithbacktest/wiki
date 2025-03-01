@@ -1,5 +1,5 @@
 ---
-title: "United Nations: Purpose, Structure, and Membership (Algo Trading)"
+title: "United Nations: Purpose, Structure, and Membership"
 description: "Explore the intriguing intersection of technology and global collaboration as the United Nations considers incorporating algorithmic trading to enhance policy efficiency."
 ---
 

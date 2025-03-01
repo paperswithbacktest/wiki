@@ -1,5 +1,5 @@
 ---
-title: "Misconceptions About Fiduciaries (Algo Trading)"
+title: "Misconceptions About Fiduciaries"
 description: "Navigate financial intricacies with clarity on fiduciaries and demystify algorithmic trading. Learn to optimize investment strategies by understanding these key topics."
 ---
 

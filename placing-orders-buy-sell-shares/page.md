@@ -1,5 +1,5 @@
 ---
-title: "Placing Orders to Buy or Sell Shares (Algo Trading)"
+title: "Placing Orders to Buy or Sell Shares"
 description: "Explore the essentials of placing stock orders and learn how algorithmic trading can enhance efficiency in the stock market with advanced strategies."
 ---
 

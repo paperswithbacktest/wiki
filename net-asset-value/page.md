@@ -1,5 +1,5 @@
 ---
-title: "Net Asset Value (Algo Trading)"
+title: "Net Asset Value"
 description: "Discover the crucial role of Net Asset Value (NAV) in investment valuation and algorithmic trading and learn how it guides investors in strategic decision-making."
 ---
 

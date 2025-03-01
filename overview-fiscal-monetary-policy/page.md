@@ -1,5 +1,5 @@
 ---
-title: "Overview of Fiscal and Monetary Policy (Algo Trading)"
+title: "Overview of Fiscal and Monetary Policy"
 description: "Explore the dynamic interaction of fiscal and monetary policy as key economic management tools, alongside algorithmic trading's tech-based financial impacts."
 ---
 

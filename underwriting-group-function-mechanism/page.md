@@ -1,5 +1,5 @@
 ---
-title: "Underwriting Group: Function and Mechanism (Algo Trading)"
+title: "Underwriting Group: Function and Mechanism"
 description: "Explore the convergence of insurance underwriting and algorithmic trading to enhance efficiency accuracy and customer satisfaction in finance and insurance."
 ---
 

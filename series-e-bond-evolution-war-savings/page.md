@@ -1,5 +1,5 @@
 ---
-title: "Series E Bond: Evolution from War Bond to Savings Instrument (Algo Trading)"
+title: "Series E Bond: Evolution from War Bond to Savings Instrument"
 description: "Explore the transformation of Series E Bonds from WWII financial tools to modern savings instruments and their ongoing relevance in today's investment landscape."
 ---
 

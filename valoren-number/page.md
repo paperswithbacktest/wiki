@@ -1,5 +1,5 @@
 ---
-title: "Valoren Number (Algo Trading)"
+title: "Valoren Number"
 description: "Discover the crucial role of Valoren Numbers in Swiss financial markets Enable seamless algorithmic trading and enhance trading efficiency by reducing errors through precise security identification"
 ---
 

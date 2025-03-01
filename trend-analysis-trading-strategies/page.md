@@ -1,5 +1,5 @@
 ---
-title: "Trend Analysis and Trading Strategies (Algo Trading)"
+title: "Trend Analysis and Trading Strategies"
 description: "Explore how traders use trend analysis and algorithmic trading to enhance outcomes in financial markets. Discover strategies for data-driven decision making."
 ---
 

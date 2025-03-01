@@ -1,5 +1,5 @@
 ---
-title: "Nominal Value and Calculation Formulas (Algo Trading)"
+title: "Nominal Value and Calculation Formulas"
 description: "Explore the importance of distinguishing between nominal and real values in algorithmic trading and financial markets understand their impact on market assessments and strategy optimization."
 ---
 

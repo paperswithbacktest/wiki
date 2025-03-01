@@ -1,5 +1,5 @@
 ---
-title: "Safe Haven in Investing (Algo Trading)"
+title: "Safe Haven in Investing"
 description: "Explore the interplay between safe haven investments and algorithmic trading to enhance portfolio stability and returns during market volatility while minimizing risk."
 ---
 

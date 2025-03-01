@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Splitting (Algo Trading)"
+title: "Mutual Fund Splitting"
 description: "Explore the synergy of mutual funds, fund splitting, and algorithmic trading to optimize investment performance and make informed financial decisions."
 ---
 

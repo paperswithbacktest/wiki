@@ -1,5 +1,5 @@
 ---
-title: "Static Gap: Mechanism and Limitations (Algo Trading)"
+title: "Static Gap: Mechanism and Limitations"
 description: "Explore the static gap mechanism in algorithmic trading, its impact on interest rate exposure, and its limitations. Learn strategies to complement static gap analysis for better trading efficiency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Senkou Span A: Overview and Formula (Algo Trading)"
+title: "Senkou Span A: Overview and Formula"
 description: "Explore Senkou Span A within the Ichimoku Cloud to boost trading insights, utilizing its predictive analysis for assessing future market trends and support levels."
 ---
 

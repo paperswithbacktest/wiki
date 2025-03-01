@@ -1,5 +1,5 @@
 ---
-title: "On-Balance Volume and Market Strategy Analysis (Algo Trading)"
+title: "On-Balance Volume and Market Strategy Analysis"
 description: "Discover how On-Balance Volume can enhance your algo trading strategy by analyzing volume-driven market trends. Improve precision in predicting price movements."
 ---
 

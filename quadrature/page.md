@@ -1,5 +1,5 @@
 ---
-title: "Quadrature (Algo Trading)"
+title: "Quadrature"
 description: "Explore the critical role of quadrature in algorithmic trading This mathematical technique enhances options pricing and risk management by improving prediction precision"
 ---
 

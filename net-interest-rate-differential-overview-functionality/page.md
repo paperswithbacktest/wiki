@@ -1,5 +1,5 @@
 ---
-title: "Net Interest Rate Differential: Overview and Functionality (Algo Trading)"
+title: "Net Interest Rate Differential: Overview and Functionality"
 description: "Optimize your forex trading strategy by understanding the Net Interest Rate Differential and its role in carry trades within advanced algorithmic trading environments."
 ---
 

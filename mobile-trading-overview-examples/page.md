@@ -1,5 +1,5 @@
 ---
-title: "Mobile Trading: Overview and Examples (Algo Trading)"
+title: "Mobile Trading: Overview and Examples"
 description: "Explore the transformative world of mobile and algorithmic trading where digital platforms and trading apps offer efficiency flexibility and market access on-the-go"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Super Sinker (Algo Trading)"
+title: "Super Sinker"
 description: "Discover the strategic parallels between fishing and finance with insights into super sinkers and algorithmic trading tools for enhanced success across industries."
 ---
 

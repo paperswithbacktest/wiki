@@ -1,5 +1,5 @@
 ---
-title: "Usefulness of ROCE as a Performance Indicator (Algo Trading)"
+title: "Usefulness of ROCE as a Performance Indicator"
 description: "Explore the importance of Return on Capital Employed in algorithmic trading by understanding how this financial indicator enhances trading strategies and decision-making."
 ---
 

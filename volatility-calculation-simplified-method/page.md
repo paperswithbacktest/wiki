@@ -1,5 +1,5 @@
 ---
-title: "Volatility Calculation: Simplified Method (Algo Trading)"
+title: "Volatility Calculation: Simplified Method"
 description: "Explore simplified volatility calculations for algorithmic trading Learn how understanding financial volatility enhances strategy and risk management in trading"
 ---
 

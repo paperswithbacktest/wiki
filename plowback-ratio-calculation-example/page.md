@@ -1,5 +1,5 @@
 ---
-title: "Plowback Ratio: Calculation and Example (Algo Trading)"
+title: "Plowback Ratio: Calculation and Example"
 description: "Explore the significance of plowback ratio in algo trading, learn its calculation, and understand how this metric aids investors in evaluating a company's growth potential."
 ---
 

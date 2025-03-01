@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Discrepancies in Stock Buyout Pricing (Algo Trading)"
+title: "Reasons for Discrepancies in Stock Buyout Pricing"
 description: "Explore the intricacies of stock buyout pricing discrepancies, from market speculation to regulatory challenges, and how algorithmic trading exploits these gaps."
 ---
 

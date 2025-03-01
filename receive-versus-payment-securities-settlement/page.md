@@ -1,5 +1,5 @@
 ---
-title: "Receive Versus Payment in Securities Settlement (Algo Trading)"
+title: "Receive Versus Payment in Securities Settlement"
 description: "Secure securities settlements with Receive Versus Payment ensuring simultaneous exchange of payment and securities to minimize risk and enhance trust in trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Using Excel as an Accounting Ledger (Algo Trading)"
+title: "Using Excel as an Accounting Ledger"
 description: "Discover how Microsoft Excel can transform into a powerful accounting ledger and algotrading tool with essential techniques, formulas, and data visualization."
 ---
 

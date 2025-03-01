@@ -1,5 +1,5 @@
 ---
-title: "Transatlantic Trade and Investment Partnership (Algo Trading)"
+title: "Transatlantic Trade and Investment Partnership"
 description: "Explore the complexities of the Transatlantic Trade and Investment Partnership its goals controversies and enduring influence on global trade discussions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ornstein-Uhlenbeck formula (Algo Trading)"
+title: "Ornstein-Uhlenbeck formula"
 description: Explore the Ornstein-Uhlenbeck process and its role in algorithmic trading. Discover how its mean-reverting properties provide traders with a framework for predicting and leveraging market deviations to identify profitable opportunities. Learn about the stochastic calculus origins, practical applications, and Python implementation, enhancing trading strategies in financial markets.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Trailing Stop and Stop-Loss Strategies in Trading (Algo Trading)"
+title: "Trailing Stop and Stop-Loss Strategies in Trading"
 description: "Explore how stop-loss and trailing stop strategies optimize risk management in trading Enhance your market approach with these essential algorithmic tools"
 ---
 

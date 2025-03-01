@@ -1,5 +1,5 @@
 ---
-title: "Proportional Consolidation in Accounting (Algo Trading)"
+title: "Proportional Consolidation in Accounting"
 description: "Explore how proportional consolidation in accounting and algorithmic trading strategies impact financial reporting aiding investors in making informed decisions."
 ---
 

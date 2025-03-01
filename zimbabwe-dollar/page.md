@@ -1,5 +1,5 @@
 ---
-title: "Zimbabwe Dollar (Algo Trading)"
+title: "Zimbabwe Dollar"
 description: "Explore the tumultuous history of the Zimbabwe Dollar (ZWD) and its journey through hyperinflation and economic instability. Learn how economic mismanagement, political decisions, and global market influences contributed to its devaluation. Discover the rise of algorithmic trading as a modern tool potentially impacting the ZWD market and shaping new trading strategies. Understand the historical context, challenges faced, and the efforts towards economic recovery in Zimbabwe."
 ---
 

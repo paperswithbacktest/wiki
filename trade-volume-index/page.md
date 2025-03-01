@@ -1,5 +1,5 @@
 ---
-title: "Trade Volume Index (Algo Trading)"
+title: "Trade Volume Index"
 description: "Understand and leverage the Trade Volume Index to gauge market trends and make informed trading decisions by analyzing securities' price changes and volumes effectively."
 ---
 

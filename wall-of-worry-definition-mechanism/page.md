@@ -1,5 +1,5 @@
 ---
-title: "Wall of Worry: Definition and Mechanism (Algo Trading)"
+title: "Wall of Worry: Definition and Mechanism"
 description: "Explore how emotions and psychology influence market behavior through the 'Wall of Worry' concept while discovering algorithmic trading strategies to mitigate biases."
 ---
 

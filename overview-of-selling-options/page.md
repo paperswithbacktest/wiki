@@ -1,5 +1,5 @@
 ---
-title: "Overview of Selling Options (Algo Trading)"
+title: "Overview of Selling Options"
 description: "Discover the intersection of options and algorithmic trading focused on selling strategies Learn about the tools traders use for risk management and profitability"
 ---
 

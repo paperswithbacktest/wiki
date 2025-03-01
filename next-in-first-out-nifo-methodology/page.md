@@ -1,5 +1,5 @@
 ---
-title: "Next In, First Out (NIFO) Methodology (Algo Trading)"
+title: "Next In, First Out (NIFO) Methodology"
 description: "Explore the strategic benefits of the Next In, First Out (NIFO) methodology in algorithmic trading, adapting to inflation and real-time market dynamics."
 ---
 

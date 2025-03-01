@@ -1,5 +1,5 @@
 ---
-title: "Time Value of Money (Algo Trading)"
+title: "Time Value of Money"
 description: "Explore the advantages of combining the Time Value of Money (TVM) with algorithmic trading in the evolving financial landscape. This fusion enhances investment strategies by leveraging TVM's core concept that money's earning power grows over time and the efficiencies of advanced trading algorithms. Discover how integrating TVM principles into algorithmic trading optimizes returns and risk management in dynamic markets for informed financial decisions and superior portfolio management."
 ---
 

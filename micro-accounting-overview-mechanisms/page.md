@@ -1,5 +1,5 @@
 ---
-title: "Micro Accounting: Overview and Mechanisms (Algo Trading)"
+title: "Micro Accounting: Overview and Mechanisms"
 description: "Explore the roles and benefits of accounting methods in micro accounting and algorithmic trading Discover how they enhance financial management and compliance"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Refunding Processes and Reversing Transactions (Algo Trading)"
+title: "Refunding Processes and Reversing Transactions"
 description: "Explore the intricacies of reversals refunds and algorithmic trading to enhance your understanding of financial transactions in today's dynamic trading environment."
 ---
 

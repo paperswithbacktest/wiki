@@ -1,5 +1,5 @@
 ---
-title: "Requirement of Demat Accounts for Mutual Funds (Algo Trading)"
+title: "Requirement of Demat Accounts for Mutual Funds"
 description: "Explore how demat accounts, mutual funds, and algorithmic trading integrate to optimize your investment strategies, enhancing efficiency and diversification."
 ---
 

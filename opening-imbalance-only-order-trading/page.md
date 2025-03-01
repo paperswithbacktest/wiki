@@ -1,5 +1,5 @@
 ---
-title: "Opening Imbalance-Only Order in Trading (Algo Trading)"
+title: "Opening Imbalance-Only Order in Trading"
 description: "Understand how Opening Imbalance-Only Orders influence market dynamics. Enhance trading strategies with insights into imbalances during opening sessions."
 ---
 

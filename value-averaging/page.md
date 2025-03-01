@@ -1,5 +1,5 @@
 ---
-title: "Value averaging (Algo Trading)"
+title: "Value averaging"
 description: "Discover how combining value averaging with algorithmic trading can optimize investments by leveraging data-driven insights for precise financial decisions."
 ---
 

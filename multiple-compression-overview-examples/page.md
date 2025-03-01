@@ -1,5 +1,5 @@
 ---
-title: "Multiple Compression: Overview and Examples (Algo Trading)"
+title: "Multiple Compression: Overview and Examples"
 description: "Explore the role of valuation metrics and multiple compression in algorithmic trading with a focus on how these concepts influence financial analysis and trading strategies."
 ---
 

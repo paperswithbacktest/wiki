@@ -1,5 +1,5 @@
 ---
-title: "Option Premium and Pricing Factors (Algo Trading)"
+title: "Option Premium and Pricing Factors"
 description: "Explore how option premium pricing, vital for options trading, is influenced by intrinsic and extrinsic values. Learn how this understanding assists in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "risk management for trading (Algo Trading)"
+title: "risk management for trading"
 description: "Effective risk management is vital for algo trading to mitigate financial risks stemming from high-speed transactions, ensuring stability and maximizing profitability."
 ---
 

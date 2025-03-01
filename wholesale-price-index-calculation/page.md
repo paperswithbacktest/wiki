@@ -1,5 +1,5 @@
 ---
-title: "Wholesale Price Index and Its Calculation (Algo Trading)"
+title: "Wholesale Price Index and Its Calculation"
 description: "Explore the significance of the Wholesale Price Index in gauging economic health and its role in enhancing algorithmic trading strategies with informed insights."
 ---
 

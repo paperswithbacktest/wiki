@@ -1,5 +1,5 @@
 ---
-title: "Zero Basis Risk Swap (ZEBRA) (Algo Trading)"
+title: "Zero Basis Risk Swap (ZEBRA)"
 description: "Discover the benefits of Zero Basis Risk Swaps (ZEBRA) in managing interest rate risks with precision Explore applications in finance and algorithmic trading"
 ---
 

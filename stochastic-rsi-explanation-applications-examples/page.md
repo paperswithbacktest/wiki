@@ -1,5 +1,5 @@
 ---
-title: "Stochastic RSI: Explanation, Applications, and Examples (Algo Trading)"
+title: "Stochastic RSI: Explanation, Applications, and Examples"
 description: "Dive into the world of algo trading with a focus on the Stochastic RSI. This powerful technical analysis tool offers enhanced market insights by measuring momentum shifts more precisely than traditional indicators. Understand how it uniquely combines elements from the stochastic oscillator and relative strength index to predict price reversals and assist in optimizing trading strategies. Whether you're a novice or seasoned trader, learn how to calculate and integrate Stochastic RSI for improved market analysis and decision-making."
 ---
 

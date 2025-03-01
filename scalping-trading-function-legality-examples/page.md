@@ -1,5 +1,5 @@
 ---
-title: "Scalping in Trading: Function, Legality, and Examples (Algo Trading)"
+title: "Scalping in Trading: Function, Legality, and Examples"
 description: "Scalping in trading focuses on quick profits via numerous trades and small price movements. Explore its legality, examples, and role in algorithmic trading."
 ---
 

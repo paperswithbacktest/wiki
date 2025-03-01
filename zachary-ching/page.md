@@ -1,5 +1,5 @@
 ---
-title: "Zachary Ching (Algo Trading)"
+title: "Zachary Ching"
 description: "Zachary Ching is a Junior Trader at Akuna Capital leveraging expertise in computer science and finance to excel in algorithmic trading in Chicago."
 ---
 

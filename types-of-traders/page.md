@@ -1,5 +1,5 @@
 ---
-title: "Types of Traders (Algo Trading)"
+title: "Types of Traders"
 description: "Discover the nuances of trading styles and trader types in the evolving world of algo trading boosting financial acumen for better investment decisions."
 ---
 

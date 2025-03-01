@@ -1,5 +1,5 @@
 ---
-title: "Price Pivot Strategies and Profitability (Algo Trading)"
+title: "Price Pivot Strategies and Profitability"
 description: "Explore the role of price pivot strategies in algo trading and learn how they boost profitability by identifying market reversals and optimizing profit potential."
 ---
 

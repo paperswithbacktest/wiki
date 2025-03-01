@@ -1,5 +1,5 @@
 ---
-title: "Overview Of Debt Solutions (Algo Trading)"
+title: "Overview Of Debt Solutions"
 description: "Explore effective debt management by integrating algorithmic trading and financial solutions to boost financial stability and resilience for individuals and businesses."
 ---
 

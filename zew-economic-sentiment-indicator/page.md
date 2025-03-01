@@ -1,5 +1,5 @@
 ---
-title: "ZEW Economic Sentiment Indicator (Algo Trading)"
+title: "ZEW Economic Sentiment Indicator"
 description: "Explore the significance of the ZEW Economic Sentiment Indicator in economic forecasting and algorithmic trading. This sentiment-based measure provides insights into economic trends by capturing market psychology and expert predictions. Understand its methodology and application in predicting market dynamics to enhance trading strategies and improve decision-making in complex financial landscapes."
 ---
 

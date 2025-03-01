@@ -1,5 +1,5 @@
 ---
-title: "Patronage Dividend (Algo Trading)"
+title: "Patronage Dividend"
 description: "Explore the unique financial model of patronage dividends in cooperatives and how algorithmic trading can enhance member benefits and profitability."
 ---
 

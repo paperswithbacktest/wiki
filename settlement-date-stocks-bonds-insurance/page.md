@@ -1,5 +1,5 @@
 ---
-title: "Settlement Date in Stocks, Bonds, and Insurance (Algo Trading)"
+title: "Settlement Date in Stocks, Bonds, and Insurance"
 description: "Explore the importance of settlement dates in stocks, bonds, and insurance and their impact on liquidity, ownership, and trading strategies in modern financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Thomas Peterffy: Biography and Contributions (Algo Trading)"
+title: "Thomas Peterffy: Biography and Contributions"
 description: "Discover Thomas Peterffy's journey from Hungary to the forefront of electronic trading as the founder of Interactive Brokers revolutionizing Wall Street technology."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Weighted Average Rating Factor (WARF) (Algo Trading)"
+title: "Weighted Average Rating Factor (WARF)"
 description: "Explore how the Weighted Average Rating Factor (WARF) serves as a vital credit risk metric in algorithmic trading enhancing portfolio evaluation and risk management."
 ---
 

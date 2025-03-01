@@ -1,5 +1,5 @@
 ---
-title: "Responsibilities of the United States Secretary of the Treasury (Algo Trading)"
+title: "Responsibilities of the United States Secretary of the Treasury"
 description: "Explore the crucial role of the US Secretary of the Treasury in economic policy and regulation, focusing on the impact of algorithmic trading on market stability."
 ---
 

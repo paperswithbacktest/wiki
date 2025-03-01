@@ -1,5 +1,5 @@
 ---
-title: "Runaway Gap: Meaning and Mechanism (Algo Trading)"
+title: "Runaway Gap: Meaning and Mechanism"
 description: "Explore the mechanisms and significance of runaway gaps in algorithmic trading. Learn how these gaps influence market trends and enhance trading strategies."
 ---
 

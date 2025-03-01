@@ -1,5 +1,5 @@
 ---
-title: "Political Arbitrage in Financial Markets (Algo Trading)"
+title: "Political Arbitrage in Financial Markets"
 description: "Discover the impact of political arbitrage and algorithmic trading on financial markets and learn how these strategies can optimize investment performance."
 ---
 

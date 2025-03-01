@@ -1,5 +1,5 @@
 ---
-title: "Stacked feature importance (Algo Trading)"
+title: "Stacked feature importance"
 description: Explore the advantages of stacked feature importance in algorithmic trading for a deeper understanding of market dynamics and feature interactions. This method improves prediction accuracy by aggregating insights from various datasets, addressing the limitations of traditional approaches. Enhance your trading strategies with robust analysis to manage risks effectively and maintain a competitive edge in dynamic trading environments.
 ---
 

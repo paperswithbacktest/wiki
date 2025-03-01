@@ -1,5 +1,5 @@
 ---
-title: "Quick Ratio: Formula, Examples, Advantages, and Disadvantages (Algo Trading)"
+title: "Quick Ratio: Formula, Examples, Advantages, and Disadvantages"
 description: "Discover the quick ratio's significance in evaluating a company's immediate liquidity in algo trading. Learn its formula, advantages, and implications here."
 ---
 

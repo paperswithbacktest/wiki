@@ -1,5 +1,5 @@
 ---
-title: "Role of Patience in Trading (Algo Trading)"
+title: "Role of Patience in Trading"
 description: "Explore the critical role of patience in trading and algorithmic trading Discover how patience can enhance trade execution, decision-making, and profitability in volatile markets"
 ---
 

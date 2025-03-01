@@ -1,5 +1,5 @@
 ---
-title: "Term Spread (Algo Trading)"
+title: "Term Spread"
 description: Discover the intricacies of Term Spread Trade, a profitable strategy in Algo Trading. Learn what it is, its types, yield curve importance, and how technology enhances its potential. Dive deeper into this sophisticated quantitative trading method.
 ---
 

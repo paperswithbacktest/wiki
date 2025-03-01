@@ -1,5 +1,5 @@
 ---
-title: "VWAP (Volume Weighted Average Price) (Algo Trading)"
+title: "VWAP (Volume Weighted Average Price)"
 description: "VWAP is a key tool in algorithmic trading offering traders a reliable benchmark for executing large orders with precision by factoring in market volumes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stocks with Large Bid-Ask Spread (Algo Trading)"
+title: "Stocks with Large Bid-Ask Spread"
 description: "Discover the significance of bid-ask spreads in stock trading and how algorithmic strategies like high-frequency trading improve market liquidity and efficiency."
 ---
 

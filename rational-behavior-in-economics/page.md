@@ -1,5 +1,5 @@
 ---
-title: "Rational Behavior in Economics (Algo Trading)"
+title: "Rational Behavior in Economics"
 description: "Explore how rational behavior in economics intertwines with algo trading enhancing market strategies with technology to optimize financial decisions."
 ---
 

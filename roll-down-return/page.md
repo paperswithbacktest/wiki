@@ -1,5 +1,5 @@
 ---
-title: "Roll-Down Return (Algo Trading)"
+title: "Roll-Down Return"
 description: "Explore the intricacies of bond strategies roll-down returns and algorithmic trading to optimize your investment portfolio and enhance financial growth."
 ---
 

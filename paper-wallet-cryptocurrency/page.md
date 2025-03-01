@@ -1,5 +1,5 @@
 ---
-title: "Paper Wallet in Cryptocurrency (Algo Trading)"
+title: "Paper Wallet in Cryptocurrency"
 description: "Explore the security and advantages of using paper wallets for cryptocurrency storage and trading Discover their integration with algorithmic trading strategies"
 ---
 

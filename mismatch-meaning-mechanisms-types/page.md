@@ -1,5 +1,5 @@
 ---
-title: "Mismatch: Meaning, Mechanisms, and Types (Algo Trading)"
+title: "Mismatch: Meaning, Mechanisms, and Types"
 description: "Explore the intricacies of algorithmic trading mismatches their causes and effects Learn strategies to manage execution discrepancies and optimize performance"
 ---
 

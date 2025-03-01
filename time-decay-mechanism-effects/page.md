@@ -1,5 +1,5 @@
 ---
-title: "Time Decay: Mechanism and Effects (Algo Trading)"
+title: "Time Decay: Mechanism and Effects"
 description: "Discover the role of time decay in options trading and its integration into algorithmic strategies. Learn how theta influences profitability and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Principal Private Residence Requirements in Canada (Algo Trading)"
+title: "Principal Private Residence Requirements in Canada"
 description: "Explore Canada's Principal Private Residence requirements and the growing field of algorithmic trading to make informed financial decisions and optimize tax benefits."
 ---
 

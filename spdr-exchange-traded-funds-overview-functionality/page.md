@@ -1,5 +1,5 @@
 ---
-title: "SPDR Exchange-Traded Funds: Overview and Functionality (Algo Trading)"
+title: "SPDR Exchange-Traded Funds: Overview and Functionality"
 description: "Explore SPDR ETFs and algo trading to gain insights into modern investment tools. Discover how their synergy enhances market access and trading efficiency."
 ---
 

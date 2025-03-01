@@ -1,5 +1,5 @@
 ---
-title: "Paper Merchant (Algo Trading)"
+title: "Paper Merchant"
 description: "Explore the impact of algorithmic trading on the paper industry. Discover how digital strategies enhance efficiency and redefine the future of paper markets."
 ---
 

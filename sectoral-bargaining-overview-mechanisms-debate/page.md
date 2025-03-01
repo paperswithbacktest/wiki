@@ -1,5 +1,5 @@
 ---
-title: "Sectoral Bargaining: Overview, Mechanisms, and Debate (Algo Trading)"
+title: "Sectoral Bargaining: Overview, Mechanisms, and Debate"
 description: "Explore the dynamics of sectoral bargaining and algorithmic trading and their impact on labor negotiations and financial markets in this insightful overview."
 ---
 

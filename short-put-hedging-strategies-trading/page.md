@@ -1,5 +1,5 @@
 ---
-title: "Short Put Hedging Strategies in Trading (Algo Trading)"
+title: "Short Put Hedging Strategies in Trading"
 description: "Explore the integration of short put hedging strategies in algorithmic trading for enhanced risk management and trading efficiency in financial markets."
 ---
 

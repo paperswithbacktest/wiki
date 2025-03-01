@@ -1,5 +1,5 @@
 ---
-title: "Patrick H. Arbor: Profile and Contributions (Algo Trading)"
+title: "Patrick H. Arbor: Profile and Contributions"
 description: "Discover the influential role of Patrick H. Arbor in modernizing futures trading with tech advancements and algorithmic strategies that shaped financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Peak-to-Valley Drawdown in Finance (Algo Trading)"
+title: "Peak-to-Valley Drawdown in Finance"
 description: "Explore peak-to-valley drawdown in algorithmic trading to understand its impact on risk management and investment strategy optimization."
 ---
 

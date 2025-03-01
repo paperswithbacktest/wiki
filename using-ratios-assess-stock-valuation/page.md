@@ -1,5 +1,5 @@
 ---
-title: "Using Ratios to Assess Stock Valuation (Algo Trading)"
+title: "Using Ratios to Assess Stock Valuation"
 description: "Explore how financial ratios, stock valuation, and algorithmic trading intersect to optimize investment strategies assess company worth and execute precise trades efficiently."
 ---
 

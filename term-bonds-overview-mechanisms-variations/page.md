@@ -1,5 +1,5 @@
 ---
-title: "Term Bonds: Overview, Mechanisms, and Variations (Algo Trading)"
+title: "Term Bonds: Overview, Mechanisms, and Variations"
 description: "Explore the intricacies of term bonds influenced by algorithmic trading to enhance your investment strategy. Understand bond types, mechanisms, and technological impacts."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Regulation of Financial Services (Algo Trading)"
+title: "Regulation of Financial Services"
 description: "Explore the impact of regulations on the financial services sector and algorithmic trading Enhancing market stability while fostering innovation and preventing crises"
 ---
 

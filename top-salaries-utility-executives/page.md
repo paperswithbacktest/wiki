@@ -1,5 +1,5 @@
 ---
-title: "Top Salaries of Utility Executives (Algo Trading)"
+title: "Top Salaries of Utility Executives"
 description: "Discover insights into the substantial salaries of utility and algo trading executives Explore how compensation reflects industry complexities and company performance"
 ---
 

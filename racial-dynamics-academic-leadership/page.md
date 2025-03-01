@@ -1,5 +1,5 @@
 ---
-title: "Racial Dynamics in Academic Leadership (Algo Trading)"
+title: "Racial Dynamics in Academic Leadership"
 description: "Explore the impact of diversity in education and algorithmic thinking on racial dynamics in academic leadership Learn how inclusive policies enhance learning environments"
 ---
 

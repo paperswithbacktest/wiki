@@ -1,5 +1,5 @@
 ---
-title: "Non-stationarity in financial data (Algo Trading)"
+title: "Non-stationarity in financial data"
 description: "Discover how non-stationarity in financial data impacts algorithmic trading and explore effective strategies to convert such data into stationary form for better forecasts."
 ---
 

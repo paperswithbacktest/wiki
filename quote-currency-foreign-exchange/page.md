@@ -1,5 +1,5 @@
 ---
-title: "Quote Currency in Foreign Exchange (Algo Trading)"
+title: "Quote Currency in Foreign Exchange"
 description: "Explore the crucial role of quote currency in forex trading and how algorithmic trading enhances market efficiency. Discover the dynamics of currency pairs and their impact on trading strategies in the ever-evolving realm of global finance."
 ---
 

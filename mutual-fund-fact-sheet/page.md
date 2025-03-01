@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Fact Sheet (Algo Trading)"
+title: "Mutual Fund Fact Sheet"
 description: "Explore the benefits of mutual funds and algorithmic trading through this comprehensive guide to mutual fund fact sheets and modern trading systems for investors."
 ---
 

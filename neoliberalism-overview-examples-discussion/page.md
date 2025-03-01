@@ -1,5 +1,5 @@
 ---
-title: "Neoliberalism: Overview, Examples, and Discussion (Algo Trading)"
+title: "Neoliberalism: Overview, Examples, and Discussion"
 description: "Explore the interplay of neoliberalism and algorithmic trading in finance uncovering their combined impact on market efficiency and the associated risks."
 ---
 

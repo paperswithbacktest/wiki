@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Yield Curve: Mechanics and Implications (Algo Trading)"
+title: "Understanding the Yield Curve: Mechanics and Implications"
 description: "Explore the mechanics and implications of the yield curve in fixed income and algorithmic trading and learn how it impacts investment strategies."
 ---
 

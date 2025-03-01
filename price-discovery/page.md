@@ -1,5 +1,5 @@
 ---
-title: "Price Discovery (Algo Trading)"
+title: "Price Discovery"
 description: "Explore how algorithmic trading shapes price discovery in financial markets, enhancing speed, accuracy, and transparency by automating trade execution through advanced technologies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Organic Sales: Concepts, Advantages, and Case Studies (Algo Trading)"
+title: "Organic Sales: Concepts, Advantages, and Case Studies"
 description: "Explore the synergy of organic sales, marketing benefits, and algo trading for sustainable business growth by integrating core strengths with data-driven strategies."
 ---
 

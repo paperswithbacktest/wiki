@@ -1,5 +1,5 @@
 ---
-title: "Wells Notice: Definition and Mechanism (Algo Trading)"
+title: "Wells Notice: Definition and Mechanism"
 description: "Explore the Wells Notice mechanism in algorithmic trading. Understand SEC oversight, compliance strategies, and response tactics to safeguard operations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Tape Shredding Techniques and Examples (Algo Trading)"
+title: "Tape Shredding Techniques and Examples"
 description: "Explore tape shredding techniques in algorithmic trading to safeguard confidential data. Learn effective methods for secure document destruction and compliance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Smith Barney Corporation (Algo Trading)"
+title: "Smith Barney Corporation"
 description: "Discover the evolution of Smith Barney Corporation from its origins in 1873 to its pivotal merger with Morgan Stanley, highlighting its role in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Public Company Accounting Oversight Board: History and Overview (Algo Trading)"
+title: "Public Company Accounting Oversight Board: History and Overview"
 description: "Explore the history and role of the Public Company Accounting Oversight Board in enhancing audit transparency and integrity in complex financial markets."
 ---
 

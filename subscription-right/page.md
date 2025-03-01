@@ -1,5 +1,5 @@
 ---
-title: "Subscription Right (Algo Trading)"
+title: "Subscription Right"
 description: "Explore key financial concepts like subscription rights and algorithmic trading to enhance your investment strategies in the evolving financial markets."
 ---
 

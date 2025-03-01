@@ -1,5 +1,5 @@
 ---
-title: "Selling Company Stock (Algo Trading)"
+title: "Selling Company Stock"
 description: "Explore the synergy of financial planning and algorithmic trading to boost investment success by leveraging company stock insights in today's dynamic market."
 ---
 

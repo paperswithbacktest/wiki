@@ -1,5 +1,5 @@
 ---
-title: "Patrick J. Kenny Biography (Algo Trading)"
+title: "Patrick J. Kenny Biography"
 description: "Discover the influential career of Patrick J. Kenny a leader in algorithmic trading and client relations shaping modern financial strategies over three decades."
 ---
 

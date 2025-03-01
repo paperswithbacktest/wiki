@@ -1,5 +1,5 @@
 ---
-title: "Registration Process and SEC Regulations (Algo Trading)"
+title: "Registration Process and SEC Regulations"
 description: "Explore the registration process and SEC regulations influencing algorithmic trading to understand the impact on financial markets and risk mitigation strategies."
 ---
 

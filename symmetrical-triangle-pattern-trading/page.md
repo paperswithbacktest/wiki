@@ -1,5 +1,5 @@
 ---
-title: "Symmetrical Triangle Pattern in Trading (Algo Trading)"
+title: "Symmetrical Triangle Pattern in Trading"
 description: "Discover how symmetrical triangle patterns enhance algorithmic trading strategies by automating trade execution and predicting market breakouts for superior trading performance."
 ---
 

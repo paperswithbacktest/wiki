@@ -1,5 +1,5 @@
 ---
-title: "Stock Swap: Mechanism, Examples, and Tax Implications (Algo Trading)"
+title: "Stock Swap: Mechanism, Examples, and Tax Implications"
 description: "Explore stock swaps and their tax implications in today's financial scene, crucial for optimizing trading strategies through mergers, financial exchanges, and algorithmic trading."
 ---
 

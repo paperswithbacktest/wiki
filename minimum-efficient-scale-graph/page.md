@@ -1,5 +1,5 @@
 ---
-title: "Minimum Efficient Scale with Graph (Algo Trading)"
+title: "Minimum Efficient Scale with Graph"
 description: "Explore how economies of scale, minimum efficient scale, and algorithmic trading intertwine to optimize business efficiency and competitive market advantage."
 ---
 

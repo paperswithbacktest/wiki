@@ -1,5 +1,5 @@
 ---
-title: "Warehouse Receipts Overview (Algo Trading)"
+title: "Warehouse Receipts Overview"
 description: "Explore how warehouse receipts and algorithmic trading synergize to optimize supply chain logistics, enhancing transparency, efficiency, and decision-making."
 ---
 

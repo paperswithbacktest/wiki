@@ -1,5 +1,5 @@
 ---
-title: "Treasury Receipt: Definition and Mechanism (Algo Trading)"
+title: "Treasury Receipt: Definition and Mechanism"
 description: "Explore the benefits of investing in treasury receipts and the impact of algorithmic trading in modern finance Gain insights into risk management and investment strategies"
 ---
 

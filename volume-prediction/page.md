@@ -1,5 +1,5 @@
 ---
-title: "volume prediction (Algo Trading)"
+title: "volume prediction"
 description: "Accurately predicting trading volumes is crucial in algorithmic trading to optimize trade execution, minimize costs, and enhance strategies through precise market insights."
 ---
 

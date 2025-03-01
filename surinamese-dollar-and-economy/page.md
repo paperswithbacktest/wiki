@@ -1,5 +1,5 @@
 ---
-title: "Surinamese Dollar and Economy (Algo Trading)"
+title: "Surinamese Dollar and Economy"
 description: "Explore the impact of the Surinamese Dollar on Suriname's economy and the potential of algorithmic trading to enhance market efficiency and attract investments."
 ---
 

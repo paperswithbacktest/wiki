@@ -1,5 +1,5 @@
 ---
-title: "Specialization and Economies of Scale in Business (Algo Trading)"
+title: "Specialization and Economies of Scale in Business"
 description: "Explore how specialization and economies of scale drive growth in algorithmic trading with insights into strategies for enhanced efficiency and competitive edge."
 ---
 

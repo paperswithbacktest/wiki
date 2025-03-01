@@ -1,5 +1,5 @@
 ---
-title: "Sources for Historical Stock and Index Quotes (Algo Trading)"
+title: "Sources for Historical Stock and Index Quotes"
 description: "Enhance your investment strategies with access to historical stock and index quotes. This article explores various sources of historical financial data crucial for back-testing strategies and refining trading algorithms in algorithmic trading. Utilizing these resources can optimize trading strategies, identify trends, manage risk, and improve decision-making in financial markets. Discover the advantages of both free and paid data services to gain a competitive edge in your investment endeavors."
 ---
 

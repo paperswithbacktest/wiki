@@ -1,5 +1,5 @@
 ---
-title: "Optimization in Technical Analysis (Algo Trading)"
+title: "Optimization in Technical Analysis"
 description: "Explore optimization techniques integral to technical analysis and algorithmic trading Enhance trading strategies with data-driven insights for better financial outcomes"
 ---
 

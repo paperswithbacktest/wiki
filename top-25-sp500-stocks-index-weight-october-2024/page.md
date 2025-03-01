@@ -1,5 +1,5 @@
 ---
-title: "Top 25 S&P 500 Stocks by Index Weight in October 2024 (Algo Trading)"
+title: "Top 25 S&P 500 Stocks by Index Weight in October 2024"
 description: "Explore how algorithmic trading integrates with index weighting in the S&P 500 to enhance trading strategies. Understand the significance of market-cap weighting and alternative methods, their impact on performance, and how these insights can guide investors in managing risks and optimizing returns in evolving financial markets for potential growth."
 ---
 

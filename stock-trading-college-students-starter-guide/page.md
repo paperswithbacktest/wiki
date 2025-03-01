@@ -1,5 +1,5 @@
 ---
-title: "Stock Trading for College Students: A Starter Guide (Algo Trading)"
+title: "Stock Trading for College Students: A Starter Guide"
 description: "Explore stock trading and algorithmic trading for college students with our guide offering essential tips to build a solid financial foundation early on."
 ---
 

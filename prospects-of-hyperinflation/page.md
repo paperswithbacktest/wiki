@@ -1,5 +1,5 @@
 ---
-title: "Prospects of Hyperinflation (Algo Trading)"
+title: "Prospects of Hyperinflation"
 description: "Explore the looming threat of hyperinflation and discover how algorithmic trading enhances economic forecasting to navigate today's complex financial landscape."
 ---
 

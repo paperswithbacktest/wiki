@@ -1,5 +1,5 @@
 ---
-title: "Types of Investment Portfolios (Algo Trading)"
+title: "Types of Investment Portfolios"
 description: "Explore the synergy between investment portfolio management and algorithmic trading to optimize returns with balanced risk. Learn key strategies for modern investors."
 ---
 

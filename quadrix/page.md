@@ -1,5 +1,5 @@
 ---
-title: "Quadrix (Algo Trading)"
+title: "Quadrix"
 description: "Explore Quadrix algo trading to boost your investment strategies using advanced geometry and algorithms, gaining insights into stock performance metrics."
 ---
 

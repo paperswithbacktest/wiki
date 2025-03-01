@@ -1,5 +1,5 @@
 ---
-title: "Seasonal Adjustment Methods and Example (Algo Trading)"
+title: "Seasonal Adjustment Methods and Example"
 description: "Discover how seasonal adjustment methods enhance algorithmic trading by refining economic data analysis. Learn to master trends and reduce risks in fast-paced markets."
 ---
 

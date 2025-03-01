@@ -1,5 +1,5 @@
 ---
-title: "Zero-Coupon Swap (Algo Trading)"
+title: "Zero-Coupon Swap"
 description: "Explore the benefits and mechanics of zero-coupon swaps in algorithmic trading Enhance risk management and investment strategies with financial derivatives"
 ---
 

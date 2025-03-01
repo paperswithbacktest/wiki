@@ -1,5 +1,5 @@
 ---
-title: "Neutrality of Money Theory (Algo Trading)"
+title: "Neutrality of Money Theory"
 description: "Explore the interconnectedness of monetary theory the neutrality of money and algorithmic trading in shaping modern financial systems and their economic impact."
 ---
 

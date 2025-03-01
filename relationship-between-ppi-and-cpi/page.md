@@ -1,5 +1,5 @@
 ---
-title: "Relationship Between PPI and CPI (Algo Trading)"
+title: "Relationship Between PPI and CPI"
 description: "Explore the relationship between PPI and CPI in algorithmic trading Understand how these economic indicators are integrated into trading strategies to enhance decision-making"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "microstructure noise (Algo Trading)"
+title: "microstructure noise"
 description: "Understand microstructure noise in algorithmic trading: its causes, effects on pricing, and strategies to mitigate. Enhance your trading accuracy today."
 ---
 

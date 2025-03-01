@@ -1,5 +1,5 @@
 ---
-title: "Sponsor Programs and Pages (Algo Trading)"
+title: "Sponsor Programs and Pages"
 description: "Explore how corporate sponsorships enhance brand visibility and growth in algorithmic trading Learn about benefits risks and strategic insights for successful partnerships"
 ---
 

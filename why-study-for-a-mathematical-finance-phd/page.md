@@ -1,5 +1,5 @@
 ---
-title: "Why Study for a Mathematical Finance PhD? (Algo Trading)"
+title: "Why Study for a Mathematical Finance PhD?"
 description: Explore the advantages of pursuing a PhD in mathematical finance with a focus on algorithmic trading. Understand how this advanced degree provides the theoretical knowledge and analytical skills to develop sophisticated financial models and trading algorithms. Discover the vital role of mathematical finance in enhancing trading efficiency and risk management. Learn why experts in algorithmic trading are in high demand as financial markets evolve, offering intellectually and financially rewarding career opportunities.
 ---
 

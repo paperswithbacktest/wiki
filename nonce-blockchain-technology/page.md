@@ -1,5 +1,5 @@
 ---
-title: "Nonce in Blockchain Technology (Algo Trading)"
+title: "Nonce in Blockchain Technology"
 description: "Discover how cryptography, blockchain, and algorithmic trading intersect to enhance security, efficiency, and transparency in the evolving digital landscape."
 ---
 

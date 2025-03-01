@@ -1,5 +1,5 @@
 ---
-title: "National Association of Real Estate Investment Trusts (Algo Trading)"
+title: "National Association of Real Estate Investment Trusts"
 description: "Discover how REITs under Nareit's guidance and algorithmic trading are transforming real estate investment by optimizing strategies and maximizing returns."
 ---
 

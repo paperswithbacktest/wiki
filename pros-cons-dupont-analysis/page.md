@@ -1,5 +1,5 @@
 ---
-title: "Pros and Cons of DuPont Analysis (Algo Trading)"
+title: "Pros and Cons of DuPont Analysis"
 description: "Evaluate the benefits and limitations of DuPont Analysis in automated trading Learn how dissecting ROE into key components aids informed investment decisions"
 ---
 

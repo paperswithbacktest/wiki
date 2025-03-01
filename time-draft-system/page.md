@@ -1,5 +1,5 @@
 ---
-title: "Time Draft System (Algo Trading)"
+title: "Time Draft System"
 description: "Optimize your trading strategy with our Time Draft System for algorithmic trading. Enhance efficiency by leveraging process scheduling and time management techniques."
 ---
 

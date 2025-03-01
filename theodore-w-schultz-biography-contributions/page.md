@@ -1,5 +1,5 @@
 ---
-title: "Theodore W. Schultz: Biography and Contributions (Algo Trading)"
+title: "Theodore W. Schultz: Biography and Contributions"
 description: "Explore the groundbreaking work of Theodore W. Schultz in agricultural development and human capital theory to understand his lasting impact on economics."
 ---
 

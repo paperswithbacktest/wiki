@@ -1,5 +1,5 @@
 ---
-title: "Risk Assessment Methods and Comparison: Qualitative vs. Quantitative (Algo Trading)"
+title: "Risk Assessment Methods and Comparison: Qualitative vs. Quantitative"
 description: "Explore the intricacies of risk assessment in algorithmic trading by comparing quantitative and qualitative methods to optimize trading strategies and manage risks."
 ---
 

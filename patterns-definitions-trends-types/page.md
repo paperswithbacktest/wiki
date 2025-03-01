@@ -1,5 +1,5 @@
 ---
-title: "Patterns: Definitions, Trends, and Types (Algo Trading)"
+title: "Patterns: Definitions, Trends, and Types"
 description: "Explore the significance of patterns in algorithmic trading, uncovering types, trends, and their role in enhancing trading strategies for informed decision-making."
 ---
 

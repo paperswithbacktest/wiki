@@ -1,5 +1,5 @@
 ---
-title: "Populous World: Historical Significance and Functionality (Algo Trading)"
+title: "Populous World: Historical Significance and Functionality"
 description: "Explore the historical influence of population dynamics on economic growth and algorithmic trading. Understand demographic changes to optimize trading strategies."
 ---
 

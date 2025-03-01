@@ -1,5 +1,5 @@
 ---
-title: "Recommended Investment Books by Financial Advisors (Algo Trading)"
+title: "Recommended Investment Books by Financial Advisors"
 description: "Discover essential investment books endorsed by financial advisors to navigate the evolving markets. Explore algorithmic trading and gain crucial financial insights."
 ---
 

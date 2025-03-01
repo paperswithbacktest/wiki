@@ -1,5 +1,5 @@
 ---
-title: "Short Straddle Options Strategy and Examples (Algo Trading)"
+title: "Short Straddle Options Strategy and Examples"
 description: "Explore the mechanics of the short straddle options strategy in algorithmic trading. Learn about its profits, risks, and how technology can enhance execution."
 ---
 

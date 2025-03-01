@@ -1,5 +1,5 @@
 ---
-title: "Straight-Line Basis Calculation (Algo Trading)"
+title: "Straight-Line Basis Calculation"
 description: "Explore how the straight-line basis simplifies depreciation in algorithmic trading enhancing decision-making by maintaining predictable and consistent asset valuation."
 ---
 

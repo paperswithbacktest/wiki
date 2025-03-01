@@ -1,5 +1,5 @@
 ---
-title: "Transposition Error, Its Causes and Effects (Algo Trading)"
+title: "Transposition Error, Its Causes and Effects"
 description: "Explore the causes and impacts of transposition errors in algorithmic trading Learn strategies to detect prevent and correct these data entry mistakes"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SEC Form ATS-R (Algo Trading)"
+title: "SEC Form ATS-R"
 description: "Explore the significance of SEC Form ATS-R in regulating Alternative Trading Systems. This crucial form ensures transparency and compliance in algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Optimal Trading (Algo Trading)"
+title: "Optimal Trading"
 description: "Explore the transformative world of algorithmic trading which leverages advanced algorithms to improve trading efficiency reduce errors and ensure consistency."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mountain Range Alternatives (Algo Trading)"
+title: "Mountain Range Alternatives"
 description: "Explore the potential of Mountain Range Options in algorithmic trading Discover how these innovative financial instruments can enhance diversification and risk management strategies"
 ---
 

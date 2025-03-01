@@ -1,5 +1,5 @@
 ---
-title: "Passive Loss in Investing (Algo Trading)"
+title: "Passive Loss in Investing"
 description: "Explore the synergy between passive loss, investment strategies, and algorithmic trading to optimize portfolios with minimal effort and maximize long-term returns."
 ---
 

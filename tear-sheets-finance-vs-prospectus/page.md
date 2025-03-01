@@ -1,5 +1,5 @@
 ---
-title: "Tear Sheets in Finance and Their Comparison to a Prospectus (Algo Trading)"
+title: "Tear Sheets in Finance and Their Comparison to a Prospectus"
 description: "Explore how tear sheets, prospectuses, and algorithmic trading tools transform financial decision-making by providing crucial data, insights, and automation."
 ---
 

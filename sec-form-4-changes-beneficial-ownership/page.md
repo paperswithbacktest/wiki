@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 4: Changes in Beneficial Ownership (Algo Trading)"
+title: "SEC Form 4: Changes in Beneficial Ownership"
 description: "Explore the dynamics of SEC Form 4 involving changes in beneficial ownership and the impact of algorithmic trading on market transparency and decision-making."
 ---
 

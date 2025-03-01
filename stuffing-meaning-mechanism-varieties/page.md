@@ -1,5 +1,5 @@
 ---
-title: "Stuffing: Meaning, Mechanism, and Varieties (Algo Trading)"
+title: "Stuffing: Meaning, Mechanism, and Varieties"
 description: "Delve into the intricacies of stuffing mechanisms in algorithmic trading which optimize trading efficiency and market presence while managing potential risks."
 ---
 

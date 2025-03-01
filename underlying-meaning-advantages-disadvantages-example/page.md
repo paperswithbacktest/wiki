@@ -1,5 +1,5 @@
 ---
-title: "Underlying: Meaning, Advantages, Disadvantages, and Example (Algo Trading)"
+title: "Underlying: Meaning, Advantages, Disadvantages, and Example"
 description: "Explore the role of underlying assets in algorithmic trading covering their impact on trading strategy advantages and disadvantages for informed financial decisions."
 ---
 

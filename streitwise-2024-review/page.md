@@ -1,5 +1,5 @@
 ---
-title: "Streitwise 2024 Review (Algo Trading)"
+title: "Streitwise 2024 Review"
 description: "Streitwise offers an accessible real estate investment platform focusing on low fees and transparency ideal for individual investors seeking stable returns."
 ---
 

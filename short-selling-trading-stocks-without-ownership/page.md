@@ -1,5 +1,5 @@
 ---
-title: "Short Selling: Trading Stocks Without Ownership (Algo Trading)"
+title: "Short Selling: Trading Stocks Without Ownership"
 description: "Explore short selling and algorithmic trading to understand how investors capitalize on stock price movements while navigating the associated risks and rewards."
 ---
 

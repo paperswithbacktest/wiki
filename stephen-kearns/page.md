@@ -1,5 +1,5 @@
 ---
-title: "Stephen Kearns (Algo Trading)"
+title: "Stephen Kearns"
 description: "Stephen Kearns is a successful algorithmic trader at Akuna Capital with a strong educational background and diverse career experience in finance and risk management."
 ---
 

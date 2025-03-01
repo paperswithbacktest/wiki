@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Margin: Mechanism and Functionality (Algo Trading)"
+title: "Portfolio Margin: Mechanism and Functionality"
 description: "Discover the intricate world of investment strategies portfolio margin financial leverage and algorithmic trading to optimize returns and manage risks effectively"
 ---
 

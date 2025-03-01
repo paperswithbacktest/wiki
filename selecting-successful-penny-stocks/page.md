@@ -1,5 +1,5 @@
 ---
-title: "Selecting Successful Penny Stocks (Algo Trading)"
+title: "Selecting Successful Penny Stocks"
 description: "Explore strategies for selecting penny stocks using algorithmic trading to maximize returns and manage risks. Learn how technology enhances investment decisions."
 ---
 

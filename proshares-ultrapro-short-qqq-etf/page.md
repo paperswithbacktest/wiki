@@ -1,5 +1,5 @@
 ---
-title: "ProShares UltraPro Short QQQ ETF (SQQQ) (Algo Trading)"
+title: "ProShares UltraPro Short QQQ ETF (SQQQ)"
 description: "Discover ProShares UltraPro Short QQQ ETF SQQQ focusing on 3x leveraged inverse trading and algorithmic strategies ideal for short-term market downturns."
 ---
 

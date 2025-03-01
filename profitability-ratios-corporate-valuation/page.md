@@ -1,5 +1,5 @@
 ---
-title: "Profitability Ratios and Corporate Valuation (Algo Trading)"
+title: "Profitability Ratios and Corporate Valuation"
 description: "Explore how profitability ratios aid corporate valuation and their role in algorithmic trading This article helps investors assess risk and make informed decisions"
 ---
 

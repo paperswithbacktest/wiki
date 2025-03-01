@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Indicators for Overbought and Oversold Conditions (Algo Trading)"
+title: "Stock Market Indicators for Overbought and Oversold Conditions"
 description: "Discover essential stock market indicators like RSI and Stochastics for identifying overbought and oversold conditions, crucial for effective algo trading strategies."
 ---
 

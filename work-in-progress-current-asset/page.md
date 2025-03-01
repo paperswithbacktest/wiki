@@ -1,5 +1,5 @@
 ---
-title: "Work in Progress as a Current Asset (Algo Trading)"
+title: "Work in Progress as a Current Asset"
 description: "Explore how Work in Progress (WIP) as a current asset influences inventory valuation and algorithmic trading, offering insights for strategic financial decisions."
 ---
 

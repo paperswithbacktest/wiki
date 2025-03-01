@@ -1,5 +1,5 @@
 ---
-title: "Super NOW Account (Algo Trading)"
+title: "Super NOW Account"
 description: "Explore Super NOW accounts and algorithmic trading to boost your financial strategies. Learn about interest-bearing accounts and fast-paced trading efficiency today."
 ---
 

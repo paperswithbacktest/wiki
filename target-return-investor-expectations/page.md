@@ -1,5 +1,5 @@
 ---
-title: "Target Return and Investor Expectations (Algo Trading)"
+title: "Target Return and Investor Expectations"
 description: "Explore the impact of algorithmic trading on target return and investment expectations in finance. Learn how algorithms optimize ROI and enhance strategy precision."
 ---
 

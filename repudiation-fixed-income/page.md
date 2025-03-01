@@ -1,5 +1,5 @@
 ---
-title: "Repudiation in Fixed Income (Algo Trading)"
+title: "Repudiation in Fixed Income"
 description: "Explore the intricacies of fixed income repudiation and the transformative role of algorithmic trading in modern financial markets, enhancing investment strategies."
 ---
 

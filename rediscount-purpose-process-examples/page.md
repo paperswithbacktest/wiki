@@ -1,5 +1,5 @@
 ---
-title: "Rediscount: Purpose, Process, Examples (Algo Trading)"
+title: "Rediscount: Purpose, Process, Examples"
 description: "Explore the purpose and process of rediscount banking and its role in liquidity and economic stability alongside the impact of algorithmic trading."
 ---
 

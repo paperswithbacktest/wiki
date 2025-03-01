@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Managing Political Risk in Business (Algo Trading)"
+title: "Strategies for Managing Political Risk in Business"
 description: "Explore strategies for managing political risks and algorithmic trading in business Learn tools to mitigate risks enhance growth and navigate global markets effectively"
 ---
 

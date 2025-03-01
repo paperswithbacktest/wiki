@@ -1,5 +1,5 @@
 ---
-title: "Nasdaq Pre-Market Operations (Algo Trading)"
+title: "Nasdaq Pre-Market Operations"
 description: "Discover early trading opportunities and handle risks with Nasdaq's pre-market trading from 4 a.m. ET utilizing advanced algorithmic trading strategies."
 ---
 

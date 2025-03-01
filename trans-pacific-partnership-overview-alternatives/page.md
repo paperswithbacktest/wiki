@@ -1,5 +1,5 @@
 ---
-title: "Trans-Pacific Partnership: Overview and Alternatives (Algo Trading)"
+title: "Trans-Pacific Partnership: Overview and Alternatives"
 description: "Explore the rise and fall of the Trans-Pacific Partnership and its alternatives Discover how algorithmic trading influences global trade agreements today"
 ---
 

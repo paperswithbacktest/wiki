@@ -1,5 +1,5 @@
 ---
-title: "Stage Analysis in Trading (Algo Trading)"
+title: "Stage Analysis in Trading"
 description: "Discover how stage analysis and algorithmic trading enhance market navigation. Learn to identify market phases and adapt strategies for optimal trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Client Order: Overview and Functionality (Algo Trading)"
+title: "Non-Client Order: Overview and Functionality"
 description: "Explore the dynamics of non-client orders in algo trading Understand how these transactions impact modern trading enhancing transparency and market integrity"
 ---
 

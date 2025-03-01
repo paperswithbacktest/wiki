@@ -1,5 +1,5 @@
 ---
-title: "Sticky-Down Economics (Algo Trading)"
+title: "Sticky-Down Economics"
 description: "Explore the sticky-down phenomenon in price stickiness and its impact on market dynamics and algorithmic trading. Gain insights into optimizing trading strategies."
 ---
 

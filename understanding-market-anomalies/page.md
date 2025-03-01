@@ -1,5 +1,5 @@
 ---
-title: "Understanding Market Anomalies (Algo Trading)"
+title: "Understanding Market Anomalies"
 description: "Explore the intriguing world of market anomalies in algo trading where traders leverage inconsistencies that challenge the efficient market hypothesis for strategic gains."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Normalcy Bias and Its Impact on Investment Strategies (Algo Trading)"
+title: "Normalcy Bias and Its Impact on Investment Strategies"
 description: "Discover how normalcy bias affects investment decisions and how algo trading can mitigate its impact leading to more rational and resilient strategies."
 ---
 

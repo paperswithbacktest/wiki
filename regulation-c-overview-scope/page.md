@@ -1,5 +1,5 @@
 ---
-title: "Regulation C: Overview and Scope (Algo Trading)"
+title: "Regulation C: Overview and Scope"
 description: "Explore the intricacies of Regulation C and its impact on algorithmic trading, focusing on transparency, compliance, and the challenges faced by market participants."
 ---
 

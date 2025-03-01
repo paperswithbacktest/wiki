@@ -1,5 +1,5 @@
 ---
-title: "Net Exposure: Concepts, Examples, and Risks (Algo Trading)"
+title: "Net Exposure: Concepts, Examples, and Risks"
 description: "Explore crucial concepts such as net exposure, financial risk, and algorithmic trading to form effective investment strategies in today's dynamic markets."
 ---
 

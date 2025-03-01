@@ -1,5 +1,5 @@
 ---
-title: "RICS House Price Balance (Algo Trading)"
+title: "RICS House Price Balance"
 description: "Explore the UK real estate market with insights from the RICS House Price Balance and algorithmic trading to make informed investment decisions."
 ---
 

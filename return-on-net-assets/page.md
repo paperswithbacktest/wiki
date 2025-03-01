@@ -1,5 +1,5 @@
 ---
-title: "Return on Net Assets (Algo Trading)"
+title: "Return on Net Assets"
 description: "Explore how Return on Net Assets (RONA) enhances algorithmic trading by optimizing asset utilization. Understand RONA's calculation for smarter investment."
 ---
 

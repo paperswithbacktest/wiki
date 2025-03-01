@@ -1,5 +1,5 @@
 ---
-title: "Trendless Trading and Market Volatility (Algo Trading)"
+title: "Trendless Trading and Market Volatility"
 description: "Explore the intricacies of trendless markets and market volatility and learn how algorithmic trading strategies can optimize trading results in unpredictable environments."
 ---
 

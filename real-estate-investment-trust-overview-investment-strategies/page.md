@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Investment Trust: Overview and Investment Strategies (Algo Trading)"
+title: "Real Estate Investment Trust: Overview and Investment Strategies"
 description: "Explore how Real Estate Investment Trusts (REITs) and algorithmic trading strategies revolutionize real estate investment, enhancing returns and portfolio management."
 ---
 

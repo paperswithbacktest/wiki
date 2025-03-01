@@ -1,5 +1,5 @@
 ---
-title: "Practical Indication Explanation (Algo Trading)"
+title: "Practical Indication Explanation"
 description: "Explore the world of algorithmic trading where predefined rules power trade automation Process data swiftly to optimize decisions and minimize risks efficiently"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Plunge Protection Team (Algo Trading)"
+title: "Plunge Protection Team"
 description: "Explore the role of the Plunge Protection Team in stabilizing US markets amidst volatility focusing on advisory measures and implications for algorithmic trading."
 ---
 

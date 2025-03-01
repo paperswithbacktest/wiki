@@ -1,5 +1,5 @@
 ---
-title: "Residual Income and Its Types (Algo Trading)"
+title: "Residual Income and Its Types"
 description: "Explore the nuances of residual and passive income, from royalties and rental earnings to algorithmic trading, for a diversified financial portfolio approach."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Tanius Technology (Algo Trading)"
+title: "Tanius Technology"
 description: "Discover Tanius Technology's innovative algo trading solutions revolutionizing the financial market through advanced algorithms AI-driven insights and cutting-edge tools."
 ---
 

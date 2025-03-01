@@ -1,5 +1,5 @@
 ---
-title: "Money Flow Basics (Algo Trading)"
+title: "Money Flow Basics"
 description: "Explore money flow basics, currency movements, and algorithmic trading to enhance your financial market strategies. Master these skills for better investment outcomes."
 ---
 

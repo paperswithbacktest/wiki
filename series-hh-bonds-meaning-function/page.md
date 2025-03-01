@@ -1,5 +1,5 @@
 ---
-title: "Series HH Bonds: Meaning and Function (Algo Trading)"
+title: "Series HH Bonds: Meaning and Function"
 description: "Explore the significance of Series HH Bonds, a non-marketable U.S. government bond known for fixed interest and 20-year terms, within algorithmic trading."
 ---
 

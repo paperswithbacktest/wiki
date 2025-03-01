@@ -1,5 +1,5 @@
 ---
-title: "Profit Strategies Using Butterfly Spreads (Algo Trading)"
+title: "Profit Strategies Using Butterfly Spreads"
 description: "Explore butterfly spreads for options trading a strategy ideal for low-volatility markets offering balanced risk-reward profiles via algorithmic trading techniques"
 ---
 

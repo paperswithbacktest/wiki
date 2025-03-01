@@ -1,5 +1,5 @@
 ---
-title: "Truck Tonnage Index Overview (Algo Trading)"
+title: "Truck Tonnage Index Overview"
 description: "Explore the Truck Tonnage Index to understand freight activity and demand trends Enhance your logistics strategies with key metrics and algorithmic insights"
 ---
 

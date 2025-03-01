@@ -1,5 +1,5 @@
 ---
-title: "Potential Recovery of Selected Oil and Gas Stocks (Algo Trading)"
+title: "Potential Recovery of Selected Oil and Gas Stocks"
 description: "Explore the recovery potential of oil and gas stocks and how algorithmic trading can capitalize on market shifts. Ideal for investors seeking strategic insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Regulations Impacting The Automotive Industry (Algo Trading)"
+title: "Regulations Impacting The Automotive Industry"
 description: "Discover how regulations shape the global automotive industry safeguarding safety, sustainability, and fair sales while algorithmic trading revolutionizes market dynamics."
 ---
 

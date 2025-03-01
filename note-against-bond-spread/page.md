@@ -1,5 +1,5 @@
 ---
-title: "Note Against Bond Spread (Algo Trading)"
+title: "Note Against Bond Spread"
 description: "Explore the synergy between bond spreads and algorithmic trading in this insightful guide Enhance your investment strategies with data-driven approaches in modern markets"
 ---
 

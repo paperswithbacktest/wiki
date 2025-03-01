@@ -1,5 +1,5 @@
 ---
-title: "Uruguayan Peso (Algo Trading)"
+title: "Uruguayan Peso"
 description: "Explore the Uruguayan Peso and algorithmic trading's role in forex markets. Understand economic factors affecting UYU and seize investment opportunities in Uruguay."
 ---
 

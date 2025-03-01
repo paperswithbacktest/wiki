@@ -1,5 +1,5 @@
 ---
-title: "Use of Seasonally Adjusted Consumer Price Index Data (Algo Trading)"
+title: "Use of Seasonally Adjusted Consumer Price Index Data"
 description: "Explore how seasonally adjusted Consumer Price Index data enhances algorithmic trading strategies by providing clearer insights into inflation trends and market dynamics."
 ---
 

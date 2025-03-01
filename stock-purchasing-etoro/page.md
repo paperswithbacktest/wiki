@@ -1,5 +1,5 @@
 ---
-title: "Stock Purchasing on eToro (Algo Trading)"
+title: "Stock Purchasing on eToro"
 description: "Explore how eToro combines social trading with algorithmic trading, empowering investors with innovative tools and features to optimize stock trading decisions. Achieve strategic insights through automated strategies while leveraging eToro's community-driven trading environment for enhanced market success."
 ---
 

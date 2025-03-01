@@ -1,5 +1,5 @@
 ---
-title: "Organization of the Petroleum Exporting Countries (Algo Trading)"
+title: "Organization of the Petroleum Exporting Countries"
 description: "Explore the dynamic relationship between OPEC's oil production strategies and algorithmic trading in the global markets. Understand how traders optimize strategies in response to OPEC's decisions, leveraging technology for profitability amidst fluctuating oil prices. Uncover insights into balancing economic and political factors within the world of commodity trading."
 ---
 

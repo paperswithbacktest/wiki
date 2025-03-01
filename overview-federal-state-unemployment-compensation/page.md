@@ -1,5 +1,5 @@
 ---
-title: "Overview of Federal and State Unemployment Compensation (Algo Trading)"
+title: "Overview of Federal and State Unemployment Compensation"
 description: "Navigate federal and state unemployment benefits systems for financial support during job transitions while understanding algorithmic trading's impact on modern markets."
 ---
 

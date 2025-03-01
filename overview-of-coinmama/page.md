@@ -1,5 +1,5 @@
 ---
-title: "Overview of Coinmama (Algo Trading)"
+title: "Overview of Coinmama"
 description: "Coinmama offers a beginner-friendly cryptocurrency trading platform, prioritizing simplicity, user security, and support, but with limited crypto options."
 ---
 

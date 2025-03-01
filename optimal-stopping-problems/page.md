@@ -1,5 +1,5 @@
 ---
-title: "Optimal stopping problems (Algo Trading)"
+title: "Optimal stopping problems"
 description: "Explore optimal stopping problems in algorithmic trading to enhance strategic decision-making. Learn about their mathematical foundations for better trade timing."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Public Review Process (Algo Trading)"
+title: "Public Review Process"
 description: "Explore the transformative impact of algorithmic trading in global markets: a fusion of sophisticated algorithms executing trades at unprecedented speeds. Feedback systems play a vital role, providing critical insights to optimize algorithm performance. This article investigates into diverse feedback mechanisms used in algo trading, offering valuable insights to traders, developers, and investors. Understand how public reviews and evaluation feedback are pivotal in refining trading strategies, ensuring adaptability to market changes, and driving innovation in algorithmic trading for a more efficient financial landscape."
 ---
 

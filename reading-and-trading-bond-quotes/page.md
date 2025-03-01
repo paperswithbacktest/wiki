@@ -1,5 +1,5 @@
 ---
-title: "Reading and Trading Bond Quotes (Algo Trading)"
+title: "Reading and Trading Bond Quotes"
 description: "Discover the world of bond trading to understand bond quotes which reveal price and yield insights crucial for informed investment strategies in algo trading."
 ---
 

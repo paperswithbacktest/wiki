@@ -1,5 +1,5 @@
 ---
-title: "Potential Consequences of Eurozone Currency Collapse (Algo Trading)"
+title: "Potential Consequences of Eurozone Currency Collapse"
 description: "Explore the potential consequences of a Eurozone currency collapse, its impact on global markets, and the role of algorithmic trading in such a volatile scenario."
 ---
 

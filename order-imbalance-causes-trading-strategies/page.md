@@ -1,5 +1,5 @@
 ---
-title: "Order Imbalance: Causes and Trading Strategies (Algo Trading)"
+title: "Order Imbalance: Causes and Trading Strategies"
 description: "Explore causes of order imbalance and effective trading strategies in algorithmic trading. Enhance your market understanding to optimize trading decisions."
 ---
 

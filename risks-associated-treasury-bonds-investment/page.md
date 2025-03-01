@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated with Treasury Bonds Investment (Algo Trading)"
+title: "Risks Associated with Treasury Bonds Investment"
 description: "Explore the risks of investing in treasury bonds including interest rate and inflation risks and learn how algorithmic trading can aid in risk management."
 ---
 

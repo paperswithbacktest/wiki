@@ -1,5 +1,5 @@
 ---
-title: "Suspense Account: Functionality and Examples (Algo Trading)"
+title: "Suspense Account: Functionality and Examples"
 description: "Discover the pivotal role of suspense accounts in the evolving landscape of algorithmic trading. Explore how they manage transactional ambiguities, enhance financial reporting accuracy, and contribute to effective financial management. Suspense accounts are vital for navigating the complexities of modern finance by ensuring transparency and reliability in transaction processing within the dynamic world of trading technologies."
 ---
 

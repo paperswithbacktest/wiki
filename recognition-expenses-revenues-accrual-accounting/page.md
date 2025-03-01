@@ -1,5 +1,5 @@
 ---
-title: "Recognition of Expenses and Revenues in Accrual Accounting (Algo Trading)"
+title: "Recognition of Expenses and Revenues in Accrual Accounting"
 description: "Explore how accrual accounting principles enhance financial reporting precision and their synergy with algorithmic trading strategies for optimized business operations."
 ---
 

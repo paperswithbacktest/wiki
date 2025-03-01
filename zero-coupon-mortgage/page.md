@@ -1,5 +1,5 @@
 ---
-title: "Zero-Coupon Mortgage (Algo Trading)"
+title: "Zero-Coupon Mortgage"
 description: "Explore zero-coupon mortgages that defer payments until maturity offering potential benefits and risks Understanding them enhances financial decision-making."
 ---
 

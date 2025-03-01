@@ -1,5 +1,5 @@
 ---
-title: "Researching Volatile Stocks (Algo Trading)"
+title: "Researching Volatile Stocks"
 description: "Explore the intricate world of volatile stocks through the lens of algorithmic trading and financial analysis to enhance your investment strategies."
 ---
 

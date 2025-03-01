@@ -1,5 +1,5 @@
 ---
-title: "Universal Service Fund: Overview and Future (Algo Trading)"
+title: "Universal Service Fund: Overview and Future"
 description: "Explore the Universal Service Fund's role in telecommunications ensuring equitable access, while addressing funding challenges and the potential of algorithmic trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Outside Reversal in Technical Analysis (Algo Trading)"
+title: "Outside Reversal in Technical Analysis"
 description: "Explore the significance of the outside reversal pattern in stock trading and algorithmic trading strategies, identifying market trends for enhanced decision-making."
 ---
 

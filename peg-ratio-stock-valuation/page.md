@@ -1,5 +1,5 @@
 ---
-title: "PEG Ratio and Its Significance for Stock Valuation (Algo Trading)"
+title: "PEG Ratio and Its Significance for Stock Valuation"
 description: "Explore how the PEG ratio enhances stock valuation by incorporating growth potential and how its integration with algorithmic trading can optimize investment strategies."
 ---
 

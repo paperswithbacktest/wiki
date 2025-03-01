@@ -1,5 +1,5 @@
 ---
-title: "Tenancy in Common: Functionality and Comparisons (Algo Trading)"
+title: "Tenancy in Common: Functionality and Comparisons"
 description: "Explore key concepts in investment and finance by comparing tenancy in common and algorithmic trading. Discover how these strategies can optimize returns."
 ---
 

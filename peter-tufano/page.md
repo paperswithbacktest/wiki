@@ -1,5 +1,5 @@
 ---
-title: "Peter Tufano (Algo Trading)"
+title: "Peter Tufano"
 description: "Discover the remarkable career of Peter Tufano a leading expert in finance and algorithmic trading renowned for his academic and professional achievements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "National Insurance Contributions Overview (Algo Trading)"
+title: "National Insurance Contributions Overview"
 description: "Explore the impact of National Insurance Contributions on algorithmic trading. Discover how fiscal policies like NICs influence financial markets and trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Navigating Cryptocurrency Market Downturns (Algo Trading)"
+title: "Strategies for Navigating Cryptocurrency Market Downturns"
 description: "Learn effective strategies for navigating the cryptocurrency market downturns with algorithmic trading insights to manage risks and maximize opportunities."
 ---
 

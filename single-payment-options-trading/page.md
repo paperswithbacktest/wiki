@@ -1,5 +1,5 @@
 ---
-title: "Single Payment Options Trading (Algo Trading)"
+title: "Single Payment Options Trading"
 description: "Explore the synergy between options trading and algorithmic strategies and discover how single payment options can enhance financial market performance with reduced risks."
 ---
 

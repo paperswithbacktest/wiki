@@ -1,5 +1,5 @@
 ---
-title: "Puke: Meaning, Mechanism, and Examples (Algo Trading)"
+title: "Puke: Meaning, Mechanism, and Examples"
 description: "Explore the emotional impact of trading with an in-depth look at the 'puke' phenomenon and the humorous Vomiting Camel Pattern in algorithmic trading."
 ---
 

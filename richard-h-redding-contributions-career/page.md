@@ -1,5 +1,5 @@
 ---
-title: "Richard H. Redding: Notable Contributions and Career (Algo Trading)"
+title: "Richard H. Redding: Notable Contributions and Career"
 description: "Explore the notable career of Richard H. Redding whose impactful contributions to algorithmic trading have shaped modern financial markets and practices."
 ---
 

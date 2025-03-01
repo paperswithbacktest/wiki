@@ -1,5 +1,5 @@
 ---
-title: "Overview of Corporate Bonds Prospectus (Algo Trading)"
+title: "Overview of Corporate Bonds Prospectus"
 description: "Explore how corporate bond prospectuses and algorithmic trading synergize to form strategic investment approaches in today's dynamic financial landscape."
 ---
 

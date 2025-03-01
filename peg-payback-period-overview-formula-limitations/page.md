@@ -1,5 +1,5 @@
 ---
-title: "PEG Payback Period: Overview, Formula, and Limitations (Algo Trading)"
+title: "PEG Payback Period: Overview, Formula, and Limitations"
 description: "Explore how the payback period and PEG ratio enhance trading strategies through algorithmic trading unlocking quicker investment assessments and decision-making."
 ---
 

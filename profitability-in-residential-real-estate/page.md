@@ -1,5 +1,5 @@
 ---
-title: "Profitability in Residential Real Estate (Algo Trading)"
+title: "Profitability in Residential Real Estate"
 description: "Explore the profitability of residential real estate with algorithmic trading Discover how leveraging technology and data can elevate your investment strategy"
 ---
 

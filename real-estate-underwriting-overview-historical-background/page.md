@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Underwriting: Overview and Historical Background (Algo Trading)"
+title: "Real Estate Underwriting: Overview and Historical Background"
 description: "Explore the intricate world of real estate underwriting where algorithmic trading transforms risk assessment and market evaluation in property transactions."
 ---
 

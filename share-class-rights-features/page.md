@@ -1,5 +1,5 @@
 ---
-title: "Share Class: Rights and Features (Algo Trading)"
+title: "Share Class: Rights and Features"
 description: "Explore the impact of share class differentiation and shareholder rights on algorithmic trading strategies in financial markets. Empower investment decisions with AI insights."
 ---
 

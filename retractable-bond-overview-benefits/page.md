@@ -1,5 +1,5 @@
 ---
-title: "Retractable Bond: Overview and Benefits (Algo Trading)"
+title: "Retractable Bond: Overview and Benefits"
 description: "Explore the dynamic world of retractable bonds and bond ladders to manage risks and secure consistent returns with algorithmic trading strategies."
 ---
 

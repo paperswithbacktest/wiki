@@ -1,5 +1,5 @@
 ---
-title: "Vectorization (Algo Trading)"
+title: "Vectorization"
 description: Enhance your understanding of vectorization in algorithmic trading by exploring its role in improving backtesting efficiencies. Learn how NumPy and pandas libraries streamline data operations, reducing computational time and elevating code clarity. Discover practical applications in finance, such as moving averages and momentum trading, to develop more robust trading strategies. 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Value and Its Maximization (Algo Trading)"
+title: "Shareholder Value and Its Maximization"
 description: "Explore the impact of maximizing shareholder value through algorithmic trading and strategic management. Learn how financial strategies enhance profitability."
 ---
 

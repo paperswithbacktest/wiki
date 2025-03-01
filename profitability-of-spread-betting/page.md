@@ -1,5 +1,5 @@
 ---
-title: "Profitability of Spread Betting (Algo Trading)"
+title: "Profitability of Spread Betting"
 description: "Explore the significant profitability potential in spread betting and algorithmic trading through leveraged bets and automated execution. Enhance market strategies and gains."
 ---
 

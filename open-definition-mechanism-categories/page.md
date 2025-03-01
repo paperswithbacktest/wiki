@@ -1,5 +1,5 @@
 ---
-title: "Open: Definition, Mechanism, and Categories (Algo Trading)"
+title: "Open: Definition, Mechanism, and Categories"
 description: "Discover open algorithmic trading's role in modern finance by exploring its definitions mechanisms and categories. Learn how it impacts trading strategies today."
 ---
 

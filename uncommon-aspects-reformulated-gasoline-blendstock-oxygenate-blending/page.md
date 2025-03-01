@@ -1,5 +1,5 @@
 ---
-title: "Uncommon Aspects of Reformulated Gasoline Blendstock for Oxygenate Blending (Algo Trading)"
+title: "Uncommon Aspects of Reformulated Gasoline Blendstock for Oxygenate Blending"
 description: "Explore the impact of algorithmic trading on the RBOB gasoline market enhancing efficiency accuracy and transparency in fuel industry trading dynamics."
 ---
 

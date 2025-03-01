@@ -1,5 +1,5 @@
 ---
-title: "Risk Premia Strategies (Algo Trading)"
+title: "Risk Premia Strategies"
 description: "Explore the benefits and risks of risk premia strategies in algo trading and learn how they can improve trading decisions through systematic approaches."
 ---
 

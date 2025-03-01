@@ -1,5 +1,5 @@
 ---
-title: "Short Call in Options Trading (Algo Trading)"
+title: "Short Call in Options Trading"
 description: "Explore the world of options trading with a focus on short call strategies within algorithmic trading. Learn how selling a call option works, the associated risks and rewards, and how to integrate these strategies into automated systems for efficient execution. This guide offers insights for both novice and seasoned traders looking to enhance their trading toolkit and navigate modern financial markets confidently. Discover the benefits of algorithmic solutions in managing short call strategies and making informed trading decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Triple Play: Overview and Analysis (Algo Trading)"
+title: "Triple Play: Overview and Analysis"
 description: "Explore the synergy of triple play scenarios in algo trading to optimize market outcomes Leverage insights on revenue earnings and guidance for strategic gains"
 ---
 

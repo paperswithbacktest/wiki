@@ -1,5 +1,5 @@
 ---
-title: "Quantumrock Capital (Algo Trading)"
+title: "Quantumrock Capital"
 description: "Quantumrock Capital leverages cutting-edge algorithmic trading technology to optimize strategies and enhance market outcomes focusing on innovation and AI."
 ---
 

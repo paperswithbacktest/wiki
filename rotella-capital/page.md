@@ -1,5 +1,5 @@
 ---
-title: "Rotella Capital (Algo Trading)"
+title: "Rotella Capital"
 description: "Rotella Capital Management leads in algorithmic trading with cutting-edge technology and data-driven strategies for optimal trading performance and investor confidence."
 ---
 

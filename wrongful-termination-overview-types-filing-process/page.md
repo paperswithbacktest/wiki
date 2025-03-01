@@ -1,5 +1,5 @@
 ---
-title: "Wrongful Termination: Overview, Types, and Filing Process (Algo Trading)"
+title: "Wrongful Termination: Overview, Types, and Filing Process"
 description: "Explore wrongful termination in algorithmic trading including its types and how to file a claim Understand rights and protections in this tech-driven sector"
 ---
 

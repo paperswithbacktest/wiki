@@ -1,5 +1,5 @@
 ---
-title: "Placement in Finance: Regulations and Risks (Algo Trading)"
+title: "Placement in Finance: Regulations and Risks"
 description: "Explore the regulations and risks of algorithmic trading in finance Discover how technological advancements are reshaping investment strategies and capital raising"
 ---
 

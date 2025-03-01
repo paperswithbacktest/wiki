@@ -1,5 +1,5 @@
 ---
-title: "Non-Equity Options: Definition and Mechanism (Algo Trading)"
+title: "Non-Equity Options: Definition and Mechanism"
 description: "Explore the dynamics of non-equity options and algorithmic trading in financial markets including strategies for risk management diversification and leveraging."
 ---
 

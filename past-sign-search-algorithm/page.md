@@ -1,5 +1,5 @@
 ---
-title: "PAst Sign Search algorithm (Algo Trading)"
+title: "PAst Sign Search algorithm"
 description: "Discover the PAst Sign Search algorithm's unique ability to utilize historical data for precise predictions and improve decision-making in algorithmic trading."
 ---
 

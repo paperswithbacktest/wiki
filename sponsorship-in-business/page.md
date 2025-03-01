@@ -1,5 +1,5 @@
 ---
-title: "Sponsorship in Business (Algo Trading)"
+title: "Sponsorship in Business"
 description: "Explore the intersection of advertising sponsorship, business partnerships, and algorithmic trading for modern businesses navigating opportunities and market challenges."
 ---
 

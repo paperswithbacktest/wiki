@@ -1,5 +1,5 @@
 ---
-title: "Out-of-State Property Investment (Algo Trading)"
+title: "Out-of-State Property Investment"
 description: "Explore the benefits and challenges of out-of-state real estate investment enhanced by algorithmic trading Insights into maximizing returns while managing risks."
 ---
 

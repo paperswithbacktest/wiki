@@ -1,5 +1,5 @@
 ---
-title: "Switching: Mechanisms, Operations, and Limitations (Algo Trading)"
+title: "Switching: Mechanisms, Operations, and Limitations"
 description: "Explore the essential role of switching mechanisms in algorithmic trading and networking systems from types and operations to overcoming technological limitations."
 ---
 

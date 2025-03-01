@@ -1,5 +1,5 @@
 ---
-title: "Quota (Algo Trading)"
+title: "Quota"
 description: "Understand how allocation quotas manage capital in algorithmic trading ensuring efficient distribution and risk control for optimized trade execution and strategy success."
 ---
 

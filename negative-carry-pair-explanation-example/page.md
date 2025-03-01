@@ -1,5 +1,5 @@
 ---
-title: "Negative Carry Pair: Explanation and Example (Algo Trading)"
+title: "Negative Carry Pair: Explanation and Example"
 description: "Discover the nuances of negative carry pair trading in forex and learn how algo trading can optimize strategies to maximize potential returns in volatile markets."
 ---
 

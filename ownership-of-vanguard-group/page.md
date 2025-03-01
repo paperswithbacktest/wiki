@@ -1,5 +1,5 @@
 ---
-title: "Ownership of Vanguard Group (Algo Trading)"
+title: "Ownership of Vanguard Group"
 description: "Discover how Vanguard Group revolutionizes investment management through its unique mutual ownership model and advanced algorithmic trading. This approach allows Vanguard to deliver low-cost, transparent investment options while aligning with investor interests. Explore Vanguard's commitment to innovation and efficiency, ensuring optimal investment performance in a rapidly evolving financial landscape."
 ---
 

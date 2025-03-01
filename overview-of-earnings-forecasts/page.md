@@ -1,5 +1,5 @@
 ---
-title: "Overview of Earnings Forecasts (Algo Trading)"
+title: "Overview of Earnings Forecasts"
 description: "Explore the transformative role of AI in algorithmic trading Discover how advanced algorithms enhance market prediction improve trade efficiency and shape future strategies"
 ---
 

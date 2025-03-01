@@ -1,5 +1,5 @@
 ---
-title: "Price-to-Rent Ratio: Assessing Buy vs. Rent Decision (Algo Trading)"
+title: "Price-to-Rent Ratio: Assessing Buy vs. Rent Decision"
 description: "Explore how the Price-to-Rent Ratio and algorithmic trading insights can guide housing market decisions balancing buying vs renting options for optimal value."
 ---
 

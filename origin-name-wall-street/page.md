@@ -1,5 +1,5 @@
 ---
-title: "Origin of the Name 'Wall Street' (Algo Trading)"
+title: "Origin of the Name 'Wall Street'"
 description: "Explore the historical roots and modern impact of Wall Street and algorithmic trading The article examines their origins and how technology shapes financial markets today"
 ---
 

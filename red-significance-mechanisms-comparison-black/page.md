@@ -1,5 +1,5 @@
 ---
-title: "Red: Significance, Mechanisms, and Comparison with Black (Algo Trading)"
+title: "Red: Significance, Mechanisms, and Comparison with Black"
 description: "Explore how the colors red and black impact algorithmic trading through their cultural and psychological significance, enhancing decision-making and strategy."
 ---
 

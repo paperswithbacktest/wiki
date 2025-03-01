@@ -1,5 +1,5 @@
 ---
-title: "Numismatics: Meaning, Qualifications, and Examples (Algo Trading)"
+title: "Numismatics: Meaning, Qualifications, and Examples"
 description: "Explore the enduring allure of numismatics and its intersection with algorithmic trading highlighting their historical and modern financial significance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Par Value of Stocks and Bonds (Algo Trading)"
+title: "Par Value of Stocks and Bonds"
 description: "Explore integral financial concepts like par value in stocks and bonds, and understand algorithmic trading's impact on modern investment strategies for informed decision-making."
 ---
 

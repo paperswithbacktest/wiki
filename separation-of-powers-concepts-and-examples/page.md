@@ -1,5 +1,5 @@
 ---
-title: "Separation of Powers: Concepts and Examples (Algo Trading)"
+title: "Separation of Powers: Concepts and Examples"
 description: "Explore the integral role of the separation of powers in maintaining balanced governance and accountability across political and economic systems. This article investigates into the influence of this principle on government structures and algorithmic trading, highlighting how these domains intersect in modern contexts to enhance understanding of governance frameworks and financial systems. Discover insights into the distribution of authority in political theories and its applications in business management, corporate governance, and financial market regulations, illustrating the principle's significance in promoting fairness and market stability."
 ---
 

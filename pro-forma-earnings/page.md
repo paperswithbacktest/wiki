@@ -1,5 +1,5 @@
 ---
-title: "Pro-Forma Earnings (Algo Trading)"
+title: "Pro-Forma Earnings"
 description: "Explore pro-forma earnings in corporate finance and algorithmic trading. Understand their role in financial reporting and how they impact market behavior."
 ---
 

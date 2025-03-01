@@ -1,5 +1,5 @@
 ---
-title: "Pete Buttigieg: Education, Career, and Personal Life (Algo Trading)"
+title: "Pete Buttigieg: Education, Career, and Personal Life"
 description: "Explore the education, military service, political accomplishments, and personal life of Pete Buttigieg, highlighting his interest in algorithmic trading and leadership."
 ---
 

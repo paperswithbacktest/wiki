@@ -1,5 +1,5 @@
 ---
-title: "National Currency: Function and Importance (Algo Trading)"
+title: "National Currency: Function and Importance"
 description: "Explore the critical role of national currencies in global economic systems and the impact of algorithmic trading on currency values and economic opportunities worldwide."
 ---
 

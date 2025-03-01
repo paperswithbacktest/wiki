@@ -1,5 +1,5 @@
 ---
-title: "Non-Interest Income Overview and Significance (Algo Trading)"
+title: "Non-Interest Income Overview and Significance"
 description: "Discover the strategic role of non-interest income and algorithmic trading in banking profitability Learn how these elements enhance bank revenue stability"
 ---
 

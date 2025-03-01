@@ -1,5 +1,5 @@
 ---
-title: "Straw Buying: Definition, Mechanisms, and Case Studies (Algo Trading)"
+title: "Straw Buying: Definition, Mechanisms, and Case Studies"
 description: "Explore the complexities of straw buying in firearms and financial markets. Understand its implications and regulatory challenges in combating this illicit practice."
 ---
 

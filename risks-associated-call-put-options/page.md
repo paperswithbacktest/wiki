@@ -1,5 +1,5 @@
 ---
-title: "Risks Associated With Call and Put Options (Algo Trading)"
+title: "Risks Associated With Call and Put Options"
 description: "Explore the risks associated with call and put options in algo trading Understand how these investment tools can impact your portfolio and strategies for mitigation"
 ---
 

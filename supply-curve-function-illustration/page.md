@@ -1,5 +1,5 @@
 ---
-title: "Supply Curve: Function and Illustration (Algo Trading)"
+title: "Supply Curve: Function and Illustration"
 description: "Explore how the supply curve plays a crucial role in algorithmic trading strategies for optimizing trade efficiency by integrating supply and demand economics."
 ---
 

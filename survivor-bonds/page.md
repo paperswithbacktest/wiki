@@ -1,5 +1,5 @@
 ---
-title: "Survivor Bonds (Algo Trading)"
+title: "Survivor Bonds"
 description: "Explore survivor bonds and their role in hedging longevity risk, emphasized with the advancements in algorithmic trading for efficient management in complex markets."
 ---
 

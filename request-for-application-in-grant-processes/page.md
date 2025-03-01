@@ -1,5 +1,5 @@
 ---
-title: "Request for Application in Grant Processes (Algo Trading)"
+title: "Request for Application in Grant Processes"
 description: "Securing grants is vital for funding innovation in algorithmic trading, enabling advanced development without debt, enhancing competitiveness, and fostering tech advancements."
 ---
 

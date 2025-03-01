@@ -1,5 +1,5 @@
 ---
-title: "T-Test and Formulas: Applications and Usage (Algo Trading)"
+title: "T-Test and Formulas: Applications and Usage"
 description: "Explore the importance of hypothesis testing and t-tests in algorithmic trading to enhance decision-making and strategy evaluation. This guide investigates into the fundamentals of hypothesis testing, including how accepting or rejecting hypotheses affects trading strategies. Learn how to employ t-tests to compare trading algorithms' performance, testing for statistical significance and improving trading outcomes. Understanding these statistical concepts can help traders fine-tune strategies, reduce risk, and achieve better returns in the fast-paced world of algo trading."
 ---
 

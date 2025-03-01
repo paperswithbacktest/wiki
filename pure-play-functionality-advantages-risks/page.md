@@ -1,5 +1,5 @@
 ---
-title: "Pure Play: Definition, Functionality, Advantages, and Risks (Algo Trading)"
+title: "Pure Play: Definition, Functionality, Advantages, and Risks"
 description: "Explore pure play algorithmic trading companies focusing on single-business models revealing visible cash flow but carrying increased sector-specific risks and competition."
 ---
 

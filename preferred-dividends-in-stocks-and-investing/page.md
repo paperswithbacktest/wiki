@@ -1,5 +1,5 @@
 ---
-title: "Preferred Dividends in Stocks and Investing (Algo Trading)"
+title: "Preferred Dividends in Stocks and Investing"
 description: "Discover how combining preferred dividends with algorithmic trading can optimize your investment strategy offering stability and precision for better returns."
 ---
 

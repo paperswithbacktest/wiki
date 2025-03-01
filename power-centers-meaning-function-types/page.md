@@ -1,5 +1,5 @@
 ---
-title: "Power Centers: Meaning, Function, and Types (Algo Trading)"
+title: "Power Centers: Meaning, Function, and Types"
 description: "Explore the significance and dual role of power centers in retail and energy trading markets, highlighting their impact on consumers, traders, and market efficiencies."
 ---
 

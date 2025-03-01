@@ -1,5 +1,5 @@
 ---
-title: "Revenue Recognition in Accrual Accounting (Algo Trading)"
+title: "Revenue Recognition in Accrual Accounting"
 description: "Explore the integration of revenue recognition in accrual accounting with algorithmic trading to optimize operations boost efficiency and ensure compliance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Value Chain Analysis: Benefits and Limitations (Algo Trading)"
+title: "Value Chain Analysis: Benefits and Limitations"
 description: "Discover how value chain analysis and algorithmic trading enhance competitive advantage by optimizing operations and strategic alignment in business."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Multi-Currency Note Facility Explained (Algo Trading)"
+title: "Multi-Currency Note Facility Explained"
 description: "Discover the synergy between multi-currency note facilities and algorithmic trading to optimize multinational financial operations and mitigate currency risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Panic Selling: Implications and Mechanisms (Algo Trading)"
+title: "Panic Selling: Implications and Mechanisms"
 description: "Explore the implications and mechanisms of panic selling in algo trading. Understand investor psychology and algorithmic influence on market volatility and strategies to manage fear-driven sell-offs."
 ---
 

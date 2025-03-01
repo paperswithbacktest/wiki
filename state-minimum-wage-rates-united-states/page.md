@@ -1,5 +1,5 @@
 ---
-title: "State Minimum Wage Rates in the United States (Algo Trading)"
+title: "State Minimum Wage Rates in the United States"
 description: "Explore the intersection of state wage laws and algorithmic trading in the US Learn how shifts in minimum wage policies can create trading opportunities and risks"
 ---
 

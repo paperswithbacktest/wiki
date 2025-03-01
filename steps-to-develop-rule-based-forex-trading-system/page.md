@@ -1,5 +1,5 @@
 ---
-title: "Steps to Develop a Rule-Based Forex Trading System (Algo Trading)"
+title: "Steps to Develop a Rule-Based Forex Trading System"
 description: "Develop a successful rule-based forex trading system to boost profitability and reduce risks. Learn key strategies, backtesting, and automation in algo trading."
 ---
 

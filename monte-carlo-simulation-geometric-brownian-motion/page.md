@@ -1,5 +1,5 @@
 ---
-title: "Monte Carlo Simulation Using Geometric Brownian Motion (Algo Trading)"
+title: "Monte Carlo Simulation Using Geometric Brownian Motion"
 description: "Explore Monte Carlo simulations using Geometric Brownian Motion to enhance algorithmic trading strategies by predicting asset price movements and managing risks effectively."
 ---
 

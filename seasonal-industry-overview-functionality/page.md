@@ -1,5 +1,5 @@
 ---
-title: "Seasonal Industry: Overview and Functionality (Algo Trading)"
+title: "Seasonal Industry: Overview and Functionality"
 description: "Explore seasonal industries and trading strategies that capitalize on predictable patterns in business activities and financial markets driven by time of year."
 ---
 

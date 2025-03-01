@@ -1,5 +1,5 @@
 ---
-title: "Soft Commodities and Hard Commodities: Definitions and Examples (Algo Trading)"
+title: "Soft Commodities and Hard Commodities: Definitions and Examples"
 description: "Learn about soft and hard commodities, their differences, examples like coffee and gold, and how algorithmic trading reshapes commodity markets."
 ---
 

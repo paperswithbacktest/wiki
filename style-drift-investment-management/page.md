@@ -1,5 +1,5 @@
 ---
-title: "Style Drift in Investment Management (Algo Trading)"
+title: "Style Drift in Investment Management"
 description: "Explore style drift and algorithmic trading in investment management. Learn how to handle deviations from investment goals and optimize trades to enhance portfolio performance."
 ---
 

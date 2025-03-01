@@ -1,5 +1,5 @@
 ---
-title: "Total Stockholders' Equity (Algo Trading)"
+title: "Total Stockholders' Equity"
 description: "Enhance your algorithmic trading strategies by understanding financial statements. Leverage insights from stockholders' equity and balance sheets to predict market trends."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Quantbox Research (Algo Trading)"
+title: "Quantbox Research"
 description: "Discover Quantbox Research's innovative contributions to algorithmic trading offering advanced tools and insights to optimize strategies for modern financial markets."
 ---
 

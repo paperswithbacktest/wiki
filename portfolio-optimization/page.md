@@ -1,5 +1,5 @@
 ---
-title: "Portfolio optimization (Algo Trading)"
+title: "Portfolio optimization"
 description: Discover the intricacies of portfolio optimization in algorithmic trading, a process that enhances investment strategies by balancing risk and reward through mathematical models and statistical techniques. Learn how automated systems maximize profitability by dynamically allocating assets across stocks, bonds, and derivatives, utilizing Modern Portfolio Theory (MPT) and advanced optimization methods like quadratic and nonlinear programming. Explore how these tools help traders respond swiftly to market changes, maintain optimal portfolios, and achieve consistent returns even in volatile markets.
 ---
 

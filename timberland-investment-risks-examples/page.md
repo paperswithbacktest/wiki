@@ -1,5 +1,5 @@
 ---
-title: "Timberland Investment: Risks and Examples (Algo Trading)"
+title: "Timberland Investment: Risks and Examples"
 description: "Explore the risks and opportunities of timberland investment and algorithmic trading Learn how these strategies enhance diversification and portfolio resilience"
 ---
 

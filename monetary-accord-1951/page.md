@@ -1,5 +1,5 @@
 ---
-title: "Monetary Accord of 1951 (Algo Trading)"
+title: "Monetary Accord of 1951"
 description: "Explore the significance of the Monetary Accord of 1951 and its impact on the autonomy of the Federal Reserve and U.S. economic policy. Discover how this pivotal agreement set the stage for central bank independence and modern monetary frameworks, alongside the revolutionary developments in algorithmic trading that transform financial markets."
 ---
 

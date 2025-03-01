@@ -1,5 +1,5 @@
 ---
-title: "Position Trading: Strategies, Advantages, and Disadvantages (Algo Trading)"
+title: "Position Trading: Strategies, Advantages, and Disadvantages"
 description: "Explore position and algorithmic trading their strategies advantages and drawbacks. Learn how to align trading methods with your investment goals and risk tolerance."
 ---
 

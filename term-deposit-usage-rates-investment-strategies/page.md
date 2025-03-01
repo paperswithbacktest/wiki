@@ -1,5 +1,5 @@
 ---
-title: "Term Deposit: Usage, Rates, and Investment Strategies (Algo Trading)"
+title: "Term Deposit: Usage, Rates, and Investment Strategies"
 description: "Explore term deposits and algorithmic trading trends, comparing stable returns with tech-driven investing to optimize portfolio diversification and growth."
 ---
 

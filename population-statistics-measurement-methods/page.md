@@ -1,5 +1,5 @@
 ---
-title: "Population in Statistics and Measurement Methods (Algo Trading)"
+title: "Population in Statistics and Measurement Methods"
 description: "Explore the interplay of population statistics and algorithmic trading and discover how demographic trends can enhance trading strategies for optimal financial outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Speculative Bubble (Algo Trading)"
+title: "Speculative Bubble"
 description: "Explore the relationship between speculative and economic bubbles and algorithmic trading in financial markets Learn how these dynamics impact investments and strategy"
 ---
 

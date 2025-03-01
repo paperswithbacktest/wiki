@@ -1,5 +1,5 @@
 ---
-title: "Non-Open Market: Concepts and Applications (Algo Trading)"
+title: "Non-Open Market: Concepts and Applications"
 description: "Explore non-open market concepts and algorithmic trading to enhance financial strategies. Learn how private deals and algo trading impact modern markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Regulated Investment Company: Overview and Tax Considerations (Algo Trading)"
+title: "Regulated Investment Company: Overview and Tax Considerations"
 description: "Explore the intersection of regulated investment companies and algorithmic trading to optimize returns through tax efficiency while managing financial risks."
 ---
 

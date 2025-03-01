@@ -1,5 +1,5 @@
 ---
-title: "Turnover Ratios and Investment Fund Quality (Algo Trading)"
+title: "Turnover Ratios and Investment Fund Quality"
 description: "Explore how turnover ratios reveal investment fund quality and impacts of algorithmic trading on returns. Enhance your investment strategy with these insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Open-Ended Investment Company: Overview and Functionality (Algo Trading)"
+title: "Open-Ended Investment Company: Overview and Functionality"
 description: "Explore the synergy between Open-Ended Investment Companies and algorithmic trading to understand how technology enhances investment flexibility and strategy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Reversal Day Trading Strategy Explained (Algo Trading)"
+title: "Reversal Day Trading Strategy Explained"
 description: Explore reversal day trading strategies in algorithmic trading to capitalize on market corrections after extreme trends. Learn how this contrarian approach uses technical indicators like moving averages and RSI to identify shifts in asset price trends, boosting trading outcomes with improved insights into market reversals.
 ---
 

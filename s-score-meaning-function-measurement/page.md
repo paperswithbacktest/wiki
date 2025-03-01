@@ -1,5 +1,5 @@
 ---
-title: "S-Score: Meaning, Function, and Measurement (Algo Trading)"
+title: "S-Score: Meaning, Function, and Measurement"
 description: "Explore the influential role of the S-Score in algorithmic trading by understanding how it measures investor sentiment from social media to guide trading strategies."
 ---
 

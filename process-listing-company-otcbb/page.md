@@ -1,5 +1,5 @@
 ---
-title: "Process for Listing a Company on the OTCBB (Algo Trading)"
+title: "Process for Listing a Company on the OTCBB"
 description: "Explore the process of listing a company on the OTCBB, a vital platform for small businesses, with insights into market maker roles and algorithmic trading impact."
 ---
 

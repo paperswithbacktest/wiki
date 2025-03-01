@@ -1,5 +1,5 @@
 ---
-title: "Rollover Credit Concept and Process (Algo Trading)"
+title: "Rollover Credit Concept and Process"
 description: "Explore how the rollover credit concept enhances algo trading in forex by optimizing strategies through interest rate differentials for improved profitability."
 ---
 

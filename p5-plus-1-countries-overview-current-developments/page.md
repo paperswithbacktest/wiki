@@ -1,5 +1,5 @@
 ---
-title: "P5+1 Countries: Overview and Current Developments (Algo Trading)"
+title: "P5+1 Countries: Overview and Current Developments"
 description: "Explore the dynamic interplay between P5+1 nuclear diplomacy and algorithmic trading's impact on global financial markets. Delve into current developments."
 ---
 

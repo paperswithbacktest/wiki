@@ -1,5 +1,5 @@
 ---
-title: "Piercing Pattern in Trading (Algo Trading)"
+title: "Piercing Pattern in Trading"
 description: "Understand how the Piercing Pattern functions in algorithmic trading Learn how this bullish reversal pattern can enhance your trading strategy effectiveness"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MINTs: Inclusion Criteria and Historical Context (Algo Trading)"
+title: "MINTs: Inclusion Criteria and Historical Context"
 description: "Explore the inclusion criteria and historical context of the MINT countries for algorithmic trading insights. Learn about their economic potential and growth opportunities."
 ---
 

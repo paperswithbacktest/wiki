@@ -1,5 +1,5 @@
 ---
-title: "Risk Graph: Overview and Applications (Algo Trading)"
+title: "Risk Graph: Overview and Applications"
 description: "Navigate the complexities of algorithmic trading with risk graphs Learn to manage financial risks and enhance your trading strategies using these visual tools"
 ---
 

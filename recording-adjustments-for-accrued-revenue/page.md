@@ -1,5 +1,5 @@
 ---
-title: "Recording Adjustments for Accrued Revenue (Algo Trading)"
+title: "Recording Adjustments for Accrued Revenue"
 description: "Explore the critical role of accounting adjustments in recording accrued revenue for financial reporting in algorithmic trading where accuracy is paramount."
 ---
 

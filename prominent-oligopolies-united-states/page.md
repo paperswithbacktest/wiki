@@ -1,5 +1,5 @@
 ---
-title: "Prominent Oligopolies in the United States (Algo Trading)"
+title: "Prominent Oligopolies in the United States"
 description: "Explore the influence of U.S. oligopolies in algorithmic trading where dominant firms leverage technology to shape financial markets and trading strategies."
 ---
 

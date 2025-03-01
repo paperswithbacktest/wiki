@@ -1,5 +1,5 @@
 ---
-title: "Oil-Currency Correlation (Algo Trading)"
+title: "Oil-Currency Correlation"
 description: "Explore the intricate correlation between oil prices and currency values. Understand how global oil fluctuations impact forex markets and enhance trading strategies."
 ---
 

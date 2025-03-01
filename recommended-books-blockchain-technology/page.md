@@ -1,5 +1,5 @@
 ---
-title: "Recommended Books on Blockchain Technology (Algo Trading)"
+title: "Recommended Books on Blockchain Technology"
 description: "Explore blockchain technology with recommended books and learn its impact on algorithmic trading transforming data security and transparency in various industries."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Primary Recovery: Meaning and Function (Algo Trading)"
+title: "Primary Recovery: Meaning and Function"
 description: "Explore primary recovery's role in the oil industry and how algo trading is transforming market dynamics and oil extraction strategies for improved efficiency."
 ---
 

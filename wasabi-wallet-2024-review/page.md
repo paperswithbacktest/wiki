@@ -1,5 +1,5 @@
 ---
-title: "Wasabi Wallet: 2024 Review (Algo Trading)"
+title: "Wasabi Wallet: 2024 Review"
 description: "Discover how Wasabi Wallet enhances privacy for cryptocurrency transactions and supports algorithmic trading in 2024 with advanced features like CoinJoin and Tor."
 ---
 

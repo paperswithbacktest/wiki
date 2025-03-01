@@ -1,5 +1,5 @@
 ---
-title: "World Equity Benchmark Series (Algo Trading)"
+title: "World Equity Benchmark Series"
 description: "Explore the World Equity Benchmark Series WEBS and its evolution into iShares MSCI ETFs. Discover how algorithmic trading enhances global investment strategies."
 ---
 

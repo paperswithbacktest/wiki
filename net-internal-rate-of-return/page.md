@@ -1,5 +1,5 @@
 ---
-title: "Net Internal Rate of Return (Algo Trading)"
+title: "Net Internal Rate of Return"
 description: "Explore the synergy between Net Internal Rate of Return and algorithmic trading to refine investment models and achieve consistent profitability in financial markets."
 ---
 

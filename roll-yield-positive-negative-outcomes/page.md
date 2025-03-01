@@ -1,5 +1,5 @@
 ---
-title: "Roll Yield: Understanding Positive and Negative Outcomes (Algo Trading)"
+title: "Roll Yield: Understanding Positive and Negative Outcomes"
 description: "Discover the crucial role of roll yield in futures trading and how it impacts algorithmic trading strategies Explore positive and negative outcomes for traders"
 ---
 

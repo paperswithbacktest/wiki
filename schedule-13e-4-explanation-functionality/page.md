@@ -1,5 +1,5 @@
 ---
-title: "Schedule 13E-4: Explanation and Functionality (Algo Trading)"
+title: "Schedule 13E-4: Explanation and Functionality"
 description: "Explore the history and impact of Schedule 13E-4, its role in tender offers and algorithmic trading, and its eventual replacement by Schedule TO-I."
 ---
 

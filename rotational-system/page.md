@@ -1,5 +1,5 @@
 ---
-title: "Rotational System (Algo Trading)"
+title: "Rotational System"
 description: Discover the flexibility and depth of the rotational system, a trading strategy used in algo trading for regular portfolio rebalancing based on given factors or strategies. Learn about sector momentum as a popular example and its integration with algo trading for maximum returns and minimized risk. Explore resources for further study.
 ---
 

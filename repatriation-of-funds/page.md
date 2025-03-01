@@ -1,5 +1,5 @@
 ---
-title: "Repatriation of Funds (Algo Trading)"
+title: "Repatriation of Funds"
 description: "Explore how technological advancements like fintech and algorithmic trading enhance the efficiency and security of repatriating funds in international finance."
 ---
 

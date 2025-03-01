@@ -1,5 +1,5 @@
 ---
-title: "Net Zero Asset Managers Initiative (Algo Trading)"
+title: "Net Zero Asset Managers Initiative"
 description: "Explore the convergence of net-zero asset management and algo trading in driving sustainable investment strategies for climate action by 2050."
 ---
 

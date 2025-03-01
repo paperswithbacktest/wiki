@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 17-H: Overview and Functionality (Algo Trading)"
+title: "SEC Form 17-H: Overview and Functionality"
 description: "Discover the importance of SEC Form 17-H in securities regulation and algo trading explaining its role in financial compliance and market stability."
 ---
 

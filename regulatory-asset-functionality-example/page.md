@@ -1,5 +1,5 @@
 ---
-title: "Regulatory Asset and Its Functionality (Algo Trading)"
+title: "Regulatory Asset and Its Functionality"
 description: "Discover how regulatory assets optimize financial planning and stability in algorithmic trading Learn their significant role in utility accounting and financial innovation"
 ---
 

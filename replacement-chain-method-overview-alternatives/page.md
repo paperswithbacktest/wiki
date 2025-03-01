@@ -1,5 +1,5 @@
 ---
-title: "Replacement Chain Method: Overview and Alternatives (Algo Trading)"
+title: "Replacement Chain Method: Overview and Alternatives"
 description: "Explore the Replacement Chain Method in capital budgeting for assessing long-term investments. Learn how algorithmic trading can benefit from this approach."
 ---
 

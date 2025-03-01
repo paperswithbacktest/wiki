@@ -1,5 +1,5 @@
 ---
-title: "Quick Liquidity Ratio: Overview and Examples (Algo Trading)"
+title: "Quick Liquidity Ratio: Overview and Examples"
 description: "Explore the quick liquidity ratio's role in financial analysis and algo trading, highlighting the ability to assess short-term obligations using liquid assets."
 ---
 

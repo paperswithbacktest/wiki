@@ -1,5 +1,5 @@
 ---
-title: "Millennium Management, LLC (Algo Trading)"
+title: "Millennium Management, LLC"
 description: Millennium Management, LLC is a leading hedge fund known for its robust investment strategies and technological innovations in the financial sector. Since its founding in 1989, the firm has pioneered the use of algorithmic trading, integrating advanced models to optimize returns and manage risks. This commitment to innovation positions Millennium at the cutting edge of financial markets, with a multi-strategy approach that leverages diverse trading strategies and autonomous investment teams. The firm's adaptive and resilient framework underscores its impact and leadership in global finance, ensuring continued success and market influence.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Option Pricing Models (Algo Trading)"
+title: "Option Pricing Models"
 description: "Explore option pricing models and enhance your trading strategy in financial derivatives. Understand frameworks like Black-Scholes and Binomial for accurate option valuation."
 ---
 

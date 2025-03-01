@@ -1,5 +1,5 @@
 ---
-title: "Personal Equity Plan (Algo Trading)"
+title: "Personal Equity Plan"
 description: "Explore the evolution of personal investment with insights on Personal Equity Plans (PEPs), Individual Savings Accounts (ISAs), and the rise of algorithmic trading."
 ---
 

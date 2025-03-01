@@ -1,5 +1,5 @@
 ---
-title: "Penalty Bid Mechanism (Algo Trading)"
+title: "Penalty Bid Mechanism"
 description: "Explore the impact of penalty bids in algorithmic trading and their role in maintaining price integrity during IPOs while navigating regulatory constraints."
 ---
 

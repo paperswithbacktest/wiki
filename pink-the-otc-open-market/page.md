@@ -1,5 +1,5 @@
 ---
-title: "Pink: The OTC Open Market (Algo Trading)"
+title: "Pink: The OTC Open Market"
 description: "Explore the Pink Sheets in the OTC market  
 Discover how algorithmic trading impacts liquidity and volatility in a dynamic space designed for innovative companies and insightful investors"
 ---

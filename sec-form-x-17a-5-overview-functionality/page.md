@@ -1,5 +1,5 @@
 ---
-title: "SEC Form X-17A-5 Overview and Functionality (Algo Trading)"
+title: "SEC Form X-17A-5 Overview and Functionality"
 description: "Explore the essential role of SEC Form X-17A-5 in algorithmic trading for broker-dealers ensuring transparency and compliance in an evolving financial landscape."
 ---
 

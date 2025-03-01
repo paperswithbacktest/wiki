@@ -1,5 +1,5 @@
 ---
-title: "National Association of State Boards of Accountancy (Algo Trading)"
+title: "National Association of State Boards of Accountancy"
 description: "Explore the evolving role of NASBA in regulating accountancy amid the rise of algorithmic trading Discover how state boards uphold standards in a tech-driven era"
 ---
 

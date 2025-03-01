@@ -1,5 +1,5 @@
 ---
-title: "Transfer Pricing and Its Mechanisms (Algo Trading)"
+title: "Transfer Pricing and Its Mechanisms"
 description: "Explore the intricacies of transfer pricing and algo trading to optimize tax strategies, compliance, and global operations for multinational enterprises."
 ---
 

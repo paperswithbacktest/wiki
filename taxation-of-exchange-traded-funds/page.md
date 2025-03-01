@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Exchange-Traded Funds (Algo Trading)"
+title: "Taxation of Exchange-Traded Funds"
 description: "Explore how ETFs benefit from unique tax advantages compared to mutual funds and learn effective strategies for maximizing returns in your ETF portfolio."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pay As You Earn (PAYE) Overview (Algo Trading)"
+title: "Pay As You Earn (PAYE) Overview"
 description: "Discover the essential workings of Pay As You Earn (PAYE) its impact on income tax and student loans and explore how algorithmic trading influences PAYE's role in finance."
 ---
 

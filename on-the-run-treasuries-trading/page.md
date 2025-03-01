@@ -1,5 +1,5 @@
 ---
-title: "On-The-Run Treasuries and Their Trading Mechanisms (Algo Trading)"
+title: "On-The-Run Treasuries and Their Trading Mechanisms"
 description: "Explore the mechanics of on-the-run Treasuries in algo trading, highlighting their liquidity, strategic importance, and the impact of advanced trading algorithms."
 ---
 

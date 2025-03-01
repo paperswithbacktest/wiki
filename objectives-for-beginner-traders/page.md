@@ -1,5 +1,5 @@
 ---
-title: "Objectives for Beginner Traders (Algo Trading)"
+title: "Objectives for Beginner Traders"
 description: "Beginner traders can learn to set effective trading goals and explore foundational strategies in this guide designed to aid successful navigation in algo trading."
 ---
 

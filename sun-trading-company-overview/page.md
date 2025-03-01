@@ -1,5 +1,5 @@
 ---
-title: "Sun Trading Company Overview (Algo Trading)"
+title: "Sun Trading Company Overview"
 description: "Discover the world of algorithmic trading with Sun Trading LLC based in Chicago. Learn about its diverse asset management and market-making strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pure Discount Instruments (Algo Trading)"
+title: "Pure Discount Instruments"
 description: "Explore the synergy between pure discount bonds and algorithmic trading to optimize investment returns in today's fast-paced financial markets efficiently.
 "
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Non-Cash Items in Banking and Accounting (Algo Trading)"
+title: "Non-Cash Items in Banking and Accounting"
 description: "Explore how non-cash items in banking and accounting influence financial decision-making and leverage algorithmic trading for enhanced business operations."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Residual Standard Deviation: Formula and Examples (Algo Trading)"
+title: "Residual Standard Deviation: Formula and Examples"
 description: "Explore the role of residual standard deviation in algorithmic trading models Enhance your understanding of statistical concepts and improve prediction accuracy."
 ---
 

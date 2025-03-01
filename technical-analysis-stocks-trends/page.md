@@ -1,5 +1,5 @@
 ---
-title: "Technical Analysis of Stocks and Trends (Algo Trading)"
+title: "Technical Analysis of Stocks and Trends"
 description: "Explore the role of technical analysis in predicting stock trends and enhancing algorithmic trading strategies by utilizing historical price movements to forecast market behavior."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Paid Family and Medical Leave in the United States by State (Algo Trading)"
+title: "Paid Family and Medical Leave in the United States by State"
 description: "Explore the varied landscape of Paid Family and Medical Leave across US states. Learn about eligibility, duration, and benefits that support employee well-being."
 ---
 

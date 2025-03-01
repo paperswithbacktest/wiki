@@ -1,5 +1,5 @@
 ---
-title: "Reasonableness Standard (Algo Trading)"
+title: "Reasonableness Standard"
 description: "Explore the role of the reasonableness standard in algorithmic trading its legal implications and how it ensures fairness and compliance in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Swedish Krona: Overview and Functionality (Algo Trading)"
+title: "Swedish Krona: Overview and Functionality"
 description: "Explore how algorithmic trading transforms SEK trading by minimizing errors and leveraging market opportunities. Enhance trading strategies with real-time insights."
 ---
 

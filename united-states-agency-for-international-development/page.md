@@ -1,5 +1,5 @@
 ---
-title: "United States Agency for International Development (Algo Trading)"
+title: "United States Agency for International Development"
 description: "Explore how the United States, through USAID and algorithmic trading, influences global economic stability and development. Discover the pivotal roles they play."
 ---
 

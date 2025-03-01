@@ -1,5 +1,5 @@
 ---
-title: "Trends in ESG Investing (Algo Trading)"
+title: "Trends in ESG Investing"
 description: "Explore the growing synergy between ESG investing and algorithmic trading Discover how integrating sustainability into trading strategies is reshaping investment trends"
 ---
 

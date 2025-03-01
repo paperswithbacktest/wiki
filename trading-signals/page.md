@@ -1,5 +1,5 @@
 ---
-title: "Trading signals (Algo Trading)"
+title: "Trading signals"
 description: "Enhance your trading strategies with advanced algo trading signals for precise market entry and exit. Stay competitive and maximize profitability effortlessly."
 ---
 

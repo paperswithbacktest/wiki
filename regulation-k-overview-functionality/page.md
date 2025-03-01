@@ -1,5 +1,5 @@
 ---
-title: "Regulation K: Overview and Functionality (Algo Trading)"
+title: "Regulation K: Overview and Functionality"
 description: "Explore how Regulation K shapes international banking operations and its impact on algorithmic trading ensuring fair practices within global financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Net Profits Interest: Explanation and Examples (Algo Trading)"
+title: "Net Profits Interest: Explanation and Examples"
 description: "Explore how Net Profits Interest in resource industries offers risk-free revenue while algorithmic trading enhances precision in investment strategies."
 ---
 

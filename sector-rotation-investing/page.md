@@ -1,5 +1,5 @@
 ---
-title: "Sector Rotation in Investing (Algo Trading)"
+title: "Sector Rotation in Investing"
 description: "Discover how sector rotation and algorithmic trading unite to enhance investment strategies by leveraging economic cycles and advanced technology in financial markets."
 ---
 

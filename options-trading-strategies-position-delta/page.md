@@ -1,5 +1,5 @@
 ---
-title: "Options Trading Strategies and Position Delta (Algo Trading)"
+title: "Options Trading Strategies and Position Delta"
 description: "Explore a range of options trading strategies focusing on position delta and algo trading to enhance returns and manage market exposure effectively."
 ---
 

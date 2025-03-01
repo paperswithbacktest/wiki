@@ -1,5 +1,5 @@
 ---
-title: "Structured Funds (Algo Trading)"
+title: "Structured Funds"
 description: "Discover innovative investment strategies with structured funds and algorithmic trading, designed to optimize returns and manage risks in today's financial markets."
 ---
 

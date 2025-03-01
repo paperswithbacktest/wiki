@@ -1,5 +1,5 @@
 ---
-title: "State Administrator: Function and Operation (Algo Trading)"
+title: "State Administrator: Function and Operation"
 description: "Explore the intersection of state administration and algorithmic trading, highlighting their role in modern governance and finance. Understand regulatory impacts."
 ---
 

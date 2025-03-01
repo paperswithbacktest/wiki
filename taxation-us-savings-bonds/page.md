@@ -1,5 +1,5 @@
 ---
-title: "Taxation of U.S. Savings Bonds (Algo Trading)"
+title: "Taxation of U.S. Savings Bonds"
 description: "Explore U.S. savings bonds, a safe investment with tax advantages. Learn about their role in algorithmic trading and potential for yield optimization."
 ---
 

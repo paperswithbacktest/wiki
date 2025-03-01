@@ -1,5 +1,5 @@
 ---
-title: "Stripped Yield and Its Mechanism (Algo Trading)"
+title: "Stripped Yield and Its Mechanism"
 description: "Explore the intricacies of stripped yield and algorithmic trading in finance to make informed investment decisions with enhanced bond assessments and automated strategies."
 ---
 

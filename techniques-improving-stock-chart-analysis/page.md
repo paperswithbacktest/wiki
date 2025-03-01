@@ -1,5 +1,5 @@
 ---
-title: "Techniques for Improving Stock Chart Analysis (Algo Trading)"
+title: "Techniques for Improving Stock Chart Analysis"
 description: "Explore essential strategies for improving stock chart analysis in algorithmic trading Enhance your market insight and trading precision with advanced techniques"
 ---
 

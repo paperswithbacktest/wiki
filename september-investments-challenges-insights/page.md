@@ -1,5 +1,5 @@
 ---
-title: "September Investments: Challenges and Insights (Algo Trading)"
+title: "September Investments: Challenges and Insights"
 description: "Explore the influence of algorithmic trading in September's volatile markets where historical trends highlight unique investment challenges and opportunities."
 ---
 

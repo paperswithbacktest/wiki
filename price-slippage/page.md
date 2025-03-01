@@ -1,5 +1,5 @@
 ---
-title: "Price Slippage (Algo Trading)"
+title: "Price Slippage"
 description: "Explore price slippage in algorithmic trading, understanding its impact on trade execution and strategies. Learn techniques to manage this vital trading factor."
 ---
 

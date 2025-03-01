@@ -1,5 +1,5 @@
 ---
-title: "Modelling (Algo Trading)"
+title: "Modelling"
 description: Explore the key role of modeling in algorithmic trading, which enhances trading strategy effectiveness by leveraging vast market data to automate trade execution. Understand various techniques like trend-following, mean reversion, and arbitrage models, which analyze data patterns to maximize returns and minimize risks. Discover how these models transform trading practices by exploiting market opportunities and mitigating human error in decision-making processes. Dive into a detailed exploration of these methods, helping traders refine strategies to improve financial outcomes and optimize market engagement through sophisticated analytics.
 ---
 

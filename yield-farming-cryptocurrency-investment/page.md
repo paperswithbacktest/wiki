@@ -1,5 +1,5 @@
 ---
-title: "Yield Farming in Cryptocurrency Investment (Algo Trading)"
+title: "Yield Farming in Cryptocurrency Investment"
 description: "Explore the dynamic world of cryptocurrency investment through yield farming and algorithmic trading Uncover strategies to enhance returns while managing risks"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "The Securities Master System Explained (Algo Trading)"
+title: "The Securities Master System Explained"
 description: Discover how security master symbology enhances algorithmic trading with standardized identifiers like CUSIP, ISIN, and FIGI. Learn about its role in ensuring data accuracy, optimizing trade execution, and minimizing errors while overcoming challenges in data management and real-time updates. Understand why maintaining a robust symbology system is crucial for successful trading strategies in diverse financial markets.
 ---
 

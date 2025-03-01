@@ -1,5 +1,5 @@
 ---
-title: "Riskiest Investment Opportunities (Algo Trading)"
+title: "Riskiest Investment Opportunities"
 description: "Explore high-risk investment opportunities including algo trading's sophisticated techniques and inherent challenges. Balance high returns with potential volatility."
 ---
 

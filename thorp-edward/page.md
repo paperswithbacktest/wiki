@@ -1,5 +1,5 @@
 ---
-title: "Thorp, Edward (Algo Trading)"
+title: "Thorp, Edward"
 description: Discover the profound impact of Edward Thorp on algorithmic trading through his pioneering use of mathematics and probability theory. Explore how his groundbreaking strategies, born from revolutionizing blackjack approaches, influenced modern quantitative finance, highlighting the continued relevance and application of his innovative methods in today's financial markets.
 ---
 

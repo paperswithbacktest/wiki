@@ -1,5 +1,5 @@
 ---
-title: "Mint: Overview, History, and Statistics of the U.S. Mint (Algo Trading)"
+title: "Mint: Overview, History, and Statistics of the U.S. Mint"
 description: "Explore the historical and modern intersections of U.S. Mint coin production and algorithmic trading their evolution and impacts on the financial sector."
 ---
 

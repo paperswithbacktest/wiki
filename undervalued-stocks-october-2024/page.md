@@ -1,5 +1,5 @@
 ---
-title: "Undervalued Stocks for October 2024 (Algo Trading)"
+title: "Undervalued Stocks for October 2024"
 description: "Explore strategies for identifying undervalued stocks and optimizing investment returns using algo trading. Gain insights into spotting undervaluation opportunities and employing advanced trading technologies for portfolio enhancement in the dynamic market landscape of October 2024."
 ---
 

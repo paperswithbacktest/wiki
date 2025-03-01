@@ -1,5 +1,5 @@
 ---
-title: "Standard Deviation in Risk Assessment (Algo Trading)"
+title: "Standard Deviation in Risk Assessment"
 description: "Explore the pivotal role of standard deviation in risk assessment within algorithmic trading This statistical tool measures volatility aiding informed financial decisions"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "News-Based Trading Strategies (Algo Trading)"
+title: "News-Based Trading Strategies"
 description: "Explore how algorithmic trading enhances news-based trading strategies with speed, precision, and reduced emotional bias to navigate volatile market events."
 ---
 

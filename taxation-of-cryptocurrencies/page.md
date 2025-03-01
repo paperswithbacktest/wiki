@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Cryptocurrencies (Algo Trading)"
+title: "Taxation of Cryptocurrencies"
 description: "Learn the essentials of cryptocurrency taxation for investors and algorithmic traders. Understand tax implications, regulations, and reporting to ensure compliance."
 ---
 

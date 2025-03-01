@@ -1,5 +1,5 @@
 ---
-title: "Overview of the Securities and Exchange Commission (Algo Trading)"
+title: "Overview of the Securities and Exchange Commission"
 description: "Discover how the SEC ensures market integrity and investor protection amidst the rise of algorithmic trading Explore its history and role in modern markets"
 ---
 

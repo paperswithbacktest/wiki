@@ -1,5 +1,5 @@
 ---
-title: "Trend Trading Strategies (Algo Trading)"
+title: "Trend Trading Strategies"
 description: "Explore trend trading and algorithmic strategies in finance to capitalize on market movements Procedural insights enable informed and disciplined trading decisions"
 ---
 

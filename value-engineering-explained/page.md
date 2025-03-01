@@ -1,5 +1,5 @@
 ---
-title: "Value Engineering Explained (Algo Trading)"
+title: "Value Engineering Explained"
 description: "Explore the synergy between value engineering and algorithmic trading to enhance efficiency reduce costs and gain a competitive edge in financial markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Order Book Modelling (Algo Trading)"
+title: "Order Book Modelling"
 description: "Explore the essentials of order book modelling in algotrading Discover how simulating order flows and incorporating historical data enhances trading strategies and profitability"
 ---
 

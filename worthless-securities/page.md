@@ -1,5 +1,5 @@
 ---
-title: "Worthless Securities (Algo Trading)"
+title: "Worthless Securities"
 description: "Explore key concepts of algorithmic trading and worthless securities in investments Learn about risks strategies and the dynamic nature of financial assets"
 ---
 

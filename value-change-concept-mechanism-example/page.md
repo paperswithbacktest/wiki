@@ -1,5 +1,5 @@
 ---
-title: "Value Change: Concept, Mechanism, and Example (Algo Trading)"
+title: "Value Change: Concept, Mechanism, and Example"
 description: "Explore the concept of value change in algorithmic trading including its importance for investors techniques to monitor value fluctuations and examples of its impact."
 ---
 

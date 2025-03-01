@@ -1,5 +1,5 @@
 ---
-title: "Stimulus Check Overview, Function, and Criticism (Algo Trading)"
+title: "Stimulus Check Overview, Function, and Criticism"
 description: "Explore the impact of stimulus checks on economic health and the role of algo trading in modern finance Discover the benefits and challenges of these tools"
 ---
 

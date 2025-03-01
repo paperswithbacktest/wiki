@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Custodians: Overview and Examples (Algo Trading)"
+title: "Mutual Fund Custodians: Overview and Examples"
 description: "Explore the critical roles of fund custodians and mutual funds in finance, and how algorithmic trading and investment management enhance modern financial markets."
 ---
 

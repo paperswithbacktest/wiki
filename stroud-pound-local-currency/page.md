@@ -1,5 +1,5 @@
 ---
-title: "Stroud Pound Local Currency (Algo Trading)"
+title: "Stroud Pound Local Currency"
 description: "Discover the Stroud Pound's role in boosting local economies through community currency. Explore its impact, challenges, and the potential of algorithmic trading integration."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Morningstar Sustainability Rating and Methodology (Algo Trading)"
+title: "Morningstar Sustainability Rating and Methodology"
 description: "Explore the Morningstar Sustainability Rating to understand ESG criteria in investment funds Featuring a five-globe system it's essential for ethical investors"
 ---
 

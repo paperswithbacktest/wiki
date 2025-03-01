@@ -1,5 +1,5 @@
 ---
-title: "Trading Curb: Levels and Historical Overview (Algo Trading)"
+title: "Trading Curb: Levels and Historical Overview"
 description: "Explore the complexities of market regulation with a focus on trading curbs and algorithmic trading Learn how these elements affect market stability and efficiency"
 ---
 

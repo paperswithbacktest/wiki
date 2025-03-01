@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Trading Stocks at All-Time Highs (Algo Trading)"
+title: "Strategies for Trading Stocks at All-Time Highs"
 description: "Master strategies for trading stocks at all-time highs with algorithmic trading Discover momentum, mean reversion, and arbitrage techniques for success"
 ---
 

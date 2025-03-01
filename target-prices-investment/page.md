@@ -1,5 +1,5 @@
 ---
-title: "Target Prices in Investment (Algo Trading)"
+title: "Target Prices in Investment"
 description: "Discover how target prices empower investors in algorithmic trading by providing predictive insights into stock value, enhancing strategy precision and market navigation."
 ---
 

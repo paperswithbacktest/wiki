@@ -1,5 +1,5 @@
 ---
-title: "Percentage Lease and Its Mechanism (Algo Trading)"
+title: "Percentage Lease and Its Mechanism"
 description: "Explore the dynamics of percentage leases in retail real estate which links rent to sales performance benefiting both landlords and tenants. Discover its adaptability and incentives."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sales Mix Overview and Applications (Algo Trading)"
+title: "Sales Mix Overview and Applications"
 description: "Explore how product assortment, sales mix, and algorithmic trading enhance growth and profitability by aligning offerings with market needs in a dynamic era."
 ---
 

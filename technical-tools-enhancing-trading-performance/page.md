@@ -1,5 +1,5 @@
 ---
-title: "Technical Tools for Enhancing Trading Performance (Algo Trading)"
+title: "Technical Tools for Enhancing Trading Performance"
 description: "Explore how algorithmic and technical trading tools can boost performance in financial markets by enabling data-driven, precise trading strategies."
 ---
 

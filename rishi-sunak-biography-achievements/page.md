@@ -1,5 +1,5 @@
 ---
-title: "Rishi Sunak: Biography and Achievements (Algo Trading)"
+title: "Rishi Sunak: Biography and Achievements"
 description: "Explore Rishi Sunak's biography highlighting his impactful career in politics and finance including his role in shaping economic policies and interest in algorithmic trading."
 ---
 

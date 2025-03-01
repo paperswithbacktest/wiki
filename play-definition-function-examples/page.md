@@ -1,5 +1,5 @@
 ---
-title: "Play: Definition, Function, and Examples (Algo Trading)"
+title: "Play: Definition, Function, and Examples"
 description: "Explore the world of algorithmic trading, where automated strategies enhance trade execution with speed and precision, transforming modern financial markets."
 ---
 

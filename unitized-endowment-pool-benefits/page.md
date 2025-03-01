@@ -1,5 +1,5 @@
 ---
-title: "Unitized Endowment Pool and Its Benefits (Algo Trading)"
+title: "Unitized Endowment Pool and Its Benefits"
 description: "Explore the benefits of Unitized Endowment Pools and algorithmic trading in maximizing endowment investments. Learn innovative strategies and reduce risks effectively."
 ---
 

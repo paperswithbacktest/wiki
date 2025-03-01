@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Portfolio Management (Algo Trading)"
+title: "Quantitative Portfolio Management"
 description: "Explore the transformative power of quantitative portfolio management and algorithmic trading in modern finance by optimizing investment decisions through data-driven strategies."
 ---
 

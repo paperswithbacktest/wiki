@@ -1,5 +1,5 @@
 ---
-title: "Modern Portfolio Theory and Its Application by Investors (Algo Trading)"
+title: "Modern Portfolio Theory and Its Application by Investors"
 description: "Discover how integrating Modern Portfolio Theory with algorithmic trading empowers investors to optimize portfolios, balancing risk and return in real-time."
 ---
 

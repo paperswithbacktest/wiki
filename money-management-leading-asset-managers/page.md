@@ -1,5 +1,5 @@
 ---
-title: "Money Management and Leading Asset Managers (Algo Trading)"
+title: "Money Management and Leading Asset Managers"
 description: "Explore effective money and asset management strategies with focus on algorithmic trading boosting returns and minimizing risks in a dynamic financial landscape."
 ---
 

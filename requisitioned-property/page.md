@@ -1,5 +1,5 @@
 ---
-title: "Requisitioned Property (Algo Trading)"
+title: "Requisitioned Property"
 description: "Explore the intersection of requisitioned property laws and algorithmic trading Learn how government property laws impact market dynamics and financial strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Role of Collateralized Debt Obligations in the 2008 Financial Crisis (Algo Trading)"
+title: "Role of Collateralized Debt Obligations in the 2008 Financial Crisis"
 description: "Explore how Collateralized Debt Obligations and algorithmic trading amplified the 2008 financial crisis revealing market vulnerabilities and systemic risks."
 ---
 

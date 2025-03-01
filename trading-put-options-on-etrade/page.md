@@ -1,5 +1,5 @@
 ---
-title: "Trading Put Options on E*TRADE (Algo Trading)"
+title: "Trading Put Options on E*TRADE"
 description: "Explore put options trading on E*TRADE, a top platform for strategizing price declines. Discover algorithmic trading to enhance precision and efficiency."
 ---
 

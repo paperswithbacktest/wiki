@@ -1,5 +1,5 @@
 ---
-title: "Oil Price Trends in 2020 (Algo Trading)"
+title: "Oil Price Trends in 2020"
 description: "Explore the multifaceted causes and effects of 2020 oil market volatility influenced by COVID-19 and geopolitical tensions with insights into algorithmic trading."
 ---
 

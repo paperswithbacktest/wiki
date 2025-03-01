@@ -1,5 +1,5 @@
 ---
-title: "Options Trading on Robinhood (Algo Trading)"
+title: "Options Trading on Robinhood"
 description: "Explore options trading on Robinhood including algorithmic strategies and its impact. Learn how technology enables wider access and the challenges novice traders face."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Tick Index in Financial Markets (Algo Trading)"
+title: "Tick Index in Financial Markets"
 description: "Explore how the Tick Index enhances algorithmic trading by offering real-time market sentiment insights for better decision-making and strategy optimization."
 ---
 

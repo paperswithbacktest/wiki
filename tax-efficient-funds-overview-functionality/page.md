@@ -1,5 +1,5 @@
 ---
-title: "Tax-Efficient Funds: Overview and Functionality (Algo Trading)"
+title: "Tax-Efficient Funds: Overview and Functionality"
 description: "Discover how tax-efficient funds and algorithmic trading can enhance your financial strategy by reducing tax liabilities and optimizing investment outcomes."
 ---
 

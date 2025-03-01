@@ -1,5 +1,5 @@
 ---
-title: "Outward Arbitrage in Finance (Algo Trading)"
+title: "Outward Arbitrage in Finance"
 description: "Explore the synergy between arbitrage and algorithmic trading in finance. Learn how this combination maximizes investment gains and market efficiency."
 ---
 

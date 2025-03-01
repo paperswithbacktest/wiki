@@ -1,5 +1,5 @@
 ---
-title: "Operating Earnings: Overview and Calculation (Algo Trading)"
+title: "Operating Earnings: Overview and Calculation"
 description: "Explore how operating earnings serve as a vital indicator of a company's financial health and their significance in algorithmic trading strategies."
 ---
 

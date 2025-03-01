@@ -1,5 +1,5 @@
 ---
-title: "Samoan Tala (Algo Trading)"
+title: "Samoan Tala"
 description: "Explore the significance of the Samoan Tala as a symbol of national identity and economic sovereignty, and discover its role in modern algorithmic trading."
 ---
 

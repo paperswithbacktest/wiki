@@ -1,5 +1,5 @@
 ---
-title: "Wisdom of Crowds Theory and Examples (Algo Trading)"
+title: "Wisdom of Crowds Theory and Examples"
 description: "Explore the concept of the wisdom of crowds and its application in algorithmic trading. Learn how collective intelligence enhances decision-making in financial markets, optimizing trading strategies and boosting market predictions. Understand how algorithmic trading can leverage crowd insights for more dynamic, effective models and gain a competitive edge in the industry."
 ---
 

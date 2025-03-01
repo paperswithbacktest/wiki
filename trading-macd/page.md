@@ -1,5 +1,5 @@
 ---
-title: "Trading MACD (Algo Trading)"
+title: "Trading MACD"
 description: "Explore the power of the Moving Average Convergence Divergence (MACD) indicator in trading across cryptocurrency, stocks, and forex markets. Discover its role in analyzing momentum and trend direction, and learn how to utilize MACD effectively for both manual and algorithmic trading. This guide investigates into various MACD trading strategies, from crossovers to histogram analysis, and offers insight into combining MACD with other indicators like RSI and SMA to enhance trading precision. Understand the nuances of leveraging MACD to build a robust and informed trading toolkit."
 ---
 

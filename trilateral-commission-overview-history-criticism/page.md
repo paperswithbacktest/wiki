@@ -1,5 +1,5 @@
 ---
-title: "Trilateral Commission: Overview, History, Criticism (Algo Trading)"
+title: "Trilateral Commission: Overview, History, Criticism"
 description: "Explore the influence of the Trilateral Commission on global policies and its role in algorithmic trading. Discover insights into economic strategies shaped by think tanks."
 ---
 

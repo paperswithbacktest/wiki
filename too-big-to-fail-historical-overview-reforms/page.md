@@ -1,5 +1,5 @@
 ---
-title: "Too Big to Fail: Historical Overview and Reforms (Algo Trading)"
+title: "Too Big to Fail: Historical Overview and Reforms"
 description: "Explore the history and reforms related to 'Too Big to Fail' in the financial sector and understand the impact of algorithmic trading on modern economies."
 ---
 

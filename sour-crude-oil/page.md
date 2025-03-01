@@ -1,5 +1,5 @@
 ---
-title: "Sour Crude Oil (Algo Trading)"
+title: "Sour Crude Oil"
 description: "Explore the unique challenges and opportunities of sour crude oil and algorithmic trading to enhance profitability in volatile crude oil markets."
 ---
 

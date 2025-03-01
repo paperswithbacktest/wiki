@@ -1,5 +1,5 @@
 ---
-title: "Variable Cost: Overview and Calculation (Algo Trading)"
+title: "Variable Cost: Overview and Calculation"
 description: "Understand and calculate variable costs in algorithmic trading. Learn how brokerage fees, slippage, and transaction costs impact profitability and strategy."
 ---
 

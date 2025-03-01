@@ -1,5 +1,5 @@
 ---
-title: "Pareidolia and Its Impact on Stock Market Trading (Algo Trading)"
+title: "Pareidolia and Its Impact on Stock Market Trading"
 description: "Explore pareidolia's influence on stock market trading and how it affects decision-making. Understand its role in pattern recognition and its impact on algo trading."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stripped Bonds: Definition and Mechanics (Algo Trading)"
+title: "Stripped Bonds: Definition and Mechanics"
 description: "Explore stripped bonds as unique investments that separate a bond's principal and interest. Understand their mechanics and the role of algorithmic trading in this market."
 ---
 

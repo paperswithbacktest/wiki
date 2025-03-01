@@ -1,5 +1,5 @@
 ---
-title: "Spread Variations in Financial Trading (Algo Trading)"
+title: "Spread Variations in Financial Trading"
 description: "Explore the complexity and importance of spreads in financial trading and algorithmic trading on this comprehensive page. Delve into the bid-ask spreads in stock markets, yield spreads in bonds, and the strategic use of options and forex spreads. Gain insight into how algorithmic trading utilizes spreads to optimize trading strategies and enhance decision-making. A must-read for those seeking to understand spreads' influence on market dynamics and trading performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Supply and Demand (Algo Trading)"
+title: "Supply and Demand"
 description: "Explore price theory, market equilibrium, and algorithmic trading to understand their roles in economics and modern financial markets, enhancing trading efficiency."
 ---
 

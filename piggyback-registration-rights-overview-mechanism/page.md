@@ -1,5 +1,5 @@
 ---
-title: "Piggyback Registration Rights: Overview and Mechanism (Algo Trading)"
+title: "Piggyback Registration Rights: Overview and Mechanism"
 description: "Explore the importance of piggyback registration rights in investment securities and algorithmic trading for portfolio liquidity optimization."
 ---
 

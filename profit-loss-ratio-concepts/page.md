@@ -1,5 +1,5 @@
 ---
-title: "Profit and Loss Ratio Concepts (Algo Trading)"
+title: "Profit and Loss Ratio Concepts"
 description: "Explore the crucial role of the profit-loss ratio in algorithmic trading and investment analysis, guiding traders in maximizing returns and managing risk effectively."
 ---
 

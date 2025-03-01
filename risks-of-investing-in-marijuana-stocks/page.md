@@ -1,5 +1,5 @@
 ---
-title: "Risks of Investing in Marijuana Stocks (Algo Trading)"
+title: "Risks of Investing in Marijuana Stocks"
 description: "Explore the promising yet volatile world of marijuana stocks and algorithmic trading. Learn about investment risks, opportunities, and market dynamics."
 ---
 

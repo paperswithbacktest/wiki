@@ -1,5 +1,5 @@
 ---
-title: "Mubadala Development Company Overview (Algo Trading)"
+title: "Mubadala Development Company Overview"
 description: "Explore Mubadala Investment Company's strategic expansion into algorithmic trading as it integrates advanced technologies and diversifies its global portfolio."
 ---
 

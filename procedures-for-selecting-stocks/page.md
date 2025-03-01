@@ -1,5 +1,5 @@
 ---
-title: "Procedures for Selecting Stocks (Algo Trading)"
+title: "Procedures for Selecting Stocks"
 description: "Optimize your trading strategy with insights on stock selection, financial analysis, and algorithmic trading to maximize returns and manage risks effectively."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Toggle Note: Meaning and Functionality (Algo Trading)"
+title: "Toggle Note: Meaning and Functionality"
 description: "Explore how toggle notes enhance algorithmic trading by offering financial flexibility and strategic advantages for traders in navigating volatile markets effectively."
 ---
 

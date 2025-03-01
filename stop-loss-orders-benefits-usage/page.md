@@ -1,5 +1,5 @@
 ---
-title: "Stop-Loss Orders: Benefits and Usage (Algo Trading)"
+title: "Stop-Loss Orders: Benefits and Usage"
 description: "Explore the pivotal role of stop-loss orders in risk management within algorithmic trading Discover how these tools minimize losses and boost trading success"
 ---
 

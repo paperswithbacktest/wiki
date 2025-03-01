@@ -1,5 +1,5 @@
 ---
-title: "Moral Hazard and the 2008 Financial Crisis (Algo Trading)"
+title: "Moral Hazard and the 2008 Financial Crisis"
 description: "Explore the critical role of moral hazard and algorithmic trading in the 2008 financial crisis outlining their impact on global financial systems and risk management."
 ---
 

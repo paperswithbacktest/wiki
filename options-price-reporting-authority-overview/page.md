@@ -1,5 +1,5 @@
 ---
-title: "Options Price Reporting Authority Overview (Algo Trading)"
+title: "Options Price Reporting Authority Overview"
 description: "Explore the vital role of the Options Price Reporting Authority in ensuring transparent and efficient options pricing and algorithmic trading through real-time data."
 ---
 

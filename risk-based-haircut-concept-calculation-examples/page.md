@@ -1,5 +1,5 @@
 ---
-title: "Risk-Based Haircut: Concept, Calculation, and Examples (Algo Trading)"
+title: "Risk-Based Haircut: Concept, Calculation, and Examples"
 description: "Explore how risk-based haircuts safeguard investors and lenders in algorithmic trading by minimizing devaluation risks with precise calculations and real-world examples."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Moving Average Slope Explained (Algo Trading)"
+title: "Moving Average Slope Explained"
 description: Discover the significance of moving average slope in algorithmic trading and how it enhances trading strategies. This page explains how understanding the slope of a moving average provides deeper market insights, helping traders identify momentum and potential trend shifts. By integrating this indicator into trading tactics, both mean-reversion and trend-following strategies can be optimized for better decision-making and profitability in the financial markets. Explore the definition, calculation, and practical applications of moving average slope to improve your trading outcomes.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Net Present Value of Growth Opportunities (Algo Trading)"
+title: "Net Present Value of Growth Opportunities"
 description: "Discover the intersection of Net Present Value and growth opportunities in algorithmic trading Learn how to leverage financial analysis for optimal investment strategies"
 ---
 

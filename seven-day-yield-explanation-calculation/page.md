@@ -1,5 +1,5 @@
 ---
-title: "Seven-Day Yield: Explanation and Calculation (Algo Trading)"
+title: "Seven-Day Yield: Explanation and Calculation"
 description: "Learn about the seven-day yield a crucial metric in money market funds used to assess short-term performance and project annualized returns for informed investing."
 ---
 

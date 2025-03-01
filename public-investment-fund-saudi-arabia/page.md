@@ -1,5 +1,5 @@
 ---
-title: "Public Investment Fund of Saudi Arabia (Algo Trading)"
+title: "Public Investment Fund of Saudi Arabia"
 description: "Discover how the Public Investment Fund of Saudi Arabia uses algorithmic trading to enhance strategy and efficiency, aligning with Vision 2030 goals."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "List of Myths About Technical Analysis (Algo Trading)"
+title: "List of Myths About Technical Analysis"
 description: "Explore the common myths surrounding technical analysis and algorithmic trading as we dispel misconceptions and reveal their true potential and limitations."
 ---
 

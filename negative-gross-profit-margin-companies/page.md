@@ -1,5 +1,5 @@
 ---
-title: "Negative Gross Profit Margin in Companies (Algo Trading)"
+title: "Negative Gross Profit Margin in Companies"
 description: "Explore the impact of negative gross profit margins in companies and the role of algorithmic trading This article investigates into financial challenges and strategic insights."
 ---
 

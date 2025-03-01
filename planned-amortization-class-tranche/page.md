@@ -1,5 +1,5 @@
 ---
-title: "Planned Amortization Class Tranche (Algo Trading)"
+title: "Planned Amortization Class Tranche"
 description: "Discover the role of Planned Amortization Class tranches in structured finance and algorithmic trading offering stability and risk management for investors."
 ---
 

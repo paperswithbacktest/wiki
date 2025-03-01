@@ -1,5 +1,5 @@
 ---
-title: "United States Department of the Treasury: History and Functions (Algo Trading)"
+title: "United States Department of the Treasury: History and Functions"
 description: "Explore the history, functions, and impact of U.S. Treasury bonds, IRS regulations, and algorithmic trading on financial markets and economic strategies."
 ---
 

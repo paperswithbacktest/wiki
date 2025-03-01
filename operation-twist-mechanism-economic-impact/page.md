@@ -1,5 +1,5 @@
 ---
-title: "Operation Twist: Mechanism and Economic Impact (Algo Trading)"
+title: "Operation Twist: Mechanism and Economic Impact"
 description: "Explore the intricate dynamics of Operation Twist a Federal Reserve strategy to modify interest rates and its interplay with algorithmic trading in today’s economy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Option Margin: Calculation and Requirements (Algo Trading)"
+title: "Option Margin: Calculation and Requirements"
 description: "Master option margin calculations in algorithmic trading to optimize strategies enhance returns and manage risks more effectively in competitive markets."
 ---
 

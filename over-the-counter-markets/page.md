@@ -1,5 +1,5 @@
 ---
-title: "Over-the-Counter Markets (Algo Trading)"
+title: "Over-the-Counter Markets"
 description: "Explore the dynamic world of Over-the-Counter markets and algorithmic trading. Discover the flexibility and efficiency these decentralized platforms offer to investors."
 ---
 

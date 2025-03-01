@@ -1,5 +1,5 @@
 ---
-title: "Old Mission Capital (Algo Trading)"
+title: "Old Mission Capital"
 description: "Explore how Old Mission Capital leverages technology in algorithmic trading to optimize efficiency innovate strategies and enhance trading outcomes in financial markets."
 ---
 

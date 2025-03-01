@@ -1,5 +1,5 @@
 ---
-title: "Short Selling Regulations in China (Algo Trading)"
+title: "Short Selling Regulations in China"
 description: "Explore China's regulatory landscape on short selling and algorithmic trading uncovering the challenges and implications for investors navigating these financial practices."
 ---
 

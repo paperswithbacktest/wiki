@@ -1,5 +1,5 @@
 ---
-title: "Types of Earnings per Share (Algo Trading)"
+title: "Types of Earnings per Share"
 description: "Explore Earnings Per Share in algorithmic trading with insights on Basic, Diluted, Normalized, and Adjusted EPS types and their impact on investment strategies."
 ---
 

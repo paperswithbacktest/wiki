@@ -1,5 +1,5 @@
 ---
-title: "Reasons to Invest in Real Estate (Algo Trading)"
+title: "Reasons to Invest in Real Estate"
 description: "Discover the benefits of real estate investment enhanced by algorithmic trading. Explore stable income, tax advantages, and modern technology in property markets."
 ---
 

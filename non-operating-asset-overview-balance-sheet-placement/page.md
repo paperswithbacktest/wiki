@@ -1,5 +1,5 @@
 ---
-title: "Non-Operating Asset Overview and Balance Sheet Placement (Algo Trading)"
+title: "Non-Operating Asset Overview and Balance Sheet Placement"
 description: "Explore the strategic significance of non-operating assets in a company's balance sheet and how algorithmic trading optimizes financial strategies."
 ---
 

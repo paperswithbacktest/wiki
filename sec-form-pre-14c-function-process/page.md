@@ -1,5 +1,5 @@
 ---
-title: "SEC Form PRE 14C: Function and Process (Algo Trading)"
+title: "SEC Form PRE 14C: Function and Process"
 description: "Explore the intersection of proxy statements, SEC Form PRE 14C, shareholder communication, and algorithmic trading in corporate governance and financial markets."
 ---
 

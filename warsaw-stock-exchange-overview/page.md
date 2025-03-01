@@ -1,5 +1,5 @@
 ---
-title: "Warsaw Stock Exchange Overview (Algo Trading)"
+title: "Warsaw Stock Exchange Overview"
 description: "Discover the Warsaw Stock Exchange's role in Poland's finance market and its shift towards algorithmic trading, enhancing speed and precision for investors."
 ---
 

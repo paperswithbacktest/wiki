@@ -1,5 +1,5 @@
 ---
-title: "Mumbai Interbank Offered Rate and Mumbai Interbank Bid Rate Comparison (Algo Trading)"
+title: "Mumbai Interbank Offered Rate and Mumbai Interbank Bid Rate Comparison"
 description: "Compare MIBOR and MIBID rates vital for India's banking sector They benchmark short-term lending and influence financial products and trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Private Equity: Examples and Investment Strategies (Algo Trading)"
+title: "Private Equity: Examples and Investment Strategies"
 description: "Explore private equity and algorithmic trading strategies with real-world examples and insights into methodologies benefits and risks for informed investment decisions"
 ---
 

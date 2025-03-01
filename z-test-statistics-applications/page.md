@@ -1,5 +1,5 @@
 ---
-title: "Z-Test in Statistics and Applications (Algo Trading)"
+title: "Z-Test in Statistics and Applications"
 description: "Explore how Z-Tests enhance algorithmic trading by identifying anomalies and validating hypotheses essential for superior market strategy optimization."
 ---
 

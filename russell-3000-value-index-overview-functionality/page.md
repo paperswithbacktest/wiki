@@ -1,5 +1,5 @@
 ---
-title: "Russell 3000 Value Index Overview and Functionality (Algo Trading)"
+title: "Russell 3000 Value Index Overview and Functionality"
 description: "Explore the Russell 3000 Value Index as it showcases value stocks with low P/B ratios and high dividend yields ideal for algorithmic trading strategies."
 ---
 

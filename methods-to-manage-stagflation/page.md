@@ -1,5 +1,5 @@
 ---
-title: "Methods to Manage Stagflation (Algo Trading)"
+title: "Methods to Manage Stagflation"
 description: "Explore methods to manage stagflation using algorithmic trading to enhance market stability and efficiency while tackling the challenges of economic stagnation and rising inflation."
 ---
 

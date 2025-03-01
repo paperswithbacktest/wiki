@@ -1,5 +1,5 @@
 ---
-title: "Petroleum: Importance and Investment (Algo Trading)"
+title: "Petroleum: Importance and Investment"
 description: "Explore the transformation of petroleum investment with algorithmic trading insights Learn how advanced trading optimizes energy resource management and market dynamics"
 ---
 

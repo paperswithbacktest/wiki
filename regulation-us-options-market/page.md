@@ -1,5 +1,5 @@
 ---
-title: "Regulation of the US Options Market (Algo Trading)"
+title: "Regulation of the US Options Market"
 description: "Explore the intersection of U.S. options market regulations and algorithmic trading. Learn about compliance frameworks essential for market integrity and stability."
 ---
 

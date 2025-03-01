@@ -1,5 +1,5 @@
 ---
-title: "Strategies to Prevent Emotional Investing (Algo Trading)"
+title: "Strategies to Prevent Emotional Investing"
 description: "Learn how to avoid emotional investing with algorithmic trading Discover behavioral finance strategies to enhance decision-making and minimize biases."
 ---
 

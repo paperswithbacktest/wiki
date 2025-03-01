@@ -1,5 +1,5 @@
 ---
-title: "Understanding T-Bill Quotes (Algo Trading)"
+title: "Understanding T-Bill Quotes"
 description: "Discover the essentials of Treasury Bill quotes and the impact of algorithmic trading strategies that enhance investment decisions in fluctuating markets."
 ---
 

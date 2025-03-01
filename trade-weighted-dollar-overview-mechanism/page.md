@@ -1,5 +1,5 @@
 ---
-title: "Trade-Weighted Dollar: Overview and Mechanism (Algo Trading)"
+title: "Trade-Weighted Dollar: Overview and Mechanism"
 description: "Explore the trade-weighted dollar's role in currency valuation and algorithmic trading for enhanced financial strategies and insights into global markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Nonaccrual Experience Method (Algo Trading)"
+title: "Nonaccrual Experience Method"
 description: "Discover how the Nonaccrual Experience (NAE) Method enhances financial reporting by accurately managing bad debts and refining algorithmic trading strategies."
 ---
 

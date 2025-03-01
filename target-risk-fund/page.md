@@ -1,5 +1,5 @@
 ---
-title: "Target-Risk Fund (Algo Trading)"
+title: "Target-Risk Fund"
 description: "Explore the innovative strategies of target-risk funds and algorithmic trading to optimize your investment portfolio by balancing risk management and market opportunities."
 ---
 

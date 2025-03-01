@@ -1,5 +1,5 @@
 ---
-title: "Notional Value of Futures Contracts (Algo Trading)"
+title: "Notional Value of Futures Contracts"
 description: "Explore the critical role of notional value in futures contracts and its impact on algorithmic trading Learn how it aids in risk management and strategic decisions"
 ---
 

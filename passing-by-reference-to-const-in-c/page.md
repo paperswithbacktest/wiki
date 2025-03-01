@@ -1,5 +1,5 @@
 ---
-title: "Passing by Reference to Const in C++ (Algo Trading)"
+title: "Passing by Reference to Const in C++"
 description: Learn how passing by const reference in C++ can optimize algorithmic trading software by enhancing speed and data integrity essential for high-frequency trading. This technique facilitates efficient data handling without creating copies reducing computational load and improving performance in trading algorithms.
 ---
 

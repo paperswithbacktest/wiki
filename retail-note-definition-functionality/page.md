@@ -1,5 +1,5 @@
 ---
-title: "Retail Note: Definition and Functionality (Algo Trading)"
+title: "Retail Note: Definition and Functionality"
 description: "Discover the significance of retail notes and their role in individual investing and algorithmic trading strategies to optimize fixed income investments."
 ---
 

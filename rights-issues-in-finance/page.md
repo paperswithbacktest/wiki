@@ -1,5 +1,5 @@
 ---
-title: "Rights Issues in Finance (Algo Trading)"
+title: "Rights Issues in Finance"
 description: "Explore rights issues and algorithmic trading in finance. Understand their impact on investment strategies and market dynamics, enhancing your financial insights."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Spread trade (Algo Trading)"
+title: "Spread trade"
 description: "Explore spread trading in algorithmic trading, a strategy using Python for precise, automated trades exploiting price differences between correlated assets."
 ---
 

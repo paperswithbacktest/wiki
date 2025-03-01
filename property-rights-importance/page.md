@@ -1,5 +1,5 @@
 ---
-title: "Property Rights and Their Importance (Algo Trading)"
+title: "Property Rights and Their Importance"
 description: "Explore the crucial role of property rights and ownership laws in economic efficiency and algorithmic trading driving market growth and resource allocation."
 ---
 

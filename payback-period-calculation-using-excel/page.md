@@ -1,5 +1,5 @@
 ---
-title: "Payback Period Calculation Using Excel (Algo Trading)"
+title: "Payback Period Calculation Using Excel"
 description: "Discover how to calculate the payback period using Excel for algorithmic trading strategies with precision and speed enhancing your investment analysis."
 ---
 

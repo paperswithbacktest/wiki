@@ -1,5 +1,5 @@
 ---
-title: "Opening Cross: Mechanism and Example (Algo Trading)"
+title: "Opening Cross: Mechanism and Example"
 description: "Optimize your trading strategy with insights into the opening cross and algorithmic trading. Learn how technology shapes stock market orders and boosts efficiency."
 ---
 

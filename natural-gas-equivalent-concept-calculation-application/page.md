@@ -1,5 +1,5 @@
 ---
-title: "Natural Gas Equivalent: Concept, Calculation, Application (Algo Trading)"
+title: "Natural Gas Equivalent: Concept, Calculation, Application"
 description: "Explore the natural gas equivalent concept in energy trading and its role in algo trading Enhance decision-making with energy conversion and algorithm strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "RevPAR in Hospitality Industry (Algo Trading)"
+title: "RevPAR in Hospitality Industry"
 description: "Leverage algorithmic trading strategies to enhance hotel revenue management and maximize RevPAR with data-driven insights and predictive analytics."
 ---
 

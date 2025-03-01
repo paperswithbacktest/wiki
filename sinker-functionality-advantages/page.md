@@ -1,5 +1,5 @@
 ---
-title: "Sinker: Functionality and Advantages (Algo Trading)"
+title: "Sinker: Functionality and Advantages"
 description: "Explore the advantages of integrating sinker bonds with algorithmic trading to enhance investment strategies improve risk management and achieve consistent returns."
 ---
 

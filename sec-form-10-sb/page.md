@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 10-SB (Algo Trading)"
+title: "SEC Form 10-SB"
 description: "Explore the historical impact of SEC Form 10-SB on small business securities registration and its role in modern algorithmic trading strategies."
 ---
 

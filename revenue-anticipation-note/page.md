@@ -1,5 +1,5 @@
 ---
-title: "Revenue Anticipation Note (Algo Trading)"
+title: "Revenue Anticipation Note"
 description: "Explore how municipalities utilize Revenue Anticipation Notes and algorithmic trading to enhance fiscal management and secure short-term funding effectively."
 ---
 

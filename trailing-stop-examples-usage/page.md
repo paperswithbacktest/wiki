@@ -1,5 +1,5 @@
 ---
-title: "Trailing Stop: Examples and Usage (Algo Trading)"
+title: "Trailing Stop: Examples and Usage"
 description: "Discover how trailing stops enhance algorithmic trading strategies by offering dynamic risk management and profit protection to optimize your trading performance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Shareholder Register (Algo Trading)"
+title: "Shareholder Register"
 description: "Explore the intricate dynamics of shareholder registers, corporate governance, and algorithmic trading to navigate modern financial markets with strategic insights."
 ---
 

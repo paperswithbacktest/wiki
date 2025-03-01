@@ -1,5 +1,5 @@
 ---
-title: "Standby Underwriting: Overview and Mechanics (Algo Trading)"
+title: "Standby Underwriting: Overview and Mechanics"
 description: "Explore the essentials of standby underwriting and algo trading in the financial markets Understand how they impact IPOs market efficiency and risk management strategies"
 ---
 

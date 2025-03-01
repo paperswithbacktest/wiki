@@ -1,5 +1,5 @@
 ---
-title: "Value at Risk and Tail of Loss Distribution (Algo Trading)"
+title: "Value at Risk and Tail of Loss Distribution"
 description: "Explore the value at risk (VaR) and tail value at risk (TVaR) in algorithmic trading Understanding how these metrics enhance risk management is essential for traders."
 ---
 

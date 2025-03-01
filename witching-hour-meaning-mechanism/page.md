@@ -1,5 +1,5 @@
 ---
-title: "Witching Hour: Meaning and Mechanism (Algo Trading)"
+title: "Witching Hour: Meaning and Mechanism"
 description: "Explore the fascinating duality of the witching hour, intertwining folklore and finance. Discover how myths and markets converge during this enigmatic time."
 ---
 

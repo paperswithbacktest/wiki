@@ -1,5 +1,5 @@
 ---
-title: "Muhammad Yunus: Biography, Achievements, Criticisms (Algo Trading)"
+title: "Muhammad Yunus: Biography, Achievements, Criticisms"
 description: "Explore the life and impact of Muhammad Yunus, the pioneer of microfinance, his achievements with Grameen Bank, and his vision for global poverty alleviation."
 ---
 

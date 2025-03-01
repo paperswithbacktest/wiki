@@ -1,5 +1,5 @@
 ---
-title: "Types of Investments and Getting Started (Algo Trading)"
+title: "Types of Investments and Getting Started"
 description: "Discover the basics of various investments and embrace the potential of algorithmic trading. Learn how to build a diversified portfolio and enhance financial literacy."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "requests for quotes (RFQ) (Algo Trading)"
+title: "requests for quotes (RFQ)"
 description: "Enhance your algorithmic trading strategies with Request for Quote (RFQ) to access better liquidity, competitive pricing, and improved trade execution efficiency."
 ---
 

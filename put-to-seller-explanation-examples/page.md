@@ -1,5 +1,5 @@
 ---
-title: "Put to Seller: Explanation and Examples (Algo Trading)"
+title: "Put to Seller: Explanation and Examples"
 description: "Explore the advantages of put-selling and algorithmic trading Learn how these strategies can potentially boost returns while managing risks in financial markets"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sources of Campaign Funding for Presidential Candidates (Algo Trading)"
+title: "Sources of Campaign Funding for Presidential Candidates"
 description: "Explore how political donations, algorithmic trading, and technology influence presidential campaign funding. Understand electoral finance dynamics and modern strategies."
 ---
 

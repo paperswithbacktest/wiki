@@ -1,5 +1,5 @@
 ---
-title: "Spoofy: Meaning and Considerations (Algo Trading)"
+title: "Spoofy: Meaning and Considerations"
 description: "Discover the complexities of "Spoofy" in cryptocurrency markets a term for alleged spoofing activities that manipulate trades and raise ethical concerns."
 ---
 

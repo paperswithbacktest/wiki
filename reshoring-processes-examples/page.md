@@ -1,5 +1,5 @@
 ---
-title: "Reshoring: Processes and Examples (Algo Trading)"
+title: "Reshoring: Processes and Examples"
 description: "Explore the growing trend of reshoring and its impact on supply chains and algorithmic trading Learn how businesses navigate these evolving economic landscapes"
 ---
 

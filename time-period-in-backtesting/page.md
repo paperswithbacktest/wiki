@@ -1,5 +1,5 @@
 ---
-title: "Time period in backtesting (Algo Trading)"
+title: "Time period in backtesting"
 description: This page discusses the significance of selecting the right time period for backtesting in algorithmic trading. It emphasizes the crucial role that backtesting plays in evaluating trading strategies using historical data to simulate and assess their potential profitability and risks. The description highlights the importance of choosing a period that reflects diverse market conditions such as bull and bear markets to ensure strategy robustness. By balancing long-term historical data with recent market trends traders can improve the accuracy of their backtests and make informed decisions. The description also outlines factors influencing backtesting period selection including the strategy type average holding period and data quality.
 ---
 

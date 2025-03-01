@@ -1,5 +1,5 @@
 ---
-title: "Municipal Bond Arbitrage (Algo Trading)"
+title: "Municipal Bond Arbitrage"
 description: "Explore municipal bond arbitrage and algorithmic trading to optimize returns in the bond market Learning about tax-exempt securities and cutting-edge trading tactics"
 ---
 

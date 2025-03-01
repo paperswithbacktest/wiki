@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Optimization Using Normal Distribution (Algo Trading)"
+title: "Portfolio Optimization Using Normal Distribution"
 description: "Optimize your investment strategy by integrating normal distribution with algorithmic trading. Discover how statistical models enhance risk management and returns."
 ---
 

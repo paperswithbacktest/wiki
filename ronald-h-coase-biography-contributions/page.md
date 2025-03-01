@@ -1,5 +1,5 @@
 ---
-title: "Ronald H. Coase: Biography and Contributions (Algo Trading)"
+title: "Ronald H. Coase: Biography and Contributions"
 description: "Discover Ronald H. Coase's profound impact on economic theory through his groundbreaking ideas on transaction costs and property rights that shape modern practices."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Standby Note Issuance Facility (Algo Trading)"
+title: "Standby Note Issuance Facility"
 description: "Explore the benefits of Standby Note Issuance Facilities in finance Ensure liquidity and risk management especially in algorithmic trading environments"
 ---
 

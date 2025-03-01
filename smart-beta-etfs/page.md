@@ -1,5 +1,5 @@
 ---
-title: "Smart Beta ETFs (Algo Trading)"
+title: "Smart Beta ETFs"
 description: "Explore Smart Beta ETFs and algorithmic trading to enhance your investment strategy with innovative approaches delivering potential for improved returns."
 ---
 

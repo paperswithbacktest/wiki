@@ -1,5 +1,5 @@
 ---
-title: "Tradelink Holdings (Algo Trading)"
+title: "Tradelink Holdings"
 description: "Discover how Tradelink Holdings revolutionizes financial markets with cutting-edge algorithmic trading solutions enhancing efficiency and precision for clients."
 ---
 

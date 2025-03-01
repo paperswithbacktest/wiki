@@ -1,5 +1,5 @@
 ---
-title: "Troubled Asset Relief Program: Overview and Mechanism (Algo Trading)"
+title: "Troubled Asset Relief Program: Overview and Mechanism"
 description: "Explore the Troubled Asset Relief Program's pivotal role in stabilizing the 2008 financial sector, its link to algorithmic trading, and its lasting regulatory impact."
 ---
 

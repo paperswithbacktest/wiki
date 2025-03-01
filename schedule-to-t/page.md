@@ -1,5 +1,5 @@
 ---
-title: "Schedule TO-T (Algo Trading)"
+title: "Schedule TO-T"
 description: "Explore the complexities of Schedule TO-T and its vital role in tender offers in relation to algorithmic trading ensuring transparency and strategic leverage."
 ---
 

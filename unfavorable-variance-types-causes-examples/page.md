@@ -1,5 +1,5 @@
 ---
-title: "Unfavorable Variance: Types, Causes, and Examples (Algo Trading)"
+title: "Unfavorable Variance: Types, Causes, and Examples"
 description: "Explore types and causes of unfavorable variance in algo trading and how analyzing financial performance variance can improve strategy for better outcomes."
 ---
 

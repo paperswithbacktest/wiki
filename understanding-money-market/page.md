@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Money Market (Algo Trading)"
+title: "Understanding the Money Market"
 description: "Explore the intricacies of money market investments and algorithmic trading Discover how to balance risk and return using financial instruments and strategies"
 ---
 

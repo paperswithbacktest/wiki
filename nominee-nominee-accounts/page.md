@@ -1,5 +1,5 @@
 ---
-title: "Nominee and Nominee Accounts (Algo Trading)"
+title: "Nominee and Nominee Accounts"
 description: "Discover how nominee accounts and algorithmic trading are reshaping modern finance Enhancing asset management and trading speed they offer efficiency and protection"
 ---
 

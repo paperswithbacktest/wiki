@@ -1,5 +1,5 @@
 ---
-title: "Price Inflation and Measurement (Algo Trading)"
+title: "Price Inflation and Measurement"
 description: "Explore the intricate relationship between price measurement, inflation, economic metrics, and algorithmic trading to enhance your financial strategies. Understand how inflation indices like the Consumer Price Index (CPI) influence economic analysis, central bank policies, and market dynamics. Gain insights into how economic metrics shape trading decisions and learn how to incorporate CPI data into algo trading for swift responses to economic shifts, providing a competitive edge in financial markets."
 ---
 

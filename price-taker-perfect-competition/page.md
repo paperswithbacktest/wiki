@@ -1,5 +1,5 @@
 ---
-title: "Price Taker in Perfect Competition (Algo Trading)"
+title: "Price Taker in Perfect Competition"
 description: "Explore the interconnectedness of price takers, perfect competition, and algorithmic trading in economic theory and financial markets, enhancing market efficiency."
 ---
 

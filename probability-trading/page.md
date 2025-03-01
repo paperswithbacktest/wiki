@@ -1,5 +1,5 @@
 ---
-title: "Probability in Trading (Algo Trading)"
+title: "Probability in Trading"
 description: Explore the crucial role of probability in algorithmic trading to enhance decision-making and strategy optimization. Learn how probability theory underpins trading models by quantifying uncertainties, enabling systematic data-driven strategies that are emotion-free. Discover how these models utilize probability distributions to anticipate market shifts and improve risk management, optimizing opportunities for profitable trading.
 ---
 

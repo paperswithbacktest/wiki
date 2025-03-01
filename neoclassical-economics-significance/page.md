@@ -1,5 +1,5 @@
 ---
-title: "Neoclassical Economics and Its Significance (Algo Trading)"
+title: "Neoclassical Economics and Its Significance"
 description: "Explore the connection between neoclassical economics and algorithmic trading examining how traditional economic theories enhance trading strategy and market efficiency."
 ---
 

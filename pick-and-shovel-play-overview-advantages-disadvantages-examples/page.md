@@ -1,5 +1,5 @@
 ---
-title: "Pick-and-Shovel Play: Overview, Advantages, Disadvantages, and Examples (Algo Trading)"
+title: "Pick-and-Shovel Play: Overview, Advantages, Disadvantages, and Examples"
 description: "Discover the pick-and-shovel investment strategy explore its benefits and challenges and learn how it supports high-growth sectors with examples from algo trading."
 ---
 

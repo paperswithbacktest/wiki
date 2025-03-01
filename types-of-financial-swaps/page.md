@@ -1,5 +1,5 @@
 ---
-title: "Types of Financial Swaps (Algo Trading)"
+title: "Types of Financial Swaps"
 description: "Explore the world of financial swaps in algorithmic trading, understanding their types and advantages for effective risk management and strategic investment."
 ---
 

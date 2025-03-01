@@ -1,5 +1,5 @@
 ---
-title: "SKU: Concept and Functionality (Algo Trading)"
+title: "SKU: Concept and Functionality"
 description: "Discover how SKU functionality optimizes inventory, improves sales, and enhances customer satisfaction with the integration of algorithmic trading systems."
 ---
 

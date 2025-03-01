@@ -1,5 +1,5 @@
 ---
-title: "VWAP Trading Strategy Explained (Algo Trading)"
+title: "VWAP Trading Strategy Explained"
 description: Discover how the Volume Weighted Average Price (VWAP) trading strategy enhances algorithmic trading by offering insights into real-time average security prices while incorporating trade volumes. VWAP is a key benchmark for both retail and institutional traders, providing a detailed understanding of market movements compared to simple moving averages. This comprehensive guide explains VWAP's significance, calculation, and application in algo trading, highlighting its advantages and limitations. Whether you are a novice or experienced trader, mastering VWAP can improve your trading decisions, risk management, and identification of trading opportunities.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Royalty (Payment) (Algo Trading)"
+title: "Royalty (Payment)"
 description: "Explore the convergence of intellectual property licensing and algorithmic trading, facilitating innovation and democratizing access to advanced trading technologies."
 ---
 

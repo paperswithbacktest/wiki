@@ -1,5 +1,5 @@
 ---
-title: "Price Action Trading Strategies (Algo Trading)"
+title: "Price Action Trading Strategies"
 description: "Discover how combining price action trading and algorithmic strategies can enhance market analysis and execution offering traders improved efficiency and insight."
 ---
 

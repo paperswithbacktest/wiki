@@ -1,5 +1,5 @@
 ---
-title: "Options Positions with Unlimited Liability (Algo Trading)"
+title: "Options Positions with Unlimited Liability"
 description: "Understand the risks of options trading with unlimited liability such as naked positions and explore strategies like algorithmic trading to manage and mitigate losses."
 ---
 

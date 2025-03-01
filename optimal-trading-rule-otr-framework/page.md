@@ -1,5 +1,5 @@
 ---
-title: "Optimal trading rule (OTR) framework (Algo Trading)"
+title: "Optimal trading rule (OTR) framework"
 description: Explore the Optimal Trading Rule (OTR) framework within algorithmic trading to innovate trading strategies maximizing returns and minimizing risks. This advanced framework transcends conventional reliance on historical data, minimizing overfitting and enhancing predictive accuracy. By employing mathematical models like stochastic processes, OTR crafts resilient strategies adaptable to market dynamics. Integrating OTR with Python and machine learning supports dynamic hedging and portfolio optimization across various asset classes. Navigate these challenges to harness OTR’s potential in developing adaptive trading strategies for complex financial markets.
 ---
 

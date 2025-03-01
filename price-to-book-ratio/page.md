@@ -1,5 +1,5 @@
 ---
-title: "Price-to-Book Ratio (Algo Trading)"
+title: "Price-to-Book Ratio"
 description: "Explore the significance of the Price-to-Book Ratio in algorithmic trading and learn how it helps assess company valuation to identify investment opportunities."
 ---
 

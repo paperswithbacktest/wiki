@@ -1,5 +1,5 @@
 ---
-title: "Natural Unemployment Rate (Algo Trading)"
+title: "Natural Unemployment Rate"
 description: "Discover how the natural unemployment rate influences algorithmic trading strategies. Explore key insights into unemployment economics and its market impact."
 ---
 

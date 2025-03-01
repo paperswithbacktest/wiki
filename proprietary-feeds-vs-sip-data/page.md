@@ -1,5 +1,5 @@
 ---
-title: "Proprietary Feeds vs SIP Data (Algo Trading)"
+title: "Proprietary Feeds vs SIP Data"
 description: Explore the distinctions between proprietary feeds and SIP data in algo trading to enhance your trading strategies. Proprietary feeds provide detailed, low-latency market data ideal for high-frequency trading, while SIP data offers a more consolidated market view but with higher latency and less granularity. Discover the advantages and limitations of each data type to choose the right feed for your trading objectives and maintain a competitive edge in algorithmic trading.
 ---
 

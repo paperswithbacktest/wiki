@@ -1,5 +1,5 @@
 ---
-title: "Small-Value Stock: Overview and Mechanism (Algo Trading)"
+title: "Small-Value Stock: Overview and Mechanism"
 description: "Explore the dynamics of small-value stocks and the role of algorithmic trading in financial markets Discover strategies to capture growth opportunities and manage risks"
 ---
 

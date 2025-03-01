@@ -1,5 +1,5 @@
 ---
-title: "Unissued Stock: Overview and Functionality (Algo Trading)"
+title: "Unissued Stock: Overview and Functionality"
 description: "Discover how unissued stock and algorithmic trading interplay with financial strategies offering companies flexibility and investors enhanced trading options."
 ---
 

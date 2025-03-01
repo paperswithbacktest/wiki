@@ -1,5 +1,5 @@
 ---
-title: "Times Interest Earned Ratio: Overview and Calculation (Algo Trading)"
+title: "Times Interest Earned Ratio: Overview and Calculation"
 description: "Explore how the Times Interest Earned (TIE) ratio is crucial in assessing a company's debt obligations and its integration into algorithmic trading strategies."
 ---
 

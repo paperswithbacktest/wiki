@@ -1,5 +1,5 @@
 ---
-title: "Separate Account: Functionality and Types (Algo Trading)"
+title: "Separate Account: Functionality and Types"
 description: "Explore the benefits of separate account investment options and the transformative role of algorithmic trading in enhancing investment efficiency and customization."
 ---
 

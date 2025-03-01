@@ -1,5 +1,5 @@
 ---
-title: "Trade In Value Added: Concept and Mechanism (Algo Trading)"
+title: "Trade In Value Added: Concept and Mechanism"
 description: "Explore how Trade in Value Added enhances understanding of global trade and benefits algorithmic trading by accurately depicting value creation across borders."
 ---
 

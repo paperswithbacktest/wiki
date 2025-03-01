@@ -1,5 +1,5 @@
 ---
-title: "Risk Control: Overview and Application (Algo Trading)"
+title: "Risk Control: Overview and Application"
 description: "Discover the importance of risk control in algorithmic trading with our comprehensive guide. Understand how advanced risk management strategies like loss prevention, diversification, and hedging help traders navigate market uncertainties and enhance their trading strategies effectively. Explore the nuances of implementing robust risk mitigation techniques to safeguard investments and ensure profitable outcomes in the fast-paced financial markets."
 ---
 

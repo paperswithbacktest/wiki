@@ -1,5 +1,5 @@
 ---
-title: "Oil Exchange-Traded Funds: Functionality and Challenges (Algo Trading)"
+title: "Oil Exchange-Traded Funds: Functionality and Challenges"
 description: "Explore the world of Oil ETFs and how algorithmic trading reshapes investment strategies Discover both challenges and opportunities in this dynamic market landscape."
 ---
 

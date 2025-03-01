@@ -1,5 +1,5 @@
 ---
-title: "Moving Average Chart: Functions and Limitations (Algo Trading)"
+title: "Moving Average Chart: Functions and Limitations"
 description: "Explore how moving averages enhance algorithmic trading by smoothing price data and recognizing trends. Understand their role in refining trading strategies."
 ---
 

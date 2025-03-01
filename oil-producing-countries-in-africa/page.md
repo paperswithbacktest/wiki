@@ -1,5 +1,5 @@
 ---
-title: "Oil-Producing Countries in Africa (Algo Trading)"
+title: "Oil-Producing Countries in Africa"
 description: "Explore how oil-producing countries like Nigeria and Angola are leveraging algorithmic trading to transform Africa's oil industry and drive economic growth."
 ---
 

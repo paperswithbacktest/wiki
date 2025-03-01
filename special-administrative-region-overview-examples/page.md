@@ -1,5 +1,5 @@
 ---
-title: "Special Administrative Region: Overview and Examples (Algo Trading)"
+title: "Special Administrative Region: Overview and Examples"
 description: "Explore the unique governance of Special Administrative Regions and their impact on algorithmic trading through autonomy and economic diversity."
 ---
 

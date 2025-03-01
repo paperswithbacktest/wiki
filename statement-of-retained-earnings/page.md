@@ -1,5 +1,5 @@
 ---
-title: "Statement of Retained Earnings (Algo Trading)"
+title: "Statement of Retained Earnings"
 description: "Explore the fundamentals of retained earnings and financial statements in modern algorithmic trading. Understand how balance sheets, income statements, and cash flow statements inform trading strategies. Discover how accurate accounting data and financial insights drive successful algorithmic trading decisions and future growth potential."
 ---
 

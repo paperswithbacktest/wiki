@@ -1,5 +1,5 @@
 ---
-title: "Overview of Daedalus Wallet (Algo Trading)"
+title: "Overview of Daedalus Wallet"
 description: "Explore the Daedalus Wallet a secure and feature-rich solution for ADA, offering full-node architecture and algorithmic trading insights for optimal crypto management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Wellbore: Functionality and Examples (Algo Trading)"
+title: "Wellbore: Functionality and Examples"
 description: "Explore the synergy between oil drilling and algorithmic trading showcasing how technological advancements enhance efficiency across industries. Discover innovations driving economic growth."
 ---
 

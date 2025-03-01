@@ -1,5 +1,5 @@
 ---
-title: "Order-Sends-Order: Overview and Examples (Algo Trading)"
+title: "Order-Sends-Order: Overview and Examples"
 description: "Explore Order-Sends-Order trading in algorithmic strategies. Learn how these interdependent orders enhance execution efficiency and risk management."
 ---
 

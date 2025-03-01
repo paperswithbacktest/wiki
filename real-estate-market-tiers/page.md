@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Market Tiers (Algo Trading)"
+title: "Real Estate Market Tiers"
 description: "Explore how financial technology is transforming real estate through property classification, market tier analysis, and algorithmic trading, enhancing investment strategies."
 ---
 

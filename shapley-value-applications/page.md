@@ -1,5 +1,5 @@
 ---
-title: "Shapley Value and Its Applications (Algo Trading)"
+title: "Shapley Value and Its Applications"
 description: "Explore the Shapley value's role in cooperative game theory and its impact on algorithmic trading for fair distribution of gains among coalition members."
 ---
 

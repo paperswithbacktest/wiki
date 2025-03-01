@@ -1,5 +1,5 @@
 ---
-title: "Odd Date: Definition, Function, Significance (Algo Trading)"
+title: "Odd Date: Definition, Function, Significance"
 description: "Explore the significance and impact of odd dates in algorithmic trading Discover how these calendar anomalies create unique opportunities and challenges for traders"
 ---
 

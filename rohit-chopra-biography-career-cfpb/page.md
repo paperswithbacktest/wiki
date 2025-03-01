@@ -1,5 +1,5 @@
 ---
-title: "Rohit Chopra: Biography and Career at CFPB (Algo Trading)"
+title: "Rohit Chopra: Biography and Career at CFPB"
 description: "Explore the impactful career of Rohit Chopra, a key figure in the CFPB who champions consumer protection and fair practices in finance and algorithmic trading."
 ---
 

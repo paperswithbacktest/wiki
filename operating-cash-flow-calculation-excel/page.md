@@ -1,5 +1,5 @@
 ---
-title: "Operating Cash Flow Calculation Using Excel (Algo Trading)"
+title: "Operating Cash Flow Calculation Using Excel"
 description: "Learn about calculating operating cash flow using Excel to enhance financial analysis and boost algorithmic trading strategies by integrating cash flow insights."
 ---
 

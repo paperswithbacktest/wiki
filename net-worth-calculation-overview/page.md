@@ -1,5 +1,5 @@
 ---
-title: "Net Worth Calculation and Overview (Algo Trading)"
+title: "Net Worth Calculation and Overview"
 description: "Explore the role of algorithmic trading in wealth assessment and net worth calculation to optimize financial strategies in today's dynamic market environment."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Voleon Group (Algo Trading)"
+title: "Voleon Group"
 description: "Discover how Voleon Group leads the field in algorithmic trading through advanced machine learning and data-driven strategies for optimized market performance."
 ---
 

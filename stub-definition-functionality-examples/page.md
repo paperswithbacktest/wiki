@@ -1,5 +1,5 @@
 ---
-title: "Stub: Definition, Functionality, and Examples (Algo Trading)"
+title: "Stub: Definition, Functionality, and Examples"
 description: "Discover the crucial role of stubs in algorithmic trading Learn how these tools enhance strategy testing and validation in simulated market conditions for robustness"
 ---
 

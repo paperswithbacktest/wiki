@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Investing in Foreign Exchange (Algo Trading)"
+title: "Reasons for Investing in Foreign Exchange"
 description: "Explore the benefits of investing in forex and algorithmic trading for efficient currency trading and risk management in the world’s largest financial market."
 ---
 

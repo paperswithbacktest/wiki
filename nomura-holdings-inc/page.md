@@ -1,5 +1,5 @@
 ---
-title: "Nomura Holdings, Inc. (Algo Trading)"
+title: "Nomura Holdings, Inc."
 description: "Nomura Holdings leads Japan's securities industry, leveraging cutting-edge algorithmic trading to enhance efficiency and adaptability in global financial markets."
 ---
 

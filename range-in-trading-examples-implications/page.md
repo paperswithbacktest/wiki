@@ -1,5 +1,5 @@
 ---
-title: "Range in Trading: Examples and Implications (Algo Trading)"
+title: "Range in Trading: Examples and Implications"
 description: "Explore how trading range analysis and algorithmic trading can enhance trading strategies by identifying market equilibrium phases and anticipating price movements."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Net Lease Types: Single, Double, Triple (Algo Trading)"
+title: "Net Lease Types: Single, Double, Triple"
 description: "Explore single, double, and triple net leases in real estate, along with algorithmic trading's impact on investment strategies, efficiency, and risk management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Pawnshop Revenue Models (Algo Trading)"
+title: "Pawnshop Revenue Models"
 description: "Discover the revenue potential of loan services, pawnshops, and algorithmic trading. Learn how these models drive growth and profit in the evolving finance sector."
 ---
 

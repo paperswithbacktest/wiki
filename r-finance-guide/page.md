@@ -1,5 +1,5 @@
 ---
-title: "R Finance Guide (Algo Trading)"
+title: "R Finance Guide"
 description: Discover how R empowers algorithmic trading with its statistical prowess, robust libraries, and data visualization capabilities. This guide explores R's role in building and deploying quantitative trading strategies, emphasizing its advantage in data manipulation and analysis. Learn about essential R packages and how they enhance financial computations, offering traders a competitive edge in today's fast-paced markets.
 ---
 

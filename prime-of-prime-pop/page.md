@@ -1,5 +1,5 @@
 ---
-title: "Prime of Prime (PoP) (Algo Trading)"
+title: "Prime of Prime (PoP)"
 description: "Prime of Prime (PoP) trading enhances forex market access by offering deep liquidity and efficient execution, crucial for capitalizing on algorithmic trading strategies."
 ---
 

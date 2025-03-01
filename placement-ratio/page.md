@@ -1,5 +1,5 @@
 ---
-title: "Placement Ratio (Algo Trading)"
+title: "Placement Ratio"
 description: "Explore how strategic financial analysis, placement ratio, and algorithmic trading can enhance investment strategies and navigate dynamic financial markets effectively."
 ---
 

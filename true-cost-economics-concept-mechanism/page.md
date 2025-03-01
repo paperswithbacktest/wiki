@@ -1,5 +1,5 @@
 ---
-title: "True Cost Economics: Concept and Mechanism (Algo Trading)"
+title: "True Cost Economics: Concept and Mechanism"
 description: "Explore true cost economics and its integration with algorithmic trading to address environmental and social impacts in modern financial markets for sustainable growth."
 ---
 

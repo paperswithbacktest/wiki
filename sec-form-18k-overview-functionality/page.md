@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 18-K: Overview and Functionality (Algo Trading)"
+title: "SEC Form 18-K: Overview and Functionality"
 description: "SEC Form 18-K is vital for transparency in global finance, informing investors about foreign government securities and supporting algorithmic trading strategies."
 ---
 

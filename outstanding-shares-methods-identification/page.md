@@ -1,5 +1,5 @@
 ---
-title: "Outstanding Shares and Methods of Identification (Algo Trading)"
+title: "Outstanding Shares and Methods of Identification"
 description: "Explore the essential concepts of outstanding shares and algorithmic trading Learn how stock identification impacts trading strategies and enhances decision-making in today's market"
 ---
 

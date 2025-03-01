@@ -1,5 +1,5 @@
 ---
-title: "Price Transparency: Overview, Costs, and Improvements (Algo Trading)"
+title: "Price Transparency: Overview, Costs, and Improvements"
 description: "Explore the importance of price and cost transparency in algo trading Discover how transparency enhances market efficiency trust and fairness among participants"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Peak Oil: Predictions and Consequences (Algo Trading)"
+title: "Peak Oil: Predictions and Consequences"
 description: "Explore the concept of peak oil and its global implications on economics and technology Discover the role of AI and algorithmic trading in navigating these challenges"
 ---
 

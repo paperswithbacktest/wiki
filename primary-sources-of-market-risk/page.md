@@ -1,5 +1,5 @@
 ---
-title: "Primary Sources of Market Risk (Algo Trading)"
+title: "Primary Sources of Market Risk"
 description: "Explore the complexities of market and financial risks in algo trading and learn strategies to mitigate economic uncertainties impacting today's financial landscape."
 ---
 

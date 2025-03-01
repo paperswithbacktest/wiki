@@ -1,5 +1,5 @@
 ---
-title: "Outlay Cost: Definition and Mechanism (Algo Trading)"
+title: "Outlay Cost: Definition and Mechanism"
 description: "Explore the definition and mechanism of outlay costs in algorithmic trading and learn how managing these expenses can maximize profitability and efficiency."
 ---
 

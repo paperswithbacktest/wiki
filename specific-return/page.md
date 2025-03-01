@@ -1,5 +1,5 @@
 ---
-title: "Specific return (Algo Trading)"
+title: "Specific return"
 description: Explore the essentials of algorithmic trading focused on achieving specific returns. Learn how traders tailor strategies to meet financial goals such as surpassing benchmark indices. This guide covers setting clear objectives, rigorous backtesting, and risk management to craft adaptable trading algorithms. Enhance your trading skills by understanding how precision, data analysis, and strategic foresight combine for targeted financial outcomes in dynamic markets. Whether you are a seasoned trader or a newcomer, mastering specific returns is pivotal to aligning algorithmic trading with your financial aspirations.
 ---
 

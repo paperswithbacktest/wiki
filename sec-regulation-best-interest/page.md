@@ -1,5 +1,5 @@
 ---
-title: "SEC Regulation Best Interest (Algo Trading)"
+title: "SEC Regulation Best Interest"
 description: "SEC's Regulation Best Interest seeks to strengthen investor protections by aligning broker-dealer obligations with fiduciary standards, focusing on transparency."
 ---
 

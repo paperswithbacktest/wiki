@@ -1,5 +1,5 @@
 ---
-title: "Timothy Klassen (Algo Trading)"
+title: "Timothy Klassen"
 description: "Discover the career of Timothy Klassen, a trailblazer in algorithmic trading and finance, renowned for his contributions to options market making and volatility modeling."
 ---
 

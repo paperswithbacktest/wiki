@@ -1,5 +1,5 @@
 ---
-title: "Segantii Capital Management (Algo Trading)"
+title: "Segantii Capital Management"
 description: "Explore how Segantii Capital Management excels in algo trading with innovative strategies and advanced tech to deliver consistent high returns in financial markets."
 ---
 

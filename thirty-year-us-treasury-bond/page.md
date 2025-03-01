@@ -1,5 +1,5 @@
 ---
-title: "Thirty-Year U.S. Treasury Bond (Algo Trading)"
+title: "Thirty-Year U.S. Treasury Bond"
 description: "Explore the dynamics of the 30-year U.S. Treasury bond and discover how algorithmic trading impacts markets offering insights into future economic conditions."
 ---
 

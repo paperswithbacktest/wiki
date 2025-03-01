@@ -1,5 +1,5 @@
 ---
-title: "Top Small-Cap Index Funds (Algo Trading)"
+title: "Top Small-Cap Index Funds"
 description: "Explore top small-cap index funds and algorithmic trading strategies to optimize investment returns. Learn how to balance risk and growth potential effectively."
 ---
 

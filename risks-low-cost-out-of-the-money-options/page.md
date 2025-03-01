@@ -1,5 +1,5 @@
 ---
-title: "Risks of Low-Cost Out-of-the-Money Options (Algo Trading)"
+title: "Risks of Low-Cost Out-of-the-Money Options"
 description: "Explore the risks and opportunities of low-cost out-of-the-money options in algorithmic trading. Learn strategies to manage financial risks effectively."
 ---
 

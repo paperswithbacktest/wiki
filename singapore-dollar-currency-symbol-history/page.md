@@ -1,5 +1,5 @@
 ---
-title: "Singapore Dollar: Currency Symbol and History (Algo Trading)"
+title: "Singapore Dollar: Currency Symbol and History"
 description: "Explore the Singapore Dollar's rich history and its critical role in algorithmic trading Discover why SGD stands out in global forex markets with its unique identity"
 ---
 

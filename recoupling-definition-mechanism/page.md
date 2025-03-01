@@ -1,5 +1,5 @@
 ---
-title: "Recoupling: Definition and Mechanism (Algo Trading)"
+title: "Recoupling: Definition and Mechanism"
 description: "Explore the dynamic interplay between economics and technology in trading through recoupling and algorithmic mechanisms. Enhance investment strategies with this insight."
 ---
 

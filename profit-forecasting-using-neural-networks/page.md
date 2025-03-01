@@ -1,5 +1,5 @@
 ---
-title: "Profit Forecasting Using Neural Networks (Algo Trading)"
+title: "Profit Forecasting Using Neural Networks"
 description: "Explore how neural networks revolutionize profit forecasting in algorithmic trading by uncovering complex patterns, enhancing strategies, and improving market predictions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Regulation BB: Overview and Functionality (Algo Trading)"
+title: "Regulation BB: Overview and Functionality"
 description: "Explore Regulation BB and its impact on fair lending practices in financial institutions. Understand the regulatory landscape of algorithmic trading and its challenges."
 ---
 

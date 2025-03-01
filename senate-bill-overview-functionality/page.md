@@ -1,5 +1,5 @@
 ---
-title: "Senate Bill Overview and Functionality (Algo Trading)"
+title: "Senate Bill Overview and Functionality"
 description: "Explore the impact of Senate bills and algorithmic trading on U.S. legislative and financial landscapes highlighting the 2023 Algorithmic Accountability Act."
 ---
 

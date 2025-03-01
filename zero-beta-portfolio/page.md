@@ -1,5 +1,5 @@
 ---
-title: "Zero-Beta Portfolio (Algo Trading)"
+title: "Zero-Beta Portfolio"
 description: "Zero-beta portfolios offer stable returns by eliminating market risk with algorithmic trading optimizing their composition to maintain neutrality for investors."
 ---
 

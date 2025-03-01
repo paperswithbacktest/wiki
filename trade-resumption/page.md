@@ -1,5 +1,5 @@
 ---
-title: "Trade Resumption (Algo Trading)"
+title: "Trade Resumption"
 description: "Discover how algorithmic trading and trade resumption are driving economic recovery post-pandemic by reshaping global trade dynamics and opportunities."
 ---
 

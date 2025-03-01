@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Immunization and Cash Flow Matching (Algo Trading)"
+title: "Portfolio Immunization and Cash Flow Matching"
 description: "Explore how portfolio immunization, cash flow matching, and algorithmic trading can boost investment strategy effectiveness for financial goals amid market changes."
 ---
 

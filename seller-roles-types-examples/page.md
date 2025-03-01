@@ -1,5 +1,5 @@
 ---
-title: "Seller: Roles, Types, and Examples (Algo Trading)"
+title: "Seller: Roles, Types, and Examples"
 description: "Explore the roles and types of sellers, the evolution of selling methods, and the impact of algorithmic trading in today's dynamic financial markets."
 ---
 

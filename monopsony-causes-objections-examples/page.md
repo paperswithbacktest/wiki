@@ -1,5 +1,5 @@
 ---
-title: "Monopsony: Causes, Objections, and Examples (Algo Trading)"
+title: "Monopsony: Causes, Objections, and Examples"
 description: "Explore the effects of monopsony on market dynamics and algorithmic trading intersect. Understand causes objections examples and implications for investors and regulators."
 ---
 

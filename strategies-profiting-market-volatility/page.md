@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Profiting from Market Volatility (Algo Trading)"
+title: "Strategies for Profiting from Market Volatility"
 description: "Master algo-trading techniques to profit from market volatility by automating strategies that capitalize on price movements while minimizing risks."
 ---
 

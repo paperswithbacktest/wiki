@@ -1,5 +1,5 @@
 ---
-title: "Unappropriated Retained Earnings (Algo Trading)"
+title: "Unappropriated Retained Earnings"
 description: "Explore the flexibility and strategic importance of unappropriated retained earnings in corporate finance Discover how companies leverage these for growth and stability"
 ---
 

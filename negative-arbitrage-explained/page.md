@@ -1,5 +1,5 @@
 ---
-title: "Negative Arbitrage Explained (Algo Trading)"
+title: "Negative Arbitrage Explained"
 description: "Discover the intricacies of negative arbitrage and algorithmic trading to enhance your investment strategies and navigate modern financial complexities efficiently."
 ---
 

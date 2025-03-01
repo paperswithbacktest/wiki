@@ -1,5 +1,5 @@
 ---
-title: "Taxation of Capital Gains from Mutual Funds in the United States (Algo Trading)"
+title: "Taxation of Capital Gains from Mutual Funds in the United States"
 description: "Navigate the complexities of capital gains tax for mutual funds and algorithmic trading in the US Understand strategies to optimize tax efficiency and returns"
 ---
 

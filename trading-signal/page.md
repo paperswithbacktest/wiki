@@ -1,5 +1,5 @@
 ---
-title: "trading signal (Algo Trading)"
+title: "trading signal"
 description: "Enhance your trading strategy with Algo Trading signals that leverage advanced algorithms for accurate market predictions in Forex and cryptocurrency markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Principal-Agent Problem in Government (Algo Trading)"
+title: "Principal-Agent Problem in Government"
 description: "Explore the principal-agent problem in government and algo trading, focusing on misaligned incentives, information asymmetry, and strategies to enhance accountability."
 ---
 

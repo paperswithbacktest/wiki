@@ -1,5 +1,5 @@
 ---
-title: "Sarbanes-Oxley Act and Investor Protection (Algo Trading)"
+title: "Sarbanes-Oxley Act and Investor Protection"
 description: "Explore the Sarbanes-Oxley Act's significant role in investor protection by enhancing financial transparency and accountability for modern financial markets."
 ---
 

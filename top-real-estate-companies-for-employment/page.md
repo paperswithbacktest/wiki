@@ -1,5 +1,5 @@
 ---
-title: "Top Real Estate Companies for Employment (Algo Trading)"
+title: "Top Real Estate Companies for Employment"
 description: "Explore top real estate companies for career growth and innovation in algo trading Discover diverse roles unique opportunities and strategic company partnerships"
 ---
 

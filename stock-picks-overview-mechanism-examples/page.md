@@ -1,5 +1,5 @@
 ---
-title: "Stock Picks: Overview, Mechanism, and Examples (Algo Trading)"
+title: "Stock Picks: Overview, Mechanism, and Examples"
 description: "Explore investment strategies and stock picking techniques with a focus on algorithmic trading to optimize returns effectively and manage risks in financial markets."
 ---
 

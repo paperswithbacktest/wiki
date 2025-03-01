@@ -1,5 +1,5 @@
 ---
-title: "Petros Zerfos (Algo Trading)"
+title: "Petros Zerfos"
 description: "Discover the groundbreaking work of Petros Zerfos in algorithmic trading and AI at IBM Research where he leads innovations in tech and finance sectors."
 ---
 

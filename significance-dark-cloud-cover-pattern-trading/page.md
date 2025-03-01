@@ -1,5 +1,5 @@
 ---
-title: "Significance of the Dark Cloud Cover Pattern in Trading (Algo Trading)"
+title: "Significance of the Dark Cloud Cover Pattern in Trading"
 description: "Discover the significance of the dark cloud cover pattern in algo trading as a key bearish reversal signal to enhance decision-making and trading strategies."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Vietnamese Dong and Economy (Algo Trading)"
+title: "Vietnamese Dong and Economy"
 description: "Explore Vietnam's economic growth and the Vietnamese dong in global trading Discover insights into algorithmic trading and Vietnam's promising market."
 ---
 

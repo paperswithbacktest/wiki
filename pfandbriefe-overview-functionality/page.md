@@ -1,5 +1,5 @@
 ---
-title: "Pfandbriefe: Overview and Functionality (Algo Trading)"
+title: "Pfandbriefe: Overview and Functionality"
 description: "Explore the dynamics of Pfandbriefe trading in Germany's fixed-income market leveraging algorithmic trading for improved liquidity speed and accuracy while managing risks."
 ---
 

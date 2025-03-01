@@ -1,5 +1,5 @@
 ---
-title: "Operating Netback: Overview and Benefits (Algo Trading)"
+title: "Operating Netback: Overview and Benefits"
 description: "Explore the importance of operating netback in oil and gas finance and the impact of algorithmic trading on market dynamics. Learn strategies for profit maximization."
 ---
 

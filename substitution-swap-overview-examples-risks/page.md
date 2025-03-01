@@ -1,5 +1,5 @@
 ---
-title: "Substitution Swap: Overview, Examples, and Risks (Algo Trading)"
+title: "Substitution Swap: Overview, Examples, and Risks"
 description: "Explore substitution swaps as a financial strategy in algorithmic trading Learn how these swaps enhance returns manage risks and navigate volatile markets"
 ---
 

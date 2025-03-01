@@ -1,5 +1,5 @@
 ---
-title: "Russell 2000 index (Algo Trading)"
+title: "Russell 2000 index"
 description: Explore the significant role of the Russell 2000 Index in algorithmic trading and its impact on small-cap stocks in the U.S. Discover how algorithms leverage the index's volatility to optimize trading strategies and potentially enhance returns. This page investigates into various trading strategies like momentum and mean reversion, highlighting how they utilize statistical models and machine learning for improved decision-making. Gain insights into the interplay between advanced trading systems and the Russell 2000 Index to understand market trends and strategic investment opportunities in the small-cap sector.
 ---
 

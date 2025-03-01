@@ -1,5 +1,5 @@
 ---
-title: "Net Debt Versus Gross Debt: Key Considerations (Algo Trading)"
+title: "Net Debt Versus Gross Debt: Key Considerations"
 description: "Explore the critical role of net and gross debt metrics in evaluating company finances within algorithmic trading, highlighting their impact on trading decisions."
 ---
 

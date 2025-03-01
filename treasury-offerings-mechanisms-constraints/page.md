@@ -1,5 +1,5 @@
 ---
-title: "Treasury Offerings: Mechanisms and Constraints (Algo Trading)"
+title: "Treasury Offerings: Mechanisms and Constraints"
 description: "Explore the dynamics of treasury offerings and algorithmic trading in financial markets Learn how government bonds and trading technologies shape investment strategies"
 ---
 

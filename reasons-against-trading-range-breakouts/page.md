@@ -1,5 +1,5 @@
 ---
-title: "Reasons Against Trading Range Breakouts (Algo Trading)"
+title: "Reasons Against Trading Range Breakouts"
 description: "Explore the complexities of trading range breakouts in algorithmic trading, highlighting the risks involved and strategies for effective risk management."
 ---
 

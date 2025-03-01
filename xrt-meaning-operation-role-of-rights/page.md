@@ -1,5 +1,5 @@
 ---
-title: "XRT: Meaning, Operation, and Role of Rights (Algo Trading)"
+title: "XRT: Meaning, Operation, and Role of Rights"
 description: "Explore the dual nature of XRT in trading: as an ex-rights indicator and the SPDR S&P Retail ETF. Understand its impact and role in algorithmic strategies."
 ---
 

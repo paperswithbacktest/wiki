@@ -1,5 +1,5 @@
 ---
-title: "Understanding the Cash Flow Statement (Algo Trading)"
+title: "Understanding the Cash Flow Statement"
 description: "Explore the crucial role that cash flow statements play in financial analysis and the development of algorithmic trading strategies for enhanced market decisions."
 ---
 

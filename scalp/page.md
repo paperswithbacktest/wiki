@@ -1,5 +1,5 @@
 ---
-title: "Scalp (Algo Trading)"
+title: "Scalp"
 description: "Explore the intriguing connections between the biological complexity of the human scalp and the strategic precision of scalp trading in finance. This article investigates into the anatomical roles of the scalp, from protection to sensory feedback, and examines how scalp trading leverages quick actions in financial markets for incremental gains. Discover the parallels between anatomy and trading, revealing insights into both the human body and high-frequency trading techniques enhanced by algorithmic advancements."
 ---
 

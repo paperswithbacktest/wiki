@@ -1,5 +1,5 @@
 ---
-title: "United States–European Union Trade Volume (Algo Trading)"
+title: "United States–European Union Trade Volume"
 description: "Explore the significant trading partnership between the US and EU focused on trade volume and algorithmic trading amidst challenges and technological advances."
 ---
 

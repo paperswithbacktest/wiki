@@ -1,5 +1,5 @@
 ---
-title: "Selling Group: Function and Examples (Algo Trading)"
+title: "Selling Group: Function and Examples"
 description: "Explore the role of algorithmic trading within selling groups in financial markets. Discover how technology enhances efficiency, pricing, and distribution."
 ---
 

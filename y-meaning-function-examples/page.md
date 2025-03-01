@@ -1,5 +1,5 @@
 ---
-title: "Y: Meaning, Function, and Examples (Algo Trading)"
+title: "Y: Meaning, Function, and Examples"
 description: "Discover the pivotal role of the 'Y' function in trading from its symbol significance in ADRs to its application in algorithmic trading strategies using yfinance."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Private Investment in Public Equity (Algo Trading)"
+title: "Private Investment in Public Equity"
 description: "Explore how private investments in public equity shape financial markets and how algorithmic trading transforms these transactions, enhancing profitability."
 ---
 

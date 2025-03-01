@@ -1,5 +1,5 @@
 ---
-title: "SPAN Margin Overview and Advantages (Algo Trading)"
+title: "SPAN Margin Overview and Advantages"
 description: "Understand SPAN Margin and its advantages for risk management in algorithmic trading ensuring traders maintain capital for potential losses executing strategies."
 ---
 

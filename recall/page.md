@@ -1,5 +1,5 @@
 ---
-title: "Recall (Algo Trading)"
+title: "Recall"
 description: Discover how recall, a key metric from machine learning, is utilized in algorithmic trading to enhance strategy performance. Explore its significance in identifying profitable trade opportunities and ensuring robust trading systems while balancing recall with precision to maximize returns and minimize risks.
 ---
 

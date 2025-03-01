@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Liquidity Ratio (Algo Trading)"
+title: "Mutual Fund Liquidity Ratio"
 description: "Enhance your investment strategies by mastering liquidity ratios in mutual funds and algorithmic trading Understand key metrics to unlock superior returns."
 ---
 

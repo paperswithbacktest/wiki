@@ -1,5 +1,5 @@
 ---
-title: "Zero-Proof Bookkeeping (Algo Trading)"
+title: "Zero-Proof Bookkeeping"
 description: "Explore the synergy between bookkeeping and algorithmic trading with zero-proof bookkeeping ensuring data integrity. Enhance precision and efficiency in financial management."
 ---
 

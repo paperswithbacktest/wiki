@@ -1,5 +1,5 @@
 ---
-title: "Retirement Of Securities: Definition, Process, And Impact (Algo Trading)"
+title: "Retirement Of Securities: Definition, Process, And Impact"
 description: "Discover how securities retirement, strategic investment planning, and algorithmic trading impact financial strategies, wealth management, and retirement planning."
 ---
 

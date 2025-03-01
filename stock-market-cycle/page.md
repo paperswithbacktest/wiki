@@ -1,5 +1,5 @@
 ---
-title: "Stock Market Cycle (Algo Trading)"
+title: "Stock Market Cycle"
 description: "Explore stock market cycles and refine your investment strategy with insights into market phases and algorithmic trading to optimize returns and manage risk."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Riskless Society: Concept, Functionality, and Criticism (Algo Trading)"
+title: "Riskless Society: Concept, Functionality, and Criticism"
 description: "Explore the fascinating concept of a riskless society its critiques and impacts on social risk management and algorithmic trading methodologies."
 ---
 

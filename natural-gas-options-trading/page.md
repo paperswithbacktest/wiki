@@ -1,5 +1,5 @@
 ---
-title: "Natural Gas Options Trading (Algo Trading)"
+title: "Natural Gas Options Trading"
 description: "Explore the convergence of natural gas options trading with algorithmic strategies to maximize market potential while leveraging technology for informed decisions."
 ---
 

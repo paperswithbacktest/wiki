@@ -1,5 +1,5 @@
 ---
-title: "Stop Hunting in Trading (Algo Trading)"
+title: "Stop Hunting in Trading"
 description: "Discover the intricacies of stop hunting in algo trading and learn how this strategy impacts market dynamics and trading outcomes in financial markets."
 ---
 

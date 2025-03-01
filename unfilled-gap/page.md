@@ -1,5 +1,5 @@
 ---
-title: "Unfilled Gap Explained (Algo Trading)"
+title: "Unfilled Gap Explained"
 description: Discover the unfilled gaps in algorithmic trading and learn how to exploit these opportunities for a competitive edge. Delve into underexplored markets and innovative strategies that can optimize trading efficiency. This guide provides insights and tools to maximize profits in the dynamic world of algo trading, empowering traders with methods to identify niches that remain untapped. Stay ahead by understanding technological advancements, unique market conditions, and leveraging non-traditional data for enhanced decision-making.
 ---
 

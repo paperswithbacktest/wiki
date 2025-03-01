@@ -1,5 +1,5 @@
 ---
-title: "Modern Fixed-Income Portfolio Construction (Algo Trading)"
+title: "Modern Fixed-Income Portfolio Construction"
 description: "Enhance your fixed-income portfolio management with algorithmic trading strategies to optimize returns and manage risks effectively in a changing market landscape."
 ---
 

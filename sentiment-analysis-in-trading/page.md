@@ -1,5 +1,5 @@
 ---
-title: "Sentiment analysis in trading (Algo Trading)"
+title: "Sentiment analysis in trading"
 description: "Explore the transformative role of sentiment analysis in algo trading to enhance predictions by combining market psychology with data-driven strategies."
 ---
 

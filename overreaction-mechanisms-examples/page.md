@@ -1,5 +1,5 @@
 ---
-title: "Overreaction: Mechanisms and Examples (Algo Trading)"
+title: "Overreaction: Mechanisms and Examples"
 description: "Explore the mechanisms and examples of overreaction in algorithmic trading, examining how cognitive biases like fear and greed influence market dynamics and trade strategies."
 ---
 

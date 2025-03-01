@@ -1,5 +1,5 @@
 ---
-title: "Sherman Antitrust Act: Overview and Impact (Algo Trading)"
+title: "Sherman Antitrust Act: Overview and Impact"
 description: "Explore the pivotal role of the Sherman Antitrust Act in combating monopolistic practices and fostering competition, with insights into its relevance in algorithmic trading."
 ---
 

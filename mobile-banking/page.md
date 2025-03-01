@@ -1,5 +1,5 @@
 ---
-title: "Mobile Banking (Algo Trading)"
+title: "Mobile Banking"
 description: "Explore how mobile and digital banking transform financial services with AI and blockchain while algorithmic trading reshapes markets for faster trades."
 ---
 

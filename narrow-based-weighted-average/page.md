@@ -1,5 +1,5 @@
 ---
-title: "Narrow-Based Weighted Average (Algo Trading)"
+title: "Narrow-Based Weighted Average"
 description: "Explore the impact of narrow-based weighted averages in algorithmic trading for safeguarding investor equity during funding rounds and optimizing trade strategies."
 ---
 

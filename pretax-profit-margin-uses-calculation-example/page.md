@@ -1,5 +1,5 @@
 ---
-title: "Pretax Profit Margin: Uses, Calculation, and Example (Algo Trading)"
+title: "Pretax Profit Margin: Uses, Calculation, and Example"
 description: "Explore the significance of the pre-tax profit margin in assessing a company’s profitability within algo trading This metric aids in evaluating operational efficiency"
 ---
 

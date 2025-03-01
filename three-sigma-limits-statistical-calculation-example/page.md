@@ -1,5 +1,5 @@
 ---
-title: "Three Sigma Limits: Statistical Calculation and Example (Algo Trading)"
+title: "Three Sigma Limits: Statistical Calculation and Example"
 description: "Explore the significance of three sigma limits in algo trading to assess market risks identify anomalies and enhance decision-making with statistical precision."
 ---
 

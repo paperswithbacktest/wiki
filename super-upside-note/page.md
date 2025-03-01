@@ -1,5 +1,5 @@
 ---
-title: "Super Upside Note (Algo Trading)"
+title: "Super Upside Note"
 description: "Discover how Super Upside Notes leverage existing stocks and algorithmic trading to maximize returns. Uncover strategies and risks for modern investors."
 ---
 

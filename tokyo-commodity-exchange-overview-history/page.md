@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Commodity Exchange: Overview and History (Algo Trading)"
+title: "Tokyo Commodity Exchange: Overview and History"
 description: "Explore the Tokyo Commodity Exchange TOCOM's history, offerings, and role in Japan's economic landscape, highlighting algorithmic trading's impact on efficiency."
 ---
 

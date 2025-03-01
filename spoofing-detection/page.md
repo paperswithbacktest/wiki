@@ -1,5 +1,5 @@
 ---
-title: "Spoofing Detection (Algo Trading)"
+title: "Spoofing Detection"
 description: "Discover how spoofing detection in algorithmic trading safeguards market integrity by identifying manipulative tactics, ensuring fairness and transparency."
 ---
 

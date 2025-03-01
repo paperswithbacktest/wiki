@@ -1,5 +1,5 @@
 ---
-title: "Rules for Successful Trading (Algo Trading)"
+title: "Rules for Successful Trading"
 description: "Explore the essentials of algorithmic trading to achieve financial success Learn how algo trading can enhance market efficiency and optimize trading decisions"
 ---
 

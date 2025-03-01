@@ -1,5 +1,5 @@
 ---
-title: "Strong Sell Signal: Meaning and Impact (Algo Trading)"
+title: "Strong Sell Signal: Meaning and Impact"
 description: "Explore the significance of strong sell signals in stock trading and the impact of algorithmic trading strategies for informed investment decisions."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Multiple Tops: Meaning, Function, and Examples (Algo Trading)"
+title: "Multiple Tops: Meaning, Function, and Examples"
 description: "Explore multiple tops in algo trading, key elements of technical analysis signaling market reversals. Learn to identify these patterns for strategic trading."
 ---
 

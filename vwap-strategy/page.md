@@ -1,5 +1,5 @@
 ---
-title: "VWAP Strategy (Algo Trading)"
+title: "VWAP Strategy"
 description: Explore the VWAP Strategy in algorithmic trading to leverage a powerful tool that determines the average trading price adjusted for volume over time. Essential for both institutional and retail traders, VWAP helps evaluate trade execution quality and trends in the market. This comprehensive guide investigates into its calculation, significance, and applications, helping traders optimize strategies for better decision-making and risk reduction.
 ---
 

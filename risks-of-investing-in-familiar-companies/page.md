@@ -1,5 +1,5 @@
 ---
-title: "Risks of Investing in Familiar Companies (Algo Trading)"
+title: "Risks of Investing in Familiar Companies"
 description: "Explore the risks of investing in familiar companies versus the opportunities and challenges of algorithmic trading in today's evolving financial markets."
 ---
 

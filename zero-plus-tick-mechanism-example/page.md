@@ -1,5 +1,5 @@
 ---
-title: "Zero Plus Tick: Mechanism and Example (Algo Trading)"
+title: "Zero Plus Tick: Mechanism and Example"
 description: "Explore the intricacies of zero plus tick in stock market terminology and its significance for traders. This article investigates into the mechanics of trading, highlighting the role of algorithmic trading in modern markets and its impact on liquidity and price movements. Gain essential insights to navigate financial markets, enhancing your trading strategies with a robust understanding of critical concepts and technologies. Whether you're a novice or seasoned trader, mastering these elements can significantly improve your trading outcomes."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stock Exchange Daily Official List (Algo Trading)"
+title: "Stock Exchange Daily Official List"
 description: "Explore the transformative power of SEDOL in UK financial markets and its crucial role in algorithmic trading. Learn how this unique identifier enhances efficiency and reduces errors by facilitating accurate and seamless communication across trading platforms. Understand SEDOL's impact on modern finance and its potential future developments."
 ---
 

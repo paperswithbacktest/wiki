@@ -1,5 +1,5 @@
 ---
-title: "Three Black Crows Pattern in Financial Markets (Algo Trading)"
+title: "Three Black Crows Pattern in Financial Markets"
 description: "Explore the Three Black Crows candlestick pattern in financial markets, a key signal for bearish reversals, commonly used in algorithmic trading strategies."
 ---
 

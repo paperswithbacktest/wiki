@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Analysts: Roles and Evolution (Algo Trading)"
+title: "Quantitative Analysts: Roles and Evolution"
 description: "Explore the evolving role of quantitative analysts in finance who harness mathematical models and algorithms to innovate trading strategies and reshape markets."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Russell Top 50 Mega Cap Index Overview (Algo Trading)"
+title: "Russell Top 50 Mega Cap Index Overview"
 description: "Explore the Russell Top 50 Mega Cap Index highlighting algorithmic trading's role in mega-cap stocks and its impact on investment strategies and market trends."
 ---
 

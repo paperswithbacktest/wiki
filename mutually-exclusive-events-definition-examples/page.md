@@ -1,5 +1,5 @@
 ---
-title: "Mutually Exclusive Events: Definition and Examples (Algo Trading)"
+title: "Mutually Exclusive Events: Definition and Examples"
 description: "Discover how understanding mutually exclusive events enhances algorithmic trading strategies Learn about their significance in managing risks and optimizing decisions"
 ---
 

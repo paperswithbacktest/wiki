@@ -1,5 +1,5 @@
 ---
-title: "United States-Mexico Import Statistics (Algo Trading)"
+title: "United States-Mexico Import Statistics"
 description: "Explore key insights on U.S. and Mexico trade ties with statistics highlighting economic impacts and benefits. Discover how algorithmic trading enhances efficiency."
 ---
 

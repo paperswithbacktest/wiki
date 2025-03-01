@@ -1,5 +1,5 @@
 ---
-title: "Oil and Gas Production Timelines (Algo Trading)"
+title: "Oil and Gas Production Timelines"
 description: "Explore the interplay between oil and gas production timelines and algorithmic trading Shaping the future of energy markets through tech innovations and geo-economic factors"
 ---
 

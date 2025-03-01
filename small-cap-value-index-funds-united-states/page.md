@@ -1,5 +1,5 @@
 ---
-title: "List of Small-Cap Value Index Funds in the United States (Algo Trading)"
+title: "List of Small-Cap Value Index Funds in the United States"
 description: "Explore the potential of small-cap value index funds for diversified investment strategies in the US using algorithmic trading to optimize risk and reward dynamics."
 ---
 

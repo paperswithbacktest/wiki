@@ -1,5 +1,5 @@
 ---
-title: "Technical Indicators in Stock Analysis (Algo Trading)"
+title: "Technical Indicators in Stock Analysis"
 description: "Discover how technical indicators and algo trading revolutionize stock analysis, enabling investors to make informed, data-driven decisions in complex markets."
 ---
 

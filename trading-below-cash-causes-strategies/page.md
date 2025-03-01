@@ -1,5 +1,5 @@
 ---
-title: "Trading Below Cash: Causes and Strategies (Algo Trading)"
+title: "Trading Below Cash: Causes and Strategies"
 description: "Explore causes and strategies in trading below cash with insights into stock valuation, cash flow analysis, and algorithmic trading to optimize investments."
 ---
 

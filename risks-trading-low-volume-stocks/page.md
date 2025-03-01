@@ -1,5 +1,5 @@
 ---
-title: "Risks of Trading Low-Volume Stocks (Algo Trading)"
+title: "Risks of Trading Low-Volume Stocks"
 description: "Explore the unique risks tied to trading low-volume stocks in algorithmic trading including liquidity issues, price volatility, and strategic mitigation techniques."
 ---
 

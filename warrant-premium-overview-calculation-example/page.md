@@ -1,5 +1,5 @@
 ---
-title: "Warrant Premium: Overview, Calculation, and Example (Algo Trading)"
+title: "Warrant Premium: Overview, Calculation, and Example"
 description: "Explore the intricacies of warrant premiums and their role in investment strategies with insights into calculation and application in algorithmic trading."
 ---
 

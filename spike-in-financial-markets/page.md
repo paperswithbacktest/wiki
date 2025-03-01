@@ -1,5 +1,5 @@
 ---
-title: "Spike in Financial Markets (Algo Trading)"
+title: "Spike in Financial Markets"
 description: "Explore the dynamics of financial market volatility and price spikes impacted by algorithmic trading Learn strategies to navigate these changes effectively"
 ---
 

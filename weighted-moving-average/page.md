@@ -1,5 +1,5 @@
 ---
-title: "Weighted Moving Average Explained (Algo Trading)"
+title: "Weighted Moving Average Explained"
 description: The Weighted Moving Average (WMA) stands as a crucial technical indicator in algorithmic trading due to its functionality of giving more importance to recent data points. This distinct feature enables WMA to provide a more immediate reflection of market trends, aiding traders in generating timely trading signals. This article investigates into the mathematical formulation of WMA, its practical uses in trading algorithms, and contrasts it with other moving averages to unpack its benefits and drawbacks, offering readers a thorough grasp of its role in financial markets.
 ---
 

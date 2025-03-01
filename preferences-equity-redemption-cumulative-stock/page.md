@@ -1,5 +1,5 @@
 ---
-title: "Preferences Equity Redemption Cumulative Stock (Algo Trading)"
+title: "Preferences Equity Redemption Cumulative Stock"
 description: "Explore the unique features of Preference Equity Redemption Cumulative Stock and its role in algorithmic trading Discover enhanced dividends and strategic insights"
 ---
 

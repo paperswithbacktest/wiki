@@ -1,5 +1,5 @@
 ---
-title: "Top Performing S&P 500 Stocks Over the Last 30 Years (Algo Trading)"
+title: "Top Performing S&P 500 Stocks Over the Last 30 Years"
 description: "Explore the strategies and metrics that have distinguished top-performing stocks in the S&P 500 over the past 30 years with insights into total return and volatility to optimize your investment approach using algorithmic trading techniques."
 ---
 

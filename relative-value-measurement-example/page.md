@@ -1,5 +1,5 @@
 ---
-title: "Relative Value: Measurement and Example (Algo Trading)"
+title: "Relative Value: Measurement and Example"
 description: "Explore how valuation metrics like Economic Value Added and Relative Value enhance algorithmic trading strategies, boosting decision-making and risk management."
 ---
 

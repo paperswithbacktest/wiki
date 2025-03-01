@@ -1,5 +1,5 @@
 ---
-title: "Regulation of Investment Banks in the United States (Algo Trading)"
+title: "Regulation of Investment Banks in the United States"
 description: "Explore how U.S. investment banks navigate regulation and the rise of algorithmic trading amidst evolving financial markets emphasizing compliance and innovation."
 ---
 

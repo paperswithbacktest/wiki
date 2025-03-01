@@ -1,5 +1,5 @@
 ---
-title: "Stock Picking Strategies for Beginners (Algo Trading)"
+title: "Stock Picking Strategies for Beginners"
 description: "Explore stock picking strategies for beginners focusing on the integration of algorithmic trading and AI. Learn how these tools simplify complex decisions, enhancing investment success."
 ---
 

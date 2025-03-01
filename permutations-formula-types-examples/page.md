@@ -1,5 +1,5 @@
 ---
-title: "Permutations: Formula, Types, and Examples (Algo Trading)"
+title: "Permutations: Formula, Types, and Examples"
 description: "Explore the crucial role of permutations in algorithmic trading Learn how these mathematical concepts optimize trading strategies by evaluating trade sequences"
 ---
 

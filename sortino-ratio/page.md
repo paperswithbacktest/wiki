@@ -1,5 +1,5 @@
 ---
-title: "Sortino Ratio Explained (Algo Trading)"
+title: "Sortino Ratio Explained"
 description: Explore the importance of the Sortino Ratio in algorithmic trading and its focus on downside risk adjustment for optimal investment performance Track how this metric surpasses traditional measures by isolating negative volatility providing traders with a refined view of risk management and strategy assessment Learn how to calculate and interpret a strong Sortino Ratio for enhanced insights in complex trading environments
 ---
 

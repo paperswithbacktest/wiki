@@ -1,5 +1,5 @@
 ---
-title: "Repo 105: Overview and Mechanism (Algo Trading)"
+title: "Repo 105: Overview and Mechanism"
 description: "Explore the ethical and regulatory challenges of Repo 105 and algorithmic trading with insights into their impact on financial transparency and market stability."
 ---
 

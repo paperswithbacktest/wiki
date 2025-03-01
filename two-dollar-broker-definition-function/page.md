@@ -1,5 +1,5 @@
 ---
-title: "Two-Dollar Broker: Definition and Function (Algo Trading)"
+title: "Two-Dollar Broker: Definition and Function"
 description: "Explore the evolution of trading from two-dollar brokers to modern algo trading Learn about trading platforms and how technology optimizes trading efficiency"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Opco and Propco Comparison (Algo Trading)"
+title: "Opco and Propco Comparison"
 description: "Explore how the Propco/Opco model enhances algo trading by separating asset ownership and operations reducing risk and improving efficiency in financial markets."
 ---
 

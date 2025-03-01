@@ -1,5 +1,5 @@
 ---
-title: "Social Impact Bond: Overview and Mechanism (Algo Trading)"
+title: "Social Impact Bond: Overview and Mechanism"
 description: "Explore how Social Impact Bonds leverage private investments for societal challenges aligning financial returns with meaningful social outcomes through innovative mechanisms."
 ---
 

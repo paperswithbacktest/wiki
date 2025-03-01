@@ -1,5 +1,5 @@
 ---
-title: "Ratable Accrual Method (Algo Trading)"
+title: "Ratable Accrual Method"
 description: "Explore how accrual accounting impacts algorithmic trading with a focus on accuracy, financial reporting, and strategic decision-making in this comprehensive analysis."
 ---
 

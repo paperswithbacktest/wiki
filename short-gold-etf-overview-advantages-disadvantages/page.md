@@ -1,5 +1,5 @@
 ---
-title: "Short Gold ETF: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Short Gold ETF: Overview, Advantages, and Disadvantages"
 description: "Explore the benefits and risks of short gold ETFs and how algorithmic trading enhances strategies for profiting from gold price declines amidst market volatility."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Seasoning: Definition, Mechanisms, and Effects (Algo Trading)"
+title: "Seasoning: Definition, Mechanisms, and Effects"
 description: "Explore the intriguing parallels between culinary seasoning and algorithmic trading as both practices aim to optimize outcomes through precision and creativity."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Throughput: Formula, Benefits, and Calculation (Algo Trading)"
+title: "Throughput: Formula, Benefits, and Calculation"
 description: "Explore the significance of throughput in algorithmic trading to enhance the efficiency and precision needed in high-frequency trade executions. Learn about its impact on parsing large data volumes, maintaining a competitive edge, and achieving optimal system performance. Discover practical techniques for modern trading systems to improve execution speed, manage risks, and leverage market opportunities."
 ---
 

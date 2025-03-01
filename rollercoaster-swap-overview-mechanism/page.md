@@ -1,5 +1,5 @@
 ---
-title: "Rollercoaster Swap: Overview and Mechanism (Algo Trading)"
+title: "Rollercoaster Swap: Overview and Mechanism"
 description: "Explore rollercoaster swaps within interest rate trading to manage cyclical financial needs. Learn their structure and role in effective risk management."
 ---
 

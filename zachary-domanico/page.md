@@ -1,5 +1,5 @@
 ---
-title: "Zachary Domanico (Algo Trading)"
+title: "Zachary Domanico"
 description: "Zachary Domanico is a leader in algorithmic trading, known for his work at Akuna Capital where he develops innovative trading algorithms using C++ and Python."
 ---
 

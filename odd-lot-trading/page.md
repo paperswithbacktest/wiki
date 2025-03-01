@@ -1,5 +1,5 @@
 ---
-title: "Odd Lot in Trading (Algo Trading)"
+title: "Odd Lot in Trading"
 description: "Explore the nuances of odd lot algorithmic trading. Learn how combining these concepts can enhance market strategies and reveal investor sentiments."
 ---
 

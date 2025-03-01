@@ -1,5 +1,5 @@
 ---
-title: "Planned Urban Development: Overview and Drawbacks (Algo Trading)"
+title: "Planned Urban Development: Overview and Drawbacks"
 description: "Explore the intersection of urban planning and algo trading shaping modern cities with planned communities and algorithmic precision for smarter development strategies."
 ---
 

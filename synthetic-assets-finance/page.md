@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Assets in Finance (Algo Trading)"
+title: "Synthetic Assets in Finance"
 description: "Discover how synthetic finance and algorithmic trading are revolutionizing investing. Explore innovative tools and strategies for managing risk and maximizing returns."
 ---
 

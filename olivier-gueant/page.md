@@ -1,5 +1,5 @@
 ---
-title: "Olivier Guéant (Algo Trading)"
+title: "Olivier Guéant"
 description: "Discover the profound impact of Olivier Guéant on algorithmic trading with insights into his research on market liquidity and optimal execution in finance."
 ---
 

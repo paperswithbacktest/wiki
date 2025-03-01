@@ -1,5 +1,5 @@
 ---
-title: "Price Talk and Dutch Auction Mechanisms (Algo Trading)"
+title: "Price Talk and Dutch Auction Mechanisms"
 description: "Discover the unique Dutch auction method in financial markets, its role in algorithmic trading, and how it enhances price discovery and democratizes public offerings."
 ---
 

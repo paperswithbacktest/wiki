@@ -1,5 +1,5 @@
 ---
-title: "Porter's Five Forces and Its Application (Algo Trading)"
+title: "Porter's Five Forces and Its Application"
 description: "Explore how Porter's Five Forces framework enhances strategic insights in algorithmic trading by analyzing key competitive dynamics and market opportunities."
 ---
 

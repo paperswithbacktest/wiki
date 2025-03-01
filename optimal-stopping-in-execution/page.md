@@ -1,5 +1,5 @@
 ---
-title: "optimal stopping in execution (Algo Trading)"
+title: "optimal stopping in execution"
 description: "Discover how optimal stopping in algorithmic trading enhances performance by maximizing returns and minimizing costs through precise trade execution timing."
 ---
 

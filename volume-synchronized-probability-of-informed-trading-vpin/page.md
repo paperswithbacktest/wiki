@@ -1,5 +1,5 @@
 ---
-title: "Volume-synchronized probability of informed trading (VPIN) (Algo Trading)"
+title: "Volume-synchronized probability of informed trading (VPIN)"
 description: Discover the innovative Volume-Synchronized Probability of Informed Trading (VPIN) model, a breakthrough in financial analytics. Developed by Easley, López de Prado, and O'Hara, VPIN evaluates buy-sell imbalances to estimate informed trading risks, offering traders real-time insights into market liquidity and volatility dynamics. This tool is especially powerful in high-frequency trading settings, providing predictive capabilities that enhance risk management and strategy optimization. Learn how VPIN can transform market analysis with its volume-time framework, offering a proactive edge in navigating complex trading environments.
 ---
 

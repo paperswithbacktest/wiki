@@ -1,5 +1,5 @@
 ---
-title: "Trading Software: Overview and Types (Algo Trading)"
+title: "Trading Software: Overview and Types"
 description: "Discover how advanced trading platforms and algorithmic trading software are transforming financial markets. Enhance your trading efficiency with cutting-edge technology."
 ---
 

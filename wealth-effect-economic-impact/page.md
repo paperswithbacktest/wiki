@@ -1,5 +1,5 @@
 ---
-title: "Wealth Effect and Economic Impact (Algo Trading)"
+title: "Wealth Effect and Economic Impact"
 description: "Explore the intricate relationship between wealth effects in financial markets and algorithmic trading's impact on economic behavior and market dynamics."
 ---
 

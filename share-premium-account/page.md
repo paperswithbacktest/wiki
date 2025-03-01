@@ -1,5 +1,5 @@
 ---
-title: "Share Premium Account (Algo Trading)"
+title: "Share Premium Account"
 description: "Unlock financial growth with insights into share premium accounts and algorithmic trading Learn how these tools enhance corporate finance and strategic decision-making"
 ---
 

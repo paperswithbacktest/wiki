@@ -1,5 +1,5 @@
 ---
-title: "Volatility of Dividend-Paying Stocks (Algo Trading)"
+title: "Volatility of Dividend-Paying Stocks"
 description: "Discover how dividend stocks and algorithmic trading can provide stability and opportunity amidst market volatility Tips for navigating financial uncertainties"
 ---
 

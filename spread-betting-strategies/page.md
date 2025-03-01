@@ -1,5 +1,5 @@
 ---
-title: "Spread Betting Strategies (Algo Trading)"
+title: "Spread Betting Strategies"
 description: "Explore spread betting strategies within algorithmic trading to manage risk and optimize profits. Learn how to integrate these approaches effectively."
 ---
 

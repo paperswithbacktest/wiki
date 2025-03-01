@@ -1,5 +1,5 @@
 ---
-title: "multi-agent trading systems (Algo Trading)"
+title: "multi-agent trading systems"
 description: "Explore multi-agent trading systems and how they leverage AI to optimize algorithmic trading strategies achieving superior results through role specialization."
 ---
 

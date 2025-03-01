@@ -1,5 +1,5 @@
 ---
-title: "Origins of Debt Securitization (Algo Trading)"
+title: "Origins of Debt Securitization"
 description: "Explore the origins of debt securitization and its pivotal role in reshaping modern finance by transforming illiquid assets into liquid securities. Learn how this process facilitates liquidity, risk distribution, and investment diversification, impacting global financial markets and contributing to significant events like the 2008 financial crisis. The discussion investigates into its evolution, the mechanics of securitization, and its intersection with algorithmic trading, offering insights into its transformative potential and inherent risks."
 ---
 

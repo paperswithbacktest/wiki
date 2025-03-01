@@ -1,5 +1,5 @@
 ---
-title: "Tick size (Algo Trading)"
+title: "Tick size"
 description: Discover the pivotal role of tick size in algorithmic trading, where it determines the smallest price movements in securities trading. From stocks to bonds and futures, understanding tick size is crucial for optimizing trading strategies and enhancing market efficiency. Explore how different tick size structures, whether fixed or variable, impact order execution and liquidity, providing insights essential for algorithmic traders seeking precision and market opportunities. Dive into the nuances of tick size across global markets and regulatory influences shaping trading environments.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Positive Carry (Algo Trading)"
+title: "Positive Carry"
 description: "Explore how positive carry strategies combined with algorithmic trading provide a robust investment approach optimizing returns and reducing manual trading risks."
 ---
 

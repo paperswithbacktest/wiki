@@ -1,5 +1,5 @@
 ---
-title: "Over-55 Home Sale Exemption and Capital Gains Tax Exclusion (Algo Trading)"
+title: "Over-55 Home Sale Exemption and Capital Gains Tax Exclusion"
 description: "Explore the evolution of home sale tax exclusions for seniors and the impact of algorithmic trading on capital gains tax strategies in this insightful guide."
 ---
 

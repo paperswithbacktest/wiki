@@ -1,5 +1,5 @@
 ---
-title: "Periodic Payment Plan Certificate (Algo Trading)"
+title: "Periodic Payment Plan Certificate"
 description: "Discover innovative investment strategies with periodic payment plans and algorithmic trading Explore ways to manage risk and enhance returns in your financial portfolio"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Modified Accrual Accounting (Algo Trading)"
+title: "Modified Accrual Accounting"
 description: "Explore the intersection of government accounting and algorithmic trading through modified accrual accounting to enhance transparency and improve fiscal management."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Underwriting Spread: Overview and Examples (Algo Trading)"
+title: "Underwriting Spread: Overview and Examples"
 description: "Explore the role of algorithmic trading in modern finance focusing on underwriting spreads This guide examines its impact on trading strategies and market dynamics"
 ---
 

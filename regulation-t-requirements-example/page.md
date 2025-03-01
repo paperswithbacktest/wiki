@@ -1,5 +1,5 @@
 ---
-title: "Regulation T Requirements and Example (Algo Trading)"
+title: "Regulation T Requirements and Example"
 description: "Explore Regulation T's key aspects and its impact on algorithmic trading Learn how it shapes margin trading guidelines and why compliance is crucial for traders"
 ---
 

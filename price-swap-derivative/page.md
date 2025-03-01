@@ -1,5 +1,5 @@
 ---
-title: "Price Swap Derivative (Algo Trading)"
+title: "Price Swap Derivative"
 description: "Discover how price swap derivatives and algorithmic trading optimize market strategies. Learn to navigate financial volatility for efficient risk management."
 ---
 

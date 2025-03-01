@@ -1,5 +1,5 @@
 ---
-title: "Registered Bond: Definition and Function (Algo Trading)"
+title: "Registered Bond: Definition and Function"
 description: "Explore the definition and function of registered bonds in financial markets and how algorithmic trading influences bond trading efficiency and risk management."
 ---
 

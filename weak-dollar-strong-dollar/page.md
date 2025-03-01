@@ -1,5 +1,5 @@
 ---
-title: "Weak Dollar and Strong Dollar (Algo Trading)"
+title: "Weak Dollar and Strong Dollar"
 description: "Explore the impact of strong and weak US dollar dynamics in global finance and the role of algorithmic trading in exchange rate fluctuation."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Vanguard Gold Mutual Funds (Algo Trading)"
+title: "Vanguard Gold Mutual Funds"
 description: "Discover Vanguard's innovative approach to gold investments through mutual funds with algorithmic trading that enhances efficiency and optimizes portfolio performance."
 ---
 

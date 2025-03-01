@@ -1,5 +1,5 @@
 ---
-title: "Trading Channels: Types and Indicators (Algo Trading)"
+title: "Trading Channels: Types and Indicators"
 description: "Optimize your trading strategies with insights on trading channels types and indicators Join the evolution of algo trading for precise and efficient market decisions"
 ---
 

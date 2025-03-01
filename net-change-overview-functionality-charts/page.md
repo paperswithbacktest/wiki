@@ -1,5 +1,5 @@
 ---
-title: "Net Change: Overview and Functionality with Charts (Algo Trading)"
+title: "Net Change: Overview and Functionality with Charts"
 description: "Discover how net change and algorithmic trading shape modern finance through data analysis and charts Gain insights into optimizing trading strategies with precision"
 ---
 

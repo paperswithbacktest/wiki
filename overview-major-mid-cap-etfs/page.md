@@ -1,5 +1,5 @@
 ---
-title: "Overview of Major Mid-Cap Exchange-Traded Funds (Algo Trading)"
+title: "Overview of Major Mid-Cap Exchange-Traded Funds"
 description: "Explore the dynamic world of mid-cap ETFs and discover how algorithmic trading refines investment strategies enhancing portfolio diversification and growth."
 ---
 

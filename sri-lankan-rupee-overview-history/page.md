@@ -1,5 +1,5 @@
 ---
-title: "Sri Lankan Rupee: Overview and Historical Context (Algo Trading)"
+title: "Sri Lankan Rupee: Overview and Historical Context"
 description: "Explore the historical significance of the Sri Lankan Rupee and its impact on today's forex market with algorithmic trading insights and market dynamics."
 ---
 

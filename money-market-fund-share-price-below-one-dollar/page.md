@@ -1,5 +1,5 @@
 ---
-title: "Money Market Fund Share Price Falling Below One Dollar (Algo Trading)"
+title: "Money Market Fund Share Price Falling Below One Dollar"
 description: "Explore why money market funds can drop below $1 per share examining causes like economic distress and risky investments and the role of algo trading in risk management."
 ---
 

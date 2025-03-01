@@ -1,5 +1,5 @@
 ---
-title: "Outplacement: Overview, Mechanisms, and Advantages (Algo Trading)"
+title: "Outplacement: Overview, Mechanisms, and Advantages"
 description: "Discover how outplacement services, career transition strategies, and algorithmic trading offer critical support and opportunities in today's dynamic job market."
 ---
 

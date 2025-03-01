@@ -1,5 +1,5 @@
 ---
-title: "Uniform Securities Act: Overview and Application (Algo Trading)"
+title: "Uniform Securities Act: Overview and Application"
 description: "Explore the Uniform Securities Act and its application in the rise of algorithmic trading which enhances efficiency but raises regulatory challenges."
 ---
 

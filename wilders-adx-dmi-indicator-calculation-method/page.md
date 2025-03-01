@@ -1,5 +1,5 @@
 ---
-title: "Wilder's ADX and DMI Indicator: Calculation Method (Algo Trading)"
+title: "Wilder's ADX and DMI Indicator: Calculation Method"
 description: "Discover the essentials of Wilder's ADX and DMI system and their role in assessing trend strength and direction for effective algorithmic trading strategies."
 ---
 

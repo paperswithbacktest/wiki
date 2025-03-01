@@ -1,5 +1,5 @@
 ---
-title: "Milestones of American Women (Algo Trading)"
+title: "Milestones of American Women"
 description: "Discover the pivotal achievements of American women in algorithmic trading and how their innovation and leadership have transformed the finance industry."
 ---
 

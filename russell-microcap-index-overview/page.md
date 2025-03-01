@@ -1,5 +1,5 @@
 ---
-title: "Russell Microcap Index Overview (Algo Trading)"
+title: "Russell Microcap Index Overview"
 description: "Explore the Russell Microcap Index and the role of algo trading in microcap markets Learn about investment opportunities and risks associated with microcap stocks"
 ---
 

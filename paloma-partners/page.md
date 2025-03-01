@@ -1,5 +1,5 @@
 ---
-title: "Paloma Partners (Algo Trading)"
+title: "Paloma Partners"
 description: "Discover Paloma Partners' pioneering expertise in algorithmic trading Learn how this firm leverages cutting-edge technology for strategic market success"
 ---
 

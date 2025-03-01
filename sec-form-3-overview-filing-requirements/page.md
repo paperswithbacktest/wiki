@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 3: Overview and Filing Requirements (Algo Trading)"
+title: "SEC Form 3: Overview and Filing Requirements"
 description: "Navigate the complexities of insider trading and SEC Form 3 filing for algo trading, ensuring transparency and compliance to maintain market integrity and trust."
 ---
 

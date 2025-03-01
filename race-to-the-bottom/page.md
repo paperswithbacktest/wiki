@@ -1,5 +1,5 @@
 ---
-title: "Race to the Bottom (Algo Trading)"
+title: "Race to the Bottom"
 description: "Explore the complex dynamics of globalization and algorithmic trading in modern markets. Understand how regulatory standards shape competition, address ethical concerns, and maintain market stability amidst global economic challenges. Delve into the implications of economic competition, regulatory harmonization, and the race to the bottom in labor, taxation, and environmental policies, providing insights into navigating today's interconnected financial landscape."
 ---
 

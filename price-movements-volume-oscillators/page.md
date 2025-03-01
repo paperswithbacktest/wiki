@@ -1,5 +1,5 @@
 ---
-title: "Price Movements and Volume Oscillators (Algo Trading)"
+title: "Price Movements and Volume Oscillators"
 description: "Dive into the mechanics of volume oscillators to enhance your algorithmic trading strategies. Discover how these tools reveal market trends and improve decision-making."
 ---
 

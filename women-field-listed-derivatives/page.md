@@ -1,5 +1,5 @@
 ---
-title: "Women in the Field of Listed Derivatives (Algo Trading)"
+title: "Women in the Field of Listed Derivatives"
 description: "Explore how women are transforming the financial sector in listed derivatives and algorithmic trading paving the way for gender equality and innovation."
 ---
 

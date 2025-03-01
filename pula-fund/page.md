@@ -1,5 +1,5 @@
 ---
-title: "Pula Fund (Algo Trading)"
+title: "Pula Fund"
 description: "Explore the impact of the Pula Fund on Botswana's economy with insights into its governance, investment strategies, and innovative use of algorithmic trading."
 ---
 

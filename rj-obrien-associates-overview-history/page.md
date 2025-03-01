@@ -1,5 +1,5 @@
 ---
-title: "R.J. O'Brien & Associates: Overview and History (Algo Trading)"
+title: "R.J. O'Brien & Associates: Overview and History"
 description: "Discover R.J. O'Brien's rich history and innovations in commodities trading Explore their role in advancing algo trading and offering client-centric services."
 ---
 

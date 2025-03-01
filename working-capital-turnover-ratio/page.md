@@ -1,5 +1,5 @@
 ---
-title: "Working Capital Turnover Ratio (Algo Trading)"
+title: "Working Capital Turnover Ratio"
 description: "Explore the intersection of financial ratios and algo trading with a focus on the Working Capital Turnover Ratio. Enhance trading strategies and optimize investments."
 ---
 

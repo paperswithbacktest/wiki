@@ -1,5 +1,5 @@
 ---
-title: "Micro Mining in Cryptocurrency (Algo Trading)"
+title: "Micro Mining in Cryptocurrency"
 description: "Explore the dynamic world of cryptocurrency with insights into micro mining and algorithmic trading Discover how tech transforms digital currency generation"
 ---
 

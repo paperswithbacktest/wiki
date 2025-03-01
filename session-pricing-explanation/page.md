@@ -1,5 +1,5 @@
 ---
-title: "Session Pricing Explanation (Algo Trading)"
+title: "Session Pricing Explanation"
 description: "Learn about session pricing and algorithmic trading in today's market Discover how technology enhances pricing strategies and offers a competitive edge"
 ---
 

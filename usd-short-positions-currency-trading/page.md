@@ -1,5 +1,5 @@
 ---
-title: "USD Short Positions in Currency Trading (Algo Trading)"
+title: "USD Short Positions in Currency Trading"
 description: "Explore the integration of USD short strategies with forex algo trading for enhanced efficiency and precision, uncovering unique opportunities in currency markets."
 ---
 

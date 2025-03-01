@@ -1,5 +1,5 @@
 ---
-title: "RSI2 Strategy on SPY Explained (Algo Trading)"
+title: "RSI2 Strategy on SPY Explained"
 description: Discover how the RSI2 trading strategy effectively leverages the Relative Strength Index for mean-reversal opportunities on the SPDR S&P 500 ETF Trust (SPY) known for its liquidity and volatility. Uncover insights into strategy performance entry and exit points and methods to enhance robustness adapting to market changes. Suitable for both novice and experienced algorithmic traders aiming for short-term gains through the identification of overbought or oversold conditions.
 ---
 

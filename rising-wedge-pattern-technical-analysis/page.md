@@ -1,5 +1,5 @@
 ---
-title: "Rising Wedge Pattern in Technical Analysis (Algo Trading)"
+title: "Rising Wedge Pattern in Technical Analysis"
 description: "Explore the rising wedge pattern in technical analysis and algo trading Understand its significance in predicting market reversals and refining trading strategies"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Periodic Payment Plans (Algo Trading)"
+title: "Periodic Payment Plans"
 description: "Explore effective financial strategies in wealth management including periodic payment plans and algorithmic trading to mitigate risks and optimize returns."
 ---
 

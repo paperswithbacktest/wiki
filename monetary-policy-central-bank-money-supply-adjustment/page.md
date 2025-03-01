@@ -1,5 +1,5 @@
 ---
-title: "Monetary Policy: Mechanisms of Central Bank Money Supply Adjustment (Algo Trading)"
+title: "Monetary Policy: Mechanisms of Central Bank Money Supply Adjustment"
 description: "Explore how central bank monetary policies and algorithmic trading shape financial markets influencing economic growth interest rates and liquidity dynamics."
 ---
 

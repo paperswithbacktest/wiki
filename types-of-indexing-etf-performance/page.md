@@ -1,5 +1,5 @@
 ---
-title: "Types of Indexing in ETF Performance (Algo Trading)"
+title: "Types of Indexing in ETF Performance"
 description: "Explore the different types of indexing in ETF performance and how they enhance investment strategies with the power of algorithmic trading."
 ---
 

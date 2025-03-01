@@ -1,5 +1,5 @@
 ---
-title: "Trade Finance: Overview and Benefits (Algo Trading)"
+title: "Trade Finance: Overview and Benefits"
 description: "Discover how trade finance and algorithmic trading enhance international trade by reducing risks and boosting efficiency Explore their vital financial benefits"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Workout Period: Overview and Mechanism (Algo Trading)"
+title: "Workout Period: Overview and Mechanism"
 description: "Explore the synergy between physical fitness and trading. Discover how regular exercise enhances cognitive abilities, stress management, and trading performance."
 ---
 

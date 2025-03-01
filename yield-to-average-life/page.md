@@ -1,5 +1,5 @@
 ---
-title: "Yield to Average Life (Algo Trading)"
+title: "Yield to Average Life"
 description: "Explore the role of Yield-to-Average Life in bond investments and algorithmic trading to optimize bond selection and enhance portfolio returns effectively."
 ---
 

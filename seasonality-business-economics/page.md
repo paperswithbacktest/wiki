@@ -1,5 +1,5 @@
 ---
-title: "Seasonality in Business and Economics (Algo Trading)"
+title: "Seasonality in Business and Economics"
 description: "Explore the role of seasonality and business cycles in economics and algorithmic trading to gain a competitive edge through informed strategies and optimized performance."
 ---
 

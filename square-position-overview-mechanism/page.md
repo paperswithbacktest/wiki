@@ -1,5 +1,5 @@
 ---
-title: "Square Position: Overview and Mechanism (Algo Trading)"
+title: "Square Position: Overview and Mechanism"
 description: "Explore the pivotal role of square positions in algorithmic trading, essential for managing risks and optimizing returns. Master this strategy to enhance trading performance."
 ---
 

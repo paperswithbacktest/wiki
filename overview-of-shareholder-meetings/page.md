@@ -1,5 +1,5 @@
 ---
-title: "Overview of Shareholder Meetings (Algo Trading)"
+title: "Overview of Shareholder Meetings"
 description: "Explore the critical intersection of shareholder meetings, investor relations, corporate governance, and algorithmic trading in today’s evolving financial landscape."
 ---
 

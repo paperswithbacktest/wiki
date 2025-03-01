@@ -1,5 +1,5 @@
 ---
-title: "Operating Activities and Examples (Algo Trading)"
+title: "Operating Activities and Examples"
 description: "Explore the integration of cash flow analysis and algorithmic trading to enhance decision-making in financial markets Learn how businesses can optimize efficiency and returns"
 ---
 

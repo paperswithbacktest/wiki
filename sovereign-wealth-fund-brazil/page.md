@@ -1,5 +1,5 @@
 ---
-title: "Sovereign Wealth Fund of Brazil (Algo Trading)"
+title: "Sovereign Wealth Fund of Brazil"
 description: "Explore the benefits of algorithmic trading for Brazil's Sovereign Wealth Fund to enhance financial management improve returns and ensure economic stability."
 ---
 

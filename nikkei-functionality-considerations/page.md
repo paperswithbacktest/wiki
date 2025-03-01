@@ -1,5 +1,5 @@
 ---
-title: "Nikkei Functionality and Considerations (Algo Trading)"
+title: "Nikkei Functionality and Considerations"
 description: "Explore the synergy of the Nikkei 225 and algorithmic trading Learn how top Japanese industries and advanced trading strategies shape global finance dynamics"
 ---
 

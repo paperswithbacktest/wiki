@@ -1,5 +1,5 @@
 ---
-title: "Overview of the Employment Report (Algo Trading)"
+title: "Overview of the Employment Report"
 description: "Discover how labor statistics and employment reports guide economics and trading strategies. Unveil insights into job market dynamics and algorithmic trading impacts."
 ---
 

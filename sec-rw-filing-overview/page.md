@@ -1,5 +1,5 @@
 ---
-title: "SEC RW Filing Overview (Algo Trading)"
+title: "SEC RW Filing Overview"
 description: "Explore the SEC RW Filing process and its impact on algorithmic trading. Learn how regulatory changes shape practices and influence market operations."
 ---
 

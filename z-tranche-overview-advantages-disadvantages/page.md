@@ -1,5 +1,5 @@
 ---
-title: "Z Tranche: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Z Tranche: Overview, Advantages, and Disadvantages"
 description: "Explore Z tranche investments in algorithmic trading with insights into their financial benefits and risks Learn how they optimize portfolios and boost returns"
 ---
 

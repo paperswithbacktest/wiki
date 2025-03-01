@@ -1,5 +1,5 @@
 ---
-title: "Swing Trading: Benefits and Drawbacks (Algo Trading)"
+title: "Swing Trading: Benefits and Drawbacks"
 description: "Explore the benefits and drawbacks of swing trading and algorithmic trading in this insightful article Discover how these strategies impact modern investors"
 ---
 

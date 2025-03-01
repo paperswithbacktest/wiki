@@ -1,5 +1,5 @@
 ---
-title: "Policy-Value Iteration (Algo Trading)"
+title: "Policy-Value Iteration"
 description: "Harness reinforcement learning methods like Policy-Value Iteration to enhance trading strategies in dynamic markets improving decision-making and reducing risks."
 ---
 

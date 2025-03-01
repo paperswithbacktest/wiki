@@ -1,5 +1,5 @@
 ---
-title: "Role of the IMF in Addressing Global Economic Challenges (Algo Trading)"
+title: "Role of the IMF in Addressing Global Economic Challenges"
 description: "Explore how the IMF and algorithmic trading impact global economic stability and market dynamics with insights into their intersection and mutual influences."
 ---
 

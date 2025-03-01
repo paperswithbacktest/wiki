@@ -1,5 +1,5 @@
 ---
-title: "Outright Futures Position: Meaning and Functionality (Algo Trading)"
+title: "Outright Futures Position: Meaning and Functionality"
 description: "Explore outright futures positions and algorithmic trading to enhance your trading precision and risk management in the dynamic futures markets."
 ---
 

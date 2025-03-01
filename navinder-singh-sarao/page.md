@@ -1,5 +1,5 @@
 ---
-title: "Navinder Singh Sarao (Algo Trading)"
+title: "Navinder Singh Sarao"
 description: "Discover the story of Navinder Singh Sarao key figure in the 2010 Flash Crash uncovering the impact of algorithmic trading and market manipulation.
 "
 ---

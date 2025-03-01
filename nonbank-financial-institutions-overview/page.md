@@ -1,5 +1,5 @@
 ---
-title: "Nonbank Financial Institutions Overview (Algo Trading)"
+title: "Nonbank Financial Institutions Overview"
 description: "Explore the expanding influence of nonbank financial institutions and the rise of algorithmic trading in financial systems understanding their impact and future trends."
 ---
 

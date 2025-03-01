@@ -1,5 +1,5 @@
 ---
-title: "Strategies for Earning Income in Real Estate (Algo Trading)"
+title: "Strategies for Earning Income in Real Estate"
 description: "Explore strategies for income in real estate through traditional investing and algorithmic trading Discover techniques for optimizing profitability and financial independence"
 ---
 

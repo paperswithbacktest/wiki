@@ -1,5 +1,5 @@
 ---
-title: "PFG Futures (Algo Trading)"
+title: "PFG Futures"
 description: Discover the power of algorithmic trading with PFG Futures where advanced technology meets strategic execution. Boost your trading efficiency and precision in the fast-paced futures market with cutting-edge platforms and real-time data integration, ideal for seasoned traders seeking competitive edge and superior performance. Leverage our customizable trading environment to refine and deploy strategies that minimize errors and maximize returns. Embrace the future of trading with PFG Futures.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Share Premium Accounts in the Balance Sheet (Algo Trading)"
+title: "Share Premium Accounts in the Balance Sheet"
 description: "Explore balance sheets share premiums and algorithmic trading to understand corporate financial strategies optimize operations and enhance investment decisions."
 ---
 

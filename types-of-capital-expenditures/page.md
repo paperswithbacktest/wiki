@@ -1,5 +1,5 @@
 ---
-title: "Types of Capital Expenditures (Algo Trading)"
+title: "Types of Capital Expenditures"
 description: "Explore the intricacies of capital expenditures (CapEx) in business finance with a focus on their role in fostering growth and operational efficiency. This article investigates into various types of CapEx, including growth, maintenance, regulatory, and replacement, highlighting their impact on business investments and strategic advantages in competitive markets. Discover how algo trading influences CapEx decisions, offering sophisticated tools for financial planning and optimization in dynamic financial landscapes."
 ---
 

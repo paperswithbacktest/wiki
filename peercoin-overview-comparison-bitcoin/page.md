@@ -1,5 +1,5 @@
 ---
-title: "Peercoin: Overview and Comparison to Bitcoin (Algo Trading)"
+title: "Peercoin: Overview and Comparison to Bitcoin"
 description: "Explore the similarities and differences between Peercoin and Bitcoin, focusing on their technologies, market positions, and the impact of algorithmic trading strategies."
 ---
 

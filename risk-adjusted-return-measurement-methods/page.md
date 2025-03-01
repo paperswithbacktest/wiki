@@ -1,5 +1,5 @@
 ---
-title: "Risk-Adjusted Return and Measurement Methods (Algo Trading)"
+title: "Risk-Adjusted Return and Measurement Methods"
 description: "Explore the significance of risk-adjusted returns and algorithmic trading in modern finance Essential metrics and strategies for optimal investment performance"
 ---
 

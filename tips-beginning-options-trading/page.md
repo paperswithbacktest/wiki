@@ -1,5 +1,5 @@
 ---
-title: "Tips for Beginning Options Trading (Algo Trading)"
+title: "Tips for Beginning Options Trading"
 description: "Discover essential tips and strategies for beginning options trading with a focus on leveraging algo trading to enhance your investment potential and returns."
 ---
 

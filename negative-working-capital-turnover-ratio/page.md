@@ -1,5 +1,5 @@
 ---
-title: "Negative Working Capital Turnover Ratio in Companies (Algo Trading)"
+title: "Negative Working Capital Turnover Ratio in Companies"
 description: "Explore the impact of a negative working capital turnover ratio in companies and its implications on algorithmic trading strategies and investment decisions."
 ---
 

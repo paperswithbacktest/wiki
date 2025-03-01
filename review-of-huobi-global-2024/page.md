@@ -1,5 +1,5 @@
 ---
-title: "Review of Huobi Global 2024 (Algo Trading)"
+title: "Review of Huobi Global 2024"
 description: "Discover Huobi Global's 2024 capabilities and review its innovative algorithmic trading features designed for beginners and experienced crypto traders alike."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Narrow Moat: Definition and Sources (Algo Trading)"
+title: "Narrow Moat: Definition and Sources"
 description: "Gain insights into narrow economic moats in the dynamic world of algo trading Learn to identify short-term competitive edges and enhance investment strategies"
 ---
 

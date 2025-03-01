@@ -1,5 +1,5 @@
 ---
-title: "Overview of the International Monetary Fund (Algo Trading)"
+title: "Overview of the International Monetary Fund"
 description: "Discover the intersection of algorithmic trading and AI with the IMF's role in economic stability Explore challenges, opportunities, and regulatory needs"
 ---
 

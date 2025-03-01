@@ -1,5 +1,5 @@
 ---
-title: "Operating Cash Flow (Algo Trading)"
+title: "Operating Cash Flow"
 description: "Explore the role of Operating Cash Flow in financial analysis and algorithmic trading. Learn how OCF data enhances asset management and trading strategies."
 ---
 

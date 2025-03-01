@@ -1,5 +1,5 @@
 ---
-title: "Retracement and Reversal in Financial Markets (Algo Trading)"
+title: "Retracement and Reversal in Financial Markets"
 description: "Discover the dynamics of financial market retracement and reversal in algo trading Learn to identify patterns and leverage algorithmic systems for better outcomes"
 ---
 

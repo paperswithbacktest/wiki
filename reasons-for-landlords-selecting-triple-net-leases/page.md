@@ -1,5 +1,5 @@
 ---
-title: "Reasons for Landlords Selecting Triple Net Leases (Algo Trading)"
+title: "Reasons for Landlords Selecting Triple Net Leases"
 description: "Discover why landlords prefer triple net leases for stable income and reduced management hassle while exploring the synergy with algorithmic trading in real estate."
 ---
 

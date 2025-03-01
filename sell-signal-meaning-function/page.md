@@ -1,5 +1,5 @@
 ---
-title: "Sell Signal: Meaning and Function (Algo Trading)"
+title: "Sell Signal: Meaning and Function"
 description: "Explore the role of sell signals in algo trading. Learn how these indicators guide investors on when to exit positions and enhance trading strategies."
 ---
 

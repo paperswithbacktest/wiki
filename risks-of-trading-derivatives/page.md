@@ -1,5 +1,5 @@
 ---
-title: "Risks of Trading Derivatives (Algo Trading)"
+title: "Risks of Trading Derivatives"
 description: "Explore the complexities of derivative and algorithmic trading, highlighting key risks such as market fluctuations, counterparty defaults, and systemic challenges."
 ---
 

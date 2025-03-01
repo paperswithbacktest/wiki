@@ -1,5 +1,5 @@
 ---
-title: "Premium Put Convertible: Overview, Advantages and Disadvantages, Example (Algo Trading)"
+title: "Premium Put Convertible: Overview, Advantages and Disadvantages, Example"
 description: "Discover the potential of premium put convertibles as a flexible investment tool, balancing debt and equity for growth and income amid market volatility."
 ---
 

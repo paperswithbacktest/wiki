@@ -1,5 +1,5 @@
 ---
-title: "Rent Ceiling: Overview, Advantages, and Disadvantages (Algo Trading)"
+title: "Rent Ceiling: Overview, Advantages, and Disadvantages"
 description: "Explore the dynamics of rent ceilings and their intersection with algorithmic trading in real estate Learn the benefits and challenges of these regulatory measures"
 ---
 

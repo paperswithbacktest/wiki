@@ -1,5 +1,5 @@
 ---
-title: "Using Robo-Advisors for Tax Savings (Algo Trading)"
+title: "Using Robo-Advisors for Tax Savings"
 description: "Discover the potential of robo-advisors in tax savings with algo trading strategies Learn how automation enhances investment efficiency and after-tax returns"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Non-Competitive Tendering: Definition and Process (Algo Trading)"
+title: "Non-Competitive Tendering: Definition and Process"
 description: "Discover how non-competitive tendering and algorithmic trading reshape procurement and market strategies enhancing decision-making and operational efficiency."
 ---
 

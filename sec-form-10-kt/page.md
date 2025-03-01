@@ -1,5 +1,5 @@
 ---
-title: "SEC Form 10-KT (Algo Trading)"
+title: "SEC Form 10-KT"
 description: "Explore the essentials of SEC Form 10-KT a vital report for companies changing fiscal year-end offering insights for investors and algo trading strategies."
 ---
 

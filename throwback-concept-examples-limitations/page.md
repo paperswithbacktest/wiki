@@ -1,5 +1,5 @@
 ---
-title: "Throwback: Concept, Examples, and Limitations (Algo Trading)"
+title: "Throwback: Concept, Examples, and Limitations"
 description: "Explore the concept of throwbacks in algorithmic trading including examples and limitations Understand how recognizing throwbacks can enhance trading strategies"
 ---
 

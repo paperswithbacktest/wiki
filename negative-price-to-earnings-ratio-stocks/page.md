@@ -1,5 +1,5 @@
 ---
-title: "Negative Price-to-Earnings Ratio in Stocks (Algo Trading)"
+title: "Negative Price-to-Earnings Ratio in Stocks"
 description: "Explore the implications of negative P/E ratios in stocks their role in algorithmic trading and how they may signal investment opportunities or risks."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Zig Zag Indicator: Formula, Calculation, and Applications (Algo Trading)"
+title: "Zig Zag Indicator: Formula, Calculation, and Applications"
 description: "Explore the Zig Zag Indicator a key tool in technical analysis for filtering market noise and identifying trend reversals critical for algorithmic trading success."
 ---
 

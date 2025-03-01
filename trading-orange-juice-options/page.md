@@ -1,5 +1,5 @@
 ---
-title: "Trading Orange Juice Options (Algo Trading)"
+title: "Trading Orange Juice Options"
 description: "Explore orange juice options trading with insights on strategies, risk management, and the impact of algorithmic trading in optimizing market outcomes."
 ---
 

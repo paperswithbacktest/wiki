@@ -1,5 +1,5 @@
 ---
-title: "Radix Trading (Algo Trading)"
+title: "Radix Trading"
 description: "Explore Radix Trading a leader in algorithmic trading utilizing cutting-edge technology to transform trades with unparalleled speed efficiency and strategic advantage."
 ---
 

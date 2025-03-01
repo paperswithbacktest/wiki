@@ -1,5 +1,5 @@
 ---
-title: "Sudanese Dinar: Overview and Historical Context (Algo Trading)"
+title: "Sudanese Dinar: Overview and Historical Context"
 description: "Dive into the historical significance and economic impact of the Sudanese Dinar and explore the role of algorithmic trading in understanding currency dynamics."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Mutual Fund Share Classes (Algo Trading)"
+title: "Mutual Fund Share Classes"
 description: "Explore mutual fund share classes and algorithmic trading strategies in this detailed guide Learn about diverse investment types and how to optimize your portfolio"
 ---
 

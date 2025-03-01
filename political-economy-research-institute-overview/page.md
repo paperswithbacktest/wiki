@@ -1,5 +1,5 @@
 ---
-title: "Political Economy Research Institute Overview (Algo Trading)"
+title: "Political Economy Research Institute Overview"
 description: "Explore the intersection of political economy and algorithmic trading, analyzing how economic policies shape resource distribution and market operations in financial sectors."
 ---
 

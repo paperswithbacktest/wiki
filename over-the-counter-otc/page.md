@@ -1,5 +1,5 @@
 ---
-title: "Over-The-Counter (OTC) (Algo Trading)"
+title: "Over-The-Counter (OTC)"
 description: "Explore the transformative impact of algorithmic trading on the Over-the-Counter (OTC) pharmaceutical market. Discover how this innovative approach enhances trading efficiency, streamlines transactions, and influences market dynamics while offering insights into future trends and strategic opportunities within the industry."
 ---
 

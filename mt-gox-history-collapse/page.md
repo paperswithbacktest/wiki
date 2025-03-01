@@ -1,5 +1,5 @@
 ---
-title: "Mt. Gox: History and Collapse (Algo Trading)"
+title: "Mt. Gox: History and Collapse"
 description: "Explore the rise and dramatic fall of Mt. Gox, the world's largest Bitcoin exchange in its time, and the impact of its collapse on crypto regulations."
 ---
 

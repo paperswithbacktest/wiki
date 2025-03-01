@@ -1,5 +1,5 @@
 ---
-title: "Trading Cost Optimization (Algo Trading)"
+title: "Trading Cost Optimization"
 description: "Optimize trading costs in algorithmic trading to boost profitability. Explore strategies to reduce both explicit and implicit costs for improved net returns."
 ---
 

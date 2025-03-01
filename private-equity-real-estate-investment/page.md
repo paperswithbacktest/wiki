@@ -1,5 +1,5 @@
 ---
-title: "Private Equity Real Estate Investment (Algo Trading)"
+title: "Private Equity Real Estate Investment"
 description: "Explore the intersection of private equity real estate and algorithmic trading to optimize investment strategies for high returns and strategic diversification."
 ---
 

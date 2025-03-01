@@ -1,5 +1,5 @@
 ---
-title: "Role of Blockchain in Protecting the Global Economy (Algo Trading)"
+title: "Role of Blockchain in Protecting the Global Economy"
 description: "Explore how blockchain technology safeguards the global economy by enhancing transparency and efficiency in financial transactions and algorithmic trading."
 ---
 

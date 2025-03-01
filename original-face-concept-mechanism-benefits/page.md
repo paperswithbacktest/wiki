@@ -1,5 +1,5 @@
 ---
-title: "Original Face: Concept, Mechanism, and Benefits (Algo Trading)"
+title: "Original Face: Concept, Mechanism, and Benefits"
 description: "Explore the mechanics and benefits of algorithmic trading. Discover how automated systems enhance decision-making, analyze data, and improve trading efficiency."
 ---
 

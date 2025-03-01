@@ -1,5 +1,5 @@
 ---
-title: "Selecting a Financial Broker (Algo Trading)"
+title: "Selecting a Financial Broker"
 description: "Explore the key considerations when selecting a financial broker for algorithmic trading including platform technology regulatory compliance and trading costs."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Société d'Investissement à Capital Variable (Algo Trading)"
+title: "Société d'Investissement à Capital Variable"
 description: "Explore the flexibility and innovative trading practices of SICAV funds including algorithmic trading and robust European regulatory oversight for dynamic investment."
 ---
 

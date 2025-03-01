@@ -1,5 +1,5 @@
 ---
-title: "TMX Group Incorporated (Algo Trading)"
+title: "TMX Group Incorporated"
 description: "Explore TMX Group's role in advancing global financial markets through innovation in algorithmic trading, technological integration, and strategic acquisitions."
 ---
 

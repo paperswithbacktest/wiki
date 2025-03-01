@@ -1,5 +1,5 @@
 ---
-title: "Stevens Capital Management (Algo Trading)"
+title: "Stevens Capital Management"
 description: "Stevens Capital Management is a leader in algorithmic trading using advanced quantitative models and AI to revolutionize and enhance trading efficiency globally."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Slovak Koruna (SKK): History and Overview (Algo Trading)"
+title: "Slovak Koruna (SKK): History and Overview"
 description: "Explore the history and significance of the Slovak Koruna SKK from its role as Slovakia's currency to its replacement by the Euro in 2009. Discover insights for traders."
 ---
 

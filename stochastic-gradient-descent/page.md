@@ -1,5 +1,5 @@
 ---
-title: "stochastic gradient descent (Algo Trading)"
+title: "stochastic gradient descent"
 description: "Optimize algorithmic trading with Stochastic Gradient Descent for faster, adaptive model tuning. Enhance trading efficiency and profitability in real-time markets."
 ---
 

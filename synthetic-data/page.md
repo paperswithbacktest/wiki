@@ -1,5 +1,5 @@
 ---
-title: "Synthetic data (Algo Trading)"
+title: "Synthetic data"
 description: Synthetic data in algorithmic trading offers a vital resource by enabling the development and refinement of trading models without access to real market data. It allows for the simulation of diverse market conditions, aiding in the creation of robust algorithms. Through synthetic data, traders benefit from enhanced backtesting, stress testing, and strategy evaluation. This data overcomes the limitations of real market data, offering flexibility, privacy, and diverse scenarios essential for optimizing trading strategies effectively.
 ---
 

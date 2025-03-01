@@ -1,5 +1,5 @@
 ---
-title: "Where Have All the Stat Arb Profits Gone? (Algo Trading)"
+title: "Where Have All the Stat Arb Profits Gone?"
 description: Explore the evolution and current challenges of statistical arbitrage in algorithmic trading. Once a highly lucrative strategy in the financial markets, the profits from statistical arbitrage have declined due to increased market efficiency and competition. This article investigates into the reasons behind shrinking margins, the role of technology, and offers insights on adapting strategies for continued success in this rapidly changing landscape. Whether leveraging pairs trading or market-neutral approaches, understanding how to navigate these transformations is crucial for sustained profitability.
 ---
 
