@@ -21,7 +21,7 @@ The interest rate on a 30-Year Treasury Bond is usually higher than on bonds tha
 
 ## What is the history of the 30-Year Treasury Bond?
 
-The 30-Year Treasury Bond was first introduced by the U.S. government in 1977. Before that, the longest bond the government offered lasted for 20 years. The government decided to make a 30-year bond to give people a way to invest their money for a longer time. At first, these bonds were popular because they offered a good interest rate and were very safe.
+The 30-Year Treasury Bond was first introduced by the U.S. government in 1977. Before that, the longest bond the government offered lasted for 20 years. The government decided to make a 30-year bond to give people a way to invest their money for a longer time. At first, these bonds were popular because they offered a good [interest rate](/wiki/interest-rate-trading-strategies) and were very safe.
 
 In 2001, the U.S. government stopped making new 30-Year Treasury Bonds because they thought shorter bonds were enough. But, they started making them again in 2006 because people still wanted to invest in them. Since then, the 30-Year Treasury Bond has been a key part of the U.S. bond market, helping people save for the long term and giving the government a way to borrow money for a long time.
 
